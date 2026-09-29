@@ -1,0 +1,40 @@
+@import "tailwindcss";
+
+:root {
+  --ink: #0c1a2e;
+  --ink-soft: #1a2f4a;
+  --paper: #f3f5f8;
+  --surface: #ffffff;
+  --muted: #5d6b7c;
+  --line: #d5dde8;
+  --accent: #9a7b4f;
+  --accent-soft: #f0e8da;
+  --accent-soft-text: #d8c6a4;
+  --background: var(--paper);
+  --foreground: var(--ink);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-body);
+  --font-display: var(--font-display);
+}
+
+body {
+  background:
+    radial-gradient(1200px 500px at 10% -10%, rgba(154, 123, 79, 0.08), transparent 55%),
+    radial-gradient(900px 400px at 100% 0%, rgba(12, 26, 46, 0.06), transparent 50%),
+    var(--paper);
+  color: var(--ink);
+  font-family: var(--font-body), "Noto Sans TC", sans-serif;
+  min-height: 100vh;
+}
+
+a {
+  text-decoration: none;
+}
+
+::selection {
+  background: rgba(154, 123, 79, 0.25);
+}
