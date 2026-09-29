@@ -4,6 +4,7 @@ import Link from "next/link";
 import { useMemo, useState } from "react";
 import { SpeakButton } from "@/components/SpeakButton";
 import { MasteryControls } from "@/components/MasteryControls";
+import { FavoriteButton } from "@/components/FavoriteButton";
 import { getMastery } from "@/lib/mastery";
 import type { EnglishCategory, EnglishItem, Mastery } from "@/lib/types";
 
@@ -58,7 +59,7 @@ export function EnglishCategoryClient({ category }: Props) {
           href={`/english/drill?cat=${category.slug}`}
           className="rounded-sm bg-[var(--ink)] px-4 py-2 text-sm text-[var(--paper)] hover:bg-[var(--ink-soft)]"
         >
-          本類背誦
+          本類組句練習
         </Link>
       </div>
 
@@ -89,6 +90,7 @@ export function EnglishCategoryClient({ category }: Props) {
           <ItemRow
             key={item.id}
             item={item}
+            categorySlug={category.slug}
             open={openId === item.id}
             onToggle={() =>
               setOpenId((id) => (id === item.id ? null : item.id))
@@ -103,11 +105,13 @@ export function EnglishCategoryClient({ category }: Props) {
 
 function ItemRow({
   item,
+  categorySlug,
   open,
   onToggle,
   onMasteryChange,
 }: {
   item: EnglishItem;
+  categorySlug: string;
   open: boolean;
   onToggle: () => void;
   onMasteryChange: () => void;
@@ -153,10 +157,18 @@ function ItemRow({
             ))}
           </div>
           <div
+            className="flex flex-wrap items-center gap-2"
             onClick={onMasteryChange}
             onKeyDown={onMasteryChange}
             role="presentation"
           >
+            <FavoriteButton
+              id={`en:${item.id}`}
+              kind="en"
+              title={item.en}
+              subtitle={item.zh}
+              href={`/english/${categorySlug}`}
+            />
             <MasteryControls scope="en" id={item.id} />
           </div>
         </div>

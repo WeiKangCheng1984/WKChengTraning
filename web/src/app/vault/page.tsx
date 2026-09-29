@@ -16,15 +16,45 @@ export default function VaultIndexPage() {
             Level 1 專有名詞庫
           </h1>
           <p className="mt-2 max-w-2xl text-sm leading-relaxed text-[var(--muted)]">
-            共 {data.total} 詞條，來源 {data.source}。選擇科目瀏覽，或直接進入閃卡背誦。
+            共 {data.total} 詞。先選練習模式，或依科目瀏覽。間隔評分會拉開複習時間。
           </p>
         </div>
         <Link
           href="/vault/drill"
-          className="rounded-sm bg-[var(--accent)] px-4 py-2 text-sm text-white hover:brightness-110"
+          className="rounded-sm border border-[var(--line)] px-4 py-2 text-sm text-[var(--ink)] hover:border-[var(--accent)]"
         >
-          全部閃卡練習
+          經典閃卡
         </Link>
+      </div>
+
+      <div className="grid gap-3 md:grid-cols-3">
+        <ModeCard
+          mode="MODE 1"
+          title="聽詞想義"
+          body="先聽發音，自己對意思，再翻面看中文、用法與例句。"
+          href="/vault/practice?mode=recall"
+        />
+        <ModeCard
+          mode="MODE 2"
+          title="看義選詞"
+          body="只給中文定義脈絡下的定義，四選一——接近閱讀判斷。"
+          href="/vault/practice?mode=choice"
+        />
+        <ModeCard
+          mode="MODE 3"
+          title="例句填空"
+          body="把術語放回會話例句，確認你認得它在句子裡怎麼用。"
+          href="/vault/practice?mode=cloze"
+        />
+      </div>
+
+      <div>
+        <h2 className="font-[family-name:var(--font-display)] text-2xl text-[var(--ink)]">
+          十科目清單
+        </h2>
+        <p className="mt-1 text-sm text-[var(--muted)]">
+          點科目可瀏覽詞條；也可從科目頁進入該科練習。
+        </p>
       </div>
 
       <div className="grid gap-3 sm:grid-cols-2">
@@ -42,9 +72,37 @@ export default function VaultIndexPage() {
               {s.nameZh}
             </h2>
             <p className="mt-1 text-sm text-[var(--muted)]">{s.nameEn}</p>
+            <span className="mt-3 inline-block text-xs text-[var(--accent)]">
+              練習 → /vault/practice?subject={s.code}
+            </span>
           </Link>
         ))}
       </div>
     </div>
+  );
+}
+
+function ModeCard({
+  mode,
+  title,
+  body,
+  href,
+}: {
+  mode: string;
+  title: string;
+  body: string;
+  href: string;
+}) {
+  return (
+    <Link
+      href={href}
+      className="rounded-sm border border-[var(--line)] bg-[var(--surface)] p-5 transition hover:border-[var(--accent)]/50"
+    >
+      <div className="text-xs tracking-[0.16em] text-[var(--accent)]">{mode}</div>
+      <h3 className="mt-2 font-[family-name:var(--font-display)] text-xl text-[var(--ink)]">
+        {title}
+      </h3>
+      <p className="mt-2 text-sm leading-relaxed text-[var(--muted)]">{body}</p>
+    </Link>
   );
 }

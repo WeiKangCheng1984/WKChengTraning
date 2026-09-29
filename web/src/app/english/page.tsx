@@ -13,17 +13,18 @@ export default function EnglishIndexPage() {
             English Drill
           </p>
           <h1 className="mt-2 font-[family-name:var(--font-display)] text-3xl text-[var(--ink)] sm:text-4xl">
-            句型與片語練習場
+            句型與片語積木
           </h1>
           <p className="mt-2 max-w-2xl text-sm leading-relaxed text-[var(--muted)]">
-            共 {data.total} 組，來源 {data.source}。含生活／工作例句，可發音與背誦。
+            共 {data.total} 組。看中文情境組句、切換生活／工作例句、跟讀組裝句——對齊 Cadence
+            「積木」練法。
           </p>
         </div>
         <Link
           href="/english/drill"
           className="rounded-sm bg-[var(--accent)] px-4 py-2 text-sm text-white hover:brightness-110"
         >
-          全部背誦練習
+          全部組句練習
         </Link>
       </div>
 

@@ -1,5 +1,10 @@
+"use client";
+
 import Link from "next/link";
+import { useEffect, useState } from "react";
 import { ProgressSummary } from "@/components/ProgressSummary";
+import { PLAN_DAYS, planProgress } from "@/lib/plan";
+import { onStorageChange } from "@/lib/persist";
 import cfa from "@/data/cfa.json";
 import english from "@/data/english.json";
 import type { CfaData, EnglishData } from "@/lib/types";
@@ -10,10 +15,20 @@ const enData = english as EnglishData;
 export default function HomePage() {
   const cfaIds = cfaData.subjects.flatMap((s) => s.terms.map((t) => t.id));
   const enIds = enData.categories.flatMap((c) => c.items.map((i) => i.id));
+  const [progress, setProgress] = useState({ done: 0, total: 20, pct: 0 });
+
+  useEffect(() => {
+    const sync = () => setProgress(planProgress());
+    sync();
+    return onStorageChange(sync);
+  }, []);
+
+  const nextDay =
+    PLAN_DAYS.find((d) => d.day === progress.done + 1) ?? PLAN_DAYS[0];
 
   return (
     <div className="space-y-12">
-      <section className="relative overflow-hidden rounded-sm border border-[var(--line)] bg-[var(--ink)] px-6 py-14 text-[var(--paper)] sm:px-12 sm:py-20">
+      <section className="relative overflow-hidden rounded-sm border border-[var(--line)] bg-[var(--ink)] px-6 py-14 text-[var(--paper)] sm:px-12 sm:py-16">
         <div
           className="pointer-events-none absolute inset-0 opacity-40"
           style={{
@@ -23,58 +38,88 @@ export default function HomePage() {
         />
         <div className="relative max-w-2xl">
           <p className="text-xs uppercase tracking-[0.28em] text-[var(--accent-soft-text)]">
-            Personal Learning Desk
+            Daily Cadence
           </p>
           <h1 className="mt-4 font-[family-name:var(--font-display)] text-4xl leading-tight sm:text-5xl">
-            Omni Ledger
+            把 CFA 名詞與英語句型練成同一套說話節奏
           </h1>
           <p className="mt-4 text-base leading-relaxed text-white/75 sm:text-lg">
-            CFA Level 1 專有名詞與個人英語句型的安靜練習場。點選發音、翻卡背誦、標記掌握度——專注學習，不喧鬧。
+            借鏡口說節奏：每日打包術語＋句型、三模式練習、跨層用法說明。GRE
+            式間隔評分留在本機，不必卡在某一天。
           </p>
           <div className="mt-8 flex flex-wrap gap-3">
             <Link
-              href="/vault"
+              href={`/plan/${nextDay.day}`}
               className="rounded-sm bg-[var(--accent)] px-5 py-2.5 text-sm font-medium text-white transition hover:brightness-110"
             >
-              進入 CFA Vault
+              進入第 {nextDay.day} 天：{nextDay.titleZh}
             </Link>
             <Link
-              href="/english"
+              href="/search"
               className="rounded-sm border border-white/25 px-5 py-2.5 text-sm text-white transition hover:bg-white/10"
             >
-              進入 English Drill
+              搜尋任何一詞
             </Link>
           </div>
+          <div className="mt-8 max-w-sm">
+            <div className="flex justify-between text-xs text-white/60">
+              <span>進度</span>
+              <span>
+                {progress.done} / {progress.total}
+              </span>
+            </div>
+            <div className="mt-2 h-1.5 overflow-hidden rounded-full bg-white/15">
+              <div
+                className="h-full bg-[var(--accent)]"
+                style={{ width: `${progress.pct}%` }}
+              />
+            </div>
+            <p className="mt-2 text-sm text-white/65">{nextDay.blurb}</p>
+          </div>
         </div>
+      </section>
+
+      <section className="grid gap-4 md:grid-cols-2">
+        <ModuleCard
+          eyebrow="單字"
+          title="CFA Vault"
+          body={`三模式：聽詞想義、看義選詞、例句填空。${cfaData.total} 詞／${cfaData.subjects.length} 科。`}
+          href="/vault"
+          meta="MODE 1–3"
+        />
+        <ModuleCard
+          eyebrow="劇本"
+          title="20 天計畫"
+          body="每天打包一科 CFA＋一類英語，含跨層說明與完成標記。"
+          href="/plan"
+          meta={`${progress.done}/${progress.total}`}
+        />
+        <ModuleCard
+          eyebrow="積木"
+          title="English Drill"
+          body={`句型與片語組裝練習，生活／工作例句跟讀。${enData.total} 組。`}
+          href="/english"
+          meta={`${enData.categories.length} 類`}
+        />
+        <ModuleCard
+          eyebrow="收藏"
+          title="搜尋與收藏"
+          body="跨庫搜尋術語／句型；收藏存在這個瀏覽器。"
+          href="/saved"
+          meta="本機"
+        />
       </section>
 
       <section className="space-y-4">
         <div>
           <h2 className="font-[family-name:var(--font-display)] text-2xl text-[var(--ink)]">
-            本機學習進度
+            本機掌握度
           </h2>
           <p className="mt-1 text-sm text-[var(--muted)]">
-            進度保存在此瀏覽器的 localStorage，清除網站資料後會重置。
+            練習時的「再練／記得／很熟」會更新掌握度與複習間隔。
           </p>
         </div>
         <ProgressSummary cfaIds={cfaIds} enIds={enIds} />
-      </section>
-
-      <section className="grid gap-4 md:grid-cols-2">
-        <ModuleCard
-          eyebrow="CFA Vault"
-          title="Level 1 專有名詞"
-          body={`收錄 ${cfaData.total} 個核心術語，含定義、用法與英語會話例句。依十科目瀏覽，支援搜尋、發音與閃卡。`}
-          href="/vault"
-          meta={`${cfaData.subjects.length} 科目`}
-        />
-        <ModuleCard
-          eyebrow="English Drill"
-          title="句型與片語練習"
-          body={`收錄 ${enData.total} 組日常／職場表達，含生活與工作例句。可聽發音、遮句練習並追蹤掌握度。`}
-          href="/english"
-          meta={`${enData.categories.length} 類別`}
-        />
       </section>
     </div>
   );
@@ -104,12 +149,12 @@ function ModuleCard({
         </span>
         <span className="text-xs text-[var(--muted)]">{meta}</span>
       </div>
-      <h3 className="mt-3 font-[family-name:var(--font-display)] text-2xl text-[var(--ink)] group-hover:text-[var(--ink-soft)]">
+      <h3 className="mt-3 font-[family-name:var(--font-display)] text-2xl text-[var(--ink)]">
         {title}
       </h3>
       <p className="mt-3 text-sm leading-relaxed text-[var(--muted)]">{body}</p>
       <span className="mt-5 inline-block text-sm text-[var(--ink)] underline-offset-4 group-hover:underline">
-        開始學習 →
+        開始 →
       </span>
     </Link>
   );

@@ -97,13 +97,19 @@ def parse_english(path: Path) -> dict:
     # Phrasal: 54. Tap into
     phrasal_re = re.compile(r"^(\d+)\.\s+([A-Za-z][^*\d].*?)\s*$")
     example_re = re.compile(
-        r"^例句\s*\d+\s*\(([^)]+)）\s*：\s*(.+?)\s*\((.+)\)\s*$"
+        r"^例句\s*\d+\s*[（(]([^）)]+)[）)]\s*：\s*(.+?)\s*[（(](.+)[）)]\s*$"
     )
-    example_loose = re.compile(r"^例句\s*\d+\s*\(([^)]+)）\s*：\s*(.+)\s*$")
-    work_ex = re.compile(r"^工作範例(?:\s*\d+|\s*\([^)]+\))?\s*：\s*(.+?)\s*\((.+)\)\s*$")
-    life_ex = re.compile(r"^生活範例(?:\s*\d+|\s*\([^)]+\))?\s*：\s*(.+?)\s*\((.+)\)\s*$")
-    work_loose = re.compile(r"^工作範例(?:\s*\d+|\s*\([^)]+\))?\s*：\s*(.+)\s*$")
-    life_loose = re.compile(r"^生活範例(?:\s*\d+|\s*\([^)]+\))?\s*：\s*(.+)\s*$")
+    example_loose = re.compile(
+        r"^例句\s*\d+\s*[（(]([^）)]+)[）)]\s*：\s*(.+)\s*$"
+    )
+    work_ex = re.compile(
+        r"^工作範例(?:\s*\d+|\s*[（(][^）)]+[）)])?\s*：\s*(.+?)\s*[（(](.+)[）)]\s*$"
+    )
+    life_ex = re.compile(
+        r"^生活範例(?:\s*\d+|\s*[（(][^）)]+[）)])?\s*：\s*(.+?)\s*[（(](.+)[）)]\s*$"
+    )
+    work_loose = re.compile(r"^工作範例(?:\s*\d+|\s*[（(][^）)]+[）)])?\s*：\s*(.+)\s*$")
+    life_loose = re.compile(r"^生活範例(?:\s*\d+|\s*[（(][^）)]+[）)])?\s*：\s*(.+)\s*$")
 
     def flush_pending():
         nonlocal pending

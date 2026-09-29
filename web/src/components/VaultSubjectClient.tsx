@@ -4,6 +4,7 @@ import Link from "next/link";
 import { useMemo, useState } from "react";
 import { SpeakButton } from "@/components/SpeakButton";
 import { MasteryControls } from "@/components/MasteryControls";
+import { FavoriteButton } from "@/components/FavoriteButton";
 import { getMastery } from "@/lib/mastery";
 import type { CfaSubject, CfaTerm, Mastery } from "@/lib/types";
 
@@ -47,12 +48,20 @@ export function VaultSubjectClient({ subject }: Props) {
             {subject.nameEn} · {subject.terms.length} 詞條
           </p>
         </div>
-        <Link
-          href={`/vault/drill?subject=${subject.code}`}
-          className="rounded-sm bg-[var(--ink)] px-4 py-2 text-sm text-[var(--paper)] hover:bg-[var(--ink-soft)]"
-        >
-          本科目閃卡
-        </Link>
+        <div className="flex flex-wrap gap-2">
+          <Link
+            href={`/vault/practice?subject=${subject.code}`}
+            className="rounded-sm bg-[var(--ink)] px-4 py-2 text-sm text-[var(--paper)] hover:bg-[var(--ink-soft)]"
+          >
+            本科目三模式練習
+          </Link>
+          <Link
+            href={`/vault/drill?subject=${subject.code}`}
+            className="rounded-sm border border-[var(--line)] px-4 py-2 text-sm text-[var(--ink)]"
+          >
+            閃卡
+          </Link>
+        </div>
       </div>
 
       <div className="flex flex-col gap-3 sm:flex-row sm:items-center">
@@ -84,6 +93,7 @@ export function VaultSubjectClient({ subject }: Props) {
           <TermRow
             key={term.id}
             term={term}
+            subjectCode={subject.code}
             open={openId === term.id}
             onToggle={() => setOpenId((id) => (id === term.id ? null : term.id))}
             onMasteryChange={() => setTick((t) => t + 1)}
@@ -96,11 +106,13 @@ export function VaultSubjectClient({ subject }: Props) {
 
 function TermRow({
   term,
+  subjectCode,
   open,
   onToggle,
   onMasteryChange,
 }: {
   term: CfaTerm;
+  subjectCode: string;
   open: boolean;
   onToggle: () => void;
   onMasteryChange: () => void;
@@ -135,7 +147,14 @@ function TermRow({
             </div>
             <p className="text-sm leading-relaxed text-[var(--ink)]">{term.example}</p>
           </div>
-          <div onClick={(e) => e.stopPropagation()}>
+          <div className="flex flex-wrap items-center gap-2" onClick={(e) => e.stopPropagation()}>
+            <FavoriteButton
+              id={`cfa:${term.id}`}
+              kind="cfa"
+              title={term.termEn}
+              subtitle={term.termZh}
+              href={`/vault/${subjectCode}`}
+            />
             <MasteryControls scope="cfa" id={term.id} />
           </div>
         </div>
