@@ -41,7 +41,11 @@ export default function SavedPage() {
               <SpeakButton text={it.title} label={it.title} size="sm" />
               <Link href={it.href} className="min-w-0 flex-1">
                 <div className="text-xs uppercase tracking-[0.14em] text-[var(--accent)]">
-                  {it.kind === "cfa" ? "CFA" : "English"}
+                  {it.kind === "cfa"
+                    ? "CFA"
+                    : it.kind === "speak"
+                      ? "跟讀"
+                      : "English"}
                 </div>
                 <div className="font-medium text-[var(--ink)]">{it.title}</div>
                 <div className="text-sm text-[var(--muted)]">{it.subtitle}</div>

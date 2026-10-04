@@ -4,6 +4,7 @@ const links = [
   { href: "/plan", label: "20 天計畫" },
   { href: "/vault", label: "CFA" },
   { href: "/english", label: "英語" },
+  { href: "/speak", label: "跟讀" },
   { href: "/search", label: "搜尋" },
   { href: "/saved", label: "收藏" },
 ];

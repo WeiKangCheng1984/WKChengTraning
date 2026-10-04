@@ -5,28 +5,21 @@ import { useMemo, useState } from "react";
 import { SpeakButton } from "@/components/SpeakButton";
 import cfa from "@/data/cfa.json";
 import english from "@/data/english.json";
-import type { CfaData, EnglishData } from "@/lib/types";
+import speak from "@/data/speak.json";
+import type { CfaData, EnglishData, SpeakData } from "@/lib/types";
 
 const cfaData = cfa as CfaData;
 const enData = english as EnglishData;
+const speakData = speak as SpeakData;
 
-type Hit =
-  | {
-      kind: "cfa";
-      id: string;
-      title: string;
-      subtitle: string;
-      href: string;
-      speak: string;
-    }
-  | {
-      kind: "en";
-      id: string;
-      title: string;
-      subtitle: string;
-      href: string;
-      speak: string;
-    };
+type Hit = {
+  kind: "cfa" | "en" | "speak";
+  id: string;
+  title: string;
+  subtitle: string;
+  href: string;
+  speak: string;
+};
 
 export default function SearchPage() {
   const [q, setQ] = useState("");
@@ -67,6 +60,22 @@ export default function SearchPage() {
         if (out.length >= 60) return out;
       }
     }
+
+    for (const a of speakData.articles) {
+      for (const seg of a.segments) {
+        const blob = `${a.titleEn} ${a.titleZh} ${seg.en} ${seg.zh}`.toLowerCase();
+        if (!blob.includes(query)) continue;
+        out.push({
+          kind: "speak",
+          id: seg.id,
+          title: seg.en,
+          subtitle: `${a.titleZh} · ${seg.zh}`,
+          href: `/speak/${a.slug}`,
+          speak: seg.en,
+        });
+        if (out.length >= 80) return out;
+      }
+    }
     return out;
   }, [q]);
 
@@ -78,7 +87,7 @@ export default function SearchPage() {
           搜尋
         </h1>
         <p className="mt-2 text-sm text-[var(--muted)]">
-          可搜 CFA 術語、英語句型／片語與例句。試 mosaic 或 planning。
+          可搜 CFA、英語句型與跟讀腳本。試 mosaic、planning 或 steak。
         </p>
       </div>
       <input
@@ -100,7 +109,11 @@ export default function SearchPage() {
             <SpeakButton text={h.speak} label={h.title} size="sm" />
             <Link href={h.href} className="min-w-0 flex-1">
               <div className="text-xs uppercase tracking-[0.14em] text-[var(--accent)]">
-                {h.kind === "cfa" ? "CFA" : "English"}
+                {h.kind === "cfa"
+                  ? "CFA"
+                  : h.kind === "speak"
+                    ? "跟讀"
+                    : "English"}
               </div>
               <div className="font-medium text-[var(--ink)]">{h.title}</div>
               <div className="text-sm text-[var(--muted)]">{h.subtitle}</div>

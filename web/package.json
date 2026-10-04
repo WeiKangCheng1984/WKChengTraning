@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "content": "python scripts/build-content.py",
+    "content": "python scripts/build-content.py && python scripts/build-speak.py",
+    "content:speak": "python scripts/build-speak.py",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",

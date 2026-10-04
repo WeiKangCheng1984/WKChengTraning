@@ -53,3 +53,42 @@ export type EnglishData = {
   total: number;
   categories: EnglishCategory[];
 };
+
+export type SpeakSegment = {
+  id: string;
+  en: string;
+  zh: string;
+};
+
+export type SpeakArticle = {
+  id: string;
+  slug: string;
+  series: string;
+  seriesZh: string;
+  seriesEn: string;
+  titleZh: string;
+  titleEn: string;
+  summaryZh: string;
+  durationHint: string;
+  audioPath: string;
+  audioFile: string;
+  status: "draft" | "ready";
+  segmentCount: number;
+  segments: SpeakSegment[];
+};
+
+export type SpeakSeries = {
+  id: string;
+  slug: string;
+  titleZh: string;
+  titleEn: string;
+  description: string;
+  audioDir: string;
+};
+
+export type SpeakData = {
+  source: string;
+  series: SpeakSeries[];
+  total: number;
+  articles: SpeakArticle[];
+};

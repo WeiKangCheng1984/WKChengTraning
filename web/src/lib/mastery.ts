@@ -19,16 +19,18 @@ function writeStore(store: Store) {
   localStorage.setItem(STORAGE_KEY, JSON.stringify(store));
 }
 
-export function masteryKey(scope: "cfa" | "en", id: string | number) {
+export type MasteryScope = "cfa" | "en" | "speak";
+
+export function masteryKey(scope: MasteryScope, id: string | number) {
   return `${scope}:${id}`;
 }
 
-export function getMastery(scope: "cfa" | "en", id: string | number): Mastery {
+export function getMastery(scope: MasteryScope, id: string | number): Mastery {
   return readStore()[masteryKey(scope, id)] ?? "unseen";
 }
 
 export function setMastery(
-  scope: "cfa" | "en",
+  scope: MasteryScope,
   id: string | number,
   value: Mastery,
 ) {

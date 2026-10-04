@@ -1,0 +1,1193 @@
+{
+  "source": "6r.md",
+  "series": [
+    {
+      "id": "common",
+      "slug": "common",
+      "titleZh": "常用口語 6 篇",
+      "titleEn": "Common Oral Scripts",
+      "description": "日常生活、職場、料理、旅遊、產品發佈與居家改造的跟讀短文。放入對應 MP3 後即可真人跟讀。",
+      "audioDir": "/audio/speak/common/"
+    }
+  ],
+  "total": 6,
+  "articles": [
+    {
+      "id": "common-01-new-day",
+      "slug": "common-01-new-day",
+      "series": "common",
+      "seriesZh": "常用口語",
+      "seriesEn": "Common Oral Scripts",
+      "titleZh": "新的一天",
+      "titleEn": "A New Day",
+      "summaryZh": "從賴床、通勤、午間到收工入睡——日常節奏口語。",
+      "durationHint": "約 40–80 秒",
+      "audioPath": "/audio/speak/common/common-01-new-day.mp3",
+      "audioFile": "common-01-new-day.mp3",
+      "status": "draft",
+      "segmentCount": 15,
+      "segments": [
+        {
+          "id": "common-01-new-day-01",
+          "en": "I'll hit snooze just one more time.",
+          "zh": "我再貪睡一下就好。"
+        },
+        {
+          "id": "common-01-new-day-02",
+          "en": "I feel like staying in bed forever today.",
+          "zh": "我今天好想賴在床上一輩子。"
+        },
+        {
+          "id": "common-01-new-day-03",
+          "en": "Looks like it's pouring rain outside.",
+          "zh": "外頭看起來在下大雨。"
+        },
+        {
+          "id": "common-01-new-day-04",
+          "en": "I don't know if I can catch the 8:30 bus.",
+          "zh": "我不知道還趕不趕得上八點半那班公車。"
+        },
+        {
+          "id": "common-01-new-day-05",
+          "en": "I'm gonna grab an iced latte on my way to work.",
+          "zh": "我上班路上會去買杯冰拿鐵。"
+        },
+        {
+          "id": "common-01-new-day-06",
+          "en": "Let me quickly scan through my unread emails first.",
+          "zh": "我先快速掃過未讀郵件。"
+        },
+        {
+          "id": "common-01-new-day-07",
+          "en": "I wanna knock out this report before lunchtime.",
+          "zh": "我想在午飯前把這份報告搞定。"
+        },
+        {
+          "id": "common-01-new-day-08",
+          "en": "I have to wrap up this phone call with the client.",
+          "zh": "我得先結束跟客戶的這通電話。"
+        },
+        {
+          "id": "common-01-new-day-09",
+          "en": "Can I get a chicken salad to go, please?",
+          "zh": "麻煩給我一份雞肉沙拉外帶，謝謝。"
+        },
+        {
+          "id": "common-01-new-day-10",
+          "en": "Do you wanna take a quick walk to fight the food coma?",
+          "zh": "要不要走走消食，趕走飯後昏睡？"
+        },
+        {
+          "id": "common-01-new-day-11",
+          "en": "Could you double-check these numbers for me real quick?",
+          "zh": "可以幫我再快速核對一下這些數字嗎？"
+        },
+        {
+          "id": "common-01-new-day-12",
+          "en": "What do you say we pack up and call it a day?",
+          "zh": "我們收拾一下收工，好不好？"
+        },
+        {
+          "id": "common-01-new-day-13",
+          "en": "How do you usually unwind after such a stressful day?",
+          "zh": "這麼高壓的一天後，你通常怎麼放鬆？"
+        },
+        {
+          "id": "common-01-new-day-14",
+          "en": "I've been binge-watching this new show all evening.",
+          "zh": "我整晚都在狂追這部新劇。"
+        },
+        {
+          "id": "common-01-new-day-15",
+          "en": "I keep dozing off, so it's time for bed.",
+          "zh": "我一直打瞌睡，該上床睡了。"
+        }
+      ]
+    },
+    {
+      "id": "common-02-goal-setting",
+      "slug": "common-02-goal-setting",
+      "series": "common",
+      "seriesZh": "常用口語",
+      "seriesEn": "Common Oral Scripts",
+      "titleZh": "目標設定",
+      "titleEn": "Goal Setting",
+      "summaryZh": "專案目標、分工、延期與收尾——職場推進常用句。",
+      "durationHint": "約 40–80 秒",
+      "audioPath": "/audio/speak/common/common-02-goal-setting.mp3",
+      "audioFile": "common-02-goal-setting.mp3",
+      "status": "draft",
+      "segmentCount": 20,
+      "segments": [
+        {
+          "id": "common-02-goal-setting-01",
+          "en": "Let me walk you through the goals of this new project.",
+          "zh": "我來帶你過一遍這個新專案的目標。"
+        },
+        {
+          "id": "common-02-goal-setting-02",
+          "en": "I'll take the lead on drafting the project scope.",
+          "zh": "專案範圍草案我來主導。"
+        },
+        {
+          "id": "common-02-goal-setting-03",
+          "en": "Do you wanna handle the vendor communication part?",
+          "zh": "廠商溝通這塊你要不要負責？"
+        },
+        {
+          "id": "common-02-goal-setting-04",
+          "en": "Make sure you set clear deadlines for each milestone.",
+          "zh": "記得替每個里程碑訂清楚的截止日期。"
+        },
+        {
+          "id": "common-02-goal-setting-05",
+          "en": "I have to double-check our available budget before we spend.",
+          "zh": "花錢前我得再確認可用預算。"
+        },
+        {
+          "id": "common-02-goal-setting-06",
+          "en": "I wanna keep everyone in the loop as we build this.",
+          "zh": "推進過程中我想讓大家都掌握進度。"
+        },
+        {
+          "id": "common-02-goal-setting-07",
+          "en": "Could you send over the technical specs by noon?",
+          "zh": "中午前可以把技術規格寄過來嗎？"
+        },
+        {
+          "id": "common-02-goal-setting-08",
+          "en": "Looks like we just hit a bottleneck with the database.",
+          "zh": "看起來我們在資料庫這邊卡關了。"
+        },
+        {
+          "id": "common-02-goal-setting-09",
+          "en": "I don't know why this server keeps throwing errors.",
+          "zh": "我不懂為什麼這台伺服器一直報錯。"
+        },
+        {
+          "id": "common-02-goal-setting-10",
+          "en": "Why don't we test an alternative workaround first?",
+          "zh": "不如我們先試試替代的變通方案？"
+        },
+        {
+          "id": "common-02-goal-setting-11",
+          "en": "How do you feel about shifting the deadline back by two days?",
+          "zh": "你覺得把截止日期延後兩天怎麼樣？"
+        },
+        {
+          "id": "common-02-goal-setting-12",
+          "en": "I feel like that would give us enough breathing room.",
+          "zh": "我覺得那樣會讓我們有足夠喘息空間。"
+        },
+        {
+          "id": "common-02-goal-setting-13",
+          "en": "Are you sure the revised mockups are ready for presentation?",
+          "zh": "修訂後的稿真的準備好簡報了嗎？"
+        },
+        {
+          "id": "common-02-goal-setting-14",
+          "en": "What do you think management will say about these numbers?",
+          "zh": "你覺得管理層會怎麼看這些數字？"
+        },
+        {
+          "id": "common-02-goal-setting-15",
+          "en": "Can I get your final approval on this slide deck?",
+          "zh": "這份簡報可以請你做最終核准嗎？"
+        },
+        {
+          "id": "common-02-goal-setting-16",
+          "en": "I'm gonna push the code to production tonight.",
+          "zh": "我今晚會把程式推上正式環境。"
+        },
+        {
+          "id": "common-02-goal-setting-17",
+          "en": "I keep refreshing the analytics dashboard to check user feedback.",
+          "zh": "我一直在重新整理分析儀表板看使用者回饋。"
+        },
+        {
+          "id": "common-02-goal-setting-18",
+          "en": "I've been compiling all the bugs that users reported.",
+          "zh": "我一直在彙整使用者回報的所有錯誤。"
+        },
+        {
+          "id": "common-02-goal-setting-19",
+          "en": "How about running a quick retrospective on Friday afternoon?",
+          "zh": "週五下午做個快速檢討會如何？"
+        },
+        {
+          "id": "common-02-goal-setting-20",
+          "en": "It's time to archive the files and celebrate our win.",
+          "zh": "是時候封存檔案、慶祝這次勝利了。"
+        }
+      ]
+    },
+    {
+      "id": "common-03-cooking",
+      "slug": "common-03-cooking",
+      "series": "common",
+      "seriesZh": "常用口語",
+      "seriesEn": "Common Oral Scripts",
+      "titleZh": "料理步驟",
+      "titleEn": "Cooking Steps",
+      "summaryZh": "煎牛排與品嚐回饋——廚房場景口語與感官描述。",
+      "durationHint": "約 40–80 秒",
+      "audioPath": "/audio/speak/common/common-03-cooking.mp3",
+      "audioFile": "common-03-cooking.mp3",
+      "status": "draft",
+      "segmentCount": 30,
+      "segments": [
+        {
+          "id": "common-03-cooking-01",
+          "en": "I wanna try making authentic garlic butter steak tonight.",
+          "zh": "今晚我想試試做道地的蒜香奶油牛排。"
+        },
+        {
+          "id": "common-03-cooking-02",
+          "en": "Can I get two thick-cut ribeye steaks from the butcher?",
+          "zh": "可以跟肉販買兩塊厚切肋眼牛排嗎？"
+        },
+        {
+          "id": "common-03-cooking-03",
+          "en": "Don't forget to pat the beef completely dry with paper towels.",
+          "zh": "別忘了用紙巾把牛肉徹底拍乾。"
+        },
+        {
+          "id": "common-03-cooking-04",
+          "en": "Make sure you season both sides generously with coarse sea salt.",
+          "zh": "記得兩面都要慷慨地撒上粗海鹽。"
+        },
+        {
+          "id": "common-03-cooking-05",
+          "en": "I'll chop up some fresh rosemary and smash a few garlic cloves.",
+          "zh": "我會剁一點新鮮迷迭香，再拍碎幾瓣蒜。"
+        },
+        {
+          "id": "common-03-cooking-06",
+          "en": "I have to get this cast-iron skillet ripping hot first.",
+          "zh": "我得先把這口鑄鐵鍋燒到超熱。"
+        },
+        {
+          "id": "common-03-cooking-07",
+          "en": "All you need to do is sear the meat for two minutes without touching it.",
+          "zh": "你只要把肉煎兩分鐘、中間別去動它。"
+        },
+        {
+          "id": "common-03-cooking-08",
+          "en": "Looks like we've got a gorgeous golden-brown crust forming.",
+          "zh": "看起來漂亮的金棕色外皮正在成形。"
+        },
+        {
+          "id": "common-03-cooking-09",
+          "en": "Let me toss in a generous slab of butter for basting.",
+          "zh": "我加一大塊奶油進去做澆淋。"
+        },
+        {
+          "id": "common-03-cooking-10",
+          "en": "I'm gonna let the steak rest for five minutes before slicing.",
+          "zh": "切片前我會讓牛排靜置五分鐘。"
+        },
+        {
+          "id": "common-03-cooking-11",
+          "en": "It's time to dig in while everything is piping hot!",
+          "zh": "趁一切滾燙熱騰騰，開動吧！"
+        },
+        {
+          "id": "common-03-cooking-12",
+          "en": "There's no way home cooking can smell this incredible.",
+          "zh": "家常料理怎麼可能香成這樣。"
+        },
+        {
+          "id": "common-03-cooking-13",
+          "en": "Do you wanna take the first slice and try it?",
+          "zh": "要不要先切第一片試試看？"
+        },
+        {
+          "id": "common-03-cooking-14",
+          "en": "How do you like the doneness of this cut?",
+          "zh": "你覺得這塊的熟度怎麼樣？"
+        },
+        {
+          "id": "common-03-cooking-15",
+          "en": "It tastes like something served in a high-end steakhouse.",
+          "zh": "吃起來像高級牛排館端出來的。"
+        },
+        {
+          "id": "common-03-cooking-16",
+          "en": "You should definitely try it with this creamy peppercorn sauce.",
+          "zh": "你一定要配這個奶油胡椒醬試試。"
+        },
+        {
+          "id": "common-03-cooking-17",
+          "en": "I don't know how you got the meat so unbelievably tender.",
+          "zh": "我不懂你怎麼把肉弄得這麼不可思議地嫩。"
+        },
+        {
+          "id": "common-03-cooking-18",
+          "en": "Is it just me, or is the rosemary aroma coming through so cleanly?",
+          "zh": "是只有我這樣覺得，還是迷迭香香氣真的很乾淨清楚？"
+        },
+        {
+          "id": "common-03-cooking-19",
+          "en": "I feel like the garlic butter creates such a velvety mouthfeel.",
+          "zh": "我覺得蒜香奶油帶來一種絲滑的口感。"
+        },
+        {
+          "id": "common-03-cooking-20",
+          "en": "What do you think about pairing this with that dry red wine?",
+          "zh": "你覺得搭配那瓶乾紅怎麼樣？"
+        },
+        {
+          "id": "common-03-cooking-21",
+          "en": "How about a squeeze of lemon to cut through the richness?",
+          "zh": "擠點檸檬來解膩如何？"
+        },
+        {
+          "id": "common-03-cooking-22",
+          "en": "Why don't we mop up the leftover pan juices with that sourdough bread?",
+          "zh": "不如用那塊酸種麵包把鍋汁沾光？"
+        },
+        {
+          "id": "common-03-cooking-23",
+          "en": "Are you sure this is your first time nailing a medium-rare like this?",
+          "zh": "你確定這是你第一次把五分熟抓得這麼準？"
+        },
+        {
+          "id": "common-03-cooking-24",
+          "en": "I can't get over how crispy the edges are while the inside stays juicy.",
+          "zh": "外緣這麼脆、裡面又多汁，我真的好驚豔。"
+        },
+        {
+          "id": "common-03-cooking-25",
+          "en": "I've been craving a meal like this for the longest time.",
+          "zh": "我渴望這樣一餐好久了。"
+        },
+        {
+          "id": "common-03-cooking-26",
+          "en": "I keep reaching for more of these roasted potatoes on the side.",
+          "zh": "我一直伸手去夾旁邊的烤馬鈴薯。"
+        },
+        {
+          "id": "common-03-cooking-27",
+          "en": "If you ask me, this entire dinner is an absolute ten out of ten.",
+          "zh": "要問我的話，這頓晚餐絕對一百分。"
+        },
+        {
+          "id": "common-03-cooking-28",
+          "en": "Could you share your secret marinade recipe with me?",
+          "zh": "可以把你的祕密醃料配方分享給我嗎？"
+        },
+        {
+          "id": "common-03-cooking-29",
+          "en": "I'm so glad we decided to cook at home instead of eating out.",
+          "zh": "好慶幸我們決定在家煮，而不是外食。"
+        },
+        {
+          "id": "common-03-cooking-30",
+          "en": "Next time, let's make a bigger batch so we can have leftovers!",
+          "zh": "下次我們做多一點，好留剩菜！"
+        }
+      ]
+    },
+    {
+      "id": "common-04-travel",
+      "slug": "common-04-travel",
+      "series": "common",
+      "seriesZh": "常用口語",
+      "seriesEn": "Common Oral Scripts",
+      "titleZh": "海外旅遊與探索",
+      "titleEn": "Travel & Exploration",
+      "summaryZh": "訂票、轉機、在地探索與旅途轉折——旅行全程口語。",
+      "durationHint": "約 40–80 秒",
+      "audioPath": "/audio/speak/common/common-04-travel.mp3",
+      "audioFile": "common-04-travel.mp3",
+      "status": "draft",
+      "segmentCount": 40,
+      "segments": [
+        {
+          "id": "common-04-travel-01",
+          "en": "I wanna book the early flight to avoid morning turbulence.",
+          "zh": "我想訂早班機，避開早上的亂流。"
+        },
+        {
+          "id": "common-04-travel-02",
+          "en": "Let me double-check all passport expiration dates first.",
+          "zh": "我先再確認所有護照效期。"
+        },
+        {
+          "id": "common-04-travel-03",
+          "en": "Make sure you pack an international power adapter in your carry-on.",
+          "zh": "記得在隨身行李放一個國際轉接頭。"
+        },
+        {
+          "id": "common-04-travel-04",
+          "en": "Don't forget to notify the credit card company about overseas transactions.",
+          "zh": "別忘了通知信用卡公司有海外消費。"
+        },
+        {
+          "id": "common-04-travel-05",
+          "en": "I'll take care of the airport transfer reservation.",
+          "zh": "機場接送預約交給我。"
+        },
+        {
+          "id": "common-04-travel-06",
+          "en": "Can I get a window seat closer to the front, please?",
+          "zh": "可以給我靠前一點的靠窗座位嗎？"
+        },
+        {
+          "id": "common-04-travel-07",
+          "en": "Looks like our connecting flight has been delayed by two hours.",
+          "zh": "看起來我們的轉機班機延誤了兩小時。"
+        },
+        {
+          "id": "common-04-travel-08",
+          "en": "I don't know if our checked luggage will make the tight transfer.",
+          "zh": "不知道託運行李趕不趕得上這趟緊湊轉機。"
+        },
+        {
+          "id": "common-04-travel-09",
+          "en": "Could you check with the gate agent about hotel vouchers?",
+          "zh": "可以跟閘口地勤問一下飯店住宿券嗎？"
+        },
+        {
+          "id": "common-04-travel-10",
+          "en": "I'm gonna grab a bottle of water before the stores close.",
+          "zh": "商店打烊前我先去買瓶水。"
+        },
+        {
+          "id": "common-04-travel-11",
+          "en": "Do you wanna split a cab to the hotel instead of taking the train?",
+          "zh": "要不要分攤計程車去飯店，別搭火車？"
+        },
+        {
+          "id": "common-04-travel-12",
+          "en": "What do you think about grabbing a bite at that 24-hour diner?",
+          "zh": "去那間二十四小時小餐館吃一口，你覺得呢？"
+        },
+        {
+          "id": "common-04-travel-13",
+          "en": "How do you pronounce the name of this local street food?",
+          "zh": "這個在地小吃的名字怎麼念？"
+        },
+        {
+          "id": "common-04-travel-14",
+          "en": "I feel like a good night's rest will cure this jet lag completely.",
+          "zh": "我覺得好好睡一晚就能徹底治好時差。"
+        },
+        {
+          "id": "common-04-travel-15",
+          "en": "I keep checking my watch because my internal clock is totally off.",
+          "zh": "我一直看錶，因為生理時鐘完全亂掉了。"
+        },
+        {
+          "id": "common-04-travel-16",
+          "en": "Why don't we hire a local guide for the historic quarter tomorrow?",
+          "zh": "明天何不請個在地導遊逛歷史街區？"
+        },
+        {
+          "id": "common-04-travel-17",
+          "en": "How about renting electric scooters to explore the coastline?",
+          "zh": "租電動滑板車去海岸線探險如何？"
+        },
+        {
+          "id": "common-04-travel-18",
+          "en": "Are you sure the temple is still open to visitors this late?",
+          "zh": "你確定寺廟這麼晚還開放參觀嗎？"
+        },
+        {
+          "id": "common-04-travel-19",
+          "en": "It's time to exchange some local currency for the street stalls.",
+          "zh": "該換點當地貨幣好逛街頭攤販了。"
+        },
+        {
+          "id": "common-04-travel-20",
+          "en": "I've been dying to try this Michelin-recommended pastry shop.",
+          "zh": "我超想去這家米其林推薦的糕點店。"
+        },
+        {
+          "id": "common-04-travel-21",
+          "en": "All you need to do is scan this QR code to download the subway map.",
+          "zh": "你只要掃這個 QR code 下載地鐵圖就行。"
+        },
+        {
+          "id": "common-04-travel-22",
+          "en": "There's no way we can hit all three museums in a single afternoon.",
+          "zh": "一個下午不可能逛完三間博物館。"
+        },
+        {
+          "id": "common-04-travel-23",
+          "en": "You should definitely wear comfortable walking shoes on this cobblestone road.",
+          "zh": "走這條石板路一定要穿舒服的走路鞋。"
+        },
+        {
+          "id": "common-04-travel-24",
+          "en": "Is it just me, or is the temperature dropping really fast tonight?",
+          "zh": "是只有我覺得，還是今晚氣溫降得好快？"
+        },
+        {
+          "id": "common-04-travel-25",
+          "en": "It tastes like lemongrass and coconut milk blended together.",
+          "zh": "吃起來像香茅和椰奶混在一起。"
+        },
+        {
+          "id": "common-04-travel-26",
+          "en": "I can't get over how well-preserved these ancient fortress walls are.",
+          "zh": "這些古城牆保存得這麼好，我真的好驚豔。"
+        },
+        {
+          "id": "common-04-travel-27",
+          "en": "If you ask me, the view from the rooftop beats the crowded observatory.",
+          "zh": "要問我的話，屋頂景觀比擁擠的觀景台好多了。"
+        },
+        {
+          "id": "common-04-travel-28",
+          "en": "I'm so glad we packed rain ponchos just in case.",
+          "zh": "好慶幸我們以防萬一帶了雨衣。"
+        },
+        {
+          "id": "common-04-travel-29",
+          "en": "To be honest, the famous tourist trap wasn't worth the hype at all.",
+          "zh": "老實說，那個有名的觀光陷阱完全不值得炒作。"
+        },
+        {
+          "id": "common-04-travel-30",
+          "en": "No wonder all the locals lined up outside this tiny alley bakery.",
+          "zh": "難怪當地人都在這間小巷麵包店外排隊。"
+        },
+        {
+          "id": "common-04-travel-31",
+          "en": "I'm afraid that the ferry service might be suspended due to rough seas.",
+          "zh": "恐怕渡輪會因為海況不佳而停駛。"
+        },
+        {
+          "id": "common-04-travel-32",
+          "en": "Chances are we can catch the sunset if we take the bypass route now.",
+          "zh": "如果現在走便道，很有機會趕上日落。"
+        },
+        {
+          "id": "common-04-travel-33",
+          "en": "Assuming that the traffic clears up, we'll reach the station by five.",
+          "zh": "假設交通疏通，我們五點前可以到車站。"
+        },
+        {
+          "id": "common-04-travel-34",
+          "en": "Even if it starts drizzling, the market still has an indoor pavilion.",
+          "zh": "就算下起毛毛雨，市場也還有室內亭區。"
+        },
+        {
+          "id": "common-04-travel-35",
+          "en": "What if we take the scenic mountain train back instead of flying?",
+          "zh": "萬一我們改搭景觀山列車回去、不搭飛機呢？"
+        },
+        {
+          "id": "common-04-travel-36",
+          "en": "It turns out that the landmark was closed for renovation on Tuesdays.",
+          "zh": "原來這個地標星期二會因整修關閉。"
+        },
+        {
+          "id": "common-04-travel-37",
+          "en": "I couldn't help but take hundreds of photos of that incredible sunset.",
+          "zh": "那個驚人的日落，我忍不住拍了上百張。"
+        },
+        {
+          "id": "common-04-travel-38",
+          "en": "I'm looking forward to soaking in the hotel hot tub after all this hiking.",
+          "zh": "走了這麼多路，我很期待泡飯店的熱水浴缸。"
+        },
+        {
+          "id": "common-04-travel-39",
+          "en": "Next time, we should definitely spend at least three nights in this quaint town.",
+          "zh": "下次我們一定要在這個古雅小鎮至少住三晚。"
+        },
+        {
+          "id": "common-04-travel-40",
+          "en": "Looking back on it, that missed train turned out to be our best adventure.",
+          "zh": "回想起來，錯過那班火車反而是我們最棒的冒險。"
+        }
+      ]
+    },
+    {
+      "id": "common-05-product-launch",
+      "slug": "common-05-product-launch",
+      "series": "common",
+      "seriesZh": "常用口語",
+      "seriesEn": "Common Oral Scripts",
+      "titleZh": "跨部門新產品發佈",
+      "titleEn": "Cross-Team Product Launch",
+      "summaryZh": "從路線圖、彩排到上線檢討——發佈會全週期職場口語。",
+      "durationHint": "約 40–80 秒",
+      "audioPath": "/audio/speak/common/common-05-product-launch.mp3",
+      "audioFile": "common-05-product-launch.mp3",
+      "status": "draft",
+      "segmentCount": 50,
+      "segments": [
+        {
+          "id": "common-05-product-launch-01",
+          "en": "Let me outline the strategic roadmap for this Q4 product launch.",
+          "zh": "我來概述這次第四季產品發布的策略路線圖。"
+        },
+        {
+          "id": "common-05-product-launch-02",
+          "en": "First off, we must establish clear performance indicators for the rollout.",
+          "zh": "首先，我們必須為上線訂出清楚的績效指標。"
+        },
+        {
+          "id": "common-05-product-launch-03",
+          "en": "Make sure you finalize the press release before forwarding it to legal.",
+          "zh": "轉給法務前，請先把新聞稿定稿。"
+        },
+        {
+          "id": "common-05-product-launch-04",
+          "en": "Don't forget to loop in the customer support team for crisis training.",
+          "zh": "別忘了把客服團隊拉進來做危機訓練。"
+        },
+        {
+          "id": "common-05-product-launch-05",
+          "en": "I'll oversee the coordination between engineering and marketing.",
+          "zh": "工程與行銷之間的協調我來督導。"
+        },
+        {
+          "id": "common-05-product-launch-06",
+          "en": "I wanna clarify the user onboarding flow during the live demo.",
+          "zh": "現場示範時我想把使用者導覽流程講清楚。"
+        },
+        {
+          "id": "common-05-product-launch-07",
+          "en": "Could you pull the latest analytics on user sign-ups from beta?",
+          "zh": "可以拉一下測試版最新的註冊分析嗎？"
+        },
+        {
+          "id": "common-05-product-launch-08",
+          "en": "I have to stress the importance of server stability under high traffic.",
+          "zh": "我必須強調高流量下伺服器穩定的重要性。"
+        },
+        {
+          "id": "common-05-product-launch-09",
+          "en": "Can I get a status report on the API gateway integration by noon?",
+          "zh": "中午前可以給我 API 閘道整合的進度報告嗎？"
+        },
+        {
+          "id": "common-05-product-launch-10",
+          "en": "Looks like the design department revised the brand assets again.",
+          "zh": "看來設計部門又改了品牌素材。"
+        },
+        {
+          "id": "common-05-product-launch-11",
+          "en": "I don't know whether the current bandwidth can handle ten thousand users.",
+          "zh": "我不確定目前頻寬能不能撐一萬名使用者。"
+        },
+        {
+          "id": "common-05-product-launch-12",
+          "en": "Why don't we set up a backup server cluster to prevent sudden crashes?",
+          "zh": "何不建置備援伺服器叢集，預防突然當機？"
+        },
+        {
+          "id": "common-05-product-launch-13",
+          "en": "Do you wanna rehearse the keynote slides on the main stage tomorrow?",
+          "zh": "明天要不要在主舞台彩排主題簡報？"
+        },
+        {
+          "id": "common-05-product-launch-14",
+          "en": "What do you say about inviting tech journalists for an exclusive early look?",
+          "zh": "邀請科技記者搶先獨家體驗，你覺得呢？"
+        },
+        {
+          "id": "common-05-product-launch-15",
+          "en": "How do you plan to handle negative press if the feature receives backlash?",
+          "zh": "如果功能引發反彈，你打算怎麼處理負面報導？"
+        },
+        {
+          "id": "common-05-product-launch-16",
+          "en": "I feel like the pricing tier might be slightly confusing to casual users.",
+          "zh": "我覺得收費方案對一般使用者可能有點難懂。"
+        },
+        {
+          "id": "common-05-product-launch-17",
+          "en": "Are you sure all data privacy compliance standards have been satisfied?",
+          "zh": "你確定所有資料隱私合規標準都達標了嗎？"
+        },
+        {
+          "id": "common-05-product-launch-18",
+          "en": "How about streamlining the registration process to just two simple clicks?",
+          "zh": "把註冊流程精簡成兩次點擊如何？"
+        },
+        {
+          "id": "common-05-product-launch-19",
+          "en": "All you need to do is approve the budget reallocation for targeted paid ads.",
+          "zh": "你只要核准定向付費廣告的預算重分配就行。"
+        },
+        {
+          "id": "common-05-product-launch-20",
+          "en": "There's no way we can delay the release date with media invites already out.",
+          "zh": "媒體邀請都已發出，發布日不可能再延。"
+        },
+        {
+          "id": "common-05-product-launch-21",
+          "en": "You should definitely dry-run the payment gateway with international cards.",
+          "zh": "你一定要用國際卡對支付閘道做一次彩排測試。"
+        },
+        {
+          "id": "common-05-product-launch-22",
+          "en": "Is it just me, or does this dashboard look slightly cluttered on mobile?",
+          "zh": "是只有我覺得，還是這個儀表板在手機上看有點雜？"
+        },
+        {
+          "id": "common-05-product-launch-23",
+          "en": "I can't get over how responsive the interface feels after the optimization.",
+          "zh": "優化後介面這麼跟手，我真的好驚豔。"
+        },
+        {
+          "id": "common-05-product-launch-24",
+          "en": "If you ask me, this killer feature alone will disrupt the entire market.",
+          "zh": "要問我的話，光這個殺手鐧功能就會顛覆整個市場。"
+        },
+        {
+          "id": "common-05-product-launch-25",
+          "en": "I'm gonna trigger the deployment script as soon as you give the word.",
+          "zh": "你一點頭，我就會啟動部署腳本。"
+        },
+        {
+          "id": "common-05-product-launch-26",
+          "en": "It's time to open the registration portal to the public waiting list.",
+          "zh": "是時候對公開候補名單開放註冊入口了。"
+        },
+        {
+          "id": "common-05-product-launch-27",
+          "en": "I keep watching the error logs to make sure nothing unexpected spikes.",
+          "zh": "我一直盯著錯誤日誌，確保沒有異常暴衝。"
+        },
+        {
+          "id": "common-05-product-launch-28",
+          "en": "I've been tracking the real-time conversion rates every ten minutes.",
+          "zh": "我每十分鐘都在追即時轉換率。"
+        },
+        {
+          "id": "common-05-product-launch-29",
+          "en": "To be honest, the initial server load was heavier than we anticipated.",
+          "zh": "老實說，初期伺服器負載比我們預期更重。"
+        },
+        {
+          "id": "common-05-product-launch-30",
+          "en": "No wonder our social media mentions skyrocketed after the live stream.",
+          "zh": "難怪直播後社群提及量暴衝。"
+        },
+        {
+          "id": "common-05-product-launch-31",
+          "en": "I'm afraid that the free tier users are hitting the system capacity limit.",
+          "zh": "恐怕免費用戶正在撞上系統容量上限。"
+        },
+        {
+          "id": "common-05-product-launch-32",
+          "en": "Chances are enterprise clients will ask for customized API solutions.",
+          "zh": "企業客戶很有可能要求客製化 API 方案。"
+        },
+        {
+          "id": "common-05-product-launch-33",
+          "en": "Assuming that the current retention rate holds, we will hit our target.",
+          "zh": "假設目前留存率維持得住，我們會達標。"
+        },
+        {
+          "id": "common-05-product-launch-34",
+          "en": "Even if competitors copy the concept, our ecosystem lock-in is stronger.",
+          "zh": "就算對手抄概念，我們的生態系黏著度更強。"
+        },
+        {
+          "id": "common-05-product-launch-35",
+          "en": "What if we offer a launch discount to convert trial users to yearly plans?",
+          "zh": "若提供上市優惠，把試用者轉成年繳方案呢？"
+        },
+        {
+          "id": "common-05-product-launch-36",
+          "en": "It turns out that the micro-influencer campaign generated the best ROI.",
+          "zh": "原來微型網紅活動帶來了最佳投資報酬率。"
+        },
+        {
+          "id": "common-05-product-launch-37",
+          "en": "I'm so glad the dev team patched that critical security leak overnight.",
+          "zh": "好慶幸開發團隊連夜修了那個關鍵資安漏洞。"
+        },
+        {
+          "id": "common-05-product-launch-38",
+          "en": "Correct me if I'm wrong, but didn't we promise dark mode by next week?",
+          "zh": "若我說錯請糾正，但我們不是承諾下週有深色模式嗎？"
+        },
+        {
+          "id": "common-05-product-launch-39",
+          "en": "I see your point, but scaling back features now would hurt our credibility.",
+          "zh": "我懂你的意思，但現在砍功能會傷害可信度。"
+        },
+        {
+          "id": "common-05-product-launch-40",
+          "en": "As far as I know, the board members are thrilled with the first-day results.",
+          "zh": "就我所知，董事會對首日成果相當興奮。"
+        },
+        {
+          "id": "common-05-product-launch-41",
+          "en": "As long as you keep the uptime above ninety-nine percent, clients stay happy.",
+          "zh": "只要你把可用率維持在百分之九十九以上，客戶就會開心。"
+        },
+        {
+          "id": "common-05-product-launch-42",
+          "en": "Unless we optimize the database queries, operational costs will balloon.",
+          "zh": "除非我們優化資料庫查詢，否則營運成本會膨脹。"
+        },
+        {
+          "id": "common-05-product-launch-43",
+          "en": "Just to make sure, did everyone update their documentation on GitHub?",
+          "zh": "只是再確認一下，大家都在 GitHub 更新文件了嗎？"
+        },
+        {
+          "id": "common-05-product-launch-44",
+          "en": "Speaking of which, has the marketing team scheduled the follow-up emails?",
+          "zh": "說到這，行銷團隊排好後續郵件了嗎？"
+        },
+        {
+          "id": "common-05-product-launch-45",
+          "en": "At this rate, we are projected to double our daily active users by Friday.",
+          "zh": "照這個速度，預估週五前日活躍用戶會翻倍。"
+        },
+        {
+          "id": "common-05-product-launch-46",
+          "en": "There is no doubt that this rollout set a new benchmark for the company.",
+          "zh": "毫無疑問，這次上線為公司立下新標竿。"
+        },
+        {
+          "id": "common-05-product-launch-47",
+          "en": "The bottom line is user retention matters far more than vanity metrics.",
+          "zh": "重點是：使用者留存遠比虛榮指標重要。"
+        },
+        {
+          "id": "common-05-product-launch-48",
+          "en": "In retrospect, conducting those two extra dry runs saved us from disaster.",
+          "zh": "事後看來，多做那兩次彩排讓我們免於災難。"
+        },
+        {
+          "id": "common-05-product-launch-49",
+          "en": "It goes without saying that the entire team deserves a huge bonus for this.",
+          "zh": "不用說，整個團隊都該為這次拿豐厚獎金。"
+        },
+        {
+          "id": "common-05-product-launch-50",
+          "en": "Next time, we should automate the regression testing pipeline even earlier.",
+          "zh": "下次我們該更早把回歸測試管線自動化。"
+        }
+      ]
+    },
+    {
+      "id": "common-06-renovation",
+      "slug": "common-06-renovation",
+      "series": "common",
+      "seriesZh": "常用口語",
+      "seriesEn": "Common Oral Scripts",
+      "titleZh": "老屋翻新與智慧家居",
+      "titleEn": "Renovation & Smart Home",
+      "summaryZh": "拆除、水電、智慧設備到入住——居家改造現場口語。",
+      "durationHint": "約 40–80 秒",
+      "audioPath": "/audio/speak/common/common-06-renovation.mp3",
+      "audioFile": "common-06-renovation.mp3",
+      "status": "draft",
+      "segmentCount": 60,
+      "segments": [
+        {
+          "id": "common-06-renovation-01",
+          "en": "I feel like this 40-year-old townhouse has incredible potential.",
+          "zh": "我覺得這棟四十年連棟透天潛力驚人。"
+        },
+        {
+          "id": "common-06-renovation-02",
+          "en": "First off, we need a structural engineer to inspect the load-bearing walls.",
+          "zh": "首先，我們需要結構工程師檢查承重牆。"
+        },
+        {
+          "id": "common-06-renovation-03",
+          "en": "Make sure you obtain all the necessary renovation permits from city hall.",
+          "zh": "記得向市政廳取得所有必要的翻修許可。"
+        },
+        {
+          "id": "common-06-renovation-04",
+          "en": "Don't forget to turn off the main water and gas valves before demolition.",
+          "zh": "拆除前別忘了關閉總水閥與瓦斯閥。"
+        },
+        {
+          "id": "common-06-renovation-05",
+          "en": "I'll negotiate the scope and terms with the general contractor.",
+          "zh": "工程範圍與條款我會跟總承包商談。"
+        },
+        {
+          "id": "common-06-renovation-06",
+          "en": "I wanna knock down this dividing partition to create an open kitchen.",
+          "zh": "我想打掉這道隔間牆，做成開放式廚房。"
+        },
+        {
+          "id": "common-06-renovation-07",
+          "en": "Let me review the electrical blueprint for all the smart switches.",
+          "zh": "我來檢視所有智慧開關的電氣藍圖。"
+        },
+        {
+          "id": "common-06-renovation-08",
+          "en": "Could you ensure every socket in the kitchen has proper grounding?",
+          "zh": "可以確認廚房每個插座都有妥善接地嗎？"
+        },
+        {
+          "id": "common-06-renovation-09",
+          "en": "I have to stick to our budget limits, or we'll run out of cash.",
+          "zh": "我得守住預算上限，否則會手頭吃緊。"
+        },
+        {
+          "id": "common-06-renovation-10",
+          "en": "Can I get an itemized estimate for replacing the corroded galvanized pipes?",
+          "zh": "更換腐蝕鍍鋅管可以給我明細報價嗎？"
+        },
+        {
+          "id": "common-06-renovation-11",
+          "en": "Looks like the roof has a chronic seepage problem around the corners.",
+          "zh": "看起來屋頂角落有長期滲水問題。"
+        },
+        {
+          "id": "common-06-renovation-12",
+          "en": "I don't know if these vintage floor tiles can be salvaged intact.",
+          "zh": "不知道這些復古地磚能不能完整搶救下來。"
+        },
+        {
+          "id": "common-06-renovation-13",
+          "en": "Why don't we run neutral wires into every gang box for smart relays?",
+          "zh": "何不把中性線拉進每個接線盒，方便智慧繼電器？"
+        },
+        {
+          "id": "common-06-renovation-14",
+          "en": "Do you wanna install a centralized water filtration unit in the basement?",
+          "zh": "要不要在地下室裝中央淨水設備？"
+        },
+        {
+          "id": "common-06-renovation-15",
+          "en": "What do you think of using soundproof double-glazed windows facing the avenue?",
+          "zh": "臨大街那側用隔音雙層玻璃窗，你覺得呢？"
+        },
+        {
+          "id": "common-06-renovation-16",
+          "en": "How do you want to configure the automated lighting scenes in the living room?",
+          "zh": "客廳自動化燈光情境你想怎麼設定？"
+        },
+        {
+          "id": "common-06-renovation-17",
+          "en": "Are you sure the current circuit breaker can handle a high-power induction cooktop?",
+          "zh": "你確定現有斷路器撐得住高功率IH爐嗎？"
+        },
+        {
+          "id": "common-06-renovation-18",
+          "en": "How about concealing all the ethernet cabling inside the skirting boards?",
+          "zh": "把所有網路線藏進踢腳板裡如何？"
+        },
+        {
+          "id": "common-06-renovation-19",
+          "en": "All you need to do is pick out the paint swatch for the master bedroom.",
+          "zh": "你只要挑好主臥的油漆色卡就行。"
+        },
+        {
+          "id": "common-06-renovation-20",
+          "en": "There's no way we can live on site while they are jackhammering the floors.",
+          "zh": "他們用破碎機打地板時，我們不可能住現場。"
+        },
+        {
+          "id": "common-06-renovation-21",
+          "en": "You should definitely pressure-test the new plumbing before closing up the drywall.",
+          "zh": "封石膏板前一定要對新水管做壓力測試。"
+        },
+        {
+          "id": "common-06-renovation-22",
+          "en": "Is it just me, or does this custom cabinetry seem two inches too shallow?",
+          "zh": "是只有我覺得，還是這組訂製櫃體淺了兩吋？"
+        },
+        {
+          "id": "common-06-renovation-23",
+          "en": "I can't get over how much brighter the interior feels with skylights installed.",
+          "zh": "裝了天窗後室內亮這麼多，我真的好驚豔。"
+        },
+        {
+          "id": "common-06-renovation-24",
+          "en": "If you ask me, matte black hardware looks way classier than polished chrome.",
+          "zh": "要問我的話，霧黑五金比拋光鉻雅緻多了。"
+        },
+        {
+          "id": "common-06-renovation-25",
+          "en": "I'm gonna set up the Zigbee smart hub right in the middle of the hallway.",
+          "zh": "我會把 Zigbee 智慧中樞裝在走廊正中央。"
+        },
+        {
+          "id": "common-06-renovation-26",
+          "en": "It's time to pair all the motorized shades with the voice assistant.",
+          "zh": "是時候把所有電動窗簾跟語音助理配對了。"
+        },
+        {
+          "id": "common-06-renovation-27",
+          "en": "I keep finding fine drywall dust settling on newly delivered furniture.",
+          "zh": "我一直發現石膏粉塵落在剛送來的家具上。"
+        },
+        {
+          "id": "common-06-renovation-28",
+          "en": "I've been vacuuming the air filters every single day during sanding.",
+          "zh": "打磨期間我每天都在吸空氣濾網。"
+        },
+        {
+          "id": "common-06-renovation-29",
+          "en": "To be honest, the marble countertop price quote gave me sticker shock.",
+          "zh": "老實說，大理石檯面報價讓我價格休克。"
+        },
+        {
+          "id": "common-06-renovation-30",
+          "en": "No wonder the renovation took two weeks longer than originally scheduled.",
+          "zh": "難怪翻修比原訂時程多花了兩週。"
+        },
+        {
+          "id": "common-06-renovation-31",
+          "en": "I'm afraid that the tiles in the guest bath weren't leveled properly.",
+          "zh": "恐怕客房浴室的磁磚沒有整平好。"
+        },
+        {
+          "id": "common-06-renovation-32",
+          "en": "Chances are the contractor will have to rip out those three uneven slabs.",
+          "zh": "承包商很有可能得拆掉那三片不平的板。"
+        },
+        {
+          "id": "common-06-renovation-33",
+          "en": "Assuming that the silicone sealant dries by tomorrow, we can test the shower.",
+          "zh": "假設矽利康明天乾了，我們就能測淋浴。"
+        },
+        {
+          "id": "common-06-renovation-34",
+          "en": "Even if the power cuts out, the smart lock has an emergency USB-C terminal.",
+          "zh": "就算停電，智慧鎖也有緊急 USB-C 接孔。"
+        },
+        {
+          "id": "common-06-renovation-35",
+          "en": "What if we automate the exhaust fans to turn on when humidity exceeds 70%?",
+          "zh": "若濕度超過百分之七十就自動開抽風機呢？"
+        },
+        {
+          "id": "common-06-renovation-36",
+          "en": "It turns out that the original subfloor was completely infested with dry rot.",
+          "zh": "原來原本的底層地板整個被乾腐菌侵蝕。"
+        },
+        {
+          "id": "common-06-renovation-37",
+          "en": "I'm so glad we replaced all the aging wiring with flame-retardant cables.",
+          "zh": "好慶幸我們把老化線路全換成耐燃電纜。"
+        },
+        {
+          "id": "common-06-renovation-38",
+          "en": "Correct me if I'm wrong, but didn't we agree that dimmers were included in the price?",
+          "zh": "若我說錯請糾正，但我們不是說好調光器含在報價裡嗎？"
+        },
+        {
+          "id": "common-06-renovation-39",
+          "en": "I see your point, but safety always trumps aesthetics when it comes to electricity.",
+          "zh": "我懂你的意思，但談到電力，安全永遠優先於美觀。"
+        },
+        {
+          "id": "common-06-renovation-40",
+          "en": "As far as I know, the warranty covers any roof leaks for the next five years.",
+          "zh": "就我所知，保固涵蓋未來五年任何屋頂漏水。"
+        },
+        {
+          "id": "common-06-renovation-41",
+          "en": "As long as you maintain the HVAC filters quarterly, the efficiency stays peak.",
+          "zh": "只要你每季保養空調濾網，效率就能維持巔峰。"
+        },
+        {
+          "id": "common-06-renovation-42",
+          "en": "Unless we seal the grout, stains will permanently ruin the kitchen backsplash.",
+          "zh": "除非我們封好填縫劑，否則汙漬會永久毀了廚房背牆。"
+        },
+        {
+          "id": "common-06-renovation-43",
+          "en": "Just to make sure, did the carpenter leave access panels for the air conditioning?",
+          "zh": "只是再確認，木工有留空調維修口嗎？"
+        },
+        {
+          "id": "common-06-renovation-44",
+          "en": "Speaking of which, the customized solid wood dining table arrives on Thursday.",
+          "zh": "說到這，訂製實木餐桌星期四會到。"
+        },
+        {
+          "id": "common-06-renovation-45",
+          "en": "At this rate, we will finally be able to sleep in our own bed by the weekend.",
+          "zh": "照這個速度，週末我們終於能睡自己的床了。"
+        },
+        {
+          "id": "common-06-renovation-46",
+          "en": "There is no doubt that surviving a major renovation tests any relationship.",
+          "zh": "毫無疑問，熬過大翻修是對任何關係的考驗。"
+        },
+        {
+          "id": "common-06-renovation-47",
+          "en": "The bottom line is the structural integrity of the home has been completely restored.",
+          "zh": "重點是：房子的結構完整性已徹底恢復。"
+        },
+        {
+          "id": "common-06-renovation-48",
+          "en": "In retrospect, choosing waterproof vinyl planks over real hardwood was brilliant.",
+          "zh": "事後看來，選防水塑膠地板而非實木地板太明智了。"
+        },
+        {
+          "id": "common-06-renovation-49",
+          "en": "It goes without saying that hosting the housewarming party is going to be a blast.",
+          "zh": "不用說，辦喬遷派對一定會超好玩。"
+        },
+        {
+          "id": "common-06-renovation-50",
+          "en": "It's about time we peeled off the protective plastic films and enjoyed the space.",
+          "zh": "是時候撕掉保護膠膜、好好享受這個空間了。"
+        },
+        {
+          "id": "common-06-renovation-51",
+          "en": "The thing is, smart home automation is only as good as your home network.",
+          "zh": "重點是：智慧家居再強，也取決於你家的網路。"
+        },
+        {
+          "id": "common-06-renovation-52",
+          "en": "I'd rather invest upfront in commercial-grade routers than suffer spotty Wi-Fi.",
+          "zh": "我寧願一開始投資商用級路由器，也不要忍受不穩的 Wi-Fi。"
+        },
+        {
+          "id": "common-06-renovation-53",
+          "en": "Believe it or not, the automated routines already cut down our utility bills.",
+          "zh": "信不信由你，自動化情境已經降低我們的公用事業費。"
+        },
+        {
+          "id": "common-06-renovation-54",
+          "en": "There's no point in buying fancy gadgets if they can't integrate into one app.",
+          "zh": "若不能整合進同一個 App，買炫砲裝置就沒意義。"
+        },
+        {
+          "id": "common-06-renovation-55",
+          "en": "Except for the fact that the doorbell camera is overly sensitive, everything works great.",
+          "zh": "除了門鈴攝影機過度敏感之外，一切都很順利。"
+        },
+        {
+          "id": "common-06-renovation-56",
+          "en": "For the time being, let's leave the guest room empty until we decide on the furniture.",
+          "zh": "暫時先讓客房空著，等我們決定家具再說。"
+        },
+        {
+          "id": "common-06-renovation-57",
+          "en": "In the meantime, we can set up the entertainment center and mount the TV.",
+          "zh": "同時我們可以架娛樂中心、把電視掛上牆。"
+        },
+        {
+          "id": "common-06-renovation-58",
+          "en": "Hardly had we unpacked the last moving box when the neighbors knocked with cookies.",
+          "zh": "我們幾乎還沒拆完最後一個紙箱，鄰居就帶著餅乾來敲門。"
+        },
+        {
+          "id": "common-06-renovation-59",
+          "en": "No matter how exhausting the messy demolition phase was, the outcome is stunning.",
+          "zh": "無論凌亂的拆除階段多累人，成果都令人驚豔。"
+        },
+        {
+          "id": "common-06-renovation-60",
+          "en": "Next time, whenever we tackle a home project, we'll know exactly how to manage it.",
+          "zh": "下次再做居家專案，我們就會完全知道怎麼管理。"
+        }
+      ]
+    }
+  ]
+}

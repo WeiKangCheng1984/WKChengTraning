@@ -33,11 +33,13 @@
 | `invest` | **Investments & Tech** | 硬核產業與實盤投資 | Phase 2 |
 | `dispatch` | **Global Dispatch** | 全球足跡與無人機視角 | Phase 2 |
 | `culinary` | **Culinary & Life** | 風味實驗與生活風格 | Phase 2 |
+| `speak` | **Speak Track（跟讀軌）** | 短文＋真人錄音跟讀 | **Phase 1（常用口語 6 篇）** |
 
 **Phase 1 跨區塊關係**
 
 - CFA 詞條的英語例句 ↔ English Drill 可互相參考（有餘力再做雙向連結）
 - 兩個模組共用同一套「發音／掌握度／背誦」互動模式，降低學習成本
+- `speak` 以跟讀為主：整段真人 MP3＋逐句 TTS 預練；之後可再加不動產系列
 
 ---
 
@@ -69,6 +71,8 @@
 |------|------|----------|
 | `Vnotes.md` | CFA Level 1 專有名詞（定義、用法、英語例句） | **CFA Vault** |
 | `english V.md` | 英語句型／片語／情境例句（生活＋工作） | **English Drill** |
+| `6r.md` | 常用口語 6 篇英文腳本（建置時補中文） | **Speak Track** |
+| `web/public/audio/speak/common/*.mp3` | 常用口語真人錄音（自行放置） | **Speak Track** |
 
 輔助（可選，不取代上述兩檔）：
 
@@ -120,6 +124,7 @@
 | 組句與跟讀 | English Assemble：情境 → 骨架 → 組裝句發音 |
 | 間隔複習評分 | 再練／記得／很熟 → 本機 SRS |
 | 搜尋／收藏 | `/search`、`/saved` |
+| 跟讀短文（方案 A） | `/speak`：常用口語 6 篇；MP3 放 `public/audio/speak/common/` |
 
 ### 4.5 Phase 1 非目標
 

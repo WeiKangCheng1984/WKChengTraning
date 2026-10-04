@@ -7,10 +7,12 @@ import { PLAN_DAYS, planProgress } from "@/lib/plan";
 import { onStorageChange } from "@/lib/persist";
 import cfa from "@/data/cfa.json";
 import english from "@/data/english.json";
-import type { CfaData, EnglishData } from "@/lib/types";
+import speak from "@/data/speak.json";
+import type { CfaData, EnglishData, SpeakData } from "@/lib/types";
 
 const cfaData = cfa as CfaData;
 const enData = english as EnglishData;
+const speakData = speak as SpeakData;
 
 export default function HomePage() {
   const cfaIds = cfaData.subjects.flatMap((s) => s.terms.map((t) => t.id));
@@ -102,9 +104,16 @@ export default function HomePage() {
           meta={`${enData.categories.length} 類`}
         />
         <ModuleCard
+          eyebrow="跟讀"
+          title="Speak Track"
+          body={`常用口語 ${speakData.total} 篇短文＋真人錄音跟讀。音檔放到 public/audio/speak/common/。`}
+          href="/speak"
+          meta={`${speakData.total} 篇`}
+        />
+        <ModuleCard
           eyebrow="收藏"
           title="搜尋與收藏"
-          body="跨庫搜尋術語／句型；收藏存在這個瀏覽器。"
+          body="跨庫搜尋術語／句型／跟讀腳本；收藏存在這個瀏覽器。"
           href="/saved"
           meta="本機"
         />
