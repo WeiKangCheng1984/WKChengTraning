@@ -12,6 +12,7 @@
   --accent-soft-text: #d8c6a4;
   --background: var(--paper);
   --foreground: var(--ink);
+  --touch: 2.75rem; /* 44px */
 }
 
 @theme inline {
@@ -19,6 +20,22 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-body);
   --font-display: var(--font-display);
+}
+
+html {
+  font-size: 16px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 17px;
+  }
+}
+
+@media (min-width: 1024px) {
+  html {
+    font-size: 18px;
+  }
 }
 
 body {
@@ -29,12 +46,40 @@ body {
   color: var(--ink);
   font-family: var(--font-body), "Noto Sans TC", sans-serif;
   min-height: 100vh;
+  -webkit-tap-highlight-color: transparent;
 }
 
 a {
   text-decoration: none;
 }
 
+button,
+a,
+input,
+select {
+  touch-action: manipulation;
+}
+
 ::selection {
   background: rgba(154, 123, 79, 0.25);
+}
+
+/* Shared tablet-friendly surfaces */
+.tap-target {
+  min-height: var(--touch);
+  min-width: var(--touch);
+}
+
+.card-tap {
+  min-height: 5.5rem;
+  border-radius: 0.25rem;
+  border: 1px solid var(--line);
+  background: var(--surface);
+  padding: 1.1rem 1.25rem;
+  transition: border-color 0.15s ease;
+}
+
+.card-tap:hover,
+.card-tap:active {
+  border-color: color-mix(in srgb, var(--accent) 55%, var(--line));
 }

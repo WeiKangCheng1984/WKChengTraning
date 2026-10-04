@@ -91,7 +91,7 @@ export function CfaPracticeDeck({
             CFA Practice · {subjectName}
           </p>
           <p className="mt-1 text-sm text-[var(--muted)]">
-            {index + 1} / {pool.length}（每次抽 20 詞，Cadence 節奏）
+            {index + 1} / {pool.length}（每次抽 20 詞）
           </p>
         </div>
         <div className="flex flex-wrap gap-1.5">

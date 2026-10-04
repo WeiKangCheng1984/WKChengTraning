@@ -32,7 +32,7 @@ function DrillInner() {
         href="/english"
         className="text-sm text-[var(--muted)] hover:text-[var(--ink)]"
       >
-        ← 返回 English Drill
+        ← 返回 English
       </Link>
       <EnglishAssembleDeck
         items={items}

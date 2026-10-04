@@ -34,13 +34,13 @@ export function ProgressSummary({ cfaIds, enIds }: Props) {
   return (
     <div className="grid gap-4 sm:grid-cols-2">
       <StatCard
-        title="CFA Vault"
+        title="CFA"
         mastered={cfa.mastered}
         learning={cfa.learning}
         total={cfa.total}
       />
       <StatCard
-        title="English Drill"
+        title="English"
         mastered={en.mastered}
         learning={en.learning}
         total={en.total}

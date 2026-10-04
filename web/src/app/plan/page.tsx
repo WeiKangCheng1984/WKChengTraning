@@ -22,14 +22,14 @@ export default function PlanIndexPage() {
     <div className="space-y-8">
       <div>
         <p className="text-xs uppercase tracking-[0.22em] text-[var(--accent)]">
-          Twenty-Day Plan
+          Plan
         </p>
         <h1 className="mt-2 font-[family-name:var(--font-display)] text-3xl text-[var(--ink)] sm:text-4xl">
-          20 天學習節奏
+          20 天計畫
         </h1>
-        <p className="mt-2 max-w-2xl text-sm leading-relaxed text-[var(--muted)]">
-          每天打包「一科 CFA＋一類英語」。可自由跳天，不必卡順序。已完成{" "}
-          {progress.done}/{progress.total}。
+        <p className="mt-2 max-w-2xl text-base leading-relaxed text-[var(--muted)]">
+          每天一科 CFA＋一類 English。可跳天。已完成 {progress.done}/
+          {progress.total}。
         </p>
       </div>
 
@@ -40,14 +40,14 @@ export default function PlanIndexPage() {
         />
       </div>
 
-      <div className="grid gap-3">
+      <div className="grid gap-3 sm:grid-cols-2">
         {PLAN_DAYS.map((d) => {
           const complete = done.includes(d.day);
           return (
             <Link
               key={d.day}
               href={`/plan/${d.day}`}
-              className="rounded-sm border border-[var(--line)] bg-[var(--surface)] p-5 transition hover:border-[var(--accent)]/45"
+              className="card-tap block"
             >
               <div className="flex flex-wrap items-baseline justify-between gap-2">
                 <div className="text-xs text-[var(--muted)]">

@@ -5,6 +5,7 @@ import Link from "next/link";
 import { SpeakButton } from "@/components/SpeakButton";
 import { FavoriteButton } from "@/components/FavoriteButton";
 import { MasteryControls } from "@/components/MasteryControls";
+import { setLastSpeak } from "@/lib/session";
 import type { SpeakArticle } from "@/lib/types";
 
 type Props = {
@@ -19,6 +20,10 @@ export function SpeakArticleClient({ article }: Props) {
   );
   const [hideEn, setHideEn] = useState(false);
   const [playing, setPlaying] = useState(false);
+
+  useEffect(() => {
+    setLastSpeak(article.slug, article.titleZh);
+  }, [article.slug, article.titleZh]);
 
   useEffect(() => {
     let cancelled = false;
@@ -54,10 +59,10 @@ export function SpeakArticleClient({ article }: Props) {
             href="/speak"
             className="text-sm text-[var(--muted)] hover:text-[var(--ink)]"
           >
-            ← 跟讀軌
+            ← 跟讀
           </Link>
           <p className="mt-3 text-xs uppercase tracking-[0.2em] text-[var(--accent)]">
-            {article.seriesZh} · Speak Track
+            {article.seriesZh}
           </p>
           <h1 className="mt-2 font-[family-name:var(--font-display)] text-3xl text-[var(--ink)]">
             {article.titleZh}
@@ -99,14 +104,14 @@ export function SpeakArticleClient({ article }: Props) {
               type="button"
               disabled={!audioOk}
               onClick={() => (playing ? pauseAudio() : playAudio())}
-              className="rounded-sm bg-[var(--ink)] px-4 py-2 text-sm text-[var(--paper)] disabled:opacity-40"
+              className="inline-flex min-h-12 items-center rounded-sm bg-[var(--ink)] px-5 text-sm text-[var(--paper)] disabled:opacity-40"
             >
               {playing ? "暫停錄音" : "播放整段錄音"}
             </button>
             <button
               type="button"
               onClick={() => setHideEn((v) => !v)}
-              className="rounded-sm border border-[var(--line)] px-4 py-2 text-sm"
+              className="inline-flex min-h-12 items-center rounded-sm border border-[var(--line)] px-5 text-sm"
             >
               {hideEn ? "顯示英文" : "隱藏英文（對照中文跟讀）"}
             </button>
@@ -146,27 +151,29 @@ export function SpeakArticleClient({ article }: Props) {
                 <button
                   type="button"
                   onClick={() => setActiveId(seg.id)}
-                  className={`flex w-full items-start gap-3 rounded-sm border px-3 py-3 text-left transition ${
+                  className={`flex w-full min-h-14 items-start gap-3 rounded-sm border px-4 py-4 text-left transition ${
                     active
                       ? "border-[var(--accent)] bg-[var(--accent-soft)]/50"
                       : "border-[var(--line)] bg-[var(--surface)] hover:border-[var(--accent)]/40"
                   }`}
                 >
-                  <span className="mt-0.5 w-8 shrink-0 text-xs text-[var(--muted)]">
+                  <span className="mt-1 w-8 shrink-0 text-xs text-[var(--muted)]">
                     {idx + 1}
                   </span>
                   <SpeakButton text={seg.en} label={seg.en} size="sm" />
                   <div className="min-w-0 flex-1">
                     {!hideEn ? (
-                      <p className="text-sm font-medium text-[var(--ink)]">
+                      <p className="text-base font-medium leading-relaxed text-[var(--ink)]">
                         {seg.en}
                       </p>
                     ) : (
-                      <p className="text-sm italic text-[var(--muted)]">
+                      <p className="text-base italic text-[var(--muted)]">
                         （英文已隱藏，先看中文再跟讀）
                       </p>
                     )}
-                    <p className="mt-1 text-sm text-[var(--muted)]">{seg.zh}</p>
+                    <p className="mt-1.5 text-base leading-relaxed text-[var(--muted)]">
+                      {seg.zh}
+                    </p>
                   </div>
                 </button>
               </li>

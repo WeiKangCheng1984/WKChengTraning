@@ -39,7 +39,7 @@ function DrillInner() {
   return (
     <div className="space-y-6">
       <Link href="/vault" className="text-sm text-[var(--muted)] hover:text-[var(--ink)]">
-        ← 返回 CFA Vault
+        ← 返回 CFA
       </Link>
       <FlashcardDeck items={items} title={label} />
     </div>

@@ -61,3 +61,13 @@ export function gradeCard(
 export function countDue(keys: Array<{ scope: "cfa" | "en"; id: string | number }>) {
   return keys.filter((k) => isDue(k.scope, k.id)).length;
 }
+
+/** Only cards that already have an SRS schedule and are due today */
+export function countScheduledDue(
+  keys: Array<{ scope: "cfa" | "en"; id: string | number }>,
+) {
+  return keys.filter((k) => {
+    const due = getDue(k.scope, k.id);
+    return due !== null && due <= todayIso();
+  }).length;
+}

@@ -23,7 +23,7 @@ function Inner() {
       <div className="flex flex-wrap items-end justify-between gap-3">
         <div>
           <Link href="/vault" className="text-sm text-[var(--muted)] hover:text-[var(--ink)]">
-            ← CFA Vault
+            ← CFA
           </Link>
           <h1 className="mt-2 font-[family-name:var(--font-display)] text-3xl text-[var(--ink)]">
             三模式練習

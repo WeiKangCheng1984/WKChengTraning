@@ -1,14 +1,14 @@
-# Omni Ledger — Phase 1
+# 學習 — Phase 1
 
-CFA Level 1 單字庫＋個人英語學習站。  
+內容：CFA · English（Real Estate／Lifestyle 之後補）。  
 技術範圍：**GitHub + Vercel**（無 Supabase／Sanity／Gemini／Telegram）。
 
 ## 內容來源
 
 專案根目錄：
 
-- `Vnotes.md` → CFA Vault
-- `english V.md` → English Drill
+- `Vnotes.md` → CFA
+- `english V.md` → English
 
 建置前會編譯成 `web/src/data/*.json`。
 

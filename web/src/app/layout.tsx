@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Newsreader, Source_Sans_3 } from "next/font/google";
 import { SiteHeader } from "@/components/SiteHeader";
+import { BottomNav } from "@/components/BottomNav";
 import "./globals.css";
 
 const display = Newsreader({
@@ -16,8 +17,14 @@ const body = Source_Sans_3({
 });
 
 export const metadata: Metadata = {
-  title: "Omni Ledger｜CFA & English",
-  description: "CFA Level 1 單字庫與個人英語學習站（Phase 1）",
+  title: "學習｜CFA · English",
+  description: "CFA、English、Real Estate、Lifestyle 個人學習",
+};
+
+export const viewport = {
+  width: "device-width",
+  initialScale: 1,
+  viewportFit: "cover" as const,
 };
 
 export default function RootLayout({
@@ -29,12 +36,13 @@ export default function RootLayout({
     <html lang="zh-Hant">
       <body className={`${display.variable} ${body.variable} antialiased`}>
         <SiteHeader />
-        <main className="mx-auto max-w-6xl px-4 py-8 sm:px-6 sm:py-10">
+        <main className="mx-auto max-w-6xl px-4 pb-28 pt-6 sm:px-6 sm:pt-8">
           {children}
         </main>
-        <footer className="border-t border-[var(--line)] py-8 text-center text-xs text-[var(--muted)]">
-          Omni Ledger · Phase 1 · 本機進度存於瀏覽器 · 非投資建議／非保證考取
+        <footer className="mx-auto max-w-6xl px-4 pb-28 pt-2 text-center text-xs text-[var(--muted)] sm:px-6">
+          本機進度 · 非投資建議／非保證考取
         </footer>
+        <BottomNav />
       </body>
     </html>
   );

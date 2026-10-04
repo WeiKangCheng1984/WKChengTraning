@@ -10,24 +10,24 @@ export default function VaultIndexPage() {
       <div className="flex flex-wrap items-end justify-between gap-4">
         <div>
           <p className="text-xs uppercase tracking-[0.22em] text-[var(--accent)]">
-            CFA Vault
+            CFA
           </p>
           <h1 className="mt-2 font-[family-name:var(--font-display)] text-3xl text-[var(--ink)] sm:text-4xl">
-            Level 1 專有名詞庫
+            Level 1 名詞
           </h1>
-          <p className="mt-2 max-w-2xl text-sm leading-relaxed text-[var(--muted)]">
-            共 {data.total} 詞。先選練習模式，或依科目瀏覽。間隔評分會拉開複習時間。
+          <p className="mt-2 max-w-2xl text-base leading-relaxed text-[var(--muted)]">
+            共 {data.total} 詞。選模式練習，或依科目瀏覽。
           </p>
         </div>
         <Link
           href="/vault/drill"
-          className="rounded-sm border border-[var(--line)] px-4 py-2 text-sm text-[var(--ink)] hover:border-[var(--accent)]"
+          className="inline-flex min-h-12 items-center rounded-sm border border-[var(--line)] px-5 text-sm text-[var(--ink)] hover:border-[var(--accent)]"
         >
           經典閃卡
         </Link>
       </div>
 
-      <div className="grid gap-3 md:grid-cols-3">
+      <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
         <ModeCard
           mode="MODE 1"
           title="聽詞想義"
@@ -94,10 +94,7 @@ function ModeCard({
   href: string;
 }) {
   return (
-    <Link
-      href={href}
-      className="rounded-sm border border-[var(--line)] bg-[var(--surface)] p-5 transition hover:border-[var(--accent)]/50"
-    >
+    <Link href={href} className="card-tap block min-h-28">
       <div className="text-xs tracking-[0.16em] text-[var(--accent)]">{mode}</div>
       <h3 className="mt-2 font-[family-name:var(--font-display)] text-xl text-[var(--ink)]">
         {title}

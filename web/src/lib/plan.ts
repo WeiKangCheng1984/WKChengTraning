@@ -84,7 +84,7 @@ export const PLAN_DAYS: PlanDay[] = [
     day: 7,
     week: 1,
     titleZh: "Quant 語氣",
-    titleEn: "Quant Cadence",
+    titleEn: "Quant Tone",
     blurb: "統計檢定名詞，搭配道地轉折與加強語氣，讓數據說明更自然。",
     cfaCode: "07",
     enSlug: "native-transitions-idiomatic-express-7",

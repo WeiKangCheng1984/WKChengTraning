@@ -1,6 +1,6 @@
-# 141 全方位｜Omni Ledger
+# 141 全方位｜學習
 
-個人學習網站（CFA Level 1＋英語）。規則見 `rules.md`。
+個人學習：CFA · English · Real Estate · Lifestyle。規則見 `rules.md`。
 
 ## Phase 1 網站
 
