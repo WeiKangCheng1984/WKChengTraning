@@ -4,6 +4,8 @@ import { useMemo, useState } from "react";
 import { SpeakButton } from "@/components/SpeakButton";
 import { FavoriteButton } from "@/components/FavoriteButton";
 import { MasteryControls } from "@/components/MasteryControls";
+import { DeckNav } from "@/components/DeckNav";
+import { MySentencePad } from "@/components/MySentencePad";
 import { gradeCard } from "@/lib/srs";
 import type { EnglishItem } from "@/lib/types";
 
@@ -25,10 +27,11 @@ export function EnglishAssembleDeck({ items, categorySlug, categoryTitle }: Prop
     : [{ tag: "提示", en: current?.en ?? "", zh: current?.zh ?? "" }];
   const ex = examples[Math.min(exIdx, examples.length - 1)];
 
-  function next() {
+  function go(delta: number) {
+    if (!pool.length) return;
     setShowEn(false);
     setExIdx(0);
-    setIndex((i) => (i + 1) % pool.length);
+    setIndex((i) => (i + delta + pool.length) % pool.length);
   }
 
   if (!current) return null;
@@ -41,7 +44,7 @@ export function EnglishAssembleDeck({ items, categorySlug, categoryTitle }: Prop
             English Assemble · {categoryTitle}
           </p>
           <p className="mt-1 text-sm text-[var(--muted)]">
-            {index + 1} / {pool.length} · 看中文情境 → 組出英文 → 跟讀
+            看中文情境 → 組出英文 → 跟讀／自造句
           </p>
         </div>
         <FavoriteButton
@@ -115,29 +118,44 @@ export function EnglishAssembleDeck({ items, categorySlug, categoryTitle }: Prop
             <MasteryControls scope="en" id={current.id} />
           </div>
         )}
+
+        <MySentencePad
+          categorySlug={categorySlug}
+          patternId={current.id}
+          patternEn={current.en}
+        />
       </div>
 
-      <div className="flex flex-wrap justify-end gap-2">
-        <button
-          type="button"
-          onClick={() => {
-            gradeCard("en", current.id, "again");
-            next();
-          }}
-          className="rounded-sm border border-[var(--line)] px-3 py-2 text-sm"
-        >
-          再練
-        </button>
-        <button
-          type="button"
-          onClick={() => {
-            gradeCard("en", current.id, "good");
-            next();
-          }}
-          className="rounded-sm bg-[var(--ink)] px-3 py-2 text-sm text-[var(--paper)]"
-        >
-          下一題
-        </button>
+      <div className="space-y-3">
+        <div className="flex flex-wrap gap-2">
+          <button
+            type="button"
+            onClick={() => {
+              gradeCard("en", current.id, "again");
+              go(1);
+            }}
+            className="rounded-sm border border-[var(--line)] px-3 py-2 text-sm"
+          >
+            再練
+          </button>
+          <button
+            type="button"
+            onClick={() => {
+              gradeCard("en", current.id, "good");
+              go(1);
+            }}
+            className="rounded-sm border border-[var(--accent)] px-3 py-2 text-sm text-[var(--ink)]"
+          >
+            記得
+          </button>
+        </div>
+        <DeckNav
+          index={index}
+          total={pool.length}
+          onPrev={() => go(-1)}
+          onNext={() => go(1)}
+          label="瀏覽不改分數"
+        />
       </div>
     </section>
   );

@@ -5,6 +5,7 @@ import { useMemo, useState } from "react";
 import { SpeakButton } from "@/components/SpeakButton";
 import { MasteryControls } from "@/components/MasteryControls";
 import { FavoriteButton } from "@/components/FavoriteButton";
+import { MySentencePad } from "@/components/MySentencePad";
 import { getMastery } from "@/lib/mastery";
 import type { EnglishCategory, EnglishItem, Mastery } from "@/lib/types";
 
@@ -156,6 +157,11 @@ function ItemRow({
               </div>
             ))}
           </div>
+          <MySentencePad
+            categorySlug={categorySlug}
+            patternId={item.id}
+            patternEn={item.en}
+          />
           <div
             className="flex flex-wrap items-center gap-2"
             onClick={onMasteryChange}

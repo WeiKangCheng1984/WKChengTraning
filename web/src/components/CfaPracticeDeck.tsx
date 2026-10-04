@@ -3,6 +3,7 @@
 import { useMemo, useState } from "react";
 import { SpeakButton } from "@/components/SpeakButton";
 import { FavoriteButton } from "@/components/FavoriteButton";
+import { DeckNav } from "@/components/DeckNav";
 import { gradeCard } from "@/lib/srs";
 import type { CfaTerm } from "@/lib/types";
 
@@ -90,9 +91,7 @@ export function CfaPracticeDeck({
           <p className="text-xs uppercase tracking-[0.18em] text-[var(--accent)]">
             CFA Practice · {subjectName}
           </p>
-          <p className="mt-1 text-sm text-[var(--muted)]">
-            {index + 1} / {pool.length}（每次抽 20 詞）
-          </p>
+          <p className="mt-1 text-sm text-[var(--muted)]">每次抽 20 詞</p>
         </div>
         <div className="flex flex-wrap gap-1.5">
           {(
@@ -220,37 +219,46 @@ export function CfaPracticeDeck({
         )}
       </div>
 
-      <div className="flex flex-wrap items-center justify-between gap-3">
-        <FavoriteButton
-          id={`cfa:${current.id}`}
-          kind="cfa"
-          title={current.termEn}
-          subtitle={current.termZh}
-          href={`/vault/${subjectCode}`}
-        />
-        <div className="flex flex-wrap gap-2">
-          <button
-            type="button"
-            onClick={() => onGrade("again")}
-            className="rounded-sm border border-[var(--line)] px-3 py-2 text-sm"
-          >
-            再練
-          </button>
-          <button
-            type="button"
-            onClick={() => onGrade("good")}
-            className="rounded-sm border border-[var(--accent)] px-3 py-2 text-sm text-[var(--ink)]"
-          >
-            記得
-          </button>
-          <button
-            type="button"
-            onClick={() => onGrade("easy")}
-            className="rounded-sm bg-[var(--ink)] px-3 py-2 text-sm text-[var(--paper)]"
-          >
-            很熟
-          </button>
+      <div className="space-y-3">
+        <div className="flex flex-wrap items-center justify-between gap-3">
+          <FavoriteButton
+            id={`cfa:${current.id}`}
+            kind="cfa"
+            title={current.termEn}
+            subtitle={current.termZh}
+            href={`/vault/${subjectCode}`}
+          />
+          <div className="flex flex-wrap gap-2">
+            <button
+              type="button"
+              onClick={() => onGrade("again")}
+              className="rounded-sm border border-[var(--line)] px-3 py-2 text-sm"
+            >
+              再練
+            </button>
+            <button
+              type="button"
+              onClick={() => onGrade("good")}
+              className="rounded-sm border border-[var(--accent)] px-3 py-2 text-sm text-[var(--ink)]"
+            >
+              記得
+            </button>
+            <button
+              type="button"
+              onClick={() => onGrade("easy")}
+              className="rounded-sm bg-[var(--accent)] px-3 py-2 text-sm text-white"
+            >
+              很熟
+            </button>
+          </div>
         </div>
+        <DeckNav
+          index={index}
+          total={pool.length}
+          onPrev={() => go(-1)}
+          onNext={() => go(1)}
+          label="瀏覽不改分數"
+        />
       </div>
     </section>
   );

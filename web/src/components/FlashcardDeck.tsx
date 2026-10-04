@@ -3,6 +3,7 @@
 import { useEffect, useMemo, useState } from "react";
 import { SpeakButton } from "@/components/SpeakButton";
 import { MasteryControls } from "@/components/MasteryControls";
+import { DeckNav } from "@/components/DeckNav";
 import { getMastery } from "@/lib/mastery";
 import type { Mastery } from "@/lib/types";
 
@@ -81,10 +82,6 @@ export function FlashcardDeck({ items, title = "背誦模式" }: Props) {
         </p>
       ) : (
         <>
-          <p className="mt-2 text-sm text-[var(--muted)]">
-            {index + 1} / {pool.length}
-          </p>
-
           <button
             type="button"
             onClick={() => setFlipped((f) => !f)}
@@ -115,27 +112,19 @@ export function FlashcardDeck({ items, title = "背誦模式" }: Props) {
             )}
           </button>
 
-          <div className="mt-5 flex flex-wrap items-center justify-between gap-3">
-            <div className="flex items-center gap-2">
+          <div className="mt-5 space-y-3">
+            <div className="flex flex-wrap items-center gap-2">
               <SpeakButton text={current.speakText} label={current.front} />
               <MasteryControls scope={current.scope} id={current.id} />
             </div>
-            <div className="flex gap-2">
-              <button
-                type="button"
-                onClick={() => go(-1)}
-                className="rounded-sm border border-[var(--line)] px-4 py-2 text-sm text-[var(--ink)] hover:bg-[var(--paper)]"
-              >
-                上一張
-              </button>
-              <button
-                type="button"
-                onClick={() => go(1)}
-                className="rounded-sm bg-[var(--ink)] px-4 py-2 text-sm text-[var(--paper)] hover:bg-[var(--ink-soft)]"
-              >
-                下一張
-              </button>
-            </div>
+            <DeckNav
+              index={index}
+              total={pool.length}
+              onPrev={() => go(-1)}
+              onNext={() => go(1)}
+              prevLabel="上一張"
+              nextLabel="下一張"
+            />
           </div>
         </>
       )}
