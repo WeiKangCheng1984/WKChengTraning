@@ -22,6 +22,11 @@ const links = [
     body: "快速翻卡複習。",
   },
   {
+    href: "/english/grammar",
+    title: "文法與慣用語",
+    body: "36 課 · 生活／房產 · TTS 跟讀。",
+  },
+  {
     href: "/english/drill",
     title: "English 組句",
     body: "跨分類組句練習。",

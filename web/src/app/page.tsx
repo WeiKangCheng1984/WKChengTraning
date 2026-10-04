@@ -9,11 +9,13 @@ import { getSession } from "@/lib/session";
 import { countScheduledDue } from "@/lib/srs";
 import cfa from "@/data/cfa.json";
 import english from "@/data/english.json";
+import grammar from "@/data/grammar.json";
 import speak from "@/data/speak.json";
-import type { CfaData, EnglishData, SpeakData } from "@/lib/types";
+import type { CfaData, EnglishData, GrammarData, SpeakData } from "@/lib/types";
 
 const cfaData = cfa as CfaData;
 const enData = english as EnglishData;
+const grammarData = grammar as GrammarData;
 const speakData = speak as SpeakData;
 
 export default function HomePage() {
@@ -154,8 +156,13 @@ export default function HomePage() {
         <h2 className="font-[family-name:var(--font-display)] text-xl text-[var(--ink)]">
           快速入口
         </h2>
-        <div className="grid grid-cols-2 gap-3 lg:grid-cols-4">
+        <div className="grid grid-cols-2 gap-3 lg:grid-cols-5">
           <QuickLink href="/vault" label="CFA" meta={`${cfaData.total} 詞`} />
+          <QuickLink
+            href="/english/grammar"
+            label="文法"
+            meta={`${grammarData.total} 課`}
+          />
           <QuickLink
             href="/english"
             label="English"

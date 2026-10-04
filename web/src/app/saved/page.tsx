@@ -45,7 +45,9 @@ export default function SavedPage() {
                     ? "CFA"
                     : it.kind === "speak"
                       ? "跟讀"
-                      : "English"}
+                      : it.kind === "grammar"
+                        ? "文法"
+                        : "句型"}
                 </div>
                 <div className="font-medium text-[var(--ink)]">{it.title}</div>
                 <div className="text-sm text-[var(--muted)]">{it.subtitle}</div>

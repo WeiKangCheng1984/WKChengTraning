@@ -1,6 +1,6 @@
 # English Grammar & Modern Usage｜文法與現代慣用語
 
-> **狀態**：文檔草稿（尚未上架網站）  
+> **狀態**：已上架網站 → `/english/grammar`（TTS 跟讀）  
 > **口音／市場**：美式英語 — **個人生活＋投資／房產**為主（會議語氣仍保留在慣用語冊）  
 > **目標程度**：推到 **C1**  
 > **與 `english V.md` 關係**：**獨立成冊**  
@@ -2613,6 +2613,6 @@ Subject line first: rate lock decision needed by two p.m. Central. Hi Maya—qui
 | 程度 | 指向 C1 |
 | 跟讀／音檔 | 每課短文；**TTS** |
 | 配套 glossary | `real estate glossary.md` |
-| 網站 | **尚未接入**；打磨後再編譯進 `web/` |
+| 網站 | **已接入** `/english/grammar`（`npm run content:grammar`） |
 
 *— End of draft —*

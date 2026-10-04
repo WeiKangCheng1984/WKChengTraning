@@ -1,55 +1,89 @@
 import Link from "next/link";
 import english from "@/data/english.json";
-import type { EnglishData } from "@/lib/types";
+import grammar from "@/data/grammar.json";
+import type { EnglishData, GrammarData } from "@/lib/types";
 
 const data = english as EnglishData;
+const grammarData = grammar as GrammarData;
 
 export default function EnglishIndexPage() {
   return (
     <div className="space-y-8">
-      <div className="flex flex-wrap items-end justify-between gap-4">
-        <div>
-          <p className="text-xs uppercase tracking-[0.22em] text-[var(--accent)]">
-            English
-          </p>
-          <h1 className="mt-2 font-[family-name:var(--font-display)] text-3xl text-[var(--ink)] sm:text-4xl">
-            句型與片語
-          </h1>
-          <p className="mt-2 max-w-2xl text-base leading-relaxed text-[var(--muted)]">
-            共 {data.total} 組。看中文組句、切換生活／工作例句、跟讀。
-          </p>
-        </div>
-        <Link
-          href="/english/drill"
-          className="inline-flex min-h-12 items-center rounded-sm bg-[var(--accent)] px-5 text-sm font-medium text-white hover:brightness-110"
-        >
-          全部組句練習
-        </Link>
+      <div>
+        <p className="text-xs uppercase tracking-[0.22em] text-[var(--accent)]">
+          English
+        </p>
+        <h1 className="mt-2 font-[family-name:var(--font-display)] text-3xl text-[var(--ink)] sm:text-4xl">
+          英語
+        </h1>
+        <p className="mt-2 max-w-2xl text-base leading-relaxed text-[var(--muted)]">
+          句型庫與文法／慣用語兩條線，可分開練。
+        </p>
       </div>
 
       <div className="grid gap-3 sm:grid-cols-2">
-        {data.categories.map((c) => (
-          <Link
-            key={c.slug}
-            href={`/english/${c.slug}`}
-            className="card-tap block min-h-24"
-          >
-            <div className="flex items-baseline justify-between gap-3">
-              <h2 className="font-[family-name:var(--font-display)] text-xl text-[var(--ink)]">
-                {c.title}
-              </h2>
-              <span className="shrink-0 text-xs text-[var(--muted)]">
-                {c.items.length} 組
-              </span>
-            </div>
-            {c.description ? (
-              <p className="mt-2 line-clamp-2 text-sm text-[var(--muted)]">
-                {c.description}
-              </p>
-            ) : null}
-          </Link>
-        ))}
+        <Link
+          href="/english/grammar"
+          className="block rounded-sm border border-[var(--ink)] bg-[var(--ink)] px-5 py-6 text-[var(--paper)] transition hover:brightness-110"
+        >
+          <p className="text-xs uppercase tracking-[0.18em] text-[var(--accent-soft-text)]">
+            Grammar & Usage
+          </p>
+          <h2 className="mt-2 font-[family-name:var(--font-display)] text-2xl">
+            文法與慣用語
+          </h2>
+          <p className="mt-2 text-sm text-white/70">
+            {grammarData.total} 課 · 生活／房產場景 · 跟讀 TTS
+          </p>
+          <span className="mt-4 inline-block text-sm">打開 →</span>
+        </Link>
+        <Link
+          href="/english/drill"
+          className="card-tap flex flex-col justify-between"
+        >
+          <div>
+            <p className="text-xs uppercase tracking-[0.18em] text-[var(--accent)]">
+              Patterns
+            </p>
+            <h2 className="mt-2 font-[family-name:var(--font-display)] text-2xl text-[var(--ink)]">
+              句型組句練習
+            </h2>
+            <p className="mt-2 text-sm text-[var(--muted)]">
+              全部 {data.total} 組跨類練習
+            </p>
+          </div>
+          <span className="mt-4 text-sm text-[var(--ink)]">開始 →</span>
+        </Link>
       </div>
+
+      <section className="space-y-3">
+        <h2 className="font-[family-name:var(--font-display)] text-xl text-[var(--ink)]">
+          句型分類
+        </h2>
+        <div className="grid gap-3 sm:grid-cols-2">
+          {data.categories.map((c) => (
+            <Link
+              key={c.slug}
+              href={`/english/${c.slug}`}
+              className="card-tap block min-h-24"
+            >
+              <div className="flex items-baseline justify-between gap-3">
+                <h3 className="font-[family-name:var(--font-display)] text-xl text-[var(--ink)]">
+                  {c.title}
+                </h3>
+                <span className="shrink-0 text-xs text-[var(--muted)]">
+                  {c.items.length} 組
+                </span>
+              </div>
+              {c.description ? (
+                <p className="mt-2 line-clamp-2 text-sm text-[var(--muted)]">
+                  {c.description}
+                </p>
+              ) : null}
+            </Link>
+          ))}
+        </div>
+      </section>
     </div>
   );
 }

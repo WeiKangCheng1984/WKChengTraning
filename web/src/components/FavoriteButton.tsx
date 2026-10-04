@@ -6,7 +6,7 @@ import { onStorageChange } from "@/lib/persist";
 
 type Props = {
   id: string;
-  kind: "cfa" | "en" | "speak";
+  kind: "cfa" | "en" | "speak" | "grammar";
   title: string;
   subtitle: string;
   href: string;

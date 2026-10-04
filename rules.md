@@ -1,7 +1,8 @@
 # 專案規則｜全方位學習網站
 
 > 本檔是產品方向、範圍與開發約束的單一來源。  
-> **分三階段推進**；未到的階段預設不做。變更範圍時先更新本檔再動手。
+> **分三階段推進**；未到的階段預設不做。變更範圍時先更新本檔再動手。  
+> **內容缺口與補齊波次**見 `pending content.md`（討論用；定案後再改本檔對齊）。
 
 ---
 
@@ -73,8 +74,8 @@
 | `english V.md` | 英語句型／片語／情境例句（生活＋工作） | **English Drill** |
 | `6r.md` | 常用口語 6 篇英文腳本（建置時補中文） | **Speak Track** |
 | `web/public/audio/speak/common/*.mp3` | 常用口語真人錄音（自行放置） | **Speak Track** |
-| `english grammar.md` | 文法＋現代慣用語 36 課（生活／房產例句＋每課跟讀短文；TTS） | **尚未上架**（打磨後再進 English） |
-| `real estate glossary.md` | 美式房地產術語獨立表（中英） | **尚未上架** |
+| `english grammar.md` | 文法＋現代慣用語 36 課（生活／房產例句＋每課跟讀短文；TTS） | **English → 文法** `/english/grammar` |
+| `real estate glossary.md` | 美式房地產術語獨立表（中英） | **尚未上架**（文檔備用） |
 
 輔助（可選，不取代上述兩檔）：
 

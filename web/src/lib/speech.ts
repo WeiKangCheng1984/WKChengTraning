@@ -1,4 +1,4 @@
-export function speakEnglish(text: string) {
+export function speakEnglish(text: string, onEnd?: () => void) {
   if (typeof window === "undefined" || !text.trim()) return;
   const synth = window.speechSynthesis;
   if (!synth) return;
@@ -14,5 +14,15 @@ export function speakEnglish(text: string) {
     voices.find((v) => v.lang.startsWith("en"));
   if (preferred) utter.voice = preferred;
 
+  if (onEnd) {
+    utter.onend = () => onEnd();
+    utter.onerror = () => onEnd();
+  }
+
   synth.speak(utter);
+}
+
+export function stopSpeaking() {
+  if (typeof window === "undefined" || !window.speechSynthesis) return;
+  window.speechSynthesis.cancel();
 }

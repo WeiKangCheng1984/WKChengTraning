@@ -23,8 +23,7 @@ export function SpeakButton({ text, label = "發音", size = "md" }: Props) {
     e.stopPropagation();
     if (!text.trim()) return;
     setPlaying(true);
-    speakEnglish(text);
-    window.setTimeout(() => setPlaying(false), Math.min(4000, text.length * 80));
+    speakEnglish(text, () => setPlaying(false));
   }
 
   const dim =

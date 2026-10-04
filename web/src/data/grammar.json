@@ -1,0 +1,3896 @@
+{
+  "source": "english grammar.md",
+  "total": 36,
+  "audio": "tts",
+  "books": [
+    {
+      "id": 1,
+      "title": "基礎骨架",
+      "blurb": "時態與情態是 C1 的底盤：重點不是「背公式」，而是**在生活與房產／投資場景裡選對時間視角與語氣強度**。"
+    },
+    {
+      "id": 2,
+      "title": "句子怎麼長得自然",
+      "blurb": "C1 的差異常在「主詞是否清楚、連接是否像美國人思考順序」，不是單字量。"
+    },
+    {
+      "id": 3,
+      "title": "易錯點專治",
+      "blurb": "這冊針對華語母語者高頻「聽得懂但說出來別扭」的點；C1 要的是穩定、不是偶爾說對。"
+    },
+    {
+      "id": 4,
+      "title": "現代慣用語與口語潤滑",
+      "blurb": "這冊是 C1「聽起來像會開會的人」的核心：語域意識＋高頻 chunks。與文法冊獨立，可單獨刷。"
+    },
+    {
+      "id": 5,
+      "title": "場景包 Lifestyle／Real Estate",
+      "blurb": "把文法與慣用語丟進真實場景；本冊現在就寫進文檔，供後續 Real Estate／Lifestyle 模組重用。"
+    },
+    {
+      "id": 6,
+      "title": "進階表達",
+      "blurb": "把語氣、回饋、簡報與寫作收成可上戰場的 C1 技能；仍與 `english V.md` 獨立。"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "grammar-01",
+      "num": 1,
+      "slug": "grammar-01-present-simple-vs-present-continuous",
+      "bookId": 1,
+      "bookTitle": "基礎骨架",
+      "titleZh": "現在簡單 vs 現在進行",
+      "titleEn": "Present Simple vs Present Continuous",
+      "focus": "習慣／事實用簡單式；此刻、暫時、或帶情緒的「老是這樣」用進行式。",
+      "contrasts": [
+        {
+          "bad": "I am living in Austin.（若已定居）",
+          "good": "I live in Austin.",
+          "note": "長期狀態用簡單式"
+        },
+        {
+          "bad": "He always complains.（平淡）",
+          "good": "He's always complaining.",
+          "note": "進行式＋always＝不耐煩／吐槽"
+        },
+        {
+          "bad": "I work on the deck right now.",
+          "good": "I'm working on the deck right now.",
+          "note": "當下動作用進行式"
+        },
+        {
+          "bad": "The train is leaving at 6 every day.",
+          "good": "The train leaves at 6 every day.",
+          "note": "時刻表用簡單式"
+        }
+      ],
+      "rules": [
+        "現在簡單：習慣、真理、長期工作／居住、時刻表。",
+        "現在進行：說話當下、暫時安排、發展中的趨勢（*The market is cooling.*）。",
+        "狀態動詞（know, want, own, seem）通常不用進行式；C1 例外：*I'm loving this*（口語強調體驗）。",
+        "職場：進度更新常用進行式（*We're finalizing…*）；職責描述用簡單式（*I own the vendor relationship.*）。"
+      ],
+      "examples": [
+        {
+          "tag": "生活",
+          "en": "I usually cook on Sundays, but tonight I'm touring a condo instead.",
+          "zh": "我週日通常自己煮，但今晚改去看公寓。"
+        },
+        {
+          "tag": "房產",
+          "en": "She manages two rentals, and she's meeting a plumber this afternoon.",
+          "zh": "她管兩間出租，今天下午要見水電工。"
+        },
+        {
+          "tag": "投資",
+          "en": "The numbers look fine on paper, but occupancy is shrinking.",
+          "zh": "紙上數字還行，但入住率正在縮。"
+        },
+        {
+          "tag": "生活",
+          "en": "You're always forwarding listings at midnight.",
+          "zh": "你老是半夜轉掛牌連結給我。"
+        },
+        {
+          "tag": "房產",
+          "en": "Do you believe this HOA fee, or is it just me?",
+          "zh": "您覺得這管理費合理嗎，還是只有我覺得誇張？"
+        },
+        {
+          "tag": "投資",
+          "en": "I don't think that cap rate assumes enough vacancy.",
+          "zh": "我不認為那個資本化率有假設足夠空置。"
+        }
+      ],
+      "passage": {
+        "en": "I usually keep weekends quiet, but this month I'm touring houses almost every Saturday. The neighborhood feels right, and I'm taking notes on light, noise, and parking. My agent is always sending new listings, which helps, though it's a little overwhelming. Right now I'm comparing two condos near the trail. One has a tiny kitchen; the other has better storage. I don't need perfection. I need a place that works for daily life and still makes sense as a long-term hold.",
+        "zh": "我週末通常很安靜，但這個月幾乎每週六都在看房。這社區感覺對了，我邊看邊記採光、噪音和停車。經紀人老是丟新物件給我，有幫助，但也有點負荷。現在我在比較步道附近兩間公寓：一間廚房很小，另一間收納較好。我不需要完美，只要日常好住、長期持有也說得通。",
+        "words": 82
+      },
+      "idioms": [
+        {
+          "phrase": "as a rule",
+          "gloss": "一般來說、通常",
+          "domain": "中性"
+        },
+        {
+          "phrase": "for the time being",
+          "gloss": "暫時、眼下先這樣",
+          "domain": "職場／中性"
+        },
+        {
+          "phrase": "in the middle of something",
+          "gloss": "正忙著某事",
+          "domain": "口語／職場"
+        },
+        {
+          "phrase": "these days",
+          "gloss": "近來（帶變化感）",
+          "domain": "中性"
+        }
+      ],
+      "practices": [
+        "改寫：I work late this week.（若指本週暫時加班）",
+        "選較自然： (a) I am knowing the answer. (b) I know the answer.",
+        "用一句進行式吐槽同事「開會老滑手機」。"
+      ],
+      "answers": [
+        "I'm working late this week.",
+        "(b)",
+        "例：He's always scrolling through his phone in meetings."
+      ]
+    },
+    {
+      "id": "grammar-02",
+      "num": 2,
+      "slug": "grammar-02-past-simple-vs-present-perfect",
+      "bookId": 1,
+      "bookTitle": "基礎骨架",
+      "titleZh": "過去簡單 vs 現在完成",
+      "titleEn": "Past Simple vs Present Perfect",
+      "focus": "有明確過去時間錨 → 過去簡單；連到「現在仍相關／經驗／未竟」→ 現在完成。",
+      "contrasts": [
+        {
+          "bad": "I have seen him yesterday.",
+          "good": "I saw him yesterday.",
+          "note": "有 yesterday 就用過去簡單"
+        },
+        {
+          "bad": "Did you ever try matcha?",
+          "good": "Have you ever tried matcha?",
+          "note": "人生經驗用現在完成"
+        },
+        {
+          "bad": "I already sent it yesterday… wait.",
+          "good": "I already sent it. / I sent it yesterday.",
+          "note": "already 多配完成；有明確日則過去"
+        },
+        {
+          "bad": "I lost my keys.（若還在找）",
+          "good": "I've lost my keys.",
+          "note": "結果影響現在用完成"
+        }
+      ],
+      "rules": [
+        "過去簡單：finished time（yesterday, last quarter, in 2019, when I was…）。",
+        "現在完成：unfinished time（today, this week, so far）、經驗、剛發生、對現在有結果。",
+        "美式口語常把 just/already 配過去簡單（*I already ate.*）；正式職場寫作仍多用完成式。",
+        "C1：*I've been meaning to…*（一直想做還沒做完）比 *I meant to* 更有「拖延到現在」的味道。"
+      ],
+      "examples": [
+        {
+          "tag": "生活",
+          "en": "Have you eaten yet? I already grabbed tacos between showings.",
+          "zh": "你吃了嗎？我在帶看空檔吃了塔可。"
+        },
+        {
+          "tag": "房產",
+          "en": "We listed the place last Monday, and we've already booked twelve showings.",
+          "zh": "上週一掛牌，已經約了十二場帶看。"
+        },
+        {
+          "tag": "投資",
+          "en": "I haven't heard back from the lender, so I'm holding the wire.",
+          "zh": "貸方還沒回，所以匯款我先按住。"
+        },
+        {
+          "tag": "生活",
+          "en": "I've never been great at open houses, but I'm getting better at small talk.",
+          "zh": "我從來不擅長開放看屋寒暄，但有在進步。"
+        },
+        {
+          "tag": "房產",
+          "en": "She called an hour ago and said the lockbox code had changed.",
+          "zh": "她一小時前打電話說鎖盒密碼改了。"
+        },
+        {
+          "tag": "投資",
+          "en": "We've seen this repair pattern before on 1990s roofs.",
+          "zh": "一九九〇年代屋頂我們看過這種維修模式。"
+        }
+      ],
+      "passage": {
+        "en": "We've already toured eight places this month, and I've never felt this decisive about housing before. Yesterday we saw a duplex with solid bones, but we've also noticed deferred maintenance in almost every unit. I haven't received the HOA documents yet, so I'm holding my enthusiasm. Last spring we rushed a rental decision and regretted it for a year. This time I've promised myself I'll wait until inspection and numbers both look clean. I'm also building a simple spreadsheet for repairs, HOA dues, and a cautious vacancy line so emotion doesn't run the decision.",
+        "zh": "這個月我們已經看了八間，我從沒對住房這麼有決斷力。昨天看了一棟底子不錯的雙拼，但幾乎每戶都有延宕維護。社區文件我還沒收到，所以興奮先按住。去年春天我們倉促租屋，後悔了一整年。這次我跟自己約定：驗屋和數字都乾淨才往下走。我也在做維修、管理費與保守空置的表，避免情緒做主。",
+        "words": 94
+      },
+      "idioms": [
+        {
+          "phrase": "so far / to date",
+          "gloss": "到目前為止",
+          "domain": "職場／中性"
+        },
+        {
+          "phrase": "as of now",
+          "gloss": "截至目前",
+          "domain": "職場"
+        },
+        {
+          "phrase": "It's been a while",
+          "gloss": "有陣子沒…",
+          "domain": "口語"
+        },
+        {
+          "phrase": "I've been meaning to…",
+          "gloss": "我一直想…（還沒做）",
+          "domain": "口語／職場"
+        }
+      ],
+      "practices": [
+        "填時態：I ___ (finish) the deck ___ (already)，但 boss ___ (ask) for changes yesterday.",
+        "哪句較佳談「經驗」：Did you visit Japan? / Have you been to Japan?",
+        "用現在完成說：法務回覆還沒來，所以合約還不能簽。"
+      ],
+      "answers": [
+        "have already finished；asked",
+        "Have you been to Japan?",
+        "例：Legal hasn't gotten back to us, so we haven't signed the contract yet."
+      ]
+    },
+    {
+      "id": "grammar-03",
+      "num": 3,
+      "slug": "grammar-03-future-will-be-going-to-present-continuous",
+      "bookId": 1,
+      "bookTitle": "基礎骨架",
+      "titleZh": "未來：will / be going to / 進行式",
+      "titleEn": "Future: will, be going to, Present Continuous",
+      "focus": "臨時決定與預測用 will；計畫／跡象用 going to；已敲定行程常用進行式。",
+      "contrasts": [
+        {
+          "bad": "I will visit my parents this weekend.（若早已排定）",
+          "good": "I'm visiting / I'm going to visit my parents this weekend.",
+          "note": "已計畫偏 going to／進行式"
+        },
+        {
+          "bad": "Look at those clouds. It will rain.",
+          "good": "It's going to rain.",
+          "note": "眼前跡象用 going to"
+        },
+        {
+          "bad": "I'm going to help you with that.（剛開口答應）",
+          "good": "I'll help you with that.",
+          "note": "當下承諾／自願用 will"
+        },
+        {
+          "bad": "The meeting will starting at 3.",
+          "good": "The meeting starts / is starting at 3.",
+          "note": "安排好的會議時刻"
+        }
+      ],
+      "rules": [
+        "will：自願、承諾、當場決定、較虛的預測（*I think it'll be fine.*）。",
+        "be going to：意圖、已決定計畫、有證據的預測。",
+        "現在進行表未來：日曆上已定（航班、會議、約會）。",
+        "職場軟承諾：*I'll take a look*（會看）≠ *I'm going to rewrite it tonight*（已打算重寫）。C1 要分力度。"
+      ],
+      "examples": [
+        {
+          "tag": "生活",
+          "en": "I'm going to deep-clean before the photographer comes tomorrow.",
+          "zh": "攝影師明天來之前，我要先大掃除。"
+        },
+        {
+          "tag": "房產",
+          "en": "I'll ping you when the inspection report is ready.",
+          "zh": "驗屋報告好了我再戳你。"
+        },
+        {
+          "tag": "投資",
+          "en": "We're meeting the seller's agent at the duplex on Thursday.",
+          "zh": "週四要在雙拼和賣方經紀人碰面。"
+        },
+        {
+          "tag": "房產",
+          "en": "This remodel is going to take longer than the first quote suggested.",
+          "zh": "這次翻修會比第一份報價說的更久。"
+        },
+        {
+          "tag": "生活",
+          "en": "Don't lift that dresser—I'll get it.",
+          "zh": "別搬那櫃，我來。"
+        },
+        {
+          "tag": "投資",
+          "en": "If the tenant pushes back on entry, we'll reschedule with notice.",
+          "zh": "若房客不讓進，我們會依法通知後改期。"
+        }
+      ],
+      "passage": {
+        "en": "I'm going to lock a rate this week if the lender still has that quote. We're meeting the inspector on Thursday, and I'll ping you when the report lands. If repairs look expensive, we'll ask for a credit instead of walking away too fast. The seller is going to want a quick close, but I'm not going to skip diligence. Worst case, we'll rent one more year. Best case, we'll be holding keys before summer. Meanwhile I'm gathering insurance quotes and confirming the HOA questionnaire won't surprise us in underwriting.",
+        "zh": "若貸方報價還在，我這週會去鎖利。週四要和驗屋師碰面，報告一到我就戳你。若維修很貴，我們會先要求折讓，而不是太快走掉。賣方會想快成交，但我不會跳過盡職調查。最壞再租一年；最好夏天前拿到鑰匙。同時我在收保險報價，並確認社區問卷不會在審核殺我個措手不及。",
+        "words": 90
+      },
+      "idioms": [
+        {
+          "phrase": "I'll take a look",
+          "gloss": "我看一下（輕承諾）",
+          "domain": "職場"
+        },
+        {
+          "phrase": "I'll keep you posted",
+          "gloss": "有進度會同步你",
+          "domain": "職場"
+        },
+        {
+          "phrase": "It's going to be tight",
+          "gloss": "時間會很緊",
+          "domain": "中性／職場"
+        },
+        {
+          "phrase": "rain check",
+          "gloss": "改天再約",
+          "domain": "口語"
+        }
+      ],
+      "practices": [
+        "情境：同事搬箱子，你當場要幫忙 → 用哪種未來？",
+        "改寫得像已排進日曆：I will have lunch with Sara on Friday.",
+        "用 going to 說：看這流量，伺服器要掛了。"
+      ],
+      "answers": [
+        "I'll help you with that.",
+        "I'm having lunch with Sara on Friday.",
+        "例：Look at this traffic—the server is going to crash."
+      ]
+    },
+    {
+      "id": "grammar-04",
+      "num": 4,
+      "slug": "grammar-04-modals-ability-obligation-deduction",
+      "bookId": 1,
+      "bookTitle": "基礎骨架",
+      "titleZh": "情態動詞：能力、義務、推測",
+      "titleEn": "Modals: Ability, Obligation, Deduction",
+      "focus": "情態動詞先選「力度」再選「禮貌」；C1 要會用推測語氣（must / might / can't）。",
+      "contrasts": [
+        {
+          "bad": "You must to sign here.",
+          "good": "You must / have to / need to sign here.",
+          "note": "情態後接原形"
+        },
+        {
+          "bad": "You must come if free?（邀約）",
+          "good": "You should come if you're free. / You might want to…",
+          "note": "must 太硬，像命令"
+        },
+        {
+          "bad": "He can be in a meeting.（推測）",
+          "good": "He might / could be in a meeting.",
+          "note": "can 少用於肯定推測"
+        },
+        {
+          "bad": "You don't must go.",
+          "good": "You don't have to go. / You mustn't go.",
+          "note": "不必 vs 禁止 完全不同"
+        }
+      ],
+      "rules": [
+        "能力：can / be able to；過去能力 could / was able to（單一成功事件美式常用 managed to / was able to）。",
+        "義務：must（說話者強勢）、have to（外在規定）、need to（務實必要）、should / ought to（建議）。",
+        "禁止：mustn't / can't；不必：don't have to / don't need to。",
+        "推測強度：must（幾乎肯定）> should（合理期待）> might/could（可能）> can't（幾乎不可能）。",
+        "職場軟化：*You might want to…* / *We may need to…* 比 *You must…* 更 C1。"
+      ],
+      "examples": [
+        {
+          "tag": "房產",
+          "en": "We may need to push the closing by a week.",
+          "zh": "我們可能要把成交延後一週。"
+        },
+        {
+          "tag": "投資",
+          "en": "You might want to loop in your CPA before you promise that rent concession.",
+          "zh": "承諾租金讓利前，最好先找會計。"
+        },
+        {
+          "tag": "生活",
+          "en": "He can't still be at the hardware store—it's been two hours.",
+          "zh": "他不可能還在五金行，都兩小時了。"
+        },
+        {
+          "tag": "房產",
+          "en": "I should be done measuring rooms by five, assuming no surprises.",
+          "zh": "沒意外的話，我五點前能量完房間。"
+        },
+        {
+          "tag": "投資",
+          "en": "Contractors have to carry insurance on every rehab site.",
+          "zh": "每個整修工地承包商都必須有保險。"
+        },
+        {
+          "tag": "生活",
+          "en": "You don't have to bring a gift to the housewarming, but snacks are welcome.",
+          "zh": "暖房禮不必帶，但零食永遠受歡迎。"
+        }
+      ],
+      "passage": {
+        "en": "We may need to push closing if the appraisal is late. You might want to loop in your lender today. Contractors have to carry insurance on site, and we shouldn't waive that requirement. I can't still believe the water heater is original—it must be near end of life. You don't have to buy furniture immediately after closing. You should, however, budget for a few urgent fixes. If the roof concerns you, we might get a specialist opinion before we finalize credits.",
+        "zh": "估價若延誤，我們可能要延後成交。你今天最好就把貸方拉進來。工地承包商必須有保險，這項不該放棄。熱水器居然是原裝的，我簡直不敢信——肯定快壽終了。成交後不必立刻買齊家具，但應該編一點緊急維修預算。若擔心屋頂，定案折讓前也許該找專人看。",
+        "words": 82
+      },
+      "idioms": [
+        {
+          "phrase": "might want to…",
+          "gloss": "建議你…（軟）",
+          "domain": "職場"
+        },
+        {
+          "phrase": "have to / need to",
+          "gloss": "必須／需要",
+          "domain": "中性"
+        },
+        {
+          "phrase": "shouldn't be an issue",
+          "gloss": "照理不該有問題",
+          "domain": "職場"
+        },
+        {
+          "phrase": "can't be right",
+          "gloss": "這不可能對",
+          "domain": "口語／職場"
+        }
+      ],
+      "practices": [
+        "分辨：You mustn't tell anyone. vs You don't have to tell anyone.",
+        "用推測：燈亮著但沒人應門 → 他們一定出去了／可能在院子。",
+        "把命令軟化：You must revise the deck today. → 職場版。"
+      ],
+      "answers": [
+        "前者＝禁止說；後者＝不必說。",
+        "例：They must have gone out. / They might be in the backyard.",
+        "例：You might want to revise the deck today. / We'll need the deck revised today."
+      ]
+    },
+    {
+      "id": "grammar-05",
+      "num": 5,
+      "slug": "grammar-05-conditionals-real-unreal-past-regret",
+      "bookId": 1,
+      "bookTitle": "基礎骨架",
+      "titleZh": "條件句：真實、假設、後悔",
+      "titleEn": "Conditionals: Real, Unreal, Past Regret",
+      "focus": "先分「可能發生」還是「假想／後悔」，動詞形式跟著世界真假走。",
+      "contrasts": [
+        {
+          "bad": "If I will see her, I tell her.",
+          "good": "If I see her, I'll tell her.",
+          "note": "真實條件：現在簡單＋will"
+        },
+        {
+          "bad": "If I am you, I would…",
+          "good": "If I were you, I would…",
+          "note": "假想用 were（C1 仍常用）"
+        },
+        {
+          "bad": "If I would have known…",
+          "good": "If I had known… / Had I known…",
+          "note": "過去假設不用 would have 在 if 子句"
+        },
+        {
+          "bad": "If we hired him, we have more capacity.",
+          "good": "If we hired him, we'd have more capacity.",
+          "note": "假想結果用 would"
+        }
+      ],
+      "rules": [
+        "零／第一條件：真實、習慣、可能→ If + 現在，will / can / imperative。",
+        "第二條件：現在／未來假想→ If + 過去式，would / could / might + 原形。",
+        "第三條件：過去後悔→ If + had + PP，would have + PP。",
+        "混合：*If I had taken that role, I'd be in New York now.*（過去假想→現在結果）",
+        "職場：*If we miss this window, we risk the rate lock.*（真實威脅用第一條件更有力）"
+      ],
+      "examples": [
+        {
+          "tag": "房產",
+          "en": "If the appraisal comes in low, we'll renegotiate or walk.",
+          "zh": "若估價偏低，我們會重談或退出。"
+        },
+        {
+          "tag": "投資",
+          "en": "If I were running this, I'd cut fancy finishes before I'd cut structural fixes.",
+          "zh": "換我操盤，會先砍花俏裝潢而不是結構維修。"
+        },
+        {
+          "tag": "生活",
+          "en": "If I'd left earlier, I wouldn't have missed the open house.",
+          "zh": "早點出門就不會錯過開放看屋。"
+        },
+        {
+          "tag": "房產",
+          "en": "Had we known about the special assessment, we might have bid differently.",
+          "zh": "早知道特別攤派，出價可能不同。"
+        },
+        {
+          "tag": "生活",
+          "en": "If it keeps raining, I'm canceling the yard cleanup.",
+          "zh": "雨再這樣下，庭院清理我就取消。"
+        },
+        {
+          "tag": "投資",
+          "en": "Unless the rent roll balances, we can't proceed to underwriting.",
+          "zh": "除非租金表對得起來，否則不能進審核。"
+        }
+      ],
+      "passage": {
+        "en": "If the appraisal comes in low, we'll renegotiate or walk. If I were you, I'd keep the inspection contingency. If I'd known about the special assessment, I would have bid differently. Unless the HOA letter arrives, we can't lock a firm closing date. If rates keep rising, we'll lock sooner rather than later. Had we skipped the sewer scope, we might have inherited a five-figure surprise. I'm writing these if-then rules down now, because negotiations move fast and I don't want to invent policy under pressure.",
+        "zh": "若估價偏低，我們會重談或退出。換我是你，我會保留驗屋附條件。早知道有特別攤派，出價策略會不同。除非社區證明信到手，否則訂不了明確成交日。利率若持續升，我們寧早鎖不利晚鎖。當初若略過下水道檢測，可能吞下五位數驚喜。我先把這些 if-then 寫下，談判一快才不會臨時發明原則。",
+        "words": 88
+      },
+      "idioms": [
+        {
+          "phrase": "unless",
+          "gloss": "除非（= if not）",
+          "domain": "中性"
+        },
+        {
+          "phrase": "in case",
+          "gloss": "以防萬一（預備）",
+          "domain": "中性"
+        },
+        {
+          "phrase": "worst case",
+          "gloss": "最壞情況",
+          "domain": "職場／口語"
+        },
+        {
+          "phrase": "if need be",
+          "gloss": "必要的話",
+          "domain": "職場"
+        }
+      ],
+      "practices": [
+        "改錯：If I would be free, I would join.",
+        "用第三條件：昨天沒備份，結果檔案毀了。",
+        "用第一條件：利率若再升，我們就鎖利。"
+      ],
+      "answers": [
+        "If I were free, I would join. / If I'm free, I'll join.",
+        "例：If I had backed up yesterday, the file wouldn't have been ruined.",
+        "例：If rates rise again, we'll lock."
+      ]
+    },
+    {
+      "id": "grammar-06",
+      "num": 6,
+      "slug": "grammar-06-passives-when-they-help-and-when-they-don-t",
+      "bookId": 1,
+      "bookTitle": "基礎骨架",
+      "titleZh": "被動語態：何時該用",
+      "titleEn": "Passives: When They Help (and When They Don't)",
+      "focus": "被動用來藏執行者、強調結果或顯得客觀；濫用會像在推責或官腔。",
+      "contrasts": [
+        {
+          "bad": "Mistakes were made by me.",
+          "good": "I made mistakes. / Mistakes were made.（刻意模糊）",
+          "note": "推責感 vs 負責"
+        },
+        {
+          "bad": "The email was sent by me yesterday.",
+          "good": "I sent the email yesterday.",
+          "note": "執行者重要就用主動"
+        },
+        {
+          "bad": "We are completed the walkthrough.",
+          "good": "The walkthrough has been completed. / We completed…",
+          "note": "形式要正確"
+        },
+        {
+          "bad": "It is appreciated your help.",
+          "good": "Your help is appreciated. / We appreciate your help.",
+          "note": "美式職場兩者皆可，後者更暖"
+        }
+      ],
+      "rules": [
+        "結構：be + past participle；（完成）has been + PP；（情態）should be + PP。",
+        "適合被動：流程、規定、未知執行者、科學／報告客觀口吻、不想指責個人。",
+        "不適合：行動號召、承認錯誤、需要清楚 ownership 時。",
+        "C1：*get*-passive（*got promoted, got delayed*）偏口語；正式文件用 *be*-passive。"
+      ],
+      "examples": [
+        {
+          "tag": "房產",
+          "en": "The offer was submitted before noon.",
+          "zh": "出價已在中午前送出。"
+        },
+        {
+          "tag": "投資",
+          "en": "You'll be looped in once the operating statements are ready.",
+          "zh": "營運報表好了就會拉你進來。"
+        },
+        {
+          "tag": "生活",
+          "en": "Our movers got delayed three hours in traffic.",
+          "zh": "搬家公司堵車延誤了三小時。"
+        },
+        {
+          "tag": "房產",
+          "en": "Nothing has been decided on the credit yet.",
+          "zh": "折讓尚未定案。"
+        },
+        {
+          "tag": "生活",
+          "en": "I own this miss—the utility transfer wasn't scheduled.",
+          "zh": "這次疏失我負責——公共事業過戶沒排程。"
+        },
+        {
+          "tag": "房產",
+          "en": "The house was built in the 1990s and later remodeled.",
+          "zh": "房子一九九〇年代建，後來翻修過。"
+        }
+      ],
+      "passage": {
+        "en": "The bid was submitted before noon, and the inspection has been scheduled for Friday. You'll be looped in once the redlines are ready. Nothing has been decided on the credit amount yet. Our flight got delayed, so the out-of-town buyers will see the house tomorrow. I own this miss—the wire instructions weren't sent on time. The house was built in the nineties and later remodeled, which shows in the kitchen more than the roof. Passive voice helps in updates, but when money moves I switch back to clear ownership so nobody assumes the wrong person acted.",
+        "zh": "標書中午前已送出，驗屋排在週五。紅線一好就會把你拉進討論；折讓金額尚未定案。班機延誤，外縣市買家改明天看屋。匯款指示沒準時寄出，這次疏失我負責。房子九〇年代建造、後來翻修過，廚房看得到，屋頂比較看不出。更新可用被動，但一牽涉金流我就改回清楚 ownership。",
+        "words": 99
+      },
+      "idioms": [
+        {
+          "phrase": "get delayed / get pushed",
+          "gloss": "被延誤／被往後推",
+          "domain": "口語／職場"
+        },
+        {
+          "phrase": "to be looped in",
+          "gloss": "被納入知情／討論",
+          "domain": "職場"
+        },
+        {
+          "phrase": "the ball is in your court",
+          "gloss": "下一動輪到你",
+          "domain": "職場"
+        },
+        {
+          "phrase": "ownership",
+          "gloss": "誰負責（名詞用法）",
+          "domain": "職場"
+        }
+      ],
+      "practices": [
+        "改成更負責的主動：The deadline was missed.",
+        "何時用被動較佳：公告「電梯本週維修」。",
+        "把口語 get-passive 改正式：We got rejected by the lender."
+      ],
+      "answers": [
+        "例：I missed the deadline. / We missed the deadline.",
+        "例：The elevator will be serviced this week.",
+        "例：We were rejected by the lender. / Our application was declined…"
+      ]
+    },
+    {
+      "id": "grammar-07",
+      "num": 7,
+      "slug": "grammar-07-infinitives-vs-gerunds",
+      "bookId": 1,
+      "bookTitle": "基礎骨架",
+      "titleZh": "不定詞 vs 動名詞",
+      "titleEn": "Infinitives vs Gerunds",
+      "focus": "有些動詞接 to-V，有些接 V-ing；改了不只是文法錯，語氣也會變。",
+      "contrasts": [
+        {
+          "bad": "I look forward to meet you.",
+          "good": "I look forward to meeting you.",
+          "note": "to 是介系詞→ V-ing"
+        },
+        {
+          "bad": "I suggest to leave early.",
+          "good": "I suggest leaving early. / I suggest that we leave…",
+          "note": "suggest 不接 to-V"
+        },
+        {
+          "bad": "Don't forget locking the door.（若還未做）",
+          "good": "Don't forget to lock the door.",
+          "note": "forget to = 忘了要做"
+        },
+        {
+          "bad": "I stopped to smoke for years.（若指戒菸）",
+          "good": "I stopped smoking years ago.",
+          "note": "stop V-ing＝停止該行為"
+        }
+      ],
+      "rules": [
+        "常接 to-V：want, need, plan, hope, decide, agree, refuse, learn, afford。",
+        "常接 V-ing：enjoy, avoid, consider, finish, mind, risk, keep, suggest, recommend。",
+        "介系詞後一律 V-ing（含 *look forward to, be used to, end up*）。",
+        "意思會變：remember/forget/stop/try + to-V vs V-ing——C1 必分。",
+        "職場高頻：*We can't afford to slip.* / *It's worth revisiting.* / *I don't mind owning this.*"
+      ],
+      "examples": [
+        {
+          "tag": "房產",
+          "en": "I'm looking forward to walking the property with you.",
+          "zh": "我很期待和你一起實地看屋。"
+        },
+        {
+          "tag": "投資",
+          "en": "We can't afford to miss another inspection window on this asset.",
+          "zh": "這資產不能再錯過下一個驗屋時段。"
+        },
+        {
+          "tag": "生活",
+          "en": "I tried resetting the breaker, then I tried to call a neighbor.",
+          "zh": "我試過重設斷路器，接著才打給鄰居。"
+        },
+        {
+          "tag": "房產",
+          "en": "Would you mind sending the survey again?",
+          "zh": "可以麻煩再寄一次測量圖嗎？"
+        },
+        {
+          "tag": "生活",
+          "en": "She stopped buying impulse decor after the last move.",
+          "zh": "上次搬家後她不再衝動買裝飾。"
+        },
+        {
+          "tag": "投資",
+          "en": "I forgot to attach the comps—sending them now.",
+          "zh": "我忘了附可比案例，現在補上。"
+        }
+      ],
+      "passage": {
+        "en": "I'm looking forward to walking the property with you this weekend. We can't afford to miss another inspection window, and it's worth revisiting the repair list tonight. I tried restarting the thermostat, then I tried to call the HVAC tech. Would you mind sending the rent roll again? I forgot to save it. She stopped DIY-ing electrical work years ago—and ended up hiring a licensed pro, which was smart. Small grammar choices like this show up constantly in vendor texts, and clean phrasing prevents expensive misunderstandings.",
+        "zh": "我很期待這週末和你一起實地看屋。我們不能再錯過驗屋時段，今晚值得重看維修清單。我試過重開恆溫器，接著才打給空調技師。可以麻煩再寄一次租金表嗎？我忘了存。她多年前就不自己碰電路了，最後請有照師傅，這很明智。這類小選擇常出現在廠商訊息裡，說清楚能避免昂贵誤會。",
+        "words": 88
+      },
+      "idioms": [
+        {
+          "phrase": "look forward to + V-ing",
+          "gloss": "期待做某事",
+          "domain": "職場／中性"
+        },
+        {
+          "phrase": "can't afford to",
+          "gloss": "承擔不起（後果）",
+          "domain": "中性／職場"
+        },
+        {
+          "phrase": "worth + V-ing",
+          "gloss": "值得…",
+          "domain": "中性"
+        },
+        {
+          "phrase": "end up + V-ing",
+          "gloss": "結果卻…",
+          "domain": "口語／中性"
+        }
+      ],
+      "practices": [
+        "改錯：I suggest to revisit the budget.",
+        "選：I remember ___ (meet) her in Dallas.（記得見過）",
+        "用 look forward to 寫一句會前信。"
+      ],
+      "answers": [
+        "I suggest revisiting the budget. / I suggest that we revisit…",
+        "meeting",
+        "例：I'm looking forward to discussing next steps on Friday."
+      ]
+    },
+    {
+      "id": "grammar-08",
+      "num": 8,
+      "slug": "grammar-08-relative-clauses-and-reducing-them",
+      "bookId": 1,
+      "bookTitle": "基礎骨架",
+      "titleZh": "關係子句精簡",
+      "titleEn": "Relative Clauses (and Reducing Them)",
+      "focus": "用 who/which/that 補資訊；C1 還要會省略與分詞精簡，讓句子緊。",
+      "contrasts": [
+        {
+          "bad": "The guy which called…",
+          "good": "The guy who / that called…",
+          "note": "人用 who/that"
+        },
+        {
+          "bad": "The report, that we sent, …（非限定卻用 that）",
+          "good": "The report, which we sent, …",
+          "note": "非限定用 which，有逗號"
+        },
+        {
+          "bad": "The person I talked to her was helpful.",
+          "good": "The person I talked to was helpful.",
+          "note": "勿重複受詞"
+        },
+        {
+          "bad": "People live nearby are friendly.（缺關係詞／分詞）",
+          "good": "People who live nearby… / People living nearby…",
+          "note": "要連接裝置"
+        }
+      ],
+      "rules": [
+        "限定關係子句：必要資訊，可用 that；美式口語常用 that。",
+        "非限定：額外資訊，用逗號＋which/who，不用 that。",
+        "受格關係詞可省：*the deck (that) I sent*。",
+        "精簡：*the team working on escrow*；*issues raised in diligence*。",
+        "介系詞：正式 *to whom*；自然美式 *who I spoke with* / *the lender I spoke with*。"
+      ],
+      "examples": [
+        {
+          "tag": "房產",
+          "en": "Here's the version that incorporates the inspection notes.",
+          "zh": "這版已納入驗屋意見。"
+        },
+        {
+          "tag": "投資",
+          "en": "The inspector we hired flagged the roof and the HVAC.",
+          "zh": "我們請的驗屋師標出屋頂與空調。"
+        },
+        {
+          "tag": "生活",
+          "en": "Anyone who's painted a room in summer knows patience matters.",
+          "zh": "夏天漆過房間的人都知道要有耐心。"
+        },
+        {
+          "tag": "房產",
+          "en": "The clause, which felt minor at first, became a deal point.",
+          "zh": "那條款起初不起眼，後來成談判點。"
+        },
+        {
+          "tag": "投資",
+          "en": "Investors applying after Friday won't be in this round.",
+          "zh": "週五後申請的投資人進不了這輪。"
+        },
+        {
+          "tag": "生活",
+          "en": "That's the cafe I was telling you about near the listing.",
+          "zh": "就是掛牌附近我提過的那家咖啡店。"
+        }
+      ],
+      "passage": {
+        "en": "Here's the version that incorporates the inspector's notes. The contractor we hired flagged the roof first. Anyone who's been through a remodel knows dust finds every closet. The clause which felt minor at first became a real deal point in negotiations. Buyers applying after the weekend won't see this listing in time. That's the duplex I was telling you about—the one with the ADU over the garage. When the description gets long, I trim relative clauses so the repair list stays readable on a phone at the property.",
+        "zh": "這版已納入驗屋師意見。我們請的承包商最先標出屋頂問題。翻修過的人都知道灰塵會鑽進每個衣櫃。起初不起眼的條款，談判時變成真正關鍵。週末後才申請看房的人趕不上這件掛牌。就是我跟你提過的那棟雙拼——車庫上方有 ADU 的那棟。描述一長，我就修剪關係子句，讓維修清單在現場手機上也讀得下去。",
+        "words": 89
+      },
+      "idioms": [
+        {
+          "phrase": "deal point",
+          "gloss": "成交／談判關鍵點",
+          "domain": "職場"
+        },
+        {
+          "phrase": "flag (an issue)",
+          "gloss": "標出問題",
+          "domain": "職場"
+        },
+        {
+          "phrase": "incorporate feedback",
+          "gloss": "把意見納進稿",
+          "domain": "職場"
+        },
+        {
+          "phrase": "the one I was telling you about",
+          "gloss": "我提過的那個",
+          "domain": "口語"
+        }
+      ],
+      "practices": [
+        "合併：I spoke with a lender. The lender is based in Austin.",
+        "精簡：People who work remotely need better async habits. → 分詞版",
+        "改錯：The house, that we toured, needs work."
+      ],
+      "answers": [
+        "例：I spoke with a lender who is based in Austin. / …a lender based in Austin.",
+        "People working remotely need better async habits.",
+        "The house, which we toured, needs work. 或限定：The house that we toured needs work."
+      ]
+    },
+    {
+      "id": "grammar-09",
+      "num": 9,
+      "slug": "grammar-09-clear-subjects-fixing-chinese-style-openers",
+      "bookId": 2,
+      "bookTitle": "句子怎麼長得自然",
+      "titleZh": "主詞要清楚",
+      "titleEn": "Clear Subjects (Fixing Chinese-style Openers)",
+      "focus": "英語句子要有明確主詞；少用「有人／就是／對於…來說」開場的直譯。",
+      "contrasts": [
+        {
+          "bad": "Has people say that…",
+          "good": "People say… / I've heard…",
+          "note": "主詞＋動詞一致"
+        },
+        {
+          "bad": "Regarding the budget is tight.",
+          "good": "The budget is tight. / Regarding the budget, it's tight.",
+          "note": "Regarding 是介系詞片語"
+        },
+        {
+          "bad": "Is very important to confirm.",
+          "good": "It's very important to confirm. / Confirming is essential.",
+          "note": "要有主詞 It／動名詞"
+        },
+        {
+          "bad": "With the weather so bad, so we canceled.",
+          "good": "The weather was so bad that we canceled. / With the weather so bad, we canceled.",
+          "note": "不要 so 重複"
+        }
+      ],
+      "rules": [
+        "每個陳述句要有主詞；祈使句主詞 you 省略。",
+        "用具體人／團隊當主詞，比 *It is needed that…* 更有力。",
+        "假主詞 it／there 是合法工具（見 Lesson 10），但別每句都用。",
+        "職場：主詞＝ownership。*Marketing will own the launch copy.*"
+      ],
+      "examples": [
+        {
+          "tag": "投資",
+          "en": "The lender still needs the final insurance binder before noon.",
+          "zh": "貸方中午前仍需要最終保險證明。"
+        },
+        {
+          "tag": "房產",
+          "en": "I'm not comfortable signing until we see the HOA docs.",
+          "zh": "沒看到社區文件前我不想簽字。"
+        },
+        {
+          "tag": "生活",
+          "en": "Someone left the porch light on for three days.",
+          "zh": "有人讓門廊燈開了三天。"
+        },
+        {
+          "tag": "投資",
+          "en": "What matters is whether the deal still cash-flows after repairs.",
+          "zh": "重點是維修後這單是否還有現金流。"
+        },
+        {
+          "tag": "生活",
+          "en": "That kind of leaf-blower noise would drive me crazy.",
+          "zh": "那種吹葉機噪音會讓我抓狂。"
+        },
+        {
+          "tag": "房產",
+          "en": "Our side will prepare the walkthrough checklist.",
+          "zh": "我方會準備實地查看檢核表。"
+        }
+      ],
+      "passage": {
+        "en": "Finance still needs the final repair numbers before we resign anything. I'm not comfortable closing until we see the HOA financials. Someone left the irrigation running all night, and the yard is soaked. What matters is whether cash flow survives a cautious vacancy assumption. Our side will prepare the walkthrough checklist; their side can bring the garage remotes. Clear subjects also keep group chats sane when agents, lenders, and contractors are all typing at once about credits, access, and who brings the garage remotes.",
+        "zh": "在重簽任何文件前，財務仍需要最終維修數字。沒看到社區財報前，我不想成交。有人讓灌溉整晚開著，院子濕透了。重點是：保守空置假設下現金流是否還活得了。我方準備實地查看檢核表；對方帶車庫遙控器即可。主詞清楚，也能讓經紀人、貸方、承包商同吵群組時少點混亂。",
+        "words": 84
+      },
+      "idioms": [
+        {
+          "phrase": "what matters is…",
+          "gloss": "重點是…",
+          "domain": "中性／職場"
+        },
+        {
+          "phrase": "I'm not comfortable + V-ing",
+          "gloss": "我對…感到不妥",
+          "domain": "職場"
+        },
+        {
+          "phrase": "on our end / on our side",
+          "gloss": "在我們這邊",
+          "domain": "職場"
+        },
+        {
+          "phrase": "drive someone crazy",
+          "gloss": "讓人受不了",
+          "domain": "口語"
+        }
+      ],
+      "practices": [
+        "改寫：Is necessary to update the client.",
+        "給清楚主詞：關於屋頂，需要換。",
+        "避免空泛：It is suggested that the meeting be moved.（改成人負責）"
+      ],
+      "answers": [
+        "It's necessary to update the client. / We need to update the client.",
+        "例：The roof needs to be replaced. / We need to replace the roof.",
+        "例：I suggest we move the meeting. / Alex suggested moving the meeting."
+      ]
+    },
+    {
+      "id": "grammar-10",
+      "num": 10,
+      "slug": "grammar-10-there-is-it-is-and-dummy-subjects",
+      "bookId": 2,
+      "bookTitle": "句子怎麼長得自然",
+      "titleZh": "There is / It is / 虛主詞",
+      "titleEn": "There is, It is, and Dummy Subjects",
+      "focus": "there 用來引出存在；it 用來談時間、天氣、距離、或延後真正主詞。",
+      "contrasts": [
+        {
+          "bad": "It has a lot of traffic today.",
+          "good": "There's a lot of traffic today.",
+          "note": "存在用 there"
+        },
+        {
+          "bad": "There is difficult to park.",
+          "good": "It's difficult to park. / Parking is difficult.",
+          "note": "形容詞補語用 it"
+        },
+        {
+          "bad": "Is a problem with the sink.",
+          "good": "There's a problem with the sink.",
+          "note": "要有 there/it"
+        },
+        {
+          "bad": "There have many options.",
+          "good": "There are many options.",
+          "note": "be 動詞單複數"
+        }
+      ],
+      "rules": [
+        "There + be + 名詞：引出新資訊（*There's an issue with…*）。",
+        "It + be + adj + to-V：評價行為（*It's tough to say no.*）。",
+        "It 當形式主詞：*It seems that…* / *It turns out…* / *It's worth noting…*。",
+        "C1：*There's no way…* / *It's not that…* 用來談判與澄清。"
+      ],
+      "examples": [
+        {
+          "tag": "房產",
+          "en": "There's still a gap between our ask and their counteroffer.",
+          "zh": "我們的要求與還價仍有落差。"
+        },
+        {
+          "tag": "投資",
+          "en": "It's worth noting that the comps are from before the rate jump.",
+          "zh": "值得注意，可比是在利率跳升前。"
+        },
+        {
+          "tag": "生活",
+          "en": "It's about twenty minutes to the grocery store without traffic.",
+          "zh": "不塞車到超市大約二十分鐘。"
+        },
+        {
+          "tag": "房產",
+          "en": "It turns out the delay was on the title side.",
+          "zh": "結果延誤出在產權那邊。"
+        },
+        {
+          "tag": "生活",
+          "en": "There's no way I'm assembling furniture past midnight.",
+          "zh": "過了半夜我不可能組家具。"
+        },
+        {
+          "tag": "投資",
+          "en": "It's not that we dislike the asset—it's that the timeline is wrong.",
+          "zh": "不是不喜歡這資產，而是時機不對。"
+        }
+      ],
+      "passage": {
+        "en": "There's still a gap between our offer and their counter. It's worth noting the comps are from last spring. It's about fifteen minutes to the office without traffic. It turns out the delay was on the title company's side. There's no way I'm painting exterior trim in this heat. It's not that the price is impossible—it's that the timeline leaves no room for surprises. Dummy subjects sound tiny, yet they carry a lot of real-estate conversation when you're framing risk without sounding dramatic.",
+        "zh": "我們出價和對方還價仍有落差。值得注意，可比案例是去年春天的。不塞車到辦公室大約十五分鐘。結果延誤出在產權公司那邊。這種熱我不可能去漆外牆飾條。不是價格完全不可能，而是時程容不下任何意外。虛主詞雖小，卻撐起很多不動產對話裡「淡定說風險」的句子。",
+        "words": 85
+      },
+      "idioms": [
+        {
+          "phrase": "there's a gap",
+          "gloss": "有落差／缺口",
+          "domain": "職場"
+        },
+        {
+          "phrase": "it's worth noting",
+          "gloss": "值得一提",
+          "domain": "職場"
+        },
+        {
+          "phrase": "it turns out",
+          "gloss": "結果是、原來",
+          "domain": "中性"
+        },
+        {
+          "phrase": "there's no way",
+          "gloss": "不可能",
+          "domain": "口語"
+        }
+      ],
+      "practices": [
+        "選：___ a few open items on the punch list.",
+        "改錯：It has three bedrooms upstairs.",
+        "用 It's not that… 澄清：不是嫌貴，是擔心維修。"
+      ],
+      "answers": [
+        "There are…",
+        "There are three bedrooms upstairs. / The house has three…",
+        "例：It's not that it's too expensive—it's that I'm worried about repairs."
+      ]
+    },
+    {
+      "id": "grammar-11",
+      "num": 11,
+      "slug": "grammar-11-connectors-rhythm-and-but-so-though-however",
+      "bookId": 2,
+      "bookTitle": "句子怎麼長得自然",
+      "titleZh": "連接與節奏",
+      "titleEn": "Connectors & Rhythm: and / but / so / though / however",
+      "focus": "美國人說話節奏靠連接詞分工：but 轉、so 推結果、though 句尾軟轉、however 偏書面。",
+      "contrasts": [
+        {
+          "bad": "I like it, but however it's pricey.",
+          "good": "I like it, but it's pricey. / …; however, it's pricey.",
+          "note": "不要疊用"
+        },
+        {
+          "bad": "Although it rained, but we went.",
+          "good": "Although it rained, we went. / It rained, but we went.",
+          "note": "although 不與 but 並用"
+        },
+        {
+          "bad": "I was tired. So that I left.",
+          "good": "I was tired, so I left.",
+          "note": "so that 表目的，不是所以"
+        },
+        {
+          "bad": "The idea is good. But.",
+          "good": "The idea is good, but… / …good. That said, …",
+          "note": "別把 But 孤成一句（寫作）"
+        }
+      ],
+      "rules": [
+        "and 加資訊；but/yet 轉折；so 結果；because/since 原因。",
+        "though / although：讓步；口語常把 *though* 放句尾（*It was rough, though.*）。",
+        "however / nevertheless：較正式，常句首＋逗號或分號連接。",
+        "C1 口語潤滑見冊 4（Actually, That said…）；本課先打穩邏輯連接。"
+      ],
+      "examples": [
+        {
+          "tag": "房產",
+          "en": "The unit shows well, but the HVAC is near end of life.",
+          "zh": "房子漂亮，但空調快壽終。"
+        },
+        {
+          "tag": "投資",
+          "en": "Diligence looks clean, so we're comfortable moving forward.",
+          "zh": "盡職調查乾淨，我們願意往前。"
+        },
+        {
+          "tag": "生活",
+          "en": "I wanted sushi. I cooked pasta after the showing, though.",
+          "zh": "想吃壽司，不過看房後還是煮了義大利麵。"
+        },
+        {
+          "tag": "投資",
+          "en": "The plan is aggressive; however, the rent upside is real.",
+          "zh": "計畫積極；但租金上行真實存在。"
+        },
+        {
+          "tag": "生活",
+          "en": "It was crowded at Costco, and the parking lot was chaos.",
+          "zh": "好市多人很多，停車場一片混亂。"
+        },
+        {
+          "tag": "房產",
+          "en": "Since the appraisal is delayed, we'll slip closing a few days.",
+          "zh": "估價延遲，成交會晚幾天。"
+        }
+      ],
+      "passage": {
+        "en": "The unit shows well, but the HVAC is near end of life. Diligence looks clean, so we're comfortable moving forward. I wanted a bigger yard. I chose the condo for commute reasons, though. The plan is aggressive; however, the upside on rents is real. It was crowded at the open house, and the driveway was pure chaos. Since the appraisal is delayed, we'll slip closing a few days without panicking. Good connectors keep a seller conversation calm: acknowledge the upside, then land the maintenance concern without apology theater.",
+        "zh": "房子看起來漂亮，但空調快壽終。盡職調查看起來乾淨，所以我們願意往前。我原本想要更大院子，不過為了通勤還是選了公寓。計畫很積極；但租金上行確實在。開放看屋人很多，車道一片混亂。既然估價延遲，成交晚幾天，先別慌。好的連接能讓對賣方的談話冷靜：先認上行，再落地維護疑慮。",
+        "words": 88
+      },
+      "idioms": [
+        {
+          "phrase": "that said",
+          "gloss": "話雖如此",
+          "domain": "職場／中性"
+        },
+        {
+          "phrase": "even so",
+          "gloss": "即便如此",
+          "domain": "中性"
+        },
+        {
+          "phrase": "so… that…",
+          "gloss": "如此…以致…",
+          "domain": "中性"
+        },
+        {
+          "phrase": "end of life (EOL)",
+          "gloss": "壽命將盡（設備）",
+          "domain": "職場"
+        }
+      ],
+      "practices": [
+        "合併兩句（轉折）：The price is fair. The timeline is unrealistic.",
+        "句尾加 though：I liked the neighborhood.",
+        "改錯：Although the offer is solid, but I'm hesitating."
+      ],
+      "answers": [
+        "例：The price is fair, but the timeline is unrealistic.",
+        "例：I liked the neighborhood, though.",
+        "Although the offer is solid, I'm hesitating."
+      ]
+    },
+    {
+      "id": "grammar-12",
+      "num": 12,
+      "slug": "grammar-12-subordinate-clauses-because-since-although-while",
+      "bookId": 2,
+      "bookTitle": "句子怎麼長得自然",
+      "titleZh": "從屬子句",
+      "titleEn": "Subordinate Clauses: because / since / although / while",
+      "focus": "從屬子句把原因、讓步、對比嵌進主句，讓論點一次說完。",
+      "contrasts": [
+        {
+          "bad": "Because I was late, so I missed it.",
+          "good": "Because I was late, I missed it.",
+          "note": "不要 because…so"
+        },
+        {
+          "bad": "Since I don't know.（當「因為」卻不完整）",
+          "good": "Since I don't know, I'll ask. / I don't know.",
+          "note": "since 子句不能當整句甩那裡"
+        },
+        {
+          "bad": "While I agree the design…（口語易歧義）",
+          "good": "While I agree with the design, … / I agree…",
+          "note": "while＝雖然／當…時，要夠清楚"
+        },
+        {
+          "bad": "He left while I have been talking.",
+          "good": "He left while I was talking.",
+          "note": "時態配合"
+        }
+      ],
+      "rules": [
+        "because 直接原因；since / as 較已知背景（語氣較柔）。",
+        "although / even though：讓步，比 but 更「整句包裝」。",
+        "while / whereas：對比兩邊；while 也可表時間重疊。",
+        "when / after / before / as soon as：時間從屬；美式口語 *once* 很常用（*Once we have keys…*）。"
+      ],
+      "examples": [
+        {
+          "tag": "房產",
+          "en": "Even though inspection found issues, none are deal-breakers yet.",
+          "zh": "雖有驗屋問題，但還不是破局點。"
+        },
+        {
+          "tag": "投資",
+          "en": "Once we have clear title, we can set a firm closing date.",
+          "zh": "產權一清楚就能訂成交日。"
+        },
+        {
+          "tag": "生活",
+          "en": "I stayed home because I was wiped after hauling donations.",
+          "zh": "搬完捐贈物累壞了，所以待在家。"
+        },
+        {
+          "tag": "房產",
+          "en": "Whereas the first condo felt dark, this one gets great light.",
+          "zh": "第一間公寓偏暗，這一間採光很好。"
+        },
+        {
+          "tag": "投資",
+          "en": "As we discussed, the contingency is still on the table.",
+          "zh": "如討論過，附條件仍在檯面上。"
+        },
+        {
+          "tag": "生活",
+          "en": "Text me when you get to the lockbox.",
+          "zh": "到鎖盒那邊打給我。"
+        }
+      ],
+      "passage": {
+        "en": "Even though the inspection found issues, none of them are automatic deal-breakers. Once we have clear title, we can set a firm closing date. I stayed home because I was wiped after moving boxes all day. Whereas the first unit felt dark, this one gets great afternoon light. As we discussed, the financing contingency is still on the table until the lender signs off. Subordinate clauses let me pack diligence into one breath, which matters when a showing slot is only fifteen minutes.",
+        "zh": "雖有驗屋問題，但沒有一項是自動破局。一旦產權清楚，就能訂明確成交日。搬箱子搬一天，我累壞了所以待在家。第一間偏暗，這一間下午採光很好。如我們討論過的，在貸方點頭前，貸款附條件仍可談。從屬子句能把盡職調查塞進一口氣，看房只有十五分鐘時很重要。",
+        "words": 84
+      },
+      "idioms": [
+        {
+          "phrase": "deal-breaker",
+          "gloss": "破局條件",
+          "domain": "職場／口語"
+        },
+        {
+          "phrase": "on the table",
+          "gloss": "仍可談／擺在檯面",
+          "domain": "職場"
+        },
+        {
+          "phrase": "wiped",
+          "gloss": "累慘了",
+          "domain": "口語"
+        },
+        {
+          "phrase": "firm date",
+          "gloss": "確定日期",
+          "domain": "職場"
+        }
+      ],
+      "practices": [
+        "用 even though 改寫：The house is small. We still love it.",
+        "用 once 寫：拿到鑰匙就拍照記錄屋況。",
+        "改錯：Because the rate is good, so we should lock."
+      ],
+      "answers": [
+        "Even though the house is small, we still love it.",
+        "例：Once we get the keys, we'll photo-document the condition.",
+        "Because the rate is good, we should lock."
+      ]
+    },
+    {
+      "id": "grammar-13",
+      "num": 13,
+      "slug": "grammar-13-noun-phrases-that-sound-native",
+      "bookId": 2,
+      "bookTitle": "句子怎麼長得自然",
+      "titleZh": "名詞片語堆疊",
+      "titleEn": "Noun Phrases That Sound Native",
+      "focus": "美式職場愛用緊湊名詞片語；堆疊要可讀，避免無止境的 of of of。",
+      "contrasts": [
+        {
+          "bad": "the report of inspection of the house",
+          "good": "the home inspection report",
+          "note": "名詞修飾名詞"
+        },
+        {
+          "bad": "a meeting of follow-up",
+          "good": "a follow-up meeting",
+          "note": "複合名詞順序"
+        },
+        {
+          "bad": "the strategy of exit of investment",
+          "good": "the investment exit strategy",
+          "note": "常見金融／投資堆疊"
+        },
+        {
+          "bad": "very unique opportunity of investment",
+          "good": "a rare investment opportunity",
+          "note": "unique 少被 very 修；措辭更準"
+        }
+      ],
+      "rules": [
+        "順序概念：意見／大小／年齡／形狀／顏色／來源／材質＋名詞（不必背死，求通順）。",
+        "名詞當形容詞：*kitchen remodel quote, interest rate lock, punch list item*。",
+        "過長就拆：*the lender's conditions for clearing title* → 兩句或用關係子句。",
+        "C1：會讀也會寫 *year-over-year growth, best-case scenario, all-cash offer*。"
+      ],
+      "examples": [
+        {
+          "tag": "房產",
+          "en": "We need the final repair credit before we sign the addendum.",
+          "zh": "簽附約前需要最終維修折讓。"
+        },
+        {
+          "tag": "投資",
+          "en": "Their all-cash offer beats our financed bid on certainty.",
+          "zh": "他們全款在確定性上勝過我們的貸款出價。"
+        },
+        {
+          "tag": "生活",
+          "en": "I got three closet-system quotes; the mid one feels right.",
+          "zh": "我拿了三份衣櫃系統報價，中間那份最對。"
+        },
+        {
+          "tag": "投資",
+          "en": "Worst-case scenario, we hold cash and wait for a better basis.",
+          "zh": "最壞是抱現金，等更好的成本基礎。"
+        },
+        {
+          "tag": "房產",
+          "en": "Please send the updated rent roll and T-12.",
+          "zh": "請寄更新租金表與 T-12。"
+        },
+        {
+          "tag": "生活",
+          "en": "There's a hairline crack in the ceiling by the vent.",
+          "zh": "通風口旁天花板有髮絲裂。"
+        }
+      ],
+      "passage": {
+        "en": "We need the final repair credit number before we sign the addendum. Their all-cash offer beats our financed bid on certainty, not necessarily on price. I got three kitchen remodel quotes; the mid one feels right for scope and timeline. Worst-case scenario, we rent another year and keep saving for a larger down payment. Please send the updated rent roll and T-12 so we can underwrite calmly. Tight noun phrases also make texts to contractors shorter, and shorter texts get faster answers on busy job sites.",
+        "zh": "簽附約前我們需要最終維修折讓數字。他們全款在確定性上勝過我們的貸款出價，未必是價格。我拿了三份廚房翻修報價，範圍與時程來看中間那份最對。最壞再租一年，繼續存更大頭期。請寄更新租金表與 T-12，讓我們冷靜審核。緊湊名詞片語也讓給承包商的訊息更短，工地忙時回得比較快。",
+        "words": 88
+      },
+      "idioms": [
+        {
+          "phrase": "all-cash offer",
+          "gloss": "全款出價",
+          "domain": "職場／房地產"
+        },
+        {
+          "phrase": "worst-case scenario",
+          "gloss": "最壞情況",
+          "domain": "職場"
+        },
+        {
+          "phrase": "punch list",
+          "gloss": "完工待修清單",
+          "domain": "職場／裝修"
+        },
+        {
+          "phrase": "year-over-year (YoY)",
+          "gloss": "同比",
+          "domain": "職場"
+        }
+      ],
+      "practices": [
+        "壓成名詞片語：a report that inspects the roof → ?",
+        "改得更美式：the meeting for kickoff of the project",
+        "用 worst-case scenario 造一句關於成交延誤。"
+      ],
+      "answers": [
+        "a roof inspection report",
+        "the project kickoff meeting",
+        "例：Worst-case scenario, closing slips two weeks."
+      ]
+    },
+    {
+      "id": "grammar-14",
+      "num": 14,
+      "slug": "grammar-14-questions-tag-questions-softening",
+      "bookId": 2,
+      "bookTitle": "句子怎麼長得自然",
+      "titleZh": "問句與附加問句",
+      "titleEn": "Questions & Tag Questions (Softening)",
+      "focus": "問句不只求資訊，也用來軟化請求；附加問句用來求確認或拉對方進對話。",
+      "contrasts": [
+        {
+          "bad": "You are free tomorrow, aren't you?（語氣粗看場景）",
+          "good": "You're free tomorrow, right? / …aren't you?",
+          "note": "right? 更口語常見"
+        },
+        {
+          "bad": "Why you didn't call?",
+          "good": "Why didn't you call?",
+          "note": "疑問倒裝"
+        },
+        {
+          "bad": "You can send it, can you?",
+          "good": "You can send it, can't you?",
+          "note": "附加問句正負相反"
+        },
+        {
+          "bad": "Tell me your availability.（偏硬）",
+          "good": "What's your availability? / When works for you?",
+          "note": "問句較合作"
+        }
+      ],
+      "rules": [
+        "Yes/No：助動詞提前；Wh-：疑問詞＋助動詞＋主詞。",
+        "間接問句不倒裝：*Do you know when it starts?*（不是 when does it start 嵌套錯位時要小心）。",
+        "附加問句：主句肯定→附加否定；用來確認（falling tone）或真正詢問（rising）。",
+        "職場軟提問：*Would it be possible to…? Any chance we could…? Does Thursday still work?*"
+      ],
+      "examples": [
+        {
+          "tag": "房產",
+          "en": "Does Thursday still work on your end for the inspection?",
+          "zh": "你那邊週四驗屋還可以嗎？"
+        },
+        {
+          "tag": "投資",
+          "en": "You've reviewed the operating statement, right?",
+          "zh": "營運報表你看過了吧？"
+        },
+        {
+          "tag": "生活",
+          "en": "You're bringing the measuring tape, aren't you?",
+          "zh": "你會帶捲尺吧？"
+        },
+        {
+          "tag": "房產",
+          "en": "Do you happen to know who owns the credit decision?",
+          "zh": "你知道折讓是誰拍板的嗎？"
+        },
+        {
+          "tag": "生活",
+          "en": "Would it be possible to move dinner to seven after the showing?",
+          "zh": "帶看後晚餐有可能改七點嗎？"
+        },
+        {
+          "tag": "房產",
+          "en": "How come the gate code changed again?",
+          "zh": "大門密碼怎麼又改了？"
+        }
+      ],
+      "passage": {
+        "en": "Does Thursday still work on your end for the sewer scope? You've reviewed the HOA docs, right? You're coming to the final walkthrough, aren't you? Do you happen to know who owns the decision on the credit? Would it be possible to move the showing to three so I can leave work on time? How come the gate code changed again without a text? Soft questions save relationships with agents while still pinning down times, codes, and who actually decides credits.",
+        "zh": "你那邊週四還能做下水道檢測嗎？社區文件你看過了吧？最終實地查看你會來，對吧？你剛好知道折讓是誰拍板的嗎？帶看有可能改到三點嗎？我想準時下班。大門密碼怎麼又改了還不傳訊？軟問句能顧關係，仍能釘死時間、密碼與折讓拍板人。",
+        "words": 81
+      },
+      "idioms": [
+        {
+          "phrase": "on your end",
+          "gloss": "你那邊",
+          "domain": "職場"
+        },
+        {
+          "phrase": "any chance…?",
+          "gloss": "有沒有可能…？",
+          "domain": "口語／職場"
+        },
+        {
+          "phrase": "how come…?",
+          "gloss": "為什麼…？（口語）",
+          "domain": "口語"
+        },
+        {
+          "phrase": "does…still work?",
+          "gloss": "…還可以嗎？",
+          "domain": "職場"
+        }
+      ],
+      "practices": [
+        "改成軟問：Send the file today.",
+        "加附加問句：We should lock the rate.",
+        "改錯：Do you know what time does it start?"
+      ],
+      "answers": [
+        "例：Could you send the file today? / Any chance you can send…?",
+        "例：We should lock the rate, shouldn't we? / …right?",
+        "Do you know what time it starts?"
+      ]
+    },
+    {
+      "id": "grammar-15",
+      "num": 15,
+      "slug": "grammar-15-articles-a-an-the-zero-article",
+      "bookId": 3,
+      "bookTitle": "易錯點專治",
+      "titleZh": "冠詞 a / an / the / 零冠詞",
+      "titleEn": "Articles: a, an, the, Zero Article",
+      "focus": "冠詞標的是「聽者能不能辨識所指」；C1 還要掌握抽象名詞與專有場景的零冠詞。",
+      "contrasts": [
+        {
+          "bad": "I bought the car yesterday.（首次提及且對方不知哪輛）",
+          "good": "I bought a car yesterday.",
+          "note": "新資訊用 a"
+        },
+        {
+          "bad": "She is in the hospital.（美式住院）",
+          "good": "She is in the hospital.",
+          "note": "美式住院用 the；英式常 in hospital——本教材從美式"
+        },
+        {
+          "bad": "The life is hard.",
+          "good": "Life is hard.",
+          "note": "泛指抽象用零冠詞"
+        },
+        {
+          "bad": "I go to school by the bus.",
+          "good": "I go to school by bus.",
+          "note": "交通方式 by＋零冠詞"
+        }
+      ],
+      "rules": [
+        "a/an：可數單數、聽者不可辨識的任一分子。",
+        "the：雙方可辨識（上文提過、世上唯一、限定後置修飾）。",
+        "零冠詞：複數／不可數泛指、多數專有名詞、by bus/in bed/at work 等固定。",
+        "職場：*send me the file*（特定檔）vs *send me a file*（任一示例檔）。",
+        "C1：機構名詞美式常加 the（*the Fed, the HOA*）；球類 *play basketball* 零冠詞。"
+      ],
+      "examples": [
+        {
+          "tag": "房產",
+          "en": "I'll send a redline and the final PDF after we agree.",
+          "zh": "談定後我會寄紅線與最終 PDF。"
+        },
+        {
+          "tag": "投資",
+          "en": "Rates moved after the Fed spoke, so our stretch price changed.",
+          "zh": "聯準會發言後利率動了，我們能出的上限也變了。"
+        },
+        {
+          "tag": "生活",
+          "en": "Privacy matters more than a fancy lobby in daily life.",
+          "zh": "日常生活裡，隱私比華麗大廳重要。"
+        },
+        {
+          "tag": "房產",
+          "en": "We need an answer by Friday, not a perfect essay.",
+          "zh": "週五前要答案，不是完美長文。"
+        },
+        {
+          "tag": "生活",
+          "en": "Kids were playing basketball in the driveway next door.",
+          "zh": "隔壁車道有孩子打籃球。"
+        },
+        {
+          "tag": "投資",
+          "en": "Title called; the wire instructions are in escrow.",
+          "zh": "產權來電；匯款指示在保管中。"
+        }
+      ],
+      "passage": {
+        "en": "I'll send you a redline and the final PDF after we agree on the credit. Interest rates moved after the Fed spoke, which changes how far we can stretch. Privacy matters in a shared wall condo more than people admit. We need an answer by Friday, not the perfect answer carved in stone. Title called; the wire instructions are in escrow, and honesty about fees still matters. Articles look basic until a wire email arrives; the wrong 'a' or 'the' can make fee language feel slippery.",
+        "zh": "折讓談定後，我會寄紅線版與最終 PDF。聯準會發言後利率動了，也改變我們能拉伸的幅度。共用牆公寓的隱私，比人們願意承認的更重要。週五前要一個答案，不是完美到刻石的答案。產權公司來電；匯款指示在保管中，費用誠實依然重要。冠詞看似基礎，直到電匯信來；a/the 用錯會讓費用語言顯曖昧。",
+        "words": 86
+      },
+      "idioms": [
+        {
+          "phrase": "in escrow",
+          "gloss": "在履約／價金保管中",
+          "domain": "職場／房地產"
+        },
+        {
+          "phrase": "the Fed",
+          "gloss": "聯準會（口語）",
+          "domain": "職場"
+        },
+        {
+          "phrase": "by Friday",
+          "gloss": "在週五前",
+          "domain": "中性"
+        },
+        {
+          "phrase": "for now",
+          "gloss": "眼下先這樣",
+          "domain": "中性"
+        }
+      ],
+      "practices": [
+        "填冠詞：___ honesty is ___ best policy—but bring ___ data.",
+        "美式：他住院了。",
+        "分辨：Open a window. vs Open the window."
+      ],
+      "answers": [
+        "Ø honesty; the best; Ø data（或 the data 若特定）",
+        "He's in the hospital.",
+        "前者任一窗；後者雙方知道的那扇窗。"
+      ]
+    },
+    {
+      "id": "grammar-16",
+      "num": 16,
+      "slug": "grammar-16-high-frequency-prepositions-in-on-at-for-to-with",
+      "bookId": 3,
+      "bookTitle": "易錯點專治",
+      "titleZh": "介系詞高頻",
+      "titleEn": "High-Frequency Prepositions: in / on / at / for / to / with",
+      "focus": "介系詞多半是搭配而非邏輯；先掌握時間、地點、然後職場固定片語。",
+      "contrasts": [
+        {
+          "bad": "in Monday morning",
+          "good": "on Monday morning",
+          "note": "日子用 on"
+        },
+        {
+          "bad": "discuss about the price",
+          "good": "discuss the price / talk about the price",
+          "note": "discuss 不接 about"
+        },
+        {
+          "bad": "arrive to the site",
+          "good": "arrive at the site",
+          "note": "arrive at/in"
+        },
+        {
+          "bad": "married with him",
+          "good": "married to him",
+          "note": "固定搭配"
+        }
+      ],
+      "rules": [
+        "時間粗分：at 鐘點／夜間 at night；on 日／日期；in 月季年／一段時間 in two weeks。",
+        "地點粗分：at 點、on 表面／層樓 on the second floor、in 封閉／城市。",
+        "for＋一段時間；since＋起點；in＋未來多久之後。",
+        "高頻職場：*on track, on my plate, in writing, under contract, at risk, to my point*。"
+      ],
+      "examples": [
+        {
+          "tag": "房產",
+          "en": "We're under contract, with closing in six weeks.",
+          "zh": "已簽約，六週後成交。"
+        },
+        {
+          "tag": "投資",
+          "en": "Put the concession request in writing so we're aligned.",
+          "zh": "讓利請求請書面化，才對齊。"
+        },
+        {
+          "tag": "生活",
+          "en": "I'll meet you at the entrance on Saturday at 10.",
+          "zh": "週六十點門口見。"
+        },
+        {
+          "tag": "房產",
+          "en": "This survey question has been on my plate since Tuesday.",
+          "zh": "這則測量問題從週二就在我待辦。"
+        },
+        {
+          "tag": "投資",
+          "en": "We're still on track for funding if insurance lands tomorrow.",
+          "zh": "保險證明明天到手的話，撥款仍準時。"
+        },
+        {
+          "tag": "生活",
+          "en": "I'm bad with garage-remote batteries, but great with labels.",
+          "zh": "我常忘換車庫遙控電池，但很會貼標籤。"
+        }
+      ],
+      "passage": {
+        "en": "We're under contract, with closing in six weeks if financing stays on track. Put the repair request in writing so nobody 'remembers differently' later. I'll meet you at the entrance on Saturday at ten for one last look at the yard. This punch-list item has been on my plate since Tuesday, and I want it gone. We're still on track for the walkthrough, assuming the painter finishes on Friday. Preposition habits show up in every status line I send: on track, in escrow, under contract, on my plate.",
+        "zh": "我們已簽約；若貸款順利，六週後成交。維修請求請寫下來，免得之後各說各話。週六十點門口見，最後看一次院子。這項待修從週二就在我待辦，我想把它銷掉。若油漆週五能完，實地查看進度仍正常。介系詞習慣出現在我每則狀態：on track、in escrow、under contract。",
+        "words": 89
+      },
+      "idioms": [
+        {
+          "phrase": "under contract",
+          "gloss": "已簽約（成交流程中）",
+          "domain": "房地產／職場"
+        },
+        {
+          "phrase": "on my plate",
+          "gloss": "在我的待辦裡",
+          "domain": "職場"
+        },
+        {
+          "phrase": "in writing",
+          "gloss": "以書面",
+          "domain": "職場"
+        },
+        {
+          "phrase": "on track",
+          "gloss": "進度正常",
+          "domain": "職場"
+        }
+      ],
+      "practices": [
+        "改錯：We discussed about financing options.",
+        "填：See you ___ Friday ___ the cafe ___ 3.",
+        "用 under contract 造句。"
+      ],
+      "answers": [
+        "We discussed financing options.",
+        "on Friday; at the cafe; at 3",
+        "例：The house went under contract last night."
+      ]
+    },
+    {
+      "id": "grammar-17",
+      "num": 17,
+      "slug": "grammar-17-countability-quantifiers",
+      "bookId": 3,
+      "bookTitle": "易錯點專治",
+      "titleZh": "可數／不可數與量詞",
+      "titleEn": "Countability & Quantifiers",
+      "focus": "advice、information、feedback 等不可數；量詞選對才像 C1。",
+      "contrasts": [
+        {
+          "bad": "an advice / many informations",
+          "good": "a piece of advice / a lot of information",
+          "note": "不可數"
+        },
+        {
+          "bad": "less cars（正式偏好）",
+          "good": "fewer cars；less traffic",
+          "note": "可數用 fewer；不可數 less（口語常混）"
+        },
+        {
+          "bad": "a news",
+          "good": "a news story / some news",
+          "note": "news 不可數"
+        },
+        {
+          "bad": "furnitures are…",
+          "good": "The furniture is…",
+          "note": "furniture 不可數"
+        }
+      ],
+      "rules": [
+        "不可數高頻：advice, information, feedback, furniture, equipment, luggage, research, progress, homework。",
+        "量詞：a piece of advice, two pieces of furniture, a bit of feedback, an item of equipment。",
+        "some/any/much/many/a lot of/plenty of——肯定句美式超常用 a lot of。",
+        "職場：*feedback* 當不可數集合；要具體可說 *two comments / a couple of notes*。"
+      ],
+      "examples": [
+        {
+          "tag": "房產",
+          "en": "I need a bit more clarity on closing-cost credits.",
+          "zh": "成交費折讓我還需要更清楚。"
+        },
+        {
+          "tag": "投資",
+          "en": "Thanks for the feedback—I left two notes on the T-12.",
+          "zh": "謝謝回饋；我在 T-12 上留了兩點。"
+        },
+        {
+          "tag": "生活",
+          "en": "There isn't much daylight in the guest room.",
+          "zh": "客房採光不多。"
+        },
+        {
+          "tag": "投資",
+          "en": "We've made solid progress, but market research is still thin.",
+          "zh": "有進度，但市場研究仍薄。"
+        },
+        {
+          "tag": "生活",
+          "en": "How much luggage are you bringing for the house-hunt trip?",
+          "zh": "看房行程你要帶多少行李？"
+        },
+        {
+          "tag": "房產",
+          "en": "Fewer contingencies would make this cleaner—except inspection.",
+          "zh": "附帶條件越少越乾淨——驗屋除外。"
+        }
+      ],
+      "passage": {
+        "en": "I need a bit more clarity on the fee structure before I wire earnest money. Thanks for the feedback on the remodel plan—I left a couple of notes in the margin. There isn't much daylight in that first-floor unit, which will hurt rental demand. We've made solid progress on permits, but research on setbacks is still thin. Fewer contingencies would make this contract cleaner, though I won't waive inspection. Countability mistakes make me sound less credible when I discuss feedback, furniture allowances, or research gaps.",
+        "zh": "匯出誠意金前，費用結構我還需要更清楚。謝謝你對翻修計畫的回饋；我在頁邊留了兩點。一樓那戶採光不多，會傷出租需求。執照有進度，但退縮線研究仍薄。附帶條件越少契約越乾淨，不過驗屋我絕不放棄。可數錯誤會讓我談回饋、家具預留或研究缺口時顯得不夠可信。",
+        "words": 87
+      },
+      "idioms": [
+        {
+          "phrase": "a bit of / a little",
+          "gloss": "一點點（不可數）",
+          "domain": "中性"
+        },
+        {
+          "phrase": "a couple of",
+          "gloss": "一兩個",
+          "domain": "口語／中性"
+        },
+        {
+          "phrase": "thin（資訊／研究）",
+          "gloss": "不足、薄弱",
+          "domain": "職場"
+        },
+        {
+          "phrase": "cleaner（交易）",
+          "gloss": "條件更乾淨、少糾結",
+          "domain": "職場"
+        }
+      ],
+      "practices": [
+        "改錯：She gave me many useful advices.",
+        "選：less / fewer  ——  ___ open items on the list.",
+        "用 feedback 造一句會議後訊息。"
+      ],
+      "answers": [
+        "many useful pieces of advice / a lot of useful advice",
+        "fewer",
+        "例：Thanks for your feedback after the meeting—I'll revise tonight."
+      ]
+    },
+    {
+      "id": "grammar-18",
+      "num": 18,
+      "slug": "grammar-18-sequence-of-tenses-reported-speech",
+      "bookId": 3,
+      "bookTitle": "易錯點專治",
+      "titleZh": "時態一致與間接引述",
+      "titleEn": "Sequence of Tenses & Reported Speech",
+      "focus": "轉述時，時間視角常往後退一格；但「現在仍真」可保持現在式。",
+      "contrasts": [
+        {
+          "bad": "He said he will come.（若轉述過去承諾且已過）",
+          "good": "He said he would come.",
+          "note": "will→would"
+        },
+        {
+          "bad": "She asked me what was my name.",
+          "good": "She asked me what my name was.",
+          "note": "間接問句不倒裝"
+        },
+        {
+          "bad": "He told that he was busy.",
+          "good": "He told me that… / He said that…",
+          "note": "tell 要有受詞"
+        },
+        {
+          "bad": "I asked should we wait.",
+          "good": "I asked whether / if we should wait.",
+          "note": "要用 whether/if"
+        }
+      ],
+      "rules": [
+        "直述→間接：am/is→was、will→would、can→could、have→had（常規後退）。",
+        "若轉述內容仍成立：*She said the office is on Congress Ave.* 可維持現在式。",
+        "間接問句：疑問詞＋陳述語序；Yes/No 用 if/whether。",
+        "職場：書面會議紀錄常用 *X noted that… / X asked whether…*。"
+      ],
+      "examples": [
+        {
+          "tag": "房產",
+          "en": "He said they'd send the revised addendum by EOD.",
+          "zh": "他說修訂附約 EOD 前會寄。"
+        },
+        {
+          "tag": "投資",
+          "en": "I asked whether the rate lock was still available.",
+          "zh": "我問鎖利是否仍可用。"
+        },
+        {
+          "tag": "生活",
+          "en": "She told me she was running late to help me measure curtains.",
+          "zh": "她說幫我量窗簾會晚到。"
+        },
+        {
+          "tag": "房產",
+          "en": "They claimed the roof was new; the inspector disagreed.",
+          "zh": "他們說屋頂是新的；驗屋師不同意。"
+        },
+        {
+          "tag": "投資",
+          "en": "Counsel noted that clause 4.2 needs a rewrite.",
+          "zh": "律師指出 4.2 條需重寫。"
+        },
+        {
+          "tag": "生活",
+          "en": "I wondered if I'd left the iron on before we left for the showing.",
+          "zh": "我在想出門看房前是不是沒關熨斗。"
+        }
+      ],
+      "passage": {
+        "en": "He said they'd send the revised addendum by end of day. I asked whether the rate lock was still available through Thursday. She told me she was running twenty minutes late to the showing. They claimed the roof was new; the inspector disagreed in writing. Legal noted that clause four needs a rewrite before we sign anything related to credits. Reported speech keeps the paper trail honest when three people remember three different promises about repairs. I keep repeating the key lines out loud until they feel natural in a doorway, not only on a page.",
+        "zh": "他說修訂附約會在今天結束前寄出。我問利率鎖定是否能撐到週四。她說帶看會晚二十分鐘。他們聲稱屋頂是新的；驗屋師書面不同意。法務指出第四條在簽任何折讓相關文件前需要重寫。間接引述能讓紙本軌跡誠實，避免三個人記成三種維修承諾。我會把關鍵句大聲重複到站在門口也能自然說出口，而不只是紙上看過。",
+        "words": 96
+      },
+      "idioms": [
+        {
+          "phrase": "by EOD",
+          "gloss": "今天營業／工作結束前",
+          "domain": "職場"
+        },
+        {
+          "phrase": "noted that…",
+          "gloss": "指出／記錄到…",
+          "domain": "職場"
+        },
+        {
+          "phrase": "claimed that…",
+          "gloss": "聲稱（帶保留）",
+          "domain": "中性／職場"
+        },
+        {
+          "phrase": "running late",
+          "gloss": "會晚到",
+          "domain": "口語／中性"
+        }
+      ],
+      "practices": [
+        "轉成間接：\"We'll revise it tomorrow,\" she said.",
+        "改錯：He asked where was the binder.",
+        "轉述：客戶問成交能否提前。"
+      ],
+      "answers": [
+        "She said they would revise it the next day. / …tomorrow（視時間點）",
+        "He asked where the binder was.",
+        "例：The client asked whether we could move closing up."
+      ]
+    },
+    {
+      "id": "grammar-19",
+      "num": 19,
+      "slug": "grammar-19-comparatives-superlatives-modifiers",
+      "bookId": 3,
+      "bookTitle": "易錯點專治",
+      "titleZh": "比較級與修飾",
+      "titleEn": "Comparatives, Superlatives & Modifiers",
+      "focus": "比較要可比；C1 用 far / slightly / nowhere near 精確調力度。",
+      "contrasts": [
+        {
+          "bad": "more better / more cheaper",
+          "good": "better / cheaper",
+          "note": "不要雙重比較"
+        },
+        {
+          "bad": "The most unique design",
+          "good": "a unique / a highly distinctive design",
+          "note": "unique 少用最高級"
+        },
+        {
+          "bad": "This is expensive than that.",
+          "good": "This is more expensive than that.",
+          "note": "缺 more/-er"
+        },
+        {
+          "bad": "I prefer coffee than tea.",
+          "good": "I prefer coffee to tea.",
+          "note": "prefer A to B"
+        }
+      ],
+      "rules": [
+        "短形容詞 -er/-est；長形容詞 more/most；不规则 better, worse, farther/further。",
+        "修飾比較：far / way / much / a lot（強）；slightly / a bit / marginally（弱）。",
+        "否定比較：*not as…as*；口語 *nowhere near as…as*。",
+        "職場：*a cleaner structure, a tighter timeline, a more conservative underwriting*。"
+      ],
+      "examples": [
+        {
+          "tag": "投資",
+          "en": "Their offer is slightly higher, but ours is far more certain.",
+          "zh": "他們略高，但我們確定性高得多。"
+        },
+        {
+          "tag": "房產",
+          "en": "This is the cleanest inspection report we've seen all quarter.",
+          "zh": "這是本季看過最乾淨的驗屋報告。"
+        },
+        {
+          "tag": "生活",
+          "en": "The new place is nowhere near as noisy as the last one.",
+          "zh": "新地方遠沒上一間吵。"
+        },
+        {
+          "tag": "房產",
+          "en": "I'd rather wait a week than rush foundation work.",
+          "zh": "寧願多等一週，也不倉促做地基。"
+        },
+        {
+          "tag": "投資",
+          "en": "Underwriting got more conservative after the last cycle.",
+          "zh": "上一輪後審核更保守。"
+        },
+        {
+          "tag": "生活",
+          "en": "This couch is less comfortable than it looks on the listing photos.",
+          "zh": "這沙發沒有掛牌照片看起來舒服。"
+        }
+      ],
+      "passage": {
+        "en": "Their offer is slightly higher, but ours is far more certain because it's cleaner. This is the cleanest term sheet we've seen all quarter on small multi-family. The new place is nowhere near as noisy as the last rental near the highway. I'd rather wait a week than rush a bad decision on foundation work. Underwriting got more conservative, so a larger down payment looks smarter than leverage for leverage's sake. Precise comparatives help me explain why a slightly lower price can still be the stronger risk-adjusted choice.",
+        "zh": "他們出價略高，但我們的更確定，因為條件更乾淨。這是本季在小型多戶上看過最乾淨的條件書。新地方遠沒有公路旁舊租屋那麼吵。我寧願多等一週，也不要倉促決定地基工程。審核更保守了，所以更大頭期比為槓桿而槓桿更聰明。精準比較能說明為何略低的價格在風險調整後仍可能更強。",
+        "words": 90
+      },
+      "idioms": [
+        {
+          "phrase": "far more / way more",
+          "gloss": "遠更…",
+          "domain": "口語／中性"
+        },
+        {
+          "phrase": "nowhere near as…as",
+          "gloss": "遠不如…",
+          "domain": "口語"
+        },
+        {
+          "phrase": "I'd rather A than B",
+          "gloss": "寧可 A 也不 B",
+          "domain": "中性"
+        },
+        {
+          "phrase": "tighter / cleaner",
+          "gloss": "更緊／更乾淨（比喻）",
+          "domain": "職場"
+        }
+      ],
+      "practices": [
+        "加力度：This bid is stronger.（改成「強得多」）",
+        "改錯：This option is more riskier.",
+        "用 prefer…to… 說：我比較想全款而非高槓桿。"
+      ],
+      "answers": [
+        "This bid is far / way stronger.",
+        "This option is riskier. / more risky.",
+        "例：I prefer all-cash to heavy leverage."
+      ]
+    },
+    {
+      "id": "grammar-20",
+      "num": 20,
+      "slug": "grammar-20-negation-restrictive-adverbs",
+      "bookId": 3,
+      "bookTitle": "易錯點專治",
+      "titleZh": "否定與限制詞",
+      "titleEn": "Negation & Restrictive Adverbs",
+      "focus": "否定位置影響意思；seldom/hardly/rarely 已是否定，勿再疊 don't。",
+      "contrasts": [
+        {
+          "bad": "I don't hardly ever go.",
+          "good": "I hardly ever go.",
+          "note": "hardly 已否定"
+        },
+        {
+          "bad": "I think he isn't coming.（轉述保留）",
+          "good": "I don't think he's coming.",
+          "note": "美式更常否定移前"
+        },
+        {
+          "bad": "Nobody don't know.",
+          "good": "Nobody knows.",
+          "note": "雙重否定錯誤（非刻意方言）"
+        },
+        {
+          "bad": "He can't never win.（非強調俚語時）",
+          "good": "He can never win. / He can't ever win.",
+          "note": "標準語避免 can't never"
+        }
+      ],
+      "rules": [
+        "一般否定：助動詞＋not；no＋名詞（*no contingency*）。",
+        "限制副詞：hardly, barely, scarcely, rarely, seldom——句中已含否定意味。",
+        "部分否定：*Not everyone agrees.* ≠ *Everyone doesn't agree.*（後者常不自然）",
+        "C1 談判：*I'm not saying no—I'm saying not yet.*"
+      ],
+      "examples": [
+        {
+          "tag": "房產",
+          "en": "I'm not saying we walk—I'm saying we renegotiate repairs.",
+          "zh": "不是要退出，而是重談維修。"
+        },
+        {
+          "tag": "投資",
+          "en": "We rarely waive inspection on older rentals.",
+          "zh": "老出租屋我們很少放棄驗屋。"
+        },
+        {
+          "tag": "生活",
+          "en": "I barely slept after the movers left dust everywhere.",
+          "zh": "搬家的人留下滿屋灰塵，我幾乎沒睡。"
+        },
+        {
+          "tag": "房產",
+          "en": "Not everyone has seen the latest survey.",
+          "zh": "不是每個人都看過最新測量圖。"
+        },
+        {
+          "tag": "投資",
+          "en": "There's no upside to guessing CapEx without bids.",
+          "zh": "沒報價就瞎猜資本支出沒好處。"
+        },
+        {
+          "tag": "生活",
+          "en": "Don't you dare plug that space heater into the cheap extension cord.",
+          "zh": "你敢把電暖器插那條廉價延長線試試。"
+        }
+      ],
+      "passage": {
+        "en": "I'm not saying we walk—I'm saying we renegotiate repairs with evidence. We rarely waive inspection on older homes, and I barely slept after reading that roof section. Not everyone on our side has seen the latest rent roll. There's no upside to guessing repair costs without contractor bids. Don't touch that wet stain until we know whether it's active leakage. Clean negation prevents accidental double messages when I'm drawing a hard line on inspection or reserves. I keep repeating the key lines out loud until they feel natural in a doorway, not only on a page.",
+        "zh": "我不是說要退出，而是要用證據重談維修。老屋我們很少放棄驗屋；看完屋頂那章我幾乎沒睡。並非我方每個人都看過最新租金表。沒有承包商報價就瞎猜維修費，沒有好處。在搞清楚是不是正在滲漏前，別碰那塊濕漬。乾淨的否定避免雙重訊息，尤其在驗屋或準備金畫線時。我會把關鍵句大聲重複到站在門口也能自然說出口，而不只是紙上看過。",
+        "words": 97
+      },
+      "idioms": [
+        {
+          "phrase": "not yet",
+          "gloss": "還不行／尚未",
+          "domain": "中性"
+        },
+        {
+          "phrase": "I'm not saying…—I'm saying…",
+          "gloss": "澄清立場句式",
+          "domain": "職場"
+        },
+        {
+          "phrase": "barely / hardly",
+          "gloss": "幾乎不",
+          "domain": "中性"
+        },
+        {
+          "phrase": "no upside",
+          "gloss": "沒有好處／上行",
+          "domain": "職場"
+        }
+      ],
+      "practices": [
+        "改錯：I don't rarely eat out.",
+        "改成美式更自然：I think we shouldn't rush.",
+        "用 I'm not saying… 澄清：不是嫌屋況，是嫌時程。"
+      ],
+      "answers": [
+        "I rarely eat out.",
+        "I don't think we should rush.",
+        "例：I'm not saying the house is bad—I'm saying the timeline is."
+      ]
+    },
+    {
+      "id": "grammar-21",
+      "num": 21,
+      "slug": "grammar-21-discourse-markers-actually-that-said-long-story-short",
+      "bookId": 4,
+      "bookTitle": "現代慣用語與口語潤滑",
+      "titleZh": "Discourse markers",
+      "titleEn": "Discourse Markers: Actually / That said / Long story short",
+      "focus": "話語標記不增資訊，但管理節奏：糾正、讓步、收束、換軌。",
+      "contrasts": [
+        {
+          "bad": "Actually, I totally agree.（若真同意）",
+          "good": "Exactly. / Right. — Actually 常用於輕微糾正",
+          "note": "Actually≠「事實上我超同意」"
+        },
+        {
+          "bad": "Long story short, so basically…（冗餘）",
+          "good": "Long story short, …",
+          "note": "擇一收束"
+        },
+        {
+          "bad": "However 每句都用",
+          "good": "口語多用 but / that said",
+          "note": "語域匹配"
+        },
+        {
+          "bad": "I mean, like, you know…（過度填充）",
+          "good": "適度；C1 要能拿掉填充詞仍清楚",
+          "note": "填充≠流利"
+        }
+      ],
+      "rules": [
+        "糾正／精準化：actually, in fact, to be clear。",
+        "讓步：that said, still, even so, all the same。",
+        "收束：long story short, bottom line, net-net（偏職場）。",
+        "換軌：anyway, in any case, moving on。"
+      ],
+      "examples": [
+        {
+          "tag": "房產",
+          "en": "I liked the unit. That said, HOA dues are steep.",
+          "zh": "單位喜歡。不過管理費偏高。"
+        },
+        {
+          "tag": "投資",
+          "en": "Long story short, we need another lender quote.",
+          "zh": "長話短說，需要另一家貸方報價。"
+        },
+        {
+          "tag": "生活",
+          "en": "Actually, dinner's on me—you drove to every showing.",
+          "zh": "其實晚餐我請，每場帶看都你開。"
+        },
+        {
+          "tag": "房產",
+          "en": "To be clear, I'm fine with price, not with skipping sewer scope.",
+          "zh": "講清楚：價格可，略過下水道不行。"
+        },
+        {
+          "tag": "投資",
+          "en": "Anyway, let's park vanity metrics and finish diligence.",
+          "zh": "總之虛榮指標先擱置，把盡職調查做完。"
+        },
+        {
+          "tag": "生活",
+          "en": "Net-net, the weekend house hunt was worth the chaos.",
+          "zh": "總帳來看，這週末看房的混亂值得。"
+        }
+      ],
+      "passage": {
+        "en": "I liked the unit. That said, the HOA dues are steep for what you get. Long story short, we need another lender quote before we commit. Actually, dinner's on me after three showings in one afternoon. To be clear, I'm fine with the price, not with skipping the sewer scope. Anyway, let's park the furniture debate and finish the repair list first. Discourse markers are the steering wheel: they let me correct, concede, and close without sounding like a textbook.",
+        "zh": "單位我喜歡。不過以內容來說管理費偏高。長話短說，承諾前還需要另一家貸方報價。其實一下午看三間，晚餐我請。講清楚：價格可以，略過下水道檢測不行。總之家具爭論先擱置，把維修清單收完。話語標記像方向盤：能糾正、讓步、收束，又不像教科書。",
+        "words": 80
+      },
+      "idioms": [
+        {
+          "phrase": "that said",
+          "gloss": "話雖如此",
+          "domain": "職場／中性"
+        },
+        {
+          "phrase": "long story short",
+          "gloss": "長話短說",
+          "domain": "口語／中性"
+        },
+        {
+          "phrase": "to be clear",
+          "gloss": "先講清楚",
+          "domain": "職場"
+        },
+        {
+          "phrase": "park that",
+          "gloss": "先擱置議題",
+          "domain": "職場"
+        }
+      ],
+      "practices": [
+        "用 that said 連接：喜歡這間。停車位太小。",
+        "何時不該用 Actually？",
+        "用 to be clear 寫一句對齊範圍。"
+      ],
+      "answers": [
+        "例：I like the place. That said, the parking space is tiny.",
+        "當你完全同意、無需糾正時，改用 Right/Exactly。",
+        "例：To be clear, we're approving phase one only."
+      ]
+    },
+    {
+      "id": "grammar-22",
+      "num": 22,
+      "slug": "grammar-22-softening-kind-of-a-bit-i-was-wondering-if",
+      "bookId": 4,
+      "bookTitle": "現代慣用語與口語潤滑",
+      "titleZh": "軟化語氣",
+      "titleEn": "Softening: kind of / a bit / I was wondering if…",
+      "focus": "美式職場靠軟化保持關係；C1 要會軟，也要會在該清楚時收掉軟詞。",
+      "contrasts": [
+        {
+          "bad": "You are wrong.",
+          "good": "I might be missing something, but… / I'm not sure that tracks.",
+          "note": "異議軟化"
+        },
+        {
+          "bad": "I want you to send it.",
+          "good": "Could you send it when you get a chance?",
+          "note": "請求軟化"
+        },
+        {
+          "bad": "This is kind of a disaster.（對客戶）",
+          "good": "We've hit a snag. / This needs a rethink.",
+          "note": "對客戶少用過輕浮詞"
+        },
+        {
+          "bad": "I was wondering if you can…（語氣不穩）",
+          "good": "I was wondering if you could…",
+          "note": "假想過去更軟"
+        }
+      ],
+      "rules": [
+        "程度軟詞：a bit, kind of/kinda, somewhat, pretty（美式）。",
+        "認識軟化：I was wondering if…, Would you be open to…, If it's not too much trouble…。",
+        "立場軟化：It seems…, My sense is…, From where I sit…。",
+        "警告：對安全、法律、錢的底線不要過度 soft——C1＝會切換語域。"
+      ],
+      "examples": [
+        {
+          "tag": "房產",
+          "en": "I was wondering if we could revisit the credit amount.",
+          "zh": "不知能否重談折讓金額。"
+        },
+        {
+          "tag": "投資",
+          "en": "My sense is we're a week early to lock.",
+          "zh": "我感覺鎖利早了一週。"
+        },
+        {
+          "tag": "生活",
+          "en": "It's kind of loud for a Sunday morning on this street.",
+          "zh": "這條街週日早上來說有點吵。"
+        },
+        {
+          "tag": "房產",
+          "en": "Would you be open to pushing the walkthrough to Friday?",
+          "zh": "實地查看願意改週五嗎？"
+        },
+        {
+          "tag": "投資",
+          "en": "We're seeing a bit of slippage on the appraisal timeline.",
+          "zh": "估價時程有點滑。"
+        },
+        {
+          "tag": "生活",
+          "en": "If it's not too much trouble, could you grab painter's tape?",
+          "zh": "不麻煩的話，可以帶油漆膠帶嗎？"
+        }
+      ],
+      "passage": {
+        "en": "I was wondering if we could revisit the credit amount with photos attached. My sense is we're a week early to lock, given the appraisal timing. It's kind of loud for a Sunday open house on that street. Would you be open to pushing the final walkthrough to Friday morning? We're seeing a bit of slippage on documents, and I'd rather flag it now than pretend. Softeners buy goodwill, but I drop them when the topic is safety, wire fraud, or a non-negotiable contingency.",
+        "zh": "不知能否附上照片後重新談折讓金額。以估價時程看，我感覺現在鎖利早了一週。那條街週日開放看屋來說有點吵。最終實地查看願意改到週五早上嗎？文件進度有點滑，我寧現在標出也不裝沒看見。軟化能買善意；但安全、電匯詐騙或不可談判附條件時我收掉軟詞。",
+        "words": 85
+      },
+      "idioms": [
+        {
+          "phrase": "I was wondering if…",
+          "gloss": "不知可否…（很軟）",
+          "domain": "職場"
+        },
+        {
+          "phrase": "my sense is…",
+          "gloss": "我的感覺是…",
+          "domain": "職場"
+        },
+        {
+          "phrase": "would you be open to…",
+          "gloss": "你願不願意考慮…",
+          "domain": "職場"
+        },
+        {
+          "phrase": "hit a snag",
+          "gloss": "遇到阻礙",
+          "domain": "中性／職場"
+        }
+      ],
+      "practices": [
+        "軟化：Your estimate is too high.",
+        "把過度軟的底線改清楚：We kind of maybe can't close without insurance.",
+        "用 I was wondering if 請求改期。"
+      ],
+      "answers": [
+        "例：I'm concerned the estimate may be high. / That estimate feels rich to me.",
+        "例：We can't close without insurance.",
+        "例：I was wondering if we could move our meeting to Thursday."
+      ]
+    },
+    {
+      "id": "grammar-23",
+      "num": 23,
+      "slug": "grammar-23-agreeing-disagreeing-professionally",
+      "bookId": 4,
+      "bookTitle": "現代慣用語與口語潤滑",
+      "titleZh": "同意與異議",
+      "titleEn": "Agreeing & Disagreeing Professionally",
+      "focus": "同意要具體；異議先對齊再 push back——這是美式會議的預設禮儀。",
+      "contrasts": [
+        {
+          "bad": "You're wrong, and here's why.",
+          "good": "I see it differently. Here's why.",
+          "note": "先換視角"
+        },
+        {
+          "bad": "I disagree.（過於乾）",
+          "good": "I'm not sure I follow. / I have a different read on…",
+          "note": "加一點互動"
+        },
+        {
+          "bad": "Whatever you say.",
+          "good": "I can get behind that. / Let's go with your call.",
+          "note": "Whatever 易顯消極"
+        },
+        {
+          "bad": "No.",
+          "good": "I'd push back on that. / That doesn't work for me.",
+          "note": "給出可執行的否"
+        }
+      ],
+      "rules": [
+        "同意：Exactly, Fair point, That's fair, I'm with you on…, 100%（口語）。",
+        "部分同意：True, but… / I agree up to a point. / Fair, though…",
+        "異議：I'd push back on… / I don't think that tracks. / Can we reality-check that?",
+        "升級澄清：Help me understand… / What are we optimizing for?"
+      ],
+      "examples": [
+        {
+          "tag": "房產",
+          "en": "Fair point on timing—I'd still push back on cutting inspection.",
+          "zh": "時程有理；仍反對砍驗屋。"
+        },
+        {
+          "tag": "投資",
+          "en": "I'm with you on price. I'm not with you on waiving appraisal.",
+          "zh": "價格同意；放棄估價不同意。"
+        },
+        {
+          "tag": "生活",
+          "en": "That's fair. I should've texted before I was late.",
+          "zh": "說得對，遲到前該先傳訊。"
+        },
+        {
+          "tag": "房產",
+          "en": "I don't think that tracks with the comps we pulled.",
+          "zh": "這和可比案例對不上。"
+        },
+        {
+          "tag": "投資",
+          "en": "Help me understand what success looks like without reserves.",
+          "zh": "沒有準備金的成功是什麼樣？"
+        },
+        {
+          "tag": "生活",
+          "en": "I can get behind pizza after we finish measuring rooms.",
+          "zh": "量完房間後吃披薩，我贊成。"
+        }
+      ],
+      "passage": {
+        "en": "Fair point on the timeline—I'd still push back on cutting inspection. I'm with you on price. I'm not with you on waiving appraisal. That's fair; I should've texted before I was late to the showing. I don't think that tracks with the comps we pulled last night. Help me understand what success looks like if we close without the ADU permitted. Professional disagreement is a skill: I want partners who can push back on my assumptions before we buy a problem.",
+        "zh": "時程說得對；但我仍反對砍驗屋。價格我同意；放棄估價我不同意。說得對，帶看遲到前我該先傳訊。這和我們昨晚抓的可比對不上。幫我理解：若 ADU 未取得許可就成交，成功長什麼樣？專業異議是技能：我希望夥伴在買下問題前就能頂我的假設。",
+        "words": 82
+      },
+      "idioms": [
+        {
+          "phrase": "fair point",
+          "gloss": "說得有理",
+          "domain": "職場／口語"
+        },
+        {
+          "phrase": "push back (on)",
+          "gloss": "提出反對／頂回去",
+          "domain": "職場"
+        },
+        {
+          "phrase": "that tracks / doesn't track",
+          "gloss": "說得通／對不上",
+          "domain": "口語／職場"
+        },
+        {
+          "phrase": "I'm with you on…",
+          "gloss": "在…上我站你這邊",
+          "domain": "口語／職場"
+        }
+      ],
+      "practices": [
+        "部分同意：同意預算，不同意砍品管。",
+        "用 push back 反對「免驗屋」。",
+        "把粗暴句改寫：That idea is stupid."
+      ],
+      "answers": [
+        "例：I'm with you on the budget. I'd push back on cutting QA.",
+        "例：I'd push back on waiving inspection.",
+        "例：I see it differently—here's my concern…"
+      ]
+    },
+    {
+      "id": "grammar-24",
+      "num": 24,
+      "slug": "grammar-24-workplace-chunks-circle-back-take-the-lead-on-my-plate",
+      "bookId": 4,
+      "bookTitle": "現代慣用語與口語潤滑",
+      "titleZh": "工作高頻 chunks",
+      "titleEn": "Workplace Chunks: circle back / take the lead / on my plate",
+      "focus": "這些套語是美式辦公室的「作業系統」；C1 要會用也要會聽出負荷與責任。",
+      "contrasts": [
+        {
+          "bad": "I will circle back you.",
+          "good": "I'll circle back with you. / I'll circle back on this.",
+          "note": "介系詞"
+        },
+        {
+          "bad": "Please do the needful.（南亞英文殘留，美式少用）",
+          "good": "Please take care of this. / Please advise.",
+          "note": "語域"
+        },
+        {
+          "bad": "I will revert back soon.（冗餘）",
+          "good": "I'll get back to you soon.",
+          "note": "美式更自然"
+        },
+        {
+          "bad": "Let's touch base going forward prospectively…",
+          "good": "Let's touch base next week.",
+          "note": "別堆疊廢話"
+        }
+      ],
+      "rules": [
+        "同步：circle back, touch base, keep you in the loop, ping me。",
+        "責任：take the lead, own it, on my plate, bandwidth。",
+        "決策：call the shot, align on, sign off, greenlight。",
+        "進度：moving pieces, blocker, pending, action item。"
+      ],
+      "examples": [
+        {
+          "tag": "投資",
+          "en": "I'll take the lead on the lender package.",
+          "zh": "貸方文件包我來主導。"
+        },
+        {
+          "tag": "房產",
+          "en": "Can we circle back after you talk to title?",
+          "zh": "你跟產權談完我們再對一下？"
+        },
+        {
+          "tag": "房產",
+          "en": "I don't have bandwidth for another showing this week.",
+          "zh": "這週沒容量再排帶看。"
+        },
+        {
+          "tag": "投資",
+          "en": "Keep me in the loop if NOI assumptions move.",
+          "zh": "NOI 假設有動就讓我知情。"
+        },
+        {
+          "tag": "房產",
+          "en": "What's the blocker on the HOA letter?",
+          "zh": "社區證明信卡在哪？"
+        },
+        {
+          "tag": "生活",
+          "en": "Ping me when you're downstairs with the dolly.",
+          "zh": "你帶推車到樓下就戳我。"
+        }
+      ],
+      "passage": {
+        "en": "I'll take the lead on the lender package and the insurance binder. Can we circle back after you talk to title about the lien release? I don't have bandwidth for another showing this week if we want quality notes. Keep me in the loop if the repair credit moves by even a little. What's the blocker on the HOA letter, and who can ping them today? Workplace chunks sound corporate, yet in deals they simply assign ownership so tasks stop bouncing between inboxes.",
+        "zh": "貸方文件包和保險證明我來主導。你跟產權公司談完留置權解除，我們再回頭對。若還想要有品質的看房筆記，這週我沒容量再排帶看。折讓有任何變動都讓我知情。社區證明信卡在哪？今天誰能戳他們？職場套語聽來公司，但在交易裡只是分派 ownership，讓任務別跳信箱。",
+        "words": 83
+      },
+      "idioms": [
+        {
+          "phrase": "circle back",
+          "gloss": "稍後再談／再聯絡",
+          "domain": "職場"
+        },
+        {
+          "phrase": "bandwidth",
+          "gloss": "可用時間／精力",
+          "domain": "職場"
+        },
+        {
+          "phrase": "in the loop",
+          "gloss": "在知情圈內",
+          "domain": "職場"
+        },
+        {
+          "phrase": "blocker",
+          "gloss": "卡點",
+          "domain": "職場"
+        }
+      ],
+      "practices": [
+        "用 on my plate 說明你這週為何不能接新案。",
+        "改錯：I'll revert back to you after lunch.",
+        "用 take the lead 主動承接驗屋協調。"
+      ],
+      "answers": [
+        "例：That's already on my plate this week.",
+        "I'll get back to you after lunch.",
+        "例：I'll take the lead on coordinating the inspection."
+      ]
+    },
+    {
+      "id": "grammar-25",
+      "num": 25,
+      "slug": "grammar-25-time-priority-asap-by-eod-in-the-loop",
+      "bookId": 4,
+      "bookTitle": "現代慣用語與口語潤滑",
+      "titleZh": "時間與優先",
+      "titleEn": "Time & Priority: ASAP, by EOD, in the loop",
+      "focus": "時間套語有文化：ASAP 常變噪音；C1 改給明確截止與優先級。",
+      "contrasts": [
+        {
+          "bad": "ASAP!!!",
+          "good": "Needed by 3 p.m. today. / Blocking others—need today.",
+          "note": "給原因＋時間"
+        },
+        {
+          "bad": "Do it when you can.（太飄）",
+          "good": "Anytime before Thursday works.",
+          "note": "給窗格"
+        },
+        {
+          "bad": "EOD 不說時區",
+          "good": "EOD CT / by 5 p.m. your time",
+          "note": "遠距必備"
+        },
+        {
+          "bad": "It's urgent.（每件事）",
+          "good": "P1 vs P2；這次真的擋路",
+          "note": "優先級紀律"
+        }
+      ],
+      "rules": [
+        "明確優於模糊：by Tuesday 3 p.m. CT > ASAP。",
+        "常用：by EOD, COB（close of business）, EOW, close of play（較英式，美式少）。",
+        "優先：blocking / non-blocking；need eyes on；quick turn。",
+        "禮貌窗：when you get a chance（真的不急）；若急不要用這句。"
+      ],
+      "examples": [
+        {
+          "tag": "房產",
+          "en": "Need a quick turn on the addendum—before lunch CT.",
+          "zh": "附約需要快修，CT 中午前。"
+        },
+        {
+          "tag": "投資",
+          "en": "This is blocking the appraisal order.",
+          "zh": "這卡住估價下單。"
+        },
+        {
+          "tag": "生活",
+          "en": "No rush on the thrift-store mirrors; next week is fine.",
+          "zh": "二手鏡不急，下週可以。"
+        },
+        {
+          "tag": "房產",
+          "en": "Let's timebox this repair debate to ten minutes.",
+          "zh": "維修爭論限時十分鐘。"
+        },
+        {
+          "tag": "投資",
+          "en": "If I don't hear back by EOW, I'll assume we're pausing.",
+          "zh": "EOW 前沒回就當暫停。"
+        },
+        {
+          "tag": "生活",
+          "en": "I'm slammed today; can we grocery-shop tomorrow?",
+          "zh": "今天爆忙，明天再採買可以嗎？"
+        }
+      ],
+      "passage": {
+        "en": "Need a quick turn on page two of the addendum—ideally before lunch Central Time. This missing survey is blocking the appraisal order. No rush on lifestyle photos for the listing; next week is fine. Let's timebox the contractor debate to fifteen minutes and then decide. If I don't hear back by end of week, I'll assume we're pausing the offer. Specific deadlines beat ASAP every time, especially across time zones when lenders, title, and agents don't share a hallway.",
+        "zh": "附約第二頁需要快修，最好中午 CT 前。缺測量圖會卡住估價下單。掛牌生活照不急，下週可以。承包商爭論限時十五分鐘，然後做決定。若週結束前沒回音，我就當出價暫停。明確截止永遠勝過 ASAP，尤其貸方、產權、經紀人各在不同時區時。",
+        "words": 80
+      },
+      "idioms": [
+        {
+          "phrase": "by EOD / EOW",
+          "gloss": "今日／本週結束前",
+          "domain": "職場"
+        },
+        {
+          "phrase": "no rush",
+          "gloss": "不急",
+          "domain": "口語／中性"
+        },
+        {
+          "phrase": "slammed",
+          "gloss": "忙到爆",
+          "domain": "口語"
+        },
+        {
+          "phrase": "timebox",
+          "gloss": "限時討論／作業",
+          "domain": "職場"
+        }
+      ],
+      "practices": [
+        "把 ASAP 改成可執行截止。",
+        "用 blocking 說明為何要優先。",
+        "寫一句：不急，但最好週三前。"
+      ],
+      "answers": [
+        "例：Please send by 2 p.m. CT today.",
+        "例：This is blocking the lender submission.",
+        "例：No rush, but ideally before Wednesday."
+      ]
+    },
+    {
+      "id": "grammar-26",
+      "num": 26,
+      "slug": "grammar-26-emotions-evaluations-overwhelmed-solid-underwhelming",
+      "bookId": 4,
+      "bookTitle": "現代慣用語與口語潤滑",
+      "titleZh": "情緒與評價",
+      "titleEn": "Emotions & Evaluations: overwhelmed / solid / underwhelming",
+      "focus": "評價詞要準：solid 是職場誇讚高頻；underwhelming 是客氣的失望。",
+      "contrasts": [
+        {
+          "bad": "I'm very fine.",
+          "good": "I'm good. / I'm fine. / Doing well.",
+          "note": "very fine 不自然"
+        },
+        {
+          "bad": "The presentation was satisfying.（偏中式）",
+          "good": "The presentation was solid / strong / clear.",
+          "note": "選美式評價詞"
+        },
+        {
+          "bad": "I am exciting about…",
+          "good": "I'm excited about…",
+          "note": "exciting vs excited"
+        },
+        {
+          "bad": "It was so so.",
+          "good": "It was okay / meh / underwhelming.",
+          "note": "給出清楚梯度"
+        }
+      ],
+      "rules": [
+        "正面：solid, strong, clean, sharp, helpful, thoughtful。",
+        "中性／保留：fine, okay, decent, mixed。",
+        "負面客氣：underwhelming, rough, messy, thin, concerning。",
+        "狀態：overwhelmed, stretched, burned out, wired, wiped。"
+      ],
+      "examples": [
+        {
+          "tag": "投資",
+          "en": "The deck is solid; the expense notes are still thin.",
+          "zh": "簡報很穩；費用註記仍薄。"
+        },
+        {
+          "tag": "房產",
+          "en": "I'm a bit overwhelmed with closings this month.",
+          "zh": "這個月成交讓我負荷過重。"
+        },
+        {
+          "tag": "生活",
+          "en": "The restaurant was underwhelming for the price.",
+          "zh": "以價格來說餐廳讓人失望。"
+        },
+        {
+          "tag": "房產",
+          "en": "I'm excited about the renovation, and slightly terrified.",
+          "zh": "翻修讓我興奮也有點怕。"
+        },
+        {
+          "tag": "投資",
+          "en": "That was a thoughtful note on vacancy—thanks.",
+          "zh": "空置那則意見很用心，謝了。"
+        },
+        {
+          "tag": "生活",
+          "en": "I'm wiped; can we do a quiet night in?",
+          "zh": "累慘了，今晚在家低調可以嗎？"
+        }
+      ],
+      "passage": {
+        "en": "The offering memo is solid; the expense section is still thin. I'm a bit overwhelmed with back-to-back showings and a remodel quote marathon. The model unit was underwhelming for the price they want per door. I'm excited about the renovation, and also slightly terrified of change orders. That was a thoughtful note on drainage—thanks. I'm wiped and turning my phone down after this. Evaluation vocabulary keeps feedback adult: solid, thin, underwhelming—clear enough to act on without drama.",
+        "zh": "投資備忘錄很穩；費用那一段仍薄。連續帶看加翻修報價馬拉松，我有點負荷過重。以他們要的單戶價格來說，樣品單位有點未達期待。翻修讓我興奮，也有點怕變更單。排水那則意見很用心，謝了。我累慘了，這則之後電話靜音。評價詞讓回饋成熟：solid、thin、underwhelming——清楚到能行動。",
+        "words": 81
+      },
+      "idioms": [
+        {
+          "phrase": "solid",
+          "gloss": "紮實、可靠（誇）",
+          "domain": "職場／口語"
+        },
+        {
+          "phrase": "underwhelming",
+          "gloss": "未達期待",
+          "domain": "中性／客氣"
+        },
+        {
+          "phrase": "overwhelmed",
+          "gloss": "負荷過重",
+          "domain": "中性"
+        },
+        {
+          "phrase": "thoughtful",
+          "gloss": "想得周到",
+          "domain": "中性／職場"
+        }
+      ],
+      "practices": [
+        "用 solid / thin 評價一份報告。",
+        "改錯：I am boring in meetings.（若指自己覺得無聊）",
+        "客氣批評一頓過鹹的晚餐。"
+      ],
+      "answers": [
+        "例：The executive summary is solid; the data section is thin.",
+        "I'm bored in meetings. / Meetings bore me.",
+        "例：Dinner was a bit underwhelming—way too salty."
+      ]
+    },
+    {
+      "id": "grammar-27",
+      "num": 27,
+      "slug": "grammar-27-everyday-chunks-i-m-down-i-m-all-set-no-rush-my-bad",
+      "bookId": 4,
+      "bookTitle": "現代慣用語與口語潤滑",
+      "titleZh": "生活慣用",
+      "titleEn": "Everyday Chunks: I'm down / I'm all set / No rush / My bad",
+      "focus": "日常 chunks 讓你聽起來不像教科書；語域仍要分朋友 vs 客戶。",
+      "contrasts": [
+        {
+          "bad": "I am downfall…",
+          "good": "I'm down (to…).",
+          "note": "down＝願意參加"
+        },
+        {
+          "bad": "I all set.",
+          "good": "I'm all set.",
+          "note": "要完整"
+        },
+        {
+          "bad": "My evil.（誤）",
+          "good": "My bad.",
+          "note": "道歉口語"
+        },
+        {
+          "bad": "對客戶說 You guys suck, my bad.",
+          "good": "對客戶用 Sorry about that. / That's on me.",
+          "note": "語域"
+        }
+      ],
+      "rules": [
+        "邀約：I'm down, Count me in, I'll take a rain check, I'm out。",
+        "狀態：I'm all set, I'm good, I'm set on…（已決定）。",
+        "道歉：My bad（熟）, That's on me（更負責）, Sorry about that。",
+        "節奏：No rush, Take your time, Whenever works。"
+      ],
+      "examples": [
+        {
+          "tag": "生活",
+          "en": "I'm down for a hike if we start early.",
+          "zh": "早出發的話健行算我一個。"
+        },
+        {
+          "tag": "房產",
+          "en": "I'm all set on staging chairs—thanks.",
+          "zh": "佈置椅我這邊夠了，謝啦。"
+        },
+        {
+          "tag": "生活",
+          "en": "My bad—I grabbed your charger after the showing.",
+          "zh": "我的錯，看房後拿了你的充電器。"
+        },
+        {
+          "tag": "房產",
+          "en": "No rush on the listing photos; next week is fine.",
+          "zh": "掛牌照片不急，下週可。"
+        },
+        {
+          "tag": "投資",
+          "en": "That's on me—I sent the wrong rent roll.",
+          "zh": "怪我，寄錯租金表。"
+        },
+        {
+          "tag": "生活",
+          "en": "I'll take a rain check on drinks; I'm wiped.",
+          "zh": "喝酒改天，我累了。"
+        }
+      ],
+      "passage": {
+        "en": "I'm down for Saturday showings if we start early and grab coffee after. I'm all set on chairs for the staging—thanks for checking. My bad—I sent you the wrong gate code for the condo. No rush on the paint samples; anytime before the GC orders materials is fine. That's on me—I uploaded the old rent roll. I'll take a rain check on drinks and fix the file tonight. Everyday chunks keep friendships easy during a stressful hunt, as long as I upgrade the register for clients and lenders.",
+        "zh": "若早出發、看完喝咖啡，週六帶看我願意。佈置用的椅子我這邊夠了，謝謝確認。我的錯，寄錯公寓大門密碼。油漆色樣不急，總承包訂材料前隨時都行。怪我，上傳了舊租金表。喝酒改天，我今晚先把檔案修好。生活 chunks 讓看房高壓期友情好過，只要對客戶與貸方升語域。",
+        "words": 91
+      },
+      "idioms": [
+        {
+          "phrase": "I'm down",
+          "gloss": "我願意／算我一個",
+          "domain": "口語"
+        },
+        {
+          "phrase": "I'm all set",
+          "gloss": "我好了／不需要了",
+          "domain": "口語"
+        },
+        {
+          "phrase": "my bad",
+          "gloss": "我的錯",
+          "domain": "口語"
+        },
+        {
+          "phrase": "rain check",
+          "gloss": "改天再約",
+          "domain": "口語"
+        }
+      ],
+      "practices": [
+        "用 I'm down 回覆週末看房邀請。",
+        "把 My bad 改成對客戶可用的負責句。",
+        "用 rain check 婉拒今晚聚餐。"
+      ],
+      "answers": [
+        "例：I'm down to tour places this weekend.",
+        "例：That's on me—I sent the wrong version. Apologies.",
+        "例：I'll take a rain check on dinner tonight."
+      ]
+    },
+    {
+      "id": "grammar-28",
+      "num": 28,
+      "slug": "grammar-28-handle-with-care-slang-hype-dated-phrases",
+      "bookId": 4,
+      "bookTitle": "現代慣用語與口語潤滑",
+      "titleZh": "慎用區：slang 與過時語",
+      "titleEn": "Handle with Care: Slang, Hype & Dated Phrases",
+      "focus": "C1 包含「認得、能理解、卻知道何時不說」；潮流語有保存期限。",
+      "contrasts": [
+        {
+          "bad": "對貸方說 This deal is lit.",
+          "good": "This deal looks strong.",
+          "note": "語域錯誤"
+        },
+        {
+          "bad": "Please do the needful. / Per my last email（攻擊性）",
+          "good": "改具體請求；少用武器化套話",
+          "note": "職場地雷"
+        },
+        {
+          "bad": "Irregardless",
+          "good": "Regardless",
+          "note": "非標準"
+        },
+        {
+          "bad": "ASAP 當個性",
+          "good": "明確截止",
+          "note": "見 L25"
+        }
+      ],
+      "rules": [
+        "可理解但慎用：lit, adulting, vibe check, no cap, bet（世代／場合敏感）。",
+        "過時或空洞：synergy（滥用）, think outside the box（陳腔）, circle back 每句都用。",
+        "易冒犯：guys（視聽眾）、bossy、某些年齡／身體評論。",
+        "策略：會議聽得懂 slang；自己產出以中性＋精準為主。"
+      ],
+      "examples": [
+        {
+          "tag": "投資",
+          "en": "The upside is real; I wouldn't call it a no-brainer yet.",
+          "zh": "上行真實；但我還不說這是免想單。"
+        },
+        {
+          "tag": "房產",
+          "en": "Following up—do you need anything else for the HOA packet?",
+          "zh": "跟進：社區文件包還需要我這邊什麼嗎？"
+        },
+        {
+          "tag": "生活",
+          "en": "Great vibe, but vibe won't fix the leak.",
+          "zh": "氛圍好，但氛圍修不好漏水。"
+        },
+        {
+          "tag": "投資",
+          "en": "Regardless of hype, we underwrite the numbers.",
+          "zh": "不論炒作，我們還是看數字。"
+        },
+        {
+          "tag": "房產",
+          "en": "Name the actual risk: roof, reserves, and assessments.",
+          "zh": "說出真正風險：屋頂、準備金、攤派。"
+        },
+        {
+          "tag": "生活",
+          "en": "I get the meme; I still need the gate code.",
+          "zh": "迷因懂，但我仍要大門密碼。"
+        }
+      ],
+      "passage": {
+        "en": "I'm comfortable saying the upside is real; I wouldn't call this deal a no-brainer yet. Following up on Tuesday's email—do you still need the survey before underwriting? The place has a great vibe, but vibe won't fix foundation movement. Regardless of the hype on social media, we underwrite the T-12 and the repairs. Let's avoid buzzwords and name the actual risk: concentration, vacancy, and a tired roof. Knowing slang without performing it is part of C1: I can understand the meme and still write a clean diligence note.",
+        "zh": "上行空間我認可；但我還不會說這是不用想的單。跟進週二的信：審核前你還需要測量圖嗎？氛圍很好，但氛圍修不好地基移位。不論社群怎麼炒，我們還是看 T-12 與維修。少點空話，把真正風險說出來：集中度、空置，還有疲態屋頂。認得 slang 卻不表演它，是 C1 的一部分：懂迷因，仍能寫乾淨盡職筆記。",
+        "words": 90
+      },
+      "idioms": [
+        {
+          "phrase": "no-brainer",
+          "gloss": "顯而易見的決定（口語）",
+          "domain": "口語／慎用於嚴肅場合"
+        },
+        {
+          "phrase": "underwrite",
+          "gloss": "審核風險／評估可行性",
+          "domain": "職場"
+        },
+        {
+          "phrase": "hype",
+          "gloss": "炒作、過熱宣傳",
+          "domain": "中性／口語"
+        },
+        {
+          "phrase": "buzzword",
+          "gloss": "流行空話",
+          "domain": "職場"
+        }
+      ],
+      "practices": [
+        "把 lit 句改成職場可用。",
+        "改寫攻擊性：Per my last email, you still haven't replied.",
+        "舉一例：你會說但不會寫進給客戶的信的詞。"
+      ],
+      "answers": [
+        "例：This opportunity looks strong / compelling.",
+        "例：Just following up on my previous email—wanted to check if you need anything else from me.",
+        "例：vibe / lit / no cap 等（合理即可）。"
+      ]
+    },
+    {
+      "id": "grammar-29",
+      "num": 29,
+      "slug": "grammar-29-scheduling-rescheduling-running-late",
+      "bookId": 5,
+      "bookTitle": "場景包 Lifestyle／Real Estate",
+      "titleZh": "約時間、改期、遲到",
+      "titleEn": "Scheduling, Rescheduling & Running Late",
+      "focus": "美式約時間重「給選項＋確認時區／地點」；遲到要早通知＋ETA。",
+      "contrasts": [
+        {
+          "bad": "Are you free?",
+          "good": "Do you have 30 minutes Thursday? / What times work for you?",
+          "note": "給框架"
+        },
+        {
+          "bad": "I will late.",
+          "good": "I'm running late. / I'm going to be about 15 minutes late.",
+          "note": "固定說法"
+        },
+        {
+          "bad": "Maybe we change time.",
+          "good": "Could we move it to 3? / Can we push it an hour?",
+          "note": "明確動作"
+        },
+        {
+          "bad": "Waiting you.",
+          "good": "I'll be there. / See you soon. / I'm out front.",
+          "note": "狀態清楚"
+        }
+      ],
+      "rules": [
+        "邀約結構：目的＋長度＋兩三個時段＋地點／連結。",
+        "改期：move / push / pull forward；附新選項。",
+        "遲到：提前傳訊＋原因短句＋ETA；到了說 I'm here / I'm out front。",
+        "取消：I need to cancel（清楚）＋propose a new time。"
+      ],
+      "examples": [
+        {
+          "tag": "房產",
+          "en": "Can we do Thursday at 2 CT or Friday at 10 for a call?",
+          "zh": "電話能否週四 2 點 CT 或週五 10 點？"
+        },
+        {
+          "tag": "房產",
+          "en": "Can we push our walkthrough to 4?",
+          "zh": "實地查看能推到四點嗎？"
+        },
+        {
+          "tag": "生活",
+          "en": "I'm running about ten minutes late—rain and traffic.",
+          "zh": "會晚十分鐘，下雨又塞車。"
+        },
+        {
+          "tag": "生活",
+          "en": "I'm out front whenever you're ready.",
+          "zh": "你準備好我就在門口。"
+        },
+        {
+          "tag": "生活",
+          "en": "Rain check on coffee? Next week is better.",
+          "zh": "咖啡改天？下週較好。"
+        },
+        {
+          "tag": "房產",
+          "en": "Confirming we're still on for Tuesday's inspection at 9.",
+          "zh": "確認週二九點驗屋仍照常。"
+        }
+      ],
+      "passage": {
+        "en": "Can we do a twenty-minute call Thursday at two or Friday at ten to align on showings? Something came up—can we push our walkthrough to four? I'm running about ten minutes late; the freeway is a mess after the rain. I'm out front whenever you're ready with the lockbox. Confirming we're still on for Tuesday's inspection at nine, unless the seller needs to move it. Scheduling language is underrated equity: clear ETAs and confirmations prevent the silent resentment that kills deals.",
+        "zh": "週四兩點或週五十點，二十分鐘電話對齊帶看可以嗎？臨時有事，實地查看能推到四點嗎？我會晚約十分鐘；下雨後高速公路很亂。你準備好鎖盒我就在門口。確認週二九點驗屋仍照常，除非賣方要改時間。約時間語言被低估：清楚 ETA 與確認，能避免默殺交易的怨氣。",
+        "words": 83
+      },
+      "idioms": [
+        {
+          "phrase": "running late",
+          "gloss": "會晚到",
+          "domain": "中性"
+        },
+        {
+          "phrase": "push / move (a meeting)",
+          "gloss": "改晚／改期",
+          "domain": "職場"
+        },
+        {
+          "phrase": "still on for…",
+          "gloss": "仍預定…",
+          "domain": "中性"
+        },
+        {
+          "phrase": "out front",
+          "gloss": "在門口／前方",
+          "domain": "口語"
+        }
+      ],
+      "practices": [
+        "寫一則改期簡訊：驗屋改到隔天下午 3 點。",
+        "遲到 15 分鐘給貸方的得體訊息。",
+        "用 still on for 確認看房。"
+      ],
+      "answers": [
+        "例：Can we move the inspection to tomorrow at 3?",
+        "例：I'm running about 15 minutes late—apologies. ETA 2:15.",
+        "例：Confirming we're still on for the showing at 5."
+      ]
+    },
+    {
+      "id": "grammar-30",
+      "num": 30,
+      "slug": "grammar-30-dining-out-coffee-small-gatherings",
+      "bookId": 5,
+      "bookTitle": "場景包 Lifestyle／Real Estate",
+      "titleZh": "餐敘、咖啡、小型聚會",
+      "titleEn": "Dining Out, Coffee & Small Gatherings",
+      "focus": "點餐、分帳、過敏與離開場合的套語；偏美式日常生活。",
+      "contrasts": [
+        {
+          "bad": "I eat this.",
+          "good": "I'll have the salmon. / Can I get the…?",
+          "note": "點餐句式"
+        },
+        {
+          "bad": "Let's AA.",
+          "good": "Want to split it? / Can we get separate checks?",
+          "note": "美式分帳說法"
+        },
+        {
+          "bad": "I am inconvenient.",
+          "good": "It's a bit inconvenient. / That doesn't work for me.",
+          "note": "用詞"
+        },
+        {
+          "bad": "Please eat more.（勸菜）",
+          "good": "Please help yourself. / Don't be shy.",
+          "note": "美式較不勉強夾菜"
+        }
+      ],
+      "rules": [
+        "點餐：I'll have… / Can I get… / I'd like…；改單 *Actually, make that…*。",
+        "飲食限制：I'm allergic to… / I don't drink / I'm trying to avoid…。",
+        "結帳：split the check, separate checks, I've got this（我請）。",
+        "離席：I'm going to head out / I should get going。"
+      ],
+      "examples": [
+        {
+          "tag": "生活",
+          "en": "I'll have the salmon and a sparkling water.",
+          "zh": "我要鮭魚加氣泡水。"
+        },
+        {
+          "tag": "生活",
+          "en": "I'm allergic to tree nuts—does this sauce have any?",
+          "zh": "對樹堅果過敏，這醬有嗎？"
+        },
+        {
+          "tag": "生活",
+          "en": "Want to split it, or get separate checks?",
+          "zh": "要拆分還是各付各的？"
+        },
+        {
+          "tag": "生活",
+          "en": "I've got this—you covered the locksmith last time.",
+          "zh": "這次我請，上次鎖匠你付的。"
+        },
+        {
+          "tag": "房產",
+          "en": "Coffee near the listing at 9? I'll grab a table.",
+          "zh": "九點掛牌附近咖啡？我先占桌。"
+        },
+        {
+          "tag": "投資",
+          "en": "I'm heading out early—lender call before the tour.",
+          "zh": "我早走——看房前有貸方電話。"
+        }
+      ],
+      "passage": {
+        "en": "I'll have the burger medium and a sparkling water after we finish the open house shift. I'm allergic to tree nuts—does this sauce have any? I don't want a surprise before tomorrow's appraisal. Want to split it, or should we get separate checks? I've got this if you cover coffee tomorrow near the site. I'm going to head out after this drink; early showing tomorrow. Coffee near the listing at nine? I'll grab a table and pull up the comps.",
+        "zh": "開放看屋輪值結束後，我要三分熟漢堡加氣泡水。我對樹堅果過敏，這醬有嗎？明天估價前別來意外。要拆分還是各付各的？這次我請，明天工地附近咖啡你請。這杯完我先走，明天很早要帶看。九點在掛牌附近咖啡？我先占桌，順便打開可比案例。",
+        "words": 81
+      },
+      "idioms": [
+        {
+          "phrase": "Can I get…?",
+          "gloss": "我要…（點餐）",
+          "domain": "口語"
+        },
+        {
+          "phrase": "I've got this",
+          "gloss": "我來付",
+          "domain": "口語"
+        },
+        {
+          "phrase": "head out",
+          "gloss": "離開",
+          "domain": "口語"
+        },
+        {
+          "phrase": "grab a table",
+          "gloss": "先占桌",
+          "domain": "口語"
+        }
+      ],
+      "practices": [
+        "點餐：中稀牛排＋冰茶。",
+        "得體詢問花生過敏。",
+        "用 I've got this 請同事咖啡。"
+      ],
+      "answers": [
+        "例：I'll have the steak medium-rare, and an iced tea.",
+        "例：I'm allergic to peanuts—could you check whether this has any?",
+        "例：I've got this—coffee's on me."
+      ]
+    },
+    {
+      "id": "grammar-31",
+      "num": 31,
+      "slug": "grammar-31-real-estate-showings-remodels-repairs",
+      "bookId": 5,
+      "bookTitle": "場景包 Lifestyle／Real Estate",
+      "titleZh": "看房、裝修、報修",
+      "titleEn": "Real Estate: Showings, Remodels & Repairs",
+      "focus": "看房與裝修是高頻實戰英語：狀況描述、條件談判、工人協調。",
+      "contrasts": [
+        {
+          "bad": "The house is very old but good.",
+          "good": "It's dated, but the bones are good.",
+          "note": "行內常用比喻"
+        },
+        {
+          "bad": "Price too high, lower please.",
+          "good": "Would you consider a credit for roof work? / We're at X.",
+          "note": "談判完整"
+        },
+        {
+          "bad": "Toilet has problem.",
+          "good": "The toilet is running / leaking / won't flush.",
+          "note": "具體故障"
+        },
+        {
+          "bad": "Decoration is beautiful.",
+          "good": "The finishes are high-end / The updates are cosmetic.",
+          "note": "分清結構vs表面"
+        }
+      ],
+      "rules": [
+        "看房：showing, open house, listing, comps, days on market, under contract。",
+        "屋況：bones, deferred maintenance, cosmetic updates, turnkey, as-is。",
+        "流程：inspection, appraisal, contingency, escrow, closing, punch list。",
+        "報修：running toilet, tripped breaker, not cooling, moisture intrusion。"
+      ],
+      "examples": [
+        {
+          "tag": "房產",
+          "en": "The bones are good; this is mostly deferred maintenance.",
+          "zh": "底子好；多半是延宕維護。"
+        },
+        {
+          "tag": "房產",
+          "en": "We're requesting a $6,000 credit for HVAC.",
+          "zh": "我們要求六千美元空調折讓。"
+        },
+        {
+          "tag": "生活",
+          "en": "The AC is running but not cooling.",
+          "zh": "空調有轉但不冷。"
+        },
+        {
+          "tag": "房產",
+          "en": "Listed turnkey, but I'd still budget for paint.",
+          "zh": "雖標即住，仍會編油漆預算。"
+        },
+        {
+          "tag": "投資",
+          "en": "Inspection Friday; order appraisal only if we stay in.",
+          "zh": "週五驗屋；確定留下再下估價。"
+        },
+        {
+          "tag": "房產",
+          "en": "Moisture staining under the upstairs bath worries me.",
+          "zh": "樓上浴室下方水漬讓我擔心。"
+        }
+      ],
+      "passage": {
+        "en": "The bones are good; most of what you're seeing is deferred maintenance, not disaster. We're requesting a six-thousand-dollar credit for HVAC replacement rather than seller repairs. The AC is running but not cooling—might be low on refrigerant. It's listed as turnkey, but I'd still budget for paint, landscaping, and a punch list week. Inspection is Friday; appraisal should be ordered after we know whether we're staying in the deal. This is the core dialect of American residential deals; if I can say these lines smoothly, negotiations feel less foreign.",
+        "zh": "底子不錯；你看到的多半是延宕維護，不是災難。我們要求六千美元折讓換空調，而不是賣方施工。空調有轉但不冷，可能冷媒不足。雖標配好即住，我仍會編油漆、景觀和一週待修。週五驗屋；確定還留在這單裡再下估價。這是美式住宅交易的核心腔調；這些句子順了，談判就不那麼陌生。",
+        "words": 92
+      },
+      "idioms": [
+        {
+          "phrase": "the bones are good",
+          "gloss": "屋體／結構底子好",
+          "domain": "房地產"
+        },
+        {
+          "phrase": "deferred maintenance",
+          "gloss": "延宕未修的維護",
+          "domain": "房地產"
+        },
+        {
+          "phrase": "repair credit",
+          "gloss": "以折讓代替賣方施工",
+          "domain": "房地產"
+        },
+        {
+          "phrase": "turnkey",
+          "gloss": "可直接入住／營運",
+          "domain": "房地產"
+        }
+      ],
+      "practices": [
+        "用 bones / deferred maintenance 描述一間 90 年代屋。",
+        "寫一句要求屋頂維修折讓。",
+        "具體描述：馬桶一直流水。"
+      ],
+      "answers": [
+        "例：The bones are good, but there's deferred maintenance throughout.",
+        "例：We're asking for a credit to address the roof.",
+        "例：The toilet is running."
+      ]
+    },
+    {
+      "id": "grammar-32",
+      "num": 32,
+      "slug": "grammar-32-travel-service-situations",
+      "bookId": 5,
+      "bookTitle": "場景包 Lifestyle／Real Estate",
+      "titleZh": "旅行與服務業交涉",
+      "titleEn": "Travel & Service Situations",
+      "focus": "延誤、升級、投訴要短、清楚、有請求；情緒穩定比單字華麗重要。",
+      "contrasts": [
+        {
+          "bad": "I want compensate.",
+          "good": "I'd like a refund / voucher / rebooking. What are my options?",
+          "note": "要具體救濟"
+        },
+        {
+          "bad": "This is too bad service.",
+          "good": "The wait has been over an hour—can you help escalate?",
+          "note": "事實＋請求"
+        },
+        {
+          "bad": "I lose my bag.",
+          "good": "My bag didn't show up. Here's my tag.",
+          "note": "現在完成／具體"
+        },
+        {
+          "bad": "Upgrade me.",
+          "good": "Is there any complimentary upgrade available tonight?",
+          "note": "禮貌＋現實"
+        }
+      ],
+      "rules": [
+        "結構：狀況一句＋已嘗試＋明確請求＋感謝。",
+        "旅遊詞：connection, gate change, standby, rebook, voucher, incidentals。",
+        "住宿：late checkout, comp, smoke smell, room change, folio。",
+        "保持 C1：堅定但不動怒；*I understand it's busy—still, I need…*"
+      ],
+      "examples": [
+        {
+          "tag": "生活",
+          "en": "My connection is tight—any earlier seat?",
+          "zh": "轉機很緊，有更早位子嗎？"
+        },
+        {
+          "tag": "生活",
+          "en": "The room smells like smoke; could we change rooms?",
+          "zh": "有煙味，能換房嗎？"
+        },
+        {
+          "tag": "房產",
+          "en": "I'd like to rebook tonight so I don't miss the showing.",
+          "zh": "想改訂今晚航班，以免錯過帶看。"
+        },
+        {
+          "tag": "投資",
+          "en": "I need an itemized receipt for this property trip.",
+          "zh": "看物件出差需要明細收據。"
+        },
+        {
+          "tag": "生活",
+          "en": "Is late checkout available, even for a fee?",
+          "zh": "晚退房可以嗎？付費也行。"
+        },
+        {
+          "tag": "房產",
+          "en": "I still need help finding my bag before tomorrow's inspection.",
+          "zh": "明天驗屋前我仍需要幫忙找行李。"
+        }
+      ],
+      "passage": {
+        "en": "My connection is tight—can you see if there's an earlier seat so I don't miss the Friday showing? The hotel room smells like smoke; could we change rooms tonight? I have lender calls in the morning. I'd like to rebook on the next available flight, please, and keep the rental car confirmation. I need the receipt itemized for reimbursement on this property trip. I understand it's busy; I still need help finding my bag before tomorrow's inspection. Travel English matters because out-of-town underwriting trips are common, and a missed bag can mean a missed inspection.",
+        "zh": "轉機很緊，能看更早位子嗎？別讓我錯過週五帶看。飯店房間有煙味，今晚可換房嗎？早上有貸方電話。請改訂下一班有位子的航班，並保留租車確認。這趟看物件出差，報銷需要明細收據。我理解很忙，但我仍需要在明天驗屋前找到行李。旅行英語重要，因為出城審核常見；行李延誤可能等於驗屋延誤。",
+        "words": 98
+      },
+      "idioms": [
+        {
+          "phrase": "rebook",
+          "gloss": "改訂",
+          "domain": "中性"
+        },
+        {
+          "phrase": "voucher",
+          "gloss": "抵用券",
+          "domain": "中性"
+        },
+        {
+          "phrase": "escalate",
+          "gloss": "向上呈報／升級處理",
+          "domain": "職場／服務"
+        },
+        {
+          "phrase": "itemized receipt",
+          "gloss": "明細收據",
+          "domain": "職場"
+        }
+      ],
+      "practices": [
+        "航班取消：用三句（狀況／請求／選項）。",
+        "飯店煙味：請求換房。",
+        "用 escalate 禮貌升級。"
+      ],
+      "answers": [
+        "例：My flight was canceled. I'd like to rebook tonight. What are my options?",
+        "例：The room smells like smoke—could we change rooms?",
+        "例：Could you escalate this to a supervisor, please?"
+      ]
+    },
+    {
+      "id": "grammar-33",
+      "num": 33,
+      "slug": "grammar-33-polite-no-boundaries",
+      "bookId": 6,
+      "bookTitle": "進階表達",
+      "titleZh": "委婉拒絕與邊界",
+      "titleEn": "Polite No & Boundaries",
+      "focus": "拒絕要短、穩、給替代或時間盒；C1 的「不」不需過度道歉。",
+      "contrasts": [
+        {
+          "bad": "Maybe later…（永遠 later）",
+          "good": "I can't take that on this month. I can revisit in June.",
+          "note": "可驗證的边界"
+        },
+        {
+          "bad": "No problem!（其實有問題）",
+          "good": "That won't work for me. / I have to say no.",
+          "note": "別假同意"
+        },
+        {
+          "bad": "I'll try…（當你做不到）",
+          "good": "I won't be able to. / I can do X instead.",
+          "note": "承諾管理"
+        },
+        {
+          "bad": "You never help me!（控訴）",
+          "good": "I need help with X by Y.",
+          "note": "要請求非指責"
+        }
+      ],
+      "rules": [
+        "公式：感謝／認可＋清晰拒絕＋理由（可選短）＋替代方案。",
+        "邊界句：I don't have bandwidth. / I'm not available for that. / That's outside my scope.",
+        "軟拒絕仍清楚：I'm going to pass. / I'll have to decline.",
+        "對重複施壓：I've already said no on that—happy to help with Z instead."
+      ],
+      "examples": [
+        {
+          "tag": "投資",
+          "en": "I'm going to pass on leading that syndicate; I can review deals monthly.",
+          "zh": "銀團主導我先不接；我可每月審案子。"
+        },
+        {
+          "tag": "房產",
+          "en": "I can't take another remodel without dropping quality.",
+          "zh": "再接翻修會掉品質，接不了。"
+        },
+        {
+          "tag": "生活",
+          "en": "I'm not free that night, but Sunday works for a walk.",
+          "zh": "那晚不行，週日可以走走。"
+        },
+        {
+          "tag": "生活",
+          "en": "I'll have to decline dinner, but thanks for including me.",
+          "zh": "晚餐得婉拒，謝謝邀請。"
+        },
+        {
+          "tag": "房產",
+          "en": "That's outside my scope—ask the property manager.",
+          "zh": "超出我範圍，問物業經理。"
+        },
+        {
+          "tag": "生活",
+          "en": "I need quiet time after back-to-back showings.",
+          "zh": "連續帶看後我需要安靜。"
+        }
+      ],
+      "passage": {
+        "en": "I'm going to pass on leading the investors' club this quarter; I can present once on small multi-family. I can't take another listing project without dropping quality on the remodel already in motion. I'm not free Thursday night, but Sunday afternoon works for a casual walkthrough. I'll have to decline dinner, but thank you for including me after a long option-period week. That's outside my scope—you'll want the property manager on vendor payments. I need quiet time tonight.",
+        "zh": "這季投資者俱樂部主導我先不接；小型多戶我可以分享一次。翻修已在進行，再接掛牌案會掉品質。週四晚不行，週日下午可以隨便走走看。晚餐我得婉拒，謝謝在緊湊評估期後還邀請我。那超出我範圍，廠商付款你該找物業經理。今晚我需要安靜。",
+        "words": 81
+      },
+      "idioms": [
+        {
+          "phrase": "I'm going to pass",
+          "gloss": "我放棄／不參與",
+          "domain": "口語／職場"
+        },
+        {
+          "phrase": "outside my scope",
+          "gloss": "超出職責範圍",
+          "domain": "職場"
+        },
+        {
+          "phrase": "I won't be able to…",
+          "gloss": "我無法…",
+          "domain": "中性"
+        },
+        {
+          "phrase": "happy to help with…",
+          "gloss": "…可以幫忙（設邊界後）",
+          "domain": "職場"
+        }
+      ],
+      "practices": [
+        "拒絕額外專案但提出替代。",
+        "把 Maybe later 改成可驗證句。",
+        "對朋友勸酒：清楚邊界一句。"
+      ],
+      "answers": [
+        "例：I can't own that project; I can review the deck on Friday.",
+        "例：I can't do June; let's revisit in July.",
+        "例：I'm not drinking tonight—thanks though."
+      ]
+    },
+    {
+      "id": "grammar-34",
+      "num": 34,
+      "slug": "grammar-34-feedback-praise-constructive-notes",
+      "bookId": 6,
+      "bookTitle": "進階表達",
+      "titleZh": "給回饋：讚美與建設性",
+      "titleEn": "Feedback: Praise & Constructive Notes",
+      "focus": "回饋要具體行為＋影響＋請求；讚美也要可複現，不是空喊 great。",
+      "contrasts": [
+        {
+          "bad": "This is bad.",
+          "good": "The intro loses me—can we lead with the ask?",
+          "note": "可行動"
+        },
+        {
+          "bad": "Good job.",
+          "good": "The comps table was clear and saved us time.",
+          "note": "具體讚美"
+        },
+        {
+          "bad": "You always…",
+          "good": "In yesterday's call, when X happened…",
+          "note": "指事件非人格"
+        },
+        {
+          "bad": "Don't take this personally, but…（常更傷）",
+          "good": "直接進行為與影響",
+          "note": "少用免責前言"
+        }
+      ],
+      "rules": [
+        "讚美：具體行為＋效果。",
+        "改進：觀察＋影響＋建議／問題（SBI 思維可）。",
+        "語氣：I-statements；問句邀請共創（*How do you see it?*）。",
+        "書面：條列 notes；分 must-fix vs nice-to-have。"
+      ],
+      "examples": [
+        {
+          "tag": "投資",
+          "en": "The summary was sharp—I knew the ask in ten seconds.",
+          "zh": "摘要很利落，十秒知道訴求。"
+        },
+        {
+          "tag": "房產",
+          "en": "Your pause after their objection on credits helped.",
+          "zh": "他們談折讓異議後你的停頓很有用。"
+        },
+        {
+          "tag": "房產",
+          "en": "The pricing slide confuses fee versus credit—can we split them?",
+          "zh": "定價頁費用跟折讓混了，能拆開嗎？"
+        },
+        {
+          "tag": "生活",
+          "en": "Thanks for meeting the plumber—that saved my afternoon.",
+          "zh": "謝謝你見水管工，救了我下午。"
+        },
+        {
+          "tag": "投資",
+          "en": "Two must-fixes: vacancy assumption and CapEx. Rest is polish.",
+          "zh": "必改：空置假設與資本支出；其餘潤飾。"
+        },
+        {
+          "tag": "房產",
+          "en": "How do you see the risk on appraisal timing?",
+          "zh": "你怎看估價時程風險？"
+        }
+      ],
+      "passage": {
+        "en": "The executive summary was sharp—I knew the ask on the credit in ten seconds. In the seller call, your pause after their objection helped. Let's keep doing that. The pricing slide confuses me—can we separate closing costs versus repair credits? Thanks for handling the contractor; that saved the afternoon before the inspection. Two must-fixes: timeline and owner. The rest is optional polish before we send to the lender. Concrete feedback shortens remodel cycles; vague praise doesn't tell a contractor what to change before the next walkthrough.",
+        "zh": "執行摘要很利落，十秒就知道折讓訴求。賣方電話裡，異議後你的停頓很有用，保持。定價頁我看不懂，能把成交費和維修折讓拆開嗎？謝謝你應付承包商，救了驗屋前的下午。兩項必改：時程與負責人；其餘是寄給貸方前的潤飾。具體回饋縮短翻修循環；空泛稱讚無法告訴承包商下次查看前要改什麼。",
+        "words": 89
+      },
+      "idioms": [
+        {
+          "phrase": "must-fix",
+          "gloss": "必改項",
+          "domain": "職場"
+        },
+        {
+          "phrase": "nice-to-have",
+          "gloss": "有更好、非必須",
+          "domain": "職場"
+        },
+        {
+          "phrase": "the ask",
+          "gloss": "明確訴求",
+          "domain": "職場"
+        },
+        {
+          "phrase": "sharp",
+          "gloss": "俐落、精準（誇）",
+          "domain": "職場／口語"
+        }
+      ],
+      "practices": [
+        "讚美同事清楚的會議紀錄（具體）。",
+        "建設性回饋：簡報太長。",
+        "把 You always interrupt 改成事件型回饋。"
+      ],
+      "answers": [
+        "例：Your notes captured decisions and owners—that made follow-up easy.",
+        "例：The deck loses energy after slide 8—can we cut two case studies?",
+        "例：In stand-up today, I got cut off twice—can we use a hand-raise?"
+      ]
+    },
+    {
+      "id": "grammar-35",
+      "num": 35,
+      "slug": "grammar-35-presenting-numbers-narratives",
+      "bookId": 6,
+      "bookTitle": "進階表達",
+      "titleZh": "簡報與數據說明",
+      "titleEn": "Presenting Numbers & Narratives",
+      "focus": "講數字先給結論，再給證據；用對比與範圍，避免假精確。",
+      "contrasts": [
+        {
+          "bad": "Maybe increase a little.",
+          "good": "Up about 8% year-over-year, mostly from renewals.",
+          "note": "量級＋原因"
+        },
+        {
+          "bad": "The data says everything.",
+          "good": "Two takeaways: …",
+          "note": "幫聽眾摘要"
+        },
+        {
+          "bad": "It's increased 8.3721%.",
+          "good": "Up roughly 8%.",
+          "note": "口語適當取整"
+        },
+        {
+          "bad": "As you can see…（填詞過多）",
+          "good": "直述重點；圖自己會說話時少廢話",
+          "note": "節奏"
+        }
+      ],
+      "rules": [
+        "順序：headline → 2–3 supports → implication / ask。",
+        "比較：vs last year, vs plan, vs comps；用 *in line with / ahead of / behind*。",
+        "不確定：roughly, about, on the order of, directionally。",
+        "問答：*Great question—here's the short version…*"
+      ],
+      "examples": [
+        {
+          "tag": "投資",
+          "en": "Headline: occupancy is at 94%, ahead of plan.",
+          "zh": "重點：入住率 94%，優於計畫。"
+        },
+        {
+          "tag": "房產",
+          "en": "Repairs came in about $12k, mostly HVAC and plumbing.",
+          "zh": "維修約 1.2 萬，主因空調與水管。"
+        },
+        {
+          "tag": "投資",
+          "en": "Directionally fine; risk is one-tenant concentration.",
+          "zh": "方向可；風險是單租戶集中。"
+        },
+        {
+          "tag": "房產",
+          "en": "Versus comps, we're a bit under to buy a faster close.",
+          "zh": "相對可比略低，以換更快成交。"
+        },
+        {
+          "tag": "生活",
+          "en": "The kitchen remodel ran 15% over—lesson learned on allowances.",
+          "zh": "廚房翻修超支 15%，學到預留金教訓。"
+        },
+        {
+          "tag": "投資",
+          "en": "Remember one thing: lock before Friday's print.",
+          "zh": "只記一件事：週五數據前鎖利。"
+        }
+      ],
+      "passage": {
+        "en": "Headline: occupancy is at ninety-four percent, ahead of our cautious plan. Repairs came in about twelve thousand, mostly HVAC and plumbing, which is annoying but survivable. Directionally, we're fine; the real risk is concentration in one long-term tenant. Versus comps, we're priced a little under to buy certainty on closing timing. If you remember one thing from this update: lock the rate before Friday's inflation print. Number talk should be boring on purpose: headline first, range second, ask last—so partners remember the decision, not the jargon.",
+        "zh": "重點：出租率百分之九十四，優於我們的保守計畫。維修大約一萬二，主要是空調與水管，煩但扛得住。方向沒問題；真正風險是過度集中在一個長租戶。相對可比我們略低價，換成交時程的確定性。這次更新只記一件事：週五通膨數據前先鎖利。數字該刻意無聊：先結論、再區間、最後 ask——讓人記住決策不是行話。",
+        "words": 89
+      },
+      "idioms": [
+        {
+          "phrase": "headline",
+          "gloss": "一句話結論",
+          "domain": "職場"
+        },
+        {
+          "phrase": "directionally",
+          "gloss": "方向上（不求假精確）",
+          "domain": "職場"
+        },
+        {
+          "phrase": "ahead of / behind plan",
+          "gloss": "優於／落後計畫",
+          "domain": "職場"
+        },
+        {
+          "phrase": "versus comps",
+          "gloss": "相對可比對象",
+          "domain": "職場／房地產"
+        }
+      ],
+      "practices": [
+        "用 Headline: 說出租率與計畫比較。",
+        "把 8.3721% 改成口語簡報句。",
+        "用 directionally 談屋況風險。"
+      ],
+      "answers": [
+        "例：Headline: occupancy is ahead of plan at 94%.",
+        "例：We're up roughly 8% year-over-year.",
+        "例：Directionally fine, but the roof is the swing factor."
+      ]
+    },
+    {
+      "id": "grammar-36",
+      "num": 36,
+      "slug": "grammar-36-email-message-templates-spoken-vs-written",
+      "bookId": 6,
+      "bookTitle": "進階表達",
+      "titleZh": "Email／訊息短句模板",
+      "titleEn": "Email & Message Templates (Spoken vs Written)",
+      "focus": "寫作比口語更短、更可掃讀；主旨明確，行動與截止放在前面。",
+      "contrasts": [
+        {
+          "bad": "Just circling back…（無資訊）",
+          "good": "Circling back on the HOA docs—need them by Wed to keep closing.",
+          "note": "加內容"
+        },
+        {
+          "bad": "Please kindly do the needful.",
+          "good": "Please send the signed addendum by 3 p.m. CT.",
+          "note": "具體"
+        },
+        {
+          "bad": "Sorry for the long email.",
+          "good": "（直接寫短的）三點條列",
+          "note": "別預先道歉太長"
+        },
+        {
+          "bad": "FYI.（卻要人做事）",
+          "good": "Action needed: … / FYI only—no action.",
+          "note": "分清 FYI vs Action"
+        }
+      ],
+      "rules": [
+        "主旨：主題＋行動／日期（*Inspection confirm — Fri 9am*）。",
+        "開頭一句情境；中間條列；結尾 ask＋謝謝。",
+        "訊息（SMS/Slack）可更短：情境→請求→截止。",
+        "口語會議 vs 書面：口語可用 kind of；書面改清晰動詞。"
+      ],
+      "examples": [
+        {
+          "tag": "投資",
+          "en": "Subject: Rate lock — decision needed by 2 p.m. CT",
+          "zh": "主旨：鎖利——需下午 2 點 CT 前決定"
+        },
+        {
+          "tag": "房產",
+          "en": "Quick ask: can you send the T-12 today? We're blocked without it.",
+          "zh": "快捷請求：今天能否寄 T-12？沒它就卡住。"
+        },
+        {
+          "tag": "房產",
+          "en": "FYI only: walkthrough moved to 4. No action needed.",
+          "zh": "僅知會：實地查看改 4 點。無需行動。"
+        },
+        {
+          "tag": "生活",
+          "en": "Thanks—received. I'll reply before EOD.",
+          "zh": "收到，EOD 前回。"
+        },
+        {
+          "tag": "生活",
+          "en": "Running 10 late. Start the measuring without me.",
+          "zh": "晚 10 分。你們先量。"
+        },
+        {
+          "tag": "房產",
+          "en": "Recap: (1) keep inspection (2) ask $6k credit (3) I call the agent.",
+          "zh": "摘要：1 留驗屋 2 要 6k 折讓 3 我打給經紀人"
+        }
+      ],
+      "passage": {
+        "en": "Subject line first: rate lock decision needed by two p.m. Central. Hi Maya—quick ask: can you send the T-12 today? Underwriting is blocked without it. FYI only: walkthrough moved to four. No action needed unless you want to join. Thanks—received the HOA packet. I'll review and reply before end of day. Recap for our side: we keep inspection, we ask six thousand as credit, and I call the agent tonight. Message templates are how diligence survives real life; if it isn't scannable on a phone between showings, it won't get done.",
+        "zh": "主旨先寫：鎖利需下午兩點 CT 前決定。Hi Maya——快捷請求：今天能否寄 T-12？沒它審核卡住。僅供參考：實地查看改四點；不想參加就不用行動。社區文件包已收到，我會在今天結束前審完回覆。我方摘要：保留驗屋、要求六千折讓、今晚我打給經紀人。訊息模板讓盡職調查活在現實裡；若手機在帶看空檔掃不完，就不會做完。",
+        "words": 94
+      },
+      "idioms": [
+        {
+          "phrase": "quick ask",
+          "gloss": "簡短請求",
+          "domain": "職場"
+        },
+        {
+          "phrase": "FYI only",
+          "gloss": "僅知會",
+          "domain": "職場"
+        },
+        {
+          "phrase": "action needed",
+          "gloss": "需要行動",
+          "domain": "職場"
+        },
+        {
+          "phrase": "recap",
+          "gloss": "摘要複述",
+          "domain": "職場"
+        }
+      ],
+      "practices": [
+        "寫主旨：週五驗屋確認。",
+        "把空洞 follow-up 改成含截止的一句。",
+        "用 recap 三點條列會議結論。"
+      ],
+      "answers": [
+        "例：Subject: Inspection confirmation — Friday 9:00",
+        "例：Following up on the HOA letter—need it by Wednesday to keep closing.",
+        "例：Recap: (1)… (2)… (3)…"
+      ]
+    }
+  ]
+}

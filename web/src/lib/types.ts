@@ -92,3 +92,53 @@ export type SpeakData = {
   total: number;
   articles: SpeakArticle[];
 };
+
+export type GrammarExample = {
+  tag: string;
+  en: string;
+  zh: string;
+};
+
+export type GrammarContrast = {
+  bad: string;
+  good: string;
+  note: string;
+};
+
+export type GrammarIdiom = {
+  phrase: string;
+  gloss: string;
+  domain: string;
+};
+
+export type GrammarLesson = {
+  id: string;
+  num: number;
+  slug: string;
+  bookId: number;
+  bookTitle: string;
+  titleZh: string;
+  titleEn: string;
+  focus: string;
+  contrasts: GrammarContrast[];
+  rules: string[];
+  examples: GrammarExample[];
+  passage: { en: string; zh: string; words: number };
+  idioms: GrammarIdiom[];
+  practices: string[];
+  answers: string[];
+};
+
+export type GrammarBook = {
+  id: number;
+  title: string;
+  blurb: string;
+};
+
+export type GrammarData = {
+  source: string;
+  total: number;
+  audio: "tts";
+  books: GrammarBook[];
+  lessons: GrammarLesson[];
+};

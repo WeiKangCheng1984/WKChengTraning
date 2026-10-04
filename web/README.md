@@ -8,9 +8,10 @@
 專案根目錄：
 
 - `Vnotes.md` → CFA
-- `english V.md` → English
+- `english V.md` → English 句型
+- `english grammar.md` → `/english/grammar` 文法 36 課（TTS）
 
-建置前會編譯成 `web/src/data/*.json`。
+建置前可跑 `npm run content` 編譯成 `web/src/data/*.json`。
 
 ## 本地開發
 
@@ -25,7 +26,7 @@ npm run dev
 ## 功能
 
 - **CFA Vault**：十科目瀏覽、搜尋、發音、掌握度、閃卡
-- **English Drill**：類別瀏覽、發音、看中文想英文、掌握度
+- **English**：句型分類／組句；**文法與慣用語** 36 課（對比、例句、TTS 跟讀、練習）
 - 進度存於瀏覽器 `localStorage`
 
 ## 部署到 Vercel
