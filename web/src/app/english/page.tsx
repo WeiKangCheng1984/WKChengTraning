@@ -13,22 +13,19 @@ export default function EnglishIndexPage() {
         <p className="text-xs uppercase tracking-[0.22em] text-[var(--accent)]">
           English
         </p>
-        <h1 className="mt-2 font-[family-name:var(--font-display)] text-3xl text-[var(--ink)] sm:text-4xl">
+        <h1 className="mt-1 font-[family-name:var(--font-display)] text-2xl text-[var(--ink)] sm:text-3xl">
           英語
         </h1>
-        <p className="mt-2 max-w-2xl text-base leading-relaxed text-[var(--muted)]">
+        <p className="mt-1 max-w-2xl text-sm text-[var(--muted)]">
           句型庫與文法／慣用語兩條線，可分開練。
         </p>
       </div>
 
-      <Link
-        href="/english/today"
-        className="block rounded-sm border border-[var(--accent)] bg-[var(--accent-soft)]/40 px-5 py-5 transition hover:border-[var(--accent)]"
-      >
-        <p className="text-xs uppercase tracking-[0.18em] text-[var(--accent)]">
+      <Link href="/english/today" className="focus-cta">
+        <p className="text-[10px] uppercase tracking-[0.18em] text-[var(--accent)]">
           Today pack · 約 20 分
         </p>
-        <h2 className="mt-2 font-[family-name:var(--font-display)] text-2xl text-[var(--ink)]">
+        <h2 className="mt-1 font-[family-name:var(--font-display)] text-xl text-[var(--ink)]">
           今日英語套餐
         </h2>
         <p className="mt-1 text-sm text-[var(--muted)]">

@@ -1,18 +1,39 @@
 @import "tailwindcss";
 
-:root {
-  --ink: #0c1a2e;
-  --ink-soft: #1a2f4a;
-  --paper: #f3f5f8;
+/* Default = Harbor（方案 1） */
+:root,
+[data-theme="harbor"] {
+  --ink: #0b1f33;
+  --ink-soft: #16324a;
+  --paper: #eef2f6;
   --surface: #ffffff;
-  --muted: #5d6b7c;
-  --line: #d5dde8;
-  --accent: #9a7b4f;
-  --accent-soft: #f0e8da;
-  --accent-soft-text: #d8c6a4;
+  --muted: #5a6a7a;
+  --line: #d0d9e4;
+  --accent: #2f6f8f;
+  --accent-soft: #e3eef4;
+  --accent-soft-text: #9ec0d4;
+  --glow-accent: rgba(47, 111, 143, 0.1);
+  --glow-ink: rgba(11, 31, 51, 0.06);
+  --selection: rgba(47, 111, 143, 0.28);
   --background: var(--paper);
   --foreground: var(--ink);
-  --touch: 2.75rem; /* 44px */
+  --touch: 2.5rem; /* 40px — still tappable, denser than 44 */
+}
+
+/* Signal Ledger（方案 3） */
+[data-theme="signal"] {
+  --ink: #171a1f;
+  --ink-soft: #2a3038;
+  --paper: #f2f3f5;
+  --surface: #ffffff;
+  --muted: #646b75;
+  --line: #d8dbe1;
+  --accent: #c45c26;
+  --accent-soft: #f7ebe3;
+  --accent-soft-text: #e8b08a;
+  --glow-accent: rgba(196, 92, 38, 0.1);
+  --glow-ink: rgba(23, 26, 31, 0.06);
+  --selection: rgba(196, 92, 38, 0.28);
 }
 
 @theme inline {
@@ -22,26 +43,21 @@
   --font-display: var(--font-display);
 }
 
+/* A+B hybrid: compact base, no aggressive tablet upscale */
 html {
-  font-size: 16px;
-}
-
-@media (min-width: 768px) {
-  html {
-    font-size: 17px;
-  }
+  font-size: 15.5px;
 }
 
 @media (min-width: 1024px) {
   html {
-    font-size: 18px;
+    font-size: 16px;
   }
 }
 
 body {
   background:
-    radial-gradient(1200px 500px at 10% -10%, rgba(154, 123, 79, 0.08), transparent 55%),
-    radial-gradient(900px 400px at 100% 0%, rgba(12, 26, 46, 0.06), transparent 50%),
+    radial-gradient(1200px 500px at 10% -10%, var(--glow-accent), transparent 55%),
+    radial-gradient(900px 400px at 100% 0%, var(--glow-ink), transparent 50%),
     var(--paper);
   color: var(--ink);
   font-family: var(--font-body), "Noto Sans TC", sans-serif;
@@ -61,25 +77,59 @@ select {
 }
 
 ::selection {
-  background: rgba(154, 123, 79, 0.25);
+  background: var(--selection);
 }
 
-/* Shared tablet-friendly surfaces */
 .tap-target {
   min-height: var(--touch);
   min-width: var(--touch);
 }
 
+/* Default list/card density (A) */
 .card-tap {
-  min-height: 5.5rem;
+  min-height: 4.25rem;
   border-radius: 0.25rem;
   border: 1px solid var(--line);
   background: var(--surface);
-  padding: 1.1rem 1.25rem;
+  padding: 0.85rem 1rem;
   transition: border-color 0.15s ease;
 }
 
 .card-tap:hover,
 .card-tap:active {
   border-color: color-mix(in srgb, var(--accent) 55%, var(--line));
+}
+
+/* Compact secondary rows (B hierarchy) */
+.row-tap {
+  display: flex;
+  min-height: 3.25rem;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  border-radius: 0.25rem;
+  border: 1px solid var(--line);
+  background: var(--surface);
+  padding: 0.65rem 0.9rem;
+  transition: border-color 0.15s ease;
+}
+
+.row-tap:hover,
+.row-tap:active {
+  border-color: color-mix(in srgb, var(--accent) 55%, var(--line));
+}
+
+/* Primary stage CTA (B) */
+.focus-cta {
+  display: block;
+  border-radius: 0.25rem;
+  border: 1px solid var(--accent);
+  background: color-mix(in srgb, var(--accent-soft) 55%, var(--surface));
+  padding: 1.1rem 1.25rem;
+  transition: border-color 0.15s ease, filter 0.15s ease;
+}
+
+.focus-cta:hover {
+  border-color: var(--accent);
+  filter: brightness(1.02);
 }

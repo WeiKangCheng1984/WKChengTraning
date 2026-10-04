@@ -65,7 +65,7 @@ export default function MorePage() {
           更多
         </h1>
         <p className="mt-2 text-sm text-[var(--muted)]">
-          CFA · English · Real Estate · Lifestyle
+          CFA · English · Real Estate · Lifestyle · 頂欄可切換港灣／信號配色
         </p>
       </div>
 

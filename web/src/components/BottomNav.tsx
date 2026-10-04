@@ -76,14 +76,14 @@ export function BottomNav() {
       style={{ paddingBottom: "env(safe-area-inset-bottom, 0px)" }}
       aria-label="主要導覽"
     >
-      <div className="mx-auto flex max-w-3xl items-stretch justify-between px-1 pt-1">
+      <div className="mx-auto flex max-w-3xl items-stretch justify-between px-1">
         {items.map((item) => {
           const active = item.match(pathname);
           return (
             <Link
               key={item.href}
               href={item.href}
-              className={`flex min-h-14 min-w-[3.5rem] flex-1 flex-col items-center justify-center gap-0.5 rounded-sm px-1 py-2 text-[11px] font-medium transition sm:min-h-16 sm:text-xs ${
+              className={`flex min-h-12 min-w-[3rem] flex-1 flex-col items-center justify-center gap-0.5 rounded-sm px-1 py-1.5 text-[10px] font-medium transition sm:min-h-[3.25rem] sm:text-[11px] ${
                 active
                   ? "text-[var(--ink)]"
                   : "text-[var(--muted)] hover:text-[var(--ink)]"
@@ -91,7 +91,7 @@ export function BottomNav() {
             >
               <svg
                 viewBox="0 0 24 24"
-                className={`h-6 w-6 sm:h-7 sm:w-7 ${
+                className={`h-5 w-5 ${
                   active ? "text-[var(--accent)]" : "text-current"
                 }`}
                 aria-hidden
@@ -100,9 +100,9 @@ export function BottomNav() {
               </svg>
               <span>{item.label}</span>
               {active ? (
-                <span className="mt-0.5 h-1 w-1 rounded-full bg-[var(--accent)]" />
+                <span className="h-0.5 w-0.5 rounded-full bg-[var(--accent)]" />
               ) : (
-                <span className="mt-0.5 h-1 w-1" />
+                <span className="h-0.5 w-0.5" />
               )}
             </Link>
           );

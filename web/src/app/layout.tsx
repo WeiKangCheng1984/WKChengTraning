@@ -1,8 +1,10 @@
 import type { Metadata } from "next";
+import Script from "next/script";
 import { Newsreader, Source_Sans_3 } from "next/font/google";
 import { SiteHeader } from "@/components/SiteHeader";
 import { BottomNav } from "@/components/BottomNav";
 import { PracticeTracker } from "@/components/PracticeTracker";
+import { THEME_BOOT_SCRIPT } from "@/lib/theme";
 import "./globals.css";
 
 const display = Newsreader({
@@ -34,14 +36,17 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="zh-Hant">
+    <html lang="zh-Hant" data-theme="harbor" suppressHydrationWarning>
       <body className={`${display.variable} ${body.variable} antialiased`}>
+        <Script id="theme-boot" strategy="beforeInteractive">
+          {THEME_BOOT_SCRIPT}
+        </Script>
         <SiteHeader />
         <PracticeTracker />
-        <main className="mx-auto max-w-6xl px-4 pb-28 pt-6 sm:px-6 sm:pt-8">
+        <main className="mx-auto max-w-5xl px-4 pb-24 pt-4 sm:px-6 sm:pt-5">
           {children}
         </main>
-        <footer className="mx-auto max-w-6xl px-4 pb-28 pt-2 text-center text-xs text-[var(--muted)] sm:px-6">
+        <footer className="mx-auto max-w-5xl px-4 pb-24 pt-1 text-center text-[11px] text-[var(--muted)] sm:px-6">
           本機進度 · 非投資建議／非保證考取
         </footer>
         <BottomNav />
