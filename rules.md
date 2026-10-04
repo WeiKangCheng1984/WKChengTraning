@@ -73,6 +73,8 @@
 | `english V.md` | 英語句型／片語／情境例句（生活＋工作） | **English Drill** |
 | `6r.md` | 常用口語 6 篇英文腳本（建置時補中文） | **Speak Track** |
 | `web/public/audio/speak/common/*.mp3` | 常用口語真人錄音（自行放置） | **Speak Track** |
+| `english grammar.md` | 文法＋現代慣用語 36 課（生活／房產例句＋每課跟讀短文；TTS） | **尚未上架**（打磨後再進 English） |
+| `real estate glossary.md` | 美式房地產術語獨立表（中英） | **尚未上架** |
 
 輔助（可選，不取代上述兩檔）：
 
