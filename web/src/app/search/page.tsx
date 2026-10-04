@@ -6,16 +6,24 @@ import { SpeakButton } from "@/components/SpeakButton";
 import cfa from "@/data/cfa.json";
 import english from "@/data/english.json";
 import grammar from "@/data/grammar.json";
+import re from "@/data/real-estate.json";
 import speak from "@/data/speak.json";
-import type { CfaData, EnglishData, GrammarData, SpeakData } from "@/lib/types";
+import type {
+  CfaData,
+  EnglishData,
+  GrammarData,
+  RealEstateData,
+  SpeakData,
+} from "@/lib/types";
 
 const cfaData = cfa as CfaData;
 const enData = english as EnglishData;
 const grammarData = grammar as GrammarData;
+const reData = re as RealEstateData;
 const speakData = speak as SpeakData;
 
 type Hit = {
-  kind: "cfa" | "en" | "grammar" | "speak";
+  kind: "cfa" | "en" | "grammar" | "speak" | "re";
   id: string;
   title: string;
   subtitle: string;
@@ -89,6 +97,22 @@ export default function SearchPage() {
       }
     }
 
+    for (const s of reData.sections) {
+      for (const t of s.terms) {
+        const blob = `${t.en} ${t.zh} ${t.note}`.toLowerCase();
+        if (!blob.includes(query)) continue;
+        out.push({
+          kind: "re",
+          id: t.id,
+          title: t.en,
+          subtitle: `${s.titleZh} · ${t.zh}`,
+          href: "/real-estate",
+          speak: t.en.split("/")[0].trim(),
+        });
+        if (out.length >= 85) return out;
+      }
+    }
+
     for (const a of speakData.articles) {
       for (const seg of a.segments) {
         const blob =
@@ -102,7 +126,7 @@ export default function SearchPage() {
           href: `/speak/${a.slug}`,
           speak: seg.en,
         });
-        if (out.length >= 90) return out;
+        if (out.length >= 100) return out;
       }
     }
     return out;
@@ -118,7 +142,7 @@ export default function SearchPage() {
           搜尋
         </h1>
         <p className="mt-2 text-sm text-[var(--muted)]">
-          可搜 CFA、文法、句型與跟讀。試 appraisal、under contract 或 planning。
+          可搜 CFA、文法、句型、房地產與跟讀。試 appraisal、under contract。
         </p>
       </div>
       <input
@@ -146,7 +170,9 @@ export default function SearchPage() {
                     ? "跟讀"
                     : h.kind === "grammar"
                       ? "文法"
-                      : "句型"}
+                      : h.kind === "re"
+                        ? "房產"
+                        : "句型"}
               </div>
               <div className="font-medium text-[var(--ink)]">{h.title}</div>
               <div className="text-sm text-[var(--muted)]">{h.subtitle}</div>

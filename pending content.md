@@ -49,14 +49,14 @@
 
 | 資產 | 檔案 | 建議 |
 |------|------|------|
-| 房地產術語表 | `real estate glossary.md` | **Phase 1 下一優先**：編譯上架為 `/real-estate` 或掛在 English／更多 |
+| 房地產術語表 | `real estate glossary.md` | **已上架** `/real-estate`（P0 完成） |
 | 文法打磨未決項 | `english grammar.md` 附錄 B | 練習自動批改、與句型庫雙向連結——可選，非阻塞 |
 
 ### 1.3 站上已預告、內容幾乎空白
 
 | 標籤 | 現況 | 風險 |
 |------|------|------|
-| **Real Estate** | 「更多」頁虛位；文法課已大量使用房產英語；glossary 未掛站 | 使用者以為有專區卻點不到 |
+| **Real Estate** | **已上架** `/real-estate`（術語＋高頻句） | 可再加 Speak 房產系列 |
 | **Lifestyle** | 「更多」頁虛位；Speak／文法有生活場景，但無獨立頻道 | 名稱過大，易變成無底洞 |
 
 ### 1.4 rules 寫明、刻意未做（勿搶做）

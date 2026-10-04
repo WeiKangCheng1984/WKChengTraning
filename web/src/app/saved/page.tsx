@@ -47,7 +47,9 @@ export default function SavedPage() {
                       ? "跟讀"
                       : it.kind === "grammar"
                         ? "文法"
-                        : "句型"}
+                        : it.kind === "re"
+                          ? "房產"
+                          : "句型"}
                 </div>
                 <div className="font-medium text-[var(--ink)]">{it.title}</div>
                 <div className="text-sm text-[var(--muted)]">{it.subtitle}</div>

@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Newsreader, Source_Sans_3 } from "next/font/google";
 import { SiteHeader } from "@/components/SiteHeader";
 import { BottomNav } from "@/components/BottomNav";
+import { PracticeTracker } from "@/components/PracticeTracker";
 import "./globals.css";
 
 const display = Newsreader({
@@ -36,6 +37,7 @@ export default function RootLayout({
     <html lang="zh-Hant">
       <body className={`${display.variable} ${body.variable} antialiased`}>
         <SiteHeader />
+        <PracticeTracker />
         <main className="mx-auto max-w-6xl px-4 pb-28 pt-6 sm:px-6 sm:pt-8">
           {children}
         </main>

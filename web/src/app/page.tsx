@@ -2,8 +2,10 @@
 
 import Link from "next/link";
 import { useEffect, useMemo, useState } from "react";
+import { DailyGoalCard } from "@/components/DailyGoalCard";
 import { ProgressSummary } from "@/components/ProgressSummary";
 import { PLAN_DAYS, planProgress } from "@/lib/plan";
+import { buildEnglishPack, type EnglishPack } from "@/lib/englishToday";
 import { onStorageChange } from "@/lib/persist";
 import { getSession } from "@/lib/session";
 import { countScheduledDue } from "@/lib/srs";
@@ -29,7 +31,8 @@ export default function HomePage() {
   );
 
   const [progress, setProgress] = useState({ done: 0, total: 20, pct: 0 });
-  const [dueCount, setDueCount] = useState(0);
+  const [dueCfa, setDueCfa] = useState(0);
+  const [pack, setPack] = useState<EnglishPack | null>(null);
   const [lastSpeak, setLastSpeak] = useState<{
     slug?: string;
     title?: string;
@@ -38,12 +41,12 @@ export default function HomePage() {
   useEffect(() => {
     const sync = () => {
       setProgress(planProgress());
-      setDueCount(
-        countScheduledDue([
-          ...cfaIds.map((id) => ({ scope: "cfa" as const, id })),
-          ...enIds.map((id) => ({ scope: "en" as const, id })),
-        ]),
+      setDueCfa(
+        countScheduledDue(
+          cfaIds.map((id) => ({ scope: "cfa" as const, id })),
+        ),
       );
+      setPack(buildEnglishPack(grammarData, speakData, enData));
       const s = getSession();
       setLastSpeak({ slug: s.lastSpeakSlug, title: s.lastSpeakTitle });
     };
@@ -72,6 +75,37 @@ export default function HomePage() {
           CFA · English · Real Estate · Lifestyle
         </p>
       </section>
+
+      <DailyGoalCard />
+
+      {/* English pack — P0 */}
+      {pack ? (
+        <Link
+          href="/english/today"
+          className="block rounded-sm border border-[var(--accent)] bg-[var(--accent-soft)]/40 px-5 py-6 transition hover:border-[var(--accent)] sm:px-8"
+        >
+          <div className="flex flex-wrap items-start justify-between gap-3">
+            <div>
+              <p className="text-xs uppercase tracking-[0.22em] text-[var(--accent)]">
+                今日英語套餐 · 約 {pack.minutes} 分
+              </p>
+              <h2 className="mt-2 font-[family-name:var(--font-display)] text-2xl text-[var(--ink)] sm:text-3xl">
+                文法 → 跟讀 → 句型 → 複習
+              </h2>
+              <p className="mt-2 max-w-xl text-sm leading-relaxed text-[var(--muted)] sm:text-base">
+                現在：L{String(pack.grammar.num).padStart(2, "0")}{" "}
+                {pack.grammar.titleZh}
+                {pack.reviewCount > 0
+                  ? ` · ${pack.reviewCount} 項英語到期`
+                  : ""}
+              </p>
+            </div>
+            <span className="inline-flex min-h-12 items-center rounded-sm bg-[var(--accent)] px-5 text-sm font-medium text-white">
+              開始套餐 →
+            </span>
+          </div>
+        </Link>
+      ) : null}
 
       {/* Primary CTA — Day plan */}
       <Link
@@ -110,7 +144,6 @@ export default function HomePage() {
         </div>
       </Link>
 
-      {/* Two quick continues */}
       <div className="grid gap-3 sm:grid-cols-2">
         <Link
           href={`/speak/${continueSpeak.slug}`}
@@ -133,40 +166,57 @@ export default function HomePage() {
         </Link>
 
         <Link
-          href="/vault/practice?mode=recall"
+          href="/english/review"
           className="card-tap flex flex-col justify-between"
         >
           <div>
             <p className="text-xs uppercase tracking-[0.18em] text-[var(--accent)]">
-              到期複習
+              英語到期複習
             </p>
             <h3 className="mt-2 font-[family-name:var(--font-display)] text-xl text-[var(--ink)]">
-              {dueCount > 0 ? `${dueCount} 項可練` : "沒有到期項"}
+              {pack && pack.reviewCount > 0
+                ? `${pack.reviewCount} 項可練`
+                : "沒有到期項"}
             </h3>
             <p className="mt-1 text-sm text-[var(--muted)]">
-              CFA＋英語間隔複習 · 聽詞想義
+              文法＋跟讀＋句型
+              {dueCfa > 0 ? ` · CFA 另有 ${dueCfa} 項` : ""}
             </p>
           </div>
           <span className="mt-4 text-sm text-[var(--ink)]">開始複習 →</span>
         </Link>
       </div>
 
-      {/* Module shortcuts — 2 col */}
+      {dueCfa > 0 ? (
+        <Link
+          href="/vault/practice?mode=recall"
+          className="block text-sm text-[var(--muted)] hover:text-[var(--ink)]"
+        >
+          CFA 到期 {dueCfa} 項 → 聽詞想義
+        </Link>
+      ) : null}
+
       <section className="space-y-3">
         <h2 className="font-[family-name:var(--font-display)] text-xl text-[var(--ink)]">
           快速入口
         </h2>
-        <div className="grid grid-cols-2 gap-3 lg:grid-cols-5">
+        <div className="grid grid-cols-2 gap-3 lg:grid-cols-3">
+          <QuickLink href="/rewards" label="獎勵" meta="每日 60 分" />
           <QuickLink href="/vault" label="CFA" meta={`${cfaData.total} 詞`} />
+          <QuickLink
+            href="/english/today"
+            label="英語套餐"
+            meta={`${pack?.minutes ?? 20} 分`}
+          />
           <QuickLink
             href="/english/grammar"
             label="文法"
             meta={`${grammarData.total} 課`}
           />
           <QuickLink
-            href="/english"
-            label="English"
-            meta={`${enData.total} 組`}
+            href="/real-estate"
+            label="Real Estate"
+            meta="術語＋句子"
           />
           <QuickLink href="/speak" label="跟讀" meta={`${speakData.total} 篇`} />
           <QuickLink href="/plan" label="計畫" meta={`${progress.done}/20`} />

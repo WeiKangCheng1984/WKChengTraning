@@ -75,7 +75,7 @@
 | `6r.md` | 常用口語 6 篇英文腳本（建置時補中文） | **Speak Track** |
 | `web/public/audio/speak/common/*.mp3` | 常用口語真人錄音（自行放置） | **Speak Track** |
 | `english grammar.md` | 文法＋現代慣用語 36 課（生活／房產例句＋每課跟讀短文；TTS） | **English → 文法** `/english/grammar` |
-| `real estate glossary.md` | 美式房地產術語獨立表（中英） | **尚未上架**（文檔備用） |
+| `real estate glossary.md` | 美式房地產術語獨立表（中英） | **Real Estate** `/real-estate` |
 
 輔助（可選，不取代上述兩檔）：
 
@@ -119,6 +119,8 @@
 - [x] **沒有**依賴 Supabase／Sanity／Gemini／Telegram
 - [x] 借鏡 Cadence：20 天計畫、CFA 三模式、英語組句、跨層說明、搜尋／收藏、輕量間隔評分
 - [x] 平板方案一：底部導覽＋今日學習首頁
+- [x] P0 英語體驗：今日英語套餐、文法／跟讀進到期複習、`/real-estate` glossary
+- [x] 每日一小時獎勵：自動計時、連續達標、徽章（`/rewards`）
 
 ### 4.6 Cadence 借鏡（已納入 Phase 1）
 

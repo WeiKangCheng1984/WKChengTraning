@@ -2,12 +2,13 @@
 
 import { useEffect, useState } from "react";
 import { MASTERY_LABEL, getMastery, setMastery } from "@/lib/mastery";
+import { scheduleFromMastery } from "@/lib/srs";
 import type { Mastery } from "@/lib/types";
 
 const OPTIONS: Mastery[] = ["unseen", "learning", "mastered"];
 
 type Props = {
-  scope: "cfa" | "en" | "speak" | "grammar";
+  scope: "cfa" | "en" | "speak" | "grammar" | "re";
   id: string | number;
 };
 
@@ -35,6 +36,7 @@ export function MasteryControls({ scope, id }: Props) {
             type="button"
             onClick={() => {
               setMastery(scope, id, opt);
+              scheduleFromMastery(scope, id, opt);
               setValue(opt);
             }}
             className={`rounded-full px-3 py-1 text-xs tracking-wide transition ${

@@ -23,5 +23,5 @@ npm run dev
 | `english V.md` | 英語句型／片語 |
 | `rules.md` | 產品與開發規則 |
 | `english grammar.md` | 文法＋現代慣用語 36 課 → 網站 `/english/grammar` |
-| `real estate glossary.md` | 房地產術語獨立 glossary（尚未上架） |
+| `real estate glossary.md` | 房地產術語 → 網站 `/real-estate` |
 | `pending content.md` | 待補內容規劃（Real Estate／Lifestyle 等） |

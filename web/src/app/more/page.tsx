@@ -22,20 +22,39 @@ const links = [
     body: "快速翻卡複習。",
   },
   {
+    href: "/rewards",
+    title: "每日一小時",
+    body: "練習計時、連續達標、徽章。",
+  },
+  {
+    href: "/english/today",
+    title: "今日英語套餐",
+    body: "約 20 分：文法 → 跟讀 → 句型 → 複習。",
+  },
+  {
     href: "/english/grammar",
     title: "文法與慣用語",
     body: "36 課 · 生活／房產 · TTS 跟讀。",
+  },
+  {
+    href: "/english/review",
+    title: "英語到期複習",
+    body: "文法／跟讀／句型間隔複習。",
   },
   {
     href: "/english/drill",
     title: "English 組句",
     body: "跨分類組句練習。",
   },
+  {
+    href: "/real-estate",
+    title: "Real Estate",
+    body: "房地產術語＋高頻句子（TTS）。",
+  },
 ];
 
 const later = [
-  { title: "Real Estate", body: "房地產相關內容（之後補）。" },
-  { title: "Lifestyle", body: "生活相關內容（之後補）。" },
+  { title: "Lifestyle", body: "生活跟讀系列（規劃見 pending content.md）。" },
 ];
 
 export default function MorePage() {

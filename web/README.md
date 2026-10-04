@@ -10,6 +10,7 @@
 - `Vnotes.md` → CFA
 - `english V.md` → English 句型
 - `english grammar.md` → `/english/grammar` 文法 36 課（TTS）
+- `real estate glossary.md` → `/real-estate`
 
 建置前可跑 `npm run content` 編譯成 `web/src/data/*.json`。
 
@@ -26,8 +27,10 @@ npm run dev
 ## 功能
 
 - **CFA Vault**：十科目瀏覽、搜尋、發音、掌握度、閃卡
-- **English**：句型分類／組句；**文法與慣用語** 36 課（對比、例句、TTS 跟讀、練習）
-- 進度存於瀏覽器 `localStorage`
+- **English**：今日套餐 `/english/today`、文法 36 課、句型組句、到期複習 `/english/review`
+- **Real Estate**：術語＋高頻句 `/real-estate`（TTS）
+- 進度存於瀏覽器 `localStorage`（標掌握度會進入 SRS 複習）
+
 
 ## 部署到 Vercel
 

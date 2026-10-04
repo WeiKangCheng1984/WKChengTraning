@@ -1,6 +1,6 @@
 # Real Estate Glossary｜房地產術語表
 
-> **狀態**：獨立 glossary（與 `english grammar.md` 配套；尚未上架網站）  
+> **狀態**：已上架 → `/real-estate`（TTS）  
 > **市場**：美式住宅／小型投資（US residential & light investment）  
 > **用途**：看房、談判、裝修、貸款與成交流程的中英對照  
 > **音檔**：上架後以 **TTS** 朗讀英文詞條即可（不必真人錄音）
@@ -222,6 +222,6 @@
 | 檔名 | `real estate glossary.md` |
 | 配套 | `english grammar.md` |
 | 音檔 | TTS（英文詞／例句） |
-| 網站 | 尚未接入 |
+| 網站 | **已接入** `/real-estate` |
 
 *— End of glossary draft —*

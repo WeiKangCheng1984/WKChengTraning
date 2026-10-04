@@ -142,3 +142,31 @@ export type GrammarData = {
   books: GrammarBook[];
   lessons: GrammarLesson[];
 };
+
+export type RealEstateTerm = {
+  id: string;
+  en: string;
+  zh: string;
+  note: string;
+};
+
+export type RealEstateSection = {
+  id: number;
+  slug: string;
+  titleZh: string;
+  terms: RealEstateTerm[];
+};
+
+export type RealEstatePhrase = {
+  id: string;
+  en: string;
+  zh: string;
+};
+
+export type RealEstateData = {
+  source: string;
+  total: number;
+  audio: "tts";
+  sections: RealEstateSection[];
+  phrases: RealEstatePhrase[];
+};

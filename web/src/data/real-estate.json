@@ -1,0 +1,758 @@
+{
+  "source": "real estate glossary.md",
+  "total": 110,
+  "audio": "tts",
+  "sections": [
+    {
+      "id": 1,
+      "slug": "re-01-term",
+      "titleZh": "物件與類型",
+      "terms": [
+        {
+          "id": "re-01-single-family-home",
+          "en": "single-family home / house",
+          "zh": "獨棟住宅",
+          "note": ""
+        },
+        {
+          "id": "re-01-condo",
+          "en": "condo / condominium",
+          "zh": "公寓（產權型）",
+          "note": "常有 HOA"
+        },
+        {
+          "id": "re-01-townhouse",
+          "en": "townhouse / townhome",
+          "zh": "連棟別墅",
+          "note": ""
+        },
+        {
+          "id": "re-01-multi-family",
+          "en": "multi-family",
+          "zh": "多戶住宅",
+          "note": "如 duplex, fourplex"
+        },
+        {
+          "id": "re-01-duplex",
+          "en": "duplex / triplex / fourplex",
+          "zh": "雙拼／三拼／四戶",
+          "note": "小型投資常見"
+        },
+        {
+          "id": "re-01-adu-accessory-dwelling-unit",
+          "en": "ADU (accessory dwelling unit)",
+          "zh": "附屬住宅單元",
+          "note": "後院小屋等"
+        },
+        {
+          "id": "re-01-lot",
+          "en": "lot / parcel",
+          "zh": "地塊",
+          "note": ""
+        },
+        {
+          "id": "re-01-new-construction",
+          "en": "new construction",
+          "zh": "新建案",
+          "note": ""
+        },
+        {
+          "id": "re-01-resale",
+          "en": "resale",
+          "zh": "中古屋轉售",
+          "note": ""
+        },
+        {
+          "id": "re-01-turnkey",
+          "en": "turnkey",
+          "zh": "可直接入住／收租",
+          "note": "〔口〕"
+        },
+        {
+          "id": "re-01-as-is",
+          "en": "as-is",
+          "zh": "現況交屋",
+          "note": "少修或未修"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "re-02-term",
+      "titleZh": "看房與掛牌",
+      "terms": [
+        {
+          "id": "re-02-listing",
+          "en": "listing",
+          "zh": "掛牌物件／掛牌資訊",
+          "note": ""
+        },
+        {
+          "id": "re-02-list-price",
+          "en": "list price / asking price",
+          "zh": "開價",
+          "note": ""
+        },
+        {
+          "id": "re-02-showing",
+          "en": "showing",
+          "zh": "帶看、看房",
+          "note": ""
+        },
+        {
+          "id": "re-02-open-house",
+          "en": "open house",
+          "zh": "開放看屋",
+          "note": ""
+        },
+        {
+          "id": "re-02-days-on-market-dom",
+          "en": "days on market (DOM)",
+          "zh": "掛牌天數",
+          "note": ""
+        },
+        {
+          "id": "re-02-comps",
+          "en": "comps / comparables",
+          "zh": "可比成交案例",
+          "note": ""
+        },
+        {
+          "id": "re-02-cma-comparative-market-analysis",
+          "en": "CMA (comparative market analysis)",
+          "zh": "比較市價分析",
+          "note": ""
+        },
+        {
+          "id": "re-02-curb-appeal",
+          "en": "curb appeal",
+          "zh": "從街上看的第一印象",
+          "note": "〔口〕"
+        },
+        {
+          "id": "re-02-the-bones-are-good",
+          "en": "the bones are good",
+          "zh": "屋體／結構底子好",
+          "note": "〔口〕"
+        },
+        {
+          "id": "re-02-dated",
+          "en": "dated",
+          "zh": "裝潢過時",
+          "note": "不一定是結構差"
+        },
+        {
+          "id": "re-02-cosmetic-updates",
+          "en": "cosmetic updates",
+          "zh": "表面翻新",
+          "note": "油漆、地板等"
+        },
+        {
+          "id": "re-02-deferred-maintenance",
+          "en": "deferred maintenance",
+          "zh": "延宕未做的維護",
+          "note": ""
+        },
+        {
+          "id": "re-02-staging",
+          "en": "staging",
+          "zh": "佈置樣品屋風格以利銷售",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "re-03-term",
+      "titleZh": "出價與契約",
+      "terms": [
+        {
+          "id": "re-03-offer",
+          "en": "offer",
+          "zh": "出價／要約",
+          "note": ""
+        },
+        {
+          "id": "re-03-counteroffer",
+          "en": "counteroffer",
+          "zh": "還價",
+          "note": ""
+        },
+        {
+          "id": "re-03-all-cash-offer",
+          "en": "all-cash offer",
+          "zh": "全款出價",
+          "note": ""
+        },
+        {
+          "id": "re-03-earnest-money",
+          "en": "earnest money / deposit",
+          "zh": "斡旋金／誠意金",
+          "note": ""
+        },
+        {
+          "id": "re-03-purchase-agreement",
+          "en": "purchase agreement",
+          "zh": "買賣契約",
+          "note": ""
+        },
+        {
+          "id": "re-03-under-contract",
+          "en": "under contract",
+          "zh": "已簽約、成交流程中",
+          "note": ""
+        },
+        {
+          "id": "re-03-contingency",
+          "en": "contingency",
+          "zh": "附帶條件／解約權條款",
+          "note": ""
+        },
+        {
+          "id": "re-03-inspection-contingency",
+          "en": "inspection contingency",
+          "zh": "驗屋附條件",
+          "note": ""
+        },
+        {
+          "id": "re-03-financing-contingency",
+          "en": "financing contingency",
+          "zh": "貸款附條件",
+          "note": ""
+        },
+        {
+          "id": "re-03-appraisal-contingency",
+          "en": "appraisal contingency",
+          "zh": "估價附條件",
+          "note": ""
+        },
+        {
+          "id": "re-03-option-period",
+          "en": "option period",
+          "zh": "選擇權／評估期",
+          "note": "視州而異（如 Texas）"
+        },
+        {
+          "id": "re-03-addendum",
+          "en": "addendum",
+          "zh": "附約、補充條款",
+          "note": ""
+        },
+        {
+          "id": "re-03-amendment",
+          "en": "amendment",
+          "zh": "契約修正",
+          "note": ""
+        },
+        {
+          "id": "re-03-repair-credit",
+          "en": "repair credit",
+          "zh": "以價金折讓代替賣方施工",
+          "note": ""
+        },
+        {
+          "id": "re-03-seller-concession",
+          "en": "seller concession",
+          "zh": "賣方讓利／補貼",
+          "note": ""
+        },
+        {
+          "id": "re-03-deal-breaker",
+          "en": "deal-breaker",
+          "zh": "破局點",
+          "note": "〔口〕"
+        },
+        {
+          "id": "re-03-walk-away",
+          "en": "walk (away)",
+          "zh": "退出交易",
+          "note": "〔口〕"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "re-04-term",
+      "titleZh": "盡職調查與驗屋",
+      "terms": [
+        {
+          "id": "re-04-due-diligence",
+          "en": "due diligence",
+          "zh": "盡職調查",
+          "note": ""
+        },
+        {
+          "id": "re-04-home-inspection",
+          "en": "home inspection",
+          "zh": "驗屋",
+          "note": ""
+        },
+        {
+          "id": "re-04-inspector",
+          "en": "inspector",
+          "zh": "驗屋師",
+          "note": ""
+        },
+        {
+          "id": "re-04-punch-list",
+          "en": "punch list",
+          "zh": "待修／完工檢核清單",
+          "note": "也用於裝修尾聲"
+        },
+        {
+          "id": "re-04-flag-an-issue",
+          "en": "flag (an issue)",
+          "zh": "標出問題",
+          "note": "〔口〕"
+        },
+        {
+          "id": "re-04-major-issue",
+          "en": "major issue / minor issue",
+          "zh": "重大／次要問題",
+          "note": ""
+        },
+        {
+          "id": "re-04-roof",
+          "en": "roof / foundation / HVAC",
+          "zh": "屋頂／地基／空調系統",
+          "note": ""
+        },
+        {
+          "id": "re-04-hvac",
+          "en": "HVAC",
+          "zh": "暖通空調",
+          "note": "heating, ventilation, AC"
+        },
+        {
+          "id": "re-04-water-heater",
+          "en": "water heater",
+          "zh": "熱水器",
+          "note": ""
+        },
+        {
+          "id": "re-04-plumbing",
+          "en": "plumbing / electrical",
+          "zh": "水管／電路",
+          "note": ""
+        },
+        {
+          "id": "re-04-moisture-intrusion",
+          "en": "moisture intrusion / staining",
+          "zh": "滲水／水漬",
+          "note": ""
+        },
+        {
+          "id": "re-04-running-toilet",
+          "en": "running toilet",
+          "zh": "馬桶持續進水／流水",
+          "note": ""
+        },
+        {
+          "id": "re-04-tripped-breaker",
+          "en": "tripped breaker",
+          "zh": "斷路器跳電",
+          "note": ""
+        },
+        {
+          "id": "re-04-radon",
+          "en": "radon / mold",
+          "zh": "氡氣／霉菌",
+          "note": "視地區檢測"
+        },
+        {
+          "id": "re-04-hoa-docs",
+          "en": "HOA docs",
+          "zh": "社區管理文件",
+          "note": ""
+        },
+        {
+          "id": "re-04-hoa-dues",
+          "en": "HOA dues / assessments",
+          "zh": "管理費／特別攤派",
+          "note": ""
+        },
+        {
+          "id": "re-04-cc-rs",
+          "en": "CC&Rs",
+          "zh": "社區規約",
+          "note": "covenants, conditions & restrictions"
+        },
+        {
+          "id": "re-04-title-search",
+          "en": "title search",
+          "zh": "產權調查",
+          "note": ""
+        },
+        {
+          "id": "re-04-clear-title",
+          "en": "clear title",
+          "zh": "產權清楚無負擔",
+          "note": ""
+        },
+        {
+          "id": "re-04-lien",
+          "en": "lien",
+          "zh": "留置權／債務負擔",
+          "note": ""
+        },
+        {
+          "id": "re-04-easement",
+          "en": "easement",
+          "zh": "地役權",
+          "note": ""
+        },
+        {
+          "id": "re-04-survey",
+          "en": "survey",
+          "zh": "地籍／境界測量",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "re-05-term",
+      "titleZh": "貸款、估價、成交",
+      "terms": [
+        {
+          "id": "re-05-mortgage",
+          "en": "mortgage / loan",
+          "zh": "房屋貸款",
+          "note": ""
+        },
+        {
+          "id": "re-05-lender",
+          "en": "lender",
+          "zh": "貸方、銀行／貸款機構",
+          "note": ""
+        },
+        {
+          "id": "re-05-pre-approval",
+          "en": "pre-approval / pre-qualification",
+          "zh": "預批／預審",
+          "note": "強度不同"
+        },
+        {
+          "id": "re-05-rate-lock",
+          "en": "rate lock",
+          "zh": "利率鎖定",
+          "note": ""
+        },
+        {
+          "id": "re-05-apr",
+          "en": "APR",
+          "zh": "年百分率",
+          "note": "含部分費用的利率表述"
+        },
+        {
+          "id": "re-05-down-payment",
+          "en": "down payment",
+          "zh": "頭期款",
+          "note": ""
+        },
+        {
+          "id": "re-05-ltv-loan-to-value",
+          "en": "LTV (loan-to-value)",
+          "zh": "貸款成數",
+          "note": ""
+        },
+        {
+          "id": "re-05-pmi",
+          "en": "PMI",
+          "zh": "私人抵押保險",
+          "note": "頭期低於門檻時常見"
+        },
+        {
+          "id": "re-05-underwriting",
+          "en": "underwriting / underwrite",
+          "zh": "貸款審核",
+          "note": ""
+        },
+        {
+          "id": "re-05-appraisal",
+          "en": "appraisal",
+          "zh": "估價",
+          "note": ""
+        },
+        {
+          "id": "re-05-appraiser",
+          "en": "appraiser",
+          "zh": "估價師",
+          "note": ""
+        },
+        {
+          "id": "re-05-come-in-low",
+          "en": "come in low / low appraisal",
+          "zh": "估價低於契約價",
+          "note": "〔口〕"
+        },
+        {
+          "id": "re-05-escrow",
+          "en": "escrow",
+          "zh": "價金／文件第三人保管",
+          "note": ""
+        },
+        {
+          "id": "re-05-title-company",
+          "en": "title company / escrow officer",
+          "zh": "產權公司／保管專員",
+          "note": ""
+        },
+        {
+          "id": "re-05-closing",
+          "en": "closing",
+          "zh": "成交、過戶結案",
+          "note": ""
+        },
+        {
+          "id": "re-05-closing-costs",
+          "en": "closing costs",
+          "zh": "成交費用",
+          "note": ""
+        },
+        {
+          "id": "re-05-closing-disclosure-cd",
+          "en": "closing disclosure (CD)",
+          "zh": "成交前費用揭露文件",
+          "note": ""
+        },
+        {
+          "id": "re-05-wire-instructions",
+          "en": "wire instructions",
+          "zh": "電匯指示",
+          "note": "慎防詐騙"
+        },
+        {
+          "id": "re-05-funding",
+          "en": "funding",
+          "zh": "撥款",
+          "note": ""
+        },
+        {
+          "id": "re-05-record",
+          "en": "record / recording",
+          "zh": "登記備案",
+          "note": ""
+        },
+        {
+          "id": "re-05-keys",
+          "en": "keys",
+          "zh": "交屋鑰匙",
+          "note": "〔口〕交屋象徵"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "re-06-term",
+      "titleZh": "投資與出租",
+      "terms": [
+        {
+          "id": "re-06-investment-property",
+          "en": "investment property",
+          "zh": "投資物件",
+          "note": ""
+        },
+        {
+          "id": "re-06-rental",
+          "en": "rental / lease",
+          "zh": "出租／租約",
+          "note": ""
+        },
+        {
+          "id": "re-06-tenant",
+          "en": "tenant / landlord",
+          "zh": "房客／房東",
+          "note": ""
+        },
+        {
+          "id": "re-06-rent-roll",
+          "en": "rent roll",
+          "zh": "租金明細表",
+          "note": ""
+        },
+        {
+          "id": "re-06-t-12",
+          "en": "T-12",
+          "zh": "近十二個月財務報表",
+          "note": "trailing 12 months"
+        },
+        {
+          "id": "re-06-noi-net-operating-income",
+          "en": "NOI (net operating income)",
+          "zh": "淨營業收入",
+          "note": ""
+        },
+        {
+          "id": "re-06-cap-rate",
+          "en": "cap rate",
+          "zh": "資本化率",
+          "note": ""
+        },
+        {
+          "id": "re-06-cash-flow",
+          "en": "cash flow",
+          "zh": "現金流",
+          "note": ""
+        },
+        {
+          "id": "re-06-vacancy",
+          "en": "vacancy",
+          "zh": "空置",
+          "note": ""
+        },
+        {
+          "id": "re-06-turnover",
+          "en": "turnover",
+          "zh": "房客週轉／退租換租",
+          "note": ""
+        },
+        {
+          "id": "re-06-property-management",
+          "en": "property management",
+          "zh": "物業管理",
+          "note": ""
+        },
+        {
+          "id": "re-06-brrrr",
+          "en": "BRRRR",
+          "zh": "買修租再融再買策略",
+          "note": "〔口〕投資圈"
+        },
+        {
+          "id": "re-06-1031-exchange",
+          "en": "1031 exchange",
+          "zh": "1031 延稅交換",
+          "note": "美稅法概念"
+        },
+        {
+          "id": "re-06-arv-after-repair-value",
+          "en": "ARV (after-repair value)",
+          "zh": "整修後價值",
+          "note": ""
+        },
+        {
+          "id": "re-06-rehab",
+          "en": "rehab / remodel",
+          "zh": "整修／翻修",
+          "note": ""
+        },
+        {
+          "id": "re-06-light-rehab-vs-heavy-rehab",
+          "en": "light rehab vs heavy rehab",
+          "zh": "輕度／重度整修",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "slug": "re-07-term",
+      "titleZh": "裝修與承包",
+      "terms": [
+        {
+          "id": "re-07-gc-general-contractor",
+          "en": "GC (general contractor)",
+          "zh": "總承包",
+          "note": ""
+        },
+        {
+          "id": "re-07-permit",
+          "en": "permit",
+          "zh": "執照、施工許可",
+          "note": ""
+        },
+        {
+          "id": "re-07-bid",
+          "en": "bid / quote / estimate",
+          "zh": "投標價／報價／估價單",
+          "note": ""
+        },
+        {
+          "id": "re-07-change-order",
+          "en": "change order",
+          "zh": "變更單",
+          "note": ""
+        },
+        {
+          "id": "re-07-allowance",
+          "en": "allowance",
+          "zh": "材料預留金",
+          "note": ""
+        },
+        {
+          "id": "re-07-scope-of-work",
+          "en": "scope of work",
+          "zh": "工程範圍",
+          "note": ""
+        },
+        {
+          "id": "re-07-lead-time",
+          "en": "lead time",
+          "zh": "備料／進場前置期",
+          "note": ""
+        },
+        {
+          "id": "re-07-pull-forward",
+          "en": "pull forward / push (schedule)",
+          "zh": "時程提前／延後",
+          "note": ""
+        },
+        {
+          "id": "re-07-substantial-completion",
+          "en": "substantial completion",
+          "zh": "實質完工",
+          "note": "〔正式〕"
+        },
+        {
+          "id": "re-07-warranty",
+          "en": "warranty",
+          "zh": "保固",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "id": "re-phrase-1",
+      "en": "We're under contract, with closing in six weeks.",
+      "zh": "我們已簽約，預計六週後成交。"
+    },
+    {
+      "id": "re-phrase-2",
+      "en": "The bones are good; most of this is deferred maintenance.",
+      "zh": "底子不錯；多半是延宕維護。"
+    },
+    {
+      "id": "re-phrase-3",
+      "en": "We're asking for a repair credit instead of seller repairs.",
+      "zh": "我們要求維修折讓，而不是賣方施工。"
+    },
+    {
+      "id": "re-phrase-4",
+      "en": "If the appraisal comes in low, we'll renegotiate or walk.",
+      "zh": "若估價偏低，我們會重談或退出。"
+    },
+    {
+      "id": "re-phrase-5",
+      "en": "Keep the inspection contingency—it's not optional for me.",
+      "zh": "驗屋附條件一定要留，對我不是可選項。"
+    },
+    {
+      "id": "re-phrase-6",
+      "en": "Please send the HOA docs and the T-12 when you can.",
+      "zh": "請在方便時寄社區文件與 T-12。"
+    },
+    {
+      "id": "re-phrase-7",
+      "en": "The AC is running but not cooling.",
+      "zh": "空調有在轉但不冷。"
+    },
+    {
+      "id": "re-phrase-8",
+      "en": "Confirming we're still on for Friday's showing at 10.",
+      "zh": "確認週五早上十點帶看仍照常。"
+    }
+  ]
+}

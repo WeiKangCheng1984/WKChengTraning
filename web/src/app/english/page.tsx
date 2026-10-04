@@ -21,6 +21,21 @@ export default function EnglishIndexPage() {
         </p>
       </div>
 
+      <Link
+        href="/english/today"
+        className="block rounded-sm border border-[var(--accent)] bg-[var(--accent-soft)]/40 px-5 py-5 transition hover:border-[var(--accent)]"
+      >
+        <p className="text-xs uppercase tracking-[0.18em] text-[var(--accent)]">
+          Today pack · 約 20 分
+        </p>
+        <h2 className="mt-2 font-[family-name:var(--font-display)] text-2xl text-[var(--ink)]">
+          今日英語套餐
+        </h2>
+        <p className="mt-1 text-sm text-[var(--muted)]">
+          文法短文 → 跟讀 → 句型 → 到期複習
+        </p>
+      </Link>
+
       <div className="grid gap-3 sm:grid-cols-2">
         <Link
           href="/english/grammar"
@@ -53,6 +68,17 @@ export default function EnglishIndexPage() {
             </p>
           </div>
           <span className="mt-4 text-sm text-[var(--ink)]">開始 →</span>
+        </Link>
+        <Link href="/english/review" className="card-tap block sm:col-span-2">
+          <p className="text-xs uppercase tracking-[0.18em] text-[var(--accent)]">
+            Review
+          </p>
+          <h2 className="mt-2 font-[family-name:var(--font-display)] text-xl text-[var(--ink)]">
+            英語到期複習
+          </h2>
+          <p className="mt-1 text-sm text-[var(--muted)]">
+            文法／跟讀／句型 · 標掌握度後會進入隊列
+          </p>
         </Link>
       </div>
 

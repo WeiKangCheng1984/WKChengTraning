@@ -55,7 +55,9 @@ const items = [
       p.startsWith("/more") ||
       p.startsWith("/plan") ||
       p.startsWith("/search") ||
-      p.startsWith("/saved"),
+      p.startsWith("/saved") ||
+      p.startsWith("/real-estate") ||
+      p.startsWith("/rewards"),
     icon: (
       <path
         d="M6 12a2 2 0 1 1-4 0 2 2 0 0 1 4 0zm8 0a2 2 0 1 1-4 0 2 2 0 0 1 4 0zm8 0a2 2 0 1 1-4 0 2 2 0 0 1 4 0z"

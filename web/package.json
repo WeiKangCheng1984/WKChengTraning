@@ -3,9 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "content": "python scripts/build-content.py && python scripts/build-speak.py && python scripts/build-grammar.py",
+    "content": "python scripts/build-content.py && python scripts/build-speak.py && python scripts/build-grammar.py && python scripts/build-re.py",
     "content:speak": "python scripts/build-speak.py",
     "content:grammar": "python scripts/build-grammar.py",
+    "content:re": "python scripts/build-re.py",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",

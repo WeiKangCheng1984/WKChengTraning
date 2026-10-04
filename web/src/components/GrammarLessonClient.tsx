@@ -1,10 +1,11 @@
 "use client";
 
 import Link from "next/link";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { FavoriteButton } from "@/components/FavoriteButton";
 import { MasteryControls } from "@/components/MasteryControls";
 import { SpeakButton } from "@/components/SpeakButton";
+import { setLastGrammar } from "@/lib/session";
 import { speakEnglish, stopSpeaking } from "@/lib/speech";
 import type { GrammarLesson } from "@/lib/types";
 
@@ -17,6 +18,10 @@ type Props = {
 export function GrammarLessonClient({ lesson, prevSlug, nextSlug }: Props) {
   const [showAnswers, setShowAnswers] = useState(false);
   const [reading, setReading] = useState(false);
+
+  useEffect(() => {
+    setLastGrammar(lesson.slug, lesson.titleZh);
+  }, [lesson.slug, lesson.titleZh]);
 
   function playPassage() {
     if (reading) {

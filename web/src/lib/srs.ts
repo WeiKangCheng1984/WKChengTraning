@@ -4,6 +4,8 @@ import type { Mastery } from "./types";
 
 const KEY = "omnilearn-srs-v1";
 
+export type SrsScope = "cfa" | "en" | "speak" | "grammar" | "re";
+
 type SrsStore = Record<string, { due: string; interval: number }>;
 
 function todayIso() {
@@ -16,25 +18,29 @@ function addDays(iso: string, days: number) {
   return d.toISOString().slice(0, 10);
 }
 
-export function getDue(scope: "cfa" | "en", id: string | number): string | null {
-  const store = readJson<SrsStore>(KEY, {});
-  return store[`${scope}:${id}`]?.due ?? null;
+function storeKey(scope: SrsScope, id: string | number) {
+  return `${scope}:${id}`;
 }
 
-export function isDue(scope: "cfa" | "en", id: string | number): boolean {
+export function getDue(scope: SrsScope, id: string | number): string | null {
+  const store = readJson<SrsStore>(KEY, {});
+  return store[storeKey(scope, id)]?.due ?? null;
+}
+
+export function isDue(scope: SrsScope, id: string | number): boolean {
   const due = getDue(scope, id);
-  if (!due) return true; // unseen treated as available
+  if (!due) return true;
   return due <= todayIso();
 }
 
 /** Grade after a practice card: again / good / easy */
 export function gradeCard(
-  scope: "cfa" | "en",
+  scope: SrsScope,
   id: string | number,
   grade: "again" | "good" | "easy",
 ) {
   const store = readJson<SrsStore>(KEY, {});
-  const key = `${scope}:${id}`;
+  const key = storeKey(scope, id);
   const prev = store[key]?.interval ?? 0;
   let interval = 0;
   let mastery: Mastery = "learning";
@@ -58,16 +64,49 @@ export function gradeCard(
   setMastery(scope, id, mastery);
 }
 
-export function countDue(keys: Array<{ scope: "cfa" | "en"; id: string | number }>) {
+/**
+ * When user manually sets mastery, also put item on an SRS schedule
+ * so Today / English review can call it back.
+ */
+export function scheduleFromMastery(
+  scope: SrsScope,
+  id: string | number,
+  mastery: Mastery,
+) {
+  const store = readJson<SrsStore>(KEY, {});
+  const key = storeKey(scope, id);
+  if (mastery === "unseen") {
+    delete store[key];
+    writeJson(KEY, store);
+    return;
+  }
+  if (mastery === "learning") {
+    store[key] = { interval: 1, due: todayIso() };
+  } else {
+    store[key] = { interval: 4, due: addDays(todayIso(), 4) };
+  }
+  writeJson(KEY, store);
+}
+
+export function countDue(keys: Array<{ scope: SrsScope; id: string | number }>) {
   return keys.filter((k) => isDue(k.scope, k.id)).length;
 }
 
 /** Only cards that already have an SRS schedule and are due today */
 export function countScheduledDue(
-  keys: Array<{ scope: "cfa" | "en"; id: string | number }>,
+  keys: Array<{ scope: SrsScope; id: string | number }>,
 ) {
   return keys.filter((k) => {
     const due = getDue(k.scope, k.id);
     return due !== null && due <= todayIso();
   }).length;
+}
+
+export function listScheduledDue(
+  keys: Array<{ scope: SrsScope; id: string | number }>,
+) {
+  return keys.filter((k) => {
+    const due = getDue(k.scope, k.id);
+    return due !== null && due <= todayIso();
+  });
 }
