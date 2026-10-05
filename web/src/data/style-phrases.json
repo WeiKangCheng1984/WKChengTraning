@@ -1,0 +1,614 @@
+{
+  "source": "style.md",
+  "total": 95,
+  "stages": [
+    {
+      "id": 1,
+      "slug": "openers",
+      "titleZh": "發語詞與緩衝",
+      "titleEn": "Openers & Buffers",
+      "intro": "",
+      "sections": [
+        {
+          "num": 1,
+          "slug": "section",
+          "titleZh": "邏輯驅動的發語詞",
+          "subtitle": "Actually 與 Basically 的進階運用",
+          "groups": [
+            {
+              "titleZh": "Actually",
+              "intro": "當你發現對方理解有誤，或者你想提出一個更精確的觀察時，可以用 Actually 開場。",
+              "items": [
+                {
+                  "en": "Actually, the process is a bit more streamlined than it looks.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Actually, if we look at the data from a different angle, it makes more sense.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Actually, I was thinking we could try a different approach this time.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Actually, to be more precise, the focus should be on the final output.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Actually, that’s a common misconception, but here’s how it really works.",
+                  "noteZh": ""
+                }
+              ]
+            },
+            {
+              "titleZh": "Basically",
+              "intro": "當你要把複雜的邏輯（例如電力設施或技術規格）簡化給聽眾時，這是最好的高效工具。",
+              "items": [
+                {
+                  "en": "Basically, it all boils down to two main factors.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Basically, the goal here is to keep things as simple as possible.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Basically, what I’m trying to say is that we need to prioritize efficiency.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Basically, if you follow this logic, the rest of the steps fall into place.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Basically, we’re just looking for the most effective way to get this done.",
+                  "noteZh": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "num": 2,
+          "slug": "section",
+          "titleZh": "社交連結與共鳴",
+          "subtitle": "I mean 與 You know 的自然融入",
+          "groups": [
+            {
+              "titleZh": "I mean",
+              "intro": "這能幫你在講完一段話後進行修正或補充，顯得非常有親和力。",
+              "items": [
+                {
+                  "en": "I mean, I don't want to overcomplicate things for you.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "I mean, it’s just a suggestion, but it might save us some time.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "I mean, the whole idea is to make the experience better for everyone.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "I mean, let’s be real, we all want the best possible result.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "I mean, I’m just looking at it from a practical standpoint.",
+                  "noteZh": ""
+                }
+              ]
+            },
+            {
+              "titleZh": "You know",
+              "intro": "這能邀請聽眾進入你的思考脈絡，創造一種「我們在同一艘船上」的氛圍。",
+              "items": [
+                {
+                  "en": "You know, it’s one of those things where you just have to see it to get it.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "You know, like how we usually handle these kinds of situations.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "You know, I want to make sure you’re comfortable with this timeline.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "You know, it’s all about finding that sweet spot between quality and speed.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "You know, I’ve noticed that people really appreciate the details here.",
+                  "noteZh": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "num": 3,
+          "slug": "section",
+          "titleZh": "觀察者的認同與轉折",
+          "subtitle": "Fair enough 與 Right 的層次感",
+          "groups": [
+            {
+              "titleZh": "Fair enough",
+              "intro": "這是最能體現你「注重他人感受」且「講究邏輯」的詞彙。它代表「我聽懂了，且我認同你的邏輯，但我可能有不同看法」。",
+              "items": [
+                {
+                  "en": "Fair enough, I see where you’re coming from with that point.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Fair enough, let’s take that into consideration as we move forward.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Fair enough, that’s a valid concern to bring up.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Fair enough, but let’s also look at the potential downsides.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Fair enough, I can definitely work with that.",
+                  "noteZh": ""
+                }
+              ]
+            },
+            {
+              "titleZh": "Right (搭配 30% 戰術性停頓)",
+              "intro": "當你點頭說一個 Right 然後停頓時，這代表你正在進行深度思考。",
+              "items": [
+                {
+                  "en": "Right... (停頓) So, if we take that path, what’s our next move?",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Right... (停頓) I see the logic there, but let’s double-check the details.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Right... (停頓) That changes things a bit, doesn’t it?",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Right... (停頓) Let’s see how we can integrate that into the plan.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Right... (停頓) I’m just thinking about how that affects the overall flow.",
+                  "noteZh": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "num": 4,
+          "slug": "section",
+          "titleZh": "西岸風格的直率引導",
+          "subtitle": "Honestly 與 Realistically",
+          "groups": [
+            {
+              "titleZh": "Honestly",
+              "intro": "這不是在質疑對方的誠實，而是在表達「我現在要講真心話/重點了」。",
+              "items": [
+                {
+                  "en": "Honestly, I think we’re overthinking this part.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Honestly, the simplest solution is usually the best one.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Honestly, I’d rather be upfront about the challenges we’re facing.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Honestly, it’s not as complicated as it sounds.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Honestly, I’m just happy to be part of the conversation.",
+                  "noteZh": ""
+                }
+              ]
+            },
+            {
+              "titleZh": "Realistically",
+              "intro": "這能展現你作為專業人士的理性底色。",
+              "items": [
+                {
+                  "en": "Realistically, we have to look at what’s possible within this timeframe.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Realistically, this is the most efficient way to handle the situation.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Realistically, we should expect a few bumps along the road.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Realistically, I don’t think we need to worry about that just yet.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Realistically, it’s all about managing expectations from the start.",
+                  "noteZh": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "num": 5,
+          "slug": "section",
+          "titleZh": "高效的緩衝語句",
+          "subtitle": "Just 與 Like 的微調",
+          "groups": [
+            {
+              "titleZh": "Just 與 Like",
+              "intro": "適度使用這兩個詞，可以軟化 70% 直率語氣中可能帶來的侵略感。",
+              "items": [
+                {
+                  "en": "I’m just trying to get a better sense of the big picture.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "It’s just that I want to make sure we don’t miss any small details.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "I was just wondering if you had any thoughts on this.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "It’s like, we’re almost there, we just need one final push.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "It’s kind of like how a camera focus works, you know?",
+                  "noteZh": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "connectors",
+      "titleZh": "邏輯連接器",
+      "titleEn": "Logic Connectors",
+      "intro": "第二階段的重點在於建立你的邏輯連接器。",
+      "sections": [
+        {
+          "num": 1,
+          "slug": "section",
+          "titleZh": "核心結論與直率切入",
+          "subtitle": "The Bottom Line 系列",
+          "groups": [
+            {
+              "titleZh": "The bottom line is",
+              "intro": "這是最具重量感的連接詞，適合在你觀察完畢後，給出最終定見。",
+              "items": [
+                {
+                  "en": "The bottom line is, we need a solution that works for everyone involved.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "The bottom line is, if the timing isn't right, the quality will suffer.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "The bottom line is, I'm looking for the most efficient way to capture this shot.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "The bottom line is, we're here to make sure the experience is seamless.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "The bottom line is, simplicity usually beats complexity in these cases.",
+                  "noteZh": ""
+                }
+              ]
+            },
+            {
+              "titleZh": "The thing is",
+              "intro": "當你要指出一個關鍵問題或轉折點時，這個詞比 However 更平易近人。",
+              "items": [
+                {
+                  "en": "The thing is, we have to consider the lighting before we start the tour.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "The thing is, I've seen this happen before, and here’s how we fixed it.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "The thing is, I want to make sure we're all on the same page first.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "The thing is, realistically, we only have about twenty minutes left.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "The thing is, it’s not just about the technical side, it’s about the feeling.",
+                  "noteZh": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "num": 2,
+          "slug": "section",
+          "titleZh": "邏輯轉折與觀察者視角",
+          "subtitle": "That being said 系列",
+          "groups": [
+            {
+              "titleZh": "That being said",
+              "intro": "這比 But 更專業，代表你已經消化了前一段資訊，現在要帶入另一個維度。",
+              "items": [
+                {
+                  "en": "That being said, I still think there’s a lot of potential in your idea.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "That being said, we should probably keep an eye on the budget.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "That being said, from a logical standpoint, this is our best bet.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "That being said, I’m open to suggestions if you have a better way.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "That being said, let’s not lose sight of the original goal.",
+                  "noteZh": ""
+                }
+              ]
+            },
+            {
+              "titleZh": "Having said that",
+              "intro": "這與 That being said 類似，但語氣稍微緩和一點，更注重聽眾的感受。",
+              "items": [
+                {
+                  "en": "Having said that, I totally understand why you’d feel that way.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Having said that, maybe we can find a middle ground that works.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Having said that, it’s worth taking a second look at the details.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Having said that, I’m confident we can handle any issues that come up.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Having said that, let’s see what happens if we change the focus a bit.",
+                  "noteZh": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "num": 3,
+          "slug": "section",
+          "titleZh": "高效的資訊平移與推進",
+          "subtitle": "Moving on 系列",
+          "groups": [
+            {
+              "titleZh": "Moving on to",
+              "intro": "非常適合在導覽或是專業解說時使用，乾淨利落地切換主題。",
+              "items": [
+                {
+                  "en": "Moving on to the next part, let's talk about the history of this place.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Moving on to the logistics, here’s how the rest of the day looks.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Moving on to the technical specs, I’ll keep it as simple as possible.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Moving on to your questions, I’d love to hear what’s on your mind.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Moving on, let’s take a look at the results from the last session.",
+                  "noteZh": ""
+                }
+              ]
+            },
+            {
+              "titleZh": "On that note",
+              "intro": "這是一個非常有靈氣的轉折，代表「既然剛才提到了那個，那我們順著講下去」。",
+              "items": [
+                {
+                  "en": "On that note, I should probably mention the upcoming exhibition.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "On that note, does anyone need a quick break before we continue?",
+                  "noteZh": ""
+                },
+                {
+                  "en": "On that note, it reminds me of a similar project I worked on last year.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "On that note, let’s make sure we have all the equipment ready.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "On that note, I’ll let you be the judge of which direction we take.",
+                  "noteZh": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "num": 4,
+          "slug": "section",
+          "titleZh": "體現同理心與邏輯平衡",
+          "subtitle": "To be fair 系列",
+          "groups": [
+            {
+              "titleZh": "To be fair",
+              "intro": "這是一個非常強大的社交工具，代表你正在進行公平的觀察。",
+              "items": [
+                {
+                  "en": "To be fair, it’s a pretty complex system to learn in one day.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "To be fair, we’ve all been working really hard on this lately.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "To be fair, the original plan was a bit too ambitious for the timeframe.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "To be fair, I think everyone did their best given the circumstances.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "To be fair, it’s hard to get the perfect shot without the right gear.",
+                  "noteZh": ""
+                }
+              ]
+            },
+            {
+              "titleZh": "For what it's worth",
+              "intro": "當你想提供一個觀察或建議，但不想顯得太強勢（30% 禮貌）時使用。",
+              "items": [
+                {
+                  "en": "For what it's worth, I think you handled that situation perfectly.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "For what it's worth, my experience has shown that this approach works.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "For what it's worth, I’m really impressed with how this turned out.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "For what it's worth, I’d be happy to help you with the editing later.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "For what it's worth, I don't think you need to worry too much about it.",
+                  "noteZh": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "num": 5,
+          "slug": "section",
+          "titleZh": "敘事感與節奏轉換",
+          "subtitle": "Long story short 系列",
+          "groups": [
+            {
+              "titleZh": "Long story short",
+              "intro": "這能立刻把發言權收回到你手中，總結複雜的過程。",
+              "items": [
+                {
+                  "en": "Long story short, we decided to go with the second option.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Long story short, it was a great learning experience for the whole team.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Long story short, the project is back on track and looking good.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Long story short, I ended up getting the certification after all.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Long story short, everything worked out in the end.",
+                  "noteZh": ""
+                }
+              ]
+            },
+            {
+              "titleZh": "In any case",
+              "intro": "無論剛才討論得多混亂，這句話能幫你重新聚焦。",
+              "items": [
+                {
+                  "en": "In any case, we should probably head back to the main hall now.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "In any case, I’ll make sure to send you the updated files tonight.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "In any case, the most important thing is that we stay focused.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "In any case, I’m just glad we could clear that up together.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "In any case, let’s keep moving forward and see what happens next.",
+                  "noteZh": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "signature",
+      "titleZh": "個人特色慣用句",
+      "titleEn": "Signature Phrases",
+      "intro": "第三階段的重點在於「個人特色慣用句」（Signature Phrases）。",
+      "sections": []
+    },
+    {
+      "id": 4,
+      "slug": "pressure-relief",
+      "titleZh": "壓力緩衝與優雅應對",
+      "titleEn": "Pressure Relievers",
+      "intro": "第四階段的重點在於「壓力緩衝句與優雅應對」（Pressure Relievers & Elegant Responses）。",
+      "sections": []
+    }
+  ]
+}

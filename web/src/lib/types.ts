@@ -170,3 +170,70 @@ export type RealEstateData = {
   sections: RealEstateSection[];
   phrases: RealEstatePhrase[];
 };
+
+export type ConversationFormula = {
+  num: number;
+  id: string;
+  en: string;
+  substitutions: string;
+  scenarioZh: string;
+};
+
+export type ConversationBlock = {
+  id: string;
+  titleZh: string;
+  subtitle: string;
+  scenario: string;
+  formulaFrom: number;
+  formulaTo: number;
+  formulas: ConversationFormula[];
+};
+
+export type ConversationFourType = {
+  id: number;
+  slug: string;
+  titleZh: string;
+  titleEn: string;
+  summaryZh: string;
+  blocks: ConversationBlock[];
+};
+
+export type ConversationFourData = {
+  source: string;
+  total: number;
+  types: ConversationFourType[];
+};
+
+export type StylePhraseItem = {
+  en: string;
+  noteZh: string;
+};
+
+export type StylePhraseGroup = {
+  titleZh: string;
+  intro: string;
+  items: StylePhraseItem[];
+};
+
+export type StyleSection = {
+  num: number;
+  slug: string;
+  titleZh: string;
+  subtitle: string;
+  groups: StylePhraseGroup[];
+};
+
+export type StyleStage = {
+  id: number;
+  slug: string;
+  titleZh: string;
+  titleEn: string;
+  intro: string;
+  sections: StyleSection[];
+};
+
+export type StylePhrasesData = {
+  source: string;
+  total: number;
+  stages: StyleStage[];
+};

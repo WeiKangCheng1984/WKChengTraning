@@ -37,6 +37,16 @@ const links = [
     body: "36 課 · 生活／房產 · TTS 跟讀。",
   },
   {
+    href: "/english/conversation",
+    title: "四大類會話公式",
+    body: "144 公式：提問、觀點、講故事、傾聽共情。",
+  },
+  {
+    href: "/english/style",
+    title: "美式風格句型",
+    body: "發語詞、連接器、慣用句、壓力緩衝。",
+  },
+  {
     href: "/english/review",
     title: "英語到期複習",
     body: "文法／跟讀／句型間隔複習。",

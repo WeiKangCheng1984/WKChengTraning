@@ -6,24 +6,30 @@ import { SpeakButton } from "@/components/SpeakButton";
 import cfa from "@/data/cfa.json";
 import english from "@/data/english.json";
 import grammar from "@/data/grammar.json";
+import conversation from "@/data/conversation-four.json";
+import style from "@/data/style-phrases.json";
 import re from "@/data/real-estate.json";
 import speak from "@/data/speak.json";
 import type {
   CfaData,
+  ConversationFourData,
   EnglishData,
   GrammarData,
   RealEstateData,
   SpeakData,
+  StylePhrasesData,
 } from "@/lib/types";
 
 const cfaData = cfa as CfaData;
 const enData = english as EnglishData;
 const grammarData = grammar as GrammarData;
+const convData = conversation as ConversationFourData;
+const styleData = style as StylePhrasesData;
 const reData = re as RealEstateData;
 const speakData = speak as SpeakData;
 
 type Hit = {
-  kind: "cfa" | "en" | "grammar" | "speak" | "re";
+  kind: "cfa" | "en" | "grammar" | "speak" | "re" | "conv" | "style";
   id: string;
   title: string;
   subtitle: string;
@@ -129,6 +135,46 @@ export default function SearchPage() {
         if (out.length >= 100) return out;
       }
     }
+
+    for (const t of convData.types) {
+      for (const b of t.blocks) {
+        for (const f of b.formulas) {
+          const blob =
+            `${f.en} ${f.substitutions} ${f.scenarioZh} ${t.titleZh} ${b.titleZh}`.toLowerCase();
+          if (!blob.includes(query)) continue;
+          out.push({
+            kind: "conv",
+            id: f.id,
+            title: f.en.slice(0, 100),
+            subtitle: `${t.titleZh} · 公式 ${f.num}`,
+            href: `/english/conversation/${t.slug}`,
+            speak: f.en.replace(/\[[^\]]+\]/g, "something"),
+          });
+          if (out.length >= 115) return out;
+        }
+      }
+    }
+
+    for (const st of styleData.stages) {
+      for (const sec of st.sections) {
+        for (const g of sec.groups) {
+          for (const it of g.items) {
+            const blob =
+              `${it.en} ${it.noteZh} ${st.titleZh} ${g.titleZh}`.toLowerCase();
+            if (!blob.includes(query)) continue;
+            out.push({
+              kind: "style",
+              id: `${st.slug}-${it.en.slice(0, 24)}`,
+              title: it.en.slice(0, 100),
+              subtitle: `${st.titleZh} · ${g.titleZh}`,
+              href: `/english/style/${st.slug}`,
+              speak: it.en,
+            });
+            if (out.length >= 130) return out;
+          }
+        }
+      }
+    }
     return out;
   }, [q]);
 
@@ -142,7 +188,7 @@ export default function SearchPage() {
           搜尋
         </h1>
         <p className="mt-2 text-sm text-[var(--muted)]">
-          可搜 CFA、文法、句型、房地產與跟讀。試 appraisal、under contract。
+          可搜 CFA、文法、句型、會話公式、風格句型、房地產與跟讀。
         </p>
       </div>
       <input
@@ -172,7 +218,11 @@ export default function SearchPage() {
                       ? "文法"
                       : h.kind === "re"
                         ? "房產"
-                        : "句型"}
+                        : h.kind === "conv"
+                          ? "會話"
+                          : h.kind === "style"
+                            ? "風格"
+                            : "句型"}
               </div>
               <div className="font-medium text-[var(--ink)]">{h.title}</div>
               <div className="text-sm text-[var(--muted)]">{h.subtitle}</div>

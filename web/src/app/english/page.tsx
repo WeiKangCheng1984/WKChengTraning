@@ -1,10 +1,19 @@
 import Link from "next/link";
 import english from "@/data/english.json";
 import grammar from "@/data/grammar.json";
-import type { EnglishData, GrammarData } from "@/lib/types";
+import conversation from "@/data/conversation-four.json";
+import style from "@/data/style-phrases.json";
+import type {
+  ConversationFourData,
+  EnglishData,
+  GrammarData,
+  StylePhrasesData,
+} from "@/lib/types";
 
 const data = english as EnglishData;
 const grammarData = grammar as GrammarData;
+const convData = conversation as ConversationFourData;
+const styleData = style as StylePhrasesData;
 
 export default function EnglishIndexPage() {
   return (
@@ -66,7 +75,7 @@ export default function EnglishIndexPage() {
           </div>
           <span className="mt-4 text-sm text-[var(--ink)]">開始 →</span>
         </Link>
-        <Link href="/english/review" className="card-tap block sm:col-span-2">
+        <Link href="/english/review" className="card-tap block">
           <p className="text-xs uppercase tracking-[0.18em] text-[var(--accent)]">
             Review
           </p>
@@ -75,6 +84,28 @@ export default function EnglishIndexPage() {
           </h2>
           <p className="mt-1 text-sm text-[var(--muted)]">
             文法／跟讀／句型 · 標掌握度後會進入隊列
+          </p>
+        </Link>
+        <Link href="/english/conversation" className="card-tap block">
+          <p className="text-xs uppercase tracking-[0.18em] text-[var(--accent)]">
+            Conversation
+          </p>
+          <h2 className="mt-2 font-[family-name:var(--font-display)] text-xl text-[var(--ink)]">
+            四大類會話公式
+          </h2>
+          <p className="mt-1 text-sm text-[var(--muted)]">
+            {convData.total} 公式 · 提問／觀點／故事／共情
+          </p>
+        </Link>
+        <Link href="/english/style" className="card-tap block sm:col-span-2">
+          <p className="text-xs uppercase tracking-[0.18em] text-[var(--accent)]">
+            Style
+          </p>
+          <h2 className="mt-2 font-[family-name:var(--font-display)] text-xl text-[var(--ink)]">
+            美式風格句型
+          </h2>
+          <p className="mt-1 text-sm text-[var(--muted)]">
+            {styleData.total} 句 · 發語詞／連接器／慣用句／緩衝
           </p>
         </Link>
       </div>
