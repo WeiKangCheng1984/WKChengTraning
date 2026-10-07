@@ -278,3 +278,34 @@ export type VocabularyData = {
   tables: VocabTable[];
 };
 
+export type GreWord = {
+  id: string;
+  en: string;
+  zh: string;
+  endef: string;
+  example: string;
+  synonyms: string;
+  antonyms: string;
+  derivatives: string;
+  lookalikes: string;
+  sources: string;
+  detailed: boolean;
+};
+
+export type GreLetter = {
+  letter: string;
+  slug: string;
+  wordCount: number;
+  words: GreWord[];
+};
+
+export type GreVocabularyData = {
+  source: string;
+  total: number;
+  detailed: number;
+  withAntonyms: number;
+  audio: "tts";
+  level: string;
+  letters: GreLetter[];
+};
+

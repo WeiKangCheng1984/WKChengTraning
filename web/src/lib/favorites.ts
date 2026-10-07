@@ -4,7 +4,7 @@ const KEY = "omnilearn-favorites-v1";
 
 export type FavoriteItem = {
   id: string;
-  kind: "cfa" | "en" | "speak" | "grammar" | "re" | "vocab";
+  kind: "cfa" | "en" | "speak" | "grammar" | "re" | "vocab" | "gre";
   title: string;
   subtitle: string;
   href: string;

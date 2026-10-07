@@ -3,10 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "content": "python scripts/build-content.py && python scripts/build-speak.py && python scripts/build-grammar.py && python scripts/build-re.py && python scripts/build-4big.py && python scripts/build-style.py && python scripts/build-vocab.py",
+    "content": "python scripts/build-content.py && python scripts/build-speak.py && python scripts/build-grammar.py && python scripts/build-re.py && python scripts/build-4big.py && python scripts/build-style.py && python scripts/build-vocab.py && python scripts/build-gre-vocab.py",
     "content:4big": "python scripts/build-4big.py",
     "content:style": "python scripts/build-style.py",
     "content:vocab": "python scripts/build-vocab.py",
+    "content:gre": "python scripts/build-gre-vocab.py",
     "content:speak": "python scripts/build-speak.py",
     "content:grammar": "python scripts/build-grammar.py",
     "content:re": "python scripts/build-re.py",

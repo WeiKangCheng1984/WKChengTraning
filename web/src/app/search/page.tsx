@@ -9,6 +9,7 @@ import grammar from "@/data/grammar.json";
 import conversation from "@/data/conversation-four.json";
 import style from "@/data/style-phrases.json";
 import vocabulary from "@/data/vocabulary.json";
+import greVocabulary from "@/data/gre-vocabulary.json";
 import re from "@/data/real-estate.json";
 import speak from "@/data/speak.json";
 import type {
@@ -16,6 +17,7 @@ import type {
   ConversationFourData,
   EnglishData,
   GrammarData,
+  GreVocabularyData,
   RealEstateData,
   SpeakData,
   StylePhrasesData,
@@ -28,11 +30,21 @@ const grammarData = grammar as GrammarData;
 const convData = conversation as ConversationFourData;
 const styleData = style as StylePhrasesData;
 const vocabData = vocabulary as VocabularyData;
+const greData = greVocabulary as GreVocabularyData;
 const reData = re as RealEstateData;
 const speakData = speak as SpeakData;
 
 type Hit = {
-  kind: "cfa" | "en" | "grammar" | "speak" | "re" | "conv" | "style" | "vocab";
+  kind:
+    | "cfa"
+    | "en"
+    | "grammar"
+    | "speak"
+    | "re"
+    | "conv"
+    | "style"
+    | "vocab"
+    | "gre";
   id: string;
   title: string;
   subtitle: string;
@@ -205,6 +217,31 @@ export default function SearchPage() {
         }
       }
     }
+
+    for (const l of greData.letters) {
+      for (const w of l.words) {
+        const blob = [
+          w.en,
+          w.zh,
+          w.endef,
+          w.example,
+          w.synonyms,
+          w.antonyms,
+        ]
+          .join(" ")
+          .toLowerCase();
+        if (!blob.includes(query)) continue;
+        out.push({
+          kind: "gre",
+          id: w.id,
+          title: w.en,
+          subtitle: `GRE · ${l.letter} · ${w.zh || w.endef}`,
+          href: `/english/gre/${l.slug}`,
+          speak: w.en,
+        });
+        if (out.length >= 150) return out;
+      }
+    }
     return out;
   }, [q]);
 
@@ -218,7 +255,7 @@ export default function SearchPage() {
           搜尋
         </h1>
         <p className="mt-2 text-sm text-[var(--muted)]">
-          可搜 CFA、文法、句型、進階詞彙、會話、風格、房地產與跟讀。
+          可搜 CFA、文法、句型、進階詞彙、GRE、會話、風格、房地產與跟讀。
         </p>
       </div>
       <input
@@ -254,7 +291,9 @@ export default function SearchPage() {
                             ? "風格"
                             : h.kind === "vocab"
                               ? "詞彙"
-                              : "句型"}
+                              : h.kind === "gre"
+                                ? "GRE"
+                                : "句型"}
               </div>
               <div className="font-medium text-[var(--ink)]">{h.title}</div>
               <div className="text-sm text-[var(--muted)]">{h.subtitle}</div>

@@ -51,7 +51,9 @@ export default function SavedPage() {
                           ? "房產"
                           : it.kind === "vocab"
                             ? "詞彙"
-                            : "句型"}
+                            : it.kind === "gre"
+                              ? "GRE"
+                              : "句型"}
                 </div>
                 <div className="font-medium text-[var(--ink)]">{it.title}</div>
                 <div className="text-sm text-[var(--muted)]">{it.subtitle}</div>

@@ -4,10 +4,12 @@ import grammar from "@/data/grammar.json";
 import conversation from "@/data/conversation-four.json";
 import style from "@/data/style-phrases.json";
 import vocabulary from "@/data/vocabulary.json";
+import greVocabulary from "@/data/gre-vocabulary.json";
 import type {
   ConversationFourData,
   EnglishData,
   GrammarData,
+  GreVocabularyData,
   StylePhrasesData,
   VocabularyData,
 } from "@/lib/types";
@@ -17,6 +19,7 @@ const grammarData = grammar as GrammarData;
 const convData = conversation as ConversationFourData;
 const styleData = style as StylePhrasesData;
 const vocabData = vocabulary as VocabularyData;
+const greData = greVocabulary as GreVocabularyData;
 
 export default function EnglishIndexPage() {
   return (
@@ -111,7 +114,7 @@ export default function EnglishIndexPage() {
             {styleData.total} 句 · 發語詞／連接器／慣用句／緩衝
           </p>
         </Link>
-        <Link href="/english/vocab" className="card-tap block sm:col-span-2">
+        <Link href="/english/vocab" className="card-tap block">
           <p className="text-xs uppercase tracking-[0.18em] text-[var(--accent)]">
             Vocabulary · B2–C1
           </p>
@@ -121,6 +124,17 @@ export default function EnglishIndexPage() {
           <p className="mt-1 text-sm text-[var(--muted)]">
             {vocabData.total} 詞 · {vocabData.tables.length}{" "}
             表 · 職場精準用詞／搭配／例句
+          </p>
+        </Link>
+        <Link href="/english/gre" className="card-tap block">
+          <p className="text-xs uppercase tracking-[0.18em] text-[var(--accent)]">
+            GRE Vocabulary
+          </p>
+          <h2 className="mt-2 font-[family-name:var(--font-display)] text-xl text-[var(--ink)]">
+            GRE 單字
+          </h2>
+          <p className="mt-1 text-sm text-[var(--muted)]">
+            {greData.total} 詞 · 近義／反義／例句 · 依字母瀏覽
           </p>
         </Link>
       </div>

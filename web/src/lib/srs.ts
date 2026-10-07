@@ -10,7 +10,8 @@ export type SrsScope =
   | "speak"
   | "grammar"
   | "re"
-  | "vocab";
+  | "vocab"
+  | "gre";
 
 type SrsStore = Record<string, { due: string; interval: number }>;
 

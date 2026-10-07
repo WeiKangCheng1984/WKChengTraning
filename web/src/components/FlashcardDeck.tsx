@@ -9,7 +9,7 @@ import type { Mastery } from "@/lib/types";
 
 export type FlashItem = {
   id: string | number;
-  scope: "cfa" | "en" | "vocab";
+  scope: "cfa" | "en" | "vocab" | "gre";
   front: string;
   backTitle: string;
   backBody: string;
