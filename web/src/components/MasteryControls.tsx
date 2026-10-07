@@ -8,7 +8,7 @@ import type { Mastery } from "@/lib/types";
 const OPTIONS: Mastery[] = ["unseen", "learning", "mastered"];
 
 type Props = {
-  scope: "cfa" | "en" | "speak" | "grammar" | "re";
+  scope: "cfa" | "en" | "speak" | "grammar" | "re" | "vocab";
   id: string | number;
 };
 

@@ -8,6 +8,7 @@ import english from "@/data/english.json";
 import grammar from "@/data/grammar.json";
 import conversation from "@/data/conversation-four.json";
 import style from "@/data/style-phrases.json";
+import vocabulary from "@/data/vocabulary.json";
 import re from "@/data/real-estate.json";
 import speak from "@/data/speak.json";
 import type {
@@ -18,6 +19,7 @@ import type {
   RealEstateData,
   SpeakData,
   StylePhrasesData,
+  VocabularyData,
 } from "@/lib/types";
 
 const cfaData = cfa as CfaData;
@@ -25,11 +27,12 @@ const enData = english as EnglishData;
 const grammarData = grammar as GrammarData;
 const convData = conversation as ConversationFourData;
 const styleData = style as StylePhrasesData;
+const vocabData = vocabulary as VocabularyData;
 const reData = re as RealEstateData;
 const speakData = speak as SpeakData;
 
 type Hit = {
-  kind: "cfa" | "en" | "grammar" | "speak" | "re" | "conv" | "style";
+  kind: "cfa" | "en" | "grammar" | "speak" | "re" | "conv" | "style" | "vocab";
   id: string;
   title: string;
   subtitle: string;
@@ -175,6 +178,33 @@ export default function SearchPage() {
         }
       }
     }
+
+    for (const t of vocabData.tables) {
+      for (const p of t.parts) {
+        for (const w of p.words) {
+          const blob = [
+            w.en,
+            w.zh,
+            w.ipa,
+            w.exampleEn,
+            ...w.collocations.map((c) => `${c.en} ${c.zh}`),
+            t.titleZh,
+          ]
+            .join(" ")
+            .toLowerCase();
+          if (!blob.includes(query)) continue;
+          out.push({
+            kind: "vocab",
+            id: w.id,
+            title: w.en,
+            subtitle: `表 ${t.id} · Part ${p.num} · ${w.zh}`,
+            href: `/english/vocab/${t.slug}`,
+            speak: w.en,
+          });
+          if (out.length >= 150) return out;
+        }
+      }
+    }
     return out;
   }, [q]);
 
@@ -188,7 +218,7 @@ export default function SearchPage() {
           搜尋
         </h1>
         <p className="mt-2 text-sm text-[var(--muted)]">
-          可搜 CFA、文法、句型、會話公式、風格句型、房地產與跟讀。
+          可搜 CFA、文法、句型、進階詞彙、會話、風格、房地產與跟讀。
         </p>
       </div>
       <input
@@ -222,7 +252,9 @@ export default function SearchPage() {
                           ? "會話"
                           : h.kind === "style"
                             ? "風格"
-                            : "句型"}
+                            : h.kind === "vocab"
+                              ? "詞彙"
+                              : "句型"}
               </div>
               <div className="font-medium text-[var(--ink)]">{h.title}</div>
               <div className="text-sm text-[var(--muted)]">{h.subtitle}</div>

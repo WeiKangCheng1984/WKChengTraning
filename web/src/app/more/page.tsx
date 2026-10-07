@@ -47,6 +47,11 @@ const links = [
     body: "發語詞、連接器、慣用句、壓力緩衝。",
   },
   {
+    href: "/english/vocab",
+    title: "進階詞彙",
+    body: "1500 詞 · B2–C1 職場精準用詞（5 表）＋閃卡。",
+  },
+  {
     href: "/english/review",
     title: "英語到期複習",
     body: "文法／跟讀／句型間隔複習。",
@@ -64,7 +69,7 @@ const links = [
 ];
 
 const later = [
-  { title: "Lifestyle", body: "生活跟讀系列（規劃見 pending content.md）。" },
+  { title: "Lifestyle", body: "生活跟讀系列（目前未開；僅站名預留）。" },
 ];
 
 export default function MorePage() {

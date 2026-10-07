@@ -3,17 +3,20 @@ import english from "@/data/english.json";
 import grammar from "@/data/grammar.json";
 import conversation from "@/data/conversation-four.json";
 import style from "@/data/style-phrases.json";
+import vocabulary from "@/data/vocabulary.json";
 import type {
   ConversationFourData,
   EnglishData,
   GrammarData,
   StylePhrasesData,
+  VocabularyData,
 } from "@/lib/types";
 
 const data = english as EnglishData;
 const grammarData = grammar as GrammarData;
 const convData = conversation as ConversationFourData;
 const styleData = style as StylePhrasesData;
+const vocabData = vocabulary as VocabularyData;
 
 export default function EnglishIndexPage() {
   return (
@@ -97,7 +100,7 @@ export default function EnglishIndexPage() {
             {convData.total} 公式 · 提問／觀點／故事／共情
           </p>
         </Link>
-        <Link href="/english/style" className="card-tap block sm:col-span-2">
+        <Link href="/english/style" className="card-tap block">
           <p className="text-xs uppercase tracking-[0.18em] text-[var(--accent)]">
             Style
           </p>
@@ -106,6 +109,18 @@ export default function EnglishIndexPage() {
           </h2>
           <p className="mt-1 text-sm text-[var(--muted)]">
             {styleData.total} 句 · 發語詞／連接器／慣用句／緩衝
+          </p>
+        </Link>
+        <Link href="/english/vocab" className="card-tap block sm:col-span-2">
+          <p className="text-xs uppercase tracking-[0.18em] text-[var(--accent)]">
+            Vocabulary · B2–C1
+          </p>
+          <h2 className="mt-2 font-[family-name:var(--font-display)] text-xl text-[var(--ink)]">
+            進階詞彙
+          </h2>
+          <p className="mt-1 text-sm text-[var(--muted)]">
+            {vocabData.total} 詞 · {vocabData.tables.length}{" "}
+            表 · 職場精準用詞／搭配／例句
           </p>
         </Link>
       </div>

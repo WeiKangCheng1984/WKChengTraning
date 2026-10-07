@@ -4,7 +4,13 @@ import type { Mastery } from "./types";
 
 const KEY = "omnilearn-srs-v1";
 
-export type SrsScope = "cfa" | "en" | "speak" | "grammar" | "re";
+export type SrsScope =
+  | "cfa"
+  | "en"
+  | "speak"
+  | "grammar"
+  | "re"
+  | "vocab";
 
 type SrsStore = Record<string, { due: string; interval: number }>;
 

@@ -2,7 +2,7 @@
 
 > 本檔是產品方向、範圍與開發約束的單一來源。  
 > **分三階段推進**；未到的階段預設不做。變更範圍時先更新本檔再動手。  
-> **內容缺口與補齊波次**見 `pending content.md`（討論用；定案後再改本檔對齊）。
+> **現況**：Phase 1 學習站已可獨立使用；**功能與內容路線凍結**（2026-10-07），未完成規劃檔已移除，再開新需求時再改本檔。
 
 ---
 
@@ -76,6 +76,9 @@
 | `web/public/audio/speak/common/*.mp3` | 常用口語真人錄音（自行放置） | **Speak Track** |
 | `english grammar.md` | 文法＋現代慣用語 36 課（生活／房產例句＋每課跟讀短文；TTS） | **English → 文法** `/english/grammar` |
 | `real estate glossary.md` | 美式房地產術語獨立表（中英） | **Real Estate** `/real-estate` |
+| `vocabulary.md` | 進階詞彙約 1500（B2–C1 職場 5 表；定義／搭配／例句） | **English → 進階詞彙** `/english/vocab` |
+| `4big.md` | 四大類會話公式 | **English → 會話** `/english/conversation` |
+| `style.md` | 美式風格句型 | **English → 風格** `/english/style` |
 
 輔助（可選，不取代上述兩檔）：
 
@@ -110,6 +113,7 @@
 - **配色雙模式**：`harbor`（港灣藍，預設）／`signal`（信號橙）；頂欄一鍵切換，存 `localStorage`（`omnilearn-theme`）
 - **練習導覽**：句型／CFA／閃卡共用上一／下一；英語複習可回看本場已評卡（不回滾 SRS）
 - **句型自造句**：可輸入英文、TTS 朗讀、存本機練習本（`omnilearn-my-sentences-v1`）
+- **進階詞彙**：`/english/vocab`（5 表／Part 篩選、TTS、掌握度、搜尋）
 - 響應式：手機與桌面可用
 - 簡單進度總覽（本機）：已掌握數量、學習中數量即可
 - README：如何 `dev`、如何 deploy 到 Vercel、內容檔如何更新
@@ -242,3 +246,31 @@
 |------|------|
 | 2026-09-29 | 初版：多 Phase 細切＋五大 Channel＋完整技術聯動構想 |
 | 2026-09-29 | **改寫為三階段**：① GitHub+Vercel 做 CFA／英語學習（發音、掌握、背誦；資料源 `Vnotes.md`＋`english V.md`）② Supabase+Sanity 擴張 ③ Gemini+Telegram 花樣 |
+| 2026-10-07 | **Phase 1 凍結**：刪除未完成規劃檔（`pending content.md`、`vocab-20k-plan.md`）與不符需求的頻率詞表實驗；保留已上線學習模組 |
+
+---
+
+## 11. 現況凍結說明（2026-10-07）
+
+**已上線、可穩定使用（Phase 1）**
+
+| 模組 | 路徑／來源 |
+|------|------------|
+| CFA 詞庫＋練習／閃卡 | `/vault` · `Vnotes.md` |
+| 英語句型＋組句 | `/english` · `english V.md` |
+| 文法 36 課 | `/english/grammar` · `english grammar.md` |
+| 跟讀 6 篇 | `/speak` · `6r.md` |
+| 房產 glossary | `/real-estate` · `real estate glossary.md` |
+| 會話公式 | `/english/conversation` · `4big.md` |
+| 美式風格句型 | `/english/style` · `style.md` |
+| 進階詞彙（職場 T 層） | `/english/vocab` · `vocabulary.md`（含閃卡、今日套餐步驟） |
+| 今日儀表板／計畫／獎勵／搜尋／收藏 | `/` `/plan` `/rewards` `/search` `/saved` |
+| UI | A+B 密度、港灣／信號配色切換 |
+
+**刻意不做／已撤掉**
+
+- 頻率核心 `vocab-f-*`、lemma 20k 路線規劃  
+- Lifestyle 獨立頻道、長圖文 Channel（仍屬 Phase 2 構想，未開工）  
+- 雲端進度、AI、Telegram（Phase 2／3）  
+
+**凍結期間**：以使用與修 bug 為主；不加新路線圖檔。有明確新需求再更新本檔後開工。

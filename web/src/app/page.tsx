@@ -13,12 +13,21 @@ import cfa from "@/data/cfa.json";
 import english from "@/data/english.json";
 import grammar from "@/data/grammar.json";
 import speak from "@/data/speak.json";
-import type { CfaData, EnglishData, GrammarData, SpeakData } from "@/lib/types";
+import vocabulary from "@/data/vocabulary.json";
+import { listVocabIds } from "@/lib/vocabToday";
+import type {
+  CfaData,
+  EnglishData,
+  GrammarData,
+  SpeakData,
+  VocabularyData,
+} from "@/lib/types";
 
 const cfaData = cfa as CfaData;
 const enData = english as EnglishData;
 const grammarData = grammar as GrammarData;
 const speakData = speak as SpeakData;
+const vocabData = vocabulary as VocabularyData;
 
 export default function HomePage() {
   const cfaIds = useMemo(
@@ -29,6 +38,7 @@ export default function HomePage() {
     () => enData.categories.flatMap((c) => c.items.map((i) => i.id)),
     [],
   );
+  const vocabIds = useMemo(() => listVocabIds(vocabData), []);
 
   const [progress, setProgress] = useState({ done: 0, total: 20, pct: 0 });
   const [dueCfa, setDueCfa] = useState(0);
@@ -44,13 +54,13 @@ export default function HomePage() {
       setDueCfa(
         countScheduledDue(cfaIds.map((id) => ({ scope: "cfa" as const, id }))),
       );
-      setPack(buildEnglishPack(grammarData, speakData, enData));
+      setPack(buildEnglishPack(grammarData, speakData, enData, vocabData));
       const s = getSession();
       setLastSpeak({ slug: s.lastSpeakSlug, title: s.lastSpeakTitle });
     };
     sync();
     return onStorageChange(sync);
-  }, [cfaIds, enIds]);
+  }, [cfaIds, enIds, vocabIds]);
 
   const nextDay =
     PLAN_DAYS.find((d) => d.day === progress.done + 1) ?? PLAN_DAYS[0];
@@ -168,6 +178,11 @@ export default function HomePage() {
           <QuickLink href="/real-estate" label="房產" meta="RE" />
           <QuickLink href="/speak" label="跟讀" meta={`${speakData.total}`} />
           <QuickLink href="/english" label="句型" meta={`${enData.total}`} />
+          <QuickLink
+            href="/english/vocab"
+            label="詞彙"
+            meta={`${vocabData.total}`}
+          />
           <QuickLink href="/plan" label="計畫" meta={`${progress.done}/20`} />
           <QuickLink href="/more" label="更多" meta="…" />
         </div>
@@ -175,7 +190,7 @@ export default function HomePage() {
 
       <section className="space-y-2">
         <h2 className="text-sm font-medium text-[var(--muted)]">掌握度</h2>
-        <ProgressSummary cfaIds={cfaIds} enIds={enIds} />
+        <ProgressSummary cfaIds={cfaIds} enIds={enIds} vocabIds={vocabIds} />
       </section>
     </div>
   );

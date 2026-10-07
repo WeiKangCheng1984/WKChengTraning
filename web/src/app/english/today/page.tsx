@@ -5,22 +5,29 @@ import { useEffect, useState } from "react";
 import english from "@/data/english.json";
 import grammar from "@/data/grammar.json";
 import speak from "@/data/speak.json";
+import vocabulary from "@/data/vocabulary.json";
 import { buildEnglishPack, type EnglishPack } from "@/lib/englishToday";
 import { onStorageChange } from "@/lib/persist";
 import { creditPackStep } from "@/lib/rewards";
 import { setEnglishPackProgress } from "@/lib/session";
-import type { EnglishData, GrammarData, SpeakData } from "@/lib/types";
+import type {
+  EnglishData,
+  GrammarData,
+  SpeakData,
+  VocabularyData,
+} from "@/lib/types";
 
 const grammarData = grammar as GrammarData;
 const speakData = speak as SpeakData;
 const enData = english as EnglishData;
+const vocabData = vocabulary as VocabularyData;
 
 export default function EnglishTodayPage() {
   const [pack, setPack] = useState<EnglishPack | null>(null);
 
   useEffect(() => {
     const sync = () =>
-      setPack(buildEnglishPack(grammarData, speakData, enData));
+      setPack(buildEnglishPack(grammarData, speakData, enData, vocabData));
     sync();
     return onStorageChange(sync);
   }, []);
@@ -61,6 +68,13 @@ export default function EnglishTodayPage() {
       href: "/english/review",
       meta: pack.reviewCount > 0 ? "約 3–5 分" : "可略過",
     },
+    {
+      n: 5,
+      title: "進階詞彙閃卡",
+      body: `今日約 ${pack.vocabCount} 詞：${pack.vocabLabel}。可只背未掌握；標掌握度後會進間隔複習。`,
+      href: pack.vocabHref,
+      meta: "約 5–8 分",
+    },
   ];
 
   return (
@@ -80,7 +94,7 @@ export default function EnglishTodayPage() {
         </h1>
         <p className="mt-2 max-w-2xl text-base text-[var(--muted)]">
           約 {pack.minutes}{" "}
-          分鐘。固定四步：文法短文 → 跟讀 → 句型 → 複習。依你的掌握度自動選課。
+          分鐘。五步：文法 → 跟讀 → 句型 → 複習 → 進階詞彙。依掌握度自動選課。
         </p>
       </div>
 

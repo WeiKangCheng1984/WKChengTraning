@@ -237,3 +237,44 @@ export type StylePhrasesData = {
   total: number;
   stages: StyleStage[];
 };
+
+export type VocabCollocation = {
+  en: string;
+  zh: string;
+};
+
+export type VocabWord = {
+  id: string;
+  num: number;
+  en: string;
+  ipa: string;
+  pos: string;
+  zh: string;
+  collocations: VocabCollocation[];
+  exampleEn: string;
+};
+
+export type VocabPart = {
+  num: number;
+  blurb: string;
+  words: VocabWord[];
+};
+
+export type VocabTable = {
+  id: number;
+  slug: string;
+  titleZh: string;
+  titleEn: string;
+  level: string;
+  wordCount: number;
+  parts: VocabPart[];
+};
+
+export type VocabularyData = {
+  source: string;
+  total: number;
+  audio: "tts";
+  level: string;
+  tables: VocabTable[];
+};
+

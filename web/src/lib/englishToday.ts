@@ -1,11 +1,13 @@
 import { getMastery } from "./mastery";
 import { getSession } from "./session";
 import { countScheduledDue, listScheduledDue } from "./srs";
+import { pickDailyVocab } from "./vocabToday";
 import type {
   EnglishData,
   GrammarData,
   GrammarLesson,
   SpeakData,
+  VocabularyData,
 } from "./types";
 
 export type EnglishPack = {
@@ -17,6 +19,9 @@ export type EnglishPack = {
   patternLabel: string;
   patternCount: number;
   reviewCount: number;
+  vocabHref: string;
+  vocabLabel: string;
+  vocabCount: number;
 };
 
 /** Pick today's English pack targets from local progress */
@@ -24,6 +29,7 @@ export function buildEnglishPack(
   grammar: GrammarData,
   speak: SpeakData,
   english: EnglishData,
+  vocabulary?: VocabularyData,
 ): EnglishPack {
   const session = getSession();
   const lessons = [...grammar.lessons].sort((a, b) => a.num - b.num);
@@ -82,8 +88,17 @@ export function buildEnglishPack(
     ),
   ];
 
+  const vocab = vocabulary
+    ? pickDailyVocab(vocabulary, 12)
+    : {
+        href: "/english/vocab",
+        label: "進階詞彙",
+        count: 12,
+        tableSlug: "",
+      };
+
   return {
-    minutes: 20,
+    minutes: 25,
     grammar: grammarLesson,
     speakSlug: continueSpeak.slug,
     speakTitle: continueSpeak.titleZh,
@@ -91,6 +106,9 @@ export function buildEnglishPack(
     patternLabel,
     patternCount: openCount,
     reviewCount: countScheduledDue(reviewKeys),
+    vocabHref: vocab.href,
+    vocabLabel: vocab.label,
+    vocabCount: vocab.count,
   };
 }
 

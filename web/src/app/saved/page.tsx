@@ -49,7 +49,9 @@ export default function SavedPage() {
                         ? "文法"
                         : it.kind === "re"
                           ? "房產"
-                          : "句型"}
+                          : it.kind === "vocab"
+                            ? "詞彙"
+                            : "句型"}
                 </div>
                 <div className="font-medium text-[var(--ink)]">{it.title}</div>
                 <div className="text-sm text-[var(--muted)]">{it.subtitle}</div>

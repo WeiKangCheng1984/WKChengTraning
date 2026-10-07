@@ -6,9 +6,10 @@ import { masteryKey, summarizeMastery } from "@/lib/mastery";
 type Props = {
   cfaIds: Array<string | number>;
   enIds: Array<string | number>;
+  vocabIds?: Array<string | number>;
 };
 
-export function ProgressSummary({ cfaIds, enIds }: Props) {
+export function ProgressSummary({ cfaIds, enIds, vocabIds = [] }: Props) {
   const [tick, setTick] = useState(0);
 
   useEffect(() => {
@@ -31,8 +32,16 @@ export function ProgressSummary({ cfaIds, enIds }: Props) {
     return summarizeMastery(enIds.map((id) => masteryKey("en", id)));
   }, [enIds, tick]);
 
+  const vocab = useMemo(() => {
+    void tick;
+    if (!vocabIds.length) return null;
+    return summarizeMastery(vocabIds.map((id) => masteryKey("vocab", id)));
+  }, [vocabIds, tick]);
+
   return (
-    <div className="grid gap-4 sm:grid-cols-2">
+    <div
+      className={`grid gap-3 ${vocab ? "sm:grid-cols-3" : "sm:grid-cols-2"}`}
+    >
       <StatCard
         title="CFA"
         mastered={cfa.mastered}
@@ -40,11 +49,19 @@ export function ProgressSummary({ cfaIds, enIds }: Props) {
         total={cfa.total}
       />
       <StatCard
-        title="English"
+        title="句型"
         mastered={en.mastered}
         learning={en.learning}
         total={en.total}
       />
+      {vocab ? (
+        <StatCard
+          title="進階詞彙"
+          mastered={vocab.mastered}
+          learning={vocab.learning}
+          total={vocab.total}
+        />
+      ) : null}
     </div>
   );
 }
