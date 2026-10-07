@@ -13,7 +13,16 @@ OUT = ROOT / "web" / "src" / "data" / "gre-vocabulary.json"
 FIELD_RE = re.compile(r"^- \*\*(.+?)\*\*：\s*(.*)$")
 LETTER_RE = re.compile(r"^## ([A-Z#])\s*$")
 WORD_RE = re.compile(r"^### (.+)\s*$")
-NA_MARKERS = {"（原表未提供）", "(原表未提供)", "（詞庫暫無）", "(詞庫暫無)"}
+NA_MARKERS = {
+    "（原表未提供）",
+    "(原表未提供)",
+    "（詞庫暫無）",
+    "(詞庫暫無)",
+    "（無特別形近組）",
+    "(無特別形近組)",
+    "（待補）",
+    "(待補)",
+}
 
 
 def slugify(text: str) -> str:
