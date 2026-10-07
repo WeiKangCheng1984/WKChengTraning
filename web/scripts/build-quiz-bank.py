@@ -12,8 +12,11 @@ GRE = ROOT / "web" / "src" / "data" / "gre-vocabulary.json"
 VOCAB = ROOT / "web" / "src" / "data" / "vocabulary.json"
 OUT = ROOT / "web" / "src" / "data" / "quiz-bank.json"
 
-QUESTIONS_PER = 22
+QUESTIONS_PER = 25
 RNG = random.Random(20261008)
+
+# lemma(lower) -> {en, zh, endef} for choice explanations
+LEMMA_INDEX: dict[str, dict] = {}
 
 PLAN: list[dict] = [
     # Series A — GRE path 01-26 (letter slices handled dynamically)
@@ -171,6 +174,42 @@ def pick_distractors(
     return out[:2]
 
 
+def lookup_gloss(token: str) -> tuple[str, str]:
+    """Return (zh, short_endef) for a choice token / lemma."""
+    key = token.lower()
+    hit = LEMMA_INDEX.get(key)
+    if not hit:
+        # try stripping common inflection to lemma in index
+        for form in inflected_forms(token):
+            hit = LEMMA_INDEX.get(form.lower())
+            if hit:
+                break
+        if not hit and key.endswith("ed") and key[:-2] in LEMMA_INDEX:
+            hit = LEMMA_INDEX[key[:-2]]
+        if not hit and key.endswith("ing") and key[:-3] in LEMMA_INDEX:
+            hit = LEMMA_INDEX[key[:-3]]
+        if not hit and key.endswith("s") and key[:-1] in LEMMA_INDEX:
+            hit = LEMMA_INDEX[key[:-1]]
+    if not hit:
+        return "（詞庫無詳註）", ""
+    zh = (hit.get("zh") or "").split("｜")[0].strip() or "—"
+    tip = (hit.get("endef") or "").split(";")[0].strip()
+    if len(tip) > 80:
+        tip = tip[:77] + "..."
+    return zh, tip
+
+
+def format_choice_note(token: str, is_answer: bool) -> str:
+    zh, tip = lookup_gloss(token)
+    tag = "正解" if is_answer else "干擾項"
+    base = f"【{tag}】{token}：{zh}"
+    if tip:
+        base += f"。{tip}"
+    if not is_answer:
+        base += "（此處不合題意）"
+    return base
+
+
 def make_question(
     qid: str,
     lemma: str,
@@ -194,9 +233,16 @@ def make_question(
     if len(tip) > 100:
         tip = tip[:97] + "..."
     zh_short = (zh or "").split("｜")[0].strip()
-    explain = f"正解是「{surface}」。中文：{zh_short or '—'}。"
-    if tip:
-        explain += f" 提示：{tip}"
+
+    choice_explains = [
+        format_choice_note(c, c.lower() == surface.lower()) for c in choices
+    ]
+    explain = (
+        f"正解是「{surface}」。中文：{zh_short or '—'}。"
+        + (f" 提示：{tip}" if tip else "")
+        + "\n"
+        + "\n".join(choice_explains)
+    )
 
     return {
         "id": qid,
@@ -204,8 +250,20 @@ def make_question(
         "answer": surface,
         "choices": choices,
         "explainZh": explain,
+        "choiceExplains": choice_explains,
         "wordEn": lemma,
         "wordZh": zh_short,
+    }
+
+
+def index_word(item: dict) -> None:
+    en = (item.get("en") or "").strip()
+    if not en:
+        return
+    LEMMA_INDEX[en.lower()] = {
+        "en": en,
+        "zh": item.get("zh") or "",
+        "endef": item.get("endef") or "",
     }
 
 
@@ -216,19 +274,19 @@ def load_gre_words() -> list[dict]:
         for w in letter["words"]:
             if not w.get("en"):
                 continue
-            words.append(
-                {
-                    "en": w["en"],
-                    "zh": w.get("zh") or "",
-                    "endef": w.get("endef") or "",
-                    "exampleEn": w.get("exampleEn") or "",
-                    "synonyms": w.get("synonyms") or "",
-                    "antonyms": w.get("antonyms") or "",
-                    "lookalikes": w.get("lookalikes") or "",
-                    "detailed": bool(w.get("detailed")),
-                    "letter": letter["letter"],
-                }
-            )
+            item = {
+                "en": w["en"],
+                "zh": w.get("zh") or "",
+                "endef": w.get("endef") or "",
+                "exampleEn": w.get("exampleEn") or "",
+                "synonyms": w.get("synonyms") or "",
+                "antonyms": w.get("antonyms") or "",
+                "lookalikes": w.get("lookalikes") or "",
+                "detailed": bool(w.get("detailed")),
+                "letter": letter["letter"],
+            }
+            words.append(item)
+            index_word(item)
     return words
 
 
@@ -240,18 +298,18 @@ def load_work_words() -> dict[str, list[dict]]:
         for p in t["parts"]:
             for w in p["words"]:
                 ex = w.get("exampleEn") or ""
-                items.append(
-                    {
-                        "en": w["en"],
-                        "zh": w.get("zh") or "",
-                        "endef": w.get("zh") or "",
-                        "exampleEn": ex,
-                        "synonyms": "",
-                        "antonyms": "",
-                        "lookalikes": "",
-                        "table": t["slug"],
-                    }
-                )
+                item = {
+                    "en": w["en"],
+                    "zh": w.get("zh") or "",
+                    "endef": w.get("zh") or "",
+                    "exampleEn": ex,
+                    "synonyms": "",
+                    "antonyms": "",
+                    "lookalikes": "",
+                    "table": t["slug"],
+                }
+                items.append(item)
+                index_word(item)
         out[t["slug"]] = items
     return out
 
@@ -270,25 +328,31 @@ def sample_questions(
     prefer_lookalike: bool = False,
     require_example: bool = True,
 ) -> list[dict]:
-    usable = [
-        w
-        for w in pool
-        if w.get("en")
-        and (not require_example or (w.get("exampleEn") and blank_stem(w["exampleEn"], w["en"])))
-    ]
+    # Precompute blankability once (faster than filtering with blank_stem repeatedly)
+    usable: list[dict] = []
+    fallback: list[dict] = []
+    for w in pool:
+        if not w.get("en"):
+            continue
+        fallback.append(w)
+        if not require_example:
+            usable.append(w)
+            continue
+        ex = w.get("exampleEn") or ""
+        if ex and blank_stem(ex, w["en"]):
+            usable.append(w)
     if len(usable) < count:
-        usable = [w for w in pool if w.get("en")]
+        usable = fallback
+
     RNG.shuffle(usable)
-    picked = usable[:count]
-    # keep stable-ish order by lemma after pick
-    picked.sort(key=lambda x: x["en"].lower())
-    questions = []
-    used = set()
-    for i, w in enumerate(picked, 1):
-        if w["en"].lower() in used:
+    questions: list[dict] = []
+    used: set[str] = set()
+    for w in usable:
+        key = w["en"].lower()
+        if key in used:
             continue
         q = make_question(
-            f"{quiz_id}-{i:02d}",
+            f"{quiz_id}-{len(questions)+1:02d}",
             w["en"],
             w.get("zh", ""),
             w.get("endef", ""),
@@ -298,30 +362,10 @@ def sample_questions(
         )
         if not q:
             continue
-        used.add(w["en"].lower())
+        used.add(key)
         questions.append(q)
         if len(questions) >= count:
             break
-
-    # top up if short
-    if len(questions) < count:
-        for w in usable:
-            if w["en"].lower() in used:
-                continue
-            q = make_question(
-                f"{quiz_id}-{len(questions)+1:02d}",
-                w["en"],
-                w.get("zh", ""),
-                w.get("endef", ""),
-                w.get("exampleEn", ""),
-                pool,
-                prefer_lookalike=prefer_lookalike,
-            )
-            if q:
-                used.add(w["en"].lower())
-                questions.append(q)
-            if len(questions) >= count:
-                break
     return questions[:count]
 
 
@@ -349,7 +393,7 @@ def build() -> dict:
             assert num_t == num
             pool = slices[meta["slice_i"]] if meta["slice_i"] < len(slices) else gre_with_ex
             source = "gre"
-            blurb = f"GRE 單字路徑第 {num} 篇：填空三選一，共 {QUESTIONS_PER} 題。"
+            blurb = f"GRE 單字路徑第 {num} 篇：填空三選一，共 {QUESTIONS_PER} 題；解析含三選項說明。"
             questions = sample_questions(pool, qid, QUESTIONS_PER)
         elif kind == "gre_detailed":
             slug = f"gre-mix-{num}"
@@ -457,12 +501,13 @@ def main() -> None:
     # validate
     assert data["totalQuizzes"] == 40, data["totalQuizzes"]
     for qz in data["quizzes"]:
-        assert 20 <= qz["questionCount"] <= 25, (qz["slug"], qz["questionCount"])
+        assert qz["questionCount"] == QUESTIONS_PER, (qz["slug"], qz["questionCount"])
         for q in qz["questions"]:
             assert "______" in q["stem"], q["id"]
             assert len(q["choices"]) == 3, q["id"]
             assert q["answer"] in q["choices"], q["id"]
             assert q["explainZh"], q["id"]
+            assert len(q.get("choiceExplains") or []) == 3, q["id"]
 
     OUT.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"Wrote {OUT} ({data['totalQuizzes']} quizzes)")

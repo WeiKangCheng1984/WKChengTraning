@@ -145,7 +145,7 @@ export default function EnglishIndexPage() {
             測驗庫
           </h2>
           <p className="mt-1 text-sm text-[var(--muted)]">
-            40 篇 · 單字填空三選一 · 交卷看解析（GRE／職場詞彙）
+            40 篇 × 25 題 · 單獨／測驗雙模式 · 三選項解析
           </p>
         </Link>
       </div>

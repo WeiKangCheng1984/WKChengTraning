@@ -321,6 +321,8 @@ export type QuizQuestion = {
   answer: string;
   choices: string[];
   explainZh: string;
+  /** Per-choice notes (correct + two distractors) */
+  choiceExplains?: string[];
   wordEn: string;
   wordZh: string;
 };

@@ -54,7 +54,7 @@ const links = [
   {
     href: "/quiz",
     title: "測驗庫",
-    body: "40 篇單字填空三選一 · 交卷看解析 · 可擴充。",
+    body: "40 篇×25 題 · 單獨／測驗雙模式 · 三選項解析。",
   },
   {
     href: "/english/gre",

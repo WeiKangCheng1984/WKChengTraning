@@ -60,8 +60,8 @@ export default function QuizIndexPage() {
           測驗庫
         </h1>
         <p className="mt-2 max-w-2xl text-sm leading-relaxed text-[var(--muted)]">
-          共 {data.totalQuizzes} 篇 · 每篇約 {data.defaultQuestionCount}{" "}
-          題 · 單字填空三選一 · 交卷後看解析。已完成 {done} /{" "}
+          共 {data.totalQuizzes} 篇 · 每篇 {data.defaultQuestionCount}{" "}
+          題 · 單字填空三選一 · 可選單獨解析或測驗解析模式。已完成 {done} /{" "}
           {data.totalQuizzes}。
         </p>
       </div>
