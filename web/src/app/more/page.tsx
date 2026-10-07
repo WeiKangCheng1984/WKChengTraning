@@ -52,6 +52,16 @@ const links = [
     body: "1500 詞 · B2–C1 職場精準用詞（5 表）＋閃卡。",
   },
   {
+    href: "/quiz",
+    title: "測驗庫",
+    body: "40 篇單字填空三選一 · 交卷看解析 · 可擴充。",
+  },
+  {
+    href: "/english/gre",
+    title: "GRE 單字",
+    body: "GRE 詞庫 · 例句 TTS · 字母瀏覽。",
+  },
+  {
     href: "/english/review",
     title: "英語到期複習",
     body: "文法／跟讀／句型間隔複習。",

@@ -184,6 +184,7 @@ export default function HomePage() {
             meta={`${vocabData.total}`}
           />
           <QuickLink href="/english/gre" label="GRE" meta="GRE" />
+          <QuickLink href="/quiz" label="測驗" meta="40" />
           <QuickLink href="/plan" label="計畫" meta={`${progress.done}/20`} />
           <QuickLink href="/more" label="更多" meta="…" />
         </div>

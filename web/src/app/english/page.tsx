@@ -137,6 +137,17 @@ export default function EnglishIndexPage() {
             {greData.total} 詞 · 近義／反義／例句 · 依字母瀏覽
           </p>
         </Link>
+        <Link href="/quiz" className="card-tap block sm:col-span-2">
+          <p className="text-xs uppercase tracking-[0.18em] text-[var(--accent)]">
+            Quiz Bank
+          </p>
+          <h2 className="mt-2 font-[family-name:var(--font-display)] text-xl text-[var(--ink)]">
+            測驗庫
+          </h2>
+          <p className="mt-1 text-sm text-[var(--muted)]">
+            40 篇 · 單字填空三選一 · 交卷看解析（GRE／職場詞彙）
+          </p>
+        </Link>
       </div>
 
       <section className="space-y-3">

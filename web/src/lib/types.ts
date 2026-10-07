@@ -315,3 +315,35 @@ export type GreVocabularyData = {
   letters: GreLetter[];
 };
 
+export type QuizQuestion = {
+  id: string;
+  stem: string;
+  answer: string;
+  choices: string[];
+  explainZh: string;
+  wordEn: string;
+  wordZh: string;
+};
+
+export type QuizItem = {
+  id: string;
+  num: number;
+  slug: string;
+  series: string;
+  titleZh: string;
+  titleEn: string;
+  blurb: string;
+  source: string;
+  questionCount: number;
+  questions: QuizQuestion[];
+};
+
+export type QuizBankData = {
+  version: number;
+  sourcePlan: string;
+  totalQuizzes: number;
+  defaultQuestionCount: number;
+  itemType: string;
+  quizzes: QuizItem[];
+};
+
