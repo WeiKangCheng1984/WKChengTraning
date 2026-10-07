@@ -21,9 +21,10 @@ export default function GreVocabIndexPage() {
           GRE 單字
         </h1>
         <p className="mt-2 max-w-2xl text-sm leading-relaxed text-[var(--muted)]">
-          共 {data.total} 詞（詳情較完整約 {data.detailed}；已標反義約{" "}
+          共 {data.total} 詞；可語音例句{" "}
+          {data.withSpeakableExamples ?? data.total} 條；反義約{" "}
           {data.withAntonyms}
-          ）。含中文、英文釋義、用法詞組、近義／反義、派生與形近詞。
+          。每詞含英文例句 TTS、釋義、近義／反義與用法提示。
         </p>
       </div>
 

@@ -28,7 +28,8 @@ function DrillInner() {
           backTitle: w.zh || w.endef || w.en,
           backBody: [
             w.endef,
-            w.example ? `用法：${w.example}` : "",
+            w.exampleEn ? `例句：${w.example || w.exampleEn}` : "",
+            w.exampleUsage ? `用法：${w.exampleUsage}` : "",
             w.synonyms ? `近義：${w.synonyms}` : "",
             w.antonyms ? `反義：${w.antonyms}` : "",
             w.derivatives ? `派生：${w.derivatives}` : "",
@@ -36,6 +37,7 @@ function DrillInner() {
             .filter(Boolean)
             .join("\n\n"),
           speakText: w.en,
+          speakExample: w.exampleEn || undefined,
         })),
     );
     const label = letterSlug

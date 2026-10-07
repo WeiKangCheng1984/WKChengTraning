@@ -283,7 +283,12 @@ export type GreWord = {
   en: string;
   zh: string;
   endef: string;
+  /** Pure English sentence for TTS */
+  exampleEn: string;
+  /** Display example (often EN + ZH) */
   example: string;
+  /** Usage notes / collocations / teaching card */
+  exampleUsage?: string;
   synonyms: string;
   antonyms: string;
   derivatives: string;
@@ -304,6 +309,7 @@ export type GreVocabularyData = {
   total: number;
   detailed: number;
   withAntonyms: number;
+  withSpeakableExamples?: number;
   audio: "tts";
   level: string;
   letters: GreLetter[];

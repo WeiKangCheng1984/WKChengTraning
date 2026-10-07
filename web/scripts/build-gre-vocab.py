@@ -38,6 +38,11 @@ def clean_field(v: str) -> str:
     return t
 
 
+def english_only(text: str) -> str:
+    en = re.split(r"[\u4e00-\u9fff]", text or "", maxsplit=1)[0]
+    return en.strip().strip(" （()）")
+
+
 def parse() -> dict:
     lines = SRC.read_text(encoding="utf-8").splitlines()
     letters: dict[str, list[dict]] = {}
@@ -50,7 +55,36 @@ def parse() -> dict:
         if not pending or not current_letter:
             pending = None
             return
-        letters.setdefault(current_letter, []).append(pending)
+        # Fallback: derive TTS sentence from usage if 例句 missing
+        if not pending.get("exampleEn"):
+            usage = pending.get("exampleUsage") or ""
+            if usage and not usage.startswith("核心義"):
+                en = english_only(usage.split("｜")[0])
+                if len(en.split()) >= 3:
+                    pending["exampleEn"] = en
+                    if not pending.get("example"):
+                        pending["example"] = usage
+        word = {
+            "id": pending["id"],
+            "en": pending["en"],
+            "zh": pending["zh"],
+            "endef": pending["endef"],
+            "exampleEn": pending.get("exampleEn", ""),
+            "example": pending.get("example", ""),
+            "exampleUsage": pending.get("exampleUsage", ""),
+            "synonyms": pending["synonyms"],
+            "antonyms": pending["antonyms"],
+            "derivatives": pending["derivatives"],
+            "lookalikes": pending["lookalikes"],
+            "sources": pending["sources"],
+            "detailed": bool(
+                pending["endef"]
+                or pending.get("exampleEn")
+                or pending.get("exampleUsage")
+                or pending["synonyms"]
+            ),
+        }
+        letters.setdefault(current_letter, []).append(word)
         pending = None
 
     for raw in lines:
@@ -77,13 +111,14 @@ def parse() -> dict:
                 "en": en,
                 "zh": "",
                 "endef": "",
+                "exampleEn": "",
                 "example": "",
+                "exampleUsage": "",
                 "synonyms": "",
                 "antonyms": "",
                 "derivatives": "",
                 "lookalikes": "",
                 "sources": "",
-                "detailed": False,
             }
             continue
 
@@ -98,8 +133,11 @@ def parse() -> dict:
             pending["zh"] = value
         elif label == "英文釋義":
             pending["endef"] = value
-        elif label.startswith("用法"):
+        elif label == "例句":
             pending["example"] = value
+            pending["exampleEn"] = english_only(value)
+        elif label.startswith("用法"):
+            pending["exampleUsage"] = value
         elif label.startswith("相似詞"):
             pending["synonyms"] = value
         elif label == "相反詞":
@@ -111,21 +149,19 @@ def parse() -> dict:
         elif label == "來源":
             pending["sources"] = value
 
-        pending["detailed"] = bool(
-            pending["endef"] or pending["example"] or pending["synonyms"]
-        )
-
     flush()
 
     out_letters = []
     total = 0
     detailed = 0
     with_ant = 0
+    with_speak = 0
     for letter in sorted(letters.keys(), key=lambda x: (x == "#", x)):
         words = letters[letter]
         total += len(words)
         detailed += sum(1 for w in words if w["detailed"])
         with_ant += sum(1 for w in words if w["antonyms"])
+        with_speak += sum(1 for w in words if w["exampleEn"])
         out_letters.append(
             {
                 "letter": letter,
@@ -140,6 +176,7 @@ def parse() -> dict:
         "total": total,
         "detailed": detailed,
         "withAntonyms": with_ant,
+        "withSpeakableExamples": with_speak,
         "audio": "tts",
         "level": "GRE",
         "letters": out_letters,
@@ -155,7 +192,7 @@ def main() -> None:
     )
     print(
         f"Wrote {OUT} ({data['total']} words, {len(data['letters'])} letters, "
-        f"detailed={data['detailed']}, antonyms={data['withAntonyms']})"
+        f"speakable={data['withSpeakableExamples']}, antonyms={data['withAntonyms']})"
     )
 
 

@@ -14,6 +14,8 @@ export type FlashItem = {
   backTitle: string;
   backBody: string;
   speakText: string;
+  /** Optional second TTS target (e.g. example sentence) */
+  speakExample?: string;
 };
 
 type Props = {
@@ -115,6 +117,13 @@ export function FlashcardDeck({ items, title = "背誦模式" }: Props) {
           <div className="mt-5 space-y-3">
             <div className="flex flex-wrap items-center gap-2">
               <SpeakButton text={current.speakText} label={current.front} />
+              {current.speakExample ? (
+                <SpeakButton
+                  text={current.speakExample}
+                  label="例句"
+                  size="sm"
+                />
+              ) : null}
               <MasteryControls scope={current.scope} id={current.id} />
             </div>
             <DeckNav

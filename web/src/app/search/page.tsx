@@ -224,6 +224,7 @@ export default function SearchPage() {
           w.en,
           w.zh,
           w.endef,
+          w.exampleEn,
           w.example,
           w.synonyms,
           w.antonyms,
@@ -237,7 +238,7 @@ export default function SearchPage() {
           title: w.en,
           subtitle: `GRE · ${l.letter} · ${w.zh || w.endef}`,
           href: `/english/gre/${l.slug}`,
-          speak: w.en,
+          speak: w.exampleEn || w.en,
         });
         if (out.length >= 150) return out;
       }

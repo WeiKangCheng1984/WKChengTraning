@@ -46,7 +46,9 @@ export function GreLetterClient({ letter }: Props) {
         w.en,
         w.zh,
         w.endef,
+        w.exampleEn,
         w.example,
+        w.exampleUsage,
         w.synonyms,
         w.antonyms,
         w.derivatives,
@@ -74,7 +76,7 @@ export function GreLetterClient({ letter }: Props) {
           {letter.letter}
         </h1>
         <p className="mt-2 text-sm text-[var(--muted)]">
-          {letter.wordCount} 詞 · TTS · 掌握度
+          {letter.wordCount} 詞 · 單字／例句 TTS · 掌握度
         </p>
         <Link
           href={`/english/gre/drill?letter=${letter.slug}`}
@@ -136,11 +138,13 @@ export function GreLetterClient({ letter }: Props) {
                   <p className="text-sm text-[var(--ink)]">{w.zh}</p>
                 ) : null}
                 <Row label="英文釋義" value={w.endef} />
-                <Row label="用法／詞組" value={w.example} />
                 <Row label="相似詞" value={w.synonyms} />
                 <Row label="相反詞" value={w.antonyms} />
                 <Row label="派生詞" value={w.derivatives} />
                 <Row label="形近詞" value={w.lookalikes} />
+                {w.exampleUsage ? (
+                  <Row label="用法／搭配" value={w.exampleUsage} />
+                ) : null}
               </div>
               <FavoriteButton
                 id={`gre:${w.id}`}
@@ -150,6 +154,21 @@ export function GreLetterClient({ letter }: Props) {
                 href={`/english/gre/${letter.slug}`}
               />
             </div>
+
+            {w.exampleEn ? (
+              <div className="mt-3 flex items-start gap-2 rounded-sm bg-[var(--paper)] p-3">
+                <SpeakButton text={w.exampleEn} label="例句" size="sm" />
+                <div className="min-w-0">
+                  <p className="text-[10px] uppercase tracking-[0.14em] text-[var(--accent)]">
+                    Example · TTS
+                  </p>
+                  <p className="mt-1 text-sm leading-relaxed text-[var(--ink)]">
+                    {w.example || w.exampleEn}
+                  </p>
+                </div>
+              </div>
+            ) : null}
+
             <div
               className="mt-3"
               onClick={() => setTick((t) => t + 1)}
