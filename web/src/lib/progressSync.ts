@@ -3,11 +3,25 @@ import { getBrowserClient } from "@/lib/supabase/client";
 import { PROGRESS_KEYS } from "@/lib/progressKeys";
 import { STORAGE_EVENT } from "@/lib/persist";
 
-function readLocal(key: string): unknown | null {
+type CloudRow = {
+  key: string;
+  payload: unknown;
+  updated_at: string;
+};
+
+function readLocalRaw(key: string): string | null {
   if (typeof window === "undefined") return null;
   try {
-    const raw = localStorage.getItem(key);
-    if (!raw) return null;
+    return localStorage.getItem(key);
+  } catch {
+    return null;
+  }
+}
+
+function readLocal(key: string): unknown | null {
+  const raw = readLocalRaw(key);
+  if (!raw) return null;
+  try {
     return JSON.parse(raw) as unknown;
   } catch {
     return null;
@@ -18,7 +32,26 @@ function writeLocal(key: string, value: unknown) {
   localStorage.setItem(key, JSON.stringify(value));
 }
 
-/** Pull cloud → merge into local → push full local snapshot. */
+/** Local meta: when this key was last written (ISO). */
+function metaKey(key: string) {
+  return `${key}__updated_at`;
+}
+
+function localUpdatedAt(key: string): string | null {
+  return localStorage.getItem(metaKey(key));
+}
+
+function touchLocalMeta(key: string, iso?: string) {
+  localStorage.setItem(metaKey(key), iso || new Date().toISOString());
+}
+
+function asTime(iso: string | null | undefined): number {
+  if (!iso) return 0;
+  const t = Date.parse(iso);
+  return Number.isFinite(t) ? t : 0;
+}
+
+/** Pull/push with last-write-wins per key. */
 export async function syncProgressBidirectional(): Promise<{
   ok: boolean;
   error?: string;
@@ -49,35 +82,60 @@ export async function syncProgressBidirectional(): Promise<{
       return { ok: false, error: error.message };
     }
 
-    const cloud = new Map(
-      (rows || []).map((r) => [r.key as string, r.payload as unknown]),
+    const cloud = new Map<string, CloudRow>(
+      (rows || []).map((r) => [
+        r.key as string,
+        {
+          key: r.key as string,
+          payload: r.payload,
+          updated_at: (r.updated_at as string) || "",
+        },
+      ]),
     );
 
-    // Cloud fills empty local keys; local keeps existing when both present
-    for (const key of PROGRESS_KEYS) {
-      const local = readLocal(key);
-      const remote = cloud.get(key);
-      if (local == null && remote != null) {
-        writeLocal(key, remote);
-      }
-    }
-
-    // Upload all local keys that have data
     const upserts: Array<{
       user_id: string;
       key: string;
       payload: unknown;
       updated_at: string;
     }> = [];
+
     for (const key of PROGRESS_KEYS) {
-      const payload = readLocal(key);
-      if (payload == null) continue;
-      upserts.push({
-        user_id: user.id,
-        key,
-        payload,
-        updated_at: new Date().toISOString(),
-      });
+      const local = readLocal(key);
+      const remote = cloud.get(key);
+      const localAt = asTime(localUpdatedAt(key));
+      const remoteAt = asTime(remote?.updated_at);
+
+      if (local == null && remote != null) {
+        writeLocal(key, remote.payload);
+        touchLocalMeta(key, remote.updated_at);
+        continue;
+      }
+      if (local != null && remote == null) {
+        const updated_at = localUpdatedAt(key) || new Date().toISOString();
+        upserts.push({
+          user_id: user.id,
+          key,
+          payload: local,
+          updated_at,
+        });
+        continue;
+      }
+      if (local != null && remote != null) {
+        if (remoteAt > localAt) {
+          writeLocal(key, remote.payload);
+          touchLocalMeta(key, remote.updated_at);
+        } else {
+          const updated_at =
+            localUpdatedAt(key) || new Date().toISOString();
+          upserts.push({
+            user_id: user.id,
+            key,
+            payload: local,
+            updated_at,
+          });
+        }
+      }
     }
 
     if (upserts.length) {
@@ -100,11 +158,13 @@ export async function syncProgressBidirectional(): Promise<{
   }
 }
 
-/** Push a single key after local write (debounced by caller). */
 export async function pushProgressKey(key: string): Promise<void> {
   if (!PROGRESS_KEYS.includes(key as (typeof PROGRESS_KEYS)[number])) return;
   const payload = readLocal(key);
   if (payload == null) return;
+
+  const updated_at = new Date().toISOString();
+  touchLocalMeta(key, updated_at);
 
   const supabase = await getBrowserClient();
   if (!supabase) return;
@@ -118,8 +178,13 @@ export async function pushProgressKey(key: string): Promise<void> {
       user_id: user.id,
       key,
       payload,
-      updated_at: new Date().toISOString(),
+      updated_at,
     },
     { onConflict: "user_id,key" },
   );
+}
+
+/** Call after local writes so LWW has a timestamp. */
+export function markProgressTouched(key: string) {
+  touchLocalMeta(key);
 }

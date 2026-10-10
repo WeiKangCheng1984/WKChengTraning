@@ -1,138 +1,148 @@
 import Link from "next/link";
+import type { ComponentProps } from "react";
+import { CuteIcon } from "@/components/CuteIcon";
 
-const links = [
+const links: Array<{
+  href: string;
+  title: string;
+  body: string;
+  icon: ComponentProps<typeof CuteIcon>["name"];
+}> = [
   {
-    href: "/plan",
-    title: "計畫",
-    body: "20 天：每日 CFA＋English。",
+    href: "/english/today",
+    title: "今日英語微課",
+    body: "30 天路徑 · 完成主單元打卡 · 可加練。",
+    icon: "rocket",
+  },
+  {
+    href: "/english/today/history",
+    title: "練習紀錄",
+    body: "回看已完成單元與每題解析。",
+    icon: "star",
+  },
+  {
+    href: "/rewards",
+    title: "打卡與徽章",
+    body: "連續完成主單元、加練徽章。",
+    icon: "fire",
+  },
+  {
+    href: "/login",
+    title: "登入／同步",
+    body: "雲端進度（依時間合併）。",
+    icon: "cloud",
   },
   {
     href: "/search",
     title: "搜尋",
     body: "跨庫搜尋詞條、句型、跟讀。",
+    icon: "spark",
   },
   {
     href: "/saved",
     title: "收藏",
     body: "本機收藏。",
+    icon: "heart",
+  },
+  {
+    href: "/vault",
+    title: "CFA 詞庫",
+    body: "科目瀏覽與練習（資料保留）。",
+    icon: "vault",
   },
   {
     href: "/vault/drill",
     title: "CFA 閃卡",
     body: "快速翻卡複習。",
-  },
-  {
-    href: "/rewards",
-    title: "每日一小時",
-    body: "練習計時、連續達標、徽章。",
-  },
-  {
-    href: "/english/today",
-    title: "今日英語微課",
-    body: "30 天路徑，每單元 5–10 分；可加練。",
+    icon: "vault",
   },
   {
     href: "/english/grammar",
     title: "文法與慣用語",
-    body: "36 課 · 生活／房產 · TTS 跟讀。",
+    body: "36 課 · TTS 跟讀。",
+    icon: "book",
   },
   {
     href: "/english/conversation",
     title: "四大類會話公式",
-    body: "144 公式：提問、觀點、講故事、傾聽共情。",
+    body: "提問、觀點、講故事、傾聽。",
+    icon: "mic",
   },
   {
     href: "/english/style",
     title: "美式風格句型",
-    body: "發語詞、連接器、慣用句、壓力緩衝。",
+    body: "發語詞、連接器、壓力緩衝。",
+    icon: "spark",
   },
   {
     href: "/english/vocab",
     title: "進階詞彙",
-    body: "1500 詞 · B2–C1 職場精準用詞（5 表）＋閃卡。",
-  },
-  {
-    href: "/quiz",
-    title: "測驗庫",
-    body: "40 篇×25 題 · 單獨／測驗雙模式 · 三選項解析。",
-  },
-  {
-    href: "/oral",
-    title: "口語練習",
-    body: "100 單元×10 句 · 跟讀語音評分（Chrome／Edge）。",
-  },
-  {
-    href: "/login",
-    title: "登入／同步",
-    body: "Supabase 登入 · 雲端學習進度。",
+    body: "1500 詞 · 職場精準用詞。",
+    icon: "pencil",
   },
   {
     href: "/english/gre",
     title: "GRE 單字",
-    body: "GRE 詞庫 · 例句 TTS · 字母瀏覽。",
+    body: "GRE 詞庫 · 例句 TTS。",
+    icon: "book",
+  },
+  {
+    href: "/quiz",
+    title: "測驗庫",
+    body: "挖空三選一 · 雙模式。",
+    icon: "pencil",
+  },
+  {
+    href: "/oral",
+    title: "口語練習",
+    body: "跟讀語音評分。",
+    icon: "mic",
+  },
+  {
+    href: "/speak",
+    title: "跟讀短文",
+    body: "逐句跟讀練習。",
+    icon: "ear",
   },
   {
     href: "/english/review",
     title: "英語到期複習",
-    body: "文法／跟讀／句型間隔複習。",
-  },
-  {
-    href: "/english/drill",
-    title: "English 組句",
-    body: "跨分類組句練習。",
+    body: "間隔複習佇列。",
+    icon: "check",
   },
   {
     href: "/real-estate",
     title: "Real Estate",
-    body: "房地產術語＋高頻句子（TTS）。",
+    body: "房地產術語＋句子。",
+    icon: "star",
   },
-];
-
-const later = [
-  { title: "Lifestyle", body: "生活跟讀系列（目前未開；僅站名預留）。" },
 ];
 
 export default function MorePage() {
   return (
     <div className="space-y-6">
       <div>
-        <h1 className="font-[family-name:var(--font-display)] text-3xl text-[var(--ink)]">
+        <h1 className="flex items-center gap-2 font-[family-name:var(--font-display)] text-3xl text-[var(--ink)]">
+          <CuteIcon name="more" className="text-2xl" />
           更多
         </h1>
         <p className="mt-2 text-sm text-[var(--muted)]">
-          CFA · English · Real Estate · Lifestyle · 頂欄可切換港灣／信號配色
+          主任務是今日微課打卡；這裡是工具與題庫。
         </p>
       </div>
-
-      <div className="grid gap-3 sm:grid-cols-2">
+      <ul className="grid gap-2 sm:grid-cols-2">
         {links.map((l) => (
-          <Link key={l.href} href={l.href} className="card-tap block">
-            <h2 className="font-[family-name:var(--font-display)] text-xl text-[var(--ink)]">
-              {l.title}
-            </h2>
-            <p className="mt-2 text-sm leading-relaxed text-[var(--muted)]">
-              {l.body}
-            </p>
-          </Link>
-        ))}
-      </div>
-
-      <section className="space-y-3">
-        <h2 className="text-sm font-medium text-[var(--muted)]">之後</h2>
-        <div className="grid gap-3 sm:grid-cols-2">
-          {later.map((l) => (
-            <div
-              key={l.title}
-              className="rounded-sm border border-dashed border-[var(--line)] bg-[var(--surface)]/60 px-5 py-5"
-            >
-              <h3 className="font-[family-name:var(--font-display)] text-lg text-[var(--ink)]">
+          <li key={l.href}>
+            <Link href={l.href} className="card-tap block">
+              <p className="flex items-center gap-1.5 text-sm font-medium text-[var(--ink)]">
+                <CuteIcon name={l.icon} className="text-base" />
                 {l.title}
-              </h3>
-              <p className="mt-2 text-sm text-[var(--muted)]">{l.body}</p>
-            </div>
-          ))}
-        </div>
-      </section>
+              </p>
+              <p className="mt-1 text-xs text-[var(--muted)]">{l.body}</p>
+            </Link>
+          </li>
+        ))}
+      </ul>
     </div>
   );
 }

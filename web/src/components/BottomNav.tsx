@@ -2,70 +2,47 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
+import { CuteIcon } from "@/components/CuteIcon";
 
 const items = [
   {
     href: "/",
     label: "今日",
     match: (p: string) => p === "/",
-    icon: (
-      <path
-        d="M4 10.5 12 4l8 6.5V20a1 1 0 0 1-1 1h-5v-6H10v6H5a1 1 0 0 1-1-1v-9.5z"
-        fill="currentColor"
-      />
-    ),
+    icon: "sun" as const,
   },
   {
-    href: "/speak",
-    label: "跟讀",
-    match: (p: string) => p.startsWith("/speak"),
-    icon: (
-      <path
-        d="M12 3a3 3 0 0 0-3 3v6a3 3 0 1 0 6 0V6a3 3 0 0 0-3-3zm-7 9a1 1 0 0 1 2 0 5 5 0 0 0 10 0 1 1 0 1 1 2 0 7 7 0 0 1-6 6.93V21h3a1 1 0 1 1 0 2H9a1 1 0 1 1 0-2h3v-2.07A7 7 0 0 1 5 12z"
-        fill="currentColor"
-      />
-    ),
+    href: "/english/today",
+    label: "微課",
+    match: (p: string) => p.startsWith("/english/today"),
+    icon: "rocket" as const,
   },
   {
     href: "/vault",
     label: "CFA",
     match: (p: string) => p.startsWith("/vault"),
-    icon: (
-      <path
-        d="M6 4h12a1 1 0 0 1 1 1v14l-7-3-7 3V5a1 1 0 0 1 1-1zm2 4v2h8V8H8zm0 4v2h5v-2H8z"
-        fill="currentColor"
-      />
-    ),
+    icon: "vault" as const,
   },
   {
     href: "/english",
     label: "英語",
-    match: (p: string) => p.startsWith("/english"),
-    icon: (
-      <path
-        d="M4 5h16v2H4V5zm0 4h10v2H4V9zm0 4h16v2H4v-2zm0 4h12v2H4v-2z"
-        fill="currentColor"
-      />
-    ),
+    match: (p: string) =>
+      p.startsWith("/english") && !p.startsWith("/english/today"),
+    icon: "book" as const,
   },
   {
     href: "/more",
     label: "更多",
     match: (p: string) =>
       p.startsWith("/more") ||
-      p.startsWith("/plan") ||
       p.startsWith("/search") ||
       p.startsWith("/saved") ||
       p.startsWith("/real-estate") ||
       p.startsWith("/rewards") ||
       p.startsWith("/quiz") ||
-      p.startsWith("/oral"),
-    icon: (
-      <path
-        d="M6 12a2 2 0 1 1-4 0 2 2 0 0 1 4 0zm8 0a2 2 0 1 1-4 0 2 2 0 0 1 4 0zm8 0a2 2 0 1 1-4 0 2 2 0 0 1 4 0z"
-        fill="currentColor"
-      />
-    ),
+      p.startsWith("/oral") ||
+      p.startsWith("/speak"),
+    icon: "more" as const,
   },
 ];
 
@@ -85,21 +62,16 @@ export function BottomNav() {
             <Link
               key={item.href}
               href={item.href}
-              className={`flex min-h-12 min-w-[3rem] flex-1 flex-col items-center justify-center gap-0.5 rounded-sm px-1 py-1.5 text-[10px] font-medium transition sm:min-h-[3.25rem] sm:text-[11px] ${
+              className={`flex min-h-12 min-w-[3rem] flex-1 flex-col items-center justify-center gap-0.5 rounded-lg px-1 py-1.5 text-[10px] font-medium transition sm:min-h-[3.25rem] sm:text-[11px] ${
                 active
                   ? "text-[var(--ink)]"
                   : "text-[var(--muted)] hover:text-[var(--ink)]"
               }`}
             >
-              <svg
-                viewBox="0 0 24 24"
-                className={`h-5 w-5 ${
-                  active ? "text-[var(--accent)]" : "text-current"
-                }`}
-                aria-hidden
-              >
-                {item.icon}
-              </svg>
+              <CuteIcon
+                name={item.icon}
+                className={`text-lg ${active ? "" : "opacity-80"}`}
+              />
               <span>{item.label}</span>
               {active ? (
                 <span className="h-0.5 w-0.5 rounded-full bg-[var(--accent)]" />

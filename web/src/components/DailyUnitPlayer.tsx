@@ -1,6 +1,8 @@
 "use client";
 
+import Link from "next/link";
 import { useMemo, useState } from "react";
+import { CuteIcon } from "@/components/CuteIcon";
 import { SpeakButton } from "@/components/SpeakButton";
 import type {
   DailyStep,
@@ -513,11 +515,19 @@ export function DailyUnitReview({
       </div>
 
       <div className="flex flex-wrap gap-2 pb-2">
+        <Link
+          href="/english/review"
+          className="inline-flex min-h-11 items-center gap-2 rounded-lg bg-[var(--sky)] px-5 text-sm text-white hover:brightness-105"
+        >
+          <CuteIcon name="pencil" />
+          去英語複習
+        </Link>
         <button
           type="button"
           onClick={onAgain}
-          className="min-h-11 rounded-lg bg-[var(--accent)] px-5 text-sm text-white hover:brightness-105"
+          className="inline-flex min-h-11 items-center gap-2 rounded-lg bg-[var(--accent)] px-5 text-sm text-white hover:brightness-105"
         >
+          <CuteIcon name="spark" />
           {againLabel}
         </button>
         <button

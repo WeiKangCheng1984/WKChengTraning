@@ -1,10 +1,10 @@
 "use client";
 
 import Link from "next/link";
-import { useEffect, useMemo, useState } from "react";
-import { DailyGoalCard } from "@/components/DailyGoalCard";
+import { useEffect, useMemo, useState, type ComponentProps } from "react";
+import { CuteIcon } from "@/components/CuteIcon";
 import { ProgressSummary } from "@/components/ProgressSummary";
-import { PLAN_DAYS, planProgress } from "@/lib/plan";
+import { StreakCard } from "@/components/StreakCard";
 import { todayUnitSummary } from "@/lib/dailyUnitProgress";
 import { englishReviewKeys } from "@/lib/englishToday";
 import { onStorageChange } from "@/lib/persist";
@@ -14,34 +14,24 @@ import cfa from "@/data/cfa.json";
 import english from "@/data/english.json";
 import grammar from "@/data/grammar.json";
 import speak from "@/data/speak.json";
-import vocabulary from "@/data/vocabulary.json";
-import { listVocabIds } from "@/lib/vocabToday";
 import type {
   CfaData,
   EnglishData,
   GrammarData,
   SpeakData,
-  VocabularyData,
 } from "@/lib/types";
 
 const cfaData = cfa as CfaData;
 const enData = english as EnglishData;
 const grammarData = grammar as GrammarData;
 const speakData = speak as SpeakData;
-const vocabData = vocabulary as VocabularyData;
 
 export default function HomePage() {
   const cfaIds = useMemo(
     () => cfaData.subjects.flatMap((s) => s.terms.map((t) => t.id)),
     [],
   );
-  const enIds = useMemo(
-    () => enData.categories.flatMap((c) => c.items.map((i) => i.id)),
-    [],
-  );
-  const vocabIds = useMemo(() => listVocabIds(vocabData), []);
 
-  const [progress, setProgress] = useState({ done: 0, total: 20, pct: 0 });
   const [dueCfa, setDueCfa] = useState(0);
   const [dueEn, setDueEn] = useState(0);
   const [daily, setDaily] = useState<ReturnType<typeof todayUnitSummary> | null>(
@@ -54,7 +44,6 @@ export default function HomePage() {
 
   useEffect(() => {
     const sync = () => {
-      setProgress(planProgress());
       setDueCfa(
         countScheduledDue(cfaIds.map((id) => ({ scope: "cfa" as const, id }))),
       );
@@ -67,10 +56,8 @@ export default function HomePage() {
     };
     sync();
     return onStorageChange(sync);
-  }, [cfaIds, enIds, vocabIds]);
+  }, [cfaIds]);
 
-  const nextDay =
-    PLAN_DAYS.find((d) => d.day === progress.done + 1) ?? PLAN_DAYS[0];
   const continueSpeak =
     speakData.articles.find((a) => a.slug === lastSpeak.slug) ??
     speakData.articles[0];
@@ -83,25 +70,27 @@ export default function HomePage() {
     <div className="space-y-5">
       <section className="flex items-end justify-between gap-3">
         <div>
-          <p className="text-xs text-[var(--muted)]">{greeting}</p>
+          <p className="flex items-center gap-1 text-xs text-[var(--muted)]">
+            <CuteIcon name="sun" className="text-sm" />
+            {greeting}
+          </p>
           <h1 className="mt-0.5 font-[family-name:var(--font-display)] text-2xl text-[var(--ink)] sm:text-3xl">
             今日
           </h1>
         </div>
         <p className="max-w-[14rem] text-right text-[10px] uppercase tracking-[0.12em] text-[var(--muted)]">
-          CFA · English · RE · Life
+          微課打卡 · CFA · 複習
         </p>
       </section>
 
-      {/* Mid focus: daily hour */}
-      <DailyGoalCard />
+      <StreakCard />
 
-      {/* Main stage: daily micro-lesson */}
       {daily ? (
         <Link href="/english/today" className="focus-cta">
           <div className="flex flex-wrap items-center justify-between gap-3">
             <div className="min-w-0">
-              <p className="text-[10px] uppercase tracking-[0.18em] text-[var(--accent)]">
+              <p className="flex items-center gap-1.5 text-[10px] font-medium tracking-[0.18em] text-[var(--accent)]">
+                <CuteIcon name="rocket" className="text-sm" />
                 主任務 · Day {daily.programDay}/30 · 約{" "}
                 {daily.main.estimatedMinutes} 分
               </p>
@@ -112,60 +101,53 @@ export default function HomePage() {
                 {daily.main.titleZh}
                 {daily.doneCount > 0
                   ? ` · 今日已練 ${daily.doneCount} 單元`
-                  : " · 連續混合練習"}
+                  : " · 完成主單元即可打卡"}
               </p>
             </div>
-            <span className="inline-flex min-h-10 items-center rounded-sm bg-[var(--accent)] px-4 text-sm font-medium text-white">
-              {daily.mainDone ? "加練 →" : "開始 →"}
+            <span className="inline-flex min-h-10 items-center gap-1 rounded-lg bg-[var(--accent)] px-4 text-sm font-medium text-white">
+              {daily.mainDone ? "加練" : "開始"}{" "}
+              <CuteIcon name="spark" className="text-sm" />
             </span>
           </div>
         </Link>
       ) : null}
 
-      {/* Secondary: plan as compact dark row */}
-      <Link
-        href={`/plan/${nextDay.day}`}
-        className="flex items-center justify-between gap-3 rounded-sm border border-[var(--ink)] bg-[var(--ink)] px-4 py-3 text-[var(--paper)] transition hover:brightness-110"
-      >
-        <div className="min-w-0">
-          <p className="text-[10px] uppercase tracking-[0.16em] text-[var(--accent-soft-text)]">
-            計畫 · Day {nextDay.day} · {progress.done}/{progress.total}
-          </p>
-          <p className="mt-0.5 truncate font-[family-name:var(--font-display)] text-lg">
-            {nextDay.titleZh}
-          </p>
-        </div>
-        <span className="shrink-0 text-sm text-white/80">進入 →</span>
-      </Link>
-
-      {/* Compact secondary actions (A density + B hierarchy) */}
       <div className="space-y-2">
         <Link href={`/speak/${continueSpeak.slug}`} className="row-tap">
-          <div className="min-w-0">
-            <p className="text-[10px] text-[var(--accent)]">繼續跟讀</p>
-            <p className="truncate text-sm font-medium text-[var(--ink)]">
-              {continueSpeak.titleZh}
-            </p>
+          <div className="flex min-w-0 items-center gap-2">
+            <CuteIcon name="mic" />
+            <div className="min-w-0">
+              <p className="text-[10px] text-[var(--accent)]">繼續跟讀</p>
+              <p className="truncate text-sm font-medium text-[var(--ink)]">
+                {continueSpeak.titleZh}
+              </p>
+            </div>
           </div>
           <span className="shrink-0 text-xs text-[var(--muted)]">打開</span>
         </Link>
         <Link href="/english/review" className="row-tap">
-          <div className="min-w-0">
-            <p className="text-[10px] text-[var(--accent)]">英語到期複習</p>
-            <p className="truncate text-sm font-medium text-[var(--ink)]">
-              {dueEn > 0 ? `${dueEn} 項可練` : "目前沒有到期項"}
-              {dueCfa > 0 ? ` · CFA ${dueCfa}` : ""}
-            </p>
+          <div className="flex min-w-0 items-center gap-2">
+            <CuteIcon name="pencil" />
+            <div className="min-w-0">
+              <p className="text-[10px] text-[var(--accent)]">英語到期複習</p>
+              <p className="truncate text-sm font-medium text-[var(--ink)]">
+                {dueEn > 0 ? `${dueEn} 項可練` : "目前沒有到期項"}
+                {dueCfa > 0 ? ` · CFA ${dueCfa}` : ""}
+              </p>
+            </div>
           </div>
           <span className="shrink-0 text-xs text-[var(--muted)]">複習</span>
         </Link>
         {dueCfa > 0 ? (
           <Link href="/vault/practice?mode=recall" className="row-tap">
-            <div className="min-w-0">
-              <p className="text-[10px] text-[var(--accent)]">CFA 到期</p>
-              <p className="text-sm font-medium text-[var(--ink)]">
-                {dueCfa} 項 · 聽詞想義
-              </p>
+            <div className="flex min-w-0 items-center gap-2">
+              <CuteIcon name="vault" />
+              <div className="min-w-0">
+                <p className="text-[10px] text-[var(--accent)]">CFA 到期</p>
+                <p className="text-sm font-medium text-[var(--ink)]">
+                  {dueCfa} 項 · 聽詞想義
+                </p>
+              </div>
             </div>
             <span className="shrink-0 text-xs text-[var(--muted)]">開始</span>
           </Link>
@@ -173,35 +155,26 @@ export default function HomePage() {
       </div>
 
       <section className="space-y-2">
-        <h2 className="text-sm font-medium text-[var(--muted)]">快速入口</h2>
+        <h2 className="flex items-center gap-1.5 text-sm font-medium text-[var(--muted)]">
+          <CuteIcon name="heart" className="text-sm" />
+          快速入口
+        </h2>
         <div className="grid grid-cols-3 gap-2 sm:grid-cols-4">
-          <QuickLink href="/rewards" label="獎勵" meta="60 分" />
-          <QuickLink href="/vault" label="CFA" meta={`${cfaData.total}`} />
-          <QuickLink
-            href="/english/grammar"
-            label="文法"
-            meta={`${grammarData.total}`}
-          />
-          <QuickLink href="/real-estate" label="房產" meta="RE" />
-          <QuickLink href="/speak" label="跟讀" meta={`${speakData.total}`} />
-          <QuickLink href="/english" label="句型" meta={`${enData.total}`} />
-          <QuickLink
-            href="/english/vocab"
-            label="詞彙"
-            meta={`${vocabData.total}`}
-          />
-          <QuickLink href="/english/gre" label="GRE" meta="GRE" />
-          <QuickLink href="/quiz" label="測驗" meta="40" />
-          <QuickLink href="/oral" label="口語" meta="100" />
-          <QuickLink href="/plan" label="計畫" meta={`${progress.done}/20`} />
-          <QuickLink href="/more" label="更多" meta="…" />
+          <QuickLink href="/english/today" label="微課" meta="Day" icon="rocket" />
+          <QuickLink href="/vault" label="CFA" meta={`${cfaData.total}`} icon="vault" />
+          <QuickLink href="/english" label="英語" meta="庫" icon="book" />
+          <QuickLink href="/quiz" label="題庫" meta="cloze" icon="pencil" />
+          <QuickLink href="/oral" label="口語" meta="說" icon="mic" />
+          <QuickLink href="/speak" label="跟讀" meta="聽" icon="ear" />
+          <QuickLink href="/rewards" label="打卡" meta="streak" icon="fire" />
+          <QuickLink href="/search" label="搜尋" meta="找" icon="spark" />
         </div>
       </section>
 
-      <section className="space-y-2">
-        <h2 className="text-sm font-medium text-[var(--muted)]">掌握度</h2>
-        <ProgressSummary cfaIds={cfaIds} enIds={enIds} vocabIds={vocabIds} />
-      </section>
+      <ProgressSummary
+        cfaIds={cfaIds}
+        enIds={enData.categories.flatMap((c) => c.items.map((i) => i.id))}
+      />
     </div>
   );
 }
@@ -210,17 +183,20 @@ function QuickLink({
   href,
   label,
   meta,
+  icon,
 }: {
   href: string;
   label: string;
   meta: string;
+  icon: ComponentProps<typeof CuteIcon>["name"];
 }) {
   return (
     <Link
       href={href}
-      className="flex min-h-[3.5rem] flex-col justify-center rounded-sm border border-[var(--line)] bg-[var(--surface)] px-3 py-2 transition hover:border-[var(--accent)]/50"
+      className="flex flex-col items-center gap-1 rounded-[var(--radius)] border border-[var(--line)] bg-[var(--surface)] px-2 py-3 text-center transition hover:border-[var(--accent)]"
     >
-      <span className="text-sm font-medium text-[var(--ink)]">{label}</span>
+      <CuteIcon name={icon} className="text-xl" />
+      <span className="text-xs font-medium text-[var(--ink)]">{label}</span>
       <span className="text-[10px] text-[var(--muted)]">{meta}</span>
     </Link>
   );

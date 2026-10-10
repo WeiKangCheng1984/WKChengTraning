@@ -1,11 +1,6 @@
 import { readJson, writeJson } from "@/lib/persist";
-import {
-  buildDailyUnit,
-  programDayForDate,
-  todayIsoLocal,
-  unitFingerprints,
-} from "@/lib/dailyUnit/buildUnit";
-import { DAILY_PROGRAM_DAYS } from "@/lib/dailyUnit/themes";
+import { fetchDailyUnit } from "@/lib/dailyUnit/fetchUnit";
+import { themeForDay, DAILY_PROGRAM_DAYS } from "@/lib/dailyUnit/themes";
 import type {
   CompletedUnitRecord,
   DailyUnit,
@@ -29,6 +24,23 @@ function write(state: DailyUnitProgress) {
   writeJson(DAILY_UNITS_KEY, state);
 }
 
+export function todayIsoLocal() {
+  const d = new Date();
+  const y = d.getFullYear();
+  const m = String(d.getMonth() + 1).padStart(2, "0");
+  const day = String(d.getDate()).padStart(2, "0");
+  return `${y}-${m}-${day}`;
+}
+
+function programDayForDate(isoDate: string, cycleStart?: string): number {
+  const start = cycleStart || isoDate;
+  const t0 = Date.parse(`${start}T00:00:00`);
+  const t1 = Date.parse(`${isoDate}T00:00:00`);
+  if (!Number.isFinite(t0) || !Number.isFinite(t1)) return 1;
+  const diff = Math.max(0, Math.floor((t1 - t0) / 86400000));
+  return (diff % DAILY_PROGRAM_DAYS) + 1;
+}
+
 export function ensureCycleStart(): DailyUnitProgress {
   const state = read();
   if (!state.cycleStart) {
@@ -42,8 +54,7 @@ export function ensureCycleStart(): DailyUnitProgress {
 
 export function getTodayProgramDay(): number {
   const state = ensureCycleStart();
-  const today = todayIsoLocal();
-  return programDayForDate(today, state.cycleStart);
+  return programDayForDate(todayIsoLocal(), state.cycleStart);
 }
 
 export function getRecentFingerprints(): string[] {
@@ -54,6 +65,12 @@ export function getTodayDoneIds(): string[] {
   const state = ensureCycleStart();
   const today = todayIsoLocal();
   return state.byDate[today]?.doneIds ?? [];
+}
+
+function unitFingerprints(unit: DailyUnit): string[] {
+  return unit.steps
+    .map((s) => s.fingerprint)
+    .filter((f): f is string => Boolean(f));
 }
 
 function pushFingerprints(state: DailyUnitProgress, fps: string[]) {
@@ -69,7 +86,6 @@ function pushFingerprints(state: DailyUnitProgress, fps: string[]) {
   state.recentFingerprints = next;
 }
 
-/** Mark done + save full review record for later lookup. */
 export function completeUnitSession(
   unit: DailyUnit,
   results: StepResult[],
@@ -99,26 +115,10 @@ export function completeUnitSession(
     results,
   };
 
-  const history = [record, ...(state.history || [])];
-  state.history = history.slice(0, HISTORY_MAX);
+  state.history = [record, ...(state.history || [])].slice(0, HISTORY_MAX);
   pushFingerprints(state, unitFingerprints(unit));
   write(state);
   return record;
-}
-
-/** @deprecated prefer completeUnitSession */
-export function markUnitDone(unitId: string): DailyUnitProgress {
-  const state = ensureCycleStart();
-  const today = todayIsoLocal();
-  const day = getTodayProgramDay();
-  const entry = state.byDate[today] ?? { doneIds: [], programDay: day };
-  if (!entry.doneIds.includes(unitId)) {
-    entry.doneIds.push(unitId);
-  }
-  entry.programDay = day;
-  state.byDate[today] = entry;
-  write(state);
-  return state;
 }
 
 export function listUnitHistory(): CompletedUnitRecord[] {
@@ -131,32 +131,48 @@ export function getUnitHistoryRecord(
   return listUnitHistory().find((h) => h.recordId === recordId) ?? null;
 }
 
-export function nextUnitForToday(): DailyUnit {
+export async function nextUnitForToday(): Promise<DailyUnit> {
   const day = getTodayProgramDay();
   const done = new Set(getTodayDoneIds());
   const recent = getRecentFingerprints();
   for (let u = 0; u < 20; u += 1) {
-    const unit = buildDailyUnit(day, u, { recentFingerprints: recent });
-    if (!done.has(unit.id)) return unit;
+    const id = `d${String(day).padStart(2, "0")}-u${u}`;
+    if (done.has(id)) continue;
+    return fetchDailyUnit({
+      programDay: day,
+      unitIndex: u,
+      recentFingerprints: recent,
+    });
   }
-  return buildDailyUnit(day, getTodayDoneIds().length, {
+  return fetchDailyUnit({
+    programDay: day,
+    unitIndex: getTodayDoneIds().length,
     recentFingerprints: recent,
   });
 }
 
+/** Lightweight summary — no large JSON on the client. */
 export function todayUnitSummary() {
   const day = getTodayProgramDay();
   const done = getTodayDoneIds();
-  const recent = getRecentFingerprints();
-  const main = buildDailyUnit(day, 0, { recentFingerprints: recent });
-  const history = listUnitHistory();
+  const theme = themeForDay(day);
+  const mainId = `d${String(day).padStart(2, "0")}-u0`;
   return {
     programDay: day,
     totalProgramDays: DAILY_PROGRAM_DAYS,
     doneCount: done.length,
-    mainDone: done.includes(main.id),
-    main,
+    mainDone: done.includes(mainId),
+    main: {
+      id: mainId,
+      programDay: day,
+      unitIndex: 0,
+      titleZh: theme.titleZh,
+      titleEn: theme.titleEn,
+      blurb: theme.blurb,
+      estimatedMinutes: 8,
+      steps: [] as DailyUnit["steps"],
+    },
     cycleStart: ensureCycleStart().cycleStart,
-    historyCount: history.length,
+    historyCount: listUnitHistory().length,
   };
 }

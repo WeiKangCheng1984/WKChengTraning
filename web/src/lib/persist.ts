@@ -13,8 +13,13 @@ export function readJson<T>(key: string, fallback: T): T {
 
 export function writeJson<T>(key: string, value: T) {
   localStorage.setItem(key, JSON.stringify(value));
+  // LWW timestamp for cloud sync
+  try {
+    localStorage.setItem(`${key}__updated_at`, new Date().toISOString());
+  } catch {
+    /* ignore */
+  }
   window.dispatchEvent(new Event(EVENT));
-  // Hint for ProgressSyncHost which key changed
   window.dispatchEvent(
     new CustomEvent("omnilearn-progress-key", { detail: { key } }),
   );

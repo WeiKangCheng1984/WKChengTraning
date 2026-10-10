@@ -119,7 +119,7 @@ export default function EnglishReviewPage() {
           href="/english/today"
           className="text-sm text-[var(--muted)] hover:text-[var(--ink)]"
         >
-          ← 今日英語套餐
+          ← 今日英語微課
         </Link>
         <p className="mt-3 text-xs uppercase tracking-[0.22em] text-[var(--accent)]">
           English Review
@@ -137,7 +137,7 @@ export default function EnglishReviewPage() {
           目前沒有到期項
           {history.length > 0 ? "（可按上一張回看本場紀錄）" : ""}。先去{" "}
           <Link href="/english/today" className="text-[var(--ink)] underline">
-            今日英語套餐
+            今日英語微課
           </Link>{" "}
           練一輪並標記掌握度。
           {history.length > 0 ? (
