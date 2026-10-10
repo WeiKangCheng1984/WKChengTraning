@@ -62,6 +62,11 @@ const links = [
     body: "100 單元×10 句 · 跟讀語音評分（Chrome／Edge）。",
   },
   {
+    href: "/login",
+    title: "登入／同步",
+    body: "Supabase 登入 · 雲端學習進度。",
+  },
+  {
     href: "/english/gre",
     title: "GRE 單字",
     body: "GRE 詞庫 · 例句 TTS · 字母瀏覽。",

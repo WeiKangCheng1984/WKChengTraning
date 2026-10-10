@@ -4,6 +4,7 @@ import { Newsreader, Source_Sans_3 } from "next/font/google";
 import { SiteHeader } from "@/components/SiteHeader";
 import { BottomNav } from "@/components/BottomNav";
 import { PracticeTracker } from "@/components/PracticeTracker";
+import { ProgressSyncHost } from "@/components/ProgressSyncHost";
 import { THEME_BOOT_SCRIPT } from "@/lib/theme";
 import "./globals.css";
 
@@ -43,11 +44,12 @@ export default function RootLayout({
         </Script>
         <SiteHeader />
         <PracticeTracker />
+        <ProgressSyncHost />
         <main className="mx-auto max-w-5xl px-4 pb-24 pt-4 sm:px-6 sm:pt-5">
           {children}
         </main>
         <footer className="mx-auto max-w-5xl px-4 pb-24 pt-1 text-center text-[11px] text-[var(--muted)] sm:px-6">
-          本機進度 · 非投資建議／非保證考取
+          本機／雲端進度 · 非投資建議／非保證考取
         </footer>
         <BottomNav />
       </body>

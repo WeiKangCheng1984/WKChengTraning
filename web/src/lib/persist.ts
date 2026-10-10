@@ -14,6 +14,10 @@ export function readJson<T>(key: string, fallback: T): T {
 export function writeJson<T>(key: string, value: T) {
   localStorage.setItem(key, JSON.stringify(value));
   window.dispatchEvent(new Event(EVENT));
+  // Hint for ProgressSyncHost which key changed
+  window.dispatchEvent(
+    new CustomEvent("omnilearn-progress-key", { detail: { key } }),
+  );
 }
 
 export function onStorageChange(handler: () => void) {

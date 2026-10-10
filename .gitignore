@@ -24,3 +24,7 @@ Thumbs.db
 .env
 .env.*
 !.env.example
+
+# secrets / local notes (never commit keys or DB passwords)
+supabase.md
+web/.env.local

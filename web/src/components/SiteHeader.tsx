@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { ThemeToggle } from "@/components/ThemeToggle";
+import { AuthButton } from "@/components/AuthButton";
 
 export function SiteHeader() {
   return (
@@ -15,6 +16,7 @@ export function SiteHeader() {
         </Link>
         <div className="flex shrink-0 items-center gap-2">
           <ThemeToggle />
+          <AuthButton />
           <Link
             href="/search"
             className="inline-flex min-h-10 min-w-10 items-center justify-center rounded-sm border border-white/20 px-3 text-sm text-white/90 hover:bg-white/10"
