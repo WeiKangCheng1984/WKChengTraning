@@ -1,6 +1,6 @@
 {
   "source": "style.md",
-  "total": 95,
+  "total": 195,
   "stages": [
     {
       "id": 1,
@@ -599,16 +599,798 @@
       "slug": "signature",
       "titleZh": "個人特色慣用句",
       "titleEn": "Signature Phrases",
-      "intro": "第三階段的重點在於「個人特色慣用句」（Signature Phrases）。",
-      "sections": []
+      "intro": "第三階段的重點在於「個人特色慣用句」（Signature Phrases）。將觀察力、邏輯與西岸社交風格融合，建立精準、有內涵且平易近人的表達人格。",
+      "sections": [
+        {
+          "num": 1,
+          "slug": "perspective",
+          "titleZh": "視野與角度",
+          "subtitle": "展現觀察者深度的句型",
+          "groups": [
+            {
+              "titleZh": "Let’s look at this from a bird’s eye view.",
+              "intro": "當你想跳脫細節，帶領聽眾看大方向時使用。這展現了你掌控全局的引導者能力。",
+              "items": [
+                {
+                  "en": "Let’s look at this from a bird’s eye view.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Before we dive into the technicalities, let’s look at this from a bird’s eye view to see the main objective.",
+                  "noteZh": ""
+                }
+              ]
+            },
+            {
+              "titleZh": "It’s all about the frame of mind.",
+              "intro": "這句話帶有一種電影感，用來解釋某種心態或觀點。",
+              "items": [
+                {
+                  "en": "It’s all about the frame of mind.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "When you’re exploring this exhibition, it’s all about the frame of mind you bring to each piece.",
+                  "noteZh": ""
+                }
+              ]
+            },
+            {
+              "titleZh": "I’m looking for that sweet spot between X and Y.",
+              "intro": "這體現了你追求精準的理科性格，表達你在兩者之間尋求平衡。",
+              "items": [
+                {
+                  "en": "I’m looking for that sweet spot between X and Y.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "I’m looking for that sweet spot between keeping it professional and staying casual.",
+                  "noteZh": ""
+                }
+              ]
+            },
+            {
+              "titleZh": "Let’s zoom out for a second to see the big picture.",
+              "intro": "當對話陷入膠著，你用這句話來重整邏輯。",
+              "items": [
+                {
+                  "en": "Let’s zoom out for a second to see the big picture.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Let’s zoom out for a second. The goal here isn’t just speed, it’s also about the long-term impact.",
+                  "noteZh": ""
+                }
+              ]
+            },
+            {
+              "titleZh": "It depends on the angle you’re taking.",
+              "intro": "這是一句非常有力的觀察者台詞，代表你認為事情不是只有一種答案。",
+              "items": [
+                {
+                  "en": "It depends on the angle you’re taking.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Whether this is a good investment or not, well, it depends on the angle you’re taking.",
+                  "noteZh": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "num": 2,
+          "slug": "logic-system",
+          "titleZh": "邏輯與系統",
+          "subtitle": "展現理科底色與精準度的句型",
+          "groups": [
+            {
+              "titleZh": "The logic checks out on my end.",
+              "intro": "當你認同某個方案或觀察後，這是一句非常直率且具專業感的肯定。",
+              "items": [
+                {
+                  "en": "The logic checks out on my end.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "I’ve reviewed the plan, and the logic checks out on my end. Let’s move forward.",
+                  "noteZh": ""
+                }
+              ]
+            },
+            {
+              "titleZh": "Let’s break this down into smaller pieces.",
+              "intro": "當面對複雜問題時，你展現出解決問題的系統化思維。",
+              "items": [
+                {
+                  "en": "Let’s break this down into smaller pieces.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "This project seems massive, but let’s break this down into smaller, manageable pieces first.",
+                  "noteZh": ""
+                }
+              ]
+            },
+            {
+              "titleZh": "I like things to be streamlined and efficient.",
+              "intro": "直接宣告你的社交與工作風格，讓對方了解你的步調。",
+              "items": [
+                {
+                  "en": "I like things to be streamlined and efficient.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "To be honest, I like things to be streamlined and efficient, so let’s get straight to the point.",
+                  "noteZh": ""
+                }
+              ]
+            },
+            {
+              "titleZh": "There’s a clear sequence to how this works.",
+              "intro": "這體現了你導覽時的引導力，讓聽眾感受到你背後的專業邏輯。",
+              "items": [
+                {
+                  "en": "There’s a clear sequence to how this works.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Don’t worry about the complexity; there’s a clear sequence to how this system operates.",
+                  "noteZh": ""
+                }
+              ]
+            },
+            {
+              "titleZh": "It’s a matter of calibrating our expectations.",
+              "intro": "使用「校準」這個詞能展現你的精確度，適合在非正式社交中討論計劃。",
+              "items": [
+                {
+                  "en": "It’s a matter of calibrating our expectations.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "I think we just need to calibrate our expectations for the trip so everyone stays happy.",
+                  "noteZh": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "num": 3,
+          "slug": "growth",
+          "titleZh": "成長與過程",
+          "subtitle": "展現敘事感與溫度的句型",
+          "groups": [
+            {
+              "titleZh": "Let’s see how this develops over time.",
+              "intro": "這是一句非常有耐心、充滿觀察者氣息的話，適合社交場合。",
+              "items": [
+                {
+                  "en": "Let’s see how this develops over time.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "It’s a new project, so let’s just see how this develops over time without rushing it.",
+                  "noteZh": ""
+                }
+              ]
+            },
+            {
+              "titleZh": "It needs a bit of nurturing to get it right.",
+              "intro": "將「培育」的概念引入工作或社交，展現你體貼他人感受的一面。",
+              "items": [
+                {
+                  "en": "It needs a bit of nurturing to get it right.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "The team dynamic is good, but it needs a bit of nurturing to really get it right.",
+                  "noteZh": ""
+                }
+              ]
+            },
+            {
+              "titleZh": "We’re in the pilot phase of this idea.",
+              "intro": "借用飛行或開發術語，代表事情還在試驗階段，給自己留有餘地。",
+              "items": [
+                {
+                  "en": "We’re in the pilot phase of this idea.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Regarding our weekend plans, let’s say we’re in the pilot phase. I’m still checking the weather.",
+                  "noteZh": ""
+                }
+              ]
+            },
+            {
+              "titleZh": "Everything happens in stages.",
+              "intro": "這句話能安撫聽眾，同時展現你對流程的掌控。",
+              "items": [
+                {
+                  "en": "Everything happens in stages.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Don’t feel overwhelmed. Everything happens in stages, and we’re currently in the best one.",
+                  "noteZh": ""
+                }
+              ]
+            },
+            {
+              "titleZh": "It’s about finding the root cause, not just the symptoms.",
+              "intro": "展現你深入觀察、不看表面的思考深度。",
+              "items": [
+                {
+                  "en": "It’s about finding the root cause, not just the symptoms.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "To fix this issue for good, we need to find the root cause, not just address the symptoms.",
+                  "noteZh": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "num": 4,
+          "slug": "social-vibe",
+          "titleZh": "社交與氛圍",
+          "subtitle": "美式西岸的隨性與親和力",
+          "groups": [
+            {
+              "titleZh": "What’s the move for the rest of the day?",
+              "intro": "這是洛杉磯非常道地的問法，用來詢問接下來的計畫。",
+              "items": [
+                {
+                  "en": "What’s the move for the rest of the day?",
+                  "noteZh": ""
+                },
+                {
+                  "en": "That was a great lunch. What’s the move for the rest of the day?",
+                  "noteZh": ""
+                }
+              ]
+            },
+            {
+              "titleZh": "I’m just vibing with the atmosphere here.",
+              "intro": "當你不想多說話（處於觀察者模式）時，這句話是完美的擋箭牌，且顯得很酷。",
+              "items": [
+                {
+                  "en": "I’m just vibing with the atmosphere here.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Don’t mind me, I’m just vibing with the atmosphere here. It’s a great spot.",
+                  "noteZh": ""
+                }
+              ]
+            },
+            {
+              "titleZh": "Let’s keep the momentum going.",
+              "intro": "作為引導者，這句話能有效推動大家行動，且語氣積極。",
+              "items": [
+                {
+                  "en": "Let’s keep the momentum going.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "We’ve seen two great houses already. Let’s keep the momentum going and see the last one.",
+                  "noteZh": ""
+                }
+              ]
+            },
+            {
+              "titleZh": "I’ll leave that to your discretion.",
+              "intro": "展現你對他人的尊重與禮貌，把決定權交給對方。",
+              "items": [
+                {
+                  "en": "I’ll leave that to your discretion.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "You know the area better than I do, so I’ll leave the restaurant choice to your discretion.",
+                  "noteZh": ""
+                }
+              ]
+            },
+            {
+              "titleZh": "Catch you on the flip side.",
+              "intro": "一種非常美式的道別方式，代表「回头见」，充滿輕鬆自然的氛圍。",
+              "items": [
+                {
+                  "en": "Catch you on the flip side.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "I have to run to a meeting now. Catch you on the flip side!",
+                  "noteZh": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "num": 5,
+          "slug": "guide-clarify",
+          "titleZh": "引導與澄清",
+          "subtitle": "專業導覽與服務的必備句",
+          "groups": [
+            {
+              "titleZh": "Just to clear the air, here’s how it works.",
+              "intro": "當氣氛有點尷尬或資訊混亂時，你主動站出來釐清事實。",
+              "items": [
+                {
+                  "en": "Just to clear the air, here’s how it works.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Just to clear the air, the maintenance won’t affect your visit today.",
+                  "noteZh": ""
+                }
+              ]
+            },
+            {
+              "titleZh": "Feel free to jump in if you have any thoughts.",
+              "intro": "這句話展現你「重視他人感受」，邀請聽眾參與對話。",
+              "items": [
+                {
+                  "en": "Feel free to jump in if you have any thoughts.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "I’ve been talking for a while. Feel free to jump in if you have any thoughts or questions.",
+                  "noteZh": ""
+                }
+              ]
+            },
+            {
+              "titleZh": "I want to make sure I’m hitting the mark for you.",
+              "intro": "「擊中目標」展現了你的精準要求，同時確認對方的滿意度。",
+              "items": [
+                {
+                  "en": "I want to make sure I’m hitting the mark for you.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "In terms of this tour, I want to make sure I’m hitting the mark for you. Is this what you expected?",
+                  "noteZh": ""
+                }
+              ]
+            },
+            {
+              "titleZh": "Let’s put a pin in that for now.",
+              "intro": "當討論偏離主題，你展現引導者的權威，暫時擱置爭議。",
+              "items": [
+                {
+                  "en": "Let’s put a pin in that for now.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "That’s a complex topic. Let’s put a pin in that for now and come back to it after the tour.",
+                  "noteZh": ""
+                }
+              ]
+            },
+            {
+              "titleZh": "I’m here to walk you through the whole story.",
+              "intro": "這是一句非常有溫度的開場，適合導覽也適合與親友分享近況。",
+              "items": [
+                {
+                  "en": "I’m here to walk you through the whole story.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Welcome to the facility. I’m here to walk you through the whole story of how we generate power.",
+                  "noteZh": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 4,
       "slug": "pressure-relief",
       "titleZh": "壓力緩衝與優雅應對",
       "titleEn": "Pressure Relievers",
-      "intro": "第四階段的重點在於「壓力緩衝句與優雅應對」（Pressure Relievers & Elegant Responses）。",
-      "sections": []
+      "intro": "第四階段的重點在於「壓力緩衝句與優雅應對」。當你聽不懂、需要思考時間，或需要優雅拒絕／轉向時，用這些句子維持自信與直率。",
+      "sections": [
+        {
+          "num": 1,
+          "slug": "thinking-time",
+          "titleZh": "爭取邏輯思考時間",
+          "subtitle": "展現專業觀察者的緩衝",
+          "groups": [
+            {
+              "titleZh": "Let me just process the details on that for a second.",
+              "intro": "這句話直接告訴對方你正在思考，且聽起來非常理性。",
+              "items": [
+                {
+                  "en": "Let me just process the details on that for a second.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "That is a complex question. Let me just process the details on that for a second before I give you an answer.",
+                  "noteZh": ""
+                }
+              ]
+            },
+            {
+              "titleZh": "I am just running the logic through my head to make sure I missed nothing.",
+              "intro": "這體現了你講究邏輯的性格，讓等待變得有意義。",
+              "items": [
+                {
+                  "en": "I am just running the logic through my head to make sure I missed nothing.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Right... I am just running the logic through my head to make sure I missed nothing in the sequence.",
+                  "noteZh": ""
+                }
+              ]
+            },
+            {
+              "titleZh": "Give me a moment to find the most precise way to phrase this.",
+              "intro": "當你想追求表達的精準度時，這句話能顯出你的專業堅持。",
+              "items": [
+                {
+                  "en": "Give me a moment to find the most precise way to phrase this.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "That is a great point. Give me a moment to find the most precise way to phrase this for you.",
+                  "noteZh": ""
+                }
+              ]
+            },
+            {
+              "titleZh": "I am just mental-mapping the next steps here.",
+              "intro": "借用開發或導航的術語，展現你引導者的特質。",
+              "items": [
+                {
+                  "en": "I am just mental-mapping the next steps here.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "I hear you. I am just mental-mapping the next steps here to see how they align with our goal.",
+                  "noteZh": ""
+                }
+              ]
+            },
+            {
+              "titleZh": "Let me double-check my internal compass on this one.",
+              "intro": "帶點美式幽默，代表你需要確認一下自己的想法或立場。",
+              "items": [
+                {
+                  "en": "Let me double-check my internal compass on this one.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "That is a new perspective. Let me double-check my internal compass on this one for a moment.",
+                  "noteZh": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "num": 2,
+          "slug": "unknowns",
+          "titleZh": "優雅應對未知或刁鑽問題",
+          "subtitle": "維持直率且誠實的形象",
+          "groups": [
+            {
+              "titleZh": "That is a specific detail I would like to verify before giving you a definitive answer.",
+              "intro": "展現理科男的嚴謹，不隨便給出不正確的資訊。",
+              "items": [
+                {
+                  "en": "That is a specific detail I would like to verify before giving you a definitive answer.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Regarding the technical specs of the drone, that is a specific detail I would like to verify before giving you a definitive answer.",
+                  "noteZh": ""
+                }
+              ]
+            },
+            {
+              "titleZh": "I do not have the exact data on me right now, but I can certainly find out.",
+              "intro": "承認當下的侷限，但展現解決問題的效率。",
+              "items": [
+                {
+                  "en": "I do not have the exact data on me right now, but I can certainly find out.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Honestly, I do not have the exact data on me right now, but I can certainly find out and get back to you.",
+                  "noteZh": ""
+                }
+              ]
+            },
+            {
+              "titleZh": "That is outside my current focus, but here is what I do know.",
+              "intro": "巧妙地將話題轉回到你擅長的領域，維持主導權。",
+              "items": [
+                {
+                  "en": "That is outside my current focus, but here is what I do know.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "To be fair, the real estate laws are tricky. That is outside my current focus, but here is what I do know about the local market.",
+                  "noteZh": ""
+                }
+              ]
+            },
+            {
+              "titleZh": "I am still in the observation phase regarding that particular topic.",
+              "intro": "這句話非常符合觀察者角色，代表你還在收集資訊。",
+              "items": [
+                {
+                  "en": "I am still in the observation phase regarding that particular topic.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "People are talking about the new tech, but I am still in the observation phase regarding that particular topic.",
+                  "noteZh": ""
+                }
+              ]
+            },
+            {
+              "titleZh": "Let me get back to you on that so I can give you the full picture.",
+              "intro": "使用 full picture 展現你對資訊完整性的要求。",
+              "items": [
+                {
+                  "en": "Let me get back to you on that so I can give you the full picture.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "I want to be accurate, so let me get back to you on that so I can give you the full picture later tonight.",
+                  "noteZh": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "num": 3,
+          "slug": "redirect",
+          "titleZh": "轉向與節奏控管",
+          "subtitle": "展現引導者的權威感",
+          "groups": [
+            {
+              "titleZh": "In the interest of time, let us focus on the core issue first.",
+              "intro": "展現高效，禮貌地切斷無意義的爭論。",
+              "items": [
+                {
+                  "en": "In the interest of time, let us focus on the core issue first.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "I see where this is going, but in the interest of time, let us focus on the core issue first.",
+                  "noteZh": ""
+                }
+              ]
+            },
+            {
+              "titleZh": "I think we are getting a bit into the weeds here. Let us pull back.",
+              "intro": "美式口語中 get into the weeds 代表陷入太過瑣碎的細節，pull back 則是撤回大方向。",
+              "items": [
+                {
+                  "en": "I think we are getting a bit into the weeds here. Let us pull back.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "The technical discussion is great, but I think we are getting a bit into the weeds here. Let us pull back to the main goal.",
+                  "noteZh": ""
+                }
+              ]
+            },
+            {
+              "titleZh": "That is a conversation for another time, but I appreciate the input.",
+              "intro": "優雅地結束當下的支線話題，保留對方的面子。",
+              "items": [
+                {
+                  "en": "That is a conversation for another time, but I appreciate the input.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "That is a conversation for another time, but I appreciate the input. For now, let’s stick to the tour.",
+                  "noteZh": ""
+                }
+              ]
+            },
+            {
+              "titleZh": "Let us put a pin in that and keep moving forward.",
+              "intro": "經典的美式職場用語，代表「先記下來，稍後討論」，展現強大的引導力。",
+              "items": [
+                {
+                  "en": "Let us put a pin in that and keep moving forward.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "That is an interesting side note. Let us put a pin in that and keep moving forward with the plan.",
+                  "noteZh": ""
+                }
+              ]
+            },
+            {
+              "titleZh": "I want to make sure we are staying on track with our schedule.",
+              "intro": "以進度為由進行轉向，通常不會引起反感，且顯得專業。",
+              "items": [
+                {
+                  "en": "I want to make sure we are staying on track with our schedule.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Basically, I want to make sure we are staying on track with our schedule, so let us move to the next hall.",
+                  "noteZh": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "num": 4,
+          "slug": "disagree",
+          "titleZh": "化解分歧與表達不同見解",
+          "subtitle": "平衡禮貌與直率",
+          "groups": [
+            {
+              "titleZh": "I see your point, though my observation suggests something slightly different.",
+              "intro": "先認同（禮貌），再帶入自己的觀察（邏輯）。",
+              "items": [
+                {
+                  "en": "I see your point, though my observation suggests something slightly different.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "I see your point, though my observation suggests something slightly different regarding the engine maintenance.",
+                  "noteZh": ""
+                }
+              ]
+            },
+            {
+              "titleZh": "I appreciate that perspective, but I am looking at it from a different angle.",
+              "intro": "這句話帶有攝影師的語感，代表觀點不同只是因為「角度」不同。",
+              "items": [
+                {
+                  "en": "I appreciate that perspective, but I am looking at it from a different angle.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "I appreciate that perspective, but I am looking at it from a different angle, especially considering the long-term costs.",
+                  "noteZh": ""
+                }
+              ]
+            },
+            {
+              "titleZh": "Fair enough, but let us look at the practical side of things.",
+              "intro": "用 Fair enough 給予尊重，再用 practical 拉回你的理性核心。",
+              "items": [
+                {
+                  "en": "Fair enough, but let us look at the practical side of things.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Fair enough, but let us look at the practical side of things. Can we actually pull this off by Friday?",
+                  "noteZh": ""
+                }
+              ]
+            },
+            {
+              "titleZh": "I am not entirely sold on that idea yet, tell me more.",
+              "intro": "既表達了懷疑（直率），又給了對方解釋的機會（禮貌）。",
+              "items": [
+                {
+                  "en": "I am not entirely sold on that idea yet, tell me more.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Actually, I am not entirely sold on that idea yet, tell me more about how you plan to execute it.",
+                  "noteZh": ""
+                }
+              ]
+            },
+            {
+              "titleZh": "That is one way to look at it, but here is another possibility.",
+              "intro": "不否定對方，而是提供一個並列的選項。",
+              "items": [
+                {
+                  "en": "That is one way to look at it, but here is another possibility.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "That is one way to look at it, but here is another possibility that might be more efficient for us.",
+                  "noteZh": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "num": 5,
+          "slug": "exit",
+          "titleZh": "社交收尾與優雅撤退",
+          "subtitle": "西岸風格的俐落結尾",
+          "groups": [
+            {
+              "titleZh": "I will let you get back to what you were doing.",
+              "intro": "極具美式禮貌，暗示「我不想佔用你的時間」，其實也可以是你想離開了。",
+              "items": [
+                {
+                  "en": "I will let you get back to what you were doing.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "It was great catching up, but I will let you get back to what you were doing. See you around!",
+                  "noteZh": ""
+                }
+              ]
+            },
+            {
+              "titleZh": "I have a few more things to check off my list today.",
+              "intro": "展現你的高效形象，讓離開顯得很合理。",
+              "items": [
+                {
+                  "en": "I have a few more things to check off my list today.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "I would love to chat more, but I have a few more things to check off my list today. Let’s talk soon.",
+                  "noteZh": ""
+                }
+              ]
+            },
+            {
+              "titleZh": "Let us pick this up again when we both have more time.",
+              "intro": "留下未來的連結，但優雅地結束當下的對話。",
+              "items": [
+                {
+                  "en": "Let us pick this up again when we both have more time.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "This was a solid discussion. Let us pick this up again when we both have more time next week.",
+                  "noteZh": ""
+                }
+              ]
+            },
+            {
+              "titleZh": "I am going to make a quick move, but it was a pleasure talking to you.",
+              "intro": "make a quick move 是一種隨性且自然的撤退說法。",
+              "items": [
+                {
+                  "en": "I am going to make a quick move, but it was a pleasure talking to you.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "I am going to make a quick move, but it was a pleasure talking to you about the real estate exam.",
+                  "noteZh": ""
+                }
+              ]
+            },
+            {
+              "titleZh": "Keep me posted on how that develops.",
+              "intro": "非常好的結束語，展現你持續關心的態度。",
+              "items": [
+                {
+                  "en": "Keep me posted on how that develops.",
+                  "noteZh": ""
+                },
+                {
+                  "en": "Good luck with the project. Keep me posted on how that develops!",
+                  "noteZh": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

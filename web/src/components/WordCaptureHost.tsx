@@ -88,16 +88,21 @@ export function WordCaptureHost() {
       return;
     }
     const pad = 8;
+    // Place below the selection so mobile browser menus (above) don't cover it.
+    const belowGap = 28;
     const x = Math.min(
       Math.max(pad, rect.left + rect.width / 2),
       window.innerWidth - pad,
     );
-    const y = Math.max(pad, rect.top - 8);
+    const y = Math.min(
+      rect.bottom + belowGap,
+      window.innerHeight - 72,
+    );
     setPop({
       word: parsed.word,
       context: contextAroundSelection(range, parsed.word),
       x,
-      y,
+      y: Math.max(pad, y),
     });
   }, []);
 
@@ -151,7 +156,7 @@ export function WordCaptureHost() {
     <>
       {pop ? (
         <div
-          className="fixed z-[60] -translate-x-1/2 -translate-y-full"
+          className="fixed z-[60] -translate-x-1/2"
           style={{ left: pop.x, top: pop.y }}
         >
           <button
