@@ -15,8 +15,9 @@ export type ChoiceStep = {
   answer: string;
   choices: string[];
   explainZh?: string;
-  /** For listen_choice / speak */
   speakText?: string;
+  /** Dedup fingerprint */
+  fingerprint?: string;
 };
 
 export type RevealStep = {
@@ -25,6 +26,7 @@ export type RevealStep = {
   promptZh: string;
   answerEn: string;
   note?: string;
+  fingerprint?: string;
 };
 
 export type ContrastStep = {
@@ -34,15 +36,15 @@ export type ContrastStep = {
   bad: string;
   good: string;
   note: string;
+  fingerprint?: string;
 };
 
 export type DailyStep = ChoiceStep | RevealStep | ContrastStep;
 
 export type DailyUnit = {
-  /** Stable id: day-unitIndex e.g. d07-u0 */
   id: string;
-  programDay: number; // 1–30
-  unitIndex: number; // 0 = today's main, 1+ = extras
+  programDay: number;
+  unitIndex: number;
   titleZh: string;
   titleEn: string;
   blurb: string;
@@ -53,21 +55,35 @@ export type DailyUnit = {
 export type StepResult = {
   step: DailyStep;
   ok: boolean;
-  /** What the learner selected / marked */
   userAnswer?: string;
 };
 
+export type CompletedUnitRecord = {
+  /** Unique session id */
+  recordId: string;
+  unitId: string;
+  programDay: number;
+  unitIndex: number;
+  titleZh: string;
+  titleEn: string;
+  date: string;
+  completedAt: string;
+  correct: number;
+  total: number;
+  results: StepResult[];
+};
+
 export type DailyUnitProgress = {
-  /** ISO date YYYY-MM-DD */
   byDate: Record<
     string,
     {
-      /** Completed unit ids today */
       doneIds: string[];
-      /** Program day index locked for this calendar date (1–30 cycle) */
       programDay: number;
     }
   >;
-  /** Absolute start date for day-1 of the 30-day cycle */
   cycleStart?: string;
+  /** Newest first */
+  history?: CompletedUnitRecord[];
+  /** Recently used content fingerprints to reduce repeats */
+  recentFingerprints?: string[];
 };

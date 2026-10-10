@@ -8,8 +8,9 @@ import {
 } from "@/components/DailyUnitPlayer";
 import type { DailyUnit, StepResult } from "@/lib/dailyUnit/types";
 import {
+  completeUnitSession,
   getTodayDoneIds,
-  markUnitDone,
+  listUnitHistory,
   nextUnitForToday,
   todayUnitSummary,
 } from "@/lib/dailyUnitProgress";
@@ -32,9 +33,15 @@ export default function EnglishTodayPage() {
   const [summary, setSummary] = useState<ReturnType<
     typeof todayUnitSummary
   > | null>(null);
+  const [recentHistory, setRecentHistory] = useState<
+    ReturnType<typeof listUnitHistory>
+  >([]);
 
   useEffect(() => {
-    const sync = () => setSummary(todayUnitSummary());
+    const sync = () => {
+      setSummary(todayUnitSummary());
+      setRecentHistory(listUnitHistory().slice(0, 5));
+    };
     sync();
     return onStorageChange(sync);
   }, []);
@@ -54,9 +61,10 @@ export default function EnglishTodayPage() {
         unit={phase.unit}
         onExit={() => setPhase({ kind: "hub" })}
         onComplete={({ correct, total, results }) => {
-          markUnitDone(phase.unit.id);
+          completeUnitSession(phase.unit, results);
           creditDailyUnit(phase.unit.unitIndex);
           setSummary(todayUnitSummary());
+          setRecentHistory(listUnitHistory().slice(0, 5));
           setPhase({
             kind: "review",
             unit: phase.unit,
@@ -102,7 +110,7 @@ export default function EnglishTodayPage() {
         </h1>
         <p className="mt-2 max-w-2xl text-base text-[var(--muted)]">
           第 {summary.programDay}/{summary.totalProgramDays}{" "}
-          天。每單元約 5–10 分鐘；完成後會有逐題解析。想多練就繼續加練吧！
+          天。每單元約 12 題、5–10 分鐘；完成後可回看解析。題庫已擴大並降低近期重複。
         </p>
       </div>
 
@@ -127,42 +135,68 @@ export default function EnglishTodayPage() {
           今日已完成 <strong>{done.length}</strong> 單元
           {mainDone ? "（含今日主單元）" : "（主單元尚未完成）"}
         </p>
-        <button
-          type="button"
-          onClick={startNext}
-          className="mt-5 min-h-11 rounded-lg bg-[var(--accent)] px-5 text-sm text-white hover:brightness-105"
-        >
-          {mainDone ? "再練一單元" : "開始今日單元"}
-        </button>
+        <div className="mt-5 flex flex-wrap gap-2">
+          <button
+            type="button"
+            onClick={startNext}
+            className="min-h-11 rounded-lg bg-[var(--accent)] px-5 text-sm text-white hover:brightness-105"
+          >
+            {mainDone ? "再練一單元" : "開始今日單元"}
+          </button>
+          <Link
+            href="/english/today/history"
+            className="inline-flex min-h-11 items-center rounded-lg border border-[var(--line)] bg-[var(--surface)] px-5 text-sm text-[var(--ink)]"
+          >
+            練習紀錄（{summary.historyCount}）
+          </Link>
+        </div>
       </section>
+
+      {recentHistory.length > 0 ? (
+        <section className="space-y-2">
+          <div className="flex items-center justify-between gap-2">
+            <h3 className="text-sm font-medium text-[var(--ink)]">最近完成</h3>
+            <Link
+              href="/english/today/history"
+              className="text-xs text-[var(--sky)] underline"
+            >
+              看全部
+            </Link>
+          </div>
+          <ul className="space-y-2">
+            {recentHistory.map((h) => (
+              <li key={h.recordId}>
+                <Link
+                  href={`/english/today/history?id=${encodeURIComponent(h.recordId)}`}
+                  className="row-tap"
+                >
+                  <div className="min-w-0">
+                    <p className="truncate text-sm font-medium text-[var(--ink)]">
+                      {h.titleZh}
+                    </p>
+                    <p className="text-[10px] text-[var(--muted)]">
+                      Day {h.programDay} · {h.date} · {h.correct}/{h.total}
+                    </p>
+                  </div>
+                  <span className="text-xs text-[var(--sky)]">解析</span>
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </section>
+      ) : null}
 
       <section className="space-y-2">
-        <h3 className="text-sm font-medium text-[var(--ink)]">本單元題型</h3>
+        <h3 className="text-sm font-medium text-[var(--ink)]">題庫來源（已擴大）</h3>
         <ul className="grid gap-2 text-sm text-[var(--muted)] sm:grid-cols-2">
-          <li>看中文選英文詞</li>
-          <li>GRE／Quiz 挖空三選一</li>
-          <li>句型先想再揭曉</li>
-          <li>文法對比選正確句</li>
-          <li>聽英語選中文</li>
-          <li>跟讀自評＋完成後逐題解析</li>
+          <li>進階詞彙／例句挖空</li>
+          <li>GRE 選詞＋挖空</li>
+          <li>Quiz 千題填空</li>
+          <li>句型／風格／會話公式</li>
+          <li>文法對比</li>
+          <li>口語＋跟讀聽選</li>
         </ul>
       </section>
-
-      <p className="text-sm text-[var(--muted)]">
-        想系統複習章節仍可去{" "}
-        <Link href="/english/review" className="text-[var(--sky)] underline">
-          英語複習
-        </Link>
-        、
-        <Link href="/quiz" className="text-[var(--sky)] underline">
-          題庫
-        </Link>
-        、
-        <Link href="/oral" className="text-[var(--sky)] underline">
-          口語區
-        </Link>
-        。
-      </p>
     </div>
   );
 }

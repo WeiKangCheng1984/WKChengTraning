@@ -376,6 +376,8 @@ export function DailyUnitReview({
   results,
   onAgain,
   onHome,
+  againLabel = "再來一單元（+5–10 分）",
+  homeLabel = "回到今日總覽",
 }: {
   unit: DailyUnit;
   correct: number;
@@ -383,6 +385,8 @@ export function DailyUnitReview({
   results: StepResult[];
   onAgain: () => void;
   onHome: () => void;
+  againLabel?: string;
+  homeLabel?: string;
 }) {
   const rate = total ? Math.round((correct / total) * 100) : 0;
   const msg = useMemo(() => {
@@ -514,14 +518,14 @@ export function DailyUnitReview({
           onClick={onAgain}
           className="min-h-11 rounded-lg bg-[var(--accent)] px-5 text-sm text-white hover:brightness-105"
         >
-          再來一單元（+5–10 分）
+          {againLabel}
         </button>
         <button
           type="button"
           onClick={onHome}
           className="min-h-11 rounded-lg border border-[var(--line)] bg-[var(--surface)] px-5 text-sm text-[var(--ink)]"
         >
-          回到今日總覽
+          {homeLabel}
         </button>
       </div>
     </section>

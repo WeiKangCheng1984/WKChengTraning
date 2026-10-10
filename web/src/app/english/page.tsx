@@ -44,7 +44,7 @@ export default function EnglishIndexPage() {
           今日英語微課
         </h2>
         <p className="mt-1 text-sm text-[var(--muted)]">
-          30 天路徑 · 選詞／填空／聽選／跟讀 · 可加練
+          30 天路徑 · 擴大題庫 · 可回看練習紀錄
         </p>
       </Link>
 
