@@ -30,23 +30,29 @@ export function DailyUnitPlayer({ unit, onComplete, onExit }: Props) {
   const [contrastPicked, setContrastPicked] = useState<"bad" | "good" | null>(
     null,
   );
+  /** Answered current step — wait for user to press Next */
+  const [pending, setPending] = useState<{
+    ok: boolean;
+    userAnswer?: string;
+  } | null>(null);
 
   const step = unit.steps[index];
   const total = unit.steps.length;
-  const pct = Math.round(
-    ((index + (revealed || picked || contrastPicked ? 1 : 0)) / total) * 100,
-  );
+  const answered = !!pending;
+  const pct = Math.round(((index + (answered ? 1 : 0)) / total) * 100);
+  const isLast = index + 1 >= total;
 
-  function advance(wasCorrect: boolean, userAnswer?: string) {
-    if (!step) return;
+  function goNext() {
+    if (!step || !pending) return;
     const nextResults = [
       ...results,
-      { step, ok: wasCorrect, userAnswer },
+      { step, ok: pending.ok, userAnswer: pending.userAnswer },
     ];
     setResults(nextResults);
     setPicked(null);
     setRevealed(false);
     setContrastPicked(null);
+    setPending(null);
     if (index + 1 >= total) {
       onComplete({
         correct: nextResults.filter((r) => r.ok).length,
@@ -98,24 +104,47 @@ export function DailyUnitPlayer({ unit, onComplete, onExit }: Props) {
           picked={picked}
           revealed={revealed}
           contrastPicked={contrastPicked}
+          rated={!!pending && (step.kind === "pattern_reveal" || step.kind === "speak_check")}
           onPick={(c, ok) => {
+            if (pending) return;
             setPicked(c);
-            window.setTimeout(() => advance(ok, c), 650);
+            setPending({ ok, userAnswer: c });
           }}
           onReveal={() => setRevealed(true)}
-          onRevealContinue={(ok, label) => advance(ok, label)}
+          onRevealContinue={(ok, label) => {
+            if (pending) return;
+            setPending({ ok, userAnswer: label });
+          }}
           onContrast={(choice) => {
+            if (pending) return;
             setContrastPicked(choice);
-            window.setTimeout(
-              () =>
-                advance(
-                  choice === "good",
-                  choice === "good" ? "選了正確句" : "選了較不自然句",
-                ),
-              700,
-            );
+            setPending({
+              ok: choice === "good",
+              userAnswer:
+                choice === "good" ? "選了正確句" : "選了較不自然句",
+            });
           }}
         />
+
+        {pending ? (
+          <div className="mt-5 space-y-3 border-t border-[var(--line)] pt-4">
+            <p
+              className={`text-sm font-medium ${
+                pending.ok ? "text-[var(--ok)]" : "text-[var(--bad)]"
+              }`}
+            >
+              {pending.ok ? "答對了！可以慢慢看解析。" : "這題先記下來，看完解析再繼續。"}
+            </p>
+            <button
+              type="button"
+              onClick={goNext}
+              className="inline-flex min-h-11 w-full items-center justify-center gap-2 rounded-lg bg-[var(--accent)] px-5 text-sm text-white hover:brightness-105"
+            >
+              <CuteIcon name="spark" />
+              {isLast ? "看完整單元解析" : "下一題"}
+            </button>
+          </div>
+        ) : null}
       </div>
     </section>
   );
@@ -147,6 +176,7 @@ function StepBody({
   picked,
   revealed,
   contrastPicked,
+  rated,
   onPick,
   onReveal,
   onRevealContinue,
@@ -156,6 +186,7 @@ function StepBody({
   picked: string | null;
   revealed: boolean;
   contrastPicked: "bad" | "good" | null;
+  rated: boolean;
   onPick: (choice: string, ok: boolean) => void;
   onReveal: () => void;
   onRevealContinue: (ok: boolean, label: string) => void;
@@ -210,8 +241,16 @@ function StepBody({
             );
           })}
         </div>
-        {picked && step.explainZh ? (
-          <p className="text-sm text-[var(--muted)]">{step.explainZh}</p>
+        {picked ? (
+          <div className="space-y-2 rounded-lg bg-[var(--sky-soft)] px-3 py-3 text-sm">
+            <p className="text-[var(--ink)]">
+              正確答案：
+              <span className="font-medium text-[var(--sky)]"> {step.answer}</span>
+            </p>
+            {step.explainZh ? (
+              <p className="text-[var(--muted)]">{step.explainZh}</p>
+            ) : null}
+          </div>
         ) : null}
       </div>
     );
@@ -253,7 +292,10 @@ function StepBody({
           })}
         </div>
         {contrastPicked ? (
-          <p className="text-sm text-[var(--muted)]">{step.note}</p>
+          <div className="space-y-1 rounded-lg bg-[var(--sky-soft)] px-3 py-3 text-sm text-[var(--muted)]">
+            <p className="text-[var(--ink)]">正確句：{step.good}</p>
+            <p>{step.note}</p>
+          </div>
         ) : null}
       </div>
     );
@@ -292,29 +334,37 @@ function StepBody({
             </p>
           </div>
           {step.note ? (
-            <p className="text-sm text-[var(--muted)]">{step.note}</p>
+            <p className="rounded-lg bg-[var(--sky-soft)] px-3 py-2 text-sm text-[var(--muted)]">
+              {step.note}
+            </p>
           ) : null}
-          <div className="flex flex-wrap gap-2">
-            <button
-              type="button"
-              onClick={() =>
-                onRevealContinue(
-                  true,
-                  step.kind === "speak_check" ? "已跟讀" : "記住了",
-                )
-              }
-              className="min-h-11 flex-1 rounded-lg bg-[var(--accent)] px-4 text-sm text-white"
-            >
-              {step.kind === "speak_check" ? "已跟讀" : "記住了"}
-            </button>
-            <button
-              type="button"
-              onClick={() => onRevealContinue(false, "還不熟")}
-              className="min-h-11 flex-1 rounded-lg border border-[var(--line)] px-4 text-sm text-[var(--ink)]"
-            >
-              還不熟
-            </button>
-          </div>
+          {!rated ? (
+            <div className="flex flex-wrap gap-2">
+              <button
+                type="button"
+                onClick={() =>
+                  onRevealContinue(
+                    true,
+                    step.kind === "speak_check" ? "已跟讀" : "記住了",
+                  )
+                }
+                className="min-h-11 flex-1 rounded-lg bg-[var(--accent)] px-4 text-sm text-white"
+              >
+                {step.kind === "speak_check" ? "已跟讀" : "記住了"}
+              </button>
+              <button
+                type="button"
+                onClick={() => onRevealContinue(false, "還不熟")}
+                className="min-h-11 flex-1 rounded-lg border border-[var(--line)] px-4 text-sm text-[var(--ink)]"
+              >
+                還不熟
+              </button>
+            </div>
+          ) : (
+            <p className="text-sm text-[var(--muted)]">
+              已記錄你的自評，看完可按下方下一題。
+            </p>
+          )}
         </div>
       )}
     </div>
