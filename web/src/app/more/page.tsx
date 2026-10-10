@@ -57,6 +57,11 @@ const links = [
     body: "40 篇×25 題 · 單獨／測驗雙模式 · 三選項解析。",
   },
   {
+    href: "/oral",
+    title: "口語練習",
+    body: "100 單元×10 句 · 跟讀語音評分（Chrome／Edge）。",
+  },
+  {
     href: "/english/gre",
     title: "GRE 單字",
     body: "GRE 詞庫 · 例句 TTS · 字母瀏覽。",

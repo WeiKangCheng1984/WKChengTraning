@@ -349,3 +349,34 @@ export type QuizBankData = {
   quizzes: QuizItem[];
 };
 
+export type OralSentence = {
+  id: string;
+  en: string;
+  zh: string;
+  tip?: string;
+  source: string;
+};
+
+export type OralUnit = {
+  id: string;
+  num: number;
+  slug: string;
+  series: string;
+  focus: string;
+  titleZh: string;
+  titleEn: string;
+  blurb: string;
+  sentenceCount: number;
+  sentences: OralSentence[];
+};
+
+export type OralPracticeData = {
+  version: number;
+  totalUnits: number;
+  sentencesPerUnit: number;
+  totalSentences: number;
+  engine: string;
+  audio: "tts";
+  units: OralUnit[];
+};
+

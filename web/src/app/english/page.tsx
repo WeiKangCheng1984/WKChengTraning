@@ -137,7 +137,7 @@ export default function EnglishIndexPage() {
             {greData.total} 詞 · 近義／反義／例句 · 依字母瀏覽
           </p>
         </Link>
-        <Link href="/quiz" className="card-tap block sm:col-span-2">
+        <Link href="/quiz" className="card-tap block">
           <p className="text-xs uppercase tracking-[0.18em] text-[var(--accent)]">
             Quiz Bank
           </p>
@@ -146,6 +146,17 @@ export default function EnglishIndexPage() {
           </h2>
           <p className="mt-1 text-sm text-[var(--muted)]">
             40 篇 × 25 題 · 單獨／測驗雙模式 · 三選項解析
+          </p>
+        </Link>
+        <Link href="/oral" className="card-tap block">
+          <p className="text-xs uppercase tracking-[0.18em] text-[var(--accent)]">
+            Oral · Phase A
+          </p>
+          <h2 className="mt-2 font-[family-name:var(--font-display)] text-xl text-[var(--ink)]">
+            口語練習
+          </h2>
+          <p className="mt-1 text-sm text-[var(--muted)]">
+            100 單元 · 每日 10 句跟讀評分 · TTS＋語音辨識
           </p>
         </Link>
       </div>
