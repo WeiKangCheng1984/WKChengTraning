@@ -18,6 +18,13 @@ export default function LoginPage() {
     setBusy(true);
     setStatus("");
     const supabase = createClient();
+    if (!supabase) {
+      setBusy(false);
+      setStatus(
+        "尚未設定 Supabase。請在 Vercel → Settings → Environment Variables 加入 NEXT_PUBLIC_SUPABASE_URL 與 NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY，再 Redeploy。",
+      );
+      return;
+    }
     const trimmed = email.trim();
 
     if (mode === "login") {
@@ -44,13 +51,14 @@ export default function LoginPage() {
       setStatus(error.message);
       return;
     }
-    // If email confirmation is off, session is returned immediately
     if (data.session) {
       router.replace("/");
       router.refresh();
       return;
     }
-    setStatus("註冊成功。若專案有開信箱驗證，請到信箱點連結後再登入；否則可直接切回「登入」。");
+    setStatus(
+      "註冊成功。若專案有開信箱驗證，請到信箱點連結後再登入；否則可直接切回「登入」。",
+    );
     setMode("login");
   }
 

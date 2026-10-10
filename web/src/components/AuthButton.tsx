@@ -9,10 +9,18 @@ import { syncProgressBidirectional } from "@/lib/progressSync";
 export function AuthButton() {
   const [user, setUser] = useState<User | null>(null);
   const [syncMsg, setSyncMsg] = useState("");
+  const [ready, setReady] = useState(false);
 
   useEffect(() => {
     const supabase = createClient();
-    supabase.auth.getUser().then(({ data }) => setUser(data.user));
+    if (!supabase) {
+      setReady(true);
+      return;
+    }
+    supabase.auth.getUser().then(({ data }) => {
+      setUser(data.user);
+      setReady(true);
+    });
     const {
       data: { subscription },
     } = supabase.auth.onAuthStateChange((_event, session) => {
@@ -30,9 +38,12 @@ export function AuthButton() {
 
   async function signOut() {
     const supabase = createClient();
+    if (!supabase) return;
     await supabase.auth.signOut();
     setUser(null);
   }
+
+  if (!ready) return null;
 
   if (!user) {
     return (

@@ -24,6 +24,9 @@ export async function syncProgressBidirectional(): Promise<{
 }> {
   try {
     const supabase = createClient();
+    if (!supabase) {
+      return { ok: false, error: "尚未設定 Supabase 環境變數" };
+    }
     const {
       data: { user },
       error: userErr,
@@ -99,6 +102,7 @@ export async function pushProgressKey(key: string): Promise<void> {
   if (payload == null) return;
 
   const supabase = createClient();
+  if (!supabase) return;
   const {
     data: { user },
   } = await supabase.auth.getUser();

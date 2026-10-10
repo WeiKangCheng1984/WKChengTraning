@@ -16,11 +16,12 @@ export function ProgressSyncHost() {
 
   useEffect(() => {
     const supabase = createClient();
+    if (!supabase) return;
 
     async function onAuth() {
       const {
         data: { user },
-      } = await supabase.auth.getUser();
+      } = await supabase!.auth.getUser();
       loggedIn.current = !!user;
       if (user) {
         await syncProgressBidirectional();
