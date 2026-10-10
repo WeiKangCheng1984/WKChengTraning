@@ -180,7 +180,7 @@ export function OralUnitClient({ unit, nextSlug = null }: Props) {
             className="inline-flex min-h-10 items-center rounded-lg border border-[var(--line)] bg-[var(--surface)] px-4 text-sm text-[var(--ink)] hover:border-[var(--accent)]"
             title="接近自然語速"
           >
-            🔊 快速
+            快速
           </button>
           <button
             type="button"
@@ -188,7 +188,7 @@ export function OralUnitClient({ unit, nextSlug = null }: Props) {
             className="inline-flex min-h-10 items-center rounded-lg border border-[var(--sky)] bg-[var(--sky-soft)] px-4 text-sm text-[var(--ink)] hover:brightness-105"
             title="放慢方便跟讀"
           >
-            🐢 慢速
+            慢速
           </button>
           {!listening ? (
             <button
