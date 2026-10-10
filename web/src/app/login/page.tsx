@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { useState } from "react";
+import { isAllowedEmail } from "@/lib/authAllowlist";
 import { getBrowserClient } from "@/lib/supabase/client";
 
 export default function LoginPage() {
@@ -11,38 +12,29 @@ export default function LoginPage() {
   const [password, setPassword] = useState("");
   const [status, setStatus] = useState("");
   const [busy, setBusy] = useState(false);
-  const [mode, setMode] = useState<"login" | "signup">("login");
 
   async function onSubmit(e: React.FormEvent) {
     e.preventDefault();
     setBusy(true);
     setStatus("");
+    const trimmed = email.trim();
+
+    if (!isAllowedEmail(trimmed)) {
+      setBusy(false);
+      setStatus("此網站僅供個人使用，無法以此帳號登入。");
+      return;
+    }
+
     const supabase = await getBrowserClient();
     if (!supabase) {
       setBusy(false);
       setStatus(
-        "尚未設定 Supabase。請在 Vercel → Settings → Environment Variables 確認已儲存 NEXT_PUBLIC_SUPABASE_URL 與 NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY（Production），存檔後再 Redeploy。",
+        "尚未設定 Supabase。請在 Vercel → Settings → Environment Variables 確認已儲存環境變數後再 Redeploy。",
       );
       return;
     }
-    const trimmed = email.trim();
 
-    if (mode === "login") {
-      const { error } = await supabase.auth.signInWithPassword({
-        email: trimmed,
-        password,
-      });
-      setBusy(false);
-      if (error) {
-        setStatus(error.message);
-        return;
-      }
-      router.replace("/");
-      router.refresh();
-      return;
-    }
-
-    const { data, error } = await supabase.auth.signUp({
+    const { data, error } = await supabase.auth.signInWithPassword({
       email: trimmed,
       password,
     });
@@ -51,15 +43,13 @@ export default function LoginPage() {
       setStatus(error.message);
       return;
     }
-    if (data.session) {
-      router.replace("/");
-      router.refresh();
+    if (!isAllowedEmail(data.user?.email)) {
+      await supabase.auth.signOut();
+      setStatus("此網站僅供個人使用，無法以此帳號登入。");
       return;
     }
-    setStatus(
-      "註冊成功。若專案有開信箱驗證，請到信箱點連結後再登入；否則可直接切回「登入」。",
-    );
-    setMode("login");
+    router.replace("/");
+    router.refresh();
   }
 
   return (
@@ -75,10 +65,10 @@ export default function LoginPage() {
           Account
         </p>
         <h1 className="mt-2 font-[family-name:var(--font-display)] text-3xl text-[var(--ink)]">
-          {mode === "login" ? "登入" : "註冊"}
+          登入
         </h1>
         <p className="mt-2 text-sm text-[var(--muted)]">
-          用 Email＋密碼即可；登入後會把本機學習進度同步到雲端。
+          個人進度同步（僅限授權帳號）。公開註冊已關閉。
         </p>
       </div>
 
@@ -96,10 +86,10 @@ export default function LoginPage() {
           type="password"
           required
           minLength={6}
-          autoComplete={mode === "login" ? "current-password" : "new-password"}
+          autoComplete="current-password"
           value={password}
           onChange={(e) => setPassword(e.target.value)}
-          placeholder="密碼（至少 6 碼）"
+          placeholder="密碼"
           className="w-full rounded-sm border border-[var(--line)] bg-[var(--surface)] px-3 py-2 text-sm outline-none focus:border-[var(--accent)]"
         />
         <button
@@ -107,21 +97,9 @@ export default function LoginPage() {
           disabled={busy}
           className="min-h-11 w-full rounded-sm bg-[var(--ink)] px-4 text-sm text-[var(--paper)] hover:bg-[var(--ink-soft)] disabled:opacity-50"
         >
-          {busy ? "處理中…" : mode === "login" ? "登入" : "建立帳號"}
+          {busy ? "處理中…" : "登入"}
         </button>
       </form>
-
-      <button
-        type="button"
-        disabled={busy}
-        onClick={() => {
-          setMode(mode === "login" ? "signup" : "login");
-          setStatus("");
-        }}
-        className="w-full text-center text-sm text-[var(--muted)] underline-offset-2 hover:text-[var(--ink)] hover:underline"
-      >
-        {mode === "login" ? "還沒有帳號？註冊" : "已有帳號？登入"}
-      </button>
 
       {status ? (
         <p className="text-sm text-[var(--muted)]">{status}</p>

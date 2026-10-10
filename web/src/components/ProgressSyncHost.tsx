@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useRef } from "react";
+import { isAllowedEmail } from "@/lib/authAllowlist";
 import { getBrowserClient } from "@/lib/supabase/client";
 import { PROGRESS_KEYS } from "@/lib/progressKeys";
 import {
@@ -25,15 +26,25 @@ export function ProgressSyncHost() {
       const {
         data: { user },
       } = await client.auth.getUser();
-      loggedIn.current = !!user;
-      if (user) {
-        await syncProgressBidirectional();
+      if (user && !isAllowedEmail(user.email)) {
+        await client.auth.signOut();
+        loggedIn.current = false;
+      } else {
+        loggedIn.current = !!user;
+        if (user) {
+          await syncProgressBidirectional();
+        }
       }
 
       const {
         data: { subscription },
-      } = client.auth.onAuthStateChange((event) => {
+      } = client.auth.onAuthStateChange((event, session) => {
         if (event === "SIGNED_IN" || event === "TOKEN_REFRESHED") {
+          if (session?.user && !isAllowedEmail(session.user.email)) {
+            void client.auth.signOut();
+            loggedIn.current = false;
+            return;
+          }
           loggedIn.current = true;
           void syncProgressBidirectional();
         }

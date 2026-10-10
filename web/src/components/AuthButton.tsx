@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { useEffect, useState } from "react";
 import type { User } from "@supabase/supabase-js";
+import { isAllowedEmail } from "@/lib/authAllowlist";
 import { getBrowserClient } from "@/lib/supabase/client";
 import { syncProgressBidirectional } from "@/lib/progressSync";
 
@@ -19,13 +20,23 @@ export function AuthButton() {
         setReady(true);
         return;
       }
+
+      async function acceptUser(next: User | null) {
+        if (next && !isAllowedEmail(next.email)) {
+          await supabase!.auth.signOut();
+          setUser(null);
+          return;
+        }
+        setUser(next);
+      }
+
       const { data } = await supabase.auth.getUser();
-      setUser(data.user);
+      await acceptUser(data.user);
       setReady(true);
       const {
         data: { subscription },
       } = supabase.auth.onAuthStateChange((_event, session) => {
-        setUser(session?.user ?? null);
+        void acceptUser(session?.user ?? null);
       });
       unsubscribe = () => subscription.unsubscribe();
     })();

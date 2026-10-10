@@ -1,3 +1,4 @@
+import { isAllowedEmail } from "@/lib/authAllowlist";
 import { getBrowserClient } from "@/lib/supabase/client";
 import { PROGRESS_KEYS } from "@/lib/progressKeys";
 import { STORAGE_EVENT } from "@/lib/persist";
@@ -33,6 +34,10 @@ export async function syncProgressBidirectional(): Promise<{
     } = await supabase.auth.getUser();
     if (userErr || !user) {
       return { ok: false, error: "未登入" };
+    }
+    if (!isAllowedEmail(user.email)) {
+      await supabase.auth.signOut();
+      return { ok: false, error: "未授權帳號" };
     }
 
     const { data: rows, error } = await supabase
@@ -106,7 +111,7 @@ export async function pushProgressKey(key: string): Promise<void> {
   const {
     data: { user },
   } = await supabase.auth.getUser();
-  if (!user) return;
+  if (!user || !isAllowedEmail(user.email)) return;
 
   await supabase.from("progress_snapshots").upsert(
     {
