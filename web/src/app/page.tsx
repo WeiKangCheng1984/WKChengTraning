@@ -5,7 +5,8 @@ import { useEffect, useMemo, useState } from "react";
 import { DailyGoalCard } from "@/components/DailyGoalCard";
 import { ProgressSummary } from "@/components/ProgressSummary";
 import { PLAN_DAYS, planProgress } from "@/lib/plan";
-import { buildEnglishPack, type EnglishPack } from "@/lib/englishToday";
+import { todayUnitSummary } from "@/lib/dailyUnitProgress";
+import { englishReviewKeys } from "@/lib/englishToday";
 import { onStorageChange } from "@/lib/persist";
 import { getSession } from "@/lib/session";
 import { countScheduledDue } from "@/lib/srs";
@@ -42,7 +43,10 @@ export default function HomePage() {
 
   const [progress, setProgress] = useState({ done: 0, total: 20, pct: 0 });
   const [dueCfa, setDueCfa] = useState(0);
-  const [pack, setPack] = useState<EnglishPack | null>(null);
+  const [dueEn, setDueEn] = useState(0);
+  const [daily, setDaily] = useState<ReturnType<typeof todayUnitSummary> | null>(
+    null,
+  );
   const [lastSpeak, setLastSpeak] = useState<{
     slug?: string;
     title?: string;
@@ -54,7 +58,10 @@ export default function HomePage() {
       setDueCfa(
         countScheduledDue(cfaIds.map((id) => ({ scope: "cfa" as const, id }))),
       );
-      setPack(buildEnglishPack(grammarData, speakData, enData, vocabData));
+      setDueEn(
+        countScheduledDue(englishReviewKeys(grammarData, speakData, enData)),
+      );
+      setDaily(todayUnitSummary());
       const s = getSession();
       setLastSpeak({ slug: s.lastSpeakSlug, title: s.lastSpeakTitle });
     };
@@ -89,25 +96,27 @@ export default function HomePage() {
       {/* Mid focus: daily hour */}
       <DailyGoalCard />
 
-      {/* Main stage: English pack (B) */}
-      {pack ? (
+      {/* Main stage: daily micro-lesson */}
+      {daily ? (
         <Link href="/english/today" className="focus-cta">
           <div className="flex flex-wrap items-center justify-between gap-3">
             <div className="min-w-0">
               <p className="text-[10px] uppercase tracking-[0.18em] text-[var(--accent)]">
-                主任務 · 約 {pack.minutes} 分
+                主任務 · Day {daily.programDay}/30 · 約{" "}
+                {daily.main.estimatedMinutes} 分
               </p>
               <h2 className="mt-1 font-[family-name:var(--font-display)] text-xl text-[var(--ink)] sm:text-2xl">
-                今日英語套餐
+                今日英語微課
               </h2>
               <p className="mt-1 text-sm text-[var(--muted)]">
-                L{String(pack.grammar.num).padStart(2, "0")}{" "}
-                {pack.grammar.titleZh}
-                {pack.reviewCount > 0 ? ` · 到期 ${pack.reviewCount}` : ""}
+                {daily.main.titleZh}
+                {daily.doneCount > 0
+                  ? ` · 今日已練 ${daily.doneCount} 單元`
+                  : " · 連續混合練習"}
               </p>
             </div>
             <span className="inline-flex min-h-10 items-center rounded-sm bg-[var(--accent)] px-4 text-sm font-medium text-white">
-              開始 →
+              {daily.mainDone ? "加練 →" : "開始 →"}
             </span>
           </div>
         </Link>
@@ -144,9 +153,7 @@ export default function HomePage() {
           <div className="min-w-0">
             <p className="text-[10px] text-[var(--accent)]">英語到期複習</p>
             <p className="truncate text-sm font-medium text-[var(--ink)]">
-              {pack && pack.reviewCount > 0
-                ? `${pack.reviewCount} 項可練`
-                : "目前沒有到期項"}
+              {dueEn > 0 ? `${dueEn} 項可練` : "目前沒有到期項"}
               {dueCfa > 0 ? ` · CFA ${dueCfa}` : ""}
             </p>
           </div>

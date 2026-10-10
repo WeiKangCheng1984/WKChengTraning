@@ -67,8 +67,8 @@ export const BADGES: BadgeDef[] = [
   },
   {
     id: "pack-week",
-    title: "套餐達人",
-    body: "一週內完成英語套餐步驟達 7 次。",
+    title: "微課達人",
+    body: "一週內完成英語每日微課達 7 次。",
   },
   {
     id: "early-bird",
@@ -266,6 +266,37 @@ export function creditPackStep(step: number): RewardsSnapshot {
     if (!state.packCompletions.includes(today)) {
       state.packCompletions.push(today);
     }
+  }
+
+  recomputeStreak(state, today);
+  evaluateBadges(state, today);
+  write(state);
+
+  const snap = getRewardsSnapshot();
+  snap.newlyUnlocked = state.badges.filter((b) => !beforeBadges.has(b));
+  return snap;
+}
+
+/** Bonus when finishing a daily micro-lesson unit (Plan A). */
+export function creditDailyUnit(unitIndex: number): RewardsSnapshot {
+  const state = read();
+  const today = todayIso();
+  const beforeBadges = new Set(state.badges);
+  const day = state.byDay[today] ?? emptyDay();
+  // Encode unit completions as packSteps 101+ so they don't collide with old 1–5 steps
+  const token = 100 + unitIndex;
+  if (day.packSteps.includes(token)) return getRewardsSnapshot();
+
+  day.packSteps.push(token);
+  const bonus = unitIndex === 0 ? 8 : 6;
+  const prev = day.minutes;
+  day.minutes = Math.min(120, prev + bonus);
+  state.totalMinutes += day.minutes - prev;
+  if (day.minutes >= DAILY_GOAL_MINUTES) day.goalHit = true;
+  state.byDay[today] = day;
+
+  if (!state.packCompletions.includes(today)) {
+    state.packCompletions.push(today);
   }
 
   recomputeStreak(state, today);

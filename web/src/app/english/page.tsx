@@ -38,13 +38,13 @@ export default function EnglishIndexPage() {
 
       <Link href="/english/today" className="focus-cta">
         <p className="text-[10px] uppercase tracking-[0.18em] text-[var(--accent)]">
-          Today pack · 約 20 分
+          Daily micro · 5–10 分／單元
         </p>
         <h2 className="mt-1 font-[family-name:var(--font-display)] text-xl text-[var(--ink)]">
-          今日英語套餐
+          今日英語微課
         </h2>
         <p className="mt-1 text-sm text-[var(--muted)]">
-          文法短文 → 跟讀 → 句型 → 到期複習
+          30 天路徑 · 選詞／填空／聽選／跟讀 · 可加練
         </p>
       </Link>
 

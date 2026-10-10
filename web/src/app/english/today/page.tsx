@@ -2,80 +2,85 @@
 
 import Link from "next/link";
 import { useEffect, useState } from "react";
-import english from "@/data/english.json";
-import grammar from "@/data/grammar.json";
-import speak from "@/data/speak.json";
-import vocabulary from "@/data/vocabulary.json";
-import { buildEnglishPack, type EnglishPack } from "@/lib/englishToday";
+import {
+  DailyUnitCompleteCard,
+  DailyUnitPlayer,
+} from "@/components/DailyUnitPlayer";
+import type { DailyUnit } from "@/lib/dailyUnit/types";
+import {
+  getTodayDoneIds,
+  markUnitDone,
+  nextUnitForToday,
+  todayUnitSummary,
+} from "@/lib/dailyUnitProgress";
 import { onStorageChange } from "@/lib/persist";
-import { creditPackStep } from "@/lib/rewards";
-import { setEnglishPackProgress } from "@/lib/session";
-import type {
-  EnglishData,
-  GrammarData,
-  SpeakData,
-  VocabularyData,
-} from "@/lib/types";
+import { creditDailyUnit } from "@/lib/rewards";
 
-const grammarData = grammar as GrammarData;
-const speakData = speak as SpeakData;
-const enData = english as EnglishData;
-const vocabData = vocabulary as VocabularyData;
+type Phase =
+  | { kind: "hub" }
+  | { kind: "play"; unit: DailyUnit }
+  | {
+      kind: "done";
+      unit: DailyUnit;
+      correct: number;
+      total: number;
+    };
 
 export default function EnglishTodayPage() {
-  const [pack, setPack] = useState<EnglishPack | null>(null);
+  const [phase, setPhase] = useState<Phase>({ kind: "hub" });
+  const [summary, setSummary] = useState<ReturnType<typeof todayUnitSummary> | null>(
+    null,
+  );
 
   useEffect(() => {
-    const sync = () =>
-      setPack(buildEnglishPack(grammarData, speakData, enData, vocabData));
+    const sync = () => setSummary(todayUnitSummary());
     sync();
     return onStorageChange(sync);
   }, []);
 
-  if (!pack) {
-    return <p className="text-[var(--muted)]">準備今日英語套餐…</p>;
+  function startNext() {
+    const unit = nextUnitForToday();
+    setPhase({ kind: "play", unit });
   }
 
-  const steps = [
-    {
-      n: 1,
-      title: "文法課＋跟讀短文",
-      body: `Lesson ${String(pack.grammar.num).padStart(2, "0")}｜${pack.grammar.titleZh}。先讀規則，再用 TTS 跟讀短文（約 ${pack.grammar.passage.words} words）。`,
-      href: `/english/grammar/${pack.grammar.slug}`,
-      meta: "約 8–10 分",
-    },
-    {
-      n: 2,
-      title: "口語跟讀",
-      body: `接著練「${pack.speakTitle}」。可隱藏英文、逐句跟讀。`,
-      href: `/speak/${pack.speakSlug}`,
-      meta: "約 5–7 分",
-    },
-    {
-      n: 3,
-      title: "句型組句",
-      body: `做 ${pack.patternCount} 組：${pack.patternLabel}。看中文組句、聽發音。`,
-      href: pack.patternHref,
-      meta: "約 5 分",
-    },
-    {
-      n: 4,
-      title: "英語到期複習",
-      body:
-        pack.reviewCount > 0
-          ? `有 ${pack.reviewCount} 項文法／跟讀／句型到期，快速評分帶過。`
-          : "目前沒有到期項；標「學習中／已掌握」後會進入複習隊列。",
-      href: "/english/review",
-      meta: pack.reviewCount > 0 ? "約 3–5 分" : "可略過",
-    },
-    {
-      n: 5,
-      title: "進階詞彙閃卡",
-      body: `今日約 ${pack.vocabCount} 詞：${pack.vocabLabel}。可只背未掌握；標掌握度後會進間隔複習。`,
-      href: pack.vocabHref,
-      meta: "約 5–8 分",
-    },
-  ];
+  if (!summary) {
+    return <p className="text-[var(--muted)]">準備今日微課…</p>;
+  }
+
+  if (phase.kind === "play") {
+    return (
+      <DailyUnitPlayer
+        unit={phase.unit}
+        onExit={() => setPhase({ kind: "hub" })}
+        onComplete={({ correct, total }) => {
+          markUnitDone(phase.unit.id);
+          creditDailyUnit(phase.unit.unitIndex);
+          setSummary(todayUnitSummary());
+          setPhase({
+            kind: "done",
+            unit: phase.unit,
+            correct,
+            total,
+          });
+        }}
+      />
+    );
+  }
+
+  if (phase.kind === "done") {
+    return (
+      <DailyUnitCompleteCard
+        unit={phase.unit}
+        correct={phase.correct}
+        total={phase.total}
+        onAgain={startNext}
+        onHome={() => setPhase({ kind: "hub" })}
+      />
+    );
+  }
+
+  const done = getTodayDoneIds();
+  const mainDone = summary.mainDone;
 
   return (
     <div className="space-y-8">
@@ -87,49 +92,65 @@ export default function EnglishTodayPage() {
           ← English
         </Link>
         <p className="mt-3 text-xs uppercase tracking-[0.22em] text-[var(--accent)]">
-          Today · English
+          Daily · 30-day path
         </p>
         <h1 className="mt-2 font-[family-name:var(--font-display)] text-3xl text-[var(--ink)]">
-          今日英語套餐
+          今日英語微課
         </h1>
         <p className="mt-2 max-w-2xl text-base text-[var(--muted)]">
-          約 {pack.minutes}{" "}
-          分鐘。五步：文法 → 跟讀 → 句型 → 複習 → 進階詞彙。依掌握度自動選課。
+          第 {summary.programDay}/{summary.totalProgramDays}{" "}
+          天。每單元約 5–10 分鐘、連續混合練習（選詞、填空、聽選、跟讀）。至少完成 1
+          單元；想多練可繼續加練。
         </p>
       </div>
 
-      <ol className="space-y-3">
-        {steps.map((s) => (
-          <li key={s.n}>
-            <Link
-              href={s.href}
-              onClick={() => {
-                setEnglishPackProgress(s.n);
-                creditPackStep(s.n);
-              }}
-              className="card-tap flex flex-col gap-2 sm:flex-row sm:items-center sm:justify-between"
-            >
-              <div>
-                <p className="text-xs uppercase tracking-[0.16em] text-[var(--accent)]">
-                  Step {s.n} · {s.meta}
-                </p>
-                <h2 className="mt-1 font-[family-name:var(--font-display)] text-xl text-[var(--ink)]">
-                  {s.title}
-                </h2>
-                <p className="mt-1 text-sm leading-relaxed text-[var(--muted)]">
-                  {s.body}
-                </p>
-              </div>
-              <span className="shrink-0 text-sm text-[var(--ink)]">開始 →</span>
-            </Link>
-          </li>
-        ))}
-      </ol>
+      <section className="rounded-sm border border-[var(--line)] bg-[var(--surface)] p-5 sm:p-7">
+        <p className="text-xs uppercase tracking-[0.18em] text-[var(--accent)]">
+          Today · Day {summary.programDay}
+        </p>
+        <h2 className="mt-2 font-[family-name:var(--font-display)] text-2xl text-[var(--ink)]">
+          {summary.main.titleZh}
+        </h2>
+        <p className="mt-1 text-sm text-[var(--muted)]">
+          {summary.main.titleEn} · {summary.main.blurb}
+        </p>
+        <p className="mt-3 text-sm text-[var(--ink)]">
+          今日已完成 <strong>{done.length}</strong> 單元
+          {mainDone ? "（含今日主單元）" : "（主單元尚未完成）"}
+        </p>
+        <button
+          type="button"
+          onClick={startNext}
+          className="mt-5 min-h-11 rounded-sm bg-[var(--ink)] px-5 text-sm text-[var(--paper)] hover:bg-[var(--ink-soft)]"
+        >
+          {mainDone ? "再練一單元" : "開始今日單元"}
+        </button>
+      </section>
+
+      <section className="space-y-2">
+        <h3 className="text-sm font-medium text-[var(--ink)]">本單元題型</h3>
+        <ul className="grid gap-2 text-sm text-[var(--muted)] sm:grid-cols-2">
+          <li>看中文選英文詞</li>
+          <li>GRE／Quiz 挖空三選一</li>
+          <li>句型先想再揭曉</li>
+          <li>文法對比選正確句</li>
+          <li>聽英語選中文</li>
+          <li>跟讀自評</li>
+        </ul>
+      </section>
 
       <p className="text-sm text-[var(--muted)]">
-        房地產專名另見{" "}
-        <Link href="/real-estate" className="text-[var(--ink)] underline">
-          Real Estate
+        想系統複習章節仍可去{" "}
+        <Link href="/english/review" className="text-[var(--ink)] underline">
+          英語複習
+        </Link>
+        、
+        <Link href="/quiz" className="text-[var(--ink)] underline">
+          題庫
+        </Link>
+        、
+        <Link href="/oral" className="text-[var(--ink)] underline">
+          口語區
         </Link>
         。
       </p>

@@ -8,6 +8,7 @@ export const PROGRESS_KEYS = [
   "omnilearn-favorites-v1",
   "omnilearn-rewards-v1",
   "omnilearn-my-sentences-v1",
+  "omnilearn-daily-units-v1",
 ] as const;
 
 export type ProgressKey = (typeof PROGRESS_KEYS)[number];

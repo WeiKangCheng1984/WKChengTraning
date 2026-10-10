@@ -144,9 +144,9 @@ export default function RewardsPage() {
           <li>
             完成{" "}
             <Link href="/english/today" className="text-[var(--ink)] underline">
-              今日英語套餐
+              今日英語微課
             </Link>{" "}
-            步驟可額外獲得少量獎勵分鐘。
+            完成單元可額外獲得獎勵分鐘。
           </li>
           <li>連續「滿 60 分鐘」的日子才算達標連續天數。</li>
         </ul>

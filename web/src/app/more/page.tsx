@@ -28,8 +28,8 @@ const links = [
   },
   {
     href: "/english/today",
-    title: "今日英語套餐",
-    body: "約 20 分：文法 → 跟讀 → 句型 → 複習。",
+    title: "今日英語微課",
+    body: "30 天路徑，每單元 5–10 分；可加練。",
   },
   {
     href: "/english/grammar",
