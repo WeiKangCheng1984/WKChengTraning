@@ -81,6 +81,17 @@ export default function EnglishIndexPage() {
           </div>
           <span className="mt-4 text-sm text-[var(--ink)]">開始 →</span>
         </Link>
+        <Link href="/word-bag" className="card-tap block">
+          <p className="text-xs uppercase tracking-[0.18em] text-[var(--accent)]">
+            Word bag
+          </p>
+          <h2 className="mt-2 font-[family-name:var(--font-display)] text-xl text-[var(--ink)]">
+            生詞袋
+          </h2>
+          <p className="mt-2 text-sm text-[var(--muted)]">
+            選取單字收納 · 未會優先 · 可標已會
+          </p>
+        </Link>
         <Link href="/english/review" className="card-tap block">
           <p className="text-xs uppercase tracking-[0.18em] text-[var(--accent)]">
             Review

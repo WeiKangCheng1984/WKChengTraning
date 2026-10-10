@@ -5,6 +5,7 @@ export const PROGRESS_KEYS = [
   "omnilearn-quiz-progress-v1",
   "omnilearn-oral-progress-v1",
   "omnilearn-favorites-v1",
+  "omnilearn-word-bag-v1",
   "omnilearn-rewards-v1",
   "omnilearn-my-sentences-v1",
   "omnilearn-daily-units-v1",

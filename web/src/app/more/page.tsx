@@ -41,8 +41,14 @@ const links: Array<{
   {
     href: "/saved",
     title: "收藏",
-    body: "本機收藏。",
+    body: "頁面／卡片書籤。",
     icon: "heart",
+  },
+  {
+    href: "/word-bag",
+    title: "生詞袋",
+    body: "選取單字收納 · 未會優先 · 可標已會。",
+    icon: "pencil",
   },
   {
     href: "/vault",

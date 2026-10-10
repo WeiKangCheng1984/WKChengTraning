@@ -23,7 +23,7 @@ export default function SavedPage() {
           收藏
         </h1>
         <p className="mt-2 text-sm text-[var(--muted)]">
-          收藏存在這個瀏覽器裡，清資料或換裝置後不會跟著走。
+          頁面／卡片書籤（與「生詞袋」不同）。登入後可隨進度同步。
         </p>
       </div>
 

@@ -4,6 +4,7 @@ import { Newsreader, Source_Sans_3 } from "next/font/google";
 import { SiteHeader } from "@/components/SiteHeader";
 import { BottomNav } from "@/components/BottomNav";
 import { ProgressSyncHost } from "@/components/ProgressSyncHost";
+import { WordCaptureHost } from "@/components/WordCaptureHost";
 import { THEME_BOOT_SCRIPT } from "@/lib/theme";
 import "./globals.css";
 
@@ -43,6 +44,7 @@ export default function RootLayout({
         </Script>
         <SiteHeader />
         <ProgressSyncHost />
+        <WordCaptureHost />
         <main className="mx-auto max-w-5xl px-4 pb-24 pt-4 sm:px-6 sm:pt-5">
           {children}
         </main>
