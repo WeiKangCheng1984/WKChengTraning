@@ -2,7 +2,6 @@
 
 import Link from "next/link";
 import { useEffect, useRef, useState } from "react";
-import { SpeakButton } from "@/components/SpeakButton";
 import { speakEnglish, stopSpeaking } from "@/lib/speech";
 import {
   createRecognizer,
@@ -175,13 +174,21 @@ export function OralUnitClient({ unit, nextSlug = null }: Props) {
         ) : null}
 
         <div className="mt-5 flex flex-wrap gap-2">
-          <SpeakButton text={sentence.en} label="聽示範" />
           <button
             type="button"
-            onClick={() => speakEnglish(sentence.en)}
-            className="inline-flex min-h-10 items-center rounded-sm border border-[var(--line)] px-4 text-sm text-[var(--ink)] hover:border-[var(--accent)]"
+            onClick={() => speakEnglish(sentence.en, { speed: "fast" })}
+            className="inline-flex min-h-10 items-center rounded-lg border border-[var(--line)] bg-[var(--surface)] px-4 text-sm text-[var(--ink)] hover:border-[var(--accent)]"
+            title="接近自然語速"
           >
-            再聽一次
+            🔊 快速
+          </button>
+          <button
+            type="button"
+            onClick={() => speakEnglish(sentence.en, { speed: "slow" })}
+            className="inline-flex min-h-10 items-center rounded-lg border border-[var(--sky)] bg-[var(--sky-soft)] px-4 text-sm text-[var(--ink)] hover:brightness-105"
+            title="放慢方便跟讀"
+          >
+            🐢 慢速
           </button>
           {!listening ? (
             <button

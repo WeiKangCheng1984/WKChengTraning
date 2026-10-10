@@ -1,20 +1,26 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { speakEnglish } from "@/lib/speech";
+import { speakEnglish, type SpeakSpeed } from "@/lib/speech";
 
 type Props = {
   text: string;
   label?: string;
   size?: "sm" | "md";
+  /** Default normal; oral practice can pass fast/slow */
+  speed?: SpeakSpeed;
 };
 
-export function SpeakButton({ text, label = "發音", size = "md" }: Props) {
+export function SpeakButton({
+  text,
+  label = "發音",
+  size = "md",
+  speed = "normal",
+}: Props) {
   const [playing, setPlaying] = useState(false);
 
   useEffect(() => {
     if (typeof window === "undefined" || !window.speechSynthesis) return;
-    // Chrome often needs a voices refresh
     window.speechSynthesis.getVoices();
   }, []);
 
@@ -23,7 +29,7 @@ export function SpeakButton({ text, label = "發音", size = "md" }: Props) {
     e.stopPropagation();
     if (!text.trim()) return;
     setPlaying(true);
-    speakEnglish(text, () => setPlaying(false));
+    speakEnglish(text, { speed, onEnd: () => setPlaying(false) });
   }
 
   const dim =
@@ -35,8 +41,8 @@ export function SpeakButton({ text, label = "發音", size = "md" }: Props) {
     <button
       type="button"
       onClick={handleClick}
-      title={`播放英語發音：${label}`}
-      aria-label={`播放英語發音：${label}`}
+      title={`播放英語發音（${speed === "slow" ? "慢速" : speed === "fast" ? "快速" : "標準"}）：${label}`}
+      aria-label={`播放英語發音（${speed === "slow" ? "慢速" : speed === "fast" ? "快速" : "標準"}）：${label}`}
       className={`inline-flex ${dim} shrink-0 items-center justify-center rounded-full border border-[var(--line)] bg-[var(--surface)] text-[var(--accent)] shadow-sm transition hover:border-[var(--accent)] hover:bg-[var(--accent-soft)] ${
         playing ? "ring-2 ring-[var(--accent)]/40" : ""
       }`}
