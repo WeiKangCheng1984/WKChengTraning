@@ -3,10 +3,10 @@
 import Link from "next/link";
 import { useEffect, useState } from "react";
 import {
-  DailyUnitCompleteCard,
   DailyUnitPlayer,
+  DailyUnitReview,
 } from "@/components/DailyUnitPlayer";
-import type { DailyUnit } from "@/lib/dailyUnit/types";
+import type { DailyUnit, StepResult } from "@/lib/dailyUnit/types";
 import {
   getTodayDoneIds,
   markUnitDone,
@@ -20,17 +20,18 @@ type Phase =
   | { kind: "hub" }
   | { kind: "play"; unit: DailyUnit }
   | {
-      kind: "done";
+      kind: "review";
       unit: DailyUnit;
       correct: number;
       total: number;
+      results: StepResult[];
     };
 
 export default function EnglishTodayPage() {
   const [phase, setPhase] = useState<Phase>({ kind: "hub" });
-  const [summary, setSummary] = useState<ReturnType<typeof todayUnitSummary> | null>(
-    null,
-  );
+  const [summary, setSummary] = useState<ReturnType<
+    typeof todayUnitSummary
+  > | null>(null);
 
   useEffect(() => {
     const sync = () => setSummary(todayUnitSummary());
@@ -52,27 +53,29 @@ export default function EnglishTodayPage() {
       <DailyUnitPlayer
         unit={phase.unit}
         onExit={() => setPhase({ kind: "hub" })}
-        onComplete={({ correct, total }) => {
+        onComplete={({ correct, total, results }) => {
           markUnitDone(phase.unit.id);
           creditDailyUnit(phase.unit.unitIndex);
           setSummary(todayUnitSummary());
           setPhase({
-            kind: "done",
+            kind: "review",
             unit: phase.unit,
             correct,
             total,
+            results,
           });
         }}
       />
     );
   }
 
-  if (phase.kind === "done") {
+  if (phase.kind === "review") {
     return (
-      <DailyUnitCompleteCard
+      <DailyUnitReview
         unit={phase.unit}
         correct={phase.correct}
         total={phase.total}
+        results={phase.results}
         onAgain={startNext}
         onHome={() => setPhase({ kind: "hub" })}
       />
@@ -91,7 +94,7 @@ export default function EnglishTodayPage() {
         >
           ← English
         </Link>
-        <p className="mt-3 text-xs uppercase tracking-[0.22em] text-[var(--accent)]">
+        <p className="mt-3 text-xs font-medium tracking-[0.18em] text-[var(--sky)]">
           Daily · 30-day path
         </p>
         <h1 className="mt-2 font-[family-name:var(--font-display)] text-3xl text-[var(--ink)]">
@@ -99,13 +102,19 @@ export default function EnglishTodayPage() {
         </h1>
         <p className="mt-2 max-w-2xl text-base text-[var(--muted)]">
           第 {summary.programDay}/{summary.totalProgramDays}{" "}
-          天。每單元約 5–10 分鐘、連續混合練習（選詞、填空、聽選、跟讀）。至少完成 1
-          單元；想多練可繼續加練。
+          天。每單元約 5–10 分鐘；完成後會有逐題解析。想多練就繼續加練吧！
         </p>
       </div>
 
-      <section className="rounded-sm border border-[var(--line)] bg-[var(--surface)] p-5 sm:p-7">
-        <p className="text-xs uppercase tracking-[0.18em] text-[var(--accent)]">
+      <section
+        className="border border-[var(--line)] p-5 sm:p-7"
+        style={{
+          borderRadius: "var(--radius)",
+          background:
+            "linear-gradient(145deg, color-mix(in srgb, var(--accent-soft) 55%, white), color-mix(in srgb, var(--sky-soft) 60%, white))",
+        }}
+      >
+        <p className="text-xs font-medium tracking-[0.16em] text-[var(--accent)]">
           Today · Day {summary.programDay}
         </p>
         <h2 className="mt-2 font-[family-name:var(--font-display)] text-2xl text-[var(--ink)]">
@@ -121,7 +130,7 @@ export default function EnglishTodayPage() {
         <button
           type="button"
           onClick={startNext}
-          className="mt-5 min-h-11 rounded-sm bg-[var(--ink)] px-5 text-sm text-[var(--paper)] hover:bg-[var(--ink-soft)]"
+          className="mt-5 min-h-11 rounded-lg bg-[var(--accent)] px-5 text-sm text-white hover:brightness-105"
         >
           {mainDone ? "再練一單元" : "開始今日單元"}
         </button>
@@ -135,21 +144,21 @@ export default function EnglishTodayPage() {
           <li>句型先想再揭曉</li>
           <li>文法對比選正確句</li>
           <li>聽英語選中文</li>
-          <li>跟讀自評</li>
+          <li>跟讀自評＋完成後逐題解析</li>
         </ul>
       </section>
 
       <p className="text-sm text-[var(--muted)]">
         想系統複習章節仍可去{" "}
-        <Link href="/english/review" className="text-[var(--ink)] underline">
+        <Link href="/english/review" className="text-[var(--sky)] underline">
           英語複習
         </Link>
         、
-        <Link href="/quiz" className="text-[var(--ink)] underline">
+        <Link href="/quiz" className="text-[var(--sky)] underline">
           題庫
         </Link>
         、
-        <Link href="/oral" className="text-[var(--ink)] underline">
+        <Link href="/oral" className="text-[var(--sky)] underline">
           口語區
         </Link>
         。

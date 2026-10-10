@@ -22,7 +22,7 @@ export function ThemeToggle() {
     <button
       type="button"
       onClick={() => setThemeState(toggleTheme())}
-      className="inline-flex min-h-10 items-center justify-center rounded-sm border border-white/20 px-3 text-sm text-white/90 hover:bg-white/10"
+      className="inline-flex min-h-10 items-center justify-center rounded-lg border border-white/25 px-3 text-sm text-white/95 hover:bg-white/10"
       aria-label={`切換配色（目前：${THEME_LABEL[theme]}）`}
       title={`配色：${THEME_LABEL[theme]}（點擊切換）`}
     >

@@ -63,7 +63,7 @@ export function AuthButton() {
     return (
       <Link
         href="/login"
-        className="inline-flex min-h-10 items-center justify-center rounded-sm border border-white/20 px-3 text-sm text-white/90 hover:bg-white/10"
+        className="inline-flex min-h-10 items-center justify-center rounded-lg border border-white/25 px-3 text-sm text-white/95 hover:bg-white/10"
       >
         登入
       </Link>
@@ -78,7 +78,7 @@ export function AuthButton() {
         type="button"
         onClick={sync}
         title="同步學習進度到雲端"
-        className="inline-flex min-h-10 items-center justify-center rounded-sm border border-white/20 px-2 text-xs text-white/90 hover:bg-white/10 sm:px-3 sm:text-sm"
+        className="inline-flex min-h-10 items-center justify-center rounded-lg border border-white/25 px-2 text-xs text-white/95 hover:bg-white/10 sm:px-3 sm:text-sm"
       >
         {syncMsg || "同步"}
       </button>
@@ -86,7 +86,7 @@ export function AuthButton() {
         type="button"
         onClick={signOut}
         title={user.email || "登出"}
-        className="inline-flex min-h-10 max-w-24 items-center justify-center truncate rounded-sm border border-white/20 px-2 text-xs text-white/90 hover:bg-white/10 sm:max-w-32 sm:px-3 sm:text-sm"
+        className="inline-flex min-h-10 max-w-24 items-center justify-center truncate rounded-lg border border-white/25 px-2 text-xs text-white/95 hover:bg-white/10 sm:max-w-32 sm:px-3 sm:text-sm"
       >
         {label}
       </button>

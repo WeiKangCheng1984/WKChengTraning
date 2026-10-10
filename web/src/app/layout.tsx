@@ -48,8 +48,8 @@ export default function RootLayout({
         <main className="mx-auto max-w-5xl px-4 pb-24 pt-4 sm:px-6 sm:pt-5">
           {children}
         </main>
-        <footer className="mx-auto max-w-5xl px-4 pb-24 pt-1 text-center text-[11px] text-[var(--muted)] sm:px-6">
-          本機／雲端進度 · 非投資建議／非保證考取
+        <footer className="mx-auto max-w-5xl px-4 pb-24 pt-2 text-center text-[11px] text-[var(--muted)] sm:px-6">
+          每天一小步就很棒 · 本機／雲端進度 · 非投資建議
         </footer>
         <BottomNav />
       </body>

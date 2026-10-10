@@ -6,8 +6,8 @@ export const THEME_KEY = "omnilearn-theme";
 export const DEFAULT_THEME: ThemeId = "harbor";
 
 export const THEME_LABEL: Record<ThemeId, string> = {
-  harbor: "港灣",
-  signal: "信號",
+  harbor: "晴日",
+  signal: "活力",
 };
 
 export function normalizeTheme(value: unknown): ThemeId {

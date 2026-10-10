@@ -1,39 +1,54 @@
 @import "tailwindcss";
 
-/* Default = Harbor（方案 1） */
+/* Default = 晴日：溫暖橘＋天空藍，討喜但不花俏 */
 :root,
 [data-theme="harbor"] {
-  --ink: #0b1f33;
-  --ink-soft: #16324a;
-  --paper: #eef2f6;
+  --ink: #1e3448;
+  --ink-soft: #2c4a63;
+  --paper: #fff7f0;
   --surface: #ffffff;
-  --muted: #5a6a7a;
-  --line: #d0d9e4;
-  --accent: #2f6f8f;
-  --accent-soft: #e3eef4;
-  --accent-soft-text: #9ec0d4;
-  --glow-accent: rgba(47, 111, 143, 0.1);
-  --glow-ink: rgba(11, 31, 51, 0.06);
-  --selection: rgba(47, 111, 143, 0.28);
+  --muted: #5e7184;
+  --line: #eadfd4;
+  --accent: #e8722a;
+  --accent-soft: #ffe6d4;
+  --accent-soft-text: #f0b48a;
+  --sky: #2f86c7;
+  --sky-soft: #e5f2fb;
+  --ok: #1f9d6a;
+  --ok-soft: #e6f7ef;
+  --bad: #d94a4a;
+  --bad-soft: #fdecec;
+  --glow-accent: rgba(232, 114, 42, 0.14);
+  --glow-sky: rgba(47, 134, 199, 0.12);
+  --glow-ink: rgba(30, 52, 72, 0.05);
+  --selection: rgba(232, 114, 42, 0.26);
   --background: var(--paper);
   --foreground: var(--ink);
-  --touch: 2.5rem; /* 40px — still tappable, denser than 44 */
+  --touch: 2.5rem;
+  --radius: 0.65rem;
 }
 
-/* Signal Ledger（方案 3） */
+/* 活力：橘更深、藍更亮的交替氣氛 */
 [data-theme="signal"] {
-  --ink: #171a1f;
-  --ink-soft: #2a3038;
-  --paper: #f2f3f5;
+  --ink: #243447;
+  --ink-soft: #354a60;
+  --paper: #f3f8fc;
   --surface: #ffffff;
-  --muted: #646b75;
-  --line: #d8dbe1;
-  --accent: #c45c26;
-  --accent-soft: #f7ebe3;
-  --accent-soft-text: #e8b08a;
-  --glow-accent: rgba(196, 92, 38, 0.1);
-  --glow-ink: rgba(23, 26, 31, 0.06);
-  --selection: rgba(196, 92, 38, 0.28);
+  --muted: #5a6d80;
+  --line: #d5e3ef;
+  --accent: #f0841a;
+  --accent-soft: #fff0db;
+  --accent-soft-text: #f2c48a;
+  --sky: #1f7ab8;
+  --sky-soft: #dceef9;
+  --ok: #1f9d6a;
+  --ok-soft: #e6f7ef;
+  --bad: #d94a4a;
+  --bad-soft: #fdecec;
+  --glow-accent: rgba(240, 132, 26, 0.14);
+  --glow-sky: rgba(31, 122, 184, 0.14);
+  --glow-ink: rgba(36, 52, 71, 0.05);
+  --selection: rgba(31, 122, 184, 0.24);
 }
 
 @theme inline {
@@ -43,7 +58,6 @@
   --font-display: var(--font-display);
 }
 
-/* A+B hybrid: compact base, no aggressive tablet upscale */
 html {
   font-size: 15.5px;
 }
@@ -56,8 +70,9 @@ html {
 
 body {
   background:
-    radial-gradient(1200px 500px at 10% -10%, var(--glow-accent), transparent 55%),
-    radial-gradient(900px 400px at 100% 0%, var(--glow-ink), transparent 50%),
+    radial-gradient(1100px 480px at 8% -8%, var(--glow-accent), transparent 55%),
+    radial-gradient(900px 420px at 100% 0%, var(--glow-sky), transparent 50%),
+    radial-gradient(700px 360px at 50% 100%, var(--glow-ink), transparent 60%),
     var(--paper);
   color: var(--ink);
   font-family: var(--font-body), "Noto Sans TC", sans-serif;
@@ -85,29 +100,28 @@ select {
   min-width: var(--touch);
 }
 
-/* Default list/card density (A) */
 .card-tap {
   min-height: 4.25rem;
-  border-radius: 0.25rem;
+  border-radius: var(--radius);
   border: 1px solid var(--line);
   background: var(--surface);
   padding: 0.85rem 1rem;
-  transition: border-color 0.15s ease;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
 }
 
 .card-tap:hover,
 .card-tap:active {
-  border-color: color-mix(in srgb, var(--accent) 55%, var(--line));
+  border-color: color-mix(in srgb, var(--accent) 45%, var(--line));
+  box-shadow: 0 6px 18px rgba(30, 52, 72, 0.05);
 }
 
-/* Compact secondary rows (B hierarchy) */
 .row-tap {
   display: flex;
   min-height: 3.25rem;
   align-items: center;
   justify-content: space-between;
   gap: 0.75rem;
-  border-radius: 0.25rem;
+  border-radius: var(--radius);
   border: 1px solid var(--line);
   background: var(--surface);
   padding: 0.65rem 0.9rem;
@@ -116,20 +130,25 @@ select {
 
 .row-tap:hover,
 .row-tap:active {
-  border-color: color-mix(in srgb, var(--accent) 55%, var(--line));
+  border-color: color-mix(in srgb, var(--sky) 40%, var(--line));
 }
 
-/* Primary stage CTA (B) */
 .focus-cta {
   display: block;
-  border-radius: 0.25rem;
-  border: 1px solid var(--accent);
-  background: color-mix(in srgb, var(--accent-soft) 55%, var(--surface));
+  border-radius: calc(var(--radius) + 0.1rem);
+  border: 1px solid color-mix(in srgb, var(--accent) 55%, var(--sky));
+  background:
+    linear-gradient(
+      135deg,
+      color-mix(in srgb, var(--accent-soft) 70%, var(--surface)),
+      color-mix(in srgb, var(--sky-soft) 55%, var(--surface))
+    );
   padding: 1.1rem 1.25rem;
-  transition: border-color 0.15s ease, filter 0.15s ease;
+  transition: border-color 0.15s ease, filter 0.15s ease, transform 0.15s ease;
 }
 
 .focus-cta:hover {
   border-color: var(--accent);
   filter: brightness(1.02);
+  transform: translateY(-1px);
 }

@@ -50,6 +50,13 @@ export type DailyUnit = {
   steps: DailyStep[];
 };
 
+export type StepResult = {
+  step: DailyStep;
+  ok: boolean;
+  /** What the learner selected / marked */
+  userAnswer?: string;
+};
+
 export type DailyUnitProgress = {
   /** ISO date YYYY-MM-DD */
   byDate: Record<

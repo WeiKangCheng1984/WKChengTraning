@@ -2,17 +2,27 @@
 
 import { useMemo, useState } from "react";
 import { SpeakButton } from "@/components/SpeakButton";
-import type { DailyStep, DailyUnit } from "@/lib/dailyUnit/types";
+import type {
+  DailyStep,
+  DailyUnit,
+  StepResult,
+} from "@/lib/dailyUnit/types";
+
+type CompletePayload = {
+  correct: number;
+  total: number;
+  results: StepResult[];
+};
 
 type Props = {
   unit: DailyUnit;
-  onComplete: (stats: { correct: number; total: number }) => void;
+  onComplete: (stats: CompletePayload) => void;
   onExit: () => void;
 };
 
 export function DailyUnitPlayer({ unit, onComplete, onExit }: Props) {
   const [index, setIndex] = useState(0);
-  const [correct, setCorrect] = useState(0);
+  const [results, setResults] = useState<StepResult[]>([]);
   const [picked, setPicked] = useState<string | null>(null);
   const [revealed, setRevealed] = useState(false);
   const [contrastPicked, setContrastPicked] = useState<"bad" | "good" | null>(
@@ -21,16 +31,26 @@ export function DailyUnitPlayer({ unit, onComplete, onExit }: Props) {
 
   const step = unit.steps[index];
   const total = unit.steps.length;
-  const pct = Math.round(((index + (revealed || picked || contrastPicked ? 1 : 0)) / total) * 100);
+  const pct = Math.round(
+    ((index + (revealed || picked || contrastPicked ? 1 : 0)) / total) * 100,
+  );
 
-  function advance(wasCorrect: boolean) {
-    const nextCorrect = correct + (wasCorrect ? 1 : 0);
-    setCorrect(nextCorrect);
+  function advance(wasCorrect: boolean, userAnswer?: string) {
+    if (!step) return;
+    const nextResults = [
+      ...results,
+      { step, ok: wasCorrect, userAnswer },
+    ];
+    setResults(nextResults);
     setPicked(null);
     setRevealed(false);
     setContrastPicked(null);
     if (index + 1 >= total) {
-      onComplete({ correct: nextCorrect, total });
+      onComplete({
+        correct: nextResults.filter((r) => r.ok).length,
+        total,
+        results: nextResults,
+      });
       return;
     }
     setIndex((i) => i + 1);
@@ -48,20 +68,27 @@ export function DailyUnitPlayer({ unit, onComplete, onExit }: Props) {
         >
           ← 結束本單元
         </button>
-        <p className="text-xs uppercase tracking-[0.16em] text-[var(--accent)]">
+        <p className="text-xs font-medium tracking-[0.14em] text-[var(--sky)]">
           Day {unit.programDay} · {index + 1}/{total}
         </p>
       </div>
 
-      <div className="h-1.5 overflow-hidden rounded-full bg-[var(--line)]">
+      <div className="h-2 overflow-hidden rounded-full bg-[var(--line)]">
         <div
-          className="h-full bg-[var(--accent)] transition-all duration-300"
-          style={{ width: `${Math.min(100, pct)}%` }}
+          className="h-full rounded-full transition-all duration-300"
+          style={{
+            width: `${Math.min(100, pct)}%`,
+            background:
+              "linear-gradient(90deg, var(--sky), var(--accent))",
+          }}
         />
       </div>
 
-      <div className="rounded-sm border border-[var(--line)] bg-[var(--surface)] p-5 sm:p-7">
-        <p className="text-xs uppercase tracking-[0.18em] text-[var(--accent)]">
+      <div
+        className="border border-[var(--line)] bg-[var(--surface)] p-5 sm:p-7"
+        style={{ borderRadius: "var(--radius)" }}
+      >
+        <p className="text-xs font-medium tracking-[0.14em] text-[var(--accent)]">
           {kindLabel(step.kind)}
         </p>
         <StepBody
@@ -71,13 +98,20 @@ export function DailyUnitPlayer({ unit, onComplete, onExit }: Props) {
           contrastPicked={contrastPicked}
           onPick={(c, ok) => {
             setPicked(c);
-            window.setTimeout(() => advance(ok), 650);
+            window.setTimeout(() => advance(ok, c), 650);
           }}
           onReveal={() => setRevealed(true)}
-          onRevealContinue={(ok) => advance(ok)}
+          onRevealContinue={(ok, label) => advance(ok, label)}
           onContrast={(choice) => {
             setContrastPicked(choice);
-            window.setTimeout(() => advance(choice === "good"), 700);
+            window.setTimeout(
+              () =>
+                advance(
+                  choice === "good",
+                  choice === "good" ? "選了正確句" : "選了較不自然句",
+                ),
+              700,
+            );
           }}
         />
       </div>
@@ -122,7 +156,7 @@ function StepBody({
   contrastPicked: "bad" | "good" | null;
   onPick: (choice: string, ok: boolean) => void;
   onReveal: () => void;
-  onRevealContinue: (ok: boolean) => void;
+  onRevealContinue: (ok: boolean, label: string) => void;
   onContrast: (choice: "bad" | "good") => void;
 }) {
   if (
@@ -153,8 +187,12 @@ function StepBody({
             let style =
               "border-[var(--line)] hover:border-[var(--accent)] text-[var(--ink)]";
             if (picked) {
-              if (isAnswer) style = "border-emerald-600 bg-emerald-50 text-[var(--ink)]";
-              else if (isPicked) style = "border-rose-500 bg-rose-50 text-[var(--ink)]";
+              if (isAnswer)
+                style =
+                  "border-[var(--ok)] bg-[var(--ok-soft)] text-[var(--ink)]";
+              else if (isPicked)
+                style =
+                  "border-[var(--bad)] bg-[var(--bad-soft)] text-[var(--ink)]";
               else style = "border-[var(--line)] opacity-50";
             }
             return (
@@ -163,7 +201,7 @@ function StepBody({
                 type="button"
                 disabled={!!picked}
                 onClick={() => onPick(c, c === step.answer)}
-                className={`min-h-11 rounded-sm border px-4 py-2.5 text-left text-sm transition ${style}`}
+                className={`min-h-11 rounded-lg border px-4 py-2.5 text-left text-sm transition ${style}`}
               >
                 {c}
               </button>
@@ -191,13 +229,12 @@ function StepBody({
               ["good", step.good],
             ] as const
           ).map(([key, text]) => {
-            let style =
-              "border-[var(--line)] hover:border-[var(--accent)]";
+            let style = "border-[var(--line)] hover:border-[var(--sky)]";
             if (contrastPicked) {
               if (key === "good")
-                style = "border-emerald-600 bg-emerald-50";
+                style = "border-[var(--ok)] bg-[var(--ok-soft)]";
               else if (contrastPicked === "bad")
-                style = "border-rose-500 bg-rose-50";
+                style = "border-[var(--bad)] bg-[var(--bad-soft)]";
               else style = "border-[var(--line)] opacity-50";
             }
             return (
@@ -206,7 +243,7 @@ function StepBody({
                 type="button"
                 disabled={!!contrastPicked}
                 onClick={() => onContrast(key)}
-                className={`min-h-11 rounded-sm border px-4 py-2.5 text-left text-sm ${style}`}
+                className={`min-h-11 rounded-lg border px-4 py-2.5 text-left text-sm ${style}`}
               >
                 {text}
               </button>
@@ -240,7 +277,7 @@ function StepBody({
         <button
           type="button"
           onClick={onReveal}
-          className="min-h-11 w-full rounded-sm bg-[var(--ink)] px-4 text-sm text-[var(--paper)] hover:bg-[var(--ink-soft)]"
+          className="min-h-11 w-full rounded-lg bg-[var(--sky)] px-4 text-sm text-white hover:brightness-105"
         >
           揭曉英文
         </button>
@@ -258,15 +295,20 @@ function StepBody({
           <div className="flex flex-wrap gap-2">
             <button
               type="button"
-              onClick={() => onRevealContinue(true)}
-              className="min-h-11 flex-1 rounded-sm bg-[var(--ink)] px-4 text-sm text-[var(--paper)]"
+              onClick={() =>
+                onRevealContinue(
+                  true,
+                  step.kind === "speak_check" ? "已跟讀" : "記住了",
+                )
+              }
+              className="min-h-11 flex-1 rounded-lg bg-[var(--accent)] px-4 text-sm text-white"
             >
               {step.kind === "speak_check" ? "已跟讀" : "記住了"}
             </button>
             <button
               type="button"
-              onClick={() => onRevealContinue(false)}
-              className="min-h-11 flex-1 rounded-sm border border-[var(--line)] px-4 text-sm text-[var(--ink)]"
+              onClick={() => onRevealContinue(false, "還不熟")}
+              className="min-h-11 flex-1 rounded-lg border border-[var(--line)] px-4 text-sm text-[var(--ink)]"
             >
               還不熟
             </button>
@@ -277,49 +319,207 @@ function StepBody({
   );
 }
 
-export function DailyUnitCompleteCard({
+function reviewPrompt(step: DailyStep): string {
+  switch (step.kind) {
+    case "pattern_reveal":
+    case "speak_check":
+      return step.promptZh;
+    case "grammar_contrast":
+      return step.prompt;
+    default:
+      return step.prompt;
+  }
+}
+
+function reviewAnswer(step: DailyStep): string {
+  switch (step.kind) {
+    case "pattern_reveal":
+    case "speak_check":
+      return step.answerEn;
+    case "grammar_contrast":
+      return step.good;
+    default:
+      return step.answer;
+  }
+}
+
+function reviewExplain(step: DailyStep): string | undefined {
+  switch (step.kind) {
+    case "grammar_contrast":
+      return `正確：${step.good}\n較不自然：${step.bad}\n${step.note}`;
+    case "pattern_reveal":
+    case "speak_check":
+      return step.note;
+    default:
+      return step.explainZh;
+  }
+}
+
+function reviewSpeak(step: DailyStep): string | undefined {
+  switch (step.kind) {
+    case "listen_choice":
+      return step.speakText;
+    case "pattern_reveal":
+    case "speak_check":
+      return step.answerEn;
+    case "grammar_contrast":
+      return step.good;
+    default:
+      return undefined;
+  }
+}
+
+export function DailyUnitReview({
   unit,
   correct,
   total,
+  results,
   onAgain,
   onHome,
 }: {
   unit: DailyUnit;
   correct: number;
   total: number;
+  results: StepResult[];
   onAgain: () => void;
   onHome: () => void;
 }) {
   const rate = total ? Math.round((correct / total) * 100) : 0;
   const msg = useMemo(() => {
-    if (rate >= 80) return "節奏很好，可以加練下一單元。";
-    if (rate >= 50) return "過關！錯題明天還會再遇到類似內容。";
-    return "先完成比完美重要，明天同一主題會換題再練。";
+    if (rate >= 90) return "太棒了！節奏像在闖關，再加練一單元也很適合。";
+    if (rate >= 70) return "過關啦！下面逐題看一下，把不熟的收進腦袋。";
+    if (rate >= 50) return "完成最重要！錯題解析幫你把坑填起來。";
+    return "先做完就贏一半。慢慢看解析，明天同一主題會換題再練。";
   }, [rate]);
 
+  const wrong = results.filter((r) => !r.ok).length;
+
   return (
-    <section className="space-y-5 rounded-sm border border-[var(--line)] bg-[var(--surface)] p-6">
-      <p className="text-xs uppercase tracking-[0.18em] text-[var(--accent)]">
-        Unit complete
-      </p>
-      <h2 className="font-[family-name:var(--font-display)] text-3xl text-[var(--ink)]">
-        {unit.titleZh} 完成
-      </h2>
-      <p className="text-sm text-[var(--muted)]">
-        答對 {correct}/{total}（{rate}%）。{msg}
-      </p>
-      <div className="flex flex-wrap gap-2">
+    <section className="space-y-6">
+      <div
+        className="border border-[var(--line)] p-6"
+        style={{
+          borderRadius: "var(--radius)",
+          background:
+            "linear-gradient(145deg, color-mix(in srgb, var(--accent-soft) 65%, white), color-mix(in srgb, var(--sky-soft) 70%, white))",
+        }}
+      >
+        <p className="text-xs font-medium tracking-[0.16em] text-[var(--sky)]">
+          單元複習檢討
+        </p>
+        <h2 className="mt-2 font-[family-name:var(--font-display)] text-3xl text-[var(--ink)]">
+          {unit.titleZh} 完成！
+        </h2>
+        <p className="mt-2 text-sm text-[var(--muted)]">{msg}</p>
+        <div className="mt-4 flex flex-wrap gap-3 text-sm">
+          <span
+            className="rounded-full px-3 py-1 font-medium text-white"
+            style={{ background: "var(--accent)" }}
+          >
+            答對 {correct}/{total}
+          </span>
+          <span
+            className="rounded-full px-3 py-1 font-medium text-white"
+            style={{ background: "var(--sky)" }}
+          >
+            正確率 {rate}%
+          </span>
+          {wrong > 0 ? (
+            <span className="rounded-full bg-[var(--bad-soft)] px-3 py-1 font-medium text-[var(--bad)]">
+              需複習 {wrong} 題
+            </span>
+          ) : (
+            <span className="rounded-full bg-[var(--ok-soft)] px-3 py-1 font-medium text-[var(--ok)]">
+              全對！
+            </span>
+          )}
+        </div>
+      </div>
+
+      <div className="space-y-3">
+        <h3 className="text-sm font-medium text-[var(--ink)]">每題解析</h3>
+        <ol className="space-y-3">
+          {results.map((r, i) => {
+            const speak = reviewSpeak(r.step);
+            const explain = reviewExplain(r.step);
+            return (
+              <li
+                key={`${r.step.id}-${i}`}
+                className="border border-[var(--line)] bg-[var(--surface)] p-4"
+                style={{ borderRadius: "var(--radius)" }}
+              >
+                <div className="flex flex-wrap items-center gap-2">
+                  <span className="text-xs font-medium text-[var(--muted)]">
+                    第 {i + 1} 題 · {kindLabel(r.step.kind)}
+                  </span>
+                  <span
+                    className={`rounded-full px-2 py-0.5 text-[11px] font-medium ${
+                      r.ok
+                        ? "bg-[var(--ok-soft)] text-[var(--ok)]"
+                        : "bg-[var(--bad-soft)] text-[var(--bad)]"
+                    }`}
+                  >
+                    {r.ok ? "正確" : "再看一次"}
+                  </span>
+                </div>
+                <p className="mt-2 text-sm font-medium leading-relaxed text-[var(--ink)]">
+                  {reviewPrompt(r.step)}
+                </p>
+                {r.step.kind === "listen_choice" && r.step.promptHint ? (
+                  <p className="mt-1 text-xs text-[var(--muted)]">
+                    {r.step.promptHint}
+                  </p>
+                ) : null}
+                <div className="mt-3 space-y-1.5 text-sm">
+                  {r.userAnswer ? (
+                    <p className="text-[var(--muted)]">
+                      你的作答：
+                      <span
+                        className={
+                          r.ok ? "text-[var(--ok)]" : "text-[var(--bad)]"
+                        }
+                      >
+                        {" "}
+                        {r.userAnswer}
+                      </span>
+                    </p>
+                  ) : null}
+                  <p className="text-[var(--ink)]">
+                    正確答案：
+                    <span className="font-medium text-[var(--sky)]">
+                      {" "}
+                      {reviewAnswer(r.step)}
+                    </span>
+                    {speak ? (
+                      <span className="ml-2 inline-flex align-middle">
+                        <SpeakButton text={speak} label="發音" size="sm" />
+                      </span>
+                    ) : null}
+                  </p>
+                  {explain ? (
+                    <p className="whitespace-pre-line rounded-lg bg-[var(--sky-soft)] px-3 py-2 text-[var(--ink-soft)]">
+                      {explain}
+                    </p>
+                  ) : null}
+                </div>
+              </li>
+            );
+          })}
+        </ol>
+      </div>
+
+      <div className="flex flex-wrap gap-2 pb-2">
         <button
           type="button"
           onClick={onAgain}
-          className="min-h-11 rounded-sm bg-[var(--ink)] px-5 text-sm text-[var(--paper)]"
+          className="min-h-11 rounded-lg bg-[var(--accent)] px-5 text-sm text-white hover:brightness-105"
         >
           再來一單元（+5–10 分）
         </button>
         <button
           type="button"
           onClick={onHome}
-          className="min-h-11 rounded-sm border border-[var(--line)] px-5 text-sm text-[var(--ink)]"
+          className="min-h-11 rounded-lg border border-[var(--line)] bg-[var(--surface)] px-5 text-sm text-[var(--ink)]"
         >
           回到今日總覽
         </button>
