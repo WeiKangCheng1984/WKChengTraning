@@ -1,4 +1,4 @@
-import { createClient } from "@/lib/supabase/client";
+import { getBrowserClient } from "@/lib/supabase/client";
 import { PROGRESS_KEYS } from "@/lib/progressKeys";
 import { STORAGE_EVENT } from "@/lib/persist";
 
@@ -23,7 +23,7 @@ export async function syncProgressBidirectional(): Promise<{
   error?: string;
 }> {
   try {
-    const supabase = createClient();
+    const supabase = await getBrowserClient();
     if (!supabase) {
       return { ok: false, error: "尚未設定 Supabase 環境變數" };
     }
@@ -101,7 +101,7 @@ export async function pushProgressKey(key: string): Promise<void> {
   const payload = readLocal(key);
   if (payload == null) return;
 
-  const supabase = createClient();
+  const supabase = await getBrowserClient();
   if (!supabase) return;
   const {
     data: { user },

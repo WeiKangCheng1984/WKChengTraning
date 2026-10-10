@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useRef } from "react";
-import { createClient } from "@/lib/supabase/client";
+import { getBrowserClient } from "@/lib/supabase/client";
 import { PROGRESS_KEYS } from "@/lib/progressKeys";
 import {
   pushProgressKey,
@@ -15,31 +15,34 @@ export function ProgressSyncHost() {
   const loggedIn = useRef(false);
 
   useEffect(() => {
-    const supabase = createClient();
-    if (!supabase) return;
+    let unsubscribe: (() => void) | undefined;
 
-    async function onAuth() {
+    void (async () => {
+      const maybe = await getBrowserClient();
+      if (!maybe) return;
+      const client = maybe;
+
       const {
         data: { user },
-      } = await supabase!.auth.getUser();
+      } = await client.auth.getUser();
       loggedIn.current = !!user;
       if (user) {
         await syncProgressBidirectional();
       }
-    }
 
-    onAuth();
-    const {
-      data: { subscription },
-    } = supabase.auth.onAuthStateChange((event) => {
-      if (event === "SIGNED_IN" || event === "TOKEN_REFRESHED") {
-        loggedIn.current = true;
-        void syncProgressBidirectional();
-      }
-      if (event === "SIGNED_OUT") {
-        loggedIn.current = false;
-      }
-    });
+      const {
+        data: { subscription },
+      } = client.auth.onAuthStateChange((event) => {
+        if (event === "SIGNED_IN" || event === "TOKEN_REFRESHED") {
+          loggedIn.current = true;
+          void syncProgressBidirectional();
+        }
+        if (event === "SIGNED_OUT") {
+          loggedIn.current = false;
+        }
+      });
+      unsubscribe = () => subscription.unsubscribe();
+    })();
 
     function schedulePush(key: string | null) {
       if (!loggedIn.current) return;
@@ -82,7 +85,7 @@ export function ProgressSyncHost() {
     );
 
     return () => {
-      subscription.unsubscribe();
+      unsubscribe?.();
       window.removeEventListener("storage", onStorage);
       window.removeEventListener(STORAGE_EVENT, onLocalWrite);
       window.removeEventListener("omnilearn-progress-key", onKey);

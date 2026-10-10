@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { useState } from "react";
-import { createClient } from "@/lib/supabase/client";
+import { getBrowserClient } from "@/lib/supabase/client";
 
 export default function LoginPage() {
   const router = useRouter();
@@ -17,11 +17,11 @@ export default function LoginPage() {
     e.preventDefault();
     setBusy(true);
     setStatus("");
-    const supabase = createClient();
+    const supabase = await getBrowserClient();
     if (!supabase) {
       setBusy(false);
       setStatus(
-        "尚未設定 Supabase。請在 Vercel → Settings → Environment Variables 加入 NEXT_PUBLIC_SUPABASE_URL 與 NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY，再 Redeploy。",
+        "尚未設定 Supabase。請在 Vercel → Settings → Environment Variables 確認已儲存 NEXT_PUBLIC_SUPABASE_URL 與 NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY（Production），存檔後再 Redeploy。",
       );
       return;
     }

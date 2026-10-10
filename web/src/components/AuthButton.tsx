@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { useEffect, useState } from "react";
 import type { User } from "@supabase/supabase-js";
-import { createClient } from "@/lib/supabase/client";
+import { getBrowserClient } from "@/lib/supabase/client";
 import { syncProgressBidirectional } from "@/lib/progressSync";
 
 export function AuthButton() {
@@ -12,21 +12,24 @@ export function AuthButton() {
   const [ready, setReady] = useState(false);
 
   useEffect(() => {
-    const supabase = createClient();
-    if (!supabase) {
-      setReady(true);
-      return;
-    }
-    supabase.auth.getUser().then(({ data }) => {
+    let unsubscribe: (() => void) | undefined;
+    void (async () => {
+      const supabase = await getBrowserClient();
+      if (!supabase) {
+        setReady(true);
+        return;
+      }
+      const { data } = await supabase.auth.getUser();
       setUser(data.user);
       setReady(true);
-    });
-    const {
-      data: { subscription },
-    } = supabase.auth.onAuthStateChange((_event, session) => {
-      setUser(session?.user ?? null);
-    });
-    return () => subscription.unsubscribe();
+      const {
+        data: { subscription },
+      } = supabase.auth.onAuthStateChange((_event, session) => {
+        setUser(session?.user ?? null);
+      });
+      unsubscribe = () => subscription.unsubscribe();
+    })();
+    return () => unsubscribe?.();
   }, []);
 
   async function sync() {
@@ -37,7 +40,7 @@ export function AuthButton() {
   }
 
   async function signOut() {
-    const supabase = createClient();
+    const supabase = await getBrowserClient();
     if (!supabase) return;
     await supabase.auth.signOut();
     setUser(null);
