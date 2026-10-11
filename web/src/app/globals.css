@@ -125,6 +125,23 @@ body {
   -webkit-tap-highlight-color: transparent;
 }
 
+/* 固定導覽列字體大小，不受全域字體設定影響 */
+.site-header {
+  font-size: 15.5px;
+}
+
+@media (min-width: 640px) {
+  .site-header {
+    font-size: 16px;
+  }
+}
+
+/* 固定底部導覽和頁尾字體大小 */
+.bottom-nav,
+.site-footer {
+  font-size: 15.5px;
+}
+
 a {
   text-decoration: none;
 }

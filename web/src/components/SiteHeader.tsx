@@ -6,7 +6,7 @@ import { AuthButton } from "@/components/AuthButton";
 export function SiteHeader() {
   return (
     <header
-      className="sticky top-0 z-40 border-b border-white/10 text-white"
+      className="site-header sticky top-0 z-40 border-b border-white/10 text-white"
       style={{
         background:
           "linear-gradient(105deg, var(--ink-soft) 0%, color-mix(in srgb, var(--sky) 72%, var(--ink-soft)) 48%, color-mix(in srgb, var(--accent) 78%, var(--ink-soft)) 100%)",
