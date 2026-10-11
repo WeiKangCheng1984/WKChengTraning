@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { ThemeToggle } from "@/components/ThemeToggle";
+import { FontSizeControl } from "@/components/FontSizeControl";
 import { AuthButton } from "@/components/AuthButton";
 
 export function SiteHeader() {
@@ -21,6 +22,7 @@ export function SiteHeader() {
           </div>
         </Link>
         <div className="flex shrink-0 items-center gap-2">
+          <FontSizeControl />
           <ThemeToggle />
           <AuthButton />
           <Link
