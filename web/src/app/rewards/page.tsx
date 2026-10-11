@@ -105,10 +105,7 @@ export default function RewardsPage() {
       </section>
 
       <section>
-        <h2 className="mb-1 text-sm font-medium text-[var(--ink)]">近兩週一覽</h2>
-        <p className="mb-3 text-xs text-[var(--muted)]">
-          完整紀錄見下方「全部打卡歷程」
-        </p>
+        <h2 className="mb-3 text-sm font-medium text-[var(--ink)]">近兩週一覽</h2>
         <div className="flex flex-wrap gap-1.5">
           {recent.map((d) => (
             <div
@@ -127,68 +124,58 @@ export default function RewardsPage() {
         </div>
       </section>
 
-      <section className="space-y-4">
-        <div>
-          <h2 className="flex items-center gap-1.5 text-sm font-medium text-[var(--ink)]">
-            <CuteIcon name="heart" className="text-base" />
-            全部打卡歷程
-          </h2>
-          <p className="mt-1 text-xs text-[var(--muted)]">
-            共 {snap.checkInDays} 天主單元打卡
-            {months.length
-              ? ` · ${months.reduce((a, m) => a + m.days.length, 0)} 天有練習紀錄`
-              : ""}
-          </p>
-        </div>
-
-        {!months.length ? (
-          <p className="rounded-sm border border-dashed border-[var(--line)] p-6 text-center text-sm text-[var(--muted)]">
-            還沒有打卡紀錄。完成今日主單元後會出現在這裡。
-          </p>
-        ) : (
-          <ul className="space-y-5">
-            {months.map((block) => (
-              <li key={block.month}>
-                <div className="mb-2 flex items-baseline justify-between gap-2">
-                  <h3 className="text-sm font-medium text-[var(--ink)]">
-                    {formatMonth(block.month)}
-                  </h3>
-                  <span className="text-xs text-[var(--muted)]">
-                    打卡 {block.mainCount} 天
-                  </span>
-                </div>
-                <ul className="divide-y divide-[var(--line)] rounded-[var(--radius)] border border-[var(--line)] bg-[var(--surface)]">
-                  {block.days.map((d) => (
-                    <li
-                      key={d.date}
-                      className="flex items-center justify-between gap-3 px-4 py-2.5 text-sm"
-                    >
-                      <div>
-                        <p className="font-medium text-[var(--ink)]">
-                          {d.date}
-                        </p>
-                        <p className="text-xs text-[var(--muted)]">
-                          {d.mainDone ? "主單元已打卡" : "僅加練"}
-                          {d.unitsDone > 0 ? ` · ${d.unitsDone} 單元` : ""}
-                        </p>
-                      </div>
+      <details className="group rounded-[var(--radius)] border border-[var(--line)] bg-[var(--surface)]">
+        <summary className="flex cursor-pointer list-none items-center justify-between gap-2 px-3 py-2.5 text-sm text-[var(--ink)] marker:content-none [&::-webkit-details-marker]:hidden">
+          <span className="flex min-w-0 items-center gap-1.5">
+            <CuteIcon name="heart" className="text-sm" />
+            <span className="font-medium">全部歷程</span>
+            <span className="truncate text-xs text-[var(--muted)]">
+              打卡 {snap.checkInDays} 天
+              {months.length
+                ? ` · ${months.reduce((a, m) => a + m.days.length, 0)} 筆`
+                : ""}
+            </span>
+          </span>
+          <span className="shrink-0 text-xs text-[var(--muted)] group-open:hidden">
+            展開
+          </span>
+          <span className="hidden shrink-0 text-xs text-[var(--muted)] group-open:inline">
+            收合
+          </span>
+        </summary>
+        <div className="border-t border-[var(--line)] px-3 py-2.5">
+          {!months.length ? (
+            <p className="py-2 text-center text-xs text-[var(--muted)]">
+              尚無紀錄
+            </p>
+          ) : (
+            <ul className="space-y-2.5">
+              {months.map((block) => (
+                <li key={block.month}>
+                  <p className="mb-1 text-[10px] text-[var(--muted)]">
+                    {formatMonth(block.month)} · {block.mainCount} 打卡
+                  </p>
+                  <div className="flex flex-wrap gap-1">
+                    {block.days.map((d) => (
                       <span
-                        className={`shrink-0 rounded-md px-2 py-0.5 text-[10px] font-medium ${
+                        key={d.date}
+                        title={`${d.date} · ${d.mainDone ? "打卡" : "加練"} · ${d.unitsDone} 單元`}
+                        className={`inline-flex h-6 min-w-6 items-center justify-center rounded px-1 text-[10px] tabular-nums ${
                           d.mainDone
-                            ? "bg-[var(--accent-soft)] text-[var(--ink)]"
-                            : "bg-[var(--paper)] text-[var(--muted)]"
+                            ? "bg-[var(--accent)] text-white"
+                            : "border border-[var(--line)] text-[var(--muted)]"
                         }`}
                       >
-                        {d.mainDone ? "CHECK-IN" : "EXTRA"}
+                        {d.date.slice(8)}
                       </span>
-                    </li>
-                  ))}
-                </ul>
-              </li>
-            ))}
-          </ul>
-        )}
-      </section>
+                    ))}
+                  </div>
+                </li>
+              ))}
+            </ul>
+          )}
+        </div>
+      </details>
 
       <section>
         <h2 className="mb-3 flex items-center gap-1.5 text-sm font-medium text-[var(--ink)]">
