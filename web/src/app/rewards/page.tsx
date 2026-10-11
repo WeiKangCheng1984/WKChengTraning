@@ -14,7 +14,7 @@ import { onStorageChange } from "@/lib/persist";
 
 export default function RewardsPage() {
   const [snap, setSnap] = useState<RewardsSnapshot | null>(null);
-  const [days, setDays] = useState(getRecentDays(14));
+  const [days, setDays] = useState<ReturnType<typeof getRecentDays>>([]);
 
   useEffect(() => {
     const sync = () => {

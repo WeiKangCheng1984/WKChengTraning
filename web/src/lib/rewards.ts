@@ -1,3 +1,4 @@
+import { listUnitHistory, todayIsoLocal } from "./dailyUnitProgress";
 import { readJson, writeJson } from "./persist";
 
 const KEY = "omnilearn-rewards-v1";
@@ -78,8 +79,9 @@ type RewardsState = {
   lastActiveDay?: string;
 };
 
+/** Local calendar day — must match dailyUnitProgress.todayIsoLocal (not UTC). */
 function todayIso() {
-  return new Date().toISOString().slice(0, 10);
+  return todayIsoLocal();
 }
 
 function emptyDay(): DayLog {
@@ -105,6 +107,65 @@ function read(): RewardsState {
     ),
     lastActiveDay: raw.lastActiveDay,
   };
+}
+
+/**
+ * Fill gaps when micro-lesson history exists but rewards/check-in was missed
+ * (e.g. older UTC date keys, sync race, or credit not persisted).
+ */
+function reconcileFromHistory(state: RewardsState): boolean {
+  const history = listUnitHistory();
+  if (!history.length) return false;
+
+  const agg: Record<string, { mainDone: boolean; unitsDone: number }> = {};
+  for (const h of history) {
+    if (!h.date) continue;
+    const cur = agg[h.date] ?? { mainDone: false, unitsDone: 0 };
+    cur.unitsDone += 1;
+    if (h.unitIndex === 0) cur.mainDone = true;
+    agg[h.date] = cur;
+  }
+
+  let changed = false;
+  for (const [date, from] of Object.entries(agg)) {
+    const prev = state.byDay[date] ?? emptyDay();
+    const mainDone = prev.mainDone || from.mainDone;
+    const unitsDone = Math.max(prev.unitsDone, from.unitsDone);
+    const goalHit = mainDone || prev.goalHit;
+    if (
+      mainDone !== prev.mainDone ||
+      unitsDone !== prev.unitsDone ||
+      goalHit !== prev.goalHit
+    ) {
+      changed = true;
+    }
+    state.byDay[date] = { mainDone, unitsDone, goalHit };
+  }
+
+  const sumUnits = Object.values(state.byDay).reduce(
+    (a, d) => a + (d.unitsDone || 0),
+    0,
+  );
+  if (sumUnits > state.totalUnits) {
+    state.totalUnits = sumUnits;
+    changed = true;
+  }
+
+  if (changed) {
+    const today = todayIso();
+    recomputeStreak(state, today);
+    evaluateBadges(state, today);
+  }
+  return changed;
+}
+
+function ensureState(): RewardsState {
+  const state = read();
+  if (typeof window === "undefined") return state;
+  if (reconcileFromHistory(state)) {
+    write(state);
+  }
+  return state;
 }
 
 function migrateDays(
@@ -135,9 +196,13 @@ function write(state: RewardsState) {
 }
 
 function dayOffset(iso: string, delta: number) {
-  const d = new Date(`${iso}T12:00:00`);
-  d.setDate(d.getDate() + delta);
-  return d.toISOString().slice(0, 10);
+  const [y, m, d] = iso.split("-").map(Number);
+  const dt = new Date(y, m - 1, d);
+  dt.setDate(dt.getDate() + delta);
+  const yy = dt.getFullYear();
+  const mm = String(dt.getMonth() + 1).padStart(2, "0");
+  const dd = String(dt.getDate()).padStart(2, "0");
+  return `${yy}-${mm}-${dd}`;
 }
 
 function recomputeStreak(state: RewardsState, today: string) {
@@ -191,7 +256,7 @@ function messageFor(mainDone: boolean, streak: number) {
 }
 
 export function getRewardsSnapshot(): RewardsSnapshot {
-  const state = read();
+  const state = ensureState();
   const today = todayIso();
   const day = state.byDay[today] ?? emptyDay();
   return {
@@ -209,6 +274,8 @@ export function getRewardsSnapshot(): RewardsSnapshot {
 
 /** Credit finishing a daily micro-lesson. Main unit (index 0) hits the streak. */
 export function creditDailyUnit(unitIndex: number): RewardsSnapshot {
+  // Use read() (not ensureState): history is often written just before this call;
+  // reconciling first then +=1 would double-count today's unit.
   const state = read();
   const today = todayIso();
   const beforeBadges = new Set(state.badges);
@@ -245,7 +312,7 @@ export function creditPackStep(): RewardsSnapshot {
 export function getRecentDays(
   n = 7,
 ): Array<{ date: string; mainDone: boolean; unitsDone: number }> {
-  const state = read();
+  const state = ensureState();
   const today = todayIso();
   const out = [];
   for (let i = n - 1; i >= 0; i--) {
@@ -258,6 +325,14 @@ export function getRecentDays(
     });
   }
   return out;
+}
+
+/** Re-run history→check-in merge (e.g. after cloud sync). */
+export function reconcileRewardsWithHistory(): boolean {
+  const state = read();
+  if (!reconcileFromHistory(state)) return false;
+  write(state);
+  return true;
 }
 
 export function badgeMeta(id: BadgeId): BadgeDef {

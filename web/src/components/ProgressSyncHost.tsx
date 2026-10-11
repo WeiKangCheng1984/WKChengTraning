@@ -9,6 +9,7 @@ import {
   syncProgressBidirectional,
 } from "@/lib/progressSync";
 import { STORAGE_EVENT } from "@/lib/persist";
+import { reconcileRewardsWithHistory } from "@/lib/rewards";
 
 /** On login: full sync. On localStorage write: debounce push changed keys. */
 export function ProgressSyncHost() {
@@ -33,6 +34,7 @@ export function ProgressSyncHost() {
         loggedIn.current = !!user;
         if (user) {
           await syncProgressBidirectional();
+          reconcileRewardsWithHistory();
         }
       }
 
@@ -46,7 +48,10 @@ export function ProgressSyncHost() {
             return;
           }
           loggedIn.current = true;
-          void syncProgressBidirectional();
+          void (async () => {
+            await syncProgressBidirectional();
+            reconcileRewardsWithHistory();
+          })();
         }
         if (event === "SIGNED_OUT") {
           loggedIn.current = false;

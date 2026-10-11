@@ -45,7 +45,7 @@ export function ensureCycleStart(): DailyUnitProgress {
   const state = read();
   if (!state.cycleStart) {
     state.cycleStart = todayIsoLocal();
-    write(state);
+    if (typeof window !== "undefined") write(state);
   }
   if (!state.history) state.history = [];
   if (!state.recentFingerprints) state.recentFingerprints = [];
