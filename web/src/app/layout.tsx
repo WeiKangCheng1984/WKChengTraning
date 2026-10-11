@@ -6,6 +6,7 @@ import { BottomNav } from "@/components/BottomNav";
 import { ProgressSyncHost } from "@/components/ProgressSyncHost";
 import { WordCaptureHost } from "@/components/WordCaptureHost";
 import { THEME_BOOT_SCRIPT } from "@/lib/theme";
+import { FONT_SIZE_BOOT_SCRIPT } from "@/lib/fontSize";
 import "./globals.css";
 
 const display = Newsreader({
@@ -41,6 +42,9 @@ export default function RootLayout({
       <body className={`${display.variable} ${body.variable} antialiased`}>
         <Script id="theme-boot" strategy="beforeInteractive">
           {THEME_BOOT_SCRIPT}
+        </Script>
+        <Script id="font-size-boot" strategy="beforeInteractive">
+          {FONT_SIZE_BOOT_SCRIPT}
         </Script>
         <SiteHeader />
         <ProgressSyncHost />

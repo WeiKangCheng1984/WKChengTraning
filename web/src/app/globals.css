@@ -58,6 +58,7 @@
   --font-display: var(--font-display);
 }
 
+/* 預設字體大小（中） */
 html {
   font-size: 15.5px;
 }
@@ -65,6 +66,50 @@ html {
 @media (min-width: 1024px) {
   html {
     font-size: 16px;
+  }
+}
+
+/* 小字體 */
+html[data-font-size="small"] {
+  font-size: 14px;
+}
+
+@media (min-width: 1024px) {
+  html[data-font-size="small"] {
+    font-size: 15px;
+  }
+}
+
+/* 中字體（預設） */
+html[data-font-size="medium"] {
+  font-size: 15.5px;
+}
+
+@media (min-width: 1024px) {
+  html[data-font-size="medium"] {
+    font-size: 16px;
+  }
+}
+
+/* 大字體 */
+html[data-font-size="large"] {
+  font-size: 17px;
+}
+
+@media (min-width: 1024px) {
+  html[data-font-size="large"] {
+    font-size: 18px;
+  }
+}
+
+/* 特大字體 */
+html[data-font-size="xlarge"] {
+  font-size: 19px;
+}
+
+@media (min-width: 1024px) {
+  html[data-font-size="xlarge"] {
+    font-size: 20px;
   }
 }
 
