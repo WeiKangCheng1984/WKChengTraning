@@ -1,4 +1,10 @@
 import { listUnitHistory, todayIsoLocal } from "./dailyUnitProgress";
+import {
+  BADGE_QUOTES,
+  dailyMotivation,
+  quoteForStreak,
+  type MilestoneQuote,
+} from "./milestoneQuotes";
 import { readJson, writeJson } from "./persist";
 
 const KEY = "omnilearn-rewards-v1";
@@ -9,8 +15,10 @@ export type BadgeId =
   | "streak-7"
   | "streak-14"
   | "streak-30"
+  | "streak-60"
   | "units-10"
   | "units-50"
+  | "units-100"
   | "extra-3";
 
 export type BadgeDef = {
@@ -46,6 +54,11 @@ export const BADGES: BadgeDef[] = [
     body: "連續 30 天完成主單元。",
   },
   {
+    id: "streak-60",
+    title: "雙月韌性",
+    body: "連續 60 天完成主單元。",
+  },
+  {
     id: "units-10",
     title: "十課達成",
     body: "累計完成 10 個單元（含加練）。",
@@ -56,11 +69,22 @@ export const BADGES: BadgeDef[] = [
     body: "累計完成 50 個單元。",
   },
   {
+    id: "units-100",
+    title: "百課里程碑",
+    body: "累計完成 100 個單元。",
+  },
+  {
     id: "extra-3",
     title: "加練小達人",
     body: "同一天完成 3 個以上單元。",
   },
 ];
+
+export type CheckInDay = {
+  date: string;
+  mainDone: boolean;
+  unitsDone: number;
+};
 
 type DayLog = {
   /** Completed main unit (unitIndex 0) today */
@@ -219,19 +243,32 @@ function recomputeStreak(state: RewardsState, today: string) {
   state.bestStreak = Math.max(state.bestStreak, streak);
 }
 
+function countMainCheckIns(state: RewardsState): number {
+  return Object.values(state.byDay).filter((d) => d.mainDone).length;
+}
+
 function evaluateBadges(state: RewardsState, today: string) {
   const day = state.byDay[today] ?? emptyDay();
   const unlock = (id: BadgeId) => {
     if (!state.badges.includes(id)) state.badges.push(id);
   };
-  if (state.totalUnits >= 1) unlock("first-unit");
-  if (state.streak >= 3) unlock("streak-3");
-  if (state.streak >= 7) unlock("streak-7");
-  if (state.streak >= 14) unlock("streak-14");
-  if (state.streak >= 30) unlock("streak-30");
+  const peak = Math.max(state.streak, state.bestStreak);
+  if (state.totalUnits >= 1 || countMainCheckIns(state) >= 1) {
+    unlock("first-unit");
+  }
+  if (peak >= 3) unlock("streak-3");
+  if (peak >= 7) unlock("streak-7");
+  if (peak >= 14) unlock("streak-14");
+  if (peak >= 30) unlock("streak-30");
+  if (peak >= 60) unlock("streak-60");
   if (state.totalUnits >= 10) unlock("units-10");
   if (state.totalUnits >= 50) unlock("units-50");
+  if (state.totalUnits >= 100) unlock("units-100");
   if (day.unitsDone >= 3) unlock("extra-3");
+  // Extra-3 also if any historical day hit 3+
+  if (Object.values(state.byDay).some((d) => d.unitsDone >= 3)) {
+    unlock("extra-3");
+  }
 }
 
 export type RewardsSnapshot = {
@@ -240,10 +277,16 @@ export type RewardsSnapshot = {
   streak: number;
   bestStreak: number;
   totalUnits: number;
+  /** Days with main unit check-in (all time). */
+  checkInDays: number;
   goalHit: boolean;
   badges: BadgeId[];
   newlyUnlocked: BadgeId[];
   message: string;
+  /** Milestone line for current streak. */
+  streakQuote: MilestoneQuote;
+  /** Gentle daily line (rotates by date). */
+  dailyQuote: MilestoneQuote;
 };
 
 function messageFor(mainDone: boolean, streak: number) {
@@ -265,10 +308,13 @@ export function getRewardsSnapshot(): RewardsSnapshot {
     streak: state.streak,
     bestStreak: state.bestStreak,
     totalUnits: state.totalUnits,
+    checkInDays: countMainCheckIns(state),
     goalHit: day.goalHit || day.mainDone,
     badges: state.badges,
     newlyUnlocked: [],
     message: messageFor(day.mainDone, state.streak),
+    streakQuote: quoteForStreak(state.streak),
+    dailyQuote: dailyMotivation(today),
   };
 }
 
@@ -309,12 +355,10 @@ export function creditPackStep(): RewardsSnapshot {
   return getRewardsSnapshot();
 }
 
-export function getRecentDays(
-  n = 7,
-): Array<{ date: string; mainDone: boolean; unitsDone: number }> {
+export function getRecentDays(n = 7): CheckInDay[] {
   const state = ensureState();
   const today = todayIso();
-  const out = [];
+  const out: CheckInDay[] = [];
   for (let i = n - 1; i >= 0; i--) {
     const date = dayOffset(today, -i);
     const day = state.byDay[date];
@@ -327,6 +371,40 @@ export function getRecentDays(
   return out;
 }
 
+/** Every logged day (check-in or any units), newest first — full history. */
+export function listAllCheckIns(): CheckInDay[] {
+  const state = ensureState();
+  return Object.entries(state.byDay)
+    .filter(([, d]) => d.mainDone || d.unitsDone > 0)
+    .map(([date, d]) => ({
+      date,
+      mainDone: Boolean(d.mainDone),
+      unitsDone: d.unitsDone || 0,
+    }))
+    .sort((a, b) => (a.date < b.date ? 1 : a.date > b.date ? -1 : 0));
+}
+
+/** Group check-ins by YYYY-MM for timeline UI. */
+export function listCheckInsByMonth(): Array<{
+  month: string;
+  days: CheckInDay[];
+  mainCount: number;
+}> {
+  const all = listAllCheckIns();
+  const map = new Map<string, CheckInDay[]>();
+  for (const d of all) {
+    const month = d.date.slice(0, 7);
+    const list = map.get(month) ?? [];
+    list.push(d);
+    map.set(month, list);
+  }
+  return [...map.entries()].map(([month, days]) => ({
+    month,
+    days,
+    mainCount: days.filter((x) => x.mainDone).length,
+  }));
+}
+
 /** Re-run history→check-in merge (e.g. after cloud sync). */
 export function reconcileRewardsWithHistory(): boolean {
   const state = read();
@@ -337,4 +415,8 @@ export function reconcileRewardsWithHistory(): boolean {
 
 export function badgeMeta(id: BadgeId): BadgeDef {
   return BADGES.find((b) => b.id === id) ?? { id, title: id, body: "" };
+}
+
+export function badgeQuote(id: BadgeId): MilestoneQuote | undefined {
+  return BADGE_QUOTES[id];
 }

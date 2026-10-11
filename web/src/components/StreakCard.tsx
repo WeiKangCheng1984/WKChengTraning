@@ -40,13 +40,18 @@ export function StreakCard() {
             "完成今日主單元即可打卡"
           )}
         </p>
-        <p className="mt-0.5 text-xs text-[var(--muted)]">{snap.message}</p>
+        <p className="mt-0.5 line-clamp-2 text-xs italic text-[var(--muted)]">
+          {(snap.mainDoneToday ? snap.streakQuote : snap.dailyQuote).en}
+        </p>
       </div>
       <div className="shrink-0 text-center">
         <p className="font-[family-name:var(--font-display)] text-2xl text-[var(--sky)]">
           {snap.streak}
         </p>
         <p className="text-[10px] text-[var(--muted)]">連續天</p>
+        <p className="text-[10px] text-[var(--muted)]">
+          累計 {snap.checkInDays}
+        </p>
       </div>
     </Link>
   );
