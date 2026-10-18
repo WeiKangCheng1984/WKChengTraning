@@ -174,6 +174,17 @@ export default function EnglishIndexPage() {
             100 單元 · 每日 10 句跟讀評分 · TTS＋語音辨識
           </p>
         </Link>
+        <Link href="/english/coach" className="card-tap block">
+          <p className="text-xs uppercase tracking-[0.18em] text-[var(--accent)]">
+            AI Coach · 60
+          </p>
+          <h2 className="mt-2 font-[family-name:var(--font-display)] text-xl text-[var(--ink)]">
+            AI 口語陪練 60 堂
+          </h2>
+          <p className="mt-1 text-sm text-[var(--muted)]">
+            模組卡＋系統提示 · 外部 AI 模擬對話 · FEEDBACK 檢討
+          </p>
+        </Link>
         <Link href="/speak#series-f1" className="card-tap block">
           <p className="text-xs uppercase tracking-[0.18em] text-[var(--accent)]">
             Speak · F1

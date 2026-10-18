@@ -111,10 +111,16 @@ const links: Array<{
     icon: "ear",
   },
   {
+    href: "/english/coach",
+    title: "AI 口語陪練 60 堂",
+    body: "模組卡＋教練提示 · 外部 AI 對話練習。",
+    icon: "mic",
+  },
+  {
     href: "/speak#series-f1",
     title: "F1 賽車電影英語",
     body: "300 詞 · 600 句場景跟讀 · TTS／複習。",
-    icon: "mic",
+    icon: "ear",
   },
   {
     href: "/english/review",

@@ -1,0 +1,1443 @@
+{
+  "source": "AI-conversation-60-plan.md",
+  "total": 60,
+  "seasons": [
+    {
+      "id": 1,
+      "titleZh": "開場與節奏",
+      "titleEn": "Openers & Rhythm",
+      "lessons": [
+        1,
+        10
+      ]
+    },
+    {
+      "id": 2,
+      "titleZh": "職場輸出",
+      "titleEn": "Workplace Output",
+      "lessons": [
+        11,
+        20
+      ]
+    },
+    {
+      "id": 3,
+      "titleZh": "敘事與共情",
+      "titleEn": "Story & Empathy",
+      "lessons": [
+        21,
+        30
+      ]
+    },
+    {
+      "id": 4,
+      "titleZh": "個人風格",
+      "titleEn": "Signature Style",
+      "lessons": [
+        31,
+        40
+      ]
+    },
+    {
+      "id": 5,
+      "titleZh": "壓力對話",
+      "titleEn": "Pressure Talk",
+      "lessons": [
+        41,
+        50
+      ]
+    },
+    {
+      "id": 6,
+      "titleZh": "領域與總整",
+      "titleEn": "Domain & Capstone",
+      "lessons": [
+        51,
+        60
+      ]
+    }
+  ],
+  "systemPromptPath": "embedded",
+  "lessons": [
+    {
+      "id": 1,
+      "slug": "lesson-01",
+      "season": 1,
+      "seasonTitleZh": "開場與節奏",
+      "seasonTitleEn": "Openers & Rhythm",
+      "topicEn": "Warm start & small talk",
+      "topicZh": "開場熱身寒暄",
+      "scenario": "AI is a friendly American acquaintance you bump into at a café. Chat casually about your morning and plans. You try to sound natural, not textbook.",
+      "aiRole": "咖啡廳巧遇的美式朋友",
+      "sourceHref": "/speak/common-01-new-day",
+      "sourceLabel": "跟讀 · 新的一天",
+      "targets": [
+        "I'll hit snooze just one more time.",
+        "I feel like staying in bed forever today.",
+        "Looks like it's pouring rain outside."
+      ],
+      "pattern": {
+        "pattern": "I’ve been meaning to [verb]…",
+        "example": "I’ve been meaning to ask — how’s your week going?"
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 2,
+      "slug": "lesson-02",
+      "season": 1,
+      "seasonTitleZh": "開場與節奏",
+      "seasonTitleEn": "Openers & Rhythm",
+      "topicEn": "Soften with buffers",
+      "topicZh": "用緩衝軟化語氣",
+      "scenario": "AI is a mild-mannered coworker. Soften direct requests with natural buffers while staying clear.",
+      "aiRole": "溫和同事",
+      "sourceHref": "/english/style/openers",
+      "sourceLabel": "風格 · 發語詞與緩衝",
+      "targets": [
+        "I’m just trying to get a better sense of the big picture.",
+        "I was just wondering if you had any thoughts on this.",
+        "It’s just that I want to make sure we don’t miss any small details."
+      ],
+      "pattern": {
+        "pattern": "I was just wondering if…",
+        "example": "I was just wondering if we could push the review to tomorrow."
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 3,
+      "slug": "lesson-03",
+      "season": 1,
+      "seasonTitleZh": "開場與節奏",
+      "seasonTitleEn": "Openers & Rhythm",
+      "topicEn": "Actually / Basically clarity",
+      "topicZh": "精準開場：Actually／Basically",
+      "scenario": "AI is a product teammate in a quick sync. Use Actually/Basically to clarify without sounding rude.",
+      "aiRole": "產品同事",
+      "sourceHref": "/english/style/openers",
+      "sourceLabel": "風格 · Actually／Basically",
+      "targets": [
+        "Actually",
+        "Basically",
+        "Actually, the process is a bit more streamlined than it looks."
+      ],
+      "pattern": {
+        "pattern": "Actually, … / Basically, …",
+        "example": "Actually, the process is a bit more streamlined than it looks."
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 4,
+      "slug": "lesson-04",
+      "season": 1,
+      "seasonTitleZh": "開場與節奏",
+      "seasonTitleEn": "Openers & Rhythm",
+      "topicEn": "I mean / You know connection",
+      "topicZh": "社交共鳴：I mean／You know",
+      "scenario": "AI chats like a Slack voice-note friend. Keep it warm and connected using I mean / You know.",
+      "aiRole": "非正式對話的朋友",
+      "sourceHref": "/english/style/openers",
+      "sourceLabel": "風格 · I mean／You know",
+      "targets": [
+        "I mean",
+        "You know",
+        "I mean, I don't want to overcomplicate things for you."
+      ],
+      "pattern": {
+        "pattern": "I mean, …",
+        "example": "I mean, I don't want to overcomplicate things for you."
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 5,
+      "slug": "lesson-05",
+      "season": 1,
+      "seasonTitleZh": "開場與節奏",
+      "seasonTitleEn": "Openers & Rhythm",
+      "topicEn": "Fair enough / Right",
+      "topicZh": "消化對方訊息再接話",
+      "scenario": "AI is a logical discussion partner. Acknowledge their point, pause, then steer with your view.",
+      "aiRole": "理性討論夥伴",
+      "sourceHref": "/english/style/openers",
+      "sourceLabel": "風格 · Fair enough／Right",
+      "targets": [
+        "Fair enough",
+        "Right (搭配 30% 戰術性停頓)",
+        "Fair enough, I see where you’re coming from with that point."
+      ],
+      "pattern": {
+        "pattern": "Fair enough, but…",
+        "example": "Fair enough, I see where you’re coming from with that point."
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 6,
+      "slug": "lesson-06",
+      "season": 1,
+      "seasonTitleZh": "開場與節奏",
+      "seasonTitleEn": "Openers & Rhythm",
+      "topicEn": "Honestly / Realistically",
+      "topicZh": "直率但專業",
+      "scenario": "Weekly team standup. Be direct with Honestly/Realistically without sounding harsh.",
+      "aiRole": "週會隊友",
+      "sourceHref": "/english/style/openers",
+      "sourceLabel": "風格 · Honestly／Realistically",
+      "targets": [
+        "Honestly",
+        "Realistically",
+        "Honestly, I think we’re overthinking this part."
+      ],
+      "pattern": {
+        "pattern": "Honestly, I think…",
+        "example": "Honestly, I think we’re overthinking this part."
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 7,
+      "slug": "lesson-07",
+      "season": 1,
+      "seasonTitleZh": "開場與節奏",
+      "seasonTitleEn": "Openers & Rhythm",
+      "topicEn": "Ask & extend · icebreak",
+      "topicZh": "破冰式觸探",
+      "scenario": "Networking mixer. AI is someone new. Practice icebreaker asks and extend the chat.",
+      "aiRole": "社交聚會新人",
+      "sourceHref": "/english/conversation/ask-extend",
+      "sourceLabel": "會話 · 提問延展",
+      "targets": [
+        "I’ve been meaning to ask someone who knows about [領域]... How did you get into [主題]?",
+        "I couldn’t help but notice your [物品/配件]. What’s the story behind it?",
+        "So, what’s keeping you busy and excited these days outside of [工作/學校]?"
+      ],
+      "pattern": {
+        "pattern": "I’ve been meaning to ask someone who knows about [X]…",
+        "example": "I’ve been meaning to ask someone who knows about [領域]... How did you get into [主題]?"
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 8,
+      "slug": "lesson-08",
+      "season": 1,
+      "seasonTitleZh": "開場與節奏",
+      "seasonTitleEn": "Openers & Rhythm",
+      "topicEn": "Ask & extend · dig deeper",
+      "topicZh": "深度追問",
+      "scenario": "AI is a curious interviewer. Dig deeper with follow-up questions without sounding like an interrogation.",
+      "aiRole": "好奇的訪談者",
+      "sourceHref": "/english/conversation/ask-extend",
+      "sourceLabel": "會話 · 深度觀點",
+      "targets": [
+        "What do you think is the biggest misconception people have about [主題/職業]?",
+        "If money and time weren’t an issue, how would you approach [問題/計畫]?",
+        "I’m torn between [選項A] and [選項B]. From your experience, which one yields better results?"
+      ],
+      "pattern": {
+        "pattern": "What made you decide to…?",
+        "example": "What do you think is the biggest misconception people have about [主題/職業]?"
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 9,
+      "slug": "lesson-09",
+      "season": 1,
+      "seasonTitleZh": "開場與節奏",
+      "seasonTitleEn": "Openers & Rhythm",
+      "topicEn": "Daily rhythm spoken",
+      "topicZh": "日常節奏口語",
+      "scenario": "AI is a roommate/family member. Talk through a normal day using spoken rhythm lines.",
+      "aiRole": "室友／家人",
+      "sourceHref": "/speak",
+      "sourceLabel": "跟讀 · 常用口語",
+      "targets": [
+        "Let me walk you through the goals of this new project.",
+        "I'll take the lead on drafting the project scope.",
+        "Do you wanna handle the vendor communication part?"
+      ],
+      "pattern": {
+        "pattern": "I’m gonna [verb]…",
+        "example": "I'm gonna grab an iced latte on my way to work."
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 10,
+      "slug": "lesson-10",
+      "season": 1,
+      "seasonTitleZh": "開場與節奏",
+      "seasonTitleEn": "Openers & Rhythm",
+      "topicEn": "Week-1 mix replay",
+      "topicZh": "第一季小複盤",
+      "scenario": "AI is your coach doing a rapid oral quiz. Reuse openers and icebreakers from Lessons 1–9 in one fluid chat.",
+      "aiRole": "教練複習官",
+      "sourceHref": "/english/style/openers",
+      "sourceLabel": "風格 · 開場複盤",
+      "targets": [
+        "Actually,",
+        "Fair enough,",
+        "I’ve been meaning to ask…"
+      ],
+      "pattern": {
+        "pattern": "Mix: Actually / Fair enough / I’ve been meaning to…",
+        "example": "Actually, fair enough — I’ve been meaning to ask about that."
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 11,
+      "slug": "lesson-11",
+      "season": 2,
+      "seasonTitleZh": "職場輸出",
+      "seasonTitleEn": "Workplace Output",
+      "topicEn": "Polite requests",
+      "topicZh": "禮貌請求",
+      "scenario": "AI needs a favor at work. Make polite requests and negotiate gently.",
+      "aiRole": "需要幫忙的同事",
+      "sourceHref": "/english/polite-requests-networking-3",
+      "sourceLabel": "句型 · 禮貌請求",
+      "targets": [
+        "Would you mind...?",
+        "I was wondering if...",
+        "Could you please clarify...?"
+      ],
+      "pattern": {
+        "pattern": "Would you mind if…?",
+        "example": "Would you mind...?"
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 12,
+      "slug": "lesson-12",
+      "season": 2,
+      "seasonTitleZh": "職場輸出",
+      "seasonTitleEn": "Workplace Output",
+      "topicEn": "Networking soft asks",
+      "topicZh": "人脈場合請求",
+      "scenario": "Industry mixer. AI is a stranger in your field. Soft-ask for intros or advice.",
+      "aiRole": "產業活動陌生人",
+      "sourceHref": "/english/polite-requests-networking-3",
+      "sourceLabel": "句型 · 人脈請求",
+      "targets": [
+        "Is it possible to...?",
+        "I’d appreciate it if you could...",
+        "Do you happen to know...?"
+      ],
+      "pattern": {
+        "pattern": "If it’s not too much trouble…",
+        "example": "If it’s not too much trouble, could I grab your email?"
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 13,
+      "slug": "lesson-13",
+      "season": 2,
+      "seasonTitleZh": "職場輸出",
+      "seasonTitleEn": "Workplace Output",
+      "topicEn": "Opinion with soft landing",
+      "topicZh": "溫和表達觀點",
+      "scenario": "AI disagrees with you on a product call. Soft-land your opinion, then hold your ground.",
+      "aiRole": "意見不合的隊友",
+      "sourceHref": "/english/conversation/express-views",
+      "sourceLabel": "會話 · 表達觀點",
+      "targets": [
+        "I’ve given this a lot of thought, and from where I stand, [想法]...",
+        "Correct me if I’m wrong, but it feels like the real issue here isn’t [A], but rather [B].",
+        "I might be a bit biased because of my background in [領域], but I honestly think [想法]."
+      ],
+      "pattern": {
+        "pattern": "I see it a bit differently…",
+        "example": "I’ve given this a lot of thought, and from where I stand, [想法]..."
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 14,
+      "slug": "lesson-14",
+      "season": 2,
+      "seasonTitleZh": "職場輸出",
+      "seasonTitleEn": "Workplace Output",
+      "topicEn": "Transitions & logic",
+      "topicZh": "轉折邏輯",
+      "scenario": "Project alignment meeting. Use connectors to move from observation to recommendation.",
+      "aiRole": "專案對齊會議主持",
+      "sourceHref": "/english/style/connectors",
+      "sourceLabel": "風格 · 邏輯連接",
+      "targets": [
+        "The bottom line is",
+        "The thing is",
+        "That being said"
+      ],
+      "pattern": {
+        "pattern": "That being said, …",
+        "example": "That being said, I still think there’s a lot of potential in your idea."
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 15,
+      "slug": "lesson-15",
+      "season": 2,
+      "seasonTitleZh": "職場輸出",
+      "seasonTitleEn": "Workplace Output",
+      "topicEn": "Bottom line / The thing is",
+      "topicZh": "直切重點",
+      "scenario": "Busy manager has two minutes. Get to the bottom line fast.",
+      "aiRole": "忙碌主管",
+      "sourceHref": "/english/style/connectors",
+      "sourceLabel": "風格 · Bottom line",
+      "targets": [
+        "The bottom line is",
+        "The thing is",
+        "The bottom line is, we need a solution that works for everyone involved."
+      ],
+      "pattern": {
+        "pattern": "The bottom line is…",
+        "example": "The bottom line is, we need a solution that works for everyone involved."
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 16,
+      "slug": "lesson-16",
+      "season": 2,
+      "seasonTitleZh": "職場輸出",
+      "seasonTitleEn": "Workplace Output",
+      "topicEn": "That being said",
+      "topicZh": "多面觀察後轉折",
+      "scenario": "Strategy chat. Acknowledge a good point, then pivot with That being said / Having said that.",
+      "aiRole": "策略討論對象",
+      "sourceHref": "/english/style/connectors",
+      "sourceLabel": "風格 · That being said",
+      "targets": [
+        "That being said",
+        "Having said that",
+        "That being said, I still think there’s a lot of potential in your idea."
+      ],
+      "pattern": {
+        "pattern": "That being said, …",
+        "example": "That being said, I still think there’s a lot of potential in your idea."
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 17,
+      "slug": "lesson-17",
+      "season": 2,
+      "seasonTitleZh": "職場輸出",
+      "seasonTitleEn": "Workplace Output",
+      "topicEn": "Deadlines & efficiency",
+      "topicZh": "期限與效率",
+      "scenario": "Standup. Talk deadlines, tradeoffs, and what’s blocking you.",
+      "aiRole": "Scrum 隊友",
+      "sourceHref": "/english/time-efficiency-deadline-4",
+      "sourceLabel": "句型 · 期限效率",
+      "targets": [
+        "It’s about time...",
+        "Every now and then...",
+        "As soon as possible..."
+      ],
+      "pattern": {
+        "pattern": "If we want to hit [deadline], we need to…",
+        "example": "It’s about time..."
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 18,
+      "slug": "lesson-18",
+      "season": 2,
+      "seasonTitleZh": "職場輸出",
+      "seasonTitleEn": "Workplace Output",
+      "topicEn": "Challenges & solutions",
+      "topicZh": "挑戰與解法",
+      "scenario": "Post-mortem. Name the challenge, then propose a practical fix.",
+      "aiRole": "故障檢討會議",
+      "sourceHref": "/english/challenges-assessment-solutions-6",
+      "sourceLabel": "句型 · 挑戰解法",
+      "targets": [
+        "We are facing...",
+        "It’s not worth...",
+        "We need to weigh the pros and cons of..."
+      ],
+      "pattern": {
+        "pattern": "The main challenge is… One way forward is…",
+        "example": "We are facing..."
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 19,
+      "slug": "lesson-19",
+      "season": 2,
+      "seasonTitleZh": "職場輸出",
+      "seasonTitleEn": "Workplace Output",
+      "topicEn": "Work / project updates",
+      "topicZh": "專案進度口述",
+      "scenario": "1:1 with your lead. Give a crisp status: done / doing / blocked.",
+      "aiRole": "一對一主管",
+      "sourceHref": "/english/work-project-management-8",
+      "sourceLabel": "句型 · 專案管理",
+      "targets": [
+        "Come up with",
+        "Carry out",
+        "Push back"
+      ],
+      "pattern": {
+        "pattern": "Here’s where we are… Next I’ll…",
+        "example": "Come up with"
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 20,
+      "slug": "lesson-20",
+      "season": 2,
+      "seasonTitleZh": "職場輸出",
+      "seasonTitleEn": "Workplace Output",
+      "topicEn": "Season-2 mix",
+      "topicZh": "職場季複盤",
+      "scenario": "Mock interview. Mix polite asks, opinions, and deadline talk from Season 2.",
+      "aiRole": "模擬面試官",
+      "sourceHref": "/english/conversation/express-views",
+      "sourceLabel": "會話 · 觀點複盤",
+      "targets": [
+        "Would you mind if…",
+        "The bottom line is…",
+        "That being said…"
+      ],
+      "pattern": {
+        "pattern": "The bottom line is… That being said…",
+        "example": "The bottom line is we need help — that being said, I can cover Friday."
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 21,
+      "slug": "lesson-21",
+      "season": 3,
+      "seasonTitleZh": "敘事與共情",
+      "seasonTitleEn": "Story & Empathy",
+      "topicEn": "Story hook opening",
+      "topicZh": "懸念式開頭",
+      "scenario": "AI is a friend who loves stories. Open with a hook, then invite questions.",
+      "aiRole": "聽故事的朋友",
+      "sourceHref": "/english/conversation/storytelling",
+      "sourceLabel": "會話 · 講故事",
+      "targets": [
+        "You’re not going to believe what happened to me the other day when I was [做某事]...",
+        "That reminds me of this incredibly awkward, yet hilarious story from back when I was [時空背景]...",
+        "Have I ever told you about the time I almost [差點發生的驚人大事]?"
+      ],
+      "pattern": {
+        "pattern": "You’re not gonna believe what happened…",
+        "example": "You’re not going to believe what happened to me the other day when I was [做某事]..."
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 22,
+      "slug": "lesson-22",
+      "season": 3,
+      "seasonTitleZh": "敘事與共情",
+      "seasonTitleEn": "Story & Empathy",
+      "topicEn": "Scene-setting",
+      "topicZh": "情境帶入",
+      "scenario": "Podcast-style chat. Set the scene with sensory/time details.",
+      "aiRole": "podcast 對談來賓",
+      "sourceHref": "/english/conversation/storytelling",
+      "sourceLabel": "會話 · 情境帶入",
+      "targets": [
+        "To give you some context, I was already [某種負面狀態], so the last thing I needed was [另一件衰事].",
+        "Long story short, we found ourselves in the middle of [某個混亂地方] with absolutely no [必備物品].",
+        "At that point, my mind was racing, and I kept thinking to myself, “[當時內心的OS]”."
+      ],
+      "pattern": {
+        "pattern": "So picture this…",
+        "example": "To give you some context, I was already [某種負面狀態], so the last thing I needed was [另一件衰事]."
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 23,
+      "slug": "lesson-23",
+      "season": 3,
+      "seasonTitleZh": "敘事與共情",
+      "seasonTitleEn": "Story & Empathy",
+      "topicEn": "Turning point",
+      "topicZh": "高潮轉折",
+      "scenario": "Continue a story; hit the turning point clearly.",
+      "aiRole": "想聽細節的同事",
+      "sourceHref": "/english/conversation/storytelling",
+      "sourceLabel": "會話 · 高潮轉折",
+      "targets": [
+        "And right at that exact moment, the plot thickens. [轉折事件].",
+        "Just when I thought it couldn’t get any weirder, guess what happened?",
+        "But here’s the kicker: [出人意料的核心笑點/轉折]."
+      ],
+      "pattern": {
+        "pattern": "And that’s when everything changed…",
+        "example": "And right at that exact moment, the plot thickens. [轉折事件]."
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 24,
+      "slug": "lesson-24",
+      "season": 3,
+      "seasonTitleZh": "敘事與共情",
+      "seasonTitleEn": "Story & Empathy",
+      "topicEn": "Story landing",
+      "topicZh": "畫龍點睛收束",
+      "scenario": "Land the story with a clear takeaway or punchline.",
+      "aiRole": "聽故事的朋友",
+      "sourceHref": "/english/conversation/storytelling",
+      "sourceLabel": "會話 · 收束",
+      "targets": [
+        "So yeah, long story short, that’s how I ended up [荒謬的最終結局].",
+        "Moral of the story: Never, under any circumstances, [學到的核心教訓].",
+        "Looking back, it’s hilarious, but at the time, I honestly thought [當時的絕望想法]."
+      ],
+      "pattern": {
+        "pattern": "Looking back, the point is…",
+        "example": "So yeah, long story short, that’s how I ended up [荒謬的最終結局]."
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 25,
+      "slug": "lesson-25",
+      "season": 3,
+      "seasonTitleZh": "敘事與共情",
+      "seasonTitleEn": "Story & Empathy",
+      "topicEn": "Emotional mirroring",
+      "topicZh": "情緒同頻",
+      "scenario": "AI is a friend having a rough day. Mirror feelings before advice.",
+      "aiRole": "心情不好的朋友",
+      "sourceHref": "/english/conversation/listen-empathy",
+      "sourceLabel": "會話 · 傾聽共情",
+      "targets": [
+        "I can’t even imagine how [情緒形容詞] you must have felt. Anyone would have [反應] in that situation.",
+        "That sounds incredibly [負面形容詞]. It’s completely valid that you’re feeling this way.",
+        "Wow, you must be over the moon! You’ve put so much blood, sweat, and tears into [事物]."
+      ],
+      "pattern": {
+        "pattern": "That sounds really [emotion]…",
+        "example": "I can’t even imagine how [情緒形容詞] you must have felt. Anyone would have [反應] in that situation."
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 26,
+      "slug": "lesson-26",
+      "season": 3,
+      "seasonTitleZh": "敘事與共情",
+      "seasonTitleEn": "Story & Empathy",
+      "topicEn": "Paraphrase empathy",
+      "topicZh": "換句話說",
+      "scenario": "Practice reflecting back what you heard before responding.",
+      "aiRole": "需要被理解的朋友",
+      "sourceHref": "/english/conversation/listen-empathy",
+      "sourceLabel": "會話 · 換句話說",
+      "targets": [
+        "So, if I’m hearing you correctly, the main source of stress isn’t [A], but rather [B]?",
+        "It sounds like you’re caught between a rock and a hard place—on one hand [難處A], but on the other hand [難處B].",
+        "Correct me if I’m wrong, but it seems like what you’re really looking for is just some [內心需求]."
+      ],
+      "pattern": {
+        "pattern": "So what I’m hearing is…",
+        "example": "So, if I’m hearing you correctly, the main source of stress isn’t [A], but rather [B]?"
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 27,
+      "slug": "lesson-27",
+      "season": 3,
+      "seasonTitleZh": "敘事與共情",
+      "seasonTitleEn": "Story & Empathy",
+      "topicEn": "Empower & support",
+      "topicZh": "積極賦能",
+      "scenario": "AI is a junior teammate who feels stuck. Support without taking over.",
+      "aiRole": "受挫的後輩",
+      "sourceHref": "/english/conversation/listen-empathy",
+      "sourceLabel": "會話 · 積極賦能",
+      "targets": [
+        "Hey, don’t minimize your effort. Give yourself some credit for [做到的成果].",
+        "From an outsider’s perspective, I’ve always admired how you [某種優點]. It’s a rare trait.",
+        "You’re being way too hard on yourself. Look at how far you’ve come since [過去的時間點]."
+      ],
+      "pattern": {
+        "pattern": "You’ve already handled [X] — what’s one next step?",
+        "example": "Hey, don’t minimize your effort. Give yourself some credit for [做到的成果]."
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 28,
+      "slug": "lesson-28",
+      "season": 3,
+      "seasonTitleZh": "敘事與共情",
+      "seasonTitleEn": "Story & Empathy",
+      "topicEn": "Moving on / On that note",
+      "topicZh": "推進話題",
+      "scenario": "You lightly facilitate a tour/meeting. Keep momentum with Moving on / On that note.",
+      "aiRole": "會議／導覽聽眾",
+      "sourceHref": "/english/style/connectors",
+      "sourceLabel": "風格 · Moving on",
+      "targets": [
+        "Moving on to",
+        "On that note",
+        "Moving on to the next part, let's talk about the history of this place."
+      ],
+      "pattern": {
+        "pattern": "Moving on to… / On that note…",
+        "example": "Moving on to the next part, let's talk about the history of this place."
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 29,
+      "slug": "lesson-29",
+      "season": 3,
+      "seasonTitleZh": "敘事與共情",
+      "seasonTitleEn": "Story & Empathy",
+      "topicEn": "To be fair / For what it's worth",
+      "topicZh": "同理＋建議",
+      "scenario": "Gentle debate with a friend. Balance fairness and your suggestion.",
+      "aiRole": "溫和諍友",
+      "sourceHref": "/english/style/connectors",
+      "sourceLabel": "風格 · To be fair",
+      "targets": [
+        "To be fair",
+        "For what it's worth",
+        "To be fair, it’s a pretty complex system to learn in one day."
+      ],
+      "pattern": {
+        "pattern": "To be fair… For what it’s worth…",
+        "example": "To be fair, it’s a pretty complex system to learn in one day."
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 30,
+      "slug": "lesson-30",
+      "season": 3,
+      "seasonTitleZh": "敘事與共情",
+      "seasonTitleEn": "Story & Empathy",
+      "topicEn": "Season-3 mix",
+      "topicZh": "敘事共情複盤",
+      "scenario": "Coach mixes storytelling + empathy prompts from Season 3.",
+      "aiRole": "教練複盤",
+      "sourceHref": "/english/conversation/storytelling",
+      "sourceLabel": "會話 · 敘事複盤",
+      "targets": [
+        "So picture this…",
+        "So what I’m hearing is…",
+        "To be fair…"
+      ],
+      "pattern": {
+        "pattern": "So picture this… / So what I’m hearing is…",
+        "example": "So picture this — and so what I’m hearing is you felt stuck."
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 31,
+      "slug": "lesson-31",
+      "season": 4,
+      "seasonTitleZh": "個人風格",
+      "seasonTitleEn": "Signature Style",
+      "topicEn": "Bird’s-eye / big picture",
+      "topicZh": "拉高視角",
+      "scenario": "Strategy workshop. Zoom out before diving into details.",
+      "aiRole": "工作坊夥伴",
+      "sourceHref": "/english/style/signature",
+      "sourceLabel": "風格 · Signature 視野",
+      "targets": [
+        "Let’s look at this from a bird’s eye view.",
+        "It’s all about the frame of mind.",
+        "I’m looking for that sweet spot between X and Y."
+      ],
+      "pattern": {
+        "pattern": "Let’s look at this from a bird’s eye view…",
+        "example": "Let’s look at this from a bird’s eye view."
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 32,
+      "slug": "lesson-32",
+      "season": 4,
+      "seasonTitleZh": "個人風格",
+      "seasonTitleEn": "Signature Style",
+      "topicEn": "Frame of mind / angle",
+      "topicZh": "心態與角度",
+      "scenario": "Casual museum/open-house chat. Talk about perspective and framing.",
+      "aiRole": "展覽／看房同伴",
+      "sourceHref": "/english/style/signature",
+      "sourceLabel": "風格 · frame of mind",
+      "targets": [
+        "It’s all about the frame of mind.",
+        "It depends on the angle you’re taking.",
+        "It’s all about the frame of mind."
+      ],
+      "pattern": {
+        "pattern": "It depends on the angle you’re taking…",
+        "example": "It depends on the angle you’re taking."
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 33,
+      "slug": "lesson-33",
+      "season": 4,
+      "seasonTitleZh": "個人風格",
+      "seasonTitleEn": "Signature Style",
+      "topicEn": "Sweet spot / calibrate",
+      "topicZh": "平衡與校準",
+      "scenario": "Plan a trip/weekend. Negotiate expectations and find the sweet spot.",
+      "aiRole": "一起排行程的朋友",
+      "sourceHref": "/english/style/signature",
+      "sourceLabel": "風格 · sweet spot",
+      "targets": [
+        "I’m looking for that sweet spot between X and Y.",
+        "It’s a matter of calibrating our expectations.",
+        "It’s a matter of calibrating our expectations."
+      ],
+      "pattern": {
+        "pattern": "I’m looking for that sweet spot between X and Y…",
+        "example": "I’m looking for that sweet spot between X and Y."
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 34,
+      "slug": "lesson-34",
+      "season": 4,
+      "seasonTitleZh": "個人風格",
+      "seasonTitleEn": "Signature Style",
+      "topicEn": "Break it down / sequence",
+      "topicZh": "拆解與流程",
+      "scenario": "Onboarding a newbie. Break a complex task into a clear sequence.",
+      "aiRole": "新進同事",
+      "sourceHref": "/english/style/signature",
+      "sourceLabel": "風格 · break it down",
+      "targets": [
+        "The logic checks out on my end.",
+        "Let’s break this down into smaller pieces.",
+        "I like things to be streamlined and efficient."
+      ],
+      "pattern": {
+        "pattern": "Let’s break this down into smaller pieces…",
+        "example": "Let’s break this down into smaller pieces."
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 35,
+      "slug": "lesson-35",
+      "season": 4,
+      "seasonTitleZh": "個人風格",
+      "seasonTitleEn": "Signature Style",
+      "topicEn": "Develop / nurture / stages",
+      "topicZh": "成長過程用語",
+      "scenario": "Side-project chat. Talk progress without rushing the process.",
+      "aiRole": "副業夥伴",
+      "sourceHref": "/english/style/signature",
+      "sourceLabel": "風格 · 成長過程",
+      "targets": [
+        "Let’s see how this develops over time.",
+        "It needs a bit of nurturing to get it right.",
+        "We’re in the pilot phase of this idea."
+      ],
+      "pattern": {
+        "pattern": "Let’s see how this develops over time…",
+        "example": "Let’s see how this develops over time."
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 36,
+      "slug": "lesson-36",
+      "season": 4,
+      "seasonTitleZh": "個人風格",
+      "seasonTitleEn": "Signature Style",
+      "topicEn": "Root cause not symptoms",
+      "topicZh": "找根因",
+      "scenario": "Troubleshooting call. Push past symptoms toward root cause.",
+      "aiRole": "一起排查的工程師",
+      "sourceHref": "/english/style/signature",
+      "sourceLabel": "風格 · root cause",
+      "targets": [
+        "It’s about finding the root cause, not just the symptoms.",
+        "It’s about finding the root cause, not just the symptoms.",
+        "Let’s not just patch the symptoms."
+      ],
+      "pattern": {
+        "pattern": "It’s about finding the root cause, not just the symptoms…",
+        "example": "It’s about finding the root cause, not just the symptoms."
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 37,
+      "slug": "lesson-37",
+      "season": 4,
+      "seasonTitleZh": "個人風格",
+      "seasonTitleEn": "Signature Style",
+      "topicEn": "West-coast vibe lines",
+      "topicZh": "西岸隨性用語",
+      "scenario": "Weekend plans with an LA friend. Keep it chill and natural.",
+      "aiRole": "西岸風格朋友",
+      "sourceHref": "/english/style/signature",
+      "sourceLabel": "風格 · 社交氛圍",
+      "targets": [
+        "What’s the move for the rest of the day?",
+        "I’m just vibing with the atmosphere here.",
+        "Let’s keep the momentum going."
+      ],
+      "pattern": {
+        "pattern": "What’s the move for the rest of the day?",
+        "example": "What’s the move for the rest of the day?"
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 38,
+      "slug": "lesson-38",
+      "season": 4,
+      "seasonTitleZh": "個人風格",
+      "seasonTitleEn": "Signature Style",
+      "topicEn": "Clear the air / hit the mark",
+      "topicZh": "澄清與對準",
+      "scenario": "Client walkthrough. Clear confusion and check you’re hitting the mark.",
+      "aiRole": "客戶／聽眾",
+      "sourceHref": "/english/style/signature",
+      "sourceLabel": "風格 · 引導澄清",
+      "targets": [
+        "Just to clear the air, here’s how it works.",
+        "Feel free to jump in if you have any thoughts.",
+        "I want to make sure I’m hitting the mark for you."
+      ],
+      "pattern": {
+        "pattern": "Just to clear the air… I want to make sure I’m hitting the mark…",
+        "example": "Just to clear the air, here’s how it works."
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 39,
+      "slug": "lesson-39",
+      "season": 4,
+      "seasonTitleZh": "個人風格",
+      "seasonTitleEn": "Signature Style",
+      "topicEn": "Put a pin / walk through",
+      "topicZh": "控場與導覽",
+      "scenario": "Facility tour. Park side topics and walk people through the story.",
+      "aiRole": "導覽聽眾",
+      "sourceHref": "/english/style/signature",
+      "sourceLabel": "風格 · put a pin",
+      "targets": [
+        "Let’s put a pin in that for now.",
+        "I’m here to walk you through the whole story.",
+        "Let’s put a pin in that for now."
+      ],
+      "pattern": {
+        "pattern": "Let’s put a pin in that for now…",
+        "example": "Let’s put a pin in that for now."
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 40,
+      "slug": "lesson-40",
+      "season": 4,
+      "seasonTitleZh": "個人風格",
+      "seasonTitleEn": "Signature Style",
+      "topicEn": "Season-4 mix",
+      "topicZh": "風格季複盤",
+      "scenario": "Coach samples signature lines from Season 4 in one conversation.",
+      "aiRole": "教練抽樣",
+      "sourceHref": "/english/style/signature",
+      "sourceLabel": "風格 · Signature 複盤",
+      "targets": [
+        "Let’s zoom out for a second…",
+        "Let’s break this down…",
+        "What’s the move…?"
+      ],
+      "pattern": {
+        "pattern": "Let’s zoom out… then break it down…",
+        "example": "Let’s zoom out for a second, then break this down into two steps."
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 41,
+      "slug": "lesson-41",
+      "season": 5,
+      "seasonTitleZh": "壓力對話",
+      "seasonTitleEn": "Pressure Talk",
+      "topicEn": "Buy thinking time",
+      "topicZh": "爭取思考時間",
+      "scenario": "Surprise Q&A. Buy a few seconds without sounding lost.",
+      "aiRole": "突襲提問的客戶",
+      "sourceHref": "/english/style/pressure-relief",
+      "sourceLabel": "風格 · 思考緩衝",
+      "targets": [
+        "Let me just process the details on that for a second.",
+        "I am just running the logic through my head to make sure I missed nothing.",
+        "Give me a moment to find the most precise way to phrase this."
+      ],
+      "pattern": {
+        "pattern": "Let me just process that for a second…",
+        "example": "Let me just process the details on that for a second."
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 42,
+      "slug": "lesson-42",
+      "season": 5,
+      "seasonTitleZh": "壓力對話",
+      "seasonTitleEn": "Pressure Talk",
+      "topicEn": "Honest “I don’t know yet”",
+      "topicZh": "優雅承認未知",
+      "scenario": "Tricky questions. Admit limits and offer a clean follow-up path.",
+      "aiRole": "刁鑽 Q&A",
+      "sourceHref": "/english/style/pressure-relief",
+      "sourceLabel": "風格 · 未知應對",
+      "targets": [
+        "That is a specific detail I would like to verify before giving you a definitive answer.",
+        "I do not have the exact data on me right now, but I can certainly find out.",
+        "That is outside my current focus, but here is what I do know."
+      ],
+      "pattern": {
+        "pattern": "I don’t have the exact data on me, but I can find out…",
+        "example": "I do not have the exact data on me right now, but I can certainly find out."
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 43,
+      "slug": "lesson-43",
+      "season": 5,
+      "seasonTitleZh": "壓力對話",
+      "seasonTitleEn": "Pressure Talk",
+      "topicEn": "Redirect & stay on track",
+      "topicZh": "轉向與節奏",
+      "scenario": "Meeting goes off-topic. Redirect politely and keep the schedule.",
+      "aiRole": "會議跑題的人",
+      "sourceHref": "/english/style/pressure-relief",
+      "sourceLabel": "風格 · 轉向控場",
+      "targets": [
+        "In the interest of time, let us focus on the core issue first.",
+        "I think we are getting a bit into the weeds here. Let us pull back.",
+        "That is a conversation for another time, but I appreciate the input."
+      ],
+      "pattern": {
+        "pattern": "In the interest of time, let’s focus on…",
+        "example": "In the interest of time, let us focus on the core issue first."
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 44,
+      "slug": "lesson-44",
+      "season": 5,
+      "seasonTitleZh": "壓力對話",
+      "seasonTitleEn": "Pressure Talk",
+      "topicEn": "Disagree with respect",
+      "topicZh": "有禮異議",
+      "scenario": "Colleague pushes a weak plan. Disagree without escalating.",
+      "aiRole": "意見衝突的同事",
+      "sourceHref": "/english/style/pressure-relief",
+      "sourceLabel": "風格 · 有禮異議",
+      "targets": [
+        "I see your point, though my observation suggests something slightly different.",
+        "I appreciate that perspective, but I am looking at it from a different angle.",
+        "Fair enough, but let us look at the practical side of things."
+      ],
+      "pattern": {
+        "pattern": "I see your point, though my observation suggests…",
+        "example": "I see your point, though my observation suggests something slightly different."
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 45,
+      "slug": "lesson-45",
+      "season": 5,
+      "seasonTitleZh": "壓力對話",
+      "seasonTitleEn": "Pressure Talk",
+      "topicEn": "Elegant exit",
+      "topicZh": "優雅收尾撤退",
+      "scenario": "You need to leave a conversation cleanly without awkwardness.",
+      "aiRole": "想結束對話的場合",
+      "sourceHref": "/english/style/pressure-relief",
+      "sourceLabel": "風格 · 優雅撤退",
+      "targets": [
+        "I will let you get back to what you were doing.",
+        "I have a few more things to check off my list today.",
+        "Let us pick this up again when we both have more time."
+      ],
+      "pattern": {
+        "pattern": "I’ll let you get back to what you were doing…",
+        "example": "I will let you get back to what you were doing."
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 46,
+      "slug": "lesson-46",
+      "season": 5,
+      "seasonTitleZh": "壓力對話",
+      "seasonTitleEn": "Pressure Talk",
+      "topicEn": "High-EQ disagreement",
+      "topicZh": "高 EQ 太極",
+      "scenario": "Sensitive topic. Stay high-EQ while holding a different view.",
+      "aiRole": "敏感話題對話者",
+      "sourceHref": "/english/conversation/express-views",
+      "sourceLabel": "會話 · 高EQ",
+      "targets": [
+        "I see where you’re coming from, but have we considered [另一個隱憂]?",
+        "That’s a valid point for [情境A], but I wonder if it still holds true for [情境B].",
+        "I respect that view, but my only reservation is that [擔憂]."
+      ],
+      "pattern": {
+        "pattern": "I get where you’re coming from… At the same time…",
+        "example": "I see where you’re coming from, but have we considered [另一個隱憂]?"
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 47,
+      "slug": "lesson-47",
+      "season": 5,
+      "seasonTitleZh": "壓力對話",
+      "seasonTitleEn": "Pressure Talk",
+      "topicEn": "Under pressure updates",
+      "topicZh": "壓力下回報",
+      "scenario": "Manager pushes for status now. Stay calm, clear, and honest.",
+      "aiRole": "催進度的主管",
+      "sourceHref": "/english/work-project-management-8",
+      "sourceLabel": "句型 · 專案壓力",
+      "targets": [
+        "Come up with",
+        "Carry out",
+        "Push back"
+      ],
+      "pattern": {
+        "pattern": "Here’s the status in one line… Risk is… Next step is…",
+        "example": "Here’s the status: design’s done; risk is QA; next step is a dry run today."
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 48,
+      "slug": "lesson-48",
+      "season": 5,
+      "seasonTitleZh": "壓力對話",
+      "seasonTitleEn": "Pressure Talk",
+      "topicEn": "Hypothesis & possibility",
+      "topicZh": "假設與可能",
+      "scenario": "Brainstorm. Explore if/then possibilities without overcommitting.",
+      "aiRole": "腦力激盪夥伴",
+      "sourceHref": "/english/hypothesis-conditions-possibility-5",
+      "sourceLabel": "句型 · 假設條件",
+      "targets": [
+        "What if...?",
+        "Even if...",
+        "In case of... / In case that..."
+      ],
+      "pattern": {
+        "pattern": "If we…, we might…",
+        "example": "What if...?"
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 49,
+      "slug": "lesson-49",
+      "season": 5,
+      "seasonTitleZh": "壓力對話",
+      "seasonTitleEn": "Pressure Talk",
+      "topicEn": "Emotions & adaptability",
+      "topicZh": "情緒與適應",
+      "scenario": "Team is in change mode. Name emotions and show adaptability.",
+      "aiRole": "變動期隊友",
+      "sourceHref": "/english/emotions-adaptability-11",
+      "sourceLabel": "句型 · 情緒適應",
+      "targets": [
+        "Get over",
+        "Burn out",
+        "Cheer up"
+      ],
+      "pattern": {
+        "pattern": "I’m adapting to… What’s helping me is…",
+        "example": "Get over"
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 50,
+      "slug": "lesson-50",
+      "season": 5,
+      "seasonTitleZh": "壓力對話",
+      "seasonTitleEn": "Pressure Talk",
+      "topicEn": "Season-5 mix",
+      "topicZh": "壓力季複盤",
+      "scenario": "Tough client / board-style pressure. Mix thinking time, redirect, and respectful disagreement.",
+      "aiRole": "難搞客戶／董事會",
+      "sourceHref": "/english/style/pressure-relief",
+      "sourceLabel": "風格 · 壓力複盤",
+      "targets": [
+        "Let me process that for a second…",
+        "In the interest of time…",
+        "I see your point, though…"
+      ],
+      "pattern": {
+        "pattern": "Process → Redirect → Disagree politely",
+        "example": "Let me process that — in the interest of time, I see your point, though I’d frame it differently."
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 51,
+      "slug": "lesson-51",
+      "season": 6,
+      "seasonTitleZh": "領域與總整",
+      "seasonTitleEn": "Domain & Capstone",
+      "topicEn": "F1 garage talk · basics",
+      "topicZh": "維修區基礎用語",
+      "scenario": "AI is a race engineer. Talk garage basics using F1 movie vocabulary in natural speech.",
+      "aiRole": "車隊工程師",
+      "sourceHref": "/speak#series-f1",
+      "sourceLabel": "跟讀 · F1 第1–5課",
+      "targets": [
+        "During the gruelling midnight shift at Daytona, Sonny anxiously radioed the pit crew to check if the overheating gearbox would survive another aggressive high-speed stint.",
+        "Despite knowing that the fragile gearbox was holding up by a mere thread, Sonny refused to ease off and continued to shift down violently into the corners.",
+        "Taking over the cockpit for the graveyard shift, the veteran driver knew that surviving the cold track conditions overnight was their only hope of staying in the race."
+      ],
+      "pattern": {
+        "pattern": "Can we check the [part] before the next stint?",
+        "example": "During the gruelling midnight shift at Daytona, Sonny anxiously radioed the pit crew to check if the overheating gearbox would survive another aggressive high-speed stint."
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 52,
+      "slug": "lesson-52",
+      "season": 6,
+      "seasonTitleZh": "領域與總整",
+      "seasonTitleEn": "Domain & Capstone",
+      "topicEn": "F1 race craft",
+      "topicZh": "賽道技術對話",
+      "scenario": "Radio-style chat about race craft: lines, confidence, dirty air.",
+      "aiRole": "車手／工程師對講",
+      "sourceHref": "/speak/f1-06-inferno",
+      "sourceLabel": "跟讀 · F1 中段",
+      "targets": [
+        "The board derisively nicknamed the financially bleeding operation \"Ruben's Inferno,\" pointing out that millions were being incinerated without yielding a single championship point.",
+        "Surviving the Spanish Grand Prix inferno decades ago had scarred Sonny mentally, leaving him haunted by the acrid smell of burning high-octane fuel.",
+        "The smug corporate investor boasted that he understood the intricacies of Formula 1 simply because he had managed to binge an entire season of Drive to Survive."
+      ],
+      "pattern": {
+        "pattern": "If I [action], can we still [result]?",
+        "example": "If I push now, can we still save the tires for the last ten?"
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 53,
+      "slug": "lesson-53",
+      "season": 6,
+      "seasonTitleZh": "領域與總整",
+      "seasonTitleEn": "Domain & Capstone",
+      "topicEn": "F1 strategy & tires",
+      "topicZh": "戰術與輪胎",
+      "scenario": "Strategy wall discussion: compounds, deg, one-stop vs two-stop.",
+      "aiRole": "策略師",
+      "sourceHref": "/speak#series-f1",
+      "sourceLabel": "跟讀 · F1 戰術相關",
+      "targets": [
+        "Having cut his teeth on dusty dirt ovals and desert endurance runs, Sonny approached modern Formula 1 with a rough-and-tumble swagger that terrified technicians.",
+        "Modern motorsport has sanitized the paddock, leaving little room for the rough-and-tumble characters who once dominated Grand Prix racing in decades past.",
+        "Kate bluntly scolded Sonny that modern Formula 1 was an interdependent engineering collective, leaving no room for a selfish lone wolf who ignored protocols."
+      ],
+      "pattern": {
+        "pattern": "Realistically, if tire deg spikes, we should…",
+        "example": "Realistically, if tire deg spikes, we should box early."
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 54,
+      "slug": "lesson-54",
+      "season": 6,
+      "seasonTitleZh": "領域與總整",
+      "seasonTitleEn": "Domain & Capstone",
+      "topicEn": "F1 pressure & media",
+      "topicZh": "壓力與媒體",
+      "scenario": "Press-style questions after a tough session. Stay composed.",
+      "aiRole": "記者會提問",
+      "sourceHref": "/speak#series-f1",
+      "sourceLabel": "跟讀 · F1 後段",
+      "targets": [
+        "Sonny flashed a grateful grin and called Molly an absolute superstar after she tipped him off about BMW's overheating front brake calipers.",
+        "Thrust into the global spotlight after his podium finish, Joshua struggled to balance the intoxicating lifestyle of a motorsport superstar with the grueling discipline of testing.",
+        "The crew chief instructed Sonny to nurse the vibrating transmission overnight, hoping that the rising morning sun would bring cooler track temperatures and a change of fortune."
+      ],
+      "pattern": {
+        "pattern": "Honestly… That being said…",
+        "example": "Honestly it was messy — that being said, the car still has pace."
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 55,
+      "slug": "lesson-55",
+      "season": 6,
+      "seasonTitleZh": "領域與總整",
+      "seasonTitleEn": "Domain & Capstone",
+      "topicEn": "Tech systems speaking",
+      "topicZh": "系統／技術口述",
+      "scenario": "Support call. Explain a system issue and next steps clearly.",
+      "aiRole": "技術支援對談",
+      "sourceHref": "/english/tech-systems-operations-10",
+      "sourceLabel": "句型 · 技術系統",
+      "targets": [
+        "Set up",
+        "Log into / Log in",
+        "Back up"
+      ],
+      "pattern": {
+        "pattern": "The system is… The workaround is…",
+        "example": "Set up"
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 56,
+      "slug": "lesson-56",
+      "season": 6,
+      "seasonTitleZh": "領域與總整",
+      "seasonTitleEn": "Domain & Capstone",
+      "topicEn": "Daily life & socializing",
+      "topicZh": "生活社交場景",
+      "scenario": "Social plans and daily-life chat using site pattern language.",
+      "aiRole": "約出門的朋友",
+      "sourceHref": "/english/daily-life-socializing-9",
+      "sourceLabel": "句型 · 生活社交",
+      "targets": [
+        "Run into",
+        "Show up",
+        "Turn down"
+      ],
+      "pattern": {
+        "pattern": "Want to…? I’m down if…",
+        "example": "Run into"
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 57,
+      "slug": "lesson-57",
+      "season": 6,
+      "seasonTitleZh": "領域與總整",
+      "seasonTitleEn": "Domain & Capstone",
+      "topicEn": "Formal tone stretch",
+      "topicZh": "正式語氣拉伸",
+      "scenario": "External presentation Q&A. Keep tone polished but spoken.",
+      "aiRole": "對外簡報聽眾",
+      "sourceHref": "/english/style/connectors",
+      "sourceLabel": "風格 · 正式連接",
+      "targets": [
+        "That being said…",
+        "In the interest of time…",
+        "I want to make sure I’m hitting the mark…"
+      ],
+      "pattern": {
+        "pattern": "In the interest of time… That being said…",
+        "example": "In the interest of time, I’ll keep this brief — that being said, I’m happy to go deeper."
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 58,
+      "slug": "lesson-58",
+      "season": 6,
+      "seasonTitleZh": "領域與總整",
+      "seasonTitleEn": "Domain & Capstone",
+      "topicEn": "Native transitions",
+      "topicZh": "道地轉折",
+      "scenario": "Long chat. Practice native transitions to keep control of flow.",
+      "aiRole": "長聊控場對象",
+      "sourceHref": "/english/native-transitions-idiomatic-express-7",
+      "sourceLabel": "句型 · 道地轉折",
+      "targets": [
+        "To be honest with you...",
+        "You might as well...",
+        "It goes without saying that..."
+      ],
+      "pattern": {
+        "pattern": "Long story short… / In any case…",
+        "example": "To be honest with you..."
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 59,
+      "slug": "lesson-59",
+      "season": 6,
+      "seasonTitleZh": "領域與總整",
+      "seasonTitleEn": "Domain & Capstone",
+      "topicEn": "Capstone A · project crisis",
+      "topicZh": "綜合情境 A：專案危機",
+      "scenario": "Crisis meeting. Mix workplace + pressure language from earlier seasons.",
+      "aiRole": "危機會議成員",
+      "sourceHref": "/english/challenges-assessment-solutions-6",
+      "sourceLabel": "綜合 · 專案危機",
+      "targets": [
+        "The bottom line is…",
+        "Let me process that…",
+        "One way forward is…"
+      ],
+      "pattern": {
+        "pattern": "Bottom line → Process → Path forward",
+        "example": "The bottom line is we’re slipping — let me process the options — one way forward is a scope cut."
+      },
+      "minutes": "15–20"
+    },
+    {
+      "id": 60,
+      "slug": "lesson-60",
+      "season": 6,
+      "seasonTitleZh": "領域與總整",
+      "seasonTitleEn": "Domain & Capstone",
+      "topicEn": "Capstone B · season finale narrative",
+      "topicZh": "綜合情境 B：賽季收官敘事",
+      "scenario": "Documentary-style interview about a hard season. Blend F1 color, story craft, and composure.",
+      "aiRole": "紀錄片訪談者",
+      "sourceHref": "/speak#series-f1",
+      "sourceLabel": "綜合 · F1＋敘事",
+      "targets": [
+        "Marshals executed a rapid clean sweep across sector two, clearing sharp carbon fragments and gravel to prevent a safety car restart delay.",
+        "Apex GP pulled off a clean sweep of the final sprint laps, posting purple sector times and executing two breathtaking overtakes for the lead.",
+        "Looking back, the point is…"
+      ],
+      "pattern": {
+        "pattern": "Looking back… the point is…",
+        "example": "Looking back, it was a gamble — the point is we showed up when it counted."
+      },
+      "minutes": "15–20"
+    }
+  ]
+}
