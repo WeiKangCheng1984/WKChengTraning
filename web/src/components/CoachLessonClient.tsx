@@ -8,6 +8,7 @@ import {
   COACH_SYSTEM_PROMPT,
   formatModuleCard,
   type CoachLesson,
+  type CoachLine,
 } from "@/lib/coachPrompt";
 import {
   isCoachLessonDone,
@@ -31,6 +32,20 @@ const FLOW = [
   { key: "F", title: "觀點彙整與比較", hint: "~2 分" },
   { key: "G", title: "結論收尾", hint: "~1 分" },
 ];
+
+function LineItem({ line }: { line: CoachLine | string }) {
+  const en = typeof line === "string" ? line : line.en;
+  const zh = typeof line === "string" ? "" : line.zh;
+  return (
+    <li className="flex items-start gap-2 rounded-sm border border-[var(--line)] bg-[var(--surface)] p-3">
+      <SpeakButton text={en} label={en.slice(0, 32)} size="sm" />
+      <div className="min-w-0 flex-1">
+        <p className="text-[var(--ink)]">{en}</p>
+        {zh ? <p className="mt-1 text-sm text-[var(--muted)]">{zh}</p> : null}
+      </div>
+    </li>
+  );
+}
 
 export function CoachLessonClient({ lesson, prevSlug, nextSlug }: Props) {
   const [done, setDone] = useState(false);
@@ -67,7 +82,8 @@ export function CoachLessonClient({ lesson, prevSlug, nextSlug }: Props) {
           <li>複製「系統提示」貼到 AI，送出，等 Ready。</li>
           <li>再貼「今日模組卡」，從開場問候開始英文對話。</li>
           <li>階段 C 請 AI 邊聊邊修潤；階段 D 問完五題；請 AI 再問你三題。</li>
-          <li>聽觀點比較與結論收尾。可用 <code className="text-[var(--ink)]">NEXT</code>／
+          <li>
+            聽觀點比較與結論收尾。可用 <code className="text-[var(--ink)]">NEXT</code>／
             <code className="text-[var(--ink)]">WRAP</code>。
           </li>
         </ol>
@@ -97,9 +113,7 @@ export function CoachLessonClient({ lesson, prevSlug, nextSlug }: Props) {
             >
               <span className="font-medium text-[var(--accent)]">{f.key}</span>
               <span className="text-[var(--ink)]">{f.title}</span>
-              <span className="ml-auto text-[10px] text-[var(--muted)]">
-                {f.hint}
-              </span>
+              <span className="ml-auto text-[10px] text-[var(--muted)]">{f.hint}</span>
             </li>
           ))}
         </ol>
@@ -134,20 +148,14 @@ export function CoachLessonClient({ lesson, prevSlug, nextSlug }: Props) {
             ))}
           </ul>
 
-          {lesson.targetSentences?.length ? (
+          {(lesson.targetSentences?.length ?? 0) > 0 ? (
             <>
               <p className="mt-4 text-xs font-medium uppercase tracking-[0.14em] text-[var(--accent)]">
                 Target Sentences（階段 C）
               </p>
               <ul className="mt-2 space-y-2">
                 {lesson.targetSentences.map((t) => (
-                  <li
-                    key={t}
-                    className="flex items-start gap-2 rounded-sm border border-[var(--line)] bg-[var(--surface)] p-3"
-                  >
-                    <SpeakButton text={t} label={t.slice(0, 32)} size="sm" />
-                    <span className="min-w-0 flex-1">{t}</span>
-                  </li>
+                  <LineItem key={typeof t === "string" ? t : t.en} line={t} />
                 ))}
               </ul>
             </>
@@ -156,13 +164,37 @@ export function CoachLessonClient({ lesson, prevSlug, nextSlug }: Props) {
           <p className="mt-4 text-xs font-medium uppercase tracking-[0.14em] text-[var(--accent)]">
             My 5 Questions（階段 D 問 AI）
           </p>
-          <ol className="mt-2 list-decimal space-y-1.5 pl-5 text-[var(--muted)]">
+          <ul className="mt-2 space-y-2">
             {(lesson.myFiveQuestions || []).map((q) => (
-              <li key={q} className="text-[var(--ink)]">
-                {q}
-              </li>
+              <LineItem key={typeof q === "string" ? q : q.en} line={q} />
             ))}
-          </ol>
+          </ul>
+
+          {(lesson.practiceSentences?.length ?? 0) > 0 ? (
+            <details className="mt-4 group" open>
+              <summary className="cursor-pointer text-xs font-medium uppercase tracking-[0.14em] text-[var(--accent)]">
+                Practice Sentences（{lesson.practiceSentences!.length} 句 · 英／中 · A–G）
+              </summary>
+              <ul className="mt-2 space-y-2">
+                {lesson.practiceSentences!.map((t) => (
+                  <LineItem key={t.en} line={t} />
+                ))}
+              </ul>
+            </details>
+          ) : null}
+
+          {(lesson.longSentences?.length ?? 0) > 0 ? (
+            <details className="mt-4 group" open>
+              <summary className="cursor-pointer text-xs font-medium uppercase tracking-[0.14em] text-[var(--accent)]">
+                Long Sentences（{lesson.longSentences!.length} 句長句 · 英／中）
+              </summary>
+              <ul className="mt-2 space-y-2">
+                {lesson.longSentences!.map((t) => (
+                  <LineItem key={t.en} line={t} />
+                ))}
+              </ul>
+            </details>
+          ) : null}
         </div>
       </section>
 

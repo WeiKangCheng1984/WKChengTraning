@@ -20,6 +20,11 @@ G) Close with a short conclusion: what I practiced well + one encouragement
 - When I say NEXT, advance to the next phase. When I say WRAP, jump to F then G.
 - When this prompt is loaded, reply with only: "Ready! Paste today's module card and we'll start from greeting."`;
 
+export type CoachLine = {
+  en: string;
+  zh: string;
+};
+
 export type CoachLesson = {
   id: number;
   slug: string;
@@ -34,8 +39,12 @@ export type CoachLesson = {
   sourceHref: string;
   sourceLabel: string;
   targets: string[];
-  targetSentences: string[];
-  myFiveQuestions: string[];
+  targetSentences: CoachLine[];
+  myFiveQuestions: CoachLine[];
+  /** Full oral practice bank (A–G), ≥30 sentences */
+  practiceSentences?: CoachLine[];
+  /** Longer spoken turns for phase C/E, 6–8 sentences */
+  longSentences?: CoachLine[];
   minutes: string;
 };
 
@@ -52,15 +61,26 @@ export type CoachLessonsData = {
   lessons: CoachLesson[];
 };
 
+function lineEn(line: CoachLine | string): string {
+  return typeof line === "string" ? line : line?.en || "";
+}
+
+function formatLines(lines: Array<CoachLine | string> | undefined): string {
+  return (lines || [])
+    .map((t, i) => {
+      if (typeof t === "string") return `${i + 1}. ${t}`;
+      return `${i + 1}. ${t.en}${t.zh ? `\n   ZH: ${t.zh}` : ""}`;
+    })
+    .join("\n");
+}
+
 export function formatModuleCard(lesson: CoachLesson): string {
   const pad = String(lesson.id).padStart(2, "0");
   const words = lesson.targets.map((t, i) => `${i + 1}. ${t}`).join("\n");
-  const sents = (lesson.targetSentences || [])
-    .map((t, i) => `${i + 1}. ${t}`)
-    .join("\n");
-  const qs = (lesson.myFiveQuestions || [])
-    .map((t, i) => `${i + 1}. ${t}`)
-    .join("\n");
+  const sents = formatLines(lesson.targetSentences);
+  const qs = formatLines(lesson.myFiveQuestions);
+  const practice = formatLines(lesson.practiceSentences);
+  const longs = formatLines(lesson.longSentences);
 
   return `## Today's Module — Lesson ${pad}
 
@@ -82,7 +102,15 @@ ${sents || "(use the target words in your own sentences)"}
 **My 5 Questions for you (phase D):**
 ${qs}
 
+**Practice Sentence Bank (≥30, cover A–G, with ZH gloss):**
+${practice || "(see lesson page)"}
+
+**Long Sentences (6–8, spoken turns, with ZH gloss):**
+${longs || "(see lesson page)"}
+
 Warm-up (optional): ${lesson.sourceLabel} → ${lesson.sourceHref}
 
-Start in English from greeting after Ready.`;
+Start in English from greeting after Ready. Use the practice bank and long sentences during the session. ZH lines are for my reference only — I speak English.`;
 }
+
+export { lineEn };

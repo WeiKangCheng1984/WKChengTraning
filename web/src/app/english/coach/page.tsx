@@ -47,7 +47,8 @@ export default function CoachIndexPage() {
         </h1>
         <p className="mt-2 max-w-2xl text-sm text-[var(--muted)]">
           每堂 15–20 分對話模擬：開場→話題→句詞練習（AI 即時修潤）→你問五題→AI
-          問你三題→觀點比較→結論收尾。主題涵蓋生活美食、職場、不動產、CFA、F1
+          問你三題→觀點比較→結論收尾。每堂備有 ≥30 句練習英語＋6–8
+          句長句，皆附中文翻譯。主題涵蓋生活美食、職場、不動產、CFA、F1
           等站內資料庫。
         </p>
         <p className="mt-2 text-sm text-[var(--ink)]">

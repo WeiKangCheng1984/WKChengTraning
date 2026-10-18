@@ -1,6 +1,7 @@
 # AI 口語陪練 · 60 堂課程規劃（已改版）
 
-> **最新文稿母本請看 [`AI-coach-60-scripts.md`](AI-coach-60-scripts.md)。**  
+> **最新文稿母本請看 [`AI-coach-60-scripts.md`](AI-coach-60-scripts.md)（英中雙語句庫版）。**  
+> 每堂 ≥30 句練習英語（附中譯）＋6–8 句長句（附中譯）；網站同步 `coach-lessons.json`（`scripts-v4-bilingual`）。  
 > 現行網站流程：開場問候 → 開話題 → 句詞練習（AI 即時修潤）→ 我問五題 → AI 問三題 → 觀點比較 → 結論收尾。  
 > 主題綁定 CFA／不動產／美食／生活／職場／F1 等站內庫。
 
