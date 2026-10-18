@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "abrupt",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "突然的；唐突的",
       "roleInScript": "突然裂開／中斷",
       "humorDevice": "morphology",
@@ -19,11 +19,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "corrupt",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "腐敗的；使敗壞",
       "roleInScript": "從內部破爛",
       "humorDevice": "morphology",
@@ -33,11 +34,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "disrupt",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "擾亂；使中斷",
       "roleInScript": "把秩序打破",
       "humorDevice": "morphology",
@@ -47,7 +49,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "erupt",
@@ -61,11 +64,12 @@
       "related": {
         "synonyms": "irrupt, flare, ignite, combust, conflagrate, belch",
         "antonyms": "extinguish"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "bankrupt",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "破產的；完全缺乏的",
       "roleInScript": "帳面破裂",
       "humorDevice": "morphology",
@@ -75,7 +79,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "rupture",
@@ -89,7 +94,8 @@
       "related": {
         "synonyms": "breach, break, severance, rift, tear, snap",
         "antonyms": "keep, conform to, make, promote, repair, inelasticity"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "interrupt",
@@ -103,11 +109,13 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "irruption",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "突然侵入；湧入",
       "roleInScript": "衝破闖入",
       "humorDevice": "morphology",
@@ -117,11 +125,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "eruption",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "爆發；噴發",
       "roleInScript": "噴發事件",
       "humorDevice": "morphology",
@@ -131,11 +140,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "corruption",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "腐敗；損壞",
       "roleInScript": "破爛的狀態",
       "humorDevice": "morphology",
@@ -145,11 +155,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "disruptive",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "破壞性的；顛覆式的",
       "roleInScript": "專門製造破裂的",
       "humorDevice": "morphology",
@@ -159,7 +170,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     }
   ],
   "reviewHooks": [

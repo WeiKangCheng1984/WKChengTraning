@@ -19,11 +19,12 @@
       "related": {
         "synonyms": "raise, conjure, evoke, stir, arouse, appeal",
         "antonyms": "demote, descent, level, lower, cause to sleep, de-energise, de-energize, fall asleep"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "provoke",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "激怒；激起",
       "roleInScript": "挑釁出聲",
       "humorDevice": "morphology",
@@ -33,7 +34,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "convoke",
@@ -47,7 +49,8 @@
       "related": {
         "synonyms": "convene",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "avocation",
@@ -61,7 +64,8 @@
       "related": {
         "synonyms": "by-line, hobby, pursuit, sideline",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "vocabulary",
@@ -75,7 +79,9 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "vocal",
@@ -89,11 +95,13 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "equivocal",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "模稜兩可的",
       "roleInScript": "一句兩種叫聲",
       "humorDevice": "morphology",
@@ -103,7 +111,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "univocal",
@@ -117,11 +126,12 @@
       "related": {
         "synonyms": "clear-cut, explicit",
         "antonyms": "equivocal, implicit, vague"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "advocate",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "提倡；辯護者",
       "roleInScript": "替人出聲",
       "humorDevice": "morphology",
@@ -131,7 +141,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "vociferous",
@@ -145,7 +156,8 @@
       "related": {
         "synonyms": "clamorous, boisterous",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "irrevocable",
@@ -159,7 +171,8 @@
       "related": {
         "synonyms": "irrevokable",
         "antonyms": "revocable"
-      }
+      },
+      "vocabStatus": "in-vocab"
     }
   ],
   "reviewHooks": [

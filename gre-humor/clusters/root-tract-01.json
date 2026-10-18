@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "attract",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "吸引",
       "roleInScript": "把目光拉過來",
       "humorDevice": "morphology",
@@ -19,11 +19,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "distract",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "使分心；干擾",
       "roleInScript": "把注意力拉開",
       "humorDevice": "morphology",
@@ -33,11 +34,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "protract",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "延長；拖延",
       "roleInScript": "把時間往前拖長",
       "humorDevice": "morphology",
@@ -47,7 +49,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "retract",
@@ -61,11 +64,12 @@
       "related": {
         "synonyms": "abjure, recant, forswear, resile",
         "antonyms": "embrace, affirm, maintain"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "detract",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "貶低；減損",
       "roleInScript": "把價值往下拉",
       "humorDevice": "morphology",
@@ -75,11 +79,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "tractable",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "易駕馭的；溫順的；易處理的",
       "roleInScript": "拉得動的繩／人",
       "humorDevice": "morphology",
@@ -89,11 +94,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "intractable",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "難駕馭的；棘手的",
       "roleInScript": "怎麼拉都不動",
       "humorDevice": "morphology",
@@ -103,7 +109,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     }
   ],
   "reviewHooks": [

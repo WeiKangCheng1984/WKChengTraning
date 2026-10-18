@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "ascend",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "上升；登上",
       "roleInScript": "往上爬",
       "humorDevice": "morphology",
@@ -19,11 +19,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "descend",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "下降；落入",
       "roleInScript": "往下爬",
       "humorDevice": "morphology",
@@ -33,7 +34,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "transcend",
@@ -47,11 +49,12 @@
       "related": {
         "synonyms": "exceed, surpass, overstep, pass, top",
         "antonyms": "be born, fail, failing, running, bottom, side"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "condescend",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "屈尊；以恩賜態度對待",
       "roleInScript": "假裝爬下來關心你",
       "humorDevice": "morphology",
@@ -61,7 +64,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "crescendo",
@@ -75,7 +79,8 @@
       "related": {
         "synonyms": "",
         "antonyms": "decrescendo"
-      }
+      },
+      "vocabStatus": "in-vocab"
     }
   ],
   "reviewHooks": [

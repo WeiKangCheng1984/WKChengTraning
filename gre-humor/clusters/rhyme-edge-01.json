@@ -19,11 +19,12 @@
       "related": {
         "synonyms": "toast, assurance, plight, subscribe, drink, salute",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "fledge",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "長羽毛；羽翼漸豐",
       "roleInScript": "羽毛長到邊緣",
       "humorDevice": "story",
@@ -33,7 +34,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "hedge",
@@ -47,11 +49,12 @@
       "related": {
         "synonyms": "hedgerow, hedging, fudge, evade, circumvent, parry",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "allege",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "宣稱；指控（未必證實）",
       "roleInScript": "有人宣稱你說謊",
       "humorDevice": "story",
@@ -61,7 +64,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "badger",
@@ -75,7 +79,8 @@
       "related": {
         "synonyms": "Wisconsinite, tease, pester, bug, beleaguer",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     }
   ],
   "reviewHooks": [

@@ -19,7 +19,8 @@
       "related": {
         "synonyms": "acquiescence, accede, acquiesce",
         "antonyms": "dissent"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "dissent",
@@ -33,11 +34,12 @@
       "related": {
         "synonyms": "protest, objection, resist, disagree, differ",
         "antonyms": "agree, concur, assent"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "accede",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "同意；加入；繼承",
       "roleInScript": "同意入局",
       "humorDevice": "lookalike",
@@ -47,7 +49,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "concede",
@@ -61,11 +64,12 @@
       "related": {
         "synonyms": "grant, acknowledge",
         "antonyms": "deny"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "aesthetic",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "美學的；審美的",
       "roleInScript": "追求美",
       "humorDevice": "lookalike",
@@ -75,7 +79,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "ascetic",
@@ -89,7 +94,8 @@
       "related": {
         "synonyms": "austere, spartan",
         "antonyms": "hedonistic, indulgent, luxurious"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "abate",
@@ -103,11 +109,12 @@
       "related": {
         "synonyms": "slake, slack",
         "antonyms": "intensify, increase, amplify"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "abet",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "教唆；煽動；協助（做壞事）",
       "roleInScript": "a + bet 教唆下注",
       "humorDevice": "phonetic",
@@ -117,7 +124,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     }
   ],
   "reviewHooks": [

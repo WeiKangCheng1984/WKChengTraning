@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "credible",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "可信的",
       "roleInScript": "櫃台收得下的說法",
       "humorDevice": "morphology",
@@ -19,7 +19,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "credulous",
@@ -33,11 +34,12 @@
       "related": {
         "synonyms": "gullible",
         "antonyms": "skeptical, wary, incredulous"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "incredulous",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "懷疑的；不相信的",
       "roleInScript": "櫃台拒收",
       "humorDevice": "morphology",
@@ -47,11 +49,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "credential",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "資格證件；憑證",
       "roleInScript": "信用會員卡",
       "humorDevice": "morphology",
@@ -61,7 +64,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "credit",
@@ -75,11 +79,13 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "credence",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "相信；信任",
       "roleInScript": "給予相信",
       "humorDevice": "morphology",
@@ -89,7 +95,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "credo",
@@ -103,11 +110,12 @@
       "related": {
         "synonyms": "creed",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "discredit",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "使喪失信用",
       "roleInScript": "把信用撤銷",
       "humorDevice": "morphology",
@@ -117,11 +125,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "accredited",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "經認證的",
       "roleInScript": "官方蓋過信用章",
       "humorDevice": "morphology",
@@ -131,11 +140,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "credibility",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "可信度",
       "roleInScript": "信用分數",
       "humorDevice": "morphology",
@@ -145,11 +155,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "incredible",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "難以置信的",
       "roleInScript": "超出櫃台想像",
       "humorDevice": "lookalike",
@@ -159,7 +170,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     }
   ],
   "reviewHooks": [

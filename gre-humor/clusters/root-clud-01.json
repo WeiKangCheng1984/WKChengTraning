@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "conclude",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "結束；推斷出",
       "roleInScript": "把案子鎖上句點",
       "humorDevice": "morphology",
@@ -19,11 +19,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "exclude",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "排除；拒絕納入",
       "roleInScript": "不讓進門",
       "humorDevice": "morphology",
@@ -33,7 +34,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "preclude",
@@ -47,7 +49,8 @@
       "related": {
         "synonyms": "avert, forestall, obviate",
         "antonyms": "allow, permit, necessitate, require"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "seclude",
@@ -61,7 +64,8 @@
       "related": {
         "synonyms": "sequester, sequestrate, withdraw",
         "antonyms": "advance, deposit, engage"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "occlude",
@@ -75,11 +79,12 @@
       "related": {
         "synonyms": "obstruct, obturate, impede, jam, block",
         "antonyms": "open, clear, free"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "claustrophobia",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "幽閉恐懼症",
       "roleInScript": "怕被關",
       "humorDevice": "story",
@@ -89,7 +94,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     }
   ],
   "reviewHooks": [

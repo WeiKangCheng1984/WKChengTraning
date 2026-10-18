@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "transmit",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "傳送；傳播",
       "roleInScript": "把訊號送出",
       "humorDevice": "morphology",
@@ -19,11 +19,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "dismiss",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "解雇；打發；不予考慮",
       "roleInScript": "把人／想法送走",
       "humorDevice": "morphology",
@@ -33,7 +34,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "remiss",
@@ -47,7 +49,8 @@
       "related": {
         "synonyms": "derelict, heedless, neglectful, slack",
         "antonyms": "heedful"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "emissary",
@@ -61,7 +64,8 @@
       "related": {
         "synonyms": "envoy",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "permit",
@@ -75,7 +79,9 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "submit",
@@ -89,7 +95,9 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "intermittent",
@@ -103,7 +111,8 @@
       "related": {
         "synonyms": "episodic, sporadic, fitful",
         "antonyms": "constant, frequent, continual"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "mission",
@@ -117,7 +126,9 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "missive",
@@ -131,11 +142,12 @@
       "related": {
         "synonyms": "letter",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "admissible",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "可採納的（證據等）",
       "roleInScript": "允許被送進法庭／論證",
       "humorDevice": "morphology",
@@ -145,11 +157,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "omission",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "遺漏；省略",
       "roleInScript": "該送卻沒放進包裹",
       "humorDevice": "lookalike",
@@ -159,7 +172,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     }
   ],
   "reviewHooks": [

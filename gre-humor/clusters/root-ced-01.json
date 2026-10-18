@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "precede",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "先於；領先",
       "roleInScript": "走在前面",
       "humorDevice": "morphology",
@@ -19,11 +19,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "proceed",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "繼續進行",
       "roleInScript": "接著往前走",
       "humorDevice": "morphology",
@@ -33,11 +34,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "recede",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "後退；減退",
       "roleInScript": "往後退開",
       "humorDevice": "morphology",
@@ -47,7 +49,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "access",
@@ -61,7 +64,9 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "intercede",
@@ -75,11 +80,12 @@
       "related": {
         "synonyms": "mediate, intermediate, liaise, arbitrate",
         "antonyms": "immediate, terminal"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "secede",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "退出；分離",
       "roleInScript": "走出聯盟",
       "humorDevice": "morphology",
@@ -89,7 +95,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "excess",
@@ -103,7 +110,9 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "process",
@@ -117,7 +126,9 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "ancestor",
@@ -131,11 +142,13 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "predecessor",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "前任；前身",
       "roleInScript": "位置上的前一位",
       "humorDevice": "morphology",
@@ -145,11 +158,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "unprecedented",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "前所未有的",
       "roleInScript": "前面沒人走過",
       "humorDevice": "morphology",
@@ -159,7 +173,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     }
   ],
   "reviewHooks": [

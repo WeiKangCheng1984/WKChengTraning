@@ -19,7 +19,9 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "sour",
@@ -33,7 +35,9 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "scour",
@@ -47,7 +51,8 @@
       "related": {
         "synonyms": "scrub, abrade, flush, purge",
         "antonyms": "keep down, rehabilitate"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "dour",
@@ -61,7 +66,8 @@
       "related": {
         "synonyms": "dogged, persistent, pertinacious, tenacious, unyielding, forbidding",
         "antonyms": "caducous, yielding, irresolute, unretentive, allow, permit"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "mourn",
@@ -75,7 +81,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     }
   ],
   "reviewHooks": [

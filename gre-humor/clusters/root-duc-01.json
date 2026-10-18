@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "conduct",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "引導；實施；行為",
       "roleInScript": "帶隊前進",
       "humorDevice": "morphology",
@@ -19,11 +19,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "induce",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "引起；勸誘；歸納",
       "roleInScript": "把結論引出來",
       "humorDevice": "morphology",
@@ -33,11 +34,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "deduce",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "演繹；推論",
       "roleInScript": "順著管子往下推",
       "humorDevice": "morphology",
@@ -47,11 +49,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "abduct",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "誘拐；綁架",
       "roleInScript": "把人引走邪路",
       "humorDevice": "morphology",
@@ -61,7 +64,8 @@
       "related": {
         "synonyms": "kidnap",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "educate",
@@ -75,11 +79,13 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "aqueduct",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "高架引水渠",
       "roleInScript": "引水之管",
       "humorDevice": "story",
@@ -89,11 +95,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "viaduct",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "高架橋",
       "roleInScript": "引路跨過山谷",
       "humorDevice": "story",
@@ -103,11 +110,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "deduction",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "推論；扣除",
       "roleInScript": "推導產物／扣掉的量",
       "humorDevice": "morphology",
@@ -117,11 +125,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "seduce",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "引誘；誘惑",
       "roleInScript": "引向慾望",
       "humorDevice": "morphology",
@@ -131,11 +140,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "ductile",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "可塑的；易導引成形的",
       "roleInScript": "可被引導改變形狀",
       "humorDevice": "morphology",
@@ -145,7 +155,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "introduction",
@@ -159,7 +170,9 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     }
   ],
   "reviewHooks": [

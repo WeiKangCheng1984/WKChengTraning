@@ -19,7 +19,8 @@
       "related": {
         "synonyms": "wrench, twist, wrap, misinterpret, misconstrue",
         "antonyms": "untwist, unbend, unwind, unwrap"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "extort",
@@ -33,7 +34,8 @@
       "related": {
         "synonyms": "squeeze, rack, gouge, wring",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "retort",
@@ -47,7 +49,8 @@
       "related": {
         "synonyms": "rejoinder, return, riposte, replication, comeback, counter",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "tortuous",
@@ -61,11 +64,12 @@
       "related": {
         "synonyms": "Byzantine, convoluted, involved, knotty, tangled, twisting",
         "antonyms": "direct, straightforward"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "contort",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "使扭曲變形",
       "roleInScript": "臉／邏輯扭成奇形",
       "humorDevice": "morphology",
@@ -75,11 +79,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "torment",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "折磨；苦惱",
       "roleInScript": "持續扭著痛",
       "humorDevice": "morphology",
@@ -89,7 +94,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     }
   ],
   "reviewHooks": [

@@ -19,7 +19,9 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "inject",
@@ -33,7 +35,9 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "project",
@@ -47,11 +51,13 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "conjecture",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "推測；臆測",
       "roleInScript": "把猜測投進場",
       "humorDevice": "morphology",
@@ -61,11 +67,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "eject",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "彈出；驅逐",
       "roleInScript": "彈射出去",
       "humorDevice": "morphology",
@@ -75,7 +82,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "subject",
@@ -89,7 +97,9 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "object",
@@ -103,7 +113,9 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "abject",
@@ -117,11 +129,12 @@
       "related": {
         "synonyms": "low, low-down, miserable, scummy, scurvy, unhopeful",
         "antonyms": "high"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "trajectory",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "軌道；軌跡",
       "roleInScript": "扔出去的路徑",
       "humorDevice": "morphology",
@@ -131,11 +144,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "interject",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "突然插話",
       "roleInScript": "中途扔一句進去",
       "humorDevice": "morphology",
@@ -145,11 +159,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "projectile",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "拋射物",
       "roleInScript": "被扔出去的東西",
       "humorDevice": "story",
@@ -159,7 +174,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     }
   ],
   "reviewHooks": [

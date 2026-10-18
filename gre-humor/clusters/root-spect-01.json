@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "inspect",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "檢查；審視",
       "roleInScript": "仔細看",
       "humorDevice": "morphology",
@@ -19,11 +19,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "circumspect",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "謹慎的；周密的",
       "roleInScript": "看一圈再走",
       "humorDevice": "morphology",
@@ -33,11 +34,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "conspicuous",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "顯眼的；引人注目的",
       "roleInScript": "想不看到都難",
       "humorDevice": "morphology",
@@ -47,11 +49,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "spectacle",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "景象；壯觀場面",
       "roleInScript": "給人看的大秀",
       "humorDevice": "morphology",
@@ -61,11 +64,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "retrospect",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "回顧",
       "roleInScript": "往回看",
       "humorDevice": "morphology",
@@ -75,11 +79,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "prospect",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "前景；預期；探勘",
       "roleInScript": "往前看",
       "humorDevice": "morphology",
@@ -89,7 +94,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "despicable",
@@ -103,7 +109,8 @@
       "related": {
         "synonyms": "ugly, vile, slimy, unworthy, worthless, wretched",
         "antonyms": "beautiful, worthy, valuable"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "respect",
@@ -117,11 +124,13 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "spectator",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "旁觀者",
       "roleInScript": "只看不演",
       "humorDevice": "morphology",
@@ -131,11 +140,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "spectrum",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "光譜；範圍",
       "roleInScript": "一眼看見的全範圍",
       "humorDevice": "morphology",
@@ -145,7 +155,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "suspicious",
@@ -159,7 +170,9 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     }
   ],
   "reviewHooks": [

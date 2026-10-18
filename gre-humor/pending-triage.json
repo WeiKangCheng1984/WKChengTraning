@@ -1,0 +1,690 @@
+{
+  "stage": "S3a",
+  "at": "2026-10-18T16:04:02.256Z",
+  "pendingBefore": 129,
+  "addedToGreJson": [
+    {
+      "en": "abduct",
+      "clusterId": "root-duc-01",
+      "zh": "誘拐；綁架"
+    },
+    {
+      "en": "abet",
+      "clusterId": "look-a-01",
+      "zh": "教唆；煽動；協助（做壞事）"
+    },
+    {
+      "en": "abrupt",
+      "clusterId": "root-rupt-01",
+      "zh": "突然的；唐突的"
+    },
+    {
+      "en": "accede",
+      "clusterId": "look-a-01",
+      "zh": "同意；加入；繼承"
+    },
+    {
+      "en": "accredited",
+      "clusterId": "root-cred-01",
+      "zh": "經認證的"
+    },
+    {
+      "en": "admissible",
+      "clusterId": "root-mit-01",
+      "zh": "可採納的（證據等）"
+    },
+    {
+      "en": "adverse",
+      "clusterId": "root-vert-01",
+      "zh": "不利的；有害的"
+    },
+    {
+      "en": "advocate",
+      "clusterId": "root-voc-01",
+      "zh": "提倡；辯護者"
+    },
+    {
+      "en": "aesthetic",
+      "clusterId": "look-a-01",
+      "zh": "美學的；審美的"
+    },
+    {
+      "en": "affable",
+      "clusterId": "sem-temper-01",
+      "zh": "和藹可親的"
+    },
+    {
+      "en": "aggressive",
+      "clusterId": "root-gress-01",
+      "zh": "侵略的；積極進取的"
+    },
+    {
+      "en": "allege",
+      "clusterId": "rhyme-edge-01",
+      "zh": "宣稱；指控（未必證實）"
+    },
+    {
+      "en": "amiable",
+      "clusterId": "sem-temper-01",
+      "zh": "親切隨和的"
+    },
+    {
+      "en": "analogy",
+      "clusterId": "root-loqu-01",
+      "zh": "類比"
+    },
+    {
+      "en": "aqueduct",
+      "clusterId": "root-duc-01",
+      "zh": "高架引水渠"
+    },
+    {
+      "en": "arrogant",
+      "clusterId": "sem-flattery-01",
+      "zh": "傲慢的"
+    },
+    {
+      "en": "ascend",
+      "clusterId": "root-scend-01",
+      "zh": "上升；登上"
+    },
+    {
+      "en": "attract",
+      "clusterId": "root-tract-01",
+      "zh": "吸引"
+    },
+    {
+      "en": "bankrupt",
+      "clusterId": "root-rupt-01",
+      "zh": "破產的；完全缺乏的"
+    },
+    {
+      "en": "circumspect",
+      "clusterId": "root-spect-01",
+      "zh": "謹慎的；周密的"
+    },
+    {
+      "en": "claustrophobia",
+      "clusterId": "root-clud-01",
+      "zh": "幽閉恐懼症"
+    },
+    {
+      "en": "conclude",
+      "clusterId": "root-clud-01",
+      "zh": "結束；推斷出"
+    },
+    {
+      "en": "condescend",
+      "clusterId": "root-scend-01",
+      "zh": "屈尊；以恩賜態度對待"
+    },
+    {
+      "en": "conduct",
+      "clusterId": "root-duc-01",
+      "zh": "引導；實施；行為"
+    },
+    {
+      "en": "conjecture",
+      "clusterId": "root-ject-01",
+      "zh": "推測；臆測"
+    },
+    {
+      "en": "conspicuous",
+      "clusterId": "root-spect-01",
+      "zh": "顯眼的；引人注目的"
+    },
+    {
+      "en": "contort",
+      "clusterId": "root-tort-01",
+      "zh": "使扭曲變形"
+    },
+    {
+      "en": "controversy",
+      "clusterId": "root-vert-01",
+      "zh": "爭議"
+    },
+    {
+      "en": "corrupt",
+      "clusterId": "root-rupt-01",
+      "zh": "腐敗的；使敗壞"
+    },
+    {
+      "en": "corruption",
+      "clusterId": "root-rupt-01",
+      "zh": "腐敗；損壞"
+    },
+    {
+      "en": "credence",
+      "clusterId": "root-cred-01",
+      "zh": "相信；信任"
+    },
+    {
+      "en": "credential",
+      "clusterId": "root-cred-01",
+      "zh": "資格證件；憑證"
+    },
+    {
+      "en": "credibility",
+      "clusterId": "root-cred-01",
+      "zh": "可信度"
+    },
+    {
+      "en": "credible",
+      "clusterId": "root-cred-01",
+      "zh": "可信的"
+    },
+    {
+      "en": "deduce",
+      "clusterId": "root-duc-01",
+      "zh": "演繹；推論"
+    },
+    {
+      "en": "deduction",
+      "clusterId": "root-duc-01",
+      "zh": "推論；扣除"
+    },
+    {
+      "en": "degrade",
+      "clusterId": "root-gress-01",
+      "zh": "降級；貶低；降解"
+    },
+    {
+      "en": "descend",
+      "clusterId": "root-scend-01",
+      "zh": "下降；落入"
+    },
+    {
+      "en": "detract",
+      "clusterId": "root-tract-01",
+      "zh": "貶低；減損"
+    },
+    {
+      "en": "discredit",
+      "clusterId": "root-cred-01",
+      "zh": "使喪失信用"
+    },
+    {
+      "en": "dismiss",
+      "clusterId": "root-mit-01",
+      "zh": "解雇；打發；不予考慮"
+    },
+    {
+      "en": "disrupt",
+      "clusterId": "root-rupt-01",
+      "zh": "擾亂；使中斷"
+    },
+    {
+      "en": "disruptive",
+      "clusterId": "root-rupt-01",
+      "zh": "破壞性的；顛覆式的"
+    },
+    {
+      "en": "distract",
+      "clusterId": "root-tract-01",
+      "zh": "使分心；干擾"
+    },
+    {
+      "en": "ductile",
+      "clusterId": "root-duc-01",
+      "zh": "可塑的；易導引成形的"
+    },
+    {
+      "en": "egress",
+      "clusterId": "root-gress-01",
+      "zh": "出口；外出"
+    },
+    {
+      "en": "eject",
+      "clusterId": "root-ject-01",
+      "zh": "彈出；驅逐"
+    },
+    {
+      "en": "eloquent",
+      "clusterId": "root-loqu-01",
+      "zh": "雄辯的；有說服力的"
+    },
+    {
+      "en": "equivocal",
+      "clusterId": "root-voc-01",
+      "zh": "模稜兩可的"
+    },
+    {
+      "en": "eruption",
+      "clusterId": "root-rupt-01",
+      "zh": "爆發；噴發"
+    },
+    {
+      "en": "evoke",
+      "clusterId": "rhyme-eak-01",
+      "zh": "喚起（情感／記憶）"
+    },
+    {
+      "en": "exclude",
+      "clusterId": "root-clud-01",
+      "zh": "排除；拒絕納入"
+    },
+    {
+      "en": "fawn",
+      "clusterId": "sem-flattery-01",
+      "zh": "巴結；奉承"
+    },
+    {
+      "en": "fledge",
+      "clusterId": "rhyme-edge-01",
+      "zh": "長羽毛；羽翼漸豐"
+    },
+    {
+      "en": "gallant",
+      "clusterId": "rhyme-ant-01",
+      "zh": "英勇的；殷勤瀟灑的"
+    },
+    {
+      "en": "grandiloquent",
+      "clusterId": "root-loqu-01",
+      "zh": "誇大其詞的"
+    },
+    {
+      "en": "ideology",
+      "clusterId": "root-loqu-01",
+      "zh": "意識形態"
+    },
+    {
+      "en": "incredible",
+      "clusterId": "root-cred-01",
+      "zh": "難以置信的"
+    },
+    {
+      "en": "incredulous",
+      "clusterId": "root-cred-01",
+      "zh": "懷疑的；不相信的"
+    },
+    {
+      "en": "induce",
+      "clusterId": "root-duc-01",
+      "zh": "引起；勸誘；歸納"
+    },
+    {
+      "en": "inspect",
+      "clusterId": "root-spect-01",
+      "zh": "檢查；審視"
+    },
+    {
+      "en": "interject",
+      "clusterId": "root-ject-01",
+      "zh": "突然插話"
+    },
+    {
+      "en": "intractable",
+      "clusterId": "root-tract-01",
+      "zh": "難駕馭的；棘手的"
+    },
+    {
+      "en": "introvert",
+      "clusterId": "root-vert-01",
+      "zh": "內向者；使內轉"
+    },
+    {
+      "en": "irruption",
+      "clusterId": "root-rupt-01",
+      "zh": "突然侵入；湧入"
+    },
+    {
+      "en": "loquacious",
+      "clusterId": "sem-talk-01",
+      "zh": "話多的；滔滔不絕的"
+    },
+    {
+      "en": "loquacity",
+      "clusterId": "root-loqu-01",
+      "zh": "話多；健談（偏多話）"
+    },
+    {
+      "en": "omission",
+      "clusterId": "root-mit-01",
+      "zh": "遺漏；省略"
+    },
+    {
+      "en": "pathogen",
+      "clusterId": "root-path-01",
+      "zh": "病原體"
+    },
+    {
+      "en": "pathos",
+      "clusterId": "root-path-01",
+      "zh": "悲愴力；同情的感染"
+    },
+    {
+      "en": "precede",
+      "clusterId": "root-ced-01",
+      "zh": "先於；領先"
+    },
+    {
+      "en": "predecessor",
+      "clusterId": "root-ced-01",
+      "zh": "前任；前身"
+    },
+    {
+      "en": "proceed",
+      "clusterId": "root-ced-01",
+      "zh": "繼續進行"
+    },
+    {
+      "en": "projectile",
+      "clusterId": "root-ject-01",
+      "zh": "拋射物"
+    },
+    {
+      "en": "prospect",
+      "clusterId": "root-spect-01",
+      "zh": "前景；預期；探勘"
+    },
+    {
+      "en": "protract",
+      "clusterId": "root-tract-01",
+      "zh": "延長；拖延"
+    },
+    {
+      "en": "provoke",
+      "clusterId": "root-voc-01",
+      "zh": "激怒；激起"
+    },
+    {
+      "en": "recede",
+      "clusterId": "root-ced-01",
+      "zh": "後退；減退"
+    },
+    {
+      "en": "retrograde",
+      "clusterId": "root-gress-01",
+      "zh": "倒退的；逆向的"
+    },
+    {
+      "en": "retrospect",
+      "clusterId": "root-spect-01",
+      "zh": "回顧"
+    },
+    {
+      "en": "secede",
+      "clusterId": "root-ced-01",
+      "zh": "退出；分離"
+    },
+    {
+      "en": "seduce",
+      "clusterId": "root-duc-01",
+      "zh": "引誘；誘惑"
+    },
+    {
+      "en": "spectacle",
+      "clusterId": "root-spect-01",
+      "zh": "景象；壯觀場面"
+    },
+    {
+      "en": "spectator",
+      "clusterId": "root-spect-01",
+      "zh": "旁觀者"
+    },
+    {
+      "en": "spectrum",
+      "clusterId": "root-spect-01",
+      "zh": "光譜；範圍"
+    },
+    {
+      "en": "subvert",
+      "clusterId": "root-vert-01",
+      "zh": "顛覆；暗中破壞"
+    },
+    {
+      "en": "torment",
+      "clusterId": "root-tort-01",
+      "zh": "折磨；苦惱"
+    },
+    {
+      "en": "tractable",
+      "clusterId": "root-tract-01",
+      "zh": "易駕馭的；溫順的；易處理的"
+    },
+    {
+      "en": "trajectory",
+      "clusterId": "root-ject-01",
+      "zh": "軌道；軌跡"
+    },
+    {
+      "en": "transmit",
+      "clusterId": "root-mit-01",
+      "zh": "傳送；傳播"
+    },
+    {
+      "en": "unprecedented",
+      "clusterId": "root-ced-01",
+      "zh": "前所未有的"
+    },
+    {
+      "en": "versatile",
+      "clusterId": "root-vert-01",
+      "zh": "多才多藝的；用途多的"
+    },
+    {
+      "en": "viaduct",
+      "clusterId": "root-duc-01",
+      "zh": "高架橋"
+    },
+    {
+      "en": "wreak",
+      "clusterId": "rhyme-eak-01",
+      "zh": "造成（破壞）；發洩"
+    }
+  ],
+  "deferred": [
+    {
+      "en": "access",
+      "clusterId": "root-ced-01",
+      "zh": "進入；使用權",
+      "reason": "basic-or-specialty"
+    },
+    {
+      "en": "ancestor",
+      "clusterId": "root-ced-01",
+      "zh": "祖先",
+      "reason": "basic-or-specialty"
+    },
+    {
+      "en": "anniversary",
+      "clusterId": "root-vert-01",
+      "zh": "週年紀念",
+      "reason": "basic-or-specialty"
+    },
+    {
+      "en": "congress",
+      "clusterId": "root-gress-01",
+      "zh": "國會；代表大會",
+      "reason": "basic-or-specialty"
+    },
+    {
+      "en": "credit",
+      "clusterId": "root-cred-01",
+      "zh": "信用；讚譽；學分",
+      "reason": "basic-or-specialty"
+    },
+    {
+      "en": "educate",
+      "clusterId": "root-duc-01",
+      "zh": "教育",
+      "reason": "basic-or-specialty"
+    },
+    {
+      "en": "excess",
+      "clusterId": "root-ced-01",
+      "zh": "過度；過量",
+      "reason": "basic-or-specialty"
+    },
+    {
+      "en": "grade",
+      "clusterId": "root-gress-01",
+      "zh": "等級；坡度；評分",
+      "reason": "basic-or-specialty"
+    },
+    {
+      "en": "gradual",
+      "clusterId": "root-gress-01",
+      "zh": "逐漸的",
+      "reason": "basic-or-specialty"
+    },
+    {
+      "en": "homeopathy",
+      "clusterId": "root-path-01",
+      "zh": "順勢療法（名含 path；考構詞辨識）",
+      "reason": "basic-or-specialty"
+    },
+    {
+      "en": "inject",
+      "clusterId": "root-ject-01",
+      "zh": "注入；插話",
+      "reason": "basic-or-specialty"
+    },
+    {
+      "en": "interrupt",
+      "clusterId": "root-rupt-01",
+      "zh": "打斷",
+      "reason": "basic-or-specialty"
+    },
+    {
+      "en": "introduction",
+      "clusterId": "root-duc-01",
+      "zh": "引言；介紹；導入",
+      "reason": "basic-or-specialty"
+    },
+    {
+      "en": "logic",
+      "clusterId": "root-loqu-01",
+      "zh": "邏輯；道理",
+      "reason": "basic-or-specialty"
+    },
+    {
+      "en": "mission",
+      "clusterId": "root-mit-01",
+      "zh": "任務；使命",
+      "reason": "basic-or-specialty"
+    },
+    {
+      "en": "object",
+      "clusterId": "root-ject-01",
+      "zh": "反對；物體；目標",
+      "reason": "basic-or-specialty"
+    },
+    {
+      "en": "permit",
+      "clusterId": "root-mit-01",
+      "zh": "允許；許可證",
+      "reason": "basic-or-specialty"
+    },
+    {
+      "en": "pour",
+      "clusterId": "rhyme-our-01",
+      "zh": "倒出；傾注",
+      "reason": "basic-or-specialty"
+    },
+    {
+      "en": "process",
+      "clusterId": "root-ced-01",
+      "zh": "過程；處理",
+      "reason": "basic-or-specialty"
+    },
+    {
+      "en": "progress",
+      "clusterId": "root-gress-01",
+      "zh": "進步；前進",
+      "reason": "basic-or-specialty"
+    },
+    {
+      "en": "project",
+      "clusterId": "root-ject-01",
+      "zh": "投射；規劃；項目",
+      "reason": "basic-or-specialty"
+    },
+    {
+      "en": "prologue",
+      "clusterId": "root-loqu-01",
+      "zh": "序言；開場白",
+      "reason": "basic-or-specialty"
+    },
+    {
+      "en": "reject",
+      "clusterId": "root-ject-01",
+      "zh": "拒絕；駁回",
+      "reason": "basic-or-specialty"
+    },
+    {
+      "en": "respect",
+      "clusterId": "root-spect-01",
+      "zh": "尊重；方面",
+      "reason": "basic-or-specialty"
+    },
+    {
+      "en": "sneak",
+      "clusterId": "rhyme-eak-01",
+      "zh": "鬼祟行事；偷偷摸摸",
+      "reason": "basic-or-specialty"
+    },
+    {
+      "en": "sociopath",
+      "clusterId": "root-path-01",
+      "zh": "反社會人格者（通俗用法）",
+      "reason": "basic-or-specialty"
+    },
+    {
+      "en": "sour",
+      "clusterId": "rhyme-our-01",
+      "zh": "變酸；變壞；不高興的",
+      "reason": "basic-or-specialty"
+    },
+    {
+      "en": "subject",
+      "clusterId": "root-ject-01",
+      "zh": "主題；臣民；使遭受",
+      "reason": "basic-or-specialty"
+    },
+    {
+      "en": "submit",
+      "clusterId": "root-mit-01",
+      "zh": "提交；屈服",
+      "reason": "basic-or-specialty"
+    },
+    {
+      "en": "suspicious",
+      "clusterId": "root-spect-01",
+      "zh": "可疑的；懷疑的",
+      "reason": "basic-or-specialty"
+    },
+    {
+      "en": "sympathy",
+      "clusterId": "root-path-01",
+      "zh": "同情；同感",
+      "reason": "basic-or-specialty"
+    },
+    {
+      "en": "telepathy",
+      "clusterId": "root-path-01",
+      "zh": "心靈感應",
+      "reason": "basic-or-specialty"
+    },
+    {
+      "en": "universe",
+      "clusterId": "root-vert-01",
+      "zh": "宇宙；領域全體",
+      "reason": "basic-or-specialty"
+    },
+    {
+      "en": "vocabulary",
+      "clusterId": "root-voc-01",
+      "zh": "詞彙",
+      "reason": "basic-or-specialty"
+    },
+    {
+      "en": "vocal",
+      "clusterId": "root-voc-01",
+      "zh": "聲音的；直言的",
+      "reason": "basic-or-specialty"
+    }
+  ],
+  "greTotalAfter": 3938
+}

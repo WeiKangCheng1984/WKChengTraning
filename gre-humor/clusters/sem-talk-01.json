@@ -19,7 +19,8 @@
       "related": {
         "synonyms": "",
         "antonyms": "talkative, garrulous, voluble"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "reticent",
@@ -33,7 +34,8 @@
       "related": {
         "synonyms": "laconic, taciturn",
         "antonyms": "talkative, garrulous, verbose, wordy, voluble"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "laconic",
@@ -47,11 +49,12 @@
       "related": {
         "synonyms": "concise, taciturn, reticent, terse, succinct",
         "antonyms": "verbose, wordy, prolix, talkative, garrulous, voluble"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "loquacious",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "話多的；滔滔不絕的",
       "roleInScript": "話匣子",
       "humorDevice": "contrast",
@@ -61,7 +64,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "garrulous",
@@ -75,7 +79,8 @@
       "related": {
         "synonyms": "loquacious, verbose, prolix, long-winded",
         "antonyms": "taciturn, reticent, concise, succinct"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "verbose",
@@ -89,7 +94,8 @@
       "related": {
         "synonyms": "long-winded, tedious, windy, wordy",
         "antonyms": "concise, succinct"
-      }
+      },
+      "vocabStatus": "in-vocab"
     }
   ],
   "reviewHooks": [

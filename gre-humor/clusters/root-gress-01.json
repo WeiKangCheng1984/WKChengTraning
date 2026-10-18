@@ -19,7 +19,9 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "regress",
@@ -33,11 +35,12 @@
       "related": {
         "synonyms": "regression, reversion, retrogression, retroversion, revert, return",
         "antonyms": "progress"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "aggressive",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "侵略的；積極進取的",
       "roleInScript": "步步進逼",
       "humorDevice": "morphology",
@@ -47,7 +50,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "digress",
@@ -61,7 +65,8 @@
       "related": {
         "synonyms": "stray, divagate, wander, sidetrack, depart, straggle",
         "antonyms": "come, conform, stay"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "congress",
@@ -75,11 +80,13 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "egress",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "出口；外出",
       "roleInScript": "走出去的口",
       "humorDevice": "morphology",
@@ -89,7 +96,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "grade",
@@ -103,7 +111,9 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "gradual",
@@ -117,11 +127,13 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "degrade",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "降級；貶低；降解",
       "roleInScript": "往下走階梯",
       "humorDevice": "morphology",
@@ -131,11 +143,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "retrograde",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "倒退的；逆向的",
       "roleInScript": "倒著走",
       "humorDevice": "morphology",
@@ -145,7 +158,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "transgress",
@@ -159,7 +173,8 @@
       "related": {
         "synonyms": "breach, contravene",
         "antonyms": "keep"
-      }
+      },
+      "vocabStatus": "in-vocab"
     }
   ],
   "reviewHooks": [

@@ -19,7 +19,8 @@
       "related": {
         "synonyms": "irascible, hotheaded, hot-tempered, quick-tempered, short-tempered",
         "antonyms": "calm, placid"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "irascible",
@@ -33,7 +34,8 @@
       "related": {
         "synonyms": "exasperated, pugnacious, cantankerous, choleric",
         "antonyms": "calm, placid, better, peaceable, amiable"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "peevish",
@@ -47,11 +49,12 @@
       "related": {
         "synonyms": "cranky, fractious, irritable, nettlesome, peckish, pettish",
         "antonyms": "agreeable, docile"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "affable",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "和藹可親的",
       "roleInScript": "好說話笑臉",
       "humorDevice": "contrast",
@@ -61,7 +64,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "genial",
@@ -75,11 +79,12 @@
       "related": {
         "synonyms": "affable, amiable, cordial, mental, kind",
         "antonyms": "surly, aloof, hostile, unfriendly, physical, unkind"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "amiable",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "親切隨和的",
       "roleInScript": "好相處",
       "humorDevice": "contrast",
@@ -89,7 +94,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     }
   ],
   "reviewHooks": [

@@ -19,7 +19,8 @@
       "related": {
         "synonyms": "deviate, amuse, disport",
         "antonyms": "conform"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "avert",
@@ -33,7 +34,8 @@
       "related": {
         "synonyms": "debar, forefend, forfend, obviate, deflect, avoid",
         "antonyms": "necessitate, require, confront, validate"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "revert",
@@ -47,11 +49,12 @@
       "related": {
         "synonyms": "return, retrovert, regress",
         "antonyms": "progress"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "subvert",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "顛覆；暗中破壞",
       "roleInScript": "從底下翻轉體制",
       "humorDevice": "morphology",
@@ -61,7 +64,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "perverse",
@@ -75,7 +79,8 @@
       "related": {
         "synonyms": "contrary, obstinate, wayward, depraved, perverted, reprobate",
         "antonyms": "compliant, flexible, docile, approbate"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "universe",
@@ -89,11 +94,13 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "versatile",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "多才多藝的；用途多的",
       "roleInScript": "能到處轉的人／工具",
       "humorDevice": "morphology",
@@ -103,11 +110,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "adverse",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "不利的；有害的",
       "roleInScript": "轉過來擋你的風",
       "humorDevice": "lookalike",
@@ -117,7 +125,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "anniversary",
@@ -131,11 +140,13 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "controversy",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "爭議",
       "roleInScript": "意見轉來轉去打結",
       "humorDevice": "morphology",
@@ -145,11 +156,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "introvert",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "內向者；使內轉",
       "roleInScript": "能量往內轉",
       "humorDevice": "story",
@@ -159,7 +171,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     }
   ],
   "reviewHooks": [

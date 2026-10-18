@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "wreak",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "造成（破壞）；發洩",
       "roleInScript": "發洩破壞",
       "humorDevice": "story",
@@ -19,7 +19,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "bleak",
@@ -33,7 +34,8 @@
       "related": {
         "synonyms": "black, dim, bare, barren, desolate, stark",
         "antonyms": "white, whiten, focus, undimmed, covered, sheathed"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "sneak",
@@ -47,7 +49,9 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "streak",
@@ -61,11 +65,12 @@
       "related": {
         "synonyms": "run, stripe, bar, mottle, blotch",
         "antonyms": "idle, malfunction, unbar"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "evoke",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "喚起（情感／記憶）",
       "roleInScript": "喚起良知",
       "humorDevice": "story",
@@ -75,7 +80,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "revoke",
@@ -89,7 +95,8 @@
       "related": {
         "synonyms": "renege, annul, lift, countermand, reverse, repeal",
         "antonyms": "validate, fall, lower, forward, obverse"
-      }
+      },
+      "vocabStatus": "in-vocab"
     }
   ],
   "reviewHooks": [

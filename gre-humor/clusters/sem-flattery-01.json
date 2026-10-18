@@ -19,7 +19,8 @@
       "related": {
         "synonyms": "toady, crawler, lackey, ass-kisser",
         "antonyms": "critic, detractor"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "toady",
@@ -33,11 +34,12 @@
       "related": {
         "synonyms": "sycophant, crawler, lackey, ass-kisser, fawn, truckle",
         "antonyms": "critic, detractor, insult, defy"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "fawn",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "巴結；奉承",
       "roleInScript": "搖尾乞憐的動作",
       "humorDevice": "story",
@@ -47,11 +49,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "arrogant",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "傲慢的",
       "roleInScript": "對面傲嬌",
       "humorDevice": "contrast",
@@ -61,7 +64,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "supercilious",
@@ -75,7 +79,8 @@
       "related": {
         "synonyms": "arrogant, haughty, pompous, overbearing",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "imperious",
@@ -89,7 +94,8 @@
       "related": {
         "synonyms": "disdainful, haughty, lordly, overbearing, prideful, sniffy",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     }
   ],
   "reviewHooks": [

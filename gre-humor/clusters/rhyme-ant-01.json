@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "gallant",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "英勇的；殷勤瀟灑的",
       "roleInScript": "英勇小蟻",
       "humorDevice": "story",
@@ -19,7 +19,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "rant",
@@ -33,7 +34,8 @@
       "related": {
         "synonyms": "harangue, ranting, bombast, fustian, claptrap, blah",
         "antonyms": "praise, eulogy"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "slant",
@@ -47,7 +49,8 @@
       "related": {
         "synonyms": "angle, pitch, rake, weight, lean, tilt",
         "antonyms": "unburden, fat, rich"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "repent",
@@ -61,7 +64,8 @@
       "related": {
         "synonyms": "atone, regret, rue",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "tyrant",
@@ -75,7 +79,8 @@
       "related": {
         "synonyms": "despot, dictator",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     }
   ],
   "reviewHooks": [

@@ -19,7 +19,8 @@
       "related": {
         "synonyms": "indifference, numbness, spiritlessness",
         "antonyms": "enthusiasm, interest"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "empathy",
@@ -33,7 +34,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "sympathy",
@@ -47,11 +49,13 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "pathos",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "悲愴力；同情的感染",
       "roleInScript": "催淚處方",
       "humorDevice": "morphology",
@@ -61,7 +65,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "pathetic",
@@ -75,7 +80,8 @@
       "related": {
         "synonyms": "hapless, miserable, misfortunate, piteous, pitiable, pitiful",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "antipathy",
@@ -89,11 +95,12 @@
       "related": {
         "synonyms": "aversion, distaste",
         "antonyms": "affinity, sympathy"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "pathogen",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "病原體",
       "roleInScript": "讓身體受苦的東西",
       "humorDevice": "story",
@@ -103,7 +110,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "pathology",
@@ -117,7 +125,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "telepathy",
@@ -131,7 +140,9 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "sociopath",
@@ -145,7 +156,9 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "homeopathy",
@@ -159,7 +172,9 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     }
   ],
   "reviewHooks": [

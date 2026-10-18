@@ -1,6 +1,6 @@
 {
   "source": "GRE vocabulary.md",
-  "total": 3844,
+  "total": 3938,
   "detailed": 3844,
   "withAntonyms": 1945,
   "withSpeakableExamples": 3844,
@@ -10,7 +10,7 @@
     {
       "letter": "A",
       "slug": "a",
-      "wordCount": 214,
+      "wordCount": 232,
       "words": [
         {
           "id": "gre-abandon",
@@ -86,6 +86,38 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-abduct",
+          "en": "abduct",
+          "zh": "誘拐；綁架",
+          "endef": "誘拐；綁架",
+          "exampleEn": "The plot abducts the reader from the main thesis.",
+          "example": "The plot abducts the reader from the main thesis. （誘拐；綁架）",
+          "exampleUsage": "情節把讀者從主論點拐走。（比喻用法需謹慎）",
+          "synonyms": "kidnap",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-duc-01"
+        },
+        {
+          "id": "gre-abet",
+          "en": "abet",
+          "zh": "教唆；煽動；協助（做壞事）",
+          "endef": "教唆；煽動；協助（做壞事）",
+          "exampleEn": "Silence can abet wrongdoing.",
+          "example": "Silence can abet wrongdoing. （教唆；煽動；協助（做壞事））",
+          "exampleUsage": "沉默可能協助不法行為。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "look-a-01"
         },
         {
           "id": "gre-abeyance",
@@ -268,6 +300,22 @@
           "detailed": true
         },
         {
+          "id": "gre-abrupt",
+          "en": "abrupt",
+          "zh": "突然的；唐突的",
+          "endef": "突然的；唐突的",
+          "exampleEn": "An abrupt transition confused the audience.",
+          "example": "An abrupt transition confused the audience. （突然的；唐突的）",
+          "exampleUsage": "突然的轉折讓聽眾困惑。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-rupt-01"
+        },
+        {
           "id": "gre-abscond",
           "en": "abscond",
           "zh": "潛逃；偷偷離開",
@@ -418,6 +466,22 @@
           "detailed": true
         },
         {
+          "id": "gre-accede",
+          "en": "accede",
+          "zh": "同意；加入；繼承",
+          "endef": "同意；加入；繼承",
+          "exampleEn": "They refused to accede to the demand.",
+          "example": "They refused to accede to the demand. （同意；加入；繼承）",
+          "exampleUsage": "他們拒絕同意該要求。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "look-a-01"
+        },
+        {
           "id": "gre-accent",
           "en": "accent",
           "zh": "v. 強調｜教學補註：to emphasize",
@@ -521,6 +585,22 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-accredited",
+          "en": "accredited",
+          "zh": "經認證的",
+          "endef": "經認證的",
+          "exampleEn": "Only accredited labs may process the samples.",
+          "example": "Only accredited labs may process the samples. （經認證的）",
+          "exampleUsage": "唯有經認證實驗室可處理樣本。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-cred-01"
         },
         {
           "id": "gre-accrete",
@@ -793,6 +873,22 @@
           "detailed": true
         },
         {
+          "id": "gre-admissible",
+          "en": "admissible",
+          "zh": "可採納的（證據等）",
+          "endef": "可採納的（證據等）",
+          "exampleEn": "Only admissible evidence should shape the verdict.",
+          "example": "Only admissible evidence should shape the verdict. （可採納的（證據等））",
+          "exampleUsage": "只有可採納證據才應影響裁決。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-mit-01"
+        },
+        {
           "id": "gre-admonish",
           "en": "admonish",
           "zh": "勸誡；告誡",
@@ -868,6 +964,22 @@
           "detailed": true
         },
         {
+          "id": "gre-adverse",
+          "en": "adverse",
+          "zh": "不利的；有害的",
+          "endef": "不利的；有害的",
+          "exampleEn": "Adverse incentives warped the reporting.",
+          "example": "Adverse incentives warped the reporting. （不利的；有害的）",
+          "exampleUsage": "不利的誘因扭曲了通報。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-vert-01"
+        },
+        {
           "id": "gre-advert",
           "en": "advert",
           "zh": "留意；注意",
@@ -881,6 +993,22 @@
           "lookalikes": "avert 防止避免，移開 ｜ advert v.注意到，提到 n.廣告 ｜ advent n.出現到來 ｜ adventitious 偶然的，外來的~virus",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-advocate",
+          "en": "advocate",
+          "zh": "提倡；辯護者",
+          "endef": "提倡；辯護者",
+          "exampleEn": "She advocates transparent peer review.",
+          "example": "She advocates transparent peer review. （提倡；辯護者）",
+          "exampleUsage": "她提倡透明的同儕審查。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-voc-01"
         },
         {
           "id": "gre-aerate",
@@ -911,6 +1039,38 @@
           "lookalikes": "",
           "sources": "填空1300",
           "detailed": true
+        },
+        {
+          "id": "gre-aesthetic",
+          "en": "aesthetic",
+          "zh": "美學的；審美的",
+          "endef": "美學的；審美的",
+          "exampleEn": "The essay privileges aesthetic form over utility.",
+          "example": "The essay privileges aesthetic form over utility. （美學的；審美的）",
+          "exampleUsage": "文章重審美形式勝過實用。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "look-a-01"
+        },
+        {
+          "id": "gre-affable",
+          "en": "affable",
+          "zh": "和藹可親的",
+          "endef": "和藹可親的",
+          "exampleEn": "An affable chair kept the panel constructive.",
+          "example": "An affable chair kept the panel constructive. （和藹可親的）",
+          "exampleUsage": "和藹的主席讓座談保持建設性。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "sem-temper-01"
         },
         {
           "id": "gre-affect",
@@ -1076,6 +1236,22 @@
           "lookalikes": "",
           "sources": "GRE3000",
           "detailed": true
+        },
+        {
+          "id": "gre-aggressive",
+          "en": "aggressive",
+          "zh": "侵略的；積極進取的",
+          "endef": "侵略的；積極進取的",
+          "exampleEn": "Aggressive coding can introduce new bugs.",
+          "example": "Aggressive coding can introduce new bugs. （侵略的；積極進取的）",
+          "exampleUsage": "過度積極的編碼可能引入新錯誤。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-gress-01"
         },
         {
           "id": "gre-aggrieve",
@@ -1273,6 +1449,22 @@
           "detailed": true
         },
         {
+          "id": "gre-allege",
+          "en": "allege",
+          "zh": "宣稱；指控（未必證實）",
+          "endef": "宣稱；指控（未必證實）",
+          "exampleEn": "The report alleges conflicts of interest.",
+          "example": "The report alleges conflicts of interest. （宣稱；指控（未必證實））",
+          "exampleUsage": "報告指控存在利益衝突。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "rhyme-edge-01"
+        },
+        {
           "id": "gre-alleged",
           "en": "alleged",
           "zh": "所謂的；聲稱的",
@@ -1468,6 +1660,22 @@
           "detailed": true
         },
         {
+          "id": "gre-amiable",
+          "en": "amiable",
+          "zh": "親切隨和的",
+          "endef": "親切隨和的",
+          "exampleEn": "Amiable colleagues still need clear standards.",
+          "example": "Amiable colleagues still need clear standards. （親切隨和的）",
+          "exampleUsage": "親切同事依然需要清楚標準。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "sem-temper-01"
+        },
+        {
           "id": "gre-amity",
           "en": "amity",
           "zh": "友善｜教學補註：a cordial disposition",
@@ -1586,6 +1794,22 @@
           "lookalikes": "",
           "sources": "救命800",
           "detailed": true
+        },
+        {
+          "id": "gre-analogy",
+          "en": "analogy",
+          "zh": "類比",
+          "endef": "類比",
+          "exampleEn": "A strained analogy misleads more than it teaches.",
+          "example": "A strained analogy misleads more than it teaches. （類比）",
+          "exampleUsage": "牽強類比誤導多於教學。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-loqu-01"
         },
         {
           "id": "gre-anathema",
@@ -2263,6 +2487,22 @@
           "detailed": true
         },
         {
+          "id": "gre-aqueduct",
+          "en": "aqueduct",
+          "zh": "高架引水渠",
+          "endef": "高架引水渠",
+          "exampleEn": "The aqueduct metaphor describes knowledge pipelines.",
+          "example": "The aqueduct metaphor describes knowledge pipelines. （高架引水渠）",
+          "exampleUsage": "引水渠隱喻用來描述知識管線。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-duc-01"
+        },
+        {
           "id": "gre-aquiline",
           "en": "aquiline",
           "zh": "鷹的｜教學補註：curved down like an eagle's beak",
@@ -2428,6 +2668,22 @@
           "detailed": true
         },
         {
+          "id": "gre-arrogant",
+          "en": "arrogant",
+          "zh": "傲慢的",
+          "endef": "傲慢的",
+          "exampleEn": "An arrogant tone can sink an otherwise sound argument.",
+          "example": "An arrogant tone can sink an otherwise sound argument. （傲慢的）",
+          "exampleUsage": "傲慢語氣可能毁掉本來站得住的論證。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "sem-flattery-01"
+        },
+        {
           "id": "gre-arson",
           "en": "arson",
           "zh": "縱火罪｜教學補註：malicious burning to destroy property",
@@ -2501,6 +2757,22 @@
           "lookalikes": "",
           "sources": "重要詞",
           "detailed": true
+        },
+        {
+          "id": "gre-ascend",
+          "en": "ascend",
+          "zh": "上升；登上",
+          "endef": "上升；登上",
+          "exampleEn": "She ascended to leadership after the crisis.",
+          "example": "She ascended to leadership after the crisis. （上升；登上）",
+          "exampleUsage": "危機後她上升到領導位置。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-scend-01"
         },
         {
           "id": "gre-ascetic",
@@ -2908,6 +3180,22 @@
           "detailed": true
         },
         {
+          "id": "gre-attract",
+          "en": "attract",
+          "zh": "吸引",
+          "endef": "吸引",
+          "exampleEn": "Clear theses attract careful readers.",
+          "example": "Clear theses attract careful readers. （吸引）",
+          "exampleUsage": "清楚的論旨能吸引細心的讀者。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-tract-01"
+        },
+        {
           "id": "gre-attrition",
           "en": "attrition",
           "zh": "磨損；摩擦",
@@ -3227,7 +3515,7 @@
     {
       "letter": "B",
       "slug": "b",
-      "wordCount": 151,
+      "wordCount": 152,
       "words": [
         {
           "id": "gre-backset",
@@ -3423,6 +3711,22 @@
           "lookalikes": "banal 陳腐的 ｜ bale 災禍，不幸 ｜ bane 禍根，禍因",
           "sources": "GRE3000",
           "detailed": true
+        },
+        {
+          "id": "gre-bankrupt",
+          "en": "bankrupt",
+          "zh": "破產的；完全缺乏的",
+          "endef": "破產的；完全缺乏的",
+          "exampleEn": "The theory is morally bankrupt if it excuses harm.",
+          "example": "The theory is morally bankrupt if it excuses harm. （破產的；完全缺乏的）",
+          "exampleUsage": "若為傷害開脫，該理論在道德上已破產。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-rupt-01"
         },
         {
           "id": "gre-banter",
@@ -5499,7 +5803,7 @@
     {
       "letter": "C",
       "slug": "c",
-      "wordCount": 329,
+      "wordCount": 344,
       "words": [
         {
           "id": "gre-cachet",
@@ -7107,6 +7411,22 @@
           "detailed": true
         },
         {
+          "id": "gre-circumspect",
+          "en": "circumspect",
+          "zh": "謹慎的；周密的",
+          "endef": "謹慎的；周密的",
+          "exampleEn": "Circumspect claims survive hostile reading.",
+          "example": "Circumspect claims survive hostile reading. （謹慎的；周密的）",
+          "exampleUsage": "周密的宣稱更能扛住敵意閱讀。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-spect-01"
+        },
+        {
           "id": "gre-circumstantial",
           "en": "circumstantial",
           "zh": "偶爾的；詳盡的",
@@ -7270,6 +7590,22 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-claustrophobia",
+          "en": "claustrophobia",
+          "zh": "幽閉恐懼症",
+          "endef": "幽閉恐懼症",
+          "exampleEn": "His claustrophobia made enclosed archives unbearable.",
+          "example": "His claustrophobia made enclosed archives unbearable. （幽閉恐懼症）",
+          "exampleUsage": "幽閉恐懼讓密閉檔案室令他难受。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-clud-01"
         },
         {
           "id": "gre-claustrophobic",
@@ -8217,6 +8553,22 @@
           "detailed": true
         },
         {
+          "id": "gre-conclude",
+          "en": "conclude",
+          "zh": "結束；推斷出",
+          "endef": "結束；推斷出",
+          "exampleEn": "We conclude that the evidence is insufficient.",
+          "example": "We conclude that the evidence is insufficient. （結束；推斷出）",
+          "exampleUsage": "我們斷定證據不足。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-clud-01"
+        },
+        {
           "id": "gre-concoct",
           "en": "concoct",
           "zh": "v. 編造｜教學補註：to invent a story to deceive people",
@@ -8275,6 +8627,22 @@
           "lookalikes": "",
           "sources": "救命800",
           "detailed": true
+        },
+        {
+          "id": "gre-condescend",
+          "en": "condescend",
+          "zh": "屈尊；以恩賜態度對待",
+          "endef": "屈尊；以恩賜態度對待",
+          "exampleEn": "Do not condescend to readers with oversimplified claims.",
+          "example": "Do not condescend to readers with oversimplified claims. （屈尊；以恩賜態度對待）",
+          "exampleUsage": "別用過度簡化的說法屈尊俯就讀者。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-scend-01"
         },
         {
           "id": "gre-condescending",
@@ -8350,6 +8718,22 @@
           "lookalikes": "",
           "sources": "救命800、紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-conduct",
+          "en": "conduct",
+          "zh": "引導；實施；行為",
+          "endef": "引導；實施；行為",
+          "exampleEn": "How we conduct the interview shapes the answers.",
+          "example": "How we conduct the interview shapes the answers. （引導；實施；行為）",
+          "exampleUsage": "我們如何進行訪談會形塑答案。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-duc-01"
         },
         {
           "id": "gre-cone",
@@ -8577,6 +8961,22 @@
           "detailed": true
         },
         {
+          "id": "gre-conjecture",
+          "en": "conjecture",
+          "zh": "推測；臆測",
+          "endef": "推測；臆測",
+          "exampleEn": "The conclusion is still conjecture, not proof.",
+          "example": "The conclusion is still conjecture, not proof. （推測；臆測）",
+          "exampleUsage": "結論仍是臆測，不是證明。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-ject-01"
+        },
+        {
           "id": "gre-conjure",
           "en": "conjure",
           "zh": "v. 在腦海中浮現，想起",
@@ -8740,6 +9140,22 @@
           "lookalikes": "",
           "sources": "GRE3000、救命800、紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-conspicuous",
+          "en": "conspicuous",
+          "zh": "顯眼的；引人注目的",
+          "endef": "顯眼的；引人注目的",
+          "exampleEn": "The gap in the data is conspicuous.",
+          "example": "The gap in the data is conspicuous. （顯眼的；引人注目的）",
+          "exampleUsage": "資料中的缺口非常顯眼。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-spect-01"
         },
         {
           "id": "gre-conspire",
@@ -8967,6 +9383,22 @@
           "detailed": true
         },
         {
+          "id": "gre-contort",
+          "en": "contort",
+          "zh": "使扭曲變形",
+          "endef": "使扭曲變形",
+          "exampleEn": "He contorted the statute beyond recognition.",
+          "example": "He contorted the statute beyond recognition. （使扭曲變形）",
+          "exampleUsage": "他把法條解釋扭到認不出原樣。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-tort-01"
+        },
+        {
           "id": "gre-contrite",
           "en": "contrite",
           "zh": "adj. 後悔的｜教學補註：feeling sorry for something bad that you have done",
@@ -9010,6 +9442,22 @@
           "lookalikes": "",
           "sources": "複習詞、紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-controversy",
+          "en": "controversy",
+          "zh": "爭議",
+          "endef": "爭議",
+          "exampleEn": "The controversy turned on how to define harm.",
+          "example": "The controversy turned on how to define harm. （爭議）",
+          "exampleUsage": "爭議聚焦在如何定義傷害。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-vert-01"
         },
         {
           "id": "gre-controvert",
@@ -9325,6 +9773,38 @@
           "lookalikes": "",
           "sources": "GRE3000",
           "detailed": true
+        },
+        {
+          "id": "gre-corrupt",
+          "en": "corrupt",
+          "zh": "腐敗的；使敗壞",
+          "endef": "腐敗的；使敗壞",
+          "exampleEn": "Corrupt incentives distort measurement.",
+          "example": "Corrupt incentives distort measurement. （腐敗的；使敗壞）",
+          "exampleUsage": "腐敗誘因扭曲測量。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-rupt-01"
+        },
+        {
+          "id": "gre-corruption",
+          "en": "corruption",
+          "zh": "腐敗；損壞",
+          "endef": "腐敗；損壞",
+          "exampleEn": "Data corruption invalidated the third trial.",
+          "example": "Data corruption invalidated the third trial. （腐敗；損壞）",
+          "exampleUsage": "資料損壞使第三次試驗無效。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-rupt-01"
         },
         {
           "id": "gre-coruscate",
@@ -9775,6 +10255,70 @@
           "lookalikes": "cozen 哄騙 ｜ cosset 溺愛 ｜ coltish  輕佻的；不受拘束的 ｜ craven 怯懦的",
           "sources": "GRE3000、複習詞、紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-credence",
+          "en": "credence",
+          "zh": "相信；信任",
+          "endef": "相信；信任",
+          "exampleEn": "The finding gained credence after replication.",
+          "example": "The finding gained credence after replication. （相信；信任）",
+          "exampleUsage": "該發現在複現後獲得信任。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-cred-01"
+        },
+        {
+          "id": "gre-credential",
+          "en": "credential",
+          "zh": "資格證件；憑證",
+          "endef": "資格證件；憑證",
+          "exampleEn": "Credentials do not replace transparent methods.",
+          "example": "Credentials do not replace transparent methods. （資格證件；憑證）",
+          "exampleUsage": "資格證件不能取代透明方法。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-cred-01"
+        },
+        {
+          "id": "gre-credibility",
+          "en": "credibility",
+          "zh": "可信度",
+          "endef": "可信度",
+          "exampleEn": "Credibility erodes when errors go uncorrected.",
+          "example": "Credibility erodes when errors go uncorrected. （可信度）",
+          "exampleUsage": "錯誤不更正，可信度就侵蝕。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-cred-01"
+        },
+        {
+          "id": "gre-credible",
+          "en": "credible",
+          "zh": "可信的",
+          "endef": "可信的",
+          "exampleEn": "A credible mechanism explains the effect size.",
+          "example": "A credible mechanism explains the effect size. （可信的）",
+          "exampleUsage": "可信的機制能解釋效應量。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-cred-01"
         },
         {
           "id": "gre-credo",
@@ -10441,7 +10985,7 @@
     {
       "letter": "D",
       "slug": "d",
-      "wordCount": 274,
+      "wordCount": 285,
       "words": [
         {
           "id": "gre-dabble",
@@ -11029,6 +11573,22 @@
           "detailed": true
         },
         {
+          "id": "gre-deduce",
+          "en": "deduce",
+          "zh": "演繹；推論",
+          "endef": "演繹；推論",
+          "exampleEn": "From the premises we deduce a narrower claim.",
+          "example": "From the premises we deduce a narrower claim. （演繹；推論）",
+          "exampleUsage": "由前提我們演繹出更窄的主張。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-duc-01"
+        },
+        {
           "id": "gre-deduct",
           "en": "deduct",
           "zh": "演繹；推演",
@@ -11042,6 +11602,22 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-deduction",
+          "en": "deduction",
+          "zh": "推論；扣除",
+          "endef": "推論；扣除",
+          "exampleEn": "The deduction follows only if the premise holds.",
+          "example": "The deduction follows only if the premise holds. （推論；扣除）",
+          "exampleUsage": "唯有前提成立，該推論才成立。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-duc-01"
         },
         {
           "id": "gre-deface",
@@ -11297,6 +11873,22 @@
           "lookalikes": "confer 商議 ｜ defer 順從 ｜ deter 阻止制止威懾 ｜ defy 不服從，蔑視",
           "sources": "GRE3000、救命800",
           "detailed": true
+        },
+        {
+          "id": "gre-degrade",
+          "en": "degrade",
+          "zh": "降級；貶低；降解",
+          "endef": "降級；貶低；降解",
+          "exampleEn": "Noise can degrade signal quality.",
+          "example": "Noise can degrade signal quality. （降級；貶低；降解）",
+          "exampleUsage": "噪音會降低訊號品質。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-gress-01"
         },
         {
           "id": "gre-deify",
@@ -12139,6 +12731,22 @@
           "detailed": true
         },
         {
+          "id": "gre-descend",
+          "en": "descend",
+          "zh": "下降；落入",
+          "endef": "下降；落入",
+          "exampleEn": "The debate descended into personal attacks.",
+          "example": "The debate descended into personal attacks. （下降；落入）",
+          "exampleUsage": "辯論墮落到人身攻擊。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-scend-01"
+        },
+        {
           "id": "gre-descry",
           "en": "descry",
           "zh": "看見；察覺",
@@ -12497,6 +13105,22 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-detract",
+          "en": "detract",
+          "zh": "貶低；減損",
+          "endef": "貶低；減損",
+          "exampleEn": "One weak paragraph should not detract from the whole argument.",
+          "example": "One weak paragraph should not detract from the whole argument. （貶低；減損）",
+          "exampleUsage": "一段弱段落不該減損整篇論證。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-tract-01"
         },
         {
           "id": "gre-detraction",
@@ -13114,6 +13738,22 @@
           "detailed": true
         },
         {
+          "id": "gre-discredit",
+          "en": "discredit",
+          "zh": "使喪失信用",
+          "endef": "使喪失信用",
+          "exampleEn": "Selective leaks aimed to discredit the committee.",
+          "example": "Selective leaks aimed to discredit the committee. （使喪失信用）",
+          "exampleUsage": "選擇性洩密旨在使委員會喪失信用。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-cred-01"
+        },
+        {
           "id": "gre-discreet",
           "en": "discreet",
           "zh": "謹慎的｜教學補註：marked by prudence or modesty and wise self-restraint",
@@ -13444,6 +14084,22 @@
           "detailed": true
         },
         {
+          "id": "gre-dismiss",
+          "en": "dismiss",
+          "zh": "解雇；打發；不予考慮",
+          "endef": "解雇；打發；不予考慮",
+          "exampleEn": "Do not dismiss anomalous data too quickly.",
+          "example": "Do not dismiss anomalous data too quickly. （解雇；打發；不予考慮）",
+          "exampleUsage": "不要太快把異常資料打發掉。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-mit-01"
+        },
+        {
           "id": "gre-disparage",
           "en": "disparage",
           "zh": "貶低；抨擊",
@@ -13607,6 +14263,38 @@
           "lookalikes": "",
           "sources": "救命800",
           "detailed": true
+        },
+        {
+          "id": "gre-disrupt",
+          "en": "disrupt",
+          "zh": "擾亂；使中斷",
+          "endef": "擾亂；使中斷",
+          "exampleEn": "New tools disrupt old workflows—and old hierarchies.",
+          "example": "New tools disrupt old workflows—and old hierarchies. （擾亂；使中斷）",
+          "exampleUsage": "新工具擾亂舊流程——以及舊階層。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-rupt-01"
+        },
+        {
+          "id": "gre-disruptive",
+          "en": "disruptive",
+          "zh": "破壞性的；顛覆式的",
+          "endef": "破壞性的；顛覆式的",
+          "exampleEn": "Disruptive claims need stronger evidence, not louder ads.",
+          "example": "Disruptive claims need stronger evidence, not louder ads. （破壞性的；顛覆式的）",
+          "exampleUsage": "顛覆式宣稱需要更強證據，而非更大聲廣告。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-rupt-01"
         },
         {
           "id": "gre-dissect",
@@ -13847,6 +14535,22 @@
           "lookalikes": "",
           "sources": "救命800",
           "detailed": true
+        },
+        {
+          "id": "gre-distract",
+          "en": "distract",
+          "zh": "使分心；干擾",
+          "endef": "使分心；干擾",
+          "exampleEn": "Irrelevant details distract from the main claim.",
+          "example": "Irrelevant details distract from the main claim. （使分心；干擾）",
+          "exampleUsage": "無關細節會把人從主論點拉開。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-tract-01"
         },
         {
           "id": "gre-distrait",
@@ -14479,6 +15183,22 @@
           "detailed": true
         },
         {
+          "id": "gre-ductile",
+          "en": "ductile",
+          "zh": "可塑的；易導引成形的",
+          "endef": "可塑的；易導引成形的",
+          "exampleEn": "Ductile institutions adapt without breaking.",
+          "example": "Ductile institutions adapt without breaking. （可塑的；易導引成形的）",
+          "exampleUsage": "具延展性的制度能適應而不破裂。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-duc-01"
+        },
+        {
           "id": "gre-dulcet",
           "en": "dulcet",
           "zh": "悅耳的｜教學補註：extremely pleasant in a gentle way",
@@ -14558,7 +15278,7 @@
     {
       "letter": "E",
       "slug": "e",
-      "wordCount": 219,
+      "wordCount": 226,
       "words": [
         {
           "id": "gre-earnest",
@@ -14906,6 +15626,22 @@
           "detailed": true
         },
         {
+          "id": "gre-egress",
+          "en": "egress",
+          "zh": "出口；外出",
+          "endef": "出口；外出",
+          "exampleEn": "Clear egress routes are part of lab safety.",
+          "example": "Clear egress routes are part of lab safety. （出口；外出）",
+          "exampleUsage": "清楚的出口動線是實驗室安全的一部分。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-gress-01"
+        },
+        {
           "id": "gre-eidetic",
           "en": "eidetic",
           "zh": "異常清晰的",
@@ -14919,6 +15655,22 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-eject",
+          "en": "eject",
+          "zh": "彈出；驅逐",
+          "endef": "彈出；驅逐",
+          "exampleEn": "Security ejected disruptors from the hall.",
+          "example": "Security ejected disruptors from the hall. （彈出；驅逐）",
+          "exampleUsage": "保全把搗亂者驅離會場。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-ject-01"
         },
         {
           "id": "gre-elate",
@@ -15099,6 +15851,22 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-eloquent",
+          "en": "eloquent",
+          "zh": "雄辯的；有說服力的",
+          "endef": "雄辯的；有說服力的",
+          "exampleEn": "An eloquent summary still needs citations.",
+          "example": "An eloquent summary still needs citations. （雄辯的；有說服力的）",
+          "exampleUsage": "再雄辯的摘要仍需要引用。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-loqu-01"
         },
         {
           "id": "gre-elucidate",
@@ -16316,6 +17084,22 @@
           "detailed": true
         },
         {
+          "id": "gre-equivocal",
+          "en": "equivocal",
+          "zh": "模稜兩可的",
+          "endef": "模稜兩可的",
+          "exampleEn": "An equivocal answer delayed the decision.",
+          "example": "An equivocal answer delayed the decision. （模稜兩可的）",
+          "exampleUsage": "模稜兩可的回答拖延了決定。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-voc-01"
+        },
+        {
           "id": "gre-equivocate",
           "en": "equivocate",
           "zh": "模棱兩可｜教學補註：be deliberately ambiguous or unclear in order to mislead or withhold information",
@@ -16449,6 +17233,22 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-eruption",
+          "en": "eruption",
+          "zh": "爆發；噴發",
+          "endef": "爆發；噴發",
+          "exampleEn": "The eruption of outrage was predictable.",
+          "example": "The eruption of outrage was predictable. （爆發；噴發）",
+          "exampleUsage": "憤怒的爆發其實可預期。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-rupt-01"
         },
         {
           "id": "gre-escalate",
@@ -16856,6 +17656,22 @@
           "detailed": true
         },
         {
+          "id": "gre-evoke",
+          "en": "evoke",
+          "zh": "喚起（情感／記憶）",
+          "endef": "喚起（情感／記憶）",
+          "exampleEn": "The passage evokes a sense of irreversible loss.",
+          "example": "The passage evokes a sense of irreversible loss. （喚起（情感／記憶））",
+          "exampleUsage": "這段文字喚起一種不可逆的失落感。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "rhyme-eak-01"
+        },
+        {
           "id": "gre-exacerbate",
           "en": "exacerbate",
           "zh": "v. 使惡化｜教學補註：to worsen",
@@ -17004,6 +17820,22 @@
           "lookalikes": "",
           "sources": "複習詞、紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-exclude",
+          "en": "exclude",
+          "zh": "排除；拒絕納入",
+          "endef": "排除；拒絕納入",
+          "exampleEn": "The sample excluded outliers above three standard deviations.",
+          "example": "The sample excluded outliers above three standard deviations. （排除；拒絕納入）",
+          "exampleUsage": "樣本排除了三個標準差以上的極端值。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-clud-01"
         },
         {
           "id": "gre-excogitate",
@@ -17850,7 +18682,7 @@
     {
       "letter": "F",
       "slug": "f",
-      "wordCount": 156,
+      "wordCount": 158,
       "words": [
         {
           "id": "gre-fabric",
@@ -18181,6 +19013,22 @@
           "lookalikes": "",
           "sources": "GRE3000、複習詞、紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-fawn",
+          "en": "fawn",
+          "zh": "巴結；奉承",
+          "endef": "巴結；奉承",
+          "exampleEn": "Junior analysts should not fawn over every fashion in theory.",
+          "example": "Junior analysts should not fawn over every fashion in theory. （巴結；奉承）",
+          "exampleUsage": "初級分析師不該對每個理論時尚巴結奉承。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "sem-flattery-01"
         },
         {
           "id": "gre-faze",
@@ -18871,6 +19719,22 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-fledge",
+          "en": "fledge",
+          "zh": "長羽毛；羽翼漸豐",
+          "endef": "長羽毛；羽翼漸豐",
+          "exampleEn": "The fledgling idea needs time to fledge into a policy.",
+          "example": "The fledgling idea needs time to fledge into a policy. （長羽毛；羽翼漸豐）",
+          "exampleUsage": "這個雛形想法需要時間羽翼漸豐成政策。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "rhyme-edge-01"
         },
         {
           "id": "gre-fleece",
@@ -20197,7 +21061,7 @@
     {
       "letter": "G",
       "slug": "g",
-      "wordCount": 118,
+      "wordCount": 120,
       "words": [
         {
           "id": "gre-gabble",
@@ -20273,6 +21137,22 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-gallant",
+          "en": "gallant",
+          "zh": "英勇的；殷勤瀟灑的",
+          "endef": "英勇的；殷勤瀟灑的",
+          "exampleEn": "A gallant defense of an unpopular thesis can still persuade.",
+          "example": "A gallant defense of an unpopular thesis can still persuade. （英勇的；殷勤瀟灑的）",
+          "exampleUsage": "為不受歡迎論點作英勇辯護仍可能說服人。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "rhyme-ant-01"
         },
         {
           "id": "gre-gambol",
@@ -21173,6 +22053,22 @@
           "lookalikes": "",
           "sources": "填空1300",
           "detailed": true
+        },
+        {
+          "id": "gre-grandiloquent",
+          "en": "grandiloquent",
+          "zh": "誇大其詞的",
+          "endef": "誇大其詞的",
+          "exampleEn": "Grandiloquent promises outran the budget.",
+          "example": "Grandiloquent promises outran the budget. （誇大其詞的）",
+          "exampleUsage": "誇大承諾超越了預算。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-loqu-01"
         },
         {
           "id": "gre-grandiose",
@@ -23631,7 +24527,7 @@
     {
       "letter": "I",
       "slug": "i",
-      "wordCount": 235,
+      "wordCount": 244,
       "words": [
         {
           "id": "gre-icicle",
@@ -23662,6 +24558,22 @@
           "lookalikes": "",
           "sources": "複習詞、紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-ideology",
+          "en": "ideology",
+          "zh": "意識形態",
+          "endef": "意識形態",
+          "exampleEn": "Ideology can script which analogies feel natural.",
+          "example": "Ideology can script which analogies feel natural. （意識形態）",
+          "exampleUsage": "意識形態會編排哪些類比顯得自然。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-loqu-01"
         },
         {
           "id": "gre-idiomatic",
@@ -25059,6 +25971,38 @@
           "detailed": true
         },
         {
+          "id": "gre-incredible",
+          "en": "incredible",
+          "zh": "難以置信的",
+          "endef": "難以置信的",
+          "exampleEn": "Incredible claims require extraordinary evidence.",
+          "example": "Incredible claims require extraordinary evidence. （難以置信的）",
+          "exampleUsage": "難以置信的宣稱需要非凡證據。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-cred-01"
+        },
+        {
+          "id": "gre-incredulous",
+          "en": "incredulous",
+          "zh": "懷疑的；不相信的",
+          "endef": "懷疑的；不相信的",
+          "exampleEn": "Experts remained incredulous about the miracle cure.",
+          "example": "Experts remained incredulous about the miracle cure. （懷疑的；不相信的）",
+          "exampleUsage": "專家對奇蹟療法仍表懷疑。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-cred-01"
+        },
+        {
           "id": "gre-incriminate",
           "en": "incriminate",
           "zh": "牽連｜教學補註：suggest that someone is guilty",
@@ -25402,6 +26346,22 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-induce",
+          "en": "induce",
+          "zh": "引起；勸誘；歸納",
+          "endef": "引起；勸誘；歸納",
+          "exampleEn": "The stimulus may induce a temporary bias.",
+          "example": "The stimulus may induce a temporary bias. （引起；勸誘；歸納）",
+          "exampleUsage": "該刺激可能引起暫時偏差。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-duc-01"
         },
         {
           "id": "gre-induct",
@@ -26274,6 +27234,22 @@
           "detailed": true
         },
         {
+          "id": "gre-inspect",
+          "en": "inspect",
+          "zh": "檢查；審視",
+          "endef": "檢查；審視",
+          "exampleEn": "Peer reviewers inspect methods before results.",
+          "example": "Peer reviewers inspect methods before results. （檢查；審視）",
+          "exampleUsage": "同儕審查者先審視方法再看結果。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-spect-01"
+        },
+        {
           "id": "gre-inspissate",
           "en": "inspissate",
           "zh": "濃縮｜教學補註：make viscous or dense",
@@ -26467,6 +27443,22 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-interject",
+          "en": "interject",
+          "zh": "突然插話",
+          "endef": "突然插話",
+          "exampleEn": "Please do not interject until the claim is finished.",
+          "example": "Please do not interject until the claim is finished. （突然插話）",
+          "exampleUsage": "請等論點說完再插話。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-ject-01"
         },
         {
           "id": "gre-interlace",
@@ -26664,6 +27656,22 @@
           "detailed": true
         },
         {
+          "id": "gre-intractable",
+          "en": "intractable",
+          "zh": "難駕馭的；棘手的",
+          "endef": "難駕馭的；棘手的",
+          "exampleEn": "Poverty remains an intractable policy challenge.",
+          "example": "Poverty remains an intractable policy challenge. （難駕馭的；棘手的）",
+          "exampleUsage": "貧困仍是棘手的政策挑戰。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-tract-01"
+        },
+        {
           "id": "gre-intransigent",
           "en": "intransigent",
           "zh": "不妥協的；固執的",
@@ -26737,6 +27745,22 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-introvert",
+          "en": "introvert",
+          "zh": "內向者；使內轉",
+          "endef": "內向者；使內轉",
+          "exampleEn": "An introvert may still lead through careful writing.",
+          "example": "An introvert may still lead through careful writing. （內向者；使內轉）",
+          "exampleUsage": "內向者仍可透過審慎寫作領導。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-vert-01"
         },
         {
           "id": "gre-intrude",
@@ -27142,6 +28166,22 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-irruption",
+          "en": "irruption",
+          "zh": "突然侵入；湧入",
+          "endef": "突然侵入；湧入",
+          "exampleEn": "An irruption of cases overwhelmed the clinic model.",
+          "example": "An irruption of cases overwhelmed the clinic model. （突然侵入；湧入）",
+          "exampleUsage": "病例突然湧入壓垮了診所模型。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-rupt-01"
         },
         {
           "id": "gre-itinerant",
@@ -27687,7 +28727,7 @@
     {
       "letter": "L",
       "slug": "l",
-      "wordCount": 96,
+      "wordCount": 98,
       "words": [
         {
           "id": "gre-labile",
@@ -28768,6 +29808,38 @@
           "lookalikes": "",
           "sources": "救命800",
           "detailed": true
+        },
+        {
+          "id": "gre-loquacious",
+          "en": "loquacious",
+          "zh": "話多的；滔滔不絕的",
+          "endef": "話多的；滔滔不絕的",
+          "exampleEn": "A loquacious narrator can bury the plot.",
+          "example": "A loquacious narrator can bury the plot. （話多的；滔滔不絕的）",
+          "exampleUsage": "滔滔不絕的敘事者可能把情節埋掉。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "sem-talk-01"
+        },
+        {
+          "id": "gre-loquacity",
+          "en": "loquacity",
+          "zh": "話多；健談（偏多話）",
+          "endef": "話多；健談（偏多話）",
+          "exampleEn": "Loquacity is not the same as clarity.",
+          "example": "Loquacity is not the same as clarity. （話多；健談（偏多話））",
+          "exampleUsage": "話多不等於清楚。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-loqu-01"
         },
         {
           "id": "gre-lore",
@@ -32478,7 +33550,7 @@
     {
       "letter": "O",
       "slug": "o",
-      "wordCount": 106,
+      "wordCount": 107,
       "words": [
         {
           "id": "gre-obdurate",
@@ -33154,6 +34226,22 @@
           "lookalikes": "ominous 凶兆的 ｜ auspicious 吉利的；有利的 ｜ propitious 吉利的；適當的",
           "sources": "GRE3000、紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-omission",
+          "en": "omission",
+          "zh": "遺漏；省略",
+          "endef": "遺漏；省略",
+          "exampleEn": "The omission of a control group weakens inference.",
+          "example": "The omission of a control group weakens inference. （遺漏；省略）",
+          "exampleUsage": "遺漏對照組削弱了推論。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-mit-01"
         },
         {
           "id": "gre-omnipotent",
@@ -34075,7 +35163,7 @@
     {
       "letter": "P",
       "slug": "p",
-      "wordCount": 383,
+      "wordCount": 392,
       "words": [
         {
           "id": "gre-pacify",
@@ -34813,6 +35901,22 @@
           "detailed": true
         },
         {
+          "id": "gre-pathogen",
+          "en": "pathogen",
+          "zh": "病原體",
+          "endef": "病原體",
+          "exampleEn": "The model treats misinformation like a pathogen.",
+          "example": "The model treats misinformation like a pathogen. （病原體）",
+          "exampleUsage": "該模型把錯誤訊息當成病原體。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-path-01"
+        },
+        {
           "id": "gre-pathological",
           "en": "pathological",
           "zh": "adj. 病態的｜教學補註：markedly abnormal and unable to control feelings",
@@ -34841,6 +35945,22 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-pathos",
+          "en": "pathos",
+          "zh": "悲愴力；同情的感染",
+          "endef": "悲愴力；同情的感染",
+          "exampleEn": "The speech relied more on pathos than on proof.",
+          "example": "The speech relied more on pathos than on proof. （悲愴力；同情的感染）",
+          "exampleUsage": "演說更依賴悲愴感染而非證據。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-path-01"
         },
         {
           "id": "gre-patriarchal",
@@ -37633,6 +38753,22 @@
           "detailed": true
         },
         {
+          "id": "gre-precede",
+          "en": "precede",
+          "zh": "先於；領先",
+          "endef": "先於；領先",
+          "exampleEn": "Definitions should precede measurement choices.",
+          "example": "Definitions should precede measurement choices. （先於；領先）",
+          "exampleUsage": "定義應先於測量選擇。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-ced-01"
+        },
+        {
           "id": "gre-precept",
           "en": "precept",
           "zh": "規則；格言",
@@ -37721,6 +38857,22 @@
           "lookalikes": "",
           "sources": "複習詞、紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-predecessor",
+          "en": "predecessor",
+          "zh": "前任；前身",
+          "endef": "前任；前身",
+          "exampleEn": "Our method improves on its predecessor.",
+          "example": "Our method improves on its predecessor. （前任；前身）",
+          "exampleUsage": "我們的方法改進了其前身。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-ced-01"
         },
         {
           "id": "gre-predicament",
@@ -38368,6 +39520,22 @@
           "detailed": true
         },
         {
+          "id": "gre-proceed",
+          "en": "proceed",
+          "zh": "繼續進行",
+          "endef": "繼續進行",
+          "exampleEn": "We may proceed only after consent is recorded.",
+          "example": "We may proceed only after consent is recorded. （繼續進行）",
+          "exampleUsage": "唯有記錄同意後才可繼續。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-ced-01"
+        },
+        {
           "id": "gre-proceeds",
           "en": "proceeds",
           "zh": "收入｜教學補註：the income or profit arising from such transactions as the sale of land or ot...",
@@ -38651,6 +39819,22 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-projectile",
+          "en": "projectile",
+          "zh": "拋射物",
+          "endef": "拋射物",
+          "exampleEn": "A metaphor can become a rhetorical projectile.",
+          "example": "A metaphor can become a rhetorical projectile. （拋射物）",
+          "exampleUsage": "隱喻可能變成修辭拋射物。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-ject-01"
         },
         {
           "id": "gre-proliferate",
@@ -39043,6 +40227,22 @@
           "detailed": true
         },
         {
+          "id": "gre-prospect",
+          "en": "prospect",
+          "zh": "前景；預期；探勘",
+          "endef": "前景；預期；探勘",
+          "exampleEn": "The prospect of replication motivated caution.",
+          "example": "The prospect of replication motivated caution. （前景；預期；探勘）",
+          "exampleUsage": "可複現的前景促使人們謹慎。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-spect-01"
+        },
+        {
           "id": "gre-prostrate",
           "en": "prostrate",
           "zh": "v. 使衰竭｜教學補註：to reduce to extreme weakness or incapacitation",
@@ -39101,6 +40301,22 @@
           "lookalikes": "",
           "sources": "救命800",
           "detailed": true
+        },
+        {
+          "id": "gre-protract",
+          "en": "protract",
+          "zh": "延長；拖延",
+          "endef": "延長；拖延",
+          "exampleEn": "They protracted negotiations to exhaust the other side.",
+          "example": "They protracted negotiations to exhaust the other side. （延長；拖延）",
+          "exampleUsage": "他們拖延談判以消耗對方。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-tract-01"
         },
         {
           "id": "gre-proturberance",
@@ -39266,6 +40482,22 @@
           "lookalikes": "",
           "sources": "救命800",
           "detailed": true
+        },
+        {
+          "id": "gre-provoke",
+          "en": "provoke",
+          "zh": "激怒；激起",
+          "endef": "激怒；激起",
+          "exampleEn": "The remark was meant to provoke a reaction, not illuminate.",
+          "example": "The remark was meant to provoke a reaction, not illuminate. （激怒；激起）",
+          "exampleUsage": "那句話意在激起反應，而非澄清。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-voc-01"
         },
         {
           "id": "gre-prowess",
@@ -40179,7 +41411,7 @@
     {
       "letter": "R",
       "slug": "r",
-      "wordCount": 241,
+      "wordCount": 244,
       "words": [
         {
           "id": "gre-rabid",
@@ -40870,6 +42102,22 @@
           "lookalikes": "",
           "sources": "填空1300",
           "detailed": true
+        },
+        {
+          "id": "gre-recede",
+          "en": "recede",
+          "zh": "後退；減退",
+          "endef": "後退；減退",
+          "exampleEn": "As noise recedes, the signal becomes clearer.",
+          "example": "As noise recedes, the signal becomes clearer. （後退；減退）",
+          "exampleUsage": "噪音減退後，訊號更清楚。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-ced-01"
         },
         {
           "id": "gre-receptive",
@@ -42942,6 +44190,38 @@
           "detailed": true
         },
         {
+          "id": "gre-retrograde",
+          "en": "retrograde",
+          "zh": "倒退的；逆向的",
+          "endef": "倒退的；逆向的",
+          "exampleEn": "The policy looks retrograde by current standards.",
+          "example": "The policy looks retrograde by current standards. （倒退的；逆向的）",
+          "exampleUsage": "以現行標準看，該政策顯得倒退。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-gress-01"
+        },
+        {
+          "id": "gre-retrospect",
+          "en": "retrospect",
+          "zh": "回顧",
+          "endef": "回顧",
+          "exampleEn": "In retrospect, the warning signs were clear.",
+          "example": "In retrospect, the warning signs were clear. （回顧）",
+          "exampleUsage": "事後回顧，警訊其實很清楚。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-spect-01"
+        },
+        {
           "id": "gre-revel",
           "en": "revel",
           "zh": "v. 陶醉｜教學補註：to take intense pleasure or satisfaction",
@@ -43801,7 +45081,7 @@
     {
       "letter": "S",
       "slug": "s",
-      "wordCount": 484,
+      "wordCount": 490,
       "words": [
         {
           "id": "gre-sabotage",
@@ -45124,6 +46404,22 @@
           "detailed": true
         },
         {
+          "id": "gre-secede",
+          "en": "secede",
+          "zh": "退出；分離",
+          "endef": "退出；分離",
+          "exampleEn": "A faction threatened to secede from the coalition.",
+          "example": "A faction threatened to secede from the coalition. （退出；分離）",
+          "exampleUsage": "某派系威脅退出聯盟。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-ced-01"
+        },
+        {
           "id": "gre-seclude",
           "en": "seclude",
           "zh": "獨居的；獨處的",
@@ -45272,6 +46568,22 @@
           "lookalikes": "seditious 煽動性的 -seduce ｜ sedulous 勤奮的周到的 ｜ sedentary 久坐的，不活動的 ｜ sententious 簡潔的，愛說教的",
           "sources": "填空1300",
           "detailed": true
+        },
+        {
+          "id": "gre-seduce",
+          "en": "seduce",
+          "zh": "引誘；誘惑",
+          "endef": "引誘；誘惑",
+          "exampleEn": "Elegant prose can seduce readers past weak evidence.",
+          "example": "Elegant prose can seduce readers past weak evidence. （引誘；誘惑）",
+          "exampleUsage": "優美文筆可能誘使讀者略過薄弱證據。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-duc-01"
         },
         {
           "id": "gre-seductive",
@@ -47884,6 +49196,22 @@
           "detailed": true
         },
         {
+          "id": "gre-spectacle",
+          "en": "spectacle",
+          "zh": "景象；壯觀場面",
+          "endef": "景象；壯觀場面",
+          "exampleEn": "Media spectacle can replace sober analysis.",
+          "example": "Media spectacle can replace sober analysis. （景象；壯觀場面）",
+          "exampleUsage": "媒體奇觀可能取代冷靜分析。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-spect-01"
+        },
+        {
           "id": "gre-spectacular",
           "en": "spectacular",
           "zh": "壯觀的｜教學補註：a lavishly produced performance",
@@ -47899,6 +49227,22 @@
           "detailed": true
         },
         {
+          "id": "gre-spectator",
+          "en": "spectator",
+          "zh": "旁觀者",
+          "endef": "旁觀者",
+          "exampleEn": "Democracy suffers when citizens remain spectators.",
+          "example": "Democracy suffers when citizens remain spectators. （旁觀者）",
+          "exampleUsage": "公民若只當旁觀者，民主會受損。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-spect-01"
+        },
+        {
           "id": "gre-specter",
           "en": "specter",
           "zh": "鬼魂｜教學補註：a mental representation of some haunting experience",
@@ -47912,6 +49256,22 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-spectrum",
+          "en": "spectrum",
+          "zh": "光譜；範圍",
+          "endef": "光譜；範圍",
+          "exampleEn": "Opinions fall across a wide spectrum.",
+          "example": "Opinions fall across a wide spectrum. （光譜；範圍）",
+          "exampleUsage": "意見落在寬廣光譜上。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-spect-01"
         },
         {
           "id": "gre-speculate",
@@ -50044,6 +51404,22 @@
           "detailed": true
         },
         {
+          "id": "gre-subvert",
+          "en": "subvert",
+          "zh": "顛覆；暗中破壞",
+          "endef": "顛覆；暗中破壞",
+          "exampleEn": "Satire can subvert official narratives without direct attack.",
+          "example": "Satire can subvert official narratives without direct attack. （顛覆；暗中破壞）",
+          "exampleUsage": "諷刺能在不直接攻擊下顛覆官方敘事。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-vert-01"
+        },
+        {
           "id": "gre-succinct",
           "en": "succinct",
           "zh": "簡潔的｜教學補註：briefly giving the gist of something",
@@ -51068,7 +52444,7 @@
     {
       "letter": "T",
       "slug": "t",
-      "wordCount": 173,
+      "wordCount": 177,
       "words": [
         {
           "id": "gre-table",
@@ -52496,6 +53872,22 @@
           "detailed": true
         },
         {
+          "id": "gre-torment",
+          "en": "torment",
+          "zh": "折磨；苦惱",
+          "endef": "折磨；苦惱",
+          "exampleEn": "Doubt continued to torment the researchers.",
+          "example": "Doubt continued to torment the researchers. （折磨；苦惱）",
+          "exampleUsage": "疑慮持續折磨研究人員。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-tort-01"
+        },
+        {
           "id": "gre-torpid",
           "en": "torpid",
           "zh": "遲鈍的；懶散的；麻木的",
@@ -52631,6 +54023,22 @@
           "detailed": true
         },
         {
+          "id": "gre-tractable",
+          "en": "tractable",
+          "zh": "易駕馭的；溫順的；易處理的",
+          "endef": "易駕馭的；溫順的；易處理的",
+          "exampleEn": "The problem looks more tractable after we define terms.",
+          "example": "The problem looks more tractable after we define terms. （易駕馭的；溫順的；易處理的）",
+          "exampleUsage": "定義術語後，問題顯得更好處理。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-tract-01"
+        },
+        {
           "id": "gre-traction",
           "en": "traction",
           "zh": "牽引｜教學補註：the friction between a body and the surface on which it moves (as between an ...",
@@ -52674,6 +54082,22 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-trajectory",
+          "en": "trajectory",
+          "zh": "軌道；軌跡",
+          "endef": "軌道；軌跡",
+          "exampleEn": "Career trajectory is not destiny.",
+          "example": "Career trajectory is not destiny. （軌道；軌跡）",
+          "exampleUsage": "職涯軌跡不是命運。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-ject-01"
         },
         {
           "id": "gre-trammel",
@@ -52839,6 +54263,22 @@
           "lookalikes": "",
           "sources": "複習詞、紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-transmit",
+          "en": "transmit",
+          "zh": "傳送；傳播",
+          "endef": "傳送；傳播",
+          "exampleEn": "Rumors transmit faster than corrections.",
+          "example": "Rumors transmit faster than corrections. （傳送；傳播）",
+          "exampleUsage": "謠言比澄清傳得更快。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-mit-01"
         },
         {
           "id": "gre-transmute",
@@ -53670,7 +55110,7 @@
     {
       "letter": "U",
       "slug": "u",
-      "wordCount": 94,
+      "wordCount": 95,
       "words": [
         {
           "id": "gre-ubiquitous",
@@ -54453,6 +55893,22 @@
           "detailed": true
         },
         {
+          "id": "gre-unprecedented",
+          "en": "unprecedented",
+          "zh": "前所未有的",
+          "endef": "前所未有的",
+          "exampleEn": "Unprecedented scale requires new safeguards.",
+          "example": "Unprecedented scale requires new safeguards. （前所未有的）",
+          "exampleUsage": "前所未有的規模需要新防護。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-ced-01"
+        },
+        {
           "id": "gre-unpremeditated",
           "en": "unpremeditated",
           "zh": "無意的；偶然的",
@@ -55087,7 +56543,7 @@
     {
       "letter": "V",
       "slug": "v",
-      "wordCount": 115,
+      "wordCount": 117,
       "words": [
         {
           "id": "gre-vaciliate",
@@ -55900,6 +57356,22 @@
           "detailed": true
         },
         {
+          "id": "gre-versatile",
+          "en": "versatile",
+          "zh": "多才多藝的；用途多的",
+          "endef": "多才多藝的；用途多的",
+          "exampleEn": "A versatile method travels across disciplines.",
+          "example": "A versatile method travels across disciplines. （多才多藝的；用途多的）",
+          "exampleUsage": "多用途方法能跨領域旅行。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-vert-01"
+        },
+        {
           "id": "gre-verse",
           "en": "verse",
           "zh": "詩歌｜教學補註：literature in metrical form",
@@ -56063,6 +57535,22 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-viaduct",
+          "en": "viaduct",
+          "zh": "高架橋",
+          "endef": "高架橋",
+          "exampleEn": "A viaduct of citations connected distant fields.",
+          "example": "A viaduct of citations connected distant fields. （高架橋）",
+          "exampleUsage": "一座引文高架橋連接了遙遠領域。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-duc-01"
         },
         {
           "id": "gre-vicariouos",
@@ -56819,7 +58307,7 @@
     {
       "letter": "W",
       "slug": "w",
-      "wordCount": 57,
+      "wordCount": 58,
       "words": [
         {
           "id": "gre-wacky",
@@ -57617,6 +59105,22 @@
           "detailed": true
         },
         {
+          "id": "gre-wreak",
+          "en": "wreak",
+          "zh": "造成（破壞）；發洩",
+          "endef": "造成（破壞）；發洩",
+          "exampleEn": "The storm wreaked havoc on coastal towns.",
+          "example": "The storm wreaked havoc on coastal towns. （造成（破壞）；發洩）",
+          "exampleUsage": "暴風雨對沿海城鎮造成浩劫。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "rhyme-eak-01"
+        },
+        {
           "id": "gre-wretched",
           "en": "wretched",
           "zh": "可憐的；卑鄙的",
@@ -57849,5 +59353,10 @@
         }
       ]
     }
-  ]
+  ],
+  "humorSync": {
+    "stage": "S3a",
+    "syncedAt": "2026-10-18T16:04:02.226Z",
+    "addedFromHumor": 94
+  }
 }

@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "eloquent",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "雄辯的；有說服力的",
       "roleInScript": "漂亮地說",
       "humorDevice": "morphology",
@@ -19,7 +19,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "colloquial",
@@ -33,7 +34,8 @@
       "related": {
         "synonyms": "conversational",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "soliloquy",
@@ -47,11 +49,12 @@
       "related": {
         "synonyms": "monologue",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "grandiloquent",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "誇大其詞的",
       "roleInScript": "說得太大聲太空",
       "humorDevice": "morphology",
@@ -61,7 +64,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "logic",
@@ -75,11 +79,13 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "analogy",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "類比",
       "roleInScript": "用相似物來說",
       "humorDevice": "morphology",
@@ -89,7 +95,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "eulogy",
@@ -103,7 +110,8 @@
       "related": {
         "synonyms": "eulogium, encomium, panegyric, paean, pean",
         "antonyms": "invective, condemnation"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "prologue",
@@ -117,11 +125,13 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "loquacity",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "話多；健談（偏多話）",
       "roleInScript": "說個不停的量",
       "humorDevice": "morphology",
@@ -131,7 +141,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "elocution",
@@ -145,11 +156,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "ideology",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "意識形態",
       "roleInScript": "一套說理系統",
       "humorDevice": "story",
@@ -159,7 +171,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     }
   ],
   "reviewHooks": [
