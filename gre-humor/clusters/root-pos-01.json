@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "propose",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "提議",
       "roleInScript": "放上桌",
       "humorDevice": "morphology",
@@ -19,11 +19,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "impose",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "強加",
       "roleInScript": "硬放上去",
       "humorDevice": "morphology",
@@ -33,11 +34,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "compose",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "組成；撰寫",
       "roleInScript": "組裝放置",
       "humorDevice": "morphology",
@@ -47,11 +49,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "dispose",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "處置；使傾向",
       "roleInScript": "安排去向",
       "humorDevice": "morphology",
@@ -61,11 +64,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "expose",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "揭露",
       "roleInScript": "揭開來放",
       "humorDevice": "morphology",
@@ -75,11 +79,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "oppose",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "反對",
       "roleInScript": "放在對面",
       "humorDevice": "morphology",
@@ -89,11 +94,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "postpone",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "延期",
       "roleInScript": "往後放",
       "humorDevice": "morphology",
@@ -103,11 +109,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "component",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "組成部分",
       "roleInScript": "零件",
       "humorDevice": "morphology",
@@ -117,11 +124,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "positive",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "正面的；陽性的",
       "roleInScript": "明確放下肯定",
       "humorDevice": "story",
@@ -131,11 +139,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "deposit",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "存放；訂金",
       "roleInScript": "存放到層裡",
       "humorDevice": "morphology",
@@ -145,7 +154,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "juxtapose",
@@ -159,11 +169,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "repository",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "儲庫",
       "roleInScript": "久放之處",
       "humorDevice": "story",
@@ -173,7 +184,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "proposition",
@@ -187,7 +199,8 @@
       "related": {
         "synonyms": "suggestion, proffer, proposal",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "superimpose",
@@ -201,11 +214,12 @@
       "related": {
         "synonyms": "superpose",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "exponent",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "倡導者；指數",
       "roleInScript": "放在外面倡導",
       "humorDevice": "morphology",
@@ -215,7 +229,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     }
   ],
   "reviewHooks": [

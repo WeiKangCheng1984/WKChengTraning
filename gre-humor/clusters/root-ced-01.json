@@ -20,7 +20,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "synced-s3a"
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "proceed",
@@ -35,7 +35,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "synced-s3a"
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "recede",
@@ -50,7 +50,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "synced-s3a"
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "access",
@@ -96,7 +96,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "synced-s3a"
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "excess",
@@ -159,7 +159,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "synced-s3a"
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "unprecedented",
@@ -174,7 +174,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "synced-s3a"
+      "vocabStatus": "in-vocab"
     }
   ],
   "reviewHooks": [

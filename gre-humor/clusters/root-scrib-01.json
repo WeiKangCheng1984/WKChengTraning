@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "describe",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "描述",
       "roleInScript": "描寫出來",
       "humorDevice": "morphology",
@@ -19,11 +19,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "inscribe",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "題寫；銘刻",
       "roleInScript": "寫進去",
       "humorDevice": "morphology",
@@ -33,7 +34,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "proscribe",
@@ -47,7 +49,8 @@
       "related": {
         "synonyms": "forbid, prohibit, interdict, veto, disallow, nix",
         "antonyms": "permit, allow"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "prescribe",
@@ -61,11 +64,12 @@
       "related": {
         "synonyms": "order, dictate",
         "antonyms": "deregulate, disorder, disorderliness"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "script",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "劇本；腳本",
       "roleInScript": "寫好的流程",
       "humorDevice": "story",
@@ -75,11 +79,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "manuscript",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "手稿",
       "roleInScript": "手寫／稿件",
       "humorDevice": "morphology",
@@ -89,11 +94,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "subscribe",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "訂閱；同意署名",
       "roleInScript": "署名附和",
       "humorDevice": "morphology",
@@ -103,7 +109,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "transcribe",
@@ -117,7 +124,8 @@
       "related": {
         "synonyms": "transliterate",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "ascribe",
@@ -131,7 +139,8 @@
       "related": {
         "synonyms": "impute, assign, attribute",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "circumscribe",
@@ -145,7 +154,8 @@
       "related": {
         "synonyms": "confine, limit",
         "antonyms": "expand, free"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "scribble",
@@ -159,7 +169,8 @@
       "related": {
         "synonyms": "scratch, scrawl, cacography, scrabble, doodle",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "conscript",
@@ -173,11 +184,12 @@
       "related": {
         "synonyms": "draftee, inductee",
         "antonyms": "volunteer"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "postscript",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "又及；附言",
       "roleInScript": "正文後再寫",
       "humorDevice": "morphology",
@@ -187,11 +199,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "nondescript",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "無可名狀的；不起眼的",
       "roleInScript": "寫不出特色",
       "humorDevice": "morphology",
@@ -201,11 +214,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "superscript",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "上標",
       "roleInScript": "寫在上面的小字",
       "humorDevice": "story",
@@ -215,7 +229,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     }
   ],
   "reviewHooks": [

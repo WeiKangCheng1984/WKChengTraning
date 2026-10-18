@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "status",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "地位；狀態",
       "roleInScript": "站在哪裡",
       "humorDevice": "morphology",
@@ -19,11 +19,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "statue",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "雕像",
       "roleInScript": "站著的石人",
       "humorDevice": "story",
@@ -33,11 +34,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "constitute",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "構成；設立",
       "roleInScript": "站成整體",
       "humorDevice": "morphology",
@@ -47,11 +49,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "institution",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "制度；機構",
       "roleInScript": "站穩的組織",
       "humorDevice": "morphology",
@@ -61,11 +64,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "substitute",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "代替",
       "roleInScript": "替代站上",
       "humorDevice": "morphology",
@@ -75,7 +79,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "desist",
@@ -89,11 +94,12 @@
       "related": {
         "synonyms": "abstain, refrain",
         "antonyms": "consume"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "persist",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "持續；堅持",
       "roleInScript": "一直站著",
       "humorDevice": "morphology",
@@ -103,11 +109,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "resist",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "抵抗",
       "roleInScript": "站著對抗",
       "humorDevice": "morphology",
@@ -117,11 +124,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "stable",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "穩定的",
       "roleInScript": "站得穩",
       "humorDevice": "morphology",
@@ -131,11 +139,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "stability",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "穩定性",
       "roleInScript": "穩的程度",
       "humorDevice": "morphology",
@@ -145,11 +154,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "establish",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "建立；確立",
       "roleInScript": "站穩根基",
       "humorDevice": "morphology",
@@ -159,11 +169,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "stance",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "立場",
       "roleInScript": "站姿／立場",
       "humorDevice": "morphology",
@@ -173,11 +184,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "obstacle",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "障礙",
       "roleInScript": "擋路的東西",
       "humorDevice": "morphology",
@@ -187,11 +199,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "standard",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "標準",
       "roleInScript": "站立的尺度",
       "humorDevice": "morphology",
@@ -201,11 +214,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "statute",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "成文法",
       "roleInScript": "寫成站穩的法",
       "humorDevice": "lookalike",
@@ -215,7 +229,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     }
   ],
   "reviewHooks": [

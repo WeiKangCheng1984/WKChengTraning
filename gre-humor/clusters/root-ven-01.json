@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "intervene",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "介入",
       "roleInScript": "插進來",
       "humorDevice": "morphology",
@@ -19,7 +19,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "convene",
@@ -33,11 +34,12 @@
       "related": {
         "synonyms": "convoke",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "invent",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "發明",
       "roleInScript": "做出未來之物到來",
       "humorDevice": "morphology",
@@ -47,11 +49,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "prevent",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "防止",
       "roleInScript": "擋住到來",
       "humorDevice": "morphology",
@@ -61,11 +64,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "event",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "事件",
       "roleInScript": "到來發生的事",
       "humorDevice": "story",
@@ -75,11 +79,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "adventure",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "冒險",
       "roleInScript": "大膽前來",
       "humorDevice": "story",
@@ -89,7 +94,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "revenue",
@@ -103,11 +109,12 @@
       "related": {
         "synonyms": "gross, receipts, taxation",
         "antonyms": "net"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "avenue",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "大道；途徑",
       "roleInScript": "可走來的路",
       "humorDevice": "morphology",
@@ -117,11 +124,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "convenient",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "方便的",
       "roleInScript": "來得方便",
       "humorDevice": "morphology",
@@ -131,11 +139,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "venture",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "冒險事業；敢於",
       "roleInScript": "投入前來",
       "humorDevice": "morphology",
@@ -145,7 +154,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "vent",
@@ -159,11 +169,12 @@
       "related": {
         "synonyms": "venthole, vent-hole, blowhole, volcano, release, outlet",
         "antonyms": "block, confine, freeze, hold"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "contravene",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "違反；抵觸",
       "roleInScript": "對撞而來",
       "humorDevice": "morphology",
@@ -173,11 +184,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "intervention",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "介入措施",
       "roleInScript": "介入之物",
       "humorDevice": "morphology",
@@ -187,11 +199,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "prevention",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "預防",
       "roleInScript": "防止體系",
       "humorDevice": "morphology",
@@ -201,11 +214,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "advent",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "到來；來臨",
       "roleInScript": "重要到來",
       "humorDevice": "morphology",
@@ -215,7 +229,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     }
   ],
   "reviewHooks": [

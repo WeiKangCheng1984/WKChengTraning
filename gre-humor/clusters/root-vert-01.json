@@ -65,7 +65,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "synced-s3a"
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "perverse",
@@ -111,7 +111,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "synced-s3a"
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "adverse",
@@ -126,7 +126,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "synced-s3a"
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "anniversary",
@@ -157,7 +157,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "synced-s3a"
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "introvert",
@@ -172,7 +172,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "synced-s3a"
+      "vocabStatus": "in-vocab"
     }
   ],
   "reviewHooks": [

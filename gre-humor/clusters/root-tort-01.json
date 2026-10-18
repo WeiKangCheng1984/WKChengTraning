@@ -80,7 +80,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "synced-s3a"
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "torment",
@@ -95,7 +95,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "synced-s3a"
+      "vocabStatus": "in-vocab"
     }
   ],
   "reviewHooks": [

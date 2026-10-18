@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "captivate",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "迷住；吸引",
       "roleInScript": "抓住目光",
       "humorDevice": "morphology",
@@ -19,11 +19,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "intercept",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "攔截",
       "roleInScript": "中途截走",
       "humorDevice": "morphology",
@@ -33,7 +34,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "susceptible",
@@ -47,11 +49,12 @@
       "related": {
         "synonyms": "endangered, vulnerable",
         "antonyms": "unsusceptible, invulnerable"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "perceive",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "察覺；認為",
       "roleInScript": "接收到知覺",
       "humorDevice": "morphology",
@@ -61,11 +64,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "receive",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "收到",
       "roleInScript": "接下來",
       "humorDevice": "story",
@@ -75,11 +79,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "accept",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "接受",
       "roleInScript": "收下",
       "humorDevice": "morphology",
@@ -89,11 +94,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "except",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "除了；排除",
       "roleInScript": "不拿進來",
       "humorDevice": "morphology",
@@ -103,11 +109,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "concept",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "概念",
       "roleInScript": "一起抓住的想法",
       "humorDevice": "morphology",
@@ -117,11 +124,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "anticipate",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "預期；預先處理",
       "roleInScript": "提前抓住",
       "humorDevice": "morphology",
@@ -131,11 +139,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "participate",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "參與",
       "roleInScript": "分一份去抓",
       "humorDevice": "morphology",
@@ -145,11 +154,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "capable",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "有能力的",
       "roleInScript": "抓得住",
       "humorDevice": "morphology",
@@ -159,11 +169,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "capacity",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "容量；能力",
       "roleInScript": "能裝多少",
       "humorDevice": "morphology",
@@ -173,11 +184,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "capture",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "捕捉；奪取",
       "roleInScript": "抓到",
       "humorDevice": "morphology",
@@ -187,11 +199,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "recipient",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "接受者",
       "roleInScript": "被遞到的人",
       "humorDevice": "morphology",
@@ -201,11 +214,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "emancipate",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "解放",
       "roleInScript": "解開被抓住的鎖",
       "humorDevice": "morphology",
@@ -215,7 +229,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     }
   ],
   "reviewHooks": [

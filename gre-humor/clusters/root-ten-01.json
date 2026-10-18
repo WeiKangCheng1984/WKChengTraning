@@ -19,7 +19,8 @@
       "related": {
         "synonyms": "pertinacious, resolve, steadfast",
         "antonyms": "yielding, irresolute, unretentive, irresoluteness"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "abstain",
@@ -33,11 +34,12 @@
       "related": {
         "synonyms": "forgo, refrain from",
         "antonyms": "indulge, partake, consume, claim, postdate, act"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "retain",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "保留；聘留",
       "roleInScript": "留住",
       "humorDevice": "morphology",
@@ -47,11 +49,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "maintain",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "維持；主張",
       "roleInScript": "維持住",
       "humorDevice": "morphology",
@@ -61,11 +64,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "contain",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "包含；遏制",
       "roleInScript": "裝住",
       "humorDevice": "morphology",
@@ -75,11 +79,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "obtain",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "獲得",
       "roleInScript": "取得",
       "humorDevice": "morphology",
@@ -89,11 +94,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "sustain",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "維持；支撐",
       "roleInScript": "撐住",
       "humorDevice": "morphology",
@@ -103,7 +109,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "pertain",
@@ -117,11 +124,12 @@
       "related": {
         "synonyms": "refer, relate, concern, touch, appertain",
         "antonyms": "dissociate, unconcern"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "tenant",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "承租人",
       "roleInScript": "抓住空間的人",
       "humorDevice": "story",
@@ -131,7 +139,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "tenure",
@@ -145,7 +154,8 @@
       "related": {
         "synonyms": "incumbency",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "tenable",
@@ -159,7 +169,8 @@
       "related": {
         "synonyms": "well-founded",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "untenable",
@@ -173,11 +184,12 @@
       "related": {
         "synonyms": "baseless, groundless, unwarranted",
         "antonyms": "justified, warranted"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "attention",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "注意",
       "roleInScript": "把心抓住",
       "humorDevice": "story",
@@ -187,11 +199,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "continent",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "大陸；克制的（古）",
       "roleInScript": "連成一片握住的地",
       "humorDevice": "story",
@@ -201,11 +214,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "detention",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "拘留；留置",
       "roleInScript": "被抓住關住",
       "humorDevice": "story",
@@ -215,7 +229,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     }
   ],
   "reviewHooks": [

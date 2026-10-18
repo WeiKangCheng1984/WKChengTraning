@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "judge",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "判斷；法官",
       "roleInScript": "下判斷的人",
       "humorDevice": "morphology",
@@ -19,7 +19,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "judicial",
@@ -33,11 +34,12 @@
       "related": {
         "synonyms": "juridical, juridic, discriminative",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "judicious",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "明斷的；審慎的",
       "roleInScript": "判得明智",
       "humorDevice": "morphology",
@@ -47,11 +49,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "prejudice",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "偏見；損害",
       "roleInScript": "預先判了",
       "humorDevice": "morphology",
@@ -61,7 +64,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "adjudicate",
@@ -75,11 +79,12 @@
       "related": {
         "synonyms": "judge, try, decide, settle, resolve",
         "antonyms": "float, irresoluteness"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "jury",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "陪審團",
       "roleInScript": "一群判的人",
       "humorDevice": "story",
@@ -89,11 +94,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "justice",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "正義；司法",
       "roleInScript": "公正之判",
       "humorDevice": "morphology",
@@ -103,11 +109,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "justify",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "證明正當；對齊",
       "roleInScript": "說出為何可判如此",
       "humorDevice": "morphology",
@@ -117,11 +124,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "injustice",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "不義",
       "roleInScript": "錯判的結構",
       "humorDevice": "morphology",
@@ -131,7 +139,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "perjury",
@@ -145,11 +154,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "injury",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "傷害",
       "roleInScript": "被判痛的結果",
       "humorDevice": "morphology",
@@ -159,11 +169,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "juridical",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "法律上的；司法的",
       "roleInScript": "法的面向",
       "humorDevice": "morphology",
@@ -173,11 +184,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "judgment",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "判斷；判決",
       "roleInScript": "判斷本身",
       "humorDevice": "morphology",
@@ -187,11 +199,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "prejudicial",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "有 Harm／偏見的",
       "roleInScript": "會造成預判傷害",
       "humorDevice": "morphology",
@@ -201,11 +214,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "unjust",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "不公正的",
       "roleInScript": "不義的",
       "humorDevice": "morphology",
@@ -215,7 +229,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     }
   ],
   "reviewHooks": [

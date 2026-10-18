@@ -20,7 +20,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "synced-s3a"
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "colloquial",
@@ -65,7 +65,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "synced-s3a"
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "logic",
@@ -96,7 +96,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "synced-s3a"
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "eulogy",
@@ -142,7 +142,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "synced-s3a"
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "elocution",
@@ -172,7 +172,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "synced-s3a"
+      "vocabStatus": "in-vocab"
     }
   ],
   "reviewHooks": [

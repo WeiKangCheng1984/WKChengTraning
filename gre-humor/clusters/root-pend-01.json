@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "pending",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "待決的；直到",
       "roleInScript": "掛著沒定",
       "humorDevice": "morphology",
@@ -19,11 +19,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "suspend",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "暫停；懸吊",
       "roleInScript": "暫時吊起",
       "humorDevice": "morphology",
@@ -33,11 +34,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "depend",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "依賴",
       "roleInScript": "掛靠",
       "humorDevice": "morphology",
@@ -47,11 +49,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "independent",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "獨立的",
       "roleInScript": "不掛靠",
       "humorDevice": "morphology",
@@ -61,11 +64,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "append",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "附加",
       "roleInScript": "掛上去",
       "humorDevice": "morphology",
@@ -75,11 +79,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "appendix",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "附錄；闌尾",
       "roleInScript": "掛在正文後",
       "humorDevice": "morphology",
@@ -89,11 +94,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "compensate",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "補償",
       "roleInScript": "秤平",
       "humorDevice": "morphology",
@@ -103,7 +109,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "dispense",
@@ -117,7 +124,8 @@
       "related": {
         "synonyms": "distribute, administer, deal, lot, allot",
         "antonyms": "gather"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "pensive",
@@ -131,7 +139,8 @@
       "related": {
         "synonyms": "brooding, broody, contemplative, meditative, musing, pondering",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "expenditure",
@@ -145,11 +154,12 @@
       "related": {
         "synonyms": "outgo, spending, outlay, expending, consumption",
         "antonyms": "income"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "pension",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "退休金",
       "roleInScript": "晚年掛帳",
       "humorDevice": "story",
@@ -159,7 +169,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "perpendicular",
@@ -173,7 +184,8 @@
       "related": {
         "synonyms": "English-Gothic, vertical",
         "antonyms": "horizontal, inclined, oblique, parallel"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "impending",
@@ -187,11 +199,12 @@
       "related": {
         "synonyms": "impend, imminent, impendent",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "pendant",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "垂飾；懸著的",
       "roleInScript": "吊飾",
       "humorDevice": "story",
@@ -201,11 +214,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "propensity",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "傾向",
       "roleInScript": "懸向某一邊",
       "humorDevice": "morphology",
@@ -215,7 +229,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     }
   ],
   "reviewHooks": [

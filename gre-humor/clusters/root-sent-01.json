@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "sentiment",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "情緒；意見",
       "roleInScript": "感覺意見",
       "humorDevice": "morphology",
@@ -19,11 +19,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "consent",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "同意；許可",
       "roleInScript": "點頭允許",
       "humorDevice": "morphology",
@@ -33,11 +34,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "sense",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "感官；意義；道理",
       "roleInScript": "感覺／意義",
       "humorDevice": "story",
@@ -47,11 +49,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "sensible",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "明智的；可察覺的",
       "roleInScript": "有道理的感覺",
       "humorDevice": "morphology",
@@ -61,11 +64,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "sensitive",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "敏感的",
       "roleInScript": "易感",
       "humorDevice": "morphology",
@@ -75,11 +79,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "sensory",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "感官的",
       "roleInScript": "感官通道",
       "humorDevice": "morphology",
@@ -89,7 +94,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "resent",
@@ -103,7 +109,8 @@
       "related": {
         "synonyms": "begrudge",
         "antonyms": "wish"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "presentiment",
@@ -117,7 +124,8 @@
       "related": {
         "synonyms": "foreboding, premonition, boding",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "sentinel",
@@ -131,11 +139,12 @@
       "related": {
         "synonyms": "lookout, sentry, watch, spotter, scout, picket",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "consensus",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "共識",
       "roleInScript": "共同感到一致",
       "humorDevice": "morphology",
@@ -145,7 +154,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "sensational",
@@ -159,11 +169,12 @@
       "related": {
         "synonyms": "lurid, daunting",
         "antonyms": "unsensational"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "nonsense",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "胡說",
       "roleInScript": "無意義感覺",
       "humorDevice": "story",
@@ -173,11 +184,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "desensitize",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "使不敏感",
       "roleInScript": "降低感覺",
       "humorDevice": "morphology",
@@ -187,11 +199,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "resentment",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "怨恨",
       "roleInScript": "積累的憤感",
       "humorDevice": "morphology",
@@ -201,11 +214,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "extrasensory",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "超感官的",
       "roleInScript": "感官之外",
       "humorDevice": "morphology",
@@ -215,7 +229,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     }
   ],
   "reviewHooks": [

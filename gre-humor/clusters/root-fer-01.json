@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "transfer",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "轉移；調動",
       "roleInScript": "轉送到另一條帶",
       "humorDevice": "morphology",
@@ -19,11 +19,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "defer",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "延期；順從",
       "roleInScript": "先搬到以後",
       "humorDevice": "morphology",
@@ -33,11 +34,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "prefer",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "更喜歡；寧可",
       "roleInScript": "比較想搬哪邊",
       "humorDevice": "morphology",
@@ -47,7 +49,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "confer",
@@ -61,11 +64,12 @@
       "related": {
         "synonyms": "confabulate, confab, consult, bestow",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "infer",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "推論；推斷",
       "roleInScript": "從線索搬出結論",
       "humorDevice": "morphology",
@@ -75,11 +79,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "refer",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "提及；轉介；參考",
       "roleInScript": "把問題搬去別處",
       "humorDevice": "morphology",
@@ -89,11 +94,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "offer",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "提供；提議",
       "roleInScript": "端上來",
       "humorDevice": "story",
@@ -103,7 +109,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "proffer",
@@ -117,11 +124,12 @@
       "related": {
         "synonyms": "suggestion, proposition, offer",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "fertile",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "肥沃的；多產的",
       "roleInScript": "能產出很多",
       "humorDevice": "morphology",
@@ -131,7 +139,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "proliferate",
@@ -145,11 +154,12 @@
       "related": {
         "synonyms": "abound",
         "antonyms": "decrease, dwindle"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "differ",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "不同；有分歧",
       "roleInScript": "搬成不一樣",
       "humorDevice": "morphology",
@@ -159,11 +169,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "indifferent",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "冷漠的；無所謂的",
       "roleInScript": "不想搬偏好",
       "humorDevice": "morphology",
@@ -173,11 +184,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "suffer",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "遭受；受苦",
       "roleInScript": "被迫扛著搬走",
       "humorDevice": "morphology",
@@ -187,11 +199,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "referendum",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "公投",
       "roleInScript": "把決定搬回給眾人",
       "humorDevice": "story",
@@ -201,11 +214,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "circumference",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "圓周；周邊",
       "roleInScript": "帶著邊界走一圈",
       "humorDevice": "story",
@@ -215,7 +229,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     }
   ],
   "reviewHooks": [

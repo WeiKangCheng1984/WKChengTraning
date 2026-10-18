@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "compel",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "強迫",
       "roleInScript": "強推去做",
       "humorDevice": "morphology",
@@ -19,11 +19,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "expel",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "驅逐；開除",
       "roleInScript": "推出去",
       "humorDevice": "morphology",
@@ -33,7 +34,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "repel",
@@ -47,11 +49,12 @@
       "related": {
         "synonyms": "drive, repulse, rebuff, snub, disgust, revolt",
         "antonyms": "attract"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "impulse",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "衝動；脈衝",
       "roleInScript": "一股推力",
       "humorDevice": "morphology",
@@ -61,7 +64,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "propel",
@@ -75,11 +79,12 @@
       "related": {
         "synonyms": "impel, motivate, actuate, move, prompt, incite",
         "antonyms": "refrain, rest, stand still, stay, stay in place"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "dispel",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "驅散",
       "roleInScript": "推散迷霧",
       "humorDevice": "morphology",
@@ -89,11 +94,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "pulse",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "脈搏；脈衝",
       "roleInScript": "規律推一下",
       "humorDevice": "story",
@@ -103,11 +109,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "compulsory",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "強制的",
       "roleInScript": "非推不可",
       "humorDevice": "morphology",
@@ -117,7 +124,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "expulsion",
@@ -131,7 +139,8 @@
       "related": {
         "synonyms": "ejection, exclusion, riddance, extrusion, projection",
         "antonyms": "inclusion"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "repellent",
@@ -145,7 +154,8 @@
       "related": {
         "synonyms": "off-putting, repulsive",
         "antonyms": "attractive"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "impel",
@@ -159,11 +169,12 @@
       "related": {
         "synonyms": "force, propel",
         "antonyms": "pull, push"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "pulsate",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "搏動",
       "roleInScript": "一下一下推",
       "humorDevice": "morphology",
@@ -173,7 +184,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "propulsion",
@@ -187,7 +199,8 @@
       "related": {
         "synonyms": "actuation",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "repulsion",
@@ -201,7 +214,8 @@
       "related": {
         "synonyms": "repugnance, revulsion, horror, standoff",
         "antonyms": "attraction"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "compulsion",
@@ -215,7 +229,8 @@
       "related": {
         "synonyms": "obsession, coercion",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     }
   ],
   "reviewHooks": [

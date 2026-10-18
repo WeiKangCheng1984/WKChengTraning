@@ -19,11 +19,12 @@
       "related": {
         "synonyms": "eloquent, fluent, silver, silver-tongued, smooth-spoken",
         "antonyms": "inarticulate, tongue-tied"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "benefactor",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "恩人；捐助者",
       "roleInScript": "做好事的人",
       "humorDevice": "morphology",
@@ -33,7 +34,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "malefactor",
@@ -47,11 +49,12 @@
       "related": {
         "synonyms": "criminal, felon, crook, outlaw",
         "antonyms": "decriminalise, decriminalize, legalize"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "manufacture",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "製造；捏造",
       "roleInScript": "工廠產出",
       "humorDevice": "morphology",
@@ -61,11 +64,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "fact",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "事實",
       "roleInScript": "做出來的真東西／已成立者",
       "humorDevice": "story",
@@ -75,7 +79,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "affect",
@@ -89,11 +94,12 @@
       "related": {
         "synonyms": "impact, touch, involve, regard, feign, sham",
         "antonyms": "obviate, disesteem, disrespect, inattentiveness"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "effect",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "結果；效應；使發生",
       "roleInScript": "做出的結果",
       "humorDevice": "morphology",
@@ -103,7 +109,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "defect",
@@ -117,11 +124,12 @@
       "related": {
         "synonyms": "shortcoming, fault, flaw, blemish, mar, desert",
         "antonyms": "absolve, merit"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "perfect",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "完美的；完成",
       "roleInScript": "做完無缺",
       "humorDevice": "morphology",
@@ -131,11 +139,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "efficient",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "有效率的",
       "roleInScript": "少耗能多做事",
       "humorDevice": "morphology",
@@ -145,11 +154,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "proficient",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "熟練的",
       "roleInScript": "做得熟",
       "humorDevice": "morphology",
@@ -159,11 +169,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "sufficient",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "足夠的",
       "roleInScript": "做得夠",
       "humorDevice": "morphology",
@@ -173,11 +184,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "artificial",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "人造的；矯揉的",
       "roleInScript": "人造做出來",
       "humorDevice": "morphology",
@@ -187,11 +199,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "facilitate",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "促進；使容易",
       "roleInScript": "幫忙去做順",
       "humorDevice": "morphology",
@@ -201,11 +214,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "factor",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "因素；因子",
       "roleInScript": "做事的構成件",
       "humorDevice": "morphology",
@@ -215,7 +229,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     }
   ],
   "reviewHooks": [

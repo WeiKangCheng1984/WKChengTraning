@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "lucid",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "清晰的；清醒的",
       "roleInScript": "玻璃窗",
       "humorDevice": "contrast",
@@ -19,11 +19,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "explicit",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "明確的",
       "roleInScript": "寫在外面",
       "humorDevice": "contrast",
@@ -33,7 +34,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "perspicuous",
@@ -47,11 +49,12 @@
       "related": {
         "synonyms": "limpid, lucid, luculent, pellucid",
         "antonyms": "obscure, confused"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "transparent",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "透明的",
       "roleInScript": "可透視",
       "humorDevice": "contrast",
@@ -61,11 +64,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "obscure",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "晦澀的；遮掩",
       "roleInScript": "霧玻璃",
       "humorDevice": "contrast",
@@ -75,11 +79,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "opaque",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "不透明的；難懂的",
       "roleInScript": "墨玻璃",
       "humorDevice": "contrast",
@@ -89,11 +94,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "ambiguous",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "模稜的",
       "roleInScript": "兩種影子",
       "humorDevice": "contrast",
@@ -103,11 +109,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "vague",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "含糊的",
       "roleInScript": "霧",
       "humorDevice": "contrast",
@@ -117,11 +124,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "abstruse",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "深奧難解的",
       "roleInScript": "霧很厚",
       "humorDevice": "contrast",
@@ -131,7 +139,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "recondite",
@@ -145,11 +154,12 @@
       "related": {
         "synonyms": "abstruse, deep",
         "antonyms": "accessible, simple"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "implicit",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "隱含的",
       "roleInScript": "沒寫在外面",
       "humorDevice": "contrast",
@@ -159,7 +169,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "clarity",
@@ -173,11 +184,12 @@
       "related": {
         "synonyms": "lucidity, lucidness, pellucidity, clearness, limpidity, uncloudedness",
         "antonyms": "obscurity, opacity, unclearness"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "nebula",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "星雲（比喻一團霧）",
       "roleInScript": "宇宙霧",
       "humorDevice": "story",
@@ -187,11 +199,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "crystal",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "水晶（比喻清楚）",
       "roleInScript": "結晶清楚",
       "humorDevice": "story",
@@ -201,11 +214,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "muddy",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "混濁的",
       "roleInScript": "泥水",
       "humorDevice": "contrast",
@@ -215,7 +229,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     }
   ],
   "reviewHooks": [

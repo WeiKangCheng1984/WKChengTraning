@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "construct",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "建造；構念",
       "roleInScript": "蓋起來",
       "humorDevice": "morphology",
@@ -19,11 +19,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "instruct",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "指導；指示",
       "roleInScript": "教怎麼蓋",
       "humorDevice": "morphology",
@@ -33,11 +34,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "destroy",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "毀滅",
       "roleInScript": "拆掉",
       "humorDevice": "morphology",
@@ -47,11 +49,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "obstruct",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "阻礙",
       "roleInScript": "擋住工地",
       "humorDevice": "morphology",
@@ -61,11 +64,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "structure",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "結構",
       "roleInScript": "骨架",
       "humorDevice": "morphology",
@@ -75,11 +79,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "infrastructure",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "基礎設施",
       "roleInScript": "地下管線",
       "humorDevice": "morphology",
@@ -89,11 +94,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "reconstruct",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "重建",
       "roleInScript": "再蓋一次",
       "humorDevice": "morphology",
@@ -103,11 +109,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "restructure",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "改組；重整",
       "roleInScript": "改骨架",
       "humorDevice": "morphology",
@@ -117,11 +124,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "construction",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "建造；解釋建構",
       "roleInScript": "構築物",
       "humorDevice": "morphology",
@@ -131,11 +139,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "destructive",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "破壞性的",
       "roleInScript": "會拆毁的",
       "humorDevice": "morphology",
@@ -145,11 +154,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "instructive",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "有啟發的",
       "roleInScript": "教得到東西",
       "humorDevice": "morphology",
@@ -159,7 +169,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "superstructure",
@@ -173,11 +184,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "instrument",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "工具；儀器",
       "roleInScript": "建造用的器具",
       "humorDevice": "morphology",
@@ -187,11 +199,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "obstruction",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "障礙",
       "roleInScript": "阻擋物",
       "humorDevice": "morphology",
@@ -201,11 +214,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "structural",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "結構上的",
       "roleInScript": "骨架層的",
       "humorDevice": "morphology",
@@ -215,7 +229,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     }
   ],
   "reviewHooks": [

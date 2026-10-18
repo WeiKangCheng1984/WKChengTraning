@@ -1,6 +1,6 @@
 {
-  "version": "v0.4-s3b",
-  "status": "stage3b-complete",
+  "version": "v0.3-s3a",
+  "status": "stage3a-complete",
   "uniqueWords": 503,
   "clusters": [
     {
@@ -20,15 +20,8 @@
       "priority": "A",
       "status": "reviewed",
       "memberCount": 16,
-      "inVocab": 10,
-      "pendingAdd": [
-        "imply",
-        "averse",
-        "perspective",
-        "prospective",
-        "historic",
-        "historical"
-      ]
+      "inVocab": 16,
+      "pendingAdd": []
     },
     {
       "id": "rhyme-ain-01",
@@ -37,22 +30,8 @@
       "priority": "B",
       "status": "reviewed",
       "memberCount": 14,
-      "inVocab": 1,
-      "pendingAdd": [
-        "complain",
-        "explain",
-        "restrain",
-        "constraint",
-        "strain",
-        "gain",
-        "main",
-        "plain",
-        "drain",
-        "brain",
-        "grain",
-        "rain",
-        "train"
-      ]
+      "inVocab": 14,
+      "pendingAdd": []
     },
     {
       "id": "rhyme-ant-01",
@@ -106,23 +85,8 @@
       "priority": "A",
       "status": "reviewed",
       "memberCount": 15,
-      "inVocab": 1,
-      "pendingAdd": [
-        "captivate",
-        "intercept",
-        "perceive",
-        "receive",
-        "accept",
-        "except",
-        "concept",
-        "anticipate",
-        "participate",
-        "capable",
-        "capacity",
-        "capture",
-        "recipient",
-        "emancipate"
-      ]
+      "inVocab": 15,
+      "pendingAdd": []
     },
     {
       "id": "root-ced-01",
@@ -168,20 +132,8 @@
       "priority": "A",
       "status": "reviewed",
       "memberCount": 15,
-      "inVocab": 4,
-      "pendingAdd": [
-        "dictate",
-        "predict",
-        "contradict",
-        "verdict",
-        "dictionary",
-        "edict",
-        "benediction",
-        "dedicate",
-        "predictor",
-        "contradiction",
-        "dictatorial"
-      ]
+      "inVocab": 15,
+      "pendingAdd": []
     },
     {
       "id": "root-duc-01",
@@ -203,20 +155,8 @@
       "priority": "A",
       "status": "reviewed",
       "memberCount": 15,
-      "inVocab": 4,
-      "pendingAdd": [
-        "benefactor",
-        "manufacture",
-        "fact",
-        "effect",
-        "perfect",
-        "efficient",
-        "proficient",
-        "sufficient",
-        "artificial",
-        "facilitate",
-        "factor"
-      ]
+      "inVocab": 15,
+      "pendingAdd": []
     },
     {
       "id": "root-fer-01",
@@ -225,21 +165,8 @@
       "priority": "A",
       "status": "reviewed",
       "memberCount": 15,
-      "inVocab": 3,
-      "pendingAdd": [
-        "transfer",
-        "defer",
-        "prefer",
-        "infer",
-        "refer",
-        "offer",
-        "fertile",
-        "differ",
-        "indifferent",
-        "suffer",
-        "referendum",
-        "circumference"
-      ]
+      "inVocab": 15,
+      "pendingAdd": []
     },
     {
       "id": "root-fin-01",
@@ -248,22 +175,8 @@
       "priority": "A",
       "status": "reviewed",
       "memberCount": 15,
-      "inVocab": 2,
-      "pendingAdd": [
-        "final",
-        "finish",
-        "finite",
-        "infinite",
-        "define",
-        "refine",
-        "confine",
-        "finance",
-        "definitive",
-        "indefinite",
-        "finality",
-        "refinement",
-        "unfinished"
-      ]
+      "inVocab": 15,
+      "pendingAdd": []
     },
     {
       "id": "root-gress-01",
@@ -303,21 +216,8 @@
       "priority": "A",
       "status": "reviewed",
       "memberCount": 15,
-      "inVocab": 3,
-      "pendingAdd": [
-        "judge",
-        "judicious",
-        "prejudice",
-        "jury",
-        "justice",
-        "justify",
-        "injustice",
-        "injury",
-        "juridical",
-        "judgment",
-        "prejudicial",
-        "unjust"
-      ]
+      "inVocab": 15,
+      "pendingAdd": []
     },
     {
       "id": "root-loqu-01",
@@ -368,16 +268,8 @@
       "priority": "A",
       "status": "reviewed",
       "memberCount": 15,
-      "inVocab": 8,
-      "pendingAdd": [
-        "compel",
-        "expel",
-        "impulse",
-        "dispel",
-        "pulse",
-        "compulsory",
-        "pulsate"
-      ]
+      "inVocab": 15,
+      "pendingAdd": []
     },
     {
       "id": "root-pend-01",
@@ -386,19 +278,8 @@
       "priority": "A",
       "status": "reviewed",
       "memberCount": 15,
-      "inVocab": 5,
-      "pendingAdd": [
-        "pending",
-        "suspend",
-        "depend",
-        "independent",
-        "append",
-        "appendix",
-        "compensate",
-        "pension",
-        "pendant",
-        "propensity"
-      ]
+      "inVocab": 15,
+      "pendingAdd": []
     },
     {
       "id": "root-port-01",
@@ -407,20 +288,8 @@
       "priority": "A",
       "status": "reviewed",
       "memberCount": 15,
-      "inVocab": 4,
-      "pendingAdd": [
-        "import",
-        "export",
-        "deport",
-        "portable",
-        "important",
-        "opportunity",
-        "support",
-        "report",
-        "portfolio",
-        "insupportable",
-        "porter"
-      ]
+      "inVocab": 15,
+      "pendingAdd": []
     },
     {
       "id": "root-pos-01",
@@ -429,21 +298,8 @@
       "priority": "A",
       "status": "reviewed",
       "memberCount": 15,
-      "inVocab": 3,
-      "pendingAdd": [
-        "propose",
-        "impose",
-        "compose",
-        "dispose",
-        "expose",
-        "oppose",
-        "postpone",
-        "component",
-        "positive",
-        "deposit",
-        "repository",
-        "exponent"
-      ]
+      "inVocab": 15,
+      "pendingAdd": []
     },
     {
       "id": "root-rupt-01",
@@ -474,17 +330,8 @@
       "priority": "A",
       "status": "reviewed",
       "memberCount": 15,
-      "inVocab": 7,
-      "pendingAdd": [
-        "describe",
-        "inscribe",
-        "script",
-        "manuscript",
-        "subscribe",
-        "postscript",
-        "nondescript",
-        "superscript"
-      ]
+      "inVocab": 15,
+      "pendingAdd": []
     },
     {
       "id": "root-sent-01",
@@ -493,20 +340,8 @@
       "priority": "A",
       "status": "reviewed",
       "memberCount": 15,
-      "inVocab": 4,
-      "pendingAdd": [
-        "sentiment",
-        "consent",
-        "sense",
-        "sensible",
-        "sensitive",
-        "sensory",
-        "consensus",
-        "nonsense",
-        "desensitize",
-        "resentment",
-        "extrasensory"
-      ]
+      "inVocab": 15,
+      "pendingAdd": []
     },
     {
       "id": "root-spect-01",
@@ -528,23 +363,8 @@
       "priority": "A",
       "status": "reviewed",
       "memberCount": 15,
-      "inVocab": 1,
-      "pendingAdd": [
-        "status",
-        "statue",
-        "constitute",
-        "institution",
-        "substitute",
-        "persist",
-        "resist",
-        "stable",
-        "stability",
-        "establish",
-        "stance",
-        "obstacle",
-        "standard",
-        "statute"
-      ]
+      "inVocab": 15,
+      "pendingAdd": []
     },
     {
       "id": "root-struct-01",
@@ -553,23 +373,8 @@
       "priority": "A",
       "status": "reviewed",
       "memberCount": 15,
-      "inVocab": 1,
-      "pendingAdd": [
-        "construct",
-        "instruct",
-        "destroy",
-        "obstruct",
-        "structure",
-        "infrastructure",
-        "reconstruct",
-        "restructure",
-        "construction",
-        "destructive",
-        "instructive",
-        "instrument",
-        "obstruction",
-        "structural"
-      ]
+      "inVocab": 15,
+      "pendingAdd": []
     },
     {
       "id": "root-ten-01",
@@ -578,18 +383,8 @@
       "priority": "A",
       "status": "reviewed",
       "memberCount": 15,
-      "inVocab": 6,
-      "pendingAdd": [
-        "retain",
-        "maintain",
-        "contain",
-        "obtain",
-        "sustain",
-        "tenant",
-        "attention",
-        "continent",
-        "detention"
-      ]
+      "inVocab": 15,
+      "pendingAdd": []
     },
     {
       "id": "root-tort-01",
@@ -618,21 +413,8 @@
       "priority": "A",
       "status": "reviewed",
       "memberCount": 15,
-      "inVocab": 3,
-      "pendingAdd": [
-        "intervene",
-        "invent",
-        "prevent",
-        "event",
-        "adventure",
-        "avenue",
-        "convenient",
-        "venture",
-        "contravene",
-        "intervention",
-        "prevention",
-        "advent"
-      ]
+      "inVocab": 15,
+      "pendingAdd": []
     },
     {
       "id": "root-vert-01",
@@ -654,21 +436,8 @@
       "priority": "A",
       "status": "reviewed",
       "memberCount": 15,
-      "inVocab": 3,
-      "pendingAdd": [
-        "evident",
-        "provide",
-        "revise",
-        "supervise",
-        "visage",
-        "visible",
-        "vision",
-        "visit",
-        "visual",
-        "evidence",
-        "videotape",
-        "visibility"
-      ]
+      "inVocab": 15,
+      "pendingAdd": []
     },
     {
       "id": "root-voc-01",
@@ -690,21 +459,8 @@
       "priority": "A",
       "status": "reviewed",
       "memberCount": 15,
-      "inVocab": 3,
-      "pendingAdd": [
-        "lucid",
-        "explicit",
-        "transparent",
-        "obscure",
-        "opaque",
-        "ambiguous",
-        "vague",
-        "abstruse",
-        "implicit",
-        "nebula",
-        "crystal",
-        "muddy"
-      ]
+      "inVocab": 15,
+      "pendingAdd": []
     },
     {
       "id": "sem-flattery-01",
@@ -1222,5 +978,10 @@
       "status": "reviewed",
       "memberCount": 6
     }
-  ]
+  ],
+  "s3a": {
+    "added": 224,
+    "deferred": 35,
+    "greTotal": 4162
+  }
 }

@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "imply",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "暗示；意味著",
       "roleInScript": "說者丟線索",
       "humorDevice": "lookalike",
@@ -19,11 +19,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "averse",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "厭惡的；不願的",
       "roleInScript": "主觀不想",
       "humorDevice": "lookalike",
@@ -33,7 +34,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "discrete",
@@ -47,7 +49,8 @@
       "related": {
         "synonyms": "disconnected",
         "antonyms": "continuous, connected, connect, legato, plug in"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "discreet",
@@ -61,7 +64,8 @@
       "related": {
         "synonyms": "discerning, circumspect",
         "antonyms": "indiscreet, blatant"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "censor",
@@ -75,7 +79,8 @@
       "related": {
         "synonyms": "ban",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "censure",
@@ -89,7 +94,8 @@
       "related": {
         "synonyms": "animadversion, condemnation, denunciation",
         "antonyms": "praise, commend, acquittal, approbation"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "appraise",
@@ -103,7 +109,8 @@
       "related": {
         "synonyms": "measure, evaluate, valuate, assess, value, survey",
         "antonyms": "disesteem, disrespect"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "apprise",
@@ -117,7 +124,8 @@
       "related": {
         "synonyms": "advise, notify, apprize, instruct, appreciate, revalue",
         "antonyms": "depreciate"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "allude",
@@ -131,7 +139,8 @@
       "related": {
         "synonyms": "touch, advert",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "elude",
@@ -145,11 +154,12 @@
       "related": {
         "synonyms": "evade, bilk, escape, hedge, fudge, circumvent",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "perspective",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "視角；觀點",
       "roleInScript": "看的角度",
       "humorDevice": "lookalike",
@@ -159,11 +169,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "prospective",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "前瞻的；預期的",
       "roleInScript": "往前看的設計",
       "humorDevice": "lookalike",
@@ -173,11 +184,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "historic",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "歷史性的；有歷史意義的",
       "roleInScript": "史上少見",
       "humorDevice": "lookalike",
@@ -187,11 +199,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "historical",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "歷史的；有關歷史的",
       "roleInScript": "歷史相關",
       "humorDevice": "lookalike",
@@ -201,7 +214,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "venal",
@@ -215,7 +229,8 @@
       "related": {
         "synonyms": "corruptible",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "venial",
@@ -229,7 +244,8 @@
       "related": {
         "synonyms": "minor, excusable, forgivable",
         "antonyms": "major, inexcusable"
-      }
+      },
+      "vocabStatus": "in-vocab"
     }
   ],
   "reviewHooks": [

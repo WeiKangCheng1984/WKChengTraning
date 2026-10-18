@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "complain",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "抱怨",
       "roleInScript": "營裡喊不平",
       "humorDevice": "story",
@@ -19,11 +19,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "explain",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "解釋",
       "roleInScript": "講清楚",
       "humorDevice": "story",
@@ -33,11 +34,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "restrain",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "抑制；拘束",
       "roleInScript": "拉住不讓衝",
       "humorDevice": "story",
@@ -47,11 +49,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "constraint",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "約束；限制",
       "roleInScript": "營規",
       "humorDevice": "story",
@@ -61,11 +64,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "strain",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "拉緊；張力；菌株",
       "roleInScript": "緊繃",
       "humorDevice": "story",
@@ -75,11 +79,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "gain",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "獲得",
       "roleInScript": "練到的進步",
       "humorDevice": "story",
@@ -89,11 +94,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "main",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "主要的",
       "roleInScript": "主線",
       "humorDevice": "story",
@@ -103,11 +109,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "plain",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "清楚的；平原",
       "roleInScript": "一眼平原",
       "humorDevice": "story",
@@ -117,7 +124,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "stain",
@@ -131,11 +139,12 @@
       "related": {
         "synonyms": "discoloration, discolouration, dirt, filth, grime, soil",
         "antonyms": "clean"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "drain",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "排水；耗盡",
       "roleInScript": "流走精力",
       "humorDevice": "story",
@@ -145,11 +154,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "brain",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "腦",
       "roleInScript": "營指揮部",
       "humorDevice": "story",
@@ -159,11 +169,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "grain",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "穀粒；紋理；一點點",
       "roleInScript": "一粒",
       "humorDevice": "story",
@@ -173,11 +184,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "rain",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "雨",
       "roleInScript": "營外下雨",
       "humorDevice": "story",
@@ -187,11 +199,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "train",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "訓練；火車",
       "roleInScript": "操練",
       "humorDevice": "story",
@@ -201,7 +214,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     }
   ],
   "reviewHooks": [

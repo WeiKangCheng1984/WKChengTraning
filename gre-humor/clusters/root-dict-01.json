@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "dictate",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "口述；命令；決定",
       "roleInScript": "說了就算",
       "humorDevice": "morphology",
@@ -19,11 +19,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "predict",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "預測",
       "roleInScript": "預先說",
       "humorDevice": "morphology",
@@ -33,11 +34,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "contradict",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "反駁；矛盾",
       "roleInScript": "反過來說",
       "humorDevice": "morphology",
@@ -47,11 +49,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "verdict",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "裁決；定論",
       "roleInScript": "真實之說的結果",
       "humorDevice": "morphology",
@@ -61,11 +64,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "dictionary",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "詞典",
       "roleInScript": "標準說法本",
       "humorDevice": "story",
@@ -75,7 +79,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "dictum",
@@ -89,11 +94,12 @@
       "related": {
         "synonyms": "pronouncement, say-so",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "edict",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "敕令；公告",
       "roleInScript": "官方說出的令",
       "humorDevice": "morphology",
@@ -103,7 +109,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "indict",
@@ -117,11 +124,12 @@
       "related": {
         "synonyms": "excoriate, incriminate",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "benediction",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "祝福",
       "roleInScript": "好話說出口",
       "humorDevice": "story",
@@ -131,7 +139,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "malediction",
@@ -145,7 +154,8 @@
       "related": {
         "synonyms": "imprecation",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "jurisdiction",
@@ -159,11 +169,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "dedicate",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "奉獻；致力於",
       "roleInScript": "宣告獻給",
       "humorDevice": "morphology",
@@ -173,11 +184,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "predictor",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "預測變項／預測器",
       "roleInScript": "用來預先說的東西",
       "humorDevice": "morphology",
@@ -187,11 +199,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "contradiction",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "矛盾",
       "roleInScript": "反說的狀態",
       "humorDevice": "morphology",
@@ -201,11 +214,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "dictatorial",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "獨裁的",
       "roleInScript": "一人說了算",
       "humorDevice": "morphology",
@@ -215,7 +229,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     }
   ],
   "reviewHooks": [

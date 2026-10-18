@@ -152,6 +152,17 @@ export default function EnglishIndexPage() {
             {greData.total} 詞 · 近義／反義／例句 · 依字母瀏覽
           </p>
         </Link>
+        <Link href="/english/gre/humor" className="card-tap block">
+          <p className="text-xs uppercase tracking-[0.18em] text-[var(--accent)]">
+            GRE Humor
+          </p>
+          <h2 className="mt-2 font-[family-name:var(--font-display)] text-xl text-[var(--ink)]">
+            GRE 幽默聯想
+          </h2>
+          <p className="mt-1 text-sm text-[var(--muted)]">
+            家族劇本學單字 · TTS 發音 · 快測
+          </p>
+        </Link>
         <Link href="/quiz" className="card-tap block">
           <p className="text-xs uppercase tracking-[0.18em] text-[var(--accent)]">
             Quiz Bank

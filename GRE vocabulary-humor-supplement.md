@@ -1,758 +1,1798 @@
 # GRE 詞庫補錄（幽默聯想庫 S3a）
 
 > 本檔為 S3a 從幽默家族卡同步進 `web/src/data/gre-vocabulary.json` 的詞條鏡像，便於人工審讀。
-> 共 **94** 詞；主站詞庫總數現為 **3938**。
-
-### abduct
-- **中文**：誘拐；綁架
-- **英文釋義**：誘拐；綁架
-- **例句**：The plot abducts the reader from the main thesis.
-- **中譯**：情節把讀者從主論點拐走。（比喻用法需謹慎）
-- **來源家族**：root-duc-01
+> 共 **224** 詞；主站詞庫總數現為 **4162**。
+
+### abstruse
+- **中文**：深奧難解的
+- **英文釋義**：深奧難解的
+- **例句**：Abstruse prose is not rigor.
+- **中譯**：深奧難解文筆≠嚴謹。
+- **來源家族**：sem-clear-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### abet
-- **中文**：教唆；煽動；協助（做壞事）
-- **英文釋義**：教唆；煽動；協助（做壞事）
-- **例句**：Silence can abet wrongdoing.
-- **中譯**：沉默可能協助不法行為。
-- **來源家族**：look-a-01
+
+### accept
+- **中文**：接受
+- **英文釋義**：接受
+- **例句**：Journals increasingly accept null results with strong design.
+- **中譯**：期刊漸接受設計強的無效應結果。
+- **來源家族**：root-cap-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### abrupt
-- **中文**：突然的；唐突的
-- **英文釋義**：突然的；唐突的
-- **例句**：An abrupt transition confused the audience.
-- **中譯**：突然的轉折讓聽眾困惑。
-- **來源家族**：root-rupt-01
+
+### advent
+- **中文**：到來；來臨
+- **英文釋義**：到來；來臨
+- **例句**：The advent of cheap sequencing changed priors.
+- **中譯**：廉價定序到來改變先驗。
+- **來源家族**：root-ven-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### accede
-- **中文**：同意；加入；繼承
-- **英文釋義**：同意；加入；繼承
-- **例句**：They refused to accede to the demand.
-- **中譯**：他們拒絕同意該要求。
-- **來源家族**：look-a-01
+
+### adventure
+- **中文**：冒險
+- **英文釋義**：冒險
+- **例句**：Methodological adventure needs sharper safeguards.
+- **中譯**：方法冒險需要更利防護。
+- **來源家族**：root-ven-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### accredited
-- **中文**：經認證的
-- **英文釋義**：經認證的
-- **例句**：Only accredited labs may process the samples.
-- **中譯**：唯有經認證實驗室可處理樣本。
-- **來源家族**：root-cred-01
+
+### ambiguous
+- **中文**：模稜的
+- **英文釋義**：模稜的
+- **例句**：Ambiguous items destroy interrater reliability.
+- **中譯**：模稜題項摧毀評分者信度。
+- **來源家族**：sem-clear-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### admissible
-- **中文**：可採納的（證據等）
-- **英文釋義**：可採納的（證據等）
-- **例句**：Only admissible evidence should shape the verdict.
-- **中譯**：只有可採納證據才應影響裁決。
-- **來源家族**：root-mit-01
+
+### anticipate
+- **中文**：預期；預先處理
+- **英文釋義**：預期；預先處理
+- **例句**：Anticipate reviewer concerns in the limitations section.
+- **中譯**：在限制段落預先處理審稿疑慮。
+- **來源家族**：root-cap-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### adverse
-- **中文**：不利的；有害的
-- **英文釋義**：不利的；有害的
-- **例句**：Adverse incentives warped the reporting.
-- **中譯**：不利的誘因扭曲了通報。
-- **來源家族**：root-vert-01
+
+### append
+- **中文**：附加
+- **英文釋義**：附加
+- **例句**：Append the codebook to the replication package.
+- **中譯**：把編碼簿附加到複現包。
+- **來源家族**：root-pend-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### advocate
-- **中文**：提倡；辯護者
-- **英文釋義**：提倡；辯護者
-- **例句**：She advocates transparent peer review.
-- **中譯**：她提倡透明的同儕審查。
-- **來源家族**：root-voc-01
+
+### appendix
+- **中文**：附錄；闌尾
+- **英文釋義**：附錄；闌尾
+- **例句**：Put long tables in an appendix.
+- **中譯**：長表放附錄。
+- **來源家族**：root-pend-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### aesthetic
-- **中文**：美學的；審美的
-- **英文釋義**：美學的；審美的
-- **例句**：The essay privileges aesthetic form over utility.
-- **中譯**：文章重審美形式勝過實用。
-- **來源家族**：look-a-01
+
+### artificial
+- **中文**：人造的；矯揉的
+- **英文釋義**：人造的；矯揉的
+- **例句**：Artificial categories can reify soft boundaries.
+- **中譯**：人為範疇可能把軟邊界實體化。
+- **來源家族**：root-fac-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### affable
-- **中文**：和藹可親的
-- **英文釋義**：和藹可親的
-- **例句**：An affable chair kept the panel constructive.
-- **中譯**：和藹的主席讓座談保持建設性。
-- **來源家族**：sem-temper-01
+
+### attention
+- **中文**：注意
+- **英文釋義**：注意
+- **例句**：Attention is a scarce resource in crowded literatures.
+- **中譯**：擁擠文獻裡注意力是稀缺資源。
+- **來源家族**：root-ten-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### aggressive
-- **中文**：侵略的；積極進取的
-- **英文釋義**：侵略的；積極進取的
-- **例句**：Aggressive coding can introduce new bugs.
-- **中譯**：過度積極的編碼可能引入新錯誤。
-- **來源家族**：root-gress-01
+
+### avenue
+- **中文**：大道；途徑
+- **英文釋義**：大道；途徑
+- **例句**：Preregistration is one avenue to credibility.
+- **中譯**：預註冊是可信度途徑之一。
+- **來源家族**：root-ven-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### allege
-- **中文**：宣稱；指控（未必證實）
-- **英文釋義**：宣稱；指控（未必證實）
-- **例句**：The report alleges conflicts of interest.
-- **中譯**：報告指控存在利益衝突。
-- **來源家族**：rhyme-edge-01
+
+### averse
+- **中文**：厭惡的；不願的
+- **英文釋義**：厭惡的；不願的
+- **例句**：Risk-averse editors may over-weight novelty.
+- **中譯**：厭惡風險的編輯可能過度看重新奇。
+- **來源家族**：look-pair-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### amiable
-- **中文**：親切隨和的
-- **英文釋義**：親切隨和的
-- **例句**：Amiable colleagues still need clear standards.
-- **中譯**：親切同事依然需要清楚標準。
-- **來源家族**：sem-temper-01
+
+### benediction
+- **中文**：祝福
+- **英文釋義**：祝福
+- **例句**：The acknowledgments need not be a benediction marathon.
+- **中譯**：誌謝不必變成祝福馬拉松。
+- **來源家族**：root-dict-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### analogy
-- **中文**：類比
-- **英文釋義**：類比
-- **例句**：A strained analogy misleads more than it teaches.
-- **中譯**：牽強類比誤導多於教學。
-- **來源家族**：root-loqu-01
+
+### benefactor
+- **中文**：恩人；捐助者
+- **英文釋義**：恩人；捐助者
+- **例句**：A quiet benefactor funded the open archive.
+- **中譯**：低調捐助者資助開放典藏。
+- **來源家族**：root-fac-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### aqueduct
-- **中文**：高架引水渠
-- **英文釋義**：高架引水渠
-- **例句**：The aqueduct metaphor describes knowledge pipelines.
-- **中譯**：引水渠隱喻用來描述知識管線。
-- **來源家族**：root-duc-01
+
+### brain
+- **中文**：腦
+- **英文釋義**：腦
+- **例句**：Brain-friendly figures beat dense tables sometimes.
+- **中譯**：有時腦友好圖勝密集表。
+- **來源家族**：rhyme-ain-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### arrogant
-- **中文**：傲慢的
-- **英文釋義**：傲慢的
-- **例句**：An arrogant tone can sink an otherwise sound argument.
-- **中譯**：傲慢語氣可能毁掉本來站得住的論證。
-- **來源家族**：sem-flattery-01
+
+### capable
+- **中文**：有能力的
+- **英文釋義**：有能力的
+- **例句**：A capable design still needs honest missing-data rules.
+- **中譯**：有能力的設計仍需誠實缺值規則。
+- **來源家族**：root-cap-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### ascend
-- **中文**：上升；登上
-- **英文釋義**：上升；登上
-- **例句**：She ascended to leadership after the crisis.
-- **中譯**：危機後她上升到領導位置。
-- **來源家族**：root-scend-01
+
+### capacity
+- **中文**：容量；能力
+- **英文釋義**：容量；能力
+- **例句**：Institutional capacity limits how fast reforms travel.
+- **中譯**：制度容量限制改革速度。
+- **來源家族**：root-cap-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### attract
-- **中文**：吸引
-- **英文釋義**：吸引
-- **例句**：Clear theses attract careful readers.
-- **中譯**：清楚的論旨能吸引細心的讀者。
-- **來源家族**：root-tract-01
+
+### captivate
+- **中文**：迷住；吸引
+- **英文釋義**：迷住；吸引
+- **例句**：A vivid case can captivate without proving generality.
+- **中譯**：生動案例能迷住，但不證明普遍性。
+- **來源家族**：root-cap-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### bankrupt
-- **中文**：破產的；完全缺乏的
-- **英文釋義**：破產的；完全缺乏的
-- **例句**：The theory is morally bankrupt if it excuses harm.
-- **中譯**：若為傷害開脫，該理論在道德上已破產。
-- **來源家族**：root-rupt-01
+
+### capture
+- **中文**：捕捉；奪取
+- **英文釋義**：捕捉；奪取
+- **例句**：Surveys rarely capture tacit knowledge well.
+- **中譯**：問卷很少能捕捉默會知識。
+- **來源家族**：root-cap-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### circumspect
-- **中文**：謹慎的；周密的
-- **英文釋義**：謹慎的；周密的
-- **例句**：Circumspect claims survive hostile reading.
-- **中譯**：周密的宣稱更能扛住敵意閱讀。
-- **來源家族**：root-spect-01
+
+### circumference
+- **中文**：圓周；周邊
+- **英文釋義**：圓周；周邊
+- **例句**：Stay within the circumference of the defined construct.
+- **中譯**：停留在構念圓周內。
+- **來源家族**：root-fer-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### claustrophobia
-- **中文**：幽閉恐懼症
-- **英文釋義**：幽閉恐懼症
-- **例句**：His claustrophobia made enclosed archives unbearable.
-- **中譯**：幽閉恐懼讓密閉檔案室令他难受。
-- **來源家族**：root-clud-01
+
+### compel
+- **中文**：強迫
+- **英文釋義**：強迫
+- **例句**：Evidence should compel revision, not loyalty tests.
+- **中譯**：證據應強迫修正，而非忠誠測驗。
+- **來源家族**：root-pel-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### conclude
-- **中文**：結束；推斷出
-- **英文釋義**：結束；推斷出
-- **例句**：We conclude that the evidence is insufficient.
-- **中譯**：我們斷定證據不足。
-- **來源家族**：root-clud-01
+
+### compensate
+- **中文**：補償
+- **英文釋義**：補償
+- **例句**：Weighting can compensate for known nonresponse.
+- **中譯**：加權可補償已知不回應。
+- **來源家族**：root-pend-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### condescend
-- **中文**：屈尊；以恩賜態度對待
-- **英文釋義**：屈尊；以恩賜態度對待
-- **例句**：Do not condescend to readers with oversimplified claims.
-- **中譯**：別用過度簡化的說法屈尊俯就讀者。
-- **來源家族**：root-scend-01
+
+### complain
+- **中文**：抱怨
+- **英文釋義**：抱怨
+- **例句**：Reviewers may complain about missing power analysis.
+- **中譯**：審稿人可能抱怨缺少檢定力分析。
+- **來源家族**：rhyme-ain-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### conduct
-- **中文**：引導；實施；行為
-- **英文釋義**：引導；實施；行為
-- **例句**：How we conduct the interview shapes the answers.
-- **中譯**：我們如何進行訪談會形塑答案。
-- **來源家族**：root-duc-01
+
+### component
+- **中文**：組成部分
+- **英文釋義**：組成部分
+- **例句**：Trust is a component of cumulative science.
+- **中譯**：信任是累積科學的元件。
+- **來源家族**：root-pos-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### conjecture
-- **中文**：推測；臆測
-- **英文釋義**：推測；臆測
-- **例句**：The conclusion is still conjecture, not proof.
-- **中譯**：結論仍是臆測，不是證明。
-- **來源家族**：root-ject-01
+
+### compose
+- **中文**：組成；撰寫
+- **英文釋義**：組成；撰寫
+- **例句**：Compose the abstract after results are stable.
+- **中譯**：結果穩定後再寫摘要。
+- **來源家族**：root-pos-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### conspicuous
-- **中文**：顯眼的；引人注目的
-- **英文釋義**：顯眼的；引人注目的
-- **例句**：The gap in the data is conspicuous.
-- **中譯**：資料中的缺口非常顯眼。
-- **來源家族**：root-spect-01
+
+### compulsory
+- **中文**：強制的
+- **英文釋義**：強制的
+- **例句**：Compulsory preregistration changes gaming incentives.
+- **中譯**：強制預註冊改變投機誘因。
+- **來源家族**：root-pel-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### contort
-- **中文**：使扭曲變形
-- **英文釋義**：使扭曲變形
-- **例句**：He contorted the statute beyond recognition.
-- **中譯**：他把法條解釋扭到認不出原樣。
-- **來源家族**：root-tort-01
+
+### concept
+- **中文**：概念
+- **英文釋義**：概念
+- **例句**：Define the concept before you operationalize it.
+- **中譯**：操作化前先定義概念。
+- **來源家族**：root-cap-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### controversy
-- **中文**：爭議
-- **英文釋義**：爭議
-- **例句**：The controversy turned on how to define harm.
-- **中譯**：爭議聚焦在如何定義傷害。
-- **來源家族**：root-vert-01
+
+### confine
+- **中文**：限制；禁閉
+- **英文釋義**：限制；禁閉
+- **例句**：Confine exploratory plots to a sandbox.
+- **中譯**：探索圖關在沙盒內。
+- **來源家族**：root-fin-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### corrupt
-- **中文**：腐敗的；使敗壞
-- **英文釋義**：腐敗的；使敗壞
-- **例句**：Corrupt incentives distort measurement.
-- **中譯**：腐敗誘因扭曲測量。
-- **來源家族**：root-rupt-01
+
+### consensus
+- **中文**：共識
+- **英文釋義**：共識
+- **例句**：Consensus can lag behind better evidence.
+- **中譯**：共識可能落後更好證據。
+- **來源家族**：root-sent-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### corruption
-- **中文**：腐敗；損壞
-- **英文釋義**：腐敗；損壞
-- **例句**：Data corruption invalidated the third trial.
-- **中譯**：資料損壞使第三次試驗無效。
-- **來源家族**：root-rupt-01
+
+### consent
+- **中文**：同意；許可
+- **英文釋義**：同意；許可
+- **例句**：Document consent before data linkage.
+- **中譯**：資料連結前記錄同意。
+- **來源家族**：root-sent-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### credence
-- **中文**：相信；信任
-- **英文釋義**：相信；信任
-- **例句**：The finding gained credence after replication.
-- **中譯**：該發現在複現後獲得信任。
-- **來源家族**：root-cred-01
+
+### constitute
+- **中文**：構成；設立
+- **英文釋義**：構成；設立
+- **例句**：These items constitute the distress index.
+- **中譯**：這些題項構成困擾指數。
+- **來源家族**：root-sta-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### credential
-- **中文**：資格證件；憑證
-- **英文釋義**：資格證件；憑證
-- **例句**：Credentials do not replace transparent methods.
-- **中譯**：資格證件不能取代透明方法。
-- **來源家族**：root-cred-01
+
+### constraint
+- **中文**：約束；限制
+- **英文釋義**：約束；限制
+- **例句**：Budget is a hard constraint on sample size.
+- **中譯**：預算是樣本量硬約束。
+- **來源家族**：rhyme-ain-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### credibility
-- **中文**：可信度
-- **英文釋義**：可信度
-- **例句**：Credibility erodes when errors go uncorrected.
-- **中譯**：錯誤不更正，可信度就侵蝕。
-- **來源家族**：root-cred-01
+
+### construct
+- **中文**：建造；構念
+- **英文釋義**：建造；構念
+- **例句**：Define the construct before choosing items.
+- **中譯**：選題目前先定義構念。
+- **來源家族**：root-struct-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### credible
-- **中文**：可信的
-- **英文釋義**：可信的
-- **例句**：A credible mechanism explains the effect size.
-- **中譯**：可信的機制能解釋效應量。
-- **來源家族**：root-cred-01
+
+### construction
+- **中文**：建造；解釋建構
+- **英文釋義**：建造；解釋建構
+- **例句**：That legal construction stretches the text.
+- **中譯**：該法律解釋過度拉伸文本。
+- **來源家族**：root-struct-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### deduce
-- **中文**：演繹；推論
-- **英文釋義**：演繹；推論
-- **例句**：From the premises we deduce a narrower claim.
-- **中譯**：由前提我們演繹出更窄的主張。
-- **來源家族**：root-duc-01
+
+### contain
+- **中文**：包含；遏制
+- **英文釋義**：包含；遏制
+- **例句**：The model cannot contain every contextual factor.
+- **中譯**：模型無法裝下所有脈絡因素。
+- **來源家族**：root-ten-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### deduction
-- **中文**：推論；扣除
-- **英文釋義**：推論；扣除
-- **例句**：The deduction follows only if the premise holds.
-- **中譯**：唯有前提成立，該推論才成立。
-- **來源家族**：root-duc-01
+
+### continent
+- **中文**：大陸；克制的（古）
+- **英文釋義**：大陸；克制的（古）
+- **例句**：Results may not travel across continents without adaptation.
+- **中譯**：結果跨大陸未必不經適應就成立。
+- **來源家族**：root-ten-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### degrade
-- **中文**：降級；貶低；降解
-- **英文釋義**：降級；貶低；降解
-- **例句**：Noise can degrade signal quality.
-- **中譯**：噪音會降低訊號品質。
-- **來源家族**：root-gress-01
+
+### contradict
+- **中文**：反駁；矛盾
+- **英文釋義**：反駁；矛盾
+- **例句**：New data may contradict a cherished model.
+- **中譯**：新資料可能矛盾於鍾愛模型。
+- **來源家族**：root-dict-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### descend
-- **中文**：下降；落入
-- **英文釋義**：下降；落入
-- **例句**：The debate descended into personal attacks.
-- **中譯**：辯論墮落到人身攻擊。
-- **來源家族**：root-scend-01
+
+### contradiction
+- **中文**：矛盾
+- **英文釋義**：矛盾
+- **例句**：Resolve contradiction before meta-analysis.
+- **中譯**：統合分析前先處理矛盾。
+- **來源家族**：root-dict-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### detract
-- **中文**：貶低；減損
-- **英文釋義**：貶低；減損
-- **例句**：One weak paragraph should not detract from the whole argument.
-- **中譯**：一段弱段落不該減損整篇論證。
-- **來源家族**：root-tract-01
+
+### contravene
+- **中文**：違反；抵觸
+- **英文釋義**：違反；抵觸
+- **例句**：Hidden exclusions contravene the protocol.
+- **中譯**：隱匿排除抵觸協議。
+- **來源家族**：root-ven-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### discredit
-- **中文**：使喪失信用
-- **英文釋義**：使喪失信用
-- **例句**：Selective leaks aimed to discredit the committee.
-- **中譯**：選擇性洩密旨在使委員會喪失信用。
-- **來源家族**：root-cred-01
+
+### convenient
+- **中文**：方便的
+- **英文釋義**：方便的
+- **例句**：Convenient samples limit external claims.
+- **中譯**：方便樣本限制外部推論。
+- **來源家族**：root-ven-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### dismiss
-- **中文**：解雇；打發；不予考慮
-- **英文釋義**：解雇；打發；不予考慮
-- **例句**：Do not dismiss anomalous data too quickly.
-- **中譯**：不要太快把異常資料打發掉。
-- **來源家族**：root-mit-01
+
+### crystal
+- **中文**：水晶（比喻清楚）
+- **英文釋義**：水晶（比喻清楚）
+- **例句**：Crystal-clear stopping rules prevent peeking.
+- **中譯**：水晶般清楚的停止規則防偷看。
+- **來源家族**：sem-clear-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### disrupt
-- **中文**：擾亂；使中斷
-- **英文釋義**：擾亂；使中斷
-- **例句**：New tools disrupt old workflows—and old hierarchies.
-- **中譯**：新工具擾亂舊流程——以及舊階層。
-- **來源家族**：root-rupt-01
+
+### dedicate
+- **中文**：奉獻；致力於
+- **英文釋義**：奉獻；致力於
+- **例句**：Dedicate a section to negative controls.
+- **中譯**：專節獻給負控制。
+- **來源家族**：root-dict-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### disruptive
-- **中文**：破壞性的；顛覆式的
-- **英文釋義**：破壞性的；顛覆式的
-- **例句**：Disruptive claims need stronger evidence, not louder ads.
-- **中譯**：顛覆式宣稱需要更強證據，而非更大聲廣告。
-- **來源家族**：root-rupt-01
+
+### defer
+- **中文**：延期；順從
+- **英文釋義**：延期；順從
+- **例句**：We defer judgment until replication arrives.
+- **中譯**：複現到來前，我們延後下判斷。
+- **來源家族**：root-fer-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### distract
-- **中文**：使分心；干擾
-- **英文釋義**：使分心；干擾
-- **例句**：Irrelevant details distract from the main claim.
-- **中譯**：無關細節會把人從主論點拉開。
-- **來源家族**：root-tract-01
+
+### define
+- **中文**：定義
+- **英文釋義**：定義
+- **例句**：Define success criteria before launch.
+- **中譯**：啟動前定義成功標準。
+- **來源家族**：root-fin-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### ductile
-- **中文**：可塑的；易導引成形的
-- **英文釋義**：可塑的；易導引成形的
-- **例句**：Ductile institutions adapt without breaking.
-- **中譯**：具延展性的制度能適應而不破裂。
-- **來源家族**：root-duc-01
+
+### definitive
+- **中文**：決定性的；權威的
+- **英文釋義**：決定性的；權威的
+- **例句**：No single study is definitive.
+- **中譯**：沒有單一研究具決定性。
+- **來源家族**：root-fin-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### egress
-- **中文**：出口；外出
-- **英文釋義**：出口；外出
-- **例句**：Clear egress routes are part of lab safety.
-- **中譯**：清楚的出口動線是實驗室安全的一部分。
-- **來源家族**：root-gress-01
+
+### depend
+- **中文**：依賴
+- **英文釋義**：依賴
+- **例句**：Estimates depend on the exclusion restriction.
+- **中譯**：估計依賴排除限制。
+- **來源家族**：root-pend-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### eject
-- **中文**：彈出；驅逐
-- **英文釋義**：彈出；驅逐
-- **例句**：Security ejected disruptors from the hall.
-- **中譯**：保全把搗亂者驅離會場。
-- **來源家族**：root-ject-01
+
+### deport
+- **中文**：驅逐出境
+- **英文釋義**：驅逐出境
+- **例句**：The metaphor of deporting outliers can hide selection bias.
+- **中譯**：『驅逐極端值』可能掩蓋選擇偏差。
+- **來源家族**：root-port-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### eloquent
-- **中文**：雄辯的；有說服力的
-- **英文釋義**：雄辯的；有說服力的
-- **例句**：An eloquent summary still needs citations.
-- **中譯**：再雄辯的摘要仍需要引用。
-- **來源家族**：root-loqu-01
+
+### deposit
+- **中文**：存放；訂金
+- **英文釋義**：存放；訂金
+- **例句**：Deposit raw files in a trusted repository.
+- **中譯**：原始檔存進可信儲庫。
+- **來源家族**：root-pos-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### equivocal
-- **中文**：模稜兩可的
-- **英文釋義**：模稜兩可的
-- **例句**：An equivocal answer delayed the decision.
-- **中譯**：模稜兩可的回答拖延了決定。
-- **來源家族**：root-voc-01
+
+### describe
+- **中文**：描述
+- **英文釋義**：描述
+- **例句**：Describe the sampling frame before results.
+- **中譯**：結果前先描述抽樣架構。
+- **來源家族**：root-scrib-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### eruption
-- **中文**：爆發；噴發
-- **英文釋義**：爆發；噴發
-- **例句**：The eruption of outrage was predictable.
-- **中譯**：憤怒的爆發其實可預期。
-- **來源家族**：root-rupt-01
+
+### desensitize
+- **中文**：使不敏感
+- **英文釋義**：使不敏感
+- **例句**：Repeated crises can desensitize audiences to risk.
+- **中譯**：反覆危機使觀眾對風險不敏感。
+- **來源家族**：root-sent-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### evoke
-- **中文**：喚起（情感／記憶）
-- **英文釋義**：喚起（情感／記憶）
-- **例句**：The passage evokes a sense of irreversible loss.
-- **中譯**：這段文字喚起一種不可逆的失落感。
-- **來源家族**：rhyme-eak-01
+
+### destroy
+- **中文**：毀滅
+- **英文釋義**：毀滅
+- **例句**：One leak can destroy years of trust.
+- **中譯**：一次洩漏可毀掉多年信任。
+- **來源家族**：root-struct-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### exclude
-- **中文**：排除；拒絕納入
-- **英文釋義**：排除；拒絕納入
-- **例句**：The sample excluded outliers above three standard deviations.
-- **中譯**：樣本排除了三個標準差以上的極端值。
-- **來源家族**：root-clud-01
+
+### destructive
+- **中文**：破壞性的
+- **英文釋義**：破壞性的
+- **例句**：Destructive criticism without alternatives stalls fields.
+- **中譯**：只有破壞無替代的批評讓領域停滯。
+- **來源家族**：root-struct-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### fawn
-- **中文**：巴結；奉承
-- **英文釋義**：巴結；奉承
-- **例句**：Junior analysts should not fawn over every fashion in theory.
-- **中譯**：初級分析師不該對每個理論時尚巴結奉承。
-- **來源家族**：sem-flattery-01
+
+### detention
+- **中文**：拘留；留置
+- **英文釋義**：拘留；留置
+- **例句**：Methodological detention of papers harms learning speed.
+- **中譯**：論文方法上的『扣留』傷害學習速度。
+- **來源家族**：root-ten-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### fledge
-- **中文**：長羽毛；羽翼漸豐
-- **英文釋義**：長羽毛；羽翼漸豐
-- **例句**：The fledgling idea needs time to fledge into a policy.
-- **中譯**：這個雛形想法需要時間羽翼漸豐成政策。
-- **來源家族**：rhyme-edge-01
+
+### dictate
+- **中文**：口述；命令；決定
+- **英文釋義**：口述；命令；決定
+- **例句**：Do not let deadlines dictate design quality.
+- **中譯**：別讓截止日決定設計品質。
+- **來源家族**：root-dict-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### gallant
-- **中文**：英勇的；殷勤瀟灑的
-- **英文釋義**：英勇的；殷勤瀟灑的
-- **例句**：A gallant defense of an unpopular thesis can still persuade.
-- **中譯**：為不受歡迎論點作英勇辯護仍可能說服人。
-- **來源家族**：rhyme-ant-01
+
+### dictatorial
+- **中文**：獨裁的
+- **英文釋義**：獨裁的
+- **例句**：Dictatorial lab culture suppresses error reports.
+- **中譯**：獨裁實驗室文化壓抑錯誤報告。
+- **來源家族**：root-dict-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### grandiloquent
-- **中文**：誇大其詞的
-- **英文釋義**：誇大其詞的
-- **例句**：Grandiloquent promises outran the budget.
-- **中譯**：誇大承諾超越了預算。
-- **來源家族**：root-loqu-01
+
+### dictionary
+- **中文**：詞典
+- **英文釋義**：詞典
+- **例句**：Operational definitions beat dictionary hand-waving.
+- **中譯**：操作定義勝過詞典空談。
+- **來源家族**：root-dict-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### ideology
-- **中文**：意識形態
-- **英文釋義**：意識形態
-- **例句**：Ideology can script which analogies feel natural.
-- **中譯**：意識形態會編排哪些類比顯得自然。
-- **來源家族**：root-loqu-01
+
+### differ
+- **中文**：不同；有分歧
+- **英文釋義**：不同；有分歧
+- **例句**：Experts differ on how to weight outliers.
+- **中譯**：專家對極端值加權有分歧。
+- **來源家族**：root-fer-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### incredible
-- **中文**：難以置信的
-- **英文釋義**：難以置信的
-- **例句**：Incredible claims require extraordinary evidence.
-- **中譯**：難以置信的宣稱需要非凡證據。
-- **來源家族**：root-cred-01
+
+### dispel
+- **中文**：驅散
+- **英文釋義**：驅散
+- **例句**：Open data can dispel rumors of selective reporting.
+- **中譯**：開放資料能驅散選擇性報告謠言。
+- **來源家族**：root-pel-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### incredulous
-- **中文**：懷疑的；不相信的
-- **英文釋義**：懷疑的；不相信的
-- **例句**：Experts remained incredulous about the miracle cure.
-- **中譯**：專家對奇蹟療法仍表懷疑。
-- **來源家族**：root-cred-01
+
+### dispose
+- **中文**：處置；使傾向
+- **英文釋義**：處置；使傾向
+- **例句**：How labs dispose of failed trials shapes the literature.
+- **中譯**：失敗試驗怎麼處置形塑文獻。
+- **來源家族**：root-pos-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### induce
-- **中文**：引起；勸誘；歸納
-- **英文釋義**：引起；勸誘；歸納
-- **例句**：The stimulus may induce a temporary bias.
-- **中譯**：該刺激可能引起暫時偏差。
-- **來源家族**：root-duc-01
+
+### drain
+- **中文**：排水；耗盡
+- **英文釋義**：排水；耗盡
+- **例句**：Meetings can drain analytic attention.
+- **中譯**：會議會排乾分析注意力。
+- **來源家族**：rhyme-ain-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### inspect
-- **中文**：檢查；審視
-- **英文釋義**：檢查；審視
-- **例句**：Peer reviewers inspect methods before results.
-- **中譯**：同儕審查者先審視方法再看結果。
-- **來源家族**：root-spect-01
+
+### edict
+- **中文**：敕令；公告
+- **英文釋義**：敕令；公告
+- **例句**：Lab edicts should be versioned like code.
+- **中譯**：實驗室公告應像程式一樣版本化。
+- **來源家族**：root-dict-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### interject
-- **中文**：突然插話
-- **英文釋義**：突然插話
-- **例句**：Please do not interject until the claim is finished.
-- **中譯**：請等論點說完再插話。
-- **來源家族**：root-ject-01
+
+### effect
+- **中文**：結果；效應；使發生
+- **英文釋義**：結果；效應；使發生
+- **例句**：Estimate the effect with pre-specified controls.
+- **中譯**：用預先指定控制估計效應。
+- **來源家族**：root-fac-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### intractable
-- **中文**：難駕馭的；棘手的
-- **英文釋義**：難駕馭的；棘手的
-- **例句**：Poverty remains an intractable policy challenge.
-- **中譯**：貧困仍是棘手的政策挑戰。
-- **來源家族**：root-tract-01
+
+### efficient
+- **中文**：有效率的
+- **英文釋義**：有效率的
+- **例句**：An efficient estimator is not automatically unbiased.
+- **中譯**：有效率估計量不自動無偏。
+- **來源家族**：root-fac-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### introvert
-- **中文**：內向者；使內轉
-- **英文釋義**：內向者；使內轉
-- **例句**：An introvert may still lead through careful writing.
-- **中譯**：內向者仍可透過審慎寫作領導。
-- **來源家族**：root-vert-01
+
+### emancipate
+- **中文**：解放
+- **英文釋義**：解放
+- **例句**：Open tools can emancipate labs from vendor lock-in.
+- **中譯**：開放工具能讓實驗室擺脫供應商鎖定。
+- **來源家族**：root-cap-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### irruption
-- **中文**：突然侵入；湧入
-- **英文釋義**：突然侵入；湧入
-- **例句**：An irruption of cases overwhelmed the clinic model.
-- **中譯**：病例突然湧入壓垮了診所模型。
-- **來源家族**：root-rupt-01
+
+### establish
+- **中文**：建立；確立
+- **英文釋義**：建立；確立
+- **例句**：Establish coding reliability before analysis.
+- **中譯**：分析前確立編碼信度。
+- **來源家族**：root-sta-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### loquacious
-- **中文**：話多的；滔滔不絕的
-- **英文釋義**：話多的；滔滔不絕的
-- **例句**：A loquacious narrator can bury the plot.
-- **中譯**：滔滔不絕的敘事者可能把情節埋掉。
-- **來源家族**：sem-talk-01
+
+### event
+- **中文**：事件
+- **英文釋義**：事件
+- **例句**：Predefine adverse events of interest.
+- **中譯**：預先定義關注不良事件。
+- **來源家族**：root-ven-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### loquacity
-- **中文**：話多；健談（偏多話）
-- **英文釋義**：話多；健談（偏多話）
-- **例句**：Loquacity is not the same as clarity.
-- **中譯**：話多不等於清楚。
-- **來源家族**：root-loqu-01
+
+### evidence
+- **中文**：證據
+- **英文釋義**：證據
+- **例句**：Evidence outweighs eloquence.
+- **中譯**：證據重於雄辯。
+- **來源家族**：root-vid-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### omission
-- **中文**：遺漏；省略
-- **英文釋義**：遺漏；省略
-- **例句**：The omission of a control group weakens inference.
-- **中譯**：遺漏對照組削弱了推論。
-- **來源家族**：root-mit-01
+
+### evident
+- **中文**：明顯的
+- **英文釋義**：明顯的
+- **例句**：Selection is evident from the attrition table.
+- **中譯**：從耗損表可明顯見選擇。
+- **來源家族**：root-vid-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### pathogen
-- **中文**：病原體
-- **英文釋義**：病原體
-- **例句**：The model treats misinformation like a pathogen.
-- **中譯**：該模型把錯誤訊息當成病原體。
-- **來源家族**：root-path-01
+
+### except
+- **中文**：除了；排除
+- **英文釋義**：除了；排除
+- **例句**：All trials except one used blinded scoring.
+- **中譯**：除一項外皆用盲評。
+- **來源家族**：root-cap-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### pathos
-- **中文**：悲愴力；同情的感染
-- **英文釋義**：悲愴力；同情的感染
-- **例句**：The speech relied more on pathos than on proof.
-- **中譯**：演說更依賴悲愴感染而非證據。
-- **來源家族**：root-path-01
+
+### expel
+- **中文**：驅逐；開除
+- **英文釋義**：驅逐；開除
+- **例句**：Schools rarely expel for honest error, but silence does.
+- **中譯**：學校少因誠實錯誤開除，沉默卻會。
+- **來源家族**：root-pel-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### precede
-- **中文**：先於；領先
-- **英文釋義**：先於；領先
-- **例句**：Definitions should precede measurement choices.
-- **中譯**：定義應先於測量選擇。
-- **來源家族**：root-ced-01
+
+### explain
+- **中文**：解釋
+- **英文釋義**：解釋
+- **例句**：Explain exclusions before results.
+- **中譯**：結果前先解釋排除。
+- **來源家族**：rhyme-ain-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### predecessor
-- **中文**：前任；前身
-- **英文釋義**：前任；前身
-- **例句**：Our method improves on its predecessor.
-- **中譯**：我們的方法改進了其前身。
-- **來源家族**：root-ced-01
+
+### explicit
+- **中文**：明確的
+- **英文釋義**：明確的
+- **例句**：Be explicit about missing-data rules.
+- **中譯**：缺值規則要明確。
+- **來源家族**：sem-clear-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### proceed
-- **中文**：繼續進行
-- **英文釋義**：繼續進行
-- **例句**：We may proceed only after consent is recorded.
-- **中譯**：唯有記錄同意後才可繼續。
-- **來源家族**：root-ced-01
+
+### exponent
+- **中文**：倡導者；指數
+- **英文釋義**：倡導者；指數
+- **例句**：An early exponent of open methods faced resistance.
+- **中譯**：開放方法早期倡導者遇阻力。
+- **來源家族**：root-pos-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### projectile
-- **中文**：拋射物
-- **英文釋義**：拋射物
-- **例句**：A metaphor can become a rhetorical projectile.
-- **中譯**：隱喻可能變成修辭拋射物。
-- **來源家族**：root-ject-01
+
+### export
+- **中文**：出口；輸出
+- **英文釋義**：出口；輸出
+- **例句**：Methods that export poorly across cultures need local tests.
+- **中譯**：難跨文化輸出的方法需在地檢驗。
+- **來源家族**：root-port-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### prospect
-- **中文**：前景；預期；探勘
-- **英文釋義**：前景；預期；探勘
-- **例句**：The prospect of replication motivated caution.
-- **中譯**：可複現的前景促使人們謹慎。
-- **來源家族**：root-spect-01
+
+### expose
+- **中文**：揭露
+- **英文釋義**：揭露
+- **例句**：Replication can expose fragile findings.
+- **中譯**：複現能揭露脆弱發現。
+- **來源家族**：root-pos-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### protract
-- **中文**：延長；拖延
-- **英文釋義**：延長；拖延
-- **例句**：They protracted negotiations to exhaust the other side.
-- **中譯**：他們拖延談判以消耗對方。
-- **來源家族**：root-tract-01
+
+### extrasensory
+- **中文**：超感官的
+- **英文釋義**：超感官的
+- **例句**：Extrasensory claims need extraordinary tests.
+- **中譯**：超感官宣稱需要非凡檢驗。
+- **來源家族**：root-sent-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### provoke
-- **中文**：激怒；激起
-- **英文釋義**：激怒；激起
-- **例句**：The remark was meant to provoke a reaction, not illuminate.
-- **中譯**：那句話意在激起反應，而非澄清。
-- **來源家族**：root-voc-01
+
+### facilitate
+- **中文**：促進；使容易
+- **英文釋義**：促進；使容易
+- **例句**：Templates facilitate consistent reporting.
+- **中譯**：模板促進一致報告。
+- **來源家族**：root-fac-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### recede
-- **中文**：後退；減退
-- **英文釋義**：後退；減退
-- **例句**：As noise recedes, the signal becomes clearer.
-- **中譯**：噪音減退後，訊號更清楚。
-- **來源家族**：root-ced-01
+
+### fact
+- **中文**：事實
+- **英文釋義**：事實
+- **例句**：Separate fact from preferred narrative.
+- **中譯**：把事實與偏好敘事分開。
+- **來源家族**：root-fac-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### retrograde
-- **中文**：倒退的；逆向的
-- **英文釋義**：倒退的；逆向的
-- **例句**：The policy looks retrograde by current standards.
-- **中譯**：以現行標準看，該政策顯得倒退。
-- **來源家族**：root-gress-01
+
+### factor
+- **中文**：因素；因子
+- **英文釋義**：因素；因子
+- **例句**：Control for each theorized factor explicitly.
+- **中譯**：明確控制每個理論因素。
+- **來源家族**：root-fac-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### retrospect
-- **中文**：回顧
-- **英文釋義**：回顧
-- **例句**：In retrospect, the warning signs were clear.
-- **中譯**：事後回顧，警訊其實很清楚。
-- **來源家族**：root-spect-01
+
+### fertile
+- **中文**：肥沃的；多產的
+- **英文釋義**：肥沃的；多產的
+- **例句**：A fertile debate generated testable hypotheses.
+- **中譯**：多產辯論產生可檢驗假說。
+- **來源家族**：root-fer-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### secede
-- **中文**：退出；分離
-- **英文釋義**：退出；分離
-- **例句**：A faction threatened to secede from the coalition.
-- **中譯**：某派系威脅退出聯盟。
-- **來源家族**：root-ced-01
+
+### final
+- **中文**：最終的
+- **英文釋義**：最終的
+- **例句**：Final analyses should match the preregistered set.
+- **中譯**：最終分析應對齊預註冊集合。
+- **來源家族**：root-fin-01
 - **來源**：幽默聯想庫 S3a 補錄
-
-### seduce
-- **中文**：引誘；誘惑
-- **英文釋義**：引誘；誘惑
-- **例句**：Elegant prose can seduce readers past weak evidence.
-- **中譯**：優美文筆可能誘使讀者略過薄弱證據。
-- **來源家族**：root-duc-01
-- **來源**：幽默聯想庫 S3a 補錄
-
-### spectacle
-- **中文**：景象；壯觀場面
-- **英文釋義**：景象；壯觀場面
-- **例句**：Media spectacle can replace sober analysis.
-- **中譯**：媒體奇觀可能取代冷靜分析。
-- **來源家族**：root-spect-01
-- **來源**：幽默聯想庫 S3a 補錄
-
-### spectator
-- **中文**：旁觀者
-- **英文釋義**：旁觀者
-- **例句**：Democracy suffers when citizens remain spectators.
-- **中譯**：公民若只當旁觀者，民主會受損。
-- **來源家族**：root-spect-01
-- **來源**：幽默聯想庫 S3a 補錄
-
-### spectrum
-- **中文**：光譜；範圍
-- **英文釋義**：光譜；範圍
-- **例句**：Opinions fall across a wide spectrum.
-- **中譯**：意見落在寬廣光譜上。
-- **來源家族**：root-spect-01
-- **來源**：幽默聯想庫 S3a 補錄
-
-### subvert
-- **中文**：顛覆；暗中破壞
-- **英文釋義**：顛覆；暗中破壞
-- **例句**：Satire can subvert official narratives without direct attack.
-- **中譯**：諷刺能在不直接攻擊下顛覆官方敘事。
-- **來源家族**：root-vert-01
-- **來源**：幽默聯想庫 S3a 補錄
-
-### torment
-- **中文**：折磨；苦惱
-- **英文釋義**：折磨；苦惱
-- **例句**：Doubt continued to torment the researchers.
-- **中譯**：疑慮持續折磨研究人員。
-- **來源家族**：root-tort-01
-- **來源**：幽默聯想庫 S3a 補錄
-
-### tractable
-- **中文**：易駕馭的；溫順的；易處理的
-- **英文釋義**：易駕馭的；溫順的；易處理的
-- **例句**：The problem looks more tractable after we define terms.
-- **中譯**：定義術語後，問題顯得更好處理。
-- **來源家族**：root-tract-01
-- **來源**：幽默聯想庫 S3a 補錄
-
-### trajectory
-- **中文**：軌道；軌跡
-- **英文釋義**：軌道；軌跡
-- **例句**：Career trajectory is not destiny.
-- **中譯**：職涯軌跡不是命運。
-- **來源家族**：root-ject-01
-- **來源**：幽默聯想庫 S3a 補錄
-
-### transmit
-- **中文**：傳送；傳播
-- **英文釋義**：傳送；傳播
-- **例句**：Rumors transmit faster than corrections.
-- **中譯**：謠言比澄清傳得更快。
-- **來源家族**：root-mit-01
-- **來源**：幽默聯想庫 S3a 補錄
-
-### unprecedented
-- **中文**：前所未有的
-- **英文釋義**：前所未有的
-- **例句**：Unprecedented scale requires new safeguards.
-- **中譯**：前所未有的規模需要新防護。
-- **來源家族**：root-ced-01
-- **來源**：幽默聯想庫 S3a 補錄
-
-### versatile
-- **中文**：多才多藝的；用途多的
-- **英文釋義**：多才多藝的；用途多的
-- **例句**：A versatile method travels across disciplines.
-- **中譯**：多用途方法能跨領域旅行。
-- **來源家族**：root-vert-01
-- **來源**：幽默聯想庫 S3a 補錄
-
-### viaduct
-- **中文**：高架橋
-- **英文釋義**：高架橋
-- **例句**：A viaduct of citations connected distant fields.
-- **中譯**：一座引文高架橋連接了遙遠領域。
-- **來源家族**：root-duc-01
-- **來源**：幽默聯想庫 S3a 補錄
-
-### wreak
-- **中文**：造成（破壞）；發洩
-- **英文釋義**：造成（破壞）；發洩
-- **例句**：The storm wreaked havoc on coastal towns.
-- **中譯**：暴風雨對沿海城鎮造成浩劫。
-- **來源家族**：rhyme-eak-01
+
+### finality
+- **中文**：終結性；定局
+- **英文釋義**：終結性；定局
+- **例句**：Treat editorial finality as provisional.
+- **中譯**：把編輯定局當暫定。
+- **來源家族**：root-fin-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### finance
+- **中文**：金融；資助
+- **英文釋義**：金融；資助
+- **例句**：Who finances the trial must be disclosed.
+- **中譯**：誰資助試驗必須揭露。
+- **來源家族**：root-fin-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### finish
+- **中文**：完成
+- **英文釋義**：完成
+- **例句**：Finish robustness before press quotes.
+- **中譯**：新聞稿前先完成穩健檢查。
+- **來源家族**：root-fin-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### finite
+- **中文**：有限的
+- **英文釋義**：有限的
+- **例句**：Attention is finite; prioritize claims.
+- **中譯**：注意力有限；排序主張。
+- **來源家族**：root-fin-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### gain
+- **中文**：獲得
+- **英文釋義**：獲得
+- **例句**：Report absolute risk gain, not relative alone.
+- **中譯**：報告絕對風險獲益，不只相對。
+- **來源家族**：rhyme-ain-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### grain
+- **中文**：穀粒；紋理；一點點
+- **英文釋義**：穀粒；紋理；一點點
+- **例句**：Take findings with a grain of uncertainty.
+- **中譯**：帶著一粒不確定性看待發現。
+- **來源家族**：rhyme-ain-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### historic
+- **中文**：歷史性的；有歷史意義的
+- **英文釋義**：歷史性的；有歷史意義的
+- **例句**：A historic leak is still one case.
+- **中譯**：歷史性洩漏仍是單案。
+- **來源家族**：look-pair-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### historical
+- **中文**：歷史的；有關歷史的
+- **英文釋義**：歷史的；有關歷史的
+- **例句**：Provide historical context for the measure.
+- **中譯**：為測量提供歷史脈絡。
+- **來源家族**：look-pair-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### implicit
+- **中文**：隱含的
+- **英文釋義**：隱含的
+- **例句**：Make implicit assumptions explicit.
+- **中譯**：把隱含假設說明白。
+- **來源家族**：sem-clear-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### imply
+- **中文**：暗示；意味著
+- **英文釋義**：暗示；意味著
+- **例句**：Does the abstract imply causality it did not identify?
+- **中譯**：摘要是否暗示未識別的因果？
+- **來源家族**：look-pair-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### import
+- **中文**：進口；重要性
+- **英文釋義**：進口；重要性
+- **例句**：The import of the finding is practical, not merely theoretical.
+- **中譯**：該發現的重要性是實務的。
+- **來源家族**：root-port-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### important
+- **中文**：重要的
+- **英文釋義**：重要的
+- **例句**：Important claims deserve pre-registered tests.
+- **中譯**：重要主張值得預註冊檢驗。
+- **來源家族**：root-port-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### impose
+- **中文**：強加
+- **英文釋義**：強加
+- **例句**：Do not impose a narrative the data cannot carry.
+- **中譯**：不要強加資料扛不起的敘事。
+- **來源家族**：root-pos-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### impulse
+- **中文**：衝動；脈衝
+- **英文釋義**：衝動；脈衝
+- **例句**：Resist the impulse to peek at outcomes early.
+- **中譯**：忍住提早偷看結果的衝動。
+- **來源家族**：root-pel-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### indefinite
+- **中文**：不定的；無限期的
+- **英文釋義**：不定的；無限期的
+- **例句**：Indefinite postponement kills accountability.
+- **中譯**：無限期延期殺死課責。
+- **來源家族**：root-fin-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### independent
+- **中文**：獨立的
+- **英文釋義**：獨立的
+- **例句**：Independent replication beats in-house confirmation.
+- **中譯**：獨立複現勝過內部確認。
+- **來源家族**：root-pend-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### indifferent
+- **中文**：冷漠的；無所謂的
+- **英文釋義**：冷漠的；無所謂的
+- **例句**：An indifferent public still shapes turnout math.
+- **中譯**：冷漠公眾仍形塑投票率。
+- **來源家族**：root-fer-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### infer
+- **中文**：推論；推斷
+- **英文釋義**：推論；推斷
+- **例句**：From silence we should not infer consent.
+- **中譯**：不該從沉默推論出同意。
+- **來源家族**：root-fer-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### infinite
+- **中文**：無限的
+- **英文釋義**：無限的
+- **例句**：Infinite flexibility makes false positives infinite too.
+- **中譯**：無限彈性也讓假陽性無限。
+- **來源家族**：root-fin-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### infrastructure
+- **中文**：基礎設施
+- **英文釋義**：基礎設施
+- **例句**：Data infrastructure is part of scientific capital.
+- **中譯**：資料基礎設施是科學資本。
+- **來源家族**：root-struct-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### injury
+- **中文**：傷害
+- **英文釋義**：傷害
+- **例句**：Underpowered studies can still cause injury via false hope.
+- **中譯**：低檢定力研究仍可透過假希望造成傷害。
+- **來源家族**：root-jud-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### injustice
+- **中文**：不義
+- **英文釋義**：不義
+- **例句**：Citation injustice tracks prestige gradients.
+- **中譯**：引用不義追蹤聲望梯度。
+- **來源家族**：root-jud-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### inscribe
+- **中文**：題寫；銘刻
+- **英文釋義**：題寫；銘刻
+- **例句**：Values inscribed in charters need operational teeth.
+- **中譯**：憲章銘刻的價值需要可操作牙齒。
+- **來源家族**：root-scrib-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### institution
+- **中文**：制度；機構
+- **英文釋義**：制度；機構
+- **例句**：Institution design shapes what evidence counts.
+- **中譯**：制度設計形塑何謂有效證據。
+- **來源家族**：root-sta-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### instruct
+- **中文**：指導；指示
+- **英文釋義**：指導；指示
+- **例句**：Protocols instruct assistants on coding edge cases.
+- **中譯**：流程指示助理如何編碼邊界案例。
+- **來源家族**：root-struct-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### instructive
+- **中文**：有啟發的
+- **英文釋義**：有啟發的
+- **例句**：Failed replications can be instructive.
+- **中譯**：失敗複現可以有啟發。
+- **來源家族**：root-struct-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### instrument
+- **中文**：工具；儀器
+- **英文釋義**：工具；儀器
+- **例句**：Validate the instrument before scaling the survey.
+- **中譯**：放大調查前先驗證工具。
+- **來源家族**：root-struct-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### insupportable
+- **中文**：無法支撐的；難忍的
+- **英文釋義**：無法支撐的；難忍的
+- **例句**：That leap from survey to policy is insupportable.
+- **中譯**：從問卷跳到政策無法支撐。
+- **來源家族**：root-port-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### intercept
+- **中文**：攔截
+- **英文釋義**：攔截
+- **例句**：Filters intercept spam before it reaches inboxes.
+- **中譯**：過濾器在進信箱前攔截垃圾信。
+- **來源家族**：root-cap-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### intervene
+- **中文**：介入
+- **英文釋義**：介入
+- **例句**：When harm appears, protocols say when to intervene.
+- **中譯**：出現傷害時，流程規定何時介入。
+- **來源家族**：root-ven-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### intervention
+- **中文**：介入措施
+- **英文釋義**：介入措施
+- **例句**：Name the intervention dose and delivery.
+- **中譯**：說清介入劑量與交付。
+- **來源家族**：root-ven-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### invent
+- **中文**：發明
+- **英文釋義**：發明
+- **例句**：Do not invent subgroups after seeing outcomes.
+- **中譯**：看過結果後不要發明子群。
+- **來源家族**：root-ven-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### judge
+- **中文**：判斷；法官
+- **英文釋義**：判斷；法官
+- **例句**：Judge models by out-of-sample performance.
+- **中譯**：用樣本外表現判斷模型。
+- **來源家族**：root-jud-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### judgment
+- **中文**：判斷；判決
+- **英文釋義**：判斷；判決
+- **例句**：Suspend judgment until diagnostics are clean.
+- **中譯**：診斷乾淨前先懸置判斷。
+- **來源家族**：root-jud-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### judicious
+- **中文**：明斷的；審慎的
+- **英文釋義**：明斷的；審慎的
+- **例句**：Judicious pruning of covariates beats kitchen-sink models.
+- **中譯**：審慎修剪共變勝過一鍋炒。
+- **來源家族**：root-jud-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### juridical
+- **中文**：法律上的；司法的
+- **英文釋義**：法律上的；司法的
+- **例句**：Juridical metaphors help, but biology is not a courtroom.
+- **中譯**：法律隱喻有用，但生物不是法庭。
+- **來源家族**：root-jud-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### jury
+- **中文**：陪審團
+- **英文釋義**：陪審團
+- **例句**：A jury of peers still needs conflict disclosures.
+- **中譯**：同儕陪審仍需利益揭露。
+- **來源家族**：root-jud-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### justice
+- **中文**：正義；司法
+- **英文釋義**：正義；司法
+- **例句**：Procedural justice matters in authorship disputes.
+- **中譯**：作者權爭議中程序正義重要。
+- **來源家族**：root-jud-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### justify
+- **中文**：證明正當；對齊
+- **英文釋義**：證明正當；對齊
+- **例句**：Justify each exclusion in one sentence.
+- **中譯**：每項排除用一句話證明正當。
+- **來源家族**：root-jud-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### lucid
+- **中文**：清晰的；清醒的
+- **英文釋義**：清晰的；清醒的
+- **例句**：A lucid limitation section builds trust.
+- **中譯**：清晰限制段建立信任。
+- **來源家族**：sem-clear-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### main
+- **中文**：主要的
+- **英文釋義**：主要的
+- **例句**：Keep the main hypothesis visually first.
+- **中譯**：主假說視覺上放最前。
+- **來源家族**：rhyme-ain-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### maintain
+- **中文**：維持；主張
+- **英文釋義**：維持；主張
+- **例句**：Maintain the same coding rules across waves.
+- **中譯**：各波次維持同一編碼規則。
+- **來源家族**：root-ten-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### manufacture
+- **中文**：製造；捏造
+- **英文釋義**：製造；捏造
+- **例句**：Do not manufacture certainty from noisy data.
+- **中譯**：不要從噪音資料捏造確定性。
+- **來源家族**：root-fac-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### manuscript
+- **中文**：手稿
+- **英文釋義**：手稿
+- **例句**：The manuscript should flag all deviations.
+- **中譯**：手稿應標明所有偏離。
+- **來源家族**：root-scrib-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### muddy
+- **中文**：混濁的
+- **英文釋義**：混濁的
+- **例句**：Muddy contrasts weaken identification stories.
+- **中譯**：混濁對照削弱識別故事。
+- **來源家族**：sem-clear-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### nebula
+- **中文**：星雲（比喻一團霧）
+- **英文釋義**：星雲（比喻一團霧）
+- **例句**：A nebula of buzzwords is not a theory.
+- **中譯**：術語星雲不是理論。
+- **來源家族**：sem-clear-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### nondescript
+- **中文**：無可名狀的；不起眼的
+- **英文釋義**：無可名狀的；不起眼的
+- **例句**：A nondescript method section hides key choices.
+- **中譯**：平淡方法段會藏起關鍵選擇。
+- **來源家族**：root-scrib-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### nonsense
+- **中文**：胡說
+- **英文釋義**：胡說
+- **例句**：Call speculation nonsense when it wears a proof costume.
+- **中譯**：投機穿上證明外衣時就叫它胡說。
+- **來源家族**：root-sent-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### obscure
+- **中文**：晦澀的；遮掩
+- **英文釋義**：晦澀的；遮掩
+- **例句**：Jargon can obscure a simple design flaw.
+- **中譯**：行話會遮掩簡單設計缺陷。
+- **來源家族**：sem-clear-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### obstacle
+- **中文**：障礙
+- **英文釋義**：障礙
+- **例句**：Paywalls remain an obstacle to synthesis.
+- **中譯**：付費牆仍是綜整障礙。
+- **來源家族**：root-sta-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### obstruct
+- **中文**：阻礙
+- **英文釋義**：阻礙
+- **例句**：Missing metadata obstructs reuse.
+- **中譯**：缺中繼資料阻礙再利用。
+- **來源家族**：root-struct-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### obstruction
+- **中文**：障礙
+- **英文釋義**：障礙
+- **例句**：Paywalls remain an obstruction to cumulative work.
+- **中譯**：付費牆仍是累積工作的障礙。
+- **來源家族**：root-struct-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### obtain
+- **中文**：獲得
+- **英文釋義**：獲得
+- **例句**：Obtain consent before linking records.
+- **中譯**：連結紀錄前先取得同意。
+- **來源家族**：root-ten-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### offer
+- **中文**：提供；提議
+- **英文釋義**：提供；提議
+- **例句**：The paper offers a narrower mechanism than advertised.
+- **中譯**：論文提供的機制比宣傳更窄。
+- **來源家族**：root-fer-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### opaque
+- **中文**：不透明的；難懂的
+- **英文釋義**：不透明的；難懂的
+- **例句**：Opaque preprocessing invites distrust.
+- **中譯**：不透明前處理招致不信。
+- **來源家族**：sem-clear-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### opportunity
+- **中文**：機會
+- **英文釋義**：機會
+- **例句**：Missing data is also a missed opportunity for honesty.
+- **中譯**：缺漏資料也是錯失誠實機會。
+- **來源家族**：root-port-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### oppose
+- **中文**：反對
+- **英文釋義**：反對
+- **例句**：Stakeholders may oppose transparency that threatens rents.
+- **中譯**：利害關係人可能反對威脅租金的透明。
+- **來源家族**：root-pos-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### participate
+- **中文**：參與
+- **英文釋義**：參與
+- **例句**：Patients should participate as partners, not only subjects.
+- **中譯**：病人應以夥伴身分參與。
+- **來源家族**：root-cap-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### pendant
+- **中文**：垂飾；懸著的
+- **英文釋義**：垂飾；懸著的
+- **例句**：A pendant caveat cannot rescue a broken design.
+- **中譯**：垂吊的但書救不了壞設計。
+- **來源家族**：root-pend-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### pending
+- **中文**：待決的；直到
+- **英文釋義**：待決的；直到
+- **例句**：Results are pending ethics clearance.
+- **中譯**：結果尚待倫理審查。
+- **來源家族**：root-pend-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### pension
+- **中文**：退休金
+- **英文釋義**：退休金
+- **例句**：Pension systems illustrate long-horizon policy tradeoffs.
+- **中譯**：退休金制度說明長期政策取捨。
+- **來源家族**：root-pend-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### perceive
+- **中文**：察覺；認為
+- **英文釋義**：察覺；認為
+- **例句**：Readers perceive confidence from hedging choices.
+- **中譯**：讀者從對沖用語察覺信心。
+- **來源家族**：root-cap-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### perfect
+- **中文**：完美的；完成
+- **英文釋義**：完美的；完成
+- **例句**：No design is perfect; report limitations.
+- **中譯**：沒有完美設計；請報告限制。
+- **來源家族**：root-fac-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### persist
+- **中文**：持續；堅持
+- **英文釋義**：持續；堅持
+- **例句**：Biases persist when incentives stay misaligned.
+- **中譯**：誘因錯位時偏差持續。
+- **來源家族**：root-sta-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### perspective
+- **中文**：視角；觀點
+- **英文釋義**：視角；觀點
+- **例句**：State the theoretical perspective up front.
+- **中譯**：先說理論視角。
+- **來源家族**：look-pair-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### plain
+- **中文**：清楚的；平原
+- **英文釋義**：清楚的；平原
+- **例句**：Use plain language in consent forms.
+- **中譯**：同意書用清楚語言。
+- **來源家族**：rhyme-ain-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### portable
+- **中文**：可攜的；可移植的
+- **英文釋義**：可攜的；可移植的
+- **例句**：A portable checklist travels between labs.
+- **中譯**：可移植檢核表能在實驗室間旅行。
+- **來源家族**：root-port-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### porter
+- **中文**：搬運工
+- **英文釋義**：搬運工
+- **例句**：Think of operationalization as the porter of concepts.
+- **中譯**：操作型定義像概念搬運工。
+- **來源家族**：root-port-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### portfolio
+- **中文**：作品集；投資組合
+- **英文釋義**：作品集；投資組合
+- **例句**：A methods portfolio beats a single fashionable tool.
+- **中譯**：方法組合勝過單一流行工具。
+- **來源家族**：root-port-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### positive
+- **中文**：正面的；陽性的
+- **英文釋義**：正面的；陽性的
+- **例句**：A positive result still needs a credible mechanism.
+- **中譯**：陽性結果仍需可信機制。
+- **來源家族**：root-pos-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### postpone
+- **中文**：延期
+- **英文釋義**：延期
+- **例句**：Postpone celebration until robustness checks pass.
+- **中譯**：穩健檢查通過前先延期慶祝。
+- **來源家族**：root-pos-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### postscript
+- **中文**：又及；附言
+- **英文釋義**：又及；附言
+- **例句**：A postscript cannot fix a broken identification strategy.
+- **中譯**：又及救不了壞的識別策略。
+- **來源家族**：root-scrib-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### predict
+- **中文**：預測
+- **英文釋義**：預測
+- **例句**：Predict direction and rough magnitude when possible.
+- **中譯**：盡可能預測方向與大致幅度。
+- **來源家族**：root-dict-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### predictor
+- **中文**：預測變項／預測器
+- **英文釋義**：預測變項／預測器
+- **例句**：A strong predictor is not automatically a cause.
+- **中譯**：強預測子不自動是原因。
+- **來源家族**：root-dict-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### prefer
+- **中文**：更喜歡；寧可
+- **英文釋義**：更喜歡；寧可
+- **例句**：Reviewers prefer precise claims over sweeping ones.
+- **中譯**：審稿人寧可要精確主張。
+- **來源家族**：root-fer-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### prejudice
+- **中文**：偏見；損害
+- **英文釋義**：偏見；損害
+- **例句**：Prejudice enters when labels leak into coding.
+- **中譯**：標籤洩漏進編碼時偏見進入。
+- **來源家族**：root-jud-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### prejudicial
+- **中文**：有 Harm／偏見的
+- **英文釋義**：有 Harm／偏見的
+- **例句**：Prejudicial language in reviews should be edited out.
+- **中譯**：審稿中的偏見語言應刪除。
+- **來源家族**：root-jud-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### prevent
+- **中文**：防止
+- **英文釋義**：防止
+- **例句**：Blinding can prevent some expectancy biases.
+- **中譯**：盲法可防止部分期望偏差。
+- **來源家族**：root-ven-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### prevention
+- **中文**：預防
+- **英文釋義**：預防
+- **例句**：Prevention claims need absolute risk context.
+- **中譯**：預防宣稱需要絕對風險脈絡。
+- **來源家族**：root-ven-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### proficient
+- **中文**：熟練的
+- **英文釋義**：熟練的
+- **例句**：Proficient coding still needs code review.
+- **中譯**：熟練寫碼仍需審查。
+- **來源家族**：root-fac-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### propensity
+- **中文**：傾向
+- **英文釋義**：傾向
+- **例句**：Estimate propensity with covariates chosen ex ante.
+- **中譯**：用事先選好的共變估計傾向。
+- **來源家族**：root-pend-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### propose
+- **中文**：提議
+- **英文釋義**：提議
+- **例句**：We propose a preregistered analysis plan.
+- **中譯**：我們提議預註冊分析計畫。
+- **來源家族**：root-pos-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### prospective
+- **中文**：前瞻的；預期的
+- **英文釋義**：前瞻的；預期的
+- **例句**：Prefer prospective registration when feasible.
+- **中譯**：可行時寧用前瞻註冊。
+- **來源家族**：look-pair-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### provide
+- **中文**：提供
+- **英文釋義**：提供
+- **例句**：Provide code that runs on a clean machine.
+- **中譯**：提供能在乾淨機器跑的程式。
+- **來源家族**：root-vid-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### pulsate
+- **中文**：搏動
+- **英文釋義**：搏動
+- **例句**：Attention pulsates with media cycles.
+- **中譯**：注意力隨媒體週期搏動。
+- **來源家族**：root-pel-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### pulse
+- **中文**：脈搏；脈衝
+- **英文釋義**：脈搏；脈衝
+- **例句**：Take the pulse of the literature with living reviews.
+- **中譯**：用持續評論為文獻把脈。
+- **來源家族**：root-pel-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### rain
+- **中文**：雨
+- **英文釋義**：雨
+- **例句**：When critiques rain, triage by severity.
+- **中譯**：批評如雨時依嚴重度分流。
+- **來源家族**：rhyme-ain-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### receive
+- **中文**：收到
+- **英文釋義**：收到
+- **例句**：Did the editor receive the corrected supplement?
+- **中譯**：編輯收到修正附錄了嗎？
+- **來源家族**：root-cap-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### recipient
+- **中文**：接受者
+- **英文釋義**：接受者
+- **例句**：Name the recipient of benefits, not only average effects.
+- **中譯**：說清受益接受者，不只平均效應。
+- **來源家族**：root-cap-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### reconstruct
+- **中文**：重建
+- **英文釋義**：重建
+- **例句**：Historians reconstruct events from partial archives.
+- **中譯**：史家從殘缺檔案重建事件。
+- **來源家族**：root-struct-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### refer
+- **中文**：提及；轉介；參考
+- **英文釋義**：提及；轉介；參考
+- **例句**：Please refer to the appendix for full tables.
+- **中譯**：完整表格請參考附錄。
+- **來源家族**：root-fer-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### referendum
+- **中文**：公投
+- **英文釋義**：公投
+- **例句**：A referendum cannot replace careful cost analysis.
+- **中譯**：公投不能取代成本分析。
+- **來源家族**：root-fer-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### refine
+- **中文**：精煉；改進
+- **英文釋義**：精煉；改進
+- **例句**：Refine the codebook after pilot disagreements.
+- **中譯**：試點分歧後精煉編碼簿。
+- **來源家族**：root-fin-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### refinement
+- **中文**：精煉；改進
+- **英文釋義**：精煉；改進
+- **例句**：Each refinement should be logged.
+- **中譯**：每次精煉應記錄。
+- **來源家族**：root-fin-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### report
+- **中文**：報告
+- **英文釋義**：報告
+- **例句**：Report effect sizes with intervals, not stars alone.
+- **中譯**：報告效應量請帶區間。
+- **來源家族**：root-port-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### repository
+- **中文**：儲庫
+- **英文釋義**：儲庫
+- **例句**：A public repository reduces private hoarding of data.
+- **中譯**：公開儲庫減少私藏。
+- **來源家族**：root-pos-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### resentment
+- **中文**：怨恨
+- **英文釋義**：怨恨
+- **例句**：Unpaid reviewing breeds resentment.
+- **中譯**：無酬審稿滋生怨恨。
+- **來源家族**：root-sent-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### resist
+- **中文**：抵抗
+- **英文釋義**：抵抗
+- **例句**：Fields resist reforms that threaten hierarchies.
+- **中譯**：領域抵抗威脅階層的改革。
+- **來源家族**：root-sta-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### restrain
+- **中文**：抑制；拘束
+- **英文釋義**：抑制；拘束
+- **例句**：Restrain causal verbs without identification.
+- **中譯**：沒識別就抑制因果動詞。
+- **來源家族**：rhyme-ain-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### restructure
+- **中文**：改組；重整
+- **英文釋義**：改組；重整
+- **例句**：Restructure the paper around one sharp question.
+- **中譯**：圍繞一個尖銳問題重整論文。
+- **來源家族**：root-struct-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### retain
+- **中文**：保留；聘留
+- **英文釋義**：保留；聘留
+- **例句**：Retain raw logs for auditability.
+- **中譯**：保留原始紀錄以便稽核。
+- **來源家族**：root-ten-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### revise
+- **中文**：修訂
+- **英文釋義**：修訂
+- **例句**：Revise claims after the robustness battery.
+- **中譯**：穩健電池後再修訂主張。
+- **來源家族**：root-vid-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### script
+- **中文**：劇本；腳本
+- **英文釋義**：劇本；腳本
+- **例句**：Preregistration is a script against flexible plotting.
+- **中譯**：預註冊是對抗彈性畫圖的腳本。
+- **來源家族**：root-scrib-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### sense
+- **中文**：感官；意義；道理
+- **英文釋義**：感官；意義；道理
+- **例句**：Does this operationalization make sense theoretically?
+- **中譯**：此操作化理論上說得通嗎？
+- **來源家族**：root-sent-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### sensible
+- **中文**：明智的；可察覺的
+- **英文釋義**：明智的；可察覺的
+- **例句**：A sensible robustness check is cheap insurance.
+- **中譯**：明智穩健檢查是便宜保險。
+- **來源家族**：root-sent-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### sensitive
+- **中文**：敏感的
+- **英文釋義**：敏感的
+- **例句**：Results are sensitive to one influential point.
+- **中譯**：結果對一個影響點敏感。
+- **來源家族**：root-sent-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### sensory
+- **中文**：感官的
+- **英文釋義**：感官的
+- **例句**：Sensory overload in dashboards hides the signal.
+- **中譯**：儀表板感官過載會藏訊號。
+- **來源家族**：root-sent-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### sentiment
+- **中文**：情緒；意見
+- **英文釋義**：情緒；意見
+- **例句**：Policy should not track online sentiment alone.
+- **中譯**：政策不該只追網路情緒。
+- **來源家族**：root-sent-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### stability
+- **中文**：穩定性
+- **英文釋義**：穩定性
+- **例句**：Stability checks belong in the main text.
+- **中譯**：穩定性檢查應放正文。
+- **來源家族**：root-sta-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### stable
+- **中文**：穩定的
+- **英文釋義**：穩定的
+- **例句**：Seek stable estimates across specifications.
+- **中譯**：在不同設定中尋求穩定估計。
+- **來源家族**：root-sta-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### stance
+- **中文**：立場
+- **英文釋義**：立場
+- **例句**：State your stance on causal language explicitly.
+- **中譯**：明確陳述對因果語言的立場。
+- **來源家族**：root-sta-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### standard
+- **中文**：標準
+- **英文釋義**：標準
+- **例句**：Adopt reporting standards early.
+- **中譯**：及早採用報告標準。
+- **來源家族**：root-sta-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### statue
+- **中文**：雕像
+- **英文釋義**：雕像
+- **例句**：A statue of a founder is not a methods section.
+- **中譯**：創辦人雕像不是方法段。
+- **來源家族**：root-sta-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### status
+- **中文**：地位；狀態
+- **英文釋義**：地位；狀態
+- **例句**：Report status of preregistration deviations.
+- **中譯**：報告預註冊偏離狀態。
+- **來源家族**：root-sta-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### statute
+- **中文**：成文法
+- **英文釋義**：成文法
+- **例句**：Cite the statute, not a blog summary.
+- **中譯**：引用成文法，不是部落格摘要。
+- **來源家族**：root-sta-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### strain
+- **中文**：拉緊；張力；菌株
+- **英文釋義**：拉緊；張力；菌株
+- **例句**：Strain on staff predicts coding errors.
+- **中譯**：人員緊繃預測編碼錯誤。
+- **來源家族**：rhyme-ain-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### structural
+- **中文**：結構上的
+- **英文釋義**：結構上的
+- **例句**：Structural reforms beat one-off trainings.
+- **中譯**：結構改革勝過一次性訓練。
+- **來源家族**：root-struct-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### structure
+- **中文**：結構
+- **英文釋義**：結構
+- **例句**：Argument structure should be visible in headings.
+- **中譯**：論證結構應在標題可見。
+- **來源家族**：root-struct-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### subscribe
+- **中文**：訂閱；同意署名
+- **英文釋義**：訂閱；同意署名
+- **例句**：I cannot subscribe to that causal leap.
+- **中譯**：我無法附和那因果跳躍。
+- **來源家族**：root-scrib-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### substitute
+- **中文**：代替
+- **英文釋義**：代替
+- **例句**：Do not substitute rhetoric for identification.
+- **中譯**：不要用修辭替代識別。
+- **來源家族**：root-sta-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### suffer
+- **中文**：遭受；受苦
+- **英文釋義**：遭受；受苦
+- **例句**：The design will suffer if power is too low.
+- **中譯**：檢定力太低，設計會受苦。
+- **來源家族**：root-fer-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### sufficient
+- **中文**：足夠的
+- **英文釋義**：足夠的
+- **例句**：A sufficient statistic compresses without loss for the parameter.
+- **中譯**：充分統計量為參數無損壓縮。
+- **來源家族**：root-fac-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### superscript
+- **中文**：上標
+- **英文釋義**：上標
+- **例句**：Check superscripts in chemical and statistical notation.
+- **中譯**：檢查化學與統計記號上標。
+- **來源家族**：root-scrib-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### supervise
+- **中文**：監督
+- **英文釋義**：監督
+- **例句**：Supervise labeling to reduce drift.
+- **中譯**：監督標註以減少漂移。
+- **來源家族**：root-vid-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### support
+- **中文**：支持；支撐
+- **英文釋義**：支持；支撐
+- **例句**：Correlations alone rarely support causal claims.
+- **中譯**：單靠相關很少支撐因果。
+- **來源家族**：root-port-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### suspend
+- **中文**：暫停；懸吊
+- **英文釋義**：暫停；懸吊
+- **例句**：Suspend recruitment when adverse events cluster.
+- **中譯**：不良事件群聚時暫停收案。
+- **來源家族**：root-pend-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### sustain
+- **中文**：維持；支撐
+- **英文釋義**：維持；支撐
+- **例句**：Can the budget sustain longitudinal follow-up?
+- **中譯**：預算撐得起縱貫追蹤嗎？
+- **來源家族**：root-ten-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### tenant
+- **中文**：承租人
+- **英文釋義**：承租人
+- **例句**：Think of a theory as a tenant in the house of evidence.
+- **中譯**：把理論想成證據之屋的承租人。
+- **來源家族**：root-ten-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### train
+- **中文**：訓練；火車
+- **英文釋義**：訓練；火車
+- **例句**：Train annotators with gold standards.
+- **中譯**：用金標準訓練標註者。
+- **來源家族**：rhyme-ain-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### transfer
+- **中文**：轉移；調動
+- **英文釋義**：轉移；調動
+- **例句**：Do not transfer blame without tracing the cause.
+- **中譯**：未追因就不要轉移責難。
+- **來源家族**：root-fer-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### transparent
+- **中文**：透明的
+- **英文釋義**：透明的
+- **例句**：Transparent pipelines enable audit.
+- **中譯**：透明管線可稽核。
+- **來源家族**：sem-clear-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### unfinished
+- **中文**：未完成的
+- **英文釋義**：未完成的
+- **例句**：Unfinished robustness is unfinished science.
+- **中譯**：未完成穩健＝未完成科學。
+- **來源家族**：root-fin-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### unjust
+- **中文**：不公正的
+- **英文釋義**：不公正的
+- **例句**：Unjust authorship norms waste talent.
+- **中譯**：不公正作者規範浪費人才。
+- **來源家族**：root-jud-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### vague
+- **中文**：含糊的
+- **英文釋義**：含糊的
+- **例句**：Vague hypotheses cannot fail.
+- **中譯**：含糊假說不會失敗。
+- **來源家族**：sem-clear-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### venture
+- **中文**：冒險事業；敢於
+- **英文釋義**：冒險事業；敢於
+- **例句**：Venture capital metaphors mislead basic science.
+- **中譯**：創投隱喻誤導基礎科學。
+- **來源家族**：root-ven-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### verdict
+- **中文**：裁決；定論
+- **英文釋義**：裁決；定論
+- **例句**：The verdict on generalizability is still out.
+- **中譯**：概化性的定論尚未出爐。
+- **來源家族**：root-dict-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### videotape
+- **中文**：錄影帶／錄影（教學）
+- **英文釋義**：錄影帶／錄影（教學）
+- **例句**：Videotape coding training for reliability audits.
+- **中譯**：為信度稽核錄下編碼訓練。
+- **來源家族**：root-vid-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### visage
+- **中文**：臉容；外貌
+- **英文釋義**：臉容；外貌
+- **例句**：Do not judge a paper by journal visage alone.
+- **中譯**：別只靠期刊臉判斷論文。
+- **來源家族**：root-vid-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### visibility
+- **中文**：可見度
+- **英文釋義**：可見度
+- **例句**：Visibility of negative results is still uneven.
+- **中譯**：負結果可見度仍不均。
+- **來源家族**：root-vid-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### visible
+- **中文**：可見的
+- **英文釋義**：可見的
+- **例句**：Make assumptions visible in a box.
+- **中譯**：把假設放進框裡看得見。
+- **來源家族**：root-vid-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### vision
+- **中文**：視力；願景
+- **英文釋義**：視力；願景
+- **例句**：A vision without metrics is a poster.
+- **中譯**：沒有指標的願景只是海報。
+- **來源家族**：root-vid-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### visit
+- **中文**：造訪
+- **英文釋義**：造訪
+- **例句**：Visit the raw traces before summarizing.
+- **中譯**：摘要前先看原始軌跡。
+- **來源家族**：root-vid-01
+- **來源**：幽默聯想庫 S3a 補錄
+
+### visual
+- **中文**：視覺的
+- **英文釋義**：視覺的
+- **例句**：Visual clutter undermines chart honesty.
+- **中譯**：視覺雜訊破壞圖表誠實。
+- **來源家族**：root-vid-01
 - **來源**：幽默聯想庫 S3a 補錄
 
 ---

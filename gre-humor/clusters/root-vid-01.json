@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "evident",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "明顯的",
       "roleInScript": "看得見",
       "humorDevice": "morphology",
@@ -19,11 +19,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "provide",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "提供",
       "roleInScript": "預先看顧而給",
       "humorDevice": "morphology",
@@ -33,7 +34,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "provident",
@@ -47,11 +49,12 @@
       "related": {
         "synonyms": "",
         "antonyms": "improvident"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "revise",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "修訂",
       "roleInScript": "再看改過",
       "humorDevice": "morphology",
@@ -61,11 +64,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "supervise",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "監督",
       "roleInScript": "看管",
       "humorDevice": "morphology",
@@ -75,11 +79,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "visage",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "臉容；外貌",
       "roleInScript": "看上去的臉",
       "humorDevice": "story",
@@ -89,11 +94,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "visible",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "可見的",
       "roleInScript": "能看見",
       "humorDevice": "morphology",
@@ -103,11 +109,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "vision",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "視力；願景",
       "roleInScript": "看見的方向",
       "humorDevice": "story",
@@ -117,11 +124,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "visit",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "造訪",
       "roleInScript": "走去看",
       "humorDevice": "story",
@@ -131,11 +139,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "visual",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "視覺的",
       "roleInScript": "用眼睛看的",
       "humorDevice": "morphology",
@@ -145,11 +154,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "evidence",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "證據",
       "roleInScript": "看得見的憑據",
       "humorDevice": "morphology",
@@ -159,7 +169,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "improvise",
@@ -173,7 +184,8 @@
       "related": {
         "synonyms": "ad-lib, impromptu, offhand",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "invidious",
@@ -187,11 +199,12 @@
       "related": {
         "synonyms": "discriminatory",
         "antonyms": "unprejudiced"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "videotape",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "錄影帶／錄影（教學）",
       "roleInScript": "把看見的存下",
       "humorDevice": "story",
@@ -201,11 +214,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "visibility",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "可見度",
       "roleInScript": "能見程度",
       "humorDevice": "morphology",
@@ -215,7 +229,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     }
   ],
   "reviewHooks": [

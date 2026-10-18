@@ -1,6 +1,6 @@
 {
   "source": "GRE vocabulary.md",
-  "total": 3938,
+  "total": 4162,
   "detailed": 3844,
   "withAntonyms": 1945,
   "withSpeakableExamples": 3844,
@@ -10,7 +10,7 @@
     {
       "letter": "A",
       "slug": "a",
-      "wordCount": 232,
+      "wordCount": 244,
       "words": [
         {
           "id": "gre-abandon",
@@ -436,6 +436,22 @@
           "detailed": true
         },
         {
+          "id": "gre-abstruse",
+          "en": "abstruse",
+          "zh": "深奧難解的",
+          "endef": "深奧難解的",
+          "exampleEn": "Abstruse prose is not rigor.",
+          "example": "Abstruse prose is not rigor. （深奧難解的）",
+          "exampleUsage": "深奧難解文筆≠嚴謹。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "sem-clear-01"
+        },
+        {
           "id": "gre-absurd",
           "en": "absurd",
           "zh": "adj. 不合理的｜教學補註：ridiculously unreasonable, unsound, or incongruous",
@@ -510,6 +526,22 @@
           "lookalikes": "",
           "sources": "救命800",
           "detailed": true
+        },
+        {
+          "id": "gre-accept",
+          "en": "accept",
+          "zh": "接受",
+          "endef": "接受",
+          "exampleEn": "Journals increasingly accept null results with strong design.",
+          "example": "Journals increasingly accept null results with strong design. （接受）",
+          "exampleUsage": "期刊漸接受設計強的無效應結果。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-cap-01"
         },
         {
           "id": "gre-accessory",
@@ -949,6 +981,22 @@
           "detailed": true
         },
         {
+          "id": "gre-advent",
+          "en": "advent",
+          "zh": "到來；來臨",
+          "endef": "到來；來臨",
+          "exampleEn": "The advent of cheap sequencing changed priors.",
+          "example": "The advent of cheap sequencing changed priors. （到來；來臨）",
+          "exampleUsage": "廉價定序到來改變先驗。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-ven-01"
+        },
+        {
           "id": "gre-adventitious",
           "en": "adventitious",
           "zh": "外來的；偶然的",
@@ -962,6 +1010,22 @@
           "lookalikes": "avert 防止避免，移開 ｜ advert v.注意到，提到 n.廣告 ｜ advent n.出現到來 ｜ adventitious 偶然的，外來的~virus",
           "sources": "GRE3000、複習詞、紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-adventure",
+          "en": "adventure",
+          "zh": "冒險",
+          "endef": "冒險",
+          "exampleEn": "Methodological adventure needs sharper safeguards.",
+          "example": "Methodological adventure needs sharper safeguards. （冒險）",
+          "exampleUsage": "方法冒險需要更利防護。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-ven-01"
         },
         {
           "id": "gre-adverse",
@@ -1585,6 +1649,22 @@
           "detailed": true
         },
         {
+          "id": "gre-ambiguous",
+          "en": "ambiguous",
+          "zh": "模稜的",
+          "endef": "模稜的",
+          "exampleEn": "Ambiguous items destroy interrater reliability.",
+          "example": "Ambiguous items destroy interrater reliability. （模稜的）",
+          "exampleUsage": "模稜題項摧毀評分者信度。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "sem-clear-01"
+        },
+        {
           "id": "gre-ambivalent",
           "en": "ambivalent",
           "zh": "adj. 矛盾的｜教學補註：having a mixture of opposing feelings",
@@ -2127,6 +2207,22 @@
           "detailed": true
         },
         {
+          "id": "gre-anticipate",
+          "en": "anticipate",
+          "zh": "預期；預先處理",
+          "endef": "預期；預先處理",
+          "exampleEn": "Anticipate reviewer concerns in the limitations section.",
+          "example": "Anticipate reviewer concerns in the limitations section. （預期；預先處理）",
+          "exampleUsage": "在限制段落預先處理審稿疑慮。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-cap-01"
+        },
+        {
           "id": "gre-anticlimactic",
           "en": "anticlimactic",
           "zh": "突然衰減｜教學補註：of or relating to a sudden change from an impressive to a ludicrous style",
@@ -2380,6 +2476,38 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-append",
+          "en": "append",
+          "zh": "附加",
+          "endef": "附加",
+          "exampleEn": "Append the codebook to the replication package.",
+          "example": "Append the codebook to the replication package. （附加）",
+          "exampleUsage": "把編碼簿附加到複現包。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-pend-01"
+        },
+        {
+          "id": "gre-appendix",
+          "en": "appendix",
+          "zh": "附錄；闌尾",
+          "endef": "附錄；闌尾",
+          "exampleEn": "Put long tables in an appendix.",
+          "example": "Put long tables in an appendix. （附錄；闌尾）",
+          "exampleUsage": "長表放附錄。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-pend-01"
         },
         {
           "id": "gre-appraise",
@@ -2742,6 +2870,22 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-artificial",
+          "en": "artificial",
+          "zh": "人造的；矯揉的",
+          "endef": "人造的；矯揉的",
+          "exampleEn": "Artificial categories can reify soft boundaries.",
+          "example": "Artificial categories can reify soft boundaries. （人造的；矯揉的）",
+          "exampleUsage": "人為範疇可能把軟邊界實體化。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-fac-01"
         },
         {
           "id": "gre-artless",
@@ -3150,6 +3294,22 @@
           "detailed": true
         },
         {
+          "id": "gre-attention",
+          "en": "attention",
+          "zh": "注意",
+          "endef": "注意",
+          "exampleEn": "Attention is a scarce resource in crowded literatures.",
+          "example": "Attention is a scarce resource in crowded literatures. （注意）",
+          "exampleUsage": "擁擠文獻裡注意力是稀缺資源。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-ten-01"
+        },
+        {
           "id": "gre-attenuate",
           "en": "attenuate",
           "zh": "減弱；稀薄的",
@@ -3406,6 +3566,22 @@
           "detailed": true
         },
         {
+          "id": "gre-avenue",
+          "en": "avenue",
+          "zh": "大道；途徑",
+          "endef": "大道；途徑",
+          "exampleEn": "Preregistration is one avenue to credibility.",
+          "example": "Preregistration is one avenue to credibility. （大道；途徑）",
+          "exampleUsage": "預註冊是可信度途徑之一。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-ven-01"
+        },
+        {
           "id": "gre-aver",
           "en": "aver",
           "zh": "聲稱爲真｜教學補註：report or maintain",
@@ -3419,6 +3595,22 @@
           "lookalikes": "",
           "sources": "複習詞、紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-averse",
+          "en": "averse",
+          "zh": "厭惡的；不願的",
+          "endef": "厭惡的；不願的",
+          "exampleEn": "Risk-averse editors may over-weight novelty.",
+          "example": "Risk-averse editors may over-weight novelty. （厭惡的；不願的）",
+          "exampleUsage": "厭惡風險的編輯可能過度看重新奇。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "look-pair-01"
         },
         {
           "id": "gre-aversion",
@@ -3515,7 +3707,7 @@
     {
       "letter": "B",
       "slug": "b",
-      "wordCount": 152,
+      "wordCount": 155,
       "words": [
         {
           "id": "gre-backset",
@@ -4252,6 +4444,38 @@
           "lookalikes": "",
           "sources": "複習詞、紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-benediction",
+          "en": "benediction",
+          "zh": "祝福",
+          "endef": "祝福",
+          "exampleEn": "The acknowledgments need not be a benediction marathon.",
+          "example": "The acknowledgments need not be a benediction marathon. （祝福）",
+          "exampleUsage": "誌謝不必變成祝福馬拉松。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-dict-01"
+        },
+        {
+          "id": "gre-benefactor",
+          "en": "benefactor",
+          "zh": "恩人；捐助者",
+          "endef": "恩人；捐助者",
+          "exampleEn": "A quiet benefactor funded the open archive.",
+          "example": "A quiet benefactor funded the open archive. （恩人；捐助者）",
+          "exampleUsage": "低調捐助者資助開放典藏。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-fac-01"
         },
         {
           "id": "gre-benevolence",
@@ -5214,6 +5438,22 @@
           "detailed": true
         },
         {
+          "id": "gre-brain",
+          "en": "brain",
+          "zh": "腦",
+          "endef": "腦",
+          "exampleEn": "Brain-friendly figures beat dense tables sometimes.",
+          "example": "Brain-friendly figures beat dense tables sometimes. （腦）",
+          "exampleUsage": "有時腦友好圖勝密集表。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "rhyme-ain-01"
+        },
+        {
           "id": "gre-braise",
           "en": "braise",
           "zh": "燉｜教學補註：cook in liquid",
@@ -5803,7 +6043,7 @@
     {
       "letter": "C",
       "slug": "c",
-      "wordCount": 344,
+      "wordCount": 370,
       "words": [
         {
           "id": "gre-cachet",
@@ -6151,6 +6391,22 @@
           "detailed": true
         },
         {
+          "id": "gre-capable",
+          "en": "capable",
+          "zh": "有能力的",
+          "endef": "有能力的",
+          "exampleEn": "A capable design still needs honest missing-data rules.",
+          "example": "A capable design still needs honest missing-data rules. （有能力的）",
+          "exampleUsage": "有能力的設計仍需誠實缺值規則。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-cap-01"
+        },
+        {
           "id": "gre-capacious",
           "en": "capacious",
           "zh": "空間大的｜教學補註：large in capacity",
@@ -6164,6 +6420,22 @@
           "lookalikes": "",
           "sources": "複習詞、紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-capacity",
+          "en": "capacity",
+          "zh": "容量；能力",
+          "endef": "容量；能力",
+          "exampleEn": "Institutional capacity limits how fast reforms travel.",
+          "example": "Institutional capacity limits how fast reforms travel. （容量；能力）",
+          "exampleUsage": "制度容量限制改革速度。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-cap-01"
         },
         {
           "id": "gre-caper",
@@ -6269,6 +6541,38 @@
           "lookalikes": "",
           "sources": "填空1300、複習詞、紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-captivate",
+          "en": "captivate",
+          "zh": "迷住；吸引",
+          "endef": "迷住；吸引",
+          "exampleEn": "A vivid case can captivate without proving generality.",
+          "example": "A vivid case can captivate without proving generality. （迷住；吸引）",
+          "exampleUsage": "生動案例能迷住，但不證明普遍性。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-cap-01"
+        },
+        {
+          "id": "gre-capture",
+          "en": "capture",
+          "zh": "捕捉；奪取",
+          "endef": "捕捉；奪取",
+          "exampleEn": "Surveys rarely capture tacit knowledge well.",
+          "example": "Surveys rarely capture tacit knowledge well. （捕捉；奪取）",
+          "exampleUsage": "問卷很少能捕捉默會知識。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-cap-01"
         },
         {
           "id": "gre-careen",
@@ -7381,6 +7685,22 @@
           "detailed": true
         },
         {
+          "id": "gre-circumference",
+          "en": "circumference",
+          "zh": "圓周；周邊",
+          "endef": "圓周；周邊",
+          "exampleEn": "Stay within the circumference of the defined construct.",
+          "example": "Stay within the circumference of the defined construct. （圓周；周邊）",
+          "exampleUsage": "停留在構念圓周內。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-fer-01"
+        },
+        {
           "id": "gre-circumlocution",
           "en": "circumlocution",
           "zh": "n. 繞圈子說話",
@@ -8283,6 +8603,22 @@
           "detailed": true
         },
         {
+          "id": "gre-compel",
+          "en": "compel",
+          "zh": "強迫",
+          "endef": "強迫",
+          "exampleEn": "Evidence should compel revision, not loyalty tests.",
+          "example": "Evidence should compel revision, not loyalty tests. （強迫）",
+          "exampleUsage": "證據應強迫修正，而非忠誠測驗。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-pel-01"
+        },
+        {
           "id": "gre-compendium",
           "en": "compendium",
           "zh": "概要；梗概",
@@ -8298,6 +8634,22 @@
           "detailed": true
         },
         {
+          "id": "gre-compensate",
+          "en": "compensate",
+          "zh": "補償",
+          "endef": "補償",
+          "exampleEn": "Weighting can compensate for known nonresponse.",
+          "example": "Weighting can compensate for known nonresponse. （補償）",
+          "exampleUsage": "加權可補償已知不回應。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-pend-01"
+        },
+        {
           "id": "gre-compile",
           "en": "compile",
           "zh": "匯聚｜教學補註：get or gather together",
@@ -8311,6 +8663,22 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-complain",
+          "en": "complain",
+          "zh": "抱怨",
+          "endef": "抱怨",
+          "exampleEn": "Reviewers may complain about missing power analysis.",
+          "example": "Reviewers may complain about missing power analysis. （抱怨）",
+          "exampleUsage": "審稿人可能抱怨缺少檢定力分析。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "rhyme-ain-01"
         },
         {
           "id": "gre-complaint",
@@ -8388,6 +8756,38 @@
           "detailed": true
         },
         {
+          "id": "gre-component",
+          "en": "component",
+          "zh": "組成部分",
+          "endef": "組成部分",
+          "exampleEn": "Trust is a component of cumulative science.",
+          "example": "Trust is a component of cumulative science. （組成部分）",
+          "exampleUsage": "信任是累積科學的元件。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-pos-01"
+        },
+        {
+          "id": "gre-compose",
+          "en": "compose",
+          "zh": "組成；撰寫",
+          "endef": "組成；撰寫",
+          "exampleEn": "Compose the abstract after results are stable.",
+          "example": "Compose the abstract after results are stable. （組成；撰寫）",
+          "exampleUsage": "結果穩定後再寫摘要。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-pos-01"
+        },
+        {
           "id": "gre-composure",
           "en": "composure",
           "zh": "鎮定｜教學補註：steadiness of mind under stress",
@@ -8433,6 +8833,22 @@
           "detailed": true
         },
         {
+          "id": "gre-compulsory",
+          "en": "compulsory",
+          "zh": "強制的",
+          "endef": "強制的",
+          "exampleEn": "Compulsory preregistration changes gaming incentives.",
+          "example": "Compulsory preregistration changes gaming incentives. （強制的）",
+          "exampleUsage": "強制預註冊改變投機誘因。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-pel-01"
+        },
+        {
           "id": "gre-compunction",
           "en": "compunction",
           "zh": "n. 內疚｜教學補註：a feeling of guilt or regret",
@@ -8476,6 +8892,22 @@
           "lookalikes": "",
           "sources": "複習詞、紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-concept",
+          "en": "concept",
+          "zh": "概念",
+          "endef": "概念",
+          "exampleEn": "Define the concept before you operationalize it.",
+          "example": "Define the concept before you operationalize it. （概念）",
+          "exampleUsage": "操作化前先定義概念。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-cap-01"
         },
         {
           "id": "gre-concerted",
@@ -8796,6 +9228,22 @@
           "detailed": true
         },
         {
+          "id": "gre-confine",
+          "en": "confine",
+          "zh": "限制；禁閉",
+          "endef": "限制；禁閉",
+          "exampleEn": "Confine exploratory plots to a sandbox.",
+          "example": "Confine exploratory plots to a sandbox. （限制；禁閉）",
+          "exampleUsage": "探索圖關在沙盒內。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-fin-01"
+        },
+        {
           "id": "gre-confiscate",
           "en": "confiscate",
           "zh": "沒收；充公",
@@ -9067,6 +9515,38 @@
           "detailed": true
         },
         {
+          "id": "gre-consensus",
+          "en": "consensus",
+          "zh": "共識",
+          "endef": "共識",
+          "exampleEn": "Consensus can lag behind better evidence.",
+          "example": "Consensus can lag behind better evidence. （共識）",
+          "exampleUsage": "共識可能落後更好證據。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-sent-01"
+        },
+        {
+          "id": "gre-consent",
+          "en": "consent",
+          "zh": "同意；許可",
+          "endef": "同意；許可",
+          "exampleEn": "Document consent before data linkage.",
+          "example": "Document consent before data linkage. （同意；許可）",
+          "exampleUsage": "資料連結前記錄同意。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-sent-01"
+        },
+        {
           "id": "gre-consequential",
           "en": "consequential",
           "zh": "重要的；自傲的",
@@ -9188,6 +9668,22 @@
           "detailed": true
         },
         {
+          "id": "gre-constitute",
+          "en": "constitute",
+          "zh": "構成；設立",
+          "endef": "構成；設立",
+          "exampleEn": "These items constitute the distress index.",
+          "example": "These items constitute the distress index. （構成；設立）",
+          "exampleUsage": "這些題項構成困擾指數。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-sta-01"
+        },
+        {
           "id": "gre-constitution",
           "en": "constitution",
           "zh": "憲法｜教學補註：law determining the fundamental political principles of a government",
@@ -9201,6 +9697,54 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-constraint",
+          "en": "constraint",
+          "zh": "約束；限制",
+          "endef": "約束；限制",
+          "exampleEn": "Budget is a hard constraint on sample size.",
+          "example": "Budget is a hard constraint on sample size. （約束；限制）",
+          "exampleUsage": "預算是樣本量硬約束。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "rhyme-ain-01"
+        },
+        {
+          "id": "gre-construct",
+          "en": "construct",
+          "zh": "建造；構念",
+          "endef": "建造；構念",
+          "exampleEn": "Define the construct before choosing items.",
+          "example": "Define the construct before choosing items. （建造；構念）",
+          "exampleUsage": "選題目前先定義構念。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-struct-01"
+        },
+        {
+          "id": "gre-construction",
+          "en": "construction",
+          "zh": "建造；解釋建構",
+          "endef": "建造；解釋建構",
+          "exampleEn": "That legal construction stretches the text.",
+          "example": "That legal construction stretches the text. （建造；解釋建構）",
+          "exampleUsage": "該法律解釋過度拉伸文本。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-struct-01"
         },
         {
           "id": "gre-construe",
@@ -9261,6 +9805,22 @@
           "lookalikes": "",
           "sources": "救命800",
           "detailed": true
+        },
+        {
+          "id": "gre-contain",
+          "en": "contain",
+          "zh": "包含；遏制",
+          "endef": "包含；遏制",
+          "exampleEn": "The model cannot contain every contextual factor.",
+          "example": "The model cannot contain every contextual factor. （包含；遏制）",
+          "exampleUsage": "模型無法裝下所有脈絡因素。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-ten-01"
         },
         {
           "id": "gre-contaminate",
@@ -9368,6 +9928,22 @@
           "detailed": true
         },
         {
+          "id": "gre-continent",
+          "en": "continent",
+          "zh": "大陸；克制的（古）",
+          "endef": "大陸；克制的（古）",
+          "exampleEn": "Results may not travel across continents without adaptation.",
+          "example": "Results may not travel across continents without adaptation. （大陸；克制的（古））",
+          "exampleUsage": "結果跨大陸未必不經適應就成立。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-ten-01"
+        },
+        {
           "id": "gre-contingent",
           "en": "contingent",
           "zh": "adj. 取決於｜教學補註：depending on something else",
@@ -9397,6 +9973,54 @@
           "sources": "幽默聯想庫 S3a 補錄",
           "detailed": true,
           "fromHumorCluster": "root-tort-01"
+        },
+        {
+          "id": "gre-contradict",
+          "en": "contradict",
+          "zh": "反駁；矛盾",
+          "endef": "反駁；矛盾",
+          "exampleEn": "New data may contradict a cherished model.",
+          "example": "New data may contradict a cherished model. （反駁；矛盾）",
+          "exampleUsage": "新資料可能矛盾於鍾愛模型。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-dict-01"
+        },
+        {
+          "id": "gre-contradiction",
+          "en": "contradiction",
+          "zh": "矛盾",
+          "endef": "矛盾",
+          "exampleEn": "Resolve contradiction before meta-analysis.",
+          "example": "Resolve contradiction before meta-analysis. （矛盾）",
+          "exampleUsage": "統合分析前先處理矛盾。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-dict-01"
+        },
+        {
+          "id": "gre-contravene",
+          "en": "contravene",
+          "zh": "違反；抵觸",
+          "endef": "違反；抵觸",
+          "exampleEn": "Hidden exclusions contravene the protocol.",
+          "example": "Hidden exclusions contravene the protocol. （違反；抵觸）",
+          "exampleUsage": "隱匿排除抵觸協議。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-ven-01"
         },
         {
           "id": "gre-contrite",
@@ -9563,6 +10187,22 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-convenient",
+          "en": "convenient",
+          "zh": "方便的",
+          "endef": "方便的",
+          "exampleEn": "Convenient samples limit external claims.",
+          "example": "Convenient samples limit external claims. （方便的）",
+          "exampleUsage": "方便樣本限制外部推論。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-ven-01"
         },
         {
           "id": "gre-conversant",
@@ -10636,6 +11276,22 @@
           "detailed": true
         },
         {
+          "id": "gre-crystal",
+          "en": "crystal",
+          "zh": "水晶（比喻清楚）",
+          "endef": "水晶（比喻清楚）",
+          "exampleEn": "Crystal-clear stopping rules prevent peeking.",
+          "example": "Crystal-clear stopping rules prevent peeking. （水晶（比喻清楚））",
+          "exampleUsage": "水晶般清楚的停止規則防偷看。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "sem-clear-01"
+        },
+        {
           "id": "gre-cub",
           "en": "cub",
           "zh": "幼獸｜教學補註：an awkward and inexperienced youth",
@@ -10985,7 +11641,7 @@
     {
       "letter": "D",
       "slug": "d",
-      "wordCount": 285,
+      "wordCount": 304,
       "words": [
         {
           "id": "gre-dabble",
@@ -11573,6 +12229,22 @@
           "detailed": true
         },
         {
+          "id": "gre-dedicate",
+          "en": "dedicate",
+          "zh": "奉獻；致力於",
+          "endef": "奉獻；致力於",
+          "exampleEn": "Dedicate a section to negative controls.",
+          "example": "Dedicate a section to negative controls. （奉獻；致力於）",
+          "exampleUsage": "專節獻給負控制。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-dict-01"
+        },
+        {
           "id": "gre-deduce",
           "en": "deduce",
           "zh": "演繹；推論",
@@ -11725,6 +12397,22 @@
           "detailed": true
         },
         {
+          "id": "gre-defer",
+          "en": "defer",
+          "zh": "延期；順從",
+          "endef": "延期；順從",
+          "exampleEn": "We defer judgment until replication arrives.",
+          "example": "We defer judgment until replication arrives. （延期；順從）",
+          "exampleUsage": "複現到來前，我們延後下判斷。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-fer-01"
+        },
+        {
           "id": "gre-deferential",
           "en": "deferential",
           "zh": "adj. 恭敬的｜教學補註：show respect to someone",
@@ -11768,6 +12456,38 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-define",
+          "en": "define",
+          "zh": "定義",
+          "endef": "定義",
+          "exampleEn": "Define success criteria before launch.",
+          "example": "Define success criteria before launch. （定義）",
+          "exampleUsage": "啟動前定義成功標準。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-fin-01"
+        },
+        {
+          "id": "gre-definitive",
+          "en": "definitive",
+          "zh": "決定性的；權威的",
+          "endef": "決定性的；權威的",
+          "exampleEn": "No single study is definitive.",
+          "example": "No single study is definitive. （決定性的；權威的）",
+          "exampleUsage": "沒有單一研究具決定性。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-fin-01"
         },
         {
           "id": "gre-deflect",
@@ -12371,6 +13091,22 @@
           "detailed": true
         },
         {
+          "id": "gre-depend",
+          "en": "depend",
+          "zh": "依賴",
+          "endef": "依賴",
+          "exampleEn": "Estimates depend on the exclusion restriction.",
+          "example": "Estimates depend on the exclusion restriction. （依賴）",
+          "exampleUsage": "估計依賴排除限制。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-pend-01"
+        },
+        {
           "id": "gre-dependable",
           "en": "dependable",
           "zh": "可靠的｜教學補註：worthy of reliance or trust",
@@ -12431,6 +13167,22 @@
           "detailed": true
         },
         {
+          "id": "gre-deport",
+          "en": "deport",
+          "zh": "驅逐出境",
+          "endef": "驅逐出境",
+          "exampleEn": "The metaphor of deporting outliers can hide selection bias.",
+          "example": "The metaphor of deporting outliers can hide selection bias. （驅逐出境）",
+          "exampleUsage": "『驅逐極端值』可能掩蓋選擇偏差。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-port-01"
+        },
+        {
           "id": "gre-depose",
           "en": "depose",
           "zh": "發誓;罷黜；擺放",
@@ -12444,6 +13196,22 @@
           "lookalikes": "",
           "sources": "GRE3000、複習詞、紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-deposit",
+          "en": "deposit",
+          "zh": "存放；訂金",
+          "endef": "存放；訂金",
+          "exampleEn": "Deposit raw files in a trusted repository.",
+          "example": "Deposit raw files in a trusted repository. （存放；訂金）",
+          "exampleUsage": "原始檔存進可信儲庫。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-pos-01"
         },
         {
           "id": "gre-deprave",
@@ -12747,6 +13515,22 @@
           "fromHumorCluster": "root-scend-01"
         },
         {
+          "id": "gre-describe",
+          "en": "describe",
+          "zh": "描述",
+          "endef": "描述",
+          "exampleEn": "Describe the sampling frame before results.",
+          "example": "Describe the sampling frame before results. （描述）",
+          "exampleUsage": "結果前先描述抽樣架構。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-scrib-01"
+        },
+        {
           "id": "gre-descry",
           "en": "descry",
           "zh": "看見；察覺",
@@ -12775,6 +13559,22 @@
           "lookalikes": "desecrate 褻瀆玷污 ｜ excoriate 責罵",
           "sources": "GRE3000、紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-desensitize",
+          "en": "desensitize",
+          "zh": "使不敏感",
+          "endef": "使不敏感",
+          "exampleEn": "Repeated crises can desensitize audiences to risk.",
+          "example": "Repeated crises can desensitize audiences to risk. （使不敏感）",
+          "exampleUsage": "反覆危機使觀眾對風險不敏感。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-sent-01"
         },
         {
           "id": "gre-desert",
@@ -12972,6 +13772,38 @@
           "detailed": true
         },
         {
+          "id": "gre-destroy",
+          "en": "destroy",
+          "zh": "毀滅",
+          "endef": "毀滅",
+          "exampleEn": "One leak can destroy years of trust.",
+          "example": "One leak can destroy years of trust. （毀滅）",
+          "exampleUsage": "一次洩漏可毀掉多年信任。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-struct-01"
+        },
+        {
+          "id": "gre-destructive",
+          "en": "destructive",
+          "zh": "破壞性的",
+          "endef": "破壞性的",
+          "exampleEn": "Destructive criticism without alternatives stalls fields.",
+          "example": "Destructive criticism without alternatives stalls fields. （破壞性的）",
+          "exampleUsage": "只有破壞無替代的批評讓領域停滯。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-struct-01"
+        },
+        {
           "id": "gre-desuetude",
           "en": "desuetude",
           "zh": "廢除；不用",
@@ -13015,6 +13847,22 @@
           "lookalikes": "",
           "sources": "GRE3000",
           "detailed": true
+        },
+        {
+          "id": "gre-detention",
+          "en": "detention",
+          "zh": "拘留；留置",
+          "endef": "拘留；留置",
+          "exampleEn": "Methodological detention of papers harms learning speed.",
+          "example": "Methodological detention of papers harms learning speed. （拘留；留置）",
+          "exampleUsage": "論文方法上的『扣留』傷害學習速度。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-ten-01"
         },
         {
           "id": "gre-deter",
@@ -13348,6 +14196,22 @@
           "detailed": true
         },
         {
+          "id": "gre-dictate",
+          "en": "dictate",
+          "zh": "口述；命令；決定",
+          "endef": "口述；命令；決定",
+          "exampleEn": "Do not let deadlines dictate design quality.",
+          "example": "Do not let deadlines dictate design quality. （口述；命令；決定）",
+          "exampleUsage": "別讓截止日決定設計品質。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-dict-01"
+        },
+        {
           "id": "gre-dictator",
           "en": "dictator",
           "zh": "獨裁者｜教學補註：a speaker who dictates to a secretary or a recording machine",
@@ -13361,6 +14225,38 @@
           "lookalikes": "",
           "sources": "複習詞、紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-dictatorial",
+          "en": "dictatorial",
+          "zh": "獨裁的",
+          "endef": "獨裁的",
+          "exampleEn": "Dictatorial lab culture suppresses error reports.",
+          "example": "Dictatorial lab culture suppresses error reports. （獨裁的）",
+          "exampleUsage": "獨裁實驗室文化壓抑錯誤報告。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-dict-01"
+        },
+        {
+          "id": "gre-dictionary",
+          "en": "dictionary",
+          "zh": "詞典",
+          "endef": "詞典",
+          "exampleEn": "Operational definitions beat dictionary hand-waving.",
+          "example": "Operational definitions beat dictionary hand-waving. （詞典）",
+          "exampleUsage": "操作定義勝過詞典空談。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-dict-01"
         },
         {
           "id": "gre-dictum",
@@ -13391,6 +14287,22 @@
           "lookalikes": "",
           "sources": "救命800",
           "detailed": true
+        },
+        {
+          "id": "gre-differ",
+          "en": "differ",
+          "zh": "不同；有分歧",
+          "endef": "不同；有分歧",
+          "exampleEn": "Experts differ on how to weight outliers.",
+          "example": "Experts differ on how to weight outliers. （不同；有分歧）",
+          "exampleUsage": "專家對極端值加權有分歧。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-fer-01"
         },
         {
           "id": "gre-digress",
@@ -14160,6 +15072,22 @@
           "detailed": true
         },
         {
+          "id": "gre-dispel",
+          "en": "dispel",
+          "zh": "驅散",
+          "endef": "驅散",
+          "exampleEn": "Open data can dispel rumors of selective reporting.",
+          "example": "Open data can dispel rumors of selective reporting. （驅散）",
+          "exampleUsage": "開放資料能驅散選擇性報告謠言。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-pel-01"
+        },
+        {
           "id": "gre-dispensable",
           "en": "dispensable",
           "zh": "不必要的｜教學補註：capable of being dispensed with or done without",
@@ -14218,6 +15146,22 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-dispose",
+          "en": "dispose",
+          "zh": "處置；使傾向",
+          "endef": "處置；使傾向",
+          "exampleEn": "How labs dispose of failed trials shapes the literature.",
+          "example": "How labs dispose of failed trials shapes the literature. （處置；使傾向）",
+          "exampleUsage": "失敗試驗怎麼處置形塑文獻。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-pos-01"
         },
         {
           "id": "gre-disposed",
@@ -15018,6 +15962,22 @@
           "detailed": true
         },
         {
+          "id": "gre-drain",
+          "en": "drain",
+          "zh": "排水；耗盡",
+          "endef": "排水；耗盡",
+          "exampleEn": "Meetings can drain analytic attention.",
+          "example": "Meetings can drain analytic attention. （排水；耗盡）",
+          "exampleUsage": "會議會排乾分析注意力。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "rhyme-ain-01"
+        },
+        {
           "id": "gre-drawl",
           "en": "drawl",
           "zh": "慢吞吞地說",
@@ -15278,7 +16238,7 @@
     {
       "letter": "E",
       "slug": "e",
-      "wordCount": 226,
+      "wordCount": 242,
       "words": [
         {
           "id": "gre-earnest",
@@ -15446,6 +16406,22 @@
           "detailed": true
         },
         {
+          "id": "gre-edict",
+          "en": "edict",
+          "zh": "敕令；公告",
+          "endef": "敕令；公告",
+          "exampleEn": "Lab edicts should be versioned like code.",
+          "example": "Lab edicts should be versioned like code. （敕令；公告）",
+          "exampleUsage": "實驗室公告應像程式一樣版本化。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-dict-01"
+        },
+        {
           "id": "gre-edify",
           "en": "edify",
           "zh": "啓迪｜教學補註：make understand",
@@ -15474,6 +16450,22 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-effect",
+          "en": "effect",
+          "zh": "結果；效應；使發生",
+          "endef": "結果；效應；使發生",
+          "exampleEn": "Estimate the effect with pre-specified controls.",
+          "example": "Estimate the effect with pre-specified controls. （結果；效應；使發生）",
+          "exampleUsage": "用預先指定控制估計效應。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-fac-01"
         },
         {
           "id": "gre-effeminate",
@@ -15519,6 +16511,22 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-efficient",
+          "en": "efficient",
+          "zh": "有效率的",
+          "endef": "有效率的",
+          "exampleEn": "An efficient estimator is not automatically unbiased.",
+          "example": "An efficient estimator is not automatically unbiased. （有效率的）",
+          "exampleUsage": "有效率估計量不自動無偏。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-fac-01"
         },
         {
           "id": "gre-effluvium",
@@ -15942,6 +16950,22 @@
           "lookalikes": "emancipate 解放釋放某人 ｜ emaciate  使消瘦使衰弱 ｜ enunciate 闡明，清楚地發音 ｜ emanate 散發發出",
           "sources": "複習詞",
           "detailed": true
+        },
+        {
+          "id": "gre-emancipate",
+          "en": "emancipate",
+          "zh": "解放",
+          "endef": "解放",
+          "exampleEn": "Open tools can emancipate labs from vendor lock-in.",
+          "example": "Open tools can emancipate labs from vendor lock-in. （解放）",
+          "exampleUsage": "開放工具能讓實驗室擺脫供應商鎖定。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-cap-01"
         },
         {
           "id": "gre-emasculate",
@@ -17371,6 +18395,22 @@
           "detailed": true
         },
         {
+          "id": "gre-establish",
+          "en": "establish",
+          "zh": "建立；確立",
+          "endef": "建立；確立",
+          "exampleEn": "Establish coding reliability before analysis.",
+          "example": "Establish coding reliability before analysis. （建立；確立）",
+          "exampleUsage": "分析前確立編碼信度。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-sta-01"
+        },
+        {
           "id": "gre-estimable",
           "en": "estimable",
           "zh": "adj. 值得尊敬的",
@@ -17626,6 +18666,22 @@
           "detailed": true
         },
         {
+          "id": "gre-event",
+          "en": "event",
+          "zh": "事件",
+          "endef": "事件",
+          "exampleEn": "Predefine adverse events of interest.",
+          "example": "Predefine adverse events of interest. （事件）",
+          "exampleUsage": "預先定義關注不良事件。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-ven-01"
+        },
+        {
           "id": "gre-evict",
           "en": "evict",
           "zh": "驅逐｜教學補註：expel or eject without recourse to legal process",
@@ -17639,6 +18695,38 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-evidence",
+          "en": "evidence",
+          "zh": "證據",
+          "endef": "證據",
+          "exampleEn": "Evidence outweighs eloquence.",
+          "example": "Evidence outweighs eloquence. （證據）",
+          "exampleUsage": "證據重於雄辯。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-vid-01"
+        },
+        {
+          "id": "gre-evident",
+          "en": "evident",
+          "zh": "明顯的",
+          "endef": "明顯的",
+          "exampleEn": "Selection is evident from the attrition table.",
+          "example": "Selection is evident from the attrition table. （明顯的）",
+          "exampleUsage": "從耗損表可明顯見選擇。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-vid-01"
         },
         {
           "id": "gre-eviscerate",
@@ -17760,6 +18848,22 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-except",
+          "en": "except",
+          "zh": "除了；排除",
+          "endef": "除了；排除",
+          "exampleEn": "All trials except one used blinded scoring.",
+          "example": "All trials except one used blinded scoring. （除了；排除）",
+          "exampleUsage": "除一項外皆用盲評。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-cap-01"
         },
         {
           "id": "gre-exceptionable",
@@ -18183,6 +19287,22 @@
           "detailed": true
         },
         {
+          "id": "gre-expel",
+          "en": "expel",
+          "zh": "驅逐；開除",
+          "endef": "驅逐；開除",
+          "exampleEn": "Schools rarely expel for honest error, but silence does.",
+          "example": "Schools rarely expel for honest error, but silence does. （驅逐；開除）",
+          "exampleUsage": "學校少因誠實錯誤開除，沉默卻會。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-pel-01"
+        },
+        {
           "id": "gre-expenditure",
           "en": "expenditure",
           "zh": "花費；支付",
@@ -18228,6 +19348,22 @@
           "detailed": true
         },
         {
+          "id": "gre-explain",
+          "en": "explain",
+          "zh": "解釋",
+          "endef": "解釋",
+          "exampleEn": "Explain exclusions before results.",
+          "example": "Explain exclusions before results. （解釋）",
+          "exampleUsage": "結果前先解釋排除。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "rhyme-ain-01"
+        },
+        {
           "id": "gre-explicable",
           "en": "explicable",
           "zh": "可解釋的｜教學補註：capable of being explicated or accounted for",
@@ -18241,6 +19377,70 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-explicit",
+          "en": "explicit",
+          "zh": "明確的",
+          "endef": "明確的",
+          "exampleEn": "Be explicit about missing-data rules.",
+          "example": "Be explicit about missing-data rules. （明確的）",
+          "exampleUsage": "缺值規則要明確。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "sem-clear-01"
+        },
+        {
+          "id": "gre-exponent",
+          "en": "exponent",
+          "zh": "倡導者；指數",
+          "endef": "倡導者；指數",
+          "exampleEn": "An early exponent of open methods faced resistance.",
+          "example": "An early exponent of open methods faced resistance. （倡導者；指數）",
+          "exampleUsage": "開放方法早期倡導者遇阻力。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-pos-01"
+        },
+        {
+          "id": "gre-export",
+          "en": "export",
+          "zh": "出口；輸出",
+          "endef": "出口；輸出",
+          "exampleEn": "Methods that export poorly across cultures need local tests.",
+          "example": "Methods that export poorly across cultures need local tests. （出口；輸出）",
+          "exampleUsage": "難跨文化輸出的方法需在地檢驗。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-port-01"
+        },
+        {
+          "id": "gre-expose",
+          "en": "expose",
+          "zh": "揭露",
+          "endef": "揭露",
+          "exampleEn": "Replication can expose fragile findings.",
+          "example": "Replication can expose fragile findings. （揭露）",
+          "exampleUsage": "複現能揭露脆弱發現。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-pos-01"
         },
         {
           "id": "gre-exposition",
@@ -18573,6 +19773,22 @@
           "detailed": true
         },
         {
+          "id": "gre-extrasensory",
+          "en": "extrasensory",
+          "zh": "超感官的",
+          "endef": "超感官的",
+          "exampleEn": "Extrasensory claims need extraordinary tests.",
+          "example": "Extrasensory claims need extraordinary tests. （超感官的）",
+          "exampleUsage": "超感官宣稱需要非凡檢驗。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-sent-01"
+        },
+        {
           "id": "gre-extravagance",
           "en": "extravagance",
           "zh": "奢侈；浪費",
@@ -18682,7 +19898,7 @@
     {
       "letter": "F",
       "slug": "f",
-      "wordCount": 158,
+      "wordCount": 167,
       "words": [
         {
           "id": "gre-fabric",
@@ -18730,6 +19946,38 @@
           "detailed": true
         },
         {
+          "id": "gre-facilitate",
+          "en": "facilitate",
+          "zh": "促進；使容易",
+          "endef": "促進；使容易",
+          "exampleEn": "Templates facilitate consistent reporting.",
+          "example": "Templates facilitate consistent reporting. （促進；使容易）",
+          "exampleUsage": "模板促進一致報告。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-fac-01"
+        },
+        {
+          "id": "gre-fact",
+          "en": "fact",
+          "zh": "事實",
+          "endef": "事實",
+          "exampleEn": "Separate fact from preferred narrative.",
+          "example": "Separate fact from preferred narrative. （事實）",
+          "exampleUsage": "把事實與偏好敘事分開。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-fac-01"
+        },
+        {
           "id": "gre-factiousness",
           "en": "factiousness",
           "zh": "派系的；黨派的",
@@ -18743,6 +19991,22 @@
           "lookalikes": "",
           "sources": "重要詞",
           "detailed": true
+        },
+        {
+          "id": "gre-factor",
+          "en": "factor",
+          "zh": "因素；因子",
+          "endef": "因素；因子",
+          "exampleEn": "Control for each theorized factor explicitly.",
+          "example": "Control for each theorized factor explicitly. （因素；因子）",
+          "exampleUsage": "明確控制每個理論因素。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-fac-01"
         },
         {
           "id": "gre-fad",
@@ -19286,6 +20550,22 @@
           "detailed": true
         },
         {
+          "id": "gre-fertile",
+          "en": "fertile",
+          "zh": "肥沃的；多產的",
+          "endef": "肥沃的；多產的",
+          "exampleEn": "A fertile debate generated testable hypotheses.",
+          "example": "A fertile debate generated testable hypotheses. （肥沃的；多產的）",
+          "exampleUsage": "多產辯論產生可檢驗假說。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-fer-01"
+        },
+        {
           "id": "gre-fester",
           "en": "fester",
           "zh": "v. 腐爛｜教學補註：to infect, inflame, or corrupt",
@@ -19466,6 +20746,22 @@
           "detailed": true
         },
         {
+          "id": "gre-final",
+          "en": "final",
+          "zh": "最終的",
+          "endef": "最終的",
+          "exampleEn": "Final analyses should match the preregistered set.",
+          "example": "Final analyses should match the preregistered set. （最終的）",
+          "exampleUsage": "最終分析應對齊預註冊集合。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-fin-01"
+        },
+        {
           "id": "gre-finale",
           "en": "finale",
           "zh": "n. 終場，結局",
@@ -19479,6 +20775,38 @@
           "lookalikes": "",
           "sources": "救命800",
           "detailed": true
+        },
+        {
+          "id": "gre-finality",
+          "en": "finality",
+          "zh": "終結性；定局",
+          "endef": "終結性；定局",
+          "exampleEn": "Treat editorial finality as provisional.",
+          "example": "Treat editorial finality as provisional. （終結性；定局）",
+          "exampleUsage": "把編輯定局當暫定。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-fin-01"
+        },
+        {
+          "id": "gre-finance",
+          "en": "finance",
+          "zh": "金融；資助",
+          "endef": "金融；資助",
+          "exampleEn": "Who finances the trial must be disclosed.",
+          "example": "Who finances the trial must be disclosed. （金融；資助）",
+          "exampleUsage": "誰資助試驗必須揭露。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-fin-01"
         },
         {
           "id": "gre-finesse",
@@ -19509,6 +20837,38 @@
           "lookalikes": "",
           "sources": "救命800、紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-finish",
+          "en": "finish",
+          "zh": "完成",
+          "endef": "完成",
+          "exampleEn": "Finish robustness before press quotes.",
+          "example": "Finish robustness before press quotes. （完成）",
+          "exampleUsage": "新聞稿前先完成穩健檢查。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-fin-01"
+        },
+        {
+          "id": "gre-finite",
+          "en": "finite",
+          "zh": "有限的",
+          "endef": "有限的",
+          "exampleEn": "Attention is finite; prioritize claims.",
+          "example": "Attention is finite; prioritize claims. （有限的）",
+          "exampleUsage": "注意力有限；排序主張。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-fin-01"
         },
         {
           "id": "gre-fiscal",
@@ -21061,7 +22421,7 @@
     {
       "letter": "G",
       "slug": "g",
-      "wordCount": 120,
+      "wordCount": 122,
       "words": [
         {
           "id": "gre-gabble",
@@ -21122,6 +22482,22 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-gain",
+          "en": "gain",
+          "zh": "獲得",
+          "endef": "獲得",
+          "exampleEn": "Report absolute risk gain, not relative alone.",
+          "example": "Report absolute risk gain, not relative alone. （獲得）",
+          "exampleUsage": "報告絕對風險獲益，不只相對。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "rhyme-ain-01"
         },
         {
           "id": "gre-gall",
@@ -22055,6 +23431,22 @@
           "detailed": true
         },
         {
+          "id": "gre-grain",
+          "en": "grain",
+          "zh": "穀粒；紋理；一點點",
+          "endef": "穀粒；紋理；一點點",
+          "exampleEn": "Take findings with a grain of uncertainty.",
+          "example": "Take findings with a grain of uncertainty. （穀粒；紋理；一點點）",
+          "exampleUsage": "帶著一粒不確定性看待發現。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "rhyme-ain-01"
+        },
+        {
           "id": "gre-grandiloquent",
           "en": "grandiloquent",
           "zh": "誇大其詞的",
@@ -22870,7 +24262,7 @@
     {
       "letter": "H",
       "slug": "h",
-      "wordCount": 110,
+      "wordCount": 112,
       "words": [
         {
           "id": "gre-hackneyed",
@@ -23908,6 +25300,38 @@
           "detailed": true
         },
         {
+          "id": "gre-historic",
+          "en": "historic",
+          "zh": "歷史性的；有歷史意義的",
+          "endef": "歷史性的；有歷史意義的",
+          "exampleEn": "A historic leak is still one case.",
+          "example": "A historic leak is still one case. （歷史性的；有歷史意義的）",
+          "exampleUsage": "歷史性洩漏仍是單案。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "look-pair-01"
+        },
+        {
+          "id": "gre-historical",
+          "en": "historical",
+          "zh": "歷史的；有關歷史的",
+          "endef": "歷史的；有關歷史的",
+          "exampleEn": "Provide historical context for the measure.",
+          "example": "Provide historical context for the measure. （歷史的；有關歷史的）",
+          "exampleUsage": "為測量提供歷史脈絡。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "look-pair-01"
+        },
+        {
           "id": "gre-histrionic",
           "en": "histrionic",
           "zh": "adj. 誇張做作的",
@@ -24527,7 +25951,7 @@
     {
       "letter": "I",
       "slug": "i",
-      "wordCount": 244,
+      "wordCount": 268,
       "words": [
         {
           "id": "gre-icicle",
@@ -25386,6 +26810,22 @@
           "detailed": true
         },
         {
+          "id": "gre-implicit",
+          "en": "implicit",
+          "zh": "隱含的",
+          "endef": "隱含的",
+          "exampleEn": "Make implicit assumptions explicit.",
+          "example": "Make implicit assumptions explicit. （隱含的）",
+          "exampleUsage": "把隱含假設說明白。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "sem-clear-01"
+        },
+        {
           "id": "gre-implore",
           "en": "implore",
           "zh": "懇求；祈求",
@@ -25399,6 +26839,22 @@
           "lookalikes": "",
           "sources": "複習詞、紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-imply",
+          "en": "imply",
+          "zh": "暗示；意味著",
+          "endef": "暗示；意味著",
+          "exampleEn": "Does the abstract imply causality it did not identify?",
+          "example": "Does the abstract imply causality it did not identify? （暗示；意味著）",
+          "exampleUsage": "摘要是否暗示未識別的因果？",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "look-pair-01"
         },
         {
           "id": "gre-imponderable",
@@ -25416,6 +26872,38 @@
           "detailed": true
         },
         {
+          "id": "gre-import",
+          "en": "import",
+          "zh": "進口；重要性",
+          "endef": "進口；重要性",
+          "exampleEn": "The import of the finding is practical, not merely theoretical.",
+          "example": "The import of the finding is practical, not merely theoretical. （進口；重要性）",
+          "exampleUsage": "該發現的重要性是實務的。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-port-01"
+        },
+        {
+          "id": "gre-important",
+          "en": "important",
+          "zh": "重要的",
+          "endef": "重要的",
+          "exampleEn": "Important claims deserve pre-registered tests.",
+          "example": "Important claims deserve pre-registered tests. （重要的）",
+          "exampleUsage": "重要主張值得預註冊檢驗。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-port-01"
+        },
+        {
           "id": "gre-importune",
           "en": "importune",
           "zh": "懇求｜教學補註：beg persistently and urgently",
@@ -25429,6 +26917,22 @@
           "lookalikes": "",
           "sources": "GRE3000、複習詞、紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-impose",
+          "en": "impose",
+          "zh": "強加",
+          "endef": "強加",
+          "exampleEn": "Do not impose a narrative the data cannot carry.",
+          "example": "Do not impose a narrative the data cannot carry. （強加）",
+          "exampleUsage": "不要強加資料扛不起的敘事。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-pos-01"
         },
         {
           "id": "gre-impound",
@@ -25609,6 +27113,22 @@
           "lookalikes": "",
           "sources": "複習詞、紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-impulse",
+          "en": "impulse",
+          "zh": "衝動；脈衝",
+          "endef": "衝動；脈衝",
+          "exampleEn": "Resist the impulse to peek at outcomes early.",
+          "example": "Resist the impulse to peek at outcomes early. （衝動；脈衝）",
+          "exampleUsage": "忍住提早偷看結果的衝動。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-pel-01"
         },
         {
           "id": "gre-impunity",
@@ -26123,6 +27643,22 @@
           "detailed": true
         },
         {
+          "id": "gre-indefinite",
+          "en": "indefinite",
+          "zh": "不定的；無限期的",
+          "endef": "不定的；無限期的",
+          "exampleEn": "Indefinite postponement kills accountability.",
+          "example": "Indefinite postponement kills accountability. （不定的；無限期的）",
+          "exampleUsage": "無限期延期殺死課責。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-fin-01"
+        },
+        {
           "id": "gre-indelible",
           "en": "indelible",
           "zh": "無法食用的",
@@ -26183,6 +27719,22 @@
           "detailed": true
         },
         {
+          "id": "gre-independent",
+          "en": "independent",
+          "zh": "獨立的",
+          "endef": "獨立的",
+          "exampleEn": "Independent replication beats in-house confirmation.",
+          "example": "Independent replication beats in-house confirmation. （獨立的）",
+          "exampleUsage": "獨立複現勝過內部確認。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-pend-01"
+        },
+        {
           "id": "gre-indict",
           "en": "indict",
           "zh": "v. 控告，起訴",
@@ -26196,6 +27748,22 @@
           "lookalikes": "",
           "sources": "救命800、紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-indifferent",
+          "en": "indifferent",
+          "zh": "冷漠的；無所謂的",
+          "endef": "冷漠的；無所謂的",
+          "exampleEn": "An indifferent public still shapes turnout math.",
+          "example": "An indifferent public still shapes turnout math. （冷漠的；無所謂的）",
+          "exampleUsage": "冷漠公眾仍形塑投票率。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-fer-01"
         },
         {
           "id": "gre-indigence",
@@ -26634,6 +28202,22 @@
           "detailed": true
         },
         {
+          "id": "gre-infer",
+          "en": "infer",
+          "zh": "推論；推斷",
+          "endef": "推論；推斷",
+          "exampleEn": "From silence we should not infer consent.",
+          "example": "From silence we should not infer consent. （推論；推斷）",
+          "exampleUsage": "不該從沉默推論出同意。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-fer-01"
+        },
+        {
           "id": "gre-inferior",
           "en": "inferior",
           "zh": "自卑｜教學補註：one of lesser rank or station or quality",
@@ -26677,6 +28261,22 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-infinite",
+          "en": "infinite",
+          "zh": "無限的",
+          "endef": "無限的",
+          "exampleEn": "Infinite flexibility makes false positives infinite too.",
+          "example": "Infinite flexibility makes false positives infinite too. （無限的）",
+          "exampleUsage": "無限彈性也讓假陽性無限。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-fin-01"
         },
         {
           "id": "gre-infinitesimal",
@@ -26767,6 +28367,22 @@
           "lookalikes": "",
           "sources": "GRE3000、複習詞、紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-infrastructure",
+          "en": "infrastructure",
+          "zh": "基礎設施",
+          "endef": "基礎設施",
+          "exampleEn": "Data infrastructure is part of scientific capital.",
+          "example": "Data infrastructure is part of scientific capital. （基礎設施）",
+          "exampleUsage": "資料基礎設施是科學資本。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-struct-01"
         },
         {
           "id": "gre-infringe",
@@ -26994,6 +28610,38 @@
           "detailed": true
         },
         {
+          "id": "gre-injury",
+          "en": "injury",
+          "zh": "傷害",
+          "endef": "傷害",
+          "exampleEn": "Underpowered studies can still cause injury via false hope.",
+          "example": "Underpowered studies can still cause injury via false hope. （傷害）",
+          "exampleUsage": "低檢定力研究仍可透過假希望造成傷害。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-jud-01"
+        },
+        {
+          "id": "gre-injustice",
+          "en": "injustice",
+          "zh": "不義",
+          "endef": "不義",
+          "exampleEn": "Citation injustice tracks prestige gradients.",
+          "example": "Citation injustice tracks prestige gradients. （不義）",
+          "exampleUsage": "引用不義追蹤聲望梯度。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-jud-01"
+        },
+        {
           "id": "gre-inkling",
           "en": "inkling",
           "zh": "暗示｜教學補註：a slight suggestion or vague understanding",
@@ -27127,6 +28775,22 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-inscribe",
+          "en": "inscribe",
+          "zh": "題寫；銘刻",
+          "endef": "題寫；銘刻",
+          "exampleEn": "Values inscribed in charters need operational teeth.",
+          "example": "Values inscribed in charters need operational teeth. （題寫；銘刻）",
+          "exampleUsage": "憲章銘刻的價值需要可操作牙齒。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-scrib-01"
         },
         {
           "id": "gre-inscrutable",
@@ -27295,6 +28959,70 @@
           "detailed": true
         },
         {
+          "id": "gre-institution",
+          "en": "institution",
+          "zh": "制度；機構",
+          "endef": "制度；機構",
+          "exampleEn": "Institution design shapes what evidence counts.",
+          "example": "Institution design shapes what evidence counts. （制度；機構）",
+          "exampleUsage": "制度設計形塑何謂有效證據。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-sta-01"
+        },
+        {
+          "id": "gre-instruct",
+          "en": "instruct",
+          "zh": "指導；指示",
+          "endef": "指導；指示",
+          "exampleEn": "Protocols instruct assistants on coding edge cases.",
+          "example": "Protocols instruct assistants on coding edge cases. （指導；指示）",
+          "exampleUsage": "流程指示助理如何編碼邊界案例。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-struct-01"
+        },
+        {
+          "id": "gre-instructive",
+          "en": "instructive",
+          "zh": "有啟發的",
+          "endef": "有啟發的",
+          "exampleEn": "Failed replications can be instructive.",
+          "example": "Failed replications can be instructive. （有啟發的）",
+          "exampleUsage": "失敗複現可以有啟發。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-struct-01"
+        },
+        {
+          "id": "gre-instrument",
+          "en": "instrument",
+          "zh": "工具；儀器",
+          "endef": "工具；儀器",
+          "exampleEn": "Validate the instrument before scaling the survey.",
+          "example": "Validate the instrument before scaling the survey. （工具；儀器）",
+          "exampleUsage": "放大調查前先驗證工具。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-struct-01"
+        },
+        {
           "id": "gre-insubstantial",
           "en": "insubstantial",
           "zh": "無形的｜教學補註：lacking material form or substance",
@@ -27338,6 +29066,22 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-insupportable",
+          "en": "insupportable",
+          "zh": "無法支撐的；難忍的",
+          "endef": "無法支撐的；難忍的",
+          "exampleEn": "That leap from survey to policy is insupportable.",
+          "example": "That leap from survey to policy is insupportable. （無法支撐的；難忍的）",
+          "exampleUsage": "從問卷跳到政策無法支撐。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-port-01"
         },
         {
           "id": "gre-insurgent",
@@ -27443,6 +29187,22 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-intercept",
+          "en": "intercept",
+          "zh": "攔截",
+          "endef": "攔截",
+          "exampleEn": "Filters intercept spam before it reaches inboxes.",
+          "example": "Filters intercept spam before it reaches inboxes. （攔截）",
+          "exampleUsage": "過濾器在進信箱前攔截垃圾信。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-cap-01"
         },
         {
           "id": "gre-interject",
@@ -27624,6 +29384,38 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-intervene",
+          "en": "intervene",
+          "zh": "介入",
+          "endef": "介入",
+          "exampleEn": "When harm appears, protocols say when to intervene.",
+          "example": "When harm appears, protocols say when to intervene. （介入）",
+          "exampleUsage": "出現傷害時，流程規定何時介入。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-ven-01"
+        },
+        {
+          "id": "gre-intervention",
+          "en": "intervention",
+          "zh": "介入措施",
+          "endef": "介入措施",
+          "exampleEn": "Name the intervention dose and delivery.",
+          "example": "Name the intervention dose and delivery. （介入措施）",
+          "exampleUsage": "說清介入劑量與交付。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-ven-01"
         },
         {
           "id": "gre-intimation",
@@ -27851,6 +29643,22 @@
           "lookalikes": "vindicate 證明無罪 ｜ verdict 裁決 ｜ vindictive 報復的 ｜ inveigle 誘騙",
           "sources": "GRE3000、救命800、紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-invent",
+          "en": "invent",
+          "zh": "發明",
+          "endef": "發明",
+          "exampleEn": "Do not invent subgroups after seeing outcomes.",
+          "example": "Do not invent subgroups after seeing outcomes. （發明）",
+          "exampleUsage": "看過結果後不要發明子群。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-ven-01"
         },
         {
           "id": "gre-invert",
@@ -28203,7 +30011,7 @@
     {
       "letter": "J",
       "slug": "j",
-      "wordCount": 27,
+      "wordCount": 34,
       "words": [
         {
           "id": "gre-jabber",
@@ -28491,6 +30299,38 @@
           "detailed": true
         },
         {
+          "id": "gre-judge",
+          "en": "judge",
+          "zh": "判斷；法官",
+          "endef": "判斷；法官",
+          "exampleEn": "Judge models by out-of-sample performance.",
+          "example": "Judge models by out-of-sample performance. （判斷；法官）",
+          "exampleUsage": "用樣本外表現判斷模型。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-jud-01"
+        },
+        {
+          "id": "gre-judgment",
+          "en": "judgment",
+          "zh": "判斷；判決",
+          "endef": "判斷；判決",
+          "exampleEn": "Suspend judgment until diagnostics are clean.",
+          "example": "Suspend judgment until diagnostics are clean. （判斷；判決）",
+          "exampleUsage": "診斷乾淨前先懸置判斷。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-jud-01"
+        },
+        {
           "id": "gre-judicial",
           "en": "judicial",
           "zh": "判決的｜教學補註：decreed by or proceeding from a court of justice",
@@ -28504,6 +30344,22 @@
           "lookalikes": "",
           "sources": "複習詞、紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-judicious",
+          "en": "judicious",
+          "zh": "明斷的；審慎的",
+          "endef": "明斷的；審慎的",
+          "exampleEn": "Judicious pruning of covariates beats kitchen-sink models.",
+          "example": "Judicious pruning of covariates beats kitchen-sink models. （明斷的；審慎的）",
+          "exampleUsage": "審慎修剪共變勝過一鍋炒。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-jud-01"
         },
         {
           "id": "gre-juggernaut",
@@ -28551,6 +30407,22 @@
           "detailed": true
         },
         {
+          "id": "gre-juridical",
+          "en": "juridical",
+          "zh": "法律上的；司法的",
+          "endef": "法律上的；司法的",
+          "exampleEn": "Juridical metaphors help, but biology is not a courtroom.",
+          "example": "Juridical metaphors help, but biology is not a courtroom. （法律上的；司法的）",
+          "exampleUsage": "法律隱喻有用，但生物不是法庭。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-jud-01"
+        },
+        {
           "id": "gre-jurisdiction",
           "en": "jurisdiction",
           "zh": "判決｜教學補註：(law) the right and power to interpret and apply the law",
@@ -28564,6 +30436,54 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-jury",
+          "en": "jury",
+          "zh": "陪審團",
+          "endef": "陪審團",
+          "exampleEn": "A jury of peers still needs conflict disclosures.",
+          "example": "A jury of peers still needs conflict disclosures. （陪審團）",
+          "exampleUsage": "同儕陪審仍需利益揭露。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-jud-01"
+        },
+        {
+          "id": "gre-justice",
+          "en": "justice",
+          "zh": "正義；司法",
+          "endef": "正義；司法",
+          "exampleEn": "Procedural justice matters in authorship disputes.",
+          "example": "Procedural justice matters in authorship disputes. （正義；司法）",
+          "exampleUsage": "作者權爭議中程序正義重要。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-jud-01"
+        },
+        {
+          "id": "gre-justify",
+          "en": "justify",
+          "zh": "證明正當；對齊",
+          "endef": "證明正當；對齊",
+          "exampleEn": "Justify each exclusion in one sentence.",
+          "example": "Justify each exclusion in one sentence. （證明正當；對齊）",
+          "exampleUsage": "每項排除用一句話證明正當。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-jud-01"
         },
         {
           "id": "gre-juvanile",
@@ -28727,7 +30647,7 @@
     {
       "letter": "L",
       "slug": "l",
-      "wordCount": 98,
+      "wordCount": 99,
       "words": [
         {
           "id": "gre-labile",
@@ -29932,6 +31852,22 @@
           "detailed": true
         },
         {
+          "id": "gre-lucid",
+          "en": "lucid",
+          "zh": "清晰的；清醒的",
+          "endef": "清晰的；清醒的",
+          "exampleEn": "A lucid limitation section builds trust.",
+          "example": "A lucid limitation section builds trust. （清晰的；清醒的）",
+          "exampleUsage": "清晰限制段建立信任。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "sem-clear-01"
+        },
+        {
           "id": "gre-lucrative",
           "en": "lucrative",
           "zh": "adj. 有利可圖的",
@@ -30206,7 +32142,7 @@
     {
       "letter": "M",
       "slug": "m",
-      "wordCount": 169,
+      "wordCount": 174,
       "words": [
         {
           "id": "gre-macabre",
@@ -30312,6 +32248,38 @@
           "lookalikes": "",
           "sources": "複習詞、紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-main",
+          "en": "main",
+          "zh": "主要的",
+          "endef": "主要的",
+          "exampleEn": "Keep the main hypothesis visually first.",
+          "example": "Keep the main hypothesis visually first. （主要的）",
+          "exampleUsage": "主假說視覺上放最前。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "rhyme-ain-01"
+        },
+        {
+          "id": "gre-maintain",
+          "en": "maintain",
+          "zh": "維持；主張",
+          "endef": "維持；主張",
+          "exampleEn": "Maintain the same coding rules across waves.",
+          "example": "Maintain the same coding rules across waves. （維持；主張）",
+          "exampleUsage": "各波次維持同一編碼規則。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-ten-01"
         },
         {
           "id": "gre-majestic",
@@ -30567,6 +32535,38 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-manufacture",
+          "en": "manufacture",
+          "zh": "製造；捏造",
+          "endef": "製造；捏造",
+          "exampleEn": "Do not manufacture certainty from noisy data.",
+          "example": "Do not manufacture certainty from noisy data. （製造；捏造）",
+          "exampleUsage": "不要從噪音資料捏造確定性。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-fac-01"
+        },
+        {
+          "id": "gre-manuscript",
+          "en": "manuscript",
+          "zh": "手稿",
+          "endef": "手稿",
+          "exampleEn": "The manuscript should flag all deviations.",
+          "example": "The manuscript should flag all deviations. （手稿）",
+          "exampleUsage": "手稿應標明所有偏離。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-scrib-01"
         },
         {
           "id": "gre-mar",
@@ -32369,6 +34369,22 @@
           "detailed": true
         },
         {
+          "id": "gre-muddy",
+          "en": "muddy",
+          "zh": "混濁的",
+          "endef": "混濁的",
+          "exampleEn": "Muddy contrasts weaken identification stories.",
+          "example": "Muddy contrasts weaken identification stories. （混濁的）",
+          "exampleUsage": "混濁對照削弱識別故事。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "sem-clear-01"
+        },
+        {
           "id": "gre-muffle",
           "en": "muffle",
           "zh": "消音｜教學補註：a kiln with an inner chamber for firing things at a low temperature",
@@ -32748,7 +34764,7 @@
     {
       "letter": "N",
       "slug": "n",
-      "wordCount": 53,
+      "wordCount": 56,
       "words": [
         {
           "id": "gre-nadir",
@@ -32974,6 +34990,22 @@
           "lookalikes": "",
           "sources": "救命800",
           "detailed": true
+        },
+        {
+          "id": "gre-nebula",
+          "en": "nebula",
+          "zh": "星雲（比喻一團霧）",
+          "endef": "星雲（比喻一團霧）",
+          "exampleEn": "A nebula of buzzwords is not a theory.",
+          "example": "A nebula of buzzwords is not a theory. （星雲（比喻一團霧））",
+          "exampleUsage": "術語星雲不是理論。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "sem-clear-01"
         },
         {
           "id": "gre-nebulous",
@@ -33351,6 +35383,22 @@
           "detailed": true
         },
         {
+          "id": "gre-nondescript",
+          "en": "nondescript",
+          "zh": "無可名狀的；不起眼的",
+          "endef": "無可名狀的；不起眼的",
+          "exampleEn": "A nondescript method section hides key choices.",
+          "example": "A nondescript method section hides key choices. （無可名狀的；不起眼的）",
+          "exampleUsage": "平淡方法段會藏起關鍵選擇。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-scrib-01"
+        },
+        {
           "id": "gre-nonentity",
           "en": "nonentity",
           "zh": "n. 無足輕重的人",
@@ -33379,6 +35427,22 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-nonsense",
+          "en": "nonsense",
+          "zh": "胡說",
+          "endef": "胡說",
+          "exampleEn": "Call speculation nonsense when it wears a proof costume.",
+          "example": "Call speculation nonsense when it wears a proof costume. （胡說）",
+          "exampleUsage": "投機穿上證明外衣時就叫它胡說。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-sent-01"
         },
         {
           "id": "gre-nonsensical",
@@ -33550,7 +35614,7 @@
     {
       "letter": "O",
       "slug": "o",
-      "wordCount": 107,
+      "wordCount": 116,
       "words": [
         {
           "id": "gre-obdurate",
@@ -33748,6 +35812,22 @@
           "detailed": true
         },
         {
+          "id": "gre-obscure",
+          "en": "obscure",
+          "zh": "晦澀的；遮掩",
+          "endef": "晦澀的；遮掩",
+          "exampleEn": "Jargon can obscure a simple design flaw.",
+          "example": "Jargon can obscure a simple design flaw. （晦澀的；遮掩）",
+          "exampleUsage": "行話會遮掩簡單設計缺陷。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "sem-clear-01"
+        },
+        {
           "id": "gre-obsequious",
           "en": "obsequious",
           "zh": "諂媚的｜教學補註：attempting to win favor from influential people by flattery",
@@ -33808,6 +35888,22 @@
           "detailed": true
         },
         {
+          "id": "gre-obstacle",
+          "en": "obstacle",
+          "zh": "障礙",
+          "endef": "障礙",
+          "exampleEn": "Paywalls remain an obstacle to synthesis.",
+          "example": "Paywalls remain an obstacle to synthesis. （障礙）",
+          "exampleUsage": "付費牆仍是綜整障礙。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-sta-01"
+        },
+        {
           "id": "gre-obstinacy",
           "en": "obstinacy",
           "zh": "固執｜教學補註：the trait of being difficult to handle or overcome",
@@ -33851,6 +35947,54 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-obstruct",
+          "en": "obstruct",
+          "zh": "阻礙",
+          "endef": "阻礙",
+          "exampleEn": "Missing metadata obstructs reuse.",
+          "example": "Missing metadata obstructs reuse. （阻礙）",
+          "exampleUsage": "缺中繼資料阻礙再利用。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-struct-01"
+        },
+        {
+          "id": "gre-obstruction",
+          "en": "obstruction",
+          "zh": "障礙",
+          "endef": "障礙",
+          "exampleEn": "Paywalls remain an obstruction to cumulative work.",
+          "example": "Paywalls remain an obstruction to cumulative work. （障礙）",
+          "exampleUsage": "付費牆仍是累積工作的障礙。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-struct-01"
+        },
+        {
+          "id": "gre-obtain",
+          "en": "obtain",
+          "zh": "獲得",
+          "endef": "獲得",
+          "exampleEn": "Obtain consent before linking records.",
+          "example": "Obtain consent before linking records. （獲得）",
+          "exampleUsage": "連結紀錄前先取得同意。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-ten-01"
         },
         {
           "id": "gre-obtensible",
@@ -34123,6 +36267,22 @@
           "detailed": true
         },
         {
+          "id": "gre-offer",
+          "en": "offer",
+          "zh": "提供；提議",
+          "endef": "提供；提議",
+          "exampleEn": "The paper offers a narrower mechanism than advertised.",
+          "example": "The paper offers a narrower mechanism than advertised. （提供；提議）",
+          "exampleUsage": "論文提供的機制比宣傳更窄。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-fer-01"
+        },
+        {
           "id": "gre-offhand",
           "en": "offhand",
           "zh": "即興的｜教學補註：with little or no preparation or forethought",
@@ -34379,6 +36539,22 @@
           "detailed": true
         },
         {
+          "id": "gre-opaque",
+          "en": "opaque",
+          "zh": "不透明的；難懂的",
+          "endef": "不透明的；難懂的",
+          "exampleEn": "Opaque preprocessing invites distrust.",
+          "example": "Opaque preprocessing invites distrust. （不透明的；難懂的）",
+          "exampleUsage": "不透明前處理招致不信。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "sem-clear-01"
+        },
+        {
           "id": "gre-opine",
           "en": "opine",
           "zh": "表達意見｜教學補註：express one's opinion openly and without fear or hesitation",
@@ -34437,6 +36613,38 @@
           "lookalikes": "",
           "sources": "救命800",
           "detailed": true
+        },
+        {
+          "id": "gre-opportunity",
+          "en": "opportunity",
+          "zh": "機會",
+          "endef": "機會",
+          "exampleEn": "Missing data is also a missed opportunity for honesty.",
+          "example": "Missing data is also a missed opportunity for honesty. （機會）",
+          "exampleUsage": "缺漏資料也是錯失誠實機會。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-port-01"
+        },
+        {
+          "id": "gre-oppose",
+          "en": "oppose",
+          "zh": "反對",
+          "endef": "反對",
+          "exampleEn": "Stakeholders may oppose transparency that threatens rents.",
+          "example": "Stakeholders may oppose transparency that threatens rents. （反對）",
+          "exampleUsage": "利害關係人可能反對威脅租金的透明。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-pos-01"
         },
         {
           "id": "gre-oppress",
@@ -35163,7 +37371,7 @@
     {
       "letter": "P",
       "slug": "p",
-      "wordCount": 392,
+      "wordCount": 421,
       "words": [
         {
           "id": "gre-pacify",
@@ -35764,6 +37972,22 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-participate",
+          "en": "participate",
+          "zh": "參與",
+          "endef": "參與",
+          "exampleEn": "Patients should participate as partners, not only subjects.",
+          "example": "Patients should participate as partners, not only subjects. （參與）",
+          "exampleUsage": "病人應以夥伴身分參與。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-cap-01"
         },
         {
           "id": "gre-partisan",
@@ -36458,6 +38682,22 @@
           "detailed": true
         },
         {
+          "id": "gre-pendant",
+          "en": "pendant",
+          "zh": "垂飾；懸著的",
+          "endef": "垂飾；懸著的",
+          "exampleEn": "A pendant caveat cannot rescue a broken design.",
+          "example": "A pendant caveat cannot rescue a broken design. （垂飾；懸著的）",
+          "exampleUsage": "垂吊的但書救不了壞設計。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-pend-01"
+        },
+        {
           "id": "gre-pendent",
           "en": "pendent",
           "zh": "下垂的｜教學補註：an adornment that hangs from a piece of jewelry (necklace or earring)",
@@ -36471,6 +38711,22 @@
           "lookalikes": "",
           "sources": "複習詞、紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-pending",
+          "en": "pending",
+          "zh": "待決的；直到",
+          "endef": "待決的；直到",
+          "exampleEn": "Results are pending ethics clearance.",
+          "example": "Results are pending ethics clearance. （待決的；直到）",
+          "exampleUsage": "結果尚待倫理審查。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-pend-01"
         },
         {
           "id": "gre-pendulous",
@@ -36533,6 +38789,22 @@
           "detailed": true
         },
         {
+          "id": "gre-pension",
+          "en": "pension",
+          "zh": "退休金",
+          "endef": "退休金",
+          "exampleEn": "Pension systems illustrate long-horizon policy tradeoffs.",
+          "example": "Pension systems illustrate long-horizon policy tradeoffs. （退休金）",
+          "exampleUsage": "退休金制度說明長期政策取捨。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-pend-01"
+        },
+        {
           "id": "gre-pensive",
           "en": "pensive",
           "zh": "adj. 沉思的，憂傷的",
@@ -36561,6 +38833,22 @@
           "lookalikes": "pernicious 有害的 = noxious ｜ pecuniary 金錢的 ｜ impecunious 貧窮的 = pernurious, indigent ｜ penury 貧困",
           "sources": "複習詞、紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-perceive",
+          "en": "perceive",
+          "zh": "察覺；認為",
+          "endef": "察覺；認為",
+          "exampleEn": "Readers perceive confidence from hedging choices.",
+          "example": "Readers perceive confidence from hedging choices. （察覺；認為）",
+          "exampleUsage": "讀者從對沖用語察覺信心。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-cap-01"
         },
         {
           "id": "gre-percept",
@@ -36651,6 +38939,22 @@
           "lookalikes": "",
           "sources": "填空1300、複習詞、紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-perfect",
+          "en": "perfect",
+          "zh": "完美的；完成",
+          "endef": "完美的；完成",
+          "exampleEn": "No design is perfect; report limitations.",
+          "example": "No design is perfect; report limitations. （完美的；完成）",
+          "exampleUsage": "沒有完美設計；請報告限制。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-fac-01"
         },
         {
           "id": "gre-perfervid",
@@ -37088,6 +39392,22 @@
           "detailed": true
         },
         {
+          "id": "gre-persist",
+          "en": "persist",
+          "zh": "持續；堅持",
+          "endef": "持續；堅持",
+          "exampleEn": "Biases persist when incentives stay misaligned.",
+          "example": "Biases persist when incentives stay misaligned. （持續；堅持）",
+          "exampleUsage": "誘因錯位時偏差持續。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-sta-01"
+        },
+        {
           "id": "gre-persnickety",
           "en": "persnickety",
           "zh": "愛挑剔的｜教學補註：(used colloquially) overly conceited or arrogant",
@@ -37101,6 +39421,22 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-perspective",
+          "en": "perspective",
+          "zh": "視角；觀點",
+          "endef": "視角；觀點",
+          "exampleEn": "State the theoretical perspective up front.",
+          "example": "State the theoretical perspective up front. （視角；觀點）",
+          "exampleUsage": "先說理論視角。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "look-pair-01"
         },
         {
           "id": "gre-perspicacious",
@@ -37823,6 +40159,22 @@
           "detailed": true
         },
         {
+          "id": "gre-plain",
+          "en": "plain",
+          "zh": "清楚的；平原",
+          "endef": "清楚的；平原",
+          "exampleEn": "Use plain language in consent forms.",
+          "example": "Use plain language in consent forms. （清楚的；平原）",
+          "exampleUsage": "同意書用清楚語言。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "rhyme-ain-01"
+        },
+        {
           "id": "gre-plaint",
           "en": "plaint",
           "zh": "訴苦；悲嘆",
@@ -38423,6 +40775,22 @@
           "detailed": true
         },
         {
+          "id": "gre-portable",
+          "en": "portable",
+          "zh": "可攜的；可移植的",
+          "endef": "可攜的；可移植的",
+          "exampleEn": "A portable checklist travels between labs.",
+          "example": "A portable checklist travels between labs. （可攜的；可移植的）",
+          "exampleUsage": "可移植檢核表能在實驗室間旅行。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-port-01"
+        },
+        {
           "id": "gre-portend",
           "en": "portend",
           "zh": "預兆｜教學補註：indicate by signs",
@@ -38468,6 +40836,54 @@
           "detailed": true
         },
         {
+          "id": "gre-porter",
+          "en": "porter",
+          "zh": "搬運工",
+          "endef": "搬運工",
+          "exampleEn": "Think of operationalization as the porter of concepts.",
+          "example": "Think of operationalization as the porter of concepts. （搬運工）",
+          "exampleUsage": "操作型定義像概念搬運工。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-port-01"
+        },
+        {
+          "id": "gre-portfolio",
+          "en": "portfolio",
+          "zh": "作品集；投資組合",
+          "endef": "作品集；投資組合",
+          "exampleEn": "A methods portfolio beats a single fashionable tool.",
+          "example": "A methods portfolio beats a single fashionable tool. （作品集；投資組合）",
+          "exampleUsage": "方法組合勝過單一流行工具。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-port-01"
+        },
+        {
+          "id": "gre-positive",
+          "en": "positive",
+          "zh": "正面的；陽性的",
+          "endef": "正面的；陽性的",
+          "exampleEn": "A positive result still needs a credible mechanism.",
+          "example": "A positive result still needs a credible mechanism. （正面的；陽性的）",
+          "exampleUsage": "陽性結果仍需可信機制。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-pos-01"
+        },
+        {
           "id": "gre-posthumous",
           "en": "posthumous",
           "zh": "死後的｜教學補註：occurring or coming into existence after a person's death",
@@ -38496,6 +40912,38 @@
           "lookalikes": "",
           "sources": "複習詞、紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-postpone",
+          "en": "postpone",
+          "zh": "延期",
+          "endef": "延期",
+          "exampleEn": "Postpone celebration until robustness checks pass.",
+          "example": "Postpone celebration until robustness checks pass. （延期）",
+          "exampleUsage": "穩健檢查通過前先延期慶祝。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-pos-01"
+        },
+        {
+          "id": "gre-postscript",
+          "en": "postscript",
+          "zh": "又及；附言",
+          "endef": "又及；附言",
+          "exampleEn": "A postscript cannot fix a broken identification strategy.",
+          "example": "A postscript cannot fix a broken identification strategy. （又及；附言）",
+          "exampleUsage": "又及救不了壞的識別策略。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-scrib-01"
         },
         {
           "id": "gre-postulate",
@@ -38890,6 +41338,38 @@
           "detailed": true
         },
         {
+          "id": "gre-predict",
+          "en": "predict",
+          "zh": "預測",
+          "endef": "預測",
+          "exampleEn": "Predict direction and rough magnitude when possible.",
+          "example": "Predict direction and rough magnitude when possible. （預測）",
+          "exampleUsage": "盡可能預測方向與大致幅度。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-dict-01"
+        },
+        {
+          "id": "gre-predictor",
+          "en": "predictor",
+          "zh": "預測變項／預測器",
+          "endef": "預測變項／預測器",
+          "exampleEn": "A strong predictor is not automatically a cause.",
+          "example": "A strong predictor is not automatically a cause. （預測變項／預測器）",
+          "exampleUsage": "強預測子不自動是原因。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-dict-01"
+        },
+        {
           "id": "gre-predilection",
           "en": "predilection",
           "zh": "n. 偏愛｜教學補註：preference",
@@ -38950,6 +41430,22 @@
           "detailed": true
         },
         {
+          "id": "gre-prefer",
+          "en": "prefer",
+          "zh": "更喜歡；寧可",
+          "endef": "更喜歡；寧可",
+          "exampleEn": "Reviewers prefer precise claims over sweeping ones.",
+          "example": "Reviewers prefer precise claims over sweeping ones. （更喜歡；寧可）",
+          "exampleUsage": "審稿人寧可要精確主張。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-fer-01"
+        },
+        {
           "id": "gre-prefigure",
           "en": "prefigure",
           "zh": "預言｜教學補註：imagine or consider beforehand",
@@ -38963,6 +41459,38 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-prejudice",
+          "en": "prejudice",
+          "zh": "偏見；損害",
+          "endef": "偏見；損害",
+          "exampleEn": "Prejudice enters when labels leak into coding.",
+          "example": "Prejudice enters when labels leak into coding. （偏見；損害）",
+          "exampleUsage": "標籤洩漏進編碼時偏見進入。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-jud-01"
+        },
+        {
+          "id": "gre-prejudicial",
+          "en": "prejudicial",
+          "zh": "有 Harm／偏見的",
+          "endef": "有 Harm／偏見的",
+          "exampleEn": "Prejudicial language in reviews should be edited out.",
+          "example": "Prejudicial language in reviews should be edited out. （有 Harm／偏見的）",
+          "exampleUsage": "審稿中的偏見語言應刪除。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-jud-01"
         },
         {
           "id": "gre-preliminary",
@@ -39415,6 +41943,38 @@
           "detailed": true
         },
         {
+          "id": "gre-prevent",
+          "en": "prevent",
+          "zh": "防止",
+          "endef": "防止",
+          "exampleEn": "Blinding can prevent some expectancy biases.",
+          "example": "Blinding can prevent some expectancy biases. （防止）",
+          "exampleUsage": "盲法可防止部分期望偏差。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-ven-01"
+        },
+        {
+          "id": "gre-prevention",
+          "en": "prevention",
+          "zh": "預防",
+          "endef": "預防",
+          "exampleEn": "Prevention claims need absolute risk context.",
+          "example": "Prevention claims need absolute risk context. （預防）",
+          "exampleUsage": "預防宣稱需要絕對風險脈絡。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-ven-01"
+        },
+        {
           "id": "gre-prey",
           "en": "prey",
           "zh": "獵物｜教學補註：a person who is the aim of an attack (especially a victim of ridicule or expl...",
@@ -39699,6 +42259,22 @@
           "lookalikes": "",
           "sources": "複習詞",
           "detailed": true
+        },
+        {
+          "id": "gre-proficient",
+          "en": "proficient",
+          "zh": "熟練的",
+          "endef": "熟練的",
+          "exampleEn": "Proficient coding still needs code review.",
+          "example": "Proficient coding still needs code review. （熟練的）",
+          "exampleUsage": "熟練寫碼仍需審查。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-fac-01"
         },
         {
           "id": "gre-profligacy",
@@ -40002,6 +42578,22 @@
           "detailed": true
         },
         {
+          "id": "gre-propensity",
+          "en": "propensity",
+          "zh": "傾向",
+          "endef": "傾向",
+          "exampleEn": "Estimate propensity with covariates chosen ex ante.",
+          "example": "Estimate propensity with covariates chosen ex ante. （傾向）",
+          "exampleUsage": "用事先選好的共變估計傾向。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-pend-01"
+        },
+        {
           "id": "gre-prophesy",
           "en": "prophesy",
           "zh": "預言｜教學補註：predict or reveal through, or as if through, divine inspiration",
@@ -40090,6 +42682,22 @@
           "lookalikes": "ominous 凶兆的 ｜ auspicious 吉利的；有利的 ｜ propitious 吉利的；適當的",
           "sources": "複習詞、救命800、紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-propose",
+          "en": "propose",
+          "zh": "提議",
+          "endef": "提議",
+          "exampleEn": "We propose a preregistered analysis plan.",
+          "example": "We propose a preregistered analysis plan. （提議）",
+          "exampleUsage": "我們提議預註冊分析計畫。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-pos-01"
         },
         {
           "id": "gre-proposition",
@@ -40243,6 +42851,22 @@
           "fromHumorCluster": "root-spect-01"
         },
         {
+          "id": "gre-prospective",
+          "en": "prospective",
+          "zh": "前瞻的；預期的",
+          "endef": "前瞻的；預期的",
+          "exampleEn": "Prefer prospective registration when feasible.",
+          "example": "Prefer prospective registration when feasible. （前瞻的；預期的）",
+          "exampleUsage": "可行時寧用前瞻註冊。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "look-pair-01"
+        },
+        {
           "id": "gre-prostrate",
           "en": "prostrate",
           "zh": "v. 使衰竭｜教學補註：to reduce to extreme weakness or incapacitation",
@@ -40362,6 +42986,22 @@
           "lookalikes": "",
           "sources": "複習詞、紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-provide",
+          "en": "provide",
+          "zh": "提供",
+          "endef": "提供",
+          "exampleEn": "Provide code that runs on a clean machine.",
+          "example": "Provide code that runs on a clean machine. （提供）",
+          "exampleUsage": "提供能在乾淨機器跑的程式。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-vid-01"
         },
         {
           "id": "gre-provident",
@@ -40753,6 +43393,38 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-pulsate",
+          "en": "pulsate",
+          "zh": "搏動",
+          "endef": "搏動",
+          "exampleEn": "Attention pulsates with media cycles.",
+          "example": "Attention pulsates with media cycles. （搏動）",
+          "exampleUsage": "注意力隨媒體週期搏動。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-pel-01"
+        },
+        {
+          "id": "gre-pulse",
+          "en": "pulse",
+          "zh": "脈搏；脈衝",
+          "endef": "脈搏；脈衝",
+          "exampleEn": "Take the pulse of the literature with living reviews.",
+          "example": "Take the pulse of the literature with living reviews. （脈搏；脈衝）",
+          "exampleUsage": "用持續評論為文獻把脈。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-pel-01"
         },
         {
           "id": "gre-pulverize",
@@ -41411,7 +44083,7 @@
     {
       "letter": "R",
       "slug": "r",
-      "wordCount": 244,
+      "wordCount": 260,
       "words": [
         {
           "id": "gre-rabid",
@@ -41487,6 +44159,22 @@
           "lookalikes": "rile 惹惱激怒 ｜ raillery 打趣；開玩笑",
           "sources": "救命800、重要詞",
           "detailed": true
+        },
+        {
+          "id": "gre-rain",
+          "en": "rain",
+          "zh": "雨",
+          "endef": "雨",
+          "exampleEn": "When critiques rain, triage by severity.",
+          "example": "When critiques rain, triage by severity. （雨）",
+          "exampleUsage": "批評如雨時依嚴重度分流。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "rhyme-ain-01"
         },
         {
           "id": "gre-rakish",
@@ -42120,6 +44808,22 @@
           "fromHumorCluster": "root-ced-01"
         },
         {
+          "id": "gre-receive",
+          "en": "receive",
+          "zh": "收到",
+          "endef": "收到",
+          "exampleEn": "Did the editor receive the corrected supplement?",
+          "example": "Did the editor receive the corrected supplement? （收到）",
+          "exampleUsage": "編輯收到修正附錄了嗎？",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-cap-01"
+        },
+        {
           "id": "gre-receptive",
           "en": "receptive",
           "zh": "包容的｜教學補註：open to arguments, ideas, or change",
@@ -42163,6 +44867,22 @@
           "lookalikes": "",
           "sources": "GRE3000、紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-recipient",
+          "en": "recipient",
+          "zh": "接受者",
+          "endef": "接受者",
+          "exampleEn": "Name the recipient of benefits, not only average effects.",
+          "example": "Name the recipient of benefits, not only average effects. （接受者）",
+          "exampleUsage": "說清受益接受者，不只平均效應。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-cap-01"
         },
         {
           "id": "gre-reciprocal",
@@ -42328,6 +45048,22 @@
           "lookalikes": "",
           "sources": "GRE3000、複習詞、紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-reconstruct",
+          "en": "reconstruct",
+          "zh": "重建",
+          "endef": "重建",
+          "exampleEn": "Historians reconstruct events from partial archives.",
+          "example": "Historians reconstruct events from partial archives. （重建）",
+          "exampleUsage": "史家從殘缺檔案重建事件。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-struct-01"
         },
         {
           "id": "gre-recourse",
@@ -42538,6 +45274,70 @@
           "lookalikes": "",
           "sources": "複習詞、紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-refer",
+          "en": "refer",
+          "zh": "提及；轉介；參考",
+          "endef": "提及；轉介；參考",
+          "exampleEn": "Please refer to the appendix for full tables.",
+          "example": "Please refer to the appendix for full tables. （提及；轉介；參考）",
+          "exampleUsage": "完整表格請參考附錄。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-fer-01"
+        },
+        {
+          "id": "gre-referendum",
+          "en": "referendum",
+          "zh": "公投",
+          "endef": "公投",
+          "exampleEn": "A referendum cannot replace careful cost analysis.",
+          "example": "A referendum cannot replace careful cost analysis. （公投）",
+          "exampleUsage": "公投不能取代成本分析。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-fer-01"
+        },
+        {
+          "id": "gre-refine",
+          "en": "refine",
+          "zh": "精煉；改進",
+          "endef": "精煉；改進",
+          "exampleEn": "Refine the codebook after pilot disagreements.",
+          "example": "Refine the codebook after pilot disagreements. （精煉；改進）",
+          "exampleUsage": "試點分歧後精煉編碼簿。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-fin-01"
+        },
+        {
+          "id": "gre-refinement",
+          "en": "refinement",
+          "zh": "精煉；改進",
+          "endef": "精煉；改進",
+          "exampleEn": "Each refinement should be logged.",
+          "example": "Each refinement should be logged. （精煉；改進）",
+          "exampleUsage": "每次精煉應記錄。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-fin-01"
         },
         {
           "id": "gre-refraction",
@@ -43500,6 +46300,22 @@
           "detailed": true
         },
         {
+          "id": "gre-report",
+          "en": "report",
+          "zh": "報告",
+          "endef": "報告",
+          "exampleEn": "Report effect sizes with intervals, not stars alone.",
+          "example": "Report effect sizes with intervals, not stars alone. （報告）",
+          "exampleUsage": "報告效應量請帶區間。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-port-01"
+        },
+        {
           "id": "gre-repose",
           "en": "repose",
           "zh": "休息｜教學補註：freedom from activity (work or strain or responsibility)",
@@ -43513,6 +46329,22 @@
           "lookalikes": "",
           "sources": "複習詞",
           "detailed": true
+        },
+        {
+          "id": "gre-repository",
+          "en": "repository",
+          "zh": "儲庫",
+          "endef": "儲庫",
+          "exampleEn": "A public repository reduces private hoarding of data.",
+          "example": "A public repository reduces private hoarding of data. （儲庫）",
+          "exampleUsage": "公開儲庫減少私藏。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-pos-01"
         },
         {
           "id": "gre-reprehend",
@@ -43755,6 +46587,22 @@
           "detailed": true
         },
         {
+          "id": "gre-resentment",
+          "en": "resentment",
+          "zh": "怨恨",
+          "endef": "怨恨",
+          "exampleEn": "Unpaid reviewing breeds resentment.",
+          "example": "Unpaid reviewing breeds resentment. （怨恨）",
+          "exampleUsage": "無酬審稿滋生怨恨。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-sent-01"
+        },
+        {
           "id": "gre-resignation",
           "en": "resignation",
           "zh": "妥協；辭職",
@@ -43813,6 +46661,22 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-resist",
+          "en": "resist",
+          "zh": "抵抗",
+          "endef": "抵抗",
+          "exampleEn": "Fields resist reforms that threaten hierarchies.",
+          "example": "Fields resist reforms that threaten hierarchies. （抵抗）",
+          "exampleUsage": "領域抵抗威脅階層的改革。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-sta-01"
         },
         {
           "id": "gre-resonant",
@@ -43935,6 +46799,38 @@
           "detailed": true
         },
         {
+          "id": "gre-restrain",
+          "en": "restrain",
+          "zh": "抑制；拘束",
+          "endef": "抑制；拘束",
+          "exampleEn": "Restrain causal verbs without identification.",
+          "example": "Restrain causal verbs without identification. （抑制；拘束）",
+          "exampleUsage": "沒識別就抑制因果動詞。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "rhyme-ain-01"
+        },
+        {
+          "id": "gre-restructure",
+          "en": "restructure",
+          "zh": "改組；重整",
+          "endef": "改組；重整",
+          "exampleEn": "Restructure the paper around one sharp question.",
+          "example": "Restructure the paper around one sharp question. （改組；重整）",
+          "exampleUsage": "圍繞一個尖銳問題重整論文。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-struct-01"
+        },
+        {
           "id": "gre-resurge",
           "en": "resurge",
           "zh": "復活｜教學補註：rise again",
@@ -43993,6 +46889,22 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-retain",
+          "en": "retain",
+          "zh": "保留；聘留",
+          "endef": "保留；聘留",
+          "exampleEn": "Retain raw logs for auditability.",
+          "example": "Retain raw logs for auditability. （保留；聘留）",
+          "exampleUsage": "保留原始紀錄以便稽核。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-ten-01"
         },
         {
           "id": "gre-retaliate",
@@ -44310,6 +47222,22 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-revise",
+          "en": "revise",
+          "zh": "修訂",
+          "endef": "修訂",
+          "exampleEn": "Revise claims after the robustness battery.",
+          "example": "Revise claims after the robustness battery. （修訂）",
+          "exampleUsage": "穩健電池後再修訂主張。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-vid-01"
         },
         {
           "id": "gre-revitalize",
@@ -45081,7 +48009,7 @@
     {
       "letter": "S",
       "slug": "s",
-      "wordCount": 490,
+      "wordCount": 515,
       "words": [
         {
           "id": "gre-sabotage",
@@ -46194,6 +49122,22 @@
           "detailed": true
         },
         {
+          "id": "gre-script",
+          "en": "script",
+          "zh": "劇本；腳本",
+          "endef": "劇本；腳本",
+          "exampleEn": "Preregistration is a script against flexible plotting.",
+          "example": "Preregistration is a script against flexible plotting. （劇本；腳本）",
+          "exampleUsage": "預註冊是對抗彈性畫圖的腳本。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-scrib-01"
+        },
+        {
           "id": "gre-scruffy",
           "en": "scruffy",
           "zh": "骯髒的；破舊的",
@@ -46901,6 +49845,70 @@
           "detailed": true
         },
         {
+          "id": "gre-sense",
+          "en": "sense",
+          "zh": "感官；意義；道理",
+          "endef": "感官；意義；道理",
+          "exampleEn": "Does this operationalization make sense theoretically?",
+          "example": "Does this operationalization make sense theoretically? （感官；意義；道理）",
+          "exampleUsage": "此操作化理論上說得通嗎？",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-sent-01"
+        },
+        {
+          "id": "gre-sensible",
+          "en": "sensible",
+          "zh": "明智的；可察覺的",
+          "endef": "明智的；可察覺的",
+          "exampleEn": "A sensible robustness check is cheap insurance.",
+          "example": "A sensible robustness check is cheap insurance. （明智的；可察覺的）",
+          "exampleUsage": "明智穩健檢查是便宜保險。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-sent-01"
+        },
+        {
+          "id": "gre-sensitive",
+          "en": "sensitive",
+          "zh": "敏感的",
+          "endef": "敏感的",
+          "exampleEn": "Results are sensitive to one influential point.",
+          "example": "Results are sensitive to one influential point. （敏感的）",
+          "exampleUsage": "結果對一個影響點敏感。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-sent-01"
+        },
+        {
+          "id": "gre-sensory",
+          "en": "sensory",
+          "zh": "感官的",
+          "endef": "感官的",
+          "exampleEn": "Sensory overload in dashboards hides the signal.",
+          "example": "Sensory overload in dashboards hides the signal. （感官的）",
+          "exampleUsage": "儀表板感官過載會藏訊號。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-sent-01"
+        },
+        {
           "id": "gre-sensuous",
           "en": "sensuous",
           "zh": "adj. 愉悅感官的",
@@ -46944,6 +49952,22 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-sentiment",
+          "en": "sentiment",
+          "zh": "情緒；意見",
+          "endef": "情緒；意見",
+          "exampleEn": "Policy should not track online sentiment alone.",
+          "example": "Policy should not track online sentiment alone. （情緒；意見）",
+          "exampleUsage": "政策不該只追網路情緒。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-sent-01"
         },
         {
           "id": "gre-sentinel",
@@ -49814,6 +52838,38 @@
           "detailed": true
         },
         {
+          "id": "gre-stability",
+          "en": "stability",
+          "zh": "穩定性",
+          "endef": "穩定性",
+          "exampleEn": "Stability checks belong in the main text.",
+          "example": "Stability checks belong in the main text. （穩定性）",
+          "exampleUsage": "穩定性檢查應放正文。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-sta-01"
+        },
+        {
+          "id": "gre-stable",
+          "en": "stable",
+          "zh": "穩定的",
+          "endef": "穩定的",
+          "exampleEn": "Seek stable estimates across specifications.",
+          "example": "Seek stable estimates across specifications. （穩定的）",
+          "exampleUsage": "在不同設定中尋求穩定估計。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-sta-01"
+        },
+        {
           "id": "gre-stagger",
           "en": "stagger",
           "zh": "v. 猶豫不決｜教學補註：to show uncertainty about the right course of action",
@@ -49979,6 +53035,38 @@
           "detailed": true
         },
         {
+          "id": "gre-stance",
+          "en": "stance",
+          "zh": "立場",
+          "endef": "立場",
+          "exampleEn": "State your stance on causal language explicitly.",
+          "example": "State your stance on causal language explicitly. （立場）",
+          "exampleUsage": "明確陳述對因果語言的立場。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-sta-01"
+        },
+        {
+          "id": "gre-standard",
+          "en": "standard",
+          "zh": "標準",
+          "endef": "標準",
+          "exampleEn": "Adopt reporting standards early.",
+          "example": "Adopt reporting standards early. （標準）",
+          "exampleUsage": "及早採用報告標準。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-sta-01"
+        },
+        {
           "id": "gre-standstill",
           "en": "standstill",
           "zh": "停滯｜教學補註：a situation in which no progress can be made or no advancement is possible",
@@ -50099,6 +53187,22 @@
           "detailed": true
         },
         {
+          "id": "gre-statue",
+          "en": "statue",
+          "zh": "雕像",
+          "endef": "雕像",
+          "exampleEn": "A statue of a founder is not a methods section.",
+          "example": "A statue of a founder is not a methods section. （雕像）",
+          "exampleUsage": "創辦人雕像不是方法段。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-sta-01"
+        },
+        {
           "id": "gre-stature",
           "en": "stature",
           "zh": "身高；身材",
@@ -50112,6 +53216,38 @@
           "lookalikes": "",
           "sources": "複習詞、紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-status",
+          "en": "status",
+          "zh": "地位；狀態",
+          "endef": "地位；狀態",
+          "exampleEn": "Report status of preregistration deviations.",
+          "example": "Report status of preregistration deviations. （地位；狀態）",
+          "exampleUsage": "報告預註冊偏離狀態。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-sta-01"
+        },
+        {
+          "id": "gre-statute",
+          "en": "statute",
+          "zh": "成文法",
+          "endef": "成文法",
+          "exampleEn": "Cite the statute, not a blog summary.",
+          "example": "Cite the statute, not a blog summary. （成文法）",
+          "exampleUsage": "引用成文法，不是部落格摘要。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-sta-01"
         },
         {
           "id": "gre-statutory",
@@ -50639,6 +53775,22 @@
           "detailed": true
         },
         {
+          "id": "gre-strain",
+          "en": "strain",
+          "zh": "拉緊；張力；菌株",
+          "endef": "拉緊；張力；菌株",
+          "exampleEn": "Strain on staff predicts coding errors.",
+          "example": "Strain on staff predicts coding errors. （拉緊；張力；菌株）",
+          "exampleUsage": "人員緊繃預測編碼錯誤。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "rhyme-ain-01"
+        },
+        {
           "id": "gre-straiten",
           "en": "straiten",
           "zh": "變窄；限制；使窮困",
@@ -50892,6 +54044,38 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-structural",
+          "en": "structural",
+          "zh": "結構上的",
+          "endef": "結構上的",
+          "exampleEn": "Structural reforms beat one-off trainings.",
+          "example": "Structural reforms beat one-off trainings. （結構上的）",
+          "exampleUsage": "結構改革勝過一次性訓練。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-struct-01"
+        },
+        {
+          "id": "gre-structure",
+          "en": "structure",
+          "zh": "結構",
+          "endef": "結構",
+          "exampleEn": "Argument structure should be visible in headings.",
+          "example": "Argument structure should be visible in headings. （結構）",
+          "exampleUsage": "論證結構應在標題可見。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-struct-01"
         },
         {
           "id": "gre-strut",
@@ -51194,6 +54378,22 @@
           "detailed": true
         },
         {
+          "id": "gre-subscribe",
+          "en": "subscribe",
+          "zh": "訂閱；同意署名",
+          "endef": "訂閱；同意署名",
+          "exampleEn": "I cannot subscribe to that causal leap.",
+          "example": "I cannot subscribe to that causal leap. （訂閱；同意署名）",
+          "exampleUsage": "我無法附和那因果跳躍。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-scrib-01"
+        },
+        {
           "id": "gre-subservient",
           "en": "subservient",
           "zh": "順從的｜教學補註：compliant and obedient to authority",
@@ -51327,6 +54527,22 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-substitute",
+          "en": "substitute",
+          "zh": "代替",
+          "endef": "代替",
+          "exampleEn": "Do not substitute rhetoric for identification.",
+          "example": "Do not substitute rhetoric for identification. （代替）",
+          "exampleUsage": "不要用修辭替代識別。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-sta-01"
         },
         {
           "id": "gre-subsume",
@@ -51478,6 +54694,38 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-suffer",
+          "en": "suffer",
+          "zh": "遭受；受苦",
+          "endef": "遭受；受苦",
+          "exampleEn": "The design will suffer if power is too low.",
+          "example": "The design will suffer if power is too low. （遭受；受苦）",
+          "exampleUsage": "檢定力太低，設計會受苦。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-fer-01"
+        },
+        {
+          "id": "gre-sufficient",
+          "en": "sufficient",
+          "zh": "足夠的",
+          "endef": "足夠的",
+          "exampleEn": "A sufficient statistic compresses without loss for the parameter.",
+          "example": "A sufficient statistic compresses without loss for the parameter. （足夠的）",
+          "exampleUsage": "充分統計量為參數無損壓縮。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-fac-01"
         },
         {
           "id": "gre-suffocate",
@@ -51780,6 +55028,22 @@
           "detailed": true
         },
         {
+          "id": "gre-superscript",
+          "en": "superscript",
+          "zh": "上標",
+          "endef": "上標",
+          "exampleEn": "Check superscripts in chemical and statistical notation.",
+          "example": "Check superscripts in chemical and statistical notation. （上標）",
+          "exampleUsage": "檢查化學與統計記號上標。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-scrib-01"
+        },
+        {
           "id": "gre-supersede",
           "en": "supersede",
           "zh": "超越｜教學補註：take the place or move into the position of",
@@ -51808,6 +55072,22 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-supervise",
+          "en": "supervise",
+          "zh": "監督",
+          "endef": "監督",
+          "exampleEn": "Supervise labeling to reduce drift.",
+          "example": "Supervise labeling to reduce drift. （監督）",
+          "exampleUsage": "監督標註以減少漂移。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-vid-01"
         },
         {
           "id": "gre-supine",
@@ -51898,6 +55178,22 @@
           "lookalikes": "",
           "sources": "複習詞、紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-support",
+          "en": "support",
+          "zh": "支持；支撐",
+          "endef": "支持；支撐",
+          "exampleEn": "Correlations alone rarely support causal claims.",
+          "example": "Correlations alone rarely support causal claims. （支持；支撐）",
+          "exampleUsage": "單靠相關很少支撐因果。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-port-01"
         },
         {
           "id": "gre-surfeit",
@@ -52035,6 +55331,22 @@
           "detailed": true
         },
         {
+          "id": "gre-suspend",
+          "en": "suspend",
+          "zh": "暫停；懸吊",
+          "endef": "暫停；懸吊",
+          "exampleEn": "Suspend recruitment when adverse events cluster.",
+          "example": "Suspend recruitment when adverse events cluster. （暫停；懸吊）",
+          "exampleUsage": "不良事件群聚時暫停收案。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-pend-01"
+        },
+        {
           "id": "gre-suspicion",
           "en": "suspicion",
           "zh": "懷疑｜教學補註：an impression that something might be the case",
@@ -52048,6 +55360,22 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-sustain",
+          "en": "sustain",
+          "zh": "維持；支撐",
+          "endef": "維持；支撐",
+          "exampleEn": "Can the budget sustain longitudinal follow-up?",
+          "example": "Can the budget sustain longitudinal follow-up? （維持；支撐）",
+          "exampleUsage": "預算撐得起縱貫追蹤嗎？",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-ten-01"
         },
         {
           "id": "gre-sustained",
@@ -52444,7 +55772,7 @@
     {
       "letter": "T",
       "slug": "t",
-      "wordCount": 177,
+      "wordCount": 181,
       "words": [
         {
           "id": "gre-table",
@@ -53135,6 +56463,22 @@
           "lookalikes": "",
           "sources": "填空1300、紅寶書、重要詞",
           "detailed": true
+        },
+        {
+          "id": "gre-tenant",
+          "en": "tenant",
+          "zh": "承租人",
+          "endef": "承租人",
+          "exampleEn": "Think of a theory as a tenant in the house of evidence.",
+          "example": "Think of a theory as a tenant in the house of evidence. （承租人）",
+          "exampleUsage": "把理論想成證據之屋的承租人。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-ten-01"
         },
         {
           "id": "gre-tend",
@@ -54054,6 +57398,22 @@
           "detailed": true
         },
         {
+          "id": "gre-train",
+          "en": "train",
+          "zh": "訓練；火車",
+          "endef": "訓練；火車",
+          "exampleEn": "Train annotators with gold standards.",
+          "example": "Train annotators with gold standards. （訓練；火車）",
+          "exampleUsage": "用金標準訓練標註者。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "rhyme-ain-01"
+        },
+        {
           "id": "gre-traipse",
           "en": "traipse",
           "zh": "疲憊的走｜教學補註：walk or tramp about",
@@ -54190,6 +57550,22 @@
           "detailed": true
         },
         {
+          "id": "gre-transfer",
+          "en": "transfer",
+          "zh": "轉移；調動",
+          "endef": "轉移；調動",
+          "exampleEn": "Do not transfer blame without tracing the cause.",
+          "example": "Do not transfer blame without tracing the cause. （轉移；調動）",
+          "exampleUsage": "未追因就不要轉移責難。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-fer-01"
+        },
+        {
           "id": "gre-transfigure",
           "en": "transfigure",
           "zh": "改變容貌｜教學補註：elevate or idealize, in allusion to Christ's transfiguration",
@@ -54294,6 +57670,22 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-transparent",
+          "en": "transparent",
+          "zh": "透明的",
+          "endef": "透明的",
+          "exampleEn": "Transparent pipelines enable audit.",
+          "example": "Transparent pipelines enable audit. （透明的）",
+          "exampleUsage": "透明管線可稽核。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "sem-clear-01"
         },
         {
           "id": "gre-transpire",
@@ -55110,7 +58502,7 @@
     {
       "letter": "U",
       "slug": "u",
-      "wordCount": 95,
+      "wordCount": 97,
       "words": [
         {
           "id": "gre-ubiquitous",
@@ -55668,6 +59060,22 @@
           "detailed": true
         },
         {
+          "id": "gre-unfinished",
+          "en": "unfinished",
+          "zh": "未完成的",
+          "endef": "未完成的",
+          "exampleEn": "Unfinished robustness is unfinished science.",
+          "example": "Unfinished robustness is unfinished science. （未完成的）",
+          "exampleUsage": "未完成穩健＝未完成科學。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-fin-01"
+        },
+        {
           "id": "gre-unflagging",
           "en": "unflagging",
           "zh": "不屈不撓的；",
@@ -55831,6 +59239,22 @@
           "lookalikes": "",
           "sources": "救命800",
           "detailed": true
+        },
+        {
+          "id": "gre-unjust",
+          "en": "unjust",
+          "zh": "不公正的",
+          "endef": "不公正的",
+          "exampleEn": "Unjust authorship norms waste talent.",
+          "example": "Unjust authorship norms waste talent. （不公正的）",
+          "exampleUsage": "不公正作者規範浪費人才。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-jud-01"
         },
         {
           "id": "gre-unjustifiable",
@@ -56543,7 +59967,7 @@
     {
       "letter": "V",
       "slug": "v",
-      "wordCount": 117,
+      "wordCount": 127,
       "words": [
         {
           "id": "gre-vaciliate",
@@ -56634,6 +60058,22 @@
           "lookalikes": "",
           "sources": "複習詞",
           "detailed": true
+        },
+        {
+          "id": "gre-vague",
+          "en": "vague",
+          "zh": "含糊的",
+          "endef": "含糊的",
+          "exampleEn": "Vague hypotheses cannot fail.",
+          "example": "Vague hypotheses cannot fail. （含糊的）",
+          "exampleUsage": "含糊假說不會失敗。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "sem-clear-01"
         },
         {
           "id": "gre-vain",
@@ -57131,6 +60571,22 @@
           "detailed": true
         },
         {
+          "id": "gre-venture",
+          "en": "venture",
+          "zh": "冒險事業；敢於",
+          "endef": "冒險事業；敢於",
+          "exampleEn": "Venture capital metaphors mislead basic science.",
+          "example": "Venture capital metaphors mislead basic science. （冒險事業；敢於）",
+          "exampleUsage": "創投隱喻誤導基礎科學。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-ven-01"
+        },
+        {
           "id": "gre-venue",
           "en": "venue",
           "zh": "n. 場地｜教學補註：the area or space occupied by or intended for something",
@@ -57249,6 +60705,22 @@
           "lookalikes": "",
           "sources": "複習詞、紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-verdict",
+          "en": "verdict",
+          "zh": "裁決；定論",
+          "endef": "裁決；定論",
+          "exampleEn": "The verdict on generalizability is still out.",
+          "example": "The verdict on generalizability is still out. （裁決；定論）",
+          "exampleUsage": "概化性的定論尚未出爐。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-dict-01"
         },
         {
           "id": "gre-verdure",
@@ -57643,6 +61115,22 @@
           "detailed": true
         },
         {
+          "id": "gre-videotape",
+          "en": "videotape",
+          "zh": "錄影帶／錄影（教學）",
+          "endef": "錄影帶／錄影（教學）",
+          "exampleEn": "Videotape coding training for reliability audits.",
+          "example": "Videotape coding training for reliability audits. （錄影帶／錄影（教學））",
+          "exampleUsage": "為信度稽核錄下編碼訓練。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-vid-01"
+        },
+        {
           "id": "gre-vie",
           "en": "vie",
           "zh": "爭奪｜教學補註：compete for something",
@@ -57913,6 +61401,22 @@
           "detailed": true
         },
         {
+          "id": "gre-visage",
+          "en": "visage",
+          "zh": "臉容；外貌",
+          "endef": "臉容；外貌",
+          "exampleEn": "Do not judge a paper by journal visage alone.",
+          "example": "Do not judge a paper by journal visage alone. （臉容；外貌）",
+          "exampleUsage": "別只靠期刊臉判斷論文。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-vid-01"
+        },
+        {
           "id": "gre-visceral",
           "en": "visceral",
           "zh": "發自肺腑的；內臟的",
@@ -57958,6 +61462,54 @@
           "detailed": true
         },
         {
+          "id": "gre-visibility",
+          "en": "visibility",
+          "zh": "可見度",
+          "endef": "可見度",
+          "exampleEn": "Visibility of negative results is still uneven.",
+          "example": "Visibility of negative results is still uneven. （可見度）",
+          "exampleUsage": "負結果可見度仍不均。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-vid-01"
+        },
+        {
+          "id": "gre-visible",
+          "en": "visible",
+          "zh": "可見的",
+          "endef": "可見的",
+          "exampleEn": "Make assumptions visible in a box.",
+          "example": "Make assumptions visible in a box. （可見的）",
+          "exampleUsage": "把假設放進框裡看得見。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-vid-01"
+        },
+        {
+          "id": "gre-vision",
+          "en": "vision",
+          "zh": "視力；願景",
+          "endef": "視力；願景",
+          "exampleEn": "A vision without metrics is a poster.",
+          "example": "A vision without metrics is a poster. （視力；願景）",
+          "exampleUsage": "沒有指標的願景只是海報。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-vid-01"
+        },
+        {
           "id": "gre-visionary",
           "en": "visionary",
           "zh": "有遠見的｜教學補註：a person given to fanciful speculations and enthusiasms with little regard fo...",
@@ -57973,6 +61525,22 @@
           "detailed": true
         },
         {
+          "id": "gre-visit",
+          "en": "visit",
+          "zh": "造訪",
+          "endef": "造訪",
+          "exampleEn": "Visit the raw traces before summarizing.",
+          "example": "Visit the raw traces before summarizing. （造訪）",
+          "exampleUsage": "摘要前先看原始軌跡。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-vid-01"
+        },
+        {
           "id": "gre-vista",
           "en": "vista",
           "zh": "遠景｜教學補註：the visual percept of a region",
@@ -57986,6 +61554,22 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-visual",
+          "en": "visual",
+          "zh": "視覺的",
+          "endef": "視覺的",
+          "exampleEn": "Visual clutter undermines chart honesty.",
+          "example": "Visual clutter undermines chart honesty. （視覺的）",
+          "exampleUsage": "視覺雜訊破壞圖表誠實。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 S3a 補錄",
+          "detailed": true,
+          "fromHumorCluster": "root-vid-01"
         },
         {
           "id": "gre-vitality",
@@ -59356,7 +62940,7 @@
   ],
   "humorSync": {
     "stage": "S3a",
-    "syncedAt": "2026-10-18T16:04:02.226Z",
-    "addedFromHumor": 94
+    "syncedAt": "2026-10-18T16:21:36.180Z",
+    "addedFromHumor": 224
   }
 }

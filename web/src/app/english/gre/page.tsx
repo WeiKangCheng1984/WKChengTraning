@@ -28,17 +28,30 @@ export default function GreVocabIndexPage() {
         </p>
       </div>
 
-      <Link href="/english/gre/drill" className="focus-cta">
-        <p className="text-[10px] uppercase tracking-[0.18em] text-[var(--accent)]">
-          Flashcards
-        </p>
-        <h2 className="mt-1 font-[family-name:var(--font-display)] text-xl text-[var(--ink)]">
-          GRE 閃卡
-        </h2>
-        <p className="mt-1 text-sm text-[var(--muted)]">
-          全庫或依字母；可只背未掌握／詳情詞
-        </p>
-      </Link>
+      <div className="grid gap-3 sm:grid-cols-2">
+        <Link href="/english/gre/humor" className="focus-cta">
+          <p className="text-[10px] uppercase tracking-[0.18em] text-[var(--accent)]">
+            Humor Mode
+          </p>
+          <h2 className="mt-1 font-[family-name:var(--font-display)] text-xl text-[var(--ink)]">
+            幽默聯想學單字
+          </h2>
+          <p className="mt-1 text-sm text-[var(--muted)]">
+            家族劇本 · 詞卡跟讀 · 快測 · TTS 發音
+          </p>
+        </Link>
+        <Link href="/english/gre/drill" className="focus-cta">
+          <p className="text-[10px] uppercase tracking-[0.18em] text-[var(--accent)]">
+            Flashcards
+          </p>
+          <h2 className="mt-1 font-[family-name:var(--font-display)] text-xl text-[var(--ink)]">
+            GRE 閃卡
+          </h2>
+          <p className="mt-1 text-sm text-[var(--muted)]">
+            全庫或依字母；可只背未掌握／詳情詞
+          </p>
+        </Link>
+      </div>
 
       <div className="grid grid-cols-4 gap-2 sm:grid-cols-6 md:grid-cols-8">
         {data.letters.map((l) => (

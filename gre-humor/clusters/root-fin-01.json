@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "final",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "最終的",
       "roleInScript": "終線",
       "humorDevice": "morphology",
@@ -19,11 +19,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "finish",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "完成",
       "roleInScript": "跑到終點",
       "humorDevice": "story",
@@ -33,11 +34,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "finite",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "有限的",
       "roleInScript": "有邊界",
       "humorDevice": "morphology",
@@ -47,11 +49,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "infinite",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "無限的",
       "roleInScript": "無邊界",
       "humorDevice": "morphology",
@@ -61,11 +64,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "define",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "定義",
       "roleInScript": "劃界",
       "humorDevice": "morphology",
@@ -75,11 +79,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "refine",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "精煉；改進",
       "roleInScript": "把界修細",
       "humorDevice": "morphology",
@@ -89,11 +94,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "confine",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "限制；禁閉",
       "roleInScript": "關在界內",
       "humorDevice": "morphology",
@@ -103,7 +109,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "affinity",
@@ -117,11 +124,12 @@
       "related": {
         "synonyms": "bent, penchant, predication, proclivity",
         "antonyms": "aversion, disgust, consanguinity, straighten, unbend, dislike"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "finance",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "金融；資助",
       "roleInScript": "管錢的邊界",
       "humorDevice": "story",
@@ -131,7 +139,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "finale",
@@ -145,11 +154,12 @@
       "related": {
         "synonyms": "coda, conclusion",
         "antonyms": "beginning"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "definitive",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "決定性的；權威的",
       "roleInScript": "一錘定界",
       "humorDevice": "morphology",
@@ -159,11 +169,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "indefinite",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "不定的；無限期的",
       "roleInScript": "界不清楚",
       "humorDevice": "morphology",
@@ -173,11 +184,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "finality",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "終結性；定局",
       "roleInScript": "已到終點感",
       "humorDevice": "morphology",
@@ -187,11 +199,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "refinement",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "精煉；改進",
       "roleInScript": "修細的產品",
       "humorDevice": "morphology",
@@ -201,11 +214,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "unfinished",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "未完成的",
       "roleInScript": "沒到終線",
       "humorDevice": "story",
@@ -215,7 +229,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     }
   ],
   "reviewHooks": [

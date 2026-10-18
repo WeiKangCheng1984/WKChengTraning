@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "import",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "進口；重要性",
       "roleInScript": "運進來",
       "humorDevice": "morphology",
@@ -19,11 +19,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "export",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "出口；輸出",
       "roleInScript": "運出去",
       "humorDevice": "morphology",
@@ -33,11 +34,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "deport",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "驅逐出境",
       "roleInScript": "把人運走",
       "humorDevice": "morphology",
@@ -47,11 +49,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "portable",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "可攜的；可移植的",
       "roleInScript": "可隨身運",
       "humorDevice": "morphology",
@@ -61,7 +64,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "transport",
@@ -75,11 +79,12 @@
       "related": {
         "synonyms": "ecstasy, euphoria, rhapsody",
         "antonyms": "disenchant, dysphoria"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "important",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "重要的",
       "roleInScript": "有重量的貨",
       "humorDevice": "story",
@@ -89,7 +94,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "opportune",
@@ -103,11 +109,12 @@
       "related": {
         "synonyms": "",
         "antonyms": "inopportune"
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "opportunity",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "機會",
       "roleInScript": "靠岸窗口",
       "humorDevice": "morphology",
@@ -117,11 +124,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "support",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "支持；支撐",
       "roleInScript": "從下面托住",
       "humorDevice": "morphology",
@@ -131,11 +139,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "report",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "報告",
       "roleInScript": "運回總部",
       "humorDevice": "morphology",
@@ -145,11 +154,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "portfolio",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "作品集；投資組合",
       "roleInScript": "一組可運資產",
       "humorDevice": "morphology",
@@ -159,7 +169,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "purport",
@@ -173,11 +184,12 @@
       "related": {
         "synonyms": "intent, spirit, drift, aim, purpose, propose",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "insupportable",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "無法支撐的；難忍的",
       "roleInScript": "托不住",
       "humorDevice": "morphology",
@@ -187,11 +199,12 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "porter",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "搬運工",
       "roleInScript": "碼頭搬運者",
       "humorDevice": "story",
@@ -201,7 +214,8 @@
       "related": {
         "synonyms": "",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "synced-s3a"
     },
     {
       "headword": "sport",
@@ -215,7 +229,8 @@
       "related": {
         "synonyms": "athletics, summercater, sportsman, sportswoman, mutant, mutation",
         "antonyms": ""
-      }
+      },
+      "vocabStatus": "in-vocab"
     }
   ],
   "reviewHooks": [

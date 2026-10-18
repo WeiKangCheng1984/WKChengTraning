@@ -1,477 +1,1127 @@
 {
   "stage": "S3a",
-  "at": "2026-10-18T16:04:02.256Z",
-  "pendingBefore": 129,
+  "at": "2026-10-18T16:21:36.220Z",
+  "pendingBefore": 259,
   "addedToGreJson": [
     {
-      "en": "abduct",
-      "clusterId": "root-duc-01",
-      "zh": "誘拐；綁架"
+      "en": "abstruse",
+      "clusterId": "sem-clear-01",
+      "zh": "深奧難解的"
     },
     {
-      "en": "abet",
-      "clusterId": "look-a-01",
-      "zh": "教唆；煽動；協助（做壞事）"
+      "en": "accept",
+      "clusterId": "root-cap-01",
+      "zh": "接受"
     },
     {
-      "en": "abrupt",
-      "clusterId": "root-rupt-01",
-      "zh": "突然的；唐突的"
+      "en": "advent",
+      "clusterId": "root-ven-01",
+      "zh": "到來；來臨"
     },
     {
-      "en": "accede",
-      "clusterId": "look-a-01",
-      "zh": "同意；加入；繼承"
+      "en": "adventure",
+      "clusterId": "root-ven-01",
+      "zh": "冒險"
     },
     {
-      "en": "accredited",
-      "clusterId": "root-cred-01",
-      "zh": "經認證的"
+      "en": "ambiguous",
+      "clusterId": "sem-clear-01",
+      "zh": "模稜的"
     },
     {
-      "en": "admissible",
-      "clusterId": "root-mit-01",
-      "zh": "可採納的（證據等）"
+      "en": "anticipate",
+      "clusterId": "root-cap-01",
+      "zh": "預期；預先處理"
     },
     {
-      "en": "adverse",
-      "clusterId": "root-vert-01",
-      "zh": "不利的；有害的"
+      "en": "append",
+      "clusterId": "root-pend-01",
+      "zh": "附加"
     },
     {
-      "en": "advocate",
-      "clusterId": "root-voc-01",
-      "zh": "提倡；辯護者"
+      "en": "appendix",
+      "clusterId": "root-pend-01",
+      "zh": "附錄；闌尾"
     },
     {
-      "en": "aesthetic",
-      "clusterId": "look-a-01",
-      "zh": "美學的；審美的"
+      "en": "artificial",
+      "clusterId": "root-fac-01",
+      "zh": "人造的；矯揉的"
     },
     {
-      "en": "affable",
-      "clusterId": "sem-temper-01",
-      "zh": "和藹可親的"
+      "en": "attention",
+      "clusterId": "root-ten-01",
+      "zh": "注意"
     },
     {
-      "en": "aggressive",
-      "clusterId": "root-gress-01",
-      "zh": "侵略的；積極進取的"
+      "en": "avenue",
+      "clusterId": "root-ven-01",
+      "zh": "大道；途徑"
     },
     {
-      "en": "allege",
-      "clusterId": "rhyme-edge-01",
-      "zh": "宣稱；指控（未必證實）"
+      "en": "averse",
+      "clusterId": "look-pair-01",
+      "zh": "厭惡的；不願的"
     },
     {
-      "en": "amiable",
-      "clusterId": "sem-temper-01",
-      "zh": "親切隨和的"
+      "en": "benediction",
+      "clusterId": "root-dict-01",
+      "zh": "祝福"
     },
     {
-      "en": "analogy",
-      "clusterId": "root-loqu-01",
-      "zh": "類比"
+      "en": "benefactor",
+      "clusterId": "root-fac-01",
+      "zh": "恩人；捐助者"
     },
     {
-      "en": "aqueduct",
-      "clusterId": "root-duc-01",
-      "zh": "高架引水渠"
+      "en": "brain",
+      "clusterId": "rhyme-ain-01",
+      "zh": "腦"
     },
     {
-      "en": "arrogant",
-      "clusterId": "sem-flattery-01",
-      "zh": "傲慢的"
+      "en": "capable",
+      "clusterId": "root-cap-01",
+      "zh": "有能力的"
     },
     {
-      "en": "ascend",
-      "clusterId": "root-scend-01",
-      "zh": "上升；登上"
+      "en": "capacity",
+      "clusterId": "root-cap-01",
+      "zh": "容量；能力"
     },
     {
-      "en": "attract",
-      "clusterId": "root-tract-01",
-      "zh": "吸引"
+      "en": "captivate",
+      "clusterId": "root-cap-01",
+      "zh": "迷住；吸引"
     },
     {
-      "en": "bankrupt",
-      "clusterId": "root-rupt-01",
-      "zh": "破產的；完全缺乏的"
+      "en": "capture",
+      "clusterId": "root-cap-01",
+      "zh": "捕捉；奪取"
     },
     {
-      "en": "circumspect",
-      "clusterId": "root-spect-01",
-      "zh": "謹慎的；周密的"
+      "en": "circumference",
+      "clusterId": "root-fer-01",
+      "zh": "圓周；周邊"
     },
     {
-      "en": "claustrophobia",
-      "clusterId": "root-clud-01",
-      "zh": "幽閉恐懼症"
+      "en": "compel",
+      "clusterId": "root-pel-01",
+      "zh": "強迫"
     },
     {
-      "en": "conclude",
-      "clusterId": "root-clud-01",
-      "zh": "結束；推斷出"
+      "en": "compensate",
+      "clusterId": "root-pend-01",
+      "zh": "補償"
     },
     {
-      "en": "condescend",
-      "clusterId": "root-scend-01",
-      "zh": "屈尊；以恩賜態度對待"
+      "en": "complain",
+      "clusterId": "rhyme-ain-01",
+      "zh": "抱怨"
     },
     {
-      "en": "conduct",
-      "clusterId": "root-duc-01",
-      "zh": "引導；實施；行為"
+      "en": "component",
+      "clusterId": "root-pos-01",
+      "zh": "組成部分"
     },
     {
-      "en": "conjecture",
-      "clusterId": "root-ject-01",
-      "zh": "推測；臆測"
+      "en": "compose",
+      "clusterId": "root-pos-01",
+      "zh": "組成；撰寫"
     },
     {
-      "en": "conspicuous",
-      "clusterId": "root-spect-01",
-      "zh": "顯眼的；引人注目的"
+      "en": "compulsory",
+      "clusterId": "root-pel-01",
+      "zh": "強制的"
     },
     {
-      "en": "contort",
-      "clusterId": "root-tort-01",
-      "zh": "使扭曲變形"
+      "en": "concept",
+      "clusterId": "root-cap-01",
+      "zh": "概念"
     },
     {
-      "en": "controversy",
-      "clusterId": "root-vert-01",
-      "zh": "爭議"
+      "en": "confine",
+      "clusterId": "root-fin-01",
+      "zh": "限制；禁閉"
     },
     {
-      "en": "corrupt",
-      "clusterId": "root-rupt-01",
-      "zh": "腐敗的；使敗壞"
+      "en": "consensus",
+      "clusterId": "root-sent-01",
+      "zh": "共識"
     },
     {
-      "en": "corruption",
-      "clusterId": "root-rupt-01",
-      "zh": "腐敗；損壞"
+      "en": "consent",
+      "clusterId": "root-sent-01",
+      "zh": "同意；許可"
     },
     {
-      "en": "credence",
-      "clusterId": "root-cred-01",
-      "zh": "相信；信任"
+      "en": "constitute",
+      "clusterId": "root-sta-01",
+      "zh": "構成；設立"
     },
     {
-      "en": "credential",
-      "clusterId": "root-cred-01",
-      "zh": "資格證件；憑證"
+      "en": "constraint",
+      "clusterId": "rhyme-ain-01",
+      "zh": "約束；限制"
     },
     {
-      "en": "credibility",
-      "clusterId": "root-cred-01",
-      "zh": "可信度"
+      "en": "construct",
+      "clusterId": "root-struct-01",
+      "zh": "建造；構念"
     },
     {
-      "en": "credible",
-      "clusterId": "root-cred-01",
-      "zh": "可信的"
+      "en": "construction",
+      "clusterId": "root-struct-01",
+      "zh": "建造；解釋建構"
     },
     {
-      "en": "deduce",
-      "clusterId": "root-duc-01",
-      "zh": "演繹；推論"
+      "en": "contain",
+      "clusterId": "root-ten-01",
+      "zh": "包含；遏制"
     },
     {
-      "en": "deduction",
-      "clusterId": "root-duc-01",
-      "zh": "推論；扣除"
+      "en": "continent",
+      "clusterId": "root-ten-01",
+      "zh": "大陸；克制的（古）"
     },
     {
-      "en": "degrade",
-      "clusterId": "root-gress-01",
-      "zh": "降級；貶低；降解"
+      "en": "contradict",
+      "clusterId": "root-dict-01",
+      "zh": "反駁；矛盾"
     },
     {
-      "en": "descend",
-      "clusterId": "root-scend-01",
-      "zh": "下降；落入"
+      "en": "contradiction",
+      "clusterId": "root-dict-01",
+      "zh": "矛盾"
     },
     {
-      "en": "detract",
-      "clusterId": "root-tract-01",
-      "zh": "貶低；減損"
+      "en": "contravene",
+      "clusterId": "root-ven-01",
+      "zh": "違反；抵觸"
     },
     {
-      "en": "discredit",
-      "clusterId": "root-cred-01",
-      "zh": "使喪失信用"
+      "en": "convenient",
+      "clusterId": "root-ven-01",
+      "zh": "方便的"
     },
     {
-      "en": "dismiss",
-      "clusterId": "root-mit-01",
-      "zh": "解雇；打發；不予考慮"
+      "en": "crystal",
+      "clusterId": "sem-clear-01",
+      "zh": "水晶（比喻清楚）"
     },
     {
-      "en": "disrupt",
-      "clusterId": "root-rupt-01",
-      "zh": "擾亂；使中斷"
+      "en": "dedicate",
+      "clusterId": "root-dict-01",
+      "zh": "奉獻；致力於"
     },
     {
-      "en": "disruptive",
-      "clusterId": "root-rupt-01",
-      "zh": "破壞性的；顛覆式的"
+      "en": "defer",
+      "clusterId": "root-fer-01",
+      "zh": "延期；順從"
     },
     {
-      "en": "distract",
-      "clusterId": "root-tract-01",
-      "zh": "使分心；干擾"
+      "en": "define",
+      "clusterId": "root-fin-01",
+      "zh": "定義"
     },
     {
-      "en": "ductile",
-      "clusterId": "root-duc-01",
-      "zh": "可塑的；易導引成形的"
+      "en": "definitive",
+      "clusterId": "root-fin-01",
+      "zh": "決定性的；權威的"
     },
     {
-      "en": "egress",
-      "clusterId": "root-gress-01",
-      "zh": "出口；外出"
+      "en": "depend",
+      "clusterId": "root-pend-01",
+      "zh": "依賴"
     },
     {
-      "en": "eject",
-      "clusterId": "root-ject-01",
-      "zh": "彈出；驅逐"
+      "en": "deport",
+      "clusterId": "root-port-01",
+      "zh": "驅逐出境"
     },
     {
-      "en": "eloquent",
-      "clusterId": "root-loqu-01",
-      "zh": "雄辯的；有說服力的"
+      "en": "deposit",
+      "clusterId": "root-pos-01",
+      "zh": "存放；訂金"
     },
     {
-      "en": "equivocal",
-      "clusterId": "root-voc-01",
-      "zh": "模稜兩可的"
+      "en": "describe",
+      "clusterId": "root-scrib-01",
+      "zh": "描述"
     },
     {
-      "en": "eruption",
-      "clusterId": "root-rupt-01",
-      "zh": "爆發；噴發"
+      "en": "desensitize",
+      "clusterId": "root-sent-01",
+      "zh": "使不敏感"
     },
     {
-      "en": "evoke",
-      "clusterId": "rhyme-eak-01",
-      "zh": "喚起（情感／記憶）"
+      "en": "destroy",
+      "clusterId": "root-struct-01",
+      "zh": "毀滅"
     },
     {
-      "en": "exclude",
-      "clusterId": "root-clud-01",
-      "zh": "排除；拒絕納入"
+      "en": "destructive",
+      "clusterId": "root-struct-01",
+      "zh": "破壞性的"
     },
     {
-      "en": "fawn",
-      "clusterId": "sem-flattery-01",
-      "zh": "巴結；奉承"
+      "en": "detention",
+      "clusterId": "root-ten-01",
+      "zh": "拘留；留置"
     },
     {
-      "en": "fledge",
-      "clusterId": "rhyme-edge-01",
-      "zh": "長羽毛；羽翼漸豐"
+      "en": "dictate",
+      "clusterId": "root-dict-01",
+      "zh": "口述；命令；決定"
     },
     {
-      "en": "gallant",
-      "clusterId": "rhyme-ant-01",
-      "zh": "英勇的；殷勤瀟灑的"
+      "en": "dictatorial",
+      "clusterId": "root-dict-01",
+      "zh": "獨裁的"
     },
     {
-      "en": "grandiloquent",
-      "clusterId": "root-loqu-01",
-      "zh": "誇大其詞的"
+      "en": "dictionary",
+      "clusterId": "root-dict-01",
+      "zh": "詞典"
     },
     {
-      "en": "ideology",
-      "clusterId": "root-loqu-01",
-      "zh": "意識形態"
+      "en": "differ",
+      "clusterId": "root-fer-01",
+      "zh": "不同；有分歧"
     },
     {
-      "en": "incredible",
-      "clusterId": "root-cred-01",
-      "zh": "難以置信的"
+      "en": "dispel",
+      "clusterId": "root-pel-01",
+      "zh": "驅散"
     },
     {
-      "en": "incredulous",
-      "clusterId": "root-cred-01",
-      "zh": "懷疑的；不相信的"
+      "en": "dispose",
+      "clusterId": "root-pos-01",
+      "zh": "處置；使傾向"
     },
     {
-      "en": "induce",
-      "clusterId": "root-duc-01",
-      "zh": "引起；勸誘；歸納"
+      "en": "drain",
+      "clusterId": "rhyme-ain-01",
+      "zh": "排水；耗盡"
     },
     {
-      "en": "inspect",
-      "clusterId": "root-spect-01",
-      "zh": "檢查；審視"
+      "en": "edict",
+      "clusterId": "root-dict-01",
+      "zh": "敕令；公告"
     },
     {
-      "en": "interject",
-      "clusterId": "root-ject-01",
-      "zh": "突然插話"
+      "en": "effect",
+      "clusterId": "root-fac-01",
+      "zh": "結果；效應；使發生"
     },
     {
-      "en": "intractable",
-      "clusterId": "root-tract-01",
-      "zh": "難駕馭的；棘手的"
+      "en": "efficient",
+      "clusterId": "root-fac-01",
+      "zh": "有效率的"
     },
     {
-      "en": "introvert",
-      "clusterId": "root-vert-01",
-      "zh": "內向者；使內轉"
+      "en": "emancipate",
+      "clusterId": "root-cap-01",
+      "zh": "解放"
     },
     {
-      "en": "irruption",
-      "clusterId": "root-rupt-01",
-      "zh": "突然侵入；湧入"
+      "en": "establish",
+      "clusterId": "root-sta-01",
+      "zh": "建立；確立"
     },
     {
-      "en": "loquacious",
-      "clusterId": "sem-talk-01",
-      "zh": "話多的；滔滔不絕的"
+      "en": "event",
+      "clusterId": "root-ven-01",
+      "zh": "事件"
     },
     {
-      "en": "loquacity",
-      "clusterId": "root-loqu-01",
-      "zh": "話多；健談（偏多話）"
+      "en": "evidence",
+      "clusterId": "root-vid-01",
+      "zh": "證據"
     },
     {
-      "en": "omission",
-      "clusterId": "root-mit-01",
-      "zh": "遺漏；省略"
+      "en": "evident",
+      "clusterId": "root-vid-01",
+      "zh": "明顯的"
     },
     {
-      "en": "pathogen",
-      "clusterId": "root-path-01",
-      "zh": "病原體"
+      "en": "except",
+      "clusterId": "root-cap-01",
+      "zh": "除了；排除"
     },
     {
-      "en": "pathos",
-      "clusterId": "root-path-01",
-      "zh": "悲愴力；同情的感染"
+      "en": "expel",
+      "clusterId": "root-pel-01",
+      "zh": "驅逐；開除"
     },
     {
-      "en": "precede",
-      "clusterId": "root-ced-01",
-      "zh": "先於；領先"
+      "en": "explain",
+      "clusterId": "rhyme-ain-01",
+      "zh": "解釋"
     },
     {
-      "en": "predecessor",
-      "clusterId": "root-ced-01",
-      "zh": "前任；前身"
+      "en": "explicit",
+      "clusterId": "sem-clear-01",
+      "zh": "明確的"
     },
     {
-      "en": "proceed",
-      "clusterId": "root-ced-01",
-      "zh": "繼續進行"
+      "en": "exponent",
+      "clusterId": "root-pos-01",
+      "zh": "倡導者；指數"
     },
     {
-      "en": "projectile",
-      "clusterId": "root-ject-01",
-      "zh": "拋射物"
+      "en": "export",
+      "clusterId": "root-port-01",
+      "zh": "出口；輸出"
     },
     {
-      "en": "prospect",
-      "clusterId": "root-spect-01",
-      "zh": "前景；預期；探勘"
+      "en": "expose",
+      "clusterId": "root-pos-01",
+      "zh": "揭露"
     },
     {
-      "en": "protract",
-      "clusterId": "root-tract-01",
-      "zh": "延長；拖延"
+      "en": "extrasensory",
+      "clusterId": "root-sent-01",
+      "zh": "超感官的"
     },
     {
-      "en": "provoke",
-      "clusterId": "root-voc-01",
-      "zh": "激怒；激起"
+      "en": "facilitate",
+      "clusterId": "root-fac-01",
+      "zh": "促進；使容易"
     },
     {
-      "en": "recede",
-      "clusterId": "root-ced-01",
-      "zh": "後退；減退"
+      "en": "fact",
+      "clusterId": "root-fac-01",
+      "zh": "事實"
     },
     {
-      "en": "retrograde",
-      "clusterId": "root-gress-01",
-      "zh": "倒退的；逆向的"
+      "en": "factor",
+      "clusterId": "root-fac-01",
+      "zh": "因素；因子"
     },
     {
-      "en": "retrospect",
-      "clusterId": "root-spect-01",
-      "zh": "回顧"
+      "en": "fertile",
+      "clusterId": "root-fer-01",
+      "zh": "肥沃的；多產的"
     },
     {
-      "en": "secede",
-      "clusterId": "root-ced-01",
-      "zh": "退出；分離"
+      "en": "final",
+      "clusterId": "root-fin-01",
+      "zh": "最終的"
     },
     {
-      "en": "seduce",
-      "clusterId": "root-duc-01",
-      "zh": "引誘；誘惑"
+      "en": "finality",
+      "clusterId": "root-fin-01",
+      "zh": "終結性；定局"
     },
     {
-      "en": "spectacle",
-      "clusterId": "root-spect-01",
-      "zh": "景象；壯觀場面"
+      "en": "finance",
+      "clusterId": "root-fin-01",
+      "zh": "金融；資助"
     },
     {
-      "en": "spectator",
-      "clusterId": "root-spect-01",
-      "zh": "旁觀者"
+      "en": "finish",
+      "clusterId": "root-fin-01",
+      "zh": "完成"
     },
     {
-      "en": "spectrum",
-      "clusterId": "root-spect-01",
-      "zh": "光譜；範圍"
+      "en": "finite",
+      "clusterId": "root-fin-01",
+      "zh": "有限的"
     },
     {
-      "en": "subvert",
-      "clusterId": "root-vert-01",
-      "zh": "顛覆；暗中破壞"
+      "en": "gain",
+      "clusterId": "rhyme-ain-01",
+      "zh": "獲得"
     },
     {
-      "en": "torment",
-      "clusterId": "root-tort-01",
-      "zh": "折磨；苦惱"
+      "en": "grain",
+      "clusterId": "rhyme-ain-01",
+      "zh": "穀粒；紋理；一點點"
     },
     {
-      "en": "tractable",
-      "clusterId": "root-tract-01",
-      "zh": "易駕馭的；溫順的；易處理的"
+      "en": "historic",
+      "clusterId": "look-pair-01",
+      "zh": "歷史性的；有歷史意義的"
     },
     {
-      "en": "trajectory",
-      "clusterId": "root-ject-01",
-      "zh": "軌道；軌跡"
+      "en": "historical",
+      "clusterId": "look-pair-01",
+      "zh": "歷史的；有關歷史的"
     },
     {
-      "en": "transmit",
-      "clusterId": "root-mit-01",
-      "zh": "傳送；傳播"
+      "en": "implicit",
+      "clusterId": "sem-clear-01",
+      "zh": "隱含的"
     },
     {
-      "en": "unprecedented",
-      "clusterId": "root-ced-01",
-      "zh": "前所未有的"
+      "en": "imply",
+      "clusterId": "look-pair-01",
+      "zh": "暗示；意味著"
     },
     {
-      "en": "versatile",
-      "clusterId": "root-vert-01",
-      "zh": "多才多藝的；用途多的"
+      "en": "import",
+      "clusterId": "root-port-01",
+      "zh": "進口；重要性"
     },
     {
-      "en": "viaduct",
-      "clusterId": "root-duc-01",
-      "zh": "高架橋"
+      "en": "important",
+      "clusterId": "root-port-01",
+      "zh": "重要的"
     },
     {
-      "en": "wreak",
-      "clusterId": "rhyme-eak-01",
-      "zh": "造成（破壞）；發洩"
+      "en": "impose",
+      "clusterId": "root-pos-01",
+      "zh": "強加"
+    },
+    {
+      "en": "impulse",
+      "clusterId": "root-pel-01",
+      "zh": "衝動；脈衝"
+    },
+    {
+      "en": "indefinite",
+      "clusterId": "root-fin-01",
+      "zh": "不定的；無限期的"
+    },
+    {
+      "en": "independent",
+      "clusterId": "root-pend-01",
+      "zh": "獨立的"
+    },
+    {
+      "en": "indifferent",
+      "clusterId": "root-fer-01",
+      "zh": "冷漠的；無所謂的"
+    },
+    {
+      "en": "infer",
+      "clusterId": "root-fer-01",
+      "zh": "推論；推斷"
+    },
+    {
+      "en": "infinite",
+      "clusterId": "root-fin-01",
+      "zh": "無限的"
+    },
+    {
+      "en": "infrastructure",
+      "clusterId": "root-struct-01",
+      "zh": "基礎設施"
+    },
+    {
+      "en": "injury",
+      "clusterId": "root-jud-01",
+      "zh": "傷害"
+    },
+    {
+      "en": "injustice",
+      "clusterId": "root-jud-01",
+      "zh": "不義"
+    },
+    {
+      "en": "inscribe",
+      "clusterId": "root-scrib-01",
+      "zh": "題寫；銘刻"
+    },
+    {
+      "en": "institution",
+      "clusterId": "root-sta-01",
+      "zh": "制度；機構"
+    },
+    {
+      "en": "instruct",
+      "clusterId": "root-struct-01",
+      "zh": "指導；指示"
+    },
+    {
+      "en": "instructive",
+      "clusterId": "root-struct-01",
+      "zh": "有啟發的"
+    },
+    {
+      "en": "instrument",
+      "clusterId": "root-struct-01",
+      "zh": "工具；儀器"
+    },
+    {
+      "en": "insupportable",
+      "clusterId": "root-port-01",
+      "zh": "無法支撐的；難忍的"
+    },
+    {
+      "en": "intercept",
+      "clusterId": "root-cap-01",
+      "zh": "攔截"
+    },
+    {
+      "en": "intervene",
+      "clusterId": "root-ven-01",
+      "zh": "介入"
+    },
+    {
+      "en": "intervention",
+      "clusterId": "root-ven-01",
+      "zh": "介入措施"
+    },
+    {
+      "en": "invent",
+      "clusterId": "root-ven-01",
+      "zh": "發明"
+    },
+    {
+      "en": "judge",
+      "clusterId": "root-jud-01",
+      "zh": "判斷；法官"
+    },
+    {
+      "en": "judgment",
+      "clusterId": "root-jud-01",
+      "zh": "判斷；判決"
+    },
+    {
+      "en": "judicious",
+      "clusterId": "root-jud-01",
+      "zh": "明斷的；審慎的"
+    },
+    {
+      "en": "juridical",
+      "clusterId": "root-jud-01",
+      "zh": "法律上的；司法的"
+    },
+    {
+      "en": "jury",
+      "clusterId": "root-jud-01",
+      "zh": "陪審團"
+    },
+    {
+      "en": "justice",
+      "clusterId": "root-jud-01",
+      "zh": "正義；司法"
+    },
+    {
+      "en": "justify",
+      "clusterId": "root-jud-01",
+      "zh": "證明正當；對齊"
+    },
+    {
+      "en": "lucid",
+      "clusterId": "sem-clear-01",
+      "zh": "清晰的；清醒的"
+    },
+    {
+      "en": "main",
+      "clusterId": "rhyme-ain-01",
+      "zh": "主要的"
+    },
+    {
+      "en": "maintain",
+      "clusterId": "root-ten-01",
+      "zh": "維持；主張"
+    },
+    {
+      "en": "manufacture",
+      "clusterId": "root-fac-01",
+      "zh": "製造；捏造"
+    },
+    {
+      "en": "manuscript",
+      "clusterId": "root-scrib-01",
+      "zh": "手稿"
+    },
+    {
+      "en": "muddy",
+      "clusterId": "sem-clear-01",
+      "zh": "混濁的"
+    },
+    {
+      "en": "nebula",
+      "clusterId": "sem-clear-01",
+      "zh": "星雲（比喻一團霧）"
+    },
+    {
+      "en": "nondescript",
+      "clusterId": "root-scrib-01",
+      "zh": "無可名狀的；不起眼的"
+    },
+    {
+      "en": "nonsense",
+      "clusterId": "root-sent-01",
+      "zh": "胡說"
+    },
+    {
+      "en": "obscure",
+      "clusterId": "sem-clear-01",
+      "zh": "晦澀的；遮掩"
+    },
+    {
+      "en": "obstacle",
+      "clusterId": "root-sta-01",
+      "zh": "障礙"
+    },
+    {
+      "en": "obstruct",
+      "clusterId": "root-struct-01",
+      "zh": "阻礙"
+    },
+    {
+      "en": "obstruction",
+      "clusterId": "root-struct-01",
+      "zh": "障礙"
+    },
+    {
+      "en": "obtain",
+      "clusterId": "root-ten-01",
+      "zh": "獲得"
+    },
+    {
+      "en": "offer",
+      "clusterId": "root-fer-01",
+      "zh": "提供；提議"
+    },
+    {
+      "en": "opaque",
+      "clusterId": "sem-clear-01",
+      "zh": "不透明的；難懂的"
+    },
+    {
+      "en": "opportunity",
+      "clusterId": "root-port-01",
+      "zh": "機會"
+    },
+    {
+      "en": "oppose",
+      "clusterId": "root-pos-01",
+      "zh": "反對"
+    },
+    {
+      "en": "participate",
+      "clusterId": "root-cap-01",
+      "zh": "參與"
+    },
+    {
+      "en": "pendant",
+      "clusterId": "root-pend-01",
+      "zh": "垂飾；懸著的"
+    },
+    {
+      "en": "pending",
+      "clusterId": "root-pend-01",
+      "zh": "待決的；直到"
+    },
+    {
+      "en": "pension",
+      "clusterId": "root-pend-01",
+      "zh": "退休金"
+    },
+    {
+      "en": "perceive",
+      "clusterId": "root-cap-01",
+      "zh": "察覺；認為"
+    },
+    {
+      "en": "perfect",
+      "clusterId": "root-fac-01",
+      "zh": "完美的；完成"
+    },
+    {
+      "en": "persist",
+      "clusterId": "root-sta-01",
+      "zh": "持續；堅持"
+    },
+    {
+      "en": "perspective",
+      "clusterId": "look-pair-01",
+      "zh": "視角；觀點"
+    },
+    {
+      "en": "plain",
+      "clusterId": "rhyme-ain-01",
+      "zh": "清楚的；平原"
+    },
+    {
+      "en": "portable",
+      "clusterId": "root-port-01",
+      "zh": "可攜的；可移植的"
+    },
+    {
+      "en": "porter",
+      "clusterId": "root-port-01",
+      "zh": "搬運工"
+    },
+    {
+      "en": "portfolio",
+      "clusterId": "root-port-01",
+      "zh": "作品集；投資組合"
+    },
+    {
+      "en": "positive",
+      "clusterId": "root-pos-01",
+      "zh": "正面的；陽性的"
+    },
+    {
+      "en": "postpone",
+      "clusterId": "root-pos-01",
+      "zh": "延期"
+    },
+    {
+      "en": "postscript",
+      "clusterId": "root-scrib-01",
+      "zh": "又及；附言"
+    },
+    {
+      "en": "predict",
+      "clusterId": "root-dict-01",
+      "zh": "預測"
+    },
+    {
+      "en": "predictor",
+      "clusterId": "root-dict-01",
+      "zh": "預測變項／預測器"
+    },
+    {
+      "en": "prefer",
+      "clusterId": "root-fer-01",
+      "zh": "更喜歡；寧可"
+    },
+    {
+      "en": "prejudice",
+      "clusterId": "root-jud-01",
+      "zh": "偏見；損害"
+    },
+    {
+      "en": "prejudicial",
+      "clusterId": "root-jud-01",
+      "zh": "有 Harm／偏見的"
+    },
+    {
+      "en": "prevent",
+      "clusterId": "root-ven-01",
+      "zh": "防止"
+    },
+    {
+      "en": "prevention",
+      "clusterId": "root-ven-01",
+      "zh": "預防"
+    },
+    {
+      "en": "proficient",
+      "clusterId": "root-fac-01",
+      "zh": "熟練的"
+    },
+    {
+      "en": "propensity",
+      "clusterId": "root-pend-01",
+      "zh": "傾向"
+    },
+    {
+      "en": "propose",
+      "clusterId": "root-pos-01",
+      "zh": "提議"
+    },
+    {
+      "en": "prospective",
+      "clusterId": "look-pair-01",
+      "zh": "前瞻的；預期的"
+    },
+    {
+      "en": "provide",
+      "clusterId": "root-vid-01",
+      "zh": "提供"
+    },
+    {
+      "en": "pulsate",
+      "clusterId": "root-pel-01",
+      "zh": "搏動"
+    },
+    {
+      "en": "pulse",
+      "clusterId": "root-pel-01",
+      "zh": "脈搏；脈衝"
+    },
+    {
+      "en": "rain",
+      "clusterId": "rhyme-ain-01",
+      "zh": "雨"
+    },
+    {
+      "en": "receive",
+      "clusterId": "root-cap-01",
+      "zh": "收到"
+    },
+    {
+      "en": "recipient",
+      "clusterId": "root-cap-01",
+      "zh": "接受者"
+    },
+    {
+      "en": "reconstruct",
+      "clusterId": "root-struct-01",
+      "zh": "重建"
+    },
+    {
+      "en": "refer",
+      "clusterId": "root-fer-01",
+      "zh": "提及；轉介；參考"
+    },
+    {
+      "en": "referendum",
+      "clusterId": "root-fer-01",
+      "zh": "公投"
+    },
+    {
+      "en": "refine",
+      "clusterId": "root-fin-01",
+      "zh": "精煉；改進"
+    },
+    {
+      "en": "refinement",
+      "clusterId": "root-fin-01",
+      "zh": "精煉；改進"
+    },
+    {
+      "en": "report",
+      "clusterId": "root-port-01",
+      "zh": "報告"
+    },
+    {
+      "en": "repository",
+      "clusterId": "root-pos-01",
+      "zh": "儲庫"
+    },
+    {
+      "en": "resentment",
+      "clusterId": "root-sent-01",
+      "zh": "怨恨"
+    },
+    {
+      "en": "resist",
+      "clusterId": "root-sta-01",
+      "zh": "抵抗"
+    },
+    {
+      "en": "restrain",
+      "clusterId": "rhyme-ain-01",
+      "zh": "抑制；拘束"
+    },
+    {
+      "en": "restructure",
+      "clusterId": "root-struct-01",
+      "zh": "改組；重整"
+    },
+    {
+      "en": "retain",
+      "clusterId": "root-ten-01",
+      "zh": "保留；聘留"
+    },
+    {
+      "en": "revise",
+      "clusterId": "root-vid-01",
+      "zh": "修訂"
+    },
+    {
+      "en": "script",
+      "clusterId": "root-scrib-01",
+      "zh": "劇本；腳本"
+    },
+    {
+      "en": "sense",
+      "clusterId": "root-sent-01",
+      "zh": "感官；意義；道理"
+    },
+    {
+      "en": "sensible",
+      "clusterId": "root-sent-01",
+      "zh": "明智的；可察覺的"
+    },
+    {
+      "en": "sensitive",
+      "clusterId": "root-sent-01",
+      "zh": "敏感的"
+    },
+    {
+      "en": "sensory",
+      "clusterId": "root-sent-01",
+      "zh": "感官的"
+    },
+    {
+      "en": "sentiment",
+      "clusterId": "root-sent-01",
+      "zh": "情緒；意見"
+    },
+    {
+      "en": "stability",
+      "clusterId": "root-sta-01",
+      "zh": "穩定性"
+    },
+    {
+      "en": "stable",
+      "clusterId": "root-sta-01",
+      "zh": "穩定的"
+    },
+    {
+      "en": "stance",
+      "clusterId": "root-sta-01",
+      "zh": "立場"
+    },
+    {
+      "en": "standard",
+      "clusterId": "root-sta-01",
+      "zh": "標準"
+    },
+    {
+      "en": "statue",
+      "clusterId": "root-sta-01",
+      "zh": "雕像"
+    },
+    {
+      "en": "status",
+      "clusterId": "root-sta-01",
+      "zh": "地位；狀態"
+    },
+    {
+      "en": "statute",
+      "clusterId": "root-sta-01",
+      "zh": "成文法"
+    },
+    {
+      "en": "strain",
+      "clusterId": "rhyme-ain-01",
+      "zh": "拉緊；張力；菌株"
+    },
+    {
+      "en": "structural",
+      "clusterId": "root-struct-01",
+      "zh": "結構上的"
+    },
+    {
+      "en": "structure",
+      "clusterId": "root-struct-01",
+      "zh": "結構"
+    },
+    {
+      "en": "subscribe",
+      "clusterId": "root-scrib-01",
+      "zh": "訂閱；同意署名"
+    },
+    {
+      "en": "substitute",
+      "clusterId": "root-sta-01",
+      "zh": "代替"
+    },
+    {
+      "en": "suffer",
+      "clusterId": "root-fer-01",
+      "zh": "遭受；受苦"
+    },
+    {
+      "en": "sufficient",
+      "clusterId": "root-fac-01",
+      "zh": "足夠的"
+    },
+    {
+      "en": "superscript",
+      "clusterId": "root-scrib-01",
+      "zh": "上標"
+    },
+    {
+      "en": "supervise",
+      "clusterId": "root-vid-01",
+      "zh": "監督"
+    },
+    {
+      "en": "support",
+      "clusterId": "root-port-01",
+      "zh": "支持；支撐"
+    },
+    {
+      "en": "suspend",
+      "clusterId": "root-pend-01",
+      "zh": "暫停；懸吊"
+    },
+    {
+      "en": "sustain",
+      "clusterId": "root-ten-01",
+      "zh": "維持；支撐"
+    },
+    {
+      "en": "tenant",
+      "clusterId": "root-ten-01",
+      "zh": "承租人"
+    },
+    {
+      "en": "train",
+      "clusterId": "rhyme-ain-01",
+      "zh": "訓練；火車"
+    },
+    {
+      "en": "transfer",
+      "clusterId": "root-fer-01",
+      "zh": "轉移；調動"
+    },
+    {
+      "en": "transparent",
+      "clusterId": "sem-clear-01",
+      "zh": "透明的"
+    },
+    {
+      "en": "unfinished",
+      "clusterId": "root-fin-01",
+      "zh": "未完成的"
+    },
+    {
+      "en": "unjust",
+      "clusterId": "root-jud-01",
+      "zh": "不公正的"
+    },
+    {
+      "en": "vague",
+      "clusterId": "sem-clear-01",
+      "zh": "含糊的"
+    },
+    {
+      "en": "venture",
+      "clusterId": "root-ven-01",
+      "zh": "冒險事業；敢於"
+    },
+    {
+      "en": "verdict",
+      "clusterId": "root-dict-01",
+      "zh": "裁決；定論"
+    },
+    {
+      "en": "videotape",
+      "clusterId": "root-vid-01",
+      "zh": "錄影帶／錄影（教學）"
+    },
+    {
+      "en": "visage",
+      "clusterId": "root-vid-01",
+      "zh": "臉容；外貌"
+    },
+    {
+      "en": "visibility",
+      "clusterId": "root-vid-01",
+      "zh": "可見度"
+    },
+    {
+      "en": "visible",
+      "clusterId": "root-vid-01",
+      "zh": "可見的"
+    },
+    {
+      "en": "vision",
+      "clusterId": "root-vid-01",
+      "zh": "視力；願景"
+    },
+    {
+      "en": "visit",
+      "clusterId": "root-vid-01",
+      "zh": "造訪"
+    },
+    {
+      "en": "visual",
+      "clusterId": "root-vid-01",
+      "zh": "視覺的"
     }
   ],
   "deferred": [
@@ -686,5 +1336,5 @@
       "reason": "basic-or-specialty"
     }
   ],
-  "greTotalAfter": 3938
+  "greTotalAfter": 4162
 }
