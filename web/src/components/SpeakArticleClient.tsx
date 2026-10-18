@@ -96,7 +96,7 @@ export function SpeakArticleClient({ article }: Props) {
                 ? "檢查音檔中…"
                 : audioOk
                   ? "已偵測到 MP3，可整段播放跟讀。"
-                  : "尚未放置 MP3：請放到 web/public/audio/speak/common/。單句仍可用喇叭 TTS 預練。"}
+                  : `尚未放置 MP3：請放到 web/public/audio/speak/${article.series}/。單句仍可用喇叭 TTS 預練。`}
             </p>
           </div>
           <div className="flex flex-wrap gap-2">
@@ -130,7 +130,7 @@ export function SpeakArticleClient({ article }: Props) {
           <p className="mt-3 rounded-sm bg-[var(--paper)] p-3 text-xs text-[var(--muted)]">
             放置路徑：
             <code className="text-[var(--ink)]">
-              web/public/audio/speak/common/{article.audioFile}
+              web/public/audio/speak/{article.series}/{article.audioFile}
             </code>
           </p>
         )}

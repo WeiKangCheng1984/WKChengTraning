@@ -107,8 +107,14 @@ const links: Array<{
   {
     href: "/speak",
     title: "跟讀短文",
-    body: "逐句跟讀練習。",
+    body: "常用口語 6 篇。",
     icon: "ear",
+  },
+  {
+    href: "/speak#series-f1",
+    title: "F1 賽車電影英語",
+    body: "300 詞 · 600 句場景跟讀 · TTS／複習。",
+    icon: "mic",
   },
   {
     href: "/english/review",

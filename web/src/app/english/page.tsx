@@ -5,11 +5,13 @@ import conversation from "@/data/conversation-four.json";
 import style from "@/data/style-phrases.json";
 import vocabulary from "@/data/vocabulary.json";
 import greVocabulary from "@/data/gre-vocabulary.json";
+import speak from "@/data/speak.json";
 import type {
   ConversationFourData,
   EnglishData,
   GrammarData,
   GreVocabularyData,
+  SpeakData,
   StylePhrasesData,
   VocabularyData,
 } from "@/lib/types";
@@ -20,6 +22,8 @@ const convData = conversation as ConversationFourData;
 const styleData = style as StylePhrasesData;
 const vocabData = vocabulary as VocabularyData;
 const greData = greVocabulary as GreVocabularyData;
+const speakData = speak as SpeakData;
+const f1Count = speakData.articles.filter((a) => a.series === "f1").length;
 
 export default function EnglishIndexPage() {
   return (
@@ -168,6 +172,28 @@ export default function EnglishIndexPage() {
           </h2>
           <p className="mt-1 text-sm text-[var(--muted)]">
             100 單元 · 每日 10 句跟讀評分 · TTS＋語音辨識
+          </p>
+        </Link>
+        <Link href="/speak#series-f1" className="card-tap block">
+          <p className="text-xs uppercase tracking-[0.18em] text-[var(--accent)]">
+            Speak · F1
+          </p>
+          <h2 className="mt-2 font-[family-name:var(--font-display)] text-xl text-[var(--ink)]">
+            F1 賽車電影英語
+          </h2>
+          <p className="mt-1 text-sm text-[var(--muted)]">
+            {f1Count} 課 · 300 詞場景例句跟讀 · TTS／熟練度複習
+          </p>
+        </Link>
+        <Link href="/speak" className="card-tap block">
+          <p className="text-xs uppercase tracking-[0.18em] text-[var(--accent)]">
+            Speak
+          </p>
+          <h2 className="mt-2 font-[family-name:var(--font-display)] text-xl text-[var(--ink)]">
+            跟讀短文
+          </h2>
+          <p className="mt-1 text-sm text-[var(--muted)]">
+            常用口語與主題系列 · 逐句跟讀
           </p>
         </Link>
       </div>
