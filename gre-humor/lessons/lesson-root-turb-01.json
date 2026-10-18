@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-turb-01",
+  "slug": "root-turb-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-turb-01",
+  "titleZh": "turb｜擾流控制室",
+  "titleEn": "Turb Turbulence Booth",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 turb＝擾——控制室專管擾動、混亂與干擾。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "disturb／disturbance 擾動警報。turbulent 氣流亂；perturb 輕輕推亂。turbid 水混看不清；imperturbable 穩到擾不動——工程師：perturb 參數可以，disturb 原始日誌不行；寫作別 turbid。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "turb＝擾：disturb/turbulent/perturb/turbid/imperturbable",
+        "turbid＝混濁"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Cloudy; unclear:",
+      "promptZh": "混濁：",
+      "choices": [
+        "turbid",
+        "regal",
+        "optimum",
+        "attest"
+      ],
+      "answer": "turbid"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Not easily upset; calm:",
+      "promptZh": "沉著不可擾：",
+      "choices": [
+        "imperturbable",
+        "turbulent",
+        "terrible",
+        "putative"
+      ],
+      "answer": "imperturbable"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Disturb slightly; unsettle:",
+      "promptZh": "微擾：",
+      "choices": [
+        "perturb",
+        "orient",
+        "laud",
+        "expedite"
+      ],
+      "answer": "perturb"
+    }
+  ],
+  "pitfalls": [
+    "perturb＝擾亂／微擾",
+    "imperturbable＝沉著不可擾"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch02"
+  }
+}

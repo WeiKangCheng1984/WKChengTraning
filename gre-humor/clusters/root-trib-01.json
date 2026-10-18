@@ -1,0 +1,217 @@
+{
+  "id": "root-trib-01",
+  "type": "root",
+  "elementLemma": "trib",
+  "titleZh": "trib｜分配貢品處",
+  "titleEn": "Trib Tribute Desk",
+  "hook": "字根 trib＝分、給——貢品處專管貢獻、分配、部落與苦難。",
+  "script": "contribute／contribution／contributor 交貢品。distribute／distribution／tributary 分配支流。tribute 致敬貢品；tribe 部落櫃。tribulation 苦難關卡——處長：contribute 資料；distribute 功勞；tribulation 別靠造假渡。",
+  "members": [
+    {
+      "headword": "contribute",
+      "inVocab": false,
+      "senseAnchor": "貢獻",
+      "roleInScript": "交貢品",
+      "humorDevice": "morphology",
+      "zhGloss": "貢獻",
+      "speakLineEn": "Contribute negative results too.",
+      "speakLineZh": "也貢獻陰性結果。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "contribution",
+      "inVocab": false,
+      "senseAnchor": "貢獻",
+      "roleInScript": "貢品單",
+      "humorDevice": "morphology",
+      "zhGloss": "貢獻",
+      "speakLineEn": "State each author's contribution.",
+      "speakLineZh": "說明每位作者貢獻。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "contributor",
+      "inVocab": false,
+      "senseAnchor": "貢獻者",
+      "roleInScript": "交貢的人",
+      "humorDevice": "morphology",
+      "zhGloss": "貢獻者",
+      "speakLineEn": "List tool contributors in acknowledgments.",
+      "speakLineZh": "誌謝列出工具貢獻者。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "distribute",
+      "inVocab": false,
+      "senseAnchor": "分配；分發",
+      "roleInScript": "分貢",
+      "humorDevice": "morphology",
+      "zhGloss": "分配；分發",
+      "speakLineEn": "Distribute credit fairly.",
+      "speakLineZh": "公平分配功勞。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "distribution",
+      "inVocab": false,
+      "senseAnchor": "分配；分布",
+      "roleInScript": "分布圖",
+      "humorDevice": "morphology",
+      "zhGloss": "分配；分布",
+      "speakLineEn": "Show the outcome distribution, not only means.",
+      "speakLineZh": "顯示結局分布，不只均值。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "tribute",
+      "inVocab": true,
+      "senseAnchor": "something to show respect and admiration",
+      "roleInScript": "致敬貢",
+      "humorDevice": "morphology",
+      "zhGloss": "致敬；貢品",
+      "speakLineEn": "Pay tribute to prior null replications.",
+      "speakLineZh": "向先前虛無複現致敬。",
+      "related": {
+        "synonyms": "eulogy, encomium, panegyric",
+        "antonyms": "invective, condemnation"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "tributary",
+      "inVocab": true,
+      "senseAnchor": "a branch that flows into the main stream; (of a stream) flowing into a larger stream",
+      "roleInScript": "支流櫃",
+      "humorDevice": "morphology",
+      "zhGloss": "支流；進貢的",
+      "speakLineEn": "A tributary analysis still needs disclosure.",
+      "speakLineZh": "支流分析仍需揭露。",
+      "related": {
+        "synonyms": "feeder, confluent, affluent, conducive, contributing, contributive",
+        "antonyms": "distributary"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "tribe",
+      "inVocab": false,
+      "senseAnchor": "部落",
+      "roleInScript": "部落櫃",
+      "humorDevice": "story",
+      "zhGloss": "部落",
+      "speakLineEn": "Method tribes should still share code.",
+      "speakLineZh": "方法部落仍應共享程式碼。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "tribulation",
+      "inVocab": true,
+      "senseAnchor": "unhappiness, pain or suffering",
+      "roleInScript": "苦難關",
+      "humorDevice": "story",
+      "zhGloss": "苦難；考驗",
+      "speakLineEn": "Peer review tribulation is not an excuse for opacity.",
+      "speakLineZh": "同儕審查苦難不是不透明的藉口。",
+      "related": {
+        "synonyms": "trial, visitation",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "redistribute",
+      "inVocab": false,
+      "senseAnchor": "再分配",
+      "roleInScript": "重分貢",
+      "humorDevice": "story",
+      "zhGloss": "再分配",
+      "speakLineEn": "Redistribute compute time to replication.",
+      "speakLineZh": "把計算時間再分配給複現。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "attribution",
+      "inVocab": false,
+      "senseAnchor": "歸因；署名",
+      "roleInScript": "算給誰",
+      "humorDevice": "story",
+      "zhGloss": "歸因；署名",
+      "speakLineEn": "Fix attribution before press.",
+      "speakLineZh": "發新聞前修正署名。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "share",
+      "inVocab": false,
+      "senseAnchor": "分享",
+      "roleInScript": "分出去",
+      "humorDevice": "story",
+      "zhGloss": "分享",
+      "speakLineEn": "Share protocols as living docs.",
+      "speakLineZh": "把規程當活文件分享。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "trib＝分給：contribute/distribute/tribute/tributary/tribe/tribulation",
+    "tributary＝支流／進貢的"
+  ],
+  "pitfalls": [
+    "tribute＝致敬／貢品",
+    "tribulation＝苦難"
+  ],
+  "lessonRefs": [
+    "lesson-root-trib-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch02"
+  }
+}

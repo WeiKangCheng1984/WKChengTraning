@@ -1,0 +1,209 @@
+{
+  "id": "root-prob-01",
+  "type": "root",
+  "elementLemma": "prob",
+  "titleZh": "prob｜試探與正直法庭",
+  "titleEn": "Prob Courtroom",
+  "hook": "字根 prob＝試、好——法庭專管試探、核准、正直與敗類。",
+  "script": "probe 探針進場。probity 正直法官。approbation 核准掌聲；reprobate 敗類被告。probation 觀察期；improbable 機率低到法庭皺眉——書記官：probe 要有協議，probity 不能只靠自我介紹。",
+  "members": [
+    {
+      "headword": "probe",
+      "inVocab": true,
+      "senseAnchor": "n. 深入調查 a penetrating or critical investigation",
+      "roleInScript": "探針進場",
+      "humorDevice": "morphology",
+      "zhGloss": "探查；探針",
+      "speakLineEn": "Probe the missingness mechanism.",
+      "speakLineZh": "探查缺失機制。",
+      "related": {
+        "synonyms": "delve, inquire, investigate",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "probity",
+      "inVocab": true,
+      "senseAnchor": "complete and confirmed integrity; having strong moral principles",
+      "roleInScript": "正直法官",
+      "humorDevice": "morphology",
+      "zhGloss": "正直；廉潔",
+      "speakLineEn": "Hire for probity, not only h-index.",
+      "speakLineZh": "聘人看正直，不只 h 指數。",
+      "related": {
+        "synonyms": "",
+        "antonyms": "dishonesty, corruption"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "approbation",
+      "inVocab": true,
+      "senseAnchor": "official approval; official recognition or approval",
+      "roleInScript": "核准掌聲",
+      "humorDevice": "morphology",
+      "zhGloss": "讚許；核准",
+      "speakLineEn": "Seek approbation via registered reports.",
+      "speakLineZh": "用註冊報告尋求核准。",
+      "related": {
+        "synonyms": "",
+        "antonyms": "disapprobation"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "reprobate",
+      "inVocab": true,
+      "senseAnchor": "a person without moral scruples; reject (documents) as invalid",
+      "roleInScript": "敗類被告",
+      "humorDevice": "morphology",
+      "zhGloss": "敗類；譴責",
+      "speakLineEn": "Reprobate fraud without theatrical cruelty.",
+      "speakLineZh": "譴責造假但不作秀殘忍。",
+      "related": {
+        "synonyms": "miscreant, condemn, decry, objurgate, excoriate, depraved",
+        "antonyms": "approbate"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "probation",
+      "inVocab": true,
+      "senseAnchor": "緩刑；試用期",
+      "roleInScript": "觀察期",
+      "humorDevice": "morphology",
+      "zhGloss": "緩刑；試用期",
+      "speakLineEn": "New metrics stay on probation until validated.",
+      "speakLineZh": "新指標驗證前留在觀察期。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "improbable",
+      "inVocab": true,
+      "senseAnchor": "不太可能的",
+      "roleInScript": "機率皺眉",
+      "humorDevice": "morphology",
+      "zhGloss": "不太可能的",
+      "speakLineEn": "An improbable effect size needs skepticism.",
+      "speakLineZh": "不太可能的效應量需要懷疑。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "probability",
+      "inVocab": true,
+      "senseAnchor": "機率",
+      "roleInScript": "法庭機率板",
+      "humorDevice": "story",
+      "zhGloss": "機率",
+      "speakLineEn": "State probability models explicitly.",
+      "speakLineZh": "明確陳述機率模型。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "probative",
+      "inVocab": true,
+      "senseAnchor": "可作證據的",
+      "roleInScript": "有證明力",
+      "humorDevice": "story",
+      "zhGloss": "可作證據的",
+      "speakLineEn": "Only probative logs enter the record.",
+      "speakLineZh": "只有可作證據的日誌進紀錄。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "approval",
+      "inVocab": true,
+      "senseAnchor": "批准",
+      "roleInScript": "核准近親",
+      "humorDevice": "story",
+      "zhGloss": "批准",
+      "speakLineEn": "Ethics approval is not scientific proof.",
+      "speakLineZh": "倫理批准不是科學證明。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "disapprove",
+      "inVocab": true,
+      "senseAnchor": "不贊成",
+      "roleInScript": "反對票",
+      "humorDevice": "story",
+      "zhGloss": "不贊成",
+      "speakLineEn": "Disapprove hype in cover letters.",
+      "speakLineZh": "反對投稿信炒作。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "test",
+      "inVocab": true,
+      "senseAnchor": "試驗",
+      "roleInScript": "試探動作",
+      "humorDevice": "story",
+      "zhGloss": "試驗",
+      "speakLineEn": "Test preregistered hypotheses first.",
+      "speakLineZh": "先檢驗預註冊假說。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "trial period",
+      "inVocab": false,
+      "senseAnchor": "試用期",
+      "roleInScript": "觀察鄰居",
+      "humorDevice": "story",
+      "zhGloss": "試用期",
+      "speakLineEn": "Keep a trial period for new dashboards.",
+      "speakLineZh": "新儀表板保留試用期。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "prob＝試／好：probe/probity/approbation/reprobate/probation",
+    "reprobate＝敗類／譴責"
+  ],
+  "pitfalls": [
+    "approbation＝讚許核准",
+    "probity＝正直誠實"
+  ],
+  "lessonRefs": [
+    "lesson-root-prob-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch01"
+  }
+}

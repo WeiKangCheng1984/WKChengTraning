@@ -1,0 +1,220 @@
+{
+  "id": "root-sign-01",
+  "type": "root",
+  "elementLemma": "sign",
+  "titleZh": "sign｜記號信號站",
+  "titleEn": "Sign Signal Station",
+  "hook": "字根 sign＝記號——信號站專管簽名、指派、設計與意義。",
+  "script": "sign 簽名放行。signal／significance 信號與顯著小旗。assign／designate 指派崗位。design 畫出藍圖；resign 簽名離職。insignificant 小到沒旗；consign 託運記號——站長：significance ≠ importance；先 design 再 sign。",
+  "members": [
+    {
+      "headword": "sign",
+      "inVocab": false,
+      "senseAnchor": "簽名；標誌",
+      "roleInScript": "簽名放行",
+      "humorDevice": "morphology",
+      "zhGloss": "簽名；標誌",
+      "speakLineEn": "Sign the conflict disclosure.",
+      "speakLineZh": "簽署利益衝突揭露。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "signal",
+      "inVocab": false,
+      "senseAnchor": "信號",
+      "roleInScript": "信號燈",
+      "humorDevice": "morphology",
+      "zhGloss": "信號",
+      "speakLineEn": "Separate signal from noise with prereg.",
+      "speakLineZh": "用預註冊分離信號與噪音。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "significance",
+      "inVocab": false,
+      "senseAnchor": "顯著性；意義",
+      "roleInScript": "小旗／意義",
+      "humorDevice": "morphology",
+      "zhGloss": "顯著性；意義",
+      "speakLineEn": "Statistical significance is not practical importance.",
+      "speakLineZh": "統計顯著不是實務重要。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "assign",
+      "inVocab": false,
+      "senseAnchor": "指派",
+      "roleInScript": "派崗位",
+      "humorDevice": "morphology",
+      "zhGloss": "指派",
+      "speakLineEn": "Assign blinding roles before randomization.",
+      "speakLineZh": "隨機化前指派盲法角色。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "designate",
+      "inVocab": false,
+      "senseAnchor": "指定；命名",
+      "roleInScript": "指定記號",
+      "humorDevice": "morphology",
+      "zhGloss": "指定；命名",
+      "speakLineEn": "Designate primary outcomes in writing.",
+      "speakLineZh": "書面指定主要結局。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "design",
+      "inVocab": false,
+      "senseAnchor": "設計",
+      "roleInScript": "藍圖",
+      "humorDevice": "morphology",
+      "zhGloss": "設計",
+      "speakLineEn": "Design for missingness, not only for means.",
+      "speakLineZh": "為缺失設計，不只為均值。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "resign",
+      "inVocab": false,
+      "senseAnchor": "辭職；屈從",
+      "roleInScript": "簽名離職",
+      "humorDevice": "morphology",
+      "zhGloss": "辭職；屈從",
+      "speakLineEn": "Resign from vanity metrics.",
+      "speakLineZh": "辭去虛榮指標。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "insignificant",
+      "inVocab": false,
+      "senseAnchor": "不顯著的；無足輕重的",
+      "roleInScript": "沒旗",
+      "humorDevice": "morphology",
+      "zhGloss": "不顯著的；無足輕重的",
+      "speakLineEn": "An insignificant p is still information.",
+      "speakLineZh": "不顯著 p 仍是資訊。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "consign",
+      "inVocab": false,
+      "senseAnchor": "commit forever; commit irrevocably; give over to another for care or safekeeping",
+      "roleInScript": "託運記號",
+      "humorDevice": "story",
+      "zhGloss": "託運；交付",
+      "speakLineEn": "Do not consign ethics to an afterthought.",
+      "speakLineZh": "不要把倫理託付給事後想法。",
+      "related": {
+        "synonyms": "charge",
+        "antonyms": "calm, discharge, pay cash"
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "signature",
+      "inVocab": false,
+      "senseAnchor": "簽名；特徵",
+      "roleInScript": "獨特記號",
+      "humorDevice": "story",
+      "zhGloss": "簽名；特徵",
+      "speakLineEn": "Fraud often leaves a signature pattern.",
+      "speakLineZh": "造假常留下特徵模式。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "signpost",
+      "inVocab": false,
+      "senseAnchor": "路標",
+      "roleInScript": "指示牌",
+      "humorDevice": "story",
+      "zhGloss": "路標",
+      "speakLineEn": "Signpost limitations early.",
+      "speakLineZh": "及早設置限制路標。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "cosign",
+      "inVocab": false,
+      "senseAnchor": "連署",
+      "roleInScript": "一起簽",
+      "humorDevice": "story",
+      "zhGloss": "連署",
+      "speakLineEn": "Cosign only what you verified.",
+      "speakLineZh": "只連署你驗證過的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "sign＝記號：sign/signal/significance/assign/designate/design/resign",
+    "significant≠important 必然"
+  ],
+  "pitfalls": [
+    "consign＝託付／寄售",
+    "designate＝指定"
+  ],
+  "lessonRefs": [
+    "lesson-root-sign-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch02"
+  }
+}

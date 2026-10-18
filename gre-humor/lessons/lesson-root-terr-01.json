@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-terr-01",
+  "slug": "root-terr-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-terr-01",
+  "titleZh": "terr｜大地驚魂館",
+  "titleEn": "Terr Earth & Terror Hall",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 terr＝地／怕——驚魂館一邊是土地，一邊是恐懼（依詞分流）。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "terrain／territory／terrestrial 土地地圖。terrace 梯田看台。terror／terrible／terrify／terrorize 恐懼線。deter 嚇阻別靠近——導遊：territory 談地盤；terror 談害怕；別把 terrible writing 說成 terrain。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "terr＝地：terrain/territory/terrestrial；terr＝怕：terror/terrify/deter",
+        "deter＝嚇阻"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Discourage through fear of consequences:",
+      "promptZh": "嚇阻：",
+      "choices": [
+        "deter",
+        "adopt",
+        "laud",
+        "immerse"
+      ],
+      "answer": "deter"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Area of land; domain:",
+      "promptZh": "領土／領域：",
+      "choices": [
+        "territory",
+        "sophistry",
+        "impute",
+        "cacophony"
+      ],
+      "answer": "territory"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Landscape features; ground:",
+      "promptZh": "地形：",
+      "choices": [
+        "terrain",
+        "conceit",
+        "petulant",
+        "memento"
+      ],
+      "answer": "terrain"
+    }
+  ],
+  "pitfalls": [
+    "同一拼寫族兩義：地 vs 怕",
+    "deter＝制止／嚇阻"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch02"
+  }
+}

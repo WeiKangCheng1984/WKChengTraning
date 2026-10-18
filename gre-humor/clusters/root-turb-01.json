@@ -1,0 +1,217 @@
+{
+  "id": "root-turb-01",
+  "type": "root",
+  "elementLemma": "turb",
+  "titleZh": "turb｜擾流控制室",
+  "titleEn": "Turb Turbulence Booth",
+  "hook": "字根 turb＝擾——控制室專管擾動、混亂與干擾。",
+  "script": "disturb／disturbance 擾動警報。turbulent 氣流亂；perturb 輕輕推亂。turbid 水混看不清；imperturbable 穩到擾不動——工程師：perturb 參數可以，disturb 原始日誌不行；寫作別 turbid。",
+  "members": [
+    {
+      "headword": "disturb",
+      "inVocab": false,
+      "senseAnchor": "打擾；擾亂",
+      "roleInScript": "擾動警報",
+      "humorDevice": "morphology",
+      "zhGloss": "打擾；擾亂",
+      "speakLineEn": "Do not disturb locked datasets.",
+      "speakLineZh": "不要擾亂已鎖定資料集。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "disturbance",
+      "inVocab": false,
+      "senseAnchor": "擾亂；騷動",
+      "roleInScript": "警報內容",
+      "humorDevice": "morphology",
+      "zhGloss": "擾亂；騷動",
+      "speakLineEn": "A protocol disturbance needs a version bump.",
+      "speakLineZh": "規程擾亂需要升版。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "turbulent",
+      "inVocab": false,
+      "senseAnchor": "marked by sudden or violent disturbance",
+      "roleInScript": "氣流亂",
+      "humorDevice": "morphology",
+      "zhGloss": "動盪的；湍流的",
+      "speakLineEn": "Turbulent incentives reward flashy claims.",
+      "speakLineZh": "動盪誘因獎勵炫目主張。",
+      "related": {
+        "synonyms": "tempestuous, tumultuous",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "perturb",
+      "inVocab": true,
+      "senseAnchor": "擾亂；微擾",
+      "roleInScript": "輕輕推亂",
+      "humorDevice": "morphology",
+      "zhGloss": "擾亂；微擾",
+      "speakLineEn": "Perturb assumptions in sensitivity checks.",
+      "speakLineZh": "在敏感度檢查中微擾假設。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "turbid",
+      "inVocab": true,
+      "senseAnchor": "(of liquids) clouded as with sediment",
+      "roleInScript": "水混看不清",
+      "humorDevice": "morphology",
+      "zhGloss": "混濁的",
+      "speakLineEn": "Turbid prose hides weak identification.",
+      "speakLineZh": "混濁文風掩蓋弱識別。",
+      "related": {
+        "synonyms": "cloudy, muddy, mirky, murky",
+        "antonyms": "clear"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "imperturbable",
+      "inVocab": true,
+      "senseAnchor": "not easily perturbed or excited or upset; marked by extreme calm and composure",
+      "roleInScript": "穩到擾不動",
+      "humorDevice": "morphology",
+      "zhGloss": "沉著的；不可擾的",
+      "speakLineEn": "Stay imperturbable when critique arrives.",
+      "speakLineZh": "批評到來時保持沉著。",
+      "related": {
+        "synonyms": "unflappable",
+        "antonyms": "agitated, nervous"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "turbulence",
+      "inVocab": false,
+      "senseAnchor": "動盪；湍流",
+      "roleInScript": "亂流值",
+      "humorDevice": "story",
+      "zhGloss": "動盪；湍流",
+      "speakLineEn": "Lab turbulence rises after opaque decisions.",
+      "speakLineZh": "不透明決策後實驗室動盪上升。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "perturbation",
+      "inVocab": false,
+      "senseAnchor": "微擾",
+      "roleInScript": "推一把",
+      "humorDevice": "story",
+      "zhGloss": "微擾",
+      "speakLineEn": "Report each perturbation of the plan.",
+      "speakLineZh": "報告計畫的每次微擾。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "disturbing",
+      "inVocab": false,
+      "senseAnchor": "令人不安的",
+      "roleInScript": "警報感",
+      "humorDevice": "story",
+      "zhGloss": "令人不安的",
+      "speakLineEn": "Disturbing effect sizes need robustness.",
+      "speakLineZh": "令人不安的效應量需要穩健。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "stir",
+      "inVocab": false,
+      "senseAnchor": "a prominent or sensational but short-lived news event; emotional agitation and excitement",
+      "roleInScript": "攪一下",
+      "humorDevice": "story",
+      "zhGloss": "攪動",
+      "speakLineEn": "Stir debate without stirring personal attacks.",
+      "speakLineZh": "攪動辯論但不攪動人身攻擊。",
+      "related": {
+        "synonyms": "splash, bustle, hustle, flurry, ado, fuss",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "agitate",
+      "inVocab": false,
+      "senseAnchor": "煽動；攪拌",
+      "roleInScript": "大力擾",
+      "humorDevice": "story",
+      "zhGloss": "煽動；攪拌",
+      "speakLineEn": "Agitate for open norms, not for drama.",
+      "speakLineZh": "為開放規範煽動，不為戲劇。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "calm",
+      "inVocab": false,
+      "senseAnchor": "平靜",
+      "roleInScript": "反擾流",
+      "humorDevice": "story",
+      "zhGloss": "平靜",
+      "speakLineEn": "Keep a calm changelog voice.",
+      "speakLineZh": "變更紀錄保持平靜語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "turb＝擾：disturb/turbulent/perturb/turbid/imperturbable",
+    "turbid＝混濁"
+  ],
+  "pitfalls": [
+    "perturb＝擾亂／微擾",
+    "imperturbable＝沉著不可擾"
+  ],
+  "lessonRefs": [
+    "lesson-root-turb-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch02"
+  }
+}

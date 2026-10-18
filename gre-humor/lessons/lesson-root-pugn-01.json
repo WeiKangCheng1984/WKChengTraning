@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-pugn-01",
+  "slug": "root-pugn-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-pugn-01",
+  "titleZh": "pugn｜拳頭爭論擂台",
+  "titleEn": "Pugn Fight Ring",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 pugn＝打——擂台專管用拳與用嘴打架。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "pugnacious 一上台就想打。impugn 出拳打對方名譽；oppugn 對打質疑。repugnant 讓人反感到想離場。pugilist 職業拳手；inexpugnable 要塞打不穿——裁判舉手：學術擂台打論點，別打人。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "pugn＝打：pugnacious/impugn/repugnant/pugilist",
+        "impugn＝質疑／抨擊誠實"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Attack as false; challenge integrity:",
+      "promptZh": "抨擊／質疑：",
+      "choices": [
+        "impugn",
+        "mediate",
+        "liberate",
+        "commemorate"
+      ],
+      "answer": "impugn"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Eager to fight; combative:",
+      "promptZh": "好鬥：",
+      "choices": [
+        "pugnacious",
+        "mediocre",
+        "euphony",
+        "mnemonic"
+      ],
+      "answer": "pugnacious"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Disgusting; offensive:",
+      "promptZh": "令人厭惡：",
+      "choices": [
+        "repugnant",
+        "philharmonic",
+        "mutable",
+        "synopsis"
+      ],
+      "answer": "repugnant"
+    }
+  ],
+  "pitfalls": [
+    "impugn someone's integrity＝抨擊其正直",
+    "repugnant＝令人厭惡的"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch01"
+  }
+}

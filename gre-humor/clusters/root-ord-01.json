@@ -1,0 +1,220 @@
+{
+  "id": "root-ord-01",
+  "type": "root",
+  "elementLemma": "ord",
+  "titleZh": "ord｜秩序櫃枱",
+  "titleEn": "Ord Order Desk",
+  "hook": "字根 ord＝秩序——櫃枱專管排隊、命令、普通與協調。",
+  "script": "order 叫號排隊。ordinary 普通號；coordinate 協調多櫃。subordinate 下屬櫃員；insubordinate 不聽話翻櫃。ordinance 條例告示；ordain 正式任命——經理：先 order 再 ordinal 排名，別 insubordinate 亂改結局。",
+  "members": [
+    {
+      "headword": "order",
+      "inVocab": false,
+      "senseAnchor": "秩序；命令；訂單",
+      "roleInScript": "叫號",
+      "humorDevice": "morphology",
+      "zhGloss": "秩序；命令；訂單",
+      "speakLineEn": "State the analysis order before peeking.",
+      "speakLineZh": "偷看前先聲明分析順序。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "ordinary",
+      "inVocab": false,
+      "senseAnchor": "普通的",
+      "roleInScript": "普通號",
+      "humorDevice": "morphology",
+      "zhGloss": "普通的",
+      "speakLineEn": "Ordinary diligence beats flashy shortcuts.",
+      "speakLineZh": "普通勤奮勝過炫目捷徑。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "coordinate",
+      "inVocab": false,
+      "senseAnchor": "協調；座標",
+      "roleInScript": "對齊多櫃",
+      "humorDevice": "morphology",
+      "zhGloss": "協調；座標",
+      "speakLineEn": "Coordinate coding across raters.",
+      "speakLineZh": "跨評分者協調編碼。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "subordinate",
+      "inVocab": false,
+      "senseAnchor": "an assistant subject to the authority or control of another; a word that is more specific than a given word",
+      "roleInScript": "下屬櫃員",
+      "humorDevice": "morphology",
+      "zhGloss": "下屬的；使從屬",
+      "speakLineEn": "Do not subordinate ethics to speed.",
+      "speakLineZh": "不要讓倫理從屬於速度。",
+      "related": {
+        "synonyms": "subsidiary, underling, hyponym, subdue, low-level, dependent",
+        "antonyms": "dominant, independent, insubordinate"
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "insubordinate",
+      "inVocab": false,
+      "senseAnchor": "不服從的",
+      "roleInScript": "翻櫃員工",
+      "humorDevice": "morphology",
+      "zhGloss": "不服從的",
+      "speakLineEn": "Insubordinate silent forks wreck audits.",
+      "speakLineZh": "不服從的沉默分叉毀掉稽核。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "ordinance",
+      "inVocab": false,
+      "senseAnchor": "an authoritative rule; a statute enacted by a city government",
+      "roleInScript": "告示牌",
+      "humorDevice": "morphology",
+      "zhGloss": "條例；法令",
+      "speakLineEn": "Follow the campus data ordinance.",
+      "speakLineZh": "遵守校園資料條例。",
+      "related": {
+        "synonyms": "regulation, ordination",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "ordain",
+      "inVocab": false,
+      "senseAnchor": "任命；規定",
+      "roleInScript": "正式蓋章",
+      "humorDevice": "morphology",
+      "zhGloss": "任命；規定",
+      "speakLineEn": "Do not ordain a metric without validation.",
+      "speakLineZh": "未驗證不要正式規定指標。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "ordinal",
+      "inVocab": false,
+      "senseAnchor": "序數的；順序的",
+      "roleInScript": "排名貼紙",
+      "humorDevice": "story",
+      "zhGloss": "序數的；順序的",
+      "speakLineEn": "Ordinal ranks lose interval information.",
+      "speakLineZh": "序數排名失去區間資訊。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "disorder",
+      "inVocab": false,
+      "senseAnchor": "混亂；失調",
+      "roleInScript": "櫃枱翻車",
+      "humorDevice": "story",
+      "zhGloss": "混亂；失調",
+      "speakLineEn": "Code disorder hides silent bugs.",
+      "speakLineZh": "程式混亂隱藏沉默錯誤。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "coordinator",
+      "inVocab": false,
+      "senseAnchor": "協調者",
+      "roleInScript": "對齊的人",
+      "humorDevice": "story",
+      "zhGloss": "協調者",
+      "speakLineEn": "Appoint a data coordinator early.",
+      "speakLineZh": "及早任命資料協調者。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "extraordinary",
+      "inVocab": false,
+      "senseAnchor": "非凡的",
+      "roleInScript": "超普通",
+      "humorDevice": "story",
+      "zhGloss": "非凡的",
+      "speakLineEn": "Extraordinary claims need extraordinary evidence.",
+      "speakLineZh": "非凡主張需要非凡證據。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "orderly",
+      "inVocab": false,
+      "senseAnchor": "有秩序的",
+      "roleInScript": "排好隊",
+      "humorDevice": "story",
+      "zhGloss": "有秩序的",
+      "speakLineEn": "Keep an orderly changelog.",
+      "speakLineZh": "保持有秩序的變更紀錄。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "ord＝秩序：order/ordinary/coordinate/subordinate/ordinance",
+    "insubordinate＝不服從"
+  ],
+  "pitfalls": [
+    "ordain＝任命／規定",
+    "ordinance＝法令條例"
+  ],
+  "lessonRefs": [
+    "lesson-root-ord-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch02"
+  }
+}

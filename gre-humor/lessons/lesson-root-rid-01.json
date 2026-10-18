@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-rid-01",
+  "slug": "root-rid-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-rid-01",
+  "titleZh": "rid／ris｜嘲笑露天劇場",
+  "titleEn": "Ridicule Open Theater",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 rid/ris＝笑——露天劇場專管好笑、可笑、被笑。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "ridicule／derision 把人笑下場。ridiculous 荒謬到全場笑；risible 可笑的劇本。absurd 荒誕到笑不出；mockery 嘲弄加演——主持人喊卡：可以 ridicule 爛設計，不要 ridicule 人。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "rid＝笑：ridicule/ridiculous/risible/derision",
+        "deride（他族）同根嘲弄"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Make fun of; mock:",
+      "promptZh": "嘲笑：",
+      "choices": [
+        "ridicule",
+        "liberate",
+        "immerse",
+        "rectify"
+      ],
+      "answer": "ridicule"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Worthy of laughter; absurdly funny:",
+      "promptZh": "可笑的：",
+      "choices": [
+        "risible",
+        "regal",
+        "impetuous",
+        "privy"
+      ],
+      "answer": "risible"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Contemptuous laughter/mockery:",
+      "promptZh": "嘲弄：",
+      "choices": [
+        "derision",
+        "euphony",
+        "memento",
+        "mediate"
+      ],
+      "answer": "derision"
+    }
+  ],
+  "pitfalls": [
+    "ridicule 可作名詞或動詞",
+    "risible＝可笑的（較文）"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch01"
+  }
+}

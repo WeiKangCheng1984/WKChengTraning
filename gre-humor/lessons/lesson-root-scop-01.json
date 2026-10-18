@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-scop-01",
+  "slug": "root-scop-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-scop-01",
+  "titleZh": "scop｜窺視望遠鏡館",
+  "titleEn": "Scop Observatory",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 scop＝看——望遠鏡館專管範圍、窺視與各種 -scope。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "scope 視野範圍。telescope 看遠；microscope 看小；periscope 抬頭偷看。horoscope 星象娛樂（別當證據）。episcope／scope creep：範圍蔓延——館長：先定 scope，再防 scope creep；horoscope 請離開方法段。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "scop＝看：scope/telescope/microscope/periscope",
+        "scope creep＝範圍蔓延"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Range; extent of a project:",
+      "promptZh": "範圍：",
+      "choices": [
+        "scope",
+        "impede",
+        "impute",
+        "regal"
+      ],
+      "answer": "scope"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Uncontrolled expansion of aims:",
+      "promptZh": "範圍蔓延：",
+      "choices": [
+        "scope creep",
+        "horoscope",
+        "tripod",
+        "conceit"
+      ],
+      "answer": "scope creep"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Instrument for seeing far:",
+      "promptZh": "望遠鏡：",
+      "choices": [
+        "telescope",
+        "ordinance",
+        "libertine",
+        "derision"
+      ],
+      "answer": "telescope"
+    }
+  ],
+  "pitfalls": [
+    "scope＝範圍／機會",
+    "horoscope 非科學證據"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch02"
+  }
+}

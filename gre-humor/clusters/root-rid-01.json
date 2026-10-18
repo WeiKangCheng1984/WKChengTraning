@@ -1,0 +1,208 @@
+{
+  "id": "root-rid-01",
+  "type": "root",
+  "elementLemma": "rid/ris",
+  "titleZh": "rid／ris｜嘲笑露天劇場",
+  "titleEn": "Ridicule Open Theater",
+  "hook": "字根 rid/ris＝笑——露天劇場專管好笑、可笑、被笑。",
+  "script": "ridicule／derision 把人笑下場。ridiculous 荒謬到全場笑；risible 可笑的劇本。absurd 荒誕到笑不出；mockery 嘲弄加演——主持人喊卡：可以 ridicule 爛設計，不要 ridicule 人。",
+  "members": [
+    {
+      "headword": "ridicule",
+      "inVocab": true,
+      "senseAnchor": "嘲笑；嘲弄",
+      "roleInScript": "笑人下場",
+      "humorDevice": "morphology",
+      "zhGloss": "嘲笑；嘲弄",
+      "speakLineEn": "Ridicule bad incentives, not junior mistakes made in good faith.",
+      "speakLineZh": "嘲笑壞誘因，而非善意資淺錯誤。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "ridiculous",
+      "inVocab": true,
+      "senseAnchor": "荒謬的；可笑的",
+      "roleInScript": "全場笑點",
+      "humorDevice": "morphology",
+      "zhGloss": "荒謬的；可笑的",
+      "speakLineEn": "A ridiculous sample size claim needs pushback.",
+      "speakLineZh": "荒謬樣本宣稱需要反推。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "risible",
+      "inVocab": true,
+      "senseAnchor": "arousing or provoking laughter",
+      "roleInScript": "文雅笑點",
+      "humorDevice": "morphology",
+      "zhGloss": "可笑的",
+      "speakLineEn": "The excuse was risible under audit.",
+      "speakLineZh": "稽核下那個藉口可笑。",
+      "related": {
+        "synonyms": "amusing, comic, comical, funny, laughable, mirthful",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "derision",
+      "inVocab": true,
+      "senseAnchor": "嘲弄；笑柄",
+      "roleInScript": "嘲弄氣氛",
+      "humorDevice": "morphology",
+      "zhGloss": "嘲弄；笑柄",
+      "speakLineEn": "Public derision is not peer review.",
+      "speakLineZh": "公開嘲弄不是同儕審查。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "absurd",
+      "inVocab": true,
+      "senseAnchor": "ridiculously unreasonable, unsound, or incongruous",
+      "roleInScript": "笑不出的荒誕",
+      "humorDevice": "morphology",
+      "zhGloss": "荒謬的",
+      "speakLineEn": "It is absurd to equate p<.05 with truth.",
+      "speakLineZh": "把 p<.05 當真理很荒謬。",
+      "related": {
+        "synonyms": "ludicrous, nonsensical, preposterous",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "mockery",
+      "inVocab": true,
+      "senseAnchor": "嘲弄；拙劣模仿",
+      "roleInScript": "加演嘲諷",
+      "humorDevice": "morphology",
+      "zhGloss": "嘲弄；拙劣模仿",
+      "speakLineEn": "A mockery of preregistration is worse than none.",
+      "speakLineZh": "拙劣模仿預註冊比沒有更糟。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "laughable",
+      "inVocab": true,
+      "senseAnchor": "可笑的",
+      "roleInScript": "笑得出來",
+      "humorDevice": "story",
+      "zhGloss": "可笑的",
+      "speakLineEn": "Laughable robustness checks fool no one.",
+      "speakLineZh": "可笑的穩健檢查騙不了人。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "comic",
+      "inVocab": true,
+      "senseAnchor": "喜劇的",
+      "roleInScript": "喜劇線",
+      "humorDevice": "story",
+      "zhGloss": "喜劇的",
+      "speakLineEn": "Keep comic relief out of the limitations section.",
+      "speakLineZh": "限制段別放喜劇調劑。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "irony",
+      "inVocab": true,
+      "senseAnchor": "諷刺",
+      "roleInScript": "反差笑",
+      "humorDevice": "story",
+      "zhGloss": "諷刺",
+      "speakLineEn": "Irony about open science still needs open code.",
+      "speakLineZh": "諷刺開放科學仍需開放程式碼。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "satire",
+      "inVocab": true,
+      "senseAnchor": "witty language used to convey insults or scorn; ; ; --Jonathan Swift",
+      "roleInScript": "諷刺專場",
+      "humorDevice": "story",
+      "zhGloss": "諷刺文學",
+      "speakLineEn": "Satire can teach norms; data still decide.",
+      "speakLineZh": "諷刺能教規範；資料仍裁決。",
+      "related": {
+        "synonyms": "sarcasm, irony",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "jeer",
+      "inVocab": true,
+      "senseAnchor": "showing your contempt by derision; laugh at with contempt and derision",
+      "roleInScript": "起哄笑",
+      "humorDevice": "story",
+      "zhGloss": "嘲罵",
+      "speakLineEn": "Jeers at null results chill honesty.",
+      "speakLineZh": "對虛無結果起哄寒蟬誠實。",
+      "related": {
+        "synonyms": "jeering, mockery, scoff, scoffing, flout, barrack",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "scoff",
+      "inVocab": true,
+      "senseAnchor": "showing your contempt by derision; laugh at with contempt and derision",
+      "roleInScript": "嗤之以鼻",
+      "humorDevice": "story",
+      "zhGloss": "嗤笑",
+      "speakLineEn": "Scoff less; specify more.",
+      "speakLineZh": "少嗤笑；多具體。",
+      "related": {
+        "synonyms": "jeer, jeering, mockery, scoffing, flout, barrack",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    }
+  ],
+  "reviewHooks": [
+    "rid＝笑：ridicule/ridiculous/risible/derision",
+    "deride（他族）同根嘲弄"
+  ],
+  "pitfalls": [
+    "ridicule 可作名詞或動詞",
+    "risible＝可笑的（較文）"
+  ],
+  "lessonRefs": [
+    "lesson-root-rid-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch01"
+  }
+}

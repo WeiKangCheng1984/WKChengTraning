@@ -1,0 +1,208 @@
+{
+  "id": "root-pugn-01",
+  "type": "root",
+  "elementLemma": "pugn",
+  "titleZh": "pugn｜拳頭爭論擂台",
+  "titleEn": "Pugn Fight Ring",
+  "hook": "字根 pugn＝打——擂台專管用拳與用嘴打架。",
+  "script": "pugnacious 一上台就想打。impugn 出拳打對方名譽；oppugn 對打質疑。repugnant 讓人反感到想離場。pugilist 職業拳手；inexpugnable 要塞打不穿——裁判舉手：學術擂台打論點，別打人。",
+  "members": [
+    {
+      "headword": "pugnacious",
+      "inVocab": true,
+      "senseAnchor": "having a quarrelsome or combative nature",
+      "roleInScript": "一上台就想打",
+      "humorDevice": "morphology",
+      "zhGloss": "好鬥的",
+      "speakLineEn": "Pugnacious tone sinks valid critique.",
+      "speakLineZh": "好鬥語氣毁掉有效批評。",
+      "related": {
+        "synonyms": "irascible, belligerent, truculent",
+        "antonyms": "peaceable, amiable, calm, placid, gentle"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "impugn",
+      "inVocab": true,
+      "senseAnchor": "to attack, to blame",
+      "roleInScript": "出拳打名譽",
+      "humorDevice": "morphology",
+      "zhGloss": "質疑；抨擊",
+      "speakLineEn": "Do not impugn motives without evidence.",
+      "speakLineZh": "沒證據不要抨擊動機。",
+      "related": {
+        "synonyms": "assail, impeach",
+        "antonyms": "support, endorse, defend"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "repugnant",
+      "inVocab": true,
+      "senseAnchor": "令人厭惡的；牴觸的",
+      "roleInScript": "反感到離場",
+      "humorDevice": "morphology",
+      "zhGloss": "令人厭惡的；牴觸的",
+      "speakLineEn": "Fraud is ethically repugnant.",
+      "speakLineZh": "造假在倫理上令人厭惡。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "pugilist",
+      "inVocab": true,
+      "senseAnchor": "拳擊手",
+      "roleInScript": "職業拳手",
+      "humorDevice": "morphology",
+      "zhGloss": "拳擊手",
+      "speakLineEn": "Be a pugilist for methods, not for egos.",
+      "speakLineZh": "為方法當拳手，不為自我。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "oppugn",
+      "inVocab": true,
+      "senseAnchor": "反對；質疑",
+      "roleInScript": "對打質疑",
+      "humorDevice": "morphology",
+      "zhGloss": "反對；質疑",
+      "speakLineEn": "Oppugn the identification, politely.",
+      "speakLineZh": "禮貌地質疑識別策略。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "inexpugnable",
+      "inVocab": true,
+      "senseAnchor": "難攻克的；堅不可摧的",
+      "roleInScript": "要塞打不穿",
+      "humorDevice": "morphology",
+      "zhGloss": "難攻克的；堅不可摧的",
+      "speakLineEn": "No claim is inexpugnable to new data.",
+      "speakLineZh": "沒有主張能對新資料堅不可摧。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "pugnacity",
+      "inVocab": true,
+      "senseAnchor": "好鬥性",
+      "roleInScript": "想打的氣質",
+      "humorDevice": "story",
+      "zhGloss": "好鬥性",
+      "speakLineEn": "Pugnacity without rigor is noise.",
+      "speakLineZh": "沒有嚴謹的好鬥是噪音。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "fight",
+      "inVocab": true,
+      "senseAnchor": "戰鬥",
+      "roleInScript": "擂台動作",
+      "humorDevice": "story",
+      "zhGloss": "戰鬥",
+      "speakLineEn": "Fight bias with design, not vibes.",
+      "speakLineZh": "用設計打偏差，不是感覺。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "combat",
+      "inVocab": true,
+      "senseAnchor": "對抗",
+      "roleInScript": "對打",
+      "humorDevice": "story",
+      "zhGloss": "對抗",
+      "speakLineEn": "Combat p-hacking with registration.",
+      "speakLineZh": "用註冊對抗 p 操弄。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "belligerent",
+      "inVocab": true,
+      "senseAnchor": "someone who fights (or is fighting); characteristic of an enemy or one eager to fight",
+      "roleInScript": "好鬥鄰居",
+      "humorDevice": "story",
+      "zhGloss": "好戰的",
+      "speakLineEn": "Belligerent emails escalate nothing useful.",
+      "speakLineZh": "好戰郵件升級不出有用東西。",
+      "related": {
+        "synonyms": "combatant, battler, fighter, scrapper, aggressive, militant",
+        "antonyms": "unaggressive"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "antagonize",
+      "inVocab": true,
+      "senseAnchor": "激怒；對抗",
+      "roleInScript": "把人打成敵",
+      "humorDevice": "story",
+      "zhGloss": "激怒；對抗",
+      "speakLineEn": "Do not antagonize reviewers with sarcasm.",
+      "speakLineZh": "不要用諷刺激怒審稿人。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "unassailable",
+      "inVocab": true,
+      "senseAnchor": "無可指摘的",
+      "roleInScript": "打不穿近親",
+      "humorDevice": "story",
+      "zhGloss": "無可指摘的",
+      "speakLineEn": "Unassailable claims are rare—show your work.",
+      "speakLineZh": "無可指摘的主張很稀有——展示過程。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    }
+  ],
+  "reviewHooks": [
+    "pugn＝打：pugnacious/impugn/repugnant/pugilist",
+    "impugn＝質疑／抨擊誠實"
+  ],
+  "pitfalls": [
+    "impugn someone's integrity＝抨擊其正直",
+    "repugnant＝令人厭惡的"
+  ],
+  "lessonRefs": [
+    "lesson-root-pugn-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch01"
+  }
+}

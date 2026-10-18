@@ -23,13 +23,14 @@
 | **S3c** | **pending 再分流＋主庫補錄** | ✅ | `gre-humor/STAGE3c-REPORT.md` |
 | **網站** | **幽默模式上線（TTS）** | ✅ | `/english/gre/humor` |
 | S4 | 押韻季／字根季課序大綱（16+ 堂） | ⏳ | 與 P1 並行 |
-| **P1** | **補完 A 級 → 獨特詞 ≥ 1,000** | ✅ batch01＋batch02 | 報告見 `P1-BATCH02-REPORT.md` |
-| **P2** | **B 級輻射 → ≥ 2,500** | ⏳ 下一步 | 每批 ~20 族 |
+| **P1** | **補完 A 級 → 獨特詞 ≥ 1,000** | ✅ | `P1-BATCH02-REPORT.md` |
+| **P2-pending** | **pending 分流** | ✅（含 b02） | `P2-PENDING-REPORT.md`、`P2-PENDING-B02-REPORT.md` |
+| **P2** | **B 級輻射 → ≥ 2,500** | 🔄 batch01＋02 ✅ | 幽默人設優先；續 batch03 |
 | P3 | 語義＋形近 → ≥ 3,400 | ⏳ | — |
 | P4 | 孤兒清剿 → 3,800～4,000 | ⏳ | — |
 
-**目前數字**：家族／課 **88**；獨特幽默詞 **1,006**；主詞庫 JSON **4,162**；幽默→主庫命中 **661**；pending **345**；距離 4,000 約 **2,994**。**P1 目標已達成。**  
-**網站**：`/english/gre/humor` · 建置資料 `node web/scripts/build-gre-humor.js` · 報告 `gre-humor/P1-BATCH01-REPORT.md`、`P1-BATCH02-REPORT.md`
+**目前數字**：家族／課 **127**；獨特幽默詞 **1,462**；主詞庫 JSON **4,406**；幽默→主庫命中 **1,000**；pending／暫緩差集約 **462**；距離 P2(2500) 約 **1,038**；距離 4,000 約 **2,538**。  
+**網站**：`/english/gre/humor` · `node web/scripts/build-gre-humor.js`
 
 ### 衝刺方案（Agent 量產；不必切 Plan 模式）
 

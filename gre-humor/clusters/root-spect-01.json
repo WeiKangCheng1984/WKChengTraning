@@ -39,7 +39,7 @@
     },
     {
       "headword": "conspicuous",
-      "inVocab": true,
+      "inVocab": false,
       "senseAnchor": "顯眼的；引人注目的",
       "roleInScript": "想不看到都難",
       "humorDevice": "morphology",
@@ -50,7 +50,8 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "in-vocab"
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "spectacle",

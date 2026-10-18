@@ -1,0 +1,163 @@
+{
+  "id": "rhyme-ceive-01",
+  "type": "rhyme",
+  "elementLemma": "-ceive/-ceit",
+  "titleZh": "ceive｜拿騙感官館",
+  "titleEn": "Ceive Sense Museum",
+  "hook": "ceive＝拿——感官館專管拿到真相、拿到假象、自負展覽。",
+  "script": "perceive 接收到感知；conceive 腦中構思拿到想法。deceive 讓人拿到假貨；deceptive 假貨包裝。conceit 自負展覽品；conceivable／receipt 可設想與收據——導覽：conceive≠ deceive；conceit 很臭。",
+  "members": [
+    {
+      "headword": "conceive",
+      "inVocab": true,
+      "senseAnchor": "構想；懷孕",
+      "roleInScript": "腦中拿到想法",
+      "humorDevice": "phonetic",
+      "zhGloss": "構想；懷孕",
+      "speakLineEn": "Conceive the analysis before collection.",
+      "speakLineZh": "收集前先構想分析。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "deceive",
+      "inVocab": true,
+      "senseAnchor": "欺騙",
+      "roleInScript": "讓人拿到假貨",
+      "humorDevice": "phonetic",
+      "zhGloss": "欺騙",
+      "speakLineEn": "Do not deceive with truncated axes.",
+      "speakLineZh": "不要用截斷軸欺騙。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "deceptive",
+      "inVocab": true,
+      "senseAnchor": "欺騙性的",
+      "roleInScript": "假貨包裝",
+      "humorDevice": "phonetic",
+      "zhGloss": "欺騙性的",
+      "speakLineEn": "Deceptive visualizations deserve rejection.",
+      "speakLineZh": "欺騙性視覺化該被拒。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "conceit",
+      "inVocab": true,
+      "senseAnchor": "feelings of excessive pride; an elaborate poetic image or a far-fetched comparison of very dissimilar things",
+      "roleInScript": "自負展覽",
+      "humorDevice": "phonetic",
+      "zhGloss": "自負；幻想",
+      "speakLineEn": "Intellectual conceit blocks correction.",
+      "speakLineZh": "智識自負阻擋勘誤。",
+      "related": {
+        "synonyms": "self-love, vanity, conceitedness",
+        "antonyms": "humility"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "conceivable",
+      "inVocab": true,
+      "senseAnchor": "可想像的",
+      "roleInScript": "拿得到想像",
+      "humorDevice": "phonetic",
+      "zhGloss": "可想像的",
+      "speakLineEn": "Every conceivable robustness check need not run—but justify skips.",
+      "speakLineZh": "不必跑遍可想像的穩健檢查——但要說明跳過。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "receipt",
+      "inVocab": true,
+      "senseAnchor": "收據；收到",
+      "roleInScript": "拿到證明",
+      "humorDevice": "phonetic",
+      "zhGloss": "收據；收到",
+      "speakLineEn": "Keep receipt of ethics approval.",
+      "speakLineZh": "保留倫理批准收據。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "perception",
+      "inVocab": true,
+      "senseAnchor": "知覺；看法",
+      "roleInScript": "感知成品",
+      "humorDevice": "story",
+      "zhGloss": "知覺；看法",
+      "speakLineEn": "Perception of rigor rises with open code.",
+      "speakLineZh": "開放程式碼提升嚴謹知覺。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "misconceive",
+      "inVocab": true,
+      "senseAnchor": "誤解構想",
+      "roleInScript": "拿到錯想法",
+      "humorDevice": "story",
+      "zhGloss": "誤解構想",
+      "speakLineEn": "Misconceive the estimand and all fails.",
+      "speakLineZh": "誤解目標量則全盤失敗。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "deceitful",
+      "inVocab": true,
+      "senseAnchor": "欺詐的",
+      "roleInScript": "假貨人格",
+      "humorDevice": "story",
+      "zhGloss": "欺詐的",
+      "speakLineEn": "Deceitful reporting ends careers.",
+      "speakLineZh": "欺詐報告終結職涯。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    }
+  ],
+  "reviewHooks": [
+    "ceive＝拿：perceive/conceive/deceive/conceit/conceivable",
+    "deceive＝欺騙"
+  ],
+  "pitfalls": [
+    "conceive＝構想／懷孕（多義）",
+    "conceit＝自負"
+  ],
+  "lessonRefs": [
+    "lesson-rhyme-ceive-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch01"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-opt-01",
+  "slug": "root-opt-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-opt-01",
+  "titleZh": "opt｜選擇驗光室",
+  "titleEn": "Opt Choice Clinic",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 opt＝選／視——驗光室同時配眼鏡與人生選項。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "option／optional 選配鏡片。adopt 認養一副觀點。optimism／optimum 樂觀到以為已是最佳。optic／synopsis／autopsy：看、總覽、剖開細看——醫師喊：先 synopsis 再選 option，別盲目 optimism。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "opt＝選／視：option/adopt/optimism/optimum/synopsis/autopsy",
+        "optimum＝最適"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Best or most favorable point:",
+      "promptZh": "最適：",
+      "choices": [
+        "optimum",
+        "option",
+        "optic",
+        "mischief"
+      ],
+      "answer": "optimum"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Summary overview:",
+      "promptZh": "摘要梗概：",
+      "choices": [
+        "synopsis",
+        "autopsy",
+        "regicide",
+        "impugn"
+      ],
+      "answer": "synopsis"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Take up; embrace as one's own:",
+      "promptZh": "採納：",
+      "choices": [
+        "adopt",
+        "submerge",
+        "ridicule",
+        "mutate"
+      ],
+      "answer": "adopt"
+    }
+  ],
+  "pitfalls": [
+    "adopt＝採納／收養",
+    "autopsy＝驗屍／事後剖析"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch02"
+  }
+}

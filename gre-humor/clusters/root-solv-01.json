@@ -20,7 +20,8 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "dissolve",
@@ -35,7 +36,8 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "resolve",
@@ -50,7 +52,8 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "absolve",
@@ -69,7 +72,7 @@
     },
     {
       "headword": "soluble",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "可溶的；可解決的",
       "roleInScript": "可溶解",
       "humorDevice": "morphology",
@@ -80,7 +83,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending"
     },
     {
       "headword": "solvent",
@@ -110,7 +113,8 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "irresolute",
@@ -129,7 +133,7 @@
     },
     {
       "headword": "resolute",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "堅決的",
       "roleInScript": "決心已解鎖",
       "humorDevice": "morphology",
@@ -140,7 +144,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending"
     },
     {
       "headword": "dissolute",
@@ -170,11 +174,12 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "insoluble",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "不能溶解／解決的",
       "roleInScript": "解不開",
       "humorDevice": "morphology",
@@ -185,7 +190,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending"
     }
   ],
   "reviewHooks": [

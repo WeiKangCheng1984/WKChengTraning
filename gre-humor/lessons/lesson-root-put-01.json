@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-put-01",
+  "slug": "root-put-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-put-01",
+  "titleZh": "put｜計算心事櫃",
+  "titleEn": "Put Computing Locker",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 put＝想、算——櫃門寫著：爭議、聲譽、計算、委派。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "compute 先算。dispute 吵著算不清；reputation 聲譽櫃台。impute 把責任算到某人頭上；putative 據稱的候選人。deputy 代理計算員；computer 機器算盤——櫃員：impute 缺失要有模型，別亂 dispute 到沒日誌。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "put＝算：compute/dispute/reputation/impute/putative/deputy",
+        "impute＝歸因／填補"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Attribute; fill in statistically:",
+      "promptZh": "歸咎／填補：",
+      "choices": [
+        "impute",
+        "impede",
+        "orient",
+        "laud"
+      ],
+      "answer": "impute"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Generally supposed; alleged:",
+      "promptZh": "推定／據稱：",
+      "choices": [
+        "putative",
+        "pedestrian",
+        "optimum",
+        "cacophony"
+      ],
+      "answer": "putative"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Public standing; esteem:",
+      "promptZh": "聲譽：",
+      "choices": [
+        "reputation",
+        "tripod",
+        "morph",
+        "ridicule"
+      ],
+      "answer": "reputation"
+    }
+  ],
+  "pitfalls": [
+    "impute＝歸咎或統計填補",
+    "putative＝推定的／據稱的"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch02"
+  }
+}

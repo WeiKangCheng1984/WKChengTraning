@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-mut-01",
+  "slug": "root-mut-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-mut-01",
+  "titleZh": "mut｜突變交換所",
+  "titleEn": "Mut Exchange Desk",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 mut＝變——交換所專管突變、互換、互相。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "mutate／mutation 基因櫃突然變樣；mutable 還改得動，對面是 immutable（他族已登場）。commute 上下班交換路線；mutual 互相交換好處。transmute 煉金式質變；permutation 排列交換秀——櫃員章：先登記再突變。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "mut＝變：mutate/mutation/mutable/commute/mutual/transmute/permutation",
+        "mutable↔immutable"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Change in form/nature drastically:",
+      "promptZh": "質變／煉成：",
+      "choices": [
+        "transmute",
+        "mediate",
+        "laud",
+        "submerge"
+      ],
+      "answer": "transmute"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Shared by each; reciprocal:",
+      "promptZh": "相互的：",
+      "choices": [
+        "mutual",
+        "regal",
+        "mediocre",
+        "phobic"
+      ],
+      "answer": "mutual"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Capable of change:",
+      "promptZh": "可變的：",
+      "choices": [
+        "mutable",
+        "immemorial",
+        "rectitude",
+        "encomium"
+      ],
+      "answer": "mutable"
+    }
+  ],
+  "pitfalls": [
+    "commute 可＝通勤或減刑／互換",
+    "transmute＝質變式轉變"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch01"
+  }
+}

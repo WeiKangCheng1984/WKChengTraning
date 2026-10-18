@@ -1,0 +1,203 @@
+{
+  "id": "root-terr-01",
+  "type": "root",
+  "elementLemma": "terr",
+  "titleZh": "terr｜大地驚魂館",
+  "titleEn": "Terr Earth & Terror Hall",
+  "hook": "字根 terr＝地／怕——驚魂館一邊是土地，一邊是恐懼（依詞分流）。",
+  "script": "terrain／territory／terrestrial 土地地圖。terrace 梯田看台。terror／terrible／terrify／terrorize 恐懼線。deter 嚇阻別靠近——導遊：territory 談地盤；terror 談害怕；別把 terrible writing 說成 terrain。",
+  "members": [
+    {
+      "headword": "terrain",
+      "inVocab": false,
+      "senseAnchor": "地形；地帶",
+      "roleInScript": "土地地圖",
+      "humorDevice": "morphology",
+      "zhGloss": "地形；地帶",
+      "speakLineEn": "Know the ethical terrain before scraping.",
+      "speakLineZh": "爬取前先摸清倫理地形。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "territory",
+      "inVocab": false,
+      "senseAnchor": "領土；領域",
+      "roleInScript": "地盤",
+      "humorDevice": "morphology",
+      "zhGloss": "領土；領域",
+      "speakLineEn": "Respect disciplinary territory without silos.",
+      "speakLineZh": "尊重學科地盤但不築倉。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "terrestrial",
+      "inVocab": false,
+      "senseAnchor": "of or relating to or inhabiting the land as opposed to the sea or air; of or relating to or characteristic of the planet Earth or its inhabitants; - L.C.Eiseley",
+      "roleInScript": "陸生",
+      "humorDevice": "morphology",
+      "zhGloss": "地球的；陸上的",
+      "speakLineEn": "Terrestrial labs still need cloud backups.",
+      "speakLineZh": "陸上實驗室仍需雲端備份。",
+      "related": {
+        "synonyms": "tellurian, telluric, terrene, planetary, mundane, sublunar",
+        "antonyms": "amphibious, aquatic"
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "terrace",
+      "inVocab": false,
+      "senseAnchor": "梯田；露台",
+      "roleInScript": "階梯看台",
+      "humorDevice": "morphology",
+      "zhGloss": "梯田；露台",
+      "speakLineEn": "Build results as terraces of evidence, not cliffs of hype.",
+      "speakLineZh": "把結果建成證據梯田，不是炒作懸崖。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "terror",
+      "inVocab": false,
+      "senseAnchor": "恐怖",
+      "roleInScript": "恐懼線",
+      "humorDevice": "morphology",
+      "zhGloss": "恐怖",
+      "speakLineEn": "Terror of retraction should not block corrections.",
+      "speakLineZh": "對撤稿的恐懼不該阻擋勘誤。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "terrible",
+      "inVocab": false,
+      "senseAnchor": "糟糕的；可怕的",
+      "roleInScript": "糟到怕",
+      "humorDevice": "morphology",
+      "zhGloss": "糟糕的；可怕的",
+      "speakLineEn": "Terrible documentation is a safety issue.",
+      "speakLineZh": "糟糕文件是安全問題。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "terrify",
+      "inVocab": false,
+      "senseAnchor": "使恐懼",
+      "roleInScript": "嚇一跳",
+      "humorDevice": "morphology",
+      "zhGloss": "使恐懼",
+      "speakLineEn": "Do not terrify juniors for honest mistakes.",
+      "speakLineZh": "不要因誠實錯誤恐嚇資淺者。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "deter",
+      "inVocab": true,
+      "senseAnchor": "to prevent or discourage from acting, as by means of fear or doubt",
+      "roleInScript": "別靠近牌",
+      "humorDevice": "morphology",
+      "zhGloss": "嚇阻；制止",
+      "speakLineEn": "Sanctions can deter fabrication.",
+      "speakLineZh": "制裁能嚇阻捏造。",
+      "related": {
+        "synonyms": "dissuade, inhibit, discourage",
+        "antonyms": "encourage, incite, persuade"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "terrorize",
+      "inVocab": false,
+      "senseAnchor": "coerce by violence or with threats; fill with terror; frighten greatly",
+      "roleInScript": "用怕統治",
+      "humorDevice": "story",
+      "zhGloss": "恐嚇統治",
+      "speakLineEn": "Do not terrorize teams into fake positives.",
+      "speakLineZh": "不要恐嚇團隊做出假陽性。",
+      "related": {
+        "synonyms": "terrorise, terrify",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "extraterrestrial",
+      "inVocab": false,
+      "senseAnchor": "外星的",
+      "roleInScript": "地外彩蛋",
+      "humorDevice": "story",
+      "zhGloss": "外星的",
+      "speakLineEn": "Extraordinary (even extraterrestrial) claims need evidence.",
+      "speakLineZh": "非凡（甚至外星）主張需要證據。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "territorial",
+      "inVocab": false,
+      "senseAnchor": "nonprofessional soldier member of a territorial military unit; a territorial military unit",
+      "roleInScript": "護地盤",
+      "humorDevice": "story",
+      "zhGloss": "地盤意識的",
+      "speakLineEn": "Territorial data hoarding slows science.",
+      "speakLineZh": "地盤式囤資料拖慢科學。",
+      "related": {
+        "synonyms": "",
+        "antonyms": "extraterritorial, nonterritorial"
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "terr＝地：terrain/territory/terrestrial；terr＝怕：terror/terrify/deter",
+    "deter＝嚇阻"
+  ],
+  "pitfalls": [
+    "同一拼寫族兩義：地 vs 怕",
+    "deter＝制止／嚇阻"
+  ],
+  "lessonRefs": [
+    "lesson-root-terr-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch02"
+  }
+}

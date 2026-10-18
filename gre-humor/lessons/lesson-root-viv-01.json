@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-viv-01",
+  "slug": "root-viv-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-viv-01",
+  "titleZh": "viv｜活力維生站",
+  "titleEn": "Viv Vital Station",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 viv/vit＝活——維生站專管活力、生還、生動與維生素梗。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "vivid 畫面活跳。survive／survival／survivor 活過關卡。revive 急救回魂；vital／vitality 要命的重要與活力。vivacious 活潑店員——站長：vital 限制要寫；vivid 例子幫忙；survive 複現戰。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "viv＝活：vivid/survive/revive/vital/vitality/vivacious",
+        "vital＝極其重要／生命的"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Brightly clear; lifelike:",
+      "promptZh": "生動鮮明：",
+      "choices": [
+        "vivid",
+        "turbid",
+        "terrible",
+        "ordinary"
+      ],
+      "answer": "vivid"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Essential to life; crucial:",
+      "promptZh": "極其重要：",
+      "choices": [
+        "vital",
+        "pedestrian",
+        "horoscope",
+        "mischief"
+      ],
+      "answer": "vital"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Bring back to life/activity:",
+      "promptZh": "復活重振：",
+      "choices": [
+        "revive",
+        "deter",
+        "impute",
+        "resign"
+      ],
+      "answer": "revive"
+    }
+  ],
+  "pitfalls": [
+    "vivid＝生動鮮明",
+    "revive＝使復活／重振"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch02"
+  }
+}

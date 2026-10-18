@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-trib-01",
+  "slug": "root-trib-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-trib-01",
+  "titleZh": "trib｜分配貢品處",
+  "titleEn": "Trib Tribute Desk",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 trib＝分、給——貢品處專管貢獻、分配、部落與苦難。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "contribute／contribution／contributor 交貢品。distribute／distribution／tributary 分配支流。tribute 致敬貢品；tribe 部落櫃。tribulation 苦難關卡——處長：contribute 資料；distribute 功勞；tribulation 別靠造假渡。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "trib＝分給：contribute/distribute/tribute/tributary/tribe/tribulation",
+        "tributary＝支流／進貢的"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Give as due; honor with praise:",
+      "promptZh": "致敬／貢品：",
+      "choices": [
+        "tribute",
+        "deter",
+        "impute",
+        "sophistry"
+      ],
+      "answer": "tribute"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Great suffering; trial:",
+      "promptZh": "苦難：",
+      "choices": [
+        "tribulation",
+        "synopsis",
+        "pedestal",
+        "euphony"
+      ],
+      "answer": "tribulation"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Divide and give out:",
+      "promptZh": "分配：",
+      "choices": [
+        "distribute",
+        "arrogate",
+        "terrify",
+        "morph"
+      ],
+      "answer": "distribute"
+    }
+  ],
+  "pitfalls": [
+    "tribute＝致敬／貢品",
+    "tribulation＝苦難"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch02"
+  }
+}

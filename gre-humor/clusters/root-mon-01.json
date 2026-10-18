@@ -1,0 +1,208 @@
+{
+  "id": "root-mon-01",
+  "type": "root",
+  "elementLemma": "mon/monit",
+  "titleZh": "mon｜警告廣播站",
+  "titleEn": "Mon Warning Station",
+  "hook": "字根 mon/monit＝警告、提醒——廣播站專管提前提醒與召喚。",
+  "script": "admonish／admonition 廣播訓誡。monitor 螢幕監看；monitory 警告語氣。premonition 不祥預告片；summon 召喚到站。monument 用石頭警告後人「別重蹈」——DJ 說：premonition 不是證據，admonish 要對事。",
+  "members": [
+    {
+      "headword": "admonish",
+      "inVocab": true,
+      "senseAnchor": "admonish or counsel in terms of someone's behavior; warn strongly; put on guard",
+      "roleInScript": "廣播訓誡",
+      "humorDevice": "morphology",
+      "zhGloss": "告誡；警告",
+      "speakLineEn": "Admonish silent exclusions in review.",
+      "speakLineZh": "在審查中告誡沉默排除。",
+      "related": {
+        "synonyms": "warn, discourage, monish, caution, reprove",
+        "antonyms": "encourage, incaution"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "admonition",
+      "inVocab": true,
+      "senseAnchor": "訓誡；警告",
+      "roleInScript": "廣播內容",
+      "humorDevice": "morphology",
+      "zhGloss": "訓誡；警告",
+      "speakLineEn": "Take the admonition about power seriously.",
+      "speakLineZh": "認真對待關於檢定力的訓誡。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "monitor",
+      "inVocab": true,
+      "senseAnchor": "監視；監控器",
+      "roleInScript": "螢幕監看",
+      "humorDevice": "morphology",
+      "zhGloss": "監視；監控器",
+      "speakLineEn": "Monitor drift in coding reliability.",
+      "speakLineZh": "監視編碼信度漂移。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "monitory",
+      "inVocab": true,
+      "senseAnchor": "警告的；訓誡的",
+      "roleInScript": "警告語氣",
+      "humorDevice": "morphology",
+      "zhGloss": "警告的；訓誡的",
+      "speakLineEn": "A monitory footnote is kinder than a scandal.",
+      "speakLineZh": "警告腳註比醜聞仁慈。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "premonition",
+      "inVocab": true,
+      "senseAnchor": "a feeling of evil to come; an early warning about a future event",
+      "roleInScript": "不祥預告片",
+      "humorDevice": "morphology",
+      "zhGloss": "預感；預兆",
+      "speakLineEn": "A premonition of bias still needs a test.",
+      "speakLineZh": "偏差預感仍需檢驗。",
+      "related": {
+        "synonyms": "foreboding, presentiment, boding, forewarning",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "summon",
+      "inVocab": true,
+      "senseAnchor": "call in an official matter, such as to attend court; ask to come",
+      "roleInScript": "叫到站",
+      "humorDevice": "morphology",
+      "zhGloss": "召喚；傳喚",
+      "speakLineEn": "Summon an independent auditor early.",
+      "speakLineZh": "及早召喚獨立稽核。",
+      "related": {
+        "synonyms": "summons, cite, muster, rally, mobilize, mobilise",
+        "antonyms": "demobilize, demobilise"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "monument",
+      "inVocab": true,
+      "senseAnchor": "紀念碑",
+      "roleInScript": "石頭警告",
+      "humorDevice": "morphology",
+      "zhGloss": "紀念碑",
+      "speakLineEn": "Make the correction a monument, not a whisper.",
+      "speakLineZh": "讓勘誤成紀念碑而非耳語。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "monumental",
+      "inVocab": true,
+      "senseAnchor": "relating or belonging to or serving as a monument; of outstanding significance",
+      "roleInScript": "超大警告",
+      "humorDevice": "story",
+      "zhGloss": "巨大的；紀念碑式的",
+      "speakLineEn": "A monumental error needs a monumental fix.",
+      "speakLineZh": "巨大錯誤需要巨大修復。",
+      "related": {
+        "synonyms": "massive, monolithic",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "summons",
+      "inVocab": true,
+      "senseAnchor": "傳票；召喚",
+      "roleInScript": "正式叫人",
+      "humorDevice": "story",
+      "zhGloss": "傳票；召喚",
+      "speakLineEn": "Ethics boards can issue a figurative summons.",
+      "speakLineZh": "倫理委員會可發比喻式傳喚。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "warning",
+      "inVocab": true,
+      "senseAnchor": "警告",
+      "roleInScript": "廣播詞",
+      "humorDevice": "story",
+      "zhGloss": "警告",
+      "speakLineEn": "Early warnings beat late retractions.",
+      "speakLineZh": "早期警告勝過晚期撤稿。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "reminder",
+      "inVocab": true,
+      "senseAnchor": "提醒",
+      "roleInScript": "小廣播",
+      "humorDevice": "story",
+      "zhGloss": "提醒",
+      "speakLineEn": "Calendar reminders for registry updates help.",
+      "speakLineZh": "登錄更新的日曆提醒有幫助。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "watchdog",
+      "inVocab": true,
+      "senseAnchor": "監察者",
+      "roleInScript": "站外狗",
+      "humorDevice": "story",
+      "zhGloss": "監察者",
+      "speakLineEn": "Fund independent watchdogs for data integrity.",
+      "speakLineZh": "資助獨立監察者守護資料誠信。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    }
+  ],
+  "reviewHooks": [
+    "mon＝警告：admonish/admonition/monitor/premonition/summon",
+    "premonition＝預感"
+  ],
+  "pitfalls": [
+    "admonish＝告誡",
+    "monument＝紀念碑（警示後人）"
+  ],
+  "lessonRefs": [
+    "lesson-root-mon-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch01"
+  }
+}

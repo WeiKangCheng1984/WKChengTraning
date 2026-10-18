@@ -1,0 +1,209 @@
+{
+  "id": "root-phon-01",
+  "type": "root",
+  "elementLemma": "phon",
+  "titleZh": "phon｜聲響控制室",
+  "titleEn": "Phon Sound Booth",
+  "hook": "字根 phon＝聲——控制室推桿：好聽、難聽、假聲、真聲。",
+  "script": "euphony 調成悅耳；cacophony 調成災難演唱會。symphony 多聲部合奏；phonetic 按發音標記。homophone 同音撞名事故；megaphone／microphone／telephone 把聲音放大、接收、遠傳。phonology 管語音規則——工程師說：寫作要 euphony，會議別 cacophony。",
+  "members": [
+    {
+      "headword": "euphony",
+      "inVocab": true,
+      "senseAnchor": "悅耳；諧音美",
+      "roleInScript": "好聽推桿",
+      "humorDevice": "morphology",
+      "zhGloss": "悅耳；諧音美",
+      "speakLineEn": "Aim for euphony without sacrificing precision.",
+      "speakLineZh": "追求悅耳但不犧牲精確。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "cacophony",
+      "inVocab": true,
+      "senseAnchor": "a loud harsh or strident noise; loud confusing disagreeable sounds",
+      "roleInScript": "災難演唱會",
+      "humorDevice": "morphology",
+      "zhGloss": "刺耳嘈雜",
+      "speakLineEn": "A cacophony of metrics confuses readers.",
+      "speakLineZh": "指標刺耳嘈雜迷惑讀者。",
+      "related": {
+        "synonyms": "blare, blaring, clamor, din",
+        "antonyms": "harmony, euphony"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "symphony",
+      "inVocab": true,
+      "senseAnchor": "交響曲；和諧",
+      "roleInScript": "多聲部合奏",
+      "humorDevice": "morphology",
+      "zhGloss": "交響曲；和諧",
+      "speakLineEn": "Team science should sound like a symphony, not solos only.",
+      "speakLineZh": "團隊科學應像交響而非只有獨奏。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "phonetic",
+      "inVocab": true,
+      "senseAnchor": "of or relating to speech sounds; of or relating to the scientific study of speech sounds",
+      "roleInScript": "按發音標記",
+      "humorDevice": "morphology",
+      "zhGloss": "語音的；語音學的",
+      "speakLineEn": "Provide phonetic guides for hard headwords.",
+      "speakLineZh": "難詞提供語音指引。",
+      "related": {
+        "synonyms": "phonic",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "homophone",
+      "inVocab": true,
+      "senseAnchor": "同音異義詞",
+      "roleInScript": "撞名事故",
+      "humorDevice": "morphology",
+      "zhGloss": "同音異義詞",
+      "speakLineEn": "Homophones cause TTS and quiz traps.",
+      "speakLineZh": "同音異義造成 TTS 與測驗陷阱。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "phonology",
+      "inVocab": true,
+      "senseAnchor": "音韻學",
+      "roleInScript": "語音規則本",
+      "humorDevice": "morphology",
+      "zhGloss": "音韻學",
+      "speakLineEn": "Phonology is optional; sense accuracy is not.",
+      "speakLineZh": "音韻學可選；義準不可選。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "megaphone",
+      "inVocab": true,
+      "senseAnchor": "擴音器",
+      "roleInScript": "放大喊",
+      "humorDevice": "story",
+      "zhGloss": "擴音器",
+      "speakLineEn": "Do not use press megaphones for tiny pilots.",
+      "speakLineZh": "小試點別用記者會擴音器。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "microphone",
+      "inVocab": true,
+      "senseAnchor": "麥克風",
+      "roleInScript": "接收聲",
+      "humorDevice": "story",
+      "zhGloss": "麥克風",
+      "speakLineEn": "A quiet microphone still records admissions.",
+      "speakLineZh": "安靜麥克風仍錄得到承認。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "telephone",
+      "inVocab": true,
+      "senseAnchor": "電話",
+      "roleInScript": "遠傳聲",
+      "humorDevice": "story",
+      "zhGloss": "電話",
+      "speakLineEn": "Telephone interviews need consent scripts.",
+      "speakLineZh": "電話訪談需要同意腳本。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "symphony of errors",
+      "inVocab": false,
+      "senseAnchor": "錯誤交響",
+      "roleInScript": "糟合奏",
+      "humorDevice": "story",
+      "zhGloss": "錯誤交響",
+      "speakLineEn": "A symphony of errors starts with one silent fork.",
+      "speakLineZh": "錯誤交響常始於一次沉默分叉。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "phonic",
+      "inVocab": true,
+      "senseAnchor": "聲音的",
+      "roleInScript": "聲線開關",
+      "humorDevice": "story",
+      "zhGloss": "聲音的",
+      "speakLineEn": "Phonic clarity helps oral drills.",
+      "speakLineZh": "聲音清晰幫助口語操練。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "cacophonous",
+      "inVocab": true,
+      "senseAnchor": "刺耳的",
+      "roleInScript": "吵到爆",
+      "humorDevice": "story",
+      "zhGloss": "刺耳的",
+      "speakLineEn": "Cacophonous debates still need minutes.",
+      "speakLineZh": "刺耳辯論仍需會議紀錄。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    }
+  ],
+  "reviewHooks": [
+    "phon＝聲：euphony/cacophony/symphony/phonetic/homophone",
+    "cacophony＝刺耳嘈雜"
+  ],
+  "pitfalls": [
+    "euphony↔cacophony 成對記",
+    "homophone＝同音異義"
+  ],
+  "lessonRefs": [
+    "lesson-root-phon-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch01"
+  }
+}

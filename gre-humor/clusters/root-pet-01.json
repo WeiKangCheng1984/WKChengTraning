@@ -1,0 +1,210 @@
+{
+  "id": "root-pet-01",
+  "type": "root",
+  "elementLemma": "pet",
+  "titleZh": "pet｜衝求競技場",
+  "titleEn": "Pet Rush Arena",
+  "hook": "字根 pet＝求、衝——競技場專管往前衝與請求。",
+  "script": "impetuous 腦袋還沒到腳先衝；impetus 衝量本身。petition 正式呈請；compete 互相衝第一。centripetal 往中心衝；appetite 慾望也在衝。perpetual 衝個不停；petulant 衝完還耍脾氣——教練：先想再衝。",
+  "members": [
+    {
+      "headword": "impetuous",
+      "inVocab": true,
+      "senseAnchor": "characterized by undue haste and lack of thought or deliberation; ; ; ; ; (`brainish' is archaic); marked by violent force",
+      "roleInScript": "腳比腦快",
+      "humorDevice": "morphology",
+      "zhGloss": "衝動的",
+      "speakLineEn": "Impetuous claims skip robustness.",
+      "speakLineZh": "衝動主張跳過穩健檢查。",
+      "related": {
+        "synonyms": "hotheaded, impulsive, madcap, tearaway, brainish",
+        "antonyms": "cautious, deliberate"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "impetus",
+      "inVocab": true,
+      "senseAnchor": "動力；契機；動量",
+      "roleInScript": "衝量",
+      "humorDevice": "morphology",
+      "zhGloss": "動力；契機；動量",
+      "speakLineEn": "A scandal gave impetus to open-data rules.",
+      "speakLineZh": "醜聞給了開放資料規則動力。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "petition",
+      "inVocab": true,
+      "senseAnchor": "請願；正式請求",
+      "roleInScript": "呈請書",
+      "humorDevice": "morphology",
+      "zhGloss": "請願；正式請求",
+      "speakLineEn": "Petition journals for data policies.",
+      "speakLineZh": "向期刊請願要資料政策。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "compete",
+      "inVocab": true,
+      "senseAnchor": "競爭",
+      "roleInScript": "互相衝第一",
+      "humorDevice": "morphology",
+      "zhGloss": "競爭",
+      "speakLineEn": "Labs compete on speed; science needs care.",
+      "speakLineZh": "實驗室比速度；科學需要謹慎。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "centripetal",
+      "inVocab": true,
+      "senseAnchor": "tending to move toward a center; tending to unify",
+      "roleInScript": "往中心衝",
+      "humorDevice": "morphology",
+      "zhGloss": "向心的",
+      "speakLineEn": "Centripetal incentives can unify standards.",
+      "speakLineZh": "向心力誘因可統一標準。",
+      "related": {
+        "synonyms": "unifying, receptive, sensory",
+        "antonyms": "centrifugal"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "appetite",
+      "inVocab": false,
+      "senseAnchor": "食慾；慾望",
+      "roleInScript": "慾望衝鋒",
+      "humorDevice": "morphology",
+      "zhGloss": "食慾；慾望",
+      "speakLineEn": "An appetite for novelty crowds replication.",
+      "speakLineZh": "嗜新慾望排擠複現。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "perpetual",
+      "inVocab": true,
+      "senseAnchor": "continuing forever",
+      "roleInScript": "衝個不停",
+      "humorDevice": "morphology",
+      "zhGloss": "永久的；不斷的",
+      "speakLineEn": "Perpetual revision without release helps no one.",
+      "speakLineZh": "永不發布的永久修改幫不了人。",
+      "related": {
+        "synonyms": "eternal, immortal, everlasting",
+        "antonyms": "temporary, fleeting, mortal"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "petulant",
+      "inVocab": true,
+      "senseAnchor": "easily irritated or annoyed",
+      "roleInScript": "衝完耍脾氣",
+      "humorDevice": "morphology",
+      "zhGloss": "暴躁任性的",
+      "speakLineEn": "Petulant replies to reviewers backfire.",
+      "speakLineZh": "對審稿人暴躁回覆會反噬。",
+      "related": {
+        "synonyms": "cranky, fractious, irritable, nettlesome, peevish, peckish",
+        "antonyms": "agreeable, docile"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "competition",
+      "inVocab": true,
+      "senseAnchor": "競爭",
+      "roleInScript": "衝刺賽",
+      "humorDevice": "story",
+      "zhGloss": "競爭",
+      "speakLineEn": "Healthy competition shares tools.",
+      "speakLineZh": "健康競爭分享工具。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "repeat",
+      "inVocab": true,
+      "senseAnchor": "重複",
+      "roleInScript": "一再衝",
+      "humorDevice": "story",
+      "zhGloss": "重複",
+      "speakLineEn": "Do not repeat the same silent fork.",
+      "speakLineZh": "不要重複同一沉默分叉。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "petitionary",
+      "inVocab": true,
+      "senseAnchor": "請願的",
+      "roleInScript": "呈請語氣",
+      "humorDevice": "story",
+      "zhGloss": "請願的",
+      "speakLineEn": "Keep petitionary emails specific.",
+      "speakLineZh": "請願郵件要具體。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "impetus check",
+      "inVocab": false,
+      "senseAnchor": "動力檢查",
+      "roleInScript": "衝前煞車",
+      "humorDevice": "story",
+      "zhGloss": "動力檢查",
+      "speakLineEn": "Run an impetus check: why rush?",
+      "speakLineZh": "做動力檢查：為何急？",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "pet＝衝求：impetuous/impetus/petition/compete/centripetal/petulant",
+    "impetuous＝衝動"
+  ],
+  "pitfalls": [
+    "impetuous＝衝動的；impetus＝動力／契機",
+    "petulant＝暴躁任性"
+  ],
+  "lessonRefs": [
+    "lesson-root-pet-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch01"
+  }
+}

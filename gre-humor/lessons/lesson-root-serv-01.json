@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-serv-01",
+  "slug": "root-serv-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-serv-01",
+  "titleZh": "serv｜侍守服務站",
+  "titleEn": "Serv Service Station",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 serv＝侍、守——服務站專管保存、觀察、應得與順服。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "conserve／preserve 把油存好。observe／observation／observant 觀察加油燈。deserve 應得幾格油；subservient 過度順服客人。service／servant／reservation：服務、侍者、預約保留——站長：observe 資料，preserve 原始檔，別 subservient 到不敢報錯。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "serv＝守：conserve/preserve/observe/deserve/subservient",
+        "subservient＝屈從的"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Keep safe from harm/decay:",
+      "promptZh": "保存：",
+      "choices": [
+        "preserve",
+        "impede",
+        "arrogate",
+        "ridicule"
+      ],
+      "answer": "preserve"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Excessively obedient; servile:",
+      "promptZh": "屈從：",
+      "choices": [
+        "subservient",
+        "optimum",
+        "pugnacious",
+        "nascent"
+      ],
+      "answer": "subservient"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Be worthy of:",
+      "promptZh": "應得：",
+      "choices": [
+        "deserve",
+        "telescope",
+        "impute",
+        "abrogate"
+      ],
+      "answer": "deserve"
+    }
+  ],
+  "pitfalls": [
+    "conserve≈preserve 略有分工：保育／保存",
+    "deserve＝應得"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch02"
+  }
+}

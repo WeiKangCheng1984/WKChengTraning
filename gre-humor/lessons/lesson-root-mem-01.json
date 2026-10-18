@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-mem-01",
+  "slug": "root-mem-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-mem-01",
+  "titleZh": "mem｜記憶紀念品櫃",
+  "titleEn": "Mem Souvenir Locker",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 mem＝記——櫃門一開：回憶、紀念、備忘錄全掉出來。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "memoir 寫自己的記憶影集；memorable 值得放進櫃。commemorate 公開紀念；memento 小紀念品。immemorial 久到記不起起點；memorabilia 粉絲週邊山。memorandum 辦公室備忘；memorial 紀念碑；mnemonic 記憶口訣貼紙——櫃員說：記得住≠記得對。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "mem＝記：memoir/memorable/commemorate/memento/immemorial/mnemonic",
+        "immemorial＝遠古難記"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Souvenir; reminder object:",
+      "promptZh": "紀念品：",
+      "choices": [
+        "memento",
+        "memoir",
+        "regime",
+        "probe"
+      ],
+      "answer": "memento"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Extending beyond memory; ancient:",
+      "promptZh": "遠古難記：",
+      "choices": [
+        "immemorial",
+        "memorable",
+        "mediate",
+        "liberal"
+      ],
+      "answer": "immemorial"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Memory aid:",
+      "promptZh": "助記：",
+      "choices": [
+        "mnemonic",
+        "memorabilia",
+        "philharmonic",
+        "impugn"
+      ],
+      "answer": "mnemonic"
+    }
+  ],
+  "pitfalls": [
+    "memento＝紀念品；momentum＝動量（別混）",
+    "mnemonic＝助記的"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch01"
+  }
+}

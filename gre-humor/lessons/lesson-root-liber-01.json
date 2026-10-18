@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-liber-01",
+  "slug": "root-liber-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-liber-01",
+  "titleZh": "liber｜解放檢查哨",
+  "titleEn": "Liber Checkpoint",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 liber＝自由——檢查哨問：你是真自由，還是浪子自由？"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "liberate 放人出關；liberty 自由通行證。liberal 寬鬆放行，illiberal 關到更緊。libertine 把自由用成放蕩通行證；libertarian 理論上最小干預。liberalize 法規鬆綁；deliverance 被救出關的劇情——哨兵提醒：自由≠零責任。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "liber＝自由：liberate/liberty/liberal/illiberal/libertine",
+        "libertine＝放蕩者"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Morally unrestrained person:",
+      "promptZh": "放蕩者：",
+      "choices": [
+        "libertine",
+        "liberal",
+        "regent",
+        "probe"
+      ],
+      "answer": "libertine"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Not liberal; narrow/authoritarian:",
+      "promptZh": "狹隘／反自由：",
+      "choices": [
+        "illiberal",
+        "liberate",
+        "philately",
+        "euphony"
+      ],
+      "answer": "illiberal"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Set free:",
+      "promptZh": "解放：",
+      "choices": [
+        "liberate",
+        "impugn",
+        "deride",
+        "submerge"
+      ],
+      "answer": "liberate"
+    }
+  ],
+  "pitfalls": [
+    "liberal 政治義 vs 慷慨／寬鬆義看語境",
+    "libertine 偏道德放縱"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch01"
+  }
+}

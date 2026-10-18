@@ -1,0 +1,217 @@
+{
+  "id": "root-viv-01",
+  "type": "root",
+  "elementLemma": "viv/vit",
+  "titleZh": "viv｜活力維生站",
+  "titleEn": "Viv Vital Station",
+  "hook": "字根 viv/vit＝活——維生站專管活力、生還、生動與維生素梗。",
+  "script": "vivid 畫面活跳。survive／survival／survivor 活過關卡。revive 急救回魂；vital／vitality 要命的重要與活力。vivacious 活潑店員——站長：vital 限制要寫；vivid 例子幫忙；survive 複現戰。",
+  "members": [
+    {
+      "headword": "vivid",
+      "inVocab": true,
+      "senseAnchor": "生動的；鮮明的",
+      "roleInScript": "畫面活跳",
+      "humorDevice": "morphology",
+      "zhGloss": "生動的；鮮明的",
+      "speakLineEn": "Use vivid examples without overselling.",
+      "speakLineZh": "用生動例子但不過度銷售。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "survive",
+      "inVocab": false,
+      "senseAnchor": "存活；倖存",
+      "roleInScript": "活過關",
+      "humorDevice": "morphology",
+      "zhGloss": "存活；倖存",
+      "speakLineEn": "Only transparent projects survive audits.",
+      "speakLineZh": "只有透明專案撐過稽核。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "survival",
+      "inVocab": false,
+      "senseAnchor": "生存；存活率",
+      "roleInScript": "存活度量",
+      "humorDevice": "morphology",
+      "zhGloss": "生存；存活率",
+      "speakLineEn": "Report survival of findings under reanalysis.",
+      "speakLineZh": "報告發現在再分析下的存活。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "survivor",
+      "inVocab": false,
+      "senseAnchor": "倖存者",
+      "roleInScript": "過關的人",
+      "humorDevice": "morphology",
+      "zhGloss": "倖存者",
+      "speakLineEn": "Treat retracted papers as teaching survivors.",
+      "speakLineZh": "把撤稿當教學倖存者。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "revive",
+      "inVocab": true,
+      "senseAnchor": "cause to regain consciousness; give new life or energy to",
+      "roleInScript": "急救回魂",
+      "humorDevice": "morphology",
+      "zhGloss": "復活；重振",
+      "speakLineEn": "Revive abandoned protocols with care.",
+      "speakLineZh": "謹慎重振被棄規程。",
+      "related": {
+        "synonyms": "resuscitate, animate, recreate, reanimate, renovate, repair",
+        "antonyms": "deaden, inanimate, insentient, dishearten, break"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "vital",
+      "inVocab": true,
+      "senseAnchor": "極其重要的；生命的",
+      "roleInScript": "要命重要",
+      "humorDevice": "morphology",
+      "zhGloss": "極其重要的；生命的",
+      "speakLineEn": "Vital assumptions belong up front.",
+      "speakLineZh": "要命假設放最前面。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "vitality",
+      "inVocab": false,
+      "senseAnchor": "an energetic style; a healthy capacity for vigorous activity",
+      "roleInScript": "能量條",
+      "humorDevice": "morphology",
+      "zhGloss": "活力",
+      "speakLineEn": "Open critique keeps a field's vitality.",
+      "speakLineZh": "開放批評保持領域活力。",
+      "related": {
+        "synonyms": "verve, energy, vim, animation",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "vivacious",
+      "inVocab": false,
+      "senseAnchor": "vigorous and animated",
+      "roleInScript": "活潑店員",
+      "humorDevice": "morphology",
+      "zhGloss": "活潑的",
+      "speakLineEn": "Vivacious talks still need sober slides.",
+      "speakLineZh": "活潑演講仍需清醒投影片。",
+      "related": {
+        "synonyms": "vibrant",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "vitamin",
+      "inVocab": false,
+      "senseAnchor": "維生素",
+      "roleInScript": "活字梗",
+      "humorDevice": "story",
+      "zhGloss": "維生素",
+      "speakLineEn": "Think of checklists as vitamins for methods.",
+      "speakLineZh": "把檢核表當方法維生素。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "revive debate",
+      "inVocab": false,
+      "senseAnchor": "重啟辯論",
+      "roleInScript": "回魂討論",
+      "humorDevice": "story",
+      "zhGloss": "重啟辯論",
+      "speakLineEn": "Revive debate on estimands yearly.",
+      "speakLineZh": "每年重啟目標量辯論。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "alive",
+      "inVocab": false,
+      "senseAnchor": "活的",
+      "roleInScript": "還在跳",
+      "humorDevice": "story",
+      "zhGloss": "活的",
+      "speakLineEn": "Keep documentation alive with versions.",
+      "speakLineZh": "用版本讓文件保持活。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "lifeline",
+      "inVocab": false,
+      "senseAnchor": "生命線",
+      "roleInScript": "維生繩",
+      "humorDevice": "story",
+      "zhGloss": "生命線",
+      "speakLineEn": "Shared code is a replication lifeline.",
+      "speakLineZh": "共享程式碼是複現生命線。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "viv＝活：vivid/survive/revive/vital/vitality/vivacious",
+    "vital＝極其重要／生命的"
+  ],
+  "pitfalls": [
+    "vivid＝生動鮮明",
+    "revive＝使復活／重振"
+  ],
+  "lessonRefs": [
+    "lesson-root-viv-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch02"
+  }
+}

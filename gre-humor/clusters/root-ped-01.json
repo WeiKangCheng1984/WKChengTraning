@@ -1,0 +1,217 @@
+{
+  "id": "root-ped-01",
+  "type": "root",
+  "elementLemma": "ped/pod",
+  "titleZh": "ped｜腳步實驗室",
+  "titleEn": "Ped Foot Lab",
+  "hook": "字根 ped/pod＝腳——實驗室專管腳步、障礙與兒童科雙關（ped- 也＝兒童）。",
+  "script": "pedestrian 用腳走的平凡路。expedite 讓腳步加速放行；impede／impediment 絆腳石。pedestal 踮腳站的座；centipede／tripod 多腳怪與三腳架——教官：expedite 審核可以，impede 共享不行；pedestrian 寫作有時是美德。",
+  "members": [
+    {
+      "headword": "pedestrian",
+      "inVocab": true,
+      "senseAnchor": "causing weariness, restlessness, or lack of interest",
+      "roleInScript": "用腳走的平凡",
+      "humorDevice": "morphology",
+      "zhGloss": "行人；平淡的",
+      "speakLineEn": "Pedestrian clarity beats ornate fog.",
+      "speakLineZh": "平淡清晰勝過華麗迷霧。",
+      "related": {
+        "synonyms": "dreary, jejune, monotonous, tedious, tedious, prosaic",
+        "antonyms": "poetic, imaginative"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "expedite",
+      "inVocab": false,
+      "senseAnchor": "加速；催辦",
+      "roleInScript": "腳步加速放行",
+      "humorDevice": "morphology",
+      "zhGloss": "加速；催辦",
+      "speakLineEn": "Expedite corrections, not hype.",
+      "speakLineZh": "加速勘誤，不是炒作。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "impede",
+      "inVocab": true,
+      "senseAnchor": "妨礙；阻礙",
+      "roleInScript": "絆腳",
+      "humorDevice": "morphology",
+      "zhGloss": "妨礙；阻礙",
+      "speakLineEn": "Paywalls impede cumulative science.",
+      "speakLineZh": "付費牆妨礙累積科學。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "impediment",
+      "inVocab": true,
+      "senseAnchor": "障礙；口吃（語障）",
+      "roleInScript": "絆腳石",
+      "humorDevice": "morphology",
+      "zhGloss": "障礙；口吃（語障）",
+      "speakLineEn": "Missing consent is an impediment to publish.",
+      "speakLineZh": "缺同意是發表障礙。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "pedestal",
+      "inVocab": false,
+      "senseAnchor": "a support or foundation; a position of great esteem (and supposed superiority)",
+      "roleInScript": "踮腳座",
+      "humorDevice": "morphology",
+      "zhGloss": "基座；高台",
+      "speakLineEn": "Do not put celebrities on a methods pedestal.",
+      "speakLineZh": "不要把名人放上方法基座。",
+      "related": {
+        "synonyms": "base, stand, plinth, footstall",
+        "antonyms": "lie, sit, yield"
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "centipede",
+      "inVocab": false,
+      "senseAnchor": "蜈蚣",
+      "roleInScript": "多腳怪彩蛋",
+      "humorDevice": "story",
+      "zhGloss": "蜈蚣",
+      "speakLineEn": "A centipede of covariates needs justification.",
+      "speakLineZh": "共變項蜈蚣需要理由。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "tripod",
+      "inVocab": false,
+      "senseAnchor": "三腳架",
+      "roleInScript": "三隻腳",
+      "humorDevice": "story",
+      "zhGloss": "三腳架",
+      "speakLineEn": "A tripod of prereg, code, and data stabilizes claims.",
+      "speakLineZh": "預註冊／程式碼／資料三腳架穩定主張。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "pedal",
+      "inVocab": false,
+      "senseAnchor": "踏板",
+      "roleInScript": "踩腳",
+      "humorDevice": "story",
+      "zhGloss": "踏板",
+      "speakLineEn": "Pedal back from overclaim quietly—then loudly correct.",
+      "speakLineZh": "從過度宣稱踩煞車——然後大聲勘誤。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "expedition",
+      "inVocab": false,
+      "senseAnchor": "遠征",
+      "roleInScript": "長途腳程",
+      "humorDevice": "story",
+      "zhGloss": "遠征",
+      "speakLineEn": "Treat fieldwork like an expedition with logs.",
+      "speakLineZh": "田野像遠征，要有日誌。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "biped",
+      "inVocab": false,
+      "senseAnchor": "兩足動物",
+      "roleInScript": "兩隻腳",
+      "humorDevice": "story",
+      "zhGloss": "兩足動物",
+      "speakLineEn": "Even bipeds trip without checklists.",
+      "speakLineZh": "沒有檢核表兩足也會絆倒。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "podium",
+      "inVocab": false,
+      "senseAnchor": "a platform raised above the surrounding level to give prominence to the person on it",
+      "roleInScript": "站腳處",
+      "humorDevice": "story",
+      "zhGloss": "頒獎台",
+      "speakLineEn": "The podium belongs to evidence, not vibes.",
+      "speakLineZh": "頒獎台屬於證據不是感覺。",
+      "related": {
+        "synonyms": "dais, pulpit, rostrum, ambo, stump, soapbox",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "footprint",
+      "inVocab": false,
+      "senseAnchor": "足跡",
+      "roleInScript": "腳印",
+      "humorDevice": "story",
+      "zhGloss": "足跡",
+      "speakLineEn": "Minimize the privacy footprint of raw files.",
+      "speakLineZh": "最小化原始檔隱私足跡。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "ped＝腳：pedestrian/expedite/impede/impediment/pedestal",
+    "impede＝妨礙"
+  ],
+  "pitfalls": [
+    "pedestrian 可＝行人／平淡無奇",
+    "expedite＝加速辦理"
+  ],
+  "lessonRefs": [
+    "lesson-root-ped-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch02"
+  }
+}

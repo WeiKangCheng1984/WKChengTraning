@@ -1,0 +1,208 @@
+{
+  "id": "root-mem-01",
+  "type": "root",
+  "elementLemma": "mem",
+  "titleZh": "mem｜記憶紀念品櫃",
+  "titleEn": "Mem Souvenir Locker",
+  "hook": "字根 mem＝記——櫃門一開：回憶、紀念、備忘錄全掉出來。",
+  "script": "memoir 寫自己的記憶影集；memorable 值得放進櫃。commemorate 公開紀念；memento 小紀念品。immemorial 久到記不起起點；memorabilia 粉絲週邊山。memorandum 辦公室備忘；memorial 紀念碑；mnemonic 記憶口訣貼紙——櫃員說：記得住≠記得對。",
+  "members": [
+    {
+      "headword": "memoir",
+      "inVocab": true,
+      "senseAnchor": "回憶錄",
+      "roleInScript": "記憶影集",
+      "humorDevice": "morphology",
+      "zhGloss": "回憶錄",
+      "speakLineEn": "A methods memoir should admit dead ends.",
+      "speakLineZh": "方法回憶錄應承認死路。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "memorable",
+      "inVocab": true,
+      "senseAnchor": "難忘的",
+      "roleInScript": "值得入櫃",
+      "humorDevice": "morphology",
+      "zhGloss": "難忘的",
+      "speakLineEn": "A memorable figure still needs a caption.",
+      "speakLineZh": "難忘的圖仍需圖說。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "commemorate",
+      "inVocab": true,
+      "senseAnchor": "紀念",
+      "roleInScript": "公開紀念儀式",
+      "humorDevice": "morphology",
+      "zhGloss": "紀念",
+      "speakLineEn": "Commemorate failed trials that taught design.",
+      "speakLineZh": "紀念教會設計的失敗試驗。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "memento",
+      "inVocab": true,
+      "senseAnchor": "紀念品",
+      "roleInScript": "小吊飾",
+      "humorDevice": "morphology",
+      "zhGloss": "紀念品",
+      "speakLineEn": "Keep a memento of the first successful audit.",
+      "speakLineZh": "留一件首次成功稽核的小紀念。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "immemorial",
+      "inVocab": true,
+      "senseAnchor": "long past; beyond the limits of memory or tradition or recorded history",
+      "roleInScript": "久到沒起點",
+      "humorDevice": "morphology",
+      "zhGloss": "遠古的；無法追憶的",
+      "speakLineEn": "From time immemorial, labs hoarded notebooks—stop.",
+      "speakLineZh": "自古以來實驗室囤筆記本——該停。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "memorabilia",
+      "inVocab": true,
+      "senseAnchor": "紀念收藏品",
+      "roleInScript": "週邊山",
+      "humorDevice": "morphology",
+      "zhGloss": "紀念收藏品",
+      "speakLineEn": "Conference memorabilia is not a CV method.",
+      "speakLineZh": "會議週邊不是履歷上的方法。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "memorandum",
+      "inVocab": true,
+      "senseAnchor": "備忘錄",
+      "roleInScript": "辦公室紙條",
+      "humorDevice": "morphology",
+      "zhGloss": "備忘錄",
+      "speakLineEn": "File a memorandum of every protocol change.",
+      "speakLineZh": "每次規程變更都備忘。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "memorial",
+      "inVocab": true,
+      "senseAnchor": "紀念碑；追悼的",
+      "roleInScript": "石頭記憶",
+      "humorDevice": "morphology",
+      "zhGloss": "紀念碑；追悼的",
+      "speakLineEn": "A digital memorial of retracted claims educates.",
+      "speakLineZh": "撤稿主張的數位紀念碑能教育。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "mnemonic",
+      "inVocab": true,
+      "senseAnchor": "助記的；口訣",
+      "roleInScript": "貼紙口訣",
+      "humorDevice": "morphology",
+      "zhGloss": "助記的；口訣",
+      "speakLineEn": "A mnemonic helps; a checklist verifies.",
+      "speakLineZh": "口訣幫忙；檢核表驗證。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "remember",
+      "inVocab": true,
+      "senseAnchor": "記得",
+      "roleInScript": "從櫃取出",
+      "humorDevice": "story",
+      "zhGloss": "記得",
+      "speakLineEn": "Remember to report exclusions.",
+      "speakLineZh": "記得報告排除。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "memory",
+      "inVocab": true,
+      "senseAnchor": "記憶",
+      "roleInScript": "櫃的容量",
+      "humorDevice": "story",
+      "zhGloss": "記憶",
+      "speakLineEn": "Institutional memory needs version control.",
+      "speakLineZh": "機構記憶需要版本控管。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "memo",
+      "inVocab": true,
+      "senseAnchor": "便條；備忘",
+      "roleInScript": "短訊記憶",
+      "humorDevice": "story",
+      "zhGloss": "便條；備忘",
+      "speakLineEn": "A one-line memo cannot replace prereg.",
+      "speakLineZh": "一行便條不能取代預註冊。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    }
+  ],
+  "reviewHooks": [
+    "mem＝記：memoir/memorable/commemorate/memento/immemorial/mnemonic",
+    "immemorial＝遠古難記"
+  ],
+  "pitfalls": [
+    "memento＝紀念品；momentum＝動量（別混）",
+    "mnemonic＝助記的"
+  ],
+  "lessonRefs": [
+    "lesson-root-mem-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch01"
+  }
+}

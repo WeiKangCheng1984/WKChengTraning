@@ -21,7 +21,8 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "procure",
@@ -36,7 +37,8 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "proponent",
@@ -51,7 +53,8 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "proclivity",
@@ -66,11 +69,12 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "prodigal",
-      "inVocab": true,
+      "inVocab": false,
       "senseAnchor": "a recklessly extravagant consumer; recklessly wasteful",
       "roleInScript": "向前灑",
       "humorDevice": "morphology",
@@ -81,11 +85,12 @@
         "synonyms": "profligate, squanderer, extravagant, spendthrift",
         "antonyms": "frugal, thrifty"
       },
-      "vocabStatus": "in-vocab"
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "prosaic",
-      "inVocab": true,
+      "inVocab": false,
       "senseAnchor": "common and dull",
       "roleInScript": "日常往前",
       "humorDevice": "morphology",
@@ -96,11 +101,12 @@
         "synonyms": "mundane, commonplace, routine",
         "antonyms": "poetic, imaginative, extraordinary, unusual"
       },
-      "vocabStatus": "in-vocab"
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "protagonist",
-      "inVocab": true,
+      "inVocab": false,
       "senseAnchor": "a person who backs a politician or a team etc.; the principal character in a work of fiction",
       "roleInScript": "前方人物",
       "humorDevice": "morphology",
@@ -111,7 +117,8 @@
         "synonyms": "supporter, champion, admirer, booster, friend, agonist",
         "antonyms": "antagonist, opponent"
       },
-      "vocabStatus": "in-vocab"
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "procedural",
@@ -126,7 +133,8 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     }
   ],
   "reviewHooks": [

@@ -1,0 +1,186 @@
+{
+  "id": "root-soph-01",
+  "type": "root",
+  "elementLemma": "soph",
+  "titleZh": "soph｜智巧辯論社",
+  "titleEn": "Soph Debate Club",
+  "hook": "字根 soph＝智——辯論社專管真智慧與狡辯智慧。",
+  "script": "philosophy 愛智社長（他族也有）。sophisticated 老練精巧；sophomore 半吊子二年級。sophistry／sophist 把智慧用成狡辯。unsophisticated 樸拙——導師：sophisticated 方法可以，sophistry 零分。",
+  "members": [
+    {
+      "headword": "sophistry",
+      "inVocab": true,
+      "senseAnchor": "詭辯",
+      "roleInScript": "狡辯智慧",
+      "humorDevice": "morphology",
+      "zhGloss": "詭辯",
+      "speakLineEn": "Sophistry about p-hacking fools no auditor.",
+      "speakLineZh": "關於 p 操弄的詭辯騙不了稽核。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "sophist",
+      "inVocab": true,
+      "senseAnchor": "any of a group of Greek philosophers and teachers in the 5th century BC who speculated on a wide range of subjects; someone whose reasoning is subtle and often specious",
+      "roleInScript": "職業狡辯",
+      "humorDevice": "morphology",
+      "zhGloss": "詭辯家",
+      "speakLineEn": "Don't hire a sophist to write the cover letter.",
+      "speakLineZh": "別請詭辯家寫投稿信。",
+      "related": {
+        "synonyms": "casuist",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "sophomore",
+      "inVocab": false,
+      "senseAnchor": "二年級生；半吊子",
+      "roleInScript": "半熟辯手",
+      "humorDevice": "morphology",
+      "zhGloss": "二年級生；半吊子",
+      "speakLineEn": "Sophomore overconfidence skips power analysis.",
+      "speakLineZh": "半吊子過度自信跳過檢定力。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "unsophisticated",
+      "inVocab": false,
+      "senseAnchor": "不世故的；簡單的",
+      "roleInScript": "樸拙",
+      "humorDevice": "morphology",
+      "zhGloss": "不世故的；簡單的",
+      "speakLineEn": "Unsophisticated honesty beats clever fog.",
+      "speakLineZh": "樸拙誠實勝過聰明迷霧。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "sophistication",
+      "inVocab": false,
+      "senseAnchor": "精巧度；世故",
+      "roleInScript": "精巧値",
+      "humorDevice": "story",
+      "zhGloss": "精巧度；世故",
+      "speakLineEn": "Methodological sophistication without ethics is brittle.",
+      "speakLineZh": "無倫理的方法精巧很脆。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "philosophy club",
+      "inVocab": false,
+      "senseAnchor": "哲學社",
+      "roleInScript": "愛智鄰居",
+      "humorDevice": "story",
+      "zhGloss": "哲學社",
+      "speakLineEn": "Keep a philosophy club for estimands.",
+      "speakLineZh": "為目標量開哲學社。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "wise",
+      "inVocab": false,
+      "senseAnchor": "有智慧的",
+      "roleInScript": "真智",
+      "humorDevice": "story",
+      "zhGloss": "有智慧的",
+      "speakLineEn": "Wise teams pre-register.",
+      "speakLineZh": "有智慧的團隊預註冊。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "clever",
+      "inVocab": false,
+      "senseAnchor": "聰明的",
+      "roleInScript": "小聰明",
+      "humorDevice": "story",
+      "zhGloss": "聰明的",
+      "speakLineEn": "Clever tricks are not identification.",
+      "speakLineZh": "小聰明不是識別。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "fallacy",
+      "inVocab": false,
+      "senseAnchor": "a wrong belief",
+      "roleInScript": "辯論犯規",
+      "humorDevice": "story",
+      "zhGloss": "謬誤",
+      "speakLineEn": "Name the fallacy in the causal leap.",
+      "speakLineZh": "點名因果跳躍的謬誤。",
+      "related": {
+        "synonyms": "erroneousness, falsehood, myth",
+        "antonyms": "truth"
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "rhetoric",
+      "inVocab": false,
+      "senseAnchor": "using language effectively to please or persuade; high-flown style; excessive use of verbal ornamentation",
+      "roleInScript": "辯論包裝",
+      "humorDevice": "story",
+      "zhGloss": "修辭",
+      "speakLineEn": "Rhetoric cannot replace robustness.",
+      "speakLineZh": "修辭不能取代穩健。",
+      "related": {
+        "synonyms": "grandiosity, magniloquence, ornateness, grandiloquence, palaver",
+        "antonyms": "plain speech"
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "soph＝智：sophisticated/sophistry/sophist/sophomore",
+    "sophistry＝詭辯"
+  ],
+  "pitfalls": [
+    "sophisticated＝老練／複雜精巧",
+    "sophistry＝似是而非的詭辯"
+  ],
+  "lessonRefs": [
+    "lesson-root-soph-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch02"
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "id": "root-morph-01",
+  "type": "root",
+  "elementLemma": "morph",
+  "titleZh": "morph｜變形變裝秀",
+  "titleEn": "Morph Costume Show",
+  "hook": "字根 morph＝形——舞台燈光一轉，形狀整容直播。",
+  "script": "amorphous 還沒定妝，一團糊。metamorphosis 整隻蝴蝶級變身；morph 動詞瞬變。anthropomorphic 把資料擬人成會說話的角色；polymorphous／isomorphic 多形或同形對照。morphology 專管字形／形態學——主持人警告：變裝可以，偷換結局變項不行。",
+  "members": [
+    {
+      "headword": "amorphous",
+      "inVocab": true,
+      "senseAnchor": "having no definite form",
+      "roleInScript": "還沒定妝",
+      "humorDevice": "morphology",
+      "zhGloss": "無定形的",
+      "speakLineEn": "An amorphous hypothesis cannot be tested.",
+      "speakLineZh": "無定形假說無法檢驗。",
+      "related": {
+        "synonyms": "shapeless",
+        "antonyms": "structured, definite"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "metamorphosis",
+      "inVocab": true,
+      "senseAnchor": "蛻變；變形",
+      "roleInScript": "蝴蝶級變身",
+      "humorDevice": "morphology",
+      "zhGloss": "蛻變；變形",
+      "speakLineEn": "The field's metamorphosis toward open methods is slow.",
+      "speakLineZh": "領域朝開放方法的蛻變很慢。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "morph",
+      "inVocab": true,
+      "senseAnchor": "變形；形態",
+      "roleInScript": "瞬變按鈕",
+      "humorDevice": "morphology",
+      "zhGloss": "變形；形態",
+      "speakLineEn": "Do not morph outcomes after seeing results.",
+      "speakLineZh": "看到結果後不要瞬變結局變項。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "anthropomorphic",
+      "inVocab": true,
+      "senseAnchor": "擬人的",
+      "roleInScript": "資料會說話角色",
+      "humorDevice": "morphology",
+      "zhGloss": "擬人的",
+      "speakLineEn": "Avoid anthropomorphic claims about algorithms' 'intent'.",
+      "speakLineZh": "避免說演算法有「意圖」的擬人主張。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "polymorphous",
+      "inVocab": true,
+      "senseAnchor": "多形的",
+      "roleInScript": "多套戲服",
+      "humorDevice": "morphology",
+      "zhGloss": "多形的",
+      "speakLineEn": "Polymorphous constructs need clear operationalization.",
+      "speakLineZh": "多形構念需要清楚操作化。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "isomorphic",
+      "inVocab": true,
+      "senseAnchor": "同構的；同形的",
+      "roleInScript": "同款剪裁",
+      "humorDevice": "morphology",
+      "zhGloss": "同構的；同形的",
+      "speakLineEn": "Isomorphic models still differ in assumptions.",
+      "speakLineZh": "同構模型假設仍可能不同。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "morphology",
+      "inVocab": true,
+      "senseAnchor": "形態學；構詞學",
+      "roleInScript": "形狀規則本",
+      "humorDevice": "morphology",
+      "zhGloss": "形態學；構詞學",
+      "speakLineEn": "Morphology of words aids humor mnemonics.",
+      "speakLineZh": "構詞形態學幫助幽默記憶。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "metamorphic",
+      "inVocab": true,
+      "senseAnchor": "變質的；變形的",
+      "roleInScript": "搖滾變質（地質梗）",
+      "humorDevice": "story",
+      "zhGloss": "變質的；變形的",
+      "speakLineEn": "Metamorphic change in norms needs leadership.",
+      "speakLineZh": "規範的變質式改變需要領導。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "morphing",
+      "inVocab": true,
+      "senseAnchor": "變形中",
+      "roleInScript": "直播變臉",
+      "humorDevice": "story",
+      "zhGloss": "變形中",
+      "speakLineEn": "Silent morphing of code is misconduct-adjacent.",
+      "speakLineZh": "沉默變臉改碼近乎不端。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "shapeless",
+      "inVocab": true,
+      "senseAnchor": "無形的",
+      "roleInScript": "沒輪廓",
+      "humorDevice": "story",
+      "zhGloss": "無形的",
+      "speakLineEn": "Shapeless aims produce shapeless papers.",
+      "speakLineZh": "無形目標產出無形論文。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "formless",
+      "inVocab": true,
+      "senseAnchor": "無形式的",
+      "roleInScript": "空殼舞台",
+      "humorDevice": "story",
+      "zhGloss": "無形式的",
+      "speakLineEn": "Formless 'innovation' talk skips measurement.",
+      "speakLineZh": "無形式「創新」空談跳過測量。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "transformer",
+      "inVocab": true,
+      "senseAnchor": "變形金剛／轉換器",
+      "roleInScript": "玩具梗彩蛋",
+      "humorDevice": "story",
+      "zhGloss": "變形金剛／轉換器",
+      "speakLineEn": "Be a transformer of habits, not of p-values.",
+      "speakLineZh": "做習慣變形者，不是 p 值變形者。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    }
+  ],
+  "reviewHooks": [
+    "morph＝形：amorphous/metamorphosis/anthropomorphic/morphology",
+    "amorphous＝無定形"
+  ],
+  "pitfalls": [
+    "anthropomorphic＝擬人的",
+    "metamorphosis＝徹底變形"
+  ],
+  "lessonRefs": [
+    "lesson-root-morph-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch01"
+  }
+}

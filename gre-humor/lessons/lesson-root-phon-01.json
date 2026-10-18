@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-phon-01",
+  "slug": "root-phon-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-phon-01",
+  "titleZh": "phon｜聲響控制室",
+  "titleEn": "Phon Sound Booth",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 phon＝聲——控制室推桿：好聽、難聽、假聲、真聲。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "euphony 調成悅耳；cacophony 調成災難演唱會。symphony 多聲部合奏；phonetic 按發音標記。homophone 同音撞名事故；megaphone／microphone／telephone 把聲音放大、接收、遠傳。phonology 管語音規則——工程師說：寫作要 euphony，會議別 cacophony。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "phon＝聲：euphony/cacophony/symphony/phonetic/homophone",
+        "cacophony＝刺耳嘈雜"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "lookalike",
+      "promptEn": "Pleasant sound vs harsh noise:",
+      "promptZh": "悅耳 vs 刺耳：",
+      "choices": [
+        "euphony / cacophony",
+        "cacophony / euphony",
+        "symphony / phonetic",
+        "homophone / megaphone"
+      ],
+      "answer": "euphony / cacophony"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Words that sound alike:",
+      "promptZh": "同音異義：",
+      "choices": [
+        "homophone",
+        "rectitude",
+        "impetus",
+        "memento"
+      ],
+      "answer": "homophone"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Related to speech sounds:",
+      "promptZh": "語音的：",
+      "choices": [
+        "phonetic",
+        "mediocre",
+        "liberal",
+        "amorphous"
+      ],
+      "answer": "phonetic"
+    }
+  ],
+  "pitfalls": [
+    "euphony↔cacophony 成對記",
+    "homophone＝同音異義"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch01"
+  }
+}
