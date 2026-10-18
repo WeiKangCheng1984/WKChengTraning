@@ -46,10 +46,9 @@ export default function CoachIndexPage() {
           AI 口語陪練 60 堂
         </h1>
         <p className="mt-2 max-w-2xl text-sm text-[var(--muted)]">
-          每堂 15–20
-          分：把系統提示與模組卡貼到外部 AI，先自然對話，再輸入{" "}
-          <code className="text-[var(--ink)]">FEEDBACK</code>{" "}
-          取得繁中檢討。素材來自站內風格句、會話、句型與 F1 跟讀。
+          每堂 15–20 分對話模擬：開場→話題→句詞練習（AI 即時修潤）→你問五題→AI
+          問你三題→觀點比較→結論收尾。主題涵蓋生活美食、職場、不動產、CFA、F1
+          等站內資料庫。
         </p>
         <p className="mt-2 text-sm text-[var(--ink)]">
           進度 <strong>{stats.done}</strong> / {stats.total} 堂

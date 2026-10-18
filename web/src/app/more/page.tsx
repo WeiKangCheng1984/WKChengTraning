@@ -113,7 +113,7 @@ const links: Array<{
   {
     href: "/english/coach",
     title: "AI 口語陪練 60 堂",
-    body: "模組卡＋教練提示 · 外部 AI 對話練習。",
+    body: "15–20 分模擬對話稿 · 生活／職場／CFA／房產／F1。",
     icon: "mic",
   },
   {

@@ -1,42 +1,24 @@
-/** Shared system prompt for AI conversation coach sessions. */
+/** Shared system prompt + module card helpers for AI conversation coach. */
 
-export const COACH_SYSTEM_PROMPT = `# Role & Objective
-You are my personal, professional American English speaking coach. We are running structured 15-to-20-minute spoken practice sessions based on my curated database modules.
-Your goal is to build my active vocabulary, refine my sentence structures, and eliminate Chinglish through natural conversation followed by rigorous, structured feedback.
+export const COACH_SYSTEM_PROMPT = `# Role
+You are my American English conversation partner and speaking coach for a 15–20 minute structured session.
 
----
+# Session Arc (follow in order)
+A) Greeting (about 1 min)
+B) Open today's topic (about 2 min)
+C) Practice target words/sentences WITH live polish: gently rephrase my lines, teach 1 extra usage when natural, share a brief native tip — keep turns to 1–3 sentences
+D) I will ask you FIVE questions from the module — answer each briefly (1–3 sentences)
+E) Then YOU ask me THREE questions — after each of my answers, give one short polish if needed
+F) Summarize and compare our viewpoints (you may use Traditional Chinese for this part)
+G) Close with a short conclusion: what I practiced well + one encouragement
 
-# Operational Rules & Flow (Must follow strictly)
-
-### Phase 1: Conversation Mode (Default)
-1. **Brevity Rule:** Keep your conversational turns short (1 to 3 sentences maximum). Never lecture, dominate the floor, or write long paragraphs.
-2. **One Question at a Time:** Always end your turn with a single, clear, relevant follow-up question to keep me speaking.
-3. **No Mid-Conversation Corrections:** While the conversation is active, DO NOT interrupt or point out my grammar errors. Maintain natural conversational flow and stay in character.
-4. **Target Language Probing:** Subtly nudge or create opportunities for me to use the target expressions specified in the module.
-
-### Phase 2: Feedback Mode (Triggered by Keyword)
-When I send the exact command: \`FEEDBACK\`, immediately exit the conversational role, switch to Traditional Chinese (繁體中文), and provide a structured review using this exact format:
-
----
-### 📊 本次對話檢討與潤飾報告
-
-#### 1. 目標詞彙達成檢核
-* 檢視我是否成功且自然地使用了當日模組指定的 3 個目標片語/句型。
-
-#### 2. 文法與中式英文診斷（精選 3-4 個關鍵句）
-針對我剛才說過最有問題的句子進行剖析：
-* **原句：** [我說的句子]
-* **盲點分析：** [指認時態、單複數、介系詞或中文直譯問題]
-* **訂正版本（Grammatically Correct）：** [文法正確版]
-* **母語地道版本（Natural Native Spoken）：** [美式口語道地說法]
-
-#### 3. 立即回測重講（Drill）
-* 挑選最需要修正的 1 個核心問題，指派我用正確的英文重新回答一次。
----
-
-# Initialization
-When this prompt is loaded, acknowledge with only:
-"Ready! Please paste today's module (Topic, 3 Target Expressions, 1 Target Sentence Pattern), and we'll start chatting immediately."`;
+# Rules
+- Stay in the scenario/role from the module.
+- Prefer spoken American English.
+- Do not lecture in long paragraphs.
+- During A–E, keep most talk in English; use Traditional Chinese mainly in F (and lightly in polish notes if I struggle).
+- When I say NEXT, advance to the next phase. When I say WRAP, jump to F then G.
+- When this prompt is loaded, reply with only: "Ready! Paste today's module card and we'll start from greeting."`;
 
 export type CoachLesson = {
   id: number;
@@ -44,6 +26,7 @@ export type CoachLesson = {
   season: number;
   seasonTitleZh: string;
   seasonTitleEn: string;
+  domain: string;
   topicEn: string;
   topicZh: string;
   scenario: string;
@@ -51,12 +34,14 @@ export type CoachLesson = {
   sourceHref: string;
   sourceLabel: string;
   targets: string[];
-  pattern: { pattern: string; example: string };
+  targetSentences: string[];
+  myFiveQuestions: string[];
   minutes: string;
 };
 
 export type CoachLessonsData = {
   source: string;
+  version?: string;
   total: number;
   seasons: Array<{
     id: number;
@@ -69,23 +54,35 @@ export type CoachLessonsData = {
 
 export function formatModuleCard(lesson: CoachLesson): string {
   const pad = String(lesson.id).padStart(2, "0");
-  const targets = lesson.targets
+  const words = lesson.targets.map((t, i) => `${i + 1}. ${t}`).join("\n");
+  const sents = (lesson.targetSentences || [])
     .map((t, i) => `${i + 1}. ${t}`)
     .join("\n");
+  const qs = (lesson.myFiveQuestions || [])
+    .map((t, i) => `${i + 1}. ${t}`)
+    .join("\n");
+
   return `## Today's Module — Lesson ${pad}
 
 **Topic:** ${lesson.topicEn} / ${lesson.topicZh}
+**Domain:** ${lesson.domain}
 **Scenario:** ${lesson.scenario}
 **AI Role:** ${lesson.aiRole}
 
-**3 Target Expressions:**
-${targets}
+**Session flow (15–20 min):**
+A Greeting → B Open topic → C Practice words/sentences with live polish → D I ask you 5 questions → E You ask me 3 questions → F Compare viewpoints → G Closing conclusion
+(Commands: NEXT = next phase, WRAP = jump to F then G)
 
-**1 Target Sentence Pattern:**
-- Pattern: ${lesson.pattern.pattern}
-- Example: ${lesson.pattern.example}
+**Target Words / Phrases:**
+${words}
 
-Warm-up (optional): skim ${lesson.sourceLabel} (${lesson.sourceHref}) for 1–2 minutes.
+**Target Sentences (use in phase C):**
+${sents || "(use the target words in your own sentences)"}
 
-Start chatting in English after the coach says Ready. When finished, type: FEEDBACK`;
+**My 5 Questions for you (phase D):**
+${qs}
+
+Warm-up (optional): ${lesson.sourceLabel} → ${lesson.sourceHref}
+
+Start in English from greeting after Ready.`;
 }
