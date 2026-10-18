@@ -1,0 +1,103 @@
+{
+  "id": "lesson-rhyme-our-01",
+  "slug": "rhyme-our-01",
+  "season": 1,
+  "seasonTitleZh": "押韻派對",
+  "seasonTitleEn": "Rhyme Party",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "rhyme-our-01",
+  "titleZh": "-our / -ore｜豪門恩怨系列",
+  "titleEn": "The Our Household Saga",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "把 our（我們的）當主角——臭臉老爸正在大掃除。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "我們的（our）豪宅裡，dour 老爸臉臭到能醃菜；他一邊 scour 刷地板，一邊把酸掉的情緒 pour 進水桶。空氣整間 sour，他還 lour／lower 著眉。最後全家只好 mourn：歡樂已死。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "依 members 逐詞：義錨 → 劇本角色 → 跟讀 speakLineEn／對照 speakLineZh"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "見 quiz（3 題）"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "our 豪宅：倒（pour）酸（sour）刷（scour）臭臉（dour）哀悼（mourn）",
+        "看到 -our/-ore，先找『我們家』場景"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Which word means harsh, stern, and gloomy in manner?",
+      "promptZh": "哪一個詞表示態度嚴厲、冷酷、陰鬱？",
+      "choices": [
+        "pour",
+        "sour",
+        "dour",
+        "mourn"
+      ],
+      "answer": "dour"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "To search or clean something very thoroughly is to:",
+      "promptZh": "非常徹底地搜查或刷洗，是：",
+      "choices": [
+        "pour",
+        "scour",
+        "mourn",
+        "lour"
+      ],
+      "answer": "scour"
+    },
+    {
+      "id": "q3",
+      "type": "lookalike",
+      "promptEn": "pour is most easily confused in sound with:",
+      "promptZh": "pour 在發音上最容易和哪個混淆？",
+      "choices": [
+        "poor",
+        "pore only",
+        "power",
+        "peer"
+      ],
+      "answer": "poor"
+    }
+  ],
+  "pitfalls": [
+    "lour/lower（皺眉）口語少見，先主攻 dour/scour",
+    "pour ≠ poor（貧窮）諧音陷阱"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "checklist": [
+      "hook+script present",
+      "members ≥4 with bilingual speak lines",
+      "reviewHooks ≥2",
+      "pitfalls ≥1",
+      "quiz ×3 sense-accurate"
+    ]
+  }
+}

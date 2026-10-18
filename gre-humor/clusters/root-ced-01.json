@@ -1,0 +1,183 @@
+{
+  "id": "root-ced-01",
+  "type": "root",
+  "elementLemma": "ced/ceed/cess",
+  "titleZh": "ced／ceed／cess｜進退讓步道",
+  "titleEn": "The Yielding Walkway",
+  "hook": "字根 ced/ceed/cess＝走、讓——誰先走、誰讓路。",
+  "script": "前輩 precede 走在前面；會議 proceed 繼續往前走。對手 recede 後退，你才 access 進入。調人 intercede 走到中間說情，硬派 secede 退出聯盟；excess 走過頭，process 是一整段行走流程。",
+  "members": [
+    {
+      "headword": "precede",
+      "inVocab": false,
+      "senseAnchor": "先於；領先",
+      "roleInScript": "走在前面",
+      "humorDevice": "morphology",
+      "zhGloss": "先於；領先",
+      "speakLineEn": "Definitions should precede measurement choices.",
+      "speakLineZh": "定義應先於測量選擇。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "proceed",
+      "inVocab": false,
+      "senseAnchor": "繼續進行",
+      "roleInScript": "接著往前走",
+      "humorDevice": "morphology",
+      "zhGloss": "繼續進行",
+      "speakLineEn": "We may proceed only after consent is recorded.",
+      "speakLineZh": "唯有記錄同意後才可繼續。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "recede",
+      "inVocab": false,
+      "senseAnchor": "後退；減退",
+      "roleInScript": "往後退開",
+      "humorDevice": "morphology",
+      "zhGloss": "後退；減退",
+      "speakLineEn": "As noise recedes, the signal becomes clearer.",
+      "speakLineZh": "噪音減退後，訊號更清楚。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "access",
+      "inVocab": false,
+      "senseAnchor": "進入；使用權",
+      "roleInScript": "走得進去",
+      "humorDevice": "morphology",
+      "zhGloss": "進入；使用權",
+      "speakLineEn": "Unequal access skews who appears in the sample.",
+      "speakLineZh": "不均等的進入權扭曲了樣本組成。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "intercede",
+      "inVocab": true,
+      "senseAnchor": "act between parties with a view to reconciling differences",
+      "roleInScript": "走到中間幫人求情",
+      "humorDevice": "morphology",
+      "zhGloss": "調停；說情介入",
+      "speakLineEn": "A mediator interceded before talks collapsed.",
+      "speakLineZh": "調停者在談判崩盤前介入說情。",
+      "related": {
+        "synonyms": "mediate, intermediate, liaise, arbitrate",
+        "antonyms": "immediate, terminal"
+      }
+    },
+    {
+      "headword": "secede",
+      "inVocab": false,
+      "senseAnchor": "退出；分離",
+      "roleInScript": "走出聯盟",
+      "humorDevice": "morphology",
+      "zhGloss": "退出；分離",
+      "speakLineEn": "A faction threatened to secede from the coalition.",
+      "speakLineZh": "某派系威脅退出聯盟。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "excess",
+      "inVocab": false,
+      "senseAnchor": "過度；過量",
+      "roleInScript": "走過頭",
+      "humorDevice": "morphology",
+      "zhGloss": "過度；過量",
+      "speakLineEn": "Excess confidence mimics competence.",
+      "speakLineZh": "過度自信模仿了能力。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "process",
+      "inVocab": false,
+      "senseAnchor": "過程；處理",
+      "roleInScript": "行走的整段流程",
+      "humorDevice": "story",
+      "zhGloss": "過程；處理",
+      "speakLineEn": "Name the process before you name the outcome.",
+      "speakLineZh": "先說清過程，再說結果。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "ancestor",
+      "inVocab": false,
+      "senseAnchor": "祖先",
+      "roleInScript": "更早就走在前面的人",
+      "humorDevice": "story",
+      "zhGloss": "祖先",
+      "speakLineEn": "Intellectual ancestors shape today’s categories.",
+      "speakLineZh": "思想祖先形塑了今日的範疇。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "predecessor",
+      "inVocab": false,
+      "senseAnchor": "前任；前身",
+      "roleInScript": "位置上的前一位",
+      "humorDevice": "morphology",
+      "zhGloss": "前任；前身",
+      "speakLineEn": "Our method improves on its predecessor.",
+      "speakLineZh": "我們的方法改進了其前身。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "unprecedented",
+      "inVocab": false,
+      "senseAnchor": "前所未有的",
+      "roleInScript": "前面沒人走過",
+      "humorDevice": "morphology",
+      "zhGloss": "前所未有的",
+      "speakLineEn": "Unprecedented scale requires new safeguards.",
+      "speakLineZh": "前所未有的規模需要新防護。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    }
+  ],
+  "reviewHooks": [
+    "ced＝走／讓：precede 先前走、proceed 繼續走、recede 後退、intercede 介入調停",
+    "secede＝退出；access＝走得進去；excess＝走過頭"
+  ],
+  "pitfalls": [
+    "precede（在前）vs proceed（繼續）最易混",
+    "concede（讓步承認）已在 look-a-01；本族改練 intercede／secede"
+  ],
+  "lessonRefs": [
+    "lesson-root-ced-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S2",
+    "note": "New A-level cluster with full lesson"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "rhyme-edge-01",
+  "type": "rhyme",
+  "elementLemma": "-edge/-adge",
+  "titleZh": "-edge / -adge｜邊緣承諾系列",
+  "titleEn": "Life on the Edge",
+  "hook": "edge＝邊緣——站在邊緣發誓、長毛、避險、還被獾纠缠。",
+  "script": "站在崖邊（edge）你 pledge 保證不跳；羽毛 fledge 長到邊緣才敢飛。旁邊種了 hedge 當避險，卻有人 allege 你在說謊，還有隻 badger 獾從早纠缠到晚。",
+  "members": [
+    {
+      "headword": "pledge",
+      "inVocab": true,
+      "senseAnchor": "a deposit of personal property as security for a debt; someone accepted for membership but not yet fully admitted to the group",
+      "roleInScript": "崖邊發誓",
+      "humorDevice": "story",
+      "zhGloss": "保證；誓言；質押",
+      "speakLineEn": "She pledged to uphold the committee’s standards.",
+      "speakLineZh": "她誓言維護委員會標準。",
+      "related": {
+        "synonyms": "toast, assurance, plight, subscribe, drink, salute",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "fledge",
+      "inVocab": false,
+      "senseAnchor": "長羽毛；羽翼漸豐",
+      "roleInScript": "羽毛長到邊緣",
+      "humorDevice": "story",
+      "zhGloss": "長羽毛；羽翼漸豐",
+      "speakLineEn": "The fledgling idea needs time to fledge into a policy.",
+      "speakLineZh": "這個雛形想法需要時間羽翼漸豐成政策。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "hedge",
+      "inVocab": true,
+      "senseAnchor": "to avoid giving a direct answer",
+      "roleInScript": "邊緣的保護籬",
+      "humorDevice": "story",
+      "zhGloss": "樹籬；避險；防範；閃爍其詞",
+      "speakLineEn": "Investors hedged against currency swings.",
+      "speakLineZh": "投資人針對匯率波動做避險。",
+      "related": {
+        "synonyms": "hedgerow, hedging, fudge, evade, circumvent, parry",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "allege",
+      "inVocab": false,
+      "senseAnchor": "宣稱；指控（未必證實）",
+      "roleInScript": "有人宣稱你說謊",
+      "humorDevice": "story",
+      "zhGloss": "宣稱；指控（未必證實）",
+      "speakLineEn": "The report alleges conflicts of interest.",
+      "speakLineZh": "報告指控存在利益衝突。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "badger",
+      "inVocab": true,
+      "senseAnchor": "a native or resident of Wisconsin; sturdy carnivorous burrowing mammal with strong claws; widely distributed in the northern hemisphere",
+      "roleInScript": "邊緣獾纠缠",
+      "humorDevice": "story",
+      "zhGloss": "獾；纠缠不休",
+      "speakLineEn": "Stop badgering the witness with the same question.",
+      "speakLineZh": "別用同一問題纠缠證人。",
+      "related": {
+        "synonyms": "Wisconsinite, tease, pester, bug, beleaguer",
+        "antonyms": ""
+      }
+    }
+  ],
+  "reviewHooks": [
+    "edge：誓（pledge）飛（fledge）籬（hedge）稱（allege）獾（badger）",
+    "allege＝宣稱未證；不要自動當成事實"
+  ],
+  "pitfalls": [
+    "hedge 多義：實體樹籬 vs 金融避險 vs 說話閃躲",
+    "fledge 在詞庫可能缺失→pending-add"
+  ],
+  "lessonRefs": [
+    "lesson-rhyme-edge-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "elementIds": [
+    "rhyme-223"
+  ],
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "note": "Stage-1 promote: aligned with tract lesson template"
+  }
+}

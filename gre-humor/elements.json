@@ -1,0 +1,3051 @@
+{
+  "version": "v0",
+  "generatedAt": "2026-10-18T15:42:02.634Z",
+  "target": {
+    "prefixes": "40-50",
+    "roots": "200-250",
+    "totalElements": "300-350",
+    "words": 4000
+  },
+  "counts": {
+    "total": 331,
+    "prefix": 50,
+    "root": 171,
+    "rhyme": 50,
+    "semantic": 30,
+    "lookalike": 30,
+    "priorityA": 87,
+    "priorityB": 181,
+    "priorityC": 63,
+    "withCluster": 24
+  },
+  "elements": [
+    {
+      "id": "prefix-001",
+      "type": "prefix",
+      "lemma": "ab-",
+      "glossZh": "離開／否定",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "prefix-002",
+      "type": "prefix",
+      "lemma": "ad-",
+      "glossZh": "朝向／加上",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "prefix-003",
+      "type": "prefix",
+      "lemma": "anti-",
+      "glossZh": "反對／相反",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "prefix-004",
+      "type": "prefix",
+      "lemma": "con-/com-",
+      "glossZh": "一起／完全",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "prefix-005",
+      "type": "prefix",
+      "lemma": "de-",
+      "glossZh": "向下／去除",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "prefix-006",
+      "type": "prefix",
+      "lemma": "dis-",
+      "glossZh": "分開／否定",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "prefix-007",
+      "type": "prefix",
+      "lemma": "ex-/e-",
+      "glossZh": "向外／前",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "prefix-008",
+      "type": "prefix",
+      "lemma": "in-/im-",
+      "glossZh": "進入／否定（依詞而定）",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "prefix-009",
+      "type": "prefix",
+      "lemma": "inter-",
+      "glossZh": "之間",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "prefix-010",
+      "type": "prefix",
+      "lemma": "ob-",
+      "glossZh": "迎向／反對",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "prefix-011",
+      "type": "prefix",
+      "lemma": "per-",
+      "glossZh": "貫穿／徹底",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "prefix-012",
+      "type": "prefix",
+      "lemma": "pre-",
+      "glossZh": "在前／預先",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "prefix-013",
+      "type": "prefix",
+      "lemma": "pro-",
+      "glossZh": "向前／贊成",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "prefix-014",
+      "type": "prefix",
+      "lemma": "re-",
+      "glossZh": "回／再",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "prefix-015",
+      "type": "prefix",
+      "lemma": "sub-",
+      "glossZh": "在下",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "prefix-016",
+      "type": "prefix",
+      "lemma": "syn-/sym-",
+      "glossZh": "一起／相同",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "prefix-017",
+      "type": "prefix",
+      "lemma": "trans-",
+      "glossZh": "跨越",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "prefix-018",
+      "type": "prefix",
+      "lemma": "un-",
+      "glossZh": "否定",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "prefix-019",
+      "type": "prefix",
+      "lemma": "en-/em-",
+      "glossZh": "使成為",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "prefix-020",
+      "type": "prefix",
+      "lemma": "circum-",
+      "glossZh": "環繞",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "prefix-021",
+      "type": "prefix",
+      "lemma": "contra-",
+      "glossZh": "對抗",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "prefix-022",
+      "type": "prefix",
+      "lemma": "dia-",
+      "glossZh": "穿過／之間",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "prefix-023",
+      "type": "prefix",
+      "lemma": "epi-",
+      "glossZh": "在上／附加",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "prefix-024",
+      "type": "prefix",
+      "lemma": "hyper-",
+      "glossZh": "過度",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "prefix-025",
+      "type": "prefix",
+      "lemma": "hypo-",
+      "glossZh": "不足／在下",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "prefix-026",
+      "type": "prefix",
+      "lemma": "meta-",
+      "glossZh": "之後／超越",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "prefix-027",
+      "type": "prefix",
+      "lemma": "para-",
+      "glossZh": "旁／異常",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "prefix-028",
+      "type": "prefix",
+      "lemma": "peri-",
+      "glossZh": "周圍",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "prefix-029",
+      "type": "prefix",
+      "lemma": "poly-",
+      "glossZh": "多",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "prefix-030",
+      "type": "prefix",
+      "lemma": "semi-",
+      "glossZh": "半",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "prefix-031",
+      "type": "prefix",
+      "lemma": "super-",
+      "glossZh": "在上／過度",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "prefix-032",
+      "type": "prefix",
+      "lemma": "ultra-",
+      "glossZh": "極端",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "prefix-033",
+      "type": "prefix",
+      "lemma": "be-",
+      "glossZh": "使／圍繞",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "prefix-034",
+      "type": "prefix",
+      "lemma": "fore-",
+      "glossZh": "先前",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "prefix-035",
+      "type": "prefix",
+      "lemma": "mis-",
+      "glossZh": "錯誤",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "prefix-036",
+      "type": "prefix",
+      "lemma": "non-",
+      "glossZh": "非",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "prefix-037",
+      "type": "prefix",
+      "lemma": "out-",
+      "glossZh": "向外／勝過",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "prefix-038",
+      "type": "prefix",
+      "lemma": "over-",
+      "glossZh": "過度",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "prefix-039",
+      "type": "prefix",
+      "lemma": "under-",
+      "glossZh": "不足／在下",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "prefix-040",
+      "type": "prefix",
+      "lemma": "with-",
+      "glossZh": "反對／撤回",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "prefix-041",
+      "type": "prefix",
+      "lemma": "a-/an-",
+      "glossZh": "無／不",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "prefix-042",
+      "type": "prefix",
+      "lemma": "ambi-",
+      "glossZh": "兩邊",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "prefix-043",
+      "type": "prefix",
+      "lemma": "ante-",
+      "glossZh": "在前",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "prefix-044",
+      "type": "prefix",
+      "lemma": "auto-",
+      "glossZh": "自己",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "prefix-045",
+      "type": "prefix",
+      "lemma": "bene-",
+      "glossZh": "好",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "prefix-046",
+      "type": "prefix",
+      "lemma": "mal-",
+      "glossZh": "壞",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "prefix-047",
+      "type": "prefix",
+      "lemma": "multi-",
+      "glossZh": "多",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "prefix-048",
+      "type": "prefix",
+      "lemma": "neo-",
+      "glossZh": "新",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "prefix-049",
+      "type": "prefix",
+      "lemma": "omni-",
+      "glossZh": "全",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "prefix-050",
+      "type": "prefix",
+      "lemma": "pan-",
+      "glossZh": "全",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-051",
+      "type": "root",
+      "lemma": "tract",
+      "glossZh": "拉、扯、拖",
+      "priority": "A",
+      "clusterIds": [
+        "root-tract-01"
+      ],
+      "status": "listed"
+    },
+    {
+      "id": "root-052",
+      "type": "root",
+      "lemma": "tort/tors",
+      "glossZh": "扭、轉、絞",
+      "priority": "A",
+      "clusterIds": [
+        "root-tort-01"
+      ],
+      "status": "listed"
+    },
+    {
+      "id": "root-053",
+      "type": "root",
+      "lemma": "scend/scent",
+      "glossZh": "爬、升",
+      "priority": "A",
+      "clusterIds": [
+        "root-scend-01"
+      ],
+      "status": "listed"
+    },
+    {
+      "id": "root-054",
+      "type": "root",
+      "lemma": "claud/claus/clud/clos",
+      "glossZh": "關、鎖",
+      "priority": "A",
+      "clusterIds": [
+        "root-clud-01"
+      ],
+      "status": "listed"
+    },
+    {
+      "id": "root-055",
+      "type": "root",
+      "lemma": "vert/vers",
+      "glossZh": "轉",
+      "priority": "A",
+      "clusterIds": [
+        "root-vert-01"
+      ],
+      "status": "listed"
+    },
+    {
+      "id": "root-056",
+      "type": "root",
+      "lemma": "gen",
+      "glossZh": "生、種",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-057",
+      "type": "root",
+      "lemma": "voc/vok",
+      "glossZh": "呼、聲",
+      "priority": "A",
+      "clusterIds": [
+        "root-voc-01"
+      ],
+      "status": "listed"
+    },
+    {
+      "id": "root-058",
+      "type": "root",
+      "lemma": "mit/miss",
+      "glossZh": "送、放",
+      "priority": "A",
+      "clusterIds": [
+        "root-mit-01"
+      ],
+      "status": "listed"
+    },
+    {
+      "id": "root-059",
+      "type": "root",
+      "lemma": "duc/duct",
+      "glossZh": "引導",
+      "priority": "A",
+      "clusterIds": [
+        "root-duc-01"
+      ],
+      "status": "listed"
+    },
+    {
+      "id": "root-060",
+      "type": "root",
+      "lemma": "spect/spec",
+      "glossZh": "看",
+      "priority": "A",
+      "clusterIds": [
+        "root-spect-01"
+      ],
+      "status": "listed"
+    },
+    {
+      "id": "root-061",
+      "type": "root",
+      "lemma": "scrib/script",
+      "glossZh": "寫",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-062",
+      "type": "root",
+      "lemma": "port",
+      "glossZh": "運、帶",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-063",
+      "type": "root",
+      "lemma": "pos/pon",
+      "glossZh": "放、置",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-064",
+      "type": "root",
+      "lemma": "fac/fic/fect",
+      "glossZh": "做、造",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-065",
+      "type": "root",
+      "lemma": "cap/cept/cip",
+      "glossZh": "拿、抓",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-066",
+      "type": "root",
+      "lemma": "ten/tain",
+      "glossZh": "持、握",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-067",
+      "type": "root",
+      "lemma": "grad/gress",
+      "glossZh": "走、步",
+      "priority": "A",
+      "clusterIds": [
+        "root-gress-01"
+      ],
+      "status": "listed"
+    },
+    {
+      "id": "root-068",
+      "type": "root",
+      "lemma": "ced/ceed/cess",
+      "glossZh": "走、讓",
+      "priority": "A",
+      "clusterIds": [
+        "root-ced-01"
+      ],
+      "status": "listed"
+    },
+    {
+      "id": "root-069",
+      "type": "root",
+      "lemma": "fer",
+      "glossZh": "帶、拿",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-070",
+      "type": "root",
+      "lemma": "ject",
+      "glossZh": "投、擲",
+      "priority": "A",
+      "clusterIds": [
+        "root-ject-01"
+      ],
+      "status": "listed"
+    },
+    {
+      "id": "root-071",
+      "type": "root",
+      "lemma": "rupt",
+      "glossZh": "破",
+      "priority": "A",
+      "clusterIds": [
+        "root-rupt-01"
+      ],
+      "status": "listed"
+    },
+    {
+      "id": "root-072",
+      "type": "root",
+      "lemma": "struct",
+      "glossZh": "建造",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-073",
+      "type": "root",
+      "lemma": "form",
+      "glossZh": "形",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-074",
+      "type": "root",
+      "lemma": "graph/gram",
+      "glossZh": "寫、圖",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-075",
+      "type": "root",
+      "lemma": "log/loqu",
+      "glossZh": "說、理",
+      "priority": "A",
+      "clusterIds": [
+        "root-loqu-01"
+      ],
+      "status": "listed"
+    },
+    {
+      "id": "root-076",
+      "type": "root",
+      "lemma": "path",
+      "glossZh": "感、病",
+      "priority": "A",
+      "clusterIds": [
+        "root-path-01"
+      ],
+      "status": "listed"
+    },
+    {
+      "id": "root-077",
+      "type": "root",
+      "lemma": "phil",
+      "glossZh": "愛",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-078",
+      "type": "root",
+      "lemma": "phob",
+      "glossZh": "怕",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-079",
+      "type": "root",
+      "lemma": "chron",
+      "glossZh": "時",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-080",
+      "type": "root",
+      "lemma": "cred",
+      "glossZh": "信",
+      "priority": "A",
+      "clusterIds": [
+        "root-cred-01"
+      ],
+      "status": "listed"
+    },
+    {
+      "id": "root-081",
+      "type": "root",
+      "lemma": "dict",
+      "glossZh": "說",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-082",
+      "type": "root",
+      "lemma": "ducere→duc",
+      "glossZh": "引導",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-083",
+      "type": "root",
+      "lemma": "fin",
+      "glossZh": "終、界",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-084",
+      "type": "root",
+      "lemma": "flu",
+      "glossZh": "流",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-085",
+      "type": "root",
+      "lemma": "fort",
+      "glossZh": "強",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-086",
+      "type": "root",
+      "lemma": "frag/fract",
+      "glossZh": "碎",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-087",
+      "type": "root",
+      "lemma": "fus",
+      "glossZh": "澆、熔",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-088",
+      "type": "root",
+      "lemma": "greg",
+      "glossZh": "群",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-089",
+      "type": "root",
+      "lemma": "her/hes",
+      "glossZh": "黏",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-090",
+      "type": "root",
+      "lemma": "jud/jur/jus",
+      "glossZh": "法、判",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-091",
+      "type": "root",
+      "lemma": "junct",
+      "glossZh": "連接",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-092",
+      "type": "root",
+      "lemma": "lat",
+      "glossZh": "帶、邊",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-093",
+      "type": "root",
+      "lemma": "leg/lect",
+      "glossZh": "選、讀、法",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-094",
+      "type": "root",
+      "lemma": "lev",
+      "glossZh": "輕、舉",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-095",
+      "type": "root",
+      "lemma": "liber",
+      "glossZh": "自由",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-096",
+      "type": "root",
+      "lemma": "loc/loq",
+      "glossZh": "說／地方（依形）",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-097",
+      "type": "root",
+      "lemma": "luc/lum",
+      "glossZh": "光",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-098",
+      "type": "root",
+      "lemma": "man",
+      "glossZh": "手",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-099",
+      "type": "root",
+      "lemma": "mand",
+      "glossZh": "命令",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-100",
+      "type": "root",
+      "lemma": "mar",
+      "glossZh": "海",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-101",
+      "type": "root",
+      "lemma": "mater/matr",
+      "glossZh": "母",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-102",
+      "type": "root",
+      "lemma": "medi",
+      "glossZh": "中",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-103",
+      "type": "root",
+      "lemma": "mem",
+      "glossZh": "記",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-104",
+      "type": "root",
+      "lemma": "mens/metri",
+      "glossZh": "量",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-105",
+      "type": "root",
+      "lemma": "merc",
+      "glossZh": "商、報",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-106",
+      "type": "root",
+      "lemma": "merge/mers",
+      "glossZh": "沉",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-107",
+      "type": "root",
+      "lemma": "migr",
+      "glossZh": "移",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-108",
+      "type": "root",
+      "lemma": "mir",
+      "glossZh": "奇、看",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-109",
+      "type": "root",
+      "lemma": "mis/mit",
+      "glossZh": "送",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-110",
+      "type": "root",
+      "lemma": "mob/mot/mov",
+      "glossZh": "動",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-111",
+      "type": "root",
+      "lemma": "mon/monit",
+      "glossZh": "警告、提醒",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-112",
+      "type": "root",
+      "lemma": "mor/mort",
+      "glossZh": "死",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-113",
+      "type": "root",
+      "lemma": "morph",
+      "glossZh": "形",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-114",
+      "type": "root",
+      "lemma": "mut",
+      "glossZh": "變",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-115",
+      "type": "root",
+      "lemma": "nasc/nat",
+      "glossZh": "生",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-116",
+      "type": "root",
+      "lemma": "nav",
+      "glossZh": "船",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-117",
+      "type": "root",
+      "lemma": "neg",
+      "glossZh": "否",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-118",
+      "type": "root",
+      "lemma": "noc/nox",
+      "glossZh": "害",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-119",
+      "type": "root",
+      "lemma": "nomen/nym",
+      "glossZh": "名",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-120",
+      "type": "root",
+      "lemma": "nov",
+      "glossZh": "新",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-121",
+      "type": "root",
+      "lemma": "numer",
+      "glossZh": "數",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-122",
+      "type": "root",
+      "lemma": "onym",
+      "glossZh": "名",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-123",
+      "type": "root",
+      "lemma": "oper",
+      "glossZh": "工作",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-124",
+      "type": "root",
+      "lemma": "opt",
+      "glossZh": "選、視",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-125",
+      "type": "root",
+      "lemma": "ord",
+      "glossZh": "秩序",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-126",
+      "type": "root",
+      "lemma": "ori",
+      "glossZh": "升起、起源",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-127",
+      "type": "root",
+      "lemma": "paci",
+      "glossZh": "和平",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-128",
+      "type": "root",
+      "lemma": "pater/patr",
+      "glossZh": "父",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-129",
+      "type": "root",
+      "lemma": "ped/pod",
+      "glossZh": "腳",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-130",
+      "type": "root",
+      "lemma": "pel/puls",
+      "glossZh": "推",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-131",
+      "type": "root",
+      "lemma": "pend/pens",
+      "glossZh": "懸、稱、付",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-132",
+      "type": "root",
+      "lemma": "pet",
+      "glossZh": "求、衝",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-133",
+      "type": "root",
+      "lemma": "phil→phile",
+      "glossZh": "愛",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-134",
+      "type": "root",
+      "lemma": "phon",
+      "glossZh": "聲",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-135",
+      "type": "root",
+      "lemma": "plac",
+      "glossZh": "平息、討好",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-136",
+      "type": "root",
+      "lemma": "pon/pose",
+      "glossZh": "放",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-137",
+      "type": "root",
+      "lemma": "popul",
+      "glossZh": "民",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-138",
+      "type": "root",
+      "lemma": "port→portable",
+      "glossZh": "運",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-139",
+      "type": "root",
+      "lemma": "pot",
+      "glossZh": "能、力",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-140",
+      "type": "root",
+      "lemma": "prehend/prise",
+      "glossZh": "抓",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-141",
+      "type": "root",
+      "lemma": "press",
+      "glossZh": "壓",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-142",
+      "type": "root",
+      "lemma": "prim",
+      "glossZh": "第一",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-143",
+      "type": "root",
+      "lemma": "priv",
+      "glossZh": "私",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-144",
+      "type": "root",
+      "lemma": "prob",
+      "glossZh": "試、好",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-145",
+      "type": "root",
+      "lemma": "propri",
+      "glossZh": "適當、己有",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-146",
+      "type": "root",
+      "lemma": "pugn",
+      "glossZh": "打",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-147",
+      "type": "root",
+      "lemma": "punct",
+      "glossZh": "點、刺",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-148",
+      "type": "root",
+      "lemma": "put",
+      "glossZh": "想、算",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-149",
+      "type": "root",
+      "lemma": "quer/quis",
+      "glossZh": "問、求",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-150",
+      "type": "root",
+      "lemma": "qui",
+      "glossZh": "靜",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-151",
+      "type": "root",
+      "lemma": "radic",
+      "glossZh": "根",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-152",
+      "type": "root",
+      "lemma": "rap/rav",
+      "glossZh": "奪",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-153",
+      "type": "root",
+      "lemma": "rect",
+      "glossZh": "直、正",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-154",
+      "type": "root",
+      "lemma": "reg/rex",
+      "glossZh": "統治",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-155",
+      "type": "root",
+      "lemma": "rid/ris",
+      "glossZh": "笑",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-156",
+      "type": "root",
+      "lemma": "rog",
+      "glossZh": "問",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-157",
+      "type": "root",
+      "lemma": "rupt→bankrupt",
+      "glossZh": "破",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-158",
+      "type": "root",
+      "lemma": "sacr/sanct",
+      "glossZh": "聖",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-159",
+      "type": "root",
+      "lemma": "sal/sult",
+      "glossZh": "跳",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-160",
+      "type": "root",
+      "lemma": "sat/satis",
+      "glossZh": "滿",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-161",
+      "type": "root",
+      "lemma": "sci",
+      "glossZh": "知",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-162",
+      "type": "root",
+      "lemma": "scop",
+      "glossZh": "看",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-163",
+      "type": "root",
+      "lemma": "scrib→script",
+      "glossZh": "寫",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-164",
+      "type": "root",
+      "lemma": "sec/sect",
+      "glossZh": "切",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-165",
+      "type": "root",
+      "lemma": "sed/sess/sid",
+      "glossZh": "坐",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-166",
+      "type": "root",
+      "lemma": "sem/semin",
+      "glossZh": "種",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-167",
+      "type": "root",
+      "lemma": "sen",
+      "glossZh": "老",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-168",
+      "type": "root",
+      "lemma": "sent/sens",
+      "glossZh": "感",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-169",
+      "type": "root",
+      "lemma": "sequ/secut",
+      "glossZh": "跟隨",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-170",
+      "type": "root",
+      "lemma": "serv",
+      "glossZh": "侍、守",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-171",
+      "type": "root",
+      "lemma": "sign",
+      "glossZh": "記號",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-172",
+      "type": "root",
+      "lemma": "simil/simul",
+      "glossZh": "相似",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-173",
+      "type": "root",
+      "lemma": "sol",
+      "glossZh": "獨／日（依詞）",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-174",
+      "type": "root",
+      "lemma": "solv/solut",
+      "glossZh": "解",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-175",
+      "type": "root",
+      "lemma": "somn",
+      "glossZh": "睡",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-176",
+      "type": "root",
+      "lemma": "son",
+      "glossZh": "聲",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-177",
+      "type": "root",
+      "lemma": "soph",
+      "glossZh": "智",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-178",
+      "type": "root",
+      "lemma": "spec→spect",
+      "glossZh": "看",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-179",
+      "type": "root",
+      "lemma": "spir",
+      "glossZh": "呼吸",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-180",
+      "type": "root",
+      "lemma": "sta/stit",
+      "glossZh": "站",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-181",
+      "type": "root",
+      "lemma": "string/strict",
+      "glossZh": "綁、緊",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-182",
+      "type": "root",
+      "lemma": "stru→struct",
+      "glossZh": "建造",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-183",
+      "type": "root",
+      "lemma": "suad",
+      "glossZh": "勸",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-184",
+      "type": "root",
+      "lemma": "sum",
+      "glossZh": "拿、總",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-185",
+      "type": "root",
+      "lemma": "surg",
+      "glossZh": "升",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-186",
+      "type": "root",
+      "lemma": "tact/tang",
+      "glossZh": "觸",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-187",
+      "type": "root",
+      "lemma": "tain→ten",
+      "glossZh": "持",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-188",
+      "type": "root",
+      "lemma": "techn",
+      "glossZh": "技",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-189",
+      "type": "root",
+      "lemma": "tele",
+      "glossZh": "遠",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-190",
+      "type": "root",
+      "lemma": "tempor",
+      "glossZh": "時",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-191",
+      "type": "root",
+      "lemma": "ten→tend/tens",
+      "glossZh": "伸、張",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-192",
+      "type": "root",
+      "lemma": "term",
+      "glossZh": "界、終",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-193",
+      "type": "root",
+      "lemma": "terr",
+      "glossZh": "地／怕（依詞）",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-194",
+      "type": "root",
+      "lemma": "test",
+      "glossZh": "見證",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-195",
+      "type": "root",
+      "lemma": "the/theo",
+      "glossZh": "神",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-196",
+      "type": "root",
+      "lemma": "therm",
+      "glossZh": "熱",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-197",
+      "type": "root",
+      "lemma": "thesis",
+      "glossZh": "放、命題",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-198",
+      "type": "root",
+      "lemma": "tom",
+      "glossZh": "切",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-199",
+      "type": "root",
+      "lemma": "torq→tort",
+      "glossZh": "扭",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-200",
+      "type": "root",
+      "lemma": "tort→torsion",
+      "glossZh": "扭",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-201",
+      "type": "root",
+      "lemma": "tract→traction",
+      "glossZh": "拉",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-202",
+      "type": "root",
+      "lemma": "trib",
+      "glossZh": "分、給",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-203",
+      "type": "root",
+      "lemma": "trud/trus",
+      "glossZh": "推",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-204",
+      "type": "root",
+      "lemma": "turb",
+      "glossZh": "擾",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-205",
+      "type": "root",
+      "lemma": "umbr",
+      "glossZh": "影",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-206",
+      "type": "root",
+      "lemma": "urb",
+      "glossZh": "城",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-207",
+      "type": "root",
+      "lemma": "vac",
+      "glossZh": "空",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-208",
+      "type": "root",
+      "lemma": "vad/vas",
+      "glossZh": "走",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-209",
+      "type": "root",
+      "lemma": "vag",
+      "glossZh": "遊",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-210",
+      "type": "root",
+      "lemma": "val",
+      "glossZh": "強、值",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-211",
+      "type": "root",
+      "lemma": "ven/vent",
+      "glossZh": "來",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-212",
+      "type": "root",
+      "lemma": "ver",
+      "glossZh": "真",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-213",
+      "type": "root",
+      "lemma": "verb",
+      "glossZh": "字、詞",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-214",
+      "type": "root",
+      "lemma": "vert→verse",
+      "glossZh": "轉",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-215",
+      "type": "root",
+      "lemma": "via",
+      "glossZh": "路",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-216",
+      "type": "root",
+      "lemma": "vid/vis",
+      "glossZh": "看",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-217",
+      "type": "root",
+      "lemma": "vinc/vict",
+      "glossZh": "勝",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-218",
+      "type": "root",
+      "lemma": "viv/vit",
+      "glossZh": "活",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-219",
+      "type": "root",
+      "lemma": "voc→vok",
+      "glossZh": "呼",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-220",
+      "type": "root",
+      "lemma": "vol",
+      "glossZh": "願／飛（依詞）",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "root-221",
+      "type": "root",
+      "lemma": "vor",
+      "glossZh": "吃",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-222",
+      "type": "rhyme",
+      "lemma": "-our/-ore",
+      "glossZh": "豪門恩怨押韻族",
+      "priority": "A",
+      "clusterIds": [
+        "rhyme-our-01"
+      ],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-223",
+      "type": "rhyme",
+      "lemma": "-edge/-adge",
+      "glossZh": "邊緣承諾押韻族",
+      "priority": "A",
+      "clusterIds": [
+        "rhyme-edge-01"
+      ],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-224",
+      "type": "rhyme",
+      "lemma": "-eak/-oke",
+      "glossZh": "毀滅洩漏押韻族",
+      "priority": "A",
+      "clusterIds": [
+        "rhyme-eak-01"
+      ],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-225",
+      "type": "rhyme",
+      "lemma": "-ant/-ent",
+      "glossZh": "螞蟻動態人物族",
+      "priority": "A",
+      "clusterIds": [
+        "rhyme-ant-01"
+      ],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-226",
+      "type": "rhyme",
+      "lemma": "-ess/-ness",
+      "glossZh": "狀態名詞族（候選）",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-227",
+      "type": "rhyme",
+      "lemma": "-ude/-ute",
+      "glossZh": "抽象質地族（候選）",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-228",
+      "type": "rhyme",
+      "lemma": "-ign/-ine",
+      "glossZh": "標記／性質族（候選）",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-229",
+      "type": "rhyme",
+      "lemma": "-ect/-act",
+      "glossZh": "動作尾韻族（候選）",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-230",
+      "type": "rhyme",
+      "lemma": "-ive/-ance",
+      "glossZh": "傾向／狀態族（候選）",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-231",
+      "type": "rhyme",
+      "lemma": "-ory/-ary",
+      "glossZh": "場所／傾向族（候選）",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-232",
+      "type": "rhyme",
+      "lemma": "-ism/-ist",
+      "glossZh": "主義／人家族（候選）",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-233",
+      "type": "rhyme",
+      "lemma": "-ate/-ite",
+      "glossZh": "動詞／人家族（候選）",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-234",
+      "type": "rhyme",
+      "lemma": "-ound/-aunt",
+      "glossZh": "ound/aunt 押韻族（候選）",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-235",
+      "type": "rhyme",
+      "lemma": "-ain/-ane",
+      "glossZh": "ain/ane 押韻族（候選）",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-236",
+      "type": "rhyme",
+      "lemma": "-ire/-yre",
+      "glossZh": "ire 押韻族（候選）",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-237",
+      "type": "rhyme",
+      "lemma": "-ult/-ilt",
+      "glossZh": "ult 押韻族（候選）",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-238",
+      "type": "rhyme",
+      "lemma": "-ose/-ous",
+      "glossZh": "ose/ous 形近尾（候選）",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-239",
+      "type": "rhyme",
+      "lemma": "-cede/-ceed/-sess",
+      "glossZh": "走／讓步拼寫族（候選）",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-240",
+      "type": "rhyme",
+      "lemma": "-ceive/-ceit",
+      "glossZh": "拿／騙拼寫族（候選）",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-241",
+      "type": "rhyme",
+      "lemma": "-plain/-plainant",
+      "glossZh": "抱怨族（候選）",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-242",
+      "type": "rhyme",
+      "lemma": "-sult/-salt",
+      "glossZh": "跳／結果族（候選）",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-243",
+      "type": "rhyme",
+      "lemma": "-tain/-tense",
+      "glossZh": "持／張族（候選）",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-244",
+      "type": "rhyme",
+      "lemma": "-vent/-vene",
+      "glossZh": "來／介入族（候選）",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-245",
+      "type": "rhyme",
+      "lemma": "-vise/-vice",
+      "glossZh": "看／惡族（候選）",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-246",
+      "type": "rhyme",
+      "lemma": "-duct/-duce",
+      "glossZh": "引導族（候選）",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-247",
+      "type": "rhyme",
+      "lemma": "-sist/-sist",
+      "glossZh": "站立抵抗族（候選）",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-248",
+      "type": "rhyme",
+      "lemma": "-fuse/-found",
+      "glossZh": "澆／熔／基礎族（候選）",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-249",
+      "type": "rhyme",
+      "lemma": "-claim/-clam",
+      "glossZh": "呼喊族（候選）",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-250",
+      "type": "rhyme",
+      "lemma": "-spir/-spire",
+      "glossZh": "呼吸志向族（候選）",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-251",
+      "type": "rhyme",
+      "lemma": "-cred/-crea",
+      "glossZh": "信／創造近形（候選）",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-252",
+      "type": "rhyme",
+      "lemma": "-judic/-jury",
+      "glossZh": "審判族（候選）",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-253",
+      "type": "rhyme",
+      "lemma": "-path/-pathy",
+      "glossZh": "情感病感族（候選）",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-254",
+      "type": "rhyme",
+      "lemma": "-phon/-phony",
+      "glossZh": "聲／假族（候選）",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-255",
+      "type": "rhyme",
+      "lemma": "-graph/-gram",
+      "glossZh": "書寫圖族（候選）",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-256",
+      "type": "rhyme",
+      "lemma": "-logy/-logue",
+      "glossZh": "學／對話族（候選）",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-257",
+      "type": "rhyme",
+      "lemma": "-archy/-cracy",
+      "glossZh": "統治體制族（候選）",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-258",
+      "type": "rhyme",
+      "lemma": "-phobia/-philia",
+      "glossZh": "怕／愛對照尾（候選）",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-259",
+      "type": "rhyme",
+      "lemma": "-oid/-ode",
+      "glossZh": "形似族（候選）",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-260",
+      "type": "rhyme",
+      "lemma": "-ule/-icle",
+      "glossZh": "小詞尾族（候選）",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-261",
+      "type": "rhyme",
+      "lemma": "-escent/-escent",
+      "glossZh": "漸變族（候選）",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-262",
+      "type": "rhyme",
+      "lemma": "-acious/-aceous",
+      "glossZh": "傾向形尾（候選）",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-263",
+      "type": "rhyme",
+      "lemma": "-iferous/-ivorous",
+      "glossZh": "產生／食（候選）",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-264",
+      "type": "rhyme",
+      "lemma": "-acious vs -aceous",
+      "glossZh": "易混形尾對（候選）",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-265",
+      "type": "rhyme",
+      "lemma": "-iate/-eate",
+      "glossZh": "動詞形尾（候選）",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-266",
+      "type": "rhyme",
+      "lemma": "-ine/-ene",
+      "glossZh": "化學／性質尾（候選）",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-267",
+      "type": "rhyme",
+      "lemma": "-ome/-oma",
+      "glossZh": "體／瘤尾（候選）",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-268",
+      "type": "rhyme",
+      "lemma": "-urgy/-urgy",
+      "glossZh": "工藝尾（候選）",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-269",
+      "type": "rhyme",
+      "lemma": "-mancy/-mancy",
+      "glossZh": "占卜尾（候選）",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-270",
+      "type": "rhyme",
+      "lemma": "-ette/-et",
+      "glossZh": "小詞／陰性尾（候選）",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "rhyme-271",
+      "type": "rhyme",
+      "lemma": "-ster/-ster",
+      "glossZh": "人／貶義尾（候選）",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "semantic-272",
+      "type": "semantic",
+      "lemma": "flattery-vs-arrogance",
+      "glossZh": "馬屁精↔傲嬌",
+      "priority": "A",
+      "clusterIds": [
+        "sem-flattery-01"
+      ],
+      "status": "listed"
+    },
+    {
+      "id": "semantic-273",
+      "type": "semantic",
+      "lemma": "silent-vs-talkative",
+      "glossZh": "沉默↔長舌",
+      "priority": "A",
+      "clusterIds": [
+        "sem-talk-01"
+      ],
+      "status": "listed"
+    },
+    {
+      "id": "semantic-274",
+      "type": "semantic",
+      "lemma": "temper-vs-amiable",
+      "glossZh": "暴躁↔和藹",
+      "priority": "A",
+      "clusterIds": [
+        "sem-temper-01"
+      ],
+      "status": "listed"
+    },
+    {
+      "id": "semantic-275",
+      "type": "semantic",
+      "lemma": "praise-vs-criticize",
+      "glossZh": "吹捧↔抨擊",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "semantic-276",
+      "type": "semantic",
+      "lemma": "scarce-vs-abundant",
+      "glossZh": "稀缺↔充裕",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "semantic-277",
+      "type": "semantic",
+      "lemma": "clear-vs-obscure",
+      "glossZh": "清晰↔晦澀",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "semantic-278",
+      "type": "semantic",
+      "lemma": "brief-vs-verbose",
+      "glossZh": "簡潔↔冗長",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "semantic-279",
+      "type": "semantic",
+      "lemma": "humble-vs-vain",
+      "glossZh": "謙遜↔虛榮",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "semantic-280",
+      "type": "semantic",
+      "lemma": "courage-vs-cowardice",
+      "glossZh": "勇敢↔怯懦",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "semantic-281",
+      "type": "semantic",
+      "lemma": "honest-vs-deceit",
+      "glossZh": "誠實↔欺瞞",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "semantic-282",
+      "type": "semantic",
+      "lemma": "support-vs-undermine",
+      "glossZh": "支持↔削弱",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "semantic-283",
+      "type": "semantic",
+      "lemma": "increase-vs-decrease",
+      "glossZh": "增↔減",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "semantic-284",
+      "type": "semantic",
+      "lemma": "begin-vs-end",
+      "glossZh": "始↔終",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "semantic-285",
+      "type": "semantic",
+      "lemma": "include-vs-exclude",
+      "glossZh": "納↔斥",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "semantic-286",
+      "type": "semantic",
+      "lemma": "temporary-vs-permanent",
+      "glossZh": "暫↔久",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "semantic-287",
+      "type": "semantic",
+      "lemma": "literal-vs-figurative",
+      "glossZh": "字面↔比喻",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "semantic-288",
+      "type": "semantic",
+      "lemma": "objective-vs-biased",
+      "glossZh": "客觀↔偏頗",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "semantic-289",
+      "type": "semantic",
+      "lemma": "certain-vs-doubtful",
+      "glossZh": "確定↔存疑",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "semantic-290",
+      "type": "semantic",
+      "lemma": "order-vs-chaos",
+      "glossZh": "秩序↔混亂",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "semantic-291",
+      "type": "semantic",
+      "lemma": "native-vs-foreign",
+      "glossZh": "本土↔外來",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "semantic-292",
+      "type": "semantic",
+      "lemma": "sacred-vs-profane",
+      "glossZh": "神聖↔世俗",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "semantic-293",
+      "type": "semantic",
+      "lemma": "thrifty-vs-lavish",
+      "glossZh": "節儉↔揮霍",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "semantic-294",
+      "type": "semantic",
+      "lemma": "rigid-vs-flexible",
+      "glossZh": "僵固↔彈性",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "semantic-295",
+      "type": "semantic",
+      "lemma": "overt-vs-covert",
+      "glossZh": "公開↔隱密",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "semantic-296",
+      "type": "semantic",
+      "lemma": "acute-vs-chronic",
+      "glossZh": "急性↔慢性",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "semantic-297",
+      "type": "semantic",
+      "lemma": "benign-vs-malignant",
+      "glossZh": "良性↔惡性",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "semantic-298",
+      "type": "semantic",
+      "lemma": "voluntary-vs-coerced",
+      "glossZh": "自願↔脅迫",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "semantic-299",
+      "type": "semantic",
+      "lemma": "abstract-vs-concrete",
+      "glossZh": "抽象↔具體",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "semantic-300",
+      "type": "semantic",
+      "lemma": "innovative-vs-derivative",
+      "glossZh": "創新↔派生模仿",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "semantic-301",
+      "type": "semantic",
+      "lemma": "elated-vs-despondent",
+      "glossZh": "興高↔沮喪",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "lookalike-302",
+      "type": "lookalike",
+      "lemma": "a-lookalikes-01",
+      "glossZh": "A 開頭易混組",
+      "priority": "A",
+      "clusterIds": [
+        "look-a-01"
+      ],
+      "status": "listed"
+    },
+    {
+      "id": "lookalike-303",
+      "type": "lookalike",
+      "lemma": "c-lookalikes-01",
+      "glossZh": "C 開頭易混組",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "lookalike-304",
+      "type": "lookalike",
+      "lemma": "d-lookalikes-01",
+      "glossZh": "D 開頭易混組",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "lookalike-305",
+      "type": "lookalike",
+      "lemma": "e-lookalikes-01",
+      "glossZh": "E 開頭易混組",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "lookalike-306",
+      "type": "lookalike",
+      "lemma": "i-lookalikes-01",
+      "glossZh": "I 開頭易混組",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "lookalike-307",
+      "type": "lookalike",
+      "lemma": "p-lookalikes-01",
+      "glossZh": "P 開頭易混組",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "lookalike-308",
+      "type": "lookalike",
+      "lemma": "r-lookalikes-01",
+      "glossZh": "R 開頭易混組",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "lookalike-309",
+      "type": "lookalike",
+      "lemma": "s-lookalikes-01",
+      "glossZh": "S 開頭易混組",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "lookalike-310",
+      "type": "lookalike",
+      "lemma": "b-lookalikes-01",
+      "glossZh": "B 開頭易混組",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "lookalike-311",
+      "type": "lookalike",
+      "lemma": "f-lookalikes-01",
+      "glossZh": "F 開頭易混組",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "lookalike-312",
+      "type": "lookalike",
+      "lemma": "g-lookalikes-01",
+      "glossZh": "G 開頭易混組",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "lookalike-313",
+      "type": "lookalike",
+      "lemma": "h-lookalikes-01",
+      "glossZh": "H 開頭易混組",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "lookalike-314",
+      "type": "lookalike",
+      "lemma": "m-lookalikes-01",
+      "glossZh": "M 開頭易混組",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "lookalike-315",
+      "type": "lookalike",
+      "lemma": "t-lookalikes-01",
+      "glossZh": "T 開頭易混組",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "lookalike-316",
+      "type": "lookalike",
+      "lemma": "v-lookalikes-01",
+      "glossZh": "V 開頭易混組",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "lookalike-317",
+      "type": "lookalike",
+      "lemma": "un-lookalikes-01",
+      "glossZh": "un-/in- 否定易混",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "lookalike-318",
+      "type": "lookalike",
+      "lemma": "emigrate-immigrate",
+      "glossZh": "移出／移入對",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "lookalike-319",
+      "type": "lookalike",
+      "lemma": "imply-infer",
+      "glossZh": "暗示／推論對",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "lookalike-320",
+      "type": "lookalike",
+      "lemma": "averse-adverse",
+      "glossZh": "厭惡／不利對",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "lookalike-321",
+      "type": "lookalike",
+      "lemma": "appraise-apprise",
+      "glossZh": "估價／通知對",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "lookalike-322",
+      "type": "lookalike",
+      "lemma": "allude-elude",
+      "glossZh": "暗指／躲避對",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "lookalike-323",
+      "type": "lookalike",
+      "lemma": "censor-censure",
+      "glossZh": "審查／譴責對",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "lookalike-324",
+      "type": "lookalike",
+      "lemma": "complacent-complaisant",
+      "glossZh": "自滿／討好對",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "lookalike-325",
+      "type": "lookalike",
+      "lemma": "discrete-discreet",
+      "glossZh": "分離／謹慎對",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "lookalike-326",
+      "type": "lookalike",
+      "lemma": "historic-historical",
+      "glossZh": "歷史性／與歷史有關",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "lookalike-327",
+      "type": "lookalike",
+      "lemma": "incredible-incredulous",
+      "glossZh": "難以置信／不肯信",
+      "priority": "A",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "lookalike-328",
+      "type": "lookalike",
+      "lemma": "perspective-prospective",
+      "glossZh": "視角／預期",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "lookalike-329",
+      "type": "lookalike",
+      "lemma": "respectfully-respectively",
+      "glossZh": "尊敬地／分別地",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "lookalike-330",
+      "type": "lookalike",
+      "lemma": "sensual-sensuous",
+      "glossZh": "感官情慾／美感感官",
+      "priority": "C",
+      "clusterIds": [],
+      "status": "listed"
+    },
+    {
+      "id": "lookalike-331",
+      "type": "lookalike",
+      "lemma": "venal-venial",
+      "glossZh": "貪腐／可恕",
+      "priority": "B",
+      "clusterIds": [],
+      "status": "listed"
+    }
+  ]
+}

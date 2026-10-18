@@ -1,0 +1,143 @@
+{
+  "id": "look-a-01",
+  "type": "lookalike",
+  "elementLemma": "a-lookalikes-01",
+  "titleZh": "A 開頭易混對決",
+  "titleEn": "A-Word Look-alikes",
+  "hook": "只差一兩個字母，考場最容易看花眼——用對決拆開。",
+  "script": "assent 點頭同意，dissent 舉手異議。accede 同意加入，concede 不得不讓步。aesthetic 追求美，ascetic 赤腳踩天梯苦行。abate 風雨減弱，abet 教唆你去下注。",
+  "members": [
+    {
+      "headword": "assent",
+      "inVocab": true,
+      "senseAnchor": "agreement with a statement or proposal to do something; to agree or express agreement",
+      "roleInScript": "點頭那方",
+      "humorDevice": "lookalike",
+      "zhGloss": "同意；贊成",
+      "speakLineEn": "The panel gave quiet assent to the amendment.",
+      "speakLineZh": "小組默默同意該修正。",
+      "related": {
+        "synonyms": "acquiescence, accede, acquiesce",
+        "antonyms": "dissent"
+      }
+    },
+    {
+      "headword": "dissent",
+      "inVocab": true,
+      "senseAnchor": "(law) the difference of one judge's opinion from that of the majority; a difference of opinion",
+      "roleInScript": "舉手反對那方",
+      "humorDevice": "lookalike",
+      "zhGloss": "異議；不同意",
+      "speakLineEn": "One justice wrote a sharp dissent.",
+      "speakLineZh": "一位大法官寫下犀利異議。",
+      "related": {
+        "synonyms": "protest, objection, resist, disagree, differ",
+        "antonyms": "agree, concur, assent"
+      }
+    },
+    {
+      "headword": "accede",
+      "inVocab": false,
+      "senseAnchor": "同意；加入；繼承",
+      "roleInScript": "同意入局",
+      "humorDevice": "lookalike",
+      "zhGloss": "同意；加入；繼承",
+      "speakLineEn": "They refused to accede to the demand.",
+      "speakLineZh": "他們拒絕同意該要求。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "concede",
+      "inVocab": true,
+      "senseAnchor": "to admit unwillingly",
+      "roleInScript": "不得不讓",
+      "humorDevice": "lookalike",
+      "zhGloss": "承認；讓步",
+      "speakLineEn": "Even critics concede the study’s rigor.",
+      "speakLineZh": "連批評者也承認該研究嚴謹。",
+      "related": {
+        "synonyms": "grant, acknowledge",
+        "antonyms": "deny"
+      }
+    },
+    {
+      "headword": "aesthetic",
+      "inVocab": false,
+      "senseAnchor": "美學的；審美的",
+      "roleInScript": "追求美",
+      "humorDevice": "lookalike",
+      "zhGloss": "美學的；審美的",
+      "speakLineEn": "The essay privileges aesthetic form over utility.",
+      "speakLineZh": "文章重審美形式勝過實用。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "ascetic",
+      "inVocab": true,
+      "senseAnchor": "living without any physical pleasures",
+      "roleInScript": "愛踩梯修道",
+      "humorDevice": "phonetic",
+      "zhGloss": "苦行的；禁慾的",
+      "speakLineEn": "An ascetic lifestyle rejected every luxury.",
+      "speakLineZh": "苦行生活方式拒絕一切奢侈。",
+      "related": {
+        "synonyms": "austere, spartan",
+        "antonyms": "hedonistic, indulgent, luxurious"
+      }
+    },
+    {
+      "headword": "abate",
+      "inVocab": true,
+      "senseAnchor": "make less active or intense; become less in amount or intensity",
+      "roleInScript": "風雨變小",
+      "humorDevice": "lookalike",
+      "zhGloss": "減輕；減弱",
+      "speakLineEn": "Once the noise abated, analysis resumed.",
+      "speakLineZh": "噪音減弱後，分析才繼續。",
+      "related": {
+        "synonyms": "slake, slack",
+        "antonyms": "intensify, increase, amplify"
+      }
+    },
+    {
+      "headword": "abet",
+      "inVocab": false,
+      "senseAnchor": "教唆；煽動；協助（做壞事）",
+      "roleInScript": "a + bet 教唆下注",
+      "humorDevice": "phonetic",
+      "zhGloss": "教唆；煽動；協助（做壞事）",
+      "speakLineEn": "Silence can abet wrongdoing.",
+      "speakLineZh": "沉默可能協助不法行為。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    }
+  ],
+  "reviewHooks": [
+    "assent↔dissent；accede↔concede；aesthetic↔ascetic；abate↔abet",
+    "abet＝教唆（常貶）；abate＝減弱"
+  ],
+  "pitfalls": [
+    "aesthetic / ascetic 發音與拼寫雙坑",
+    "accede to + 要求／條約"
+  ],
+  "lessonRefs": [
+    "lesson-look-a-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "elementIds": [
+    "lookalike-302"
+  ],
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "note": "Stage-1 promote: aligned with tract lesson template"
+  }
+}

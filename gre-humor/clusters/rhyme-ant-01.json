@@ -1,0 +1,101 @@
+{
+  "id": "rhyme-ant-01",
+  "type": "rhyme",
+  "elementLemma": "-ant/-ent",
+  "titleZh": "-ant / -ent｜螞蟻動態人物系列",
+  "titleEn": "ANT Uprising",
+  "hook": "ANT（螞蟻）大暴走——英勇蟻對暴君怒吼。",
+  "script": "一隻 gallant 英勇小蟻，對著 tyrant 暴君開始 rant 怒吼；牠的觀點有 slant 偏斜，事後又 repent 後悔自己太衝。",
+  "members": [
+    {
+      "headword": "gallant",
+      "inVocab": false,
+      "senseAnchor": "英勇的；殷勤瀟灑的",
+      "roleInScript": "英勇小蟻",
+      "humorDevice": "story",
+      "zhGloss": "英勇的；殷勤瀟灑的",
+      "speakLineEn": "A gallant defense of an unpopular thesis can still persuade.",
+      "speakLineZh": "為不受歡迎論點作英勇辯護仍可能說服人。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "rant",
+      "inVocab": true,
+      "senseAnchor": "a loud bombastic declamation expressed with strong emotion; pompous or pretentious talk or writing",
+      "roleInScript": "對暴君怒吼",
+      "humorDevice": "story",
+      "zhGloss": "怒吼；咆哮；慷慨激昂的演說",
+      "speakLineEn": "The columnist’s rant obscured the actual data.",
+      "speakLineZh": "專欄的咆哮掩蓋了實際數據。",
+      "related": {
+        "synonyms": "harangue, ranting, bombast, fustian, claptrap, blah",
+        "antonyms": "praise, eulogy"
+      }
+    },
+    {
+      "headword": "slant",
+      "inVocab": true,
+      "senseAnchor": "a biased way of looking at or presenting something; degree of deviation from a horizontal plane",
+      "roleInScript": "偏斜觀點",
+      "humorDevice": "story",
+      "zhGloss": "傾斜；偏見；傾向",
+      "speakLineEn": "The coverage had a clear political slant.",
+      "speakLineZh": "報導帶有明顯政治傾向。",
+      "related": {
+        "synonyms": "angle, pitch, rake, weight, lean, tilt",
+        "antonyms": "unburden, fat, rich"
+      }
+    },
+    {
+      "headword": "repent",
+      "inVocab": true,
+      "senseAnchor": "turn away from sin or do penitence; feel remorse for; feel sorry for; be contrite about",
+      "roleInScript": "後悔太衝",
+      "humorDevice": "story",
+      "zhGloss": "後悔；懺悔",
+      "speakLineEn": "Few policymakers publicly repent failed forecasts.",
+      "speakLineZh": "很少政策制定者公開後悔失敗預測。",
+      "related": {
+        "synonyms": "atone, regret, rue",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "tyrant",
+      "inVocab": true,
+      "senseAnchor": "a ruler who exercises absolute power oppressively or brutally",
+      "roleInScript": "暴君",
+      "humorDevice": "story",
+      "zhGloss": "暴君；專制者",
+      "speakLineEn": "The essay frames the editor as an intellectual tyrant.",
+      "speakLineZh": "文章把編輯刻畫成智識暴君。",
+      "related": {
+        "synonyms": "despot, dictator",
+        "antonyms": ""
+      }
+    }
+  ],
+  "reviewHooks": [
+    "ANT：gallant 蟻 rant，slant 後 repent，對抗 tyrant",
+    "-ant/-ent 常見『人／形容』尾，先抓角色"
+  ],
+  "pitfalls": [
+    "slant 可作名詞（偏見）或動詞（傾斜陳述）",
+    "rant 偏口語／修辭貶義，GRE 閱讀常用來標『情緒多於論證』"
+  ],
+  "lessonRefs": [
+    "lesson-rhyme-ant-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "elementIds": [
+    "rhyme-225"
+  ],
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "note": "Stage-1 promote: aligned with tract lesson template"
+  }
+}

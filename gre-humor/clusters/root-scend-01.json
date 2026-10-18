@@ -1,0 +1,101 @@
+{
+  "id": "root-scend-01",
+  "type": "root",
+  "elementLemma": "scend/scent",
+  "titleZh": "scend｜階層攀爬遊戲",
+  "titleEn": "Climb the Ladder",
+  "hook": "scend＝爬升——一起往上或往下看人。",
+  "script": "英雄 ascend 上升，反派 descend 下降；真正高手 transcend 超越階層。最討厭的是 condescend：假裝屈尊下爬來『關心』你。音樂一 crescendo，情緒也往上爬。",
+  "members": [
+    {
+      "headword": "ascend",
+      "inVocab": false,
+      "senseAnchor": "上升；登上",
+      "roleInScript": "往上爬",
+      "humorDevice": "morphology",
+      "zhGloss": "上升；登上",
+      "speakLineEn": "She ascended to leadership after the crisis.",
+      "speakLineZh": "危機後她上升到領導位置。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "descend",
+      "inVocab": false,
+      "senseAnchor": "下降；落入",
+      "roleInScript": "往下爬",
+      "humorDevice": "morphology",
+      "zhGloss": "下降；落入",
+      "speakLineEn": "The debate descended into personal attacks.",
+      "speakLineZh": "辯論墮落到人身攻擊。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "transcend",
+      "inVocab": true,
+      "senseAnchor": "be greater in scope or size than some standard; be superior or better than some standard",
+      "roleInScript": "爬出階層之外",
+      "humorDevice": "morphology",
+      "zhGloss": "超越",
+      "speakLineEn": "Great art can transcend its historical moment.",
+      "speakLineZh": "偉大藝術能超越其歷史時刻。",
+      "related": {
+        "synonyms": "exceed, surpass, overstep, pass, top",
+        "antonyms": "be born, fail, failing, running, bottom, side"
+      }
+    },
+    {
+      "headword": "condescend",
+      "inVocab": false,
+      "senseAnchor": "屈尊；以恩賜態度對待",
+      "roleInScript": "假裝爬下來關心你",
+      "humorDevice": "morphology",
+      "zhGloss": "屈尊；以恩賜態度對待",
+      "speakLineEn": "Do not condescend to readers with oversimplified claims.",
+      "speakLineZh": "別用過度簡化的說法屈尊俯就讀者。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "crescendo",
+      "inVocab": true,
+      "senseAnchor": "(music) a gradual increase in loudness; grow louder",
+      "roleInScript": "聲音／情緒往上爬",
+      "humorDevice": "story",
+      "zhGloss": "漸強；高潮漸起",
+      "speakLineEn": "Criticism rose to a crescendo before the vote.",
+      "speakLineZh": "投票前批評聲浪漸強至高潮。",
+      "related": {
+        "synonyms": "",
+        "antonyms": "decrescendo"
+      }
+    }
+  ],
+  "reviewHooks": [
+    "爬：ascend↑ descend↓ transcend 超出去；condescend＝假裝下來",
+    "condescend 必帶『高人一等』語氣"
+  ],
+  "pitfalls": [
+    "descend into = 墮落到某種壞狀態",
+    "crescendo 常被誤用為『高潮本身』，嚴格說是『漸強過程』"
+  ],
+  "lessonRefs": [
+    "lesson-root-scend-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "elementIds": [
+    "root-053"
+  ],
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "note": "Stage-1 promote: aligned with tract lesson template"
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "id": "root-path-01",
+  "type": "root",
+  "elementLemma": "path",
+  "titleZh": "path｜情感診所",
+  "titleEn": "The Feeling Clinic",
+  "hook": "字根 path＝感、受苦——診所專治『感不感得到』。",
+  "script": "apathy 是掛號也不想感；empathy 能感同身受，sympathy 隔床安慰。pathos 是催淚橋段，pathetic 可憐到讓人感嘆。antipathy 天生反感，pathogen 讓身體受苦的病原；homeopathy 等療法名也帶 path，但考試先抓住『感／病』核心。",
+  "members": [
+    {
+      "headword": "apathy",
+      "inVocab": true,
+      "senseAnchor": "an absence of emotion or enthusiasm; the trait of lacking enthusiasm for or interest in things generally",
+      "roleInScript": "完全不想感",
+      "humorDevice": "morphology",
+      "zhGloss": "冷漠；無興趣",
+      "speakLineEn": "Voter apathy can mute even strong reforms.",
+      "speakLineZh": "選民冷漠能使再強的改革也消音。",
+      "related": {
+        "synonyms": "indifference, numbness, spiritlessness",
+        "antonyms": "enthusiasm, interest"
+      }
+    },
+    {
+      "headword": "empathy",
+      "inVocab": true,
+      "senseAnchor": "understanding and entering into another's feelings",
+      "roleInScript": "把對方的感受接進來",
+      "humorDevice": "morphology",
+      "zhGloss": "同理心；感同身受",
+      "speakLineEn": "Empathy aids interviewing but does not replace coding rules.",
+      "speakLineZh": "同理心有助訪談，但不能取代編碼規則。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "sympathy",
+      "inVocab": false,
+      "senseAnchor": "同情；同感",
+      "roleInScript": "隔床安慰",
+      "humorDevice": "morphology",
+      "zhGloss": "同情；同感",
+      "speakLineEn": "Sympathy alone cannot allocate scarce beds.",
+      "speakLineZh": "單靠同情無法分配稀缺床位。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "pathos",
+      "inVocab": false,
+      "senseAnchor": "悲愴力；同情的感染",
+      "roleInScript": "催淚處方",
+      "humorDevice": "morphology",
+      "zhGloss": "悲愴力；同情的感染",
+      "speakLineEn": "The speech relied more on pathos than on proof.",
+      "speakLineZh": "演說更依賴悲愴感染而非證據。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "pathetic",
+      "inVocab": true,
+      "senseAnchor": "deserving or inciting pity; ; ; - Galsworthy; inspiring mixed contempt and pity",
+      "roleInScript": "感嘆其弱",
+      "humorDevice": "morphology",
+      "zhGloss": "可憐的；無力的（常貶）",
+      "speakLineEn": "A pathetic sample size cannot support the claim.",
+      "speakLineZh": "可憐的樣本數支撐不起該主張。",
+      "related": {
+        "synonyms": "hapless, miserable, misfortunate, piteous, pitiable, pitiful",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "antipathy",
+      "inVocab": true,
+      "senseAnchor": "a feeling of intense dislike; the object of a feeling of intense aversion; something to be avoided",
+      "roleInScript": "天生排斥感",
+      "humorDevice": "morphology",
+      "zhGloss": "反感；憎惡",
+      "speakLineEn": "Mutual antipathy stalled coalition talks.",
+      "speakLineZh": "相互反感讓聯盟談判停滯。",
+      "related": {
+        "synonyms": "aversion, distaste",
+        "antonyms": "affinity, sympathy"
+      }
+    },
+    {
+      "headword": "pathogen",
+      "inVocab": false,
+      "senseAnchor": "病原體",
+      "roleInScript": "讓身體受苦的東西",
+      "humorDevice": "story",
+      "zhGloss": "病原體",
+      "speakLineEn": "The model treats misinformation like a pathogen.",
+      "speakLineZh": "該模型把錯誤訊息當成病原體。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "pathology",
+      "inVocab": true,
+      "senseAnchor": "the branch of medical science that studies the causes and nature and effects of diseases; any deviation from a healthy or normal condition",
+      "roleInScript": "研究苦難的學科",
+      "humorDevice": "morphology",
+      "zhGloss": "病理；病態",
+      "speakLineEn": "Organizational pathology showed up as chronic delay.",
+      "speakLineZh": "組織病態表現為長期拖延。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "telepathy",
+      "inVocab": false,
+      "senseAnchor": "心靈感應",
+      "roleInScript": "遠距感覺（多比喻）",
+      "humorDevice": "story",
+      "zhGloss": "心靈感應",
+      "speakLineEn": "Good editors are not telepathic; mark your claims.",
+      "speakLineZh": "好編輯不是心靈感應——請標明你的主張。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "sociopath",
+      "inVocab": false,
+      "senseAnchor": "反社會人格者（通俗用法）",
+      "roleInScript": "社會情感電路故障",
+      "humorDevice": "story",
+      "zhGloss": "反社會人格者（通俗用法）",
+      "speakLineEn": "Popular media overuses “sociopath” as a slur.",
+      "speakLineZh": "大眾媒體過度把「sociopath」當罵人用語。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "homeopathy",
+      "inVocab": false,
+      "senseAnchor": "順勢療法（名含 path；考構詞辨識）",
+      "roleInScript": "診所裡的療法招牌",
+      "humorDevice": "story",
+      "zhGloss": "順勢療法（名含 path；考構詞辨識）",
+      "speakLineEn": "Etymology explains -pathy in homeopathy, but efficacy is a separate claim.",
+      "speakLineZh": "字源能解釋 homeopathy 裡的 -pathy，但療效是另一個命題。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    }
+  ],
+  "reviewHooks": [
+    "path＝感／苦：apathy 無感、empathy 同感、sympathy 同情、antipathy 反感",
+    "pathos＝悲劇感染力；pathogen＝致病者"
+  ],
+  "pitfalls": [
+    "empathy（代入感受）vs sympathy（同情／憐憫）層次不同",
+    "pathetic 口語常貶，學術上也可指『引發悲憫』"
+  ],
+  "lessonRefs": [
+    "lesson-root-path-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S2",
+    "note": "New A-level cluster with full lesson"
+  }
+}

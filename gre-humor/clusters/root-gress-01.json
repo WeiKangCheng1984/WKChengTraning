@@ -1,0 +1,183 @@
+{
+  "id": "root-gress-01",
+  "type": "root",
+  "elementLemma": "grad/gress",
+  "titleZh": "gress｜步伐競技場",
+  "titleEn": "The Pace Arena",
+  "hook": "字根 grad/gress＝走、步——誰進步誰退步看腳步。",
+  "script": "社會要 progress 向前走；失敗就 regress 退步。aggressive 人步步進逼，digress 演講走歪路。congress 走到一起開會；egress 是出口那一步。grade 是階梯等級，gradual 一步一步。",
+  "members": [
+    {
+      "headword": "progress",
+      "inVocab": false,
+      "senseAnchor": "進步；前進",
+      "roleInScript": "向前走",
+      "humorDevice": "morphology",
+      "zhGloss": "進步；前進",
+      "speakLineEn": "Progress requires measurable milestones.",
+      "speakLineZh": "進步需要可測量的里程碑。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "regress",
+      "inVocab": true,
+      "senseAnchor": "the reasoning involved when you assume the conclusion is true and reason backward to the evidence; returning to a former state",
+      "roleInScript": "往回走",
+      "humorDevice": "morphology",
+      "zhGloss": "退步；回歸",
+      "speakLineEn": "Under stress, teams may regress to safer routines.",
+      "speakLineZh": "壓力下團隊可能退回更安全的例行做法。",
+      "related": {
+        "synonyms": "regression, reversion, retrogression, retroversion, revert, return",
+        "antonyms": "progress"
+      }
+    },
+    {
+      "headword": "aggressive",
+      "inVocab": false,
+      "senseAnchor": "侵略的；積極進取的",
+      "roleInScript": "步步進逼",
+      "humorDevice": "morphology",
+      "zhGloss": "侵略的；積極進取的",
+      "speakLineEn": "Aggressive coding can introduce new bugs.",
+      "speakLineZh": "過度積極的編碼可能引入新錯誤。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "digress",
+      "inVocab": true,
+      "senseAnchor": "lose clarity or turn aside especially from the main subject of attention or course of argument in writing, thinking, or speaking; wander from a direct or straight course",
+      "roleInScript": "走到旁邊小路",
+      "humorDevice": "morphology",
+      "zhGloss": "離題",
+      "speakLineEn": "Let me digress briefly, then return to the claim.",
+      "speakLineZh": "容我短暫離題，再回到主張。",
+      "related": {
+        "synonyms": "stray, divagate, wander, sidetrack, depart, straggle",
+        "antonyms": "come, conform, stay"
+      }
+    },
+    {
+      "headword": "congress",
+      "inVocab": false,
+      "senseAnchor": "國會；代表大會",
+      "roleInScript": "走到一起",
+      "humorDevice": "story",
+      "zhGloss": "國會；代表大會",
+      "speakLineEn": "The congress of specialists produced a joint statement.",
+      "speakLineZh": "專家大會產出了聯合聲明。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "egress",
+      "inVocab": false,
+      "senseAnchor": "出口；外出",
+      "roleInScript": "走出去的口",
+      "humorDevice": "morphology",
+      "zhGloss": "出口；外出",
+      "speakLineEn": "Clear egress routes are part of lab safety.",
+      "speakLineZh": "清楚的出口動線是實驗室安全的一部分。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "grade",
+      "inVocab": false,
+      "senseAnchor": "等級；坡度；評分",
+      "roleInScript": "一步一階",
+      "humorDevice": "story",
+      "zhGloss": "等級；坡度；評分",
+      "speakLineEn": "We grade evidence by design quality, not by hype.",
+      "speakLineZh": "我們依設計品質評分證據，而非依炒作。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "gradual",
+      "inVocab": false,
+      "senseAnchor": "逐漸的",
+      "roleInScript": "一步一步",
+      "humorDevice": "morphology",
+      "zhGloss": "逐漸的",
+      "speakLineEn": "Change was gradual rather than revolutionary.",
+      "speakLineZh": "改變是逐漸的，而非革命性的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "degrade",
+      "inVocab": false,
+      "senseAnchor": "降級；貶低；降解",
+      "roleInScript": "往下走階梯",
+      "humorDevice": "morphology",
+      "zhGloss": "降級；貶低；降解",
+      "speakLineEn": "Noise can degrade signal quality.",
+      "speakLineZh": "噪音會降低訊號品質。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "retrograde",
+      "inVocab": false,
+      "senseAnchor": "倒退的；逆向的",
+      "roleInScript": "倒著走",
+      "humorDevice": "morphology",
+      "zhGloss": "倒退的；逆向的",
+      "speakLineEn": "The policy looks retrograde by current standards.",
+      "speakLineZh": "以現行標準看，該政策顯得倒退。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "transgress",
+      "inVocab": true,
+      "senseAnchor": "to fail to keep the rule",
+      "roleInScript": "跨過不該走的線",
+      "humorDevice": "morphology",
+      "zhGloss": "逾越；違反",
+      "speakLineEn": "To transgress the protocol voids the trial.",
+      "speakLineZh": "逾越協議會使試驗無效。",
+      "related": {
+        "synonyms": "breach, contravene",
+        "antonyms": "keep"
+      }
+    }
+  ],
+  "reviewHooks": [
+    "gress＝走：progress 前進、regress 後退、digress 離題走、aggressive 進逼",
+    "congress＝走到一起；egress＝走出去"
+  ],
+  "pitfalls": [
+    "digress（離題）不是 digressive 就一定壞——有時是風格，但考試常標『偏離主線』",
+    "aggressive 中性可指積極，語境常帶攻擊性"
+  ],
+  "lessonRefs": [
+    "lesson-root-gress-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S2",
+    "note": "New A-level cluster with full lesson"
+  }
+}

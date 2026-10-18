@@ -1,0 +1,104 @@
+{
+  "id": "lesson-root-loqu-01",
+  "slug": "root-loqu-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-loqu-01",
+  "titleZh": "loqu／log｜話術與論理雙演廳",
+  "titleEn": "Talk & Logos Stage",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "loqu＝說，log＝理／言——一邊開口，一邊要講道理。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "eloquent 人把話說漂亮；colloquial 是巷口聊天腔。soliloquy 獨角戲自言自語；grandiloquent 說話浮誇。logic 要合理，analogy 用類比說話；eulogy 說好話送別，prologue 開場先說。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "依 members 逐詞：義錨 → 劇本角色 → 跟讀 speakLineEn／對照 speakLineZh"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "見 quiz（3 題）"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "loqu＝說：eloquent 善說、colloquial 俗說、soliloquy 自說、grandiloquent 誇說",
+        "log＝理／言：logic 論理、analogy 類比言、eulogy 讚詞、prologue 前言"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Conversational rather than formal language:",
+      "promptZh": "偏口語而非正式：",
+      "choices": [
+        "colloquial",
+        "grandiloquent",
+        "eulogy",
+        "logic"
+      ],
+      "answer": "colloquial"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "A speech of praise, often for the dead:",
+      "promptZh": "稱頌的演說（常用于悼念）：",
+      "choices": [
+        "prologue",
+        "eulogy",
+        "analogy",
+        "soliloquy"
+      ],
+      "answer": "eulogy"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Pompous or inflated in speech:",
+      "promptZh": "說話浮誇：",
+      "choices": [
+        "grandiloquent",
+        "eloquent",
+        "colloquial",
+        "elocution"
+      ],
+      "answer": "grandiloquent"
+    }
+  ],
+  "pitfalls": [
+    "與 sem-talk-01（話多／話少）互補：本族重『怎麼說／論理』",
+    "eulogy（頌詞）≠ elegy（輓歌）——形近另記"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S2",
+    "checklist": [
+      "hook+script",
+      "members ≥8 bilingual lines",
+      "reviewHooks ≥2",
+      "pitfalls ≥1",
+      "quiz ×3"
+    ]
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "id": "root-loqu-01",
+  "type": "root",
+  "elementLemma": "log/loqu",
+  "titleZh": "loqu／log｜話術與論理雙演廳",
+  "titleEn": "Talk & Logos Stage",
+  "hook": "loqu＝說，log＝理／言——一邊開口，一邊要講道理。",
+  "script": "eloquent 人把話說漂亮；colloquial 是巷口聊天腔。soliloquy 獨角戲自言自語；grandiloquent 說話浮誇。logic 要合理，analogy 用類比說話；eulogy 說好話送別，prologue 開場先說。",
+  "members": [
+    {
+      "headword": "eloquent",
+      "inVocab": false,
+      "senseAnchor": "雄辯的；有說服力的",
+      "roleInScript": "漂亮地說",
+      "humorDevice": "morphology",
+      "zhGloss": "雄辯的；有說服力的",
+      "speakLineEn": "An eloquent summary still needs citations.",
+      "speakLineZh": "再雄辯的摘要仍需要引用。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "colloquial",
+      "inVocab": true,
+      "senseAnchor": "characteristic of informal spoken language or conversation",
+      "roleInScript": "巷口腔",
+      "humorDevice": "morphology",
+      "zhGloss": "口語的；通俗的",
+      "speakLineEn": "Colloquial tone can undercut formal claims.",
+      "speakLineZh": "口語語氣可能削弱正式主張。",
+      "related": {
+        "synonyms": "conversational",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "soliloquy",
+      "inVocab": true,
+      "senseAnchor": "speech you make to yourself; a (usually long) dramatic speech intended to give the illusion of unspoken reflections",
+      "roleInScript": "自己對自己說",
+      "humorDevice": "morphology",
+      "zhGloss": "獨白",
+      "speakLineEn": "The chapter reads like a soliloquy, not a dialogue with critics.",
+      "speakLineZh": "這章讀起來像獨白，而非與批評者對話。",
+      "related": {
+        "synonyms": "monologue",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "grandiloquent",
+      "inVocab": false,
+      "senseAnchor": "誇大其詞的",
+      "roleInScript": "說得太大聲太空",
+      "humorDevice": "morphology",
+      "zhGloss": "誇大其詞的",
+      "speakLineEn": "Grandiloquent promises outran the budget.",
+      "speakLineZh": "誇大承諾超越了預算。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "logic",
+      "inVocab": false,
+      "senseAnchor": "邏輯；道理",
+      "roleInScript": "說話要合理",
+      "humorDevice": "story",
+      "zhGloss": "邏輯；道理",
+      "speakLineEn": "Check the logic before polishing the prose.",
+      "speakLineZh": "先檢查邏輯，再打磨文筆。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "analogy",
+      "inVocab": false,
+      "senseAnchor": "類比",
+      "roleInScript": "用相似物來說",
+      "humorDevice": "morphology",
+      "zhGloss": "類比",
+      "speakLineEn": "A strained analogy misleads more than it teaches.",
+      "speakLineZh": "牽強類比誤導多於教學。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "eulogy",
+      "inVocab": true,
+      "senseAnchor": "a formal expression of praise for someone who has died recently; a formal expression of praise",
+      "roleInScript": "說好話送別",
+      "humorDevice": "morphology",
+      "zhGloss": "頌詞；悼詞（稱頌）",
+      "speakLineEn": "The eulogy praised method as much as results.",
+      "speakLineZh": "頌詞對方法與結果同樣稱許。",
+      "related": {
+        "synonyms": "eulogium, encomium, panegyric, paean, pean",
+        "antonyms": "invective, condemnation"
+      }
+    },
+    {
+      "headword": "prologue",
+      "inVocab": false,
+      "senseAnchor": "序言；開場白",
+      "roleInScript": "開場先說",
+      "humorDevice": "morphology",
+      "zhGloss": "序言；開場白",
+      "speakLineEn": "The prologue frames why the question matters.",
+      "speakLineZh": "序言框定了問題為何重要。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "loquacity",
+      "inVocab": false,
+      "senseAnchor": "話多；健談（偏多話）",
+      "roleInScript": "說個不停的量",
+      "humorDevice": "morphology",
+      "zhGloss": "話多；健談（偏多話）",
+      "speakLineEn": "Loquacity is not the same as clarity.",
+      "speakLineZh": "話多不等於清楚。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "elocution",
+      "inVocab": true,
+      "senseAnchor": "an expert manner of speaking involving control of voice and gesture",
+      "roleInScript": "怎麼把話說出口",
+      "humorDevice": "morphology",
+      "zhGloss": "演說術；發音法",
+      "speakLineEn": "Elocution cannot rescue a hollow argument.",
+      "speakLineZh": "演說技巧救不了空洞論證。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "ideology",
+      "inVocab": false,
+      "senseAnchor": "意識形態",
+      "roleInScript": "一套說理系統",
+      "humorDevice": "story",
+      "zhGloss": "意識形態",
+      "speakLineEn": "Ideology can script which analogies feel natural.",
+      "speakLineZh": "意識形態會編排哪些類比顯得自然。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    }
+  ],
+  "reviewHooks": [
+    "loqu＝說：eloquent 善說、colloquial 俗說、soliloquy 自說、grandiloquent 誇說",
+    "log＝理／言：logic 論理、analogy 類比言、eulogy 讚詞、prologue 前言"
+  ],
+  "pitfalls": [
+    "與 sem-talk-01（話多／話少）互補：本族重『怎麼說／論理』",
+    "eulogy（頌詞）≠ elegy（輓歌）——形近另記"
+  ],
+  "lessonRefs": [
+    "lesson-root-loqu-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S2",
+    "note": "New A-level cluster with full lesson"
+  }
+}

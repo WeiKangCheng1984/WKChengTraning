@@ -1,0 +1,183 @@
+{
+  "id": "root-duc-01",
+  "type": "root",
+  "elementLemma": "duc/duct",
+  "titleZh": "duc／duct｜導遊與導管",
+  "titleEn": "Guides and Ducts",
+  "hook": "字根 duc/duct＝引導——要嘛當導遊，要嘛當水管。",
+  "script": "好領導 conduct 引導團隊；證據 induce 引導你得出結論，邏輯 deduce 往下推導。壞人 abduct 把人拐走；教育 educate 把人往知識引導。aqueduct 引水，viaduct 引路跨谷；deduction 是推導或扣除。",
+  "members": [
+    {
+      "headword": "conduct",
+      "inVocab": false,
+      "senseAnchor": "引導；實施；行為",
+      "roleInScript": "帶隊前進",
+      "humorDevice": "morphology",
+      "zhGloss": "引導；實施；行為",
+      "speakLineEn": "How we conduct the interview shapes the answers.",
+      "speakLineZh": "我們如何進行訪談會形塑答案。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "induce",
+      "inVocab": false,
+      "senseAnchor": "引起；勸誘；歸納",
+      "roleInScript": "把結論引出來",
+      "humorDevice": "morphology",
+      "zhGloss": "引起；勸誘；歸納",
+      "speakLineEn": "The stimulus may induce a temporary bias.",
+      "speakLineZh": "該刺激可能引起暫時偏差。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "deduce",
+      "inVocab": false,
+      "senseAnchor": "演繹；推論",
+      "roleInScript": "順著管子往下推",
+      "humorDevice": "morphology",
+      "zhGloss": "演繹；推論",
+      "speakLineEn": "From the premises we deduce a narrower claim.",
+      "speakLineZh": "由前提我們演繹出更窄的主張。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "abduct",
+      "inVocab": false,
+      "senseAnchor": "誘拐；綁架",
+      "roleInScript": "把人引走邪路",
+      "humorDevice": "morphology",
+      "zhGloss": "誘拐；綁架",
+      "speakLineEn": "The plot abducts the reader from the main thesis.",
+      "speakLineZh": "情節把讀者從主論點拐走。（比喻用法需謹慎）",
+      "related": {
+        "synonyms": "kidnap",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "educate",
+      "inVocab": false,
+      "senseAnchor": "教育",
+      "roleInScript": "引出無知",
+      "humorDevice": "story",
+      "zhGloss": "教育",
+      "speakLineEn": "Public reports should educate without condescending.",
+      "speakLineZh": "公開報告應教育讀者而不屈尊俯就。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "aqueduct",
+      "inVocab": false,
+      "senseAnchor": "高架引水渠",
+      "roleInScript": "引水之管",
+      "humorDevice": "story",
+      "zhGloss": "高架引水渠",
+      "speakLineEn": "The aqueduct metaphor describes knowledge pipelines.",
+      "speakLineZh": "引水渠隱喻用來描述知識管線。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "viaduct",
+      "inVocab": false,
+      "senseAnchor": "高架橋",
+      "roleInScript": "引路跨過山谷",
+      "humorDevice": "story",
+      "zhGloss": "高架橋",
+      "speakLineEn": "A viaduct of citations connected distant fields.",
+      "speakLineZh": "一座引文高架橋連接了遙遠領域。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "deduction",
+      "inVocab": false,
+      "senseAnchor": "推論；扣除",
+      "roleInScript": "推導產物／扣掉的量",
+      "humorDevice": "morphology",
+      "zhGloss": "推論；扣除",
+      "speakLineEn": "The deduction follows only if the premise holds.",
+      "speakLineZh": "唯有前提成立，該推論才成立。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "seduce",
+      "inVocab": false,
+      "senseAnchor": "引誘；誘惑",
+      "roleInScript": "引向慾望",
+      "humorDevice": "morphology",
+      "zhGloss": "引誘；誘惑",
+      "speakLineEn": "Elegant prose can seduce readers past weak evidence.",
+      "speakLineZh": "優美文筆可能誘使讀者略過薄弱證據。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "ductile",
+      "inVocab": false,
+      "senseAnchor": "可塑的；易導引成形的",
+      "roleInScript": "可被引導改變形狀",
+      "humorDevice": "morphology",
+      "zhGloss": "可塑的；易導引成形的",
+      "speakLineEn": "Ductile institutions adapt without breaking.",
+      "speakLineZh": "具延展性的制度能適應而不破裂。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "introduction",
+      "inVocab": false,
+      "senseAnchor": "引言；介紹；導入",
+      "roleInScript": "把讀者引進來",
+      "humorDevice": "story",
+      "zhGloss": "引言；介紹；導入",
+      "speakLineEn": "A clear introduction conducts the reader into the stakes.",
+      "speakLineZh": "清楚的引言把讀者引入利害關係。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    }
+  ],
+  "reviewHooks": [
+    "duc＝引：conduct 帶領、induce 引出、deduce 推導、abduct 拐走",
+    "educate＝把人引出無知；aqueduct＝引水之管"
+  ],
+  "pitfalls": [
+    "induce（歸納／引起）與 deduce（演繹）方向不同",
+    "deduction 雙義：推理扣除／金額扣除"
+  ],
+  "lessonRefs": [
+    "lesson-root-duc-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S2",
+    "note": "New A-level cluster with full lesson"
+  }
+}

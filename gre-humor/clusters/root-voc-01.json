@@ -1,0 +1,183 @@
+{
+  "id": "root-voc-01",
+  "type": "root",
+  "elementLemma": "voc/vok",
+  "titleZh": "voc／vok｜呼叫中心",
+  "titleEn": "Call Center of voc/vok",
+  "hook": "字根 voc/vok＝呼、叫——整棟樓都是對講機。",
+  "script": "你 invoke 呼叫權威來站台；對手 provoke 挑釁你出聲。會議 convoke 把人召來，權利被 revoke 撤銷就消音。vocabulary 是你的詞彙武器庫，vocal 是出聲音的；equivocal 一句話兩種叫聲，univocal 只有一種意思。",
+  "members": [
+    {
+      "headword": "invoke",
+      "inVocab": true,
+      "senseAnchor": "summon into action or bring into existence, often as if by magic; cite as an authority; resort to",
+      "roleInScript": "呼叫權威",
+      "humorDevice": "morphology",
+      "zhGloss": "援引；祈求；啟用",
+      "speakLineEn": "The brief invokes precedent from earlier rulings.",
+      "speakLineZh": "訴狀援引了先前裁定作為先例。",
+      "related": {
+        "synonyms": "raise, conjure, evoke, stir, arouse, appeal",
+        "antonyms": "demote, descent, level, lower, cause to sleep, de-energise, de-energize, fall asleep"
+      }
+    },
+    {
+      "headword": "provoke",
+      "inVocab": false,
+      "senseAnchor": "激怒；激起",
+      "roleInScript": "挑釁出聲",
+      "humorDevice": "morphology",
+      "zhGloss": "激怒；激起",
+      "speakLineEn": "The remark was meant to provoke a reaction, not illuminate.",
+      "speakLineZh": "那句話意在激起反應，而非澄清。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "convoke",
+      "inVocab": true,
+      "senseAnchor": "call together",
+      "roleInScript": "把人召來",
+      "humorDevice": "morphology",
+      "zhGloss": "召集（會議）",
+      "speakLineEn": "Leaders convoked an emergency panel.",
+      "speakLineZh": "領導人召集了緊急小組。",
+      "related": {
+        "synonyms": "convene",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "avocation",
+      "inVocab": true,
+      "senseAnchor": "an auxiliary activity",
+      "roleInScript": "把你從正職叫走的嗜好",
+      "humorDevice": "story",
+      "zhGloss": "副業；嗜好（呼叫你離開正職的事）",
+      "speakLineEn": "Poetry remained his avocation, not his livelihood.",
+      "speakLineZh": "詩仍是他的副業嗜好，不是生計。",
+      "related": {
+        "synonyms": "by-line, hobby, pursuit, sideline",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "vocabulary",
+      "inVocab": false,
+      "senseAnchor": "詞彙",
+      "roleInScript": "可呼叫的詞庫",
+      "humorDevice": "story",
+      "zhGloss": "詞彙",
+      "speakLineEn": "A precise vocabulary reduces equivocation.",
+      "speakLineZh": "精確詞彙能減少模稜兩可。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "vocal",
+      "inVocab": false,
+      "senseAnchor": "聲音的；直言的",
+      "roleInScript": "出聲的",
+      "humorDevice": "morphology",
+      "zhGloss": "聲音的；直言的",
+      "speakLineEn": "Vocal critics forced a policy rewrite.",
+      "speakLineZh": "直言批評者迫使政策重寫。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "equivocal",
+      "inVocab": false,
+      "senseAnchor": "模稜兩可的",
+      "roleInScript": "一句兩種叫聲",
+      "humorDevice": "morphology",
+      "zhGloss": "模稜兩可的",
+      "speakLineEn": "An equivocal answer delayed the decision.",
+      "speakLineZh": "模稜兩可的回答拖延了決定。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "univocal",
+      "inVocab": true,
+      "senseAnchor": "clearly expressed",
+      "roleInScript": "只有一種叫聲",
+      "humorDevice": "morphology",
+      "zhGloss": "單義的；明確的",
+      "speakLineEn": "The statute is rarely univocal in application.",
+      "speakLineZh": "法條在適用上很少是單義明確的。",
+      "related": {
+        "synonyms": "clear-cut, explicit",
+        "antonyms": "equivocal, implicit, vague"
+      }
+    },
+    {
+      "headword": "advocate",
+      "inVocab": false,
+      "senseAnchor": "提倡；辯護者",
+      "roleInScript": "替人出聲",
+      "humorDevice": "morphology",
+      "zhGloss": "提倡；辯護者",
+      "speakLineEn": "She advocates transparent peer review.",
+      "speakLineZh": "她提倡透明的同儕審查。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "vociferous",
+      "inVocab": true,
+      "senseAnchor": "expressing opinions loudly",
+      "roleInScript": "超大聲呼叫",
+      "humorDevice": "morphology",
+      "zhGloss": "喊叫的；喧嘩的",
+      "speakLineEn": "Vociferous objections filled the hearing.",
+      "speakLineZh": "喧嘩反對聲充滿聽證會。",
+      "related": {
+        "synonyms": "clamorous, boisterous",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "irrevocable",
+      "inVocab": true,
+      "senseAnchor": "incapable of being retracted or revoked; - Shakespeare",
+      "roleInScript": "叫聲收不回去",
+      "humorDevice": "morphology",
+      "zhGloss": "不可撤銷的",
+      "speakLineEn": "The resignation was framed as irrevocable.",
+      "speakLineZh": "辭呈被定性為不可撤銷。",
+      "related": {
+        "synonyms": "irrevokable",
+        "antonyms": "revocable"
+      }
+    }
+  ],
+  "reviewHooks": [
+    "voc＝叫：invoke 请来、provoke 激怒出聲、convoke 召開、revoke 撤聲／撤權",
+    "equivocal 模稜兩可 ↔ univocal 單一明確"
+  ],
+  "pitfalls": [
+    "invoke（援引／祈求）≠ evoke（喚起情感）——evoke 已在 rhyme-eak 族",
+    "revoke 與 evoke 尾韻像，方向相反：收回 vs 喚起"
+  ],
+  "lessonRefs": [
+    "lesson-root-voc-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S2",
+    "note": "New A-level cluster with full lesson"
+  }
+}

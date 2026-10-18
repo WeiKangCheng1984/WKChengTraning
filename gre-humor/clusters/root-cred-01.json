@@ -1,0 +1,183 @@
+{
+  "id": "root-cred-01",
+  "type": "root",
+  "elementLemma": "cred",
+  "titleZh": "cred｜信用櫃台",
+  "titleEn": "The Credit Counter",
+  "hook": "字根 cred＝信——這裡只收『可信度』當貨幣。",
+  "script": "說法要 credible 才收得進；credulous 人什麼都信，incredulous 人怎麼都不信。credential 是信用證件，credit 是信用額度。credence 是給予相信，credo 是信條；discredit 讓人失去信用。",
+  "members": [
+    {
+      "headword": "credible",
+      "inVocab": false,
+      "senseAnchor": "可信的",
+      "roleInScript": "櫃台收得下的說法",
+      "humorDevice": "morphology",
+      "zhGloss": "可信的",
+      "speakLineEn": "A credible mechanism explains the effect size.",
+      "speakLineZh": "可信的機制能解釋效應量。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "credulous",
+      "inVocab": true,
+      "senseAnchor": "too ready to believe things and therefore easy to trick",
+      "roleInScript": "什麼都蓋章相信",
+      "humorDevice": "morphology",
+      "zhGloss": "輕信的",
+      "speakLineEn": "Credulous readers amplify weak studies.",
+      "speakLineZh": "輕信的讀者會放大薄弱研究。",
+      "related": {
+        "synonyms": "gullible",
+        "antonyms": "skeptical, wary, incredulous"
+      }
+    },
+    {
+      "headword": "incredulous",
+      "inVocab": false,
+      "senseAnchor": "懷疑的；不相信的",
+      "roleInScript": "櫃台拒收",
+      "humorDevice": "morphology",
+      "zhGloss": "懷疑的；不相信的",
+      "speakLineEn": "Experts remained incredulous about the miracle cure.",
+      "speakLineZh": "專家對奇蹟療法仍表懷疑。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "credential",
+      "inVocab": false,
+      "senseAnchor": "資格證件；憑證",
+      "roleInScript": "信用會員卡",
+      "humorDevice": "morphology",
+      "zhGloss": "資格證件；憑證",
+      "speakLineEn": "Credentials do not replace transparent methods.",
+      "speakLineZh": "資格證件不能取代透明方法。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "credit",
+      "inVocab": false,
+      "senseAnchor": "信用；讚譽；學分",
+      "roleInScript": "信用額度",
+      "humorDevice": "morphology",
+      "zhGloss": "信用；讚譽；學分",
+      "speakLineEn": "Give credit to prior work you build on.",
+      "speakLineZh": "對你所延續的先前研究要給予讚譽／歸功。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "credence",
+      "inVocab": false,
+      "senseAnchor": "相信；信任",
+      "roleInScript": "給予相信",
+      "humorDevice": "morphology",
+      "zhGloss": "相信；信任",
+      "speakLineEn": "The finding gained credence after replication.",
+      "speakLineZh": "該發現在複現後獲得信任。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "credo",
+      "inVocab": true,
+      "senseAnchor": "any system of principles or beliefs",
+      "roleInScript": "櫃台背後的信仰海報",
+      "humorDevice": "morphology",
+      "zhGloss": "信條",
+      "speakLineEn": "Open data became the lab’s credo.",
+      "speakLineZh": "開放資料成了該實驗室的信條。",
+      "related": {
+        "synonyms": "creed",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "discredit",
+      "inVocab": false,
+      "senseAnchor": "使喪失信用",
+      "roleInScript": "把信用撤銷",
+      "humorDevice": "morphology",
+      "zhGloss": "使喪失信用",
+      "speakLineEn": "Selective leaks aimed to discredit the committee.",
+      "speakLineZh": "選擇性洩密旨在使委員會喪失信用。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "accredited",
+      "inVocab": false,
+      "senseAnchor": "經認證的",
+      "roleInScript": "官方蓋過信用章",
+      "humorDevice": "morphology",
+      "zhGloss": "經認證的",
+      "speakLineEn": "Only accredited labs may process the samples.",
+      "speakLineZh": "唯有經認證實驗室可處理樣本。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "credibility",
+      "inVocab": false,
+      "senseAnchor": "可信度",
+      "roleInScript": "信用分數",
+      "humorDevice": "morphology",
+      "zhGloss": "可信度",
+      "speakLineEn": "Credibility erodes when errors go uncorrected.",
+      "speakLineZh": "錯誤不更正，可信度就侵蝕。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "incredible",
+      "inVocab": false,
+      "senseAnchor": "難以置信的",
+      "roleInScript": "超出櫃台想像",
+      "humorDevice": "lookalike",
+      "zhGloss": "難以置信的",
+      "speakLineEn": "Incredible claims require extraordinary evidence.",
+      "speakLineZh": "難以置信的宣稱需要非凡證據。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    }
+  ],
+  "reviewHooks": [
+    "cred＝信：credible 可信、credulous 輕信、incredulous 不信、discredit 抹黑失信",
+    "credential＝證明你可信的證件；credo＝你信什麼"
+  ],
+  "pitfalls": [
+    "incredible（難以置信的事物）vs incredulous（不肯信的人）——易混",
+    "credulous 是貶義居多：太好騙"
+  ],
+  "lessonRefs": [
+    "lesson-root-cred-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S2",
+    "note": "New A-level cluster with full lesson"
+  }
+}

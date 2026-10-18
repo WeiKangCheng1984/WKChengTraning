@@ -1,0 +1,114 @@
+{
+  "id": "sem-temper-01",
+  "type": "semantic",
+  "elementLemma": "temper-vs-amiable",
+  "titleZh": "脾氣暴躁 ↔ 和藹可親",
+  "titleEn": "Choleric vs. Affable",
+  "hook": "熱可樂一開就炸，對面卻始終春風笑。",
+  "script": "左邊 choleric、irascible、peevish——點火就爆；右邊 affable、genial、amiable——誰來都好說話。",
+  "members": [
+    {
+      "headword": "choleric",
+      "inVocab": true,
+      "senseAnchor": "easily moved to anger; - H.G.Wells; quickly aroused to anger",
+      "roleInScript": "熱可樂炸彈",
+      "humorDevice": "phonetic",
+      "zhGloss": "易怒的",
+      "speakLineEn": "A choleric referee escalated every dispute.",
+      "speakLineZh": "易怒的裁判讓每個爭議都升級。",
+      "related": {
+        "synonyms": "irascible, hotheaded, hot-tempered, quick-tempered, short-tempered",
+        "antonyms": "calm, placid"
+      }
+    },
+    {
+      "headword": "irascible",
+      "inVocab": true,
+      "senseAnchor": "becoming angry easily",
+      "roleInScript": "點火就著",
+      "humorDevice": "contrast",
+      "zhGloss": "暴躁易怒的",
+      "speakLineEn": "The irascible professor dismissed soft questions.",
+      "speakLineZh": "暴躁教授直接打發軟問題。",
+      "related": {
+        "synonyms": "exasperated, pugnacious, cantankerous, choleric",
+        "antonyms": "calm, placid, better, peaceable, amiable"
+      }
+    },
+    {
+      "headword": "peevish",
+      "inVocab": true,
+      "senseAnchor": "easily irritated or annoyed",
+      "roleInScript": "碎碎念易怒",
+      "humorDevice": "contrast",
+      "zhGloss": "易怒的；壞脾氣的",
+      "speakLineEn": "Peevish objections rarely improve the draft.",
+      "speakLineZh": "壞脾氣的反對很少能改好草稿。",
+      "related": {
+        "synonyms": "cranky, fractious, irritable, nettlesome, peckish, pettish",
+        "antonyms": "agreeable, docile"
+      }
+    },
+    {
+      "headword": "affable",
+      "inVocab": false,
+      "senseAnchor": "和藹可親的",
+      "roleInScript": "好說話笑臉",
+      "humorDevice": "contrast",
+      "zhGloss": "和藹可親的",
+      "speakLineEn": "An affable chair kept the panel constructive.",
+      "speakLineZh": "和藹的主席讓座談保持建設性。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "genial",
+      "inVocab": true,
+      "senseAnchor": "diffusing warmth and friendliness; of or relating to the chin or median part of the lower jaw",
+      "roleInScript": "溫暖氣場",
+      "humorDevice": "contrast",
+      "zhGloss": "友善溫和的",
+      "speakLineEn": "His genial tone disarmed hostile reviewers.",
+      "speakLineZh": "他溫和的語氣化解了敵意審稿人。",
+      "related": {
+        "synonyms": "affable, amiable, cordial, mental, kind",
+        "antonyms": "surly, aloof, hostile, unfriendly, physical, unkind"
+      }
+    },
+    {
+      "headword": "amiable",
+      "inVocab": false,
+      "senseAnchor": "親切隨和的",
+      "roleInScript": "好相處",
+      "humorDevice": "contrast",
+      "zhGloss": "親切隨和的",
+      "speakLineEn": "Amiable colleagues still need clear standards.",
+      "speakLineZh": "親切同事依然需要清楚標準。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    }
+  ],
+  "reviewHooks": [
+    "爆：choleric/irascible/peevish；暖：affable/genial/amiable",
+    "choleric≈熱可樂一開就噴"
+  ],
+  "pitfalls": [
+    "amiable 指人緣好；amicable 常指關係／協議和睦——形近"
+  ],
+  "lessonRefs": [
+    "lesson-sem-temper-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "elementIds": [
+    "semantic-274"
+  ],
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "note": "Stage-1 promote: aligned with tract lesson template"
+  }
+}

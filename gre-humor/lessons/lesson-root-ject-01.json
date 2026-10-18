@@ -1,0 +1,104 @@
+{
+  "id": "lesson-root-ject-01",
+  "slug": "root-ject-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-ject-01",
+  "titleZh": "ject｜投擲訓練場",
+  "titleEn": "The Throwing Range",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 ject＝投、擲——想法與物件滿場飛。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "反對就 reject 扔回去；意見 inject 注射進去。計劃 project 向前投射，猜測是 conjecture。eject 彈射出去，subject 被扔在權下，object 扔出異議。abject 被扔到最低處，trajectory 是拋物線軌道。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "依 members 逐詞：義錨 → 劇本角色 → 跟讀 speakLineEn／對照 speakLineZh"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "見 quiz（3 題）"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "ject＝扔：reject 扔回、inject 注入、project 向前投、eject 彈出",
+        "conjecture＝一起投出來的猜測；abject＝被扔到最低"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "An educated guess without firm proof:",
+      "promptZh": "沒有堅實證據的推測：",
+      "choices": [
+        "trajectory",
+        "conjecture",
+        "eject",
+        "projectile"
+      ],
+      "answer": "conjecture"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Miserable or utterly degrading:",
+      "promptZh": "悲慘或徹底卑下：",
+      "choices": [
+        "abject",
+        "object",
+        "inject",
+        "project"
+      ],
+      "answer": "abject"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "To throw a remark into a conversation:",
+      "promptZh": "突然插入一句話：",
+      "choices": [
+        "reject",
+        "interject",
+        "subject",
+        "eject"
+      ],
+      "answer": "interject"
+    }
+  ],
+  "pitfalls": [
+    "subject 多義：主題／臣民／使遭受——看上下文",
+    "project 名詞計畫／動詞投射，詞性要分清"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S2",
+    "checklist": [
+      "hook+script",
+      "members ≥8 bilingual lines",
+      "reviewHooks ≥2",
+      "pitfalls ≥1",
+      "quiz ×3"
+    ]
+  }
+}

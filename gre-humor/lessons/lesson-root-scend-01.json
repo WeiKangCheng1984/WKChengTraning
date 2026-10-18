@@ -1,0 +1,103 @@
+{
+  "id": "lesson-root-scend-01",
+  "slug": "root-scend-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-scend-01",
+  "titleZh": "scend｜階層攀爬遊戲",
+  "titleEn": "Climb the Ladder",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "scend＝爬升——一起往上或往下看人。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "英雄 ascend 上升，反派 descend 下降；真正高手 transcend 超越階層。最討厭的是 condescend：假裝屈尊下爬來『關心』你。音樂一 crescendo，情緒也往上爬。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "依 members 逐詞：義錨 → 劇本角色 → 跟讀 speakLineEn／對照 speakLineZh"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "見 quiz（3 題）"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "爬：ascend↑ descend↓ transcend 超出去；condescend＝假裝下來",
+        "condescend 必帶『高人一等』語氣"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "To talk down to someone as if superior is to:",
+      "promptZh": "以高人一等的態度對人說話，是：",
+      "choices": [
+        "ascend",
+        "transcend",
+        "condescend",
+        "crescendo"
+      ],
+      "answer": "condescend"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "To go beyond ordinary limits is to:",
+      "promptZh": "超越平常界限，是：",
+      "choices": [
+        "descend",
+        "transcend",
+        "crescendo",
+        "condescend"
+      ],
+      "answer": "transcend"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "A gradual increase in intensity is a:",
+      "promptZh": "強度逐漸升高，是：",
+      "choices": [
+        "descend",
+        "ascend",
+        "crescendo",
+        "condescend"
+      ],
+      "answer": "crescendo"
+    }
+  ],
+  "pitfalls": [
+    "descend into = 墮落到某種壞狀態",
+    "crescendo 常被誤用為『高潮本身』，嚴格說是『漸強過程』"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "checklist": [
+      "hook+script present",
+      "members ≥4 with bilingual speak lines",
+      "reviewHooks ≥2",
+      "pitfalls ≥1",
+      "quiz ×3 sense-accurate"
+    ]
+  }
+}

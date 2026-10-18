@@ -1,0 +1,104 @@
+{
+  "id": "lesson-root-vert-01",
+  "slug": "root-vert-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-vert-01",
+  "titleZh": "vert／vers｜轉彎人生操作台",
+  "titleEn": "Turntable of vert/vers",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 vert/vers＝轉——人生遙控器專管轉向。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "風向一變就 divert 轉向；危險來了趕緊 avert 轉開。政策 revert 轉回舊制，野心家想 subvert 從底下推翻。性格 perverse 老愛反著轉；世界觀是宇宙的 universe，一封信是寫給你的 verse 轉過來的詩行。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "依 members 逐詞：義錨 → 劇本角色 → 跟讀 speakLineEn／對照 speakLineZh"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "見 quiz（3 題）"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "vert＝轉：divert 轉開、avert 避開、revert 轉回、subvert 底下翻轉",
+        "perverse＝故意反著來；universe＝轉成一整體的世界"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "To prevent a disaster by turning it aside is to:",
+      "promptZh": "把災難轉開以避免，是：",
+      "choices": [
+        "subvert",
+        "avert",
+        "revert",
+        "divert for fun only"
+      ],
+      "answer": "avert"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "To undermine a system from within is to:",
+      "promptZh": "從內部顛覆體制，是：",
+      "choices": [
+        "avert",
+        "revert",
+        "subvert",
+        "anniversary"
+      ],
+      "answer": "subvert"
+    },
+    {
+      "id": "q3",
+      "type": "lookalike",
+      "promptEn": "adverse (harmful) is closest to:",
+      "promptZh": "adverse（不利的）最接近：",
+      "choices": [
+        "averse only",
+        "harmful / unfavorable",
+        "advertise",
+        "reverse"
+      ],
+      "answer": "harmful / unfavorable"
+    }
+  ],
+  "pitfalls": [
+    "avert（轉開／避免）≠ advert（注意／廣告相關）",
+    "subvert 是顛覆體制，不是單純『轉個彎』"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S2",
+    "checklist": [
+      "hook+script",
+      "members ≥8 bilingual lines",
+      "reviewHooks ≥2",
+      "pitfalls ≥1",
+      "quiz ×3"
+    ]
+  }
+}

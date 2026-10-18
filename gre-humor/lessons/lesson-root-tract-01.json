@@ -1,0 +1,104 @@
+{
+  "id": "lesson-root-tract-01",
+  "slug": "root-tract-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-tract-01",
+  "titleZh": "tract｜拔河狂人劇場",
+  "titleEn": "The Tug-of-War Maniac",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 tract＝拉、扯、拖——主角是拔河狂人。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "拔河狂人最會 attract 觀眾目光；一有風吹草動就 distract 對手。合約他要 protract 拖長，說過的話又能 retract 拉回肚子。別人一成功他就 detract 貶低；溫馴的叫 tractable，死都不肯被拉的叫 intractable。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "依 members 逐詞：義錨 → 劇本角色 → 跟讀 speakLineEn／對照 speakLineZh"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "見 quiz（3 題）"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "tract＝拉：吸引吸引過來、分心拉開、拖延拉長、撤回拉回、貶低往下拉",
+        "tractable 拉得動 ↔ intractable 拉不動"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Which word best means “to make something seem less valuable”?",
+      "promptZh": "哪一個詞最接近「使某事顯得較不有價值／貶低」？",
+      "choices": [
+        "attract",
+        "detract",
+        "protract",
+        "tractable"
+      ],
+      "answer": "detract"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "A problem that is hard to manage is:",
+      "promptZh": "一個很難處理／駕馭的問題是：",
+      "choices": [
+        "tractable",
+        "attractive",
+        "intractable",
+        "retracted"
+      ],
+      "answer": "intractable"
+    },
+    {
+      "id": "q3",
+      "type": "lookalike",
+      "promptEn": "protract is closest in idea to:",
+      "promptZh": "protract 在概念上最接近：",
+      "choices": [
+        "protect",
+        "prolong",
+        "protest",
+        "portray"
+      ],
+      "answer": "prolong"
+    }
+  ],
+  "pitfalls": [
+    "detract from = 減損……的價值；不要寫成『攻擊某人』的唯一義",
+    "retract（撤回說法／縮回）≠ retreat（撤退）",
+    "protract 偏『延長過程』，不是『保護 protect』"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "checklist": [
+      "hook+script present",
+      "members ≥4 with bilingual speak lines",
+      "reviewHooks ≥2",
+      "pitfalls ≥1",
+      "quiz ×3 sense-accurate"
+    ]
+  }
+}

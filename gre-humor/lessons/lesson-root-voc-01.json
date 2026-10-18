@@ -1,0 +1,104 @@
+{
+  "id": "lesson-root-voc-01",
+  "slug": "root-voc-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-voc-01",
+  "titleZh": "voc／vok｜呼叫中心",
+  "titleEn": "Call Center of voc/vok",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 voc/vok＝呼、叫——整棟樓都是對講機。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "你 invoke 呼叫權威來站台；對手 provoke 挑釁你出聲。會議 convoke 把人召來，權利被 revoke 撤銷就消音。vocabulary 是你的詞彙武器庫，vocal 是出聲音的；equivocal 一句話兩種叫聲，univocal 只有一種意思。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "依 members 逐詞：義錨 → 劇本角色 → 跟讀 speakLineEn／對照 speakLineZh"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "見 quiz（3 題）"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "voc＝叫：invoke 请来、provoke 激怒出聲、convoke 召開、revoke 撤聲／撤權",
+        "equivocal 模稜兩可 ↔ univocal 單一明確"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "To cite authority in support is to:",
+      "promptZh": "援引權威來支持，是：",
+      "choices": [
+        "provoke",
+        "invoke",
+        "convoke",
+        "vocalize only"
+      ],
+      "answer": "invoke"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Ambiguous in meaning:",
+      "promptZh": "意思模稜兩可：",
+      "choices": [
+        "univocal",
+        "equivocal",
+        "vociferous",
+        "advocate"
+      ],
+      "answer": "equivocal"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Cannot be undone or withdrawn:",
+      "promptZh": "無法撤銷：",
+      "choices": [
+        "avocation",
+        "irrevocable",
+        "vocal",
+        "provoke"
+      ],
+      "answer": "irrevocable"
+    }
+  ],
+  "pitfalls": [
+    "invoke（援引／祈求）≠ evoke（喚起情感）——evoke 已在 rhyme-eak 族",
+    "revoke 與 evoke 尾韻像，方向相反：收回 vs 喚起"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S2",
+    "checklist": [
+      "hook+script",
+      "members ≥8 bilingual lines",
+      "reviewHooks ≥2",
+      "pitfalls ≥1",
+      "quiz ×3"
+    ]
+  }
+}

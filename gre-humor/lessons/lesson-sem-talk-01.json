@@ -1,0 +1,103 @@
+{
+  "id": "lesson-sem-talk-01",
+  "slug": "sem-talk-01",
+  "season": 3,
+  "seasonTitleZh": "語氣對打",
+  "seasonTitleEn": "Tone Duels",
+  "type": "duel",
+  "minutes": "12-15",
+  "clusterId": "sem-talk-01",
+  "titleZh": "沉默寡言 ↔ 長舌婦",
+  "titleEn": "Taciturn vs. Garrulous",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "一邊痛到倒吸涼氣說不出話，一邊嘎嚕嚕叫不停。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "會議室左排 taciturn、reticent、laconic——能不說就不說；右排 loquacious、garrulous、verbose——停不下來。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "依 members 逐詞：義錨 → 劇本角色 → 跟讀 speakLineEn／對照 speakLineZh"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "見 quiz（3 題）"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "少話：taciturn/reticent/laconic；多話：loquacious/garrulous/verbose",
+        "laconic＝短而精；verbose＝長而肥"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Using very few words, in a Spartan style, is:",
+      "promptZh": "用極少的字、斯巴達式簡潔，是：",
+      "choices": [
+        "verbose",
+        "garrulous",
+        "laconic",
+        "loquacious"
+      ],
+      "answer": "laconic"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Tediously talkative is closest to:",
+      "promptZh": "令人厭煩地話多，最接近：",
+      "choices": [
+        "taciturn",
+        "reticent",
+        "garrulous",
+        "laconic"
+      ],
+      "answer": "garrulous"
+    },
+    {
+      "id": "q3",
+      "type": "contrast",
+      "promptEn": "reticent emphasizes:",
+      "promptZh": "reticent 更強調：",
+      "choices": [
+        "unwillingness to reveal",
+        "love of long speeches",
+        "musical talent",
+        "physical silence only"
+      ],
+      "answer": "unwillingness to reveal"
+    }
+  ],
+  "pitfalls": [
+    "reticent 強調『不願透露』；taciturn 強調『生性少話』",
+    "loquacious 中性偏多話；garrulous 更嫌喋喋"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "checklist": [
+      "hook+script present",
+      "members ≥4 with bilingual speak lines",
+      "reviewHooks ≥2",
+      "pitfalls ≥1",
+      "quiz ×3 sense-accurate"
+    ]
+  }
+}

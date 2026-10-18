@@ -1,0 +1,102 @@
+{
+  "id": "lesson-sem-temper-01",
+  "slug": "sem-temper-01",
+  "season": 3,
+  "seasonTitleZh": "語氣對打",
+  "seasonTitleEn": "Tone Duels",
+  "type": "duel",
+  "minutes": "12-15",
+  "clusterId": "sem-temper-01",
+  "titleZh": "脾氣暴躁 ↔ 和藹可親",
+  "titleEn": "Choleric vs. Affable",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "熱可樂一開就炸，對面卻始終春風笑。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "左邊 choleric、irascible、peevish——點火就爆；右邊 affable、genial、amiable——誰來都好說話。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "依 members 逐詞：義錨 → 劇本角色 → 跟讀 speakLineEn／對照 speakLineZh"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "見 quiz（3 題）"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "爆：choleric/irascible/peevish；暖：affable/genial/amiable",
+        "choleric≈熱可樂一開就噴"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Quick to anger; hot-tempered:",
+      "promptZh": "一點就燃、脾氣火爆：",
+      "choices": [
+        "affable",
+        "genial",
+        "irascible",
+        "amiable"
+      ],
+      "answer": "irascible"
+    },
+    {
+      "id": "q2",
+      "type": "lookalike",
+      "promptEn": "amiable (friendly person) is often confused with:",
+      "promptZh": "amiable（和善的人）常和哪個混淆？",
+      "choices": [
+        "amicable",
+        "amiably only",
+        "amenable",
+        "amorous"
+      ],
+      "answer": "amicable"
+    },
+    {
+      "id": "q3",
+      "type": "contrast",
+      "promptEn": "choleric belongs with:",
+      "promptZh": "choleric 屬於：",
+      "choices": [
+        "hot-temper group",
+        "warm-friendly group",
+        "silent group",
+        "flattery group"
+      ],
+      "answer": "hot-temper group"
+    }
+  ],
+  "pitfalls": [
+    "amiable 指人緣好；amicable 常指關係／協議和睦——形近"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "checklist": [
+      "hook+script present",
+      "members ≥4 with bilingual speak lines",
+      "reviewHooks ≥2",
+      "pitfalls ≥1",
+      "quiz ×3 sense-accurate"
+    ]
+  }
+}

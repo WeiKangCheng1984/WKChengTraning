@@ -1,0 +1,183 @@
+{
+  "id": "root-mit-01",
+  "type": "root",
+  "elementLemma": "mit/miss",
+  "titleZh": "mit／miss｜快遞與派遣局",
+  "titleEn": "Dispatch Desk of mit/miss",
+  "hook": "字根 mit/miss＝送、放——一切都是快遞單。",
+  "script": "信號 transmit 送出去；員工被 dismiss 送走。責任 remiss 是該送卻沒送到；密使是 emissary。permit 放行，submit 呈送上去，intermittent 送一下停一下。mission 是被派出去的任務，missile 是被送出去的武器。",
+  "members": [
+    {
+      "headword": "transmit",
+      "inVocab": false,
+      "senseAnchor": "傳送；傳播",
+      "roleInScript": "把訊號送出",
+      "humorDevice": "morphology",
+      "zhGloss": "傳送；傳播",
+      "speakLineEn": "Rumors transmit faster than corrections.",
+      "speakLineZh": "謠言比澄清傳得更快。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "dismiss",
+      "inVocab": false,
+      "senseAnchor": "解雇；打發；不予考慮",
+      "roleInScript": "把人／想法送走",
+      "humorDevice": "morphology",
+      "zhGloss": "解雇；打發；不予考慮",
+      "speakLineEn": "Do not dismiss anomalous data too quickly.",
+      "speakLineZh": "不要太快把異常資料打發掉。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "remiss",
+      "inVocab": true,
+      "senseAnchor": "careless",
+      "roleInScript": "該送沒送到",
+      "humorDevice": "morphology",
+      "zhGloss": "疏忽的；怠慢的",
+      "speakLineEn": "It would be remiss to ignore conflicting studies.",
+      "speakLineZh": "忽略互相衝突的研究會是疏忽。",
+      "related": {
+        "synonyms": "derelict, heedless, neglectful, slack",
+        "antonyms": "heedful"
+      }
+    },
+    {
+      "headword": "emissary",
+      "inVocab": true,
+      "senseAnchor": "someone sent on a mission to represent the interests of someone else",
+      "roleInScript": "被送出去的人",
+      "humorDevice": "morphology",
+      "zhGloss": "使者；密使",
+      "speakLineEn": "An emissary carried the compromise proposal.",
+      "speakLineZh": "一名密使帶著妥協方案。",
+      "related": {
+        "synonyms": "envoy",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "permit",
+      "inVocab": false,
+      "senseAnchor": "允許；許可證",
+      "roleInScript": "放行章",
+      "humorDevice": "morphology",
+      "zhGloss": "允許；許可證",
+      "speakLineEn": "The design does not permit causal claims.",
+      "speakLineZh": "該設計不允許做出因果宣稱。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "submit",
+      "inVocab": false,
+      "senseAnchor": "提交；屈服",
+      "roleInScript": "呈送上去",
+      "humorDevice": "morphology",
+      "zhGloss": "提交；屈服",
+      "speakLineEn": "Authors must submit raw data upon request.",
+      "speakLineZh": "作者必須在要求時提交原始資料。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "intermittent",
+      "inVocab": true,
+      "senseAnchor": "coming and going at intervals, not continuous",
+      "roleInScript": "送一下停一下",
+      "humorDevice": "morphology",
+      "zhGloss": "間歇的；斷續的",
+      "speakLineEn": "Intermittent funding stalled the longitudinal design.",
+      "speakLineZh": "斷續經費讓縱貫設計停擺。",
+      "related": {
+        "synonyms": "episodic, sporadic, fitful",
+        "antonyms": "constant, frequent, continual"
+      }
+    },
+    {
+      "headword": "mission",
+      "inVocab": false,
+      "senseAnchor": "任務；使命",
+      "roleInScript": "被派出的任務",
+      "humorDevice": "story",
+      "zhGloss": "任務；使命",
+      "speakLineEn": "The mission of the review is synthesis, not discovery.",
+      "speakLineZh": "該評論的使命是綜整，不是發現。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "missive",
+      "inVocab": true,
+      "senseAnchor": "a written message addressed to a person or organization",
+      "roleInScript": "送出的信件",
+      "humorDevice": "morphology",
+      "zhGloss": "公文；書信",
+      "speakLineEn": "A terse missive ended the collaboration.",
+      "speakLineZh": "一封簡短書信結束了合作。",
+      "related": {
+        "synonyms": "letter",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "admissible",
+      "inVocab": false,
+      "senseAnchor": "可採納的（證據等）",
+      "roleInScript": "允許被送進法庭／論證",
+      "humorDevice": "morphology",
+      "zhGloss": "可採納的（證據等）",
+      "speakLineEn": "Only admissible evidence should shape the verdict.",
+      "speakLineZh": "只有可採納證據才應影響裁決。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "omission",
+      "inVocab": false,
+      "senseAnchor": "遺漏；省略",
+      "roleInScript": "該送卻沒放進包裹",
+      "humorDevice": "lookalike",
+      "zhGloss": "遺漏；省略",
+      "speakLineEn": "The omission of a control group weakens inference.",
+      "speakLineZh": "遺漏對照組削弱了推論。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    }
+  ],
+  "reviewHooks": [
+    "mit＝送：transmit 傳送、dismiss 打發走、submit 呈上、permit 放行",
+    "remiss＝該做沒做（快遞丟件）；intermittent＝斷斷續續送"
+  ],
+  "pitfalls": [
+    "emit（發出）與 omit（省略）只差一字母——本族先主打 mit/miss 派遣義",
+    "dismiss 可指解雇或『不予考慮』"
+  ],
+  "lessonRefs": [
+    "lesson-root-mit-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S2",
+    "note": "New A-level cluster with full lesson"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "lesson-rhyme-eak-01",
+  "slug": "rhyme-eak-01",
+  "season": 1,
+  "seasonTitleZh": "押韻派對",
+  "seasonTitleEn": "Rhyme Party",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "rhyme-eak-01",
+  "titleZh": "-eak / -oke｜毀滅與洩漏系列",
+  "titleEn": "Leak, Wreak, Bleak",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "leak（漏）的延伸——發洩破壞後，只剩淒涼廢墟。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "秘密一 leak，惡棍就 sneak 進來 wreak 破壞；現場留下 bleak 廢墟與一道 streak 焦痕。你想 evoke 大家的良知，上司卻 revoke 你的權限。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "依 members 逐詞：義錨 → 劇本角色 → 跟讀 speakLineEn／對照 speakLineZh"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "見 quiz（3 題）"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "leak 宇宙：sneak→wreak→bleak→streak；evoke↔revoke",
+        "evoke 喚起／revoke 收回——方向相反"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "To cause severe damage or havoc is to:",
+      "promptZh": "造成嚴重破壞／浩劫，是：",
+      "choices": [
+        "sneak",
+        "wreak",
+        "evoke",
+        "revoke"
+      ],
+      "answer": "wreak"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "evoke : bring to mind :: revoke :",
+      "promptZh": "evoke 是喚起，revoke 最接近：",
+      "choices": [
+        "renew",
+        "cancel / withdraw",
+        "echo",
+        "remind"
+      ],
+      "answer": "cancel / withdraw"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "A future that looks cold and hopeless is:",
+      "promptZh": "看起來冰冷無望的前景是：",
+      "choices": [
+        "bleak",
+        "streak",
+        "sneak",
+        "wreak"
+      ],
+      "answer": "bleak"
+    }
+  ],
+  "pitfalls": [
+    "wreak 常接 havoc；不要寫成 wreck 的拼法混用（語境不同）",
+    "bleak ≠ black"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "checklist": [
+      "hook+script present",
+      "members ≥4 with bilingual speak lines",
+      "reviewHooks ≥2",
+      "pitfalls ≥1",
+      "quiz ×3 sense-accurate"
+    ]
+  }
+}

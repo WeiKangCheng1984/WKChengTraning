@@ -1,0 +1,104 @@
+{
+  "id": "lesson-root-path-01",
+  "slug": "root-path-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-path-01",
+  "titleZh": "path｜情感診所",
+  "titleEn": "The Feeling Clinic",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 path＝感、受苦——診所專治『感不感得到』。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "apathy 是掛號也不想感；empathy 能感同身受，sympathy 隔床安慰。pathos 是催淚橋段，pathetic 可憐到讓人感嘆。antipathy 天生反感，pathogen 讓身體受苦的病原；homeopathy 等療法名也帶 path，但考試先抓住『感／病』核心。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "依 members 逐詞：義錨 → 劇本角色 → 跟讀 speakLineEn／對照 speakLineZh"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "見 quiz（3 題）"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "path＝感／苦：apathy 無感、empathy 同感、sympathy 同情、antipathy 反感",
+        "pathos＝悲劇感染力；pathogen＝致病者"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Lack of interest or emotion:",
+      "promptZh": "缺乏興趣或情感：",
+      "choices": [
+        "empathy",
+        "apathy",
+        "pathos",
+        "sympathy"
+      ],
+      "answer": "apathy"
+    },
+    {
+      "id": "q2",
+      "type": "contrast",
+      "promptEn": "Sharing another’s feelings from inside is closer to:",
+      "promptZh": "從內部分享他人感受，更接近：",
+      "choices": [
+        "sympathy as pity only",
+        "empathy",
+        "antipathy",
+        "pathogen"
+      ],
+      "answer": "empathy"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "A strong feeling of dislike:",
+      "promptZh": "強烈反感：",
+      "choices": [
+        "antipathy",
+        "apathy",
+        "telepathy",
+        "pathy"
+      ],
+      "answer": "antipathy"
+    }
+  ],
+  "pitfalls": [
+    "empathy（代入感受）vs sympathy（同情／憐憫）層次不同",
+    "pathetic 口語常貶，學術上也可指『引發悲憫』"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S2",
+    "checklist": [
+      "hook+script",
+      "members ≥8 bilingual lines",
+      "reviewHooks ≥2",
+      "pitfalls ≥1",
+      "quiz ×3"
+    ]
+  }
+}

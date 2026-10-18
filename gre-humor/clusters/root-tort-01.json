@@ -1,0 +1,115 @@
+{
+  "id": "root-tort-01",
+  "type": "root",
+  "elementLemma": "tort/tors",
+  "titleZh": "tort｜麻花捲人格",
+  "titleEn": "Twisted Personality Lab",
+  "hook": "tort＝扭——說話反扭叫反駁，錢硬扭出來叫勒索。",
+  "script": "麻花師傅會 distort 真相的形狀；要錢時 extort 硬扭；別人一問他就 retort 反扭回去。路是 tortuous 彎來彎去，表情 contort 扭曲，內心長期 torment 折磨。",
+  "members": [
+    {
+      "headword": "distort",
+      "inVocab": true,
+      "senseAnchor": "to change something so that it is no longer true or accurate",
+      "roleInScript": "把真相扭變形",
+      "humorDevice": "morphology",
+      "zhGloss": "扭曲；曲解",
+      "speakLineEn": "Selective quotation can distort an author’s position.",
+      "speakLineZh": "選擇性引述會扭曲作者立場。",
+      "related": {
+        "synonyms": "wrench, twist, wrap, misinterpret, misconstrue",
+        "antonyms": "untwist, unbend, unwind, unwrap"
+      }
+    },
+    {
+      "headword": "extort",
+      "inVocab": true,
+      "senseAnchor": "obtain through intimidation; obtain by coercion or intimidation",
+      "roleInScript": "把錢扭出來",
+      "humorDevice": "morphology",
+      "zhGloss": "敲詐；勒索",
+      "speakLineEn": "The regime extorted confessions through threat.",
+      "speakLineZh": "政權以威脅勒索口供。",
+      "related": {
+        "synonyms": "squeeze, rack, gouge, wring",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "retort",
+      "inVocab": true,
+      "senseAnchor": "a quick reply to a question or remark (especially a witty or critical one); a vessel where substances are distilled or decomposed by heat",
+      "roleInScript": "把話扭回去",
+      "humorDevice": "morphology",
+      "zhGloss": "反駁；反擊",
+      "speakLineEn": "She retorted that the critique ignored the data.",
+      "speakLineZh": "她反駁說批評忽略了數據。",
+      "related": {
+        "synonyms": "rejoinder, return, riposte, replication, comeback, counter",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "tortuous",
+      "inVocab": true,
+      "senseAnchor": "highly complex or intricate and occasionally devious; ; ; ; ; ; ; ; - Sir Walter Scott; marked by repeated turns and bends",
+      "roleInScript": "扭來扭去的路／論理",
+      "humorDevice": "morphology",
+      "zhGloss": "曲折的；彎彎繞繞的",
+      "speakLineEn": "The tortuous reasoning lost the audience.",
+      "speakLineZh": "彎彎繞繞的推理讓聽眾掉線。",
+      "related": {
+        "synonyms": "Byzantine, convoluted, involved, knotty, tangled, twisting",
+        "antonyms": "direct, straightforward"
+      }
+    },
+    {
+      "headword": "contort",
+      "inVocab": false,
+      "senseAnchor": "使扭曲變形",
+      "roleInScript": "臉／邏輯扭成奇形",
+      "humorDevice": "morphology",
+      "zhGloss": "使扭曲變形",
+      "speakLineEn": "He contorted the statute beyond recognition.",
+      "speakLineZh": "他把法條解釋扭到認不出原樣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "torment",
+      "inVocab": false,
+      "senseAnchor": "折磨；苦惱",
+      "roleInScript": "持續扭著痛",
+      "humorDevice": "morphology",
+      "zhGloss": "折磨；苦惱",
+      "speakLineEn": "Doubt continued to torment the researchers.",
+      "speakLineZh": "疑慮持續折磨研究人員。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    }
+  ],
+  "reviewHooks": [
+    "tort＝扭：distort 扭形、extort 扭錢、retort 扭回、tortuous 扭路",
+    "tortuous（曲折）≠ torturous（折磨人的）——差一個字母"
+  ],
+  "pitfalls": [
+    "tortuous vs torturous 必記",
+    "retort 可作動詞或名詞（機智反駁）"
+  ],
+  "lessonRefs": [
+    "lesson-root-tort-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "elementIds": [
+    "root-052"
+  ],
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "note": "Stage-1 promote: aligned with tract lesson template"
+  }
+}

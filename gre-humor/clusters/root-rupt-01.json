@@ -1,0 +1,183 @@
+{
+  "id": "root-rupt-01",
+  "type": "root",
+  "elementLemma": "rupt",
+  "titleZh": "rupt｜破裂維修課",
+  "titleEn": "Breakage Workshop",
+  "hook": "字根 rupt＝破——哪裡一響，哪裡就裂。",
+  "script": "談判 abrupt 突然中斷；制度 corrupt 從內部破爛。抗議 disrupt 打亂秩序，火山 erupt 噴出。bankrupt 破產，rupture 是裂口；interrupt 从中打斷，irrupt 衝破闖入。",
+  "members": [
+    {
+      "headword": "abrupt",
+      "inVocab": false,
+      "senseAnchor": "突然的；唐突的",
+      "roleInScript": "突然裂開／中斷",
+      "humorDevice": "morphology",
+      "zhGloss": "突然的；唐突的",
+      "speakLineEn": "An abrupt transition confused the audience.",
+      "speakLineZh": "突然的轉折讓聽眾困惑。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "corrupt",
+      "inVocab": false,
+      "senseAnchor": "腐敗的；使敗壞",
+      "roleInScript": "從內部破爛",
+      "humorDevice": "morphology",
+      "zhGloss": "腐敗的；使敗壞",
+      "speakLineEn": "Corrupt incentives distort measurement.",
+      "speakLineZh": "腐敗誘因扭曲測量。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "disrupt",
+      "inVocab": false,
+      "senseAnchor": "擾亂；使中斷",
+      "roleInScript": "把秩序打破",
+      "humorDevice": "morphology",
+      "zhGloss": "擾亂；使中斷",
+      "speakLineEn": "New tools disrupt old workflows—and old hierarchies.",
+      "speakLineZh": "新工具擾亂舊流程——以及舊階層。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "erupt",
+      "inVocab": true,
+      "senseAnchor": "start abruptly; erupt or intensify suddenly",
+      "roleInScript": "從裂口噴出",
+      "humorDevice": "morphology",
+      "zhGloss": "爆發；噴出",
+      "speakLineEn": "Controversy erupted after the leak.",
+      "speakLineZh": "洩漏後爭議爆發。",
+      "related": {
+        "synonyms": "irrupt, flare, ignite, combust, conflagrate, belch",
+        "antonyms": "extinguish"
+      }
+    },
+    {
+      "headword": "bankrupt",
+      "inVocab": false,
+      "senseAnchor": "破產的；完全缺乏的",
+      "roleInScript": "帳面破裂",
+      "humorDevice": "morphology",
+      "zhGloss": "破產的；完全缺乏的",
+      "speakLineEn": "The theory is morally bankrupt if it excuses harm.",
+      "speakLineZh": "若為傷害開脫，該理論在道德上已破產。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "rupture",
+      "inVocab": true,
+      "senseAnchor": "state of being torn or burst open; a personal or social separation (as between opposing factions)",
+      "roleInScript": "裂縫本體",
+      "humorDevice": "morphology",
+      "zhGloss": "破裂；裂口",
+      "speakLineEn": "A rupture between method and claim is fatal.",
+      "speakLineZh": "方法與主張之間的裂口是致命的。",
+      "related": {
+        "synonyms": "breach, break, severance, rift, tear, snap",
+        "antonyms": "keep, conform to, make, promote, repair, inelasticity"
+      }
+    },
+    {
+      "headword": "interrupt",
+      "inVocab": false,
+      "senseAnchor": "打斷",
+      "roleInScript": "从中間弄破話流",
+      "humorDevice": "morphology",
+      "zhGloss": "打斷",
+      "speakLineEn": "Please do not interrupt the operational definition.",
+      "speakLineZh": "請不要打斷操作型定義。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "irruption",
+      "inVocab": false,
+      "senseAnchor": "突然侵入；湧入",
+      "roleInScript": "衝破闖入",
+      "humorDevice": "morphology",
+      "zhGloss": "突然侵入；湧入",
+      "speakLineEn": "An irruption of cases overwhelmed the clinic model.",
+      "speakLineZh": "病例突然湧入壓垮了診所模型。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "eruption",
+      "inVocab": false,
+      "senseAnchor": "爆發；噴發",
+      "roleInScript": "噴發事件",
+      "humorDevice": "morphology",
+      "zhGloss": "爆發；噴發",
+      "speakLineEn": "The eruption of outrage was predictable.",
+      "speakLineZh": "憤怒的爆發其實可預期。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "corruption",
+      "inVocab": false,
+      "senseAnchor": "腐敗；損壞",
+      "roleInScript": "破爛的狀態",
+      "humorDevice": "morphology",
+      "zhGloss": "腐敗；損壞",
+      "speakLineEn": "Data corruption invalidated the third trial.",
+      "speakLineZh": "資料損壞使第三次試驗無效。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "disruptive",
+      "inVocab": false,
+      "senseAnchor": "破壞性的；顛覆式的",
+      "roleInScript": "專門製造破裂的",
+      "humorDevice": "morphology",
+      "zhGloss": "破壞性的；顛覆式的",
+      "speakLineEn": "Disruptive claims need stronger evidence, not louder ads.",
+      "speakLineZh": "顛覆式宣稱需要更強證據，而非更大聲廣告。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    }
+  ],
+  "reviewHooks": [
+    "rupt＝破：abrupt 驟斷、corrupt 內爛、disrupt 打亂、erupt 噴出",
+    "bankrupt＝銀行／帳面破裂；rupture＝裂口本身"
+  ],
+  "pitfalls": [
+    "abrupt 指突然，不一定負面，但常帶生硬感",
+    "corrupt 可作形容詞或動詞"
+  ],
+  "lessonRefs": [
+    "lesson-root-rupt-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S2",
+    "note": "New A-level cluster with full lesson"
+  }
+}

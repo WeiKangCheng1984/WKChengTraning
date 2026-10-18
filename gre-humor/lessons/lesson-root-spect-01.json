@@ -1,0 +1,104 @@
+{
+  "id": "lesson-root-spect-01",
+  "slug": "root-spect-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-spect-01",
+  "titleZh": "spect｜監視與觀景台",
+  "titleEn": "The Observation Deck",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 spect/spec＝看——到處都是鏡頭與觀景窗。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "檢查員 inspect 仔細看；circumspect 人看一圈才行動。conspicuous 顯眼到隨便看都看到；spectacle 是給人看的大場面。retrospect 往回看，prospect 往前看；despicable 不屑一看，respect 是重新看重。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "依 members 逐詞：義錨 → 劇本角色 → 跟讀 speakLineEn／對照 speakLineZh"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "見 quiz（3 題）"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "spect＝看：inspect 檢視、circumspect 環顧、retrospect 回看、prospect 前瞻",
+        "conspicuous＝好看到爆；despicable＝不值得看重"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Careful and unwilling to take risks:",
+      "promptZh": "謹慎、不願冒險：",
+      "choices": [
+        "conspicuous",
+        "circumspect",
+        "spectacle",
+        "spectator"
+      ],
+      "answer": "circumspect"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Looking back at the past:",
+      "promptZh": "回顧過去：",
+      "choices": [
+        "prospect",
+        "retrospect",
+        "inspect",
+        "spectrum"
+      ],
+      "answer": "retrospect"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Easy to notice; striking:",
+      "promptZh": "容易注意到、顯眼：",
+      "choices": [
+        "despicable",
+        "conspicuous",
+        "circumspect",
+        "respect"
+      ],
+      "answer": "conspicuous"
+    }
+  ],
+  "pitfalls": [
+    "prospect（前景／prospectus 簡章）不要和 perspective（視角）混用",
+    "circumspect＝謹慎，不是『環狀眼鏡』字面玩笑當真"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S2",
+    "checklist": [
+      "hook+script",
+      "members ≥8 bilingual lines",
+      "reviewHooks ≥2",
+      "pitfalls ≥1",
+      "quiz ×3"
+    ]
+  }
+}

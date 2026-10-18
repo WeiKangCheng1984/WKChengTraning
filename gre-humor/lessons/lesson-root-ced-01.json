@@ -1,0 +1,104 @@
+{
+  "id": "lesson-root-ced-01",
+  "slug": "root-ced-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-ced-01",
+  "titleZh": "ced／ceed／cess｜進退讓步道",
+  "titleEn": "The Yielding Walkway",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 ced/ceed/cess＝走、讓——誰先走、誰讓路。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "前輩 precede 走在前面；會議 proceed 繼續往前走。對手 recede 後退，你才 access 進入。調人 intercede 走到中間說情，硬派 secede 退出聯盟；excess 走過頭，process 是一整段行走流程。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "依 members 逐詞：義錨 → 劇本角色 → 跟讀 speakLineEn／對照 speakLineZh"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "見 quiz（3 題）"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "ced＝走／讓：precede 先前走、proceed 繼續走、recede 後退、intercede 介入調停",
+        "secede＝退出；access＝走得進去；excess＝走過頭"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "lookalike",
+      "promptEn": "Come before in time vs continue forward:",
+      "promptZh": "時間上在前 vs 繼續向前：",
+      "choices": [
+        "precede / proceed",
+        "proceed / precede",
+        "recede / access",
+        "secede / concede"
+      ],
+      "answer": "precede / proceed"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "To withdraw from a union:",
+      "promptZh": "退出聯盟：",
+      "choices": [
+        "secede",
+        "intercede",
+        "precede",
+        "excess"
+      ],
+      "answer": "secede"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Never done or known before:",
+      "promptZh": "前所未有：",
+      "choices": [
+        "unprecedented",
+        "predecessor",
+        "ancestor",
+        "process"
+      ],
+      "answer": "unprecedented"
+    }
+  ],
+  "pitfalls": [
+    "precede（在前）vs proceed（繼續）最易混",
+    "concede（讓步承認）已在 look-a-01；本族改練 intercede／secede"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S2",
+    "checklist": [
+      "hook+script",
+      "members ≥8 bilingual lines",
+      "reviewHooks ≥2",
+      "pitfalls ≥1",
+      "quiz ×3"
+    ]
+  }
+}

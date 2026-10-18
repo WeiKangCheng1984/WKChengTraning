@@ -1,0 +1,115 @@
+{
+  "id": "rhyme-eak-01",
+  "type": "rhyme",
+  "elementLemma": "-eak/-oke",
+  "titleZh": "-eak / -oke｜毀滅與洩漏系列",
+  "titleEn": "Leak, Wreak, Bleak",
+  "hook": "leak（漏）的延伸——發洩破壞後，只剩淒涼廢墟。",
+  "script": "秘密一 leak，惡棍就 sneak 進來 wreak 破壞；現場留下 bleak 廢墟與一道 streak 焦痕。你想 evoke 大家的良知，上司卻 revoke 你的權限。",
+  "members": [
+    {
+      "headword": "wreak",
+      "inVocab": false,
+      "senseAnchor": "造成（破壞）；發洩",
+      "roleInScript": "發洩破壞",
+      "humorDevice": "story",
+      "zhGloss": "造成（破壞）；發洩",
+      "speakLineEn": "The storm wreaked havoc on coastal towns.",
+      "speakLineZh": "暴風雨對沿海城鎮造成浩劫。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "bleak",
+      "inVocab": true,
+      "senseAnchor": "offering little or no hope; ; ; - J.M.Synge; providing no shelter or sustenance",
+      "roleInScript": "淒涼廢墟",
+      "humorDevice": "story",
+      "zhGloss": "荒涼的；黯淡的",
+      "speakLineEn": "Prospects for reform look bleak.",
+      "speakLineZh": "改革前景看起來黯淡。",
+      "related": {
+        "synonyms": "black, dim, bare, barren, desolate, stark",
+        "antonyms": "white, whiten, focus, undimmed, covered, sheathed"
+      }
+    },
+    {
+      "headword": "sneak",
+      "inVocab": false,
+      "senseAnchor": "鬼祟行事；偷偷摸摸",
+      "roleInScript": "鬼祟溜進",
+      "humorDevice": "story",
+      "zhGloss": "鬼祟行事；偷偷摸摸",
+      "speakLineEn": "He tried to sneak a clause into the contract.",
+      "speakLineZh": "他想偷偷塞一條條款進合約。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "streak",
+      "inVocab": true,
+      "senseAnchor": "an unbroken series of events; a distinctive characteristic",
+      "roleInScript": "焦痕／連勝連敗",
+      "humorDevice": "story",
+      "zhGloss": "條紋；一陣子；疾馳",
+      "speakLineEn": "A losing streak can bias risk judgments.",
+      "speakLineZh": "連敗可能扭曲風險判斷。",
+      "related": {
+        "synonyms": "run, stripe, bar, mottle, blotch",
+        "antonyms": "idle, malfunction, unbar"
+      }
+    },
+    {
+      "headword": "evoke",
+      "inVocab": false,
+      "senseAnchor": "喚起（情感／記憶）",
+      "roleInScript": "喚起良知",
+      "humorDevice": "story",
+      "zhGloss": "喚起（情感／記憶）",
+      "speakLineEn": "The passage evokes a sense of irreversible loss.",
+      "speakLineZh": "這段文字喚起一種不可逆的失落感。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "revoke",
+      "inVocab": true,
+      "senseAnchor": "the mistake of not following suit when able to do so; fail to follow suit when able and required to do so",
+      "roleInScript": "撤銷權限",
+      "humorDevice": "story",
+      "zhGloss": "撤銷；廢止",
+      "speakLineEn": "The board revoked the temporary exemption.",
+      "speakLineZh": "董事會撤銷了臨時豁免。",
+      "related": {
+        "synonyms": "renege, annul, lift, countermand, reverse, repeal",
+        "antonyms": "validate, fall, lower, forward, obverse"
+      }
+    }
+  ],
+  "reviewHooks": [
+    "leak 宇宙：sneak→wreak→bleak→streak；evoke↔revoke",
+    "evoke 喚起／revoke 收回——方向相反"
+  ],
+  "pitfalls": [
+    "wreak 常接 havoc；不要寫成 wreck 的拼法混用（語境不同）",
+    "bleak ≠ black"
+  ],
+  "lessonRefs": [
+    "lesson-rhyme-eak-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "elementIds": [
+    "rhyme-224"
+  ],
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "note": "Stage-1 promote: aligned with tract lesson template"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "id": "lesson-root-duc-01",
+  "slug": "root-duc-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-duc-01",
+  "titleZh": "duc／duct｜導遊與導管",
+  "titleEn": "Guides and Ducts",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 duc/duct＝引導——要嘛當導遊，要嘛當水管。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "好領導 conduct 引導團隊；證據 induce 引導你得出結論，邏輯 deduce 往下推導。壞人 abduct 把人拐走；教育 educate 把人往知識引導。aqueduct 引水，viaduct 引路跨谷；deduction 是推導或扣除。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "依 members 逐詞：義錨 → 劇本角色 → 跟讀 speakLineEn／對照 speakLineZh"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "見 quiz（3 題）"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "duc＝引：conduct 帶領、induce 引出、deduce 推導、abduct 拐走",
+        "educate＝把人引出無知；aqueduct＝引水之管"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Reasoning from general premises to a particular conclusion:",
+      "promptZh": "由一般前提推到特定結論：",
+      "choices": [
+        "induce",
+        "deduce",
+        "seduce",
+        "abduct"
+      ],
+      "answer": "deduce"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "To lead someone astray by temptation:",
+      "promptZh": "用誘惑把人引偏：",
+      "choices": [
+        "educate",
+        "seduce",
+        "conduct",
+        "viaduct"
+      ],
+      "answer": "seduce"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Capable of being drawn into a new shape:",
+      "promptZh": "可被拉引改變形狀：",
+      "choices": [
+        "ductile",
+        "aqueduct",
+        "deduction",
+        "introduction"
+      ],
+      "answer": "ductile"
+    }
+  ],
+  "pitfalls": [
+    "induce（歸納／引起）與 deduce（演繹）方向不同",
+    "deduction 雙義：推理扣除／金額扣除"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S2",
+    "checklist": [
+      "hook+script",
+      "members ≥8 bilingual lines",
+      "reviewHooks ≥2",
+      "pitfalls ≥1",
+      "quiz ×3"
+    ]
+  }
+}

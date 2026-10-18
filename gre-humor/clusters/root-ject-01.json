@@ -1,0 +1,183 @@
+{
+  "id": "root-ject-01",
+  "type": "root",
+  "elementLemma": "ject",
+  "titleZh": "ject｜投擲訓練場",
+  "titleEn": "The Throwing Range",
+  "hook": "字根 ject＝投、擲——想法與物件滿場飛。",
+  "script": "反對就 reject 扔回去；意見 inject 注射進去。計劃 project 向前投射，猜測是 conjecture。eject 彈射出去，subject 被扔在權下，object 扔出異議。abject 被扔到最低處，trajectory 是拋物線軌道。",
+  "members": [
+    {
+      "headword": "reject",
+      "inVocab": false,
+      "senseAnchor": "拒絕；駁回",
+      "roleInScript": "扔回去",
+      "humorDevice": "morphology",
+      "zhGloss": "拒絕；駁回",
+      "speakLineEn": "Reviewers may reject a paper for design flaws.",
+      "speakLineZh": "審查者可能因設計缺陷駁回論文。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "inject",
+      "inVocab": false,
+      "senseAnchor": "注入；插話",
+      "roleInScript": "射進去",
+      "humorDevice": "morphology",
+      "zhGloss": "注入；插話",
+      "speakLineEn": "Inject one clarifying example into the paragraph.",
+      "speakLineZh": "在段落中注入一個澄清例子。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "project",
+      "inVocab": false,
+      "senseAnchor": "投射；規劃；項目",
+      "roleInScript": "向前扔出計畫",
+      "humorDevice": "morphology",
+      "zhGloss": "投射；規劃；項目",
+      "speakLineEn": "Do not project motives without evidence.",
+      "speakLineZh": "沒有證據就不要投射動機。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "conjecture",
+      "inVocab": false,
+      "senseAnchor": "推測；臆測",
+      "roleInScript": "把猜測投進場",
+      "humorDevice": "morphology",
+      "zhGloss": "推測；臆測",
+      "speakLineEn": "The conclusion is still conjecture, not proof.",
+      "speakLineZh": "結論仍是臆測，不是證明。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "eject",
+      "inVocab": false,
+      "senseAnchor": "彈出；驅逐",
+      "roleInScript": "彈射出去",
+      "humorDevice": "morphology",
+      "zhGloss": "彈出；驅逐",
+      "speakLineEn": "Security ejected disruptors from the hall.",
+      "speakLineZh": "保全把搗亂者驅離會場。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "subject",
+      "inVocab": false,
+      "senseAnchor": "主題；臣民；使遭受",
+      "roleInScript": "被扔在權威之下",
+      "humorDevice": "morphology",
+      "zhGloss": "主題；臣民；使遭受",
+      "speakLineEn": "Subjects were randomly assigned to conditions.",
+      "speakLineZh": "受試者被隨機分到各條件。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "object",
+      "inVocab": false,
+      "senseAnchor": "反對；物體；目標",
+      "roleInScript": "扔出異議",
+      "humorDevice": "morphology",
+      "zhGloss": "反對；物體；目標",
+      "speakLineEn": "Counsel objected to the leading question.",
+      "speakLineZh": "律師對誘導性問題提出異議。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "abject",
+      "inVocab": true,
+      "senseAnchor": "of the most contemptible kind; most unfortunate or miserable",
+      "roleInScript": "被扔到最低處",
+      "humorDevice": "morphology",
+      "zhGloss": "悲慘的；下流的；徹底的（貶）",
+      "speakLineEn": "Abject failure forced a redesign of the study.",
+      "speakLineZh": "徹底慘敗迫使研究重新設計。",
+      "related": {
+        "synonyms": "low, low-down, miserable, scummy, scurvy, unhopeful",
+        "antonyms": "high"
+      }
+    },
+    {
+      "headword": "trajectory",
+      "inVocab": false,
+      "senseAnchor": "軌道；軌跡",
+      "roleInScript": "扔出去的路徑",
+      "humorDevice": "morphology",
+      "zhGloss": "軌道；軌跡",
+      "speakLineEn": "Career trajectory is not destiny.",
+      "speakLineZh": "職涯軌跡不是命運。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "interject",
+      "inVocab": false,
+      "senseAnchor": "突然插話",
+      "roleInScript": "中途扔一句進去",
+      "humorDevice": "morphology",
+      "zhGloss": "突然插話",
+      "speakLineEn": "Please do not interject until the claim is finished.",
+      "speakLineZh": "請等論點說完再插話。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "projectile",
+      "inVocab": false,
+      "senseAnchor": "拋射物",
+      "roleInScript": "被扔出去的東西",
+      "humorDevice": "story",
+      "zhGloss": "拋射物",
+      "speakLineEn": "A metaphor can become a rhetorical projectile.",
+      "speakLineZh": "隱喻可能變成修辭拋射物。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    }
+  ],
+  "reviewHooks": [
+    "ject＝扔：reject 扔回、inject 注入、project 向前投、eject 彈出",
+    "conjecture＝一起投出來的猜測；abject＝被扔到最低"
+  ],
+  "pitfalls": [
+    "subject 多義：主題／臣民／使遭受——看上下文",
+    "project 名詞計畫／動詞投射，詞性要分清"
+  ],
+  "lessonRefs": [
+    "lesson-root-ject-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S2",
+    "note": "New A-level cluster with full lesson"
+  }
+}

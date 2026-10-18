@@ -1,0 +1,130 @@
+{
+  "id": "root-tract-01",
+  "type": "root",
+  "elementLemma": "tract",
+  "titleZh": "tract｜拔河狂人劇場",
+  "titleEn": "The Tug-of-War Maniac",
+  "hook": "字根 tract＝拉、扯、拖——主角是拔河狂人。",
+  "script": "拔河狂人最會 attract 觀眾目光；一有風吹草動就 distract 對手。合約他要 protract 拖長，說過的話又能 retract 拉回肚子。別人一成功他就 detract 貶低；溫馴的叫 tractable，死都不肯被拉的叫 intractable。",
+  "members": [
+    {
+      "headword": "attract",
+      "inVocab": false,
+      "senseAnchor": "吸引",
+      "roleInScript": "把目光拉過來",
+      "humorDevice": "morphology",
+      "zhGloss": "吸引",
+      "speakLineEn": "Clear theses attract careful readers.",
+      "speakLineZh": "清楚的論旨能吸引細心的讀者。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "distract",
+      "inVocab": false,
+      "senseAnchor": "使分心；干擾",
+      "roleInScript": "把注意力拉開",
+      "humorDevice": "morphology",
+      "zhGloss": "使分心；干擾",
+      "speakLineEn": "Irrelevant details distract from the main claim.",
+      "speakLineZh": "無關細節會把人從主論點拉開。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "protract",
+      "inVocab": false,
+      "senseAnchor": "延長；拖延",
+      "roleInScript": "把時間往前拖長",
+      "humorDevice": "morphology",
+      "zhGloss": "延長；拖延",
+      "speakLineEn": "They protracted negotiations to exhaust the other side.",
+      "speakLineZh": "他們拖延談判以消耗對方。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "retract",
+      "inVocab": true,
+      "senseAnchor": "formally reject or disavow a formerly held belief, usually under pressure; pull away from a source of disgust or fear",
+      "roleInScript": "把話拉回來",
+      "humorDevice": "morphology",
+      "zhGloss": "撤回；縮回",
+      "speakLineEn": "The journal asked the authors to retract the paper.",
+      "speakLineZh": "期刊要求作者撤回該論文。",
+      "related": {
+        "synonyms": "abjure, recant, forswear, resile",
+        "antonyms": "embrace, affirm, maintain"
+      }
+    },
+    {
+      "headword": "detract",
+      "inVocab": false,
+      "senseAnchor": "貶低；減損",
+      "roleInScript": "把價值往下拉",
+      "humorDevice": "morphology",
+      "zhGloss": "貶低；減損",
+      "speakLineEn": "One weak paragraph should not detract from the whole argument.",
+      "speakLineZh": "一段弱段落不該減損整篇論證。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "tractable",
+      "inVocab": false,
+      "senseAnchor": "易駕馭的；溫順的；易處理的",
+      "roleInScript": "拉得動的繩／人",
+      "humorDevice": "morphology",
+      "zhGloss": "易駕馭的；溫順的；易處理的",
+      "speakLineEn": "The problem looks more tractable after we define terms.",
+      "speakLineZh": "定義術語後，問題顯得更好處理。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "intractable",
+      "inVocab": false,
+      "senseAnchor": "難駕馭的；棘手的",
+      "roleInScript": "怎麼拉都不動",
+      "humorDevice": "morphology",
+      "zhGloss": "難駕馭的；棘手的",
+      "speakLineEn": "Poverty remains an intractable policy challenge.",
+      "speakLineZh": "貧困仍是棘手的政策挑戰。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    }
+  ],
+  "reviewHooks": [
+    "tract＝拉：吸引吸引過來、分心拉開、拖延拉長、撤回拉回、貶低往下拉",
+    "tractable 拉得動 ↔ intractable 拉不動"
+  ],
+  "pitfalls": [
+    "detract from = 減損……的價值；不要寫成『攻擊某人』的唯一義",
+    "retract（撤回說法／縮回）≠ retreat（撤退）",
+    "protract 偏『延長過程』，不是『保護 protect』"
+  ],
+  "lessonRefs": [
+    "lesson-root-tract-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "elementIds": [
+    "root-051"
+  ],
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "note": "Stage-1 promote: aligned with tract lesson template"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "lesson-look-a-01",
+  "slug": "look-a-01",
+  "season": 3,
+  "seasonTitleZh": "語氣對打",
+  "seasonTitleEn": "Tone Duels",
+  "type": "duel",
+  "minutes": "12-15",
+  "clusterId": "look-a-01",
+  "titleZh": "A 開頭易混對決",
+  "titleEn": "A-Word Look-alikes",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "只差一兩個字母，考場最容易看花眼——用對決拆開。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "assent 點頭同意，dissent 舉手異議。accede 同意加入，concede 不得不讓步。aesthetic 追求美，ascetic 赤腳踩天梯苦行。abate 風雨減弱，abet 教唆你去下注。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "依 members 逐詞：義錨 → 劇本角色 → 跟讀 speakLineEn／對照 speakLineZh"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "見 quiz（3 題）"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "assent↔dissent；accede↔concede；aesthetic↔ascetic；abate↔abet",
+        "abet＝教唆（常貶）；abate＝減弱"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "lookalike",
+      "promptEn": "assent : agree :: dissent :",
+      "promptZh": "assent 是同意，dissent 是：",
+      "choices": [
+        "descend",
+        "disagree",
+        "ascent",
+        "consent"
+      ],
+      "answer": "disagree"
+    },
+    {
+      "id": "q2",
+      "type": "lookalike",
+      "promptEn": "aesthetic concerns beauty; ascetic concerns:",
+      "promptZh": "aesthetic 關乎美；ascetic 關乎：",
+      "choices": [
+        "athletics",
+        "self-denial / austerity",
+        "anesthetics",
+        "aesthetics too"
+      ],
+      "answer": "self-denial / austerity"
+    },
+    {
+      "id": "q3",
+      "type": "lookalike",
+      "promptEn": "abate (lessen) vs abet (help wrongdoing) — which aids a crime?",
+      "promptZh": "abate（減輕）vs abet（協助壞事）——哪個是協助犯罪？",
+      "choices": [
+        "abate",
+        "abet",
+        "both",
+        "neither"
+      ],
+      "answer": "abet"
+    }
+  ],
+  "pitfalls": [
+    "aesthetic / ascetic 發音與拼寫雙坑",
+    "accede to + 要求／條約"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "checklist": [
+      "hook+script present",
+      "members ≥4 with bilingual speak lines",
+      "reviewHooks ≥2",
+      "pitfalls ≥1",
+      "quiz ×3 sense-accurate"
+    ]
+  }
+}

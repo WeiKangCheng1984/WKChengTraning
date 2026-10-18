@@ -1,0 +1,115 @@
+{
+  "id": "sem-flattery-01",
+  "type": "semantic",
+  "elementLemma": "flattery-vs-arrogance",
+  "titleZh": "馬屁精 ↔ 傲嬌怪",
+  "titleEn": "Toady vs. Supercilious",
+  "hook": "一邊跪著誇，一邊用睫毛從天花板瞪你。",
+  "script": "辦公室裡 sycophant／toady 會 fawn 巴結；對面座位坐著 arrogant、supercilious、imperious 的主管，睫毛好像長在額頭上往下掃視。",
+  "members": [
+    {
+      "headword": "sycophant",
+      "inVocab": true,
+      "senseAnchor": "a person who tries to please someone in order to gain a personal advantage",
+      "roleInScript": "職業馬屁精",
+      "humorDevice": "phonetic",
+      "zhGloss": "諂媚者",
+      "speakLineEn": "A sycophant praises power, not evidence.",
+      "speakLineZh": "諂媚者歌頌的是權力，不是證據。",
+      "related": {
+        "synonyms": "toady, crawler, lackey, ass-kisser",
+        "antonyms": "critic, detractor"
+      }
+    },
+    {
+      "headword": "toady",
+      "inVocab": true,
+      "senseAnchor": "a person who tries to please someone in order to gain a personal advantage; try to gain favor by cringing or flattering",
+      "roleInScript": "馬屁精備位",
+      "humorDevice": "contrast",
+      "zhGloss": "馬屁精；諂媚者",
+      "speakLineEn": "He dismissed the aide as a political toady.",
+      "speakLineZh": "他把那名助理斥為政治馬屁精。",
+      "related": {
+        "synonyms": "sycophant, crawler, lackey, ass-kisser, fawn, truckle",
+        "antonyms": "critic, detractor, insult, defy"
+      }
+    },
+    {
+      "headword": "fawn",
+      "inVocab": false,
+      "senseAnchor": "巴結；奉承",
+      "roleInScript": "搖尾乞憐的動作",
+      "humorDevice": "story",
+      "zhGloss": "巴結；奉承",
+      "speakLineEn": "Junior analysts should not fawn over every fashion in theory.",
+      "speakLineZh": "初級分析師不該對每個理論時尚巴結奉承。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "arrogant",
+      "inVocab": false,
+      "senseAnchor": "傲慢的",
+      "roleInScript": "對面傲嬌",
+      "humorDevice": "contrast",
+      "zhGloss": "傲慢的",
+      "speakLineEn": "An arrogant tone can sink an otherwise sound argument.",
+      "speakLineZh": "傲慢語氣可能毁掉本來站得住的論證。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "supercilious",
+      "inVocab": true,
+      "senseAnchor": "feeling or showing haughty disdain",
+      "roleInScript": "睫毛在頭頂看人",
+      "humorDevice": "morphology",
+      "zhGloss": "目空一切的；高傲的",
+      "speakLineEn": "Her supercilious smile dismissed the objection.",
+      "speakLineZh": "她目空一切的笑把異議掃掉。",
+      "related": {
+        "synonyms": "arrogant, haughty, pompous, overbearing",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "imperious",
+      "inVocab": true,
+      "senseAnchor": "having or showing arrogant superiority to and disdain of those one views as unworthy; ; ; ; ; ; ; - W.L.Shirer",
+      "roleInScript": "命令式傲嬌",
+      "humorDevice": "contrast",
+      "zhGloss": "專橫的；霸道的",
+      "speakLineEn": "An imperious email rarely invites collaboration.",
+      "speakLineZh": "專橫的郵件很少帶來合作。",
+      "related": {
+        "synonyms": "disdainful, haughty, lordly, overbearing, prideful, sniffy",
+        "antonyms": ""
+      }
+    }
+  ],
+  "reviewHooks": [
+    "下位：sycophant/toady/fawn；上位：arrogant/supercilious/imperious",
+    "supercilious ≈ super + cilium（睫毛）在上往下看"
+  ],
+  "pitfalls": [
+    "fawn 另有『小鹿』義，考試多為動詞巴結",
+    "sycophant 諧音可記，但答題要回到『諂媚者』"
+  ],
+  "lessonRefs": [
+    "lesson-sem-flattery-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "elementIds": [
+    "semantic-272"
+  ],
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "note": "Stage-1 promote: aligned with tract lesson template"
+  }
+}

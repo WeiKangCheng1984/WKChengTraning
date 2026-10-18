@@ -1,0 +1,183 @@
+{
+  "id": "root-spect-01",
+  "type": "root",
+  "elementLemma": "spect/spec",
+  "titleZh": "spect｜監視與觀景台",
+  "titleEn": "The Observation Deck",
+  "hook": "字根 spect/spec＝看——到處都是鏡頭與觀景窗。",
+  "script": "檢查員 inspect 仔細看；circumspect 人看一圈才行動。conspicuous 顯眼到隨便看都看到；spectacle 是給人看的大場面。retrospect 往回看，prospect 往前看；despicable 不屑一看，respect 是重新看重。",
+  "members": [
+    {
+      "headword": "inspect",
+      "inVocab": false,
+      "senseAnchor": "檢查；審視",
+      "roleInScript": "仔細看",
+      "humorDevice": "morphology",
+      "zhGloss": "檢查；審視",
+      "speakLineEn": "Peer reviewers inspect methods before results.",
+      "speakLineZh": "同儕審查者先審視方法再看結果。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "circumspect",
+      "inVocab": false,
+      "senseAnchor": "謹慎的；周密的",
+      "roleInScript": "看一圈再走",
+      "humorDevice": "morphology",
+      "zhGloss": "謹慎的；周密的",
+      "speakLineEn": "Circumspect claims survive hostile reading.",
+      "speakLineZh": "周密的宣稱更能扛住敵意閱讀。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "conspicuous",
+      "inVocab": false,
+      "senseAnchor": "顯眼的；引人注目的",
+      "roleInScript": "想不看到都難",
+      "humorDevice": "morphology",
+      "zhGloss": "顯眼的；引人注目的",
+      "speakLineEn": "The gap in the data is conspicuous.",
+      "speakLineZh": "資料中的缺口非常顯眼。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "spectacle",
+      "inVocab": false,
+      "senseAnchor": "景象；壯觀場面",
+      "roleInScript": "給人看的大秀",
+      "humorDevice": "morphology",
+      "zhGloss": "景象；壯觀場面",
+      "speakLineEn": "Media spectacle can replace sober analysis.",
+      "speakLineZh": "媒體奇觀可能取代冷靜分析。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "retrospect",
+      "inVocab": false,
+      "senseAnchor": "回顧",
+      "roleInScript": "往回看",
+      "humorDevice": "morphology",
+      "zhGloss": "回顧",
+      "speakLineEn": "In retrospect, the warning signs were clear.",
+      "speakLineZh": "事後回顧，警訊其實很清楚。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "prospect",
+      "inVocab": false,
+      "senseAnchor": "前景；預期；探勘",
+      "roleInScript": "往前看",
+      "humorDevice": "morphology",
+      "zhGloss": "前景；預期；探勘",
+      "speakLineEn": "The prospect of replication motivated caution.",
+      "speakLineZh": "可複現的前景促使人們謹慎。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "despicable",
+      "inVocab": true,
+      "senseAnchor": "morally reprehensible",
+      "roleInScript": "不屑一看",
+      "humorDevice": "morphology",
+      "zhGloss": "可鄙的",
+      "speakLineEn": "Despicable tactics undermine public trust.",
+      "speakLineZh": "可鄙手段破壞公眾信任。",
+      "related": {
+        "synonyms": "ugly, vile, slimy, unworthy, worthless, wretched",
+        "antonyms": "beautiful, worthy, valuable"
+      }
+    },
+    {
+      "headword": "respect",
+      "inVocab": false,
+      "senseAnchor": "尊重；方面",
+      "roleInScript": "重新看重",
+      "humorDevice": "story",
+      "zhGloss": "尊重；方面",
+      "speakLineEn": "In one respect, the critics are right.",
+      "speakLineZh": "就某一方面而言，批評者是對的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "spectator",
+      "inVocab": false,
+      "senseAnchor": "旁觀者",
+      "roleInScript": "只看不演",
+      "humorDevice": "morphology",
+      "zhGloss": "旁觀者",
+      "speakLineEn": "Democracy suffers when citizens remain spectators.",
+      "speakLineZh": "公民若只當旁觀者，民主會受損。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "spectrum",
+      "inVocab": false,
+      "senseAnchor": "光譜；範圍",
+      "roleInScript": "一眼看見的全範圍",
+      "humorDevice": "morphology",
+      "zhGloss": "光譜；範圍",
+      "speakLineEn": "Opinions fall across a wide spectrum.",
+      "speakLineZh": "意見落在寬廣光譜上。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "suspicious",
+      "inVocab": false,
+      "senseAnchor": "可疑的；懷疑的",
+      "roleInScript": "看得不太對勁",
+      "humorDevice": "story",
+      "zhGloss": "可疑的；懷疑的",
+      "speakLineEn": "Suspicious patterns warrant a second look.",
+      "speakLineZh": "可疑模式值得再看一次。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    }
+  ],
+  "reviewHooks": [
+    "spect＝看：inspect 檢視、circumspect 環顧、retrospect 回看、prospect 前瞻",
+    "conspicuous＝好看到爆；despicable＝不值得看重"
+  ],
+  "pitfalls": [
+    "prospect（前景／prospectus 簡章）不要和 perspective（視角）混用",
+    "circumspect＝謹慎，不是『環狀眼鏡』字面玩笑當真"
+  ],
+  "lessonRefs": [
+    "lesson-root-spect-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S2",
+    "note": "New A-level cluster with full lesson"
+  }
+}

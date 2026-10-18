@@ -1,0 +1,270 @@
+{
+  "version": "v0.2-s2",
+  "total": 24,
+  "lessons": [
+    {
+      "id": "lesson-rhyme-ant-01",
+      "slug": "rhyme-ant-01",
+      "season": 1,
+      "seasonTitleZh": "押韻派對",
+      "titleZh": "-ant / -ent｜螞蟻動態人物系列",
+      "clusterId": "rhyme-ant-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 5
+    },
+    {
+      "id": "lesson-rhyme-eak-01",
+      "slug": "rhyme-eak-01",
+      "season": 1,
+      "seasonTitleZh": "押韻派對",
+      "titleZh": "-eak / -oke｜毀滅與洩漏系列",
+      "clusterId": "rhyme-eak-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 6
+    },
+    {
+      "id": "lesson-rhyme-edge-01",
+      "slug": "rhyme-edge-01",
+      "season": 1,
+      "seasonTitleZh": "押韻派對",
+      "titleZh": "-edge / -adge｜邊緣承諾系列",
+      "clusterId": "rhyme-edge-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 5
+    },
+    {
+      "id": "lesson-rhyme-our-01",
+      "slug": "rhyme-our-01",
+      "season": 1,
+      "seasonTitleZh": "押韻派對",
+      "titleZh": "-our / -ore｜豪門恩怨系列",
+      "clusterId": "rhyme-our-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 5
+    },
+    {
+      "id": "lesson-root-ced-01",
+      "slug": "root-ced-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "ced／ceed／cess｜進退讓步道",
+      "clusterId": "root-ced-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
+      "id": "lesson-root-clud-01",
+      "slug": "root-clud-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "clud｜獄卒日常",
+      "clusterId": "root-clud-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 6
+    },
+    {
+      "id": "lesson-root-cred-01",
+      "slug": "root-cred-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "cred｜信用櫃台",
+      "clusterId": "root-cred-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
+      "id": "lesson-root-duc-01",
+      "slug": "root-duc-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "duc／duct｜導遊與導管",
+      "clusterId": "root-duc-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
+      "id": "lesson-root-gress-01",
+      "slug": "root-gress-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "gress｜步伐競技場",
+      "clusterId": "root-gress-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
+      "id": "lesson-root-ject-01",
+      "slug": "root-ject-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "ject｜投擲訓練場",
+      "clusterId": "root-ject-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
+      "id": "lesson-root-loqu-01",
+      "slug": "root-loqu-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "loqu／log｜話術與論理雙演廳",
+      "clusterId": "root-loqu-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
+      "id": "lesson-root-mit-01",
+      "slug": "root-mit-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "mit／miss｜快遞與派遣局",
+      "clusterId": "root-mit-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
+      "id": "lesson-root-path-01",
+      "slug": "root-path-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "path｜情感診所",
+      "clusterId": "root-path-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
+      "id": "lesson-root-rupt-01",
+      "slug": "root-rupt-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "rupt｜破裂維修課",
+      "clusterId": "root-rupt-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
+      "id": "lesson-root-scend-01",
+      "slug": "root-scend-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "scend｜階層攀爬遊戲",
+      "clusterId": "root-scend-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 5
+    },
+    {
+      "id": "lesson-root-spect-01",
+      "slug": "root-spect-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "spect｜監視與觀景台",
+      "clusterId": "root-spect-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
+      "id": "lesson-root-tort-01",
+      "slug": "root-tort-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "tort｜麻花捲人格",
+      "clusterId": "root-tort-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 6
+    },
+    {
+      "id": "lesson-root-tract-01",
+      "slug": "root-tract-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "tract｜拔河狂人劇場",
+      "clusterId": "root-tract-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 7
+    },
+    {
+      "id": "lesson-root-vert-01",
+      "slug": "root-vert-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "vert／vers｜轉彎人生操作台",
+      "clusterId": "root-vert-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
+      "id": "lesson-root-voc-01",
+      "slug": "root-voc-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "voc／vok｜呼叫中心",
+      "clusterId": "root-voc-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
+      "id": "lesson-look-a-01",
+      "slug": "look-a-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "A 開頭易混對決",
+      "clusterId": "look-a-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 8
+    },
+    {
+      "id": "lesson-sem-flattery-01",
+      "slug": "sem-flattery-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "馬屁精 ↔ 傲嬌怪",
+      "clusterId": "sem-flattery-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 6
+    },
+    {
+      "id": "lesson-sem-talk-01",
+      "slug": "sem-talk-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "沉默寡言 ↔ 長舌婦",
+      "clusterId": "sem-talk-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 6
+    },
+    {
+      "id": "lesson-sem-temper-01",
+      "slug": "sem-temper-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "脾氣暴躁 ↔ 和藹可親",
+      "clusterId": "sem-temper-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 6
+    }
+  ]
+}

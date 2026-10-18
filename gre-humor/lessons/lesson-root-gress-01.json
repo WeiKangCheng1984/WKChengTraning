@@ -1,0 +1,104 @@
+{
+  "id": "lesson-root-gress-01",
+  "slug": "root-gress-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-gress-01",
+  "titleZh": "gress｜步伐競技場",
+  "titleEn": "The Pace Arena",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 grad/gress＝走、步——誰進步誰退步看腳步。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "社會要 progress 向前走；失敗就 regress 退步。aggressive 人步步進逼，digress 演講走歪路。congress 走到一起開會；egress 是出口那一步。grade 是階梯等級，gradual 一步一步。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "依 members 逐詞：義錨 → 劇本角色 → 跟讀 speakLineEn／對照 speakLineZh"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "見 quiz（3 題）"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "gress＝走：progress 前進、regress 後退、digress 離題走、aggressive 進逼",
+        "congress＝走到一起；egress＝走出去"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "To wander from the main topic:",
+      "promptZh": "偏離主題：",
+      "choices": [
+        "progress",
+        "digress",
+        "egress",
+        "grade"
+      ],
+      "answer": "digress"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "To violate a boundary or rule:",
+      "promptZh": "逾越界線或規則：",
+      "choices": [
+        "transgress",
+        "congress",
+        "gradual",
+        "egress"
+      ],
+      "answer": "transgress"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Moving backward; reactionary:",
+      "promptZh": "倒退的：",
+      "choices": [
+        "retrograde",
+        "progress",
+        "aggressive",
+        "inject"
+      ],
+      "answer": "retrograde"
+    }
+  ],
+  "pitfalls": [
+    "digress（離題）不是 digressive 就一定壞——有時是風格，但考試常標『偏離主線』",
+    "aggressive 中性可指積極，語境常帶攻擊性"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S2",
+    "checklist": [
+      "hook+script",
+      "members ≥8 bilingual lines",
+      "reviewHooks ≥2",
+      "pitfalls ≥1",
+      "quiz ×3"
+    ]
+  }
+}

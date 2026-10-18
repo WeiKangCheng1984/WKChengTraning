@@ -1,0 +1,104 @@
+{
+  "id": "lesson-root-mit-01",
+  "slug": "root-mit-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-mit-01",
+  "titleZh": "mit／miss｜快遞與派遣局",
+  "titleEn": "Dispatch Desk of mit/miss",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 mit/miss＝送、放——一切都是快遞單。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "信號 transmit 送出去；員工被 dismiss 送走。責任 remiss 是該送卻沒送到；密使是 emissary。permit 放行，submit 呈送上去，intermittent 送一下停一下。mission 是被派出去的任務，missile 是被送出去的武器。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "依 members 逐詞：義錨 → 劇本角色 → 跟讀 speakLineEn／對照 speakLineZh"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "見 quiz（3 題）"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "mit＝送：transmit 傳送、dismiss 打發走、submit 呈上、permit 放行",
+        "remiss＝該做沒做（快遞丟件）；intermittent＝斷斷續續送"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Negligent about a duty:",
+      "promptZh": "對職責怠慢疏忽：",
+      "choices": [
+        "remiss",
+        "missive",
+        "transmit",
+        "mission"
+      ],
+      "answer": "remiss"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Starting and stopping repeatedly:",
+      "promptZh": "反覆開始又停止：",
+      "choices": [
+        "admissible",
+        "intermittent",
+        "emissary",
+        "submit"
+      ],
+      "answer": "intermittent"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "A messenger sent on a task:",
+      "promptZh": "被派出去辦事的使者：",
+      "choices": [
+        "omission",
+        "emissary",
+        "permit",
+        "dismiss"
+      ],
+      "answer": "emissary"
+    }
+  ],
+  "pitfalls": [
+    "emit（發出）與 omit（省略）只差一字母——本族先主打 mit/miss 派遣義",
+    "dismiss 可指解雇或『不予考慮』"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S2",
+    "checklist": [
+      "hook+script",
+      "members ≥8 bilingual lines",
+      "reviewHooks ≥2",
+      "pitfalls ≥1",
+      "quiz ×3"
+    ]
+  }
+}

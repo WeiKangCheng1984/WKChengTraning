@@ -1,0 +1,115 @@
+{
+  "id": "root-clud-01",
+  "type": "root",
+  "elementLemma": "claud/claus/clud/clos",
+  "titleZh": "clud｜獄卒日常",
+  "titleEn": "Lockdown Logistics",
+  "hook": "clud／claus＝關、鎖——獄卒的一天。",
+  "script": "下班前 conclude 總結案情；不受歡迎的人 exclude 排除在外；提前上鎖叫 preclude。想安靜就 seclude 把自己關起來；管路 occlude 堵塞時全員慌張——有人甚至有 claustrophobia 幽閉恐懼。",
+  "members": [
+    {
+      "headword": "conclude",
+      "inVocab": false,
+      "senseAnchor": "結束；推斷出",
+      "roleInScript": "把案子鎖上句點",
+      "humorDevice": "morphology",
+      "zhGloss": "結束；推斷出",
+      "speakLineEn": "We conclude that the evidence is insufficient.",
+      "speakLineZh": "我們斷定證據不足。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "exclude",
+      "inVocab": false,
+      "senseAnchor": "排除；拒絕納入",
+      "roleInScript": "不讓進門",
+      "humorDevice": "morphology",
+      "zhGloss": "排除；拒絕納入",
+      "speakLineEn": "The sample excluded outliers above three standard deviations.",
+      "speakLineZh": "樣本排除了三個標準差以上的極端值。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "preclude",
+      "inVocab": true,
+      "senseAnchor": "to make impossible, as by action taken in advance",
+      "roleInScript": "預先把門鎖上",
+      "humorDevice": "morphology",
+      "zhGloss": "預先阻止；使不可能",
+      "speakLineEn": "Budget limits preclude a full replication study.",
+      "speakLineZh": "預算限制使完整重製研究不可行。",
+      "related": {
+        "synonyms": "avert, forestall, obviate",
+        "antonyms": "allow, permit, necessitate, require"
+      }
+    },
+    {
+      "headword": "seclude",
+      "inVocab": true,
+      "senseAnchor": "remove from contact with others",
+      "roleInScript": "把自己鎖進小房間",
+      "humorDevice": "morphology",
+      "zhGloss": "使隔絕；隱居",
+      "speakLineEn": "The writer secluded herself to finish the draft.",
+      "speakLineZh": "作者隔絕自己以完成草稿。",
+      "related": {
+        "synonyms": "sequester, sequestrate, withdraw",
+        "antonyms": "advance, deposit, engage"
+      }
+    },
+    {
+      "headword": "occlude",
+      "inVocab": true,
+      "senseAnchor": "block passage through",
+      "roleInScript": "管路被堵住",
+      "humorDevice": "morphology",
+      "zhGloss": "堵塞；閉塞",
+      "speakLineEn": "Plaque can occlude the artery.",
+      "speakLineZh": "斑塊可能堵塞動脈。",
+      "related": {
+        "synonyms": "obstruct, obturate, impede, jam, block",
+        "antonyms": "open, clear, free"
+      }
+    },
+    {
+      "headword": "claustrophobia",
+      "inVocab": false,
+      "senseAnchor": "幽閉恐懼症",
+      "roleInScript": "怕被關",
+      "humorDevice": "story",
+      "zhGloss": "幽閉恐懼症",
+      "speakLineEn": "His claustrophobia made enclosed archives unbearable.",
+      "speakLineZh": "幽閉恐懼讓密閉檔案室令他难受。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    }
+  ],
+  "reviewHooks": [
+    "關：conclude 結案、exclude 拒入、preclude 預鎖、seclude 自鎖、occlude 堵塞",
+    "preclude ≈ prevent by making impossible"
+  ],
+  "pitfalls": [
+    "include 的反義常想到 exclude；preclude 不是『預先包括』",
+    "conclude 雙義：結束／得出結論"
+  ],
+  "lessonRefs": [
+    "lesson-root-clud-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "elementIds": [
+    "root-054"
+  ],
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "note": "Stage-1 promote: aligned with tract lesson template"
+  }
+}

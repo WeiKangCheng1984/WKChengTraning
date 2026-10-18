@@ -1,0 +1,115 @@
+{
+  "id": "sem-talk-01",
+  "type": "semantic",
+  "elementLemma": "silent-vs-talkative",
+  "titleZh": "沉默寡言 ↔ 長舌婦",
+  "titleEn": "Taciturn vs. Garrulous",
+  "hook": "一邊痛到倒吸涼氣說不出話，一邊嘎嚕嚕叫不停。",
+  "script": "會議室左排 taciturn、reticent、laconic——能不說就不說；右排 loquacious、garrulous、verbose——停不下來。",
+  "members": [
+    {
+      "headword": "taciturn",
+      "inVocab": true,
+      "senseAnchor": "habitually reserved and uncommunicative",
+      "roleInScript": "倒吸涼氣派",
+      "humorDevice": "phonetic",
+      "zhGloss": "沉默寡言的",
+      "speakLineEn": "The taciturn witness answered in monosyllables.",
+      "speakLineZh": "沉默的證人只用單音節回答。",
+      "related": {
+        "synonyms": "",
+        "antonyms": "talkative, garrulous, voluble"
+      }
+    },
+    {
+      "headword": "reticent",
+      "inVocab": true,
+      "senseAnchor": "inclined to be silent or uncommunicative in speech",
+      "roleInScript": "有話留半句",
+      "humorDevice": "contrast",
+      "zhGloss": "不輕易透露的；緘默的",
+      "speakLineEn": "She remained reticent about her funding sources.",
+      "speakLineZh": "她對資金來源仍不輕易透露。",
+      "related": {
+        "synonyms": "laconic, taciturn",
+        "antonyms": "talkative, garrulous, verbose, wordy, voluble"
+      }
+    },
+    {
+      "headword": "laconic",
+      "inVocab": true,
+      "senseAnchor": "using a minimum of words",
+      "roleInScript": "短到像密碼",
+      "humorDevice": "contrast",
+      "zhGloss": "言簡意賅的",
+      "speakLineEn": "His laconic reply ended the discussion.",
+      "speakLineZh": "他言簡意賅的回覆結束了討論。",
+      "related": {
+        "synonyms": "concise, taciturn, reticent, terse, succinct",
+        "antonyms": "verbose, wordy, prolix, talkative, garrulous, voluble"
+      }
+    },
+    {
+      "headword": "loquacious",
+      "inVocab": false,
+      "senseAnchor": "話多的；滔滔不絕的",
+      "roleInScript": "話匣子",
+      "humorDevice": "contrast",
+      "zhGloss": "話多的；滔滔不絕的",
+      "speakLineEn": "A loquacious narrator can bury the plot.",
+      "speakLineZh": "滔滔不絕的敘事者可能把情節埋掉。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "garrulous",
+      "inVocab": true,
+      "senseAnchor": "talkative",
+      "roleInScript": "嘎嚕嚕老母雞",
+      "humorDevice": "phonetic",
+      "zhGloss": "喋喋不休的",
+      "speakLineEn": "The garrulous memoir digresses endlessly.",
+      "speakLineZh": "這本喋喋不休的回憶錄沒完没了地離題。",
+      "related": {
+        "synonyms": "loquacious, verbose, prolix, long-winded",
+        "antonyms": "taciturn, reticent, concise, succinct"
+      }
+    },
+    {
+      "headword": "verbose",
+      "inVocab": true,
+      "senseAnchor": "using or containing too many words",
+      "roleInScript": "字數膨脹",
+      "humorDevice": "contrast",
+      "zhGloss": "冗長的；囉唆的",
+      "speakLineEn": "Cut verbose transitions; keep the claim sharp.",
+      "speakLineZh": "刪掉冗長過渡，讓論點保持鋒利。",
+      "related": {
+        "synonyms": "long-winded, tedious, windy, wordy",
+        "antonyms": "concise, succinct"
+      }
+    }
+  ],
+  "reviewHooks": [
+    "少話：taciturn/reticent/laconic；多話：loquacious/garrulous/verbose",
+    "laconic＝短而精；verbose＝長而肥"
+  ],
+  "pitfalls": [
+    "reticent 強調『不願透露』；taciturn 強調『生性少話』",
+    "loquacious 中性偏多話；garrulous 更嫌喋喋"
+  ],
+  "lessonRefs": [
+    "lesson-sem-talk-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "elementIds": [
+    "semantic-273"
+  ],
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "note": "Stage-1 promote: aligned with tract lesson template"
+  }
+}

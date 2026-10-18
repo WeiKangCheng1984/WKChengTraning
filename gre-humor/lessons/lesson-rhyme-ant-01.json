@@ -1,0 +1,103 @@
+{
+  "id": "lesson-rhyme-ant-01",
+  "slug": "rhyme-ant-01",
+  "season": 1,
+  "seasonTitleZh": "押韻派對",
+  "seasonTitleEn": "Rhyme Party",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "rhyme-ant-01",
+  "titleZh": "-ant / -ent｜螞蟻動態人物系列",
+  "titleEn": "ANT Uprising",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "ANT（螞蟻）大暴走——英勇蟻對暴君怒吼。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "一隻 gallant 英勇小蟻，對著 tyrant 暴君開始 rant 怒吼；牠的觀點有 slant 偏斜，事後又 repent 後悔自己太衝。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "依 members 逐詞：義錨 → 劇本角色 → 跟讀 speakLineEn／對照 speakLineZh"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "見 quiz（3 題）"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "ANT：gallant 蟻 rant，slant 後 repent，對抗 tyrant",
+        "-ant/-ent 常見『人／形容』尾，先抓角色"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "A cruel absolute ruler is a:",
+      "promptZh": "殘酷的絕對統治者是：",
+      "choices": [
+        "gallant",
+        "tyrant",
+        "slant",
+        "rant"
+      ],
+      "answer": "tyrant"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "A biased angle in reporting is a:",
+      "promptZh": "報導中帶偏見的角度，是：",
+      "choices": [
+        "slant",
+        "repent",
+        "gallant",
+        "tyrant"
+      ],
+      "answer": "slant"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "An angry, noisy tirade is a:",
+      "promptZh": "憤怒喧鬧的長篇大論／咆哮，是：",
+      "choices": [
+        "repent",
+        "rant",
+        "slant",
+        "gallant"
+      ],
+      "answer": "rant"
+    }
+  ],
+  "pitfalls": [
+    "slant 可作名詞（偏見）或動詞（傾斜陳述）",
+    "rant 偏口語／修辭貶義，GRE 閱讀常用來標『情緒多於論證』"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "checklist": [
+      "hook+script present",
+      "members ≥4 with bilingual speak lines",
+      "reviewHooks ≥2",
+      "pitfalls ≥1",
+      "quiz ×3 sense-accurate"
+    ]
+  }
+}

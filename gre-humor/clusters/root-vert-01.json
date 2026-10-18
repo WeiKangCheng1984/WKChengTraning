@@ -1,0 +1,183 @@
+{
+  "id": "root-vert-01",
+  "type": "root",
+  "elementLemma": "vert/vers",
+  "titleZh": "vert／vers｜轉彎人生操作台",
+  "titleEn": "Turntable of vert/vers",
+  "hook": "字根 vert/vers＝轉——人生遙控器專管轉向。",
+  "script": "風向一變就 divert 轉向；危險來了趕緊 avert 轉開。政策 revert 轉回舊制，野心家想 subvert 從底下推翻。性格 perverse 老愛反著轉；世界觀是宇宙的 universe，一封信是寫給你的 verse 轉過來的詩行。",
+  "members": [
+    {
+      "headword": "divert",
+      "inVocab": true,
+      "senseAnchor": "turn aside; turn away from; send on a course or in a direction different from the planned or intended one",
+      "roleInScript": "把方向轉開",
+      "humorDevice": "morphology",
+      "zhGloss": "使轉向；轉移注意力；娛樂",
+      "speakLineEn": "The anecdote diverted attention from the weak premise.",
+      "speakLineZh": "這則軼事把注意力從薄弱前提轉開。",
+      "related": {
+        "synonyms": "deviate, amuse, disport",
+        "antonyms": "conform"
+      }
+    },
+    {
+      "headword": "avert",
+      "inVocab": true,
+      "senseAnchor": "prevent the occurrence of; prevent from happening; turn away or aside",
+      "roleInScript": "轉開危險",
+      "humorDevice": "morphology",
+      "zhGloss": "避免；轉開（目光／災難）",
+      "speakLineEn": "Early warnings helped avert a larger crisis.",
+      "speakLineZh": "早期預警協助避免了更大危機。",
+      "related": {
+        "synonyms": "debar, forefend, forfend, obviate, deflect, avoid",
+        "antonyms": "necessitate, require, confront, validate"
+      }
+    },
+    {
+      "headword": "revert",
+      "inVocab": true,
+      "senseAnchor": "go back to a previous state; undergo reversion, as in a mutation",
+      "roleInScript": "轉回舊設定",
+      "humorDevice": "morphology",
+      "zhGloss": "回復；恢復原狀",
+      "speakLineEn": "Without oversight, practices may revert to old habits.",
+      "speakLineZh": "缺少監督時，做法可能轉回舊習慣。",
+      "related": {
+        "synonyms": "return, retrovert, regress",
+        "antonyms": "progress"
+      }
+    },
+    {
+      "headword": "subvert",
+      "inVocab": false,
+      "senseAnchor": "顛覆；暗中破壞",
+      "roleInScript": "從底下翻轉體制",
+      "humorDevice": "morphology",
+      "zhGloss": "顛覆；暗中破壞",
+      "speakLineEn": "Satire can subvert official narratives without direct attack.",
+      "speakLineZh": "諷刺能在不直接攻擊下顛覆官方敘事。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "perverse",
+      "inVocab": true,
+      "senseAnchor": "marked by a disposition to oppose and contradict; resistant to guidance or discipline",
+      "roleInScript": "反著轉的性格",
+      "humorDevice": "morphology",
+      "zhGloss": "乖戾的；故意作對的",
+      "speakLineEn": "A perverse reading ignores the plain sense of the text.",
+      "speakLineZh": "乖戾的解讀會忽略文本的平白意思。",
+      "related": {
+        "synonyms": "contrary, obstinate, wayward, depraved, perverted, reprobate",
+        "antonyms": "compliant, flexible, docile, approbate"
+      }
+    },
+    {
+      "headword": "universe",
+      "inVocab": false,
+      "senseAnchor": "宇宙；領域全體",
+      "roleInScript": "轉成一整個世界",
+      "humorDevice": "story",
+      "zhGloss": "宇宙；領域全體",
+      "speakLineEn": "The study claims validity across a broad universe of cases.",
+      "speakLineZh": "該研究宣稱在廣泛案例宇宙中皆有效。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "versatile",
+      "inVocab": false,
+      "senseAnchor": "多才多藝的；用途多的",
+      "roleInScript": "能到處轉的人／工具",
+      "humorDevice": "morphology",
+      "zhGloss": "多才多藝的；用途多的",
+      "speakLineEn": "A versatile method travels across disciplines.",
+      "speakLineZh": "多用途方法能跨領域旅行。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "adverse",
+      "inVocab": false,
+      "senseAnchor": "不利的；有害的",
+      "roleInScript": "轉過來擋你的風",
+      "humorDevice": "lookalike",
+      "zhGloss": "不利的；有害的",
+      "speakLineEn": "Adverse incentives warped the reporting.",
+      "speakLineZh": "不利的誘因扭曲了通報。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "anniversary",
+      "inVocab": false,
+      "senseAnchor": "週年紀念",
+      "roleInScript": "年份轉了一圈",
+      "humorDevice": "story",
+      "zhGloss": "週年紀念",
+      "speakLineEn": "The anniversary essay revisited the founding debate.",
+      "speakLineZh": "週年紀念文重訪了創立時的辯論。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "controversy",
+      "inVocab": false,
+      "senseAnchor": "爭議",
+      "roleInScript": "意見轉來轉去打結",
+      "humorDevice": "morphology",
+      "zhGloss": "爭議",
+      "speakLineEn": "The controversy turned on how to define harm.",
+      "speakLineZh": "爭議聚焦在如何定義傷害。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "introvert",
+      "inVocab": false,
+      "senseAnchor": "內向者；使內轉",
+      "roleInScript": "能量往內轉",
+      "humorDevice": "story",
+      "zhGloss": "內向者；使內轉",
+      "speakLineEn": "An introvert may still lead through careful writing.",
+      "speakLineZh": "內向者仍可透過審慎寫作領導。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    }
+  ],
+  "reviewHooks": [
+    "vert＝轉：divert 轉開、avert 避開、revert 轉回、subvert 底下翻轉",
+    "perverse＝故意反著來；universe＝轉成一整體的世界"
+  ],
+  "pitfalls": [
+    "avert（轉開／避免）≠ advert（注意／廣告相關）",
+    "subvert 是顛覆體制，不是單純『轉個彎』"
+  ],
+  "lessonRefs": [
+    "lesson-root-vert-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S2",
+    "note": "New A-level cluster with full lesson"
+  }
+}

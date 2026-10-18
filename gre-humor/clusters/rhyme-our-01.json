@@ -1,0 +1,101 @@
+{
+  "id": "rhyme-our-01",
+  "type": "rhyme",
+  "elementLemma": "-our/-ore",
+  "titleZh": "-our / -ore｜豪門恩怨系列",
+  "titleEn": "The Our Household Saga",
+  "hook": "把 our（我們的）當主角——臭臉老爸正在大掃除。",
+  "script": "我們的（our）豪宅裡，dour 老爸臉臭到能醃菜；他一邊 scour 刷地板，一邊把酸掉的情緒 pour 進水桶。空氣整間 sour，他還 lour／lower 著眉。最後全家只好 mourn：歡樂已死。",
+  "members": [
+    {
+      "headword": "pour",
+      "inVocab": false,
+      "senseAnchor": "倒出；傾注",
+      "roleInScript": "把情緒／液體倒進桶",
+      "humorDevice": "story",
+      "zhGloss": "倒出；傾注",
+      "speakLineEn": "Critics should not pour scorn on a draft before reading it carefully.",
+      "speakLineZh": "批評者不該在細讀前就對草稿大潑冷水／嘲弄。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "sour",
+      "inVocab": false,
+      "senseAnchor": "變酸；變壞；不高興的",
+      "roleInScript": "空氣變酸、氣氛變糟",
+      "humorDevice": "story",
+      "zhGloss": "變酸；變壞；不高興的",
+      "speakLineEn": "The partnership soured when incentives were misaligned.",
+      "speakLineZh": "誘因錯位後，這段合作關係變質了。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "scour",
+      "inVocab": true,
+      "senseAnchor": "a place that is scoured (especially by running water); examine minutely",
+      "roleInScript": "刷地板／翻箱搜查",
+      "humorDevice": "story",
+      "zhGloss": "徹底刷洗；徹底搜查",
+      "speakLineEn": "Investigators scoured the records for inconsistencies.",
+      "speakLineZh": "調查人員徹底翻查紀錄找矛盾。",
+      "related": {
+        "synonyms": "scrub, abrade, flush, purge",
+        "antonyms": "keep down, rehabilitate"
+      }
+    },
+    {
+      "headword": "dour",
+      "inVocab": true,
+      "senseAnchor": "stubbornly unyielding; ; ; ; - T.S.Eliot; harshly uninviting or formidable in manner or appearance; ; ; ; - J.M.Barrie",
+      "roleInScript": "臭臉老爸",
+      "humorDevice": "story",
+      "zhGloss": "嚴厲冷酷的；陰鬱的",
+      "speakLineEn": "His dour expression never softened during negotiations.",
+      "speakLineZh": "談判時他那張冷酷臉始終沒鬆過。",
+      "related": {
+        "synonyms": "dogged, persistent, pertinacious, tenacious, unyielding, forbidding",
+        "antonyms": "caducous, yielding, irresolute, unretentive, allow, permit"
+      }
+    },
+    {
+      "headword": "mourn",
+      "inVocab": true,
+      "senseAnchor": "feel sadness; observe the customs of mourning after the death of a loved one",
+      "roleInScript": "哀悼歡樂已死",
+      "humorDevice": "story",
+      "zhGloss": "哀悼；感到悲痛",
+      "speakLineEn": "Critics mourned the decline of careful argumentation.",
+      "speakLineZh": "評論者哀悼嚴謹論證的衰落。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    }
+  ],
+  "reviewHooks": [
+    "our 豪宅：倒（pour）酸（sour）刷（scour）臭臉（dour）哀悼（mourn）",
+    "看到 -our/-ore，先找『我們家』場景"
+  ],
+  "pitfalls": [
+    "lour/lower（皺眉）口語少見，先主攻 dour/scour",
+    "pour ≠ poor（貧窮）諧音陷阱"
+  ],
+  "lessonRefs": [
+    "lesson-rhyme-our-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "elementIds": [
+    "rhyme-222"
+  ],
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "note": "Stage-1 promote: aligned with tract lesson template"
+  }
+}
