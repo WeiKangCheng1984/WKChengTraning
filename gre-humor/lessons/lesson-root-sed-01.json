@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-sed-01",
+  "slug": "root-sed-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-sed-01",
+  "titleZh": "sed｜久坐議事廳",
+  "titleEn": "Sitting Assembly Hall",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 sed/sid＝坐——議事廳誰坐下、誰潛伏。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "sedentary 久坐；sediment 沉下去的渣。reside 住下，president 坐主位。session 一次開會坐下；obsess 坐著不放。assiduous 勤坐苦幹；insidious 潛伏坐下害人。subsidiary 附屬坐下幫忙；dissident 不肯同坐一席的異議者。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "sed＝坐：sedentary/sediment/reside/session/obsess",
+        "assiduous 勤奮 ≠ insidious 陰險"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "lookalike",
+      "promptEn": "Diligent vs treacherously gradual:",
+      "promptZh": "勤勉 vs 陰險隱伏：",
+      "choices": [
+        "assiduous / insidious",
+        "insidious / assiduous",
+        "sedentary / sediment",
+        "obsess / session"
+      ],
+      "answer": "assiduous / insidious"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Sitting a lot; inactive:",
+      "promptZh": "久坐少動：",
+      "choices": [
+        "sedentary",
+        "dissident",
+        "president",
+        "subsidiary"
+      ],
+      "answer": "sedentary"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Person who disagrees with authority:",
+      "promptZh": "異議者：",
+      "choices": [
+        "dissident",
+        "sediment",
+        "reside",
+        "session"
+      ],
+      "answer": "dissident"
+    }
+  ],
+  "pitfalls": [
+    "assiduous（勤勉）≠ insidious（陰險漸進）",
+    "obsess＝執著不放"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch01"
+  }
+}

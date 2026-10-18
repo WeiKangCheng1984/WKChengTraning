@@ -1,0 +1,97 @@
+{
+  "id": "lesson-rhyme-ound-01",
+  "slug": "rhyme-ound-01",
+  "season": 1,
+  "seasonTitleZh": "押韻派對",
+  "seasonTitleEn": "Rhyme Party",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "rhyme-ound-01",
+  "titleZh": "ound｜回聲競技場",
+  "titleEn": "The -ound Echo Arena",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "押韻族 -ound：聲音與困局在場內來回撞。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "profound 深到見底；confound 攪混讓人懵。expound 展開說明；impound 扣押封存。resound 回聲震場；astound 震驚全場。compound 複合加重；rebound 反彈。surround 包圍；abound 充斥。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "-ound：profound/confound/expound/impound/resound",
+        "confound＝混淆／挫敗"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Explain in detail:",
+      "promptZh": "詳細闡述：",
+      "choices": [
+        "expound",
+        "impound",
+        "rebound",
+        "abound"
+      ],
+      "answer": "expound"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Mix up; be a lurking variable:",
+      "promptZh": "混淆：",
+      "choices": [
+        "confound",
+        "profound",
+        "resound",
+        "ground"
+      ],
+      "answer": "confound"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Seize and hold:",
+      "promptZh": "扣押：",
+      "choices": [
+        "impound",
+        "compound",
+        "surround",
+        "astound"
+      ],
+      "answer": "impound"
+    }
+  ],
+  "pitfalls": [
+    "confound 統計上＝混淆變項；日常也可「使困惑」",
+    "expound＝闡述，不是 explode"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch01"
+  }
+}

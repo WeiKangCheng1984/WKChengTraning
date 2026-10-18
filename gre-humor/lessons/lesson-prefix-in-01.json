@@ -1,0 +1,97 @@
+{
+  "id": "lesson-prefix-in-01",
+  "slug": "prefix-in-01",
+  "season": 4,
+  "seasonTitleZh": "字首調味",
+  "seasonTitleEn": "Prefix Seasoning",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "prefix-in-01",
+  "titleZh": "in-｜進入／否定雙門",
+  "titleEn": "In- Double Door",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字首 in-/im-＝進入或否定——同一門兩種用法，靠詞義裁定。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "進入向：infiltrate 滲入，innate 天生內在，insurgent 起事攻入，inhibit 抑制住。否定向：insipid 無味，inane 空洞，indigent 貧乏，inert 惰性，infamy 惡名。incisive 切入銳利。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "in- 可＝進入或否定：innate/infiltrate vs insipid/inane/inert",
+        "incisive＝鋭利深刻"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Dull; lacking flavor or interest:",
+      "promptZh": "無味：",
+      "choices": [
+        "insipid",
+        "innate",
+        "incisive",
+        "potent"
+      ],
+      "answer": "insipid"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Poor; needy:",
+      "promptZh": "貧窮：",
+      "choices": [
+        "indigent",
+        "inert",
+        "infamy",
+        "forte"
+      ],
+      "answer": "indigent"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Sharp; penetrating:",
+      "promptZh": "鋭利深刻：",
+      "choices": [
+        "incisive",
+        "inane",
+        "infiltrate",
+        "levy"
+      ],
+      "answer": "incisive"
+    }
+  ],
+  "pitfalls": [
+    "同一字首兩義，不可死記單一中文",
+    "indigent＝貧窮"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch02"
+  }
+}

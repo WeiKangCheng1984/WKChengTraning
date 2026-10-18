@@ -1,0 +1,163 @@
+{
+  "id": "look-ingenious-01",
+  "type": "lookalike",
+  "elementLemma": "ingenious-ingenuous",
+  "titleZh": "ingenious／ingenuous｜巧思 vs 天真對決",
+  "titleEn": "Ingenious vs Ingenuous",
+  "hook": "只差一點點拼寫：巧妙機智 vs 天真率直——高頻易混。",
+  "script": "ingenious＝有 ingenuity（巧思）；ingenuous＝近於 naive／candid（天真率直）。再對打：genius 天才氣場，disingenuous 不誠實地裝天真。考試最愛用 ingenuous 考「單純」不是「聰明」。",
+  "members": [
+    {
+      "headword": "ingenuity",
+      "inVocab": false,
+      "senseAnchor": "巧思；機智",
+      "roleInScript": "巧妙本事",
+      "humorDevice": "lookalike",
+      "zhGloss": "巧思；機智",
+      "speakLineEn": "Methodological ingenuity still needs ethics.",
+      "speakLineZh": "方法巧思仍需倫理。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "disingenuous",
+      "inVocab": true,
+      "senseAnchor": "not honest",
+      "roleInScript": "裝天真",
+      "humorDevice": "lookalike",
+      "zhGloss": "不真誠的；假惺惺的",
+      "speakLineEn": "It is disingenuous to hide exclusions in footnotes.",
+      "speakLineZh": "把排除藏在腳註是假惺惺。",
+      "related": {
+        "synonyms": "hypocritical, affected",
+        "antonyms": "ingenuous, unaffected, unmoved"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "naive",
+      "inVocab": true,
+      "senseAnchor": "lacking worldly experience and understanding, simple and guileless",
+      "roleInScript": "單純鄰居",
+      "humorDevice": "contrast",
+      "zhGloss": "天真的；幼稚的",
+      "speakLineEn": "A naive model ignored clustering.",
+      "speakLineZh": "天真模型忽略叢集。",
+      "related": {
+        "synonyms": "artless, guileless, ingenuous, innocent",
+        "antonyms": "sophisticated, worldly, artful, disingenuous, guilty"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "artful",
+      "inVocab": true,
+      "senseAnchor": "not straightforward or candid; giving a false appearance of frankness; - David Cannadine; marked by skill in achieving a desired end especially with cunning or craft",
+      "roleInScript": "巧中帶滑",
+      "humorDevice": "contrast",
+      "zhGloss": "狡猾巧妙的",
+      "speakLineEn": "Artful wording can mislead without lying.",
+      "speakLineZh": "狡猾措辭可不說謊卻誤導。",
+      "related": {
+        "synonyms": "disingenuous",
+        "antonyms": "artless, ingenuous"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "guileless",
+      "inVocab": true,
+      "senseAnchor": "free of deceit",
+      "roleInScript": "無心機",
+      "humorDevice": "contrast",
+      "zhGloss": "坦率無詭計的",
+      "speakLineEn": "Guileless reporting lists all deviations.",
+      "speakLineZh": "無心機報告列出全部偏離。",
+      "related": {
+        "synonyms": "transparent",
+        "antonyms": "opaque, obscure"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "crafty",
+      "inVocab": true,
+      "senseAnchor": "marked by skill in deception",
+      "roleInScript": "心機鄰居",
+      "humorDevice": "contrast",
+      "zhGloss": "狡猾的",
+      "speakLineEn": "Crafty selective quoting distorts reviews.",
+      "speakLineZh": "狡猾選擇性引用扭曲評論。",
+      "related": {
+        "synonyms": "cunning, dodgy, foxy, guileful, knavish, slick",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "resourceful",
+      "inVocab": false,
+      "senseAnchor": "足智多謀的",
+      "roleInScript": "巧妙近親",
+      "humorDevice": "contrast",
+      "zhGloss": "足智多謀的",
+      "speakLineEn": "Resourceful debugging is not p-hacking.",
+      "speakLineZh": "足智除錯不是 p 操弄。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "simpleminded",
+      "inVocab": false,
+      "senseAnchor": "頭腦簡單的",
+      "roleInScript": "過度天真",
+      "humorDevice": "contrast",
+      "zhGloss": "頭腦簡單的",
+      "speakLineEn": "Simpleminded averages hide subgroup harm.",
+      "speakLineZh": "頭腦簡單的平均掩蓋次群傷害。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "sophisticated",
+      "inVocab": false,
+      "senseAnchor": "老練精巧的",
+      "roleInScript": "反天真",
+      "humorDevice": "contrast",
+      "zhGloss": "老練精巧的",
+      "speakLineEn": "A sophisticated design still needs plain summary.",
+      "speakLineZh": "精巧設計仍需白話摘要。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "ingenious＝巧妙；ingenuous＝天真率直",
+    "disingenuous＝假惺惺"
+  ],
+  "pitfalls": [
+    "ingenuous 不是 ingenious 的誤拼",
+    "disingenuous＝不真誠"
+  ],
+  "lessonRefs": [
+    "lesson-look-ingenious-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch01"
+  }
+}

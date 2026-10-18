@@ -1,0 +1,208 @@
+{
+  "id": "root-sci-01",
+  "type": "root",
+  "elementLemma": "sci",
+  "titleZh": "sci｜知與良心觀測台",
+  "titleEn": "Knowing Observatory",
+  "hook": "字根 sci＝知——觀測台專管「知道／良知」。",
+  "script": "science 系統之知；conscious 有意識知道。conscience 良心那盞燈；omniscient 全知。prescient 預先知道；nescient／nescience 無知。plebiscite 全民表決像集體表態所知；unconscionable 違背良心到不可接受。",
+  "members": [
+    {
+      "headword": "science",
+      "inVocab": false,
+      "senseAnchor": "科學",
+      "roleInScript": "系統之知",
+      "humorDevice": "story",
+      "zhGloss": "科學",
+      "speakLineEn": "Science advances by correcting itself.",
+      "speakLineZh": "科學靠自我校正前進。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "conscious",
+      "inVocab": false,
+      "senseAnchor": "有意識的",
+      "roleInScript": "知道自己在知",
+      "humorDevice": "morphology",
+      "zhGloss": "有意識的",
+      "speakLineEn": "Be conscious of researcher degrees of freedom.",
+      "speakLineZh": "要意識到研究者自由度。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "conscience",
+      "inVocab": false,
+      "senseAnchor": "良心",
+      "roleInScript": "道德之知",
+      "humorDevice": "morphology",
+      "zhGloss": "良心",
+      "speakLineEn": "A researcher's conscience should stop p-hacking.",
+      "speakLineZh": "研究者良心應阻止 p 值操弄。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "omniscient",
+      "inVocab": true,
+      "senseAnchor": "possessed of universal or complete knowledge",
+      "roleInScript": "什麼都知",
+      "humorDevice": "morphology",
+      "zhGloss": "全知的",
+      "speakLineEn": "No reviewer is omniscient across fields.",
+      "speakLineZh": "沒有審稿人跨領域全知。",
+      "related": {
+        "synonyms": "all-knowing",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "prescient",
+      "inVocab": true,
+      "senseAnchor": "able to know what will happen in the future",
+      "roleInScript": "預先知道",
+      "humorDevice": "morphology",
+      "zhGloss": "有先見的",
+      "speakLineEn": "Her prescient warning about overfitting aged well.",
+      "speakLineZh": "她對過度擬合的先見經得起時間。",
+      "related": {
+        "synonyms": "visionary, prophetic",
+        "antonyms": "unprophetic"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "nescience",
+      "inVocab": false,
+      "senseAnchor": "無知",
+      "roleInScript": "不知狀態",
+      "humorDevice": "morphology",
+      "zhGloss": "無知",
+      "speakLineEn": "Admit nescience rather than invent certainty.",
+      "speakLineZh": "承認無知勝過捏造確定。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "plebiscite",
+      "inVocab": false,
+      "senseAnchor": "公民投票",
+      "roleInScript": "全民表態所知",
+      "humorDevice": "morphology",
+      "zhGloss": "公民投票",
+      "speakLineEn": "A plebiscite cannot replace technical review.",
+      "speakLineZh": "公投不能取代技術審查。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "unconscionable",
+      "inVocab": true,
+      "senseAnchor": "lacking a conscience; greatly exceeding bounds of reason or moderation",
+      "roleInScript": "違背良心",
+      "humorDevice": "morphology",
+      "zhGloss": "良心難安的；過分的",
+      "speakLineEn": "Withholding adverse results is unconscionable.",
+      "speakLineZh": "隱瞞不良結果良心難安。",
+      "related": {
+        "synonyms": "conscienceless, exorbitant, extortionate, outrageous, steep, usurious",
+        "antonyms": "gradual"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "self-conscious",
+      "inVocab": false,
+      "senseAnchor": "不自在的；自我意識強的",
+      "roleInScript": "過度覺察自己",
+      "humorDevice": "story",
+      "zhGloss": "不自在的；自我意識強的",
+      "speakLineEn": "Self-conscious prose hides weak claims.",
+      "speakLineZh": "扭捏文風常掩蓋弱主張。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "subconscious",
+      "inVocab": false,
+      "senseAnchor": "潛意識的",
+      "roleInScript": "知在水面下",
+      "humorDevice": "story",
+      "zhGloss": "潛意識的",
+      "speakLineEn": "Subconscious cues still need controlled tests.",
+      "speakLineZh": "潛意識線索仍需對照試驗。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "omniscience",
+      "inVocab": false,
+      "senseAnchor": "全知",
+      "roleInScript": "全知之狀態",
+      "humorDevice": "morphology",
+      "zhGloss": "全知",
+      "speakLineEn": "Claims of omniscience belong to theology, not labs.",
+      "speakLineZh": "全知宣稱屬神學不屬實驗室。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "scientific",
+      "inVocab": false,
+      "senseAnchor": "科學的",
+      "roleInScript": "合科學規範",
+      "humorDevice": "story",
+      "zhGloss": "科學的",
+      "speakLineEn": "Scientific humility includes reporting limits.",
+      "speakLineZh": "科學謙遜包含報告限制。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "sci＝知：science/conscious/conscience/omniscient/prescient",
+    "conscious 意識 ≠ conscience 良心"
+  ],
+  "pitfalls": [
+    "conscious（有意識）≠ conscience（良心）",
+    "prescient＝有先見之明"
+  ],
+  "lessonRefs": [
+    "lesson-root-sci-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch01"
+  }
+}

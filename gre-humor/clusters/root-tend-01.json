@@ -1,0 +1,208 @@
+{
+  "id": "root-tend-01",
+  "type": "root",
+  "elementLemma": "tend/tens",
+  "titleZh": "tend｜伸張拉力場",
+  "titleEn": "Tension Field",
+  "hook": "字根 tend/tens＝伸、張——拉力場專管拉長與張力。（有別於 ten＝握持）",
+  "script": "extend 往外伸；contend 伸拳競爭。distend 脹開；tense／tension 拉緊。intense 強度拉滿；ostensible 表面上伸出來給人看。attend 把注意力伸過去；pretend 假裝伸一套戲。extensive 範圍伸很廣；tendency 傾向往哪伸。",
+  "members": [
+    {
+      "headword": "extend",
+      "inVocab": false,
+      "senseAnchor": "延伸；延長",
+      "roleInScript": "往外伸",
+      "humorDevice": "morphology",
+      "zhGloss": "延伸；延長",
+      "speakLineEn": "Extend the follow-up window before claiming durability.",
+      "speakLineZh": "宣稱持久性前先延長追蹤窗。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "contend",
+      "inVocab": true,
+      "senseAnchor": "maintain or assert; have an argument about something",
+      "roleInScript": "伸拳爭辯",
+      "humorDevice": "morphology",
+      "zhGloss": "競爭；主張",
+      "speakLineEn": "Authors contend that bias is bounded.",
+      "speakLineZh": "作者主張偏差有界。",
+      "related": {
+        "synonyms": "postulate, argue, debate, fence, contest, repugn",
+        "antonyms": "obviate"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "distend",
+      "inVocab": true,
+      "senseAnchor": "become wider; cause to expand as it by internal pressure",
+      "roleInScript": "脹開",
+      "humorDevice": "morphology",
+      "zhGloss": "膨脹；腫脹",
+      "speakLineEn": "Hype can distend expectations beyond evidence.",
+      "speakLineZh": "炒作會把期望脹到超過證據。",
+      "related": {
+        "synonyms": "dilate",
+        "antonyms": "contract"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "tense",
+      "inVocab": false,
+      "senseAnchor": "緊張的；時態",
+      "roleInScript": "拉緊",
+      "humorDevice": "morphology",
+      "zhGloss": "緊張的；時態",
+      "speakLineEn": "A tense deadline tempts cutting corners.",
+      "speakLineZh": "緊張期限誘使抄捷徑。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "tension",
+      "inVocab": false,
+      "senseAnchor": "張力；緊張",
+      "roleInScript": "拉力",
+      "humorDevice": "morphology",
+      "zhGloss": "張力；緊張",
+      "speakLineEn": "There is productive tension between speed and rigor.",
+      "speakLineZh": "速度與嚴謹之間有生產性張力。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "intense",
+      "inVocab": false,
+      "senseAnchor": "強烈的",
+      "roleInScript": "拉滿強度",
+      "humorDevice": "morphology",
+      "zhGloss": "強烈的",
+      "speakLineEn": "Intense scrutiny should be fair, not theatrical.",
+      "speakLineZh": "強烈檢視應公平而非作秀。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "ostensible",
+      "inVocab": true,
+      "senseAnchor": "appearing as such but not necessarily so; represented or appearing as such; pretended",
+      "roleInScript": "伸出來給看的理由",
+      "humorDevice": "morphology",
+      "zhGloss": "表面上的",
+      "speakLineEn": "The ostensible reason masked a funding conflict.",
+      "speakLineZh": "表面理由掩蓋資助利益衝突。",
+      "related": {
+        "synonyms": "apparent, seeming, ostensive",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "attend",
+      "inVocab": false,
+      "senseAnchor": "出席；注意",
+      "roleInScript": "把注意伸過去",
+      "humorDevice": "morphology",
+      "zhGloss": "出席；注意",
+      "speakLineEn": "Attend to missingness patterns early.",
+      "speakLineZh": "及早注意缺失模式。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "pretend",
+      "inVocab": false,
+      "senseAnchor": "假裝",
+      "roleInScript": "伸一套假動作",
+      "humorDevice": "story",
+      "zhGloss": "假裝",
+      "speakLineEn": "Do not pretend uncertainty is settled.",
+      "speakLineZh": "不要假裝不確定性已解決。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "extensive",
+      "inVocab": false,
+      "senseAnchor": "廣泛的",
+      "roleInScript": "伸很廣",
+      "humorDevice": "morphology",
+      "zhGloss": "廣泛的",
+      "speakLineEn": "Extensive robustness checks beat a single star.",
+      "speakLineZh": "廣泛穩健檢查勝過單一星號。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "tendency",
+      "inVocab": false,
+      "senseAnchor": "傾向",
+      "roleInScript": "往哪邊伸",
+      "humorDevice": "morphology",
+      "zhGloss": "傾向",
+      "speakLineEn": "There is a tendency to overfit narratives.",
+      "speakLineZh": "有對敘事過度擬合的傾向。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "tensioned",
+      "inVocab": false,
+      "senseAnchor": "被拉緊的",
+      "roleInScript": "已上拉力",
+      "humorDevice": "story",
+      "zhGloss": "被拉緊的",
+      "speakLineEn": "A tensioned debate clarified operational definitions.",
+      "speakLineZh": "拉緊的辯論釐清操作型定義。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "tend＝伸：extend/contend/distend/tension/ostensible",
+    "ostensible＝表面上的"
+  ],
+  "pitfalls": [
+    "ostensible＝表面宣稱，常暗示未必真",
+    "contend＝競爭／主張，不是 content"
+  ],
+  "lessonRefs": [
+    "lesson-root-tend-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch01"
+  }
+}

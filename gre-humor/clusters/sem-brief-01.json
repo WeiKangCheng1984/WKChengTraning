@@ -1,0 +1,208 @@
+{
+  "id": "sem-brief-01",
+  "type": "semantic",
+  "elementLemma": "brief-vs-verbose",
+  "titleZh": "簡潔↔冗長｜對打擂台",
+  "titleEn": "Brief vs Verbose Duel",
+  "hook": "語義對打：短而準 vs 又長又散——寫作語氣高頻考。",
+  "script": "簡潔隊：succinct／terse／pithy／curt／compact／brevity／concise。冗長隊：prolix／wordy／voluble／rambling／diffuse（冗散）。口令：能短則短，短要保義。",
+  "members": [
+    {
+      "headword": "succinct",
+      "inVocab": true,
+      "senseAnchor": "briefly giving the gist of something",
+      "roleInScript": "短而準",
+      "humorDevice": "contrast",
+      "zhGloss": "簡潔的",
+      "speakLineEn": "Write a succinct limitations list.",
+      "speakLineZh": "寫簡潔限制清單。",
+      "related": {
+        "synonyms": "compendious, compact, summary",
+        "antonyms": "verbose, wordy"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "terse",
+      "inVocab": true,
+      "senseAnchor": "brief and to the point; effectively cut short",
+      "roleInScript": "短到俐落",
+      "humorDevice": "contrast",
+      "zhGloss": "簡短的；簡慢的",
+      "speakLineEn": "A terse rebuttal can still be fair.",
+      "speakLineZh": "簡短反駁仍可公平。",
+      "related": {
+        "synonyms": "crisp, curt, laconic",
+        "antonyms": "verbose, wordy"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "pithy",
+      "inVocab": true,
+      "senseAnchor": "forceful and brief",
+      "roleInScript": "有髓短句",
+      "humorDevice": "contrast",
+      "zhGloss": "精煉的；簡潔有力的",
+      "speakLineEn": "A pithy takeaway beats a paragraph of haze.",
+      "speakLineZh": "精煉重點勝過一段霧。",
+      "related": {
+        "synonyms": "concise, laconic, succinct, terse",
+        "antonyms": "verbose, prolix, wordy"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "curt",
+      "inVocab": true,
+      "senseAnchor": "direct, brief, and potentially rude",
+      "roleInScript": "短到冷",
+      "humorDevice": "contrast",
+      "zhGloss": "簡慢的；簡短的",
+      "speakLineEn": "Curt emails escalate conflict.",
+      "speakLineZh": "簡慢郵件升級衝突。",
+      "related": {
+        "synonyms": "abrupt, bluff, terse",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "compact",
+      "inVocab": true,
+      "senseAnchor": "a small cosmetics case with a mirror; to be carried in a woman's purse; a signed written agreement between two or more parties (nations) to perform some action",
+      "roleInScript": "壓實",
+      "humorDevice": "contrast",
+      "zhGloss": "緊密的；簡潔的",
+      "speakLineEn": "Keep the model statement compact.",
+      "speakLineZh": "模型陳述保持緊密。",
+      "related": {
+        "synonyms": "covenant, concordat, pack, bundle, wad, compress",
+        "antonyms": "decompress, loose"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "brevity",
+      "inVocab": false,
+      "senseAnchor": "簡潔；短暫",
+      "roleInScript": "短本身",
+      "humorDevice": "contrast",
+      "zhGloss": "簡潔；短暫",
+      "speakLineEn": "Brevity is a courtesy to reviewers.",
+      "speakLineZh": "簡潔是對審稿人的禮貌。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "concise",
+      "inVocab": false,
+      "senseAnchor": "簡明的",
+      "roleInScript": "不囉唆",
+      "humorDevice": "contrast",
+      "zhGloss": "簡明的",
+      "speakLineEn": "Be concise without deleting assumptions.",
+      "speakLineZh": "簡明但不要刪假設。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "prolix",
+      "inVocab": true,
+      "senseAnchor": "tediously prolonged or tending to speak or write at great length",
+      "roleInScript": "又長又散",
+      "humorDevice": "contrast",
+      "zhGloss": "冗長的",
+      "speakLineEn": "Prolix methods hide the actual procedure.",
+      "speakLineZh": "冗長方法掩蓋實際程序。",
+      "related": {
+        "synonyms": "",
+        "antonyms": "concise"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "wordy",
+      "inVocab": true,
+      "senseAnchor": "using or containing too many words",
+      "roleInScript": "字太多",
+      "humorDevice": "contrast",
+      "zhGloss": "囉唆的",
+      "speakLineEn": "Wordy intros delay the research question.",
+      "speakLineZh": "囉唆導論拖延研究問題。",
+      "related": {
+        "synonyms": "long-winded, tedious, verbose, windy",
+        "antonyms": "concise, succinct"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "voluble",
+      "inVocab": true,
+      "senseAnchor": "marked by a ready flow of speech",
+      "roleInScript": "話流不停",
+      "humorDevice": "contrast",
+      "zhGloss": "健談的；喋喋不休的",
+      "speakLineEn": "Voluble presenters still need a slide of limits.",
+      "speakLineZh": "健談講者仍需一頁限制。",
+      "related": {
+        "synonyms": "",
+        "antonyms": "taciturn"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "rambling",
+      "inVocab": false,
+      "senseAnchor": "漫談的；東拉西扯的",
+      "roleInScript": "跑題長聊",
+      "humorDevice": "contrast",
+      "zhGloss": "漫談的；東拉西扯的",
+      "speakLineEn": "Cut rambling digressions before submission.",
+      "speakLineZh": "投稿前刪掉東拉西扯。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "long-winded",
+      "inVocab": true,
+      "senseAnchor": "using or containing too many words",
+      "roleInScript": "風很長",
+      "humorDevice": "contrast",
+      "zhGloss": "冗長的",
+      "speakLineEn": "Long-winded justifications signal weak design.",
+      "speakLineZh": "冗長辯解暗示弱設計。",
+      "related": {
+        "synonyms": "tedious, verbose, windy, wordy",
+        "antonyms": "concise, succinct"
+      },
+      "vocabStatus": "in-vocab"
+    }
+  ],
+  "reviewHooks": [
+    "簡潔：succinct/terse/pithy/curt/brevity",
+    "冗長：prolix/wordy/voluble/rambling"
+  ],
+  "pitfalls": [
+    "terse 可能偏「簡到冷」",
+    "prolix＝冗長乏味"
+  ],
+  "lessonRefs": [
+    "lesson-sem-brief-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch02"
+  }
+}

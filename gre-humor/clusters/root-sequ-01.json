@@ -1,0 +1,208 @@
+{
+  "id": "root-sequ-01",
+  "type": "root",
+  "elementLemma": "sequ/secut",
+  "titleZh": "sequ｜跟隨追擊隊",
+  "titleEn": "Sequence Pursuit Squad",
+  "hook": "字根 sequ＝跟隨——追擊隊專管誰跟在誰後面。",
+  "script": "sequence 順序跟著；consequence 跟著來的後果。subsequent 隨後；consecutive 連續跟著。prosecute 依法追擊，persecute 無理追打。obsequious 諂媚跟太緊；execute 執行跟上命令。segue 平滑接下一段；non sequitur 跟不上邏輯的句子。",
+  "members": [
+    {
+      "headword": "sequence",
+      "inVocab": false,
+      "senseAnchor": "序列；順序",
+      "roleInScript": "排好跟隨",
+      "humorDevice": "morphology",
+      "zhGloss": "序列；順序",
+      "speakLineEn": "Report the analysis sequence before peeking.",
+      "speakLineZh": "偷看前先報告分析序列。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "consequence",
+      "inVocab": false,
+      "senseAnchor": "後果；重要性",
+      "roleInScript": "跟著來的結果",
+      "humorDevice": "morphology",
+      "zhGloss": "後果；重要性",
+      "speakLineEn": "Underpowered studies have scientific consequence.",
+      "speakLineZh": "檢定力不足有科學後果。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "subsequent",
+      "inVocab": false,
+      "senseAnchor": "隨後的",
+      "roleInScript": "跟在後面",
+      "humorDevice": "morphology",
+      "zhGloss": "隨後的",
+      "speakLineEn": "Subsequent replications failed to confirm.",
+      "speakLineZh": "隨後複現未能確認。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "consecutive",
+      "inVocab": false,
+      "senseAnchor": "連續的",
+      "roleInScript": "一個接一個",
+      "humorDevice": "morphology",
+      "zhGloss": "連續的",
+      "speakLineEn": "Three consecutive nulls lowered confidence.",
+      "speakLineZh": "連續三次虛無降低信心。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "prosecute",
+      "inVocab": true,
+      "senseAnchor": "conduct a prosecution in a court of law; bring a criminal action against (in a trial)",
+      "roleInScript": "依法追擊",
+      "humorDevice": "morphology",
+      "zhGloss": "起訴；徹查執行",
+      "speakLineEn": "Agencies can prosecute data fraud.",
+      "speakLineZh": "機關可起訴資料詐欺。",
+      "related": {
+        "synonyms": "engage, pursue",
+        "antonyms": "defend"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "persecute",
+      "inVocab": true,
+      "senseAnchor": "cause to suffer",
+      "roleInScript": "無理追打",
+      "humorDevice": "morphology",
+      "zhGloss": "迫害",
+      "speakLineEn": "Do not persecute whistleblowers.",
+      "speakLineZh": "不要迫害吹哨者。",
+      "related": {
+        "synonyms": "oppress",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "obsequious",
+      "inVocab": true,
+      "senseAnchor": "attempting to win favor from influential people by flattery; attentive in an ingratiating or servile manner",
+      "roleInScript": "跟太緊獻殷勤",
+      "humorDevice": "morphology",
+      "zhGloss": "諂媚的",
+      "speakLineEn": "Obsequious citing of celebrities weakens peer review.",
+      "speakLineZh": "諂媚引用名人削弱同儕審查。",
+      "related": {
+        "synonyms": "bootlicking, fawning, sycophantic, toadyish",
+        "antonyms": "assertive, domineering"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "execute",
+      "inVocab": false,
+      "senseAnchor": "執行；處死",
+      "roleInScript": "跟上命令執行",
+      "humorDevice": "morphology",
+      "zhGloss": "執行；處死",
+      "speakLineEn": "Execute the preregistered plan without silent swaps.",
+      "speakLineZh": "執行預註冊計畫、勿沉默替換。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "segue",
+      "inVocab": false,
+      "senseAnchor": "平滑過渡",
+      "roleInScript": "接下一段",
+      "humorDevice": "morphology",
+      "zhGloss": "平滑過渡",
+      "speakLineEn": "Segue from methods to limits without hype.",
+      "speakLineZh": "從方法平滑接到限制，勿炒作。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "non sequitur",
+      "inVocab": false,
+      "senseAnchor": "不邏輯的推論",
+      "roleInScript": "跟不上邏輯",
+      "humorDevice": "morphology",
+      "zhGloss": "不邏輯的推論",
+      "speakLineEn": "That slogan is a policy non sequitur.",
+      "speakLineZh": "那句口號是政策上的不接邏輯。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "sequential",
+      "inVocab": false,
+      "senseAnchor": "依序的",
+      "roleInScript": "按序列跟",
+      "humorDevice": "story",
+      "zhGloss": "依序的",
+      "speakLineEn": "Use sequential analysis only with alpha spending.",
+      "speakLineZh": "序列分析須配合 α 消耗。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "pursuit",
+      "inVocab": false,
+      "senseAnchor": "追求；追趕",
+      "roleInScript": "追擊行動",
+      "humorDevice": "story",
+      "zhGloss": "追求；追趕",
+      "speakLineEn": "Blind pursuit of significance wastes cohorts.",
+      "speakLineZh": "盲目追求顯著性浪費世代。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "sequ＝跟：sequence/consequence/subsequent/consecutive",
+    "prosecute 檢控 ≠ persecute 迫害"
+  ],
+  "pitfalls": [
+    "prosecute（起訴／執行）≠ persecute（迫害）",
+    "non sequitur＝推論不接"
+  ],
+  "lessonRefs": [
+    "lesson-root-sequ-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch01"
+  }
+}

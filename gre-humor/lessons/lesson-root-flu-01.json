@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-flu-01",
+  "slug": "root-flu-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-flu-01",
+  "titleZh": "flu｜流動調度站",
+  "titleEn": "Flu Flow Station",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 flu＝流——調度站專管什麼在流、流過量。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "fluent 流利；affluent 財源流進來。flux／influx 流動與湧入；fluctuate 上下波動。superfluous 流過頭變成多餘；mellifluous 蜜一樣流暢。confluence 匯流；effluent 流出物；fluid 流動態。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "flu＝流：fluent/affluent/flux/influx/fluctuate/superfluous",
+        "superfluous＝多餘"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "More than enough; unnecessary:",
+      "promptZh": "多餘：",
+      "choices": [
+        "superfluous",
+        "fluent",
+        "flux",
+        "affluent"
+      ],
+      "answer": "superfluous"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Wealthy:",
+      "promptZh": "富裕：",
+      "choices": [
+        "affluent",
+        "effluent",
+        "influx",
+        "fluid"
+      ],
+      "answer": "affluent"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Vary irregularly:",
+      "promptZh": "波動：",
+      "choices": [
+        "fluctuate",
+        "confluence",
+        "mellifluous",
+        "reflux"
+      ],
+      "answer": "fluctuate"
+    }
+  ],
+  "pitfalls": [
+    "affluent＝富裕（財流進）；effluent＝流出物／污水",
+    "superfluous≠superficial"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch02"
+  }
+}

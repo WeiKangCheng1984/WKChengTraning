@@ -1,0 +1,208 @@
+{
+  "id": "root-sed-01",
+  "type": "root",
+  "elementLemma": "sed/sess/sid",
+  "titleZh": "sed｜久坐議事廳",
+  "titleEn": "Sitting Assembly Hall",
+  "hook": "字根 sed/sid＝坐——議事廳誰坐下、誰潛伏。",
+  "script": "sedentary 久坐；sediment 沉下去的渣。reside 住下，president 坐主位。session 一次開會坐下；obsess 坐著不放。assiduous 勤坐苦幹；insidious 潛伏坐下害人。subsidiary 附屬坐下幫忙；dissident 不肯同坐一席的異議者。",
+  "members": [
+    {
+      "headword": "sedentary",
+      "inVocab": true,
+      "senseAnchor": "requiring sitting or little activity",
+      "roleInScript": "久坐不動",
+      "humorDevice": "morphology",
+      "zhGloss": "久坐的；定居少動的",
+      "speakLineEn": "Sedentary designs miss real-world motion noise.",
+      "speakLineZh": "久坐式設計錯過真實移動噪音。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "sediment",
+      "inVocab": false,
+      "senseAnchor": "沉澱物",
+      "roleInScript": "沉下去",
+      "humorDevice": "morphology",
+      "zhGloss": "沉澱物",
+      "speakLineEn": "Policy sediment accumulates from old rules.",
+      "speakLineZh": "舊規累積成政策沉澱。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "reside",
+      "inVocab": false,
+      "senseAnchor": "居住；存在於",
+      "roleInScript": "住下",
+      "humorDevice": "morphology",
+      "zhGloss": "居住；存在於",
+      "speakLineEn": "Authority should reside in transparent criteria.",
+      "speakLineZh": "權威應存在於透明標準。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "president",
+      "inVocab": false,
+      "senseAnchor": "主席；總統",
+      "roleInScript": "坐主位",
+      "humorDevice": "story",
+      "zhGloss": "主席；總統",
+      "speakLineEn": "The society president disclosed funding ties.",
+      "speakLineZh": "學會主席揭露資助關係。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "session",
+      "inVocab": false,
+      "senseAnchor": "會期；時段",
+      "roleInScript": "坐下開會一次",
+      "humorDevice": "morphology",
+      "zhGloss": "會期；時段",
+      "speakLineEn": "Each coding session used a blinded codebook.",
+      "speakLineZh": "每次編碼時段使用盲法碼本。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "obsess",
+      "inVocab": false,
+      "senseAnchor": "使著魔；執念",
+      "roleInScript": "坐著不放",
+      "humorDevice": "morphology",
+      "zhGloss": "使著魔；執念",
+      "speakLineEn": "Do not obsess over a single p-threshold.",
+      "speakLineZh": "不要執念單一 p 門檻。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "assiduous",
+      "inVocab": true,
+      "senseAnchor": "hard-working and careful",
+      "roleInScript": "勤坐苦幹",
+      "humorDevice": "morphology",
+      "zhGloss": "勤勉的",
+      "speakLineEn": "Assiduous documentation prevents silent edits.",
+      "speakLineZh": "勤勉記錄防止沉默修改。",
+      "related": {
+        "synonyms": "industrious, diligent, sedulous",
+        "antonyms": "lazy, negligent, careless"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "insidious",
+      "inVocab": true,
+      "senseAnchor": "causing harm in a way that is gradual or not easily noticed",
+      "roleInScript": "潛伏坐下害人",
+      "humorDevice": "morphology",
+      "zhGloss": "陰險的；隱伏的",
+      "speakLineEn": "Insidious selection bias grows with convenience samples.",
+      "speakLineZh": "陰險選擇偏差隨便利樣本成長。",
+      "related": {
+        "synonyms": "pernicious, subtle",
+        "antonyms": "beneficial, harmless"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "subsidiary",
+      "inVocab": true,
+      "senseAnchor": "an assistant subject to the authority or control of another; a company that is completely controlled by another company",
+      "roleInScript": "附屬坐下",
+      "humorDevice": "morphology",
+      "zhGloss": "附屬的；子公司",
+      "speakLineEn": "Report subsidiary analyses as exploratory.",
+      "speakLineZh": "附屬分析標為探索性。",
+      "related": {
+        "synonyms": "subordinate, underling, auxiliary, supplemental, supplementary",
+        "antonyms": "dominant, independent, insubordinate"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "dissident",
+      "inVocab": true,
+      "senseAnchor": "a person who dissents from some established policy; characterized by departure from accepted beliefs or standards",
+      "roleInScript": "不肯同坐",
+      "humorDevice": "morphology",
+      "zhGloss": "異議者",
+      "speakLineEn": "Dissident findings deserve the same review rigor.",
+      "speakLineZh": "異議發現值得同等審查嚴謹。",
+      "related": {
+        "synonyms": "dissenter, protester, objector, contestant, heretical, heterodox",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "reside in",
+      "inVocab": false,
+      "senseAnchor": "在於",
+      "roleInScript": "坐落於",
+      "humorDevice": "story",
+      "zhGloss": "在於",
+      "speakLineEn": "The error may reside in measurement, not theory.",
+      "speakLineZh": "錯誤可能在測量不在理論。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "obsession",
+      "inVocab": false,
+      "senseAnchor": "執念",
+      "roleInScript": "坐著不放的狀態",
+      "humorDevice": "morphology",
+      "zhGloss": "執念",
+      "speakLineEn": "An obsession with novelty crowds out replication.",
+      "speakLineZh": "嗜新執念排擠複現。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "sed＝坐：sedentary/sediment/reside/session/obsess",
+    "assiduous 勤奮 ≠ insidious 陰險"
+  ],
+  "pitfalls": [
+    "assiduous（勤勉）≠ insidious（陰險漸進）",
+    "obsess＝執著不放"
+  ],
+  "lessonRefs": [
+    "lesson-root-sed-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch01"
+  }
+}

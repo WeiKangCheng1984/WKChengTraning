@@ -1,0 +1,193 @@
+{
+  "id": "prefix-ex-01",
+  "type": "prefix",
+  "elementLemma": "ex-/e-",
+  "titleZh": "ex-｜向外排放閘",
+  "titleEn": "Ex- Outflow Gate",
+  "hook": "字首 ex-/e-＝向外——排放閘專管放出、加重、洗清。",
+  "script": "exacerbate 向外加重惡化；exonerate／exculpate 向外洗清罪責。excerpt 摘出；exorbitant 軌道外＝過分。extol 向外讚揚；exude 滲出。excise 切除；exalt 抬高颂揚。",
+  "members": [
+    {
+      "headword": "exacerbate",
+      "inVocab": true,
+      "senseAnchor": "to worsen",
+      "roleInScript": "往外弄更糟",
+      "humorDevice": "morphology",
+      "zhGloss": "加重；惡化",
+      "speakLineEn": "Hype can exacerbate mistrust.",
+      "speakLineZh": "炒作會加重不信任。",
+      "related": {
+        "synonyms": "magnify, intensify, aggravate",
+        "antonyms": "alleviate, mitigate, better, reduce, understate, de-escalate"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "exonerate",
+      "inVocab": true,
+      "senseAnchor": "pronounce not guilty of criminal charges",
+      "roleInScript": "洗清放出",
+      "humorDevice": "morphology",
+      "zhGloss": "免罪；證明無罪",
+      "speakLineEn": "New data can exonerate a dismissed hypothesis.",
+      "speakLineZh": "新資料可為被棄假說免罪。",
+      "related": {
+        "synonyms": "acquit, assoil, clear, discharge, exculpate",
+        "antonyms": "convict, incriminate"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "exculpate",
+      "inVocab": true,
+      "senseAnchor": "to prove that someone is not guilty",
+      "roleInScript": "卸責放出",
+      "humorDevice": "morphology",
+      "zhGloss": "開脫；證明無罪",
+      "speakLineEn": "A checklist does not exculpate fraud.",
+      "speakLineZh": "檢核表不開脫造假。",
+      "related": {
+        "synonyms": "absolve, vindicate, exonerate",
+        "antonyms": "incriminate, accuse, convict, blame"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "excerpt",
+      "inVocab": true,
+      "senseAnchor": "a passage selected from a larger work; take out of a literary work in order to cite or copy",
+      "roleInScript": "抽出一段",
+      "humorDevice": "morphology",
+      "zhGloss": "摘錄",
+      "speakLineEn": "Quote the excerpt in context.",
+      "speakLineZh": "摘錄要帶語境。",
+      "related": {
+        "synonyms": "excerption, extract, selection",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "exorbitant",
+      "inVocab": true,
+      "senseAnchor": "the price is much higher than it should be",
+      "roleInScript": "軌道外",
+      "humorDevice": "morphology",
+      "zhGloss": "過分的；昂貴過頭",
+      "speakLineEn": "Exorbitant APC fees block equity.",
+      "speakLineZh": "過分高的開放費阻礙公平。",
+      "related": {
+        "synonyms": "unconscionable, excessive, overdue",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "extol",
+      "inVocab": true,
+      "senseAnchor": "to praise highly",
+      "roleInScript": "向外歌頌",
+      "humorDevice": "morphology",
+      "zhGloss": "讚揚",
+      "speakLineEn": "Extol rigor more than brand names.",
+      "speakLineZh": "讚揚嚴謹勝過品牌名。",
+      "related": {
+        "synonyms": "exalt, laud, hymn, valorize",
+        "antonyms": "criticize, denounce, censure"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "exude",
+      "inVocab": true,
+      "senseAnchor": "release (a liquid) in drops or small quantities; make apparent by one's mood or behavior",
+      "roleInScript": "往外滲",
+      "humorDevice": "morphology",
+      "zhGloss": "滲出；散發",
+      "speakLineEn": "Confidence should not exude from thin evidence.",
+      "speakLineZh": "信心不該從薄弱證據滲出。",
+      "related": {
+        "synonyms": "exudate, transude, ooze",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "excise",
+      "inVocab": true,
+      "senseAnchor": "a tax that is measured by the amount of business done (not on property or income from real estate); remove by erasing or crossing out or as if by drawing a line",
+      "roleInScript": "割掉取出",
+      "humorDevice": "morphology",
+      "zhGloss": "切除；刪除",
+      "speakLineEn": "Excise speculative claims from the abstract.",
+      "speakLineZh": "從摘要切除臆測主張。",
+      "related": {
+        "synonyms": "strike, scratch, expunge",
+        "antonyms": "miss"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "exalt",
+      "inVocab": false,
+      "senseAnchor": "提升；頌揚",
+      "roleInScript": "抬高向外",
+      "humorDevice": "story",
+      "zhGloss": "提升；頌揚",
+      "speakLineEn": "Do not exalt p<.05 as truth.",
+      "speakLineZh": "不要把 p<.05 頌揚成真理。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "expunge",
+      "inVocab": true,
+      "senseAnchor": "remove by erasing or crossing out or as if by drawing a line",
+      "roleInScript": "擦掉放出",
+      "humorDevice": "story",
+      "zhGloss": "刪除；抹去",
+      "speakLineEn": "Expunge identifiers before sharing.",
+      "speakLineZh": "共享前抹去識別資訊。",
+      "related": {
+        "synonyms": "strike, scratch, excise",
+        "antonyms": "miss"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "externalize",
+      "inVocab": false,
+      "senseAnchor": "外化",
+      "roleInScript": "推到外面",
+      "humorDevice": "story",
+      "zhGloss": "外化",
+      "speakLineEn": "Do not externalize blame for sloppy logs.",
+      "speakLineZh": "不要把草率日誌的責任外化。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "ex-＝外：exacerbate/exonerate/exculpate/excerpt/exorbitant/extol",
+    "exacerbate＝惡化"
+  ],
+  "pitfalls": [
+    "exonerate≈exculpate＝免罪",
+    "exorbitant＝過分昂貴／過度"
+  ],
+  "lessonRefs": [
+    "lesson-prefix-ex-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch02"
+  }
+}

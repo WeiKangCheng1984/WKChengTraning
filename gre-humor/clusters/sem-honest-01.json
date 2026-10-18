@@ -1,0 +1,208 @@
+{
+  "id": "sem-honest-01",
+  "type": "semantic",
+  "elementLemma": "honest-vs-deceit",
+  "titleZh": "誠實↔欺瞞｜對打擂台",
+  "titleEn": "Honesty vs Deceit Duel",
+  "hook": "語義對打：坦率隊 vs 欺瞞隊——GRE 語氣超愛考。",
+  "script": "坦率隊：candid／candor 直言，sincere 真誠，veracity 真實性。欺瞞隊：guile 狡詐，duplicity 雙面，deceit／deception 欺騙，artifice 伎倆，dissemble 掩飾，feign 佯裝，pretense 偽裝。",
+  "members": [
+    {
+      "headword": "candid",
+      "inVocab": false,
+      "senseAnchor": "坦率的",
+      "roleInScript": "直言不諱",
+      "humorDevice": "contrast",
+      "zhGloss": "坦率的",
+      "speakLineEn": "Write a candid limitations section.",
+      "speakLineZh": "寫一段坦率的限制說明。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "candor",
+      "inVocab": false,
+      "senseAnchor": "坦率",
+      "roleInScript": "坦率本身",
+      "humorDevice": "contrast",
+      "zhGloss": "坦率",
+      "speakLineEn": "Candor about uncertainty builds credibility.",
+      "speakLineZh": "對不確定性的坦率建立可信度。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "sincere",
+      "inVocab": false,
+      "senseAnchor": "真誠的",
+      "roleInScript": "不裝",
+      "humorDevice": "contrast",
+      "zhGloss": "真誠的",
+      "speakLineEn": "A sincere apology includes corrected data.",
+      "speakLineZh": "真誠道歉包含更正資料。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "veracity",
+      "inVocab": true,
+      "senseAnchor": "unwillingness to tell lies",
+      "roleInScript": "真假度量",
+      "humorDevice": "contrast",
+      "zhGloss": "真實性",
+      "speakLineEn": "Check the veracity of secondary citations.",
+      "speakLineZh": "核對二手引用的真實性。",
+      "related": {
+        "synonyms": "",
+        "antonyms": "falsehood, deceit, mendacity"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "guile",
+      "inVocab": false,
+      "senseAnchor": "狡詐",
+      "roleInScript": "心機牌",
+      "humorDevice": "contrast",
+      "zhGloss": "狡詐",
+      "speakLineEn": "Marketing guile has no place in abstracts.",
+      "speakLineZh": "行銷狡詐不該出現在摘要。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "duplicity",
+      "inVocab": false,
+      "senseAnchor": "口是心非；雙面",
+      "roleInScript": "兩張臉",
+      "humorDevice": "contrast",
+      "zhGloss": "口是心非；雙面",
+      "speakLineEn": "Duplicity in preregistration destroys trust.",
+      "speakLineZh": "預註冊口是心非摧毀信任。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "deceit",
+      "inVocab": true,
+      "senseAnchor": "the quality of being fraudulent; a misleading falsehood",
+      "roleInScript": "騙術",
+      "humorDevice": "contrast",
+      "zhGloss": "欺騙",
+      "speakLineEn": "Statistical deceit often hides in silent exclusions.",
+      "speakLineZh": "統計欺騙常藏在沉默排除。",
+      "related": {
+        "synonyms": "fraudulence, misrepresentation, deception, dissembling, dissimulation",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "deception",
+      "inVocab": false,
+      "senseAnchor": "欺瞞行為",
+      "roleInScript": "騙人過程",
+      "humorDevice": "contrast",
+      "zhGloss": "欺瞞行為",
+      "speakLineEn": "Deception in human subjects needs ethics review.",
+      "speakLineZh": "人體研究欺瞞需倫理審查。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "artifice",
+      "inVocab": true,
+      "senseAnchor": "a deceptive maneuver (especially to avoid capture)",
+      "roleInScript": "手法牌",
+      "humorDevice": "contrast",
+      "zhGloss": "伎倆；巧計",
+      "speakLineEn": "Rhetorical artifice cannot replace identification.",
+      "speakLineZh": "修辭伎倆不能取代識別策略。",
+      "related": {
+        "synonyms": "ruse",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "dissemble",
+      "inVocab": true,
+      "senseAnchor": "make believe with the intent to deceive; hide under a false appearance",
+      "roleInScript": "藏真意",
+      "humorDevice": "contrast",
+      "zhGloss": "掩飾；裝樣子",
+      "speakLineEn": "Do not dissemble about conflicting interests.",
+      "speakLineZh": "不要掩飾利益衝突。",
+      "related": {
+        "synonyms": "feign, sham, pretend, affect, cloak, mask",
+        "antonyms": "unmask"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "feign",
+      "inVocab": true,
+      "senseAnchor": "to give a false appearance of",
+      "roleInScript": "假裝",
+      "humorDevice": "contrast",
+      "zhGloss": "佯裝",
+      "speakLineEn": "Feign ignorance and you train bad incentives.",
+      "speakLineZh": "佯裝無知會訓練壞誘因。",
+      "related": {
+        "synonyms": "affect, false (adj.)",
+        "antonyms": "true"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "pretense",
+      "inVocab": false,
+      "senseAnchor": "偽裝；藉口",
+      "roleInScript": "假面具",
+      "humorDevice": "contrast",
+      "zhGloss": "偽裝；藉口",
+      "speakLineEn": "Drop the pretense that all findings were predicted.",
+      "speakLineZh": "放下『全部結果皆預測』的偽裝。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "坦率：candid/candor/sincere/veracity",
+    "欺瞞：guile/duplicity/dissemble/feign"
+  ],
+  "pitfalls": [
+    "dissemble＝掩饰真意，不是 disassemble 拆卸",
+    "candor＝坦率（名詞）"
+  ],
+  "lessonRefs": [
+    "lesson-sem-honest-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch01"
+  }
+}

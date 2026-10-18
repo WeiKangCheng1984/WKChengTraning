@@ -1,0 +1,208 @@
+{
+  "id": "root-pot-01",
+  "type": "root",
+  "elementLemma": "pot",
+  "titleZh": "pot｜能量電位室",
+  "titleEn": "Pot Power Chamber",
+  "hook": "字根 pot＝能、力——電位室量誰有力、誰無力。",
+  "script": "potent 有力；impotent 無力。potential／potency 潛力與效力。omnipotent 全能；potentate 掌權者。plenipotentiary 全權代表。",
+  "members": [
+    {
+      "headword": "potent",
+      "inVocab": true,
+      "senseAnchor": "powerful and effective",
+      "roleInScript": "有力",
+      "humorDevice": "morphology",
+      "zhGloss": "強有力的；強效的",
+      "speakLineEn": "A potent design still needs honest reporting.",
+      "speakLineZh": "強效設計仍需誠實報告。",
+      "related": {
+        "synonyms": "powerful, strong, stiff, virile",
+        "antonyms": "impotent"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "impotent",
+      "inVocab": false,
+      "senseAnchor": "無力的；無效的",
+      "roleInScript": "沒力",
+      "humorDevice": "morphology",
+      "zhGloss": "無力的；無效的",
+      "speakLineEn": "Unenforced policies are impotent.",
+      "speakLineZh": "不執行的政策無力。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "potential",
+      "inVocab": false,
+      "senseAnchor": "潛力；潛在的",
+      "roleInScript": "還沒爆發的力",
+      "humorDevice": "morphology",
+      "zhGloss": "潛力；潛在的",
+      "speakLineEn": "State the potential for harm explicitly.",
+      "speakLineZh": "明確陳述潛在傷害。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "potency",
+      "inVocab": false,
+      "senseAnchor": "效力；能力",
+      "roleInScript": "力道",
+      "humorDevice": "morphology",
+      "zhGloss": "效力；能力",
+      "speakLineEn": "Estimate the potency of the intervention.",
+      "speakLineZh": "估計介入效力。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "omnipotent",
+      "inVocab": true,
+      "senseAnchor": "having unlimited power",
+      "roleInScript": "什麼都能",
+      "humorDevice": "morphology",
+      "zhGloss": "全能的",
+      "speakLineEn": "No statistician is omnipotent across designs.",
+      "speakLineZh": "沒有統計學家跨設計全能。",
+      "related": {
+        "synonyms": "almighty, all-powerful",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "potentate",
+      "inVocab": true,
+      "senseAnchor": "a ruler who is unconstrained by law",
+      "roleInScript": "握力的人",
+      "humorDevice": "morphology",
+      "zhGloss": "統治者；掌權者",
+      "speakLineEn": "Do not let a single potentate gatekeep methods.",
+      "speakLineZh": "別讓單一掌權者把關方法。",
+      "related": {
+        "synonyms": "dictator",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "plenipotentiary",
+      "inVocab": false,
+      "senseAnchor": "全權代表",
+      "roleInScript": "帶滿權力",
+      "humorDevice": "morphology",
+      "zhGloss": "全權代表",
+      "speakLineEn": "A plenipotentiary negotiator still needs counsel.",
+      "speakLineZh": "全權談判者仍需顧問。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "potentiality",
+      "inVocab": false,
+      "senseAnchor": "潛能",
+      "roleInScript": "可能之力",
+      "humorDevice": "story",
+      "zhGloss": "潛能",
+      "speakLineEn": "Map potentiality before claiming inevitability.",
+      "speakLineZh": "宣稱必然前先畫潛能。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "empower",
+      "inVocab": false,
+      "senseAnchor": "賦權",
+      "roleInScript": "給力",
+      "humorDevice": "story",
+      "zhGloss": "賦權",
+      "speakLineEn": "Empower juniors to halt unsafe protocols.",
+      "speakLineZh": "賦權資淺者叫停不安全規程。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "powerful",
+      "inVocab": false,
+      "senseAnchor": "強大的",
+      "roleInScript": "力大",
+      "humorDevice": "story",
+      "zhGloss": "強大的",
+      "speakLineEn": "Powerful computers do not excuse weak theory.",
+      "speakLineZh": "強大電腦不恕弱理論。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "powerless",
+      "inVocab": false,
+      "senseAnchor": "無力的",
+      "roleInScript": "沒權力",
+      "humorDevice": "story",
+      "zhGloss": "無力的",
+      "speakLineEn": "Whistleblowers can feel powerless without policy.",
+      "speakLineZh": "無政策時吹哨者可感無力。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "omnipotence",
+      "inVocab": false,
+      "senseAnchor": "全能",
+      "roleInScript": "全能狀態",
+      "humorDevice": "story",
+      "zhGloss": "全能",
+      "speakLineEn": "Reject fantasies of methodological omnipotence.",
+      "speakLineZh": "拒絕方法全能幻想。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "pot＝能：potent/impotent/potential/potency/omnipotent/potentate",
+    "potent＝強效"
+  ],
+  "pitfalls": [
+    "impotent＝無力／無效，語境可敏感但 GRE 常指無力",
+    "potentate＝統治者"
+  ],
+  "lessonRefs": [
+    "lesson-root-pot-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch02"
+  }
+}

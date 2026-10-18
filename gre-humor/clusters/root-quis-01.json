@@ -1,0 +1,208 @@
+{
+  "id": "root-quis-01",
+  "type": "root",
+  "elementLemma": "quer/quis",
+  "titleZh": "quis｜尋問徵收處",
+  "titleEn": "Inquiry Collection Desk",
+  "hook": "字根 quer/quis＝問、求——徵收處專管追問與索取。",
+  "script": "inquisitive 愛追問；requisite 必要索取物。perquisite 額外津貼（perk）。inquisition 嚴厲審問。acquire 取得；relinquish 放手不求。exquisite 精緻到像精選求得；prerequisite 先決需求；conquistador 歷史上的征服求取者；query 發出查詢。",
+  "members": [
+    {
+      "headword": "inquisitive",
+      "inVocab": true,
+      "senseAnchor": "improperly curious about the affairs of others",
+      "roleInScript": "愛追問",
+      "humorDevice": "morphology",
+      "zhGloss": "好問的；好奇的",
+      "speakLineEn": "Inquisitive reviewers catch silent exclusions.",
+      "speakLineZh": "好問審稿人抓到沉默排除。",
+      "related": {
+        "synonyms": "inquiring, prying",
+        "antonyms": "uninquiring"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "requisite",
+      "inVocab": true,
+      "senseAnchor": "anything indispensable; necessary for relief or supply",
+      "roleInScript": "必要索取",
+      "humorDevice": "morphology",
+      "zhGloss": "必要的；必需品",
+      "speakLineEn": "Statistical power is a requisite, not a luxury.",
+      "speakLineZh": "檢定力是必需，不是奢侈。",
+      "related": {
+        "synonyms": "necessity, essential, requirement, necessary, needed, needful",
+        "antonyms": "inessential"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "perquisite",
+      "inVocab": true,
+      "senseAnchor": "an incidental benefit awarded for certain types of employment (especially if it is regarded as a right); a right reserved exclusively by a particular person or group (especially a hereditary or official right)",
+      "roleInScript": "額外求得",
+      "humorDevice": "morphology",
+      "zhGloss": "額外津貼；特權",
+      "speakLineEn": "Travel funds should not become a hidden perquisite.",
+      "speakLineZh": "差旅費不該變隱藏津貼。",
+      "related": {
+        "synonyms": "perk, prerogative, privilege",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "inquisition",
+      "inVocab": false,
+      "senseAnchor": "審問；調查",
+      "roleInScript": "高壓追問",
+      "humorDevice": "morphology",
+      "zhGloss": "審問；調查",
+      "speakLineEn": "An ethics inquisition without due process backfires.",
+      "speakLineZh": "無正當程序的倫理審問會反噬。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "acquire",
+      "inVocab": false,
+      "senseAnchor": "獲得；習得",
+      "roleInScript": "求到手上",
+      "humorDevice": "morphology",
+      "zhGloss": "獲得；習得",
+      "speakLineEn": "Acquire skills before acquiring expensive tools.",
+      "speakLineZh": "先習得技能再買昂貴工具。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "relinquish",
+      "inVocab": false,
+      "senseAnchor": "放棄；交出",
+      "roleInScript": "放手不求",
+      "humorDevice": "morphology",
+      "zhGloss": "放棄；交出",
+      "speakLineEn": "Relinquish control of randomization to a third party.",
+      "speakLineZh": "把隨機化控制交給第三方。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "exquisite",
+      "inVocab": false,
+      "senseAnchor": "精緻的；強烈的",
+      "roleInScript": "精選求得",
+      "humorDevice": "morphology",
+      "zhGloss": "精緻的；強烈的",
+      "speakLineEn": "Exquisite instruments still need dirty field tests.",
+      "speakLineZh": "精緻儀器仍需骯髒田野測試。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "prerequisite",
+      "inVocab": false,
+      "senseAnchor": "先決條件",
+      "roleInScript": "先求到才能下一步",
+      "humorDevice": "morphology",
+      "zhGloss": "先決條件",
+      "speakLineEn": "Replication literacy is a prerequisite for meta-analysis.",
+      "speakLineZh": "複現素養是統合分析先決。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "query",
+      "inVocab": false,
+      "senseAnchor": "詢問；質疑",
+      "roleInScript": "發出查詢",
+      "humorDevice": "morphology",
+      "zhGloss": "詢問；質疑",
+      "speakLineEn": "Query the registry for unpublished trials.",
+      "speakLineZh": "向登錄庫查詢未發表試驗。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "quest",
+      "inVocab": false,
+      "senseAnchor": "探求；任務",
+      "roleInScript": "長途求索",
+      "humorDevice": "story",
+      "zhGloss": "探求；任務",
+      "speakLineEn": "The quest for significance warps designs.",
+      "speakLineZh": "追求顯著性會扭曲設計。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "request",
+      "inVocab": false,
+      "senseAnchor": "請求",
+      "roleInScript": "提出要求",
+      "humorDevice": "story",
+      "zhGloss": "請求",
+      "speakLineEn": "Request raw data before accepting the narrative.",
+      "speakLineZh": "接受敘事前先請求原始資料。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "inquiry",
+      "inVocab": false,
+      "senseAnchor": "探究；調查",
+      "roleInScript": "正式追問",
+      "humorDevice": "morphology",
+      "zhGloss": "探究；調查",
+      "speakLineEn": "Open inquiry beats closed confirmation.",
+      "speakLineZh": "開放探究勝過封閉確認。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "quis＝求問：inquisitive/requisite/perquisite/acquire",
+    "requisite 必要 ≠ perquisite 額外津貼"
+  ],
+  "pitfalls": [
+    "requisite（必要條件）≠ perquisite（特權／津貼）",
+    "inquisition 帶高壓審問色彩"
+  ],
+  "lessonRefs": [
+    "lesson-root-quis-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch01"
+  }
+}

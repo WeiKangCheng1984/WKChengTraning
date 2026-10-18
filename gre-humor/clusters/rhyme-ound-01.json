@@ -1,0 +1,208 @@
+{
+  "id": "rhyme-ound-01",
+  "type": "rhyme",
+  "elementLemma": "-ound",
+  "titleZh": "ound｜回聲競技場",
+  "titleEn": "The -ound Echo Arena",
+  "hook": "押韻族 -ound：聲音與困局在場內來回撞。",
+  "script": "profound 深到見底；confound 攪混讓人懵。expound 展開說明；impound 扣押封存。resound 回聲震場；astound 震驚全場。compound 複合加重；rebound 反彈。surround 包圍；abound 充斥。",
+  "members": [
+    {
+      "headword": "profound",
+      "inVocab": false,
+      "senseAnchor": "深刻的；深奧的",
+      "roleInScript": "深到見底",
+      "humorDevice": "phonetic",
+      "zhGloss": "深刻的；深奧的",
+      "speakLineEn": "A profound limit is better admitted early.",
+      "speakLineZh": "深刻限制最好及早承認。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "confound",
+      "inVocab": true,
+      "senseAnchor": "be confusing or perplexing to; cause to be unable to think clearly; mistake one thing for another",
+      "roleInScript": "攪混懵掉",
+      "humorDevice": "phonetic",
+      "zhGloss": "混淆；挫敗",
+      "speakLineEn": "Age may confound the treatment association.",
+      "speakLineZh": "年齡可能混淆處理關聯。",
+      "related": {
+        "synonyms": "confuse, throw, fox, befuddle, fuddle, bedevil",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "expound",
+      "inVocab": true,
+      "senseAnchor": "add details, as to an account or idea; clarify the meaning of and discourse in a learned way, usually in writing; state",
+      "roleInScript": "展開講",
+      "humorDevice": "phonetic",
+      "zhGloss": "闡述；詳細說明",
+      "speakLineEn": "Expound the identification strategy in plain English.",
+      "speakLineZh": "用白話闡述識別策略。",
+      "related": {
+        "synonyms": "elaborate, lucubrate, expatiate, exposit, enlarge, expand",
+        "antonyms": "contract"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "impound",
+      "inVocab": true,
+      "senseAnchor": "take temporary possession of as a security, by legal authority; place or shut up in a pound",
+      "roleInScript": "封存扣住",
+      "humorDevice": "phonetic",
+      "zhGloss": "扣押；沒收",
+      "speakLineEn": "Impound contested datasets until audit ends.",
+      "speakLineZh": "稽核結束前扣押爭議資料集。",
+      "related": {
+        "synonyms": "attach, sequester, confiscate, seize, pound",
+        "antonyms": "detach"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "resound",
+      "inVocab": true,
+      "senseAnchor": "ring or echo with sound; emit a noise",
+      "roleInScript": "回聲震場",
+      "humorDevice": "phonetic",
+      "zhGloss": "回響；馳名",
+      "speakLineEn": "The critique will resound across methods blogs.",
+      "speakLineZh": "批評會在方法部落格回響。",
+      "related": {
+        "synonyms": "echo, ring, reverberate, noise",
+        "antonyms": "open chain"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "astound",
+      "inVocab": false,
+      "senseAnchor": "使震驚",
+      "roleInScript": "震場",
+      "humorDevice": "phonetic",
+      "zhGloss": "使震驚",
+      "speakLineEn": "Null results can still astound optimistic fields.",
+      "speakLineZh": "虛無結果仍能震驚樂觀領域。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "compound",
+      "inVocab": false,
+      "senseAnchor": "複合；加重；化合物",
+      "roleInScript": "疊加變重",
+      "humorDevice": "phonetic",
+      "zhGloss": "複合；加重；化合物",
+      "speakLineEn": "Missing data can compound selection bias.",
+      "speakLineZh": "缺失資料會加重選擇偏差。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "rebound",
+      "inVocab": false,
+      "senseAnchor": "反彈",
+      "roleInScript": "彈回來",
+      "humorDevice": "phonetic",
+      "zhGloss": "反彈",
+      "speakLineEn": "Effects may rebound after the intervention ends.",
+      "speakLineZh": "介入結束後效應可能反彈。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "surround",
+      "inVocab": false,
+      "senseAnchor": "包圍",
+      "roleInScript": "團團圍住",
+      "humorDevice": "phonetic",
+      "zhGloss": "包圍",
+      "speakLineEn": "Surround claims with uncertainty intervals.",
+      "speakLineZh": "用不確定區間包圍主張。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "abound",
+      "inVocab": true,
+      "senseAnchor": "to exist in very large numbers",
+      "roleInScript": "到處都是",
+      "humorDevice": "phonetic",
+      "zhGloss": "大量存在；充滿",
+      "speakLineEn": "Cautionary tales abound after overclaimed RCTs.",
+      "speakLineZh": "過度宣稱隨機試驗後警世故事充斥。",
+      "related": {
+        "synonyms": "swarm, teem, fraught, proliferate",
+        "antonyms": "decrease, dwindle"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "unbounded",
+      "inVocab": false,
+      "senseAnchor": "無界的",
+      "roleInScript": "沒圍欄",
+      "humorDevice": "story",
+      "zhGloss": "無界的",
+      "speakLineEn": "Unbounded researcher freedom invites fishing.",
+      "speakLineZh": "無界研究者自由誘發淘篩。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "ground",
+      "inVocab": false,
+      "senseAnchor": "基礎；地面",
+      "roleInScript": "落地根基",
+      "humorDevice": "story",
+      "zhGloss": "基礎；地面",
+      "speakLineEn": "Ground theory in measurement, not vibes.",
+      "speakLineZh": "把理論落在測量上而非感覺。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "-ound：profound/confound/expound/impound/resound",
+    "confound＝混淆／挫敗"
+  ],
+  "pitfalls": [
+    "confound 統計上＝混淆變項；日常也可「使困惑」",
+    "expound＝闡述，不是 explode"
+  ],
+  "lessonRefs": [
+    "lesson-rhyme-ound-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch01"
+  }
+}

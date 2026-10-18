@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-greg-01",
+  "slug": "root-greg-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-greg-01",
+  "titleZh": "greg｜群聚牧場",
+  "titleEn": "Greg Herd Ranch",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 greg＝群——牧場專管聚在一起或被分開。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "gregarious 愛群聚；congregate 聚集。segregate 隔離分群；aggregate 總合成群。egregious 糟到「出群」顯眼；congregation 會眾。desegregate 取消隔離。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "greg＝群：gregarious/congregate/segregate/aggregate/egregious",
+        "egregious＝極壞（出群壞）"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Outstandingly bad:",
+      "promptZh": "極壞／過分：",
+      "choices": [
+        "egregious",
+        "gregarious",
+        "aggregate",
+        "congregate"
+      ],
+      "answer": "egregious"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Sociable; fond of company:",
+      "promptZh": "合群：",
+      "choices": [
+        "gregarious",
+        "segregate",
+        "desegregate",
+        "egregiously"
+      ],
+      "answer": "gregarious"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Separate by group:",
+      "promptZh": "隔離分群：",
+      "choices": [
+        "segregate",
+        "aggregate",
+        "congregation",
+        "forte"
+      ],
+      "answer": "segregate"
+    }
+  ],
+  "pitfalls": [
+    "egregious＝極壞／驚人地糟，不是「卓越」古義常用於現代貶義",
+    "aggregate＝合計"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch02"
+  }
+}

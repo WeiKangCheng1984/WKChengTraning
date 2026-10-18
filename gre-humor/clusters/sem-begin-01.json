@@ -1,0 +1,208 @@
+{
+  "id": "sem-begin-01",
+  "type": "semantic",
+  "elementLemma": "begin-vs-end",
+  "titleZh": "始↔終｜對打擂台",
+  "titleEn": "Begin vs End Duel",
+  "hook": "語義對打：開始萌芽 vs 終止收場——篇章與過程語氣。",
+  "script": "始：commence／inception／incipient／nascent／originate／inaugurate／embryonic／rudimentary。終：terminate／cessation／expire／culminate／abortive／closure／denouement。",
+  "members": [
+    {
+      "headword": "commence",
+      "inVocab": true,
+      "senseAnchor": "take the first step or steps in carrying out an action; set in motion, cause to start",
+      "roleInScript": "開跑",
+      "humorDevice": "contrast",
+      "zhGloss": "開始",
+      "speakLineEn": "Commence analysis only after lock.",
+      "speakLineZh": "鎖定後才開始分析。",
+      "related": {
+        "synonyms": "begin, get, start",
+        "antonyms": "end"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "inception",
+      "inVocab": false,
+      "senseAnchor": "開端；創始",
+      "roleInScript": "起源點",
+      "humorDevice": "contrast",
+      "zhGloss": "開端；創始",
+      "speakLineEn": "From inception, log every exclusion.",
+      "speakLineZh": "從開端就記錄每次排除。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "incipient",
+      "inVocab": true,
+      "senseAnchor": "only partly in existence; imperfectly formed",
+      "roleInScript": "萌芽",
+      "humorDevice": "contrast",
+      "zhGloss": "剛開始的",
+      "speakLineEn": "Catch incipient bias early.",
+      "speakLineZh": "及早抓萌芽偏差。",
+      "related": {
+        "synonyms": "inchoate",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "nascent",
+      "inVocab": true,
+      "senseAnchor": "coming or having recently come into existence",
+      "roleInScript": "剛冒出",
+      "humorDevice": "contrast",
+      "zhGloss": "新生的；萌芽的",
+      "speakLineEn": "Nascent fields need stronger norms.",
+      "speakLineZh": "萌芽領域需要更強規範。",
+      "related": {
+        "synonyms": "budding, emerging, inchoate, incipient, unformed",
+        "antonyms": "mature, waning, dying, formed"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "originate",
+      "inVocab": false,
+      "senseAnchor": "起源；發起",
+      "roleInScript": "從哪來",
+      "humorDevice": "contrast",
+      "zhGloss": "起源；發起",
+      "speakLineEn": "Where did the claim originate?",
+      "speakLineZh": "主張起源何處？",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "inaugurate",
+      "inVocab": false,
+      "senseAnchor": "正式開啟；就職",
+      "roleInScript": "正式開幕",
+      "humorDevice": "contrast",
+      "zhGloss": "正式開啟；就職",
+      "speakLineEn": "Inaugurate the season with a registered report.",
+      "speakLineZh": "用註冊報告開啟季節。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "embryonic",
+      "inVocab": false,
+      "senseAnchor": "胚胎的；未成熟的",
+      "roleInScript": "還很早",
+      "humorDevice": "contrast",
+      "zhGloss": "胚胎的；未成熟的",
+      "speakLineEn": "An embryonic theory needs caution.",
+      "speakLineZh": "未成熟理論需要謹慎。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "rudimentary",
+      "inVocab": false,
+      "senseAnchor": "初步的；簡陋的",
+      "roleInScript": "才剛有輪廓",
+      "humorDevice": "contrast",
+      "zhGloss": "初步的；簡陋的",
+      "speakLineEn": "Rudimentary checks are better than none.",
+      "speakLineZh": "簡陋檢查總比沒有好。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "terminate",
+      "inVocab": false,
+      "senseAnchor": "終止",
+      "roleInScript": "結束",
+      "humorDevice": "contrast",
+      "zhGloss": "終止",
+      "speakLineEn": "Terminate enrollment at the planned N.",
+      "speakLineZh": "在計畫樣本數終止收案。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "cessation",
+      "inVocab": false,
+      "senseAnchor": "停止",
+      "roleInScript": "停下來",
+      "humorDevice": "contrast",
+      "zhGloss": "停止",
+      "speakLineEn": "Report smoking cessation with intervals.",
+      "speakLineZh": "報告戒菸停止請帶區間。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "culminate",
+      "inVocab": true,
+      "senseAnchor": "end, especially to reach a final or climactic stage; bring to a head or to the highest point",
+      "roleInScript": "收在高峰",
+      "humorDevice": "contrast",
+      "zhGloss": "達到頂點",
+      "speakLineEn": "The project culminated in a public correction.",
+      "speakLineZh": "專案收在公開勘誤。",
+      "related": {
+        "synonyms": "climax",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "abortive",
+      "inVocab": false,
+      "senseAnchor": "失敗的；流產的",
+      "roleInScript": "沒成的終",
+      "humorDevice": "contrast",
+      "zhGloss": "失敗的；流產的",
+      "speakLineEn": "An abortive pilot still teaches design.",
+      "speakLineZh": "失敗試點仍教設計。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "始：commence/inception/incipient/nascent",
+    "終：terminate/cessation/culminate/abortive"
+  ],
+  "pitfalls": [
+    "incipient／nascent＝剛開始",
+    "abortive＝失敗／流產的嘗試"
+  ],
+  "lessonRefs": [
+    "lesson-sem-begin-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch02-topup"
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "id": "root-nym-01",
+  "type": "root",
+  "elementLemma": "nomen/nym",
+  "titleZh": "nym｜名牌更衣室",
+  "titleEn": "Name-Tag Locker",
+  "hook": "字根 nym/nomen＝名——更衣室專管掛什麼名牌。",
+  "script": "anonymous 不掛名；pseudonym 掛假名。synonym 同義名牌，antonym 反義名牌。misnomer 叫錯名；ignominy 臭名。nominal 名義上的；renown 大名。nomenclature 整套命名系統；homonym 同音異義的撞名。",
+  "members": [
+    {
+      "headword": "anonymous",
+      "inVocab": false,
+      "senseAnchor": "匿名的",
+      "roleInScript": "不掛名",
+      "humorDevice": "morphology",
+      "zhGloss": "匿名的",
+      "speakLineEn": "Anonymous review can reduce status bias.",
+      "speakLineZh": "匿名審查可降低地位偏差。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "pseudonym",
+      "inVocab": true,
+      "senseAnchor": "a fake name",
+      "roleInScript": "掛假名",
+      "humorDevice": "morphology",
+      "zhGloss": "筆名；假名",
+      "speakLineEn": "She published under a pseudonym to avoid retaliation.",
+      "speakLineZh": "她用筆名發表以免報復。",
+      "related": {
+        "synonyms": "anonym",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "synonym",
+      "inVocab": false,
+      "senseAnchor": "同義詞",
+      "roleInScript": "同義名牌",
+      "humorDevice": "morphology",
+      "zhGloss": "同義詞",
+      "speakLineEn": "A near synonym still shifts tone.",
+      "speakLineZh": "近義詞仍會改語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "antonym",
+      "inVocab": false,
+      "senseAnchor": "反義詞",
+      "roleInScript": "反義名牌",
+      "humorDevice": "morphology",
+      "zhGloss": "反義詞",
+      "speakLineEn": "List the antonym to test if you grasp the scale.",
+      "speakLineZh": "列出反義詞以檢驗是否掌握尺度。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "misnomer",
+      "inVocab": true,
+      "senseAnchor": "a wrong use of a name",
+      "roleInScript": "叫錯名",
+      "humorDevice": "morphology",
+      "zhGloss": "誤稱；用詞不當",
+      "speakLineEn": "Calling it a 'pilot' was a misnomer for a full trial.",
+      "speakLineZh": "稱為試點其實是完整試驗的誤稱。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "ignominy",
+      "inVocab": true,
+      "senseAnchor": "a state of dishonor",
+      "roleInScript": "臭名掛牌",
+      "humorDevice": "morphology",
+      "zhGloss": "恥辱；臭名",
+      "speakLineEn": "Fraud brings lasting ignominy to a lab.",
+      "speakLineZh": "造假給實驗室帶來長久恥辱。",
+      "related": {
+        "synonyms": "shame, disgrace",
+        "antonyms": "honor"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "nominal",
+      "inVocab": true,
+      "senseAnchor": "a phrase that can function as the subject or object of a verb; relating to or constituting or bearing or giving a name",
+      "roleInScript": "只掛名",
+      "humorDevice": "morphology",
+      "zhGloss": "名義上的；微不足道的",
+      "speakLineEn": "Nominal authorship without contribution is unethical.",
+      "speakLineZh": "無貢獻的掛名作者不倫理。",
+      "related": {
+        "synonyms": "token, tokenish, nominative, titular",
+        "antonyms": "real"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "renown",
+      "inVocab": true,
+      "senseAnchor": "the state or quality of being widely honored and acclaimed",
+      "roleInScript": "大名",
+      "humorDevice": "morphology",
+      "zhGloss": "名聲；名望",
+      "speakLineEn": "Renown should not exempt anyone from audit.",
+      "speakLineZh": "名望不該豁免稽核。",
+      "related": {
+        "synonyms": "fame, celebrity",
+        "antonyms": "infamy"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "nomenclature",
+      "inVocab": false,
+      "senseAnchor": "命名法；術語體系",
+      "roleInScript": "整套名牌規則",
+      "humorDevice": "morphology",
+      "zhGloss": "命名法；術語體系",
+      "speakLineEn": "Clarify nomenclature before coding categories.",
+      "speakLineZh": "編碼類別前先釐清命名。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "homonym",
+      "inVocab": false,
+      "senseAnchor": "同音／同形異義詞",
+      "roleInScript": "撞名",
+      "humorDevice": "morphology",
+      "zhGloss": "同音／同形異義詞",
+      "speakLineEn": "Homonyms confuse automated text classifiers.",
+      "speakLineZh": "同形異義詞困擾自動分類器。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "acronym",
+      "inVocab": false,
+      "senseAnchor": "首字母縮寫",
+      "roleInScript": "縮成名牌",
+      "humorDevice": "story",
+      "zhGloss": "首字母縮寫",
+      "speakLineEn": "Define every acronym at first use.",
+      "speakLineZh": "每個縮寫首次出現要定義。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "anonymity",
+      "inVocab": false,
+      "senseAnchor": "匿名狀態",
+      "roleInScript": "不掛名狀態",
+      "humorDevice": "morphology",
+      "zhGloss": "匿名狀態",
+      "speakLineEn": "Anonymity is hard once raw audio exists.",
+      "speakLineZh": "有原始音檔時匿名很難。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "nym＝名：anonymous/pseudonym/synonym/antonym/misnomer",
+    "nominal＝名義上"
+  ],
+  "pitfalls": [
+    "misnomer＝名稱不當，不是「失誤」泛稱",
+    "ignominy＝恥辱臭名"
+  ],
+  "lessonRefs": [
+    "lesson-root-nym-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch01"
+  }
+}

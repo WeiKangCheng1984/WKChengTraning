@@ -1,0 +1,208 @@
+{
+  "id": "root-form-01",
+  "type": "root",
+  "elementLemma": "form",
+  "titleZh": "form｜成形模具廠",
+  "titleEn": "Form Mold Factory",
+  "hook": "字根 form＝形——模具廠專管成形、變形、統一形。",
+  "script": "conform 符合形；deform 變形。reform 再成形；formal／formality 正式形。formulate 寫成形；formative 成形期。uniform 同一形；transform 轉形；inform 賦形告知。",
+  "members": [
+    {
+      "headword": "conform",
+      "inVocab": false,
+      "senseAnchor": "符合；遵從",
+      "roleInScript": "對齊模具",
+      "humorDevice": "morphology",
+      "zhGloss": "符合；遵從",
+      "speakLineEn": "Analyses must conform to the registered plan.",
+      "speakLineZh": "分析須符合註冊計畫。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "deform",
+      "inVocab": false,
+      "senseAnchor": "使變形",
+      "roleInScript": "扭壞形",
+      "humorDevice": "morphology",
+      "zhGloss": "使變形",
+      "speakLineEn": "Outliers can deform a mean estimate.",
+      "speakLineZh": "極端值可使均值估計變形。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "reform",
+      "inVocab": false,
+      "senseAnchor": "改革；改造",
+      "roleInScript": "再成形",
+      "humorDevice": "morphology",
+      "zhGloss": "改革；改造",
+      "speakLineEn": "Reform incentives that reward only positives.",
+      "speakLineZh": "改革只獎勵陽性的誘因。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "formal",
+      "inVocab": false,
+      "senseAnchor": "正式的",
+      "roleInScript": "正式形",
+      "humorDevice": "morphology",
+      "zhGloss": "正式的",
+      "speakLineEn": "Use formal definitions before metaphors.",
+      "speakLineZh": "先用正式定義再比喻。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "formality",
+      "inVocab": false,
+      "senseAnchor": "正式手續；形式",
+      "roleInScript": "形式上的形",
+      "humorDevice": "morphology",
+      "zhGloss": "正式手續；形式",
+      "speakLineEn": "Ethics formality is not ethics substance.",
+      "speakLineZh": "倫理形式不是倫理實質。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "formulate",
+      "inVocab": false,
+      "senseAnchor": "確切表達；制定",
+      "roleInScript": "寫成形",
+      "humorDevice": "morphology",
+      "zhGloss": "確切表達；制定",
+      "speakLineEn": "Formulate hypotheses before peeking.",
+      "speakLineZh": "偷看前先把假說寫成形。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "formative",
+      "inVocab": false,
+      "senseAnchor": "成形的；塑造的",
+      "roleInScript": "成形期",
+      "humorDevice": "morphology",
+      "zhGloss": "成形的；塑造的",
+      "speakLineEn": "Formative feedback beats terminal grades alone.",
+      "speakLineZh": "成形期回饋勝過只有期末成績。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "uniform",
+      "inVocab": false,
+      "senseAnchor": "統一的；制服",
+      "roleInScript": "同一形",
+      "humorDevice": "morphology",
+      "zhGloss": "統一的；制服",
+      "speakLineEn": "Apply uniform coding rules across sites.",
+      "speakLineZh": "跨站點套用統一編碼規則。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "transform",
+      "inVocab": false,
+      "senseAnchor": "轉變；變換",
+      "roleInScript": "轉成另一形",
+      "humorDevice": "morphology",
+      "zhGloss": "轉變；變換",
+      "speakLineEn": "Open tools can transform lab habits.",
+      "speakLineZh": "開放工具能轉變實驗室習慣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "inform",
+      "inVocab": false,
+      "senseAnchor": "通知；賦形知情",
+      "roleInScript": "把形告知",
+      "humorDevice": "morphology",
+      "zhGloss": "通知；賦形知情",
+      "speakLineEn": "Inform participants of secondary uses.",
+      "speakLineZh": "告知參與者二次用途。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "formation",
+      "inVocab": false,
+      "senseAnchor": "形成；編隊",
+      "roleInScript": "成形過程",
+      "humorDevice": "morphology",
+      "zhGloss": "形成；編隊",
+      "speakLineEn": "Theory formation should cite failed paths.",
+      "speakLineZh": "理論形成應引用失敗路徑。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "formalism",
+      "inVocab": false,
+      "senseAnchor": "形式主義",
+      "roleInScript": "只重形",
+      "humorDevice": "morphology",
+      "zhGloss": "形式主義",
+      "speakLineEn": "Methodological formalism without care is empty.",
+      "speakLineZh": "沒有關懷的方法形式主義是空的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "form＝形：conform/deform/reform/formulate/uniform/transform",
+    "formative＝塑造期的"
+  ],
+  "pitfalls": [
+    "conform to＝符合",
+    "formative years＝塑造期"
+  ],
+  "lessonRefs": [
+    "lesson-root-form-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch02-topup"
+  }
+}

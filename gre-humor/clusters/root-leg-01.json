@@ -1,0 +1,208 @@
+{
+  "id": "root-leg-01",
+  "type": "root",
+  "elementLemma": "leg/lect",
+  "titleZh": "leg／lect｜選讀法庭",
+  "titleEn": "Select & Read Court",
+  "hook": "字根 leg/lect＝選、讀、法——法庭又選又讀。",
+  "script": "eligible 有資格被選；illegible 字跡讀不出。negligence 該選注意卻沒選；relegate 貶到次等席。legend 被選出傳頌的故事；legible 清晰可讀。dialect 地方選用的說法；eclectic 精選雜拼；predilection 偏好先選；sacrilege 對聖物不敬的「誤選」。",
+  "members": [
+    {
+      "headword": "eligible",
+      "inVocab": true,
+      "senseAnchor": "qualified for or allowed or worthy of being chosen",
+      "roleInScript": "可被選上",
+      "humorDevice": "morphology",
+      "zhGloss": "有資格的",
+      "speakLineEn": "Only preregistered trials were eligible for pooling.",
+      "speakLineZh": "只有預註冊試驗有資格納入合併。",
+      "related": {
+        "synonyms": "",
+        "antonyms": "ineligible"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "illegible",
+      "inVocab": false,
+      "senseAnchor": "難以辨認的",
+      "roleInScript": "讀不出來",
+      "humorDevice": "morphology",
+      "zhGloss": "難以辨認的",
+      "speakLineEn": "Illegible field notes waste months of fieldwork.",
+      "speakLineZh": "難辨田野筆記浪費數月。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "negligence",
+      "inVocab": true,
+      "senseAnchor": "failure to act with the prudence that a reasonable person would exercise under the same circumstances; the trait of neglecting responsibilities and lacking concern",
+      "roleInScript": "該注意卻沒選注意",
+      "humorDevice": "morphology",
+      "zhGloss": "疏忽；過失",
+      "speakLineEn": "Negligence in consent forms invites sanctions.",
+      "speakLineZh": "知情同意疏忽招致處罰。",
+      "related": {
+        "synonyms": "carelessness, neglect, nonperformance, neglectfulness",
+        "antonyms": "carefulness, attend to"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "relegate",
+      "inVocab": true,
+      "senseAnchor": "to give someone a lower or less important position than before",
+      "roleInScript": "選去次等席",
+      "humorDevice": "morphology",
+      "zhGloss": "貶謫；降級",
+      "speakLineEn": "Do not relegate ethics to an appendix.",
+      "speakLineZh": "不要把倫理貶到附錄。",
+      "related": {
+        "synonyms": "downgrade",
+        "antonyms": "promote, elevate, upgrade"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "legend",
+      "inVocab": false,
+      "senseAnchor": "傳說；圖例",
+      "roleInScript": "被選傳頌",
+      "humorDevice": "story",
+      "zhGloss": "傳說；圖例",
+      "speakLineEn": "The figure legend must define every symbol.",
+      "speakLineZh": "圖例必須定義每個符號。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "legible",
+      "inVocab": false,
+      "senseAnchor": "清晰可讀的",
+      "roleInScript": "讀得清楚",
+      "humorDevice": "morphology",
+      "zhGloss": "清晰可讀的",
+      "speakLineEn": "Make axis labels legible at slide distance.",
+      "speakLineZh": "軸標籤在投影距離也要可讀。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "dialect",
+      "inVocab": false,
+      "senseAnchor": "方言；語體",
+      "roleInScript": "地方選用說法",
+      "humorDevice": "morphology",
+      "zhGloss": "方言；語體",
+      "speakLineEn": "Discipline dialect can exclude outsiders.",
+      "speakLineZh": "學科語體可能排除外人。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "eclectic",
+      "inVocab": true,
+      "senseAnchor": "composed of elements drawn from various sources",
+      "roleInScript": "精選雜拼",
+      "humorDevice": "morphology",
+      "zhGloss": "兼收並蓄的",
+      "speakLineEn": "An eclectic toolkit still needs coherence.",
+      "speakLineZh": "兼收並蓄工具箱仍需一貫性。",
+      "related": {
+        "synonyms": "heterogeneous, assorted, motley",
+        "antonyms": "narrow, exclusive, homogeneous, uniform, autogenous"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "predilection",
+      "inVocab": true,
+      "senseAnchor": "preference",
+      "roleInScript": "偏好先選",
+      "humorDevice": "morphology",
+      "zhGloss": "偏愛；嗜好",
+      "speakLineEn": "A predilection for novelty biases publication.",
+      "speakLineZh": "嗜新偏愛扭曲發表。",
+      "related": {
+        "synonyms": "penchant, proclivity",
+        "antonyms": "aversion, dislike"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "sacrilege",
+      "inVocab": true,
+      "senseAnchor": "blasphemous behavior; the act of depriving something of its sacred character",
+      "roleInScript": "對聖物誤選不敬",
+      "humorDevice": "morphology",
+      "zhGloss": "褻瀆神聖",
+      "speakLineEn": "Treating raw data casually feels like methodological sacrilege.",
+      "speakLineZh": "隨意對待原始資料像方法論褻瀆。",
+      "related": {
+        "synonyms": "profanation, desecration, blasphemy",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "legislature",
+      "inVocab": true,
+      "senseAnchor": "persons who make or amend or repeal laws",
+      "roleInScript": "制定法條的選民堂",
+      "humorDevice": "story",
+      "zhGloss": "立法機關",
+      "speakLineEn": "The legislature funded open-data mandates.",
+      "speakLineZh": "立法機關資助開放資料強制令。",
+      "related": {
+        "synonyms": "law-makers",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "collective",
+      "inVocab": false,
+      "senseAnchor": "集體的；集合體",
+      "roleInScript": "一起被選進一籃",
+      "humorDevice": "story",
+      "zhGloss": "集體的；集合體",
+      "speakLineEn": "Collective action problems stall reforms.",
+      "speakLineZh": "集體行動困境拖延改革。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "leg/lect＝選讀：eligible/illegible/negligence/relegate",
+    "eligible 有資格 ≠ illegible 難讀"
+  ],
+  "pitfalls": [
+    "eligible（合格）≠ illegible（難辨識）",
+    "relegate＝貶謫／降級，不是 ban"
+  ],
+  "lessonRefs": [
+    "lesson-root-leg-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch01"
+  }
+}

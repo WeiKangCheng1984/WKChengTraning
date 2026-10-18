@@ -1,0 +1,178 @@
+{
+  "id": "sem-overt-01",
+  "type": "semantic",
+  "elementLemma": "overt-vs-covert",
+  "titleZh": "公開↔隱密｜對打擂台",
+  "titleEn": "Overt vs Covert Duel",
+  "hook": "語義對打：公開可見 vs 偷偷摸摸——考場超愛對照。",
+  "script": "公開隊：overt 公開，patent／manifest 明顯，transparent 透明。隱密隊：covert 隱蔽，clandestine 祕密，surreptitious／furtive 偷偷摸摸，latent／occult 潛藏，stealth 隱身。",
+  "members": [
+    {
+      "headword": "overt",
+      "inVocab": false,
+      "senseAnchor": "公開的；明顯的",
+      "roleInScript": "擺在明面",
+      "humorDevice": "contrast",
+      "zhGloss": "公開的；明顯的",
+      "speakLineEn": "Overt preregistration beats private plans.",
+      "speakLineZh": "公開預註冊勝過私下計畫。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "covert",
+      "inVocab": true,
+      "senseAnchor": "a flock of coots; a covering that serves to conceal or shelter something",
+      "roleInScript": "藏起來",
+      "humorDevice": "contrast",
+      "zhGloss": "隱蔽的",
+      "speakLineEn": "Covert multiple testing inflates false positives.",
+      "speakLineZh": "隱蔽多重檢定膨脹偽陽性。",
+      "related": {
+        "synonyms": "screen, cover, concealment",
+        "antonyms": "overt"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "clandestine",
+      "inVocab": true,
+      "senseAnchor": "done or kept secret",
+      "roleInScript": "地下作業",
+      "humorDevice": "contrast",
+      "zhGloss": "祕密的；暗中的",
+      "speakLineEn": "Clandestine data edits should be impossible.",
+      "speakLineZh": "暗中改資料應不可能。",
+      "related": {
+        "synonyms": "covert, furtive, surreptitious",
+        "antonyms": "open, overt"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "surreptitious",
+      "inVocab": true,
+      "senseAnchor": "marked by quiet and caution and secrecy; taking pains to avoid being observed; conducted with or marked by hidden aims or methods",
+      "roleInScript": "偷溜",
+      "humorDevice": "contrast",
+      "zhGloss": "偷偷摸摸的",
+      "speakLineEn": "Surreptitious outcome switching is misconduct.",
+      "speakLineZh": "偷偷更換結局變項是不端。",
+      "related": {
+        "synonyms": "furtive, sneak, sneaky, stealthy, clandestine, cloak-and-dagger",
+        "antonyms": "overt, open"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "furtive",
+      "inVocab": true,
+      "senseAnchor": "marked by quiet and caution and secrecy; taking pains to avoid being observed; secret and sly or sordid; ; - A.L.Guerard",
+      "roleInScript": "賊兮兮",
+      "humorDevice": "contrast",
+      "zhGloss": "鬼祟的",
+      "speakLineEn": "Furtive glances at interim results bias stopping.",
+      "speakLineZh": "鬼祟偷看期中結果扭曲停損。",
+      "related": {
+        "synonyms": "sneak, sneaky, stealthy, surreptitious, backstair, backstairs",
+        "antonyms": "overt, open"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "patent",
+      "inVocab": true,
+      "senseAnchor": "a document granting an inventor sole rights to an invention; an official document granting a right or privilege",
+      "roleInScript": "擺明可見",
+      "humorDevice": "contrast",
+      "zhGloss": "明顯的；專利",
+      "speakLineEn": "The flaw was patent in the raw scatterplot.",
+      "speakLineZh": "缺陷在原始散點圖上很明顯。",
+      "related": {
+        "synonyms": "apparent, evident, manifest, plain, unmistakable",
+        "antonyms": "cheer, fancy, patterned"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "manifest",
+      "inVocab": true,
+      "senseAnchor": "a customs document listing the contents put on a ship or plane; provide evidence for; stand as proof of; show by one's behavior, attitude, or external attributes",
+      "roleInScript": "顯現出來",
+      "humorDevice": "contrast",
+      "zhGloss": "明顯的；顯示",
+      "speakLineEn": "Bias became manifest after stratification.",
+      "speakLineZh": "分層後偏差顯現。",
+      "related": {
+        "synonyms": "attest, certify, demonstrate, evidence, apparent, evident",
+        "antonyms": "decertify, disprove"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "latent",
+      "inVocab": true,
+      "senseAnchor": "present but hidden",
+      "roleInScript": "還沒浮出",
+      "humorDevice": "contrast",
+      "zhGloss": "潛在的；潛伏的",
+      "speakLineEn": "Latent classes need strong identification.",
+      "speakLineZh": "潛在類別需要強識別。",
+      "related": {
+        "synonyms": "dormant",
+        "antonyms": "active, awakened"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "occult",
+      "inVocab": true,
+      "senseAnchor": "supernatural forces and events and beings collectively; supernatural practices and techniques",
+      "roleInScript": "隱而不見",
+      "humorDevice": "contrast",
+      "zhGloss": "隱秘的；超自然的",
+      "speakLineEn": "Do not treat statistical noise as occult wisdom.",
+      "speakLineZh": "不要把統計噪音當隱秘智慧。",
+      "related": {
+        "synonyms": "supernatural, eclipse, mysterious, mystic, mystical, secret",
+        "antonyms": "natural"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "stealth",
+      "inVocab": true,
+      "senseAnchor": "avoiding detection by moving carefully",
+      "roleInScript": "悄悄進場",
+      "humorDevice": "contrast",
+      "zhGloss": "隱密行動；隱身",
+      "speakLineEn": "Stealth revisions without changelogs erode trust.",
+      "speakLineZh": "無變更紀錄的隱密修訂侵蝕信任。",
+      "related": {
+        "synonyms": "stealing",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    }
+  ],
+  "reviewHooks": [
+    "公開：overt/patent/manifest/transparent",
+    "隱密：covert/clandestine/surreptitious/furtive"
+  ],
+  "pitfalls": [
+    "overt ↔ covert 成對記",
+    "patent 可指明顯或專利，看語境"
+  ],
+  "lessonRefs": [
+    "lesson-sem-overt-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch01"
+  }
+}

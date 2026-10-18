@@ -1,0 +1,208 @@
+{
+  "id": "root-mot-01",
+  "type": "root",
+  "elementLemma": "mob/mot/mov",
+  "titleZh": "mot｜動機傳動軸",
+  "titleEn": "Motive Drive Shaft",
+  "hook": "字根 mot/mov＝動——傳動軸專管誰在動、為何動。",
+  "script": "motive／motivation 為何而動；emotion 心被帶動。promote 往前推升，demote 往下挪。remote 離得遠；locomotion 移動方式。commotion 一陣騷動；motile 能自己動。immutable 動不了改不了；mobilize 動員起來；momentous 一動就影響重大。",
+  "members": [
+    {
+      "headword": "motive",
+      "inVocab": false,
+      "senseAnchor": "動機",
+      "roleInScript": "為何而動",
+      "humorDevice": "morphology",
+      "zhGloss": "動機",
+      "speakLineEn": "State the motive for excluding outliers.",
+      "speakLineZh": "說明排除極端值的動機。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "motivation",
+      "inVocab": false,
+      "senseAnchor": "動機；激勵",
+      "roleInScript": "推動力",
+      "humorDevice": "morphology",
+      "zhGloss": "動機；激勵",
+      "speakLineEn": "Intrinsic motivation beats punitive grading.",
+      "speakLineZh": "內在動機勝過懲罰式評分。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "emotion",
+      "inVocab": false,
+      "senseAnchor": "情緒",
+      "roleInScript": "心被帶動",
+      "humorDevice": "story",
+      "zhGloss": "情緒",
+      "speakLineEn": "Emotion can bias risk perception.",
+      "speakLineZh": "情緒可能扭曲風險知覺。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "promote",
+      "inVocab": false,
+      "senseAnchor": "晉升；促進",
+      "roleInScript": "往前推",
+      "humorDevice": "morphology",
+      "zhGloss": "晉升；促進",
+      "speakLineEn": "Open methods promote cumulative trust.",
+      "speakLineZh": "開放方法促進累積信任。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "demote",
+      "inVocab": false,
+      "senseAnchor": "降級",
+      "roleInScript": "往下挪",
+      "humorDevice": "morphology",
+      "zhGloss": "降級",
+      "speakLineEn": "A failed audit can demote a preferred model.",
+      "speakLineZh": "失敗稽核可把偏好模型降級。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "remote",
+      "inVocab": false,
+      "senseAnchor": "遙遠的；遠端的",
+      "roleInScript": "離得遠",
+      "humorDevice": "morphology",
+      "zhGloss": "遙遠的；遠端的",
+      "speakLineEn": "Remote sensing still needs ground truth.",
+      "speakLineZh": "遙感仍需地面實況。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "locomotion",
+      "inVocab": false,
+      "senseAnchor": "移動；運動",
+      "roleInScript": "怎麼移動",
+      "humorDevice": "morphology",
+      "zhGloss": "移動；運動",
+      "speakLineEn": "Measure locomotion errors in the robot trial.",
+      "speakLineZh": "量測機器人試驗的移動誤差。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "commotion",
+      "inVocab": false,
+      "senseAnchor": "騷動；喧鬧",
+      "roleInScript": "一陣亂動",
+      "humorDevice": "morphology",
+      "zhGloss": "騷動；喧鬧",
+      "speakLineEn": "Online commotion is not evidence of effect size.",
+      "speakLineZh": "網路騷動不是效應量證據。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "motile",
+      "inVocab": true,
+      "senseAnchor": "one whose prevailing mental imagery takes the form of inner feelings of action; (of spores or microorganisms) capable of movement",
+      "roleInScript": "自己會動",
+      "humorDevice": "morphology",
+      "zhGloss": "能運動的",
+      "speakLineEn": "Motile cells complicate fixed imaging.",
+      "speakLineZh": "能動細胞讓固定成像變複雜。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "immutable",
+      "inVocab": false,
+      "senseAnchor": "不可更改的",
+      "roleInScript": "動不了改不了",
+      "humorDevice": "morphology",
+      "zhGloss": "不可更改的",
+      "speakLineEn": "Treat timestamps as immutable once logged.",
+      "speakLineZh": "時間戳一經記錄即不可改。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "mobilize",
+      "inVocab": false,
+      "senseAnchor": "動員；調動",
+      "roleInScript": "發動起來",
+      "humorDevice": "morphology",
+      "zhGloss": "動員；調動",
+      "speakLineEn": "Mobilize reviewers early for adversarial checks.",
+      "speakLineZh": "及早動員審稿人做對抗檢查。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "momentous",
+      "inVocab": false,
+      "senseAnchor": "重大的",
+      "roleInScript": "一動影響大",
+      "humorDevice": "morphology",
+      "zhGloss": "重大的",
+      "speakLineEn": "A momentous protocol change needs versioning.",
+      "speakLineZh": "重大規程變更需要版本控管。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "mot＝動：motive/emotion/promote/demote/remote",
+    "immutable＝不可更改"
+  ],
+  "pitfalls": [
+    "motive（動機）≠ motif（主題動機／圖案）",
+    "demote ≠ devote"
+  ],
+  "lessonRefs": [
+    "lesson-root-mot-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch01"
+  }
+}

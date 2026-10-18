@@ -1,0 +1,208 @@
+{
+  "id": "root-fus-01",
+  "type": "root",
+  "elementLemma": "fus",
+  "titleZh": "fus｜澆熔混合廠",
+  "titleEn": "Fus Pouring Plant",
+  "hook": "字根 fus＝澆、熔——工廠把東西澆在一起或澆散。",
+  "script": "infuse 注入；profuse 澆得過多。effusive 感情傾瀉；diffuse 擴散澆開。confuse 混澆搞糊；refuse 拒絕不收澆。suffuse 瀰漫；transfuse 輸注。fusion 熔合；infusion 浸泡注入。",
+  "members": [
+    {
+      "headword": "infuse",
+      "inVocab": false,
+      "senseAnchor": "注入；灌輸",
+      "roleInScript": "澆進去",
+      "humorDevice": "morphology",
+      "zhGloss": "注入；灌輸",
+      "speakLineEn": "Infuse humility into the discussion section.",
+      "speakLineZh": "把謙遜注入討論段。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "profuse",
+      "inVocab": true,
+      "senseAnchor": "produced or growing in extreme abundance",
+      "roleInScript": "澆太多",
+      "humorDevice": "morphology",
+      "zhGloss": "大量的；過多的",
+      "speakLineEn": "Profuse acknowledgments cannot replace methods detail.",
+      "speakLineZh": "大量誌謝不能取代方法細節。",
+      "related": {
+        "synonyms": "exuberant, lush, luxuriant, riotous",
+        "antonyms": "restrained, subdued"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "effusive",
+      "inVocab": true,
+      "senseAnchor": "excessive in emotional expression",
+      "roleInScript": "傾瀉感情",
+      "humorDevice": "morphology",
+      "zhGloss": "感情洋溢的",
+      "speakLineEn": "Effusive praise in reviews can hide critique.",
+      "speakLineZh": "洋溢讚美可能掩蓋批評。",
+      "related": {
+        "synonyms": "emotional, demonstrative",
+        "antonyms": "cerebral, unemotional, undemonstrative"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "diffuse",
+      "inVocab": false,
+      "senseAnchor": "擴散；冗散的",
+      "roleInScript": "澆散開",
+      "humorDevice": "morphology",
+      "zhGloss": "擴散；冗散的",
+      "speakLineEn": "Diffuse aims produce unfocused papers.",
+      "speakLineZh": "目標冗散產出失焦論文。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "confuse",
+      "inVocab": false,
+      "senseAnchor": "使混淆",
+      "roleInScript": "混澆糊掉",
+      "humorDevice": "morphology",
+      "zhGloss": "使混淆",
+      "speakLineEn": "Do not confuse significance with importance.",
+      "speakLineZh": "不要把顯著性與重要性混淆。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "refuse",
+      "inVocab": false,
+      "senseAnchor": "拒絕",
+      "roleInScript": "不收這澆",
+      "humorDevice": "morphology",
+      "zhGloss": "拒絕",
+      "speakLineEn": "Refuse silent outcome switching.",
+      "speakLineZh": "拒絕沉默更換結局變項。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "suffuse",
+      "inVocab": false,
+      "senseAnchor": "充滿；瀰漫",
+      "roleInScript": "澆滿氛圍",
+      "humorDevice": "morphology",
+      "zhGloss": "充滿；瀰漫",
+      "speakLineEn": "Anxiety can suffuse a lab after a retraction.",
+      "speakLineZh": "撤稿後焦慮可瀰漫實驗室。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "transfuse",
+      "inVocab": false,
+      "senseAnchor": "輸血；注入",
+      "roleInScript": "轉澆過去",
+      "humorDevice": "morphology",
+      "zhGloss": "輸血；注入",
+      "speakLineEn": "Transfuse lessons from failed trials into protocols.",
+      "speakLineZh": "把失敗試驗教訓輸進規程。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "fusion",
+      "inVocab": false,
+      "senseAnchor": "熔合；融合",
+      "roleInScript": "熔成一塊",
+      "humorDevice": "story",
+      "zhGloss": "熔合；融合",
+      "speakLineEn": "Interdisciplinary fusion needs shared measures.",
+      "speakLineZh": "跨領域融合需要共享測量。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "infusion",
+      "inVocab": false,
+      "senseAnchor": "注入；浸泡液",
+      "roleInScript": "一輪注入",
+      "humorDevice": "story",
+      "zhGloss": "注入；浸泡液",
+      "speakLineEn": "An infusion of new coders needs training.",
+      "speakLineZh": "新編碼員注入需要訓練。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "refusal",
+      "inVocab": false,
+      "senseAnchor": "拒絕",
+      "roleInScript": "拒絕狀態",
+      "humorDevice": "story",
+      "zhGloss": "拒絕",
+      "speakLineEn": "Document refusal rates in surveys.",
+      "speakLineZh": "記錄調查拒絕率。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "confusion",
+      "inVocab": false,
+      "senseAnchor": "混亂；混淆",
+      "roleInScript": "混澆結果",
+      "humorDevice": "story",
+      "zhGloss": "混亂；混淆",
+      "speakLineEn": "Category confusion inflates error bars.",
+      "speakLineZh": "類別混淆膨脹誤差。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "fus＝澆：infuse/profuse/effusive/diffuse/confuse",
+    "profuse＝大量的"
+  ],
+  "pitfalls": [
+    "diffuse 可作動詞擴散或形容詞冗散",
+    "effusive＝溢於言表，常偏感情"
+  ],
+  "lessonRefs": [
+    "lesson-root-fus-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch02"
+  }
+}

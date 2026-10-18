@@ -1,0 +1,208 @@
+{
+  "id": "sem-rigid-01",
+  "type": "semantic",
+  "elementLemma": "rigid-vs-flexible",
+  "titleZh": "僵固↔彈性｜對打擂台",
+  "titleEn": "Rigid vs Flexible Duel",
+  "hook": "語義對打：僵硬不彎 vs 可塑可彎——人格與制度語氣都考。",
+  "script": "僵固隊：rigid／inflexible／adamant／obdurate／intransigent。彈性隊：pliable／malleable／supple／yielding／elastic／flexible。記：協議要「剛夠清楚」，方法要「柔能修正」。",
+  "members": [
+    {
+      "headword": "rigid",
+      "inVocab": false,
+      "senseAnchor": "僵硬的；嚴格的",
+      "roleInScript": "不彎",
+      "humorDevice": "contrast",
+      "zhGloss": "僵硬的；嚴格的",
+      "speakLineEn": "Rigid prereg is good; rigid denial of error is not.",
+      "speakLineZh": "僵硬預註冊好；僵硬否認錯誤不好。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "inflexible",
+      "inVocab": false,
+      "senseAnchor": "不知變通的",
+      "roleInScript": "彎不了",
+      "humorDevice": "contrast",
+      "zhGloss": "不知變通的",
+      "speakLineEn": "Inflexible journals delay corrections.",
+      "speakLineZh": "不知變通的期刊拖延勘誤。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "adamant",
+      "inVocab": false,
+      "senseAnchor": "堅決的；固執的",
+      "roleInScript": "硬如鑽石",
+      "humorDevice": "contrast",
+      "zhGloss": "堅決的；固執的",
+      "speakLineEn": "Stay adamant about data integrity.",
+      "speakLineZh": "對資料誠信要堅決。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "obdurate",
+      "inVocab": true,
+      "senseAnchor": "stubbornly persistent in wrongdoing; showing unfeeling resistance to tender feelings",
+      "roleInScript": "硬心腸",
+      "humorDevice": "contrast",
+      "zhGloss": "執迷不悟的",
+      "speakLineEn": "Obdurate refusal to share blocks science.",
+      "speakLineZh": "執迷拒共享阻擋科學。",
+      "related": {
+        "synonyms": "cussed, obstinate, unrepentant, flinty, flint, granitic",
+        "antonyms": "flexible, yielding"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "intransigent",
+      "inVocab": true,
+      "senseAnchor": "impervious to pleas, persuasion, requests, reason; ; - W.Churchill",
+      "roleInScript": "談不攏",
+      "humorDevice": "contrast",
+      "zhGloss": "不妥協的",
+      "speakLineEn": "Intransigent positions stall consortia.",
+      "speakLineZh": "不妥協立場拖延聯盟。",
+      "related": {
+        "synonyms": "adamant, adamantine, inexorable",
+        "antonyms": "compromising, flexible"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "pliable",
+      "inVocab": true,
+      "senseAnchor": "susceptible to being led or directed; capable of being shaped or bent or drawn out",
+      "roleInScript": "可彎",
+      "humorDevice": "contrast",
+      "zhGloss": "柔韌的；易受影響的",
+      "speakLineEn": "Pliable criteria invite p-hacking.",
+      "speakLineZh": "柔韌到亂的標準誘發 p 操弄。",
+      "related": {
+        "synonyms": "fictile, ductile, malleable, pliant, tensile, tractile",
+        "antonyms": "rigid, inflexible"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "malleable",
+      "inVocab": true,
+      "senseAnchor": "capable of being easily changed",
+      "roleInScript": "可锤打成形",
+      "humorDevice": "contrast",
+      "zhGloss": "可塑的",
+      "speakLineEn": "Constructs are malleable—define them.",
+      "speakLineZh": "構念可塑——請定義。",
+      "related": {
+        "synonyms": "plastic",
+        "antonyms": "rigid, inflexible"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "supple",
+      "inVocab": true,
+      "senseAnchor": "readily bent",
+      "roleInScript": "柔而有力",
+      "humorDevice": "contrast",
+      "zhGloss": "柔軟的；靈活的",
+      "speakLineEn": "Supple designs adapt without cheating.",
+      "speakLineZh": "靈活設計能適應而不作弊。",
+      "related": {
+        "synonyms": "flexible, lissome, pliable",
+        "antonyms": "inflexible, uncompromising"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "yielding",
+      "inVocab": true,
+      "senseAnchor": "a verbal act of admitting defeat; the act of conceding or yielding",
+      "roleInScript": "讓得動",
+      "humorDevice": "contrast",
+      "zhGloss": "屈服的；柔軟的",
+      "speakLineEn": "Yielding to evidence is a virtue.",
+      "speakLineZh": "向證據屈服是美德。",
+      "related": {
+        "synonyms": "surrender, concession, conceding, yield, give, afford",
+        "antonyms": "stand, survive"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "elastic",
+      "inVocab": false,
+      "senseAnchor": "有彈性的",
+      "roleInScript": "拉得回",
+      "humorDevice": "contrast",
+      "zhGloss": "有彈性的",
+      "speakLineEn": "Keep timelines elastic for audits.",
+      "speakLineZh": "為稽核保留彈性時程。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "flexible",
+      "inVocab": false,
+      "senseAnchor": "靈活的",
+      "roleInScript": "可調整",
+      "humorDevice": "contrast",
+      "zhGloss": "靈活的",
+      "speakLineEn": "Flexible analysis plans must be declared.",
+      "speakLineZh": "靈活分析計畫必須事先聲明。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "adaptable",
+      "inVocab": false,
+      "senseAnchor": "能適應的",
+      "roleInScript": "調得動",
+      "humorDevice": "contrast",
+      "zhGloss": "能適應的",
+      "speakLineEn": "Adaptable teams version their protocols.",
+      "speakLineZh": "能適應的團隊為規程做版本。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "僵：rigid/adamant/obdurate/intransigent",
+    "柔：pliable/malleable/supple/yielding"
+  ],
+  "pitfalls": [
+    "obdurate／intransigent＝頑固難勸",
+    "malleable＝可塑"
+  ],
+  "lessonRefs": [
+    "lesson-sem-rigid-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch02"
+  }
+}

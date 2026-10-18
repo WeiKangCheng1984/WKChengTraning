@@ -1,0 +1,208 @@
+{
+  "id": "root-chron-01",
+  "type": "root",
+  "elementLemma": "chron",
+  "titleZh": "chron｜時間錯位鐘樓",
+  "titleEn": "Chron Clock Tower",
+  "hook": "字根 chron＝時——鐘樓專管對時與錯時。",
+  "script": "chronic 慢性長久；chronicle 編年記事。chronology 時間順序；anachronism 時代錯置。synchronize／synchronous 同步。chronometer 精密計時；diachronic 跨時研究。",
+  "members": [
+    {
+      "headword": "chronic",
+      "inVocab": false,
+      "senseAnchor": "慢性的；長期的",
+      "roleInScript": "一直掛著時間",
+      "humorDevice": "morphology",
+      "zhGloss": "慢性的；長期的",
+      "speakLineEn": "Chronic underfunding erodes methods training.",
+      "speakLineZh": "長期資金不足侵蝕方法訓練。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "chronicle",
+      "inVocab": false,
+      "senseAnchor": "編年史；記錄",
+      "roleInScript": "按時記下",
+      "humorDevice": "morphology",
+      "zhGloss": "編年史；記錄",
+      "speakLineEn": "Chronicle every protocol amendment.",
+      "speakLineZh": "記錄每一次規程修訂。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "chronology",
+      "inVocab": false,
+      "senseAnchor": "年表；時間順序",
+      "roleInScript": "排好時間",
+      "humorDevice": "morphology",
+      "zhGloss": "年表；時間順序",
+      "speakLineEn": "Clarify chronology before claiming causality.",
+      "speakLineZh": "宣稱因果前先釐清時間順序。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "anachronism",
+      "inVocab": false,
+      "senseAnchor": "時代錯誤；不合時宜",
+      "roleInScript": "時間錯位",
+      "humorDevice": "morphology",
+      "zhGloss": "時代錯誤；不合時宜",
+      "speakLineEn": "A fax-only consent form is an anachronism.",
+      "speakLineZh": "只接受傳真的同意書是時代錯置。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "synchronize",
+      "inVocab": false,
+      "senseAnchor": "使同步",
+      "roleInScript": "對齊時鐘",
+      "humorDevice": "morphology",
+      "zhGloss": "使同步",
+      "speakLineEn": "Synchronize clocks across recording devices.",
+      "speakLineZh": "讓錄音裝置時鐘同步。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "synchronous",
+      "inVocab": false,
+      "senseAnchor": "同步的",
+      "roleInScript": "同拍",
+      "humorDevice": "morphology",
+      "zhGloss": "同步的",
+      "speakLineEn": "Synchronous online labs still need quiet writing.",
+      "speakLineZh": "同步線上實驗室仍需安靜寫作。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "chronometer",
+      "inVocab": false,
+      "senseAnchor": "精密計時器",
+      "roleInScript": "準鐘",
+      "humorDevice": "morphology",
+      "zhGloss": "精密計時器",
+      "speakLineEn": "Treat your registry as a research chronometer.",
+      "speakLineZh": "把登錄庫當研究精密計時器。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "diachronic",
+      "inVocab": false,
+      "senseAnchor": "歷時的",
+      "roleInScript": "跨時間看",
+      "humorDevice": "morphology",
+      "zhGloss": "歷時的",
+      "speakLineEn": "Diachronic citation analysis reveals canons shifting.",
+      "speakLineZh": "歷時引用分析顯示經典更迭。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "asynchronous",
+      "inVocab": false,
+      "senseAnchor": "非同步的",
+      "roleInScript": "不同拍",
+      "humorDevice": "morphology",
+      "zhGloss": "非同步的",
+      "speakLineEn": "Asynchronous review can still be rigorous.",
+      "speakLineZh": "非同步審查仍可嚴謹。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "chronological",
+      "inVocab": false,
+      "senseAnchor": "按時間順序的",
+      "roleInScript": "依時排列",
+      "humorDevice": "morphology",
+      "zhGloss": "按時間順序的",
+      "speakLineEn": "Present results in chronological discovery order.",
+      "speakLineZh": "依發現的時間順序呈現結果。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "chronicle-worthy",
+      "inVocab": false,
+      "senseAnchor": "值得載入編年的",
+      "roleInScript": "夠格記下",
+      "humorDevice": "morphology",
+      "zhGloss": "值得載入編年的",
+      "speakLineEn": "Only chronicle-worthy changes belong in the log.",
+      "speakLineZh": "只有值得載入的變更才進日誌。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "out-of-sync",
+      "inVocab": false,
+      "senseAnchor": "不同步",
+      "roleInScript": "對不齊",
+      "humorDevice": "morphology",
+      "zhGloss": "不同步",
+      "speakLineEn": "Out-of-sync codebooks create silent errors.",
+      "speakLineZh": "不同步碼本製造沉默錯誤。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "chron＝時：chronic/chronicle/chronology/anachronism/synchronize",
+    "anachronism＝時代錯置"
+  ],
+  "pitfalls": [
+    "anachronism＝錯置時代",
+    "chronic＝慢性／長期"
+  ],
+  "lessonRefs": [
+    "lesson-root-chron-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch02-topup"
+  }
+}

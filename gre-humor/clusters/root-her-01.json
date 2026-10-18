@@ -1,0 +1,208 @@
+{
+  "id": "root-her-01",
+  "type": "root",
+  "elementLemma": "her/hes",
+  "titleZh": "her／hes｜黏著猶豫室",
+  "titleEn": "Adhere & Hesitate Room",
+  "hook": "字根 her/hes＝黏——要嘛黏住，要嘛猶豫不黏。",
+  "script": "adhere 黏附遵守；adhesive 黏著劑。coherent／cohesive 黏成一貫。inherent 內在黏著的本質。hesitate／hesitant 猶豫不黏定。incoherent 黏不起來。",
+  "members": [
+    {
+      "headword": "adhere",
+      "inVocab": false,
+      "senseAnchor": "遵守；黏附",
+      "roleInScript": "黏住規則",
+      "humorDevice": "morphology",
+      "zhGloss": "遵守；黏附",
+      "speakLineEn": "Adhere to the preregistered plan.",
+      "speakLineZh": "遵守預註冊計畫。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "adhesive",
+      "inVocab": false,
+      "senseAnchor": "黏著的；膠帶",
+      "roleInScript": "黏膠",
+      "humorDevice": "morphology",
+      "zhGloss": "黏著的；膠帶",
+      "speakLineEn": "An adhesive label marked blinded samples.",
+      "speakLineZh": "黏標標記盲樣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "coherent",
+      "inVocab": false,
+      "senseAnchor": "連貫的；一致的",
+      "roleInScript": "黏成一條理",
+      "humorDevice": "morphology",
+      "zhGloss": "連貫的；一致的",
+      "speakLineEn": "Keep the causal story coherent.",
+      "speakLineZh": "讓因果故事連貫。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "cohesive",
+      "inVocab": true,
+      "senseAnchor": "causing cohesion; cohering or tending to cohere; well integrated",
+      "roleInScript": "黏成一團",
+      "humorDevice": "morphology",
+      "zhGloss": "有凝聚力的",
+      "speakLineEn": "A cohesive team still needs dissent channels.",
+      "speakLineZh": "有凝聚力的團隊仍需異議通道。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "inherent",
+      "inVocab": true,
+      "senseAnchor": "existing as an essential constituent or characteristic; in the nature of something though not readily apparent",
+      "roleInScript": "天生黏在本質",
+      "humorDevice": "morphology",
+      "zhGloss": "固有的；內在的",
+      "speakLineEn": "Noise is inherent in survey measures.",
+      "speakLineZh": "噪音是調查測量固有的。",
+      "related": {
+        "synonyms": "built-in, constitutional, inbuilt, integral, underlying",
+        "antonyms": "extrinsic, acquired"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "hesitate",
+      "inVocab": false,
+      "senseAnchor": "猶豫",
+      "roleInScript": "不黏定",
+      "humorDevice": "morphology",
+      "zhGloss": "猶豫",
+      "speakLineEn": "Do not hesitate to report nulls.",
+      "speakLineZh": "不要猶豫報告虛無結果。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "hesitant",
+      "inVocab": false,
+      "senseAnchor": "猶豫的",
+      "roleInScript": "黏不定",
+      "humorDevice": "morphology",
+      "zhGloss": "猶豫的",
+      "speakLineEn": "Hesitant leadership delays corrections.",
+      "speakLineZh": "猶豫領導拖延勘誤。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "incoherent",
+      "inVocab": false,
+      "senseAnchor": "不連貫的",
+      "roleInScript": "黏不起來",
+      "humorDevice": "morphology",
+      "zhGloss": "不連貫的",
+      "speakLineEn": "Incoherent constructs fail validation.",
+      "speakLineZh": "不連貫構念無法驗證。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "hesitation",
+      "inVocab": false,
+      "senseAnchor": "猶豫",
+      "roleInScript": "停一下",
+      "humorDevice": "story",
+      "zhGloss": "猶豫",
+      "speakLineEn": "Hesitation before submission beats rushed errors.",
+      "speakLineZh": "投稿前猶豫勝過倉促錯誤。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "adherence",
+      "inVocab": false,
+      "senseAnchor": "依從；黏附",
+      "roleInScript": "黏著程度",
+      "humorDevice": "story",
+      "zhGloss": "依從；黏附",
+      "speakLineEn": "Measure adherence to the intervention.",
+      "speakLineZh": "測量介入依從度。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "coherence",
+      "inVocab": false,
+      "senseAnchor": "連貫性",
+      "roleInScript": "黏合理度",
+      "humorDevice": "story",
+      "zhGloss": "連貫性",
+      "speakLineEn": "Check coherence across sections.",
+      "speakLineZh": "檢查各節連貫性。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "inherence",
+      "inVocab": false,
+      "senseAnchor": "內在性",
+      "roleInScript": "固有存在",
+      "humorDevice": "story",
+      "zhGloss": "內在性",
+      "speakLineEn": "Do not treat preference as inherence.",
+      "speakLineZh": "不要把偏好當固有本質。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "her＝黏：adhere/coherent/cohesive/inherent",
+    "hesitate＝猶豫"
+  ],
+  "pitfalls": [
+    "coherent（論理一貫）≠ cohesive（群體凝聚力）略有分工",
+    "inherent＝固有"
+  ],
+  "lessonRefs": [
+    "lesson-root-her-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch02"
+  }
+}

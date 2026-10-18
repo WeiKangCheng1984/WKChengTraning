@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-quis-01",
+  "slug": "root-quis-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-quis-01",
+  "titleZh": "quis｜尋問徵收處",
+  "titleEn": "Inquiry Collection Desk",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 quer/quis＝問、求——徵收處專管追問與索取。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "inquisitive 愛追問；requisite 必要索取物。perquisite 額外津貼（perk）。inquisition 嚴厲審問。acquire 取得；relinquish 放手不求。exquisite 精緻到像精選求得；prerequisite 先決需求；conquistador 歷史上的征服求取者；query 發出查詢。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "quis＝求問：inquisitive/requisite/perquisite/acquire",
+        "requisite 必要 ≠ perquisite 額外津貼"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "lookalike",
+      "promptEn": "Necessary vs perk/privilege:",
+      "promptZh": "必要 vs 津貼特權：",
+      "choices": [
+        "requisite / perquisite",
+        "perquisite / requisite",
+        "query / quest",
+        "acquire / request"
+      ],
+      "answer": "requisite / perquisite"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Give up; let go:",
+      "promptZh": "放棄交出：",
+      "choices": [
+        "relinquish",
+        "acquire",
+        "exquisite",
+        "inquisition"
+      ],
+      "answer": "relinquish"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Curious; fond of asking:",
+      "promptZh": "好問：",
+      "choices": [
+        "inquisitive",
+        "prerequisite",
+        "quest",
+        "nominal"
+      ],
+      "answer": "inquisitive"
+    }
+  ],
+  "pitfalls": [
+    "requisite（必要條件）≠ perquisite（特權／津貼）",
+    "inquisition 帶高壓審問色彩"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch01"
+  }
+}

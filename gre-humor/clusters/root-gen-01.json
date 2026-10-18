@@ -1,0 +1,208 @@
+{
+  "id": "root-gen-01",
+  "type": "root",
+  "elementLemma": "gen",
+  "titleZh": "gen｜基因與天才產房",
+  "titleEn": "Gen Delivery Room",
+  "hook": "字根 gen＝生、種——產房專管「生出什麼」。",
+  "script": "congenital 一生下來就帶著；progeny 是子孫產線。ingenious 巧思生出妙招，ingenuous 天真得像剛出生。homogeneous 同種，heterogeneous 雜種混生；engender 催生出結果，genesis 起源故事，genealogy 家譜，genocide 滅種暴行。",
+  "members": [
+    {
+      "headword": "congenital",
+      "inVocab": true,
+      "senseAnchor": "present at birth but not necessarily hereditary; acquired during fetal development",
+      "roleInScript": "一生下來就帶",
+      "humorDevice": "morphology",
+      "zhGloss": "先天的",
+      "speakLineEn": "Congenital defects need early screening.",
+      "speakLineZh": "先天缺陷需要早期篩檢。",
+      "related": {
+        "synonyms": "inborn, innate",
+        "antonyms": "conditioned"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "progeny",
+      "inVocab": true,
+      "senseAnchor": "the immediate descendants of a person",
+      "roleInScript": "產線上的子孫",
+      "humorDevice": "morphology",
+      "zhGloss": "後代；子孫",
+      "speakLineEn": "Ideas leave intellectual progeny in later papers.",
+      "speakLineZh": "想法在後續論文留下思想後代。",
+      "related": {
+        "synonyms": "offspring, issue",
+        "antonyms": "recall"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "ingenious",
+      "inVocab": true,
+      "senseAnchor": "showing inventiveness and skill",
+      "roleInScript": "生出妙招",
+      "humorDevice": "morphology",
+      "zhGloss": "巧妙的；機智的",
+      "speakLineEn": "An ingenious design saved sample size.",
+      "speakLineZh": "巧妙設計省下樣本量。",
+      "related": {
+        "synonyms": "clever, cunning",
+        "antonyms": "unimaginative, clumsy"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "ingenuous",
+      "inVocab": true,
+      "senseAnchor": "characterized by an inability to mask your feelings; not devious; lacking in sophistication or worldliness",
+      "roleInScript": "剛出生般天真",
+      "humorDevice": "morphology",
+      "zhGloss": "天真的；率直的",
+      "speakLineEn": "Her ingenuous question exposed the hidden assumption.",
+      "speakLineZh": "她率直的問題揭開隱藏假設。",
+      "related": {
+        "synonyms": "artless, innocent",
+        "antonyms": "disingenuous, artful"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "homogeneous",
+      "inVocab": false,
+      "senseAnchor": "同質的",
+      "roleInScript": "同種一窩",
+      "humorDevice": "morphology",
+      "zhGloss": "同質的",
+      "speakLineEn": "A homogeneous sample limits external validity.",
+      "speakLineZh": "同質樣本限制外部效度。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "heterogeneous",
+      "inVocab": false,
+      "senseAnchor": "異質的",
+      "roleInScript": "雜種混生",
+      "humorDevice": "morphology",
+      "zhGloss": "異質的",
+      "speakLineEn": "Heterogeneous effects hide in average treatment effects.",
+      "speakLineZh": "異質效應藏在平均處理效應裡。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "engender",
+      "inVocab": false,
+      "senseAnchor": "產生；造成",
+      "roleInScript": "催生結果",
+      "humorDevice": "morphology",
+      "zhGloss": "產生；造成",
+      "speakLineEn": "Ambiguous rubrics engender grading disputes.",
+      "speakLineZh": "模糊評分規準催生爭議。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "genesis",
+      "inVocab": true,
+      "senseAnchor": "a coming into being; the first book of the Old Testament: tells of Creation; Adam and Eve; the Fall of Man; Cain and Abel; Noah and the flood; God's covenant with Abraham; Abraham and Isaac; Jacob and Esau; Joseph and his brothers",
+      "roleInScript": "起源故事",
+      "humorDevice": "morphology",
+      "zhGloss": "起源；創始",
+      "speakLineEn": "The genesis of the theory was a failed replication.",
+      "speakLineZh": "該理論起源於一次失敗複現。",
+      "related": {
+        "synonyms": "generation",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "genealogy",
+      "inVocab": true,
+      "senseAnchor": "successive generations of kin; the study or investigation of ancestry and family history",
+      "roleInScript": "追溯血緣",
+      "humorDevice": "morphology",
+      "zhGloss": "家譜；系譜",
+      "speakLineEn": "A genealogy of methods shows forgotten branches.",
+      "speakLineZh": "方法系譜顯示被遺忘的分支。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "genocide",
+      "inVocab": false,
+      "senseAnchor": "種族滅絕",
+      "roleInScript": "滅種暴行",
+      "humorDevice": "morphology",
+      "zhGloss": "種族滅絕",
+      "speakLineEn": "The term genocide carries legal and moral weight.",
+      "speakLineZh": "種族滅絕一詞具有法律與道德重量。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "generic",
+      "inVocab": false,
+      "senseAnchor": "一般的；通用的",
+      "roleInScript": "無品牌通種",
+      "humorDevice": "story",
+      "zhGloss": "一般的；通用的",
+      "speakLineEn": "Generic advice rarely fits local constraints.",
+      "speakLineZh": "通用建議很少符合在地限制。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "indigenous",
+      "inVocab": true,
+      "senseAnchor": "originating where it is found",
+      "roleInScript": "當地生出的",
+      "humorDevice": "morphology",
+      "zhGloss": "本土的；土著的",
+      "speakLineEn": "Indigenous knowledge can correct outsider models.",
+      "speakLineZh": "本土知識能校正外來模型。",
+      "related": {
+        "synonyms": "autochthonal, autochthonic, autochthonous, endemic",
+        "antonyms": "foreign, alien"
+      },
+      "vocabStatus": "in-vocab"
+    }
+  ],
+  "reviewHooks": [
+    "gen＝生：congenital/progeny/ingenious/ingenuous",
+    "ingenious 巧妙 ≠ ingenuous 天真"
+  ],
+  "pitfalls": [
+    "ingenious（巧妙）≠ ingenuous（天真率直）",
+    "congenital 先天 ≠ congenital 勿寫成 congential"
+  ],
+  "lessonRefs": [
+    "lesson-root-gen-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch01"
+  }
+}

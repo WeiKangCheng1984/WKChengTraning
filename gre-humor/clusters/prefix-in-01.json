@@ -1,0 +1,208 @@
+{
+  "id": "prefix-in-01",
+  "type": "prefix",
+  "elementLemma": "in-/im-",
+  "titleZh": "in-｜進入／否定雙門",
+  "titleEn": "In- Double Door",
+  "hook": "字首 in-/im-＝進入或否定——同一門兩種用法，靠詞義裁定。",
+  "script": "進入向：infiltrate 滲入，innate 天生內在，insurgent 起事攻入，inhibit 抑制住。否定向：insipid 無味，inane 空洞，indigent 貧乏，inert 惰性，infamy 惡名。incisive 切入銳利。",
+  "members": [
+    {
+      "headword": "infiltrate",
+      "inVocab": false,
+      "senseAnchor": "滲透；滲入",
+      "roleInScript": "溜進去",
+      "humorDevice": "morphology",
+      "zhGloss": "滲透；滲入",
+      "speakLineEn": "Bias can infiltrate convenience samples.",
+      "speakLineZh": "偏差可滲入便利樣本。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "innate",
+      "inVocab": true,
+      "senseAnchor": "not established by conditioning or learning; being talented through inherited qualities",
+      "roleInScript": "內建進入",
+      "humorDevice": "morphology",
+      "zhGloss": "天生的；固有的",
+      "speakLineEn": "Do not treat preference as innate destiny.",
+      "speakLineZh": "不要把偏好當天生命運。",
+      "related": {
+        "synonyms": "unconditioned, unlearned, natural, born, congenital, inborn",
+        "antonyms": "conditioned"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "insipid",
+      "inVocab": true,
+      "senseAnchor": "not interesting, exciting",
+      "roleInScript": "否定味道",
+      "humorDevice": "morphology",
+      "zhGloss": "無味的；無聊的",
+      "speakLineEn": "Insipid summaries omit effect sizes.",
+      "speakLineZh": "無味摘要省略效應量。",
+      "related": {
+        "synonyms": "bland, vapid, banal, tedious",
+        "antonyms": "flavorful, exciting, lively, stimulating, original, fresh"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "insurgent",
+      "inVocab": true,
+      "senseAnchor": "a person who takes part in an armed rebellion against the constituted authority (especially in the hope of improving conditions); a member of an irregular armed force that fights a stronger force by sabotage and harassment",
+      "roleInScript": "攻入體制",
+      "humorDevice": "morphology",
+      "zhGloss": "叛亂者；起義的",
+      "speakLineEn": "Insurgent methods groups pushed open data.",
+      "speakLineZh": "起義方法團體推動開放資料。",
+      "related": {
+        "synonyms": "insurrectionist, rebel, guerrilla, guerilla, irregular, seditious",
+        "antonyms": "regular"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "inane",
+      "inVocab": false,
+      "senseAnchor": "空洞的；愚蠢的",
+      "roleInScript": "否定內容",
+      "humorDevice": "morphology",
+      "zhGloss": "空洞的；愚蠢的",
+      "speakLineEn": "Inane slogans are not theories.",
+      "speakLineZh": "空洞口號不是理論。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "incisive",
+      "inVocab": false,
+      "senseAnchor": "鋭利的；深刻的",
+      "roleInScript": "切入",
+      "humorDevice": "morphology",
+      "zhGloss": "鋭利的；深刻的",
+      "speakLineEn": "Incisive critique improves designs.",
+      "speakLineZh": "鋭利批評改進設計。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "indigent",
+      "inVocab": true,
+      "senseAnchor": "poor enough to need help from others",
+      "roleInScript": "否定財富",
+      "humorDevice": "morphology",
+      "zhGloss": "貧窮的",
+      "speakLineEn": "Waive fees for indigent authors.",
+      "speakLineZh": "為貧窮作者減免費用。",
+      "related": {
+        "synonyms": "destitute, impoverished, necessitous, needy, poverty-stricken",
+        "antonyms": "enrich"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "inert",
+      "inVocab": false,
+      "senseAnchor": "惰性的；不活動的",
+      "roleInScript": "動不起來",
+      "humorDevice": "morphology",
+      "zhGloss": "惰性的；不活動的",
+      "speakLineEn": "Inert repositories collect dust.",
+      "speakLineZh": "惰性儲庫積灰。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "infamy",
+      "inVocab": true,
+      "senseAnchor": "a state of extreme dishonor; - F.D.Roosevelt; evil fame or public reputation",
+      "roleInScript": "否定名聲",
+      "humorDevice": "morphology",
+      "zhGloss": "惡名；醜聞",
+      "speakLineEn": "Fabrication brings lasting infamy.",
+      "speakLineZh": "捏造帶來長久惡名。",
+      "related": {
+        "synonyms": "opprobrium",
+        "antonyms": "fame"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "inhibit",
+      "inVocab": true,
+      "senseAnchor": "to put down by force or authority; limit the range or extent of",
+      "roleInScript": "壓住進入",
+      "humorDevice": "morphology",
+      "zhGloss": "抑制；阻止",
+      "speakLineEn": "Fear can inhibit error reporting.",
+      "speakLineZh": "恐懼會抑制錯誤回報。",
+      "related": {
+        "synonyms": "suppress, subdue, conquer, curb",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "ingress",
+      "inVocab": false,
+      "senseAnchor": "進入",
+      "roleInScript": "入口",
+      "humorDevice": "story",
+      "zhGloss": "進入",
+      "speakLineEn": "Control physical ingress to the server room.",
+      "speakLineZh": "控制機房實體進入。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "inclusive",
+      "inVocab": false,
+      "senseAnchor": "包容的",
+      "roleInScript": "納入",
+      "humorDevice": "story",
+      "zhGloss": "包容的",
+      "speakLineEn": "Use inclusive language in consent forms.",
+      "speakLineZh": "知情同意用包容語言。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "in- 可＝進入或否定：innate/infiltrate vs insipid/inane/inert",
+    "incisive＝鋭利深刻"
+  ],
+  "pitfalls": [
+    "同一字首兩義，不可死記單一中文",
+    "indigent＝貧窮"
+  ],
+  "lessonRefs": [
+    "lesson-prefix-in-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch02"
+  }
+}

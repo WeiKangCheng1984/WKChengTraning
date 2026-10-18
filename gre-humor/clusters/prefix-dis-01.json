@@ -1,0 +1,163 @@
+{
+  "id": "prefix-dis-01",
+  "type": "prefix",
+  "elementLemma": "dis-",
+  "titleZh": "dis-｜拆解否定工廠",
+  "titleEn": "Dis- Demolition Plant",
+  "hook": "字首 dis-＝分開／否定——工廠專管拆掉與否定。",
+  "script": "disperse 打散；distort 扭歪。discredit 讓信用散掉；dismantle 拆解。disparage 貶低拆台；dissuade 勸阻拆念頭。dispassionate 抽離感情；discord 不和。disarray 混亂；disavow 否認切割。",
+  "members": [
+    {
+      "headword": "disperse",
+      "inVocab": true,
+      "senseAnchor": "distribute loosely; to cause to separate and go in different directions",
+      "roleInScript": "打散",
+      "humorDevice": "morphology",
+      "zhGloss": "散佈；解散",
+      "speakLineEn": "Disperse rumors with a public correction log.",
+      "speakLineZh": "用公開勘誤日誌打散謠言。",
+      "related": {
+        "synonyms": "scatter, sprinkle, dot, dust, dissipate, dispel",
+        "antonyms": "accumulate, gather"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "dismantle",
+      "inVocab": true,
+      "senseAnchor": "tear down so as to make flat with the ground; take apart into its constituent pieces",
+      "roleInScript": "拆掉結構",
+      "humorDevice": "morphology",
+      "zhGloss": "拆除；拆解",
+      "speakLineEn": "Dismantle incentives that reward only positives.",
+      "speakLineZh": "拆掉只獎勵陽性的誘因。",
+      "related": {
+        "synonyms": "level, raze, rase, disassemble, strip",
+        "antonyms": "assemble, raise"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "disparage",
+      "inVocab": true,
+      "senseAnchor": "express a negative opinion of",
+      "roleInScript": "拆台貶低",
+      "humorDevice": "morphology",
+      "zhGloss": "貶低；誹謗",
+      "speakLineEn": "Do not disparage fields you have not read.",
+      "speakLineZh": "不要貶低你沒讀過的領域。",
+      "related": {
+        "synonyms": "belittle",
+        "antonyms": "praise, commend, flatter"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "dissuade",
+      "inVocab": true,
+      "senseAnchor": "turn away from by persuasion",
+      "roleInScript": "拆掉念頭",
+      "humorDevice": "morphology",
+      "zhGloss": "勸阻",
+      "speakLineEn": "Good mentoring can dissuade fraudulent shortcuts.",
+      "speakLineZh": "好指導能勸阻造假捷徑。",
+      "related": {
+        "synonyms": "deter",
+        "antonyms": "persuade"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "dispassionate",
+      "inVocab": false,
+      "senseAnchor": "冷靜公正的",
+      "roleInScript": "抽離感情",
+      "humorDevice": "morphology",
+      "zhGloss": "冷靜公正的",
+      "speakLineEn": "Write a dispassionate methods critique.",
+      "speakLineZh": "寫冷靜公正的方法批評。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "discord",
+      "inVocab": true,
+      "senseAnchor": "lack of agreement or harmony",
+      "roleInScript": "拆和諧",
+      "humorDevice": "morphology",
+      "zhGloss": "不和；不一致",
+      "speakLineEn": "Discord between prereg and paper needs explanation.",
+      "speakLineZh": "預註冊與論文不一致需解釋。",
+      "related": {
+        "synonyms": "conflict, dissonance, friction, schism",
+        "antonyms": "harmony, concord, agree, consonance, agreement"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "disarray",
+      "inVocab": false,
+      "senseAnchor": "混亂；紊亂",
+      "roleInScript": "拆整齊",
+      "humorDevice": "morphology",
+      "zhGloss": "混亂；紊亂",
+      "speakLineEn": "Code in disarray hides silent bugs.",
+      "speakLineZh": "混亂程式碼隱藏沉默錯誤。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "disavow",
+      "inVocab": true,
+      "senseAnchor": "refuse to acknowledge; disclaim knowledge of; responsibility for, or association with",
+      "roleInScript": "切割否認",
+      "humorDevice": "morphology",
+      "zhGloss": "否認；拒絕承認",
+      "speakLineEn": "Authors must disavow forged figures publicly.",
+      "speakLineZh": "作者必須公開否認偽造圖。",
+      "related": {
+        "synonyms": "",
+        "antonyms": "avow"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "disclose",
+      "inVocab": true,
+      "senseAnchor": "make known to the public information that was previously known only to a few people or that was meant to be kept a secret; disclose to view as by removing a cover",
+      "roleInScript": "打開不藏",
+      "humorDevice": "story",
+      "zhGloss": "揭露",
+      "speakLineEn": "Disclose all deviations from the plan.",
+      "speakLineZh": "揭露所有偏離計畫之處。",
+      "related": {
+        "synonyms": "unwrap, reveal, discover, expose, divulge, break",
+        "antonyms": "wrap, cover, conform to, keep, make, promote, repair"
+      },
+      "vocabStatus": "in-vocab"
+    }
+  ],
+  "reviewHooks": [
+    "dis-＝拆／否：disperse/distort/discredit/dismantle/disparage",
+    "dissuade＝勸阻"
+  ],
+  "pitfalls": [
+    "disinterested≈公正無利益；uninterested＝不感興趣（另記）",
+    "disparage＝貶低"
+  ],
+  "lessonRefs": [
+    "lesson-prefix-dis-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch01"
+  }
+}

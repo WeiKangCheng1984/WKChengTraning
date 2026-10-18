@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-solv-01",
+  "slug": "root-solv-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-solv-01",
+  "titleZh": "solv｜溶解與解方實驗室",
+  "titleEn": "Solvent Lab",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 solv＝解、鬆——實驗室專管溶解問題與責任。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "solve 解開；dissolve 溶解散去。resolve 下決心解開／決議；absolve 解除罪責。soluble 可溶，solvent 溶劑／有償債力。solution 解方；irresolute 猶豫不解。resolute 堅決；dissolute 放蕩無約束像道德溶解。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "solv＝解：solve/dissolve/resolve/absolve/soluble",
+        "absolve＝解除罪責"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Free from blame:",
+      "promptZh": "解除罪責：",
+      "choices": [
+        "absolve",
+        "dissolve",
+        "soluble",
+        "dissolute"
+      ],
+      "answer": "absolve"
+    },
+    {
+      "id": "q2",
+      "type": "lookalike",
+      "promptEn": "Firm vs hesitant:",
+      "promptZh": "堅決 vs 猶豫：",
+      "choices": [
+        "resolute / irresolute",
+        "irresolute / resolute",
+        "solve / solution",
+        "solvent / soluble"
+      ],
+      "answer": "resolute / irresolute"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Morally loose; dissipated:",
+      "promptZh": "放蕩：",
+      "choices": [
+        "dissolute",
+        "dissolve",
+        "absolve",
+        "solvent"
+      ],
+      "answer": "dissolute"
+    }
+  ],
+  "pitfalls": [
+    "resolve 可指決心或決議，看語境",
+    "dissolute＝放蕩，不是 dissolve 的簡單形容詞"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch01"
+  }
+}

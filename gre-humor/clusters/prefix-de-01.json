@@ -1,0 +1,193 @@
+{
+  "id": "prefix-de-01",
+  "type": "prefix",
+  "elementLemma": "de-",
+  "titleZh": "de-｜向下拆除隊",
+  "titleEn": "De- Demolition Crew",
+  "hook": "字首 de-＝向下／去除——拆除隊專管往下拆、貶、耗。",
+  "script": "debase 貶低品質；deplete 耗盡。deride 嘲笑；desecrate 褻瀆。deflect 偏轉；despondent 消沉。debunk 拆穿；defame 誹謗。denounce 公開譴責。",
+  "members": [
+    {
+      "headword": "debase",
+      "inVocab": true,
+      "senseAnchor": "corrupt morally or by intemperance or sensuality; lower in value by increasing the base-metal content",
+      "roleInScript": "往下貶質",
+      "humorDevice": "morphology",
+      "zhGloss": "貶低；使變劣",
+      "speakLineEn": "Do not debase peer review into scoreboard theater.",
+      "speakLineZh": "別把同儕審查貶成計分秀。",
+      "related": {
+        "synonyms": "corrupt, pervert, subvert, demoralize, demoralise, debauch",
+        "antonyms": "incorrupt, straight, elate"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "deplete",
+      "inVocab": true,
+      "senseAnchor": "reduce by a large amount",
+      "roleInScript": "抽光",
+      "humorDevice": "morphology",
+      "zhGloss": "耗盡；用盡",
+      "speakLineEn": "Underpowered designs deplete trust.",
+      "speakLineZh": "低檢定力設計耗盡信任。",
+      "related": {
+        "synonyms": "exhaust, drain",
+        "antonyms": "replenish, augment"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "deride",
+      "inVocab": true,
+      "senseAnchor": "treat or speak of with contempt",
+      "roleInScript": "往下笑人",
+      "humorDevice": "morphology",
+      "zhGloss": "嘲笑；嘲弄",
+      "speakLineEn": "Deride ideas, not people—then still check the math.",
+      "speakLineZh": "嘲弄想法而非人身——但仍核對數學。",
+      "related": {
+        "synonyms": "",
+        "antonyms": "praise, respect"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "desecrate",
+      "inVocab": true,
+      "senseAnchor": "violate the sacred character of a place or language; remove the consecration from a person or an object",
+      "roleInScript": "玷污神聖",
+      "humorDevice": "morphology",
+      "zhGloss": "褻瀆",
+      "speakLineEn": "Desecrate open science by gaming badges.",
+      "speakLineZh": "用刷徽章褻瀆開放科學。",
+      "related": {
+        "synonyms": "profane, outrage, violate, unhallow, deconsecrate",
+        "antonyms": "consecrate"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "deflect",
+      "inVocab": true,
+      "senseAnchor": "prevent the occurrence of; prevent from happening; turn from a straight course, fixed direction, or line of interest",
+      "roleInScript": "打歪",
+      "humorDevice": "morphology",
+      "zhGloss": "偏轉；轉移",
+      "speakLineEn": "Do not deflect critique with credentials.",
+      "speakLineZh": "不要用資歷轉移批評。",
+      "related": {
+        "synonyms": "debar, forefend, forfend, obviate, avert, avoid",
+        "antonyms": "necessitate, require, confront, validate"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "despondent",
+      "inVocab": true,
+      "senseAnchor": "without or almost without hope",
+      "roleInScript": "情緒向下",
+      "humorDevice": "morphology",
+      "zhGloss": "沮喪的",
+      "speakLineEn": "A despondent team still owes accurate logs.",
+      "speakLineZh": "沮喪團隊仍欠準確日誌。",
+      "related": {
+        "synonyms": "heartsick",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "debunk",
+      "inVocab": true,
+      "senseAnchor": "to reveal the true nature of",
+      "roleInScript": "拆假",
+      "humorDevice": "morphology",
+      "zhGloss": "揭穿；拆穿",
+      "speakLineEn": "Debunk myths with registered replications.",
+      "speakLineZh": "用註冊複現揭穿迷思。",
+      "related": {
+        "synonyms": "expose",
+        "antonyms": "cover"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "defame",
+      "inVocab": true,
+      "senseAnchor": "charge falsely or with malicious intent; attack the good name and reputation of someone",
+      "roleInScript": "往下抹名",
+      "humorDevice": "morphology",
+      "zhGloss": "誹謗",
+      "speakLineEn": "Do not defame whistleblowers.",
+      "speakLineZh": "不要誹謗吹哨者。",
+      "related": {
+        "synonyms": "slander, smirch, asperse, denigrate, calumniate, smear",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "denounce",
+      "inVocab": false,
+      "senseAnchor": "譴責；告發",
+      "roleInScript": "公開往下批",
+      "humorDevice": "story",
+      "zhGloss": "譴責；告發",
+      "speakLineEn": "Denounce fabricated figures publicly.",
+      "speakLineZh": "公開譴責偽造圖。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "depress",
+      "inVocab": false,
+      "senseAnchor": "壓低；使沮喪",
+      "roleInScript": "往下壓",
+      "humorDevice": "story",
+      "zhGloss": "壓低；使沮喪",
+      "speakLineEn": "Missing data can depress estimated effects.",
+      "speakLineZh": "缺失資料可能壓低估計效應。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "devalue",
+      "inVocab": false,
+      "senseAnchor": "貶值",
+      "roleInScript": "降低價值",
+      "humorDevice": "story",
+      "zhGloss": "貶值",
+      "speakLineEn": "Hidden exclusions devalue a dataset.",
+      "speakLineZh": "隱藏排除貶低資料集。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "de-＝向下：debase/deplete/deride/desecrate/deflect/debunk",
+    "despondent＝沮喪"
+  ],
+  "pitfalls": [
+    "debase＝貶低價值／品質",
+    "debunk＝揭穿謬誤"
+  ],
+  "lessonRefs": [
+    "lesson-prefix-de-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch02"
+  }
+}

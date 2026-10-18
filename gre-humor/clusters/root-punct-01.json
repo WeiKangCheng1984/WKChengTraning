@@ -1,0 +1,208 @@
+{
+  "id": "root-punct-01",
+  "type": "root",
+  "elementLemma": "punct",
+  "titleZh": "punct｜刺點禮儀所",
+  "titleEn": "Punct Point Studio",
+  "hook": "字根 punct＝點、刺——禮儀所專管準點與刺痛良心。",
+  "script": "punctual 準點；puncture 刺破。punctilious 對細節一絲不苟；compunction 良心刺痛。punctuate 加標點／強調；punctuation 標點。acupuncture 針刺。",
+  "members": [
+    {
+      "headword": "punctual",
+      "inVocab": false,
+      "senseAnchor": "準時的",
+      "roleInScript": "對準點",
+      "humorDevice": "morphology",
+      "zhGloss": "準時的",
+      "speakLineEn": "Be punctual with correction notices.",
+      "speakLineZh": "勘誤通知要準時。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "puncture",
+      "inVocab": false,
+      "senseAnchor": "刺穿；刺破",
+      "roleInScript": "刺一個洞",
+      "humorDevice": "morphology",
+      "zhGloss": "刺穿；刺破",
+      "speakLineEn": "One leak can puncture a privacy plan.",
+      "speakLineZh": "一次洩漏可刺破隱私計畫。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "punctilious",
+      "inVocab": true,
+      "senseAnchor": "extremely careful",
+      "roleInScript": "對點超認真",
+      "humorDevice": "morphology",
+      "zhGloss": "一絲不苟的",
+      "speakLineEn": "Punctilious citation prevents ghost references.",
+      "speakLineZh": "一絲不苟引用防止幽靈文獻。",
+      "related": {
+        "synonyms": "conscientious, scrupulous, meticulous",
+        "antonyms": "careless, lax, negligent, unconscientious, unscrupulous, sloppy"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "compunction",
+      "inVocab": true,
+      "senseAnchor": "a feeling of guilt or regret",
+      "roleInScript": "良心被刺",
+      "humorDevice": "morphology",
+      "zhGloss": "內疚；良心不安",
+      "speakLineEn": "Feel compunction about quiet exclusions.",
+      "speakLineZh": "對沉默排除感到內疚。",
+      "related": {
+        "synonyms": "misgiving, scruple",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "punctuate",
+      "inVocab": false,
+      "senseAnchor": "加標點；強調",
+      "roleInScript": "點一下強調",
+      "humorDevice": "morphology",
+      "zhGloss": "加標點；強調",
+      "speakLineEn": "Punctuate limitations clearly.",
+      "speakLineZh": "清楚強調限制。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "punctuation",
+      "inVocab": false,
+      "senseAnchor": "標點符號",
+      "roleInScript": "點的系統",
+      "humorDevice": "morphology",
+      "zhGloss": "標點符號",
+      "speakLineEn": "Bad punctuation can scramble claims.",
+      "speakLineZh": "糟糕標點會打亂主張。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "acupuncture",
+      "inVocab": false,
+      "senseAnchor": "針灸",
+      "roleInScript": "針刺療法",
+      "humorDevice": "story",
+      "zhGloss": "針灸",
+      "speakLineEn": "Think of audits as methodological acupuncture—precise, not theatrical.",
+      "speakLineZh": "把稽核當方法針灸：精準不作秀。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "pointed",
+      "inVocab": false,
+      "senseAnchor": "尖銳的；指向的",
+      "roleInScript": "有尖點",
+      "humorDevice": "story",
+      "zhGloss": "尖銳的；指向的",
+      "speakLineEn": "Ask pointed questions about missingness.",
+      "speakLineZh": "對缺失問尖銳問題。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "pointless",
+      "inVocab": false,
+      "senseAnchor": "無意義的",
+      "roleInScript": "沒點",
+      "humorDevice": "story",
+      "zhGloss": "無意義的",
+      "speakLineEn": "Pointless metrics waste cohorts.",
+      "speakLineZh": "無意義指標浪費世代。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "appoint",
+      "inVocab": false,
+      "senseAnchor": "任命；約定",
+      "roleInScript": "指定一個點",
+      "humorDevice": "story",
+      "zhGloss": "任命；約定",
+      "speakLineEn": "Appoint an independent data steward.",
+      "speakLineZh": "任命獨立資料管家。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "disappoint",
+      "inVocab": false,
+      "senseAnchor": "使失望",
+      "roleInScript": "點期待落空",
+      "humorDevice": "story",
+      "zhGloss": "使失望",
+      "speakLineEn": "Overclaiming will disappoint readers later.",
+      "speakLineZh": "過度宣稱稍後令讀者失望。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "counterpoint",
+      "inVocab": false,
+      "senseAnchor": "對位；對比觀點",
+      "roleInScript": "對點",
+      "humorDevice": "story",
+      "zhGloss": "對位；對比觀點",
+      "speakLineEn": "Offer a counterpoint in the discussion.",
+      "speakLineZh": "在討論提供對位觀點。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "punct＝點刺：punctual/puncture/punctilious/compunction/punctuate",
+    "compunction＝內疚"
+  ],
+  "pitfalls": [
+    "punctilious＝拘泥細節禮數",
+    "compunction＝良心不安"
+  ],
+  "lessonRefs": [
+    "lesson-root-punct-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch02"
+  }
+}

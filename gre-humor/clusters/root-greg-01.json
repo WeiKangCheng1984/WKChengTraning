@@ -1,0 +1,208 @@
+{
+  "id": "root-greg-01",
+  "type": "root",
+  "elementLemma": "greg",
+  "titleZh": "greg｜群聚牧場",
+  "titleEn": "Greg Herd Ranch",
+  "hook": "字根 greg＝群——牧場專管聚在一起或被分開。",
+  "script": "gregarious 愛群聚；congregate 聚集。segregate 隔離分群；aggregate 總合成群。egregious 糟到「出群」顯眼；congregation 會眾。desegregate 取消隔離。",
+  "members": [
+    {
+      "headword": "gregarious",
+      "inVocab": true,
+      "senseAnchor": "likely to seek or enjoy the company of others",
+      "roleInScript": "愛待在群裡",
+      "humorDevice": "morphology",
+      "zhGloss": "合群的",
+      "speakLineEn": "Gregarious networking still needs quiet writing time.",
+      "speakLineZh": "合群交際仍需安靜寫作時間。",
+      "related": {
+        "synonyms": "convivial, sociable",
+        "antonyms": "solitary, unsociable, ungregarious"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "congregate",
+      "inVocab": false,
+      "senseAnchor": "聚集",
+      "roleInScript": "聚成一群",
+      "humorDevice": "morphology",
+      "zhGloss": "聚集",
+      "speakLineEn": "Do not let p-hackers congregate around one metric.",
+      "speakLineZh": "別讓 p 操弄者圍聚單一指標。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "segregate",
+      "inVocab": true,
+      "senseAnchor": "someone who is or has been segregated; separate by race or religion; practice a policy of racial segregation",
+      "roleInScript": "拆群隔離",
+      "humorDevice": "morphology",
+      "zhGloss": "隔離；分開",
+      "speakLineEn": "Segregate exploratory from confirmatory analyses.",
+      "speakLineZh": "把探索與驗證分析隔離。",
+      "related": {
+        "synonyms": "",
+        "antonyms": "desegregate"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "aggregate",
+      "inVocab": false,
+      "senseAnchor": "合計；聚合體",
+      "roleInScript": "合成總群",
+      "humorDevice": "morphology",
+      "zhGloss": "合計；聚合體",
+      "speakLineEn": "Report both aggregate and subgroup effects.",
+      "speakLineZh": "同時報告總體與次群效應。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "egregious",
+      "inVocab": true,
+      "senseAnchor": "conspicuously and outrageously bad or reprehensible",
+      "roleInScript": "壞到出群",
+      "humorDevice": "morphology",
+      "zhGloss": "極壞的；過分的",
+      "speakLineEn": "Egregious selective reporting invites sanctions.",
+      "speakLineZh": "過分選擇性報告招致處罰。",
+      "related": {
+        "synonyms": "crying, flagrant, glaring, gross, rank",
+        "antonyms": "laugh, net"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "congregation",
+      "inVocab": false,
+      "senseAnchor": "會眾；聚集",
+      "roleInScript": "一群人",
+      "humorDevice": "morphology",
+      "zhGloss": "會眾；聚集",
+      "speakLineEn": "The congregation of stakeholders delayed the protocol.",
+      "speakLineZh": "利害關係人聚集拖延規程。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "desegregate",
+      "inVocab": false,
+      "senseAnchor": "廢除隔離",
+      "roleInScript": "取消分群牆",
+      "humorDevice": "morphology",
+      "zhGloss": "廢除隔離",
+      "speakLineEn": "Desegregate methods training across departments.",
+      "speakLineZh": "跨系廢除方法訓練隔離。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "aggregative",
+      "inVocab": false,
+      "senseAnchor": "聚合的",
+      "roleInScript": "往總量靠",
+      "humorDevice": "story",
+      "zhGloss": "聚合的",
+      "speakLineEn": "Aggregative indices can hide harm.",
+      "speakLineZh": "聚合指標可能掩蓋傷害。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "segregation",
+      "inVocab": false,
+      "senseAnchor": "隔離狀態",
+      "roleInScript": "分群狀態",
+      "humorDevice": "story",
+      "zhGloss": "隔離狀態",
+      "speakLineEn": "Outcome segregation by gender needs justification.",
+      "speakLineZh": "依性別隔離結局需理由。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "congregant",
+      "inVocab": false,
+      "senseAnchor": "會眾成員",
+      "roleInScript": "群裡一員",
+      "humorDevice": "story",
+      "zhGloss": "會眾成員",
+      "speakLineEn": "Each congregant signed a conflict form.",
+      "speakLineZh": "每位成員簽署利益衝突表。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "egregiously",
+      "inVocab": false,
+      "senseAnchor": "極其過分地",
+      "roleInScript": "出群地糟",
+      "humorDevice": "story",
+      "zhGloss": "極其過分地",
+      "speakLineEn": "The figure was egregiously cropped.",
+      "speakLineZh": "圖被過分裁切。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "gregariousness",
+      "inVocab": true,
+      "senseAnchor": "the quality of being gregarious--having a dislike of being alone",
+      "roleInScript": "愛群特質",
+      "humorDevice": "story",
+      "zhGloss": "合群性",
+      "speakLineEn": "Gregariousness ≠ scientific rigor.",
+      "speakLineZh": "合群性不等於科學嚴謹。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    }
+  ],
+  "reviewHooks": [
+    "greg＝群：gregarious/congregate/segregate/aggregate/egregious",
+    "egregious＝極壞（出群壞）"
+  ],
+  "pitfalls": [
+    "egregious＝極壞／驚人地糟，不是「卓越」古義常用於現代貶義",
+    "aggregate＝合計"
+  ],
+  "lessonRefs": [
+    "lesson-root-greg-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch02"
+  }
+}

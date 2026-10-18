@@ -1,0 +1,178 @@
+{
+  "id": "prefix-bene-mal-01",
+  "type": "prefix",
+  "elementLemma": "bene-/mal-",
+  "titleZh": "bene↔mal｜好壞雙開關",
+  "titleEn": "Bene vs Mal Switches",
+  "hook": "字首 bene＝好、mal＝壞——同一機器兩種開關。",
+  "script": "benevolent 好心腸；benefactor 做好事的金主；benign 良性／和善。對面：malign 惡意中傷，malicious 惡意的，malady 病痛，malfeasance 瀆職惡行，malevolent 惡意的。記法：bene～benefit；mal～malice。",
+  "members": [
+    {
+      "headword": "benevolent",
+      "inVocab": true,
+      "senseAnchor": "intending or showing kindness; showing or motivated by sympathy and understanding and generosity",
+      "roleInScript": "好開關",
+      "humorDevice": "morphology",
+      "zhGloss": "仁慈的",
+      "speakLineEn": "A benevolent funder still demands transparency.",
+      "speakLineZh": "仁慈金主仍要求透明。",
+      "related": {
+        "synonyms": "charitable, kindly, sympathetic, good-hearted, openhearted, large-hearted",
+        "antonyms": "malevolent, malicious"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "benign",
+      "inVocab": false,
+      "senseAnchor": "良性的；和善的",
+      "roleInScript": "無害好性",
+      "humorDevice": "morphology",
+      "zhGloss": "良性的；和善的",
+      "speakLineEn": "Not every anomaly is benign.",
+      "speakLineZh": "不是每個異常都良性。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "beneficent",
+      "inVocab": false,
+      "senseAnchor": "行善的；有益的",
+      "roleInScript": "主動行好",
+      "humorDevice": "morphology",
+      "zhGloss": "行善的；有益的",
+      "speakLineEn": "Beneficent defaults nudge better sharing.",
+      "speakLineZh": "有益預設推動更好共享。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "malign",
+      "inVocab": true,
+      "senseAnchor": "say unpleasant and untrue things",
+      "roleInScript": "壞嘴／惡性",
+      "humorDevice": "morphology",
+      "zhGloss": "誹謗；惡性的",
+      "speakLineEn": "Do not malign critics to dodge critique.",
+      "speakLineZh": "不要用誹謗評論者來躲避批評。",
+      "related": {
+        "synonyms": "slur, slander, defame, calumniate",
+        "antonyms": "benign, focus"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "malicious",
+      "inVocab": false,
+      "senseAnchor": "惡意的",
+      "roleInScript": "壞心眼",
+      "humorDevice": "morphology",
+      "zhGloss": "惡意的",
+      "speakLineEn": "Malicious compliance with disclosure can still mislead.",
+      "speakLineZh": "惡意合規披露仍可能誤導。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "malady",
+      "inVocab": true,
+      "senseAnchor": "a disease or illness",
+      "roleInScript": "壞病",
+      "humorDevice": "morphology",
+      "zhGloss": "疾病；弊病",
+      "speakLineEn": "P-hacking is a systemic malady.",
+      "speakLineZh": "p 操弄是系統性弊病。",
+      "related": {
+        "synonyms": "ailment, condition, complaint",
+        "antonyms": "wellness"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "malfeasance",
+      "inVocab": true,
+      "senseAnchor": "improper or illegal behavior",
+      "roleInScript": "做壞事職權",
+      "humorDevice": "morphology",
+      "zhGloss": "瀆職；不法行為",
+      "speakLineEn": "Research malfeasance triggers institutional review.",
+      "speakLineZh": "研究瀆職觸發機構審查。",
+      "related": {
+        "synonyms": "fraudulence, wrongdoing",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "malevolent",
+      "inVocab": false,
+      "senseAnchor": "惡意的；歹毒的",
+      "roleInScript": "壞意圖",
+      "humorDevice": "morphology",
+      "zhGloss": "惡意的；歹毒的",
+      "speakLineEn": "Assume error before assuming malevolent intent.",
+      "speakLineZh": "先假設錯誤再假設歹毒意圖。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "benefit",
+      "inVocab": false,
+      "senseAnchor": "益處；受益",
+      "roleInScript": "得到好處",
+      "humorDevice": "story",
+      "zhGloss": "益處；受益",
+      "speakLineEn": "Who benefits from opacity?",
+      "speakLineZh": "誰從不透明受益？",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "malpractice",
+      "inVocab": false,
+      "senseAnchor": "不當執業",
+      "roleInScript": "壞執業",
+      "humorDevice": "morphology",
+      "zhGloss": "不當執業",
+      "speakLineEn": "Statistical malpractice includes undisclosed fishing.",
+      "speakLineZh": "統計不當執業包含未揭露淘篩。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "bene＝好：benevolent/benefactor/benign",
+    "mal＝壞：malign/malicious/malady/malfeasance"
+  ],
+  "pitfalls": [
+    "benign 醫療＝良性；人格＝和善",
+    "malign 可作動詞「誹謗」或形容詞「惡性的」"
+  ],
+  "lessonRefs": [
+    "lesson-prefix-bene-mal-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch01"
+  }
+}

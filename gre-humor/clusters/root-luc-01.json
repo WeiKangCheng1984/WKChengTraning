@@ -1,0 +1,208 @@
+{
+  "id": "root-luc-01",
+  "type": "root",
+  "elementLemma": "luc/lum",
+  "titleZh": "luc／lum｜光源澄清室",
+  "titleEn": "Lucid Light Room",
+  "hook": "字根 luc/lum＝光——澄清室專管照亮與透光。（lucid 已在他族則跳過）",
+  "script": "elucidate 闡明照亮；pellucid 清澈透光。translucent 半透明；luminary 發光大人物。luminous 發光的；illuminate 照明。lackluster 無光澤；illustrious 輝煌。",
+  "members": [
+    {
+      "headword": "elucidate",
+      "inVocab": true,
+      "senseAnchor": "to make clear especially by explanation or analysis",
+      "roleInScript": "把光打進去",
+      "humorDevice": "morphology",
+      "zhGloss": "闡明；說明",
+      "speakLineEn": "Elucidate the identification assumptions.",
+      "speakLineZh": "闡明識別假設。",
+      "related": {
+        "synonyms": "illuminate, enlighten",
+        "antonyms": "obfuscate"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "pellucid",
+      "inVocab": true,
+      "senseAnchor": "admitting the passage of light",
+      "roleInScript": "透到見底",
+      "humorDevice": "morphology",
+      "zhGloss": "清澈的；清晰的",
+      "speakLineEn": "Write a pellucid abstract.",
+      "speakLineZh": "寫清澈摘要。",
+      "related": {
+        "synonyms": "limpid, lucent, transparent, lucid",
+        "antonyms": "opaque, obscure, confused"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "translucent",
+      "inVocab": true,
+      "senseAnchor": "allowing light to pass through diffusely",
+      "roleInScript": "透一點光",
+      "humorDevice": "morphology",
+      "zhGloss": "半透明的",
+      "speakLineEn": "Translucent reporting still hides key exclusions.",
+      "speakLineZh": "半透明報告仍藏關鍵排除。",
+      "related": {
+        "synonyms": "semitransparent",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "luminary",
+      "inVocab": true,
+      "senseAnchor": "a celebrity who is an inspiration to others",
+      "roleInScript": "大燈人物",
+      "humorDevice": "morphology",
+      "zhGloss": "名人；發光體",
+      "speakLineEn": "Do not defer to luminaries without reading methods.",
+      "speakLineZh": "別不讀方法就服從名人。",
+      "related": {
+        "synonyms": "notable, notability",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "luminous",
+      "inVocab": false,
+      "senseAnchor": "發光的；明亮的",
+      "roleInScript": "發亮",
+      "humorDevice": "morphology",
+      "zhGloss": "發光的；明亮的",
+      "speakLineEn": "A luminous figure cannot replace a table.",
+      "speakLineZh": "明亮圖不能取代表格。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "illuminate",
+      "inVocab": false,
+      "senseAnchor": "照明；啟發",
+      "roleInScript": "開燈",
+      "humorDevice": "morphology",
+      "zhGloss": "照明；啟發",
+      "speakLineEn": "Examples illuminate abstract claims.",
+      "speakLineZh": "例子照亮抽象主張。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "lackluster",
+      "inVocab": false,
+      "senseAnchor": "無光澤的；平庸的",
+      "roleInScript": "沒光",
+      "humorDevice": "morphology",
+      "zhGloss": "無光澤的；平庸的",
+      "speakLineEn": "Lackluster documentation slows replication.",
+      "speakLineZh": "平庸文件拖延複現。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "illustrious",
+      "inVocab": false,
+      "senseAnchor": "傑出的；輝煌的",
+      "roleInScript": "光輝履歷",
+      "humorDevice": "morphology",
+      "zhGloss": "傑出的；輝煌的",
+      "speakLineEn": "Illustrious affiliations do not validate results.",
+      "speakLineZh": "輝煌單位不驗證結果。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "illumination",
+      "inVocab": false,
+      "senseAnchor": "照明；啟發",
+      "roleInScript": "光照結果",
+      "humorDevice": "story",
+      "zhGloss": "照明；啟發",
+      "speakLineEn": "Seek illumination, not applause.",
+      "speakLineZh": "追求啟發而非掌聲。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "lucidity",
+      "inVocab": false,
+      "senseAnchor": "清晰；清醒",
+      "roleInScript": "清楚度",
+      "humorDevice": "story",
+      "zhGloss": "清晰；清醒",
+      "speakLineEn": "Lucidity beats jargon density.",
+      "speakLineZh": "清晰勝過術語密度。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "relucent",
+      "inVocab": false,
+      "senseAnchor": "反光的",
+      "roleInScript": "反光",
+      "humorDevice": "story",
+      "zhGloss": "反光的",
+      "speakLineEn": "Relucent metaphors can distract.",
+      "speakLineZh": "反光隱喻可能分心。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "luminescence",
+      "inVocab": false,
+      "senseAnchor": "冷光；發光",
+      "roleInScript": "自己發光",
+      "humorDevice": "story",
+      "zhGloss": "冷光；發光",
+      "speakLineEn": "Claim luminescence only with mechanisms.",
+      "speakLineZh": "有機制才稱發光。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "luc＝光：elucidate/pellucid/translucent/luminary/illuminate",
+    "elucidate＝闡明"
+  ],
+  "pitfalls": [
+    "pellucid＝極度清晰",
+    "lackluster＝乏善可陳"
+  ],
+  "lessonRefs": [
+    "lesson-root-luc-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch02"
+  }
+}

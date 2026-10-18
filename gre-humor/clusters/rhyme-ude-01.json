@@ -1,0 +1,193 @@
+{
+  "id": "rhyme-ude-01",
+  "type": "rhyme",
+  "elementLemma": "-ude",
+  "titleZh": "ude｜質地抽象館",
+  "titleEn": "The -ude Quality Hall",
+  "hook": "押韻／字尾族 -ude：抽象「質地／程度」名詞館。",
+  "script": "latitude 緯度／自由度；magnitude 量級。multitude 大量；solitude 獨處。platitude 陳腔；exactitude 精確。aptitude 資質；gratitude 感激。altitude 高度；attitude 態度。",
+  "members": [
+    {
+      "headword": "latitude",
+      "inVocab": true,
+      "senseAnchor": "the angular distance between an imaginary line around a heavenly body parallel to its equator and the equator itself; freedom from normal restraints in conduct",
+      "roleInScript": "活動空間",
+      "humorDevice": "phonetic",
+      "zhGloss": "緯度；自由餘地",
+      "speakLineEn": "Give analysts latitude within a prereg envelope.",
+      "speakLineZh": "在預註冊信封內給分析者餘地。",
+      "related": {
+        "synonyms": "parallel",
+        "antonyms": "oblique, perpendicular"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "magnitude",
+      "inVocab": false,
+      "senseAnchor": "量級；重大",
+      "roleInScript": "有多大",
+      "humorDevice": "phonetic",
+      "zhGloss": "量級；重大",
+      "speakLineEn": "Report effect magnitude, not stars alone.",
+      "speakLineZh": "報告效應量級，不只星號。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "multitude",
+      "inVocab": false,
+      "senseAnchor": "大量；群眾",
+      "roleInScript": "很多",
+      "humorDevice": "phonetic",
+      "zhGloss": "大量；群眾",
+      "speakLineEn": "A multitude of tests needs correction.",
+      "speakLineZh": "大量檢定需要校正。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "solitude",
+      "inVocab": true,
+      "senseAnchor": "a state of social isolation; the state or situation of being alone",
+      "roleInScript": "一個人",
+      "humorDevice": "phonetic",
+      "zhGloss": "獨處；孤獨",
+      "speakLineEn": "Protect solitude for careful writing.",
+      "speakLineZh": "保護獨處以仔細寫作。",
+      "related": {
+        "synonyms": "purdah",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "platitude",
+      "inVocab": true,
+      "senseAnchor": "a banal remark or statement",
+      "roleInScript": "空話質地",
+      "humorDevice": "phonetic",
+      "zhGloss": "陳腔濫調",
+      "speakLineEn": "Replace platitudes with operational definitions.",
+      "speakLineZh": "用操作型定義取代陳腔。",
+      "related": {
+        "synonyms": "banality, bromide, cliché",
+        "antonyms": "originality, insight"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "exactitude",
+      "inVocab": true,
+      "senseAnchor": "the quality of being exact",
+      "roleInScript": "準到點",
+      "humorDevice": "phonetic",
+      "zhGloss": "精確",
+      "speakLineEn": "Exactitude in timestamps prevents disputes.",
+      "speakLineZh": "時間戳精確避免爭議。",
+      "related": {
+        "synonyms": "exactness",
+        "antonyms": "inexactness"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "aptitude",
+      "inVocab": false,
+      "senseAnchor": "資質；才能",
+      "roleInScript": "適合度",
+      "humorDevice": "phonetic",
+      "zhGloss": "資質；才能",
+      "speakLineEn": "Aptitude tests still need fairness audits.",
+      "speakLineZh": "性向測驗仍需公平稽核。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "gratitude",
+      "inVocab": false,
+      "senseAnchor": "感激",
+      "roleInScript": "感謝質地",
+      "humorDevice": "phonetic",
+      "zhGloss": "感激",
+      "speakLineEn": "Gratitude notes belong in acknowledgments, not methods.",
+      "speakLineZh": "感謝放誌謝不放方法。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "altitude",
+      "inVocab": false,
+      "senseAnchor": "海拔；高度",
+      "roleInScript": "多高",
+      "humorDevice": "phonetic",
+      "zhGloss": "海拔；高度",
+      "speakLineEn": "At this altitude of claim, demand stronger ID.",
+      "speakLineZh": "主張到這高度，要求更強識別。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "attitude",
+      "inVocab": false,
+      "senseAnchor": "態度",
+      "roleInScript": "心態質地",
+      "humorDevice": "phonetic",
+      "zhGloss": "態度",
+      "speakLineEn": "An open attitude to critique speeds repair.",
+      "speakLineZh": "對批評的開放態度加速修復。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "decrepitude",
+      "inVocab": true,
+      "senseAnchor": "the state of being old",
+      "roleInScript": "破舊質地",
+      "humorDevice": "story",
+      "zhGloss": "衰老；老舊殘破",
+      "speakLineEn": "Software decrepitude is a security risk.",
+      "speakLineZh": "軟體老舊殘破是資安風險。",
+      "related": {
+        "synonyms": "senescence",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    }
+  ],
+  "reviewHooks": [
+    "-ude：latitude/magnitude/platitude/exactitude/solitude",
+    "platitude＝陳詞濫調"
+  ],
+  "pitfalls": [
+    "latitude 可指地理緯度或行動餘地",
+    "platitude≠ gratitude"
+  ],
+  "lessonRefs": [
+    "lesson-rhyme-ude-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch02"
+  }
+}

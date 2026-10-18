@@ -1,0 +1,208 @@
+{
+  "id": "rhyme-spir-01",
+  "type": "rhyme",
+  "elementLemma": "-spir",
+  "titleZh": "spir｜呼吸志向館",
+  "titleEn": "The -spir Breath Hall",
+  "hook": "字根／押韻 spir＝呼吸——志向與密謀都在換氣。",
+  "script": "aspire 向上吸氣立志；inspire 注入靈感氣息。conspire 一起暗中換氣密謀；transpire 透露／發生。perspire 出汗；respire 呼吸。spirited 有勁；dispirited 洩氣；aspiration 志向。",
+  "members": [
+    {
+      "headword": "aspire",
+      "inVocab": false,
+      "senseAnchor": "渴望；立志",
+      "roleInScript": "向上吸氣",
+      "humorDevice": "phonetic",
+      "zhGloss": "渴望；立志",
+      "speakLineEn": "Aspire to cumulative science, not one-hit wonders.",
+      "speakLineZh": "立志累積科學，非一次性奇蹟。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "inspire",
+      "inVocab": false,
+      "senseAnchor": "啟發；鼓舞",
+      "roleInScript": "把氣注入",
+      "humorDevice": "phonetic",
+      "zhGloss": "啟發；鼓舞",
+      "speakLineEn": "Open tools inspire better habits.",
+      "speakLineZh": "開放工具啟發更好習慣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "conspire",
+      "inVocab": true,
+      "senseAnchor": "to plan together secretly to commit an illegal or wrongful act",
+      "roleInScript": "一起暗中換氣",
+      "humorDevice": "phonetic",
+      "zhGloss": "密謀；共同導致",
+      "speakLineEn": "Incentives can conspire against sharing.",
+      "speakLineZh": "誘因可能共同不利共享。",
+      "related": {
+        "synonyms": "contrive, collude, intrigue",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "transpire",
+      "inVocab": true,
+      "senseAnchor": "pass through the tissue or substance or its pores or interstices, as of gas; exude water vapor",
+      "roleInScript": "氣透出來",
+      "humorDevice": "phonetic",
+      "zhGloss": "發生；透露",
+      "speakLineEn": "What transpired in the lab meeting must be logged.",
+      "speakLineZh": "實驗室會議發生何事必須記錄。",
+      "related": {
+        "synonyms": "transpirate",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "perspire",
+      "inVocab": false,
+      "senseAnchor": "出汗",
+      "roleInScript": "汗氣出來",
+      "humorDevice": "phonetic",
+      "zhGloss": "出汗",
+      "speakLineEn": "Presenters perspire when asked for raw data.",
+      "speakLineZh": "被要求原始資料時講者流汗。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "respire",
+      "inVocab": false,
+      "senseAnchor": "呼吸",
+      "roleInScript": "換氣",
+      "humorDevice": "phonetic",
+      "zhGloss": "呼吸",
+      "speakLineEn": "Teams need time to respire between grant cycles.",
+      "speakLineZh": "團隊在補助週期間需要換氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "spirited",
+      "inVocab": false,
+      "senseAnchor": "活躍的；勇敢的",
+      "roleInScript": "有氣勁",
+      "humorDevice": "phonetic",
+      "zhGloss": "活躍的；勇敢的",
+      "speakLineEn": "A spirited debate clarified constructs.",
+      "speakLineZh": "活躍辯論釐清構念。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "dispirited",
+      "inVocab": false,
+      "senseAnchor": "沮喪的；洩氣的",
+      "roleInScript": "沒氣了",
+      "humorDevice": "phonetic",
+      "zhGloss": "沮喪的；洩氣的",
+      "speakLineEn": "Dispirited students still deserve honest mentorship.",
+      "speakLineZh": "洩氣學生仍值得誠實指導。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "aspiration",
+      "inVocab": false,
+      "senseAnchor": "志向；抽吸",
+      "roleInScript": "想吸到的高度",
+      "humorDevice": "phonetic",
+      "zhGloss": "志向；抽吸",
+      "speakLineEn": "State career aspirations without overclaiming papers.",
+      "speakLineZh": "談職涯志向但不過度宣稱論文。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "conspiracy",
+      "inVocab": false,
+      "senseAnchor": "陰謀",
+      "roleInScript": "密謀團",
+      "humorDevice": "story",
+      "zhGloss": "陰謀",
+      "speakLineEn": "There was no conspiracy—only missing docs.",
+      "speakLineZh": "沒有陰謀——只有缺文件。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "inspiration",
+      "inVocab": false,
+      "senseAnchor": "靈感",
+      "roleInScript": "吸進的氣",
+      "humorDevice": "story",
+      "zhGloss": "靈感",
+      "speakLineEn": "Inspiration is not a methods section.",
+      "speakLineZh": "靈感不是方法段。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "respiratory",
+      "inVocab": false,
+      "senseAnchor": "呼吸的",
+      "roleInScript": "呼吸系統",
+      "humorDevice": "story",
+      "zhGloss": "呼吸的",
+      "speakLineEn": "Treat lab burnout like a respiratory hazard—ventilate culture.",
+      "speakLineZh": "把過勞當呼吸危害：通風文化。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "spir＝呼吸：aspire/inspire/conspire/transpire/perspire",
+    "conspire＝密謀"
+  ],
+  "pitfalls": [
+    "transpire 可＝發生或透露",
+    "aspire to＝渴望達成"
+  ],
+  "lessonRefs": [
+    "lesson-rhyme-spir-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch02"
+  }
+}

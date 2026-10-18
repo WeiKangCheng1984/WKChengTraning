@@ -1,0 +1,208 @@
+{
+  "id": "root-lev-01",
+  "type": "root",
+  "elementLemma": "lev",
+  "titleZh": "lev｜舉重與輕浮吊車",
+  "titleEn": "Lev Crane Yard",
+  "hook": "字根 lev＝輕、舉——吊車專管舉起或減輕。",
+  "script": "alleviate 減輕；elevate 抬高。levity 輕浮；levy 徵收（抽起來）。leverage 槓桿用力；relevant／irrelevant 相關舉得上／舉不上。leaven 發酵舉起；lever 槓桿。",
+  "members": [
+    {
+      "headword": "alleviate",
+      "inVocab": true,
+      "senseAnchor": "provide physical relief, as from pain; make easier",
+      "roleInScript": "把重物舉輕一點",
+      "humorDevice": "morphology",
+      "zhGloss": "減輕；緩和",
+      "speakLineEn": "Better measures alleviate some bias, not all.",
+      "speakLineZh": "更好測量減輕部分偏差，非全部。",
+      "related": {
+        "synonyms": "relieve, palliate, assuage, facilitate, ease",
+        "antonyms": "aggravate, exacerbate"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "elevate",
+      "inVocab": false,
+      "senseAnchor": "提升；抬高",
+      "roleInScript": "往上舉",
+      "humorDevice": "morphology",
+      "zhGloss": "提升；抬高",
+      "speakLineEn": "Elevate replication to equal status with novelty.",
+      "speakLineZh": "把複現提升到與新奇同等地位。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "levity",
+      "inVocab": true,
+      "senseAnchor": "feeling an inappropriate lack of seriousness; a manner lacking seriousness",
+      "roleInScript": "太輕了",
+      "humorDevice": "morphology",
+      "zhGloss": "輕浮；不嚴肅",
+      "speakLineEn": "Levity about fraud norms is dangerous.",
+      "speakLineZh": "對造假規範輕浮很危險。",
+      "related": {
+        "synonyms": "",
+        "antonyms": "seriousness, gravity"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "levy",
+      "inVocab": true,
+      "senseAnchor": "a charge imposed and collected; the act of drafting into military service",
+      "roleInScript": "抽起來",
+      "humorDevice": "morphology",
+      "zhGloss": "徵收；課稅",
+      "speakLineEn": "Levy a cost on undisclosed exclusions.",
+      "speakLineZh": "對未揭露排除課以成本。",
+      "related": {
+        "synonyms": "impose, recruit, raise",
+        "antonyms": "demote, descent, level, lower"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "leverage",
+      "inVocab": false,
+      "senseAnchor": "槓桿；利用",
+      "roleInScript": "用小力舉大",
+      "humorDevice": "morphology",
+      "zhGloss": "槓桿；利用",
+      "speakLineEn": "Leverage open tools instead of proprietary black boxes.",
+      "speakLineZh": "利用開放工具而非專有黑箱。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "relevant",
+      "inVocab": false,
+      "senseAnchor": "相關的",
+      "roleInScript": "舉得上題",
+      "humorDevice": "morphology",
+      "zhGloss": "相關的",
+      "speakLineEn": "Keep only relevant covariates.",
+      "speakLineZh": "只保留相關共變項。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "irrelevant",
+      "inVocab": false,
+      "senseAnchor": "不相干的",
+      "roleInScript": "舉不上題",
+      "humorDevice": "morphology",
+      "zhGloss": "不相干的",
+      "speakLineEn": "Drop irrelevant digressions from the intro.",
+      "speakLineZh": "刪掉導論不相干離題。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "leaven",
+      "inVocab": false,
+      "senseAnchor": "發酵；使活躍",
+      "roleInScript": "輕輕舉起氣氛",
+      "humorDevice": "morphology",
+      "zhGloss": "發酵；使活躍",
+      "speakLineEn": "Curiosity can leaven a dry methods course.",
+      "speakLineZh": "好奇心能使乾癟方法課發酵。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "lever",
+      "inVocab": false,
+      "senseAnchor": "槓桿",
+      "roleInScript": "撬棍",
+      "humorDevice": "story",
+      "zhGloss": "槓桿",
+      "speakLineEn": "A single noisy study is a weak lever for policy.",
+      "speakLineZh": "單一嘈雜研究是弱政策槓桿。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "elevation",
+      "inVocab": false,
+      "senseAnchor": "海拔；提升",
+      "roleInScript": "舉起高度",
+      "humorDevice": "story",
+      "zhGloss": "海拔；提升",
+      "speakLineEn": "Elevation of status should follow contribution.",
+      "speakLineZh": "地位提升應跟隨貢獻。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "relief",
+      "inVocab": false,
+      "senseAnchor": "減輕；救濟",
+      "roleInScript": "放下重擔感",
+      "humorDevice": "story",
+      "zhGloss": "減輕；救濟",
+      "speakLineEn": "Public correction brings delayed relief.",
+      "speakLineZh": "公開勘誤帶來延遲的解脫。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "unrelieved",
+      "inVocab": false,
+      "senseAnchor": "未減輕的",
+      "roleInScript": "舉不掉的重",
+      "humorDevice": "story",
+      "zhGloss": "未減輕的",
+      "speakLineEn": "Unrelieved ambiguity belongs in the limits section.",
+      "speakLineZh": "未減輕的模糊屬於限制段。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "lev＝舉／輕：alleviate/elevate/levity/levy/leverage",
+    "levity＝輕浮不當嚴肅"
+  ],
+  "pitfalls": [
+    "levy＝徵稅／徵收",
+    "alleviate＝減輕（痛苦／問題）"
+  ],
+  "lessonRefs": [
+    "lesson-root-lev-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch02"
+  }
+}

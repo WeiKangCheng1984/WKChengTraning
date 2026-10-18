@@ -1,0 +1,148 @@
+{
+  "id": "prefix-pro-01",
+  "type": "prefix",
+  "elementLemma": "pro-",
+  "priority": "A",
+  "titleZh": "pro-｜向前推進器",
+  "titleEn": "Pro- Thruster",
+  "hook": "字首 pro-＝向前／贊成——推進器專管往前推與公開主張。",
+  "script": "prodigal 向前揮霍；prosaic 平凡日常。protagonist 前方主角；proclaim 向前宣告。procure 設法取得；proclivity 傾向向前。proponent 贊成者；prospect／prospective 前瞻。proceed／propel 往前推進。",
+  "members": [
+    {
+      "headword": "proclaim",
+      "inVocab": false,
+      "senseAnchor": "宣告",
+      "roleInScript": "向前喊",
+      "humorDevice": "morphology",
+      "zhGloss": "宣告",
+      "speakLineEn": "Proclaim uncertainty intervals, not slogans.",
+      "speakLineZh": "宣告不確定區間，不是口號。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "procure",
+      "inVocab": false,
+      "senseAnchor": "取得",
+      "roleInScript": "向前弄到",
+      "humorDevice": "morphology",
+      "zhGloss": "取得",
+      "speakLineEn": "Procure independent review before launch.",
+      "speakLineZh": "上線前取得獨立審查。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "proponent",
+      "inVocab": false,
+      "senseAnchor": "支持者",
+      "roleInScript": "向前贊成",
+      "humorDevice": "morphology",
+      "zhGloss": "支持者",
+      "speakLineEn": "Be a proponent of sharing negative results.",
+      "speakLineZh": "做分享陰性結果的支持者。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "proclivity",
+      "inVocab": false,
+      "senseAnchor": "傾向",
+      "roleInScript": "往前偏",
+      "humorDevice": "morphology",
+      "zhGloss": "傾向",
+      "speakLineEn": "A proclivity for novelty biases editors.",
+      "speakLineZh": "嗜新傾向扭曲編輯。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "prodigal",
+      "inVocab": true,
+      "senseAnchor": "a recklessly extravagant consumer; recklessly wasteful",
+      "roleInScript": "向前灑",
+      "humorDevice": "morphology",
+      "zhGloss": "揮霍的",
+      "speakLineEn": "Be prodigal with openness, not with claims.",
+      "speakLineZh": "對開放要大方，對主張別揮霍。",
+      "related": {
+        "synonyms": "profligate, squanderer, extravagant, spendthrift",
+        "antonyms": "frugal, thrifty"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "prosaic",
+      "inVocab": true,
+      "senseAnchor": "common and dull",
+      "roleInScript": "日常往前",
+      "humorDevice": "morphology",
+      "zhGloss": "平凡的",
+      "speakLineEn": "Even prosaic checklists prevent disasters.",
+      "speakLineZh": "即使乏味檢核表也能防災。",
+      "related": {
+        "synonyms": "mundane, commonplace, routine",
+        "antonyms": "poetic, imaginative, extraordinary, unusual"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "protagonist",
+      "inVocab": true,
+      "senseAnchor": "a person who backs a politician or a team etc.; the principal character in a work of fiction",
+      "roleInScript": "前方人物",
+      "humorDevice": "morphology",
+      "zhGloss": "主角",
+      "speakLineEn": "Name the protagonist of the policy change.",
+      "speakLineZh": "點名政策變更的主角。",
+      "related": {
+        "synonyms": "supporter, champion, admirer, booster, friend, agonist",
+        "antonyms": "antagonist, opponent"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "procedural",
+      "inVocab": false,
+      "senseAnchor": "程序的",
+      "roleInScript": "向前走的程序",
+      "humorDevice": "morphology",
+      "zhGloss": "程序的",
+      "speakLineEn": "Procedural fairness matters in audits.",
+      "speakLineZh": "稽核中程序公平很重要。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "pro-＝向前：prodigal/protagonist/proclaim/procure/proclivity/proponent",
+    "prosaic＝乏味平凡"
+  ],
+  "pitfalls": [
+    "prodigal＝揮霍",
+    "prosaic＝平凡乏味"
+  ],
+  "lessonRefs": [
+    "lesson-prefix-pro-01"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch02-topup"
+  }
+}

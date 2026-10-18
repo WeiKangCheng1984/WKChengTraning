@@ -1,0 +1,208 @@
+{
+  "id": "root-nov-01",
+  "type": "root",
+  "elementLemma": "nov",
+  "titleZh": "nov｜新品發表會",
+  "titleEn": "Nov Novelty Launch",
+  "hook": "字根 nov＝新——發表會專管新東西與新手。",
+  "script": "novel／novelty 新奇。innovate／innovation 創新。renovate 翻新；novice 新手。innovative 創新的；nova 新星。",
+  "members": [
+    {
+      "headword": "novel",
+      "inVocab": false,
+      "senseAnchor": "新的；小說",
+      "roleInScript": "新玩意",
+      "humorDevice": "morphology",
+      "zhGloss": "新的；小說",
+      "speakLineEn": "A novel measure needs validation.",
+      "speakLineZh": "新測量需要驗證。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "novelty",
+      "inVocab": false,
+      "senseAnchor": "新奇",
+      "roleInScript": "新奇感",
+      "humorDevice": "morphology",
+      "zhGloss": "新奇",
+      "speakLineEn": "Novelty bias crowds out replication.",
+      "speakLineZh": "新奇偏差排擠複現。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "innovate",
+      "inVocab": false,
+      "senseAnchor": "創新",
+      "roleInScript": "做出新",
+      "humorDevice": "morphology",
+      "zhGloss": "創新",
+      "speakLineEn": "Innovate on sharing tools, not on hiding exclusions.",
+      "speakLineZh": "在共享工具上創新，而非隱藏排除。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "innovation",
+      "inVocab": false,
+      "senseAnchor": "創新",
+      "roleInScript": "新成果",
+      "humorDevice": "morphology",
+      "zhGloss": "創新",
+      "speakLineEn": "Process innovation can cut error rates.",
+      "speakLineZh": "流程創新能降低錯誤率。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "renovate",
+      "inVocab": true,
+      "senseAnchor": "restore to a previous or better condition; make brighter and prettier",
+      "roleInScript": "把舊變新",
+      "humorDevice": "morphology",
+      "zhGloss": "翻新；修復",
+      "speakLineEn": "Renovate legacy code before scaling.",
+      "speakLineZh": "擴張前先翻新舊程式碼。",
+      "related": {
+        "synonyms": "restitute, refurbish, animate, recreate, reanimate, revive",
+        "antonyms": "deaden, inanimate, insentient, dishearten"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "novice",
+      "inVocab": true,
+      "senseAnchor": "freshman, beginner",
+      "roleInScript": "新人",
+      "humorDevice": "morphology",
+      "zhGloss": "新手",
+      "speakLineEn": "Novice analysts need checklists.",
+      "speakLineZh": "新手分析者需要檢核表。",
+      "related": {
+        "synonyms": "fledgling, neophyte",
+        "antonyms": "veteran, expert"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "innovative",
+      "inVocab": false,
+      "senseAnchor": "創新的",
+      "roleInScript": "有新意的",
+      "humorDevice": "morphology",
+      "zhGloss": "創新的",
+      "speakLineEn": "Innovative visualization still needs axes labeled.",
+      "speakLineZh": "創新視覺化仍需標軸。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "nova",
+      "inVocab": false,
+      "senseAnchor": "新星",
+      "roleInScript": "突然亮",
+      "humorDevice": "story",
+      "zhGloss": "新星",
+      "speakLineEn": "A media nova faded after critique.",
+      "speakLineZh": "媒體新星在批評後黯淡。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "novitiate",
+      "inVocab": false,
+      "senseAnchor": "見習期",
+      "roleInScript": "新手期",
+      "humorDevice": "story",
+      "zhGloss": "見習期",
+      "speakLineEn": "Treat the first year as a novitiate in ethics.",
+      "speakLineZh": "把第一年當倫理見習期。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "nouveau",
+      "inVocab": false,
+      "senseAnchor": "新近的；暴發的",
+      "roleInScript": "新派",
+      "humorDevice": "story",
+      "zhGloss": "新近的；暴發的",
+      "speakLineEn": "Nouveau metrics need skeptical adoption.",
+      "speakLineZh": "新派指標需懷疑地採用。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "renew",
+      "inVocab": false,
+      "senseAnchor": "更新；恢復",
+      "roleInScript": "再變新",
+      "humorDevice": "story",
+      "zhGloss": "更新；恢復",
+      "speakLineEn": "Renew consent when protocols change.",
+      "speakLineZh": "規程變更時更新同意。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "renewal",
+      "inVocab": true,
+      "senseAnchor": "the conversion of wasteland into land suitable for use of habitation or cultivation; the act of renewing",
+      "roleInScript": "再新一輪",
+      "humorDevice": "story",
+      "zhGloss": "更新",
+      "speakLineEn": "License renewal triggered an audit.",
+      "speakLineZh": "授權更新觸發稽核。",
+      "related": {
+        "synonyms": "reclamation, rehabilitation, refilling, replenishment, replacement",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    }
+  ],
+  "reviewHooks": [
+    "nov＝新：novel/novelty/innovate/renovate/novice",
+    "novelty 嗜好可能排擠複現"
+  ],
+  "pitfalls": [
+    "novel 可作形容詞「新的」或名詞「小說」",
+    "novice＝新手"
+  ],
+  "lessonRefs": [
+    "lesson-root-nov-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch02"
+  }
+}

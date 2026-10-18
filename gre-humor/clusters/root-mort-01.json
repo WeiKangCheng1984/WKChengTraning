@@ -1,0 +1,208 @@
+{
+  "id": "root-mort-01",
+  "type": "root",
+  "elementLemma": "mor/mort",
+  "titleZh": "mort｜生死登記處",
+  "titleEn": "Mort Registry",
+  "hook": "字根 mort＝死——登記處專管終點與瀕死。",
+  "script": "mortal／mortality 會死與死亡率。immortal 不死。mortify 使羞愧欲死；moribund 瀕死。mortgage 抵押（把未來押死）；postmortem 事後檢討；mortuary 停屍間。",
+  "members": [
+    {
+      "headword": "mortal",
+      "inVocab": false,
+      "senseAnchor": "終有一死的；致命的",
+      "roleInScript": "會死的",
+      "humorDevice": "morphology",
+      "zhGloss": "終有一死的；致命的",
+      "speakLineEn": "Even famous theories are mortal.",
+      "speakLineZh": "即使著名理論也會死。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "immortal",
+      "inVocab": false,
+      "senseAnchor": "不朽的",
+      "roleInScript": "不死",
+      "humorDevice": "morphology",
+      "zhGloss": "不朽的",
+      "speakLineEn": "No dataset is immortal without curation.",
+      "speakLineZh": "沒有策展就沒有不朽資料集。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "mortality",
+      "inVocab": true,
+      "senseAnchor": "the quality or state of being mortal; the ratio of deaths in an area to the population of that area; expressed per 1000 per year",
+      "roleInScript": "死亡度量",
+      "humorDevice": "morphology",
+      "zhGloss": "死亡率；必死性",
+      "speakLineEn": "Report mortality with risk intervals.",
+      "speakLineZh": "報告死亡率請帶風險區間。",
+      "related": {
+        "synonyms": "deathrate",
+        "antonyms": "immortality"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "mortify",
+      "inVocab": true,
+      "senseAnchor": "practice self-denial of one's body and appetites; hold within limits and control",
+      "roleInScript": "羞到想死",
+      "humorDevice": "morphology",
+      "zhGloss": "使羞愧；抑制",
+      "speakLineEn": "Errors should mortify ego, not hide.",
+      "speakLineZh": "錯誤應讓自我羞愧，而非隱藏。",
+      "related": {
+        "synonyms": "subdue, crucify, humiliate, chagrin, humble, abase",
+        "antonyms": "proud"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "moribund",
+      "inVocab": true,
+      "senseAnchor": "not growing or changing; without force or vitality; being on the point of death; breathing your last",
+      "roleInScript": "快死掉",
+      "humorDevice": "morphology",
+      "zhGloss": "瀕死的；即將廢止的",
+      "speakLineEn": "A moribund journal still holds archives.",
+      "speakLineZh": "瀕死期刊仍有檔案。",
+      "related": {
+        "synonyms": "stagnant",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "mortgage",
+      "inVocab": true,
+      "senseAnchor": "a conditional conveyance of property as security for the repayment of a loan; put up as security or collateral",
+      "roleInScript": "押未來",
+      "humorDevice": "morphology",
+      "zhGloss": "抵押；按揭",
+      "speakLineEn": "Do not mortgage rigor for speed.",
+      "speakLineZh": "不要為速度抵押嚴謹。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "postmortem",
+      "inVocab": false,
+      "senseAnchor": "屍檢；事後檢討",
+      "roleInScript": "死後檢討",
+      "humorDevice": "morphology",
+      "zhGloss": "屍檢；事後檢討",
+      "speakLineEn": "Run a blameless postmortem on the failed launch.",
+      "speakLineZh": "對失敗上線做無責事後檢討。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "mortuary",
+      "inVocab": false,
+      "senseAnchor": "停屍間；殯儀相關",
+      "roleInScript": "死後存放",
+      "humorDevice": "morphology",
+      "zhGloss": "停屍間；殯儀相關",
+      "speakLineEn": "Treat retracted papers like a methods mortuary—learn, don't gossip.",
+      "speakLineZh": "把撤稿當方法停屍間：學習勿八卦。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "immortality",
+      "inVocab": false,
+      "senseAnchor": "不朽",
+      "roleInScript": "不死狀態",
+      "humorDevice": "story",
+      "zhGloss": "不朽",
+      "speakLineEn": "Seek immortality of methods, not of egos.",
+      "speakLineZh": "追求方法不朽而非自我不朽。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "mortician",
+      "inVocab": false,
+      "senseAnchor": "殯葬業者",
+      "roleInScript": "處理終點的人",
+      "humorDevice": "story",
+      "zhGloss": "殯葬業者",
+      "speakLineEn": "An editor can play mortician for dead claims.",
+      "speakLineZh": "編輯可為死主張扮演殯葬者。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "deathblow",
+      "inVocab": false,
+      "senseAnchor": "致命一擊",
+      "roleInScript": "打死一擊",
+      "humorDevice": "story",
+      "zhGloss": "致命一擊",
+      "speakLineEn": "A failed replication can be a deathblow to hype.",
+      "speakLineZh": "失敗複現可成炒作致命一擊。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "rigor mortis",
+      "inVocab": false,
+      "senseAnchor": "屍僵",
+      "roleInScript": "死後僵硬",
+      "humorDevice": "story",
+      "zhGloss": "屍僵",
+      "speakLineEn": "Avoid rigor mortis in outdated protocols.",
+      "speakLineZh": "避免過時規程像屍僵。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "mort＝死：mortal/mortality/mortify/moribund/postmortem",
+    "moribund＝瀕死／即將廢止"
+  ],
+  "pitfalls": [
+    "mortify 常＝使羞愧，不只「殺死」",
+    "postmortem＝事後檢討／屍檢"
+  ],
+  "lessonRefs": [
+    "lesson-root-mort-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch02"
+  }
+}

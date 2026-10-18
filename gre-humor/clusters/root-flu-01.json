@@ -1,0 +1,208 @@
+{
+  "id": "root-flu-01",
+  "type": "root",
+  "elementLemma": "flu",
+  "titleZh": "flu｜流動調度站",
+  "titleEn": "Flu Flow Station",
+  "hook": "字根 flu＝流——調度站專管什麼在流、流過量。",
+  "script": "fluent 流利；affluent 財源流進來。flux／influx 流動與湧入；fluctuate 上下波動。superfluous 流過頭變成多餘；mellifluous 蜜一樣流暢。confluence 匯流；effluent 流出物；fluid 流動態。",
+  "members": [
+    {
+      "headword": "fluent",
+      "inVocab": false,
+      "senseAnchor": "流利的",
+      "roleInScript": "流得順",
+      "humorDevice": "morphology",
+      "zhGloss": "流利的",
+      "speakLineEn": "Be fluent about uncertainty, not about hype.",
+      "speakLineZh": "對不確定性要說得流利，不是對炒作。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "affluent",
+      "inVocab": false,
+      "senseAnchor": "富裕的",
+      "roleInScript": "財流進來",
+      "humorDevice": "morphology",
+      "zhGloss": "富裕的",
+      "speakLineEn": "Affluent labs still need open methods.",
+      "speakLineZh": "富裕實驗室仍需開放方法。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "effluent",
+      "inVocab": false,
+      "senseAnchor": "流出物；污水",
+      "roleInScript": "流出去的髒",
+      "humorDevice": "morphology",
+      "zhGloss": "流出物；污水",
+      "speakLineEn": "Treat publication bias like toxic effluent.",
+      "speakLineZh": "把發表偏差當有毒流出物。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "flux",
+      "inVocab": true,
+      "senseAnchor": "the rate of flow of energy or particles across a given surface; a flow or discharge",
+      "roleInScript": "一直在流",
+      "humorDevice": "morphology",
+      "zhGloss": "流動；變動",
+      "speakLineEn": "Methods are in flux; document versions.",
+      "speakLineZh": "方法在變動中，請記錄版本。",
+      "related": {
+        "synonyms": "fluxion",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "influx",
+      "inVocab": true,
+      "senseAnchor": "the process of flowing in",
+      "roleInScript": "大量流入",
+      "humorDevice": "morphology",
+      "zhGloss": "湧入",
+      "speakLineEn": "An influx of datasets needs curation labor.",
+      "speakLineZh": "資料集湧入需要策展人力。",
+      "related": {
+        "synonyms": "inflow",
+        "antonyms": "efflux, outflow"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "fluctuate",
+      "inVocab": true,
+      "senseAnchor": "to change a lot in a regular way",
+      "roleInScript": "上下流",
+      "humorDevice": "morphology",
+      "zhGloss": "波動",
+      "speakLineEn": "Estimates fluctuate with inclusion rules.",
+      "speakLineZh": "估計隨納入規則波動。",
+      "related": {
+        "synonyms": "oscillate, waver, vacillate",
+        "antonyms": "stabilize, steady, decide, resolve"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "superfluous",
+      "inVocab": true,
+      "senseAnchor": "exceeding what is sufficient or necessary",
+      "roleInScript": "流過頭",
+      "humorDevice": "morphology",
+      "zhGloss": "多餘的",
+      "speakLineEn": "Cut superfluous adjectives from abstracts.",
+      "speakLineZh": "刪掉摘要裡多餘形容詞。",
+      "related": {
+        "synonyms": "excessive, redundant, surplus",
+        "antonyms": "necessary, essential"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "mellifluous",
+      "inVocab": true,
+      "senseAnchor": "pleasing to the ear",
+      "roleInScript": "蜜物流暢",
+      "humorDevice": "morphology",
+      "zhGloss": "聲音甜美的",
+      "speakLineEn": "Mellifluous prose can hide weak identification.",
+      "speakLineZh": "甜美文風可能掩蓋弱識別。",
+      "related": {
+        "synonyms": "dulcet, honeyed, mellisonant, sweet",
+        "antonyms": "dry, salty, sour"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "confluence",
+      "inVocab": false,
+      "senseAnchor": "匯流；匯合",
+      "roleInScript": "流到一起",
+      "humorDevice": "morphology",
+      "zhGloss": "匯流；匯合",
+      "speakLineEn": "A confluence of errors sank the claim.",
+      "speakLineZh": "錯誤匯流淹没主張。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "fluid",
+      "inVocab": false,
+      "senseAnchor": "流動的；流體",
+      "roleInScript": "未定型",
+      "humorDevice": "morphology",
+      "zhGloss": "流動的；流體",
+      "speakLineEn": "Keep categories fluid until coding stabilizes.",
+      "speakLineZh": "編碼穩定前讓類別保持流動。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "influence",
+      "inVocab": false,
+      "senseAnchor": "影響",
+      "roleInScript": "流入作用",
+      "humorDevice": "story",
+      "zhGloss": "影響",
+      "speakLineEn": "Disclose funding influence on framing.",
+      "speakLineZh": "揭露資助對框架的影響。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "reflux",
+      "inVocab": false,
+      "senseAnchor": "回流",
+      "roleInScript": "流回來",
+      "humorDevice": "story",
+      "zhGloss": "回流",
+      "speakLineEn": "Policy reflux followed the failed pilot.",
+      "speakLineZh": "失敗試點後政策回流。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "flu＝流：fluent/affluent/flux/influx/fluctuate/superfluous",
+    "superfluous＝多餘"
+  ],
+  "pitfalls": [
+    "affluent＝富裕（財流進）；effluent＝流出物／污水",
+    "superfluous≠superficial"
+  ],
+  "lessonRefs": [
+    "lesson-root-flu-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch02"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-lev-01",
+  "slug": "root-lev-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-lev-01",
+  "titleZh": "lev｜舉重與輕浮吊車",
+  "titleEn": "Lev Crane Yard",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 lev＝輕、舉——吊車專管舉起或減輕。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "alleviate 減輕；elevate 抬高。levity 輕浮；levy 徵收（抽起來）。leverage 槓桿用力；relevant／irrelevant 相關舉得上／舉不上。leaven 發酵舉起；lever 槓桿。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "lev＝舉／輕：alleviate/elevate/levity/levy/leverage",
+        "levity＝輕浮不當嚴肅"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Make less severe:",
+      "promptZh": "減輕：",
+      "choices": [
+        "alleviate",
+        "levy",
+        "levity",
+        "leaven"
+      ],
+      "answer": "alleviate"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Lack of seriousness:",
+      "promptZh": "輕浮：",
+      "choices": [
+        "levity",
+        "elevate",
+        "leverage",
+        "relevant"
+      ],
+      "answer": "levity"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Impose a tax or fee; collect:",
+      "promptZh": "徵收：",
+      "choices": [
+        "levy",
+        "lever",
+        "relief",
+        "forte"
+      ],
+      "answer": "levy"
+    }
+  ],
+  "pitfalls": [
+    "levy＝徵稅／徵收",
+    "alleviate＝減輕（痛苦／問題）"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch02"
+  }
+}

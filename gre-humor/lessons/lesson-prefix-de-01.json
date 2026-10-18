@@ -1,0 +1,97 @@
+{
+  "id": "lesson-prefix-de-01",
+  "slug": "prefix-de-01",
+  "season": 4,
+  "seasonTitleZh": "字首調味",
+  "seasonTitleEn": "Prefix Seasoning",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "prefix-de-01",
+  "titleZh": "de-｜向下拆除隊",
+  "titleEn": "De- Demolition Crew",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字首 de-＝向下／去除——拆除隊專管往下拆、貶、耗。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "debase 貶低品質；deplete 耗盡。deride 嘲笑；desecrate 褻瀆。deflect 偏轉；despondent 消沉。debunk 拆穿；defame 誹謗。denounce 公開譴責。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "de-＝向下：debase/deplete/deride/desecrate/deflect/debunk",
+        "despondent＝沮喪"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Use up; exhaust:",
+      "promptZh": "耗盡：",
+      "choices": [
+        "deplete",
+        "deride",
+        "deflect",
+        "forte"
+      ],
+      "answer": "deplete"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Expose as false:",
+      "promptZh": "揭穿：",
+      "choices": [
+        "debunk",
+        "debase",
+        "despondent",
+        "levy"
+      ],
+      "answer": "debunk"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Ridicule; mock:",
+      "promptZh": "嘲笑：",
+      "choices": [
+        "deride",
+        "adhere",
+        "infuse",
+        "renovate"
+      ],
+      "answer": "deride"
+    }
+  ],
+  "pitfalls": [
+    "debase＝貶低價值／品質",
+    "debunk＝揭穿謬誤"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch02"
+  }
+}

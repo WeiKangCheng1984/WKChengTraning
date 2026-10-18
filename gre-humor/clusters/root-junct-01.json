@@ -1,0 +1,208 @@
+{
+  "id": "root-junct-01",
+  "type": "root",
+  "elementLemma": "junct",
+  "titleZh": "junct｜接點調度台",
+  "titleEn": "Juncture Switchboard",
+  "hook": "字根 junct＝連接——調度台專管接點與禁令。",
+  "script": "junction 交叉接點；juncture 關鍵時刻接點。conjunction 合取連接；disjunction 析取分開。injunction 禁制令；adjunct 附加連接物。subjugate 壓下去統治；conjunct 連接的。",
+  "members": [
+    {
+      "headword": "junction",
+      "inVocab": false,
+      "senseAnchor": "交叉點；接點",
+      "roleInScript": "線路交會",
+      "humorDevice": "morphology",
+      "zhGloss": "交叉點；接點",
+      "speakLineEn": "At the junction of ethics and incentives, document both.",
+      "speakLineZh": "在倫理與誘因接點，兩者都記錄。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "juncture",
+      "inVocab": true,
+      "senseAnchor": "an event that occurs at a critical time; a crisis situation or point in time when a critical decision must be made",
+      "roleInScript": "關鍵接點",
+      "humorDevice": "morphology",
+      "zhGloss": "時刻；接點",
+      "speakLineEn": "This juncture calls for a registered report.",
+      "speakLineZh": "此刻需要註冊報告。",
+      "related": {
+        "synonyms": "occasion, crossroads, articulation, join, joint, junction",
+        "antonyms": "disjoin, separate"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "conjunction",
+      "inVocab": false,
+      "senseAnchor": "結合；連詞",
+      "roleInScript": "合在一起",
+      "humorDevice": "morphology",
+      "zhGloss": "結合；連詞",
+      "speakLineEn": "In conjunction with sensitivity checks, re-estimate.",
+      "speakLineZh": "結合敏感度檢查再估計。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "disjunction",
+      "inVocab": false,
+      "senseAnchor": "分離；析取",
+      "roleInScript": "接不上",
+      "humorDevice": "morphology",
+      "zhGloss": "分離；析取",
+      "speakLineEn": "Theory–data disjunction weakens the paper.",
+      "speakLineZh": "理論與資料分離削弱論文。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "injunction",
+      "inVocab": false,
+      "senseAnchor": "禁制令；命令",
+      "roleInScript": "禁止連接某行為",
+      "humorDevice": "morphology",
+      "zhGloss": "禁制令；命令",
+      "speakLineEn": "An injunction blocked further scraping.",
+      "speakLineZh": "禁制令阻擋繼續爬取。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "adjunct",
+      "inVocab": true,
+      "senseAnchor": "something joined or added to another thing but not essentially a part of it",
+      "roleInScript": "附加接上",
+      "humorDevice": "morphology",
+      "zhGloss": "附屬物；助理",
+      "speakLineEn": "Treat a blog post as an adjunct, not primary evidence.",
+      "speakLineZh": "部落格當附屬非主要證據。",
+      "related": {
+        "synonyms": "attachment",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "subjugate",
+      "inVocab": true,
+      "senseAnchor": "put down by force or intimidation; make subservient; force to submit or subdue",
+      "roleInScript": "壓接統治",
+      "humorDevice": "morphology",
+      "zhGloss": "征服；使屈服",
+      "speakLineEn": "Do not subjugate methods to marketing.",
+      "speakLineZh": "不要讓方法屈服於行銷。",
+      "related": {
+        "synonyms": "repress, quash, subdue, reduce, subject",
+        "antonyms": "express, release, validate, blow up, expand, gain, oxidise, oxidize"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "conjunct",
+      "inVocab": false,
+      "senseAnchor": "連接的；結合的",
+      "roleInScript": "接上的",
+      "humorDevice": "morphology",
+      "zhGloss": "連接的；結合的",
+      "speakLineEn": "Conjunct hypotheses need joint tests.",
+      "speakLineZh": "結合假說需要聯合檢定。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "injunctive",
+      "inVocab": false,
+      "senseAnchor": "禁令的；勸告的",
+      "roleInScript": "命令語氣",
+      "humorDevice": "story",
+      "zhGloss": "禁令的；勸告的",
+      "speakLineEn": "Injunctive norms shape lab culture.",
+      "speakLineZh": "勸告性規範形塑實驗室文化。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "joined",
+      "inVocab": false,
+      "senseAnchor": "已連接",
+      "roleInScript": "接好了",
+      "humorDevice": "story",
+      "zhGloss": "已連接",
+      "speakLineEn": "Joined datasets need linkage audits.",
+      "speakLineZh": "已連接資料集需連結稽核。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "rejoin",
+      "inVocab": true,
+      "senseAnchor": "join again; answer back",
+      "roleInScript": "重新接回",
+      "humorDevice": "story",
+      "zhGloss": "再加入；回答",
+      "speakLineEn": "Rejoin the consortium after fixing leaks.",
+      "speakLineZh": "修補洩漏後再加入聯盟。",
+      "related": {
+        "synonyms": "retort, repay, return, riposte",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "disjoint",
+      "inVocab": false,
+      "senseAnchor": "不相交的",
+      "roleInScript": "沒接上",
+      "humorDevice": "story",
+      "zhGloss": "不相交的",
+      "speakLineEn": "Use disjoint training and test sets.",
+      "speakLineZh": "使用不相交訓練／測試集。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "junct＝接：junction/juncture/conjunction/injunction/adjunct",
+    "injunction＝禁制令"
+  ],
+  "pitfalls": [
+    "juncture＝關鍵時刻／接點",
+    "subjugate＝征服／使屈服"
+  ],
+  "lessonRefs": [
+    "lesson-root-junct-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch02"
+  }
+}

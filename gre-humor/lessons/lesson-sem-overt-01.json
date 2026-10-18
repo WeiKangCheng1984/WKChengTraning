@@ -1,0 +1,97 @@
+{
+  "id": "lesson-sem-overt-01",
+  "slug": "sem-overt-01",
+  "season": 3,
+  "seasonTitleZh": "語氣對打",
+  "seasonTitleEn": "Tone Duels",
+  "type": "duel",
+  "minutes": "12-15",
+  "clusterId": "sem-overt-01",
+  "titleZh": "公開↔隱密｜對打擂台",
+  "titleEn": "Overt vs Covert Duel",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "語義對打：公開可見 vs 偷偷摸摸——考場超愛對照。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "公開隊：overt 公開，patent／manifest 明顯，transparent 透明。隱密隊：covert 隱蔽，clandestine 祕密，surreptitious／furtive 偷偷摸摸，latent／occult 潛藏，stealth 隱身。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "公開：overt/patent/manifest/transparent",
+        "隱密：covert/clandestine/surreptitious/furtive"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "lookalike",
+      "promptEn": "Open vs hidden:",
+      "promptZh": "公開 vs 隱蔽：",
+      "choices": [
+        "overt / covert",
+        "covert / overt",
+        "latent / patent",
+        "stealth / manifest"
+      ],
+      "answer": "overt / covert"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Done secretly; sneaky:",
+      "promptZh": "偷偷摸摸：",
+      "choices": [
+        "surreptitious",
+        "patent",
+        "manifest",
+        "transparent"
+      ],
+      "answer": "surreptitious"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Present but not yet visible:",
+      "promptZh": "潛在／潛伏：",
+      "choices": [
+        "latent",
+        "overt",
+        "clandestine",
+        "opaque"
+      ],
+      "answer": "latent"
+    }
+  ],
+  "pitfalls": [
+    "overt ↔ covert 成對記",
+    "patent 可指明顯或專利，看語境"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch01"
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "id": "root-solv-01",
+  "type": "root",
+  "elementLemma": "solv/solut",
+  "titleZh": "solv｜溶解與解方實驗室",
+  "titleEn": "Solvent Lab",
+  "hook": "字根 solv＝解、鬆——實驗室專管溶解問題與責任。",
+  "script": "solve 解開；dissolve 溶解散去。resolve 下決心解開／決議；absolve 解除罪責。soluble 可溶，solvent 溶劑／有償債力。solution 解方；irresolute 猶豫不解。resolute 堅決；dissolute 放蕩無約束像道德溶解。",
+  "members": [
+    {
+      "headword": "solve",
+      "inVocab": false,
+      "senseAnchor": "解決；解答",
+      "roleInScript": "解開",
+      "humorDevice": "morphology",
+      "zhGloss": "解決；解答",
+      "speakLineEn": "Solve identification before claiming causation.",
+      "speakLineZh": "宣稱因果前先解決識別問題。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "dissolve",
+      "inVocab": false,
+      "senseAnchor": "溶解；解散",
+      "roleInScript": "溶散",
+      "humorDevice": "morphology",
+      "zhGloss": "溶解；解散",
+      "speakLineEn": "Trust can dissolve after one opaque correction.",
+      "speakLineZh": "一次不透明勘誤就能溶解信任。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "resolve",
+      "inVocab": false,
+      "senseAnchor": "解決；決心；決議",
+      "roleInScript": "下決心解開",
+      "humorDevice": "morphology",
+      "zhGloss": "解決；決心；決議",
+      "speakLineEn": "Resolve disputes with shared code, not status.",
+      "speakLineZh": "用共享程式碼解決爭議，非地位。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "absolve",
+      "inVocab": true,
+      "senseAnchor": "grant remission of a sin to; let off the hook",
+      "roleInScript": "解開罪責",
+      "humorDevice": "morphology",
+      "zhGloss": "赦免；解除責任",
+      "speakLineEn": "A disclaimer does not absolve sloppy measurement.",
+      "speakLineZh": "免責聲明不解脫草率測量。",
+      "related": {
+        "synonyms": "shrive, justify, free",
+        "antonyms": "blame"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "soluble",
+      "inVocab": false,
+      "senseAnchor": "可溶的；可解決的",
+      "roleInScript": "可溶解",
+      "humorDevice": "morphology",
+      "zhGloss": "可溶的；可解決的",
+      "speakLineEn": "Not every conflict is soluble by more data.",
+      "speakLineZh": "不是每個衝突都能靠更多資料溶解。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "solvent",
+      "inVocab": true,
+      "senseAnchor": "a liquid substance capable of dissolving other substances; a statement that solves a problem or explains how to solve the problem",
+      "roleInScript": "能溶／能償",
+      "humorDevice": "morphology",
+      "zhGloss": "溶劑；有清償力的",
+      "speakLineEn": "A solvent explanation dissolves the paradox.",
+      "speakLineZh": "有力解釋能溶解悖論。",
+      "related": {
+        "synonyms": "dissolvent, dissolver, resolvent, solution, answer, result",
+        "antonyms": "insolvent"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "solution",
+      "inVocab": false,
+      "senseAnchor": "溶液；解決方案",
+      "roleInScript": "解方",
+      "humorDevice": "story",
+      "zhGloss": "溶液；解決方案",
+      "speakLineEn": "The solution was narrower inclusion criteria.",
+      "speakLineZh": "解方是更窄的納入標準。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "irresolute",
+      "inVocab": true,
+      "senseAnchor": "uncertain how to act or proceed",
+      "roleInScript": "解不開決心",
+      "humorDevice": "morphology",
+      "zhGloss": "猶豫不決的",
+      "speakLineEn": "Irresolute leadership stalls preregistration norms.",
+      "speakLineZh": "猶豫領導拖延預註冊規範。",
+      "related": {
+        "synonyms": "",
+        "antonyms": "decisive, resolute"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "resolute",
+      "inVocab": false,
+      "senseAnchor": "堅決的",
+      "roleInScript": "決心已解鎖",
+      "humorDevice": "morphology",
+      "zhGloss": "堅決的",
+      "speakLineEn": "Be resolute about sharing negative results.",
+      "speakLineZh": "對分享陰性結果要堅決。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "dissolute",
+      "inVocab": true,
+      "senseAnchor": "unrestrained by convention or morality",
+      "roleInScript": "道德溶解",
+      "humorDevice": "morphology",
+      "zhGloss": "放蕩的",
+      "speakLineEn": "A dissolute citation culture ignores primary sources.",
+      "speakLineZh": "放蕩的引用文化忽略一手來源。",
+      "related": {
+        "synonyms": "debauched, degenerate, degraded, dissipated, libertine, profligate",
+        "antonyms": "recuperate, aggrade"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "resolution",
+      "inVocab": false,
+      "senseAnchor": "決議；解析度；決心",
+      "roleInScript": "解出來的決定",
+      "humorDevice": "story",
+      "zhGloss": "決議；解析度；決心",
+      "speakLineEn": "Pass a resolution requiring data deposits.",
+      "speakLineZh": "通過要求寄存資料的決議。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "insoluble",
+      "inVocab": false,
+      "senseAnchor": "不能溶解／解決的",
+      "roleInScript": "解不開",
+      "humorDevice": "morphology",
+      "zhGloss": "不能溶解／解決的",
+      "speakLineEn": "Some ethical trade-offs remain insoluble.",
+      "speakLineZh": "有些倫理取捨仍然無解。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "solv＝解：solve/dissolve/resolve/absolve/soluble",
+    "absolve＝解除罪責"
+  ],
+  "pitfalls": [
+    "resolve 可指決心或決議，看語境",
+    "dissolute＝放蕩，不是 dissolve 的簡單形容詞"
+  ],
+  "lessonRefs": [
+    "lesson-root-solv-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch01"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-fus-01",
+  "slug": "root-fus-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-fus-01",
+  "titleZh": "fus｜澆熔混合廠",
+  "titleEn": "Fus Pouring Plant",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 fus＝澆、熔——工廠把東西澆在一起或澆散。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "infuse 注入；profuse 澆得過多。effusive 感情傾瀉；diffuse 擴散澆開。confuse 混澆搞糊；refuse 拒絕不收澆。suffuse 瀰漫；transfuse 輸注。fusion 熔合；infusion 浸泡注入。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "fus＝澆：infuse/profuse/effusive/diffuse/confuse",
+        "profuse＝大量的"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Abundant; plentiful:",
+      "promptZh": "大量的：",
+      "choices": [
+        "profuse",
+        "refuse",
+        "fusion",
+        "confuse"
+      ],
+      "answer": "profuse"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Overflowing with emotion:",
+      "promptZh": "感情洋溢：",
+      "choices": [
+        "effusive",
+        "infuse",
+        "suffuse",
+        "transfuse"
+      ],
+      "answer": "effusive"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Spread out; wordy/unfocused:",
+      "promptZh": "擴散／冗散：",
+      "choices": [
+        "diffuse",
+        "forte",
+        "fortify",
+        "levy"
+      ],
+      "answer": "diffuse"
+    }
+  ],
+  "pitfalls": [
+    "diffuse 可作動詞擴散或形容詞冗散",
+    "effusive＝溢於言表，常偏感情"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch02"
+  }
+}

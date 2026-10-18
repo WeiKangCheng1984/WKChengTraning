@@ -1,0 +1,97 @@
+{
+  "id": "lesson-look-ingenious-01",
+  "slug": "look-ingenious-01",
+  "season": 3,
+  "seasonTitleZh": "語氣對打",
+  "seasonTitleEn": "Tone Duels",
+  "type": "duel",
+  "minutes": "12-15",
+  "clusterId": "look-ingenious-01",
+  "titleZh": "ingenious／ingenuous｜巧思 vs 天真對決",
+  "titleEn": "Ingenious vs Ingenuous",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "只差一點點拼寫：巧妙機智 vs 天真率直——高頻易混。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "ingenious＝有 ingenuity（巧思）；ingenuous＝近於 naive／candid（天真率直）。再對打：genius 天才氣場，disingenuous 不誠實地裝天真。考試最愛用 ingenuous 考「單純」不是「聰明」。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "ingenious＝巧妙；ingenuous＝天真率直",
+        "disingenuous＝假惺惺"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "lookalike",
+      "promptEn": "Clever vs innocent/sincere:",
+      "promptZh": "巧妙 vs 天真：",
+      "choices": [
+        "ingenious / ingenuous",
+        "ingenuous / ingenious",
+        "artful / naive",
+        "crafty / candor"
+      ],
+      "answer": "ingenious / ingenuous"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Pretending sincerity; insincere:",
+      "promptZh": "假惺惺：",
+      "choices": [
+        "disingenuous",
+        "ingenuity",
+        "guileless",
+        "resourceful"
+      ],
+      "answer": "disingenuous"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Cleverness; inventiveness:",
+      "promptZh": "巧思：",
+      "choices": [
+        "ingenuity",
+        "ingenuous",
+        "simpleminded",
+        "naive"
+      ],
+      "answer": "ingenuity"
+    }
+  ],
+  "pitfalls": [
+    "ingenuous 不是 ingenious 的誤拼",
+    "disingenuous＝不真誠"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch01"
+  }
+}

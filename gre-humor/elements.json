@@ -17,7 +17,7 @@
     "priorityA": 87,
     "priorityB": 181,
     "priorityC": 63,
-    "withCluster": 44
+    "withCluster": 81
   },
   "elements": [
     {
@@ -62,8 +62,10 @@
       "lemma": "de-",
       "glossZh": "向下／去除",
       "priority": "A",
-      "clusterIds": [],
-      "status": "listed"
+      "clusterIds": [
+        "prefix-de-01"
+      ],
+      "status": "clustered"
     },
     {
       "id": "prefix-006",
@@ -71,8 +73,10 @@
       "lemma": "dis-",
       "glossZh": "分開／否定",
       "priority": "A",
-      "clusterIds": [],
-      "status": "listed"
+      "clusterIds": [
+        "prefix-dis-01"
+      ],
+      "status": "clustered"
     },
     {
       "id": "prefix-007",
@@ -80,8 +84,10 @@
       "lemma": "ex-/e-",
       "glossZh": "向外／前",
       "priority": "A",
-      "clusterIds": [],
-      "status": "listed"
+      "clusterIds": [
+        "prefix-ex-01"
+      ],
+      "status": "clustered"
     },
     {
       "id": "prefix-008",
@@ -89,8 +95,10 @@
       "lemma": "in-/im-",
       "glossZh": "進入／否定（依詞而定）",
       "priority": "A",
-      "clusterIds": [],
-      "status": "listed"
+      "clusterIds": [
+        "prefix-in-01"
+      ],
+      "status": "clustered"
     },
     {
       "id": "prefix-009",
@@ -107,8 +115,10 @@
       "lemma": "ob-",
       "glossZh": "迎向／反對",
       "priority": "A",
-      "clusterIds": [],
-      "status": "listed"
+      "clusterIds": [
+        "prefix-ob-01"
+      ],
+      "status": "clustered"
     },
     {
       "id": "prefix-011",
@@ -125,8 +135,10 @@
       "lemma": "pre-",
       "glossZh": "在前／預先",
       "priority": "A",
-      "clusterIds": [],
-      "status": "listed"
+      "clusterIds": [
+        "prefix-pre-01"
+      ],
+      "status": "clustered"
     },
     {
       "id": "prefix-013",
@@ -422,8 +434,10 @@
       "lemma": "bene-",
       "glossZh": "好",
       "priority": "A",
-      "clusterIds": [],
-      "status": "listed"
+      "clusterIds": [
+        "prefix-bene-mal-01"
+      ],
+      "status": "clustered"
     },
     {
       "id": "prefix-046",
@@ -521,9 +535,10 @@
       "glossZh": "轉",
       "priority": "A",
       "clusterIds": [
-        "root-vert-01"
+        "root-vert-01",
+        "sem-overt-01"
       ],
-      "status": "listed"
+      "status": "clustered"
     },
     {
       "id": "root-056",
@@ -531,8 +546,11 @@
       "lemma": "gen",
       "glossZh": "生、種",
       "priority": "A",
-      "clusterIds": [],
-      "status": "listed"
+      "clusterIds": [
+        "root-gen-01",
+        "look-ingenious-01"
+      ],
+      "status": "clustered"
     },
     {
       "id": "root-057",
@@ -640,9 +658,10 @@
       "glossZh": "持、握",
       "priority": "A",
       "clusterIds": [
-        "root-ten-01"
+        "root-ten-01",
+        "root-tend-01"
       ],
-      "status": "listed"
+      "status": "clustered"
     },
     {
       "id": "root-067",
@@ -825,8 +844,10 @@
       "lemma": "flu",
       "glossZh": "流",
       "priority": "B",
-      "clusterIds": [],
-      "status": "listed"
+      "clusterIds": [
+        "root-flu-01"
+      ],
+      "status": "clustered"
     },
     {
       "id": "root-085",
@@ -834,8 +855,10 @@
       "lemma": "fort",
       "glossZh": "強",
       "priority": "B",
-      "clusterIds": [],
-      "status": "listed"
+      "clusterIds": [
+        "root-fort-01"
+      ],
+      "status": "clustered"
     },
     {
       "id": "root-086",
@@ -852,8 +875,10 @@
       "lemma": "fus",
       "glossZh": "澆、熔",
       "priority": "B",
-      "clusterIds": [],
-      "status": "listed"
+      "clusterIds": [
+        "root-fus-01"
+      ],
+      "status": "clustered"
     },
     {
       "id": "root-088",
@@ -861,8 +886,10 @@
       "lemma": "greg",
       "glossZh": "群",
       "priority": "B",
-      "clusterIds": [],
-      "status": "listed"
+      "clusterIds": [
+        "root-greg-01"
+      ],
+      "status": "clustered"
     },
     {
       "id": "root-089",
@@ -870,8 +897,10 @@
       "lemma": "her/hes",
       "glossZh": "黏",
       "priority": "B",
-      "clusterIds": [],
-      "status": "listed"
+      "clusterIds": [
+        "root-her-01"
+      ],
+      "status": "clustered"
     },
     {
       "id": "root-090",
@@ -890,8 +919,10 @@
       "lemma": "junct",
       "glossZh": "連接",
       "priority": "B",
-      "clusterIds": [],
-      "status": "listed"
+      "clusterIds": [
+        "root-junct-01"
+      ],
+      "status": "clustered"
     },
     {
       "id": "root-092",
@@ -908,8 +939,10 @@
       "lemma": "leg/lect",
       "glossZh": "選、讀、法",
       "priority": "A",
-      "clusterIds": [],
-      "status": "listed"
+      "clusterIds": [
+        "root-leg-01"
+      ],
+      "status": "clustered"
     },
     {
       "id": "root-094",
@@ -917,8 +950,10 @@
       "lemma": "lev",
       "glossZh": "輕、舉",
       "priority": "B",
-      "clusterIds": [],
-      "status": "listed"
+      "clusterIds": [
+        "root-lev-01"
+      ],
+      "status": "clustered"
     },
     {
       "id": "root-095",
@@ -944,8 +979,10 @@
       "lemma": "luc/lum",
       "glossZh": "光",
       "priority": "B",
-      "clusterIds": [],
-      "status": "listed"
+      "clusterIds": [
+        "root-luc-01"
+      ],
+      "status": "clustered"
     },
     {
       "id": "root-098",
@@ -1034,8 +1071,10 @@
       "lemma": "migr",
       "glossZh": "移",
       "priority": "B",
-      "clusterIds": [],
-      "status": "listed"
+      "clusterIds": [
+        "look-emigrate-01"
+      ],
+      "status": "clustered"
     },
     {
       "id": "root-108",
@@ -1061,8 +1100,10 @@
       "lemma": "mob/mot/mov",
       "glossZh": "動",
       "priority": "A",
-      "clusterIds": [],
-      "status": "listed"
+      "clusterIds": [
+        "root-mot-01"
+      ],
+      "status": "clustered"
     },
     {
       "id": "root-111",
@@ -1079,8 +1120,10 @@
       "lemma": "mor/mort",
       "glossZh": "死",
       "priority": "B",
-      "clusterIds": [],
-      "status": "listed"
+      "clusterIds": [
+        "root-mort-01"
+      ],
+      "status": "clustered"
     },
     {
       "id": "root-113",
@@ -1124,8 +1167,10 @@
       "lemma": "neg",
       "glossZh": "否",
       "priority": "A",
-      "clusterIds": [],
-      "status": "listed"
+      "clusterIds": [
+        "root-neg-01"
+      ],
+      "status": "clustered"
     },
     {
       "id": "root-118",
@@ -1142,8 +1187,10 @@
       "lemma": "nomen/nym",
       "glossZh": "名",
       "priority": "A",
-      "clusterIds": [],
-      "status": "listed"
+      "clusterIds": [
+        "root-nym-01"
+      ],
+      "status": "clustered"
     },
     {
       "id": "root-120",
@@ -1151,8 +1198,10 @@
       "lemma": "nov",
       "glossZh": "新",
       "priority": "B",
-      "clusterIds": [],
-      "status": "listed"
+      "clusterIds": [
+        "root-nov-01"
+      ],
+      "status": "clustered"
     },
     {
       "id": "root-121",
@@ -1326,8 +1375,10 @@
       "lemma": "pot",
       "glossZh": "能、力",
       "priority": "B",
-      "clusterIds": [],
-      "status": "listed"
+      "clusterIds": [
+        "root-pot-01"
+      ],
+      "status": "clustered"
     },
     {
       "id": "root-140",
@@ -1398,8 +1449,10 @@
       "lemma": "punct",
       "glossZh": "點、刺",
       "priority": "B",
-      "clusterIds": [],
-      "status": "listed"
+      "clusterIds": [
+        "root-punct-01"
+      ],
+      "status": "clustered"
     },
     {
       "id": "root-148",
@@ -1416,8 +1469,10 @@
       "lemma": "quer/quis",
       "glossZh": "問、求",
       "priority": "A",
-      "clusterIds": [],
-      "status": "listed"
+      "clusterIds": [
+        "root-quis-01"
+      ],
+      "status": "clustered"
     },
     {
       "id": "root-150",
@@ -1524,8 +1579,10 @@
       "lemma": "sci",
       "glossZh": "知",
       "priority": "A",
-      "clusterIds": [],
-      "status": "listed"
+      "clusterIds": [
+        "root-sci-01"
+      ],
+      "status": "clustered"
     },
     {
       "id": "root-162",
@@ -1551,8 +1608,10 @@
       "lemma": "sec/sect",
       "glossZh": "切",
       "priority": "B",
-      "clusterIds": [],
-      "status": "listed"
+      "clusterIds": [
+        "root-sequ-01"
+      ],
+      "status": "clustered"
     },
     {
       "id": "root-165",
@@ -1560,8 +1619,10 @@
       "lemma": "sed/sess/sid",
       "glossZh": "坐",
       "priority": "A",
-      "clusterIds": [],
-      "status": "listed"
+      "clusterIds": [
+        "root-sed-01"
+      ],
+      "status": "clustered"
     },
     {
       "id": "root-166",
@@ -1634,8 +1695,10 @@
       "lemma": "sol",
       "glossZh": "獨／日（依詞）",
       "priority": "B",
-      "clusterIds": [],
-      "status": "listed"
+      "clusterIds": [
+        "root-solv-01"
+      ],
+      "status": "clustered"
     },
     {
       "id": "root-174",
@@ -1688,8 +1751,10 @@
       "lemma": "spir",
       "glossZh": "呼吸",
       "priority": "B",
-      "clusterIds": [],
-      "status": "listed"
+      "clusterIds": [
+        "rhyme-spir-01"
+      ],
+      "status": "clustered"
     },
     {
       "id": "root-180",
@@ -1989,8 +2054,10 @@
       "lemma": "ver",
       "glossZh": "真",
       "priority": "A",
-      "clusterIds": [],
-      "status": "listed"
+      "clusterIds": [
+        "sem-brief-01"
+      ],
+      "status": "clustered"
     },
     {
       "id": "root-213",
@@ -2036,8 +2103,10 @@
       "lemma": "vinc/vict",
       "glossZh": "勝",
       "priority": "A",
-      "clusterIds": [],
-      "status": "listed"
+      "clusterIds": [
+        "root-vinc-01"
+      ],
+      "status": "clustered"
     },
     {
       "id": "root-218",
@@ -2134,8 +2203,10 @@
       "lemma": "-ude/-ute",
       "glossZh": "抽象質地族（候選）",
       "priority": "B",
-      "clusterIds": [],
-      "status": "listed"
+      "clusterIds": [
+        "rhyme-ude-01"
+      ],
+      "status": "clustered"
     },
     {
       "id": "rhyme-228",
@@ -2197,8 +2268,10 @@
       "lemma": "-ound/-aunt",
       "glossZh": "ound/aunt 押韻族（候選）",
       "priority": "A",
-      "clusterIds": [],
-      "status": "listed"
+      "clusterIds": [
+        "rhyme-ound-01"
+      ],
+      "status": "clustered"
     },
     {
       "id": "rhyme-235",
@@ -2630,8 +2703,10 @@
       "lemma": "honest-vs-deceit",
       "glossZh": "誠實↔欺瞞",
       "priority": "A",
-      "clusterIds": [],
-      "status": "listed"
+      "clusterIds": [
+        "sem-honest-01"
+      ],
+      "status": "clustered"
     },
     {
       "id": "semantic-282",
@@ -2747,8 +2822,10 @@
       "lemma": "rigid-vs-flexible",
       "glossZh": "僵固↔彈性",
       "priority": "B",
-      "clusterIds": [],
-      "status": "listed"
+      "clusterIds": [
+        "sem-rigid-01"
+      ],
+      "status": "clustered"
     },
     {
       "id": "semantic-295",

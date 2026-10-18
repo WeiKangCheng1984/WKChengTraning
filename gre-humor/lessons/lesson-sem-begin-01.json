@@ -1,0 +1,97 @@
+{
+  "id": "lesson-sem-begin-01",
+  "slug": "sem-begin-01",
+  "season": 3,
+  "seasonTitleZh": "語氣對打",
+  "seasonTitleEn": "Tone Duels",
+  "type": "duel",
+  "minutes": "12-15",
+  "clusterId": "sem-begin-01",
+  "titleZh": "始↔終｜對打擂台",
+  "titleEn": "Begin vs End Duel",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "語義對打：開始萌芽 vs 終止收場——篇章與過程語氣。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "始：commence／inception／incipient／nascent／originate／inaugurate／embryonic／rudimentary。終：terminate／cessation／expire／culminate／abortive／closure／denouement。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "始：commence/inception/incipient/nascent",
+        "終：terminate/cessation/culminate/abortive"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Just beginning:",
+      "promptZh": "剛開始／萌芽：",
+      "choices": [
+        "incipient",
+        "terminate",
+        "prolix",
+        "egregious"
+      ],
+      "answer": "incipient"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Failed; unsuccessful attempt:",
+      "promptZh": "失敗的嘗試：",
+      "choices": [
+        "abortive",
+        "nascent",
+        "succinct",
+        "forte"
+      ],
+      "answer": "abortive"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Reach a climax or final high point:",
+      "promptZh": "達到頂點：",
+      "choices": [
+        "culminate",
+        "commence",
+        "levity",
+        "puncture"
+      ],
+      "answer": "culminate"
+    }
+  ],
+  "pitfalls": [
+    "incipient／nascent＝剛開始",
+    "abortive＝失敗／流產的嘗試"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch02-topup"
+  }
+}

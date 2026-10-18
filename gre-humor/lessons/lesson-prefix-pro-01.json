@@ -1,0 +1,97 @@
+{
+  "id": "lesson-prefix-pro-01",
+  "slug": "prefix-pro-01",
+  "season": 4,
+  "seasonTitleZh": "字首調味",
+  "seasonTitleEn": "Prefix Seasoning",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "prefix-pro-01",
+  "titleZh": "pro-｜向前推進器",
+  "titleEn": "Pro- Thruster",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字首 pro-＝向前／贊成——推進器專管往前推與公開主張。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "prodigal 向前揮霍；prosaic 平凡日常。protagonist 前方主角；proclaim 向前宣告。procure 設法取得；proclivity 傾向向前。proponent 贊成者；prospect／prospective 前瞻。proceed／propel 往前推進。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "pro-＝向前：prodigal/protagonist/proclaim/procure/proclivity/proponent",
+        "prosaic＝乏味平凡"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Wastefully extravagant:",
+      "promptZh": "揮霍：",
+      "choices": [
+        "prodigal",
+        "prosaic",
+        "succinct",
+        "moribund"
+      ],
+      "answer": "prodigal"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Ordinary; dull:",
+      "promptZh": "平凡乏味：",
+      "choices": [
+        "prosaic",
+        "prodigal",
+        "incisive",
+        "pellucid"
+      ],
+      "answer": "prosaic"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Tendency; inclination:",
+      "promptZh": "傾向：",
+      "choices": [
+        "proclivity",
+        "puncture",
+        "platitude",
+        "cessation"
+      ],
+      "answer": "proclivity"
+    }
+  ],
+  "pitfalls": [
+    "prodigal＝揮霍",
+    "prosaic＝平凡乏味"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch02-topup"
+  }
+}

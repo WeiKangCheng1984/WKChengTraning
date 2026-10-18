@@ -1,0 +1,97 @@
+{
+  "id": "lesson-prefix-bene-mal-01",
+  "slug": "prefix-bene-mal-01",
+  "season": 4,
+  "seasonTitleZh": "字首調味",
+  "seasonTitleEn": "Prefix Seasoning",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "prefix-bene-mal-01",
+  "titleZh": "bene↔mal｜好壞雙開關",
+  "titleEn": "Bene vs Mal Switches",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字首 bene＝好、mal＝壞——同一機器兩種開關。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "benevolent 好心腸；benefactor 做好事的金主；benign 良性／和善。對面：malign 惡意中傷，malicious 惡意的，malady 病痛，malfeasance 瀆職惡行，malevolent 惡意的。記法：bene～benefit；mal～malice。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "bene＝好：benevolent/benefactor/benign",
+        "mal＝壞：malign/malicious/malady/malfeasance"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "lookalike",
+      "promptEn": "Kind vs spiteful intent:",
+      "promptZh": "仁慈 vs 惡意：",
+      "choices": [
+        "benevolent / malevolent",
+        "malevolent / benevolent",
+        "benign / benefit",
+        "malady / malign"
+      ],
+      "answer": "benevolent / malevolent"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Wrongdoing by an official/professional:",
+      "promptZh": "瀆職／不法：",
+      "choices": [
+        "malfeasance",
+        "benefactor",
+        "benign",
+        "benefit"
+      ],
+      "answer": "malfeasance"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Mild; not harmful (often medical):",
+      "promptZh": "良性／和善：",
+      "choices": [
+        "benign",
+        "malicious",
+        "malady",
+        "malediction"
+      ],
+      "answer": "benign"
+    }
+  ],
+  "pitfalls": [
+    "benign 醫療＝良性；人格＝和善",
+    "malign 可作動詞「誹謗」或形容詞「惡性的」"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch01"
+  }
+}

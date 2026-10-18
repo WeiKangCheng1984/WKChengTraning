@@ -1,0 +1,208 @@
+{
+  "id": "root-fort-01",
+  "type": "root",
+  "elementLemma": "fort",
+  "titleZh": "fort｜要塞勇氣營",
+  "titleEn": "Fort Courage Camp",
+  "hook": "字根 fort＝強——要塞裡練的是力氣與運氣。",
+  "script": "fortify 加固；fortitude 堅忍力。fortuitous 偶然的強運；forte 強項。fortress 堡壘；fortification 防禦工事。effort 出力；comfort 給力安慰。",
+  "members": [
+    {
+      "headword": "fortify",
+      "inVocab": false,
+      "senseAnchor": "加固；強化",
+      "roleInScript": "加防衛",
+      "humorDevice": "morphology",
+      "zhGloss": "加固；強化",
+      "speakLineEn": "Fortify claims with robustness checks.",
+      "speakLineZh": "用穩健檢查加固主張。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "fortitude",
+      "inVocab": true,
+      "senseAnchor": "strength of mind that enables one to endure adversity with courage",
+      "roleInScript": "內在強",
+      "humorDevice": "morphology",
+      "zhGloss": "堅忍；剛毅",
+      "speakLineEn": "Replication work takes quiet fortitude.",
+      "speakLineZh": "複現工作需要安靜的剛毅。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "fortuitous",
+      "inVocab": true,
+      "senseAnchor": "happening by chance",
+      "roleInScript": "碰巧變強運",
+      "humorDevice": "morphology",
+      "zhGloss": "偶然的",
+      "speakLineEn": "A fortuitous sample is not a design.",
+      "speakLineZh": "偶然樣本不是設計。",
+      "related": {
+        "synonyms": "serendipitous, accidental",
+        "antonyms": "intentional, planned"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "forte",
+      "inVocab": true,
+      "senseAnchor": "an asset of special worth or utility; (music) loud",
+      "roleInScript": "最擅長的力",
+      "humorDevice": "morphology",
+      "zhGloss": "強項；專長",
+      "speakLineEn": "Transparency is this lab's forte.",
+      "speakLineZh": "透明是這實驗室的強項。",
+      "related": {
+        "synonyms": "metier, specialty, speciality, strength, fortissimo, loud",
+        "antonyms": "piano, weak point"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "fortress",
+      "inVocab": false,
+      "senseAnchor": "要塞；堡壘",
+      "roleInScript": "硬殼營",
+      "humorDevice": "morphology",
+      "zhGloss": "要塞；堡壘",
+      "speakLineEn": "Do not turn your theory into an unfalsifiable fortress.",
+      "speakLineZh": "別把理論建成不可證偽要塞。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "fortification",
+      "inVocab": false,
+      "senseAnchor": "防禦工事；強化",
+      "roleInScript": "加牆",
+      "humorDevice": "morphology",
+      "zhGloss": "防禦工事；強化",
+      "speakLineEn": "Method fortification includes preregistration.",
+      "speakLineZh": "方法強化包含預註冊。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "effort",
+      "inVocab": false,
+      "senseAnchor": "努力；費力",
+      "roleInScript": "出力",
+      "humorDevice": "story",
+      "zhGloss": "努力；費力",
+      "speakLineEn": "Report effort spent on data cleaning.",
+      "speakLineZh": "報告花在資料清理的努力。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "comfort",
+      "inVocab": false,
+      "senseAnchor": "安慰；舒適",
+      "roleInScript": "給力安撫",
+      "humorDevice": "story",
+      "zhGloss": "安慰；舒適",
+      "speakLineEn": "Comfort with ambiguity marks mature science.",
+      "speakLineZh": "能安於模糊標記成熟科學。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "forceful",
+      "inVocab": false,
+      "senseAnchor": "有力的",
+      "roleInScript": "用力推",
+      "humorDevice": "story",
+      "zhGloss": "有力的",
+      "speakLineEn": "Forceful claims need forceful evidence.",
+      "speakLineZh": "有力主張需要有力證據。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "enforce",
+      "inVocab": false,
+      "senseAnchor": "強制執行",
+      "roleInScript": "用强制力",
+      "humorDevice": "story",
+      "zhGloss": "強制執行",
+      "speakLineEn": "Enforce sharing policies consistently.",
+      "speakLineZh": "一致地強制執行共享政策。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "reinforce",
+      "inVocab": false,
+      "senseAnchor": "加強；增援",
+      "roleInScript": "再加一層力",
+      "humorDevice": "story",
+      "zhGloss": "加強；增援",
+      "speakLineEn": "Negative results can reinforce theory bounds.",
+      "speakLineZh": "陰性結果可加強理論邊界。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "comforting",
+      "inVocab": false,
+      "senseAnchor": "令人安慰的",
+      "roleInScript": "安撫感",
+      "humorDevice": "story",
+      "zhGloss": "令人安慰的",
+      "speakLineEn": "A comforting narrative is not a proof.",
+      "speakLineZh": "令人安慰的敘事不是證明。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "fort＝強：fortify/fortitude/fortuitous/forte/fortress",
+    "fortuitous＝偶然（非 fortunes 必定好運）"
+  ],
+  "pitfalls": [
+    "fortuitous＝出於偶然，不保證「幸運是好事」",
+    "forte＝專長／強項"
+  ],
+  "lessonRefs": [
+    "lesson-root-fort-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch02"
+  }
+}

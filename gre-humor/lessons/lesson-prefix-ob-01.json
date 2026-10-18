@@ -1,0 +1,97 @@
+{
+  "id": "lesson-prefix-ob-01",
+  "slug": "prefix-ob-01",
+  "season": 4,
+  "seasonTitleZh": "字首調味",
+  "seasonTitleEn": "Prefix Seasoning",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "prefix-ob-01",
+  "titleZh": "ob-｜迎面阻礙閘",
+  "titleEn": "Ob- Obstacle Gate",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字首 ob-＝迎向／反對——阻礙閘專管擋路與消除。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "obtrusive 礙眼突出；obliterate 抹掉。obligatory 義務擋路必做；oblique 斜迎不直說。obstinate 固執擋；obviate 預先排除障礙。obnoxious 討人厭擋臉；obstinate 再擋一次。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "ob-＝迎／阻：obtrusive/obliterate/obligatory/oblique/obstinate/obviate",
+        "obviate＝使不必要"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Make unnecessary; remove a need:",
+      "promptZh": "使不必要／排除：",
+      "choices": [
+        "obviate",
+        "obtrusive",
+        "obnoxious",
+        "novice"
+      ],
+      "answer": "obviate"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Stubborn:",
+      "promptZh": "固執：",
+      "choices": [
+        "obstinate",
+        "obligatory",
+        "excerpt",
+        "pellucid"
+      ],
+      "answer": "obstinate"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Wipe out; destroy completely:",
+      "promptZh": "消滅／抹掉：",
+      "choices": [
+        "obliterate",
+        "oblique",
+        "fortuitous",
+        "gregarious"
+      ],
+      "answer": "obliterate"
+    }
+  ],
+  "pitfalls": [
+    "obviate＝排除需要／使不必做",
+    "oblique＝間接／斜的"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch02"
+  }
+}

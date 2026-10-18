@@ -1,0 +1,208 @@
+{
+  "id": "root-vinc-01",
+  "type": "root",
+  "elementLemma": "vinc/vict",
+  "titleZh": "vinc｜勝敗競技場",
+  "titleEn": "Victory Arena",
+  "hook": "字根 vinc/vict＝勝——競技場專管誰被說服、誰被擊敗。",
+  "script": "victor／victory 勝者。convict 定罪勝過辯護；evict 趕出勝出空間。convince 說服取勝；invincible 打不敗。vanquish 徹底打垮；provincial 眼界窄像地方小勝。eviction 驅逐令；conviction 信念／定罪；victorious 勝利的。",
+  "members": [
+    {
+      "headword": "victor",
+      "inVocab": false,
+      "senseAnchor": "勝利者",
+      "roleInScript": "勝者",
+      "humorDevice": "morphology",
+      "zhGloss": "勝利者",
+      "speakLineEn": "The victor narrative ignored failed pilots.",
+      "speakLineZh": "勝者敘事忽略失敗試點。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "victory",
+      "inVocab": false,
+      "senseAnchor": "勝利",
+      "roleInScript": "勝局",
+      "humorDevice": "morphology",
+      "zhGloss": "勝利",
+      "speakLineEn": "A statistical victory is not a policy victory.",
+      "speakLineZh": "統計勝利不是政策勝利。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "convict",
+      "inVocab": true,
+      "senseAnchor": "a person serving a sentence in a jail or prison; a person who has been convicted of a criminal offense",
+      "roleInScript": "定罪勝過辯護",
+      "humorDevice": "morphology",
+      "zhGloss": "定罪；囚犯",
+      "speakLineEn": "You cannot convict a theory on one noisy study.",
+      "speakLineZh": "不能靠一項嘈雜研究給理論定罪。",
+      "related": {
+        "synonyms": "con, inmate, yardbird",
+        "antonyms": "acquit"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "evict",
+      "inVocab": true,
+      "senseAnchor": "expel or eject without recourse to legal process; expel from one's property or force to move out by a legal process",
+      "roleInScript": "趕出",
+      "humorDevice": "morphology",
+      "zhGloss": "驅逐",
+      "speakLineEn": "Evict redundant predictors after justification.",
+      "speakLineZh": "說明理由後驅逐冗餘預測變項。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "convince",
+      "inVocab": false,
+      "senseAnchor": "說服",
+      "roleInScript": "說服取勝",
+      "humorDevice": "morphology",
+      "zhGloss": "說服",
+      "speakLineEn": "Graphs convince more than p-values alone.",
+      "speakLineZh": "圖比單靠 p 值更能說服。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "invincible",
+      "inVocab": false,
+      "senseAnchor": "不可戰勝的",
+      "roleInScript": "打不敗",
+      "humorDevice": "morphology",
+      "zhGloss": "不可戰勝的",
+      "speakLineEn": "No method is invincible against bad measurement.",
+      "speakLineZh": "沒有方法能戰勝糟糕測量。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "vanquish",
+      "inVocab": true,
+      "senseAnchor": "to defeat in a conflict or contest",
+      "roleInScript": "徹底打垮",
+      "humorDevice": "morphology",
+      "zhGloss": "征服；擊敗",
+      "speakLineEn": "New evidence can vanquish a fashionable model.",
+      "speakLineZh": "新證據能打垮流行模型。",
+      "related": {
+        "synonyms": "conquer, subjugate",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "provincial",
+      "inVocab": true,
+      "senseAnchor": "(Roman Catholic Church) an official in charge of an ecclesiastical province acting under the superior general of a religious order; a country person",
+      "roleInScript": "小地方視野",
+      "humorDevice": "morphology",
+      "zhGloss": "眼界狹窄的；地方的",
+      "speakLineEn": "A provincial reading misses cross-cultural tests.",
+      "speakLineZh": "狹窄解讀錯過跨文化檢驗。",
+      "related": {
+        "synonyms": "peasant, bucolic",
+        "antonyms": "cosmopolitan"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "eviction",
+      "inVocab": false,
+      "senseAnchor": "驅逐；驅逐令",
+      "roleInScript": "趕出程序",
+      "humorDevice": "morphology",
+      "zhGloss": "驅逐；驅逐令",
+      "speakLineEn": "Variable eviction needs pre-specified rules.",
+      "speakLineZh": "變項驅逐需要預先規則。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "conviction",
+      "inVocab": true,
+      "senseAnchor": "an unshakable belief in something without need for proof or evidence; (criminal law) a final judgment of guilty in a criminal case and the punishment that is imposed",
+      "roleInScript": "堅信／判定有罪",
+      "humorDevice": "morphology",
+      "zhGloss": "信念；定罪",
+      "speakLineEn": "Write with conviction, revise with doubt.",
+      "speakLineZh": "寫作帶信念，修改帶懷疑。",
+      "related": {
+        "synonyms": "condemnation, sentence",
+        "antonyms": "acquittal"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "victorious",
+      "inVocab": false,
+      "senseAnchor": "勝利的",
+      "roleInScript": "得勝的",
+      "humorDevice": "story",
+      "zhGloss": "勝利的",
+      "speakLineEn": "A victorious press release oversold the RCT.",
+      "speakLineZh": "得勝新聞稿過度銷售隨機試驗。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "conviction rate",
+      "inVocab": false,
+      "senseAnchor": "定罪率",
+      "roleInScript": "勝訴統計",
+      "humorDevice": "story",
+      "zhGloss": "定罪率",
+      "speakLineEn": "Do not analogize p-hacking to a conviction rate casually.",
+      "speakLineZh": "不要隨便把 p 操弄類比定罪率。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "vict＝勝：victor/convict/evict/convince/invincible/vanquish",
+    "convict 可作動詞定罪或名詞囚犯"
+  ],
+  "pitfalls": [
+    "provincial 常指眼界狹窄，不只「省的」",
+    "conviction＝信念或定罪，看語境"
+  ],
+  "lessonRefs": [
+    "lesson-root-vinc-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch01"
+  }
+}

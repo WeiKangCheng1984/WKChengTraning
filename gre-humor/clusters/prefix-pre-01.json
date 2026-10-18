@@ -1,0 +1,148 @@
+{
+  "id": "prefix-pre-01",
+  "type": "prefix",
+  "elementLemma": "pre-",
+  "titleZh": "pre-｜預先倒數計時器",
+  "titleEn": "Pre- Countdown",
+  "hook": "字首 pre-＝在前／預先——開跑前先倒數。",
+  "script": "precede 走在前面；preclude 預先排除。precept 訓誡規矩；preamble 前言。prelude 序曲；precursor 前驅。prognosis／prognosticate 預後／預言（pro 也常「向前」）。anticipate 預先設想；preemptive 先發制人。",
+  "members": [
+    {
+      "headword": "precept",
+      "inVocab": true,
+      "senseAnchor": "rule of personal conduct; a doctrine that is taught",
+      "roleInScript": "預先規矩",
+      "humorDevice": "morphology",
+      "zhGloss": "戒律；準則",
+      "speakLineEn": "A core precept: never silent-swap outcomes.",
+      "speakLineZh": "核心準則：永不沉默替換結局。",
+      "related": {
+        "synonyms": "principle, teaching, commandment",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "preamble",
+      "inVocab": true,
+      "senseAnchor": "a preliminary introduction to a statute or constitution (usually explaining its purpose); make a preliminary introduction, usually to a formal document",
+      "roleInScript": "開場前言",
+      "humorDevice": "morphology",
+      "zhGloss": "序言；前言",
+      "speakLineEn": "The statute's preamble states the purpose.",
+      "speakLineZh": "法條前言陳述目的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "prelude",
+      "inVocab": true,
+      "senseAnchor": "something that serves as a preceding event or introduces what follows; music that precedes a fugue or introduces an act in an opera",
+      "roleInScript": "開場序曲",
+      "humorDevice": "morphology",
+      "zhGloss": "序曲；前奏",
+      "speakLineEn": "The leaked memo was a prelude to retraction.",
+      "speakLineZh": "外洩備忘錄是撤稿前奏。",
+      "related": {
+        "synonyms": "preliminary, overture",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "precursor",
+      "inVocab": false,
+      "senseAnchor": "前驅；先兆",
+      "roleInScript": "前面那個",
+      "humorDevice": "morphology",
+      "zhGloss": "前驅；先兆",
+      "speakLineEn": "A small bias can be a precursor to collapse.",
+      "speakLineZh": "小偏差可能是崩盤先兆。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "prognosis",
+      "inVocab": true,
+      "senseAnchor": "a declaration that something will happen in the future",
+      "roleInScript": "預先判斷走向",
+      "humorDevice": "morphology",
+      "zhGloss": "預後；展望",
+      "speakLineEn": "Give a sober prognosis, not a sales pitch.",
+      "speakLineZh": "給清醒預後，不是銷售稿。",
+      "related": {
+        "synonyms": "augury, foretelling, prediction, prophecy",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "prognosticate",
+      "inVocab": true,
+      "senseAnchor": "make a prediction about; tell in advance; indicate by signs",
+      "roleInScript": "預先說結果",
+      "humorDevice": "morphology",
+      "zhGloss": "預言；預測",
+      "speakLineEn": "Do not prognosticate from underpowered pilots.",
+      "speakLineZh": "不要用低檢定力試點預言。",
+      "related": {
+        "synonyms": "predict, foretell, call, forebode, anticipate, promise",
+        "antonyms": "put option"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "preemptive",
+      "inVocab": false,
+      "senseAnchor": "先發制人的",
+      "roleInScript": "搶先一手",
+      "humorDevice": "morphology",
+      "zhGloss": "先發制人的",
+      "speakLineEn": "Preemptive disclosure beats forced correction.",
+      "speakLineZh": "先發披露勝過被迫勘誤。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "preliminary",
+      "inVocab": true,
+      "senseAnchor": "a minor match preceding the main event; something that serves as a preceding event or introduces what follows",
+      "roleInScript": "預先第一輪",
+      "humorDevice": "story",
+      "zhGloss": "初步的",
+      "speakLineEn": "Label preliminary findings clearly.",
+      "speakLineZh": "初步發現要清楚標示。",
+      "related": {
+        "synonyms": "prelim, overture, prelude",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    }
+  ],
+  "reviewHooks": [
+    "pre-＝預先：precede/preclude/precept/preamble/prelude",
+    "precede＝在前；proceed＝繼續前進"
+  ],
+  "pitfalls": [
+    "precede（先於）≠ proceed（繼續）",
+    "preclude＝使不可能／排除"
+  ],
+  "lessonRefs": [
+    "lesson-prefix-pre-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch01"
+  }
+}

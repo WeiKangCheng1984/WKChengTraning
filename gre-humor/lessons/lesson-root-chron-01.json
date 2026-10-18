@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-chron-01",
+  "slug": "root-chron-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-chron-01",
+  "titleZh": "chron｜時間錯位鐘樓",
+  "titleEn": "Chron Clock Tower",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 chron＝時——鐘樓專管對時與錯時。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "chronic 慢性長久；chronicle 編年記事。chronology 時間順序；anachronism 時代錯置。synchronize／synchronous 同步。chronometer 精密計時；diachronic 跨時研究。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "chron＝時：chronic/chronicle/chronology/anachronism/synchronize",
+        "anachronism＝時代錯置"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Something from the wrong time period:",
+      "promptZh": "時代錯置：",
+      "choices": [
+        "anachronism",
+        "chronic",
+        "forte",
+        "prolix"
+      ],
+      "answer": "anachronism"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Lasting a long time; habitual:",
+      "promptZh": "慢性／長期：",
+      "choices": [
+        "chronic",
+        "succinct",
+        "levy",
+        "novice"
+      ],
+      "answer": "chronic"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Make happen at the same time:",
+      "promptZh": "使同步：",
+      "choices": [
+        "synchronize",
+        "deride",
+        "puncture",
+        "aspire"
+      ],
+      "answer": "synchronize"
+    }
+  ],
+  "pitfalls": [
+    "anachronism＝錯置時代",
+    "chronic＝慢性／長期"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch02-topup"
+  }
+}

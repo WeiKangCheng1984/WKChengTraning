@@ -1,0 +1,148 @@
+{
+  "id": "prefix-ob-01",
+  "type": "prefix",
+  "elementLemma": "ob-",
+  "titleZh": "ob-｜迎面阻礙閘",
+  "titleEn": "Ob- Obstacle Gate",
+  "hook": "字首 ob-＝迎向／反對——阻礙閘專管擋路與消除。",
+  "script": "obtrusive 礙眼突出；obliterate 抹掉。obligatory 義務擋路必做；oblique 斜迎不直說。obstinate 固執擋；obviate 預先排除障礙。obnoxious 討人厭擋臉；obstinate 再擋一次。",
+  "members": [
+    {
+      "headword": "obtrusive",
+      "inVocab": true,
+      "senseAnchor": "noticeable in an unpleasant way",
+      "roleInScript": "擋在眼前",
+      "humorDevice": "morphology",
+      "zhGloss": "突出礙眼的；強加的",
+      "speakLineEn": "Watermarks should not be obtrusive on figures.",
+      "speakLineZh": "浮水印不該在圖上礙眼。",
+      "related": {
+        "synonyms": "noticeable",
+        "antonyms": "unobtrusive"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "obliterate",
+      "inVocab": true,
+      "senseAnchor": "to remove from existence",
+      "roleInScript": "迎面抹掉",
+      "humorDevice": "morphology",
+      "zhGloss": "塗抹；消滅",
+      "speakLineEn": "Do not obliterate raw logs after analysis.",
+      "speakLineZh": "分析後不要抹掉原始日誌。",
+      "related": {
+        "synonyms": "efface, expunge",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "obligatory",
+      "inVocab": true,
+      "senseAnchor": "morally or legally constraining or binding; required by obligation or compulsion or convention",
+      "roleInScript": "擋路必過",
+      "humorDevice": "morphology",
+      "zhGloss": "義務的；必須的",
+      "speakLineEn": "Conflict disclosure is obligatory.",
+      "speakLineZh": "利益衝突揭露是義務。",
+      "related": {
+        "synonyms": "",
+        "antonyms": "optional"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "oblique",
+      "inVocab": true,
+      "senseAnchor": "any grammatical case other than the nominative; a diagonally arranged abdominal muscle on either side of the torso",
+      "roleInScript": "斜著迎",
+      "humorDevice": "morphology",
+      "zhGloss": "斜的；間接的",
+      "speakLineEn": "Oblique criticism still needs examples.",
+      "speakLineZh": "間接批評仍需例子。",
+      "related": {
+        "synonyms": "devious",
+        "antonyms": "nominative, parallel, perpendicular"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "obstinate",
+      "inVocab": true,
+      "senseAnchor": "refusing to change your opinions",
+      "roleInScript": "硬擋不讓",
+      "humorDevice": "morphology",
+      "zhGloss": "固執的",
+      "speakLineEn": "Obstinate refusal to share code blocks audit.",
+      "speakLineZh": "固執拒共享程式碼阻擋稽核。",
+      "related": {
+        "synonyms": "adamant, intransigent, obdurate, refractory",
+        "antonyms": "compliant, flexible, docile, compromising, yielding, manageable, obedient"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "obviate",
+      "inVocab": true,
+      "senseAnchor": "to prevent or avoid",
+      "roleInScript": "先把障礙搬走",
+      "humorDevice": "morphology",
+      "zhGloss": "排除；使不必要",
+      "speakLineEn": "Checklists obviate some recurring errors.",
+      "speakLineZh": "檢核表排除部分反覆錯誤。",
+      "related": {
+        "synonyms": "avert, preclude, forestall",
+        "antonyms": "necessitate, require, allow, permit"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "obnoxious",
+      "inVocab": true,
+      "senseAnchor": "causing disapproval or protest",
+      "roleInScript": "擋臉惹人厭",
+      "humorDevice": "morphology",
+      "zhGloss": "討厭的；可憎的",
+      "speakLineEn": "Obnoxious tone sinks valid critique.",
+      "speakLineZh": "討厭語氣毁掉有效批評。",
+      "related": {
+        "synonyms": "objectionable",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "obligation",
+      "inVocab": false,
+      "senseAnchor": "義務",
+      "roleInScript": "必須扛",
+      "humorDevice": "story",
+      "zhGloss": "義務",
+      "speakLineEn": "Sharing is an obligation, not a favor.",
+      "speakLineZh": "共享是義務不是人情。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "ob-＝迎／阻：obtrusive/obliterate/obligatory/oblique/obstinate/obviate",
+    "obviate＝使不必要"
+  ],
+  "pitfalls": [
+    "obviate＝排除需要／使不必做",
+    "oblique＝間接／斜的"
+  ],
+  "lessonRefs": [
+    "lesson-prefix-ob-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch02"
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "id": "look-emigrate-01",
+  "type": "lookalike",
+  "elementLemma": "emigrate-immigrate",
+  "titleZh": "e／im-migrate｜進出海關對決",
+  "titleEn": "Emigrate vs Immigrate",
+  "hook": "形近對決：e- 離開 vs im- 進入——方向一反全錯。",
+  "script": "emigrate 從本國遷出；immigrate 遷入他國。migration 遷移總稱；migratory 遷徙的。e- 像 exit，im- 像 into。再加 migrant 遷徙者；transmigration 轉生／轉遷（較少考但好記方向）。",
+  "members": [
+    {
+      "headword": "emigrate",
+      "inVocab": true,
+      "senseAnchor": "leave one's country of residence for a new one",
+      "roleInScript": "離開本國",
+      "humorDevice": "lookalike",
+      "zhGloss": "移出；僑居國外",
+      "speakLineEn": "Researchers may emigrate when labs lose funding.",
+      "speakLineZh": "實驗室失資時研究者可能移出。",
+      "related": {
+        "synonyms": "",
+        "antonyms": "immigrate"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "immigrate",
+      "inVocab": true,
+      "senseAnchor": "migrate to a new environment; introduce or send as immigrants",
+      "roleInScript": "進入他國",
+      "humorDevice": "lookalike",
+      "zhGloss": "移入",
+      "speakLineEn": "Talent may immigrate toward open-science hubs.",
+      "speakLineZh": "人才可能移入開放科學樞紐。",
+      "related": {
+        "synonyms": "",
+        "antonyms": "emigrate"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "migrate",
+      "inVocab": false,
+      "senseAnchor": "遷移；移居",
+      "roleInScript": "總稱搬遷",
+      "humorDevice": "lookalike",
+      "zhGloss": "遷移；移居",
+      "speakLineEn": "Ideas migrate across disciplines slowly.",
+      "speakLineZh": "想法跨學科遷移很慢。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "migration",
+      "inVocab": false,
+      "senseAnchor": "遷移；遷徙",
+      "roleInScript": "搬遷過程",
+      "humorDevice": "lookalike",
+      "zhGloss": "遷移；遷徙",
+      "speakLineEn": "Citation migration reveals shifting canons.",
+      "speakLineZh": "引用遷移顯示經典更迭。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "migrant",
+      "inVocab": false,
+      "senseAnchor": "移居者；候鳥",
+      "roleInScript": "遷移的人／物",
+      "humorDevice": "lookalike",
+      "zhGloss": "移居者；候鳥",
+      "speakLineEn": "Migrant metaphors can obscure legal status.",
+      "speakLineZh": "移民隱喻可能模糊法律身分。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "migratory",
+      "inVocab": false,
+      "senseAnchor": "遷徙的",
+      "roleInScript": "習慣遷移的",
+      "humorDevice": "lookalike",
+      "zhGloss": "遷徙的",
+      "speakLineEn": "Migratory collaborations follow grant cycles.",
+      "speakLineZh": "遷徙式合作跟隨補助週期。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "immigration",
+      "inVocab": false,
+      "senseAnchor": "移入；移民政策",
+      "roleInScript": "進入側",
+      "humorDevice": "lookalike",
+      "zhGloss": "移入；移民政策",
+      "speakLineEn": "Immigration of methods needs local validation.",
+      "speakLineZh": "方法「移入」需要在地驗證。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "emigration",
+      "inVocab": false,
+      "senseAnchor": "移出",
+      "roleInScript": "離開側",
+      "humorDevice": "lookalike",
+      "zhGloss": "移出",
+      "speakLineEn": "Emigration of talent warns of hostile climates.",
+      "speakLineZh": "人才移出警告惡劣氣候。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "transmigrate",
+      "inVocab": false,
+      "senseAnchor": "轉生；轉遷",
+      "roleInScript": "轉到下一處",
+      "humorDevice": "lookalike",
+      "zhGloss": "轉生；轉遷",
+      "speakLineEn": "Do not transmigrate conclusions across mismatched populations.",
+      "speakLineZh": "不要把結論轉遷到不匹配母體。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "in-migration",
+      "inVocab": false,
+      "senseAnchor": "遷入（地區內）",
+      "roleInScript": "區域進入",
+      "humorDevice": "story",
+      "zhGloss": "遷入（地區內）",
+      "speakLineEn": "In-migration of startups changed the city's labs.",
+      "speakLineZh": "新創遷入改變城市實驗室。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "out-migration",
+      "inVocab": false,
+      "senseAnchor": "遷出（地區內）",
+      "roleInScript": "區域離開",
+      "humorDevice": "story",
+      "zhGloss": "遷出（地區內）",
+      "speakLineEn": "Out-migration followed the factory closures.",
+      "speakLineZh": "工廠關閉後出現遷出。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "remigration",
+      "inVocab": false,
+      "senseAnchor": "再遷移；回流",
+      "roleInScript": "又搬一次",
+      "humorDevice": "story",
+      "zhGloss": "再遷移；回流",
+      "speakLineEn": "Remigration of scholars can restart collaborations.",
+      "speakLineZh": "學者回流可重啟合作。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "emigrate＝遷出；immigrate＝遷入",
+    "e- exit；im- into"
+  ],
+  "pitfalls": [
+    "主語國家不同：從 A emigrate、對 B immigrate",
+    "不要與 migrate 總稱混淆方向"
+  ],
+  "lessonRefs": [
+    "lesson-look-emigrate-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch01"
+  }
+}

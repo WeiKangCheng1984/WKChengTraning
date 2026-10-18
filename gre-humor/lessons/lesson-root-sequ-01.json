@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-sequ-01",
+  "slug": "root-sequ-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-sequ-01",
+  "titleZh": "sequ｜跟隨追擊隊",
+  "titleEn": "Sequence Pursuit Squad",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 sequ＝跟隨——追擊隊專管誰跟在誰後面。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "sequence 順序跟著；consequence 跟著來的後果。subsequent 隨後；consecutive 連續跟著。prosecute 依法追擊，persecute 無理追打。obsequious 諂媚跟太緊；execute 執行跟上命令。segue 平滑接下一段；non sequitur 跟不上邏輯的句子。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "sequ＝跟：sequence/consequence/subsequent/consecutive",
+        "prosecute 檢控 ≠ persecute 迫害"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "lookalike",
+      "promptEn": "Legal chase vs unjust harassment:",
+      "promptZh": "檢控 vs 迫害：",
+      "choices": [
+        "prosecute / persecute",
+        "persecute / prosecute",
+        "sequence / sequel",
+        "execute / segue"
+      ],
+      "answer": "prosecute / persecute"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Fawning; overly eager to please:",
+      "promptZh": "諂媚：",
+      "choices": [
+        "obsequious",
+        "subsequent",
+        "consecutive",
+        "pursuit"
+      ],
+      "answer": "obsequious"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Coming after:",
+      "promptZh": "隨後：",
+      "choices": [
+        "subsequent",
+        "prosecute",
+        "execute",
+        "pursuit"
+      ],
+      "answer": "subsequent"
+    }
+  ],
+  "pitfalls": [
+    "prosecute（起訴／執行）≠ persecute（迫害）",
+    "non sequitur＝推論不接"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P1-batch01"
+  }
+}
