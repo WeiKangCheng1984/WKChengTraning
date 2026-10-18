@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-fac-01",
+  "slug": "root-fac-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-fac-01",
+  "titleZh": "fac／fect｜製造工廠",
+  "titleEn": "The Making Factory",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 fac/fic/fect＝做、造——工廠日夜開工。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "容易做叫 facile；受益人造 benefactor，作惡的 malefactor。製造是 manufacture，事實是 fact。affect 施加影響，effect 造成結果；defect 缺陷，perfect 做完無缺。efficient 有效做事，proficient 熟練，sufficient 做得夠，artificial 人造的。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "fac＝做：facile/fact/manufacture/benefactor",
+        "affect＝影響過程；effect＝結果／造成"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "lookalike",
+      "promptEn": "affect vs effect — result noun is usually:",
+      "promptZh": "結果名詞通常是：",
+      "choices": [
+        "effect",
+        "affect",
+        "facile",
+        "defect"
+      ],
+      "answer": "effect"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Overly easy or shallow:",
+      "promptZh": "過於輕易／膚淺：",
+      "choices": [
+        "facile",
+        "proficient",
+        "sufficient",
+        "factor"
+      ],
+      "answer": "facile"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Make easier:",
+      "promptZh": "使更容易：",
+      "choices": [
+        "facilitate",
+        "malefactor",
+        "manufacture lies only",
+        "perfect"
+      ],
+      "answer": "facilitate"
+    }
+  ],
+  "pitfalls": [
+    "affect vs effect 必分清",
+    "facile 常帶『過於輕易／膚淺』貶義"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S3b"
+  }
+}

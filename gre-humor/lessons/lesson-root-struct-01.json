@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-struct-01",
+  "slug": "root-struct-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-struct-01",
+  "titleZh": "struct｜建築工地",
+  "titleEn": "Construction Site",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 struct＝建造——論證也是工程。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "construct 建造，instruct 指導建造，destruct／destroy 拆毁，obstruct 阻擋施工。structure 結構，infrastructure 基礎建設，reconstruct 重建，restructure 改組。construction 構築物／解釋，destructive 破壞性，instructive 有教導性，superstructure 上層建築。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "struct＝建：construct/instruct/obstruct/structure/infrastructure",
+        "obstruct＝擋；reconstruct＝重建"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Block or hinder:",
+      "promptZh": "阻礙：",
+      "choices": [
+        "obstruct",
+        "instruct",
+        "construct",
+        "instrument"
+      ],
+      "answer": "obstruct"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Underlying systems enabling activity:",
+      "promptZh": "基礎設施：",
+      "choices": [
+        "infrastructure",
+        "superstructure only rhetoric",
+        "scribble",
+        "facile"
+      ],
+      "answer": "infrastructure"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Rebuild from remains:",
+      "promptZh": "重建：",
+      "choices": [
+        "reconstruct",
+        "destroy",
+        "obstruction",
+        "tenure"
+      ],
+      "answer": "reconstruct"
+    }
+  ],
+  "pitfalls": [
+    "construction 可指『解釋建構』",
+    "destruct 少見，多用 destroy／destructive"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S3b"
+  }
+}

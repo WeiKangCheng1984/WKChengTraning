@@ -1,0 +1,238 @@
+{
+  "id": "root-fac-01",
+  "type": "root",
+  "elementLemma": "fac/fic/fect",
+  "titleZh": "fac／fect｜製造工廠",
+  "titleEn": "The Making Factory",
+  "hook": "字根 fac/fic/fect＝做、造——工廠日夜開工。",
+  "script": "容易做叫 facile；受益人造 benefactor，作惡的 malefactor。製造是 manufacture，事實是 fact。affect 施加影響，effect 造成結果；defect 缺陷，perfect 做完無缺。efficient 有效做事，proficient 熟練，sufficient 做得夠，artificial 人造的。",
+  "members": [
+    {
+      "headword": "facile",
+      "inVocab": true,
+      "senseAnchor": "arrived at without due care or effort; lacking depth; performing adroitly and without effort",
+      "roleInScript": "太好做",
+      "humorDevice": "morphology",
+      "zhGloss": "輕易的；膚淺的",
+      "speakLineEn": "A facile explanation ignores conflicting cases.",
+      "speakLineZh": "膚淺解釋忽略衝突案例。",
+      "related": {
+        "synonyms": "eloquent, fluent, silver, silver-tongued, smooth-spoken",
+        "antonyms": "inarticulate, tongue-tied"
+      }
+    },
+    {
+      "headword": "benefactor",
+      "inVocab": false,
+      "senseAnchor": "恩人；捐助者",
+      "roleInScript": "做好事的人",
+      "humorDevice": "morphology",
+      "zhGloss": "恩人；捐助者",
+      "speakLineEn": "A quiet benefactor funded the open archive.",
+      "speakLineZh": "低調捐助者資助開放典藏。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "malefactor",
+      "inVocab": true,
+      "senseAnchor": "someone who has committed a crime or has been legally convicted of a crime",
+      "roleInScript": "做壞事的人",
+      "humorDevice": "morphology",
+      "zhGloss": "作惡者",
+      "speakLineEn": "Do not cast critics as malefactors for asking methods questions.",
+      "speakLineZh": "別因方法提問就把批評者當惡人。",
+      "related": {
+        "synonyms": "criminal, felon, crook, outlaw",
+        "antonyms": "decriminalise, decriminalize, legalize"
+      }
+    },
+    {
+      "headword": "manufacture",
+      "inVocab": false,
+      "senseAnchor": "製造；捏造",
+      "roleInScript": "工廠產出",
+      "humorDevice": "morphology",
+      "zhGloss": "製造；捏造",
+      "speakLineEn": "Do not manufacture certainty from noisy data.",
+      "speakLineZh": "不要從噪音資料捏造確定性。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "fact",
+      "inVocab": false,
+      "senseAnchor": "事實",
+      "roleInScript": "做出來的真東西／已成立者",
+      "humorDevice": "story",
+      "zhGloss": "事實",
+      "speakLineEn": "Separate fact from preferred narrative.",
+      "speakLineZh": "把事實與偏好敘事分開。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "affect",
+      "inVocab": true,
+      "senseAnchor": "the conscious subjective aspect of feeling or emotion; have an effect upon",
+      "roleInScript": "去做作用",
+      "humorDevice": "morphology",
+      "zhGloss": "影響；感動",
+      "speakLineEn": "Incentives affect what gets measured.",
+      "speakLineZh": "誘因影響測什麼。",
+      "related": {
+        "synonyms": "impact, touch, involve, regard, feign, sham",
+        "antonyms": "obviate, disesteem, disrespect, inattentiveness"
+      }
+    },
+    {
+      "headword": "effect",
+      "inVocab": false,
+      "senseAnchor": "結果；效應；使發生",
+      "roleInScript": "做出的結果",
+      "humorDevice": "morphology",
+      "zhGloss": "結果；效應；使發生",
+      "speakLineEn": "Estimate the effect with pre-specified controls.",
+      "speakLineZh": "用預先指定控制估計效應。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "defect",
+      "inVocab": true,
+      "senseAnchor": "an imperfection in a bodily system; a failing or deficiency",
+      "roleInScript": "做得有缺口",
+      "humorDevice": "morphology",
+      "zhGloss": "缺陷",
+      "speakLineEn": "A sampling defect can mimic a treatment effect.",
+      "speakLineZh": "抽樣缺陷可能模仿處理效應。",
+      "related": {
+        "synonyms": "shortcoming, fault, flaw, blemish, mar, desert",
+        "antonyms": "absolve, merit"
+      }
+    },
+    {
+      "headword": "perfect",
+      "inVocab": false,
+      "senseAnchor": "完美的；完成",
+      "roleInScript": "做完無缺",
+      "humorDevice": "morphology",
+      "zhGloss": "完美的；完成",
+      "speakLineEn": "No design is perfect; report limitations.",
+      "speakLineZh": "沒有完美設計；請報告限制。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "efficient",
+      "inVocab": false,
+      "senseAnchor": "有效率的",
+      "roleInScript": "少耗能多做事",
+      "humorDevice": "morphology",
+      "zhGloss": "有效率的",
+      "speakLineEn": "An efficient estimator is not automatically unbiased.",
+      "speakLineZh": "有效率估計量不自動無偏。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "proficient",
+      "inVocab": false,
+      "senseAnchor": "熟練的",
+      "roleInScript": "做得熟",
+      "humorDevice": "morphology",
+      "zhGloss": "熟練的",
+      "speakLineEn": "Proficient coding still needs code review.",
+      "speakLineZh": "熟練寫碼仍需審查。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "sufficient",
+      "inVocab": false,
+      "senseAnchor": "足夠的",
+      "roleInScript": "做得夠",
+      "humorDevice": "morphology",
+      "zhGloss": "足夠的",
+      "speakLineEn": "A sufficient statistic compresses without loss for the parameter.",
+      "speakLineZh": "充分統計量為參數無損壓縮。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "artificial",
+      "inVocab": false,
+      "senseAnchor": "人造的；矯揉的",
+      "roleInScript": "人造做出來",
+      "humorDevice": "morphology",
+      "zhGloss": "人造的；矯揉的",
+      "speakLineEn": "Artificial categories can reify soft boundaries.",
+      "speakLineZh": "人為範疇可能把軟邊界實體化。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "facilitate",
+      "inVocab": false,
+      "senseAnchor": "促進；使容易",
+      "roleInScript": "幫忙去做順",
+      "humorDevice": "morphology",
+      "zhGloss": "促進；使容易",
+      "speakLineEn": "Templates facilitate consistent reporting.",
+      "speakLineZh": "模板促進一致報告。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "factor",
+      "inVocab": false,
+      "senseAnchor": "因素；因子",
+      "roleInScript": "做事的構成件",
+      "humorDevice": "morphology",
+      "zhGloss": "因素；因子",
+      "speakLineEn": "Control for each theorized factor explicitly.",
+      "speakLineZh": "明確控制每個理論因素。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    }
+  ],
+  "reviewHooks": [
+    "fac＝做：facile/fact/manufacture/benefactor",
+    "affect＝影響過程；effect＝結果／造成"
+  ],
+  "pitfalls": [
+    "affect vs effect 必分清",
+    "facile 常帶『過於輕易／膚淺』貶義"
+  ],
+  "lessonRefs": [
+    "lesson-root-fac-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S3b"
+  }
+}

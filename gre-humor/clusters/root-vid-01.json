@@ -1,0 +1,238 @@
+{
+  "id": "root-vid-01",
+  "type": "root",
+  "elementLemma": "vid/vis",
+  "titleZh": "vid／vis｜視線塔",
+  "titleEn": "Vision Tower",
+  "hook": "字根 vid/vis＝看——誰看得見證據。",
+  "script": "evident 明顯可見；provide 預先看顧供應，providence／provident 遠見。revise 再看修改，supervise 監督看管，visage 臉容，visible 可見，vision 願景／視力，visit 走看，visual 視覺的，evidence 可見憑據，improvisation 臨時看著辦，invidious 招忌的比較。",
+  "members": [
+    {
+      "headword": "evident",
+      "inVocab": false,
+      "senseAnchor": "明顯的",
+      "roleInScript": "看得見",
+      "humorDevice": "morphology",
+      "zhGloss": "明顯的",
+      "speakLineEn": "Selection is evident from the attrition table.",
+      "speakLineZh": "從耗損表可明顯見選擇。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "provide",
+      "inVocab": false,
+      "senseAnchor": "提供",
+      "roleInScript": "預先看顧而給",
+      "humorDevice": "morphology",
+      "zhGloss": "提供",
+      "speakLineEn": "Provide code that runs on a clean machine.",
+      "speakLineZh": "提供能在乾淨機器跑的程式。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "provident",
+      "inVocab": true,
+      "senseAnchor": "providing carefully for the future; careful in regard to your own interests",
+      "roleInScript": "看得遠",
+      "humorDevice": "morphology",
+      "zhGloss": "有遠見的；節儉的",
+      "speakLineEn": "Provident archiving saves future labs.",
+      "speakLineZh": "有遠見的典藏拯救未來實驗室。",
+      "related": {
+        "synonyms": "",
+        "antonyms": "improvident"
+      }
+    },
+    {
+      "headword": "revise",
+      "inVocab": false,
+      "senseAnchor": "修訂",
+      "roleInScript": "再看改過",
+      "humorDevice": "morphology",
+      "zhGloss": "修訂",
+      "speakLineEn": "Revise claims after the robustness battery.",
+      "speakLineZh": "穩健電池後再修訂主張。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "supervise",
+      "inVocab": false,
+      "senseAnchor": "監督",
+      "roleInScript": "看管",
+      "humorDevice": "morphology",
+      "zhGloss": "監督",
+      "speakLineEn": "Supervise labeling to reduce drift.",
+      "speakLineZh": "監督標註以減少漂移。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "visage",
+      "inVocab": false,
+      "senseAnchor": "臉容；外貌",
+      "roleInScript": "看上去的臉",
+      "humorDevice": "story",
+      "zhGloss": "臉容；外貌",
+      "speakLineEn": "Do not judge a paper by journal visage alone.",
+      "speakLineZh": "別只靠期刊臉判斷論文。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "visible",
+      "inVocab": false,
+      "senseAnchor": "可見的",
+      "roleInScript": "能看見",
+      "humorDevice": "morphology",
+      "zhGloss": "可見的",
+      "speakLineEn": "Make assumptions visible in a box.",
+      "speakLineZh": "把假設放進框裡看得見。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "vision",
+      "inVocab": false,
+      "senseAnchor": "視力；願景",
+      "roleInScript": "看見的方向",
+      "humorDevice": "story",
+      "zhGloss": "視力；願景",
+      "speakLineEn": "A vision without metrics is a poster.",
+      "speakLineZh": "沒有指標的願景只是海報。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "visit",
+      "inVocab": false,
+      "senseAnchor": "造訪",
+      "roleInScript": "走去看",
+      "humorDevice": "story",
+      "zhGloss": "造訪",
+      "speakLineEn": "Visit the raw traces before summarizing.",
+      "speakLineZh": "摘要前先看原始軌跡。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "visual",
+      "inVocab": false,
+      "senseAnchor": "視覺的",
+      "roleInScript": "用眼睛看的",
+      "humorDevice": "morphology",
+      "zhGloss": "視覺的",
+      "speakLineEn": "Visual clutter undermines chart honesty.",
+      "speakLineZh": "視覺雜訊破壞圖表誠實。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "evidence",
+      "inVocab": false,
+      "senseAnchor": "證據",
+      "roleInScript": "看得見的憑據",
+      "humorDevice": "morphology",
+      "zhGloss": "證據",
+      "speakLineEn": "Evidence outweighs eloquence.",
+      "speakLineZh": "證據重於雄辯。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "improvise",
+      "inVocab": true,
+      "senseAnchor": "performed with little or no preparation",
+      "roleInScript": "臨時看著辦",
+      "humorDevice": "morphology",
+      "zhGloss": "即興",
+      "speakLineEn": "Do not improvise exclusion rules after peeking.",
+      "speakLineZh": "偷看後不要即興訂排除規則。",
+      "related": {
+        "synonyms": "ad-lib, impromptu, offhand",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "invidious",
+      "inVocab": true,
+      "senseAnchor": "containing or implying a slight or showing prejudice",
+      "roleInScript": "看起來惹人厭的比較",
+      "humorDevice": "morphology",
+      "zhGloss": "招忌的；不公平比較的",
+      "speakLineEn": "Invidious rankings ignore uncertainty.",
+      "speakLineZh": "招忌排名忽略不確定性。",
+      "related": {
+        "synonyms": "discriminatory",
+        "antonyms": "unprejudiced"
+      }
+    },
+    {
+      "headword": "videotape",
+      "inVocab": false,
+      "senseAnchor": "錄影帶／錄影（教學）",
+      "roleInScript": "把看見的存下",
+      "humorDevice": "story",
+      "zhGloss": "錄影帶／錄影（教學）",
+      "speakLineEn": "Videotape coding training for reliability audits.",
+      "speakLineZh": "為信度稽核錄下編碼訓練。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "visibility",
+      "inVocab": false,
+      "senseAnchor": "可見度",
+      "roleInScript": "能見程度",
+      "humorDevice": "morphology",
+      "zhGloss": "可見度",
+      "speakLineEn": "Visibility of negative results is still uneven.",
+      "speakLineZh": "負結果可見度仍不均。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    }
+  ],
+  "reviewHooks": [
+    "vid＝看：evident/provide/revise/supervise/visible/evidence",
+    "invidious＝招人忌妒的比較"
+  ],
+  "pitfalls": [
+    "provident（有遠見節儉）≠ provincial",
+    "revise＝修改再看"
+  ],
+  "lessonRefs": [
+    "lesson-root-vid-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S3b"
+  }
+}

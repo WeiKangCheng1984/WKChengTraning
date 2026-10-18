@@ -1,0 +1,252 @@
+{
+  "id": "look-pair-01",
+  "type": "lookalike",
+  "elementLemma": "imply-infer",
+  "titleZh": "形近／易混對決包",
+  "titleEn": "Look-alike Pack",
+  "hook": "考場花眼專用：成對拆開，不准混打。",
+  "script": "imply 暗示（說者）↔ infer 推論（聽者）。averse 厭惡 ↔ adverse 不利。discrete 分離 ↔ discreet 謹慎。censor 審查 ↔ censure 譴責。incredible 難以置信（事）↔ incredulous 不信（人）已在 cred 族。appraise 估價 ↔ apprise 通知。allude 暗指 ↔ elude 躲避。",
+  "members": [
+    {
+      "headword": "imply",
+      "inVocab": false,
+      "senseAnchor": "暗示；意味著",
+      "roleInScript": "說者丟線索",
+      "humorDevice": "lookalike",
+      "zhGloss": "暗示；意味著",
+      "speakLineEn": "Does the abstract imply causality it did not identify?",
+      "speakLineZh": "摘要是否暗示未識別的因果？",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "averse",
+      "inVocab": false,
+      "senseAnchor": "厭惡的；不願的",
+      "roleInScript": "主觀不想",
+      "humorDevice": "lookalike",
+      "zhGloss": "厭惡的；不願的",
+      "speakLineEn": "Risk-averse editors may over-weight novelty.",
+      "speakLineZh": "厭惡風險的編輯可能過度看重新奇。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "discrete",
+      "inVocab": true,
+      "senseAnchor": "not continuous",
+      "roleInScript": "分開的點",
+      "humorDevice": "lookalike",
+      "zhGloss": "分離的；離散的",
+      "speakLineEn": "Use discrete categories only if theoretically clean.",
+      "speakLineZh": "唯有理論乾淨才用離散類別。",
+      "related": {
+        "synonyms": "disconnected",
+        "antonyms": "continuous, connected, connect, legato, plug in"
+      }
+    },
+    {
+      "headword": "discreet",
+      "inVocab": true,
+      "senseAnchor": "marked by prudence or modesty and wise self-restraint; unobtrusively perceptive and sympathetic",
+      "roleInScript": "小心不張揚",
+      "humorDevice": "lookalike",
+      "zhGloss": "謹慎的；不張揚的",
+      "speakLineEn": "Be discreet with identifiable qualitative excerpts.",
+      "speakLineZh": "可識別質性摘錄要謹慎。",
+      "related": {
+        "synonyms": "discerning, circumspect",
+        "antonyms": "indiscreet, blatant"
+      }
+    },
+    {
+      "headword": "censor",
+      "inVocab": true,
+      "senseAnchor": "someone who censures or condemns; a person who is authorized to read publications or correspondence or to watch theatrical performances and suppress in whole or in part anything considered obscene or politically unacceptable",
+      "roleInScript": "擋內容",
+      "humorDevice": "lookalike",
+      "zhGloss": "審查；刪改",
+      "speakLineEn": "Do not censor inconvenient robustness failures.",
+      "speakLineZh": "不要審查掉不便的穩健失敗。",
+      "related": {
+        "synonyms": "ban",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "censure",
+      "inVocab": true,
+      "senseAnchor": "strong criticism",
+      "roleInScript": "罵／正式非難",
+      "humorDevice": "lookalike",
+      "zhGloss": "譴責",
+      "speakLineEn": "Public censure should follow due process.",
+      "speakLineZh": "公開譴責應經正當程序。",
+      "related": {
+        "synonyms": "animadversion, condemnation, denunciation",
+        "antonyms": "praise, commend, acquittal, approbation"
+      }
+    },
+    {
+      "headword": "appraise",
+      "inVocab": true,
+      "senseAnchor": "evaluate or estimate the nature, quality, ability, extent, or significance of; consider in a comprehensive way",
+      "roleInScript": "估價值",
+      "humorDevice": "lookalike",
+      "zhGloss": "評估；估價",
+      "speakLineEn": "Appraise study quality with a rubric, not vibes.",
+      "speakLineZh": "用量表評估研究品質，不要靠感覺。",
+      "related": {
+        "synonyms": "measure, evaluate, valuate, assess, value, survey",
+        "antonyms": "disesteem, disrespect"
+      }
+    },
+    {
+      "headword": "apprise",
+      "inVocab": true,
+      "senseAnchor": "inform (somebody) of something; make aware of",
+      "roleInScript": "告知",
+      "humorDevice": "lookalike",
+      "zhGloss": "通知",
+      "speakLineEn": "Apprise coauthors of all deviations promptly.",
+      "speakLineZh": "及時通知共同作者所有偏離。",
+      "related": {
+        "synonyms": "advise, notify, apprize, instruct, appreciate, revalue",
+        "antonyms": "depreciate"
+      }
+    },
+    {
+      "headword": "allude",
+      "inVocab": true,
+      "senseAnchor": "make a more or less disguised reference to",
+      "roleInScript": "側面提到",
+      "humorDevice": "lookalike",
+      "zhGloss": "暗指",
+      "speakLineEn": "Allude to related work without dumping twenty names.",
+      "speakLineZh": "暗指相關研究，不要傾倒二十人名。",
+      "related": {
+        "synonyms": "touch, advert",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "elude",
+      "inVocab": true,
+      "senseAnchor": "escape, either physically or mentally; be incomprehensible to; escape understanding by",
+      "roleInScript": "躲過",
+      "humorDevice": "lookalike",
+      "zhGloss": "躲避；使不懂",
+      "speakLineEn": "A clear write-up should not elude non-specialists entirely.",
+      "speakLineZh": "清楚寫作不該完全讓非專家看不懂。",
+      "related": {
+        "synonyms": "evade, bilk, escape, hedge, fudge, circumvent",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "perspective",
+      "inVocab": false,
+      "senseAnchor": "視角；觀點",
+      "roleInScript": "看的角度",
+      "humorDevice": "lookalike",
+      "zhGloss": "視角；觀點",
+      "speakLineEn": "State the theoretical perspective up front.",
+      "speakLineZh": "先說理論視角。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "prospective",
+      "inVocab": false,
+      "senseAnchor": "前瞻的；預期的",
+      "roleInScript": "往前看的設計",
+      "humorDevice": "lookalike",
+      "zhGloss": "前瞻的；預期的",
+      "speakLineEn": "Prefer prospective registration when feasible.",
+      "speakLineZh": "可行時寧用前瞻註冊。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "historic",
+      "inVocab": false,
+      "senseAnchor": "歷史性的；有歷史意義的",
+      "roleInScript": "史上少見",
+      "humorDevice": "lookalike",
+      "zhGloss": "歷史性的；有歷史意義的",
+      "speakLineEn": "A historic leak is still one case.",
+      "speakLineZh": "歷史性洩漏仍是單案。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "historical",
+      "inVocab": false,
+      "senseAnchor": "歷史的；有關歷史的",
+      "roleInScript": "歷史相關",
+      "humorDevice": "lookalike",
+      "zhGloss": "歷史的；有關歷史的",
+      "speakLineEn": "Provide historical context for the measure.",
+      "speakLineZh": "為測量提供歷史脈絡。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "venal",
+      "inVocab": true,
+      "senseAnchor": "open to corrupt influence and especially bribery",
+      "roleInScript": "可收買",
+      "humorDevice": "lookalike",
+      "zhGloss": "貪贓的",
+      "speakLineEn": "Venal incentives corrupt peer review.",
+      "speakLineZh": "貪贓誘因腐化同儕審查。",
+      "related": {
+        "synonyms": "corruptible",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "venial",
+      "inVocab": true,
+      "senseAnchor": "warranting only temporal punishment; easily excused or forgiven",
+      "roleInScript": "可原諒小錯",
+      "humorDevice": "lookalike",
+      "zhGloss": "可恕的（小過）",
+      "speakLineEn": "A venial typo is not research misconduct.",
+      "speakLineZh": "可恕的打字錯誤不是研究不端。",
+      "related": {
+        "synonyms": "minor, excusable, forgivable",
+        "antonyms": "major, inexcusable"
+      }
+    }
+  ],
+  "reviewHooks": [
+    "imply↔infer；averse↔adverse；discrete↔discreet；censor↔censure",
+    "allude＝暗指；elude＝躲過"
+  ],
+  "pitfalls": [
+    "每對只差拼寫／角色，造句先問『誰做動作』",
+    "discrete 常用於數學／類別分離"
+  ],
+  "lessonRefs": [
+    "lesson-look-pair-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S3b"
+  }
+}

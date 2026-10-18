@@ -1,0 +1,238 @@
+{
+  "id": "root-dict-01",
+  "type": "root",
+  "elementLemma": "dict",
+  "titleZh": "dict｜言說法庭",
+  "titleEn": "Dictum Court",
+  "hook": "字根 dict＝說——誰說了算。",
+  "script": "dictate 口述命令；predict 預先說。contradict 反過來說，verdict 真實的裁決之說。dictionary 詞典，dictum 正式意見，edict 公告，indict 起訴指控，benediction 祝福之說，malediction 詛咒，jurisdiction 司法言說範圍，abdicate 已在詞庫——這裡看 dedicate 奉獻宣告。",
+  "members": [
+    {
+      "headword": "dictate",
+      "inVocab": false,
+      "senseAnchor": "口述；命令；決定",
+      "roleInScript": "說了就算",
+      "humorDevice": "morphology",
+      "zhGloss": "口述；命令；決定",
+      "speakLineEn": "Do not let deadlines dictate design quality.",
+      "speakLineZh": "別讓截止日決定設計品質。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "predict",
+      "inVocab": false,
+      "senseAnchor": "預測",
+      "roleInScript": "預先說",
+      "humorDevice": "morphology",
+      "zhGloss": "預測",
+      "speakLineEn": "Predict direction and rough magnitude when possible.",
+      "speakLineZh": "盡可能預測方向與大致幅度。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "contradict",
+      "inVocab": false,
+      "senseAnchor": "反駁；矛盾",
+      "roleInScript": "反過來說",
+      "humorDevice": "morphology",
+      "zhGloss": "反駁；矛盾",
+      "speakLineEn": "New data may contradict a cherished model.",
+      "speakLineZh": "新資料可能矛盾於鍾愛模型。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "verdict",
+      "inVocab": false,
+      "senseAnchor": "裁決；定論",
+      "roleInScript": "真實之說的結果",
+      "humorDevice": "morphology",
+      "zhGloss": "裁決；定論",
+      "speakLineEn": "The verdict on generalizability is still out.",
+      "speakLineZh": "概化性的定論尚未出爐。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "dictionary",
+      "inVocab": false,
+      "senseAnchor": "詞典",
+      "roleInScript": "標準說法本",
+      "humorDevice": "story",
+      "zhGloss": "詞典",
+      "speakLineEn": "Operational definitions beat dictionary hand-waving.",
+      "speakLineZh": "操作定義勝過詞典空談。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "dictum",
+      "inVocab": true,
+      "senseAnchor": "an authoritative declaration; an opinion voiced by a judge on a point of law not directly bearing on the case in question and therefore not binding",
+      "roleInScript": "權威一句話",
+      "humorDevice": "morphology",
+      "zhGloss": "正式聲明；格言式意見",
+      "speakLineEn": "A famous dictum is not a citation.",
+      "speakLineZh": "名言不是引用。",
+      "related": {
+        "synonyms": "pronouncement, say-so",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "edict",
+      "inVocab": false,
+      "senseAnchor": "敕令；公告",
+      "roleInScript": "官方說出的令",
+      "humorDevice": "morphology",
+      "zhGloss": "敕令；公告",
+      "speakLineEn": "Lab edicts should be versioned like code.",
+      "speakLineZh": "實驗室公告應像程式一樣版本化。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "indict",
+      "inVocab": true,
+      "senseAnchor": "to officially charge someone",
+      "roleInScript": "正式指控之說",
+      "humorDevice": "morphology",
+      "zhGloss": "起訴；控告",
+      "speakLineEn": "Do not indict a field for one bad paper.",
+      "speakLineZh": "不要因一篇爛文起訴整個領域。",
+      "related": {
+        "synonyms": "excoriate, incriminate",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "benediction",
+      "inVocab": false,
+      "senseAnchor": "祝福",
+      "roleInScript": "好話說出口",
+      "humorDevice": "story",
+      "zhGloss": "祝福",
+      "speakLineEn": "The acknowledgments need not be a benediction marathon.",
+      "speakLineZh": "誌謝不必變成祝福馬拉松。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "malediction",
+      "inVocab": true,
+      "senseAnchor": "the act of calling down a curse that invokes evil (and usually serves as an insult)",
+      "roleInScript": "壞話咒語",
+      "humorDevice": "morphology",
+      "zhGloss": "詛咒",
+      "speakLineEn": "Online malediction is not peer review.",
+      "speakLineZh": "網路詛咒不是同儕審查。",
+      "related": {
+        "synonyms": "imprecation",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "jurisdiction",
+      "inVocab": true,
+      "senseAnchor": "(law) the right and power to interpret and apply the law; in law; the territory within which power can be exercised",
+      "roleInScript": "能說了算的範圍",
+      "humorDevice": "morphology",
+      "zhGloss": "管轄權",
+      "speakLineEn": "Clarify statistical jurisdiction of each analysis.",
+      "speakLineZh": "釐清各分析的統計管轄。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "dedicate",
+      "inVocab": false,
+      "senseAnchor": "奉獻；致力於",
+      "roleInScript": "宣告獻給",
+      "humorDevice": "morphology",
+      "zhGloss": "奉獻；致力於",
+      "speakLineEn": "Dedicate a section to negative controls.",
+      "speakLineZh": "專節獻給負控制。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "predictor",
+      "inVocab": false,
+      "senseAnchor": "預測變項／預測器",
+      "roleInScript": "用來預先說的東西",
+      "humorDevice": "morphology",
+      "zhGloss": "預測變項／預測器",
+      "speakLineEn": "A strong predictor is not automatically a cause.",
+      "speakLineZh": "強預測子不自動是原因。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "contradiction",
+      "inVocab": false,
+      "senseAnchor": "矛盾",
+      "roleInScript": "反說的狀態",
+      "humorDevice": "morphology",
+      "zhGloss": "矛盾",
+      "speakLineEn": "Resolve contradiction before meta-analysis.",
+      "speakLineZh": "統合分析前先處理矛盾。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "dictatorial",
+      "inVocab": false,
+      "senseAnchor": "獨裁的",
+      "roleInScript": "一人說了算",
+      "humorDevice": "morphology",
+      "zhGloss": "獨裁的",
+      "speakLineEn": "Dictatorial lab culture suppresses error reports.",
+      "speakLineZh": "獨裁實驗室文化壓抑錯誤報告。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    }
+  ],
+  "reviewHooks": [
+    "dict＝說：dictate/predict/contradict/verdict/edict/indict",
+    "contradict＝矛盾反說；jurisdiction＝管轄言說範圍"
+  ],
+  "pitfalls": [
+    "indict＝起訴（發音特殊）",
+    "dictum ≠ dictumum"
+  ],
+  "lessonRefs": [
+    "lesson-root-dict-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S3b"
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "id": "root-fer-01",
+  "type": "root",
+  "elementLemma": "fer",
+  "titleZh": "fer｜搬運與偏好調度室",
+  "titleEn": "Ferry Desk of fer",
+  "hook": "字根 fer＝帶、拿——文件與偏好都在傳送帶上。",
+  "script": "資料 transfer 轉送；會議 defer 延後再搬。prefer 比較想搬哪邊，confer 湊一起商量。infer 從線索搬出結論，refer 把問題搬去別處。offer／proffer 端上來；fertile 多產，proliferate 大量增生；differ 搬成不一樣，indifferent 懶得搬偏好，suffer 被迫扛著走。",
+  "members": [
+    {
+      "headword": "transfer",
+      "inVocab": false,
+      "senseAnchor": "轉移；調動",
+      "roleInScript": "轉送到另一條帶",
+      "humorDevice": "morphology",
+      "zhGloss": "轉移；調動",
+      "speakLineEn": "Do not transfer blame without tracing the cause.",
+      "speakLineZh": "未追因就不要轉移責難。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "defer",
+      "inVocab": false,
+      "senseAnchor": "延期；順從",
+      "roleInScript": "先搬到以後",
+      "humorDevice": "morphology",
+      "zhGloss": "延期；順從",
+      "speakLineEn": "We defer judgment until replication arrives.",
+      "speakLineZh": "複現到來前，我們延後下判斷。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "prefer",
+      "inVocab": false,
+      "senseAnchor": "更喜歡；寧可",
+      "roleInScript": "比較想搬哪邊",
+      "humorDevice": "morphology",
+      "zhGloss": "更喜歡；寧可",
+      "speakLineEn": "Reviewers prefer precise claims over sweeping ones.",
+      "speakLineZh": "審稿人寧可要精確主張。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "confer",
+      "inVocab": true,
+      "senseAnchor": "have a conference in order to talk something over; present",
+      "roleInScript": "湊一起搬意見",
+      "humorDevice": "morphology",
+      "zhGloss": "商議；授予",
+      "speakLineEn": "The panel will confer before announcing rankings.",
+      "speakLineZh": "小組將在宣布排名前商議。",
+      "related": {
+        "synonyms": "confabulate, confab, consult, bestow",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "infer",
+      "inVocab": false,
+      "senseAnchor": "推論；推斷",
+      "roleInScript": "從線索搬出結論",
+      "humorDevice": "morphology",
+      "zhGloss": "推論；推斷",
+      "speakLineEn": "From silence we should not infer consent.",
+      "speakLineZh": "不該從沉默推論出同意。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "refer",
+      "inVocab": false,
+      "senseAnchor": "提及；轉介；參考",
+      "roleInScript": "把問題搬去別處",
+      "humorDevice": "morphology",
+      "zhGloss": "提及；轉介；參考",
+      "speakLineEn": "Please refer to the appendix for full tables.",
+      "speakLineZh": "完整表格請參考附錄。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "offer",
+      "inVocab": false,
+      "senseAnchor": "提供；提議",
+      "roleInScript": "端上來",
+      "humorDevice": "story",
+      "zhGloss": "提供；提議",
+      "speakLineEn": "The paper offers a narrower mechanism than advertised.",
+      "speakLineZh": "論文提供的機制比宣傳更窄。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "proffer",
+      "inVocab": true,
+      "senseAnchor": "a proposal offered for acceptance or rejection; present for acceptance or rejection",
+      "roleInScript": "更正式地遞",
+      "humorDevice": "morphology",
+      "zhGloss": "正式提出；遞上",
+      "speakLineEn": "Counsel proffered an alternative reading of the clause.",
+      "speakLineZh": "律師正式提出另一種解讀。",
+      "related": {
+        "synonyms": "suggestion, proposition, offer",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "fertile",
+      "inVocab": false,
+      "senseAnchor": "肥沃的；多產的",
+      "roleInScript": "能產出很多",
+      "humorDevice": "morphology",
+      "zhGloss": "肥沃的；多產的",
+      "speakLineEn": "A fertile debate generated testable hypotheses.",
+      "speakLineZh": "多產辯論產生可檢驗假說。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "proliferate",
+      "inVocab": true,
+      "senseAnchor": "grow rapidly",
+      "roleInScript": "大量搬出來",
+      "humorDevice": "morphology",
+      "zhGloss": "激增；擴散",
+      "speakLineEn": "Metrics proliferate when incentives reward counting.",
+      "speakLineZh": "誘因獎勵計數時指標激增。",
+      "related": {
+        "synonyms": "abound",
+        "antonyms": "decrease, dwindle"
+      }
+    },
+    {
+      "headword": "differ",
+      "inVocab": false,
+      "senseAnchor": "不同；有分歧",
+      "roleInScript": "搬成不一樣",
+      "humorDevice": "morphology",
+      "zhGloss": "不同；有分歧",
+      "speakLineEn": "Experts differ on how to weight outliers.",
+      "speakLineZh": "專家對極端值加權有分歧。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "indifferent",
+      "inVocab": false,
+      "senseAnchor": "冷漠的；無所謂的",
+      "roleInScript": "不想搬偏好",
+      "humorDevice": "morphology",
+      "zhGloss": "冷漠的；無所謂的",
+      "speakLineEn": "An indifferent public still shapes turnout math.",
+      "speakLineZh": "冷漠公眾仍形塑投票率。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "suffer",
+      "inVocab": false,
+      "senseAnchor": "遭受；受苦",
+      "roleInScript": "被迫扛著搬走",
+      "humorDevice": "morphology",
+      "zhGloss": "遭受；受苦",
+      "speakLineEn": "The design will suffer if power is too low.",
+      "speakLineZh": "檢定力太低，設計會受苦。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "referendum",
+      "inVocab": false,
+      "senseAnchor": "公投",
+      "roleInScript": "把決定搬回給眾人",
+      "humorDevice": "story",
+      "zhGloss": "公投",
+      "speakLineEn": "A referendum cannot replace careful cost analysis.",
+      "speakLineZh": "公投不能取代成本分析。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "circumference",
+      "inVocab": false,
+      "senseAnchor": "圓周；周邊",
+      "roleInScript": "帶著邊界走一圈",
+      "humorDevice": "story",
+      "zhGloss": "圓周；周邊",
+      "speakLineEn": "Stay within the circumference of the defined construct.",
+      "speakLineZh": "停留在構念圓周內。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    }
+  ],
+  "reviewHooks": [
+    "fer＝搬：transfer/defer/prefer/confer/infer/refer",
+    "infer≠imply；defer＝延期或順從"
+  ],
+  "pitfalls": [
+    "infer（聽者推論）≠ imply（說者暗示）",
+    "defer to＝順從權威"
+  ],
+  "lessonRefs": [
+    "lesson-root-fer-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S3b"
+  }
+}

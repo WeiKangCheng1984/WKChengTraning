@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-pend-01",
+  "slug": "root-pend-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-pend-01",
+  "titleZh": "pend｜懸吊與待決櫃",
+  "titleEn": "Pending & Hanging",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 pend/pens＝懸、稱、付——掛著的事最折磨人。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "pending 懸而未決；suspend 暫時吊起來。depend 掛靠依賴，independent 不掛靠。append 附加，appendix 附錄。compensate 補償秤平，dispense 分配／免除，pensive 沉思掛著臉，expenditure 支出，pension 養老金，perpendicular 垂直掛線，impending 迫近懸在頭上。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "pend＝懸：pending/suspend/depend/append/impending",
+        "compensate＝補償秤平"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "About to happen:",
+      "promptZh": "即將發生：",
+      "choices": [
+        "impending",
+        "pending forever",
+        "appendix",
+        "pension"
+      ],
+      "answer": "impending"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Temporarily stop:",
+      "promptZh": "暫停：",
+      "choices": [
+        "suspend",
+        "append",
+        "pensive",
+        "pendant"
+      ],
+      "answer": "suspend"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Make up for:",
+      "promptZh": "補償：",
+      "choices": [
+        "compensate",
+        "depend",
+        "dispense candy only",
+        "perpendicular"
+      ],
+      "answer": "compensate"
+    }
+  ],
+  "pitfalls": [
+    "pending＝待決；impending＝即將發生",
+    "dispense with＝免除不用"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S3b"
+  }
+}

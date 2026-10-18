@@ -1,0 +1,238 @@
+{
+  "id": "root-fin-01",
+  "type": "root",
+  "elementLemma": "fin",
+  "titleZh": "fin｜邊界與終結線",
+  "titleEn": "Finish Line",
+  "hook": "字根 fin＝終、界——畫線的地方。",
+  "script": "final 最終，finish 完成，finite 有限，infinite 無限。define 下定義劃界，refine 精煉邊界，confine 限制在界內，affinity 相近吸引。finance 金錢邊界管理，fine 精細／罰款，finale 終章，definitive 決定性，indefinite 不定。",
+  "members": [
+    {
+      "headword": "final",
+      "inVocab": false,
+      "senseAnchor": "最終的",
+      "roleInScript": "終線",
+      "humorDevice": "morphology",
+      "zhGloss": "最終的",
+      "speakLineEn": "Final analyses should match the preregistered set.",
+      "speakLineZh": "最終分析應對齊預註冊集合。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "finish",
+      "inVocab": false,
+      "senseAnchor": "完成",
+      "roleInScript": "跑到終點",
+      "humorDevice": "story",
+      "zhGloss": "完成",
+      "speakLineEn": "Finish robustness before press quotes.",
+      "speakLineZh": "新聞稿前先完成穩健檢查。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "finite",
+      "inVocab": false,
+      "senseAnchor": "有限的",
+      "roleInScript": "有邊界",
+      "humorDevice": "morphology",
+      "zhGloss": "有限的",
+      "speakLineEn": "Attention is finite; prioritize claims.",
+      "speakLineZh": "注意力有限；排序主張。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "infinite",
+      "inVocab": false,
+      "senseAnchor": "無限的",
+      "roleInScript": "無邊界",
+      "humorDevice": "morphology",
+      "zhGloss": "無限的",
+      "speakLineEn": "Infinite flexibility makes false positives infinite too.",
+      "speakLineZh": "無限彈性也讓假陽性無限。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "define",
+      "inVocab": false,
+      "senseAnchor": "定義",
+      "roleInScript": "劃界",
+      "humorDevice": "morphology",
+      "zhGloss": "定義",
+      "speakLineEn": "Define success criteria before launch.",
+      "speakLineZh": "啟動前定義成功標準。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "refine",
+      "inVocab": false,
+      "senseAnchor": "精煉；改進",
+      "roleInScript": "把界修細",
+      "humorDevice": "morphology",
+      "zhGloss": "精煉；改進",
+      "speakLineEn": "Refine the codebook after pilot disagreements.",
+      "speakLineZh": "試點分歧後精煉編碼簿。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "confine",
+      "inVocab": false,
+      "senseAnchor": "限制；禁閉",
+      "roleInScript": "關在界內",
+      "humorDevice": "morphology",
+      "zhGloss": "限制；禁閉",
+      "speakLineEn": "Confine exploratory plots to a sandbox.",
+      "speakLineZh": "探索圖關在沙盒內。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "affinity",
+      "inVocab": true,
+      "senseAnchor": "a habitual attraction to some activity or thing",
+      "roleInScript": "界線靠近",
+      "humorDevice": "morphology",
+      "zhGloss": "親近；親和",
+      "speakLineEn": "Affinity for a theory can bias coding.",
+      "speakLineZh": "對理論的親近感會偏差編碼。",
+      "related": {
+        "synonyms": "bent, penchant, predication, proclivity",
+        "antonyms": "aversion, disgust, consanguinity, straighten, unbend, dislike"
+      }
+    },
+    {
+      "headword": "finance",
+      "inVocab": false,
+      "senseAnchor": "金融；資助",
+      "roleInScript": "管錢的邊界",
+      "humorDevice": "story",
+      "zhGloss": "金融；資助",
+      "speakLineEn": "Who finances the trial must be disclosed.",
+      "speakLineZh": "誰資助試驗必須揭露。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "finale",
+      "inVocab": true,
+      "senseAnchor": "the closing part, scene, or number",
+      "roleInScript": "最後一幕",
+      "humorDevice": "story",
+      "zhGloss": "終章",
+      "speakLineEn": "The finale should restate limits, not hype.",
+      "speakLineZh": "終章應重申限制，而非炒作。",
+      "related": {
+        "synonyms": "coda, conclusion",
+        "antonyms": "beginning"
+      }
+    },
+    {
+      "headword": "definitive",
+      "inVocab": false,
+      "senseAnchor": "決定性的；權威的",
+      "roleInScript": "一錘定界",
+      "humorDevice": "morphology",
+      "zhGloss": "決定性的；權威的",
+      "speakLineEn": "No single study is definitive.",
+      "speakLineZh": "沒有單一研究具決定性。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "indefinite",
+      "inVocab": false,
+      "senseAnchor": "不定的；無限期的",
+      "roleInScript": "界不清楚",
+      "humorDevice": "morphology",
+      "zhGloss": "不定的；無限期的",
+      "speakLineEn": "Indefinite postponement kills accountability.",
+      "speakLineZh": "無限期延期殺死課責。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "finality",
+      "inVocab": false,
+      "senseAnchor": "終結性；定局",
+      "roleInScript": "已到終點感",
+      "humorDevice": "morphology",
+      "zhGloss": "終結性；定局",
+      "speakLineEn": "Treat editorial finality as provisional.",
+      "speakLineZh": "把編輯定局當暫定。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "refinement",
+      "inVocab": false,
+      "senseAnchor": "精煉；改進",
+      "roleInScript": "修細的產品",
+      "humorDevice": "morphology",
+      "zhGloss": "精煉；改進",
+      "speakLineEn": "Each refinement should be logged.",
+      "speakLineZh": "每次精煉應記錄。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "unfinished",
+      "inVocab": false,
+      "senseAnchor": "未完成的",
+      "roleInScript": "沒到終線",
+      "humorDevice": "story",
+      "zhGloss": "未完成的",
+      "speakLineEn": "Unfinished robustness is unfinished science.",
+      "speakLineZh": "未完成穩健＝未完成科學。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    }
+  ],
+  "reviewHooks": [
+    "fin＝界／終：final/finite/define/refine/confine/definitive",
+    "affinity＝相近；infinite＝無界"
+  ],
+  "pitfalls": [
+    "finite ≠ infinite",
+    "define＝劃界定義"
+  ],
+  "lessonRefs": [
+    "lesson-root-fin-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S3b"
+  }
+}

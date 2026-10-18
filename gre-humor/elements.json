@@ -17,7 +17,7 @@
     "priorityA": 87,
     "priorityB": 181,
     "priorityC": 63,
-    "withCluster": 24
+    "withCluster": 44
   },
   "elements": [
     {
@@ -584,7 +584,9 @@
       "lemma": "scrib/script",
       "glossZh": "寫",
       "priority": "A",
-      "clusterIds": [],
+      "clusterIds": [
+        "root-scrib-01"
+      ],
       "status": "listed"
     },
     {
@@ -593,7 +595,9 @@
       "lemma": "port",
       "glossZh": "運、帶",
       "priority": "A",
-      "clusterIds": [],
+      "clusterIds": [
+        "root-port-01"
+      ],
       "status": "listed"
     },
     {
@@ -602,7 +606,9 @@
       "lemma": "pos/pon",
       "glossZh": "放、置",
       "priority": "A",
-      "clusterIds": [],
+      "clusterIds": [
+        "root-pos-01"
+      ],
       "status": "listed"
     },
     {
@@ -611,7 +617,9 @@
       "lemma": "fac/fic/fect",
       "glossZh": "做、造",
       "priority": "A",
-      "clusterIds": [],
+      "clusterIds": [
+        "root-fac-01"
+      ],
       "status": "listed"
     },
     {
@@ -620,7 +628,9 @@
       "lemma": "cap/cept/cip",
       "glossZh": "拿、抓",
       "priority": "A",
-      "clusterIds": [],
+      "clusterIds": [
+        "root-cap-01"
+      ],
       "status": "listed"
     },
     {
@@ -629,7 +639,9 @@
       "lemma": "ten/tain",
       "glossZh": "持、握",
       "priority": "A",
-      "clusterIds": [],
+      "clusterIds": [
+        "root-ten-01"
+      ],
       "status": "listed"
     },
     {
@@ -660,7 +672,9 @@
       "lemma": "fer",
       "glossZh": "帶、拿",
       "priority": "A",
-      "clusterIds": [],
+      "clusterIds": [
+        "root-fer-01"
+      ],
       "status": "listed"
     },
     {
@@ -691,7 +705,9 @@
       "lemma": "struct",
       "glossZh": "建造",
       "priority": "A",
-      "clusterIds": [],
+      "clusterIds": [
+        "root-struct-01"
+      ],
       "status": "listed"
     },
     {
@@ -778,7 +794,9 @@
       "lemma": "dict",
       "glossZh": "說",
       "priority": "A",
-      "clusterIds": [],
+      "clusterIds": [
+        "root-dict-01"
+      ],
       "status": "listed"
     },
     {
@@ -796,7 +814,9 @@
       "lemma": "fin",
       "glossZh": "終、界",
       "priority": "B",
-      "clusterIds": [],
+      "clusterIds": [
+        "root-fin-01"
+      ],
       "status": "listed"
     },
     {
@@ -859,7 +879,9 @@
       "lemma": "jud/jur/jus",
       "glossZh": "法、判",
       "priority": "A",
-      "clusterIds": [],
+      "clusterIds": [
+        "root-jud-01"
+      ],
       "status": "listed"
     },
     {
@@ -1219,7 +1241,9 @@
       "lemma": "pel/puls",
       "glossZh": "推",
       "priority": "A",
-      "clusterIds": [],
+      "clusterIds": [
+        "root-pel-01"
+      ],
       "status": "listed"
     },
     {
@@ -1228,7 +1252,9 @@
       "lemma": "pend/pens",
       "glossZh": "懸、稱、付",
       "priority": "A",
-      "clusterIds": [],
+      "clusterIds": [
+        "root-pend-01"
+      ],
       "status": "listed"
     },
     {
@@ -1561,7 +1587,9 @@
       "lemma": "sent/sens",
       "glossZh": "感",
       "priority": "A",
-      "clusterIds": [],
+      "clusterIds": [
+        "root-sent-01"
+      ],
       "status": "listed"
     },
     {
@@ -1669,7 +1697,9 @@
       "lemma": "sta/stit",
       "glossZh": "站",
       "priority": "A",
-      "clusterIds": [],
+      "clusterIds": [
+        "root-sta-01"
+      ],
       "status": "listed"
     },
     {
@@ -1948,7 +1978,9 @@
       "lemma": "ven/vent",
       "glossZh": "來",
       "priority": "A",
-      "clusterIds": [],
+      "clusterIds": [
+        "root-ven-01"
+      ],
       "status": "listed"
     },
     {
@@ -1993,7 +2025,9 @@
       "lemma": "vid/vis",
       "glossZh": "看",
       "priority": "A",
-      "clusterIds": [],
+      "clusterIds": [
+        "root-vid-01"
+      ],
       "status": "listed"
     },
     {
@@ -2172,7 +2206,9 @@
       "lemma": "-ain/-ane",
       "glossZh": "ain/ane 押韻族（候選）",
       "priority": "B",
-      "clusterIds": [],
+      "clusterIds": [
+        "rhyme-ain-01"
+      ],
       "status": "listed"
     },
     {
@@ -2556,7 +2592,9 @@
       "lemma": "clear-vs-obscure",
       "glossZh": "清晰↔晦澀",
       "priority": "B",
-      "clusterIds": [],
+      "clusterIds": [
+        "sem-clear-01"
+      ],
       "status": "listed"
     },
     {
@@ -2936,7 +2974,9 @@
       "lemma": "imply-infer",
       "glossZh": "暗示／推論對",
       "priority": "A",
-      "clusterIds": [],
+      "clusterIds": [
+        "look-pair-01"
+      ],
       "status": "listed"
     },
     {

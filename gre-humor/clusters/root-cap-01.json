@@ -1,0 +1,238 @@
+{
+  "id": "root-cap-01",
+  "type": "root",
+  "elementLemma": "cap/cept/cip",
+  "titleZh": "cap／cept｜捕捉與接收站",
+  "titleEn": "Capture & Receive",
+  "hook": "字根 cap/cept/cip＝拿、抓、接收。",
+  "script": "captivate 抓住目光；intercept 中途截走。susceptible 易被抓住影響，perceive 接收到知覺。receive／receipt 收到，accept 接受，except 排除不拿。concept 一起抓住的概念，anticipate 提前抓住，participate 分一份去抓，capable 有能力抓住，capacity 容量。",
+  "members": [
+    {
+      "headword": "captivate",
+      "inVocab": false,
+      "senseAnchor": "迷住；吸引",
+      "roleInScript": "抓住目光",
+      "humorDevice": "morphology",
+      "zhGloss": "迷住；吸引",
+      "speakLineEn": "A vivid case can captivate without proving generality.",
+      "speakLineZh": "生動案例能迷住，但不證明普遍性。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "intercept",
+      "inVocab": false,
+      "senseAnchor": "攔截",
+      "roleInScript": "中途截走",
+      "humorDevice": "morphology",
+      "zhGloss": "攔截",
+      "speakLineEn": "Filters intercept spam before it reaches inboxes.",
+      "speakLineZh": "過濾器在進信箱前攔截垃圾信。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "susceptible",
+      "inVocab": true,
+      "senseAnchor": "being in a situation where one is likely to meet with harm",
+      "roleInScript": "易被抓住",
+      "humorDevice": "morphology",
+      "zhGloss": "易受影響的",
+      "speakLineEn": "Young fields are susceptible to hype cycles.",
+      "speakLineZh": "年輕領域易受炒作週期影響。",
+      "related": {
+        "synonyms": "endangered, vulnerable",
+        "antonyms": "unsusceptible, invulnerable"
+      }
+    },
+    {
+      "headword": "perceive",
+      "inVocab": false,
+      "senseAnchor": "察覺；認為",
+      "roleInScript": "接收到知覺",
+      "humorDevice": "morphology",
+      "zhGloss": "察覺；認為",
+      "speakLineEn": "Readers perceive confidence from hedging choices.",
+      "speakLineZh": "讀者從對沖用語察覺信心。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "receive",
+      "inVocab": false,
+      "senseAnchor": "收到",
+      "roleInScript": "接下來",
+      "humorDevice": "story",
+      "zhGloss": "收到",
+      "speakLineEn": "Did the editor receive the corrected supplement?",
+      "speakLineZh": "編輯收到修正附錄了嗎？",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "accept",
+      "inVocab": false,
+      "senseAnchor": "接受",
+      "roleInScript": "收下",
+      "humorDevice": "morphology",
+      "zhGloss": "接受",
+      "speakLineEn": "Journals increasingly accept null results with strong design.",
+      "speakLineZh": "期刊漸接受設計強的無效應結果。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "except",
+      "inVocab": false,
+      "senseAnchor": "除了；排除",
+      "roleInScript": "不拿進來",
+      "humorDevice": "morphology",
+      "zhGloss": "除了；排除",
+      "speakLineEn": "All trials except one used blinded scoring.",
+      "speakLineZh": "除一項外皆用盲評。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "concept",
+      "inVocab": false,
+      "senseAnchor": "概念",
+      "roleInScript": "一起抓住的想法",
+      "humorDevice": "morphology",
+      "zhGloss": "概念",
+      "speakLineEn": "Define the concept before you operationalize it.",
+      "speakLineZh": "操作化前先定義概念。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "anticipate",
+      "inVocab": false,
+      "senseAnchor": "預期；預先處理",
+      "roleInScript": "提前抓住",
+      "humorDevice": "morphology",
+      "zhGloss": "預期；預先處理",
+      "speakLineEn": "Anticipate reviewer concerns in the limitations section.",
+      "speakLineZh": "在限制段落預先處理審稿疑慮。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "participate",
+      "inVocab": false,
+      "senseAnchor": "參與",
+      "roleInScript": "分一份去抓",
+      "humorDevice": "morphology",
+      "zhGloss": "參與",
+      "speakLineEn": "Patients should participate as partners, not only subjects.",
+      "speakLineZh": "病人應以夥伴身分參與。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "capable",
+      "inVocab": false,
+      "senseAnchor": "有能力的",
+      "roleInScript": "抓得住",
+      "humorDevice": "morphology",
+      "zhGloss": "有能力的",
+      "speakLineEn": "A capable design still needs honest missing-data rules.",
+      "speakLineZh": "有能力的設計仍需誠實缺值規則。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "capacity",
+      "inVocab": false,
+      "senseAnchor": "容量；能力",
+      "roleInScript": "能裝多少",
+      "humorDevice": "morphology",
+      "zhGloss": "容量；能力",
+      "speakLineEn": "Institutional capacity limits how fast reforms travel.",
+      "speakLineZh": "制度容量限制改革速度。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "capture",
+      "inVocab": false,
+      "senseAnchor": "捕捉；奪取",
+      "roleInScript": "抓到",
+      "humorDevice": "morphology",
+      "zhGloss": "捕捉；奪取",
+      "speakLineEn": "Surveys rarely capture tacit knowledge well.",
+      "speakLineZh": "問卷很少能捕捉默會知識。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "recipient",
+      "inVocab": false,
+      "senseAnchor": "接受者",
+      "roleInScript": "被遞到的人",
+      "humorDevice": "morphology",
+      "zhGloss": "接受者",
+      "speakLineEn": "Name the recipient of benefits, not only average effects.",
+      "speakLineZh": "說清受益接受者，不只平均效應。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "emancipate",
+      "inVocab": false,
+      "senseAnchor": "解放",
+      "roleInScript": "解開被抓住的鎖",
+      "humorDevice": "morphology",
+      "zhGloss": "解放",
+      "speakLineEn": "Open tools can emancipate labs from vendor lock-in.",
+      "speakLineZh": "開放工具能讓實驗室擺脫供應商鎖定。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    }
+  ],
+  "reviewHooks": [
+    "cap＝抓：captivate/intercept/perceive/accept/except/concept",
+    "susceptible＝易感；capacity＝容量"
+  ],
+  "pitfalls": [
+    "accept ≠ except",
+    "anticipate 不只『期待』也有『預先處理』"
+  ],
+  "lessonRefs": [
+    "lesson-root-cap-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S3b"
+  }
+}

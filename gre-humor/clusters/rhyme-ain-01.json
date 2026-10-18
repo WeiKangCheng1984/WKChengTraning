@@ -1,0 +1,224 @@
+{
+  "id": "rhyme-ain-01",
+  "type": "rhyme",
+  "elementLemma": "-ain/-ane",
+  "titleZh": "-ain｜抱怨與訓練營",
+  "titleEn": "The -ain Camp",
+  "hook": "尾巴 -ain：抱怨、解釋、約束、大腦與排水管。",
+  "script": "抱怨 complain，解釋 explain，約束 restrain／constraint。大腦 brain，排水 drain，木頭 grain，染 stain，緊張 strain，獲得 gain，主要 main，平原 plain，雨 rain——串成一座吵闹訓練營。",
+  "members": [
+    {
+      "headword": "complain",
+      "inVocab": false,
+      "senseAnchor": "抱怨",
+      "roleInScript": "營裡喊不平",
+      "humorDevice": "story",
+      "zhGloss": "抱怨",
+      "speakLineEn": "Reviewers may complain about missing power analysis.",
+      "speakLineZh": "審稿人可能抱怨缺少檢定力分析。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "explain",
+      "inVocab": false,
+      "senseAnchor": "解釋",
+      "roleInScript": "講清楚",
+      "humorDevice": "story",
+      "zhGloss": "解釋",
+      "speakLineEn": "Explain exclusions before results.",
+      "speakLineZh": "結果前先解釋排除。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "restrain",
+      "inVocab": false,
+      "senseAnchor": "抑制；拘束",
+      "roleInScript": "拉住不讓衝",
+      "humorDevice": "story",
+      "zhGloss": "抑制；拘束",
+      "speakLineEn": "Restrain causal verbs without identification.",
+      "speakLineZh": "沒識別就抑制因果動詞。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "constraint",
+      "inVocab": false,
+      "senseAnchor": "約束；限制",
+      "roleInScript": "營規",
+      "humorDevice": "story",
+      "zhGloss": "約束；限制",
+      "speakLineEn": "Budget is a hard constraint on sample size.",
+      "speakLineZh": "預算是樣本量硬約束。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "strain",
+      "inVocab": false,
+      "senseAnchor": "拉緊；張力；菌株",
+      "roleInScript": "緊繃",
+      "humorDevice": "story",
+      "zhGloss": "拉緊；張力；菌株",
+      "speakLineEn": "Strain on staff predicts coding errors.",
+      "speakLineZh": "人員緊繃預測編碼錯誤。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "gain",
+      "inVocab": false,
+      "senseAnchor": "獲得",
+      "roleInScript": "練到的進步",
+      "humorDevice": "story",
+      "zhGloss": "獲得",
+      "speakLineEn": "Report absolute risk gain, not relative alone.",
+      "speakLineZh": "報告絕對風險獲益，不只相對。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "main",
+      "inVocab": false,
+      "senseAnchor": "主要的",
+      "roleInScript": "主線",
+      "humorDevice": "story",
+      "zhGloss": "主要的",
+      "speakLineEn": "Keep the main hypothesis visually first.",
+      "speakLineZh": "主假說視覺上放最前。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "plain",
+      "inVocab": false,
+      "senseAnchor": "清楚的；平原",
+      "roleInScript": "一眼平原",
+      "humorDevice": "story",
+      "zhGloss": "清楚的；平原",
+      "speakLineEn": "Use plain language in consent forms.",
+      "speakLineZh": "同意書用清楚語言。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "stain",
+      "inVocab": true,
+      "senseAnchor": "a soiled or discolored appearance; (microscopy) a dye or other coloring material that is used in microscopy to make structures visible",
+      "roleInScript": "沾上的斑",
+      "humorDevice": "story",
+      "zhGloss": "污漬；染色",
+      "speakLineEn": "A ethics stain spreads faster than a correction.",
+      "speakLineZh": "倫理污點比更正傳更快。",
+      "related": {
+        "synonyms": "discoloration, discolouration, dirt, filth, grime, soil",
+        "antonyms": "clean"
+      }
+    },
+    {
+      "headword": "drain",
+      "inVocab": false,
+      "senseAnchor": "排水；耗盡",
+      "roleInScript": "流走精力",
+      "humorDevice": "story",
+      "zhGloss": "排水；耗盡",
+      "speakLineEn": "Meetings can drain analytic attention.",
+      "speakLineZh": "會議會排乾分析注意力。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "brain",
+      "inVocab": false,
+      "senseAnchor": "腦",
+      "roleInScript": "營指揮部",
+      "humorDevice": "story",
+      "zhGloss": "腦",
+      "speakLineEn": "Brain-friendly figures beat dense tables sometimes.",
+      "speakLineZh": "有時腦友好圖勝密集表。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "grain",
+      "inVocab": false,
+      "senseAnchor": "穀粒；紋理；一點點",
+      "roleInScript": "一粒",
+      "humorDevice": "story",
+      "zhGloss": "穀粒；紋理；一點點",
+      "speakLineEn": "Take findings with a grain of uncertainty.",
+      "speakLineZh": "帶著一粒不確定性看待發現。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "rain",
+      "inVocab": false,
+      "senseAnchor": "雨",
+      "roleInScript": "營外下雨",
+      "humorDevice": "story",
+      "zhGloss": "雨",
+      "speakLineEn": "When critiques rain, triage by severity.",
+      "speakLineZh": "批評如雨時依嚴重度分流。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "train",
+      "inVocab": false,
+      "senseAnchor": "訓練；火車",
+      "roleInScript": "操練",
+      "humorDevice": "story",
+      "zhGloss": "訓練；火車",
+      "speakLineEn": "Train annotators with gold standards.",
+      "speakLineZh": "用金標準訓練標註者。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    }
+  ],
+  "reviewHooks": [
+    "-ain：complain/explain/restrain/constraint/strain/gain",
+    "constraint＝約束條件"
+  ],
+  "pitfalls": [
+    "restrain（抑制）vs constraint（名詞約束）",
+    "plain ≠ plane"
+  ],
+  "lessonRefs": [
+    "lesson-rhyme-ain-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S3b"
+  }
+}

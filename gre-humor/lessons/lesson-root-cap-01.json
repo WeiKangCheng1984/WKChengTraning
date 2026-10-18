@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-cap-01",
+  "slug": "root-cap-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-cap-01",
+  "titleZh": "cap／cept｜捕捉與接收站",
+  "titleEn": "Capture & Receive",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 cap/cept/cip＝拿、抓、接收。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "captivate 抓住目光；intercept 中途截走。susceptible 易被抓住影響，perceive 接收到知覺。receive／receipt 收到，accept 接受，except 排除不拿。concept 一起抓住的概念，anticipate 提前抓住，participate 分一份去抓，capable 有能力抓住，capacity 容量。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "cap＝抓：captivate/intercept/perceive/accept/except/concept",
+        "susceptible＝易感；capacity＝容量"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "lookalike",
+      "promptEn": "accept vs except:",
+      "promptZh": "accept 與 except：",
+      "choices": [
+        "take in vs leave out",
+        "same meaning",
+        "only grammar particles",
+        "both mean refuse"
+      ],
+      "answer": "take in vs leave out"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Easily influenced:",
+      "promptZh": "易受影響：",
+      "choices": [
+        "susceptible",
+        "capable",
+        "capacity",
+        "receipt"
+      ],
+      "answer": "susceptible"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Block or seize on the way:",
+      "promptZh": "中途攔截：",
+      "choices": [
+        "intercept",
+        "participate",
+        "concept",
+        "receive"
+      ],
+      "answer": "intercept"
+    }
+  ],
+  "pitfalls": [
+    "accept ≠ except",
+    "anticipate 不只『期待』也有『預先處理』"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S3b"
+  }
+}

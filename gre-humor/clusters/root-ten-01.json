@@ -1,0 +1,238 @@
+{
+  "id": "root-ten-01",
+  "type": "root",
+  "elementLemma": "ten/tain",
+  "titleZh": "ten／tain｜抓住不放練習場",
+  "titleEn": "Hold On Tight",
+  "hook": "字根 ten/tain＝持、握——誰抓得住誰。",
+  "script": "tenacious 抓很緊；abstain 不伸手拿。retain 留住，maintain 維持，contain 裝住，obtain 取得。sustain 支撐住，pertain 相關聯，tenant 承租抓住空間，tenure 任期抓住職位，tenable 站得住，untenable 站不住，extend／tend 另族——這裡看 attention 把心抓住。",
+  "members": [
+    {
+      "headword": "tenacious",
+      "inVocab": true,
+      "senseAnchor": "very determined and do not give up easily",
+      "roleInScript": "抓很緊",
+      "humorDevice": "morphology",
+      "zhGloss": "頑強的；緊抓的",
+      "speakLineEn": "Tenacious anomalies deserve another look.",
+      "speakLineZh": "頑強異常值得再看。",
+      "related": {
+        "synonyms": "pertinacious, resolve, steadfast",
+        "antonyms": "yielding, irresolute, unretentive, irresoluteness"
+      }
+    },
+    {
+      "headword": "abstain",
+      "inVocab": true,
+      "senseAnchor": "to refrain from something by one's own choice",
+      "roleInScript": "不伸手",
+      "humorDevice": "morphology",
+      "zhGloss": "戒絕；棄權",
+      "speakLineEn": "Several members abstained from the vote.",
+      "speakLineZh": "數名成員投票棄權。",
+      "related": {
+        "synonyms": "forgo, refrain from",
+        "antonyms": "indulge, partake, consume, claim, postdate, act"
+      }
+    },
+    {
+      "headword": "retain",
+      "inVocab": false,
+      "senseAnchor": "保留；聘留",
+      "roleInScript": "留住",
+      "humorDevice": "morphology",
+      "zhGloss": "保留；聘留",
+      "speakLineEn": "Retain raw logs for auditability.",
+      "speakLineZh": "保留原始紀錄以便稽核。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "maintain",
+      "inVocab": false,
+      "senseAnchor": "維持；主張",
+      "roleInScript": "維持住",
+      "humorDevice": "morphology",
+      "zhGloss": "維持；主張",
+      "speakLineEn": "Maintain the same coding rules across waves.",
+      "speakLineZh": "各波次維持同一編碼規則。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "contain",
+      "inVocab": false,
+      "senseAnchor": "包含；遏制",
+      "roleInScript": "裝住",
+      "humorDevice": "morphology",
+      "zhGloss": "包含；遏制",
+      "speakLineEn": "The model cannot contain every contextual factor.",
+      "speakLineZh": "模型無法裝下所有脈絡因素。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "obtain",
+      "inVocab": false,
+      "senseAnchor": "獲得",
+      "roleInScript": "取得",
+      "humorDevice": "morphology",
+      "zhGloss": "獲得",
+      "speakLineEn": "Obtain consent before linking records.",
+      "speakLineZh": "連結紀錄前先取得同意。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "sustain",
+      "inVocab": false,
+      "senseAnchor": "維持；支撐",
+      "roleInScript": "撐住",
+      "humorDevice": "morphology",
+      "zhGloss": "維持；支撐",
+      "speakLineEn": "Can the budget sustain longitudinal follow-up?",
+      "speakLineZh": "預算撐得起縱貫追蹤嗎？",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "pertain",
+      "inVocab": true,
+      "senseAnchor": "be relevant to; be a part or attribute of",
+      "roleInScript": "相關聯",
+      "humorDevice": "morphology",
+      "zhGloss": "有關；隸屬",
+      "speakLineEn": "Only variables that pertain to the hypothesis stay in.",
+      "speakLineZh": "只留與假說相關的變項。",
+      "related": {
+        "synonyms": "refer, relate, concern, touch, appertain",
+        "antonyms": "dissociate, unconcern"
+      }
+    },
+    {
+      "headword": "tenant",
+      "inVocab": false,
+      "senseAnchor": "承租人",
+      "roleInScript": "抓住空間的人",
+      "humorDevice": "story",
+      "zhGloss": "承租人",
+      "speakLineEn": "Think of a theory as a tenant in the house of evidence.",
+      "speakLineZh": "把理論想成證據之屋的承租人。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "tenure",
+      "inVocab": true,
+      "senseAnchor": "the term during which some position is held; the right to hold property; part of an ancient hierarchical system of holding lands",
+      "roleInScript": "抓住職位",
+      "humorDevice": "morphology",
+      "zhGloss": "任期；終身職",
+      "speakLineEn": "Tenure incentives can shape risk-taking in research.",
+      "speakLineZh": "終身職誘因會形塑研究冒險。",
+      "related": {
+        "synonyms": "incumbency",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "tenable",
+      "inVocab": true,
+      "senseAnchor": "based on sound reasoning or evidence",
+      "roleInScript": "守得住",
+      "humorDevice": "morphology",
+      "zhGloss": "站得住腳的",
+      "speakLineEn": "Is the causal claim tenable under selection?",
+      "speakLineZh": "選擇偏差下因果主張站得住嗎？",
+      "related": {
+        "synonyms": "well-founded",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "untenable",
+      "inVocab": true,
+      "senseAnchor": "not able to be defended",
+      "roleInScript": "守不住",
+      "humorDevice": "morphology",
+      "zhGloss": "站不住腳的",
+      "speakLineEn": "That reading becomes untenable once dates conflict.",
+      "speakLineZh": "日期衝突後該解讀站不住。",
+      "related": {
+        "synonyms": "baseless, groundless, unwarranted",
+        "antonyms": "justified, warranted"
+      }
+    },
+    {
+      "headword": "attention",
+      "inVocab": false,
+      "senseAnchor": "注意",
+      "roleInScript": "把心抓住",
+      "humorDevice": "story",
+      "zhGloss": "注意",
+      "speakLineEn": "Attention is a scarce resource in crowded literatures.",
+      "speakLineZh": "擁擠文獻裡注意力是稀缺資源。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "continent",
+      "inVocab": false,
+      "senseAnchor": "大陸；克制的（古）",
+      "roleInScript": "連成一片握住的地",
+      "humorDevice": "story",
+      "zhGloss": "大陸；克制的（古）",
+      "speakLineEn": "Results may not travel across continents without adaptation.",
+      "speakLineZh": "結果跨大陸未必不經適應就成立。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "detention",
+      "inVocab": false,
+      "senseAnchor": "拘留；留置",
+      "roleInScript": "被抓住關住",
+      "humorDevice": "story",
+      "zhGloss": "拘留；留置",
+      "speakLineEn": "Methodological detention of papers harms learning speed.",
+      "speakLineZh": "論文方法上的『扣留』傷害學習速度。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    }
+  ],
+  "reviewHooks": [
+    "ten＝持：tenacious/retain/maintain/contain/obtain/sustain",
+    "abstain＝不拿；untenable＝守不住"
+  ],
+  "pitfalls": [
+    "maintain ≠ maintainance 拼寫",
+    "abstain from＋名詞／動名詞"
+  ],
+  "lessonRefs": [
+    "lesson-root-ten-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S3b"
+  }
+}

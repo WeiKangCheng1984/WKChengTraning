@@ -1,0 +1,238 @@
+{
+  "id": "root-pos-01",
+  "type": "root",
+  "elementLemma": "pos/pon",
+  "titleZh": "pos／pon｜擺放控制室",
+  "titleEn": "Placement Control",
+  "hook": "字根 pos/pon＝放、置——誰被放哪裡，誰說了算。",
+  "script": "propose 放上桌；impose 強加。compose 組裝，dispose 處置，expose 揭露，oppose 對放反對。postpone 往後放；component 零件，positive 明確肯定，deposit 存放。juxtapose 並置，superimpose 疊加，proposition 命題，exponent 倡導者，repository 儲庫。",
+  "members": [
+    {
+      "headword": "propose",
+      "inVocab": false,
+      "senseAnchor": "提議",
+      "roleInScript": "放上桌",
+      "humorDevice": "morphology",
+      "zhGloss": "提議",
+      "speakLineEn": "We propose a preregistered analysis plan.",
+      "speakLineZh": "我們提議預註冊分析計畫。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "impose",
+      "inVocab": false,
+      "senseAnchor": "強加",
+      "roleInScript": "硬放上去",
+      "humorDevice": "morphology",
+      "zhGloss": "強加",
+      "speakLineEn": "Do not impose a narrative the data cannot carry.",
+      "speakLineZh": "不要強加資料扛不起的敘事。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "compose",
+      "inVocab": false,
+      "senseAnchor": "組成；撰寫",
+      "roleInScript": "組裝放置",
+      "humorDevice": "morphology",
+      "zhGloss": "組成；撰寫",
+      "speakLineEn": "Compose the abstract after results are stable.",
+      "speakLineZh": "結果穩定後再寫摘要。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "dispose",
+      "inVocab": false,
+      "senseAnchor": "處置；使傾向",
+      "roleInScript": "安排去向",
+      "humorDevice": "morphology",
+      "zhGloss": "處置；使傾向",
+      "speakLineEn": "How labs dispose of failed trials shapes the literature.",
+      "speakLineZh": "失敗試驗怎麼處置形塑文獻。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "expose",
+      "inVocab": false,
+      "senseAnchor": "揭露",
+      "roleInScript": "揭開來放",
+      "humorDevice": "morphology",
+      "zhGloss": "揭露",
+      "speakLineEn": "Replication can expose fragile findings.",
+      "speakLineZh": "複現能揭露脆弱發現。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "oppose",
+      "inVocab": false,
+      "senseAnchor": "反對",
+      "roleInScript": "放在對面",
+      "humorDevice": "morphology",
+      "zhGloss": "反對",
+      "speakLineEn": "Stakeholders may oppose transparency that threatens rents.",
+      "speakLineZh": "利害關係人可能反對威脅租金的透明。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "postpone",
+      "inVocab": false,
+      "senseAnchor": "延期",
+      "roleInScript": "往後放",
+      "humorDevice": "morphology",
+      "zhGloss": "延期",
+      "speakLineEn": "Postpone celebration until robustness checks pass.",
+      "speakLineZh": "穩健檢查通過前先延期慶祝。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "component",
+      "inVocab": false,
+      "senseAnchor": "組成部分",
+      "roleInScript": "零件",
+      "humorDevice": "morphology",
+      "zhGloss": "組成部分",
+      "speakLineEn": "Trust is a component of cumulative science.",
+      "speakLineZh": "信任是累積科學的元件。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "positive",
+      "inVocab": false,
+      "senseAnchor": "正面的；陽性的",
+      "roleInScript": "明確放下肯定",
+      "humorDevice": "story",
+      "zhGloss": "正面的；陽性的",
+      "speakLineEn": "A positive result still needs a credible mechanism.",
+      "speakLineZh": "陽性結果仍需可信機制。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "deposit",
+      "inVocab": false,
+      "senseAnchor": "存放；訂金",
+      "roleInScript": "存放到層裡",
+      "humorDevice": "morphology",
+      "zhGloss": "存放；訂金",
+      "speakLineEn": "Deposit raw files in a trusted repository.",
+      "speakLineZh": "原始檔存進可信儲庫。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "juxtapose",
+      "inVocab": true,
+      "senseAnchor": "to put things together",
+      "roleInScript": "並排放",
+      "humorDevice": "morphology",
+      "zhGloss": "並列；並置",
+      "speakLineEn": "Juxtapose the two models to show the gap.",
+      "speakLineZh": "並置兩模型以顯示差距。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "repository",
+      "inVocab": false,
+      "senseAnchor": "儲庫",
+      "roleInScript": "久放之處",
+      "humorDevice": "story",
+      "zhGloss": "儲庫",
+      "speakLineEn": "A public repository reduces private hoarding of data.",
+      "speakLineZh": "公開儲庫減少私藏。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "proposition",
+      "inVocab": true,
+      "senseAnchor": "(logic) a statement that affirms or denies something and is either true or false; a proposal offered for acceptance or rejection",
+      "roleInScript": "討論桌上的句子",
+      "humorDevice": "morphology",
+      "zhGloss": "命題；提議",
+      "speakLineEn": "State the proposition before you defend it.",
+      "speakLineZh": "先陳述命題再辯護。",
+      "related": {
+        "synonyms": "suggestion, proffer, proposal",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "superimpose",
+      "inVocab": true,
+      "senseAnchor": "place on top of",
+      "roleInScript": "放在上面一層",
+      "humorDevice": "morphology",
+      "zhGloss": "疊加",
+      "speakLineEn": "Do not superimpose ideology on measurement choices.",
+      "speakLineZh": "不要把意識形態疊加在測量上。",
+      "related": {
+        "synonyms": "superpose",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "exponent",
+      "inVocab": false,
+      "senseAnchor": "倡導者；指數",
+      "roleInScript": "放在外面倡導",
+      "humorDevice": "morphology",
+      "zhGloss": "倡導者；指數",
+      "speakLineEn": "An early exponent of open methods faced resistance.",
+      "speakLineZh": "開放方法早期倡導者遇阻力。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    }
+  ],
+  "reviewHooks": [
+    "pos＝放：propose/impose/compose/expose/oppose/postpone",
+    "juxtapose＝並置對照"
+  ],
+  "pitfalls": [
+    "propose ≠ purpose",
+    "dispose of＝丟棄；disposed to＝傾向"
+  ],
+  "lessonRefs": [
+    "lesson-root-pos-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S3b"
+  }
+}

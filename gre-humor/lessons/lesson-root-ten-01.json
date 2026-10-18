@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-ten-01",
+  "slug": "root-ten-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-ten-01",
+  "titleZh": "ten／tain｜抓住不放練習場",
+  "titleEn": "Hold On Tight",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 ten/tain＝持、握——誰抓得住誰。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "tenacious 抓很緊；abstain 不伸手拿。retain 留住，maintain 維持，contain 裝住，obtain 取得。sustain 支撐住，pertain 相關聯，tenant 承租抓住空間，tenure 任期抓住職位，tenable 站得住，untenable 站不住，extend／tend 另族——這裡看 attention 把心抓住。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "ten＝持：tenacious/retain/maintain/contain/obtain/sustain",
+        "abstain＝不拿；untenable＝守不住"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Stubbornly persistent:",
+      "promptZh": "頑強緊抓：",
+      "choices": [
+        "tenacious",
+        "abstain",
+        "tenant",
+        "attention"
+      ],
+      "answer": "tenacious"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Cannot be defended:",
+      "promptZh": "站不住腳：",
+      "choices": [
+        "untenable",
+        "tenable",
+        "obtain",
+        "retain"
+      ],
+      "answer": "untenable"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Hold back from doing:",
+      "promptZh": "戒絕／棄權：",
+      "choices": [
+        "abstain",
+        "sustain",
+        "contain",
+        "pertain"
+      ],
+      "answer": "abstain"
+    }
+  ],
+  "pitfalls": [
+    "maintain ≠ maintainance 拼寫",
+    "abstain from＋名詞／動名詞"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S3b"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-fer-01",
+  "slug": "root-fer-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-fer-01",
+  "titleZh": "fer｜搬運與偏好調度室",
+  "titleEn": "Ferry Desk of fer",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 fer＝帶、拿——文件與偏好都在傳送帶上。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "資料 transfer 轉送；會議 defer 延後再搬。prefer 比較想搬哪邊，confer 湊一起商量。infer 從線索搬出結論，refer 把問題搬去別處。offer／proffer 端上來；fertile 多產，proliferate 大量增生；differ 搬成不一樣，indifferent 懶得搬偏好，suffer 被迫扛著走。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "fer＝搬：transfer/defer/prefer/confer/infer/refer",
+        "infer≠imply；defer＝延期或順從"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Draw a conclusion from evidence:",
+      "promptZh": "從證據推出結論：",
+      "choices": [
+        "imply",
+        "infer",
+        "prefer",
+        "offer"
+      ],
+      "answer": "infer"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Put off until later:",
+      "promptZh": "延後：",
+      "choices": [
+        "defer",
+        "refer",
+        "confer",
+        "transfer"
+      ],
+      "answer": "defer"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Multiply rapidly:",
+      "promptZh": "迅速激增：",
+      "choices": [
+        "proliferate",
+        "proffer",
+        "fertile",
+        "circumference"
+      ],
+      "answer": "proliferate"
+    }
+  ],
+  "pitfalls": [
+    "infer（聽者推論）≠ imply（說者暗示）",
+    "defer to＝順從權威"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S3b"
+  }
+}

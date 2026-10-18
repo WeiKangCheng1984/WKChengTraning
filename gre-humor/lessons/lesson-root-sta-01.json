@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-sta-01",
+  "slug": "root-sta-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-sta-01",
+  "titleZh": "sta／stit｜站立與制度廣場",
+  "titleEn": "Stand & Institute Square",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 sta/stit＝站——站得住才成制度。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "status 地位狀態；statue 雕像站著。constitute 組成構成，institution 制度，substitute 替代站上。desist 停止站開，persist 堅持站著，resist 抵抗。stable 穩定，stability 穩定性，establish 建立站穩，stance 立場，obstacle 擋路，standard 標準。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "sta＝站：status/constitute/institution/persist/resist/stable/establish",
+        "desist＝停；substitute＝替代站上"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "lookalike",
+      "promptEn": "statue / statute / status:",
+      "promptZh": "雕像／法規／狀態：",
+      "choices": [
+        "statue=sculpture; statute=law; status=standing",
+        "all same",
+        "only spelling variants",
+        "statue=law"
+      ],
+      "answer": "statue=sculpture; statute=law; status=standing"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Stop doing:",
+      "promptZh": "停止：",
+      "choices": [
+        "desist",
+        "persist",
+        "resist",
+        "stance"
+      ],
+      "answer": "desist"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Make up; form:",
+      "promptZh": "構成：",
+      "choices": [
+        "constitute",
+        "statue",
+        "obstacle",
+        "sport"
+      ],
+      "answer": "constitute"
+    }
+  ],
+  "pitfalls": [
+    "statue（雕像）≠ statute（法規）≠ status",
+    "constitute＝構成／設立"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S3b"
+  }
+}

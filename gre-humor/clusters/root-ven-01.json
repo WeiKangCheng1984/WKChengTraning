@@ -1,0 +1,238 @@
+{
+  "id": "root-ven-01",
+  "type": "root",
+  "elementLemma": "ven/vent",
+  "titleZh": "ven／vent｜到來與出口",
+  "titleEn": "Arrive & Vent",
+  "hook": "字根 ven/vent＝來——人來了、氣出來了。",
+  "script": "intervene 介入而來；convene 召集來到。invent 發明出來，prevent 搶先擋住到來。event 發生的事，adventure 冒險前來，revenue 進來的錢，avenue 大道，convenient 方便到來，venture 冒險投入，vent 出口出氣，contravene 違背對撞而來。",
+  "members": [
+    {
+      "headword": "intervene",
+      "inVocab": false,
+      "senseAnchor": "介入",
+      "roleInScript": "插進來",
+      "humorDevice": "morphology",
+      "zhGloss": "介入",
+      "speakLineEn": "When harm appears, protocols say when to intervene.",
+      "speakLineZh": "出現傷害時，流程規定何時介入。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "convene",
+      "inVocab": true,
+      "senseAnchor": "meet formally; call together",
+      "roleInScript": "叫來到齊",
+      "humorDevice": "morphology",
+      "zhGloss": "召集",
+      "speakLineEn": "Convene the DSMB after unexpected deaths.",
+      "speakLineZh": "非預期死亡後召集安全委員會。",
+      "related": {
+        "synonyms": "convoke",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "invent",
+      "inVocab": false,
+      "senseAnchor": "發明",
+      "roleInScript": "做出未來之物到來",
+      "humorDevice": "morphology",
+      "zhGloss": "發明",
+      "speakLineEn": "Do not invent subgroups after seeing outcomes.",
+      "speakLineZh": "看過結果後不要發明子群。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "prevent",
+      "inVocab": false,
+      "senseAnchor": "防止",
+      "roleInScript": "擋住到來",
+      "humorDevice": "morphology",
+      "zhGloss": "防止",
+      "speakLineEn": "Blinding can prevent some expectancy biases.",
+      "speakLineZh": "盲法可防止部分期望偏差。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "event",
+      "inVocab": false,
+      "senseAnchor": "事件",
+      "roleInScript": "到來發生的事",
+      "humorDevice": "story",
+      "zhGloss": "事件",
+      "speakLineEn": "Predefine adverse events of interest.",
+      "speakLineZh": "預先定義關注不良事件。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "adventure",
+      "inVocab": false,
+      "senseAnchor": "冒險",
+      "roleInScript": "大膽前來",
+      "humorDevice": "story",
+      "zhGloss": "冒險",
+      "speakLineEn": "Methodological adventure needs sharper safeguards.",
+      "speakLineZh": "方法冒險需要更利防護。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "revenue",
+      "inVocab": true,
+      "senseAnchor": "the entire amount of income before any deductions are made; government income due to taxation",
+      "roleInScript": "進來的錢",
+      "humorDevice": "morphology",
+      "zhGloss": "收入",
+      "speakLineEn": "Subscription revenue can conflict with open access.",
+      "speakLineZh": "訂閱收入可能與開放取用衝突。",
+      "related": {
+        "synonyms": "gross, receipts, taxation",
+        "antonyms": "net"
+      }
+    },
+    {
+      "headword": "avenue",
+      "inVocab": false,
+      "senseAnchor": "大道；途徑",
+      "roleInScript": "可走來的路",
+      "humorDevice": "morphology",
+      "zhGloss": "大道；途徑",
+      "speakLineEn": "Preregistration is one avenue to credibility.",
+      "speakLineZh": "預註冊是可信度途徑之一。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "convenient",
+      "inVocab": false,
+      "senseAnchor": "方便的",
+      "roleInScript": "來得方便",
+      "humorDevice": "morphology",
+      "zhGloss": "方便的",
+      "speakLineEn": "Convenient samples limit external claims.",
+      "speakLineZh": "方便樣本限制外部推論。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "venture",
+      "inVocab": false,
+      "senseAnchor": "冒險事業；敢於",
+      "roleInScript": "投入前來",
+      "humorDevice": "morphology",
+      "zhGloss": "冒險事業；敢於",
+      "speakLineEn": "Venture capital metaphors mislead basic science.",
+      "speakLineZh": "創投隱喻誤導基礎科學。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "vent",
+      "inVocab": true,
+      "senseAnchor": "a hole for the escape of gas or air; external opening of urinary or genital system of a lower vertebrate",
+      "roleInScript": "出氣",
+      "humorDevice": "story",
+      "zhGloss": "出口；發洩",
+      "speakLineEn": "Use the discussion to vent limitations, not excuses.",
+      "speakLineZh": "討論段發洩限制，不是藉口。",
+      "related": {
+        "synonyms": "venthole, vent-hole, blowhole, volcano, release, outlet",
+        "antonyms": "block, confine, freeze, hold"
+      }
+    },
+    {
+      "headword": "contravene",
+      "inVocab": false,
+      "senseAnchor": "違反；抵觸",
+      "roleInScript": "對撞而來",
+      "humorDevice": "morphology",
+      "zhGloss": "違反；抵觸",
+      "speakLineEn": "Hidden exclusions contravene the protocol.",
+      "speakLineZh": "隱匿排除抵觸協議。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "intervention",
+      "inVocab": false,
+      "senseAnchor": "介入措施",
+      "roleInScript": "介入之物",
+      "humorDevice": "morphology",
+      "zhGloss": "介入措施",
+      "speakLineEn": "Name the intervention dose and delivery.",
+      "speakLineZh": "說清介入劑量與交付。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "prevention",
+      "inVocab": false,
+      "senseAnchor": "預防",
+      "roleInScript": "防止體系",
+      "humorDevice": "morphology",
+      "zhGloss": "預防",
+      "speakLineEn": "Prevention claims need absolute risk context.",
+      "speakLineZh": "預防宣稱需要絕對風險脈絡。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "advent",
+      "inVocab": false,
+      "senseAnchor": "到來；來臨",
+      "roleInScript": "重要到來",
+      "humorDevice": "morphology",
+      "zhGloss": "到來；來臨",
+      "speakLineEn": "The advent of cheap sequencing changed priors.",
+      "speakLineZh": "廉價定序到來改變先驗。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    }
+  ],
+  "reviewHooks": [
+    "ven＝來：intervene/convene/invent/prevent/event/revenue",
+    "contravene＝違背；vent＝出氣口"
+  ],
+  "pitfalls": [
+    "invent ≠ inventt 拼寫",
+    "prevent＝防止到來；intervene＝介入其中"
+  ],
+  "lessonRefs": [
+    "lesson-root-ven-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S3b"
+  }
+}

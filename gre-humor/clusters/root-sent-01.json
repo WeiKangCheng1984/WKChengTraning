@@ -1,0 +1,238 @@
+{
+  "id": "root-sent-01",
+  "type": "root",
+  "elementLemma": "sent/sens",
+  "titleZh": "sent／sens｜感覺與同意議會",
+  "titleEn": "Sense & Assent Hall",
+  "hook": "字根 sent/sens＝感、意見——議會裡大家『覺得』與『同意』。",
+  "script": "sentiment 情緒意見；assent 同意，dissent 已在 look 族——這裡補 consent 同意／許可。sense 感官／意義，sensible 明智，sensitive 敏感，sensory 感官的。resent 憤恨，presentiment 預感，sentinel 哨兵，consensus 共識，sensational 聳動。",
+  "members": [
+    {
+      "headword": "sentiment",
+      "inVocab": false,
+      "senseAnchor": "情緒；意見",
+      "roleInScript": "感覺意見",
+      "humorDevice": "morphology",
+      "zhGloss": "情緒；意見",
+      "speakLineEn": "Policy should not track online sentiment alone.",
+      "speakLineZh": "政策不該只追網路情緒。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "consent",
+      "inVocab": false,
+      "senseAnchor": "同意；許可",
+      "roleInScript": "點頭允許",
+      "humorDevice": "morphology",
+      "zhGloss": "同意；許可",
+      "speakLineEn": "Document consent before data linkage.",
+      "speakLineZh": "資料連結前記錄同意。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "sense",
+      "inVocab": false,
+      "senseAnchor": "感官；意義；道理",
+      "roleInScript": "感覺／意義",
+      "humorDevice": "story",
+      "zhGloss": "感官；意義；道理",
+      "speakLineEn": "Does this operationalization make sense theoretically?",
+      "speakLineZh": "此操作化理論上說得通嗎？",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "sensible",
+      "inVocab": false,
+      "senseAnchor": "明智的；可察覺的",
+      "roleInScript": "有道理的感覺",
+      "humorDevice": "morphology",
+      "zhGloss": "明智的；可察覺的",
+      "speakLineEn": "A sensible robustness check is cheap insurance.",
+      "speakLineZh": "明智穩健檢查是便宜保險。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "sensitive",
+      "inVocab": false,
+      "senseAnchor": "敏感的",
+      "roleInScript": "易感",
+      "humorDevice": "morphology",
+      "zhGloss": "敏感的",
+      "speakLineEn": "Results are sensitive to one influential point.",
+      "speakLineZh": "結果對一個影響點敏感。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "sensory",
+      "inVocab": false,
+      "senseAnchor": "感官的",
+      "roleInScript": "感官通道",
+      "humorDevice": "morphology",
+      "zhGloss": "感官的",
+      "speakLineEn": "Sensory overload in dashboards hides the signal.",
+      "speakLineZh": "儀表板感官過載會藏訊號。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "resent",
+      "inVocab": true,
+      "senseAnchor": "feel bitter or indignant about; wish ill or allow unwillingly",
+      "roleInScript": "越想越氣的感",
+      "humorDevice": "morphology",
+      "zhGloss": "憤恨",
+      "speakLineEn": "Teams resent uncredited labor on shared datasets.",
+      "speakLineZh": "團隊憤恨共享資料上未記名勞動。",
+      "related": {
+        "synonyms": "begrudge",
+        "antonyms": "wish"
+      }
+    },
+    {
+      "headword": "presentiment",
+      "inVocab": true,
+      "senseAnchor": "a feeling of evil to come",
+      "roleInScript": "事先感到",
+      "humorDevice": "morphology",
+      "zhGloss": "預感",
+      "speakLineEn": "A presentiment of failure is not a stopping rule.",
+      "speakLineZh": "失敗預感不是停止規則。",
+      "related": {
+        "synonyms": "foreboding, premonition, boding",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "sentinel",
+      "inVocab": true,
+      "senseAnchor": "a person employed to keep watch for some anticipated event",
+      "roleInScript": "警戒感受者",
+      "humorDevice": "story",
+      "zhGloss": "哨兵",
+      "speakLineEn": "Sentinel sites detect outbreaks early.",
+      "speakLineZh": "哨兵站點及早偵測疫情。",
+      "related": {
+        "synonyms": "lookout, sentry, watch, spotter, scout, picket",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "consensus",
+      "inVocab": false,
+      "senseAnchor": "共識",
+      "roleInScript": "共同感到一致",
+      "humorDevice": "morphology",
+      "zhGloss": "共識",
+      "speakLineEn": "Consensus can lag behind better evidence.",
+      "speakLineZh": "共識可能落後更好證據。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "sensational",
+      "inVocab": true,
+      "senseAnchor": "intended to interest, excite, or shock people",
+      "roleInScript": "過度刺激感覺",
+      "humorDevice": "morphology",
+      "zhGloss": "聳動的",
+      "speakLineEn": "Sensational abstracts travel farther than careful ones.",
+      "speakLineZh": "聳動摘要比謹慎摘要傳更遠。",
+      "related": {
+        "synonyms": "lurid, daunting",
+        "antonyms": "unsensational"
+      }
+    },
+    {
+      "headword": "nonsense",
+      "inVocab": false,
+      "senseAnchor": "胡說",
+      "roleInScript": "無意義感覺",
+      "humorDevice": "story",
+      "zhGloss": "胡說",
+      "speakLineEn": "Call speculation nonsense when it wears a proof costume.",
+      "speakLineZh": "投機穿上證明外衣時就叫它胡說。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "desensitize",
+      "inVocab": false,
+      "senseAnchor": "使不敏感",
+      "roleInScript": "降低感覺",
+      "humorDevice": "morphology",
+      "zhGloss": "使不敏感",
+      "speakLineEn": "Repeated crises can desensitize audiences to risk.",
+      "speakLineZh": "反覆危機使觀眾對風險不敏感。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "resentment",
+      "inVocab": false,
+      "senseAnchor": "怨恨",
+      "roleInScript": "積累的憤感",
+      "humorDevice": "morphology",
+      "zhGloss": "怨恨",
+      "speakLineEn": "Unpaid reviewing breeds resentment.",
+      "speakLineZh": "無酬審稿滋生怨恨。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "extrasensory",
+      "inVocab": false,
+      "senseAnchor": "超感官的",
+      "roleInScript": "感官之外",
+      "humorDevice": "morphology",
+      "zhGloss": "超感官的",
+      "speakLineEn": "Extrasensory claims need extraordinary tests.",
+      "speakLineZh": "超感官宣稱需要非凡檢驗。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    }
+  ],
+  "reviewHooks": [
+    "sent＝感／意：sentiment/consent/sense/sensible/sensitive/resent/consensus",
+    "consensus＝共同感到的一致"
+  ],
+  "pitfalls": [
+    "sensible（明智）≠ sensitive（敏感）",
+    "assent/dissent 已在 look-a-01，本族重 consent／consensus"
+  ],
+  "lessonRefs": [
+    "lesson-root-sent-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S3b"
+  }
+}

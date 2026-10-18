@@ -1,0 +1,238 @@
+{
+  "id": "root-jud-01",
+  "type": "root",
+  "elementLemma": "jud/jur/jus",
+  "titleZh": "jud／jur｜審判席",
+  "titleEn": "Judgment Bench",
+  "hook": "字根 jud/jur/jus＝法、判——誰來審。",
+  "script": "judge 法官／判斷，judicial 司法的，judicious 明斷的。prejudice 預先判決，adjudicate 裁決。jury 陪審團，juridical 法律上的，justice 正義，justify 辯護使正當，injustice 不義，jurisdiction 已在 dict 族——這裡看 perjury 偽證，injury 傷害。",
+  "members": [
+    {
+      "headword": "judge",
+      "inVocab": false,
+      "senseAnchor": "判斷；法官",
+      "roleInScript": "下判斷的人",
+      "humorDevice": "morphology",
+      "zhGloss": "判斷；法官",
+      "speakLineEn": "Judge models by out-of-sample performance.",
+      "speakLineZh": "用樣本外表現判斷模型。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "judicial",
+      "inVocab": true,
+      "senseAnchor": "decreed by or proceeding from a court of justice; belonging or appropriate to the office of a judge",
+      "roleInScript": "法庭那套",
+      "humorDevice": "morphology",
+      "zhGloss": "司法的",
+      "speakLineEn": "Keep a judicial separation between exploration and confirmation.",
+      "speakLineZh": "探索與確認保持司法式分離。",
+      "related": {
+        "synonyms": "juridical, juridic, discriminative",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "judicious",
+      "inVocab": false,
+      "senseAnchor": "明斷的；審慎的",
+      "roleInScript": "判得明智",
+      "humorDevice": "morphology",
+      "zhGloss": "明斷的；審慎的",
+      "speakLineEn": "Judicious pruning of covariates beats kitchen-sink models.",
+      "speakLineZh": "審慎修剪共變勝過一鍋炒。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "prejudice",
+      "inVocab": false,
+      "senseAnchor": "偏見；損害",
+      "roleInScript": "預先判了",
+      "humorDevice": "morphology",
+      "zhGloss": "偏見；損害",
+      "speakLineEn": "Prejudice enters when labels leak into coding.",
+      "speakLineZh": "標籤洩漏進編碼時偏見進入。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "adjudicate",
+      "inVocab": true,
+      "senseAnchor": "to hear and settle a case, dispute or conflict",
+      "roleInScript": "正式判",
+      "humorDevice": "morphology",
+      "zhGloss": "裁決",
+      "speakLineEn": "Let a precommitted rule adjudicate borderline cases.",
+      "speakLineZh": "用預先承諾規則裁決邊界案例。",
+      "related": {
+        "synonyms": "judge, try, decide, settle, resolve",
+        "antonyms": "float, irresoluteness"
+      }
+    },
+    {
+      "headword": "jury",
+      "inVocab": false,
+      "senseAnchor": "陪審團",
+      "roleInScript": "一群判的人",
+      "humorDevice": "story",
+      "zhGloss": "陪審團",
+      "speakLineEn": "A jury of peers still needs conflict disclosures.",
+      "speakLineZh": "同儕陪審仍需利益揭露。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "justice",
+      "inVocab": false,
+      "senseAnchor": "正義；司法",
+      "roleInScript": "公正之判",
+      "humorDevice": "morphology",
+      "zhGloss": "正義；司法",
+      "speakLineEn": "Procedural justice matters in authorship disputes.",
+      "speakLineZh": "作者權爭議中程序正義重要。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "justify",
+      "inVocab": false,
+      "senseAnchor": "證明正當；對齊",
+      "roleInScript": "說出為何可判如此",
+      "humorDevice": "morphology",
+      "zhGloss": "證明正當；對齊",
+      "speakLineEn": "Justify each exclusion in one sentence.",
+      "speakLineZh": "每項排除用一句話證明正當。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "injustice",
+      "inVocab": false,
+      "senseAnchor": "不義",
+      "roleInScript": "錯判的結構",
+      "humorDevice": "morphology",
+      "zhGloss": "不義",
+      "speakLineEn": "Citation injustice tracks prestige gradients.",
+      "speakLineZh": "引用不義追蹤聲望梯度。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "perjury",
+      "inVocab": true,
+      "senseAnchor": "criminal offense of making false statements under oath",
+      "roleInScript": "假誓言",
+      "humorDevice": "morphology",
+      "zhGloss": "偽證",
+      "speakLineEn": "Fabrication is the perjury of science.",
+      "speakLineZh": "造假是科學的偽證。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "injury",
+      "inVocab": false,
+      "senseAnchor": "傷害",
+      "roleInScript": "被判痛的結果",
+      "humorDevice": "morphology",
+      "zhGloss": "傷害",
+      "speakLineEn": "Underpowered studies can still cause injury via false hope.",
+      "speakLineZh": "低檢定力研究仍可透過假希望造成傷害。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "juridical",
+      "inVocab": false,
+      "senseAnchor": "法律上的；司法的",
+      "roleInScript": "法的面向",
+      "humorDevice": "morphology",
+      "zhGloss": "法律上的；司法的",
+      "speakLineEn": "Juridical metaphors help, but biology is not a courtroom.",
+      "speakLineZh": "法律隱喻有用，但生物不是法庭。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "judgment",
+      "inVocab": false,
+      "senseAnchor": "判斷；判決",
+      "roleInScript": "判斷本身",
+      "humorDevice": "morphology",
+      "zhGloss": "判斷；判決",
+      "speakLineEn": "Suspend judgment until diagnostics are clean.",
+      "speakLineZh": "診斷乾淨前先懸置判斷。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "prejudicial",
+      "inVocab": false,
+      "senseAnchor": "有 Harm／偏見的",
+      "roleInScript": "會造成預判傷害",
+      "humorDevice": "morphology",
+      "zhGloss": "有 Harm／偏見的",
+      "speakLineEn": "Prejudicial language in reviews should be edited out.",
+      "speakLineZh": "審稿中的偏見語言應刪除。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "unjust",
+      "inVocab": false,
+      "senseAnchor": "不公正的",
+      "roleInScript": "不義的",
+      "humorDevice": "morphology",
+      "zhGloss": "不公正的",
+      "speakLineEn": "Unjust authorship norms waste talent.",
+      "speakLineZh": "不公正作者規範浪費人才。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    }
+  ],
+  "reviewHooks": [
+    "jud＝判：judge/judicial/judicious/prejudice/adjudicate/justify",
+    "prejudice＝預先偏判；perjury＝偽證"
+  ],
+  "pitfalls": [
+    "judicious（明智判斷）≠ judicial（司法的）",
+    "justify＝提出正當理由"
+  ],
+  "lessonRefs": [
+    "lesson-root-jud-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S3b"
+  }
+}

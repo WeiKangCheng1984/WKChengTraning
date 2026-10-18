@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-sent-01",
+  "slug": "root-sent-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-sent-01",
+  "titleZh": "sent／sens｜感覺與同意議會",
+  "titleEn": "Sense & Assent Hall",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 sent/sens＝感、意見——議會裡大家『覺得』與『同意』。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "sentiment 情緒意見；assent 同意，dissent 已在 look 族——這裡補 consent 同意／許可。sense 感官／意義，sensible 明智，sensitive 敏感，sensory 感官的。resent 憤恨，presentiment 預感，sentinel 哨兵，consensus 共識，sensational 聳動。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "sent＝感／意：sentiment/consent/sense/sensible/sensitive/resent/consensus",
+        "consensus＝共同感到的一致"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "lookalike",
+      "promptEn": "sensible vs sensitive:",
+      "promptZh": "明智 vs 敏感：",
+      "choices": [
+        "wise vs easily affected",
+        "same",
+        "both mean emotional",
+        "grammar only"
+      ],
+      "answer": "wise vs easily affected"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "General agreement:",
+      "promptZh": "共識：",
+      "choices": [
+        "consensus",
+        "resentment",
+        "nonsense",
+        "sentinel"
+      ],
+      "answer": "consensus"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Permission / agreement to proceed:",
+      "promptZh": "許可／同意進行：",
+      "choices": [
+        "consent",
+        "sentiment only mood",
+        "sensational",
+        "desensitize"
+      ],
+      "answer": "consent"
+    }
+  ],
+  "pitfalls": [
+    "sensible（明智）≠ sensitive（敏感）",
+    "assent/dissent 已在 look-a-01，本族重 consent／consensus"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S3b"
+  }
+}

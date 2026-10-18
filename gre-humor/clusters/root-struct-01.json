@@ -1,0 +1,238 @@
+{
+  "id": "root-struct-01",
+  "type": "root",
+  "elementLemma": "struct",
+  "titleZh": "struct｜建築工地",
+  "titleEn": "Construction Site",
+  "hook": "字根 struct＝建造——論證也是工程。",
+  "script": "construct 建造，instruct 指導建造，destruct／destroy 拆毁，obstruct 阻擋施工。structure 結構，infrastructure 基礎建設，reconstruct 重建，restructure 改組。construction 構築物／解釋，destructive 破壞性，instructive 有教導性，superstructure 上層建築。",
+  "members": [
+    {
+      "headword": "construct",
+      "inVocab": false,
+      "senseAnchor": "建造；構念",
+      "roleInScript": "蓋起來",
+      "humorDevice": "morphology",
+      "zhGloss": "建造；構念",
+      "speakLineEn": "Define the construct before choosing items.",
+      "speakLineZh": "選題目前先定義構念。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "instruct",
+      "inVocab": false,
+      "senseAnchor": "指導；指示",
+      "roleInScript": "教怎麼蓋",
+      "humorDevice": "morphology",
+      "zhGloss": "指導；指示",
+      "speakLineEn": "Protocols instruct assistants on coding edge cases.",
+      "speakLineZh": "流程指示助理如何編碼邊界案例。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "destroy",
+      "inVocab": false,
+      "senseAnchor": "毀滅",
+      "roleInScript": "拆掉",
+      "humorDevice": "morphology",
+      "zhGloss": "毀滅",
+      "speakLineEn": "One leak can destroy years of trust.",
+      "speakLineZh": "一次洩漏可毀掉多年信任。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "obstruct",
+      "inVocab": false,
+      "senseAnchor": "阻礙",
+      "roleInScript": "擋住工地",
+      "humorDevice": "morphology",
+      "zhGloss": "阻礙",
+      "speakLineEn": "Missing metadata obstructs reuse.",
+      "speakLineZh": "缺中繼資料阻礙再利用。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "structure",
+      "inVocab": false,
+      "senseAnchor": "結構",
+      "roleInScript": "骨架",
+      "humorDevice": "morphology",
+      "zhGloss": "結構",
+      "speakLineEn": "Argument structure should be visible in headings.",
+      "speakLineZh": "論證結構應在標題可見。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "infrastructure",
+      "inVocab": false,
+      "senseAnchor": "基礎設施",
+      "roleInScript": "地下管線",
+      "humorDevice": "morphology",
+      "zhGloss": "基礎設施",
+      "speakLineEn": "Data infrastructure is part of scientific capital.",
+      "speakLineZh": "資料基礎設施是科學資本。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "reconstruct",
+      "inVocab": false,
+      "senseAnchor": "重建",
+      "roleInScript": "再蓋一次",
+      "humorDevice": "morphology",
+      "zhGloss": "重建",
+      "speakLineEn": "Historians reconstruct events from partial archives.",
+      "speakLineZh": "史家從殘缺檔案重建事件。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "restructure",
+      "inVocab": false,
+      "senseAnchor": "改組；重整",
+      "roleInScript": "改骨架",
+      "humorDevice": "morphology",
+      "zhGloss": "改組；重整",
+      "speakLineEn": "Restructure the paper around one sharp question.",
+      "speakLineZh": "圍繞一個尖銳問題重整論文。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "construction",
+      "inVocab": false,
+      "senseAnchor": "建造；解釋建構",
+      "roleInScript": "構築物",
+      "humorDevice": "morphology",
+      "zhGloss": "建造；解釋建構",
+      "speakLineEn": "That legal construction stretches the text.",
+      "speakLineZh": "該法律解釋過度拉伸文本。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "destructive",
+      "inVocab": false,
+      "senseAnchor": "破壞性的",
+      "roleInScript": "會拆毁的",
+      "humorDevice": "morphology",
+      "zhGloss": "破壞性的",
+      "speakLineEn": "Destructive criticism without alternatives stalls fields.",
+      "speakLineZh": "只有破壞無替代的批評讓領域停滯。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "instructive",
+      "inVocab": false,
+      "senseAnchor": "有啟發的",
+      "roleInScript": "教得到東西",
+      "humorDevice": "morphology",
+      "zhGloss": "有啟發的",
+      "speakLineEn": "Failed replications can be instructive.",
+      "speakLineZh": "失敗複現可以有啟發。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "superstructure",
+      "inVocab": true,
+      "senseAnchor": "structure consisting of the part of a ship above the main deck",
+      "roleInScript": "底座上的樓",
+      "humorDevice": "story",
+      "zhGloss": "上層建築",
+      "speakLineEn": "Do not confuse rhetorical superstructure with identification.",
+      "speakLineZh": "别把修辭上層建築當成識別策略。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "instrument",
+      "inVocab": false,
+      "senseAnchor": "工具；儀器",
+      "roleInScript": "建造用的器具",
+      "humorDevice": "morphology",
+      "zhGloss": "工具；儀器",
+      "speakLineEn": "Validate the instrument before scaling the survey.",
+      "speakLineZh": "放大調查前先驗證工具。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "obstruction",
+      "inVocab": false,
+      "senseAnchor": "障礙",
+      "roleInScript": "阻擋物",
+      "humorDevice": "morphology",
+      "zhGloss": "障礙",
+      "speakLineEn": "Paywalls remain an obstruction to cumulative work.",
+      "speakLineZh": "付費牆仍是累積工作的障礙。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "structural",
+      "inVocab": false,
+      "senseAnchor": "結構上的",
+      "roleInScript": "骨架層的",
+      "humorDevice": "morphology",
+      "zhGloss": "結構上的",
+      "speakLineEn": "Structural reforms beat one-off trainings.",
+      "speakLineZh": "結構改革勝過一次性訓練。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    }
+  ],
+  "reviewHooks": [
+    "struct＝建：construct/instruct/obstruct/structure/infrastructure",
+    "obstruct＝擋；reconstruct＝重建"
+  ],
+  "pitfalls": [
+    "construction 可指『解釋建構』",
+    "destruct 少見，多用 destroy／destructive"
+  ],
+  "lessonRefs": [
+    "lesson-root-struct-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S3b"
+  }
+}

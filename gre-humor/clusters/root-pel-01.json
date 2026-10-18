@@ -1,0 +1,238 @@
+{
+  "id": "root-pel-01",
+  "type": "root",
+  "elementLemma": "pel/puls",
+  "titleZh": "pel／puls｜推力實驗室",
+  "titleEn": "Pulse & Push Lab",
+  "hook": "字根 pel/puls＝推——被推走或被推動。",
+  "script": "compel 強迫推動；expel 推出去；repel 推開。impulse 衝動推力，propel 向前推，dispel 驅散。pulse 脈搏，compel／compulsory 強制，expulsion 開除，repellent 令人反感，impel 驅使，pulsate 搏動。",
+  "members": [
+    {
+      "headword": "compel",
+      "inVocab": false,
+      "senseAnchor": "強迫",
+      "roleInScript": "強推去做",
+      "humorDevice": "morphology",
+      "zhGloss": "強迫",
+      "speakLineEn": "Evidence should compel revision, not loyalty tests.",
+      "speakLineZh": "證據應強迫修正，而非忠誠測驗。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "expel",
+      "inVocab": false,
+      "senseAnchor": "驅逐；開除",
+      "roleInScript": "推出去",
+      "humorDevice": "morphology",
+      "zhGloss": "驅逐；開除",
+      "speakLineEn": "Schools rarely expel for honest error, but silence does.",
+      "speakLineZh": "學校少因誠實錯誤開除，沉默卻會。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "repel",
+      "inVocab": true,
+      "senseAnchor": "cause to move back by force or influence; be repellent to; cause aversion in",
+      "roleInScript": "推開",
+      "humorDevice": "morphology",
+      "zhGloss": "擊退；使反感",
+      "speakLineEn": "Opaque methods repel collaborators.",
+      "speakLineZh": "不透明方法讓合作者反感。",
+      "related": {
+        "synonyms": "drive, repulse, rebuff, snub, disgust, revolt",
+        "antonyms": "attract"
+      }
+    },
+    {
+      "headword": "impulse",
+      "inVocab": false,
+      "senseAnchor": "衝動；脈衝",
+      "roleInScript": "一股推力",
+      "humorDevice": "morphology",
+      "zhGloss": "衝動；脈衝",
+      "speakLineEn": "Resist the impulse to peek at outcomes early.",
+      "speakLineZh": "忍住提早偷看結果的衝動。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "propel",
+      "inVocab": true,
+      "senseAnchor": "cause to move forward with force; give an incentive for action",
+      "roleInScript": "向前推",
+      "humorDevice": "morphology",
+      "zhGloss": "推進",
+      "speakLineEn": "Clear stakes propel careful reading.",
+      "speakLineZh": "清楚利害推進細讀。",
+      "related": {
+        "synonyms": "impel, motivate, actuate, move, prompt, incite",
+        "antonyms": "refrain, rest, stand still, stay, stay in place"
+      }
+    },
+    {
+      "headword": "dispel",
+      "inVocab": false,
+      "senseAnchor": "驅散",
+      "roleInScript": "推散迷霧",
+      "humorDevice": "morphology",
+      "zhGloss": "驅散",
+      "speakLineEn": "Open data can dispel rumors of selective reporting.",
+      "speakLineZh": "開放資料能驅散選擇性報告謠言。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "pulse",
+      "inVocab": false,
+      "senseAnchor": "脈搏；脈衝",
+      "roleInScript": "規律推一下",
+      "humorDevice": "story",
+      "zhGloss": "脈搏；脈衝",
+      "speakLineEn": "Take the pulse of the literature with living reviews.",
+      "speakLineZh": "用持續評論為文獻把脈。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "compulsory",
+      "inVocab": false,
+      "senseAnchor": "強制的",
+      "roleInScript": "非推不可",
+      "humorDevice": "morphology",
+      "zhGloss": "強制的",
+      "speakLineEn": "Compulsory preregistration changes gaming incentives.",
+      "speakLineZh": "強制預註冊改變投機誘因。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "expulsion",
+      "inVocab": true,
+      "senseAnchor": "the act of forcing out someone or something; squeezing out by applying pressure",
+      "roleInScript": "被推出的結果",
+      "humorDevice": "morphology",
+      "zhGloss": "開除；驅逐",
+      "speakLineEn": "Expulsion from a consortium should follow due process.",
+      "speakLineZh": "逐出聯盟應有正當程序。",
+      "related": {
+        "synonyms": "ejection, exclusion, riddance, extrusion, projection",
+        "antonyms": "inclusion"
+      }
+    },
+    {
+      "headword": "repellent",
+      "inVocab": true,
+      "senseAnchor": "causing aversion or disgust",
+      "roleInScript": "把人推開的",
+      "humorDevice": "morphology",
+      "zhGloss": "令人反感的；驅蟲的",
+      "speakLineEn": "A repellent tone loses persuadable readers.",
+      "speakLineZh": "反感語氣失去可說服讀者。",
+      "related": {
+        "synonyms": "off-putting, repulsive",
+        "antonyms": "attractive"
+      }
+    },
+    {
+      "headword": "impel",
+      "inVocab": true,
+      "senseAnchor": "urge or force (a person) to an action; constrain or motivate; cause to move forward with force",
+      "roleInScript": "往前驅",
+      "humorDevice": "morphology",
+      "zhGloss": "驅使",
+      "speakLineEn": "Curiosity should impel checks, not shortcuts.",
+      "speakLineZh": "好奇應驅使核查，而非捷徑。",
+      "related": {
+        "synonyms": "force, propel",
+        "antonyms": "pull, push"
+      }
+    },
+    {
+      "headword": "pulsate",
+      "inVocab": false,
+      "senseAnchor": "搏動",
+      "roleInScript": "一下一下推",
+      "humorDevice": "morphology",
+      "zhGloss": "搏動",
+      "speakLineEn": "Attention pulsates with media cycles.",
+      "speakLineZh": "注意力隨媒體週期搏動。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "propulsion",
+      "inVocab": true,
+      "senseAnchor": "a propelling force; the act of propelling",
+      "roleInScript": "推進系統",
+      "humorDevice": "story",
+      "zhGloss": "推進力",
+      "speakLineEn": "Citation propulsion is not the same as truth-tracking.",
+      "speakLineZh": "引用推進力≠追蹤真理。",
+      "related": {
+        "synonyms": "actuation",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "repulsion",
+      "inVocab": true,
+      "senseAnchor": "the force by which bodies repel one another; intense aversion",
+      "roleInScript": "推開的力",
+      "humorDevice": "morphology",
+      "zhGloss": "排斥；反感",
+      "speakLineEn": "Mutual repulsion between camps blocks synthesis.",
+      "speakLineZh": "陣營互斥阻礙綜整。",
+      "related": {
+        "synonyms": "repugnance, revulsion, horror, standoff",
+        "antonyms": "attraction"
+      }
+    },
+    {
+      "headword": "compulsion",
+      "inVocab": true,
+      "senseAnchor": "an urge to do or say something that might be better left undone or unsaid; an irrational motive for performing trivial or repetitive actions, even against your will",
+      "roleInScript": "不得不推",
+      "humorDevice": "morphology",
+      "zhGloss": "強迫；強迫觀念",
+      "speakLineEn": "Under compulsion, consent is compromised.",
+      "speakLineZh": "強迫下同意已打折。",
+      "related": {
+        "synonyms": "obsession, coercion",
+        "antonyms": ""
+      }
+    }
+  ],
+  "reviewHooks": [
+    "pel＝推：compel/expel/repel/propel/dispel/impel",
+    "impulse＝衝動；compulsory＝強制"
+  ],
+  "pitfalls": [
+    "compel＝強迫做；impel＝驅使（較內在）",
+    "repel 可指物理推開或令人反感"
+  ],
+  "lessonRefs": [
+    "lesson-root-pel-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S3b"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-port-01",
+  "slug": "root-port-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-port-01",
+  "titleZh": "port｜港口物流劇",
+  "titleEn": "Port Logistics",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 port＝運、帶——碼頭專管進出口與重要消息。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "貨物 import 運入、export 運出；deport 把人運出境。portable 可攜，transport 整段運輸。important 有重量；opportune／opportunity 剛好靠岸。support 托住，report 運回消息；portfolio 一組可運資產，purport 聲稱運載何義，insupportable 托不住。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "port＝運：import/export/deport/transport/portable",
+        "opportune＝合時；purport＝聲稱"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Well-timed:",
+      "promptZh": "合時宜：",
+      "choices": [
+        "opportune",
+        "portable",
+        "deport",
+        "porter"
+      ],
+      "answer": "opportune"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Claim to be or mean:",
+      "promptZh": "聲稱：",
+      "choices": [
+        "purport",
+        "import only goods",
+        "export",
+        "portfolio"
+      ],
+      "answer": "purport"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Impossible to justify:",
+      "promptZh": "無法支撐：",
+      "choices": [
+        "insupportable",
+        "support",
+        "report",
+        "transport"
+      ],
+      "answer": "insupportable"
+    }
+  ],
+  "pitfalls": [
+    "deport 驅人 ≠ export 運貨",
+    "important 勿只記『重要』忘構詞重量感"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S3b"
+  }
+}

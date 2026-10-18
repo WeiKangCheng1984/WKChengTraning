@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-scrib-01",
+  "slug": "root-scrib-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-scrib-01",
+  "titleZh": "scrib｜書寫管理局",
+  "titleEn": "Script Bureau",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 scrib/script＝寫——誰寫進去，誰被寫出去。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "describe 描寫，inscribe 刻寫進去，proscribe 明文禁止，prescribe 開處方／規定。script 劇本，manuscript 手稿，subscribe 署名訂閱，transcribe 轉寫，ascribe 歸因寫到誰頭上，circumscribe 劃界限制，scribble 亂寫，conscript 徵召寫入名單，postscript 又及。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "scrib＝寫：describe/inscribe/proscribe/prescribe/ascribe/transcribe",
+        "proscribe＝禁；prescribe＝規定／開藥"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "lookalike",
+      "promptEn": "proscribe vs prescribe:",
+      "promptZh": "禁止 vs 規定：",
+      "choices": [
+        "forbid vs order/set down",
+        "same",
+        "only medical",
+        "only legal synonyms"
+      ],
+      "answer": "forbid vs order/set down"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Attribute to a cause:",
+      "promptZh": "歸因：",
+      "choices": [
+        "ascribe",
+        "describe scenery",
+        "scribble",
+        "script a play only"
+      ],
+      "answer": "ascribe"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Limit the range of:",
+      "promptZh": "劃界限制：",
+      "choices": [
+        "circumscribe",
+        "subscribe",
+        "transcribe",
+        "postscript"
+      ],
+      "answer": "circumscribe"
+    }
+  ],
+  "pitfalls": [
+    "proscribe vs prescribe 反向",
+    "ascribe X to Y＝把 X 歸因於 Y"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S3b"
+  }
+}

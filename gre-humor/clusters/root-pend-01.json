@@ -1,0 +1,238 @@
+{
+  "id": "root-pend-01",
+  "type": "root",
+  "elementLemma": "pend/pens",
+  "titleZh": "pend｜懸吊與待決櫃",
+  "titleEn": "Pending & Hanging",
+  "hook": "字根 pend/pens＝懸、稱、付——掛著的事最折磨人。",
+  "script": "pending 懸而未決；suspend 暫時吊起來。depend 掛靠依賴，independent 不掛靠。append 附加，appendix 附錄。compensate 補償秤平，dispense 分配／免除，pensive 沉思掛著臉，expenditure 支出，pension 養老金，perpendicular 垂直掛線，impending 迫近懸在頭上。",
+  "members": [
+    {
+      "headword": "pending",
+      "inVocab": false,
+      "senseAnchor": "待決的；直到",
+      "roleInScript": "掛著沒定",
+      "humorDevice": "morphology",
+      "zhGloss": "待決的；直到",
+      "speakLineEn": "Results are pending ethics clearance.",
+      "speakLineZh": "結果尚待倫理審查。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "suspend",
+      "inVocab": false,
+      "senseAnchor": "暫停；懸吊",
+      "roleInScript": "暫時吊起",
+      "humorDevice": "morphology",
+      "zhGloss": "暫停；懸吊",
+      "speakLineEn": "Suspend recruitment when adverse events cluster.",
+      "speakLineZh": "不良事件群聚時暫停收案。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "depend",
+      "inVocab": false,
+      "senseAnchor": "依賴",
+      "roleInScript": "掛靠",
+      "humorDevice": "morphology",
+      "zhGloss": "依賴",
+      "speakLineEn": "Estimates depend on the exclusion restriction.",
+      "speakLineZh": "估計依賴排除限制。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "independent",
+      "inVocab": false,
+      "senseAnchor": "獨立的",
+      "roleInScript": "不掛靠",
+      "humorDevice": "morphology",
+      "zhGloss": "獨立的",
+      "speakLineEn": "Independent replication beats in-house confirmation.",
+      "speakLineZh": "獨立複現勝過內部確認。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "append",
+      "inVocab": false,
+      "senseAnchor": "附加",
+      "roleInScript": "掛上去",
+      "humorDevice": "morphology",
+      "zhGloss": "附加",
+      "speakLineEn": "Append the codebook to the replication package.",
+      "speakLineZh": "把編碼簿附加到複現包。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "appendix",
+      "inVocab": false,
+      "senseAnchor": "附錄；闌尾",
+      "roleInScript": "掛在正文後",
+      "humorDevice": "morphology",
+      "zhGloss": "附錄；闌尾",
+      "speakLineEn": "Put long tables in an appendix.",
+      "speakLineZh": "長表放附錄。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "compensate",
+      "inVocab": false,
+      "senseAnchor": "補償",
+      "roleInScript": "秤平",
+      "humorDevice": "morphology",
+      "zhGloss": "補償",
+      "speakLineEn": "Weighting can compensate for known nonresponse.",
+      "speakLineZh": "加權可補償已知不回應。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "dispense",
+      "inVocab": true,
+      "senseAnchor": "administer or bestow, as in small portions; grant a dispensation; grant an exemption",
+      "roleInScript": "分發／免用",
+      "humorDevice": "morphology",
+      "zhGloss": "分配；免除",
+      "speakLineEn": "We can dispense with decorative citations.",
+      "speakLineZh": "我們可以免除裝飾性引用。",
+      "related": {
+        "synonyms": "distribute, administer, deal, lot, allot",
+        "antonyms": "gather"
+      }
+    },
+    {
+      "headword": "pensive",
+      "inVocab": true,
+      "senseAnchor": "thinking deeply about something that worries you",
+      "roleInScript": "臉掛著思緒",
+      "humorDevice": "morphology",
+      "zhGloss": "沉思的",
+      "speakLineEn": "A pensive tone is fine; vagueness is not.",
+      "speakLineZh": "沉思語氣可以；含糊不行。",
+      "related": {
+        "synonyms": "brooding, broody, contemplative, meditative, musing, pondering",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "expenditure",
+      "inVocab": true,
+      "senseAnchor": "money paid out; an amount spent; the act of spending money for goods or services",
+      "roleInScript": "付出去的",
+      "humorDevice": "morphology",
+      "zhGloss": "支出",
+      "speakLineEn": "Track expenditure against preregistered milestones.",
+      "speakLineZh": "依預註冊里程碑追蹤支出。",
+      "related": {
+        "synonyms": "outgo, spending, outlay, expending, consumption",
+        "antonyms": "income"
+      }
+    },
+    {
+      "headword": "pension",
+      "inVocab": false,
+      "senseAnchor": "退休金",
+      "roleInScript": "晚年掛帳",
+      "humorDevice": "story",
+      "zhGloss": "退休金",
+      "speakLineEn": "Pension systems illustrate long-horizon policy tradeoffs.",
+      "speakLineZh": "退休金制度說明長期政策取捨。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "perpendicular",
+      "inVocab": true,
+      "senseAnchor": "a straight line at right angles to another line; a Gothic style in 14th and 15th century England; characterized by vertical lines and a four-centered (Tudor) arch and fan vaulting",
+      "roleInScript": "掛成直角",
+      "humorDevice": "morphology",
+      "zhGloss": "垂直的",
+      "speakLineEn": "Keep axes perpendicular and honestly scaled.",
+      "speakLineZh": "軸線保持垂直且誠實刻度。",
+      "related": {
+        "synonyms": "English-Gothic, vertical",
+        "antonyms": "horizontal, inclined, oblique, parallel"
+      }
+    },
+    {
+      "headword": "impending",
+      "inVocab": true,
+      "senseAnchor": "be imminent or about to happen; close in time; about to occur",
+      "roleInScript": "懸在頭上迫近",
+      "humorDevice": "morphology",
+      "zhGloss": "即將發生的",
+      "speakLineEn": "Impending deadlines distort careful reading.",
+      "speakLineZh": "迫近截止扭曲細讀。",
+      "related": {
+        "synonyms": "impend, imminent, impendent",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "pendant",
+      "inVocab": false,
+      "senseAnchor": "垂飾；懸著的",
+      "roleInScript": "吊飾",
+      "humorDevice": "story",
+      "zhGloss": "垂飾；懸著的",
+      "speakLineEn": "A pendant caveat cannot rescue a broken design.",
+      "speakLineZh": "垂吊的但書救不了壞設計。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "propensity",
+      "inVocab": false,
+      "senseAnchor": "傾向",
+      "roleInScript": "懸向某一邊",
+      "humorDevice": "morphology",
+      "zhGloss": "傾向",
+      "speakLineEn": "Estimate propensity with covariates chosen ex ante.",
+      "speakLineZh": "用事先選好的共變估計傾向。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    }
+  ],
+  "reviewHooks": [
+    "pend＝懸：pending/suspend/depend/append/impending",
+    "compensate＝補償秤平"
+  ],
+  "pitfalls": [
+    "pending＝待決；impending＝即將發生",
+    "dispense with＝免除不用"
+  ],
+  "lessonRefs": [
+    "lesson-root-pend-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S3b"
+  }
+}

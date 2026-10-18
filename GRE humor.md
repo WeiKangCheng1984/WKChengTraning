@@ -18,20 +18,21 @@
 | v0 | 覆蓋率腳本／報告 | ✅ | `web/scripts/gre-humor-coverage.js` |
 | **S1** | **12 族全部升 `reviewed`＋各 1 堂課／3 微題** | ✅ | `gre-humor/STAGE1-REPORT.md` |
 | **S2** | **再增 12 張 A 級字根族；獨特詞 ≥ 200** | ✅ | `gre-humor/STAGE2-REPORT.md` |
-| **S3a** | **pending-add 雙軌（補庫／暫緩標註）** | ✅ **本階段完成** | `gre-humor/STAGE3a-REPORT.md` |
-| S3b | 再擴編家族（衝 ≥500 詞） | ⏳ 下一階段 | — |
+| **S3a** | **pending-add 雙軌（補庫／暫緩標註）** | ✅ | `gre-humor/STAGE3a-REPORT.md` |
+| **S3b** | **再擴 20 族；獨特詞 ≥ 500** | ✅ **本階段完成（503 詞）** | `gre-humor/STAGE3b-REPORT.md` |
+| S3c（建議） | 新詞再跑一輪補庫／暫緩分流 | ⏳ | pending 約 259 |
 | S4 | 押韻季／字根季課序大綱（16+ 堂） | ⏳ | — |
 | 後續 | 網站接入 `/english/gre` 幽默模式 | ⏳ | — |
 
-**目前數字**：家族 **24**；課 **24**；獨特幽默詞 **203**；主詞庫 JSON **3,938**（S3a 補入 94）；幽默→主庫命中 **168**；暫緩進主庫 **35**。  
-**指令**：S3a `node web/scripts/gre-humor-s3a-pending.js`｜覆蓋率 `node web/scripts/gre-humor-coverage.js`
+**目前數字**：家族 **44**；課 **44**（皆 reviewed）；獨特幽默詞 **503**；主詞庫 JSON **3,938**；幽默→主庫命中 **244**；pending-add **259**；距離 4,000 約 **3,497**。  
+**指令**：S3b `node web/scripts/gre-humor-stage3b-expand.js`｜覆蓋率 `node web/scripts/gre-humor-coverage.js`
 
 ### 下一步計畫（未來工作）
 
-1. **S3b**：再寫 15～20 張 A/B 級家族，目標獨特詞 **≥ 500**。  
-2. **審讀** `GRE vocabulary-humor-supplement.md`（S3a 補錄鏡像），有誤再回修。  
-3. **S4**：輸出 Season 課序大綱（押韻季／字根季）。  
-4. **再之後**：網站幽默聯想瀏覽／跟讀／微題 UI。
+1. **S3c（建議）**：對 S3b 新詞再跑補庫／暫緩（類似 S3a），壓低 pending。  
+2. **S4**：輸出 Season 課序大綱（押韻季／字根季）。  
+3. **再之後**：網站幽默聯想瀏覽／跟讀／微題 UI。  
+4. 持續擴編直到逼近 **4,000** 覆蓋目標。
 
 ---
 

@@ -1,0 +1,97 @@
+{
+  "id": "lesson-rhyme-ain-01",
+  "slug": "rhyme-ain-01",
+  "season": 1,
+  "seasonTitleZh": "押韻派對",
+  "seasonTitleEn": "Rhyme Party",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "rhyme-ain-01",
+  "titleZh": "-ain｜抱怨與訓練營",
+  "titleEn": "The -ain Camp",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "尾巴 -ain：抱怨、解釋、約束、大腦與排水管。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "抱怨 complain，解釋 explain，約束 restrain／constraint。大腦 brain，排水 drain，木頭 grain，染 stain，緊張 strain，獲得 gain，主要 main，平原 plain，雨 rain——串成一座吵闹訓練營。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "-ain：complain/explain/restrain/constraint/strain/gain",
+        "constraint＝約束條件"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "A limiting condition:",
+      "promptZh": "約束條件：",
+      "choices": [
+        "constraint",
+        "complain",
+        "rain",
+        "brain"
+      ],
+      "answer": "constraint"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Hold back:",
+      "promptZh": "抑制：",
+      "choices": [
+        "restrain",
+        "explain joke",
+        "stain shirt only",
+        "grain rice only"
+      ],
+      "answer": "restrain"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Clear; not fancy:",
+      "promptZh": "清楚樸素：",
+      "choices": [
+        "plain",
+        "plane flight",
+        "train station only",
+        "drain sink only"
+      ],
+      "answer": "plain"
+    }
+  ],
+  "pitfalls": [
+    "restrain（抑制）vs constraint（名詞約束）",
+    "plain ≠ plane"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S3b"
+  }
+}

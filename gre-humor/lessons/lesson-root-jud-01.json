@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-jud-01",
+  "slug": "root-jud-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-jud-01",
+  "titleZh": "jud／jur｜審判席",
+  "titleEn": "Judgment Bench",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 jud/jur/jus＝法、判——誰來審。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "judge 法官／判斷，judicial 司法的，judicious 明斷的。prejudice 預先判決，adjudicate 裁決。jury 陪審團，juridical 法律上的，justice 正義，justify 辯護使正當，injustice 不義，jurisdiction 已在 dict 族——這裡看 perjury 偽證，injury 傷害。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "jud＝判：judge/judicial/judicious/prejudice/adjudicate/justify",
+        "prejudice＝預先偏判；perjury＝偽證"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "lookalike",
+      "promptEn": "judicious vs judicial:",
+      "promptZh": "明斷 vs 司法：",
+      "choices": [
+        "wise judgment vs of the courts",
+        "same",
+        "both mean unfair",
+        "spelling only"
+      ],
+      "answer": "wise judgment vs of the courts"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Preconceived bias:",
+      "promptZh": "偏見：",
+      "choices": [
+        "prejudice",
+        "jury lunch",
+        "injury bruise only",
+        "statue"
+      ],
+      "answer": "prejudice"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Lying under oath (science analogy: fabrication):",
+      "promptZh": "偽證：",
+      "choices": [
+        "perjury",
+        "justify margins",
+        "judicous typo",
+        "advent"
+      ],
+      "answer": "perjury"
+    }
+  ],
+  "pitfalls": [
+    "judicious（明智判斷）≠ judicial（司法的）",
+    "justify＝提出正當理由"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S3b"
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "id": "sem-clear-01",
+  "type": "semantic",
+  "elementLemma": "clear-vs-obscure",
+  "titleZh": "清晰 ↔ 晦澀",
+  "titleEn": "Clear vs Obscure",
+  "hook": "一邊玻璃窗，一邊霧玻璃——GRE 最愛考『說得清不清』。",
+  "script": "清晰：lucid、explicit、perspicuous、transparent。晦澀：obscure、opaque、ambiguous、equivocal（voc 族已練）、vague、abstruse、recondite。用對打一次記兩排。",
+  "members": [
+    {
+      "headword": "lucid",
+      "inVocab": false,
+      "senseAnchor": "清晰的；清醒的",
+      "roleInScript": "玻璃窗",
+      "humorDevice": "contrast",
+      "zhGloss": "清晰的；清醒的",
+      "speakLineEn": "A lucid limitation section builds trust.",
+      "speakLineZh": "清晰限制段建立信任。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "explicit",
+      "inVocab": false,
+      "senseAnchor": "明確的",
+      "roleInScript": "寫在外面",
+      "humorDevice": "contrast",
+      "zhGloss": "明確的",
+      "speakLineEn": "Be explicit about missing-data rules.",
+      "speakLineZh": "缺值規則要明確。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "perspicuous",
+      "inVocab": true,
+      "senseAnchor": "(of language) transparently clear; easily understandable; ; ; - Robert Burton",
+      "roleInScript": "透亮",
+      "humorDevice": "contrast",
+      "zhGloss": "明白易懂的",
+      "speakLineEn": "Prefer perspicuous diagrams over ornament.",
+      "speakLineZh": "寧可明白圖，不要裝飾。",
+      "related": {
+        "synonyms": "limpid, lucid, luculent, pellucid",
+        "antonyms": "obscure, confused"
+      }
+    },
+    {
+      "headword": "transparent",
+      "inVocab": false,
+      "senseAnchor": "透明的",
+      "roleInScript": "可透視",
+      "humorDevice": "contrast",
+      "zhGloss": "透明的",
+      "speakLineEn": "Transparent pipelines enable audit.",
+      "speakLineZh": "透明管線可稽核。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "obscure",
+      "inVocab": false,
+      "senseAnchor": "晦澀的；遮掩",
+      "roleInScript": "霧玻璃",
+      "humorDevice": "contrast",
+      "zhGloss": "晦澀的；遮掩",
+      "speakLineEn": "Jargon can obscure a simple design flaw.",
+      "speakLineZh": "行話會遮掩簡單設計缺陷。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "opaque",
+      "inVocab": false,
+      "senseAnchor": "不透明的；難懂的",
+      "roleInScript": "墨玻璃",
+      "humorDevice": "contrast",
+      "zhGloss": "不透明的；難懂的",
+      "speakLineEn": "Opaque preprocessing invites distrust.",
+      "speakLineZh": "不透明前處理招致不信。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "ambiguous",
+      "inVocab": false,
+      "senseAnchor": "模稜的",
+      "roleInScript": "兩種影子",
+      "humorDevice": "contrast",
+      "zhGloss": "模稜的",
+      "speakLineEn": "Ambiguous items destroy interrater reliability.",
+      "speakLineZh": "模稜題項摧毀評分者信度。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "vague",
+      "inVocab": false,
+      "senseAnchor": "含糊的",
+      "roleInScript": "霧",
+      "humorDevice": "contrast",
+      "zhGloss": "含糊的",
+      "speakLineEn": "Vague hypotheses cannot fail.",
+      "speakLineZh": "含糊假說不會失敗。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "abstruse",
+      "inVocab": false,
+      "senseAnchor": "深奧難解的",
+      "roleInScript": "霧很厚",
+      "humorDevice": "contrast",
+      "zhGloss": "深奧難解的",
+      "speakLineEn": "Abstruse prose is not rigor.",
+      "speakLineZh": "深奧難解文筆≠嚴謹。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "recondite",
+      "inVocab": true,
+      "senseAnchor": "difficult to penetrate; incomprehensible to one of ordinary understanding or knowledge",
+      "roleInScript": "藏很深",
+      "humorDevice": "contrast",
+      "zhGloss": "深奧的；隱僻的",
+      "speakLineEn": "Recondite citations should still be findable.",
+      "speakLineZh": "隱僻引用仍應可找到。",
+      "related": {
+        "synonyms": "abstruse, deep",
+        "antonyms": "accessible, simple"
+      }
+    },
+    {
+      "headword": "implicit",
+      "inVocab": false,
+      "senseAnchor": "隱含的",
+      "roleInScript": "沒寫在外面",
+      "humorDevice": "contrast",
+      "zhGloss": "隱含的",
+      "speakLineEn": "Make implicit assumptions explicit.",
+      "speakLineZh": "把隱含假設說明白。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "clarity",
+      "inVocab": true,
+      "senseAnchor": "free from obscurity and easy to understand; the comprehensibility of clear expression; the quality of clear water",
+      "roleInScript": "清的名詞",
+      "humorDevice": "contrast",
+      "zhGloss": "清晰",
+      "speakLineEn": "Clarity is a ethical duty in consent.",
+      "speakLineZh": "同意書裡清晰是倫理義務。",
+      "related": {
+        "synonyms": "lucidity, lucidness, pellucidity, clearness, limpidity, uncloudedness",
+        "antonyms": "obscurity, opacity, unclearness"
+      }
+    },
+    {
+      "headword": "nebula",
+      "inVocab": false,
+      "senseAnchor": "星雲（比喻一團霧）",
+      "roleInScript": "宇宙霧",
+      "humorDevice": "story",
+      "zhGloss": "星雲（比喻一團霧）",
+      "speakLineEn": "A nebula of buzzwords is not a theory.",
+      "speakLineZh": "術語星雲不是理論。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "crystal",
+      "inVocab": false,
+      "senseAnchor": "水晶（比喻清楚）",
+      "roleInScript": "結晶清楚",
+      "humorDevice": "story",
+      "zhGloss": "水晶（比喻清楚）",
+      "speakLineEn": "Crystal-clear stopping rules prevent peeking.",
+      "speakLineZh": "水晶般清楚的停止規則防偷看。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "muddy",
+      "inVocab": false,
+      "senseAnchor": "混濁的",
+      "roleInScript": "泥水",
+      "humorDevice": "contrast",
+      "zhGloss": "混濁的",
+      "speakLineEn": "Muddy contrasts weaken identification stories.",
+      "speakLineZh": "混濁對照削弱識別故事。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    }
+  ],
+  "reviewHooks": [
+    "清：lucid/explicit/transparent/perspicuous",
+    "晦：obscure/opaque/vague/abstruse/recondite"
+  ],
+  "pitfalls": [
+    "explicit≠implicit",
+    "opaque 可指不透明或難懂"
+  ],
+  "lessonRefs": [
+    "lesson-sem-clear-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S3b"
+  }
+}

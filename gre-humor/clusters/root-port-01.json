@@ -1,0 +1,238 @@
+{
+  "id": "root-port-01",
+  "type": "root",
+  "elementLemma": "port",
+  "titleZh": "port｜港口物流劇",
+  "titleEn": "Port Logistics",
+  "hook": "字根 port＝運、帶——碼頭專管進出口與重要消息。",
+  "script": "貨物 import 運入、export 運出；deport 把人運出境。portable 可攜，transport 整段運輸。important 有重量；opportune／opportunity 剛好靠岸。support 托住，report 運回消息；portfolio 一組可運資產，purport 聲稱運載何義，insupportable 托不住。",
+  "members": [
+    {
+      "headword": "import",
+      "inVocab": false,
+      "senseAnchor": "進口；重要性",
+      "roleInScript": "運進來",
+      "humorDevice": "morphology",
+      "zhGloss": "進口；重要性",
+      "speakLineEn": "The import of the finding is practical, not merely theoretical.",
+      "speakLineZh": "該發現的重要性是實務的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "export",
+      "inVocab": false,
+      "senseAnchor": "出口；輸出",
+      "roleInScript": "運出去",
+      "humorDevice": "morphology",
+      "zhGloss": "出口；輸出",
+      "speakLineEn": "Methods that export poorly across cultures need local tests.",
+      "speakLineZh": "難跨文化輸出的方法需在地檢驗。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "deport",
+      "inVocab": false,
+      "senseAnchor": "驅逐出境",
+      "roleInScript": "把人運走",
+      "humorDevice": "morphology",
+      "zhGloss": "驅逐出境",
+      "speakLineEn": "The metaphor of deporting outliers can hide selection bias.",
+      "speakLineZh": "『驅逐極端值』可能掩蓋選擇偏差。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "portable",
+      "inVocab": false,
+      "senseAnchor": "可攜的；可移植的",
+      "roleInScript": "可隨身運",
+      "humorDevice": "morphology",
+      "zhGloss": "可攜的；可移植的",
+      "speakLineEn": "A portable checklist travels between labs.",
+      "speakLineZh": "可移植檢核表能在實驗室間旅行。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "transport",
+      "inVocab": true,
+      "senseAnchor": "a state of overwhelming usually pleasurable emotion",
+      "roleInScript": "整段運程",
+      "humorDevice": "morphology",
+      "zhGloss": "運輸",
+      "speakLineEn": "How we transport samples affects degradation.",
+      "speakLineZh": "樣本運輸方式影響降解。",
+      "related": {
+        "synonyms": "ecstasy, euphoria, rhapsody",
+        "antonyms": "disenchant, dysphoria"
+      }
+    },
+    {
+      "headword": "important",
+      "inVocab": false,
+      "senseAnchor": "重要的",
+      "roleInScript": "有重量的貨",
+      "humorDevice": "story",
+      "zhGloss": "重要的",
+      "speakLineEn": "Important claims deserve pre-registered tests.",
+      "speakLineZh": "重要主張值得預註冊檢驗。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "opportune",
+      "inVocab": true,
+      "senseAnchor": "suitable or at a time that is suitable or advantageous especially for a particular purpose",
+      "roleInScript": "剛好靠岸",
+      "humorDevice": "morphology",
+      "zhGloss": "合時宜的",
+      "speakLineEn": "An opportune pause let cooler evidence speak.",
+      "speakLineZh": "合時停頓讓冷靜證據說話。",
+      "related": {
+        "synonyms": "",
+        "antonyms": "inopportune"
+      }
+    },
+    {
+      "headword": "opportunity",
+      "inVocab": false,
+      "senseAnchor": "機會",
+      "roleInScript": "靠岸窗口",
+      "humorDevice": "morphology",
+      "zhGloss": "機會",
+      "speakLineEn": "Missing data is also a missed opportunity for honesty.",
+      "speakLineZh": "缺漏資料也是錯失誠實機會。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "support",
+      "inVocab": false,
+      "senseAnchor": "支持；支撐",
+      "roleInScript": "從下面托住",
+      "humorDevice": "morphology",
+      "zhGloss": "支持；支撐",
+      "speakLineEn": "Correlations alone rarely support causal claims.",
+      "speakLineZh": "單靠相關很少支撐因果。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "report",
+      "inVocab": false,
+      "senseAnchor": "報告",
+      "roleInScript": "運回總部",
+      "humorDevice": "morphology",
+      "zhGloss": "報告",
+      "speakLineEn": "Report effect sizes with intervals, not stars alone.",
+      "speakLineZh": "報告效應量請帶區間。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "portfolio",
+      "inVocab": false,
+      "senseAnchor": "作品集；投資組合",
+      "roleInScript": "一組可運資產",
+      "humorDevice": "morphology",
+      "zhGloss": "作品集；投資組合",
+      "speakLineEn": "A methods portfolio beats a single fashionable tool.",
+      "speakLineZh": "方法組合勝過單一流行工具。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "purport",
+      "inVocab": true,
+      "senseAnchor": "the intended meaning of a communication; the pervading meaning or tenor",
+      "roleInScript": "宣稱運載的意義",
+      "humorDevice": "morphology",
+      "zhGloss": "聲稱；主旨",
+      "speakLineEn": "The statute purports to protect privacy broadly.",
+      "speakLineZh": "法條聲稱要廣泛保護隱私。",
+      "related": {
+        "synonyms": "intent, spirit, drift, aim, purpose, propose",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "insupportable",
+      "inVocab": false,
+      "senseAnchor": "無法支撐的；難忍的",
+      "roleInScript": "托不住",
+      "humorDevice": "morphology",
+      "zhGloss": "無法支撐的；難忍的",
+      "speakLineEn": "That leap from survey to policy is insupportable.",
+      "speakLineZh": "從問卷跳到政策無法支撐。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "porter",
+      "inVocab": false,
+      "senseAnchor": "搬運工",
+      "roleInScript": "碼頭搬運者",
+      "humorDevice": "story",
+      "zhGloss": "搬運工",
+      "speakLineEn": "Think of operationalization as the porter of concepts.",
+      "speakLineZh": "操作型定義像概念搬運工。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "sport",
+      "inVocab": true,
+      "senseAnchor": "an active diversion requiring physical exertion and competition; the occupation of athletes who compete for pay",
+      "roleInScript": "把精力運去競技",
+      "humorDevice": "story",
+      "zhGloss": "運動；炫耀（古義 disport 近）",
+      "speakLineEn": "Do not sport with definitions mid-argument.",
+      "speakLineZh": "論證中途不要拿定義嬉戲。",
+      "related": {
+        "synonyms": "athletics, summercater, sportsman, sportswoman, mutant, mutation",
+        "antonyms": ""
+      }
+    }
+  ],
+  "reviewHooks": [
+    "port＝運：import/export/deport/transport/portable",
+    "opportune＝合時；purport＝聲稱"
+  ],
+  "pitfalls": [
+    "deport 驅人 ≠ export 運貨",
+    "important 勿只記『重要』忘構詞重量感"
+  ],
+  "lessonRefs": [
+    "lesson-root-port-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S3b"
+  }
+}

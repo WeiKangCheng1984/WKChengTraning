@@ -1,0 +1,238 @@
+{
+  "id": "root-sta-01",
+  "type": "root",
+  "elementLemma": "sta/stit",
+  "titleZh": "sta／stit｜站立與制度廣場",
+  "titleEn": "Stand & Institute Square",
+  "hook": "字根 sta/stit＝站——站得住才成制度。",
+  "script": "status 地位狀態；statue 雕像站著。constitute 組成構成，institution 制度，substitute 替代站上。desist 停止站開，persist 堅持站著，resist 抵抗。stable 穩定，stability 穩定性，establish 建立站穩，stance 立場，obstacle 擋路，standard 標準。",
+  "members": [
+    {
+      "headword": "status",
+      "inVocab": false,
+      "senseAnchor": "地位；狀態",
+      "roleInScript": "站在哪裡",
+      "humorDevice": "morphology",
+      "zhGloss": "地位；狀態",
+      "speakLineEn": "Report status of preregistration deviations.",
+      "speakLineZh": "報告預註冊偏離狀態。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "statue",
+      "inVocab": false,
+      "senseAnchor": "雕像",
+      "roleInScript": "站著的石人",
+      "humorDevice": "story",
+      "zhGloss": "雕像",
+      "speakLineEn": "A statue of a founder is not a methods section.",
+      "speakLineZh": "創辦人雕像不是方法段。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "constitute",
+      "inVocab": false,
+      "senseAnchor": "構成；設立",
+      "roleInScript": "站成整體",
+      "humorDevice": "morphology",
+      "zhGloss": "構成；設立",
+      "speakLineEn": "These items constitute the distress index.",
+      "speakLineZh": "這些題項構成困擾指數。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "institution",
+      "inVocab": false,
+      "senseAnchor": "制度；機構",
+      "roleInScript": "站穩的組織",
+      "humorDevice": "morphology",
+      "zhGloss": "制度；機構",
+      "speakLineEn": "Institution design shapes what evidence counts.",
+      "speakLineZh": "制度設計形塑何謂有效證據。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "substitute",
+      "inVocab": false,
+      "senseAnchor": "代替",
+      "roleInScript": "替代站上",
+      "humorDevice": "morphology",
+      "zhGloss": "代替",
+      "speakLineEn": "Do not substitute rhetoric for identification.",
+      "speakLineZh": "不要用修辭替代識別。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "desist",
+      "inVocab": true,
+      "senseAnchor": "choose not to consume",
+      "roleInScript": "站開停手",
+      "humorDevice": "morphology",
+      "zhGloss": "停止",
+      "speakLineEn": "Desist from harvesting outcomes mid-stream.",
+      "speakLineZh": "停止中途收割結果。",
+      "related": {
+        "synonyms": "abstain, refrain",
+        "antonyms": "consume"
+      }
+    },
+    {
+      "headword": "persist",
+      "inVocab": false,
+      "senseAnchor": "持續；堅持",
+      "roleInScript": "一直站著",
+      "humorDevice": "morphology",
+      "zhGloss": "持續；堅持",
+      "speakLineEn": "Biases persist when incentives stay misaligned.",
+      "speakLineZh": "誘因錯位時偏差持續。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "resist",
+      "inVocab": false,
+      "senseAnchor": "抵抗",
+      "roleInScript": "站著對抗",
+      "humorDevice": "morphology",
+      "zhGloss": "抵抗",
+      "speakLineEn": "Fields resist reforms that threaten hierarchies.",
+      "speakLineZh": "領域抵抗威脅階層的改革。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "stable",
+      "inVocab": false,
+      "senseAnchor": "穩定的",
+      "roleInScript": "站得穩",
+      "humorDevice": "morphology",
+      "zhGloss": "穩定的",
+      "speakLineEn": "Seek stable estimates across specifications.",
+      "speakLineZh": "在不同設定中尋求穩定估計。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "stability",
+      "inVocab": false,
+      "senseAnchor": "穩定性",
+      "roleInScript": "穩的程度",
+      "humorDevice": "morphology",
+      "zhGloss": "穩定性",
+      "speakLineEn": "Stability checks belong in the main text.",
+      "speakLineZh": "穩定性檢查應放正文。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "establish",
+      "inVocab": false,
+      "senseAnchor": "建立；確立",
+      "roleInScript": "站穩根基",
+      "humorDevice": "morphology",
+      "zhGloss": "建立；確立",
+      "speakLineEn": "Establish coding reliability before analysis.",
+      "speakLineZh": "分析前確立編碼信度。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "stance",
+      "inVocab": false,
+      "senseAnchor": "立場",
+      "roleInScript": "站姿／立場",
+      "humorDevice": "morphology",
+      "zhGloss": "立場",
+      "speakLineEn": "State your stance on causal language explicitly.",
+      "speakLineZh": "明確陳述對因果語言的立場。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "obstacle",
+      "inVocab": false,
+      "senseAnchor": "障礙",
+      "roleInScript": "擋路的東西",
+      "humorDevice": "morphology",
+      "zhGloss": "障礙",
+      "speakLineEn": "Paywalls remain an obstacle to synthesis.",
+      "speakLineZh": "付費牆仍是綜整障礙。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "standard",
+      "inVocab": false,
+      "senseAnchor": "標準",
+      "roleInScript": "站立的尺度",
+      "humorDevice": "morphology",
+      "zhGloss": "標準",
+      "speakLineEn": "Adopt reporting standards early.",
+      "speakLineZh": "及早採用報告標準。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    },
+    {
+      "headword": "statute",
+      "inVocab": false,
+      "senseAnchor": "成文法",
+      "roleInScript": "寫成站穩的法",
+      "humorDevice": "lookalike",
+      "zhGloss": "成文法",
+      "speakLineEn": "Cite the statute, not a blog summary.",
+      "speakLineZh": "引用成文法，不是部落格摘要。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      }
+    }
+  ],
+  "reviewHooks": [
+    "sta＝站：status/constitute/institution/persist/resist/stable/establish",
+    "desist＝停；substitute＝替代站上"
+  ],
+  "pitfalls": [
+    "statue（雕像）≠ statute（法規）≠ status",
+    "constitute＝構成／設立"
+  ],
+  "lessonRefs": [
+    "lesson-root-sta-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "S3b"
+  }
+}
