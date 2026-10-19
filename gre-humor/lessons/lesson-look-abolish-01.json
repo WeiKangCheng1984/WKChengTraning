@@ -1,0 +1,96 @@
+{
+  "id": "lesson-look-abolish-01",
+  "slug": "look-abolish-01",
+  "season": 3,
+  "seasonTitleZh": "語氣對打",
+  "seasonTitleEn": "Tone Duels",
+  "type": "duel",
+  "minutes": "12-15",
+  "clusterId": "look-abolish-01",
+  "titleZh": "abolish／abominate／demolish｜廢除診所",
+  "titleEn": "Abolish Clinic",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "三個按鈕：abolish 廢法、abominate 厭惡、demolish 拆樓——按錯會變成「我很討厭這棟合法建築並拆了它」。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "abolish＝廢除制度。abominate＝強烈厭惡。demolish＝拆毀建築。診所標語：恨≠拆≠廢，三位一體但不是同一個動作。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "abolish＝廢除；abominate＝厭惡；demolish＝拆毀",
+        "先分對象：法／感／樓"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Do away with a law:",
+      "promptZh": "廢除法律：",
+      "choices": [
+        "abolish",
+        "abominate",
+        "repository",
+        "neon"
+      ],
+      "answer": "abolish"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Hate intensely:",
+      "promptZh": "強烈厭惡：",
+      "choices": [
+        "abominate",
+        "demolish",
+        "forecast",
+        "sole"
+      ],
+      "answer": "abominate"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Tear down a building:",
+      "promptZh": "拆毀建築：",
+      "choices": [
+        "demolish",
+        "abolish",
+        "omnibus",
+        "scanty"
+      ],
+      "answer": "demolish"
+    }
+  ],
+  "pitfalls": [
+    "不要把 abominate 當 demolish 用"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch03"
+  }
+}

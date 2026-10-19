@@ -1,0 +1,231 @@
+{
+  "id": "look-bustle-01",
+  "type": "lookalike",
+  "elementLemma": "bustle-hustle-hurtle",
+  "titleZh": "bustle／hustle／hurtle｜匆忙轉盤",
+  "titleEn": "Bustle Turntable",
+  "hook": "bustle 是忙亂熱鬧，hustle 是催趕奔忙，hurtle 是猛衝——轉盤三格：熱鬧、催趕、飛射。",
+  "script": "bustle＝喧鬧忙亂。hustle＝匆忙／催促。hurtle＝猛衝飛撞。廣播：熱鬧≠催你快跑≠被彈射出去；先認速度與意圖。",
+  "members": [
+    {
+      "headword": "bustle",
+      "inVocab": true,
+      "senseAnchor": "a rapid active commotion; a framework worn at the back below the waist for giving fullness to a woman's skirt",
+      "roleInScript": "熱鬧格",
+      "humorDevice": "lookalike",
+      "zhGloss": "忙亂",
+      "speakLineEn": "Cue the 熱鬧格: bustle walks on and the gag sticks.",
+      "speakLineZh": "請「熱鬧格」出場：bustle 一上場梗就黏住——忙亂。",
+      "related": {
+        "synonyms": "hustle, flurry, ado, fuss, stir",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "hustle",
+      "inVocab": true,
+      "senseAnchor": "催趕奔忙",
+      "roleInScript": "催趕格",
+      "humorDevice": "lookalike",
+      "zhGloss": "催趕奔忙",
+      "speakLineEn": "Cue the 催趕格: hustle walks on and the gag sticks.",
+      "speakLineZh": "請「催趕格」出場：hustle 一上場梗就黏住——催趕奔忙。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "hurtle",
+      "inVocab": true,
+      "senseAnchor": "move with or as if with a rushing sound; make a thrusting forward movement",
+      "roleInScript": "飛射格",
+      "humorDevice": "lookalike",
+      "zhGloss": "猛衝",
+      "speakLineEn": "Cue the 飛射格: hurtle walks on and the gag sticks.",
+      "speakLineZh": "請「飛射格」出場：hurtle 一上場梗就黏住——猛衝。",
+      "related": {
+        "synonyms": "lunge, hurl, thrust, cast",
+        "antonyms": "keep down"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "hurdle",
+      "inVocab": true,
+      "senseAnchor": "跨欄障礙",
+      "roleInScript": "欄架",
+      "humorDevice": "lookalike",
+      "zhGloss": "跨欄障礙",
+      "speakLineEn": "Cue the 欄架: hurdle walks on and the gag sticks.",
+      "speakLineZh": "請「欄架」出場：hurdle 一上場梗就黏住——跨欄障礙。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "rush",
+      "inVocab": false,
+      "senseAnchor": "衝",
+      "roleInScript": "衝",
+      "humorDevice": "story",
+      "zhGloss": "衝",
+      "speakLineEn": "Cue the 衝: rush walks on and the gag sticks.",
+      "speakLineZh": "請「衝」出場：rush 一上場梗就黏住——衝。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "turntable",
+      "inVocab": false,
+      "senseAnchor": "轉盤",
+      "roleInScript": "轉盤",
+      "humorDevice": "story",
+      "zhGloss": "轉盤",
+      "speakLineEn": "Cue the 轉盤: turntable walks on and the gag sticks.",
+      "speakLineZh": "請「轉盤」出場：turntable 一上場梗就黏住——轉盤。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "speed",
+      "inVocab": false,
+      "senseAnchor": "速度",
+      "roleInScript": "速度",
+      "humorDevice": "story",
+      "zhGloss": "速度",
+      "speakLineEn": "Cue the 速度: speed walks on and the gag sticks.",
+      "speakLineZh": "請「速度」出場：speed 一上場梗就黏住——速度。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "market",
+      "inVocab": false,
+      "senseAnchor": "市集",
+      "roleInScript": "市集",
+      "humorDevice": "story",
+      "zhGloss": "市集",
+      "speakLineEn": "Cue the 市集: market walks on and the gag sticks.",
+      "speakLineZh": "請「市集」出場：market 一上場梗就黏住——市集。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "dash",
+      "inVocab": false,
+      "senseAnchor": "飛奔",
+      "roleInScript": "飛奔",
+      "humorDevice": "story",
+      "zhGloss": "飛奔",
+      "speakLineEn": "Cue the 飛奔: dash walks on and the gag sticks.",
+      "speakLineZh": "請「飛奔」出場：dash 一上場梗就黏住——飛奔。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "announce",
+      "inVocab": false,
+      "senseAnchor": "廣播",
+      "roleInScript": "廣播",
+      "humorDevice": "story",
+      "zhGloss": "廣播",
+      "speakLineEn": "Cue the 廣播: announce walks on and the gag sticks.",
+      "speakLineZh": "請「廣播」出場：announce 一上場梗就黏住——廣播。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "lane",
+      "inVocab": false,
+      "senseAnchor": "跑道",
+      "roleInScript": "跑道",
+      "humorDevice": "story",
+      "zhGloss": "跑道",
+      "speakLineEn": "Cue the 跑道: lane walks on and the gag sticks.",
+      "speakLineZh": "請「跑道」出場：lane 一上場梗就黏住——跑道。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "cart",
+      "inVocab": false,
+      "senseAnchor": "推車",
+      "roleInScript": "推車",
+      "humorDevice": "story",
+      "zhGloss": "推車",
+      "speakLineEn": "Cue the 推車: cart walks on and the gag sticks.",
+      "speakLineZh": "請「推車」出場：cart 一上場梗就黏住——推車。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "horn",
+      "inVocab": false,
+      "senseAnchor": "喇叭",
+      "roleInScript": "喇叭",
+      "humorDevice": "story",
+      "zhGloss": "喇叭",
+      "speakLineEn": "Cue the 喇叭: horn walks on and the gag sticks.",
+      "speakLineZh": "請「喇叭」出場：horn 一上場梗就黏住——喇叭。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "bustle＝忙亂；hustle＝催趕；hurtle＝猛衝",
+    "hurdle＝跨欄，別再混第四個"
+  ],
+  "pitfalls": [
+    "三詞速度場景不同"
+  ],
+  "lessonRefs": [
+    "lesson-look-bustle-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch03"
+  }
+}

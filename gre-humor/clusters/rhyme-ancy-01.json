@@ -1,0 +1,209 @@
+{
+  "id": "rhyme-ancy-01",
+  "type": "rhyme",
+  "elementLemma": "-ancy/-ency",
+  "titleZh": "-ancy／-ency｜狀態燈箱街",
+  "titleEn": "Ancy Lamp Street",
+  "hook": "字尾 -ancy／-ency：buoyancy 浮力、complacency 自滿、deficiency 缺乏——整條街燈箱都在播報「狀態中」。",
+  "script": "buoyancy／resiliency 浮起來。complacency 飄飄然。deficiency／insufficiency 不夠。transparency 透明。clemency 寬恕。里長：燈箱先讀狀態，再決定走哪扇門。",
+  "members": [
+    {
+      "headword": "buoyancy",
+      "inVocab": true,
+      "senseAnchor": "浮力",
+      "roleInScript": "浮力燈",
+      "humorDevice": "morphology",
+      "zhGloss": "浮力",
+      "speakLineEn": "Cue the 浮力燈: buoyancy walks on and the gag sticks.",
+      "speakLineZh": "請「浮力燈」出場：buoyancy 一上場梗就黏住——浮力。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "deficiency",
+      "inVocab": true,
+      "senseAnchor": "缺乏",
+      "roleInScript": "缺字燈",
+      "humorDevice": "morphology",
+      "zhGloss": "缺乏",
+      "speakLineEn": "Cue the 缺字燈: deficiency walks on and the gag sticks.",
+      "speakLineZh": "請「缺字燈」出場：deficiency 一上場梗就黏住——缺乏。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "clemency",
+      "inVocab": true,
+      "senseAnchor": "寬恕",
+      "roleInScript": "赦免燈",
+      "humorDevice": "morphology",
+      "zhGloss": "寬恕",
+      "speakLineEn": "Cue the 赦免燈: clemency walks on and the gag sticks.",
+      "speakLineZh": "請「赦免燈」出場：clemency 一上場梗就黏住——寬恕。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "transparency",
+      "inVocab": true,
+      "senseAnchor": "透明",
+      "roleInScript": "透視燈",
+      "humorDevice": "morphology",
+      "zhGloss": "透明",
+      "speakLineEn": "Cue the 透視燈: transparency walks on and the gag sticks.",
+      "speakLineZh": "請「透視燈」出場：transparency 一上場梗就黏住——透明。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "resiliency",
+      "inVocab": true,
+      "senseAnchor": "韌性",
+      "roleInScript": "彈回燈",
+      "humorDevice": "morphology",
+      "zhGloss": "韌性",
+      "speakLineEn": "Cue the 彈回燈: resiliency walks on and the gag sticks.",
+      "speakLineZh": "請「彈回燈」出場：resiliency 一上場梗就黏住——韌性。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "insufficiency",
+      "inVocab": true,
+      "senseAnchor": "不足",
+      "roleInScript": "不夠燈",
+      "humorDevice": "morphology",
+      "zhGloss": "不足",
+      "speakLineEn": "Cue the 不夠燈: insufficiency walks on and the gag sticks.",
+      "speakLineZh": "請「不夠燈」出場：insufficiency 一上場梗就黏住——不足。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "fluency",
+      "inVocab": true,
+      "senseAnchor": "流利",
+      "roleInScript": "流水燈",
+      "humorDevice": "morphology",
+      "zhGloss": "流利",
+      "speakLineEn": "Cue the 流水燈: fluency walks on and the gag sticks.",
+      "speakLineZh": "請「流水燈」出場：fluency 一上場梗就黏住——流利。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "consistency",
+      "inVocab": true,
+      "senseAnchor": "一致性",
+      "roleInScript": "齊步燈",
+      "humorDevice": "morphology",
+      "zhGloss": "一致性",
+      "speakLineEn": "Cue the 齊步燈: consistency walks on and the gag sticks.",
+      "speakLineZh": "請「齊步燈」出場：consistency 一上場梗就黏住——一致性。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "urgency",
+      "inVocab": true,
+      "senseAnchor": "緊急",
+      "roleInScript": "閃紅燈",
+      "humorDevice": "morphology",
+      "zhGloss": "緊急",
+      "speakLineEn": "Cue the 閃紅燈: urgency walks on and the gag sticks.",
+      "speakLineZh": "請「閃紅燈」出場：urgency 一上場梗就黏住——緊急。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "frequency",
+      "inVocab": true,
+      "senseAnchor": "頻率",
+      "roleInScript": "節拍燈",
+      "humorDevice": "morphology",
+      "zhGloss": "頻率",
+      "speakLineEn": "Cue the 節拍燈: frequency walks on and the gag sticks.",
+      "speakLineZh": "請「節拍燈」出場：frequency 一上場梗就黏住——頻率。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "lamp",
+      "inVocab": false,
+      "senseAnchor": "燈箱",
+      "roleInScript": "燈箱",
+      "humorDevice": "story",
+      "zhGloss": "燈箱",
+      "speakLineEn": "Cue the 燈箱: lamp walks on and the gag sticks.",
+      "speakLineZh": "請「燈箱」出場：lamp 一上場梗就黏住——燈箱。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "mayor",
+      "inVocab": false,
+      "senseAnchor": "里長",
+      "roleInScript": "里長",
+      "humorDevice": "story",
+      "zhGloss": "里長",
+      "speakLineEn": "Cue the 里長: mayor walks on and the gag sticks.",
+      "speakLineZh": "請「里長」出場：mayor 一上場梗就黏住——里長。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "-ancy/-ency：buoyancy/complacency/deficiency/clemency",
+    "complacency＝自滿"
+  ],
+  "pitfalls": [
+    "complacency≠complaisance（討好）"
+  ],
+  "lessonRefs": [
+    "lesson-rhyme-ancy-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch03"
+  }
+}

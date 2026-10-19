@@ -1,0 +1,303 @@
+{
+  "id": "sem-give-take-01",
+  "type": "semantic",
+  "elementLemma": "give-vs-take",
+  "titleZh": "給予 ↔ 剝奪｜禮物桌對沒收筐",
+  "titleEn": "Give vs. Take",
+  "hook": "endow／bestow 把禮物擺上桌，divest／despoil／bereave 把東西丟進沒收筐——禮賓說：進門有禮，出門看筐。",
+  "script": "給予隊：endow／bestow／confer／grant。剝奪隊：divest／despoil／bereave／disenfranchise／deprive。口令：禮物桌寫「給你能耐」，沒收筐寫「先收回資格」。",
+  "members": [
+    {
+      "headword": "endow",
+      "inVocab": true,
+      "senseAnchor": "give qualities or abilities to; furnish with an endowment",
+      "roleInScript": "禮物桌",
+      "humorDevice": "contrast",
+      "zhGloss": "賦予捐贈",
+      "speakLineEn": "Cue the 禮物桌: endow walks on and the gag sticks.",
+      "speakLineZh": "請「禮物桌」出場：endow 一上場梗就黏住——賦予捐贈。",
+      "related": {
+        "synonyms": "indue, gift, empower, invest, endue, dower",
+        "antonyms": "divest"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "bestow",
+      "inVocab": true,
+      "senseAnchor": "授予",
+      "roleInScript": "頒獎手",
+      "humorDevice": "contrast",
+      "zhGloss": "授予",
+      "speakLineEn": "Cue the 頒獎手: bestow walks on and the gag sticks.",
+      "speakLineZh": "請「頒獎手」出場：bestow 一上場梗就黏住——授予。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "grant",
+      "inVocab": true,
+      "senseAnchor": "any monetary aid; the act of providing a subsidy",
+      "roleInScript": "許可章",
+      "humorDevice": "contrast",
+      "zhGloss": "准予",
+      "speakLineEn": "Cue the 許可章: grant walks on and the gag sticks.",
+      "speakLineZh": "請「許可章」出場：grant 一上場梗就黏住——准予。",
+      "related": {
+        "synonyms": "subsidization, subsidisation, assignment, concession",
+        "antonyms": "deny"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "donate",
+      "inVocab": true,
+      "senseAnchor": "捐贈",
+      "roleInScript": "捐款箱",
+      "humorDevice": "contrast",
+      "zhGloss": "捐贈",
+      "speakLineEn": "Cue the 捐款箱: donate walks on and the gag sticks.",
+      "speakLineZh": "請「捐款箱」出場：donate 一上場梗就黏住——捐贈。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "bequeath",
+      "inVocab": true,
+      "senseAnchor": "遺贈",
+      "roleInScript": "遺囑筆",
+      "humorDevice": "contrast",
+      "zhGloss": "遺贈",
+      "speakLineEn": "Cue the 遺囑筆: bequeath walks on and the gag sticks.",
+      "speakLineZh": "請「遺囑筆」出場：bequeath 一上場梗就黏住——遺贈。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "divest",
+      "inVocab": true,
+      "senseAnchor": "take away possessions from someone; deprive of status or authority",
+      "roleInScript": "沒收筐",
+      "humorDevice": "contrast",
+      "zhGloss": "剝奪剝離",
+      "speakLineEn": "Cue the 沒收筐: divest walks on and the gag sticks.",
+      "speakLineZh": "請「沒收筐」出場：divest 一上場梗就黏住——剝奪剝離。",
+      "related": {
+        "synonyms": "deprive, strip, disinvest, undress",
+        "antonyms": "invest"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "despoil",
+      "inVocab": true,
+      "senseAnchor": "steal goods; take as spoils; destroy and strip of its possession",
+      "roleInScript": "掠奪袋",
+      "humorDevice": "contrast",
+      "zhGloss": "掠奪",
+      "speakLineEn": "Cue the 掠奪袋: despoil walks on and the gag sticks.",
+      "speakLineZh": "請「掠奪袋」出場：despoil 一上場梗就黏住——掠奪。",
+      "related": {
+        "synonyms": "plunder, loot, reave, strip, rifle, ransack",
+        "antonyms": "dress"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "bereave",
+      "inVocab": true,
+      "senseAnchor": "deprive through death",
+      "roleInScript": "空椅",
+      "humorDevice": "contrast",
+      "zhGloss": "奪去",
+      "speakLineEn": "Cue the 空椅: bereave walks on and the gag sticks.",
+      "speakLineZh": "請「空椅」出場：bereave 一上場梗就黏住——奪去。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "disenfranchise",
+      "inVocab": true,
+      "senseAnchor": "deprive of voting rights",
+      "roleInScript": "剪選票",
+      "humorDevice": "contrast",
+      "zhGloss": "剝奪權利",
+      "speakLineEn": "Cue the 剪選票: disenfranchise walks on and the gag sticks.",
+      "speakLineZh": "請「剪選票」出場：disenfranchise 一上場梗就黏住——剝奪權利。",
+      "related": {
+        "synonyms": "disfranchise",
+        "antonyms": "enfranchise"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "strip",
+      "inVocab": true,
+      "senseAnchor": "剝去",
+      "roleInScript": "脫殼",
+      "humorDevice": "contrast",
+      "zhGloss": "剝去",
+      "speakLineEn": "Cue the 脫殼: strip walks on and the gag sticks.",
+      "speakLineZh": "請「脫殼」出場：strip 一上場梗就黏住——剝去。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "confiscate",
+      "inVocab": true,
+      "senseAnchor": "take temporary possession of as a security, by legal authority; surrendered as a penalty",
+      "roleInScript": "充公章",
+      "humorDevice": "contrast",
+      "zhGloss": "沒收",
+      "speakLineEn": "Cue the 充公章: confiscate walks on and the gag sticks.",
+      "speakLineZh": "請「充公章」出場：confiscate 一上場梗就黏住——沒收。",
+      "related": {
+        "synonyms": "impound, attach, sequester, seize, forfeit, forfeited",
+        "antonyms": "detach, claim"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "gift",
+      "inVocab": false,
+      "senseAnchor": "禮物",
+      "roleInScript": "禮物",
+      "humorDevice": "story",
+      "zhGloss": "禮物",
+      "speakLineEn": "Cue the 禮物: gift walks on and the gag sticks.",
+      "speakLineZh": "請「禮物」出場：gift 一上場梗就黏住——禮物。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "basket",
+      "inVocab": false,
+      "senseAnchor": "筐",
+      "roleInScript": "筐",
+      "humorDevice": "story",
+      "zhGloss": "筐",
+      "speakLineEn": "Cue the 筐: basket walks on and the gag sticks.",
+      "speakLineZh": "請「筐」出場：basket 一上場梗就黏住——筐。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "ballot",
+      "inVocab": true,
+      "senseAnchor": "a document listing the alternatives that is used in voting; a choice that is made by counting the number of people in favor of each alternative",
+      "roleInScript": "選票",
+      "humorDevice": "story",
+      "zhGloss": "選票",
+      "speakLineEn": "Cue the 選票: ballot walks on and the gag sticks.",
+      "speakLineZh": "請「選票」出場：ballot 一上場梗就黏住——選票。",
+      "related": {
+        "synonyms": "vote, voting, balloting",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "will",
+      "inVocab": false,
+      "senseAnchor": "遺囑",
+      "roleInScript": "遺囑",
+      "humorDevice": "story",
+      "zhGloss": "遺囑",
+      "speakLineEn": "Cue the 遺囑: will walks on and the gag sticks.",
+      "speakLineZh": "請「遺囑」出場：will 一上場梗就黏住——遺囑。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "pocket",
+      "inVocab": false,
+      "senseAnchor": "口袋",
+      "roleInScript": "口袋",
+      "humorDevice": "story",
+      "zhGloss": "口袋",
+      "speakLineEn": "Cue the 口袋: pocket walks on and the gag sticks.",
+      "speakLineZh": "請「口袋」出場：pocket 一上場梗就黏住——口袋。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "key",
+      "inVocab": false,
+      "senseAnchor": "鑰匙",
+      "roleInScript": "鑰匙",
+      "humorDevice": "story",
+      "zhGloss": "鑰匙",
+      "speakLineEn": "Cue the 鑰匙: key walks on and the gag sticks.",
+      "speakLineZh": "請「鑰匙」出場：key 一上場梗就黏住——鑰匙。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "guard",
+      "inVocab": false,
+      "senseAnchor": "警衛",
+      "roleInScript": "警衛",
+      "humorDevice": "story",
+      "zhGloss": "警衛",
+      "speakLineEn": "Cue the 警衛: guard walks on and the gag sticks.",
+      "speakLineZh": "請「警衛」出場：guard 一上場梗就黏住——警衛。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "給：endow/bestow/confer；奪：divest/despoil/bereave",
+    "bereave＝因死亡而剝奪"
+  ],
+  "pitfalls": [
+    "endow＝賦予；endear＝使受喜愛——形近"
+  ],
+  "lessonRefs": [
+    "lesson-sem-give-take-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch03"
+  }
+}

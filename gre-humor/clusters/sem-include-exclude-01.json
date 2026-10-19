@@ -1,0 +1,290 @@
+{
+  "id": "sem-include-exclude-01",
+  "type": "semantic",
+  "elementLemma": "include-vs-exclude",
+  "titleZh": "納入 ↔ 排除｜貴賓繩對拒馬",
+  "titleEn": "Include vs. Exclude",
+  "hook": "embrace／encompass 拉開貴賓繩請你進來，exclude／ostracize／shun 擺拒馬——門口保全問：名單上有你嗎？",
+  "script": "納入隊：embrace／encompass／incorporate／comprise。排除隊：exclude／ostracize／shun／bar／banish。口令：貴賓繩寫「歡迎入內」，拒馬寫「請改走後門」。",
+  "members": [
+    {
+      "headword": "embrace",
+      "inVocab": true,
+      "senseAnchor": "擁抱接納",
+      "roleInScript": "貴賓繩",
+      "humorDevice": "contrast",
+      "zhGloss": "擁抱接納",
+      "speakLineEn": "Cue the 貴賓繩: embrace walks on and the gag sticks.",
+      "speakLineZh": "請「貴賓繩」出場：embrace 一上場梗就黏住——擁抱接納。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "encompass",
+      "inVocab": true,
+      "senseAnchor": "涵蓋",
+      "roleInScript": "大圈",
+      "humorDevice": "contrast",
+      "zhGloss": "涵蓋",
+      "speakLineEn": "Cue the 大圈: encompass walks on and the gag sticks.",
+      "speakLineZh": "請「大圈」出場：encompass 一上場梗就黏住——涵蓋。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "incorporate",
+      "inVocab": true,
+      "senseAnchor": "make into a whole or make part of a whole; include or contain; have as a component",
+      "roleInScript": "合併章",
+      "humorDevice": "contrast",
+      "zhGloss": "納入",
+      "speakLineEn": "Cue the 合併章: incorporate walks on and the gag sticks.",
+      "speakLineZh": "請「合併章」出場：incorporate 一上場梗就黏住——納入。",
+      "related": {
+        "synonyms": "integrate, contain, comprise, incorporated, integrated, merged",
+        "antonyms": "disintegrate"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "include",
+      "inVocab": true,
+      "senseAnchor": "包括",
+      "roleInScript": "加號",
+      "humorDevice": "contrast",
+      "zhGloss": "包括",
+      "speakLineEn": "Cue the 加號: include walks on and the gag sticks.",
+      "speakLineZh": "請「加號」出場：include 一上場梗就黏住——包括。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "admit",
+      "inVocab": true,
+      "senseAnchor": "准許進入",
+      "roleInScript": "入場戳",
+      "humorDevice": "contrast",
+      "zhGloss": "准許進入",
+      "speakLineEn": "Cue the 入場戳: admit walks on and the gag sticks.",
+      "speakLineZh": "請「入場戳」出場：admit 一上場梗就黏住——准許進入。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "ostracize",
+      "inVocab": true,
+      "senseAnchor": "expel from a community or group; avoid speaking to or dealing with",
+      "roleInScript": "放逐票",
+      "humorDevice": "contrast",
+      "zhGloss": "排斥放逐",
+      "speakLineEn": "Cue the 放逐票: ostracize walks on and the gag sticks.",
+      "speakLineZh": "請「放逐票」出場：ostracize 一上場梗就黏住——排斥放逐。",
+      "related": {
+        "synonyms": "banish, ban, ostracise, shun, blackball",
+        "antonyms": "welcome, include"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "shun",
+      "inVocab": true,
+      "senseAnchor": "avoid and stay away from deliberately; stay clear of; expel from a community or group",
+      "roleInScript": "側身走",
+      "humorDevice": "contrast",
+      "zhGloss": "避開",
+      "speakLineEn": "Cue the 側身走: shun walks on and the gag sticks.",
+      "speakLineZh": "請「側身走」出場：shun 一上場梗就黏住——避開。",
+      "related": {
+        "synonyms": "eschew, banish, ban, ostracize, ostracise, blackball",
+        "antonyms": "welcome, include"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "bar",
+      "inVocab": false,
+      "senseAnchor": "禁止",
+      "roleInScript": "禁行桿",
+      "humorDevice": "contrast",
+      "zhGloss": "禁止",
+      "speakLineEn": "Cue the 禁行桿: bar walks on and the gag sticks.",
+      "speakLineZh": "請「禁行桿」出場：bar 一上場梗就黏住——禁止。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "banish",
+      "inVocab": true,
+      "senseAnchor": "放逐",
+      "roleInScript": "出境章",
+      "humorDevice": "contrast",
+      "zhGloss": "放逐",
+      "speakLineEn": "Cue the 出境章: banish walks on and the gag sticks.",
+      "speakLineZh": "請「出境章」出場：banish 一上場梗就黏住——放逐。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "omit",
+      "inVocab": true,
+      "senseAnchor": "省略",
+      "roleInScript": "刪除線",
+      "humorDevice": "contrast",
+      "zhGloss": "省略",
+      "speakLineEn": "Cue the 刪除線: omit walks on and the gag sticks.",
+      "speakLineZh": "請「刪除線」出場：omit 一上場梗就黏住——省略。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "rope",
+      "inVocab": false,
+      "senseAnchor": "繩",
+      "roleInScript": "繩",
+      "humorDevice": "story",
+      "zhGloss": "繩",
+      "speakLineEn": "Cue the 繩: rope walks on and the gag sticks.",
+      "speakLineZh": "請「繩」出場：rope 一上場梗就黏住——繩。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "barrier",
+      "inVocab": false,
+      "senseAnchor": "拒馬",
+      "roleInScript": "拒馬",
+      "humorDevice": "story",
+      "zhGloss": "拒馬",
+      "speakLineEn": "Cue the 拒馬: barrier walks on and the gag sticks.",
+      "speakLineZh": "請「拒馬」出場：barrier 一上場梗就黏住——拒馬。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "guestlist",
+      "inVocab": false,
+      "senseAnchor": "賓客名單",
+      "roleInScript": "賓客名單",
+      "humorDevice": "story",
+      "zhGloss": "賓客名單",
+      "speakLineEn": "Cue the 賓客名單: guestlist walks on and the gag sticks.",
+      "speakLineZh": "請「賓客名單」出場：guestlist 一上場梗就黏住——賓客名單。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "bouncer",
+      "inVocab": false,
+      "senseAnchor": "保全",
+      "roleInScript": "保全",
+      "humorDevice": "story",
+      "zhGloss": "保全",
+      "speakLineEn": "Cue the 保全: bouncer walks on and the gag sticks.",
+      "speakLineZh": "請「保全」出場：bouncer 一上場梗就黏住——保全。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "stamp",
+      "inVocab": false,
+      "senseAnchor": "戳章",
+      "roleInScript": "戳章",
+      "humorDevice": "story",
+      "zhGloss": "戳章",
+      "speakLineEn": "Cue the 戳章: stamp walks on and the gag sticks.",
+      "speakLineZh": "請「戳章」出場：stamp 一上場梗就黏住——戳章。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "fence",
+      "inVocab": false,
+      "senseAnchor": "圍籬",
+      "roleInScript": "圍籬",
+      "humorDevice": "story",
+      "zhGloss": "圍籬",
+      "speakLineEn": "Cue the 圍籬: fence walks on and the gag sticks.",
+      "speakLineZh": "請「圍籬」出場：fence 一上場梗就黏住——圍籬。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "welcome",
+      "inVocab": false,
+      "senseAnchor": "歡迎",
+      "roleInScript": "歡迎",
+      "humorDevice": "story",
+      "zhGloss": "歡迎",
+      "speakLineEn": "Cue the 歡迎: welcome walks on and the gag sticks.",
+      "speakLineZh": "請「歡迎」出場：welcome 一上場梗就黏住——歡迎。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "納：embrace/encompass/incorporate；排：exclude/ostracize/shun",
+    "ostracize＝放逐／排斥"
+  ],
+  "pitfalls": [
+    "comprise＝包含；小心被動誤用"
+  ],
+  "lessonRefs": [
+    "lesson-sem-include-exclude-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch03"
+  }
+}

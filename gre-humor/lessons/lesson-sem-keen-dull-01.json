@@ -1,0 +1,96 @@
+{
+  "id": "lesson-sem-keen-dull-01",
+  "slug": "sem-keen-dull-01",
+  "season": 3,
+  "seasonTitleZh": "語氣對打",
+  "seasonTitleEn": "Tone Duels",
+  "type": "duel",
+  "minutes": "12-15",
+  "clusterId": "sem-keen-dull-01",
+  "titleZh": "敏銳 ↔ 愚鈍｜手術刀對橡皮槌",
+  "titleEn": "Keen vs. Dull",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "acumen／adroit 是手術刀，asinine／crass／obtuse 是橡皮槌——同一題，切開或敲平。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "敏銳隊：acumen／acuity／adroit／astute／perspicacious。愚鈍隊：asinine／crass／obtuse／dense。口令：刀寫洞察，槌寫「我聽不懂但很大聲」。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "敏：acumen/adroit/astute；鈍：asinine/crass/obtuse",
+        "asinine≈驢一樣蠢"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Keen insight:",
+      "promptZh": "敏銳洞察：",
+      "choices": [
+        "acumen",
+        "asinine",
+        "repository",
+        "neon"
+      ],
+      "answer": "acumen"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Foolish like a donkey:",
+      "promptZh": "驢一樣蠢：",
+      "choices": [
+        "asinine",
+        "astute",
+        "forecast",
+        "sole"
+      ],
+      "answer": "asinine"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Skillful / deft:",
+      "promptZh": "靈巧：",
+      "choices": [
+        "adroit",
+        "crass",
+        "omnibus",
+        "scanty"
+      ],
+      "answer": "adroit"
+    }
+  ],
+  "pitfalls": [
+    "acumen＝洞察力；別跟 accumulator 扯上"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch03"
+  }
+}

@@ -1,0 +1,172 @@
+# P3-pending-b03 分流報告（P3-batch03・適度）
+
+> 日期：2026-10-19
+
+| 項目 | 數值 |
+|------|------|
+| 處理前 pending | 252 |
+| 補進主詞庫 | **74** |
+| 暫緩（幽默專用） | **178** |
+| 主詞庫總數（後） | **5064** |
+
+## 本批補庫
+
+- `abolition`（廢除）← look-abolish-01
+- `abolitionist`（廢除論者）← look-abolish-01
+- `admit`（准許進入）← sem-include-exclude-01
+- `archaic`（古老的）← sem-old-newfangled-01
+- `arduous`（艱巨的）← rhyme-uous-01
+- `assemble`（組裝）← sem-build-ruin-01
+- `bane`（禍根）← look-banal-01
+- `banish`（放逐）← sem-include-exclude-01
+- `beguiling`（迷人的）← sem-allure-repel-01
+- `bequeath`（遺贈）← sem-give-take-01
+- `bestow`（授予）← sem-give-take-01
+- `blandish`（奉承）← look-brandish-01
+- `botch`（拙劣完成）← look-bumble-01
+- `brittle`（易碎的）← look-brandish-01
+- `buoyancy`（浮力）← rhyme-ancy-01
+- `captivating`（迷人的）← sem-allure-repel-01
+- `chary`（謹慎的）← look-chaff-01
+- `classified`（機密分級的）← sem-public-private-01
+- `clemency`（寬恕）← rhyme-ancy-01
+- `composed`（鎮靜的）← sem-calm-turmoil-01
+- `consistency`（一致性）← rhyme-ancy-01
+- `curse`（詛咒）← look-banal-01
+- `cuttingedge`（尖端的）← sem-old-newfangled-01
+- `dated`（過時的）← sem-old-newfangled-01
+- `deficiency`（缺乏）← rhyme-ancy-01
+- `devastate`（摧毀）← sem-build-ruin-01
+- `disaster`（災難）← look-banal-01
+- `distasteful`（令人反感的）← sem-allure-repel-01
+- `donate`（捐贈）← sem-give-take-01
+- `dull`（遲鈍的）← sem-keen-dull-01
+- `economical`（節省的）← sem-thrift-waste-01
+- `embrace`（擁抱接納）← sem-include-exclude-01
+- `encompass`（涵蓋）← sem-include-exclude-01
+- `fabricate`（製造／捏造）← sem-build-ruin-01
+- `favorable`（有利的）← look-auspicious-01
+- `fervid`（狂熱的）← sem-passion-apathy-01
+- `fleet`（快速的）← sem-swift-slow-01
+- `flourish`（揮舞炫耀）← look-brandish-01
+- `flub`（搞砸）← look-bumble-01
+- `fluency`（流利）← rhyme-ancy-01
+- `forge`（鍛造）← sem-build-ruin-01
+- `frequency`（頻率）← rhyme-ancy-01
+- `fresh`（新鮮的）← sem-old-newfangled-01
+- `hurdle`（跨欄障礙）← look-bustle-01
+- `hustle`（催趕奔忙）← look-bustle-01
+- `inauspicious`（不吉利的）← look-auspicious-01
+- `include`（包括）← sem-include-exclude-01
+- `insufficiency`（不足）← rhyme-ancy-01
+- `laggard`（落後者）← sem-swift-slow-01
+- `lavish`（奢華的）← sem-thrift-waste-01
+- `loathsome`（可憎的）← sem-allure-repel-01
+- `lukewarm`（不冷不熱的）← sem-passion-apathy-01
+- `magnetic`（有吸引力的）← sem-allure-repel-01
+- `musty`（霉舊的）← sem-old-newfangled-01
+- `obsolete`（淘汰的）← sem-old-newfangled-01
+- `omit`（省略）← sem-include-exclude-01
+- `prompt`（即時的）← sem-swift-slow-01
+- `publicize`（宣傳）← sem-public-private-01
+- `pure`（純淨的）← sem-pure-sully-01
+- `repentant`（懺悔的）← look-contrite-01
+- `resiliency`（韌性）← rhyme-ancy-01
+- `revolting`（令人反感的）← sem-allure-repel-01
+- `righteous`（正直的）← rhyme-eous-01
+- `ruin`（毀滅）← sem-build-ruin-01
+- `secluded`（隱居的）← sem-public-private-01
+- `stainless`（無瑕疵的）← sem-pure-sully-01
+- `strip`（剝去）← sem-give-take-01
+- `stylish`（有風格的）← sem-old-newfangled-01
+- `thrifty`（節約的）← sem-thrift-waste-01
+- `transparency`（透明）← rhyme-ancy-01
+- `trendy`（流行的）← sem-old-newfangled-01
+- `unsullied`（未玷污的）← sem-pure-sully-01
+- `urgency`（緊急）← rhyme-ancy-01
+- `wasteful`（浪費的）← sem-thrift-waste-01
+
+## 暫緩（劇本道具／日常詞）
+
+- `alarm`（警報）← look-delude-01
+- `angel`（天使）← look-chaff-01
+- `anger`（怒）← look-brandish-01
+- `announce`（廣播）← look-bustle-01
+- `arrow`（箭頭）← look-beget-01
+- `bar`（禁止）← sem-include-exclude-01
+- `barrier`（拒馬）← sem-include-exclude-01
+- `basket`（筐）← sem-give-take-01
+- `bell`（鈴）← rhyme-sion-01
+- `bleach`（漂白）← sem-pure-sully-01
+- `bluntedge`（鈍刃）← sem-keen-dull-01
+- `blush`（臉紅）← look-chaff-01
+- `bone`（骨頭）← rhyme-eous-01
+- `booth`（隔音房）← sem-public-private-01
+- `boredom`（無聊）← look-contrite-01
+- `boring`（無聊）← look-banal-01
+- `bouncer`（保全）← sem-include-exclude-01
+- `boundary`（警戒線）← sem-allure-repel-01
+- `brake`（煞車）← sem-swift-slow-01
+- `building`（建築）← look-abolish-01
+- `button`（按鈕）← look-abolish-01
+- `calendar`（日曆）← sem-build-ruin-01
+- `candy`（糖）← look-brandish-01
+- `cart`（推車）← look-bustle-01
+- `cause`（原因）← look-beget-01
+- `chain`（鏈）← look-beget-01
+- `charm`（魅力符）← sem-allure-repel-01
+- `chill`（涼快）← sem-passion-apathy-01
+- `cliche`（陳腔）← look-contrite-01
+- `coach`（教練）← look-chaff-01
+- `compliment`（恭維）← look-brandish-01
+- `corridor`（走廊）← look-bumble-01
+- `coupon`（折扣券）← sem-thrift-waste-01
+- `crane`（吊車）← sem-build-ruin-01
+- `critique`（批評）← look-asperity-01
+- `dash`（飛奔）← look-bustle-01
+- `desk`（櫃台）← look-auspicious-01
+- `djbooth`（DJ台）← rhyme-uous-01
+- `door`（門）← rhyme-sion-01
+- `dust`（灰塵）← sem-old-newfangled-01
+- `ear`（耳朵）← look-asperity-01
+- `edge`（刃）← sem-keen-dull-01
+- `feet`（腳）← look-bumble-01
+- `fence`（圍籬）← sem-include-exclude-01
+- `fever`（發燒）← sem-passion-apathy-01
+- `flood`（洪水）← look-delude-01
+- `floor`（地板）← look-bumble-01
+- `focus`（對焦）← sem-keen-dull-01
+- `fogbrain`（霧腦）← sem-keen-dull-01
+- `folder`（資料夾）← sem-public-private-01
+- `freezer`（冷凍庫）← sem-passion-apathy-01
+- `frost`（霜）← sem-passion-apathy-01
+- `fur`（毛皮）← look-brandish-01
+- `gift`（禮物）← sem-give-take-01
+- `goldcoin`（金幣）← sem-thrift-waste-01
+- `gossip`（八卦）← look-asperity-01
+- `guard`（警衛）← sem-give-take-01
+- `guestlist`（賓客名單）← sem-include-exclude-01
+- `guide`（導覽）← rhyme-eous-01
+- `guilt`（愧疚）← look-contrite-01
+- `hall`（展廳）← rhyme-eous-01
+- `halo`（光環）← look-chaff-01
+- `hands`（手）← look-bumble-01
+- `hardhat`（工地帽）← sem-build-ruin-01
+- `hashtag`（標籤）← sem-old-newfangled-01
+- `hat`（帽子）← rhyme-eous-01
+- `hate`（恨）← look-abolish-01
+- `helmet`（安全帽）← sem-build-ruin-01
+- `horn`（喇叭）← look-bustle-01
+- `icecube`（冰塊）← sem-passion-apathy-01
+- `ink`（墨汁）← sem-pure-sully-01
+- `joke`（玩笑）← look-chaff-01
+- `key`（鑰匙）← sem-give-take-01
+- `lake`（湖）← sem-calm-turmoil-01
+- `lamp`（燈箱）← rhyme-ancy-01
+- `lane`（跑道）← look-bustle-01
+- `laundry`（洗衣店）← sem-pure-sully-01
+- `lava`（熔岩）← sem-passion-apathy-01
+- `law`（法律）← look-abolish-01
+- `leak`（洩漏）← look-delude-01
+- …另 98 筆
+

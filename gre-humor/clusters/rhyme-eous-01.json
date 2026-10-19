@@ -1,0 +1,258 @@
+{
+  "id": "rhyme-eous-01",
+  "type": "rhyme",
+  "elementLemma": "-eous",
+  "titleZh": "-eous｜質地展廳",
+  "titleEn": "Eous Texture Hall",
+  "hook": "字尾 -eous：courteous 有禮、erroneous 錯誤、hideous 醜、igneous 火成——展廳依「質地／屬性」分區。",
+  "script": "courteous 禮。erroneous 錯。extraneous 外加。hideous 醜。piteous 可憐。igneous／ligneous／osseous 物質屬性區。導覽：先看人，再看石頭。",
+  "members": [
+    {
+      "headword": "courteous",
+      "inVocab": true,
+      "senseAnchor": "polite and respectful",
+      "roleInScript": "禮帽",
+      "humorDevice": "morphology",
+      "zhGloss": "有禮貌的",
+      "speakLineEn": "Cue the 禮帽: courteous walks on and the gag sticks.",
+      "speakLineZh": "請「禮帽」出場：courteous 一上場梗就黏住——有禮貌的。",
+      "related": {
+        "synonyms": "urbane",
+        "antonyms": "discourteous, rustic, uncouth"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "erroneous",
+      "inVocab": true,
+      "senseAnchor": "characterized by error",
+      "roleInScript": "錯紅叉",
+      "humorDevice": "morphology",
+      "zhGloss": "錯誤的",
+      "speakLineEn": "Cue the 錯紅叉: erroneous walks on and the gag sticks.",
+      "speakLineZh": "請「錯紅叉」出場：erroneous 一上場梗就黏住——錯誤的。",
+      "related": {
+        "synonyms": "inexact, unsound, mistaken, invalid",
+        "antonyms": "exact, sound, valid"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "extraneous",
+      "inVocab": true,
+      "senseAnchor": "having no importance",
+      "roleInScript": "外掛件",
+      "humorDevice": "morphology",
+      "zhGloss": "無關外加的",
+      "speakLineEn": "Cue the 外掛件: extraneous walks on and the gag sticks.",
+      "speakLineZh": "請「外掛件」出場：extraneous 一上場梗就黏住——無關外加的。",
+      "related": {
+        "synonyms": "irrelevant",
+        "antonyms": "essential, relevant"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "hideous",
+      "inVocab": true,
+      "senseAnchor": "exceedingly ugly",
+      "roleInScript": "嚇人口",
+      "humorDevice": "morphology",
+      "zhGloss": "醜陋的",
+      "speakLineEn": "Cue the 嚇人口: hideous walks on and the gag sticks.",
+      "speakLineZh": "請「嚇人口」出場：hideous 一上場梗就黏住——醜陋的。",
+      "related": {
+        "synonyms": "monstrous",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "piteous",
+      "inVocab": true,
+      "senseAnchor": "deserving or inciting pity; ; ; - Galsworthy",
+      "roleInScript": "眼淚區",
+      "humorDevice": "morphology",
+      "zhGloss": "可憐的",
+      "speakLineEn": "Cue the 眼淚區: piteous walks on and the gag sticks.",
+      "speakLineZh": "請「眼淚區」出場：piteous 一上場梗就黏住——可憐的。",
+      "related": {
+        "synonyms": "hapless, miserable, misfortunate, pathetic, pitiable, pitiful",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "igneous",
+      "inVocab": true,
+      "senseAnchor": "produced under conditions involving intense heat; produced by the action of fire or intense heat",
+      "roleInScript": "火山岩",
+      "humorDevice": "morphology",
+      "zhGloss": "火成的",
+      "speakLineEn": "Cue the 火山岩: igneous walks on and the gag sticks.",
+      "speakLineZh": "請「火山岩」出場：igneous 一上場梗就黏住——火成的。",
+      "related": {
+        "synonyms": "pyrogenic, pyrogenous, eruptive, fiery",
+        "antonyms": "aqueous"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "ligneous",
+      "inVocab": true,
+      "senseAnchor": "consisting of or containing lignin or xylem",
+      "roleInScript": "木紋板",
+      "humorDevice": "morphology",
+      "zhGloss": "木質的",
+      "speakLineEn": "Cue the 木紋板: ligneous walks on and the gag sticks.",
+      "speakLineZh": "請「木紋板」出場：ligneous 一上場梗就黏住——木質的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "osseous",
+      "inVocab": true,
+      "senseAnchor": "composed of or containing bone",
+      "roleInScript": "白骨標",
+      "humorDevice": "morphology",
+      "zhGloss": "骨的",
+      "speakLineEn": "Cue the 白骨標: osseous walks on and the gag sticks.",
+      "speakLineZh": "請「白骨標」出場：osseous 一上場梗就黏住——骨的。",
+      "related": {
+        "synonyms": "osteal, bony",
+        "antonyms": "boneless"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "righteous",
+      "inVocab": true,
+      "senseAnchor": "正直的",
+      "roleInScript": "正義秤",
+      "humorDevice": "morphology",
+      "zhGloss": "正直的",
+      "speakLineEn": "Cue the 正義秤: righteous walks on and the gag sticks.",
+      "speakLineZh": "請「正義秤」出場：righteous 一上場梗就黏住——正直的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "hall",
+      "inVocab": false,
+      "senseAnchor": "展廳",
+      "roleInScript": "展廳",
+      "humorDevice": "story",
+      "zhGloss": "展廳",
+      "speakLineEn": "Cue the 展廳: hall walks on and the gag sticks.",
+      "speakLineZh": "請「展廳」出場：hall 一上場梗就黏住——展廳。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "rock",
+      "inVocab": false,
+      "senseAnchor": "石頭",
+      "roleInScript": "石頭",
+      "humorDevice": "story",
+      "zhGloss": "石頭",
+      "speakLineEn": "Cue the 石頭: rock walks on and the gag sticks.",
+      "speakLineZh": "請「石頭」出場：rock 一上場梗就黏住——石頭。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "wood",
+      "inVocab": false,
+      "senseAnchor": "木頭",
+      "roleInScript": "木頭",
+      "humorDevice": "story",
+      "zhGloss": "木頭",
+      "speakLineEn": "Cue the 木頭: wood walks on and the gag sticks.",
+      "speakLineZh": "請「木頭」出場：wood 一上場梗就黏住——木頭。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "bone",
+      "inVocab": false,
+      "senseAnchor": "骨頭",
+      "roleInScript": "骨頭",
+      "humorDevice": "story",
+      "zhGloss": "骨頭",
+      "speakLineEn": "Cue the 骨頭: bone walks on and the gag sticks.",
+      "speakLineZh": "請「骨頭」出場：bone 一上場梗就黏住——骨頭。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "hat",
+      "inVocab": false,
+      "senseAnchor": "帽子",
+      "roleInScript": "帽子",
+      "humorDevice": "story",
+      "zhGloss": "帽子",
+      "speakLineEn": "Cue the 帽子: hat walks on and the gag sticks.",
+      "speakLineZh": "請「帽子」出場：hat 一上場梗就黏住——帽子。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "guide",
+      "inVocab": false,
+      "senseAnchor": "導覽",
+      "roleInScript": "導覽",
+      "humorDevice": "story",
+      "zhGloss": "導覽",
+      "speakLineEn": "Cue the 導覽: guide walks on and the gag sticks.",
+      "speakLineZh": "請「導覽」出場：guide 一上場梗就黏住——導覽。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "-eous：courteous/erroneous/hideous/igneous",
+    "erroneous＝錯誤的"
+  ],
+  "pitfalls": [
+    "igneous＝火成；ignite＝點燃——相關但不同"
+  ],
+  "lessonRefs": [
+    "lesson-rhyme-eous-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch03"
+  }
+}

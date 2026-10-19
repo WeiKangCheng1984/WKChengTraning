@@ -1,0 +1,211 @@
+{
+  "id": "rhyme-uous-01",
+  "type": "rhyme",
+  "elementLemma": "-uous",
+  "titleZh": "-uous｜語氣尾巴派對",
+  "titleEn": "Uous Tail Party",
+  "hook": "字尾 -uous：fatuous 傻笑、sinuous 蛇行、strenuous 喘、unctuous 油——派對貼紙全是「有點…的」。",
+  "script": "fatuous／vacuous 空。sinuous 彎。strenuous 費力。tempestuous 暴。unctuous 油膩奉承。congruous 一致。DJ：尾巴決定氣場。",
+  "members": [
+    {
+      "headword": "sinuous",
+      "inVocab": true,
+      "senseAnchor": "curved or curving in and out",
+      "roleInScript": "蛇行燈",
+      "humorDevice": "morphology",
+      "zhGloss": "蜿蜒的",
+      "speakLineEn": "Cue the 蛇行燈: sinuous walks on and the gag sticks.",
+      "speakLineZh": "請「蛇行燈」出場：sinuous 一上場梗就黏住——蜿蜒的。",
+      "related": {
+        "synonyms": "sinuate, wiggly",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "strenuous",
+      "inVocab": true,
+      "senseAnchor": "needing great effort and energy",
+      "roleInScript": "喘貼紙",
+      "humorDevice": "morphology",
+      "zhGloss": "費力的",
+      "speakLineEn": "Cue the 喘貼紙: strenuous walks on and the gag sticks.",
+      "speakLineZh": "請「喘貼紙」出場：strenuous 一上場梗就黏住——費力的。",
+      "related": {
+        "synonyms": "arduous, grueling, laborious, demanding, exacting",
+        "antonyms": "easy, effortless, obviate, undemanding, unfastidious"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "unctuous",
+      "inVocab": true,
+      "senseAnchor": "unpleasantly and excessively suave or ingratiating in manner or speech",
+      "roleInScript": "油光臉",
+      "humorDevice": "morphology",
+      "zhGloss": "油膩奉承的",
+      "speakLineEn": "Cue the 油光臉: unctuous walks on and the gag sticks.",
+      "speakLineZh": "請「油光臉」出場：unctuous 一上場梗就黏住——油膩奉承的。",
+      "related": {
+        "synonyms": "buttery, fulsome, oily, oleaginous, smarmy, soapy",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "congruous",
+      "inVocab": true,
+      "senseAnchor": "corresponding in character or kind; suitable or appropriate together",
+      "roleInScript": "對齊貼",
+      "humorDevice": "morphology",
+      "zhGloss": "一致的",
+      "speakLineEn": "Cue the 對齊貼: congruous walks on and the gag sticks.",
+      "speakLineZh": "請「對齊貼」出場：congruous 一上場梗就黏住——一致的。",
+      "related": {
+        "synonyms": "congruent",
+        "antonyms": "incongruous"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "contemptuous",
+      "inVocab": true,
+      "senseAnchor": "expressing extreme contempt",
+      "roleInScript": "翻白眼",
+      "humorDevice": "morphology",
+      "zhGloss": "輕蔑的",
+      "speakLineEn": "Cue the 翻白眼: contemptuous walks on and the gag sticks.",
+      "speakLineZh": "請「翻白眼」出場：contemptuous 一上場梗就黏住——輕蔑的。",
+      "related": {
+        "synonyms": "disdainful, insulting, scornful",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "virtuous",
+      "inVocab": true,
+      "senseAnchor": "moral",
+      "roleInScript": "光環貼",
+      "humorDevice": "morphology",
+      "zhGloss": "有德的",
+      "speakLineEn": "Cue the 光環貼: virtuous walks on and the gag sticks.",
+      "speakLineZh": "請「光環貼」出場：virtuous 一上場梗就黏住——有德的。",
+      "related": {
+        "synonyms": "ethical",
+        "antonyms": "wicked, unethical"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "deciduous",
+      "inVocab": true,
+      "senseAnchor": "(of plants and shrubs) shedding foliage at the end of the growing season; (of teeth, antlers, etc.) being shed at the end of a period of growth",
+      "roleInScript": "落葉樹",
+      "humorDevice": "morphology",
+      "zhGloss": "落葉的",
+      "speakLineEn": "Cue the 落葉樹: deciduous walks on and the gag sticks.",
+      "speakLineZh": "請「落葉樹」出場：deciduous 一上場梗就黏住——落葉的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": "evergreen"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "arduous",
+      "inVocab": true,
+      "senseAnchor": "艱巨的",
+      "roleInScript": "苦行坡",
+      "humorDevice": "morphology",
+      "zhGloss": "艱巨的",
+      "speakLineEn": "Cue the 苦行坡: arduous walks on and the gag sticks.",
+      "speakLineZh": "請「苦行坡」出場：arduous 一上場梗就黏住——艱巨的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "djbooth",
+      "inVocab": false,
+      "senseAnchor": "DJ台",
+      "roleInScript": "DJ台",
+      "humorDevice": "story",
+      "zhGloss": "DJ台",
+      "speakLineEn": "Cue the DJ台: djbooth walks on and the gag sticks.",
+      "speakLineZh": "請「DJ台」出場：djbooth 一上場梗就黏住——DJ台。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "tail",
+      "inVocab": false,
+      "senseAnchor": "尾巴",
+      "roleInScript": "尾巴",
+      "humorDevice": "story",
+      "zhGloss": "尾巴",
+      "speakLineEn": "Cue the 尾巴: tail walks on and the gag sticks.",
+      "speakLineZh": "請「尾巴」出場：tail 一上場梗就黏住——尾巴。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "party",
+      "inVocab": false,
+      "senseAnchor": "派對",
+      "roleInScript": "派對",
+      "humorDevice": "story",
+      "zhGloss": "派對",
+      "speakLineEn": "Cue the 派對: party walks on and the gag sticks.",
+      "speakLineZh": "請「派對」出場：party 一上場梗就黏住——派對。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "oil",
+      "inVocab": false,
+      "senseAnchor": "油",
+      "roleInScript": "油",
+      "humorDevice": "story",
+      "zhGloss": "油",
+      "speakLineEn": "Cue the 油: oil walks on and the gag sticks.",
+      "speakLineZh": "請「油」出場：oil 一上場梗就黏住——油。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "-uous：fatuous/sinuous/strenuous/unctuous/tempestuous",
+    "unctuous＝油膩奉承"
+  ],
+  "pitfalls": [
+    "fatuous≠famous"
+  ],
+  "lessonRefs": [
+    "lesson-rhyme-uous-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch03"
+  }
+}

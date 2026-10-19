@@ -1,0 +1,96 @@
+{
+  "id": "lesson-look-auspicious-01",
+  "slug": "look-auspicious-01",
+  "season": 3,
+  "seasonTitleZh": "語氣對打",
+  "seasonTitleEn": "Tone Duels",
+  "type": "duel",
+  "minutes": "12-15",
+  "clusterId": "look-auspicious-01",
+  "titleZh": "auspicious／ominous／propitious｜吉凶氣象台",
+  "titleEn": "Auspicious Weather Desk",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "auspicious／propitious 是晴空賀詞，ominous 是烏雲警報——氣象主播拿兩支麥克風：吉與凶。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "auspicious＝吉利的。propitious＝有利／適合的。ominous＝兇兆的。口令：晴空寫開工，烏雲寫快跑。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "auspicious/propitious＝吉；ominous＝凶",
+        "propitious 偏「時機有利」"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Suggesting a good omen:",
+      "promptZh": "吉利的：",
+      "choices": [
+        "auspicious",
+        "ominous",
+        "repository",
+        "neon"
+      ],
+      "answer": "auspicious"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Threatening / menacing:",
+      "promptZh": "兇兆的：",
+      "choices": [
+        "ominous",
+        "propitious",
+        "forecast",
+        "sole"
+      ],
+      "answer": "ominous"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Favorable timing:",
+      "promptZh": "時機有利：",
+      "choices": [
+        "propitious",
+        "ominous",
+        "omnibus",
+        "scanty"
+      ],
+      "answer": "propitious"
+    }
+  ],
+  "pitfalls": [
+    "吉利≠兇兆，先看天色再寫句"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch03"
+  }
+}

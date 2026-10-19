@@ -1,0 +1,166 @@
+{
+  "id": "look-auspicious-01",
+  "type": "lookalike",
+  "elementLemma": "auspicious-ominous-propitious",
+  "titleZh": "auspicious／ominous／propitious｜吉凶氣象台",
+  "titleEn": "Auspicious Weather Desk",
+  "hook": "auspicious／propitious 是晴空賀詞，ominous 是烏雲警報——氣象主播拿兩支麥克風：吉與凶。",
+  "script": "auspicious＝吉利的。propitious＝有利／適合的。ominous＝兇兆的。口令：晴空寫開工，烏雲寫快跑。",
+  "members": [
+    {
+      "headword": "auspicious",
+      "inVocab": true,
+      "senseAnchor": "auguring favorable circumstances and good luck",
+      "roleInScript": "晴空麥",
+      "humorDevice": "lookalike",
+      "zhGloss": "吉利的",
+      "speakLineEn": "Cue the 晴空麥: auspicious walks on and the gag sticks.",
+      "speakLineZh": "請「晴空麥」出場：auspicious 一上場梗就黏住——吉利的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": "inauspicious"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "propitious",
+      "inVocab": true,
+      "senseAnchor": "indicating a good chance of success",
+      "roleInScript": "順風標",
+      "humorDevice": "lookalike",
+      "zhGloss": "有利的",
+      "speakLineEn": "Cue the 順風標: propitious walks on and the gag sticks.",
+      "speakLineZh": "請「順風標」出場：propitious 一上場梗就黏住——有利的。",
+      "related": {
+        "synonyms": "auspicious au金 spi看見, favorable",
+        "antonyms": "unpropitious, inauspicious, unfavorable"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "ominous",
+      "inVocab": true,
+      "senseAnchor": "threatening or foreshadowing evil or tragic developments; presaging ill fortune; ; ; - P.B.Shelley",
+      "roleInScript": "烏雲警",
+      "humorDevice": "lookalike",
+      "zhGloss": "兇兆的",
+      "speakLineEn": "Cue the 烏雲警: ominous walks on and the gag sticks.",
+      "speakLineZh": "請「烏雲警」出場：ominous 一上場梗就黏住——兇兆的。",
+      "related": {
+        "synonyms": "baleful, forbidding, menacing, minacious, minatory, sinister",
+        "antonyms": "allow, permit"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "favorable",
+      "inVocab": true,
+      "senseAnchor": "有利的",
+      "roleInScript": "綠燈",
+      "humorDevice": "lookalike",
+      "zhGloss": "有利的",
+      "speakLineEn": "Cue the 綠燈: favorable walks on and the gag sticks.",
+      "speakLineZh": "請「綠燈」出場：favorable 一上場梗就黏住——有利的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "inauspicious",
+      "inVocab": true,
+      "senseAnchor": "不吉利的",
+      "roleInScript": "黑貓標",
+      "humorDevice": "lookalike",
+      "zhGloss": "不吉利的",
+      "speakLineEn": "Cue the 黑貓標: inauspicious walks on and the gag sticks.",
+      "speakLineZh": "請「黑貓標」出場：inauspicious 一上場梗就黏住——不吉利的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "sunshine",
+      "inVocab": false,
+      "senseAnchor": "陽光",
+      "roleInScript": "陽光",
+      "humorDevice": "story",
+      "zhGloss": "陽光",
+      "speakLineEn": "Cue the 陽光: sunshine walks on and the gag sticks.",
+      "speakLineZh": "請「陽光」出場：sunshine 一上場梗就黏住——陽光。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "mic",
+      "inVocab": false,
+      "senseAnchor": "麥克風",
+      "roleInScript": "麥克風",
+      "humorDevice": "story",
+      "zhGloss": "麥克風",
+      "speakLineEn": "Cue the 麥克風: mic walks on and the gag sticks.",
+      "speakLineZh": "請「麥克風」出場：mic 一上場梗就黏住——麥克風。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "lucky",
+      "inVocab": false,
+      "senseAnchor": "幸運",
+      "roleInScript": "幸運",
+      "humorDevice": "story",
+      "zhGloss": "幸運",
+      "speakLineEn": "Cue the 幸運: lucky walks on and the gag sticks.",
+      "speakLineZh": "請「幸運」出場：lucky 一上場梗就黏住——幸運。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "desk",
+      "inVocab": false,
+      "senseAnchor": "櫃台",
+      "roleInScript": "櫃台",
+      "humorDevice": "story",
+      "zhGloss": "櫃台",
+      "speakLineEn": "Cue the 櫃台: desk walks on and the gag sticks.",
+      "speakLineZh": "請「櫃台」出場：desk 一上場梗就黏住——櫃台。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "auspicious/propitious＝吉；ominous＝凶",
+    "propitious 偏「時機有利」"
+  ],
+  "pitfalls": [
+    "吉利≠兇兆，先看天色再寫句"
+  ],
+  "lessonRefs": [
+    "lesson-look-auspicious-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch03"
+  }
+}

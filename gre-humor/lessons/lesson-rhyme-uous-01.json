@@ -1,0 +1,96 @@
+{
+  "id": "lesson-rhyme-uous-01",
+  "slug": "rhyme-uous-01",
+  "season": 1,
+  "seasonTitleZh": "押韻派對",
+  "seasonTitleEn": "Rhyme Party",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "rhyme-uous-01",
+  "titleZh": "-uous｜語氣尾巴派對",
+  "titleEn": "Uous Tail Party",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字尾 -uous：fatuous 傻笑、sinuous 蛇行、strenuous 喘、unctuous 油——派對貼紙全是「有點…的」。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "fatuous／vacuous 空。sinuous 彎。strenuous 費力。tempestuous 暴。unctuous 油膩奉承。congruous 一致。DJ：尾巴決定氣場。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "-uous：fatuous/sinuous/strenuous/unctuous/tempestuous",
+        "unctuous＝油膩奉承"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Foolishly smug:",
+      "promptZh": "愚昧自得：",
+      "choices": [
+        "fatuous",
+        "sinuous",
+        "repository",
+        "neon"
+      ],
+      "answer": "fatuous"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Oilily flattering:",
+      "promptZh": "油膩奉承：",
+      "choices": [
+        "unctuous",
+        "virtuous",
+        "forecast",
+        "sole"
+      ],
+      "answer": "unctuous"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Requiring great effort:",
+      "promptZh": "費力的：",
+      "choices": [
+        "strenuous",
+        "deciduous",
+        "omnibus",
+        "scanty"
+      ],
+      "answer": "strenuous"
+    }
+  ],
+  "pitfalls": [
+    "fatuous≠famous"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch03"
+  }
+}

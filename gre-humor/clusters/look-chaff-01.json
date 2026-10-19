@@ -1,0 +1,245 @@
+{
+  "id": "look-chaff-01",
+  "type": "lookalike",
+  "elementLemma": "chaff-chagrin-cherubic",
+  "titleZh": "chaff／chagrin／cherubic｜打趣更衣室",
+  "titleEn": "Chaff Locker Room",
+  "hook": "chaff 是打趣玩笑，chagrin 是懊惱，cherubic 是天使臉——更衣室三面鏡子：玩笑、懊惱、無辜。",
+  "script": "chaff＝打趣。chagrin＝懊惱失望。cherubic＝天使般天真。教練：開玩笑別笑得失控，懊惱別寫成天使臉，三個詞共用 ch- 開頭但情緒完全不同。",
+  "members": [
+    {
+      "headword": "chaff",
+      "inVocab": true,
+      "senseAnchor": "material consisting of seed coverings and small pieces of stem or leaves that have been separated from the seeds; foil in thin strips; ejected into the air as a radar countermeasure",
+      "roleInScript": "玩笑鏡",
+      "humorDevice": "lookalike",
+      "zhGloss": "打趣",
+      "speakLineEn": "Cue the 玩笑鏡: chaff walks on and the gag sticks.",
+      "speakLineZh": "請「玩笑鏡」出場：chaff 一上場梗就黏住——打趣。",
+      "related": {
+        "synonyms": "husk, shuck, stalk, straw, stubble, kid",
+        "antonyms": "parent"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "chagrin",
+      "inVocab": true,
+      "senseAnchor": "anxiety",
+      "roleInScript": "懊惱鏡",
+      "humorDevice": "lookalike",
+      "zhGloss": "懊惱",
+      "speakLineEn": "Cue the 懊惱鏡: chagrin walks on and the gag sticks.",
+      "speakLineZh": "請「懊惱鏡」出場：chagrin 一上場梗就黏住——懊惱。",
+      "related": {
+        "synonyms": "vexation, disquiet, unease",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "cherubic",
+      "inVocab": true,
+      "senseAnchor": "having a sweet nature befitting an angel or cherub",
+      "roleInScript": "無辜鏡",
+      "humorDevice": "lookalike",
+      "zhGloss": "天使般的",
+      "speakLineEn": "Cue the 無辜鏡: cherubic walks on and the gag sticks.",
+      "speakLineZh": "請「無辜鏡」出場：cherubic 一上場梗就黏住——天使般的。",
+      "related": {
+        "synonyms": "angelic, angelical, seraphic, sweet",
+        "antonyms": "dry, salty, sour"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "chary",
+      "inVocab": true,
+      "senseAnchor": "謹慎的",
+      "roleInScript": "小心帽",
+      "humorDevice": "lookalike",
+      "zhGloss": "謹慎的",
+      "speakLineEn": "Cue the 小心帽: chary walks on and the gag sticks.",
+      "speakLineZh": "請「小心帽」出場：chary 一上場梗就黏住——謹慎的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "tease",
+      "inVocab": true,
+      "senseAnchor": "someone given to teasing (as by mocking or stirring curiosity); a seductive woman who uses her sex appeal to exploit men",
+      "roleInScript": "逗弄",
+      "humorDevice": "story",
+      "zhGloss": "逗弄",
+      "speakLineEn": "Cue the 逗弄: tease walks on and the gag sticks.",
+      "speakLineZh": "請「逗弄」出場：tease 一上場梗就黏住——逗弄。",
+      "related": {
+        "synonyms": "teaser, annoyer, vexer, coquette, flirt, vamp",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "angel",
+      "inVocab": false,
+      "senseAnchor": "天使",
+      "roleInScript": "天使",
+      "humorDevice": "story",
+      "zhGloss": "天使",
+      "speakLineEn": "Cue the 天使: angel walks on and the gag sticks.",
+      "speakLineZh": "請「天使」出場：angel 一上場梗就黏住——天使。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "locker",
+      "inVocab": false,
+      "senseAnchor": "更衣室",
+      "roleInScript": "更衣室",
+      "humorDevice": "story",
+      "zhGloss": "更衣室",
+      "speakLineEn": "Cue the 更衣室: locker walks on and the gag sticks.",
+      "speakLineZh": "請「更衣室」出場：locker 一上場梗就黏住——更衣室。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "joke",
+      "inVocab": false,
+      "senseAnchor": "玩笑",
+      "roleInScript": "玩笑",
+      "humorDevice": "story",
+      "zhGloss": "玩笑",
+      "speakLineEn": "Cue the 玩笑: joke walks on and the gag sticks.",
+      "speakLineZh": "請「玩笑」出場：joke 一上場梗就黏住——玩笑。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "frown",
+      "inVocab": true,
+      "senseAnchor": "to show displeasure or disapproval especially by facial expression",
+      "roleInScript": "皺眉",
+      "humorDevice": "story",
+      "zhGloss": "皺眉",
+      "speakLineEn": "Cue the 皺眉: frown walks on and the gag sticks.",
+      "speakLineZh": "請「皺眉」出場：frown 一上場梗就黏住——皺眉。",
+      "related": {
+        "synonyms": "scowl, glower, lour, lower",
+        "antonyms": "high, raise"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "coach",
+      "inVocab": false,
+      "senseAnchor": "教練",
+      "roleInScript": "教練",
+      "humorDevice": "story",
+      "zhGloss": "教練",
+      "speakLineEn": "Cue the 教練: coach walks on and the gag sticks.",
+      "speakLineZh": "請「教練」出場：coach 一上場梗就黏住——教練。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "blush",
+      "inVocab": false,
+      "senseAnchor": "臉紅",
+      "roleInScript": "臉紅",
+      "humorDevice": "story",
+      "zhGloss": "臉紅",
+      "speakLineEn": "Cue the 臉紅: blush walks on and the gag sticks.",
+      "speakLineZh": "請「臉紅」出場：blush 一上場梗就黏住——臉紅。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "wink",
+      "inVocab": false,
+      "senseAnchor": "眨眼",
+      "roleInScript": "眨眼",
+      "humorDevice": "story",
+      "zhGloss": "眨眼",
+      "speakLineEn": "Cue the 眨眼: wink walks on and the gag sticks.",
+      "speakLineZh": "請「眨眼」出場：wink 一上場梗就黏住——眨眼。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "sigh",
+      "inVocab": false,
+      "senseAnchor": "嘆氣",
+      "roleInScript": "嘆氣",
+      "humorDevice": "story",
+      "zhGloss": "嘆氣",
+      "speakLineEn": "Cue the 嘆氣: sigh walks on and the gag sticks.",
+      "speakLineZh": "請「嘆氣」出場：sigh 一上場梗就黏住——嘆氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "halo",
+      "inVocab": false,
+      "senseAnchor": "光環",
+      "roleInScript": "光環",
+      "humorDevice": "story",
+      "zhGloss": "光環",
+      "speakLineEn": "Cue the 光環: halo walks on and the gag sticks.",
+      "speakLineZh": "請「光環」出場：halo 一上場梗就黏住——光環。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "chaff＝打趣；chagrin＝懊惱；cherubic＝天使臉",
+    "chary＝謹慎，別再混進來"
+  ],
+  "pitfalls": [
+    "三詞情緒不同：玩笑／懊惱／無辜"
+  ],
+  "lessonRefs": [
+    "lesson-look-chaff-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch03"
+  }
+}

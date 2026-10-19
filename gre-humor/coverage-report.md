@@ -1,30 +1,41 @@
 # GRE Humor 覆蓋率報告
 
-> 產生時間：2026-10-19T06:16:48.304Z
+> 產生時間：2026-10-19T06:27:50.184Z
 
 ## 總覽
 
 | 指標 | 數值 |
 |------|------|
-| 詞庫 headword | 4990 |
-| 幽默庫獨特詞 | 2997 |
-| 已在詞庫內的覆蓋 | 1999 |
-| 幽默庫有、詞庫無（pending-add） | 998 |
-| 家族數 | 247 |
+| 詞庫 headword | 5064 |
+| 幽默庫獨特詞 | 3404 |
+| 已在詞庫內的覆蓋 | 2228 |
+| 幽默庫有、詞庫無（pending-add） | 1176 |
+| 家族數 | 275 |
 | 核心元素 | 331（A=87） |
-| 覆蓋率（對詞庫） | 40.06% |
-| 距離 4,000 獨特詞 | 1003 |
+| 覆蓋率（對詞庫） | 44.00% |
+| 距離 4,000 獨特詞 | 596 |
 
 ## 各家族
 
 | ID | 狀態 | 成員 | 詞庫命中 | pending |
 |----|------|------|----------|---------|
 | look-a-01 | reviewed | 8 | 8 | 0 |
+| look-abolish-01 | reviewed | 14 | 5 | 9 |
 | look-allude-01 | reviewed | 9 | 5 | 4 |
 | look-appraise-01 | reviewed | 9 | 5 | 4 |
+| look-asperity-01 | reviewed | 12 | 5 | 7 |
+| look-auspicious-01 | reviewed | 9 | 5 | 4 |
 | look-averse-01 | reviewed | 12 | 11 | 1 |
+| look-banal-01 | reviewed | 11 | 7 | 4 |
+| look-beget-01 | reviewed | 8 | 3 | 5 |
+| look-brandish-01 | reviewed | 13 | 5 | 8 |
+| look-bumble-01 | reviewed | 14 | 7 | 7 |
+| look-bustle-01 | reviewed | 13 | 4 | 9 |
 | look-censor-01 | reviewed | 9 | 8 | 1 |
+| look-chaff-01 | reviewed | 14 | 6 | 8 |
 | look-complacent-01 | reviewed | 9 | 5 | 4 |
+| look-contrite-01 | reviewed | 12 | 4 | 8 |
+| look-delude-01 | reviewed | 10 | 3 | 7 |
 | look-discrete-01 | reviewed | 11 | 6 | 5 |
 | look-emigrate-01 | reviewed | 12 | 2 | 10 |
 | look-historic-01 | reviewed | 15 | 15 | 0 |
@@ -73,24 +84,29 @@
 | prefix-with-01 | reviewed | 9 | 7 | 2 |
 | rhyme-acious-01 | reviewed | 16 | 16 | 0 |
 | rhyme-ain-01 | reviewed | 14 | 14 | 0 |
+| rhyme-ancy-01 | reviewed | 12 | 10 | 2 |
 | rhyme-ant-01 | reviewed | 5 | 5 | 0 |
 | rhyme-archy-01 | reviewed | 12 | 11 | 1 |
 | rhyme-ceive-01 | reviewed | 9 | 9 | 0 |
 | rhyme-claim-01 | reviewed | 11 | 6 | 5 |
 | rhyme-eak-01 | reviewed | 6 | 5 | 1 |
 | rhyme-edge-01 | reviewed | 5 | 5 | 0 |
+| rhyme-eous-01 | reviewed | 15 | 9 | 6 |
 | rhyme-escent-01 | reviewed | 12 | 12 | 0 |
 | rhyme-ire-01 | reviewed | 15 | 3 | 12 |
 | rhyme-logy-01 | reviewed | 11 | 10 | 1 |
+| rhyme-ment-gre-01 | reviewed | 13 | 12 | 1 |
 | rhyme-oid-01 | reviewed | 16 | 10 | 6 |
 | rhyme-ory-01 | reviewed | 9 | 9 | 0 |
 | rhyme-ound-01 | reviewed | 12 | 8 | 4 |
 | rhyme-our-01 | reviewed | 5 | 3 | 2 |
+| rhyme-sion-01 | reviewed | 14 | 11 | 3 |
 | rhyme-sist-01 | reviewed | 10 | 0 | 10 |
 | rhyme-spir-01 | reviewed | 12 | 3 | 9 |
 | rhyme-ster-01 | reviewed | 12 | 0 | 12 |
 | rhyme-ude-01 | reviewed | 11 | 5 | 6 |
 | rhyme-ule-01 | reviewed | 16 | 14 | 2 |
+| rhyme-uous-01 | reviewed | 12 | 8 | 4 |
 | rhyme-vise-01 | reviewed | 9 | 1 | 8 |
 | root-cap-01 | reviewed | 15 | 15 | 0 |
 | root-ced-01 | reviewed | 11 | 7 | 4 |
@@ -241,34 +257,55 @@
 | root-voc-01 | reviewed | 11 | 9 | 2 |
 | root-vol-01 | reviewed | 12 | 3 | 9 |
 | root-vor-01 | reviewed | 11 | 3 | 8 |
+| sem-allure-repel-01 | reviewed | 20 | 12 | 8 |
 | sem-begin-01 | reviewed | 12 | 11 | 1 |
 | sem-begin-end-02 | reviewed | 23 | 19 | 4 |
 | sem-brave-coward-02 | reviewed | 25 | 25 | 0 |
 | sem-brief-01 | reviewed | 12 | 12 | 0 |
+| sem-build-ruin-01 | reviewed | 11 | 6 | 5 |
+| sem-calm-turmoil-01 | reviewed | 15 | 7 | 8 |
 | sem-certain-doubt-01 | reviewed | 25 | 22 | 3 |
 | sem-clear-01 | reviewed | 15 | 15 | 0 |
 | sem-clear-obscure-02 | reviewed | 24 | 22 | 2 |
 | sem-courage-01 | reviewed | 12 | 12 | 0 |
 | sem-flattery-01 | reviewed | 6 | 6 | 0 |
+| sem-give-take-01 | reviewed | 18 | 12 | 6 |
 | sem-honest-01 | reviewed | 12 | 12 | 0 |
 | sem-honest-deceit-02 | reviewed | 23 | 19 | 4 |
 | sem-humble-vain-01 | reviewed | 25 | 25 | 0 |
+| sem-include-exclude-01 | reviewed | 17 | 9 | 8 |
+| sem-keen-dull-01 | reviewed | 19 | 12 | 7 |
 | sem-obj-bias-01 | reviewed | 20 | 20 | 0 |
+| sem-old-newfangled-01 | reviewed | 20 | 11 | 9 |
 | sem-order-chaos-01 | reviewed | 25 | 25 | 0 |
 | sem-overt-01 | reviewed | 10 | 10 | 0 |
+| sem-passion-apathy-01 | reviewed | 22 | 12 | 10 |
 | sem-praise-01 | reviewed | 12 | 12 | 0 |
 | sem-praise-criticize-01 | reviewed | 24 | 23 | 1 |
+| sem-public-private-01 | reviewed | 9 | 5 | 4 |
+| sem-pure-sully-01 | reviewed | 18 | 11 | 7 |
 | sem-rigid-01 | reviewed | 12 | 9 | 3 |
 | sem-rigid-flexible-02 | reviewed | 25 | 21 | 4 |
 | sem-scarce-01 | reviewed | 12 | 12 | 0 |
 | sem-scarce-abundant-02 | reviewed | 25 | 25 | 0 |
 | sem-support-undermine-01 | reviewed | 25 | 25 | 0 |
+| sem-swift-slow-01 | reviewed | 21 | 15 | 6 |
 | sem-talk-01 | reviewed | 6 | 6 | 0 |
 | sem-temp-perm-01 | reviewed | 25 | 23 | 2 |
 | sem-temper-01 | reviewed | 6 | 6 | 0 |
+| sem-thrift-waste-01 | reviewed | 21 | 13 | 8 |
 
 ## pending-add（幽默庫有、詞庫無）
 
+- `hate` ← look-abolish-01
+- `wreck` ← look-abolish-01
+- `law` ← look-abolish-01
+- `building` ← look-abolish-01
+- `button` ← look-abolish-01
+- `signage` ← look-abolish-01
+- `wreckingball` ← look-abolish-01
+- `loathing` ← look-abolish-01
+- `rubble` ← look-abolish-01
 - `hint` ← look-allude-01
 - `escape` ← look-allude-01
 - `dodge` ← look-allude-01
@@ -277,12 +314,79 @@
 - `notify` ← look-appraise-01
 - `assessment` ← look-appraise-01
 - `briefing` ← look-appraise-01
+- `rumor` ← look-asperity-01
+- `tone` ← look-asperity-01
+- `ear` ← look-asperity-01
+- `critique` ← look-asperity-01
+- `gossip` ← look-asperity-01
+- `sharp` ← look-asperity-01
+- `wet` ← look-asperity-01
+- `sunshine` ← look-auspicious-01
+- `mic` ← look-auspicious-01
+- `lucky` ← look-auspicious-01
+- `desk` ← look-auspicious-01
 - `allergy` ← look-averse-01
+- `yawn` ← look-banal-01
+- `root` ← look-banal-01
+- `shelf` ← look-banal-01
+- `boring` ← look-banal-01
+- `cause` ← look-beget-01
+- `arrow` ← look-beget-01
+- `problem` ← look-beget-01
+- `net` ← look-beget-01
+- `chain` ← look-beget-01
+- `anger` ← look-brandish-01
+- `sword` ← look-brandish-01
+- `candy` ← look-brandish-01
+- `quill` ← look-brandish-01
+- `compliment` ← look-brandish-01
+- `threat` ← look-brandish-01
+- `fur` ← look-brandish-01
+- `smile` ← look-brandish-01
+- `trip` ← look-bumble-01
+- `floor` ← look-bumble-01
+- `wetfloor` ← look-bumble-01
+- `hands` ← look-bumble-01
+- `feet` ← look-bumble-01
+- `mess` ← look-bumble-01
+- `corridor` ← look-bumble-01
+- `rush` ← look-bustle-01
+- `turntable` ← look-bustle-01
+- `speed` ← look-bustle-01
+- `market` ← look-bustle-01
+- `dash` ← look-bustle-01
+- `announce` ← look-bustle-01
+- `lane` ← look-bustle-01
+- `cart` ← look-bustle-01
+- `horn` ← look-bustle-01
 - `blame` ← look-censor-01
+- `angel` ← look-chaff-01
+- `locker` ← look-chaff-01
+- `joke` ← look-chaff-01
+- `coach` ← look-chaff-01
+- `blush` ← look-chaff-01
+- `wink` ← look-chaff-01
+- `sigh` ← look-chaff-01
+- `halo` ← look-chaff-01
 - `fawning` ← look-complacent-01
 - `smugness` ← look-complacent-01
 - `flatterer` ← look-complacent-01
 - `makeup` ← look-complacent-01
+- `cliche` ← look-contrite-01
+- `slogan` ← look-contrite-01
+- `tear` ← look-contrite-01
+- `sticker` ← look-contrite-01
+- `vending` ← look-contrite-01
+- `guilt` ← look-contrite-01
+- `boredom` ← look-contrite-01
+- `overused` ← look-contrite-01
+- `flood` ← look-delude-01
+- `secret` ← look-delude-01
+- `leak` ← look-delude-01
+- `nozzle` ← look-delude-01
+- `studio` ← look-delude-01
+- `truth` ← look-delude-01
+- `alarm` ← look-delude-01
 - `separate` ← look-discrete-01
 - `careful` ← look-discrete-01
 - `whisper` ← look-discrete-01
@@ -460,6 +564,8 @@
 - `max` ← prefix-ultra-01
 - `dry-up` ← prefix-with-01
 - `against` ← prefix-with-01
+- `lamp` ← rhyme-ancy-01
+- `mayor` ← rhyme-ancy-01
 - `crown` ← rhyme-archy-01
 - `shout` ← rhyme-claim-01
 - `bulletin` ← rhyme-claim-01
@@ -467,6 +573,12 @@
 - `announcement` ← rhyme-claim-01
 - `outcry` ← rhyme-claim-01
 - `sneak` ← rhyme-eak-01
+- `hall` ← rhyme-eous-01
+- `rock` ← rhyme-eous-01
+- `wood` ← rhyme-eous-01
+- `bone` ← rhyme-eous-01
+- `hat` ← rhyme-eous-01
+- `guide` ← rhyme-eous-01
 - `umpire` ← rhyme-ire-01
 - `spire` ← rhyme-ire-01
 - `mire` ← rhyme-ire-01
@@ -480,6 +592,7 @@
 - `stopwatch` ← rhyme-ire-01
 - `puddle` ← rhyme-ire-01
 - `apology` ← rhyme-logy-01
+- `salary` ← rhyme-ment-gre-01
 - `android` ← rhyme-oid-01
 - `asteroid` ← rhyme-oid-01
 - `humanoid` ← rhyme-oid-01
@@ -492,6 +605,9 @@
 - `ground` ← rhyme-ound-01
 - `pour` ← rhyme-our-01
 - `sour` ← rhyme-our-01
+- `parade` ← rhyme-sion-01
+- `bell` ← rhyme-sion-01
+- `door` ← rhyme-sion-01
 - `insist` ← rhyme-sist-01
 - `persistence` ← rhyme-sist-01
 - `assist` ← rhyme-sist-01
@@ -531,6 +647,10 @@
 - `attitude` ← rhyme-ude-01
 - `molecule` ← rhyme-ule-01
 - `module` ← rhyme-ule-01
+- `djbooth` ← rhyme-uous-01
+- `tail` ← rhyme-uous-01
+- `party` ← rhyme-uous-01
+- `oil` ← rhyme-uous-01
 - `advise` ← rhyme-vise-01
 - `advice` ← rhyme-vise-01
 - `advisor` ← rhyme-vise-01
@@ -1243,21 +1363,93 @@
 - `savory` ← root-vor-01
 - `digest` ← root-vor-01
 - `binge` ← root-vor-01
+- `off-putting` ← sem-allure-repel-01
+- `magnet` ← sem-allure-repel-01
+- `roachsticker` ← sem-allure-repel-01
+- `boundary` ← sem-allure-repel-01
+- `stink` ← sem-allure-repel-01
+- `selfie` ← sem-allure-repel-01
+- `charm` ← sem-allure-repel-01
+- `yuck` ← sem-allure-repel-01
 - `terminate` ← sem-begin-01
 - `curtain` ← sem-begin-end-02
 - `starter` ← sem-begin-end-02
 - `gun` ← sem-begin-end-02
 - `bow` ← sem-begin-end-02
+- `scaffold` ← sem-build-ruin-01
+- `crane` ← sem-build-ruin-01
+- `helmet` ← sem-build-ruin-01
+- `calendar` ← sem-build-ruin-01
+- `hardhat` ← sem-build-ruin-01
+- `lake` ← sem-calm-turmoil-01
+- `storm` ← sem-calm-turmoil-01
+- `lifebuoy` ← sem-calm-turmoil-01
+- `wharf` ← sem-calm-turmoil-01
+- `teacup` ← sem-calm-turmoil-01
+- `ripple` ← sem-calm-turmoil-01
+- `siren` ← sem-calm-turmoil-01
+- `pillow` ← sem-calm-turmoil-01
 - `categorical` ← sem-certain-doubt-01
 - `decisive` ← sem-certain-doubt-01
 - `waver` ← sem-certain-doubt-01
 - `fog` ← sem-clear-obscure-02
 - `mud` ← sem-clear-obscure-02
+- `gift` ← sem-give-take-01
+- `basket` ← sem-give-take-01
+- `will` ← sem-give-take-01
+- `pocket` ← sem-give-take-01
+- `key` ← sem-give-take-01
+- `guard` ← sem-give-take-01
 - `sly` ← sem-honest-deceit-02
 - `fib` ← sem-honest-deceit-02
 - `lie` ← sem-honest-deceit-02
 - `vow` ← sem-honest-deceit-02
+- `bar` ← sem-include-exclude-01
+- `rope` ← sem-include-exclude-01
+- `barrier` ← sem-include-exclude-01
+- `guestlist` ← sem-include-exclude-01
+- `bouncer` ← sem-include-exclude-01
+- `stamp` ← sem-include-exclude-01
+- `fence` ← sem-include-exclude-01
+- `welcome` ← sem-include-exclude-01
+- `mallet` ← sem-keen-dull-01
+- `lens` ← sem-keen-dull-01
+- `focus` ← sem-keen-dull-01
+- `wit` ← sem-keen-dull-01
+- `fogbrain` ← sem-keen-dull-01
+- `edge` ← sem-keen-dull-01
+- `bluntedge` ← sem-keen-dull-01
+- `up-to-date` ← sem-old-newfangled-01
+- `popup` ← sem-old-newfangled-01
+- `tourguide` ← sem-old-newfangled-01
+- `price-tag` ← sem-old-newfangled-01
+- `mothball` ← sem-old-newfangled-01
+- `unbox` ← sem-old-newfangled-01
+- `vintage` ← sem-old-newfangled-01
+- `hashtag` ← sem-old-newfangled-01
+- `dust` ← sem-old-newfangled-01
+- `thermometer` ← sem-passion-apathy-01
+- `lava` ← sem-passion-apathy-01
+- `icecube` ← sem-passion-apathy-01
+- `shrug` ← sem-passion-apathy-01
+- `volcano` ← sem-passion-apathy-01
+- `freezer` ← sem-passion-apathy-01
+- `spark` ← sem-passion-apathy-01
+- `frost` ← sem-passion-apathy-01
+- `fever` ← sem-passion-apathy-01
+- `chill` ← sem-passion-apathy-01
 - `whip` ← sem-praise-criticize-01
+- `booth` ← sem-public-private-01
+- `folder` ← sem-public-private-01
+- `lock` ← sem-public-private-01
+- `poster` ← sem-public-private-01
+- `whiterobe` ← sem-pure-sully-01
+- `ink` ← sem-pure-sully-01
+- `laundry` ← sem-pure-sully-01
+- `spot` ← sem-pure-sully-01
+- `bleach` ← sem-pure-sully-01
+- `soap` ← sem-pure-sully-01
+- `splash` ← sem-pure-sully-01
 - `elastic` ← sem-rigid-01
 - `flexible` ← sem-rigid-01
 - `adaptable` ← sem-rigid-01
@@ -1265,12 +1457,26 @@
 - `cement` ← sem-rigid-flexible-02
 - `softness` ← sem-rigid-flexible-02
 - `mat` ← sem-rigid-flexible-02
+- `lightning` ← sem-swift-slow-01
+- `snail` ← sem-swift-slow-01
+- `package` ← sem-swift-slow-01
+- `meeting` ← sem-swift-slow-01
+- `turbo` ← sem-swift-slow-01
+- `brake` ← sem-swift-slow-01
 - `fleeting` ← sem-temp-perm-01
 - `durable` ← sem-temp-perm-01
+- `piggybank` ← sem-thrift-waste-01
+- `shredder` ← sem-thrift-waste-01
+- `ledger` ← sem-thrift-waste-01
+- `coupon` ← sem-thrift-waste-01
+- `goldcoin` ← sem-thrift-waste-01
+- `splurge` ← sem-thrift-waste-01
+- `savings` ← sem-thrift-waste-01
+- `voidcheck` ← sem-thrift-waste-01
 
 ## 詞庫孤兒抽樣（尚未掛家族，前 40）
 
-`abandon` · `abash` · `abhorrent` · `abjudicate` · `abolish` · `abominate` · `absolute` · `abstemious` · `abstention` · `abstentious` · `abstinent` · `acarpous` · `accent` · `accentuate` · `accessory` · `accomplished` · `accost` · `accountability` · `accrete` · `accrue` · `accure` · `acerbity` · `acquisitive` · `acquit` · `acrid` · `acrobat` · `acuity` · `acumen` · `ad` · `adduce` · `adherent` · `adjourn` · `adroit` · `adulterate` · `adventitious` · `advert` · `aerate` · `aerial` · `affected` · `affective`
+`abandon` · `abash` · `abjudicate` · `absolute` · `abstemious` · `abstention` · `abstentious` · `abstinent` · `acarpous` · `accent` · `accentuate` · `accessory` · `accomplished` · `accost` · `accountability` · `accrete` · `accrue` · `accure` · `acerbity` · `acquisitive` · `acquit` · `acrid` · `acrobat` · `ad` · `adduce` · `adherent` · `adjourn` · `adulterate` · `adventitious` · `advert` · `aerate` · `aerial` · `affected` · `affective` · `affiliation` · `affix` · `affliction` · `affront` · `aftermath` · `aggrandize`
 
 ## 下一步建議（自動）
 

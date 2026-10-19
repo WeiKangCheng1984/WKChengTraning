@@ -1,0 +1,96 @@
+{
+  "id": "lesson-sem-build-ruin-01",
+  "slug": "sem-build-ruin-01",
+  "season": 3,
+  "seasonTitleZh": "語氣對打",
+  "seasonTitleEn": "Tone Duels",
+  "type": "duel",
+  "minutes": "12-15",
+  "clusterId": "sem-build-ruin-01",
+  "titleZh": "建造 ↔ 毀壞｜鷹架對拆遷球",
+  "titleEn": "Build vs. Ruin",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "construct／erect 搭鷹架，demolish／raze／ruin 推拆遷球——工地廣播：今天蓋還是今天拆？請先看日曆。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "建造隊：construct／erect／fabricate／forge。毀壞隊：demolish／raze／ruin／wreck／devastate。口令：鷹架寫藍圖，拆遷球寫「此地無樓」。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "建：construct/erect/fabricate；毀：demolish/raze/devastate",
+        "raze＝夷為平地"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Put up a structure:",
+      "promptZh": "豎立建造：",
+      "choices": [
+        "erect",
+        "raze",
+        "repository",
+        "neon"
+      ],
+      "answer": "erect"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Level to the ground:",
+      "promptZh": "夷為平地：",
+      "choices": [
+        "raze",
+        "construct",
+        "forecast",
+        "sole"
+      ],
+      "answer": "raze"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Destroy completely:",
+      "promptZh": "徹底摧毀：",
+      "choices": [
+        "devastate",
+        "assemble",
+        "omnibus",
+        "scanty"
+      ],
+      "answer": "devastate"
+    }
+  ],
+  "pitfalls": [
+    "fabricate 可=製造／也可=捏造，看語境"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch03"
+  }
+}

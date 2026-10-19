@@ -1,0 +1,214 @@
+{
+  "id": "look-asperity-01",
+  "type": "lookalike",
+  "elementLemma": "asperity-aspersion",
+  "titleZh": "asperity／aspersion｜刺耳診所",
+  "titleEn": "Asperity Clinic",
+  "hook": "asperity 是刺耳語氣，aspersion 是潑髒水——同一個「asp-」開頭，一個扎耳朵，一個髒衣服。",
+  "script": "asperity＝嚴厲／粗暴。aspersion＝誹謗中傷（cast aspersions）。護士提醒：語氣刺≠名聲髒。",
+  "members": [
+    {
+      "headword": "asperity",
+      "inVocab": true,
+      "senseAnchor": "something hard to endure; harshness of manner",
+      "roleInScript": "刺耳針",
+      "humorDevice": "lookalike",
+      "zhGloss": "嚴厲粗暴",
+      "speakLineEn": "Cue the 刺耳針: asperity walks on and the gag sticks.",
+      "speakLineZh": "請「刺耳針」出場：asperity 一上場梗就黏住——嚴厲粗暴。",
+      "related": {
+        "synonyms": "grimness, hardship, rigor, rigour, severity, severeness",
+        "antonyms": "dullness"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "aspersion",
+      "inVocab": true,
+      "senseAnchor": "a disparaging remark; an abusive attack on a person's character or good name",
+      "roleInScript": "髒水桶",
+      "humorDevice": "lookalike",
+      "zhGloss": "誹謗",
+      "speakLineEn": "Cue the 髒水桶: aspersion walks on and the gag sticks.",
+      "speakLineZh": "請「髒水桶」出場：aspersion 一上場梗就黏住——誹謗。",
+      "related": {
+        "synonyms": "slur, calumny, slander, defamation, denigration, sprinkling",
+        "antonyms": "focus"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "harsh",
+      "inVocab": true,
+      "senseAnchor": "unpleasantly stern; disagreeable to the senses",
+      "roleInScript": "刺耳",
+      "humorDevice": "story",
+      "zhGloss": "刺耳嚴厲",
+      "speakLineEn": "Cue the 刺耳: harsh walks on and the gag sticks.",
+      "speakLineZh": "請「刺耳」出場：harsh 一上場梗就黏住——刺耳嚴厲。",
+      "related": {
+        "synonyms": "rough, coarse, abrasive",
+        "antonyms": "fine"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "slander",
+      "inVocab": true,
+      "senseAnchor": "words falsely spoken that damage the reputation of another; an abusive attack on a person's character or good name",
+      "roleInScript": "誹謗",
+      "humorDevice": "story",
+      "zhGloss": "誹謗",
+      "speakLineEn": "Cue the 誹謗: slander walks on and the gag sticks.",
+      "speakLineZh": "請「誹謗」出場：slander 一上場梗就黏住——誹謗。",
+      "related": {
+        "synonyms": "aspersion, calumny, defamation, denigration, defame, smirch",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "rumor",
+      "inVocab": false,
+      "senseAnchor": "謠言",
+      "roleInScript": "謠言",
+      "humorDevice": "story",
+      "zhGloss": "謠言",
+      "speakLineEn": "Cue the 謠言: rumor walks on and the gag sticks.",
+      "speakLineZh": "請「謠言」出場：rumor 一上場梗就黏住——謠言。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "tone",
+      "inVocab": false,
+      "senseAnchor": "語氣",
+      "roleInScript": "語氣",
+      "humorDevice": "story",
+      "zhGloss": "語氣",
+      "speakLineEn": "Cue the 語氣: tone walks on and the gag sticks.",
+      "speakLineZh": "請「語氣」出場：tone 一上場梗就黏住——語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "ear",
+      "inVocab": false,
+      "senseAnchor": "耳朵",
+      "roleInScript": "耳朵",
+      "humorDevice": "story",
+      "zhGloss": "耳朵",
+      "speakLineEn": "Cue the 耳朵: ear walks on and the gag sticks.",
+      "speakLineZh": "請「耳朵」出場：ear 一上場梗就黏住——耳朵。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "critique",
+      "inVocab": false,
+      "senseAnchor": "批評",
+      "roleInScript": "批評",
+      "humorDevice": "story",
+      "zhGloss": "批評",
+      "speakLineEn": "Cue the 批評: critique walks on and the gag sticks.",
+      "speakLineZh": "請「批評」出場：critique 一上場梗就黏住——批評。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "gossip",
+      "inVocab": false,
+      "senseAnchor": "八卦",
+      "roleInScript": "八卦",
+      "humorDevice": "story",
+      "zhGloss": "八卦",
+      "speakLineEn": "Cue the 八卦: gossip walks on and the gag sticks.",
+      "speakLineZh": "請「八卦」出場：gossip 一上場梗就黏住——八卦。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "sharp",
+      "inVocab": false,
+      "senseAnchor": "尖銳",
+      "roleInScript": "尖銳",
+      "humorDevice": "story",
+      "zhGloss": "尖銳",
+      "speakLineEn": "Cue the 尖銳: sharp walks on and the gag sticks.",
+      "speakLineZh": "請「尖銳」出場：sharp 一上場梗就黏住——尖銳。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "wet",
+      "inVocab": false,
+      "senseAnchor": "濕",
+      "roleInScript": "濕",
+      "humorDevice": "story",
+      "zhGloss": "濕",
+      "speakLineEn": "Cue the 濕: wet walks on and the gag sticks.",
+      "speakLineZh": "請「濕」出場：wet 一上場梗就黏住——濕。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "badge",
+      "inVocab": true,
+      "senseAnchor": "an emblem (a small piece of plastic or cloth or metal) that signifies your status (rank or membership or affiliation etc.); any feature that is regarded as a sign of status (a particular power or quality or rank)",
+      "roleInScript": "徽章",
+      "humorDevice": "story",
+      "zhGloss": "徽章",
+      "speakLineEn": "Cue the 徽章: badge walks on and the gag sticks.",
+      "speakLineZh": "請「徽章」出場：badge 一上場梗就黏住——徽章。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    }
+  ],
+  "reviewHooks": [
+    "asperity＝嚴厲；aspersion＝誹謗",
+    "cast aspersions on＝對…潑髒水"
+  ],
+  "pitfalls": [
+    "兩詞都偏負面，但一個是態度，一個是謠言"
+  ],
+  "lessonRefs": [
+    "lesson-look-asperity-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch03"
+  }
+}

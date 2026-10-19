@@ -1,0 +1,96 @@
+{
+  "id": "lesson-rhyme-ancy-01",
+  "slug": "rhyme-ancy-01",
+  "season": 1,
+  "seasonTitleZh": "押韻派對",
+  "seasonTitleEn": "Rhyme Party",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "rhyme-ancy-01",
+  "titleZh": "-ancy／-ency｜狀態燈箱街",
+  "titleEn": "Ancy Lamp Street",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字尾 -ancy／-ency：buoyancy 浮力、complacency 自滿、deficiency 缺乏——整條街燈箱都在播報「狀態中」。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "buoyancy／resiliency 浮起來。complacency 飄飄然。deficiency／insufficiency 不夠。transparency 透明。clemency 寬恕。里長：燈箱先讀狀態，再決定走哪扇門。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "-ancy/-ency：buoyancy/complacency/deficiency/clemency",
+        "complacency＝自滿"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Self-satisfied smugness:",
+      "promptZh": "自滿：",
+      "choices": [
+        "complacency",
+        "buoyancy",
+        "repository",
+        "neon"
+      ],
+      "answer": "complacency"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "A shortage / lack:",
+      "promptZh": "缺乏：",
+      "choices": [
+        "deficiency",
+        "clemency",
+        "forecast",
+        "sole"
+      ],
+      "answer": "deficiency"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Mercy / leniency:",
+      "promptZh": "寬恕：",
+      "choices": [
+        "clemency",
+        "urgency",
+        "omnibus",
+        "scanty"
+      ],
+      "answer": "clemency"
+    }
+  ],
+  "pitfalls": [
+    "complacency≠complaisance（討好）"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch03"
+  }
+}

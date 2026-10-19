@@ -1,0 +1,260 @@
+{
+  "id": "sem-calm-turmoil-01",
+  "type": "semantic",
+  "elementLemma": "calm-vs-turmoil",
+  "titleZh": "平靜 ↔ 騷動｜湖面對暴風",
+  "titleEn": "Calm vs. Turmoil",
+  "hook": "halcyon／equanimity 是鏡面湖，blatant／fray／tumult 是碼頭吵架——救生圈寫著「先深呼吸」。",
+  "script": "平靜隊：halcyon／equanimity／serene／placid。騷動隊：blatant／fray／tumult／uproar。考場：寫平靜句用湖，寫衝突句用碼頭擴音器。",
+  "members": [
+    {
+      "headword": "halcyon",
+      "inVocab": true,
+      "senseAnchor": "peaceful and happy",
+      "roleInScript": "鏡面湖",
+      "humorDevice": "contrast",
+      "zhGloss": "平靜美好的",
+      "speakLineEn": "Cue the 鏡面湖: halcyon walks on and the gag sticks.",
+      "speakLineZh": "請「鏡面湖」出場：halcyon 一上場梗就黏住——平靜美好的。",
+      "related": {
+        "synonyms": "serene, tranquil",
+        "antonyms": "agitated, turbulent"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "equanimity",
+      "inVocab": true,
+      "senseAnchor": "calmness of mind",
+      "roleInScript": "佛系椅",
+      "humorDevice": "contrast",
+      "zhGloss": "沉著鎮定",
+      "speakLineEn": "Cue the 佛系椅: equanimity walks on and the gag sticks.",
+      "speakLineZh": "請「佛系椅」出場：equanimity 一上場梗就黏住——沉著鎮定。",
+      "related": {
+        "synonyms": "tranquility, aplomb",
+        "antonyms": "agitation, anxiety, discomposure"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "serene",
+      "inVocab": true,
+      "senseAnchor": "not agitated; without losing self-possession; completely clear and fine",
+      "roleInScript": "無風港",
+      "humorDevice": "contrast",
+      "zhGloss": "寧靜的",
+      "speakLineEn": "Cue the 無風港: serene walks on and the gag sticks.",
+      "speakLineZh": "請「無風港」出場：serene 一上場梗就黏住——寧靜的。",
+      "related": {
+        "synonyms": "calm, unagitated, tranquil",
+        "antonyms": "agitated, turbulent"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "composed",
+      "inVocab": true,
+      "senseAnchor": "鎮靜的",
+      "roleInScript": "整理領",
+      "humorDevice": "contrast",
+      "zhGloss": "鎮靜的",
+      "speakLineEn": "Cue the 整理領: composed walks on and the gag sticks.",
+      "speakLineZh": "請「整理領」出場：composed 一上場梗就黏住——鎮靜的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "blatant",
+      "inVocab": true,
+      "senseAnchor": "without any attempt at concealment; completely obvious; conspicuously and offensively loud; given to vehement outcry",
+      "roleInScript": "擴音器",
+      "humorDevice": "contrast",
+      "zhGloss": "喧嚷刺眼的",
+      "speakLineEn": "Cue the 擴音器: blatant walks on and the gag sticks.",
+      "speakLineZh": "請「擴音器」出場：blatant 一上場梗就黏住——喧嚷刺眼的。",
+      "related": {
+        "synonyms": "blazing, conspicuous, clamant, clamorous, strident, vociferous",
+        "antonyms": "subtle, concealed"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "fray",
+      "inVocab": true,
+      "senseAnchor": "a noisy fight; wear away by rubbing",
+      "roleInScript": "碼頭架",
+      "humorDevice": "contrast",
+      "zhGloss": "爭吵爭執",
+      "speakLineEn": "Cue the 碼頭架: fray walks on and the gag sticks.",
+      "speakLineZh": "請「碼頭架」出場：fray 一上場梗就黏住——爭吵爭執。",
+      "related": {
+        "synonyms": "affray, disturbance, ruffle, frazzle, rub, fret",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "tempestuous",
+      "inVocab": true,
+      "senseAnchor": "characterized by violent emotions or behavior; (of the elements) as if showing violent anger",
+      "roleInScript": "暴風夜",
+      "humorDevice": "contrast",
+      "zhGloss": "狂暴的",
+      "speakLineEn": "Cue the 暴風夜: tempestuous walks on and the gag sticks.",
+      "speakLineZh": "請「暴風夜」出場：tempestuous 一上場梗就黏住——狂暴的。",
+      "related": {
+        "synonyms": "stormy, angry, furious, raging, wild",
+        "antonyms": "calm, unangry, tame"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "lake",
+      "inVocab": false,
+      "senseAnchor": "湖",
+      "roleInScript": "湖",
+      "humorDevice": "story",
+      "zhGloss": "湖",
+      "speakLineEn": "Cue the 湖: lake walks on and the gag sticks.",
+      "speakLineZh": "請「湖」出場：lake 一上場梗就黏住——湖。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "storm",
+      "inVocab": false,
+      "senseAnchor": "暴風",
+      "roleInScript": "暴風",
+      "humorDevice": "story",
+      "zhGloss": "暴風",
+      "speakLineEn": "Cue the 暴風: storm walks on and the gag sticks.",
+      "speakLineZh": "請「暴風」出場：storm 一上場梗就黏住——暴風。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "lifebuoy",
+      "inVocab": false,
+      "senseAnchor": "救生圈",
+      "roleInScript": "救生圈",
+      "humorDevice": "story",
+      "zhGloss": "救生圈",
+      "speakLineEn": "Cue the 救生圈: lifebuoy walks on and the gag sticks.",
+      "speakLineZh": "請「救生圈」出場：lifebuoy 一上場梗就黏住——救生圈。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "wharf",
+      "inVocab": false,
+      "senseAnchor": "碼頭",
+      "roleInScript": "碼頭",
+      "humorDevice": "story",
+      "zhGloss": "碼頭",
+      "speakLineEn": "Cue the 碼頭: wharf walks on and the gag sticks.",
+      "speakLineZh": "請「碼頭」出場：wharf 一上場梗就黏住——碼頭。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "teacup",
+      "inVocab": false,
+      "senseAnchor": "茶杯",
+      "roleInScript": "茶杯",
+      "humorDevice": "story",
+      "zhGloss": "茶杯",
+      "speakLineEn": "Cue the 茶杯: teacup walks on and the gag sticks.",
+      "speakLineZh": "請「茶杯」出場：teacup 一上場梗就黏住——茶杯。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "ripple",
+      "inVocab": false,
+      "senseAnchor": "漣漪",
+      "roleInScript": "漣漪",
+      "humorDevice": "story",
+      "zhGloss": "漣漪",
+      "speakLineEn": "Cue the 漣漪: ripple walks on and the gag sticks.",
+      "speakLineZh": "請「漣漪」出場：ripple 一上場梗就黏住——漣漪。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "siren",
+      "inVocab": false,
+      "senseAnchor": "警報",
+      "roleInScript": "警報",
+      "humorDevice": "story",
+      "zhGloss": "警報",
+      "speakLineEn": "Cue the 警報: siren walks on and the gag sticks.",
+      "speakLineZh": "請「警報」出場：siren 一上場梗就黏住——警報。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "pillow",
+      "inVocab": false,
+      "senseAnchor": "枕頭",
+      "roleInScript": "枕頭",
+      "humorDevice": "story",
+      "zhGloss": "枕頭",
+      "speakLineEn": "Cue the 枕頭: pillow walks on and the gag sticks.",
+      "speakLineZh": "請「枕頭」出場：pillow 一上場梗就黏住——枕頭。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "靜：halcyon/equanimity/serene；鬧：blatant/fray/tumult",
+    "halcyon＝太平歲月"
+  ],
+  "pitfalls": [
+    "equanimity＝沉著；equality＝平等"
+  ],
+  "lessonRefs": [
+    "lesson-sem-calm-turmoil-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch03"
+  }
+}

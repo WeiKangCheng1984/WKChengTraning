@@ -1,0 +1,96 @@
+{
+  "id": "lesson-rhyme-ment-gre-01",
+  "slug": "rhyme-ment-gre-01",
+  "season": 1,
+  "seasonTitleZh": "押韻派對",
+  "seasonTitleEn": "Rhyme Party",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "rhyme-ment-gre-01",
+  "titleZh": "-ment｜狀態櫃台",
+  "titleEn": "Ment Status Desk",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字尾 -ment：predicament 困境、emolument 報酬、retrenchment 緊縮——櫃台叫號：先領狀態再領薪水。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "predicament 困境。emolument 薪給。retrenchment 緊縮。commencement 開始。discernment 洞察。clement／inclement 天氣旁門。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "-ment：predicament/emolument/retrenchment/discernment",
+        "emolument＝報酬薪給"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "A difficult situation:",
+      "promptZh": "困境：",
+      "choices": [
+        "predicament",
+        "ointment",
+        "repository",
+        "neon"
+      ],
+      "answer": "predicament"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Payment for work:",
+      "promptZh": "工作報酬：",
+      "choices": [
+        "emolument",
+        "figment",
+        "forecast",
+        "sole"
+      ],
+      "answer": "emolument"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Harsh weather:",
+      "promptZh": "惡劣天氣：",
+      "choices": [
+        "inclement",
+        "clement",
+        "omnibus",
+        "scanty"
+      ],
+      "answer": "inclement"
+    }
+  ],
+  "pitfalls": [
+    "clement＝溫和；inclement＝惡劣（天氣）"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch03"
+  }
+}

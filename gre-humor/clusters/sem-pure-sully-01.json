@@ -1,0 +1,304 @@
+{
+  "id": "sem-pure-sully-01",
+  "type": "semantic",
+  "elementLemma": "pure-vs-sully",
+  "titleZh": "純潔 ↔ 玷污｜白袍對墨汁",
+  "titleEn": "Pure vs. Sully",
+  "hook": "chaste／immaculate 穿白袍進場，besmirch／blemish／defile 提墨汁——洗衣店老闆開始報價。",
+  "script": "潔淨隊：chaste／pristine／immaculate／unsullied。玷污隊：besmirch／blemish／defile／taint／sully。口令：白袍寫「無瑕」，墨汁寫「一滴定生死」。",
+  "members": [
+    {
+      "headword": "chaste",
+      "inVocab": true,
+      "senseAnchor": "morally pure (especially not having experienced sexual intercourse); pure and simple in design or style",
+      "roleInScript": "白袍",
+      "humorDevice": "contrast",
+      "zhGloss": "純潔的",
+      "speakLineEn": "Cue the 白袍: chaste walks on and the gag sticks.",
+      "speakLineZh": "請「白袍」出場：chaste 一上場梗就黏住——純潔的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": "unchaste"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "pristine",
+      "inVocab": true,
+      "senseAnchor": "completely free from dirt or contamination; immaculately clean and unused",
+      "roleInScript": "未拆膜",
+      "humorDevice": "contrast",
+      "zhGloss": "嶄新潔淨的",
+      "speakLineEn": "Cue the 未拆膜: pristine walks on and the gag sticks.",
+      "speakLineZh": "請「未拆膜」出場：pristine 一上場梗就黏住——嶄新潔淨的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": "spoiled, tainted"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "immaculate",
+      "inVocab": true,
+      "senseAnchor": "completely neat and clean; free from stain or blemish",
+      "roleInScript": "無塵室",
+      "humorDevice": "contrast",
+      "zhGloss": "無瑕的",
+      "speakLineEn": "Cue the 無塵室: immaculate walks on and the gag sticks.",
+      "speakLineZh": "請「無塵室」出場：immaculate 一上場梗就黏住——無瑕的。",
+      "related": {
+        "synonyms": "speckless, spick-and-span, spic-and-span, spic, spick, spotless",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "unsullied",
+      "inVocab": true,
+      "senseAnchor": "未玷污的",
+      "roleInScript": "雪白牆",
+      "humorDevice": "contrast",
+      "zhGloss": "未玷污的",
+      "speakLineEn": "Cue the 雪白牆: unsullied walks on and the gag sticks.",
+      "speakLineZh": "請「雪白牆」出場：unsullied 一上場梗就黏住——未玷污的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "pure",
+      "inVocab": true,
+      "senseAnchor": "純淨的",
+      "roleInScript": "蒸餾水",
+      "humorDevice": "contrast",
+      "zhGloss": "純淨的",
+      "speakLineEn": "Cue the 蒸餾水: pure walks on and the gag sticks.",
+      "speakLineZh": "請「蒸餾水」出場：pure 一上場梗就黏住——純淨的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "stainless",
+      "inVocab": true,
+      "senseAnchor": "無瑕疵的",
+      "roleInScript": "不鏽銘",
+      "humorDevice": "contrast",
+      "zhGloss": "無瑕疵的",
+      "speakLineEn": "Cue the 不鏽銘: stainless walks on and the gag sticks.",
+      "speakLineZh": "請「不鏽銘」出場：stainless 一上場梗就黏住——無瑕疵的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "besmirch",
+      "inVocab": true,
+      "senseAnchor": "charge falsely or with malicious intent; attack the good name and reputation of someone; smear so as to make dirty or stained",
+      "roleInScript": "墨汁甩",
+      "humorDevice": "contrast",
+      "zhGloss": "玷污",
+      "speakLineEn": "Cue the 墨汁甩: besmirch walks on and the gag sticks.",
+      "speakLineZh": "請「墨汁甩」出場：besmirch 一上場梗就黏住——玷污。",
+      "related": {
+        "synonyms": "defame, slander, smirch, asperse, denigrate, calumniate",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "blemish",
+      "inVocab": true,
+      "senseAnchor": "a mark or flaw that spoils the appearance of something (especially on a person's body); mar or spoil the appearance of",
+      "roleInScript": "痣貼紙",
+      "humorDevice": "contrast",
+      "zhGloss": "污點",
+      "speakLineEn": "Cue the 痣貼紙: blemish walks on and the gag sticks.",
+      "speakLineZh": "請「痣貼紙」出場：blemish 一上場梗就黏住——污點。",
+      "related": {
+        "synonyms": "defect, mar, deface, disfigure, spot, flaw",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "defile",
+      "inVocab": true,
+      "senseAnchor": "a narrow pass (especially one between mountains); place under suspicion or cast doubt upon",
+      "roleInScript": "踩泥靴",
+      "humorDevice": "contrast",
+      "zhGloss": "玷污褻瀆",
+      "speakLineEn": "Cue the 踩泥靴: defile walks on and the gag sticks.",
+      "speakLineZh": "請「踩泥靴」出場：defile 一上場梗就黏住——玷污褻瀆。",
+      "related": {
+        "synonyms": "gorge, sully, corrupt, taint, cloud, tarnish",
+        "antonyms": "incorrupt, straight, disinfect, clear up"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "sully",
+      "inVocab": true,
+      "senseAnchor": "United States painter (born in England) of portraits and historical scenes (1783-1872); French statesman (1560-1641)",
+      "roleInScript": "灰手印",
+      "humorDevice": "contrast",
+      "zhGloss": "弄髒",
+      "speakLineEn": "Cue the 灰手印: sully walks on and the gag sticks.",
+      "speakLineZh": "請「灰手印」出場：sully 一上場梗就黏住——弄髒。",
+      "related": {
+        "synonyms": "defile, corrupt, taint, cloud, tarnish, stain",
+        "antonyms": "incorrupt, straight, disinfect, clear up"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "tarnish",
+      "inVocab": true,
+      "senseAnchor": "discoloration of metal surface caused by oxidation; make dirty or spotty, as by exposure to air; also used metaphorically",
+      "roleInScript": "氧化層",
+      "humorDevice": "contrast",
+      "zhGloss": "使失色",
+      "speakLineEn": "Cue the 氧化層: tarnish walks on and the gag sticks.",
+      "speakLineZh": "請「氧化層」出場：tarnish 一上場梗就黏住——使失色。",
+      "related": {
+        "synonyms": "stain, maculate, sully, defile",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "whiterobe",
+      "inVocab": false,
+      "senseAnchor": "白袍",
+      "roleInScript": "白袍",
+      "humorDevice": "story",
+      "zhGloss": "白袍",
+      "speakLineEn": "Cue the 白袍: whiterobe walks on and the gag sticks.",
+      "speakLineZh": "請「白袍」出場：whiterobe 一上場梗就黏住——白袍。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "ink",
+      "inVocab": false,
+      "senseAnchor": "墨汁",
+      "roleInScript": "墨汁",
+      "humorDevice": "story",
+      "zhGloss": "墨汁",
+      "speakLineEn": "Cue the 墨汁: ink walks on and the gag sticks.",
+      "speakLineZh": "請「墨汁」出場：ink 一上場梗就黏住——墨汁。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "laundry",
+      "inVocab": false,
+      "senseAnchor": "洗衣店",
+      "roleInScript": "洗衣店",
+      "humorDevice": "story",
+      "zhGloss": "洗衣店",
+      "speakLineEn": "Cue the 洗衣店: laundry walks on and the gag sticks.",
+      "speakLineZh": "請「洗衣店」出場：laundry 一上場梗就黏住——洗衣店。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "spot",
+      "inVocab": false,
+      "senseAnchor": "斑點",
+      "roleInScript": "斑點",
+      "humorDevice": "story",
+      "zhGloss": "斑點",
+      "speakLineEn": "Cue the 斑點: spot walks on and the gag sticks.",
+      "speakLineZh": "請「斑點」出場：spot 一上場梗就黏住——斑點。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "bleach",
+      "inVocab": false,
+      "senseAnchor": "漂白",
+      "roleInScript": "漂白",
+      "humorDevice": "story",
+      "zhGloss": "漂白",
+      "speakLineEn": "Cue the 漂白: bleach walks on and the gag sticks.",
+      "speakLineZh": "請「漂白」出場：bleach 一上場梗就黏住——漂白。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "soap",
+      "inVocab": false,
+      "senseAnchor": "肥皂",
+      "roleInScript": "肥皂",
+      "humorDevice": "story",
+      "zhGloss": "肥皂",
+      "speakLineEn": "Cue the 肥皂: soap walks on and the gag sticks.",
+      "speakLineZh": "請「肥皂」出場：soap 一上場梗就黏住——肥皂。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "splash",
+      "inVocab": false,
+      "senseAnchor": "濺潑",
+      "roleInScript": "濺潑",
+      "humorDevice": "story",
+      "zhGloss": "濺潑",
+      "speakLineEn": "Cue the 濺潑: splash walks on and the gag sticks.",
+      "speakLineZh": "請「濺潑」出場：splash 一上場梗就黏住——濺潑。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "潔：chaste/pristine/immaculate；污：besmirch/blemish/defile",
+    "besmirch＝玷污名聲"
+  ],
+  "pitfalls": [
+    "chaste＝純潔；chased＝被追——諧音陷阱"
+  ],
+  "lessonRefs": [
+    "lesson-sem-pure-sully-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch03"
+  }
+}

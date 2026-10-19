@@ -1,6 +1,6 @@
 {
-  "version": "v0.9-p3-batch02",
-  "total": 247,
+  "version": "v0.9-p3-batch03",
+  "total": 275,
   "lessons": [
     {
       "id": "lesson-rhyme-acious-01",
@@ -23,6 +23,17 @@
       "type": "family",
       "status": "reviewed",
       "memberCount": 14
+    },
+    {
+      "id": "lesson-rhyme-ancy-01",
+      "slug": "rhyme-ancy-01",
+      "season": 1,
+      "seasonTitleZh": "押韻派對",
+      "titleZh": "-ancy／-ency｜狀態燈箱街",
+      "clusterId": "rhyme-ancy-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 12
     },
     {
       "id": "lesson-rhyme-ant-01",
@@ -91,6 +102,17 @@
       "memberCount": 5
     },
     {
+      "id": "lesson-rhyme-eous-01",
+      "slug": "rhyme-eous-01",
+      "season": 1,
+      "seasonTitleZh": "押韻派對",
+      "titleZh": "-eous｜質地展廳",
+      "clusterId": "rhyme-eous-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 15
+    },
+    {
       "id": "lesson-rhyme-escent-01",
       "slug": "rhyme-escent-01",
       "season": 1,
@@ -122,6 +144,17 @@
       "type": "family",
       "status": "reviewed",
       "memberCount": 11
+    },
+    {
+      "id": "lesson-rhyme-ment-gre-01",
+      "slug": "rhyme-ment-gre-01",
+      "season": 1,
+      "seasonTitleZh": "押韻派對",
+      "titleZh": "-ment｜狀態櫃台",
+      "clusterId": "rhyme-ment-gre-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 13
     },
     {
       "id": "lesson-rhyme-oid-01",
@@ -166,6 +199,17 @@
       "type": "family",
       "status": "reviewed",
       "memberCount": 5
+    },
+    {
+      "id": "lesson-rhyme-sion-01",
+      "slug": "rhyme-sion-01",
+      "season": 1,
+      "seasonTitleZh": "押韻派對",
+      "titleZh": "-sion｜迴響走廊",
+      "clusterId": "rhyme-sion-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 14
     },
     {
       "id": "lesson-rhyme-sist-01",
@@ -221,6 +265,17 @@
       "type": "family",
       "status": "reviewed",
       "memberCount": 16
+    },
+    {
+      "id": "lesson-rhyme-uous-01",
+      "slug": "rhyme-uous-01",
+      "season": 1,
+      "seasonTitleZh": "押韻派對",
+      "titleZh": "-uous｜語氣尾巴派對",
+      "clusterId": "rhyme-uous-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 12
     },
     {
       "id": "lesson-rhyme-vise-01",
@@ -1884,6 +1939,17 @@
       "memberCount": 8
     },
     {
+      "id": "lesson-look-abolish-01",
+      "slug": "look-abolish-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "abolish／abominate／demolish｜廢除診所",
+      "clusterId": "look-abolish-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 14
+    },
+    {
       "id": "lesson-look-allude-01",
       "slug": "look-allude-01",
       "season": 3,
@@ -1906,6 +1972,28 @@
       "memberCount": 9
     },
     {
+      "id": "lesson-look-asperity-01",
+      "slug": "look-asperity-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "asperity／aspersion｜刺耳診所",
+      "clusterId": "look-asperity-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
+      "id": "lesson-look-auspicious-01",
+      "slug": "look-auspicious-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "auspicious／ominous／propitious｜吉凶氣象台",
+      "clusterId": "look-auspicious-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 9
+    },
+    {
       "id": "lesson-look-averse-01",
       "slug": "look-averse-01",
       "season": 3,
@@ -1915,6 +2003,61 @@
       "type": "duel",
       "status": "reviewed",
       "memberCount": 12
+    },
+    {
+      "id": "lesson-look-banal-01",
+      "slug": "look-banal-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "banal／bane／bale｜陳腐災禍櫃",
+      "clusterId": "look-banal-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
+      "id": "lesson-look-beget-01",
+      "slug": "look-beget-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "beget／beset｜因果門禁",
+      "clusterId": "look-beget-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 8
+    },
+    {
+      "id": "lesson-look-brandish-01",
+      "slug": "look-brandish-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "brandish／blandish／bristle｜武器化妝間",
+      "clusterId": "look-brandish-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 13
+    },
+    {
+      "id": "lesson-look-bumble-01",
+      "slug": "look-bumble-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "bumble／bungle／stumble｜搞砸走廊",
+      "clusterId": "look-bumble-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 14
+    },
+    {
+      "id": "lesson-look-bustle-01",
+      "slug": "look-bustle-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "bustle／hustle／hurtle｜匆忙轉盤",
+      "clusterId": "look-bustle-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 13
     },
     {
       "id": "lesson-look-censor-01",
@@ -1928,6 +2071,17 @@
       "memberCount": 9
     },
     {
+      "id": "lesson-look-chaff-01",
+      "slug": "look-chaff-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "chaff／chagrin／cherubic｜打趣更衣室",
+      "clusterId": "look-chaff-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 14
+    },
+    {
       "id": "lesson-look-complacent-01",
       "slug": "look-complacent-01",
       "season": 3,
@@ -1937,6 +2091,28 @@
       "type": "duel",
       "status": "reviewed",
       "memberCount": 9
+    },
+    {
+      "id": "lesson-look-contrite-01",
+      "slug": "look-contrite-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "contrite／trite｜懺悔自動販賣機",
+      "clusterId": "look-contrite-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
+      "id": "lesson-look-delude-01",
+      "slug": "look-delude-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "delude／deluge／divulge｜水與謊工作室",
+      "clusterId": "look-delude-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 10
     },
     {
       "id": "lesson-look-discrete-01",
@@ -2049,6 +2225,17 @@
       "memberCount": 12
     },
     {
+      "id": "lesson-sem-allure-repel-01",
+      "slug": "sem-allure-repel-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "吸引 ↔ 排斥｜磁鐵對蟑螂貼",
+      "clusterId": "sem-allure-repel-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 20
+    },
+    {
       "id": "lesson-sem-begin-01",
       "slug": "sem-begin-01",
       "season": 3,
@@ -2091,6 +2278,28 @@
       "type": "duel",
       "status": "reviewed",
       "memberCount": 12
+    },
+    {
+      "id": "lesson-sem-build-ruin-01",
+      "slug": "sem-build-ruin-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "建造 ↔ 毀壞｜鷹架對拆遷球",
+      "clusterId": "sem-build-ruin-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
+      "id": "lesson-sem-calm-turmoil-01",
+      "slug": "sem-calm-turmoil-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "平靜 ↔ 騷動｜湖面對暴風",
+      "clusterId": "sem-calm-turmoil-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 15
     },
     {
       "id": "lesson-sem-certain-doubt-01",
@@ -2148,6 +2357,17 @@
       "memberCount": 6
     },
     {
+      "id": "lesson-sem-give-take-01",
+      "slug": "sem-give-take-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "給予 ↔ 剝奪｜禮物桌對沒收筐",
+      "clusterId": "sem-give-take-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 18
+    },
+    {
       "id": "lesson-sem-honest-01",
       "slug": "sem-honest-01",
       "season": 3,
@@ -2181,12 +2401,45 @@
       "memberCount": 25
     },
     {
+      "id": "lesson-sem-include-exclude-01",
+      "slug": "sem-include-exclude-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "納入 ↔ 排除｜貴賓繩對拒馬",
+      "clusterId": "sem-include-exclude-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 17
+    },
+    {
+      "id": "lesson-sem-keen-dull-01",
+      "slug": "sem-keen-dull-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "敏銳 ↔ 愚鈍｜手術刀對橡皮槌",
+      "clusterId": "sem-keen-dull-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 19
+    },
+    {
       "id": "lesson-sem-obj-bias-01",
       "slug": "sem-obj-bias-01",
       "season": 3,
       "seasonTitleZh": "語氣對打",
       "titleZh": "客觀 ↔ 偏頗｜無私鏡 vs 偏執帽",
       "clusterId": "sem-obj-bias-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 20
+    },
+    {
+      "id": "lesson-sem-old-newfangled-01",
+      "slug": "sem-old-newfangled-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "陳舊 ↔ 新潮｜古董櫃對快閃店",
+      "clusterId": "sem-old-newfangled-01",
       "type": "duel",
       "status": "reviewed",
       "memberCount": 20
@@ -2214,6 +2467,17 @@
       "memberCount": 10
     },
     {
+      "id": "lesson-sem-passion-apathy-01",
+      "slug": "sem-passion-apathy-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "熱情 ↔ 冷漠｜火山對冰箱",
+      "clusterId": "sem-passion-apathy-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 22
+    },
+    {
       "id": "lesson-sem-praise-01",
       "slug": "sem-praise-01",
       "season": 3,
@@ -2234,6 +2498,28 @@
       "type": "duel",
       "status": "reviewed",
       "memberCount": 24
+    },
+    {
+      "id": "lesson-sem-public-private-01",
+      "slug": "sem-public-private-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "公開 ↔ 私密｜廣場喇叭對隔音房",
+      "clusterId": "sem-public-private-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 9
+    },
+    {
+      "id": "lesson-sem-pure-sully-01",
+      "slug": "sem-pure-sully-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "純潔 ↔ 玷污｜白袍對墨汁",
+      "clusterId": "sem-pure-sully-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 18
     },
     {
       "id": "lesson-sem-rigid-01",
@@ -2291,6 +2577,17 @@
       "memberCount": 25
     },
     {
+      "id": "lesson-sem-swift-slow-01",
+      "slug": "sem-swift-slow-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "迅疾 ↔ 遲緩｜閃電對蝸牛",
+      "clusterId": "sem-swift-slow-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 21
+    },
+    {
       "id": "lesson-sem-talk-01",
       "slug": "sem-talk-01",
       "season": 3,
@@ -2322,6 +2619,17 @@
       "type": "duel",
       "status": "reviewed",
       "memberCount": 6
+    },
+    {
+      "id": "lesson-sem-thrift-waste-01",
+      "slug": "sem-thrift-waste-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "節儉 ↔ 揮霍｜存錢筒對碎鈔機",
+      "clusterId": "sem-thrift-waste-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 21
     },
     {
       "id": "lesson-prefix-ab-01",

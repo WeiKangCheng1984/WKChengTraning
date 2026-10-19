@@ -1,0 +1,230 @@
+{
+  "id": "look-brandish-01",
+  "type": "lookalike",
+  "elementLemma": "brandish-blandish-bristle",
+  "titleZh": "brandish／blandish／bristle｜武器化妝間",
+  "titleEn": "Brandish Dressing Room",
+  "hook": "brandish 揮武器炫耀，blandish 甜言蜜語，bristle 怒髮衝冠——化妝間三個鏡子：刀、糖、刺。",
+  "script": "brandish＝揮舞炫耀。blandish＝奉承討好。bristle＝發怒／豎起。口令：刀不是糖，糖不是刺。",
+  "members": [
+    {
+      "headword": "brandish",
+      "inVocab": true,
+      "senseAnchor": "the act of waving; move or swing back and forth",
+      "roleInScript": "刀光鏡",
+      "humorDevice": "lookalike",
+      "zhGloss": "揮舞炫耀",
+      "speakLineEn": "Cue the 刀光鏡: brandish walks on and the gag sticks.",
+      "speakLineZh": "請「刀光鏡」出場：brandish 一上場梗就黏住——揮舞炫耀。",
+      "related": {
+        "synonyms": "flourish, wave",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "blandish",
+      "inVocab": true,
+      "senseAnchor": "奉承",
+      "roleInScript": "糖衣話",
+      "humorDevice": "lookalike",
+      "zhGloss": "奉承",
+      "speakLineEn": "Cue the 糖衣話: blandish walks on and the gag sticks.",
+      "speakLineZh": "請「糖衣話」出場：blandish 一上場梗就黏住——奉承。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "bristle",
+      "inVocab": true,
+      "senseAnchor": "to express one's anger usually violently",
+      "roleInScript": "刺蝟頭",
+      "humorDevice": "lookalike",
+      "zhGloss": "發怒豎起",
+      "speakLineEn": "Cue the 刺蝟頭: bristle walks on and the gag sticks.",
+      "speakLineZh": "請「刺蝟頭」出場：bristle 一上場梗就黏住——發怒豎起。",
+      "related": {
+        "synonyms": "abound, burst, uprise",
+        "antonyms": "implode, fall, go to bed, lie down, set, sit down, turn in"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "brittle",
+      "inVocab": true,
+      "senseAnchor": "易碎的",
+      "roleInScript": "脆餅",
+      "humorDevice": "lookalike",
+      "zhGloss": "易碎的",
+      "speakLineEn": "Cue the 脆餅: brittle walks on and the gag sticks.",
+      "speakLineZh": "請「脆餅」出場：brittle 一上場梗就黏住——易碎的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "flourish",
+      "inVocab": true,
+      "senseAnchor": "揮舞炫耀",
+      "roleInScript": "花式揮",
+      "humorDevice": "lookalike",
+      "zhGloss": "揮舞炫耀",
+      "speakLineEn": "Cue the 花式揮: flourish walks on and the gag sticks.",
+      "speakLineZh": "請「花式揮」出場：flourish 一上場梗就黏住——揮舞炫耀。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "anger",
+      "inVocab": false,
+      "senseAnchor": "怒",
+      "roleInScript": "怒",
+      "humorDevice": "story",
+      "zhGloss": "怒",
+      "speakLineEn": "Cue the 怒: anger walks on and the gag sticks.",
+      "speakLineZh": "請「怒」出場：anger 一上場梗就黏住——怒。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "sword",
+      "inVocab": false,
+      "senseAnchor": "劍",
+      "roleInScript": "劍",
+      "humorDevice": "story",
+      "zhGloss": "劍",
+      "speakLineEn": "Cue the 劍: sword walks on and the gag sticks.",
+      "speakLineZh": "請「劍」出場：sword 一上場梗就黏住——劍。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "candy",
+      "inVocab": false,
+      "senseAnchor": "糖",
+      "roleInScript": "糖",
+      "humorDevice": "story",
+      "zhGloss": "糖",
+      "speakLineEn": "Cue the 糖: candy walks on and the gag sticks.",
+      "speakLineZh": "請「糖」出場：candy 一上場梗就黏住——糖。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "quill",
+      "inVocab": false,
+      "senseAnchor": "刺",
+      "roleInScript": "刺",
+      "humorDevice": "story",
+      "zhGloss": "刺",
+      "speakLineEn": "Cue the 刺: quill walks on and the gag sticks.",
+      "speakLineZh": "請「刺」出場：quill 一上場梗就黏住——刺。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "compliment",
+      "inVocab": false,
+      "senseAnchor": "恭維",
+      "roleInScript": "恭維",
+      "humorDevice": "story",
+      "zhGloss": "恭維",
+      "speakLineEn": "Cue the 恭維: compliment walks on and the gag sticks.",
+      "speakLineZh": "請「恭維」出場：compliment 一上場梗就黏住——恭維。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "threat",
+      "inVocab": false,
+      "senseAnchor": "威脅",
+      "roleInScript": "威脅",
+      "humorDevice": "story",
+      "zhGloss": "威脅",
+      "speakLineEn": "Cue the 威脅: threat walks on and the gag sticks.",
+      "speakLineZh": "請「威脅」出場：threat 一上場梗就黏住——威脅。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "fur",
+      "inVocab": false,
+      "senseAnchor": "毛皮",
+      "roleInScript": "毛皮",
+      "humorDevice": "story",
+      "zhGloss": "毛皮",
+      "speakLineEn": "Cue the 毛皮: fur walks on and the gag sticks.",
+      "speakLineZh": "請「毛皮」出場：fur 一上場梗就黏住——毛皮。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "smile",
+      "inVocab": false,
+      "senseAnchor": "笑",
+      "roleInScript": "笑",
+      "humorDevice": "story",
+      "zhGloss": "笑",
+      "speakLineEn": "Cue the 笑: smile walks on and the gag sticks.",
+      "speakLineZh": "請「笑」出場：smile 一上場梗就黏住——笑。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "brandish＝揮舞；blandish＝奉承；bristle＝發怒",
+    "brittle＝易碎，別跟 bristle 混"
+  ],
+  "pitfalls": [
+    "三詞場景不同：武器／甜言／怒刺"
+  ],
+  "lessonRefs": [
+    "lesson-look-brandish-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch03"
+  }
+}

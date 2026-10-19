@@ -1,0 +1,246 @@
+{
+  "id": "look-abolish-01",
+  "type": "lookalike",
+  "elementLemma": "abolish-abominate-demolish",
+  "titleZh": "abolish／abominate／demolish｜廢除診所",
+  "titleEn": "Abolish Clinic",
+  "hook": "三個按鈕：abolish 廢法、abominate 厭惡、demolish 拆樓——按錯會變成「我很討厭這棟合法建築並拆了它」。",
+  "script": "abolish＝廢除制度。abominate＝強烈厭惡。demolish＝拆毀建築。診所標語：恨≠拆≠廢，三位一體但不是同一個動作。",
+  "members": [
+    {
+      "headword": "abolish",
+      "inVocab": true,
+      "senseAnchor": "do away with",
+      "roleInScript": "廢法鈕",
+      "humorDevice": "lookalike",
+      "zhGloss": "廢除",
+      "speakLineEn": "Cue the 廢法鈕: abolish walks on and the gag sticks.",
+      "speakLineZh": "請「廢法鈕」出場：abolish 一上場梗就黏住——廢除。",
+      "related": {
+        "synonyms": "",
+        "antonyms": "establish, institute"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "abominate",
+      "inVocab": true,
+      "senseAnchor": "to hate or loathe intensely",
+      "roleInScript": "厭惡臉",
+      "humorDevice": "lookalike",
+      "zhGloss": "厭惡",
+      "speakLineEn": "Cue the 厭惡臉: abominate walks on and the gag sticks.",
+      "speakLineZh": "請「厭惡臉」出場：abominate 一上場梗就黏住——厭惡。",
+      "related": {
+        "synonyms": "abhor, detest, execrate, loathe",
+        "antonyms": "love"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "demolish",
+      "inVocab": true,
+      "senseAnchor": "destroy completely; humiliate or depress completely",
+      "roleInScript": "拆樓錘",
+      "humorDevice": "lookalike",
+      "zhGloss": "拆毀",
+      "speakLineEn": "Cue the 拆樓錘: demolish walks on and the gag sticks.",
+      "speakLineZh": "請「拆樓錘」出場：demolish 一上場梗就黏住——拆毀。",
+      "related": {
+        "synonyms": "pulverize, pulverise, crush, smash, destroy",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "abolition",
+      "inVocab": true,
+      "senseAnchor": "廢除",
+      "roleInScript": "廢除令",
+      "humorDevice": "lookalike",
+      "zhGloss": "廢除",
+      "speakLineEn": "Cue the 廢除令: abolition walks on and the gag sticks.",
+      "speakLineZh": "請「廢除令」出場：abolition 一上場梗就黏住——廢除。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "abolitionist",
+      "inVocab": true,
+      "senseAnchor": "廢除論者",
+      "roleInScript": "遊行牌",
+      "humorDevice": "lookalike",
+      "zhGloss": "廢除論者",
+      "speakLineEn": "Cue the 遊行牌: abolitionist walks on and the gag sticks.",
+      "speakLineZh": "請「遊行牌」出場：abolitionist 一上場梗就黏住——廢除論者。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "hate",
+      "inVocab": false,
+      "senseAnchor": "恨",
+      "roleInScript": "恨",
+      "humorDevice": "story",
+      "zhGloss": "恨",
+      "speakLineEn": "Cue the 恨: hate walks on and the gag sticks.",
+      "speakLineZh": "請「恨」出場：hate 一上場梗就黏住——恨。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "wreck",
+      "inVocab": false,
+      "senseAnchor": "殘骸",
+      "roleInScript": "殘骸",
+      "humorDevice": "story",
+      "zhGloss": "殘骸",
+      "speakLineEn": "Cue the 殘骸: wreck walks on and the gag sticks.",
+      "speakLineZh": "請「殘骸」出場：wreck 一上場梗就黏住——殘骸。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "law",
+      "inVocab": false,
+      "senseAnchor": "法律",
+      "roleInScript": "法律",
+      "humorDevice": "story",
+      "zhGloss": "法律",
+      "speakLineEn": "Cue the 法律: law walks on and the gag sticks.",
+      "speakLineZh": "請「法律」出場：law 一上場梗就黏住——法律。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "building",
+      "inVocab": false,
+      "senseAnchor": "建築",
+      "roleInScript": "建築",
+      "humorDevice": "story",
+      "zhGloss": "建築",
+      "speakLineEn": "Cue the 建築: building walks on and the gag sticks.",
+      "speakLineZh": "請「建築」出場：building 一上場梗就黏住——建築。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "button",
+      "inVocab": false,
+      "senseAnchor": "按鈕",
+      "roleInScript": "按鈕",
+      "humorDevice": "story",
+      "zhGloss": "按鈕",
+      "speakLineEn": "Cue the 按鈕: button walks on and the gag sticks.",
+      "speakLineZh": "請「按鈕」出場：button 一上場梗就黏住——按鈕。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "signage",
+      "inVocab": false,
+      "senseAnchor": "招牌",
+      "roleInScript": "招牌",
+      "humorDevice": "story",
+      "zhGloss": "招牌",
+      "speakLineEn": "Cue the 招牌: signage walks on and the gag sticks.",
+      "speakLineZh": "請「招牌」出場：signage 一上場梗就黏住——招牌。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "wreckingball",
+      "inVocab": false,
+      "senseAnchor": "拆遷球",
+      "roleInScript": "拆遷球",
+      "humorDevice": "story",
+      "zhGloss": "拆遷球",
+      "speakLineEn": "Cue the 拆遷球: wreckingball walks on and the gag sticks.",
+      "speakLineZh": "請「拆遷球」出場：wreckingball 一上場梗就黏住——拆遷球。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "loathing",
+      "inVocab": false,
+      "senseAnchor": "憎惡",
+      "roleInScript": "憎惡",
+      "humorDevice": "story",
+      "zhGloss": "憎惡",
+      "speakLineEn": "Cue the 憎惡: loathing walks on and the gag sticks.",
+      "speakLineZh": "請「憎惡」出場：loathing 一上場梗就黏住——憎惡。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "rubble",
+      "inVocab": false,
+      "senseAnchor": "瓦礫",
+      "roleInScript": "瓦礫",
+      "humorDevice": "story",
+      "zhGloss": "瓦礫",
+      "speakLineEn": "Cue the 瓦礫: rubble walks on and the gag sticks.",
+      "speakLineZh": "請「瓦礫」出場：rubble 一上場梗就黏住——瓦礫。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "abolish＝廢除；abominate＝厭惡；demolish＝拆毀",
+    "先分對象：法／感／樓"
+  ],
+  "pitfalls": [
+    "不要把 abominate 當 demolish 用"
+  ],
+  "lessonRefs": [
+    "lesson-look-abolish-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch03"
+  }
+}

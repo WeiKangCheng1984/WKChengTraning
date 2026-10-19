@@ -1,0 +1,96 @@
+{
+  "id": "lesson-sem-passion-apathy-01",
+  "slug": "sem-passion-apathy-01",
+  "season": 3,
+  "seasonTitleZh": "語氣對打",
+  "seasonTitleEn": "Tone Duels",
+  "type": "duel",
+  "minutes": "12-15",
+  "clusterId": "sem-passion-apathy-01",
+  "titleZh": "熱情 ↔ 冷漠｜火山對冰箱",
+  "titleEn": "Passion vs. Apathy",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "左邊火山噴火（ardent/ardor），右邊冰箱貼自己（apathetic/callous）——溫度計當場罷工。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "ardent／ardor／fervid／zealous 火山隊。apathetic／callous／stolid／phlegmatic 冰箱隊。考場口令：火山寫熱情句，冰箱寫「無所謂」。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "熱：ardent/ardor/fervid；冷：apathetic/callous/stolid",
+        "callous＝硬心腸"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Showing little emotion:",
+      "promptZh": "幾乎沒情緒：",
+      "choices": [
+        "apathetic",
+        "ardent",
+        "repository",
+        "neon"
+      ],
+      "answer": "apathetic"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Intense passion:",
+      "promptZh": "強烈熱情：",
+      "choices": [
+        "ardor",
+        "callous",
+        "forecast",
+        "sole"
+      ],
+      "answer": "ardor"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Hardened / unfeeling:",
+      "promptZh": "硬心腸：",
+      "choices": [
+        "callous",
+        "fervid",
+        "omnibus",
+        "scanty"
+      ],
+      "answer": "callous"
+    }
+  ],
+  "pitfalls": [
+    "apathetic＝冷漠；aesthetic＝美學——形近別混"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch03"
+  }
+}

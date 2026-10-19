@@ -1,0 +1,215 @@
+{
+  "id": "look-contrite-01",
+  "type": "lookalike",
+  "elementLemma": "contrite-trite",
+  "titleZh": "contrite／trite｜懺悔自動販賣機",
+  "titleEn": "Contrite Vending Machine",
+  "hook": "contrite 是真心懺悔，trite 是陳腔濫調——販賣機兩個按鈕：眼淚 vs 過期標語。",
+  "script": "contrite＝悔恨的。trite＝陳腐老套。店員提醒：道歉要真情，文案別用過期標語；眼淚鈕按下去才算數，口號鈕按下去只會被噓。",
+  "members": [
+    {
+      "headword": "contrite",
+      "inVocab": true,
+      "senseAnchor": "feeling sorry for something bad that you have done",
+      "roleInScript": "眼淚鈕",
+      "humorDevice": "lookalike",
+      "zhGloss": "悔恨的",
+      "speakLineEn": "Cue the 眼淚鈕: contrite walks on and the gag sticks.",
+      "speakLineZh": "請「眼淚鈕」出場：contrite 一上場梗就黏住——悔恨的。",
+      "related": {
+        "synonyms": "penitent",
+        "antonyms": "unrepentant, defiant, impenitent"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "trite",
+      "inVocab": true,
+      "senseAnchor": "repeated too often; overfamiliar through overuse",
+      "roleInScript": "過期標語",
+      "humorDevice": "lookalike",
+      "zhGloss": "陳腐的",
+      "speakLineEn": "Cue the 過期標語: trite walks on and the gag sticks.",
+      "speakLineZh": "請「過期標語」出場：trite 一上場梗就黏住——陳腐的。",
+      "related": {
+        "synonyms": "banal, commonplace, hackneyed, old-hat, shopworn, stock",
+        "antonyms": "original, fresh"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "repentant",
+      "inVocab": true,
+      "senseAnchor": "懺悔的",
+      "roleInScript": "懺悔帽",
+      "humorDevice": "lookalike",
+      "zhGloss": "懺悔的",
+      "speakLineEn": "Cue the 懺悔帽: repentant walks on and the gag sticks.",
+      "speakLineZh": "請「懺悔帽」出場：repentant 一上場梗就黏住——懺悔的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "cliche",
+      "inVocab": false,
+      "senseAnchor": "陳腔",
+      "roleInScript": "陳腔",
+      "humorDevice": "story",
+      "zhGloss": "陳腔",
+      "speakLineEn": "Cue the 陳腔: cliche walks on and the gag sticks.",
+      "speakLineZh": "請「陳腔」出場：cliche 一上場梗就黏住——陳腔。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "slogan",
+      "inVocab": false,
+      "senseAnchor": "口號",
+      "roleInScript": "口號",
+      "humorDevice": "story",
+      "zhGloss": "口號",
+      "speakLineEn": "Cue the 口號: slogan walks on and the gag sticks.",
+      "speakLineZh": "請「口號」出場：slogan 一上場梗就黏住——口號。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "tear",
+      "inVocab": false,
+      "senseAnchor": "淚",
+      "roleInScript": "淚",
+      "humorDevice": "story",
+      "zhGloss": "淚",
+      "speakLineEn": "Cue the 淚: tear walks on and the gag sticks.",
+      "speakLineZh": "請「淚」出場：tear 一上場梗就黏住——淚。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "sticker",
+      "inVocab": false,
+      "senseAnchor": "貼紙",
+      "roleInScript": "貼紙",
+      "humorDevice": "story",
+      "zhGloss": "貼紙",
+      "speakLineEn": "Cue the 貼紙: sticker walks on and the gag sticks.",
+      "speakLineZh": "請「貼紙」出場：sticker 一上場梗就黏住——貼紙。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "vending",
+      "inVocab": false,
+      "senseAnchor": "販賣機",
+      "roleInScript": "販賣機",
+      "humorDevice": "story",
+      "zhGloss": "販賣機",
+      "speakLineEn": "Cue the 販賣機: vending walks on and the gag sticks.",
+      "speakLineZh": "請「販賣機」出場：vending 一上場梗就黏住——販賣機。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "guilt",
+      "inVocab": false,
+      "senseAnchor": "愧疚",
+      "roleInScript": "愧疚",
+      "humorDevice": "story",
+      "zhGloss": "愧疚",
+      "speakLineEn": "Cue the 愧疚: guilt walks on and the gag sticks.",
+      "speakLineZh": "請「愧疚」出場：guilt 一上場梗就黏住——愧疚。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "boredom",
+      "inVocab": false,
+      "senseAnchor": "無聊",
+      "roleInScript": "無聊",
+      "humorDevice": "story",
+      "zhGloss": "無聊",
+      "speakLineEn": "Cue the 無聊: boredom walks on and the gag sticks.",
+      "speakLineZh": "請「無聊」出場：boredom 一上場梗就黏住——無聊。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "overused",
+      "inVocab": false,
+      "senseAnchor": "用濫",
+      "roleInScript": "用濫",
+      "humorDevice": "story",
+      "zhGloss": "用濫",
+      "speakLineEn": "Cue the 用濫: overused walks on and the gag sticks.",
+      "speakLineZh": "請「用濫」出場：overused 一上場梗就黏住——用濫。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "coin",
+      "inVocab": true,
+      "senseAnchor": "invent or devise (a new word or phrase)",
+      "roleInScript": "硬幣",
+      "humorDevice": "story",
+      "zhGloss": "硬幣",
+      "speakLineEn": "Cue the 硬幣: coin walks on and the gag sticks.",
+      "speakLineZh": "請「硬幣」出場：coin 一上場梗就黏住——硬幣。",
+      "related": {
+        "synonyms": "mint, strike",
+        "antonyms": "miss"
+      },
+      "vocabStatus": "in-vocab"
+    }
+  ],
+  "reviewHooks": [
+    "contrite＝悔恨；trite＝陳腐",
+    "形近：差一個 con-"
+  ],
+  "pitfalls": [
+    "道歉用 contrite，文案別 trite"
+  ],
+  "lessonRefs": [
+    "lesson-look-contrite-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch03"
+  }
+}

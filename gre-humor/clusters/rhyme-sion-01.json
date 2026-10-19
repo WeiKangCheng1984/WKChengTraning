@@ -1,0 +1,240 @@
+{
+  "id": "rhyme-sion-01",
+  "type": "rhyme",
+  "elementLemma": "-sion",
+  "titleZh": "-sion｜迴響走廊",
+  "titleEn": "Sion Echo Hall",
+  "hook": "字尾 -sion：delusion 幻覺、aspersion 誹謗、repercussion 餘波——走廊一喊，回音專門幫你加戲。",
+  "script": "delusion 妄想。aspersion 潑髒水。repercussion 後果餘波。concession 讓步。remission 緩解。procession 遊行隊伍穿廊而過。",
+  "members": [
+    {
+      "headword": "delusion",
+      "inVocab": true,
+      "senseAnchor": "(psychology) an erroneous belief that is held in the face of evidence to the contrary; a mistaken or unfounded opinion or idea",
+      "roleInScript": "幻覺燈",
+      "humorDevice": "morphology",
+      "zhGloss": "妄想",
+      "speakLineEn": "Cue the 幻覺燈: delusion walks on and the gag sticks.",
+      "speakLineZh": "請「幻覺燈」出場：delusion 一上場梗就黏住——妄想。",
+      "related": {
+        "synonyms": "hallucination, illusion",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "repercussion",
+      "inVocab": true,
+      "senseAnchor": "a remote or indirect consequence of some action; a movement back from an impact",
+      "roleInScript": "回力球",
+      "humorDevice": "morphology",
+      "zhGloss": "餘波後果",
+      "speakLineEn": "Cue the 回力球: repercussion walks on and the gag sticks.",
+      "speakLineZh": "請「回力球」出場：repercussion 一上場梗就黏住——餘波後果。",
+      "related": {
+        "synonyms": "reverberation, recoil, rebound, backlash",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "concession",
+      "inVocab": true,
+      "senseAnchor": "a contract granting the right to operate a subsidiary business; the act of conceding or yielding",
+      "roleInScript": "讓步牌",
+      "humorDevice": "morphology",
+      "zhGloss": "讓步",
+      "speakLineEn": "Cue the 讓步牌: concession walks on and the gag sticks.",
+      "speakLineZh": "請「讓步牌」出場：concession 一上場梗就黏住——讓步。",
+      "related": {
+        "synonyms": "grant, conceding, yielding",
+        "antonyms": "deny, stand, survive"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "remission",
+      "inVocab": true,
+      "senseAnchor": "an abatement in intensity or degree (as in the manifestations of a disease); a payment of money sent to a person in another place",
+      "roleInScript": "減號燈",
+      "humorDevice": "morphology",
+      "zhGloss": "緩解減輕",
+      "speakLineEn": "Cue the 減號燈: remission walks on and the gag sticks.",
+      "speakLineZh": "請「減號燈」出場：remission 一上場梗就黏住——緩解減輕。",
+      "related": {
+        "synonyms": "remittal, subsidence, remittance, remitment, remit, absolution",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "procession",
+      "inVocab": true,
+      "senseAnchor": "(theology) the origination of the Holy Spirit at Pentecost; the group action of a collection of people or animals or vehicles moving ahead in more or less regular formation",
+      "roleInScript": "遊行隊",
+      "humorDevice": "morphology",
+      "zhGloss": "行列遊行",
+      "speakLineEn": "Cue the 遊行隊: procession walks on and the gag sticks.",
+      "speakLineZh": "請「遊行隊」出場：procession 一上場梗就黏住——行列遊行。",
+      "related": {
+        "synonyms": "emanation, rise, progress, progression, advance, advancement",
+        "antonyms": "retreat"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "apprehension",
+      "inVocab": true,
+      "senseAnchor": "fearful expectation or anticipation; the cognitive condition of someone who understands",
+      "roleInScript": "心驚鈴",
+      "humorDevice": "morphology",
+      "zhGloss": "憂懼",
+      "speakLineEn": "Cue the 心驚鈴: apprehension walks on and the gag sticks.",
+      "speakLineZh": "請「心驚鈴」出場：apprehension 一上場梗就黏住——憂懼。",
+      "related": {
+        "synonyms": "apprehensiveness, dread, understanding, discernment, savvy, misgiving",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "pretension",
+      "inVocab": true,
+      "senseAnchor": "a false or unsupportable quality; the advancing of a claim",
+      "roleInScript": "抬下巴",
+      "humorDevice": "morphology",
+      "zhGloss": "自負",
+      "speakLineEn": "Cue the 抬下巴: pretension walks on and the gag sticks.",
+      "speakLineZh": "請「抬下巴」出場：pretension 一上場梗就黏住——自負。",
+      "related": {
+        "synonyms": "pretense, pretence, pretentiousness, largeness",
+        "antonyms": "unpretentiousness"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "provision",
+      "inVocab": true,
+      "senseAnchor": "a stipulated condition; the activity of supplying or providing something",
+      "roleInScript": "條款箱",
+      "humorDevice": "morphology",
+      "zhGloss": "供應條款",
+      "speakLineEn": "Cue the 條款箱: provision walks on and the gag sticks.",
+      "speakLineZh": "請「條款箱」出場：provision 一上場梗就黏住——供應條款。",
+      "related": {
+        "synonyms": "proviso, supply, supplying, planning, preparation, purvey",
+        "antonyms": "demand, recall, resolution"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "recession",
+      "inVocab": true,
+      "senseAnchor": "the state of the economy declines; a widespread decline in the GDP and employment and trade lasting from six months to a year; a small concavity",
+      "roleInScript": "下滑梯",
+      "humorDevice": "morphology",
+      "zhGloss": "衰退",
+      "speakLineEn": "Cue the 下滑梯: recession walks on and the gag sticks.",
+      "speakLineZh": "請「下滑梯」出場：recession 一上場梗就黏住——衰退。",
+      "related": {
+        "synonyms": "recess, niche, corner, recessional, receding",
+        "antonyms": "advance, gain"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "cession",
+      "inVocab": true,
+      "senseAnchor": "the act of ceding",
+      "roleInScript": "割讓書",
+      "humorDevice": "morphology",
+      "zhGloss": "割讓",
+      "speakLineEn": "Cue the 割讓書: cession walks on and the gag sticks.",
+      "speakLineZh": "請「割讓書」出場：cession 一上場梗就黏住——割讓。",
+      "related": {
+        "synonyms": "ceding",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "mansion",
+      "inVocab": true,
+      "senseAnchor": "(astrology) one of 12 equal areas into which the zodiac is divided; a large and imposing house",
+      "roleInScript": "豪宅門",
+      "humorDevice": "morphology",
+      "zhGloss": "豪宅",
+      "speakLineEn": "Cue the 豪宅門: mansion walks on and the gag sticks.",
+      "speakLineZh": "請「豪宅門」出場：mansion 一上場梗就黏住——豪宅。",
+      "related": {
+        "synonyms": "sign, house, manse, hall, residence",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "parade",
+      "inVocab": false,
+      "senseAnchor": "遊行",
+      "roleInScript": "遊行",
+      "humorDevice": "story",
+      "zhGloss": "遊行",
+      "speakLineEn": "Cue the 遊行: parade walks on and the gag sticks.",
+      "speakLineZh": "請「遊行」出場：parade 一上場梗就黏住——遊行。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "bell",
+      "inVocab": false,
+      "senseAnchor": "鈴",
+      "roleInScript": "鈴",
+      "humorDevice": "story",
+      "zhGloss": "鈴",
+      "speakLineEn": "Cue the 鈴: bell walks on and the gag sticks.",
+      "speakLineZh": "請「鈴」出場：bell 一上場梗就黏住——鈴。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "door",
+      "inVocab": false,
+      "senseAnchor": "門",
+      "roleInScript": "門",
+      "humorDevice": "story",
+      "zhGloss": "門",
+      "speakLineEn": "Cue the 門: door walks on and the gag sticks.",
+      "speakLineZh": "請「門」出場：door 一上場梗就黏住——門。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "-sion：delusion/aspersion/repercussion/concession",
+    "repercussion＝反響／後果"
+  ],
+  "pitfalls": [
+    "delusion＝妄想；illusion＝錯覺——近義但層次不同"
+  ],
+  "lessonRefs": [
+    "lesson-rhyme-sion-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch03"
+  }
+}

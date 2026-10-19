@@ -1,0 +1,96 @@
+{
+  "id": "lesson-sem-include-exclude-01",
+  "slug": "sem-include-exclude-01",
+  "season": 3,
+  "seasonTitleZh": "語氣對打",
+  "seasonTitleEn": "Tone Duels",
+  "type": "duel",
+  "minutes": "12-15",
+  "clusterId": "sem-include-exclude-01",
+  "titleZh": "納入 ↔ 排除｜貴賓繩對拒馬",
+  "titleEn": "Include vs. Exclude",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "embrace／encompass 拉開貴賓繩請你進來，exclude／ostracize／shun 擺拒馬——門口保全問：名單上有你嗎？"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "納入隊：embrace／encompass／incorporate／comprise。排除隊：exclude／ostracize／shun／bar／banish。口令：貴賓繩寫「歡迎入內」，拒馬寫「請改走後門」。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "納：embrace/encompass/incorporate；排：exclude/ostracize/shun",
+        "ostracize＝放逐／排斥"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Shut out / leave out:",
+      "promptZh": "排除：",
+      "choices": [
+        "exclude",
+        "embrace",
+        "repository",
+        "neon"
+      ],
+      "answer": "exclude"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Cast out from a group:",
+      "promptZh": "放逐排斥：",
+      "choices": [
+        "ostracize",
+        "comprise",
+        "forecast",
+        "sole"
+      ],
+      "answer": "ostracize"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Surround / include fully:",
+      "promptZh": "涵蓋：",
+      "choices": [
+        "encompass",
+        "shun",
+        "omnibus",
+        "scanty"
+      ],
+      "answer": "encompass"
+    }
+  ],
+  "pitfalls": [
+    "comprise＝包含；小心被動誤用"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch03"
+  }
+}

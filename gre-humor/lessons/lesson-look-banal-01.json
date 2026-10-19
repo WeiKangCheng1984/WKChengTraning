@@ -1,0 +1,96 @@
+{
+  "id": "lesson-look-banal-01",
+  "slug": "look-banal-01",
+  "season": 3,
+  "seasonTitleZh": "語氣對打",
+  "seasonTitleEn": "Tone Duels",
+  "type": "duel",
+  "minutes": "12-15",
+  "clusterId": "look-banal-01",
+  "titleZh": "banal／bane／bale｜陳腐災禍櫃",
+  "titleEn": "Banal Bane Cabinet",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "banal 是陳腐台詞，bane 是禍根，bale 是災禍——道具櫃三格：無聊、禍根、災難。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "banal＝陳腐老套。bane＝禍因／禍根。bale＝災禍不幸。道具師：台詞無聊≠世界末日；bane of my existence 是禍根，不是 bale 整包棉花。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "banal＝陳腐；bane＝禍根；bale＝災禍",
+        "the bane of = …的禍根"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Trite / overused:",
+      "promptZh": "陳腐：",
+      "choices": [
+        "banal",
+        "bane",
+        "repository",
+        "neon"
+      ],
+      "answer": "banal"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "A cause of harm:",
+      "promptZh": "禍根：",
+      "choices": [
+        "bane",
+        "bale",
+        "forecast",
+        "sole"
+      ],
+      "answer": "bane"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Woe / misery:",
+      "promptZh": "災禍：",
+      "choices": [
+        "bale",
+        "banal",
+        "omnibus",
+        "scanty"
+      ],
+      "answer": "bale"
+    }
+  ],
+  "pitfalls": [
+    "bale 也可指大包貨物，語境先分"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch03"
+  }
+}

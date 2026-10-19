@@ -1,0 +1,350 @@
+{
+  "id": "sem-thrift-waste-01",
+  "type": "semantic",
+  "elementLemma": "thrift-vs-waste",
+  "titleZh": "節儉 ↔ 揮霍｜存錢筒對碎鈔機",
+  "titleEn": "Thrift vs. Waste",
+  "hook": "frugal／husband（勤儉）抱存錢筒，profligate／lavish 餵碎鈔機——會計在旁邊默默流淚。",
+  "script": "節儉隊：frugal／thrifty／provident／sparing／husband。揮霍隊：profligate／lavish／extravagant／spendthrift。口令：存錢筒寫「能省則省」，碎鈔機寫「今夜不回家」。",
+  "members": [
+    {
+      "headword": "frugal",
+      "inVocab": true,
+      "senseAnchor": "careful to buy only what is necessary",
+      "roleInScript": "存錢筒",
+      "humorDevice": "contrast",
+      "zhGloss": "節儉的",
+      "speakLineEn": "Cue the 存錢筒: frugal walks on and the gag sticks.",
+      "speakLineZh": "請「存錢筒」出場：frugal 一上場梗就黏住——節儉的。",
+      "related": {
+        "synonyms": "economical, provident, sparing, thrifty",
+        "antonyms": "extravagant, wasteful, improvident"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "thrifty",
+      "inVocab": true,
+      "senseAnchor": "節約的",
+      "roleInScript": "折扣標",
+      "humorDevice": "contrast",
+      "zhGloss": "節約的",
+      "speakLineEn": "Cue the 折扣標: thrifty walks on and the gag sticks.",
+      "speakLineZh": "請「折扣標」出場：thrifty 一上場梗就黏住——節約的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "sparing",
+      "inVocab": true,
+      "senseAnchor": "refrain from harming; save or relieve from an experience or action",
+      "roleInScript": "點滴控",
+      "humorDevice": "contrast",
+      "zhGloss": "吝惜使用的",
+      "speakLineEn": "Cue the 點滴控: sparing walks on and the gag sticks.",
+      "speakLineZh": "請「點滴控」出場：sparing 一上場梗就黏住——吝惜使用的。",
+      "related": {
+        "synonyms": "spare, save, spar",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "economical",
+      "inVocab": true,
+      "senseAnchor": "節省的",
+      "roleInScript": "小帳本",
+      "humorDevice": "contrast",
+      "zhGloss": "節省的",
+      "speakLineEn": "Cue the 小帳本: economical walks on and the gag sticks.",
+      "speakLineZh": "請「小帳本」出場：economical 一上場梗就黏住——節省的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "husband",
+      "inVocab": true,
+      "senseAnchor": "to use sparingly or economically",
+      "roleInScript": "勤儉勺",
+      "humorDevice": "contrast",
+      "zhGloss": "節約使用",
+      "speakLineEn": "Cue the 勤儉勺: husband walks on and the gag sticks.",
+      "speakLineZh": "請「勤儉勺」出場：husband 一上場梗就黏住——節約使用。",
+      "related": {
+        "synonyms": "budget, conserve, economize",
+        "antonyms": "waste, wife"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "profligate",
+      "inVocab": true,
+      "senseAnchor": "wasteful",
+      "roleInScript": "碎鈔機",
+      "humorDevice": "contrast",
+      "zhGloss": "揮霍的",
+      "speakLineEn": "Cue the 碎鈔機: profligate walks on and the gag sticks.",
+      "speakLineZh": "請「碎鈔機」出場：profligate 一上場梗就黏住——揮霍的。",
+      "related": {
+        "synonyms": "extravagant, spendthrift, prodigal",
+        "antonyms": "frugal, thrifty"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "lavish",
+      "inVocab": true,
+      "senseAnchor": "奢華的",
+      "roleInScript": "金色噴",
+      "humorDevice": "contrast",
+      "zhGloss": "奢華的",
+      "speakLineEn": "Cue the 金色噴: lavish walks on and the gag sticks.",
+      "speakLineZh": "請「金色噴」出場：lavish 一上場梗就黏住——奢華的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "spendthrift",
+      "inVocab": true,
+      "senseAnchor": "someone who spends money prodigally; recklessly wasteful",
+      "roleInScript": "漏錢包",
+      "humorDevice": "contrast",
+      "zhGloss": "敗家子",
+      "speakLineEn": "Cue the 漏錢包: spendthrift walks on and the gag sticks.",
+      "speakLineZh": "請「漏錢包」出場：spendthrift 一上場梗就黏住——敗家子。",
+      "related": {
+        "synonyms": "spend-all, spender, scattergood, extravagant, prodigal, profligate",
+        "antonyms": "frugal, thrifty"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "wasteful",
+      "inVocab": true,
+      "senseAnchor": "浪費的",
+      "roleInScript": "開水龍頭",
+      "humorDevice": "contrast",
+      "zhGloss": "浪費的",
+      "speakLineEn": "Cue the 開水龍頭: wasteful walks on and the gag sticks.",
+      "speakLineZh": "請「開水龍頭」出場：wasteful 一上場梗就黏住——浪費的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "improvident",
+      "inVocab": true,
+      "senseAnchor": "not provident; not providing for the future; not given careful consideration",
+      "roleInScript": "空冰箱",
+      "humorDevice": "contrast",
+      "zhGloss": "無遠見的",
+      "speakLineEn": "Cue the 空冰箱: improvident walks on and the gag sticks.",
+      "speakLineZh": "請「空冰箱」出場：improvident 一上場梗就黏住——無遠見的。",
+      "related": {
+        "synonyms": "ill-considered, ill-judged, shortsighted",
+        "antonyms": "provident"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "squander",
+      "inVocab": true,
+      "senseAnchor": "to spend wastefully or extravagantly",
+      "roleInScript": "灑金幣",
+      "humorDevice": "contrast",
+      "zhGloss": "揮霍",
+      "speakLineEn": "Cue the 灑金幣: squander walks on and the gag sticks.",
+      "speakLineZh": "請「灑金幣」出場：squander 一上場梗就黏住——揮霍。",
+      "related": {
+        "synonyms": "dissipate, lavish, profligate",
+        "antonyms": "conserve, accumulate, gather, sparing, meager"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "dissipate",
+      "inVocab": true,
+      "senseAnchor": "to cause to separate and go in different directions; move away from each other",
+      "roleInScript": "煙霧錢",
+      "humorDevice": "contrast",
+      "zhGloss": "耗散浪費",
+      "speakLineEn": "Cue the 煙霧錢: dissipate walks on and the gag sticks.",
+      "speakLineZh": "請「煙霧錢」出場：dissipate 一上場梗就黏住——耗散浪費。",
+      "related": {
+        "synonyms": "disperse, dispel, scatter, fritter, shoot, fool",
+        "antonyms": "accumulate, gather"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "piggybank",
+      "inVocab": false,
+      "senseAnchor": "存錢筒",
+      "roleInScript": "存錢筒",
+      "humorDevice": "story",
+      "zhGloss": "存錢筒",
+      "speakLineEn": "Cue the 存錢筒: piggybank walks on and the gag sticks.",
+      "speakLineZh": "請「存錢筒」出場：piggybank 一上場梗就黏住——存錢筒。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "shredder",
+      "inVocab": false,
+      "senseAnchor": "碎紙機",
+      "roleInScript": "碎紙機",
+      "humorDevice": "story",
+      "zhGloss": "碎紙機",
+      "speakLineEn": "Cue the 碎紙機: shredder walks on and the gag sticks.",
+      "speakLineZh": "請「碎紙機」出場：shredder 一上場梗就黏住——碎紙機。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "ledger",
+      "inVocab": false,
+      "senseAnchor": "帳本",
+      "roleInScript": "帳本",
+      "humorDevice": "story",
+      "zhGloss": "帳本",
+      "speakLineEn": "Cue the 帳本: ledger walks on and the gag sticks.",
+      "speakLineZh": "請「帳本」出場：ledger 一上場梗就黏住——帳本。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "coupon",
+      "inVocab": false,
+      "senseAnchor": "折扣券",
+      "roleInScript": "折扣券",
+      "humorDevice": "story",
+      "zhGloss": "折扣券",
+      "speakLineEn": "Cue the 折扣券: coupon walks on and the gag sticks.",
+      "speakLineZh": "請「折扣券」出場：coupon 一上場梗就黏住——折扣券。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "goldcoin",
+      "inVocab": false,
+      "senseAnchor": "金幣",
+      "roleInScript": "金幣",
+      "humorDevice": "story",
+      "zhGloss": "金幣",
+      "speakLineEn": "Cue the 金幣: goldcoin walks on and the gag sticks.",
+      "speakLineZh": "請「金幣」出場：goldcoin 一上場梗就黏住——金幣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "budget",
+      "inVocab": true,
+      "senseAnchor": "a sum of money allocated for a particular purpose; a summary of intended expenditures along with proposals for how to meet them",
+      "roleInScript": "預算",
+      "humorDevice": "story",
+      "zhGloss": "預算",
+      "speakLineEn": "Cue the 預算: budget walks on and the gag sticks.",
+      "speakLineZh": "請「預算」出場：budget 一上場梗就黏住——預算。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "splurge",
+      "inVocab": false,
+      "senseAnchor": "揮霍夜",
+      "roleInScript": "揮霍夜",
+      "humorDevice": "story",
+      "zhGloss": "揮霍夜",
+      "speakLineEn": "Cue the 揮霍夜: splurge walks on and the gag sticks.",
+      "speakLineZh": "請「揮霍夜」出場：splurge 一上場梗就黏住——揮霍夜。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "savings",
+      "inVocab": false,
+      "senseAnchor": "存款",
+      "roleInScript": "存款",
+      "humorDevice": "story",
+      "zhGloss": "存款",
+      "speakLineEn": "Cue the 存款: savings walks on and the gag sticks.",
+      "speakLineZh": "請「存款」出場：savings 一上場梗就黏住——存款。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "voidcheck",
+      "inVocab": false,
+      "senseAnchor": "廢支票",
+      "roleInScript": "廢支票",
+      "humorDevice": "story",
+      "zhGloss": "廢支票",
+      "speakLineEn": "Cue the 廢支票: voidcheck walks on and the gag sticks.",
+      "speakLineZh": "請「廢支票」出場：voidcheck 一上場梗就黏住——廢支票。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "省：frugal/thrifty/provident；花：profligate/lavish/spendthrift",
+    "husband 作動詞＝節約使用"
+  ],
+  "pitfalls": [
+    "frugal＝節儉；fragile＝易碎"
+  ],
+  "lessonRefs": [
+    "lesson-sem-thrift-waste-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch03"
+  }
+}

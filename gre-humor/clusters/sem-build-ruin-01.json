@@ -1,0 +1,197 @@
+{
+  "id": "sem-build-ruin-01",
+  "type": "semantic",
+  "elementLemma": "build-vs-ruin",
+  "titleZh": "建造 ↔ 毀壞｜鷹架對拆遷球",
+  "titleEn": "Build vs. Ruin",
+  "hook": "construct／erect 搭鷹架，demolish／raze／ruin 推拆遷球——工地廣播：今天蓋還是今天拆？請先看日曆。",
+  "script": "建造隊：construct／erect／fabricate／forge。毀壞隊：demolish／raze／ruin／wreck／devastate。口令：鷹架寫藍圖，拆遷球寫「此地無樓」。",
+  "members": [
+    {
+      "headword": "fabricate",
+      "inVocab": true,
+      "senseAnchor": "製造／捏造",
+      "roleInScript": "工廠章",
+      "humorDevice": "contrast",
+      "zhGloss": "製造／捏造",
+      "speakLineEn": "Cue the 工廠章: fabricate walks on and the gag sticks.",
+      "speakLineZh": "請「工廠章」出場：fabricate 一上場梗就黏住——製造／捏造。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "forge",
+      "inVocab": true,
+      "senseAnchor": "鍛造",
+      "roleInScript": "鐵砧",
+      "humorDevice": "contrast",
+      "zhGloss": "鍛造",
+      "speakLineEn": "Cue the 鐵砧: forge walks on and the gag sticks.",
+      "speakLineZh": "請「鐵砧」出場：forge 一上場梗就黏住——鍛造。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "assemble",
+      "inVocab": true,
+      "senseAnchor": "組裝",
+      "roleInScript": "零件盒",
+      "humorDevice": "contrast",
+      "zhGloss": "組裝",
+      "speakLineEn": "Cue the 零件盒: assemble walks on and the gag sticks.",
+      "speakLineZh": "請「零件盒」出場：assemble 一上場梗就黏住——組裝。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "raze",
+      "inVocab": true,
+      "senseAnchor": "tear down so as to make flat with the ground",
+      "roleInScript": "推土機",
+      "humorDevice": "contrast",
+      "zhGloss": "夷平",
+      "speakLineEn": "Cue the 推土機: raze walks on and the gag sticks.",
+      "speakLineZh": "請「推土機」出場：raze 一上場梗就黏住——夷平。",
+      "related": {
+        "synonyms": "level, rase, dismantle",
+        "antonyms": "raise"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "ruin",
+      "inVocab": true,
+      "senseAnchor": "毀滅",
+      "roleInScript": "廢墟標",
+      "humorDevice": "contrast",
+      "zhGloss": "毀滅",
+      "speakLineEn": "Cue the 廢墟標: ruin walks on and the gag sticks.",
+      "speakLineZh": "請「廢墟標」出場：ruin 一上場梗就黏住——毀滅。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "devastate",
+      "inVocab": true,
+      "senseAnchor": "摧毀",
+      "roleInScript": "災後圖",
+      "humorDevice": "contrast",
+      "zhGloss": "摧毀",
+      "speakLineEn": "Cue the 災後圖: devastate walks on and the gag sticks.",
+      "speakLineZh": "請「災後圖」出場：devastate 一上場梗就黏住——摧毀。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "scaffold",
+      "inVocab": false,
+      "senseAnchor": "鷹架",
+      "roleInScript": "鷹架",
+      "humorDevice": "story",
+      "zhGloss": "鷹架",
+      "speakLineEn": "Cue the 鷹架: scaffold walks on and the gag sticks.",
+      "speakLineZh": "請「鷹架」出場：scaffold 一上場梗就黏住——鷹架。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "crane",
+      "inVocab": false,
+      "senseAnchor": "吊車",
+      "roleInScript": "吊車",
+      "humorDevice": "story",
+      "zhGloss": "吊車",
+      "speakLineEn": "Cue the 吊車: crane walks on and the gag sticks.",
+      "speakLineZh": "請「吊車」出場：crane 一上場梗就黏住——吊車。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "helmet",
+      "inVocab": false,
+      "senseAnchor": "安全帽",
+      "roleInScript": "安全帽",
+      "humorDevice": "story",
+      "zhGloss": "安全帽",
+      "speakLineEn": "Cue the 安全帽: helmet walks on and the gag sticks.",
+      "speakLineZh": "請「安全帽」出場：helmet 一上場梗就黏住——安全帽。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "calendar",
+      "inVocab": false,
+      "senseAnchor": "日曆",
+      "roleInScript": "日曆",
+      "humorDevice": "story",
+      "zhGloss": "日曆",
+      "speakLineEn": "Cue the 日曆: calendar walks on and the gag sticks.",
+      "speakLineZh": "請「日曆」出場：calendar 一上場梗就黏住——日曆。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "hardhat",
+      "inVocab": false,
+      "senseAnchor": "工地帽",
+      "roleInScript": "工地帽",
+      "humorDevice": "story",
+      "zhGloss": "工地帽",
+      "speakLineEn": "Cue the 工地帽: hardhat walks on and the gag sticks.",
+      "speakLineZh": "請「工地帽」出場：hardhat 一上場梗就黏住——工地帽。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "建：construct/erect/fabricate；毀：demolish/raze/devastate",
+    "raze＝夷為平地"
+  ],
+  "pitfalls": [
+    "fabricate 可=製造／也可=捏造，看語境"
+  ],
+  "lessonRefs": [
+    "lesson-sem-build-ruin-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch03"
+  }
+}

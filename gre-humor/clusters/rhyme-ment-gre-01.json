@@ -1,0 +1,223 @@
+{
+  "id": "rhyme-ment-gre-01",
+  "type": "rhyme",
+  "elementLemma": "-ment",
+  "titleZh": "-ment｜狀態櫃台",
+  "titleEn": "Ment Status Desk",
+  "hook": "字尾 -ment：predicament 困境、emolument 報酬、retrenchment 緊縮——櫃台叫號：先領狀態再領薪水。",
+  "script": "predicament 困境。emolument 薪給。retrenchment 緊縮。commencement 開始。discernment 洞察。clement／inclement 天氣旁門。",
+  "members": [
+    {
+      "headword": "predicament",
+      "inVocab": true,
+      "senseAnchor": "a difficult situation",
+      "roleInScript": "叫號單",
+      "humorDevice": "morphology",
+      "zhGloss": "困境",
+      "speakLineEn": "Cue the 叫號單: predicament walks on and the gag sticks.",
+      "speakLineZh": "請「叫號單」出場：predicament 一上場梗就黏住——困境。",
+      "related": {
+        "synonyms": "dilemma, plight, quandary, starit",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "emolument",
+      "inVocab": true,
+      "senseAnchor": "compensation received by virtue of holding an office or having employment (usually in the form of wages or fees)",
+      "roleInScript": "薪水袋",
+      "humorDevice": "morphology",
+      "zhGloss": "報酬",
+      "speakLineEn": "Cue the 薪水袋: emolument walks on and the gag sticks.",
+      "speakLineZh": "請「薪水袋」出場：emolument 一上場梗就黏住——報酬。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "retrenchment",
+      "inVocab": true,
+      "senseAnchor": "entrenchment consisting of an additional interior fortification to prolong the defense; the reduction of expenditures in order to become financially stable",
+      "roleInScript": "剪刀標",
+      "humorDevice": "morphology",
+      "zhGloss": "緊縮裁減",
+      "speakLineEn": "Cue the 剪刀標: retrenchment walks on and the gag sticks.",
+      "speakLineZh": "請「剪刀標」出場：retrenchment 一上場梗就黏住——緊縮裁減。",
+      "related": {
+        "synonyms": "curtailment, downsizing",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "discernment",
+      "inVocab": true,
+      "senseAnchor": "the cognitive condition of someone who understands; delicate discrimination (especially of aesthetic values)",
+      "roleInScript": "眼鏡櫃",
+      "humorDevice": "morphology",
+      "zhGloss": "洞察力",
+      "speakLineEn": "Cue the 眼鏡櫃: discernment walks on and the gag sticks.",
+      "speakLineZh": "請「眼鏡櫃」出場：discernment 一上場梗就黏住——洞察力。",
+      "related": {
+        "synonyms": "understanding, apprehension, savvy, taste, appreciation, perceptiveness",
+        "antonyms": "depreciation, unperceptiveness"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "commencement",
+      "inVocab": true,
+      "senseAnchor": "a beginning",
+      "roleInScript": "起跑槍",
+      "humorDevice": "morphology",
+      "zhGloss": "開始",
+      "speakLineEn": "Cue the 起跑槍: commencement walks on and the gag sticks.",
+      "speakLineZh": "請「起跑槍」出場：commencement 一上場梗就黏住——開始。",
+      "related": {
+        "synonyms": "onset, genesis, inception",
+        "antonyms": "end, finish, middle"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "clement",
+      "inVocab": true,
+      "senseAnchor": "(of weather or climate) physically mild; (used of persons or behavior) inclined to show mercy",
+      "roleInScript": "溫柔風",
+      "humorDevice": "morphology",
+      "zhGloss": "溫和的",
+      "speakLineEn": "Cue the 溫柔風: clement walks on and the gag sticks.",
+      "speakLineZh": "請「溫柔風」出場：clement 一上場梗就黏住——溫和的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": "inclement"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "inclement",
+      "inVocab": true,
+      "senseAnchor": "lacking mildness",
+      "roleInScript": "雨傘架",
+      "humorDevice": "morphology",
+      "zhGloss": "惡劣的",
+      "speakLineEn": "Cue the 雨傘架: inclement walks on and the gag sticks.",
+      "speakLineZh": "請「雨傘架」出場：inclement 一上場梗就黏住——惡劣的。",
+      "related": {
+        "synonyms": "harsh, severe, tempestuous",
+        "antonyms": "clement, fine"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "figment",
+      "inVocab": true,
+      "senseAnchor": "a contrived or fantastic idea",
+      "roleInScript": "想像泡",
+      "humorDevice": "morphology",
+      "zhGloss": "虛構",
+      "speakLineEn": "Cue the 想像泡: figment walks on and the gag sticks.",
+      "speakLineZh": "請「想像泡」出場：figment 一上場梗就黏住——虛構。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "procurement",
+      "inVocab": true,
+      "senseAnchor": "the act of getting possession of something",
+      "roleInScript": "採購單",
+      "humorDevice": "morphology",
+      "zhGloss": "採購取得",
+      "speakLineEn": "Cue the 採購單: procurement walks on and the gag sticks.",
+      "speakLineZh": "請「採購單」出場：procurement 一上場梗就黏住——採購取得。",
+      "related": {
+        "synonyms": "procurance, procural",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "rapprochement",
+      "inVocab": true,
+      "senseAnchor": "establishment of or state of having cordial relations",
+      "roleInScript": "握手台",
+      "humorDevice": "morphology",
+      "zhGloss": "和解修好",
+      "speakLineEn": "Cue the 握手台: rapprochement walks on and the gag sticks.",
+      "speakLineZh": "請「握手台」出場：rapprochement 一上場梗就黏住——和解修好。",
+      "related": {
+        "synonyms": "rapport",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "muniment",
+      "inVocab": true,
+      "senseAnchor": "a GRE-level vocabulary item meaning closely related to its core sense in academic English",
+      "roleInScript": "證件夾",
+      "humorDevice": "morphology",
+      "zhGloss": "權利證件",
+      "speakLineEn": "Cue the 證件夾: muniment walks on and the gag sticks.",
+      "speakLineZh": "請「證件夾」出場：muniment 一上場梗就黏住——權利證件。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "ointment",
+      "inVocab": true,
+      "senseAnchor": "semisolid preparation (usually containing a medicine) applied externally as a remedy or for soothing an irritation; toiletry consisting of any of various substances in the form of a thick liquid that have a soothing and moisturizing effect when applied to the skin",
+      "roleInScript": "藥膏",
+      "humorDevice": "morphology",
+      "zhGloss": "軟膏",
+      "speakLineEn": "Cue the 藥膏: ointment walks on and the gag sticks.",
+      "speakLineZh": "請「藥膏」出場：ointment 一上場梗就黏住——軟膏。",
+      "related": {
+        "synonyms": "unction, unguent, balm, salve, cream, emollient",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "salary",
+      "inVocab": false,
+      "senseAnchor": "薪水",
+      "roleInScript": "薪水",
+      "humorDevice": "story",
+      "zhGloss": "薪水",
+      "speakLineEn": "Cue the 薪水: salary walks on and the gag sticks.",
+      "speakLineZh": "請「薪水」出場：salary 一上場梗就黏住——薪水。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "-ment：predicament/emolument/retrenchment/discernment",
+    "emolument＝報酬薪給"
+  ],
+  "pitfalls": [
+    "clement＝溫和；inclement＝惡劣（天氣）"
+  ],
+  "lessonRefs": [
+    "lesson-rhyme-ment-gre-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch03"
+  }
+}

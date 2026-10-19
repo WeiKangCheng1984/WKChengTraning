@@ -1,0 +1,336 @@
+{
+  "id": "sem-old-newfangled-01",
+  "type": "semantic",
+  "elementLemma": "old-vs-new",
+  "titleZh": "陳舊 ↔ 新潮｜古董櫃對快閃店",
+  "titleEn": "Old vs. Newfangled",
+  "hook": "antiquated／hoary 坐古董櫃，modish／novel 開快閃店——導遊麥克風：「左邊是昨天，右邊是剛上架」。",
+  "script": "陳舊隊：antiquated／hoary／archaic／obsolete／dated。新潮隊：modish／stylish／novel／trendy／fresh。口令：古董櫃寫「還能用嗎」，快閃店寫「限時三小時」。",
+  "members": [
+    {
+      "headword": "antiquated",
+      "inVocab": true,
+      "senseAnchor": "being out of style or fashion",
+      "roleInScript": "古董櫃",
+      "humorDevice": "contrast",
+      "zhGloss": "過時的",
+      "speakLineEn": "Cue the 古董櫃: antiquated walks on and the gag sticks.",
+      "speakLineZh": "請「古董櫃」出場：antiquated 一上場梗就黏住——過時的。",
+      "related": {
+        "synonyms": "archaic, obsolete, outdated, outmoded",
+        "antonyms": "current, modern"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "hoary",
+      "inVocab": true,
+      "senseAnchor": "extremely old",
+      "roleInScript": "白眉毛",
+      "humorDevice": "contrast",
+      "zhGloss": "極老的",
+      "speakLineEn": "Cue the 白眉毛: hoary walks on and the gag sticks.",
+      "speakLineZh": "請「白眉毛」出場：hoary 一上場梗就黏住——極老的。",
+      "related": {
+        "synonyms": "antique, antediluvian, archaic",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "archaic",
+      "inVocab": true,
+      "senseAnchor": "古老的",
+      "roleInScript": "古籍味",
+      "humorDevice": "contrast",
+      "zhGloss": "古老的",
+      "speakLineEn": "Cue the 古籍味: archaic walks on and the gag sticks.",
+      "speakLineZh": "請「古籍味」出場：archaic 一上場梗就黏住——古老的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "obsolete",
+      "inVocab": true,
+      "senseAnchor": "淘汰的",
+      "roleInScript": "停產標",
+      "humorDevice": "contrast",
+      "zhGloss": "淘汰的",
+      "speakLineEn": "Cue the 停產標: obsolete walks on and the gag sticks.",
+      "speakLineZh": "請「停產標」出場：obsolete 一上場梗就黏住——淘汰的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "dated",
+      "inVocab": true,
+      "senseAnchor": "過時的",
+      "roleInScript": "黃曆頁",
+      "humorDevice": "contrast",
+      "zhGloss": "過時的",
+      "speakLineEn": "Cue the 黃曆頁: dated walks on and the gag sticks.",
+      "speakLineZh": "請「黃曆頁」出場：dated 一上場梗就黏住——過時的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "musty",
+      "inVocab": true,
+      "senseAnchor": "霉舊的",
+      "roleInScript": "樟腦丸",
+      "humorDevice": "contrast",
+      "zhGloss": "霉舊的",
+      "speakLineEn": "Cue the 樟腦丸: musty walks on and the gag sticks.",
+      "speakLineZh": "請「樟腦丸」出場：musty 一上場梗就黏住——霉舊的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "modish",
+      "inVocab": true,
+      "senseAnchor": "in the current fashion or style",
+      "roleInScript": "快閃店",
+      "humorDevice": "contrast",
+      "zhGloss": "時髦的",
+      "speakLineEn": "Cue the 快閃店: modish walks on and the gag sticks.",
+      "speakLineZh": "請「快閃店」出場：modish 一上場梗就黏住——時髦的。",
+      "related": {
+        "synonyms": "latest",
+        "antonyms": "early, middle"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "trendy",
+      "inVocab": true,
+      "senseAnchor": "流行的",
+      "roleInScript": "話題標",
+      "humorDevice": "contrast",
+      "zhGloss": "流行的",
+      "speakLineEn": "Cue the 話題標: trendy walks on and the gag sticks.",
+      "speakLineZh": "請「話題標」出場：trendy 一上場梗就黏住——流行的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "stylish",
+      "inVocab": true,
+      "senseAnchor": "有風格的",
+      "roleInScript": "型男鏡",
+      "humorDevice": "contrast",
+      "zhGloss": "有風格的",
+      "speakLineEn": "Cue the 型男鏡: stylish walks on and the gag sticks.",
+      "speakLineZh": "請「型男鏡」出場：stylish 一上場梗就黏住——有風格的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "fresh",
+      "inVocab": true,
+      "senseAnchor": "新鮮的",
+      "roleInScript": "剛拆箱",
+      "humorDevice": "contrast",
+      "zhGloss": "新鮮的",
+      "speakLineEn": "Cue the 剛拆箱: fresh walks on and the gag sticks.",
+      "speakLineZh": "請「剛拆箱」出場：fresh 一上場梗就黏住——新鮮的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "cuttingedge",
+      "inVocab": true,
+      "senseAnchor": "尖端的",
+      "roleInScript": "刀刃新",
+      "humorDevice": "contrast",
+      "zhGloss": "尖端的",
+      "speakLineEn": "Cue the 刀刃新: cuttingedge walks on and the gag sticks.",
+      "speakLineZh": "請「刀刃新」出場：cuttingedge 一上場梗就黏住——尖端的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "up-to-date",
+      "inVocab": false,
+      "senseAnchor": "最新的",
+      "roleInScript": "更新檔",
+      "humorDevice": "contrast",
+      "zhGloss": "最新的",
+      "speakLineEn": "Cue the 更新檔: up-to-date walks on and the gag sticks.",
+      "speakLineZh": "請「更新檔」出場：up-to-date 一上場梗就黏住——最新的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "popup",
+      "inVocab": false,
+      "senseAnchor": "快閃",
+      "roleInScript": "快閃",
+      "humorDevice": "story",
+      "zhGloss": "快閃",
+      "speakLineEn": "Cue the 快閃: popup walks on and the gag sticks.",
+      "speakLineZh": "請「快閃」出場：popup 一上場梗就黏住——快閃。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "tourguide",
+      "inVocab": false,
+      "senseAnchor": "導遊",
+      "roleInScript": "導遊",
+      "humorDevice": "story",
+      "zhGloss": "導遊",
+      "speakLineEn": "Cue the 導遊: tourguide walks on and the gag sticks.",
+      "speakLineZh": "請「導遊」出場：tourguide 一上場梗就黏住——導遊。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "price-tag",
+      "inVocab": false,
+      "senseAnchor": "價籤",
+      "roleInScript": "價籤",
+      "humorDevice": "story",
+      "zhGloss": "價籤",
+      "speakLineEn": "Cue the 價籤: price-tag walks on and the gag sticks.",
+      "speakLineZh": "請「價籤」出場：price-tag 一上場梗就黏住——價籤。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "mothball",
+      "inVocab": false,
+      "senseAnchor": "樟腦丸",
+      "roleInScript": "樟腦丸",
+      "humorDevice": "story",
+      "zhGloss": "樟腦丸",
+      "speakLineEn": "Cue the 樟腦丸: mothball walks on and the gag sticks.",
+      "speakLineZh": "請「樟腦丸」出場：mothball 一上場梗就黏住——樟腦丸。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "unbox",
+      "inVocab": false,
+      "senseAnchor": "開箱",
+      "roleInScript": "開箱",
+      "humorDevice": "story",
+      "zhGloss": "開箱",
+      "speakLineEn": "Cue the 開箱: unbox walks on and the gag sticks.",
+      "speakLineZh": "請「開箱」出場：unbox 一上場梗就黏住——開箱。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "vintage",
+      "inVocab": false,
+      "senseAnchor": "復古",
+      "roleInScript": "復古",
+      "humorDevice": "story",
+      "zhGloss": "復古",
+      "speakLineEn": "Cue the 復古: vintage walks on and the gag sticks.",
+      "speakLineZh": "請「復古」出場：vintage 一上場梗就黏住——復古。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "hashtag",
+      "inVocab": false,
+      "senseAnchor": "標籤",
+      "roleInScript": "標籤",
+      "humorDevice": "story",
+      "zhGloss": "標籤",
+      "speakLineEn": "Cue the 標籤: hashtag walks on and the gag sticks.",
+      "speakLineZh": "請「標籤」出場：hashtag 一上場梗就黏住——標籤。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "dust",
+      "inVocab": false,
+      "senseAnchor": "灰塵",
+      "roleInScript": "灰塵",
+      "humorDevice": "story",
+      "zhGloss": "灰塵",
+      "speakLineEn": "Cue the 灰塵: dust walks on and the gag sticks.",
+      "speakLineZh": "請「灰塵」出場：dust 一上場梗就黏住——灰塵。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "舊：antiquated/hoary/obsolete；新：modish/novel/trendy",
+    "hoary＝蒼老／陳腐"
+  ],
+  "pitfalls": [
+    "novel 作形容詞＝新奇；作名詞＝小說"
+  ],
+  "lessonRefs": [
+    "lesson-sem-old-newfangled-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch03"
+  }
+}

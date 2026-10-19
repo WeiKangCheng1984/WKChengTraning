@@ -1,0 +1,152 @@
+{
+  "id": "look-beget-01",
+  "type": "lookalike",
+  "elementLemma": "beget-beset",
+  "titleZh": "beget／beset｜因果門禁",
+  "titleEn": "Beget Gate",
+  "hook": "beget 是生出／引發，beset 是圍困——門禁兩行字：左邊「由此產生」，右邊「被包圍請改道」。",
+  "script": "beget＝產生／導致。beset＝困擾／圍攻。保全：結果從左邊出門，麻煩從右邊堵門；別把「生出問題」寫成「被問題圍住」卻用錯動詞。",
+  "members": [
+    {
+      "headword": "beget",
+      "inVocab": true,
+      "senseAnchor": "to make something happen",
+      "roleInScript": "因果門",
+      "humorDevice": "lookalike",
+      "zhGloss": "引發產生",
+      "speakLineEn": "Cue the 因果門: beget walks on and the gag sticks.",
+      "speakLineZh": "請「因果門」出場：beget 一上場梗就黏住——引發產生。",
+      "related": {
+        "synonyms": "engender, generate, yield, bring about",
+        "antonyms": "destroy, extinguish, stand, survive, take away"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "beset",
+      "inVocab": true,
+      "senseAnchor": "annoy continually or chronically; assail or attack on all sides:",
+      "roleInScript": "包圍錐",
+      "humorDevice": "lookalike",
+      "zhGloss": "圍困困擾",
+      "speakLineEn": "Cue the 包圍錐: beset walks on and the gag sticks.",
+      "speakLineZh": "請「包圍錐」出場：beset 一上場梗就黏住——圍困困擾。",
+      "related": {
+        "synonyms": "harass, hassle, harry, chivy, chivvy, chevy",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "cause",
+      "inVocab": false,
+      "senseAnchor": "原因",
+      "roleInScript": "原因",
+      "humorDevice": "story",
+      "zhGloss": "原因",
+      "speakLineEn": "Cue the 原因: cause walks on and the gag sticks.",
+      "speakLineZh": "請「原因」出場：cause 一上場梗就黏住——原因。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "arrow",
+      "inVocab": false,
+      "senseAnchor": "箭頭",
+      "roleInScript": "箭頭",
+      "humorDevice": "story",
+      "zhGloss": "箭頭",
+      "speakLineEn": "Cue the 箭頭: arrow walks on and the gag sticks.",
+      "speakLineZh": "請「箭頭」出場：arrow 一上場梗就黏住——箭頭。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "problem",
+      "inVocab": false,
+      "senseAnchor": "問題",
+      "roleInScript": "問題",
+      "humorDevice": "story",
+      "zhGloss": "問題",
+      "speakLineEn": "Cue the 問題: problem walks on and the gag sticks.",
+      "speakLineZh": "請「問題」出場：problem 一上場梗就黏住——問題。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "blockade",
+      "inVocab": true,
+      "senseAnchor": "a war measure that isolates some area of importance to the enemy; prevents access or progress",
+      "roleInScript": "封鎖",
+      "humorDevice": "story",
+      "zhGloss": "封鎖",
+      "speakLineEn": "Cue the 封鎖: blockade walks on and the gag sticks.",
+      "speakLineZh": "請「封鎖」出場：blockade 一上場梗就黏住——封鎖。",
+      "related": {
+        "synonyms": "encirclement, obstruct, block, hinder, stymie, stymy",
+        "antonyms": "free, remember, unblock, unfreeze, unstuff, assist, facilitate"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "net",
+      "inVocab": false,
+      "senseAnchor": "網",
+      "roleInScript": "網",
+      "humorDevice": "story",
+      "zhGloss": "網",
+      "speakLineEn": "Cue the 網: net walks on and the gag sticks.",
+      "speakLineZh": "請「網」出場：net 一上場梗就黏住——網。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "chain",
+      "inVocab": false,
+      "senseAnchor": "鏈",
+      "roleInScript": "鏈",
+      "humorDevice": "story",
+      "zhGloss": "鏈",
+      "speakLineEn": "Cue the 鏈: chain walks on and the gag sticks.",
+      "speakLineZh": "請「鏈」出場：chain 一上場梗就黏住——鏈。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "beget＝引發；beset＝圍困",
+    "形近：差一個 s"
+  ],
+  "pitfalls": [
+    "beget 看因果；beset 看包圍"
+  ],
+  "lessonRefs": [
+    "lesson-look-beget-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch03"
+  }
+}

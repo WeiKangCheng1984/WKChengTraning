@@ -1,0 +1,319 @@
+{
+  "id": "sem-keen-dull-01",
+  "type": "semantic",
+  "elementLemma": "keen-vs-dull",
+  "titleZh": "敏銳 ↔ 愚鈍｜手術刀對橡皮槌",
+  "titleEn": "Keen vs. Dull",
+  "hook": "acumen／adroit 是手術刀，asinine／crass／obtuse 是橡皮槌——同一題，切開或敲平。",
+  "script": "敏銳隊：acumen／acuity／adroit／astute／perspicacious。愚鈍隊：asinine／crass／obtuse／dense。口令：刀寫洞察，槌寫「我聽不懂但很大聲」。",
+  "members": [
+    {
+      "headword": "acumen",
+      "inVocab": true,
+      "senseAnchor": "the ability to make good judgements and quick decisions",
+      "roleInScript": "手術刀",
+      "humorDevice": "contrast",
+      "zhGloss": "洞察力",
+      "speakLineEn": "Cue the 手術刀: acumen walks on and the gag sticks.",
+      "speakLineZh": "請「手術刀」出場：acumen 一上場梗就黏住——洞察力。",
+      "related": {
+        "synonyms": "shrewdness",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "acuity",
+      "inVocab": true,
+      "senseAnchor": "sharpness of vision; the visual ability to resolve fine detail (usually measured by a Snellen chart); a quick and penetrating intelligence",
+      "roleInScript": "對焦環",
+      "humorDevice": "contrast",
+      "zhGloss": "敏銳",
+      "speakLineEn": "Cue the 對焦環: acuity walks on and the gag sticks.",
+      "speakLineZh": "請「對焦環」出場：acuity 一上場梗就黏住——敏銳。",
+      "related": {
+        "synonyms": "sharp-sightedness, acuteness, sharpness, keenness",
+        "antonyms": "obtuseness, dullness, indistinctness, softness"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "adroit",
+      "inVocab": true,
+      "senseAnchor": "quick or skillful or adept in action or thought",
+      "roleInScript": "巧手",
+      "humorDevice": "contrast",
+      "zhGloss": "靈巧敏捷的",
+      "speakLineEn": "Cue the 巧手: adroit walks on and the gag sticks.",
+      "speakLineZh": "請「巧手」出場：adroit 一上場梗就黏住——靈巧敏捷的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": "maladroit"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "astute",
+      "inVocab": true,
+      "senseAnchor": "notice and understand clearly",
+      "roleInScript": "鷹眼",
+      "humorDevice": "contrast",
+      "zhGloss": "精明的",
+      "speakLineEn": "Cue the 鷹眼: astute walks on and the gag sticks.",
+      "speakLineZh": "請「鷹眼」出場：astute 一上場梗就黏住——精明的。",
+      "related": {
+        "synonyms": "shrewd, canny, savvy",
+        "antonyms": "naive, obtuse"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "shrewd",
+      "inVocab": true,
+      "senseAnchor": "marked by practical hardheaded intelligence; used of persons",
+      "roleInScript": "算盤精",
+      "humorDevice": "contrast",
+      "zhGloss": "精明的",
+      "speakLineEn": "Cue the 算盤精: shrewd walks on and the gag sticks.",
+      "speakLineZh": "請「算盤精」出場：shrewd 一上場梗就黏住——精明的。",
+      "related": {
+        "synonyms": "astute, sharp, calculating, calculative, conniving, scheming",
+        "antonyms": "naive, obtuse, dull, flat, natural"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "asinine",
+      "inVocab": true,
+      "senseAnchor": "devoid of intelligence",
+      "roleInScript": "驢口罩",
+      "humorDevice": "contrast",
+      "zhGloss": "愚蠢的",
+      "speakLineEn": "Cue the 驢口罩: asinine walks on and the gag sticks.",
+      "speakLineZh": "請「驢口罩」出場：asinine 一上場梗就黏住——愚蠢的。",
+      "related": {
+        "synonyms": "fatuous, inane, mindless, vacuous",
+        "antonyms": "meaningful, sensible, mindful"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "crass",
+      "inVocab": true,
+      "senseAnchor": "so crude and unrefined as to be lacking in discrimination and sensibility",
+      "roleInScript": "橡皮槌",
+      "humorDevice": "contrast",
+      "zhGloss": "粗俗愚鈍的",
+      "speakLineEn": "Cue the 橡皮槌: crass walks on and the gag sticks.",
+      "speakLineZh": "請「橡皮槌」出場：crass 一上場梗就黏住——粗俗愚鈍的。",
+      "related": {
+        "synonyms": "vulgar, coarse, crude",
+        "antonyms": "fine, refined"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "obtuse",
+      "inVocab": true,
+      "senseAnchor": "slow to understand things",
+      "roleInScript": "鈍角帽",
+      "humorDevice": "contrast",
+      "zhGloss": "遲鈍的",
+      "speakLineEn": "Cue the 鈍角帽: obtuse walks on and the gag sticks.",
+      "speakLineZh": "請「鈍角帽」出場：obtuse 一上場梗就黏住——遲鈍的。",
+      "related": {
+        "synonyms": "fatuous, vacuous",
+        "antonyms": "acute"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "dense",
+      "inVocab": true,
+      "senseAnchor": "difficult to understand",
+      "roleInScript": "水泥腦",
+      "humorDevice": "contrast",
+      "zhGloss": "愚鈍的",
+      "speakLineEn": "Cue the 水泥腦: dense walks on and the gag sticks.",
+      "speakLineZh": "請「水泥腦」出場：dense 一上場梗就黏住——愚鈍的。",
+      "related": {
+        "synonyms": "abstruse, elusive, esoteric, inaccessible, arcane",
+        "antonyms": "obvious, accessible, commonplace, exoteric"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "dull",
+      "inVocab": true,
+      "senseAnchor": "遲鈍的",
+      "roleInScript": "鈍刀",
+      "humorDevice": "contrast",
+      "zhGloss": "遲鈍的",
+      "speakLineEn": "Cue the 鈍刀: dull walks on and the gag sticks.",
+      "speakLineZh": "請「鈍刀」出場：dull 一上場梗就黏住——遲鈍的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "fatuous",
+      "inVocab": true,
+      "senseAnchor": "devoid of intelligence",
+      "roleInScript": "傻笑瓶",
+      "humorDevice": "contrast",
+      "zhGloss": "愚昧的",
+      "speakLineEn": "Cue the 傻笑瓶: fatuous walks on and the gag sticks.",
+      "speakLineZh": "請「傻笑瓶」出場：fatuous 一上場梗就黏住——愚昧的。",
+      "related": {
+        "synonyms": "asinine, inane, mindless, vacuous",
+        "antonyms": "meaningful, sensible, mindful"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "inept",
+      "inVocab": true,
+      "senseAnchor": "not elegant or graceful in expression; generally incompetent and ineffectual",
+      "roleInScript": "反手控",
+      "humorDevice": "contrast",
+      "zhGloss": "笨拙的",
+      "speakLineEn": "Cue the 反手控: inept walks on and the gag sticks.",
+      "speakLineZh": "請「反手控」出場：inept 一上場梗就黏住——笨拙的。",
+      "related": {
+        "synonyms": "awkward, clumsy, cumbersome, inapt, ill-chosen, feckless",
+        "antonyms": "graceful"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "mallet",
+      "inVocab": false,
+      "senseAnchor": "槌子",
+      "roleInScript": "槌子",
+      "humorDevice": "story",
+      "zhGloss": "槌子",
+      "speakLineEn": "Cue the 槌子: mallet walks on and the gag sticks.",
+      "speakLineZh": "請「槌子」出場：mallet 一上場梗就黏住——槌子。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "lens",
+      "inVocab": false,
+      "senseAnchor": "鏡頭",
+      "roleInScript": "鏡頭",
+      "humorDevice": "story",
+      "zhGloss": "鏡頭",
+      "speakLineEn": "Cue the 鏡頭: lens walks on and the gag sticks.",
+      "speakLineZh": "請「鏡頭」出場：lens 一上場梗就黏住——鏡頭。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "focus",
+      "inVocab": false,
+      "senseAnchor": "對焦",
+      "roleInScript": "對焦",
+      "humorDevice": "story",
+      "zhGloss": "對焦",
+      "speakLineEn": "Cue the 對焦: focus walks on and the gag sticks.",
+      "speakLineZh": "請「對焦」出場：focus 一上場梗就黏住——對焦。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "wit",
+      "inVocab": false,
+      "senseAnchor": "機智",
+      "roleInScript": "機智",
+      "humorDevice": "story",
+      "zhGloss": "機智",
+      "speakLineEn": "Cue the 機智: wit walks on and the gag sticks.",
+      "speakLineZh": "請「機智」出場：wit 一上場梗就黏住——機智。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "fogbrain",
+      "inVocab": false,
+      "senseAnchor": "霧腦",
+      "roleInScript": "霧腦",
+      "humorDevice": "story",
+      "zhGloss": "霧腦",
+      "speakLineEn": "Cue the 霧腦: fogbrain walks on and the gag sticks.",
+      "speakLineZh": "請「霧腦」出場：fogbrain 一上場梗就黏住——霧腦。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "edge",
+      "inVocab": false,
+      "senseAnchor": "刃",
+      "roleInScript": "刃",
+      "humorDevice": "story",
+      "zhGloss": "刃",
+      "speakLineEn": "Cue the 刃: edge walks on and the gag sticks.",
+      "speakLineZh": "請「刃」出場：edge 一上場梗就黏住——刃。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "bluntedge",
+      "inVocab": false,
+      "senseAnchor": "鈍刃",
+      "roleInScript": "鈍刃",
+      "humorDevice": "story",
+      "zhGloss": "鈍刃",
+      "speakLineEn": "Cue the 鈍刃: bluntedge walks on and the gag sticks.",
+      "speakLineZh": "請「鈍刃」出場：bluntedge 一上場梗就黏住——鈍刃。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "敏：acumen/adroit/astute；鈍：asinine/crass/obtuse",
+    "asinine≈驢一樣蠢"
+  ],
+  "pitfalls": [
+    "acumen＝洞察力；別跟 accumulator 扯上"
+  ],
+  "lessonRefs": [
+    "lesson-sem-keen-dull-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch03"
+  }
+}

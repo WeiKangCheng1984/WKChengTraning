@@ -1,0 +1,96 @@
+{
+  "id": "lesson-look-contrite-01",
+  "slug": "look-contrite-01",
+  "season": 3,
+  "seasonTitleZh": "語氣對打",
+  "seasonTitleEn": "Tone Duels",
+  "type": "duel",
+  "minutes": "12-15",
+  "clusterId": "look-contrite-01",
+  "titleZh": "contrite／trite｜懺悔自動販賣機",
+  "titleEn": "Contrite Vending Machine",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "contrite 是真心懺悔，trite 是陳腔濫調——販賣機兩個按鈕：眼淚 vs 過期標語。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "contrite＝悔恨的。trite＝陳腐老套。店員提醒：道歉要真情，文案別用過期標語；眼淚鈕按下去才算數，口號鈕按下去只會被噓。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "contrite＝悔恨；trite＝陳腐",
+        "形近：差一個 con-"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Feeling genuine remorse:",
+      "promptZh": "真心悔恨：",
+      "choices": [
+        "contrite",
+        "trite",
+        "repository",
+        "neon"
+      ],
+      "answer": "contrite"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Overused and unoriginal:",
+      "promptZh": "陳腐老套：",
+      "choices": [
+        "trite",
+        "contrite",
+        "forecast",
+        "sole"
+      ],
+      "answer": "trite"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Near lookalike of contrite:",
+      "promptZh": "contrite 形近詞：",
+      "choices": [
+        "trite",
+        "ardent",
+        "omnibus",
+        "scanty"
+      ],
+      "answer": "trite"
+    }
+  ],
+  "pitfalls": [
+    "道歉用 contrite，文案別 trite"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch03"
+  }
+}

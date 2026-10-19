@@ -1,0 +1,367 @@
+{
+  "id": "sem-passion-apathy-01",
+  "type": "semantic",
+  "elementLemma": "passion-vs-apathy",
+  "titleZh": "熱情 ↔ 冷漠｜火山對冰箱",
+  "titleEn": "Passion vs. Apathy",
+  "hook": "左邊火山噴火（ardent/ardor），右邊冰箱貼自己（apathetic/callous）——溫度計當場罷工。",
+  "script": "ardent／ardor／fervid／zealous 火山隊。apathetic／callous／stolid／phlegmatic 冰箱隊。考場口令：火山寫熱情句，冰箱寫「無所謂」。",
+  "members": [
+    {
+      "headword": "ardent",
+      "inVocab": true,
+      "senseAnchor": "characterized by intense emotion; characterized by strong enthusiasm",
+      "roleInScript": "火山心",
+      "humorDevice": "contrast",
+      "zhGloss": "熱心的",
+      "speakLineEn": "Cue the 火山心: ardent walks on and the gag sticks.",
+      "speakLineZh": "請「火山心」出場：ardent 一上場梗就黏住——熱心的。",
+      "related": {
+        "synonyms": "fervent, fervid, fiery, impassioned, perfervid, torrid",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "ardor",
+      "inVocab": true,
+      "senseAnchor": "a feeling of strong eagerness (usually in favor of a person or cause); intense feeling of love",
+      "roleInScript": "火山熔岩",
+      "humorDevice": "contrast",
+      "zhGloss": "狂熱",
+      "speakLineEn": "Cue the 火山熔岩: ardor walks on and the gag sticks.",
+      "speakLineZh": "請「火山熔岩」出場：ardor 一上場梗就黏住——狂熱。",
+      "related": {
+        "synonyms": "ardour, elan, zeal, fervor, fervour, fervency",
+        "antonyms": "apathy, indifference"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "fervid",
+      "inVocab": true,
+      "senseAnchor": "狂熱的",
+      "roleInScript": "高溫噴口",
+      "humorDevice": "contrast",
+      "zhGloss": "狂熱的",
+      "speakLineEn": "Cue the 高溫噴口: fervid walks on and the gag sticks.",
+      "speakLineZh": "請「高溫噴口」出場：fervid 一上場梗就黏住——狂熱的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "zealous",
+      "inVocab": true,
+      "senseAnchor": "showing great energy and enthusiasm",
+      "roleInScript": "傳單火山",
+      "humorDevice": "contrast",
+      "zhGloss": "熱衷的",
+      "speakLineEn": "Cue the 傳單火山: zealous walks on and the gag sticks.",
+      "speakLineZh": "請「傳單火山」出場：zealous 一上場梗就黏住——熱衷的。",
+      "related": {
+        "synonyms": "impassioned, fervent, fiery",
+        "antonyms": "apathetic, indifferent"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "impassioned",
+      "inVocab": true,
+      "senseAnchor": "characterized by intense emotion",
+      "roleInScript": "激情麥",
+      "humorDevice": "contrast",
+      "zhGloss": "充滿激情的",
+      "speakLineEn": "Cue the 激情麥: impassioned walks on and the gag sticks.",
+      "speakLineZh": "請「激情麥」出場：impassioned 一上場梗就黏住——充滿激情的。",
+      "related": {
+        "synonyms": "ardent, fervent, fervid, fiery, perfervid, torrid",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "ebullient",
+      "inVocab": true,
+      "senseAnchor": "lively and enthusiastic",
+      "roleInScript": "沸騰壺",
+      "humorDevice": "contrast",
+      "zhGloss": "興高采烈的",
+      "speakLineEn": "Cue the 沸騰壺: ebullient walks on and the gag sticks.",
+      "speakLineZh": "請「沸騰壺」出場：ebullient 一上場梗就黏住——興高采烈的。",
+      "related": {
+        "synonyms": "effervescent, exuberant",
+        "antonyms": "apathetic, listless, noneffervescent, still, restrained, subdued"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "apathetic",
+      "inVocab": true,
+      "senseAnchor": "showing little or no emotion or animation; marked by a lack of interest",
+      "roleInScript": "冰箱貼",
+      "humorDevice": "contrast",
+      "zhGloss": "冷漠的",
+      "speakLineEn": "Cue the 冰箱貼: apathetic walks on and the gag sticks.",
+      "speakLineZh": "請「冰箱貼」出場：apathetic 一上場梗就黏住——冷漠的。",
+      "related": {
+        "synonyms": "indifferent",
+        "antonyms": "concerned, caring"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "callous",
+      "inVocab": true,
+      "senseAnchor": "make insensitive or callous; deaden feelings or morals; emotionally hardened",
+      "roleInScript": "厚繭心",
+      "humorDevice": "contrast",
+      "zhGloss": "硬心腸的",
+      "speakLineEn": "Cue the 厚繭心: callous walks on and the gag sticks.",
+      "speakLineZh": "請「厚繭心」出場：callous 一上場梗就黏住——硬心腸的。",
+      "related": {
+        "synonyms": "cauterize, cauterise, indurate, pachydermatous, calloused, thickened",
+        "antonyms": "soften, thin"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "stolid",
+      "inVocab": true,
+      "senseAnchor": "having or revealing little emotion or sensibility; not easily aroused or excited; ; - Nordhoff & Hall; -Virginia Woolf",
+      "roleInScript": "木雕像",
+      "humorDevice": "contrast",
+      "zhGloss": "木然的",
+      "speakLineEn": "Cue the 木雕像: stolid walks on and the gag sticks.",
+      "speakLineZh": "請「木雕像」出場：stolid 一上場梗就黏住——木然的。",
+      "related": {
+        "synonyms": "impassive",
+        "antonyms": "emotional, excitable"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "phlegmatic",
+      "inVocab": true,
+      "senseAnchor": "unemotional and calm",
+      "roleInScript": "濃痰冷靜",
+      "humorDevice": "contrast",
+      "zhGloss": "冷靜遲鈍的",
+      "speakLineEn": "Cue the 濃痰冷靜: phlegmatic walks on and the gag sticks.",
+      "speakLineZh": "請「濃痰冷靜」出場：phlegmatic 一上場梗就黏住——冷靜遲鈍的。",
+      "related": {
+        "synonyms": "apathetic, impassible, insouciant, nonchalant",
+        "antonyms": "excitable, emotional, anxious, concerned"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "lukewarm",
+      "inVocab": true,
+      "senseAnchor": "不冷不熱的",
+      "roleInScript": "溫吞水",
+      "humorDevice": "contrast",
+      "zhGloss": "不冷不熱的",
+      "speakLineEn": "Cue the 溫吞水: lukewarm walks on and the gag sticks.",
+      "speakLineZh": "請「溫吞水」出場：lukewarm 一上場梗就黏住——不冷不熱的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "halfhearted",
+      "inVocab": true,
+      "senseAnchor": "lacking interest",
+      "roleInScript": "半電量",
+      "humorDevice": "contrast",
+      "zhGloss": "半心半意的",
+      "speakLineEn": "Cue the 半電量: halfhearted walks on and the gag sticks.",
+      "speakLineZh": "請「半電量」出場：halfhearted 一上場梗就黏住——半心半意的。",
+      "related": {
+        "synonyms": "lukewarm, tepid",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "thermometer",
+      "inVocab": false,
+      "senseAnchor": "溫度計",
+      "roleInScript": "溫度計",
+      "humorDevice": "story",
+      "zhGloss": "溫度計",
+      "speakLineEn": "Cue the 溫度計: thermometer walks on and the gag sticks.",
+      "speakLineZh": "請「溫度計」出場：thermometer 一上場梗就黏住——溫度計。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "lava",
+      "inVocab": false,
+      "senseAnchor": "熔岩",
+      "roleInScript": "熔岩",
+      "humorDevice": "story",
+      "zhGloss": "熔岩",
+      "speakLineEn": "Cue the 熔岩: lava walks on and the gag sticks.",
+      "speakLineZh": "請「熔岩」出場：lava 一上場梗就黏住——熔岩。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "icecube",
+      "inVocab": false,
+      "senseAnchor": "冰塊",
+      "roleInScript": "冰塊",
+      "humorDevice": "story",
+      "zhGloss": "冰塊",
+      "speakLineEn": "Cue the 冰塊: icecube walks on and the gag sticks.",
+      "speakLineZh": "請「冰塊」出場：icecube 一上場梗就黏住——冰塊。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "shrug",
+      "inVocab": false,
+      "senseAnchor": "聳肩",
+      "roleInScript": "聳肩",
+      "humorDevice": "story",
+      "zhGloss": "聳肩",
+      "speakLineEn": "Cue the 聳肩: shrug walks on and the gag sticks.",
+      "speakLineZh": "請「聳肩」出場：shrug 一上場梗就黏住——聳肩。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "volcano",
+      "inVocab": false,
+      "senseAnchor": "火山",
+      "roleInScript": "火山",
+      "humorDevice": "story",
+      "zhGloss": "火山",
+      "speakLineEn": "Cue the 火山: volcano walks on and the gag sticks.",
+      "speakLineZh": "請「火山」出場：volcano 一上場梗就黏住——火山。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "freezer",
+      "inVocab": false,
+      "senseAnchor": "冷凍庫",
+      "roleInScript": "冷凍庫",
+      "humorDevice": "story",
+      "zhGloss": "冷凍庫",
+      "speakLineEn": "Cue the 冷凍庫: freezer walks on and the gag sticks.",
+      "speakLineZh": "請「冷凍庫」出場：freezer 一上場梗就黏住——冷凍庫。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "spark",
+      "inVocab": false,
+      "senseAnchor": "火花",
+      "roleInScript": "火花",
+      "humorDevice": "story",
+      "zhGloss": "火花",
+      "speakLineEn": "Cue the 火花: spark walks on and the gag sticks.",
+      "speakLineZh": "請「火花」出場：spark 一上場梗就黏住——火花。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "frost",
+      "inVocab": false,
+      "senseAnchor": "霜",
+      "roleInScript": "霜",
+      "humorDevice": "story",
+      "zhGloss": "霜",
+      "speakLineEn": "Cue the 霜: frost walks on and the gag sticks.",
+      "speakLineZh": "請「霜」出場：frost 一上場梗就黏住——霜。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "fever",
+      "inVocab": false,
+      "senseAnchor": "發燒",
+      "roleInScript": "發燒",
+      "humorDevice": "story",
+      "zhGloss": "發燒",
+      "speakLineEn": "Cue the 發燒: fever walks on and the gag sticks.",
+      "speakLineZh": "請「發燒」出場：fever 一上場梗就黏住——發燒。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "chill",
+      "inVocab": false,
+      "senseAnchor": "涼快",
+      "roleInScript": "涼快",
+      "humorDevice": "story",
+      "zhGloss": "涼快",
+      "speakLineEn": "Cue the 涼快: chill walks on and the gag sticks.",
+      "speakLineZh": "請「涼快」出場：chill 一上場梗就黏住——涼快。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "熱：ardent/ardor/fervid；冷：apathetic/callous/stolid",
+    "callous＝硬心腸"
+  ],
+  "pitfalls": [
+    "apathetic＝冷漠；aesthetic＝美學——形近別混"
+  ],
+  "lessonRefs": [
+    "lesson-sem-passion-apathy-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch03"
+  }
+}

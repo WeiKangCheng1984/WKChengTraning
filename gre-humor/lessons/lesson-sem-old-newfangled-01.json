@@ -1,0 +1,96 @@
+{
+  "id": "lesson-sem-old-newfangled-01",
+  "slug": "sem-old-newfangled-01",
+  "season": 3,
+  "seasonTitleZh": "語氣對打",
+  "seasonTitleEn": "Tone Duels",
+  "type": "duel",
+  "minutes": "12-15",
+  "clusterId": "sem-old-newfangled-01",
+  "titleZh": "陳舊 ↔ 新潮｜古董櫃對快閃店",
+  "titleEn": "Old vs. Newfangled",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "antiquated／hoary 坐古董櫃，modish／novel 開快閃店——導遊麥克風：「左邊是昨天，右邊是剛上架」。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "陳舊隊：antiquated／hoary／archaic／obsolete／dated。新潮隊：modish／stylish／novel／trendy／fresh。口令：古董櫃寫「還能用嗎」，快閃店寫「限時三小時」。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "舊：antiquated/hoary/obsolete；新：modish/novel/trendy",
+        "hoary＝蒼老／陳腐"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Outdated / old-fashioned:",
+      "promptZh": "過時的：",
+      "choices": [
+        "antiquated",
+        "modish",
+        "repository",
+        "neon"
+      ],
+      "answer": "antiquated"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Extremely old:",
+      "promptZh": "極老的：",
+      "choices": [
+        "hoary",
+        "trendy",
+        "forecast",
+        "sole"
+      ],
+      "answer": "hoary"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Fashionable:",
+      "promptZh": "時髦的：",
+      "choices": [
+        "modish",
+        "obsolete",
+        "omnibus",
+        "scanty"
+      ],
+      "answer": "modish"
+    }
+  ],
+  "pitfalls": [
+    "novel 作形容詞＝新奇；作名詞＝小說"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch03"
+  }
+}

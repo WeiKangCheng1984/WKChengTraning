@@ -1,0 +1,1448 @@
+{
+  "stage": "P3-pending-b03",
+  "at": "2026-10-19T06:27:49.980Z",
+  "pendingBefore": 252,
+  "addedToGreJson": [
+    {
+      "en": "abolition",
+      "clusterId": "look-abolish-01",
+      "zh": "廢除"
+    },
+    {
+      "en": "abolitionist",
+      "clusterId": "look-abolish-01",
+      "zh": "廢除論者"
+    },
+    {
+      "en": "admit",
+      "clusterId": "sem-include-exclude-01",
+      "zh": "准許進入"
+    },
+    {
+      "en": "archaic",
+      "clusterId": "sem-old-newfangled-01",
+      "zh": "古老的"
+    },
+    {
+      "en": "arduous",
+      "clusterId": "rhyme-uous-01",
+      "zh": "艱巨的"
+    },
+    {
+      "en": "assemble",
+      "clusterId": "sem-build-ruin-01",
+      "zh": "組裝"
+    },
+    {
+      "en": "bane",
+      "clusterId": "look-banal-01",
+      "zh": "禍根"
+    },
+    {
+      "en": "banish",
+      "clusterId": "sem-include-exclude-01",
+      "zh": "放逐"
+    },
+    {
+      "en": "beguiling",
+      "clusterId": "sem-allure-repel-01",
+      "zh": "迷人的"
+    },
+    {
+      "en": "bequeath",
+      "clusterId": "sem-give-take-01",
+      "zh": "遺贈"
+    },
+    {
+      "en": "bestow",
+      "clusterId": "sem-give-take-01",
+      "zh": "授予"
+    },
+    {
+      "en": "blandish",
+      "clusterId": "look-brandish-01",
+      "zh": "奉承"
+    },
+    {
+      "en": "botch",
+      "clusterId": "look-bumble-01",
+      "zh": "拙劣完成"
+    },
+    {
+      "en": "brittle",
+      "clusterId": "look-brandish-01",
+      "zh": "易碎的"
+    },
+    {
+      "en": "buoyancy",
+      "clusterId": "rhyme-ancy-01",
+      "zh": "浮力"
+    },
+    {
+      "en": "captivating",
+      "clusterId": "sem-allure-repel-01",
+      "zh": "迷人的"
+    },
+    {
+      "en": "chary",
+      "clusterId": "look-chaff-01",
+      "zh": "謹慎的"
+    },
+    {
+      "en": "classified",
+      "clusterId": "sem-public-private-01",
+      "zh": "機密分級的"
+    },
+    {
+      "en": "clemency",
+      "clusterId": "rhyme-ancy-01",
+      "zh": "寬恕"
+    },
+    {
+      "en": "composed",
+      "clusterId": "sem-calm-turmoil-01",
+      "zh": "鎮靜的"
+    },
+    {
+      "en": "consistency",
+      "clusterId": "rhyme-ancy-01",
+      "zh": "一致性"
+    },
+    {
+      "en": "curse",
+      "clusterId": "look-banal-01",
+      "zh": "詛咒"
+    },
+    {
+      "en": "cuttingedge",
+      "clusterId": "sem-old-newfangled-01",
+      "zh": "尖端的"
+    },
+    {
+      "en": "dated",
+      "clusterId": "sem-old-newfangled-01",
+      "zh": "過時的"
+    },
+    {
+      "en": "deficiency",
+      "clusterId": "rhyme-ancy-01",
+      "zh": "缺乏"
+    },
+    {
+      "en": "devastate",
+      "clusterId": "sem-build-ruin-01",
+      "zh": "摧毀"
+    },
+    {
+      "en": "disaster",
+      "clusterId": "look-banal-01",
+      "zh": "災難"
+    },
+    {
+      "en": "distasteful",
+      "clusterId": "sem-allure-repel-01",
+      "zh": "令人反感的"
+    },
+    {
+      "en": "donate",
+      "clusterId": "sem-give-take-01",
+      "zh": "捐贈"
+    },
+    {
+      "en": "dull",
+      "clusterId": "sem-keen-dull-01",
+      "zh": "遲鈍的"
+    },
+    {
+      "en": "economical",
+      "clusterId": "sem-thrift-waste-01",
+      "zh": "節省的"
+    },
+    {
+      "en": "embrace",
+      "clusterId": "sem-include-exclude-01",
+      "zh": "擁抱接納"
+    },
+    {
+      "en": "encompass",
+      "clusterId": "sem-include-exclude-01",
+      "zh": "涵蓋"
+    },
+    {
+      "en": "fabricate",
+      "clusterId": "sem-build-ruin-01",
+      "zh": "製造／捏造"
+    },
+    {
+      "en": "favorable",
+      "clusterId": "look-auspicious-01",
+      "zh": "有利的"
+    },
+    {
+      "en": "fervid",
+      "clusterId": "sem-passion-apathy-01",
+      "zh": "狂熱的"
+    },
+    {
+      "en": "fleet",
+      "clusterId": "sem-swift-slow-01",
+      "zh": "快速的"
+    },
+    {
+      "en": "flourish",
+      "clusterId": "look-brandish-01",
+      "zh": "揮舞炫耀"
+    },
+    {
+      "en": "flub",
+      "clusterId": "look-bumble-01",
+      "zh": "搞砸"
+    },
+    {
+      "en": "fluency",
+      "clusterId": "rhyme-ancy-01",
+      "zh": "流利"
+    },
+    {
+      "en": "forge",
+      "clusterId": "sem-build-ruin-01",
+      "zh": "鍛造"
+    },
+    {
+      "en": "frequency",
+      "clusterId": "rhyme-ancy-01",
+      "zh": "頻率"
+    },
+    {
+      "en": "fresh",
+      "clusterId": "sem-old-newfangled-01",
+      "zh": "新鮮的"
+    },
+    {
+      "en": "hurdle",
+      "clusterId": "look-bustle-01",
+      "zh": "跨欄障礙"
+    },
+    {
+      "en": "hustle",
+      "clusterId": "look-bustle-01",
+      "zh": "催趕奔忙"
+    },
+    {
+      "en": "inauspicious",
+      "clusterId": "look-auspicious-01",
+      "zh": "不吉利的"
+    },
+    {
+      "en": "include",
+      "clusterId": "sem-include-exclude-01",
+      "zh": "包括"
+    },
+    {
+      "en": "insufficiency",
+      "clusterId": "rhyme-ancy-01",
+      "zh": "不足"
+    },
+    {
+      "en": "laggard",
+      "clusterId": "sem-swift-slow-01",
+      "zh": "落後者"
+    },
+    {
+      "en": "lavish",
+      "clusterId": "sem-thrift-waste-01",
+      "zh": "奢華的"
+    },
+    {
+      "en": "loathsome",
+      "clusterId": "sem-allure-repel-01",
+      "zh": "可憎的"
+    },
+    {
+      "en": "lukewarm",
+      "clusterId": "sem-passion-apathy-01",
+      "zh": "不冷不熱的"
+    },
+    {
+      "en": "magnetic",
+      "clusterId": "sem-allure-repel-01",
+      "zh": "有吸引力的"
+    },
+    {
+      "en": "musty",
+      "clusterId": "sem-old-newfangled-01",
+      "zh": "霉舊的"
+    },
+    {
+      "en": "obsolete",
+      "clusterId": "sem-old-newfangled-01",
+      "zh": "淘汰的"
+    },
+    {
+      "en": "omit",
+      "clusterId": "sem-include-exclude-01",
+      "zh": "省略"
+    },
+    {
+      "en": "prompt",
+      "clusterId": "sem-swift-slow-01",
+      "zh": "即時的"
+    },
+    {
+      "en": "publicize",
+      "clusterId": "sem-public-private-01",
+      "zh": "宣傳"
+    },
+    {
+      "en": "pure",
+      "clusterId": "sem-pure-sully-01",
+      "zh": "純淨的"
+    },
+    {
+      "en": "repentant",
+      "clusterId": "look-contrite-01",
+      "zh": "懺悔的"
+    },
+    {
+      "en": "resiliency",
+      "clusterId": "rhyme-ancy-01",
+      "zh": "韌性"
+    },
+    {
+      "en": "revolting",
+      "clusterId": "sem-allure-repel-01",
+      "zh": "令人反感的"
+    },
+    {
+      "en": "righteous",
+      "clusterId": "rhyme-eous-01",
+      "zh": "正直的"
+    },
+    {
+      "en": "ruin",
+      "clusterId": "sem-build-ruin-01",
+      "zh": "毀滅"
+    },
+    {
+      "en": "secluded",
+      "clusterId": "sem-public-private-01",
+      "zh": "隱居的"
+    },
+    {
+      "en": "stainless",
+      "clusterId": "sem-pure-sully-01",
+      "zh": "無瑕疵的"
+    },
+    {
+      "en": "strip",
+      "clusterId": "sem-give-take-01",
+      "zh": "剝去"
+    },
+    {
+      "en": "stylish",
+      "clusterId": "sem-old-newfangled-01",
+      "zh": "有風格的"
+    },
+    {
+      "en": "thrifty",
+      "clusterId": "sem-thrift-waste-01",
+      "zh": "節約的"
+    },
+    {
+      "en": "transparency",
+      "clusterId": "rhyme-ancy-01",
+      "zh": "透明"
+    },
+    {
+      "en": "trendy",
+      "clusterId": "sem-old-newfangled-01",
+      "zh": "流行的"
+    },
+    {
+      "en": "unsullied",
+      "clusterId": "sem-pure-sully-01",
+      "zh": "未玷污的"
+    },
+    {
+      "en": "urgency",
+      "clusterId": "rhyme-ancy-01",
+      "zh": "緊急"
+    },
+    {
+      "en": "wasteful",
+      "clusterId": "sem-thrift-waste-01",
+      "zh": "浪費的"
+    }
+  ],
+  "deferred": [
+    {
+      "en": "alarm",
+      "clusterId": "look-delude-01",
+      "zh": "警報",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "angel",
+      "clusterId": "look-chaff-01",
+      "zh": "天使",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "anger",
+      "clusterId": "look-brandish-01",
+      "zh": "怒",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "announce",
+      "clusterId": "look-bustle-01",
+      "zh": "廣播",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "arrow",
+      "clusterId": "look-beget-01",
+      "zh": "箭頭",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "bar",
+      "clusterId": "sem-include-exclude-01",
+      "zh": "禁止",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "barrier",
+      "clusterId": "sem-include-exclude-01",
+      "zh": "拒馬",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "basket",
+      "clusterId": "sem-give-take-01",
+      "zh": "筐",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "bell",
+      "clusterId": "rhyme-sion-01",
+      "zh": "鈴",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "bleach",
+      "clusterId": "sem-pure-sully-01",
+      "zh": "漂白",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "bluntedge",
+      "clusterId": "sem-keen-dull-01",
+      "zh": "鈍刃",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "blush",
+      "clusterId": "look-chaff-01",
+      "zh": "臉紅",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "bone",
+      "clusterId": "rhyme-eous-01",
+      "zh": "骨頭",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "booth",
+      "clusterId": "sem-public-private-01",
+      "zh": "隔音房",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "boredom",
+      "clusterId": "look-contrite-01",
+      "zh": "無聊",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "boring",
+      "clusterId": "look-banal-01",
+      "zh": "無聊",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "bouncer",
+      "clusterId": "sem-include-exclude-01",
+      "zh": "保全",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "boundary",
+      "clusterId": "sem-allure-repel-01",
+      "zh": "警戒線",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "brake",
+      "clusterId": "sem-swift-slow-01",
+      "zh": "煞車",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "building",
+      "clusterId": "look-abolish-01",
+      "zh": "建築",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "button",
+      "clusterId": "look-abolish-01",
+      "zh": "按鈕",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "calendar",
+      "clusterId": "sem-build-ruin-01",
+      "zh": "日曆",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "candy",
+      "clusterId": "look-brandish-01",
+      "zh": "糖",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "cart",
+      "clusterId": "look-bustle-01",
+      "zh": "推車",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "cause",
+      "clusterId": "look-beget-01",
+      "zh": "原因",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "chain",
+      "clusterId": "look-beget-01",
+      "zh": "鏈",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "charm",
+      "clusterId": "sem-allure-repel-01",
+      "zh": "魅力符",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "chill",
+      "clusterId": "sem-passion-apathy-01",
+      "zh": "涼快",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "cliche",
+      "clusterId": "look-contrite-01",
+      "zh": "陳腔",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "coach",
+      "clusterId": "look-chaff-01",
+      "zh": "教練",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "compliment",
+      "clusterId": "look-brandish-01",
+      "zh": "恭維",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "corridor",
+      "clusterId": "look-bumble-01",
+      "zh": "走廊",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "coupon",
+      "clusterId": "sem-thrift-waste-01",
+      "zh": "折扣券",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "crane",
+      "clusterId": "sem-build-ruin-01",
+      "zh": "吊車",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "critique",
+      "clusterId": "look-asperity-01",
+      "zh": "批評",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "dash",
+      "clusterId": "look-bustle-01",
+      "zh": "飛奔",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "desk",
+      "clusterId": "look-auspicious-01",
+      "zh": "櫃台",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "djbooth",
+      "clusterId": "rhyme-uous-01",
+      "zh": "DJ台",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "door",
+      "clusterId": "rhyme-sion-01",
+      "zh": "門",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "dust",
+      "clusterId": "sem-old-newfangled-01",
+      "zh": "灰塵",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "ear",
+      "clusterId": "look-asperity-01",
+      "zh": "耳朵",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "edge",
+      "clusterId": "sem-keen-dull-01",
+      "zh": "刃",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "feet",
+      "clusterId": "look-bumble-01",
+      "zh": "腳",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "fence",
+      "clusterId": "sem-include-exclude-01",
+      "zh": "圍籬",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "fever",
+      "clusterId": "sem-passion-apathy-01",
+      "zh": "發燒",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "flood",
+      "clusterId": "look-delude-01",
+      "zh": "洪水",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "floor",
+      "clusterId": "look-bumble-01",
+      "zh": "地板",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "focus",
+      "clusterId": "sem-keen-dull-01",
+      "zh": "對焦",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "fogbrain",
+      "clusterId": "sem-keen-dull-01",
+      "zh": "霧腦",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "folder",
+      "clusterId": "sem-public-private-01",
+      "zh": "資料夾",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "freezer",
+      "clusterId": "sem-passion-apathy-01",
+      "zh": "冷凍庫",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "frost",
+      "clusterId": "sem-passion-apathy-01",
+      "zh": "霜",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "fur",
+      "clusterId": "look-brandish-01",
+      "zh": "毛皮",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "gift",
+      "clusterId": "sem-give-take-01",
+      "zh": "禮物",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "goldcoin",
+      "clusterId": "sem-thrift-waste-01",
+      "zh": "金幣",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "gossip",
+      "clusterId": "look-asperity-01",
+      "zh": "八卦",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "guard",
+      "clusterId": "sem-give-take-01",
+      "zh": "警衛",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "guestlist",
+      "clusterId": "sem-include-exclude-01",
+      "zh": "賓客名單",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "guide",
+      "clusterId": "rhyme-eous-01",
+      "zh": "導覽",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "guilt",
+      "clusterId": "look-contrite-01",
+      "zh": "愧疚",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "hall",
+      "clusterId": "rhyme-eous-01",
+      "zh": "展廳",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "halo",
+      "clusterId": "look-chaff-01",
+      "zh": "光環",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "hands",
+      "clusterId": "look-bumble-01",
+      "zh": "手",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "hardhat",
+      "clusterId": "sem-build-ruin-01",
+      "zh": "工地帽",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "hashtag",
+      "clusterId": "sem-old-newfangled-01",
+      "zh": "標籤",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "hat",
+      "clusterId": "rhyme-eous-01",
+      "zh": "帽子",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "hate",
+      "clusterId": "look-abolish-01",
+      "zh": "恨",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "helmet",
+      "clusterId": "sem-build-ruin-01",
+      "zh": "安全帽",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "horn",
+      "clusterId": "look-bustle-01",
+      "zh": "喇叭",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "icecube",
+      "clusterId": "sem-passion-apathy-01",
+      "zh": "冰塊",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "ink",
+      "clusterId": "sem-pure-sully-01",
+      "zh": "墨汁",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "joke",
+      "clusterId": "look-chaff-01",
+      "zh": "玩笑",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "key",
+      "clusterId": "sem-give-take-01",
+      "zh": "鑰匙",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "lake",
+      "clusterId": "sem-calm-turmoil-01",
+      "zh": "湖",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "lamp",
+      "clusterId": "rhyme-ancy-01",
+      "zh": "燈箱",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "lane",
+      "clusterId": "look-bustle-01",
+      "zh": "跑道",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "laundry",
+      "clusterId": "sem-pure-sully-01",
+      "zh": "洗衣店",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "lava",
+      "clusterId": "sem-passion-apathy-01",
+      "zh": "熔岩",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "law",
+      "clusterId": "look-abolish-01",
+      "zh": "法律",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "leak",
+      "clusterId": "look-delude-01",
+      "zh": "洩漏",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "ledger",
+      "clusterId": "sem-thrift-waste-01",
+      "zh": "帳本",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "lens",
+      "clusterId": "sem-keen-dull-01",
+      "zh": "鏡頭",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "lifebuoy",
+      "clusterId": "sem-calm-turmoil-01",
+      "zh": "救生圈",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "lightning",
+      "clusterId": "sem-swift-slow-01",
+      "zh": "閃電",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "loathing",
+      "clusterId": "look-abolish-01",
+      "zh": "憎惡",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "lock",
+      "clusterId": "sem-public-private-01",
+      "zh": "鎖",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "locker",
+      "clusterId": "look-chaff-01",
+      "zh": "更衣室",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "lucky",
+      "clusterId": "look-auspicious-01",
+      "zh": "幸運",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "magnet",
+      "clusterId": "sem-allure-repel-01",
+      "zh": "磁鐵",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "mallet",
+      "clusterId": "sem-keen-dull-01",
+      "zh": "槌子",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "market",
+      "clusterId": "look-bustle-01",
+      "zh": "市集",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "mayor",
+      "clusterId": "rhyme-ancy-01",
+      "zh": "里長",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "meeting",
+      "clusterId": "sem-swift-slow-01",
+      "zh": "會議",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "mess",
+      "clusterId": "look-bumble-01",
+      "zh": "一團糟",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "mic",
+      "clusterId": "look-auspicious-01",
+      "zh": "麥克風",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "mothball",
+      "clusterId": "sem-old-newfangled-01",
+      "zh": "樟腦丸",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "net",
+      "clusterId": "look-beget-01",
+      "zh": "網",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "nozzle",
+      "clusterId": "look-delude-01",
+      "zh": "噴嘴",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "off-putting",
+      "clusterId": "sem-allure-repel-01",
+      "zh": "倒胃口的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "oil",
+      "clusterId": "rhyme-uous-01",
+      "zh": "油",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "overused",
+      "clusterId": "look-contrite-01",
+      "zh": "用濫",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "package",
+      "clusterId": "sem-swift-slow-01",
+      "zh": "包裹",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "parade",
+      "clusterId": "rhyme-sion-01",
+      "zh": "遊行",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "party",
+      "clusterId": "rhyme-uous-01",
+      "zh": "派對",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "piggybank",
+      "clusterId": "sem-thrift-waste-01",
+      "zh": "存錢筒",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "pillow",
+      "clusterId": "sem-calm-turmoil-01",
+      "zh": "枕頭",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "pocket",
+      "clusterId": "sem-give-take-01",
+      "zh": "口袋",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "popup",
+      "clusterId": "sem-old-newfangled-01",
+      "zh": "快閃",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "poster",
+      "clusterId": "sem-public-private-01",
+      "zh": "海報",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "price-tag",
+      "clusterId": "sem-old-newfangled-01",
+      "zh": "價籤",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "problem",
+      "clusterId": "look-beget-01",
+      "zh": "問題",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "quill",
+      "clusterId": "look-brandish-01",
+      "zh": "刺",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "ripple",
+      "clusterId": "sem-calm-turmoil-01",
+      "zh": "漣漪",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "roachsticker",
+      "clusterId": "sem-allure-repel-01",
+      "zh": "蟑螂貼",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "rock",
+      "clusterId": "rhyme-eous-01",
+      "zh": "石頭",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "root",
+      "clusterId": "look-banal-01",
+      "zh": "根",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "rope",
+      "clusterId": "sem-include-exclude-01",
+      "zh": "繩",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "rubble",
+      "clusterId": "look-abolish-01",
+      "zh": "瓦礫",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "rumor",
+      "clusterId": "look-asperity-01",
+      "zh": "謠言",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "rush",
+      "clusterId": "look-bustle-01",
+      "zh": "衝",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "salary",
+      "clusterId": "rhyme-ment-gre-01",
+      "zh": "薪水",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "savings",
+      "clusterId": "sem-thrift-waste-01",
+      "zh": "存款",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "scaffold",
+      "clusterId": "sem-build-ruin-01",
+      "zh": "鷹架",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "secret",
+      "clusterId": "look-delude-01",
+      "zh": "祕密",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "selfie",
+      "clusterId": "sem-allure-repel-01",
+      "zh": "自拍",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "sharp",
+      "clusterId": "look-asperity-01",
+      "zh": "尖銳",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "shelf",
+      "clusterId": "look-banal-01",
+      "zh": "架子",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "shredder",
+      "clusterId": "sem-thrift-waste-01",
+      "zh": "碎紙機",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "shrug",
+      "clusterId": "sem-passion-apathy-01",
+      "zh": "聳肩",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "sigh",
+      "clusterId": "look-chaff-01",
+      "zh": "嘆氣",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "signage",
+      "clusterId": "look-abolish-01",
+      "zh": "招牌",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "siren",
+      "clusterId": "sem-calm-turmoil-01",
+      "zh": "警報",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "slogan",
+      "clusterId": "look-contrite-01",
+      "zh": "口號",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "smile",
+      "clusterId": "look-brandish-01",
+      "zh": "笑",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "snail",
+      "clusterId": "sem-swift-slow-01",
+      "zh": "蝸牛",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "soap",
+      "clusterId": "sem-pure-sully-01",
+      "zh": "肥皂",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "spark",
+      "clusterId": "sem-passion-apathy-01",
+      "zh": "火花",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "speed",
+      "clusterId": "look-bustle-01",
+      "zh": "速度",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "splash",
+      "clusterId": "sem-pure-sully-01",
+      "zh": "濺潑",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "splurge",
+      "clusterId": "sem-thrift-waste-01",
+      "zh": "揮霍夜",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "spot",
+      "clusterId": "sem-pure-sully-01",
+      "zh": "斑點",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "stamp",
+      "clusterId": "sem-include-exclude-01",
+      "zh": "戳章",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "sticker",
+      "clusterId": "look-contrite-01",
+      "zh": "貼紙",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "stink",
+      "clusterId": "sem-allure-repel-01",
+      "zh": "臭味",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "storm",
+      "clusterId": "sem-calm-turmoil-01",
+      "zh": "暴風",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "studio",
+      "clusterId": "look-delude-01",
+      "zh": "工作室",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "sunshine",
+      "clusterId": "look-auspicious-01",
+      "zh": "陽光",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "sword",
+      "clusterId": "look-brandish-01",
+      "zh": "劍",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "tail",
+      "clusterId": "rhyme-uous-01",
+      "zh": "尾巴",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "teacup",
+      "clusterId": "sem-calm-turmoil-01",
+      "zh": "茶杯",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "tear",
+      "clusterId": "look-contrite-01",
+      "zh": "淚",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "thermometer",
+      "clusterId": "sem-passion-apathy-01",
+      "zh": "溫度計",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "threat",
+      "clusterId": "look-brandish-01",
+      "zh": "威脅",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "tone",
+      "clusterId": "look-asperity-01",
+      "zh": "語氣",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "tourguide",
+      "clusterId": "sem-old-newfangled-01",
+      "zh": "導遊",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "trip",
+      "clusterId": "look-bumble-01",
+      "zh": "絆到",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "truth",
+      "clusterId": "look-delude-01",
+      "zh": "真相",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "turbo",
+      "clusterId": "sem-swift-slow-01",
+      "zh": "渦輪",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "turntable",
+      "clusterId": "look-bustle-01",
+      "zh": "轉盤",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "unbox",
+      "clusterId": "sem-old-newfangled-01",
+      "zh": "開箱",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "up-to-date",
+      "clusterId": "sem-old-newfangled-01",
+      "zh": "最新的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "vending",
+      "clusterId": "look-contrite-01",
+      "zh": "販賣機",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "vintage",
+      "clusterId": "sem-old-newfangled-01",
+      "zh": "復古",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "voidcheck",
+      "clusterId": "sem-thrift-waste-01",
+      "zh": "廢支票",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "volcano",
+      "clusterId": "sem-passion-apathy-01",
+      "zh": "火山",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "welcome",
+      "clusterId": "sem-include-exclude-01",
+      "zh": "歡迎",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "wet",
+      "clusterId": "look-asperity-01",
+      "zh": "濕",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "wetfloor",
+      "clusterId": "look-bumble-01",
+      "zh": "溼地",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "wharf",
+      "clusterId": "sem-calm-turmoil-01",
+      "zh": "碼頭",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "whiterobe",
+      "clusterId": "sem-pure-sully-01",
+      "zh": "白袍",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "will",
+      "clusterId": "sem-give-take-01",
+      "zh": "遺囑",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "wink",
+      "clusterId": "look-chaff-01",
+      "zh": "眨眼",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "wit",
+      "clusterId": "sem-keen-dull-01",
+      "zh": "機智",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "wood",
+      "clusterId": "rhyme-eous-01",
+      "zh": "木頭",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "wreck",
+      "clusterId": "look-abolish-01",
+      "zh": "殘骸",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "wreckingball",
+      "clusterId": "look-abolish-01",
+      "zh": "拆遷球",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "yawn",
+      "clusterId": "look-banal-01",
+      "zh": "哈欠",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "yuck",
+      "clusterId": "sem-allure-repel-01",
+      "zh": "噁",
+      "reason": "basic-multiword-or-specialty"
+    }
+  ],
+  "greTotalAfter": 5064
+}

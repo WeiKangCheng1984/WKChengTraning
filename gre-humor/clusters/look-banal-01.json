@@ -1,0 +1,196 @@
+{
+  "id": "look-banal-01",
+  "type": "lookalike",
+  "elementLemma": "banal-bane-bale",
+  "titleZh": "banal／bane／bale｜陳腐災禍櫃",
+  "titleEn": "Banal Bane Cabinet",
+  "hook": "banal 是陳腐台詞，bane 是禍根，bale 是災禍——道具櫃三格：無聊、禍根、災難。",
+  "script": "banal＝陳腐老套。bane＝禍因／禍根。bale＝災禍不幸。道具師：台詞無聊≠世界末日；bane of my existence 是禍根，不是 bale 整包棉花。",
+  "members": [
+    {
+      "headword": "banal",
+      "inVocab": true,
+      "senseAnchor": "repeated too often; overfamiliar through overuse",
+      "roleInScript": "無聊格",
+      "humorDevice": "lookalike",
+      "zhGloss": "陳腐的",
+      "speakLineEn": "Cue the 無聊格: banal walks on and the gag sticks.",
+      "speakLineZh": "請「無聊格」出場：banal 一上場梗就黏住——陳腐的。",
+      "related": {
+        "synonyms": "commonplace, hackneyed, old-hat, shopworn, stock, threadbare",
+        "antonyms": "original, fresh"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "bane",
+      "inVocab": true,
+      "senseAnchor": "禍根",
+      "roleInScript": "禍根格",
+      "humorDevice": "lookalike",
+      "zhGloss": "禍根",
+      "speakLineEn": "Cue the 禍根格: bane walks on and the gag sticks.",
+      "speakLineZh": "請「禍根格」出場：bane 一上場梗就黏住——禍根。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "bale",
+      "inVocab": true,
+      "senseAnchor": "a large bundle bound for storage or transport; a city in northwestern Switzerland",
+      "roleInScript": "災禍格",
+      "humorDevice": "lookalike",
+      "zhGloss": "災禍",
+      "speakLineEn": "Cue the 災禍格: bale walks on and the gag sticks.",
+      "speakLineZh": "請「災禍格」出場：bale 一上場梗就黏住——災禍。",
+      "related": {
+        "synonyms": "Basel, Basle",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "curse",
+      "inVocab": true,
+      "senseAnchor": "詛咒",
+      "roleInScript": "詛咒",
+      "humorDevice": "story",
+      "zhGloss": "詛咒",
+      "speakLineEn": "Cue the 詛咒: curse walks on and the gag sticks.",
+      "speakLineZh": "請「詛咒」出場：curse 一上場梗就黏住——詛咒。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "disaster",
+      "inVocab": true,
+      "senseAnchor": "災難",
+      "roleInScript": "災難",
+      "humorDevice": "story",
+      "zhGloss": "災難",
+      "speakLineEn": "Cue the 災難: disaster walks on and the gag sticks.",
+      "speakLineZh": "請「災難」出場：disaster 一上場梗就黏住——災難。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "yawn",
+      "inVocab": false,
+      "senseAnchor": "哈欠",
+      "roleInScript": "哈欠",
+      "humorDevice": "story",
+      "zhGloss": "哈欠",
+      "speakLineEn": "Cue the 哈欠: yawn walks on and the gag sticks.",
+      "speakLineZh": "請「哈欠」出場：yawn 一上場梗就黏住——哈欠。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "root",
+      "inVocab": false,
+      "senseAnchor": "根",
+      "roleInScript": "根",
+      "humorDevice": "story",
+      "zhGloss": "根",
+      "speakLineEn": "Cue the 根: root walks on and the gag sticks.",
+      "speakLineZh": "請「根」出場：root 一上場梗就黏住——根。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "prop",
+      "inVocab": true,
+      "senseAnchor": "a support placed beneath or against something to keep it from shaking or falling; any movable articles or objects used on the set of a play or movie",
+      "roleInScript": "道具",
+      "humorDevice": "story",
+      "zhGloss": "道具",
+      "speakLineEn": "Cue the 道具: prop walks on and the gag sticks.",
+      "speakLineZh": "請「道具」出場：prop 一上場梗就黏住——道具。",
+      "related": {
+        "synonyms": "property, airscrew, shore",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "shelf",
+      "inVocab": false,
+      "senseAnchor": "架子",
+      "roleInScript": "架子",
+      "humorDevice": "story",
+      "zhGloss": "架子",
+      "speakLineEn": "Cue the 架子: shelf walks on and the gag sticks.",
+      "speakLineZh": "請「架子」出場：shelf 一上場梗就黏住——架子。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "boring",
+      "inVocab": false,
+      "senseAnchor": "無聊",
+      "roleInScript": "無聊",
+      "humorDevice": "story",
+      "zhGloss": "無聊",
+      "speakLineEn": "Cue the 無聊: boring walks on and the gag sticks.",
+      "speakLineZh": "請「無聊」出場：boring 一上場梗就黏住——無聊。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "doom",
+      "inVocab": true,
+      "senseAnchor": "to determine the fate of suffering in advance",
+      "roleInScript": "厄運",
+      "humorDevice": "story",
+      "zhGloss": "厄運",
+      "speakLineEn": "Cue the 厄運: doom walks on and the gag sticks.",
+      "speakLineZh": "請「厄運」出場：doom 一上場梗就黏住——厄運。",
+      "related": {
+        "synonyms": "predestine, predetermine",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    }
+  ],
+  "reviewHooks": [
+    "banal＝陳腐；bane＝禍根；bale＝災禍",
+    "the bane of = …的禍根"
+  ],
+  "pitfalls": [
+    "bale 也可指大包貨物，語境先分"
+  ],
+  "lessonRefs": [
+    "lesson-look-banal-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch03"
+  }
+}

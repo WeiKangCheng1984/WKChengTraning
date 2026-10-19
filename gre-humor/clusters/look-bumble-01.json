@@ -1,0 +1,244 @@
+{
+  "id": "look-bumble-01",
+  "type": "lookalike",
+  "elementLemma": "bumble-bungle-stumble",
+  "titleZh": "bumble／bungle／stumble｜搞砸走廊",
+  "titleEn": "Bumble Corridor",
+  "hook": "bumble／bungle 是搞砸專櫃，stumble 是絆倒——走廊溼記：手賤搞砸≠腳滑絆倒。",
+  "script": "bumble＝笨手笨腳搞砸。bungle＝把事情弄糟。stumble＝絆倒／說錯。保全廣播：先看手再看腳。",
+  "members": [
+    {
+      "headword": "bumble",
+      "inVocab": true,
+      "senseAnchor": "make a mess of, destroy or ruin; walk unsteadily",
+      "roleInScript": "手賤櫃",
+      "humorDevice": "lookalike",
+      "zhGloss": "搞砸",
+      "speakLineEn": "Cue the 手賤櫃: bumble walks on and the gag sticks.",
+      "speakLineZh": "請「手賤櫃」出場：bumble 一上場梗就黏住——搞砸。",
+      "related": {
+        "synonyms": "botch, bodge, fumble, muff, blow, flub",
+        "antonyms": "conserve"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "bungle",
+      "inVocab": true,
+      "senseAnchor": "fail to do something because of stupid mistakes",
+      "roleInScript": "弄糟章",
+      "humorDevice": "lookalike",
+      "zhGloss": "弄糟",
+      "speakLineEn": "Cue the 弄糟章: bungle walks on and the gag sticks.",
+      "speakLineZh": "請「弄糟章」出場：bungle 一上場梗就黏住——弄糟。",
+      "related": {
+        "synonyms": "bumble, mess up, screw up",
+        "antonyms": "unscrew"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "stumble",
+      "inVocab": true,
+      "senseAnchor": "an unsteady uneven gait; an unintentional but embarrassing blunder",
+      "roleInScript": "溼地滑",
+      "humorDevice": "lookalike",
+      "zhGloss": "絆倒",
+      "speakLineEn": "Cue the 溼地滑: stumble walks on and the gag sticks.",
+      "speakLineZh": "請「溼地滑」出場：stumble 一上場梗就黏住——絆倒。",
+      "related": {
+        "synonyms": "lurch, stagger, trip, trip-up, misstep, falter",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "fumble",
+      "inVocab": true,
+      "senseAnchor": "(sports) dropping the ball; feel about uncertainly or blindly",
+      "roleInScript": "漏接",
+      "humorDevice": "lookalike",
+      "zhGloss": "漏接弄丟",
+      "speakLineEn": "Cue the 漏接: fumble walks on and the gag sticks.",
+      "speakLineZh": "請「漏接」出場：fumble 一上場梗就黏住——漏接弄丟。",
+      "related": {
+        "synonyms": "muff, grope, blunder, botch, bodge, bumble",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "botch",
+      "inVocab": true,
+      "senseAnchor": "拙劣完成",
+      "roleInScript": "縫歪",
+      "humorDevice": "lookalike",
+      "zhGloss": "拙劣完成",
+      "speakLineEn": "Cue the 縫歪: botch walks on and the gag sticks.",
+      "speakLineZh": "請「縫歪」出場：botch 一上場梗就黏住——拙劣完成。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "flub",
+      "inVocab": true,
+      "senseAnchor": "搞砸",
+      "roleInScript": "口誤",
+      "humorDevice": "lookalike",
+      "zhGloss": "搞砸",
+      "speakLineEn": "Cue the 口誤: flub walks on and the gag sticks.",
+      "speakLineZh": "請「口誤」出場：flub 一上場梗就黏住——搞砸。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b03"
+    },
+    {
+      "headword": "trip",
+      "inVocab": false,
+      "senseAnchor": "絆到",
+      "roleInScript": "絆到",
+      "humorDevice": "story",
+      "zhGloss": "絆到",
+      "speakLineEn": "Cue the 絆到: trip walks on and the gag sticks.",
+      "speakLineZh": "請「絆到」出場：trip 一上場梗就黏住——絆到。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "floor",
+      "inVocab": false,
+      "senseAnchor": "地板",
+      "roleInScript": "地板",
+      "humorDevice": "story",
+      "zhGloss": "地板",
+      "speakLineEn": "Cue the 地板: floor walks on and the gag sticks.",
+      "speakLineZh": "請「地板」出場：floor 一上場梗就黏住——地板。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "wetfloor",
+      "inVocab": false,
+      "senseAnchor": "溼地",
+      "roleInScript": "溼地",
+      "humorDevice": "story",
+      "zhGloss": "溼地",
+      "speakLineEn": "Cue the 溼地: wetfloor walks on and the gag sticks.",
+      "speakLineZh": "請「溼地」出場：wetfloor 一上場梗就黏住——溼地。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "hands",
+      "inVocab": false,
+      "senseAnchor": "手",
+      "roleInScript": "手",
+      "humorDevice": "story",
+      "zhGloss": "手",
+      "speakLineEn": "Cue the 手: hands walks on and the gag sticks.",
+      "speakLineZh": "請「手」出場：hands 一上場梗就黏住——手。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "feet",
+      "inVocab": false,
+      "senseAnchor": "腳",
+      "roleInScript": "腳",
+      "humorDevice": "story",
+      "zhGloss": "腳",
+      "speakLineEn": "Cue the 腳: feet walks on and the gag sticks.",
+      "speakLineZh": "請「腳」出場：feet 一上場梗就黏住——腳。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "mess",
+      "inVocab": false,
+      "senseAnchor": "一團糟",
+      "roleInScript": "一團糟",
+      "humorDevice": "story",
+      "zhGloss": "一團糟",
+      "speakLineEn": "Cue the 一團糟: mess walks on and the gag sticks.",
+      "speakLineZh": "請「一團糟」出場：mess 一上場梗就黏住——一團糟。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "corridor",
+      "inVocab": false,
+      "senseAnchor": "走廊",
+      "roleInScript": "走廊",
+      "humorDevice": "story",
+      "zhGloss": "走廊",
+      "speakLineEn": "Cue the 走廊: corridor walks on and the gag sticks.",
+      "speakLineZh": "請「走廊」出場：corridor 一上場梗就黏住——走廊。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "cone",
+      "inVocab": true,
+      "senseAnchor": "any cone-shaped artifact; a shape whose base is a circle and whose sides taper up to a point",
+      "roleInScript": "三角錐",
+      "humorDevice": "story",
+      "zhGloss": "三角錐",
+      "speakLineEn": "Cue the 三角錐: cone walks on and the gag sticks.",
+      "speakLineZh": "請「三角錐」出場：cone 一上場梗就黏住——三角錐。",
+      "related": {
+        "synonyms": "conoid, strobilus, strobile",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    }
+  ],
+  "reviewHooks": [
+    "bumble≈bungle＝搞砸；stumble＝絆倒",
+    "三詞都「不順」，但機制不同"
+  ],
+  "pitfalls": [
+    "stumble 偏腳／語誤；bumble/bungle 偏把事做壞"
+  ],
+  "lessonRefs": [
+    "lesson-look-bumble-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch03"
+  }
+}

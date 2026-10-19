@@ -1,0 +1,184 @@
+{
+  "id": "look-delude-01",
+  "type": "lookalike",
+  "elementLemma": "delude-deluge-divulge",
+  "titleZh": "delude／deluge／divulge｜水與謊工作室",
+  "titleEn": "Delude Studio",
+  "hook": "delude 是騙你，deluge 是淹你，divulge 是洩漏——工作室三個噴嘴：謊言、洪水、祕密。",
+  "script": "delude＝欺騙。deluge＝洪水／大量湧來。divulge＝洩露。保全：別被騙、別被淹、別爆料。",
+  "members": [
+    {
+      "headword": "delude",
+      "inVocab": true,
+      "senseAnchor": "be false to; be dishonest with",
+      "roleInScript": "謊言噴",
+      "humorDevice": "lookalike",
+      "zhGloss": "欺騙",
+      "speakLineEn": "Cue the 謊言噴: delude walks on and the gag sticks.",
+      "speakLineZh": "請「謊言噴」出場：delude 一上場梗就黏住——欺騙。",
+      "related": {
+        "synonyms": "deceive, cozen",
+        "antonyms": "undeceive"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "deluge",
+      "inVocab": true,
+      "senseAnchor": "an overwhelming number or amount; a heavy rain",
+      "roleInScript": "洪水閥",
+      "humorDevice": "lookalike",
+      "zhGloss": "洪水氾濫",
+      "speakLineEn": "Cue the 洪水閥: deluge walks on and the gag sticks.",
+      "speakLineZh": "請「洪水閥」出場：deluge 一上場梗就黏住——洪水氾濫。",
+      "related": {
+        "synonyms": "flood, inundation, torrent, downpour, cloudburst, waterspout",
+        "antonyms": "ebbtide"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "divulge",
+      "inVocab": true,
+      "senseAnchor": "make known to the public information that was previously known only to a few people or that was meant to be kept a secret",
+      "roleInScript": "祕密閥",
+      "humorDevice": "lookalike",
+      "zhGloss": "洩露",
+      "speakLineEn": "Cue the 祕密閥: divulge walks on and the gag sticks.",
+      "speakLineZh": "請「祕密閥」出場：divulge 一上場梗就黏住——洩露。",
+      "related": {
+        "synonyms": "unwrap, disclose, reveal, discover, expose, break",
+        "antonyms": "wrap, cover, conform to, keep, make, promote, repair"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "flood",
+      "inVocab": false,
+      "senseAnchor": "洪水",
+      "roleInScript": "洪水",
+      "humorDevice": "story",
+      "zhGloss": "洪水",
+      "speakLineEn": "Cue the 洪水: flood walks on and the gag sticks.",
+      "speakLineZh": "請「洪水」出場：flood 一上場梗就黏住——洪水。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "secret",
+      "inVocab": false,
+      "senseAnchor": "祕密",
+      "roleInScript": "祕密",
+      "humorDevice": "story",
+      "zhGloss": "祕密",
+      "speakLineEn": "Cue the 祕密: secret walks on and the gag sticks.",
+      "speakLineZh": "請「祕密」出場：secret 一上場梗就黏住——祕密。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "leak",
+      "inVocab": false,
+      "senseAnchor": "洩漏",
+      "roleInScript": "洩漏",
+      "humorDevice": "story",
+      "zhGloss": "洩漏",
+      "speakLineEn": "Cue the 洩漏: leak walks on and the gag sticks.",
+      "speakLineZh": "請「洩漏」出場：leak 一上場梗就黏住——洩漏。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "nozzle",
+      "inVocab": false,
+      "senseAnchor": "噴嘴",
+      "roleInScript": "噴嘴",
+      "humorDevice": "story",
+      "zhGloss": "噴嘴",
+      "speakLineEn": "Cue the 噴嘴: nozzle walks on and the gag sticks.",
+      "speakLineZh": "請「噴嘴」出場：nozzle 一上場梗就黏住——噴嘴。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "studio",
+      "inVocab": false,
+      "senseAnchor": "工作室",
+      "roleInScript": "工作室",
+      "humorDevice": "story",
+      "zhGloss": "工作室",
+      "speakLineEn": "Cue the 工作室: studio walks on and the gag sticks.",
+      "speakLineZh": "請「工作室」出場：studio 一上場梗就黏住——工作室。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "truth",
+      "inVocab": false,
+      "senseAnchor": "真相",
+      "roleInScript": "真相",
+      "humorDevice": "story",
+      "zhGloss": "真相",
+      "speakLineEn": "Cue the 真相: truth walks on and the gag sticks.",
+      "speakLineZh": "請「真相」出場：truth 一上場梗就黏住——真相。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "alarm",
+      "inVocab": false,
+      "senseAnchor": "警報",
+      "roleInScript": "警報",
+      "humorDevice": "story",
+      "zhGloss": "警報",
+      "speakLineEn": "Cue the 警報: alarm walks on and the gag sticks.",
+      "speakLineZh": "請「警報」出場：alarm 一上場梗就黏住——警報。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "delude＝騙；deluge＝淹；divulge＝洩",
+    "三詞 de-/di- 開頭易混"
+  ],
+  "pitfalls": [
+    "騙≠淹≠洩，先認動作"
+  ],
+  "lessonRefs": [
+    "lesson-look-delude-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch03"
+  }
+}

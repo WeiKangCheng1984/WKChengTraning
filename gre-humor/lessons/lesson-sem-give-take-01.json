@@ -1,0 +1,96 @@
+{
+  "id": "lesson-sem-give-take-01",
+  "slug": "sem-give-take-01",
+  "season": 3,
+  "seasonTitleZh": "語氣對打",
+  "seasonTitleEn": "Tone Duels",
+  "type": "duel",
+  "minutes": "12-15",
+  "clusterId": "sem-give-take-01",
+  "titleZh": "給予 ↔ 剝奪｜禮物桌對沒收筐",
+  "titleEn": "Give vs. Take",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "endow／bestow 把禮物擺上桌，divest／despoil／bereave 把東西丟進沒收筐——禮賓說：進門有禮，出門看筐。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "給予隊：endow／bestow／confer／grant。剝奪隊：divest／despoil／bereave／disenfranchise／deprive。口令：禮物桌寫「給你能耐」，沒收筐寫「先收回資格」。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "給：endow/bestow/confer；奪：divest/despoil/bereave",
+        "bereave＝因死亡而剝奪"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Provide with a quality/gift:",
+      "promptZh": "賦予／捐贈：",
+      "choices": [
+        "endow",
+        "divest",
+        "repository",
+        "neon"
+      ],
+      "answer": "endow"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Strip of property/rights:",
+      "promptZh": "剝奪：",
+      "choices": [
+        "divest",
+        "bestow",
+        "forecast",
+        "sole"
+      ],
+      "answer": "divest"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Deprive through death:",
+      "promptZh": "因死亡剝奪：",
+      "choices": [
+        "bereave",
+        "grant",
+        "omnibus",
+        "scanty"
+      ],
+      "answer": "bereave"
+    }
+  ],
+  "pitfalls": [
+    "endow＝賦予；endear＝使受喜愛——形近"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch03"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "lesson-sem-public-private-01",
+  "slug": "sem-public-private-01",
+  "season": 3,
+  "seasonTitleZh": "語氣對打",
+  "seasonTitleEn": "Tone Duels",
+  "type": "duel",
+  "minutes": "12-15",
+  "clusterId": "sem-public-private-01",
+  "titleZh": "公開 ↔ 私密｜廣場喇叭對隔音房",
+  "titleEn": "Public vs. Private",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "overt／publicize 在廣場開喇叭，covert／confidential／closet 進隔音房——記者會與密談隔一道門。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "公開隊：overt／publicize／disclose／broadcast。私密隊：covert／confidential／closet／secluded／classified。口令：喇叭寫「說給大家聽」，隔音房寫「到此為止」。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "公：overt/publicize/disclose；私：covert/confidential/closet",
+        "closet 可作形容詞＝祕密的"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Done openly:",
+      "promptZh": "公開的：",
+      "choices": [
+        "overt",
+        "covert",
+        "repository",
+        "neon"
+      ],
+      "answer": "overt"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Secret / hidden:",
+      "promptZh": "隱蔽的：",
+      "choices": [
+        "covert",
+        "publicize",
+        "forecast",
+        "sole"
+      ],
+      "answer": "covert"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Intended to be kept secret:",
+      "promptZh": "機密的：",
+      "choices": [
+        "confidential",
+        "broadcast",
+        "omnibus",
+        "scanty"
+      ],
+      "answer": "confidential"
+    }
+  ],
+  "pitfalls": [
+    "overt 與 covert 是一對經典反義"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch03"
+  }
+}
