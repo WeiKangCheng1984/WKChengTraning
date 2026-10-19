@@ -1,0 +1,208 @@
+{
+  "id": "sem-praise-01",
+  "type": "semantic",
+  "elementLemma": "praise-vs-blame",
+  "titleZh": "讚美↔責罵｜對打擂台",
+  "titleEn": "Praise vs Blame Duel",
+  "hook": "語義對打：誇到天上 vs 罵到落地——GRE 語氣超愛這組。",
+  "script": "讚美隊：laud／acclaim／commend／applaud／eulogize／panegyric／encomium——頒獎典禮模式。責罵隊：condemn／reprove／rebuke／castigate／upbraid／lambaste——法庭咆哮模式。口令：讚要具體，罵要對事。",
+  "members": [
+    {
+      "headword": "laud",
+      "inVocab": true,
+      "senseAnchor": "讚美",
+      "roleInScript": "頒獎話筒",
+      "humorDevice": "contrast",
+      "zhGloss": "讚美",
+      "speakLineEn": "Laud the replication, not only the novelty.",
+      "speakLineZh": "讚美複現，不只新奇。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "acclaim",
+      "inVocab": true,
+      "senseAnchor": "歡呼；稱讚",
+      "roleInScript": "全場鼓掌",
+      "humorDevice": "contrast",
+      "zhGloss": "歡呼；稱讚",
+      "speakLineEn": "Critical acclaim is not validation.",
+      "speakLineZh": "批評界歡呼不是驗證。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "commend",
+      "inVocab": true,
+      "senseAnchor": "express approval of; present as worthy of regard, kindness, or confidence",
+      "roleInScript": "正式表揚",
+      "humorDevice": "contrast",
+      "zhGloss": "推薦；稱讚",
+      "speakLineEn": "Commend transparent limitation sections.",
+      "speakLineZh": "表揚透明的限制段。",
+      "related": {
+        "synonyms": "recommend, remember",
+        "antonyms": "forget"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "applaud",
+      "inVocab": true,
+      "senseAnchor": "鼓掌讚許",
+      "roleInScript": "拍巴掌",
+      "humorDevice": "contrast",
+      "zhGloss": "鼓掌讚許",
+      "speakLineEn": "Applaud corrections as courage.",
+      "speakLineZh": "把勘誤當勇氣鼓掌。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "eulogize",
+      "inVocab": true,
+      "senseAnchor": "praise formally and eloquently",
+      "roleInScript": "悼詞式誇",
+      "humorDevice": "contrast",
+      "zhGloss": "頌揚",
+      "speakLineEn": "Do not eulogize a living theory past its data.",
+      "speakLineZh": "不要把活理論頌揚超過資料。",
+      "related": {
+        "synonyms": "eulogise",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "panegyric",
+      "inVocab": true,
+      "senseAnchor": "a formal expression of praise; formally expressing praise",
+      "roleInScript": "長篇誇文",
+      "humorDevice": "contrast",
+      "zhGloss": "頌詞",
+      "speakLineEn": "A panegyric abstract oversells.",
+      "speakLineZh": "頌詞式摘要過度銷售。",
+      "related": {
+        "synonyms": "encomium, eulogy, paean, pean, encomiastic, eulogistic",
+        "antonyms": "invective, condemnation, dirge, elegy"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "encomium",
+      "inVocab": true,
+      "senseAnchor": "a formal expression of praise",
+      "roleInScript": "正式誇文",
+      "humorDevice": "contrast",
+      "zhGloss": "讚辭",
+      "speakLineEn": "Save encomiums for after audit.",
+      "speakLineZh": "稽核後再寫讚辭。",
+      "related": {
+        "synonyms": "eulogy, panegyric, paean, pean",
+        "antonyms": "invective, condemnation, dirge, elegy"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "condemn",
+      "inVocab": true,
+      "senseAnchor": "譴責",
+      "roleInScript": "判有罪語氣",
+      "humorDevice": "contrast",
+      "zhGloss": "譴責",
+      "speakLineEn": "Condemn fabrication unequivocally.",
+      "speakLineZh": "毫不含糊譴責捏造。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "reprove",
+      "inVocab": true,
+      "senseAnchor": "責備",
+      "roleInScript": "溫和罵",
+      "humorDevice": "contrast",
+      "zhGloss": "責備",
+      "speakLineEn": "Reprove sloppy logs early.",
+      "speakLineZh": "及早責備草率日誌。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "rebuke",
+      "inVocab": true,
+      "senseAnchor": "an act or expression of criticism and censure; censure severely or angrily",
+      "roleInScript": "較重罵",
+      "humorDevice": "contrast",
+      "zhGloss": "斥責",
+      "speakLineEn": "A public rebuke needs due process.",
+      "speakLineZh": "公開斥責需要正當程序。",
+      "related": {
+        "synonyms": "reproof, reproval, reprehension, reprimand, rag, trounce",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "castigate",
+      "inVocab": true,
+      "senseAnchor": "censure severely; inflict severe punishment on",
+      "roleInScript": "重訓",
+      "humorDevice": "contrast",
+      "zhGloss": "嚴厲譴責",
+      "speakLineEn": "Castigate incentives, then fix them.",
+      "speakLineZh": "嚴厲譴責誘因，然後修好。",
+      "related": {
+        "synonyms": "chastise, objurgate, chasten, correct",
+        "antonyms": "falsify, incorrect, wrong"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "lambaste",
+      "inVocab": true,
+      "senseAnchor": "to scold sharply",
+      "roleInScript": "暴風罵",
+      "humorDevice": "contrast",
+      "zhGloss": "痛罵",
+      "speakLineEn": "Lambaste hype in methods clubs.",
+      "speakLineZh": "在方法讀書會痛罵炒作。",
+      "related": {
+        "synonyms": "denounce, castigate, vituperate",
+        "antonyms": "praise, commend"
+      },
+      "vocabStatus": "in-vocab"
+    }
+  ],
+  "reviewHooks": [
+    "讚：laud/acclaim/commend/eulogize/panegyric",
+    "罵：condemn/rebuke/castigate/lambaste"
+  ],
+  "pitfalls": [
+    "eulogize 常＝頌揚（可含悼詞義）",
+    "castigate／lambaste＝嚴厲譴責"
+  ],
+  "lessonRefs": [
+    "lesson-sem-praise-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch01"
+  }
+}

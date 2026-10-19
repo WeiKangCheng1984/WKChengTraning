@@ -1,0 +1,208 @@
+{
+  "id": "prefix-hyper-01",
+  "type": "prefix",
+  "elementLemma": "hyper-",
+  "titleZh": "hyper-｜過度加速器",
+  "titleEn": "Hyper Overdrive",
+  "hook": "字首 hyper-＝過度——加速器專管過頭、超連結與誇大。",
+  "script": "hyperbole 誇大噴射。hyperactive 過動儀表板。hypersensitive 過敏警報。hyperlink 超連結跳轉；hypertension 高血壓梗——技師：hyperbole 寫作零分；hypotheses 別 hyper。",
+  "members": [
+    {
+      "headword": "hyperbole",
+      "inVocab": true,
+      "senseAnchor": "exaggeration",
+      "roleInScript": "誇大噴射",
+      "humorDevice": "morphology",
+      "zhGloss": "誇張法",
+      "speakLineEn": "Drop hyperbole from abstracts.",
+      "speakLineZh": "摘要刪掉誇張。",
+      "related": {
+        "synonyms": "overstatement",
+        "antonyms": "understatement"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "hyperactive",
+      "inVocab": false,
+      "senseAnchor": "過動的；過度活躍的",
+      "roleInScript": "過動儀表",
+      "humorDevice": "morphology",
+      "zhGloss": "過動的；過度活躍的",
+      "speakLineEn": "A hyperactive dashboard hides missingness.",
+      "speakLineZh": "過動儀表板隱藏缺失。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "hypersensitive",
+      "inVocab": false,
+      "senseAnchor": "過敏的；過於敏感的",
+      "roleInScript": "過敏警報",
+      "humorDevice": "morphology",
+      "zhGloss": "過敏的；過於敏感的",
+      "speakLineEn": "Be careful, not hypersensitive, to critique.",
+      "speakLineZh": "對批評要小心，不要過敏。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "hyperlink",
+      "inVocab": false,
+      "senseAnchor": "超連結",
+      "roleInScript": "跳轉門",
+      "humorDevice": "morphology",
+      "zhGloss": "超連結",
+      "speakLineEn": "Hyperlink the registry in the paper.",
+      "speakLineZh": "在論文超連結登錄庫。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "hypertension",
+      "inVocab": false,
+      "senseAnchor": "高血壓",
+      "roleInScript": "壓力過高梗",
+      "humorDevice": "story",
+      "zhGloss": "高血壓",
+      "speakLineEn": "Lab hypertension rises with opaque deadlines.",
+      "speakLineZh": "不透明期限讓實驗室『高血壓』。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "hyperfocus",
+      "inVocab": false,
+      "senseAnchor": "過度聚焦",
+      "roleInScript": "焦點過猛",
+      "humorDevice": "story",
+      "zhGloss": "過度聚焦",
+      "speakLineEn": "Hyperfocus on p ignores intervals.",
+      "speakLineZh": "過度聚焦 p 忽略區間。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "overclaim",
+      "inVocab": false,
+      "senseAnchor": "過度宣稱",
+      "roleInScript": "過頭主張",
+      "humorDevice": "story",
+      "zhGloss": "過度宣稱",
+      "speakLineEn": "Overclaiming invites retractions.",
+      "speakLineZh": "過度宣稱招來撤稿。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "exaggerate",
+      "inVocab": false,
+      "senseAnchor": "誇大",
+      "roleInScript": "誇大動詞",
+      "humorDevice": "story",
+      "zhGloss": "誇大",
+      "speakLineEn": "Do not exaggerate generalizability.",
+      "speakLineZh": "不要誇大可概括性。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "overdrive",
+      "inVocab": false,
+      "senseAnchor": "超速檔",
+      "roleInScript": "加速過猛",
+      "humorDevice": "story",
+      "zhGloss": "超速檔",
+      "speakLineEn": "Put methods in overdrive only after lock.",
+      "speakLineZh": "鎖定後才把方法開超速。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "too much",
+      "inVocab": false,
+      "senseAnchor": "太多",
+      "roleInScript": "過度口語",
+      "humorDevice": "story",
+      "zhGloss": "太多",
+      "speakLineEn": "Too much flexibility invites fishing.",
+      "speakLineZh": "彈性太多誘發淘篩。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "hyperbole check",
+      "inVocab": false,
+      "senseAnchor": "誇張檢查",
+      "roleInScript": "誇大煞車",
+      "humorDevice": "story",
+      "zhGloss": "誇張檢查",
+      "speakLineEn": "Run a hyperbole check on the title.",
+      "speakLineZh": "對標題做誇張檢查。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "extreme",
+      "inVocab": false,
+      "senseAnchor": "極端的",
+      "roleInScript": "極端",
+      "humorDevice": "story",
+      "zhGloss": "極端的",
+      "speakLineEn": "Extreme outliers need pre-rules.",
+      "speakLineZh": "極端離群需要預先規則。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "hyper-＝過度：hyperbole/hyperactive/hypersensitive/hyperlink",
+    "hyperbole＝誇張法"
+  ],
+  "pitfalls": [
+    "hyperbole≠ hypothesis",
+    "hypersensitive＝過於敏感"
+  ],
+  "lessonRefs": [
+    "lesson-prefix-hyper-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch03"
+  }
+}

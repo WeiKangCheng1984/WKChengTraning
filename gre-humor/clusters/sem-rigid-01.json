@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "rigid",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "僵硬的；嚴格的",
       "roleInScript": "不彎",
       "humorDevice": "contrast",
@@ -20,11 +20,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending"
     },
     {
       "headword": "inflexible",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "不知變通的",
       "roleInScript": "彎不了",
       "humorDevice": "contrast",
@@ -35,11 +35,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending"
     },
     {
       "headword": "adamant",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "堅決的；固執的",
       "roleInScript": "硬如鑽石",
       "humorDevice": "contrast",
@@ -50,7 +50,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending"
     },
     {
       "headword": "obdurate",
@@ -155,7 +155,8 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "flexible",
@@ -170,7 +171,8 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "adaptable",
@@ -185,7 +187,8 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     }
   ],
   "reviewHooks": [

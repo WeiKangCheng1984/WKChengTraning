@@ -1,0 +1,193 @@
+{
+  "id": "root-mand-01",
+  "type": "root",
+  "elementLemma": "mand",
+  "titleZh": "mand｜命令櫃台",
+  "titleEn": "Mand Order Desk",
+  "hook": "字根 mand＝命令——櫃台專管命令、要求與委託單。",
+  "script": "command／commander 下達命令。demand／demanding 強勢要求。mandate／mandatory 強制令。commend 稱讚表現；countermand 撤銷前令——櫃員：mandatory prereg；countermand silent forks。",
+  "members": [
+    {
+      "headword": "command",
+      "inVocab": false,
+      "senseAnchor": "命令；指揮",
+      "roleInScript": "下達命令",
+      "humorDevice": "morphology",
+      "zhGloss": "命令；指揮",
+      "speakLineEn": "Command clarity beats charismatic chaos.",
+      "speakLineZh": "命令清晰勝過魅力混亂。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "commander",
+      "inVocab": false,
+      "senseAnchor": "指揮官",
+      "roleInScript": "下令人",
+      "humorDevice": "morphology",
+      "zhGloss": "指揮官",
+      "speakLineEn": "The analysis commander owns the lock date.",
+      "speakLineZh": "分析指揮官擁有鎖定日。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "demand",
+      "inVocab": false,
+      "senseAnchor": "要求；需求",
+      "roleInScript": "強勢要求",
+      "humorDevice": "morphology",
+      "zhGloss": "要求；需求",
+      "speakLineEn": "Journals demand transparency; labs should too.",
+      "speakLineZh": "期刊要求透明；實驗室也該如此。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "demanding",
+      "inVocab": false,
+      "senseAnchor": "苛求的",
+      "roleInScript": "高要求",
+      "humorDevice": "morphology",
+      "zhGloss": "苛求的",
+      "speakLineEn": "Demanding standards protect readers.",
+      "speakLineZh": "苛求標準保護讀者。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "mandate",
+      "inVocab": false,
+      "senseAnchor": "授權；命令",
+      "roleInScript": "強制令",
+      "humorDevice": "morphology",
+      "zhGloss": "授權；命令",
+      "speakLineEn": "Mandate open materials in the grant.",
+      "speakLineZh": "在補助案強制開放材料。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "mandatory",
+      "inVocab": false,
+      "senseAnchor": "強制的",
+      "roleInScript": "必做的",
+      "humorDevice": "morphology",
+      "zhGloss": "強制的",
+      "speakLineEn": "Mandatory checklists catch silent changes.",
+      "speakLineZh": "強制清單抓住沉默變更。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "countermand",
+      "inVocab": true,
+      "senseAnchor": "a contrary command cancelling or reversing a previous command; cancel officially",
+      "roleInScript": "撤前令",
+      "humorDevice": "morphology",
+      "zhGloss": "撤銷命令",
+      "speakLineEn": "Countermand any post-hoc outcome swap.",
+      "speakLineZh": "撤銷任何事後結局替換。",
+      "related": {
+        "synonyms": "revoke, annul, lift, reverse, repeal, overturn",
+        "antonyms": "validate, fall, lower, forward, obverse"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "remand",
+      "inVocab": true,
+      "senseAnchor": "the act of sending an accused person back into custody to await trial (or the continuation of the trial); refer (a matter or legal case) to another committee or authority or court for decision",
+      "roleInScript": "發回重審",
+      "humorDevice": "story",
+      "zhGloss": "還押；發回",
+      "speakLineEn": "Remand shaky claims to reanalysis.",
+      "speakLineZh": "把不穩主張發回重分析。",
+      "related": {
+        "synonyms": "remit, imprison, incarcerate, lag, immure, jail",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "reprimand",
+      "inVocab": true,
+      "senseAnchor": "an act or expression of criticism and censure; rebuke formally",
+      "roleInScript": "訓令",
+      "humorDevice": "story",
+      "zhGloss": "訓斥",
+      "speakLineEn": "A public reprimand is worse than a quiet fix.",
+      "speakLineZh": "公開訓斥不如安靜修好。",
+      "related": {
+        "synonyms": "rebuke, reproof, reproval, reprehension, censure, criminate",
+        "antonyms": "praise, commend"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "commandment",
+      "inVocab": false,
+      "senseAnchor": "誡命",
+      "roleInScript": "誡條",
+      "humorDevice": "story",
+      "zhGloss": "誡命",
+      "speakLineEn": "First commandment: do not peek unblinded.",
+      "speakLineZh": "第一誡：不要非盲偷看。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "requisition",
+      "inVocab": false,
+      "senseAnchor": "請購；徵用",
+      "roleInScript": "申請單",
+      "humorDevice": "story",
+      "zhGloss": "請購；徵用",
+      "speakLineEn": "File a requisition for compute, not for p.",
+      "speakLineZh": "申請算力，不是申請 p。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "mand＝命令：command/demand/mandate/mandatory/commend",
+    "mandatory＝強制的"
+  ],
+  "pitfalls": [
+    "commend＝稱讚；command＝命令",
+    "countermand＝撤銷命令"
+  ],
+  "lessonRefs": [
+    "lesson-root-mand-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch04"
+  }
+}

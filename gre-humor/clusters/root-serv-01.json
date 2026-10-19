@@ -1,0 +1,219 @@
+{
+  "id": "root-serv-01",
+  "type": "root",
+  "elementLemma": "serv",
+  "titleZh": "serv｜侍守服務站",
+  "titleEn": "Serv Service Station",
+  "hook": "字根 serv＝侍、守——服務站專管保存、觀察、應得與順服。",
+  "script": "conserve／preserve 把油存好。observe／observation／observant 觀察加油燈。deserve 應得幾格油；subservient 過度順服客人。service／servant／reservation：服務、侍者、預約保留——站長：observe 資料，preserve 原始檔，別 subservient 到不敢報錯。",
+  "members": [
+    {
+      "headword": "conserve",
+      "inVocab": false,
+      "senseAnchor": "保存；保育",
+      "roleInScript": "把油存好",
+      "humorDevice": "morphology",
+      "zhGloss": "保存；保育",
+      "speakLineEn": "Conserve statistical power with better design.",
+      "speakLineZh": "用更好設計保存檢定力。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "preserve",
+      "inVocab": false,
+      "senseAnchor": "保存；維持",
+      "roleInScript": "封存原味",
+      "humorDevice": "morphology",
+      "zhGloss": "保存；維持",
+      "speakLineEn": "Preserve raw files immutable.",
+      "speakLineZh": "原始檔不可變地保存。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "observe",
+      "inVocab": false,
+      "senseAnchor": "觀察；遵守",
+      "roleInScript": "看加油燈",
+      "humorDevice": "morphology",
+      "zhGloss": "觀察；遵守",
+      "speakLineEn": "Observe the preregistered plan.",
+      "speakLineZh": "遵守預註冊計畫。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "observation",
+      "inVocab": false,
+      "senseAnchor": "觀察；評論",
+      "roleInScript": "觀察紀錄",
+      "humorDevice": "morphology",
+      "zhGloss": "觀察；評論",
+      "speakLineEn": "An observation is not a causal claim.",
+      "speakLineZh": "觀察不是因果主張。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "observant",
+      "inVocab": false,
+      "senseAnchor": "善于觀察的；守規的",
+      "roleInScript": "眼尖員工",
+      "humorDevice": "morphology",
+      "zhGloss": "善于觀察的；守規的",
+      "speakLineEn": "Observant reviewers catch silent swaps.",
+      "speakLineZh": "眼尖審稿人抓到沉默替換。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "deserve",
+      "inVocab": false,
+      "senseAnchor": "應得",
+      "roleInScript": "該加幾格",
+      "humorDevice": "morphology",
+      "zhGloss": "應得",
+      "speakLineEn": "Null results deserve space.",
+      "speakLineZh": "虛無結果應得版面。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "subservient",
+      "inVocab": true,
+      "senseAnchor": "compliant and obedient to authority; -G. B. Shaw; serving or acting as a means or aid",
+      "roleInScript": "過度順服",
+      "humorDevice": "morphology",
+      "zhGloss": "屈從的；輔助的",
+      "speakLineEn": "Do not be subservient to fashion metrics.",
+      "speakLineZh": "不要屈從流行指標。",
+      "related": {
+        "synonyms": "implemental, instrumental, slavish, submissive",
+        "antonyms": "vocal, domineering, assertive"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "reservation",
+      "inVocab": false,
+      "senseAnchor": "保留；預約",
+      "roleInScript": "留位／保留意見",
+      "humorDevice": "story",
+      "zhGloss": "保留；預約",
+      "speakLineEn": "State reservations about external validity.",
+      "speakLineZh": "陳述對外部效度的保留。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "service",
+      "inVocab": false,
+      "senseAnchor": "服務",
+      "roleInScript": "加油服務",
+      "humorDevice": "story",
+      "zhGloss": "服務",
+      "speakLineEn": "Treat data service as scholarship.",
+      "speakLineZh": "把資料服務當學術。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "conserve evidence",
+      "inVocab": false,
+      "senseAnchor": "保存證據",
+      "roleInScript": "封存證據",
+      "humorDevice": "story",
+      "zhGloss": "保存證據",
+      "speakLineEn": "Conserve evidence trails for audits.",
+      "speakLineZh": "為稽核保存證據軌跡。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "deserve better",
+      "inVocab": false,
+      "senseAnchor": "應得更好",
+      "roleInScript": "加油鼓勵",
+      "humorDevice": "story",
+      "zhGloss": "應得更好",
+      "speakLineEn": "Participants deserve better consent UX.",
+      "speakLineZh": "參與者應得更好的同意體驗。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "server",
+      "inVocab": false,
+      "senseAnchor": "伺服器",
+      "roleInScript": "站的機器",
+      "humorDevice": "story",
+      "zhGloss": "伺服器",
+      "speakLineEn": "Lock down the server before sharing IDs.",
+      "speakLineZh": "共享 ID 前鎖好伺服器。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "serv＝守：conserve/preserve/observe/deserve/subservient",
+    "subservient＝屈從的"
+  ],
+  "pitfalls": [
+    "conserve≈preserve 略有分工：保育／保存",
+    "deserve＝應得"
+  ],
+  "lessonRefs": [
+    "lesson-root-serv-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch02"
+  }
+}

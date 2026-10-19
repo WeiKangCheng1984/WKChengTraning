@@ -1,0 +1,209 @@
+{
+  "id": "root-medi-01",
+  "type": "root",
+  "elementLemma": "medi",
+  "titleZh": "medi｜中庸調解茶室",
+  "titleEn": "Medi Tea House",
+  "hook": "字根 medi＝中——茶室專管站中間：調解、平庸、中世紀長桌。",
+  "script": "mediate／mediation／mediator 勸两边坐下喝茶。mediocre 茶泡得平庸卻硬說是特調。medieval 長桌還在中世紀模式；intermediate／medium 中間档。immediate 沒有中間人——立刻到。remedial 補救課像把人拉回中線重學。",
+  "members": [
+    {
+      "headword": "mediate",
+      "inVocab": true,
+      "senseAnchor": "調停；仲介",
+      "roleInScript": "勸兩邊喝茶",
+      "humorDevice": "morphology",
+      "zhGloss": "調停；仲介",
+      "speakLineEn": "A neutral body can mediate data disputes.",
+      "speakLineZh": "中立單位可調停資料爭議。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "mediation",
+      "inVocab": true,
+      "senseAnchor": "調解",
+      "roleInScript": "喝茶過程",
+      "humorDevice": "morphology",
+      "zhGloss": "調解",
+      "speakLineEn": "Try mediation before litigation metaphors.",
+      "speakLineZh": "打官司隱喻前先試調解。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "mediator",
+      "inVocab": true,
+      "senseAnchor": "調解人",
+      "roleInScript": "倒茶的人",
+      "humorDevice": "morphology",
+      "zhGloss": "調解人",
+      "speakLineEn": "The editor acted as mediator, not advocate.",
+      "speakLineZh": "編輯當調解人而非辯護人。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "mediocre",
+      "inVocab": true,
+      "senseAnchor": "ordinary, common",
+      "roleInScript": "特調其實普通",
+      "humorDevice": "morphology",
+      "zhGloss": "平庸的",
+      "speakLineEn": "Mediocre abstracts bury the contribution.",
+      "speakLineZh": "平庸摘要埋掉貢獻。",
+      "related": {
+        "synonyms": "run-of-the-mill",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "medieval",
+      "inVocab": true,
+      "senseAnchor": "中世紀的；極舊的",
+      "roleInScript": "長桌復古模式",
+      "humorDevice": "morphology",
+      "zhGloss": "中世紀的；極舊的",
+      "speakLineEn": "Medieval paywalls block modern collaboration.",
+      "speakLineZh": "中世紀式付費牆阻擋現代合作。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "intermediate",
+      "inVocab": true,
+      "senseAnchor": "中級的；中間的",
+      "roleInScript": "中档座位",
+      "humorDevice": "morphology",
+      "zhGloss": "中級的；中間的",
+      "speakLineEn": "Report intermediate outcomes transparently.",
+      "speakLineZh": "透明報告中間結果。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "medium",
+      "inVocab": true,
+      "senseAnchor": "媒介；中等",
+      "roleInScript": "傳茶托盤",
+      "humorDevice": "morphology",
+      "zhGloss": "媒介；中等",
+      "speakLineEn": "Choose the right medium for preregistration.",
+      "speakLineZh": "為預註冊選對媒介。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "immediate",
+      "inVocab": true,
+      "senseAnchor": "立即的；直接的",
+      "roleInScript": "沒中間人",
+      "humorDevice": "morphology",
+      "zhGloss": "立即的；直接的",
+      "speakLineEn": "Immediate corrections beat delayed rumors.",
+      "speakLineZh": "立即勘誤勝過延遲謠言。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "remedial",
+      "inVocab": true,
+      "senseAnchor": "補救的",
+      "roleInScript": "拉回中線重學",
+      "humorDevice": "morphology",
+      "zhGloss": "補救的",
+      "speakLineEn": "Offer remedial stats workshops without stigma.",
+      "speakLineZh": "提供無汙名的補救統計工作坊。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "intermediary",
+      "inVocab": true,
+      "senseAnchor": "中間人",
+      "roleInScript": "傳話茶僮",
+      "humorDevice": "story",
+      "zhGloss": "中間人",
+      "speakLineEn": "Avoid opaque intermediaries for raw files.",
+      "speakLineZh": "原始檔避免不透明中間人。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "median",
+      "inVocab": true,
+      "senseAnchor": "中位數",
+      "roleInScript": "正中間那杯",
+      "humorDevice": "story",
+      "zhGloss": "中位數",
+      "speakLineEn": "Prefer the median when outliers shout.",
+      "speakLineZh": "極端值喊叫時偏好中位數。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "mediterranean",
+      "inVocab": false,
+      "senseAnchor": "地中海的",
+      "roleInScript": "中間之海（詞源彩蛋）",
+      "humorDevice": "story",
+      "zhGloss": "地中海的",
+      "speakLineEn": "Etymology jokes: Mediterranean as 'middle sea'.",
+      "speakLineZh": "詞源玩笑：地中海＝中間的海。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "medi＝中：mediate/mediocre/medieval/intermediate/immediate",
+    "mediocre＝平庸"
+  ],
+  "pitfalls": [
+    "mediate＝調停；immediate＝立即／直接",
+    "remedial＝補救性的"
+  ],
+  "lessonRefs": [
+    "lesson-root-medi-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch01"
+  }
+}

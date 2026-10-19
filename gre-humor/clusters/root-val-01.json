@@ -1,0 +1,208 @@
+{
+  "id": "root-val-01",
+  "type": "root",
+  "elementLemma": "val",
+  "titleZh": "val｜價值健身房",
+  "titleEn": "Val Worth Gym",
+  "hook": "字根 val＝強／值——健身房專管價值、有效、勇敢與告別。",
+  "script": "value／valuable／evaluate／evaluation 秤價值。valid／validate／validity 有效認證。valiant／valor 勇敢組。equivalent 等值啞鈴；prevail／invalid 勝出／無效——教練：validate openly；invalid shortcuts 禁。",
+  "members": [
+    {
+      "headword": "value",
+      "inVocab": false,
+      "senseAnchor": "價值",
+      "roleInScript": "秤上讀數",
+      "humorDevice": "morphology",
+      "zhGloss": "價值",
+      "speakLineEn": "State the scientific value before the p.",
+      "speakLineZh": "在 p 之前陳述科學價值。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "valuable",
+      "inVocab": false,
+      "senseAnchor": "有價值的",
+      "roleInScript": "有重量",
+      "humorDevice": "morphology",
+      "zhGloss": "有價值的",
+      "speakLineEn": "Negative results are valuable when honest.",
+      "speakLineZh": "誠實的負結果有價值。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "evaluate",
+      "inVocab": false,
+      "senseAnchor": "評估",
+      "roleInScript": "上秤",
+      "humorDevice": "morphology",
+      "zhGloss": "評估",
+      "speakLineEn": "Evaluate robustness, not vibes.",
+      "speakLineZh": "評估穩健，不是感覺。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "evaluation",
+      "inVocab": false,
+      "senseAnchor": "評估",
+      "roleInScript": "秤重報告",
+      "humorDevice": "morphology",
+      "zhGloss": "評估",
+      "speakLineEn": "External evaluation beats self-praise.",
+      "speakLineZh": "外部評估勝過自誇。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "valid",
+      "inVocab": false,
+      "senseAnchor": "有效的",
+      "roleInScript": "認證通過",
+      "humorDevice": "morphology",
+      "zhGloss": "有效的",
+      "speakLineEn": "A valid test needs a clear estimand.",
+      "speakLineZh": "有效檢定需要清楚目標量。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "validate",
+      "inVocab": false,
+      "senseAnchor": "驗證",
+      "roleInScript": "蓋認證章",
+      "humorDevice": "morphology",
+      "zhGloss": "驗證",
+      "speakLineEn": "Validate code against a known toy dataset.",
+      "speakLineZh": "用已知玩具資料驗證程式碼。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "validity",
+      "inVocab": false,
+      "senseAnchor": "效度；有效性",
+      "roleInScript": "認證強度",
+      "humorDevice": "morphology",
+      "zhGloss": "效度；有效性",
+      "speakLineEn": "Discuss construct validity, not only p.",
+      "speakLineZh": "討論構念效度，不只 p。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "valiant",
+      "inVocab": true,
+      "senseAnchor": "having or showing valor",
+      "roleInScript": "勇敢組",
+      "humorDevice": "morphology",
+      "zhGloss": "勇敢的",
+      "speakLineEn": "Valiant reporting includes limitations.",
+      "speakLineZh": "勇敢報告包含限制。",
+      "related": {
+        "synonyms": "valorous",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "valor",
+      "inVocab": false,
+      "senseAnchor": "勇氣",
+      "roleInScript": "勇氣值",
+      "humorDevice": "story",
+      "zhGloss": "勇氣",
+      "speakLineEn": "Intellectual valor is correcting the record.",
+      "speakLineZh": "智識勇氣是更正紀錄。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "equivalent",
+      "inVocab": false,
+      "senseAnchor": "相等的",
+      "roleInScript": "等值啞鈴",
+      "humorDevice": "story",
+      "zhGloss": "相等的",
+      "speakLineEn": "Do not treat proxies as equivalent outcomes.",
+      "speakLineZh": "別把代理當等值結局。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "prevail",
+      "inVocab": false,
+      "senseAnchor": "勝過；盛行",
+      "roleInScript": "勝出",
+      "humorDevice": "story",
+      "zhGloss": "勝過；盛行",
+      "speakLineEn": "Evidence should prevail over hierarchy.",
+      "speakLineZh": "證據應勝過層級。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "invalid",
+      "inVocab": false,
+      "senseAnchor": "無效的",
+      "roleInScript": "認證失敗",
+      "humorDevice": "story",
+      "zhGloss": "無效的",
+      "speakLineEn": "Unblinded peeks make tests invalid.",
+      "speakLineZh": "非盲偷看使檢定無效。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "val＝值／強：value/evaluate/valid/validate/valiant/prevail",
+    "validity＝效度"
+  ],
+  "pitfalls": [
+    "valid＝有效的；invalid＝無效的",
+    "prevail＝勝過／盛行"
+  ],
+  "lessonRefs": [
+    "lesson-root-val-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch04"
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "id": "root-phil-01",
+  "type": "root",
+  "elementLemma": "phil",
+  "titleZh": "phil｜愛心粉絲後援會",
+  "titleEn": "Phil Fan Club",
+  "hook": "字根 phil＝愛——後援會專管「愛到 dedic ate」的各種粉絲。",
+  "script": "哲學系社長 philosophy 愛智慧愛到睡不著；philately 郵迷把郵票當戀人。bibliophile 抱著書睡，cinephile 抱著片子哭，technophile 抱著新gadget笑。philanthropy／philanthropist 愛人類到願意掏腰包；anglophile 英倫迷連雨都覺得浪漫；philharmonic 愛和諧所以組樂團——場外還有 philology 語言考古粉在挖字根。",
+  "members": [
+    {
+      "headword": "philosophy",
+      "inVocab": true,
+      "senseAnchor": "哲學",
+      "roleInScript": "愛智慧社長",
+      "humorDevice": "morphology",
+      "zhGloss": "哲學",
+      "speakLineEn": "State your philosophy of evidence before the claim.",
+      "speakLineZh": "先講你的證據哲學再出主張。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "philately",
+      "inVocab": true,
+      "senseAnchor": "the collection and study of postage stamps",
+      "roleInScript": "郵票戀人粉",
+      "humorDevice": "morphology",
+      "zhGloss": "集郵",
+      "speakLineEn": "His philately collection funded open-data prizes.",
+      "speakLineZh": "他的集郵收藏資助了開放資料獎。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "bibliophile",
+      "inVocab": true,
+      "senseAnchor": "藏書家；愛書人",
+      "roleInScript": "抱書睡的粉",
+      "humorDevice": "morphology",
+      "zhGloss": "藏書家；愛書人",
+      "speakLineEn": "A bibliophile still needs digital backups.",
+      "speakLineZh": "愛書人仍需數位備份。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "cinephile",
+      "inVocab": true,
+      "senseAnchor": "影迷",
+      "roleInScript": "抱片哭的粉",
+      "humorDevice": "morphology",
+      "zhGloss": "影迷",
+      "speakLineEn": "Cinephile taste is not a methods validation.",
+      "speakLineZh": "影迷品味不是方法驗證。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "technophile",
+      "inVocab": true,
+      "senseAnchor": "科技迷",
+      "roleInScript": "抱gadget笑的粉",
+      "humorDevice": "morphology",
+      "zhGloss": "科技迷",
+      "speakLineEn": "Technophiles over-trust shiny dashboards.",
+      "speakLineZh": "科技迷過度信任閃亮儀表板。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "philanthropy",
+      "inVocab": true,
+      "senseAnchor": "慈善；博愛",
+      "roleInScript": "愛人類到掏腰包",
+      "humorDevice": "morphology",
+      "zhGloss": "慈善；博愛",
+      "speakLineEn": "Philanthropy without transparency can distort agendas.",
+      "speakLineZh": "不透明的慈善可能扭曲議程。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "philanthropist",
+      "inVocab": true,
+      "senseAnchor": "慈善家",
+      "roleInScript": "金援粉絲王",
+      "humorDevice": "morphology",
+      "zhGloss": "慈善家",
+      "speakLineEn": "Name the philanthropist and the strings attached.",
+      "speakLineZh": "具名慈善家與附帶條件。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "anglophile",
+      "inVocab": true,
+      "senseAnchor": "親英者；英倫迷",
+      "roleInScript": "連雨都浪漫的粉",
+      "humorDevice": "morphology",
+      "zhGloss": "親英者；英倫迷",
+      "speakLineEn": "Anglophile framing is not cross-cultural proof.",
+      "speakLineZh": "親英框架不是跨文化證明。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "philharmonic",
+      "inVocab": true,
+      "senseAnchor": "愛樂的；交響樂團",
+      "roleInScript": "愛和聲組團",
+      "humorDevice": "morphology",
+      "zhGloss": "愛樂的；交響樂團",
+      "speakLineEn": "The philharmonic metaphor: many instruments, one score.",
+      "speakLineZh": "愛樂隱喻：多樂器共一總譜。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "philology",
+      "inVocab": true,
+      "senseAnchor": "the humanistic study of language and literature",
+      "roleInScript": "挖字根考古粉",
+      "humorDevice": "morphology",
+      "zhGloss": "語文學；文獻學",
+      "speakLineEn": "Philology reminds us words drift in meaning.",
+      "speakLineZh": "語文學提醒詞義會漂。",
+      "related": {
+        "synonyms": "linguistics",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "audiophile",
+      "inVocab": true,
+      "senseAnchor": "音響迷",
+      "roleInScript": "耳機信徒",
+      "humorDevice": "story",
+      "zhGloss": "音響迷",
+      "speakLineEn": "Audiophile gear cannot fix a noisy design.",
+      "speakLineZh": "音響迷裝備修不好嘈雜設計。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "xenophile",
+      "inVocab": true,
+      "senseAnchor": "喜好異文化者",
+      "roleInScript": "愛外來的粉",
+      "humorDevice": "story",
+      "zhGloss": "喜好異文化者",
+      "speakLineEn": "A xenophile lab invites outsider critique.",
+      "speakLineZh": "喜好異文化的實驗室歡迎外人批評。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    }
+  ],
+  "reviewHooks": [
+    "phil＝愛：philosophy/philately/bibliophile/philanthropy",
+    "philharmonic＝愛和聲的樂團"
+  ],
+  "pitfalls": [
+    "philanthropy＝慈善博愛，不是 philately（集郵）",
+    "anglophile＝親英／英倫迷"
+  ],
+  "lessonRefs": [
+    "lesson-root-phil-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch01"
+  }
+}

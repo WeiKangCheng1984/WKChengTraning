@@ -1,0 +1,208 @@
+{
+  "id": "root-numer-01",
+  "type": "root",
+  "elementLemma": "numer",
+  "titleZh": "numer｜計數清算櫃",
+  "titleEn": "Numer Counting Desk",
+  "hook": "字根 numer＝數——清算櫃把數字排好，也抓「數不清」的誇大。",
+  "script": "numeral／numerator／numerous／innumerable 數字柜台。enumerate／enumeration 逐一點名。supernumerary 編制外多餘；numerology 把數字當玄學——櫃員：enumerate exclusions；拒 numerology 式解讀。",
+  "members": [
+    {
+      "headword": "numeral",
+      "inVocab": false,
+      "senseAnchor": "數字",
+      "roleInScript": "數字牌",
+      "humorDevice": "morphology",
+      "zhGloss": "數字",
+      "speakLineEn": "Define the numeral coding before collection.",
+      "speakLineZh": "收集前定義數字編碼。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "numerous",
+      "inVocab": false,
+      "senseAnchor": "許多的",
+      "roleInScript": "很多櫃",
+      "humorDevice": "morphology",
+      "zhGloss": "許多的",
+      "speakLineEn": "Numerous robustness checks beat one lucky p.",
+      "speakLineZh": "許多穩健檢查勝過一個幸運 p。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "enumerate",
+      "inVocab": false,
+      "senseAnchor": "列舉；點數",
+      "roleInScript": "逐一點名",
+      "humorDevice": "morphology",
+      "zhGloss": "列舉；點數",
+      "speakLineEn": "Enumerate every exclusion with counts.",
+      "speakLineZh": "列舉每次排除並附計數。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "enumeration",
+      "inVocab": false,
+      "senseAnchor": "列舉；清點",
+      "roleInScript": "清點表",
+      "humorDevice": "morphology",
+      "zhGloss": "列舉；清點",
+      "speakLineEn": "Publish the enumeration of deviations.",
+      "speakLineZh": "公開偏離的清點表。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "innumerable",
+      "inVocab": false,
+      "senseAnchor": "無數的",
+      "roleInScript": "數不清堆",
+      "humorDevice": "morphology",
+      "zhGloss": "無數的",
+      "speakLineEn": "Innumerable post-hoc tweaks destroy credibility.",
+      "speakLineZh": "無數事後微調摧毀可信度。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "numerator",
+      "inVocab": false,
+      "senseAnchor": "分子",
+      "roleInScript": "分數上方",
+      "humorDevice": "morphology",
+      "zhGloss": "分子",
+      "speakLineEn": "Keep the numerator definition locked.",
+      "speakLineZh": "鎖定分子定義。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "supernumerary",
+      "inVocab": false,
+      "senseAnchor": "多餘的；編制外",
+      "roleInScript": "多餘名額",
+      "humorDevice": "morphology",
+      "zhGloss": "多餘的；編制外",
+      "speakLineEn": "Cut supernumerary outcomes early.",
+      "speakLineZh": "及早砍掉多餘結局。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "numerology",
+      "inVocab": false,
+      "senseAnchor": "數字命理",
+      "roleInScript": "玄學算命",
+      "humorDevice": "story",
+      "zhGloss": "數字命理",
+      "speakLineEn": "Do not practice p-value numerology.",
+      "speakLineZh": "不要搞 p 值數字命理。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "tally",
+      "inVocab": true,
+      "senseAnchor": "a score in baseball made by a runner touching all four bases safely; a bill for an amount due",
+      "roleInScript": "正字記分",
+      "humorDevice": "story",
+      "zhGloss": "計數；記分",
+      "speakLineEn": "Tally decisions in a living protocol.",
+      "speakLineZh": "在活的規程裡記分決策。",
+      "related": {
+        "synonyms": "run, reckoning, count, counting, numeration, enumeration",
+        "antonyms": "disagree"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "census",
+      "inVocab": false,
+      "senseAnchor": "普查",
+      "roleInScript": "普查表",
+      "humorDevice": "story",
+      "zhGloss": "普查",
+      "speakLineEn": "Run a census of variables before modeling.",
+      "speakLineZh": "建模前做變數普查。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "headcount",
+      "inVocab": false,
+      "senseAnchor": "人數清點",
+      "roleInScript": "人頭數",
+      "humorDevice": "story",
+      "zhGloss": "人數清點",
+      "speakLineEn": "Report headcount at each exclusion step.",
+      "speakLineZh": "每步排除報告人頭數。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "arithmetic",
+      "inVocab": false,
+      "senseAnchor": "算術",
+      "roleInScript": "算術板",
+      "humorDevice": "story",
+      "zhGloss": "算術",
+      "speakLineEn": "Show the arithmetic behind composite scores.",
+      "speakLineZh": "展示複合分數背後的算術。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "numer＝數：numeral/numerous/enumerate/innumerable/numerator",
+    "enumerate＝列舉"
+  ],
+  "pitfalls": [
+    "innumerable＝無數的；numerous＝許多的",
+    "numerator＝分子"
+  ],
+  "lessonRefs": [
+    "lesson-root-numer-01"
+  ],
+  "status": "reviewed",
+  "priority": "C",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch05"
+  }
+}

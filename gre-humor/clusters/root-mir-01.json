@@ -1,0 +1,193 @@
+{
+  "id": "root-mir-01",
+  "type": "root",
+  "elementLemma": "mir",
+  "titleZh": "mir｜奇蹟鏡屋",
+  "titleEn": "Mir Mirror House",
+  "hook": "字根 mir＝奇、看——鏡屋專管驚奇、鏡子與奇蹟廣告。",
+  "script": "miracle／miraculous 奇蹟燈箱（廣告勿信）。mirror 鏡子複現。admire／admiration 欣賞反光。mirage 沙漠假水——導遊：admire 好複現；mirage 的『顯著』請離開。",
+  "members": [
+    {
+      "headword": "miracle",
+      "inVocab": false,
+      "senseAnchor": "奇蹟",
+      "roleInScript": "奇蹟燈箱",
+      "humorDevice": "morphology",
+      "zhGloss": "奇蹟",
+      "speakLineEn": "A single study is not a miracle.",
+      "speakLineZh": "單一研究不是奇蹟。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "miraculous",
+      "inVocab": false,
+      "senseAnchor": "奇蹟般的",
+      "roleInScript": "奇蹟廣告",
+      "humorDevice": "morphology",
+      "zhGloss": "奇蹟般的",
+      "speakLineEn": "Miraculous effect sizes need skepticism.",
+      "speakLineZh": "奇蹟般效應量需要懷疑。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "mirror",
+      "inVocab": false,
+      "senseAnchor": "鏡子；反映",
+      "roleInScript": "鏡子複現",
+      "humorDevice": "morphology",
+      "zhGloss": "鏡子；反映",
+      "speakLineEn": "Independent labs should mirror the protocol.",
+      "speakLineZh": "獨立實驗室應鏡像規程。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "admire",
+      "inVocab": false,
+      "senseAnchor": "欽佩；欣賞",
+      "roleInScript": "欣賞反光",
+      "humorDevice": "morphology",
+      "zhGloss": "欽佩；欣賞",
+      "speakLineEn": "Admire careful null reporting.",
+      "speakLineZh": "欣賞謹慎的虛無報告。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "admiration",
+      "inVocab": false,
+      "senseAnchor": "欽佩",
+      "roleInScript": "欣賞値",
+      "humorDevice": "morphology",
+      "zhGloss": "欽佩",
+      "speakLineEn": "Save admiration for transparent corrections.",
+      "speakLineZh": "把欽佩留給透明勘誤。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "mirage",
+      "inVocab": true,
+      "senseAnchor": "an optical illusion in which atmospheric refraction by a layer of hot air distorts or inverts reflections of distant objects; something illusory and unattainable",
+      "roleInScript": "沙漠假水",
+      "humorDevice": "morphology",
+      "zhGloss": "海市蜃樓；幻景",
+      "speakLineEn": "A mirage of certainty fades under audit.",
+      "speakLineZh": "確定性的海市蜃樓在稽核下消散。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "mirror image",
+      "inVocab": false,
+      "senseAnchor": "鏡像",
+      "roleInScript": "左右相反像",
+      "humorDevice": "story",
+      "zhGloss": "鏡像",
+      "speakLineEn": "A mirror-image replication still needs local ethics.",
+      "speakLineZh": "鏡像複現仍需在地倫理。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "marvel",
+      "inVocab": true,
+      "senseAnchor": "one that evokes surprise, admiration or wonder",
+      "roleInScript": "驚奇",
+      "humorDevice": "story",
+      "zhGloss": "驚嘆",
+      "speakLineEn": "Marvel less; measure more.",
+      "speakLineZh": "少驚嘆；多測量。",
+      "related": {
+        "synonyms": "miracle, wonder",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "wonder",
+      "inVocab": false,
+      "senseAnchor": "驚奇；想知道",
+      "roleInScript": "想看清楚",
+      "humorDevice": "story",
+      "zhGloss": "驚奇；想知道",
+      "speakLineEn": "Wonder aloud about missing cells.",
+      "speakLineZh": "大聲好奇缺失格子。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "reflect",
+      "inVocab": false,
+      "senseAnchor": "反映；反省",
+      "roleInScript": "鏡子動作",
+      "humorDevice": "story",
+      "zhGloss": "反映；反省",
+      "speakLineEn": "Reflect exclusions in the flowchart.",
+      "speakLineZh": "在流程圖反映排除。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "illusion",
+      "inVocab": false,
+      "senseAnchor": "錯覺",
+      "roleInScript": "假像",
+      "humorDevice": "story",
+      "zhGloss": "錯覺",
+      "speakLineEn": "Significance stars can be an illusion of importance.",
+      "speakLineZh": "顯著星號可能是重要錯覺。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "mir＝奇／看：miracle/mirror/admire/mirage",
+    "mirage＝海市蜃樓"
+  ],
+  "pitfalls": [
+    "miracle 不應用於未複現發現",
+    "mirage＝幻景"
+  ],
+  "lessonRefs": [
+    "lesson-root-mir-01"
+  ],
+  "status": "reviewed",
+  "priority": "C",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch03"
+  }
+}

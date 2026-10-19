@@ -1,0 +1,217 @@
+{
+  "id": "root-put-01",
+  "type": "root",
+  "elementLemma": "put",
+  "titleZh": "put｜計算心事櫃",
+  "titleEn": "Put Computing Locker",
+  "hook": "字根 put＝想、算——櫃門寫著：爭議、聲譽、計算、委派。",
+  "script": "compute 先算。dispute 吵著算不清；reputation 聲譽櫃台。impute 把責任算到某人頭上；putative 據稱的候選人。deputy 代理計算員；computer 機器算盤——櫃員：impute 缺失要有模型，別亂 dispute 到沒日誌。",
+  "members": [
+    {
+      "headword": "compute",
+      "inVocab": false,
+      "senseAnchor": "計算",
+      "roleInScript": "先算",
+      "humorDevice": "morphology",
+      "zhGloss": "計算",
+      "speakLineEn": "Compute intervals, not stars alone.",
+      "speakLineZh": "計算區間，不只星號。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "dispute",
+      "inVocab": false,
+      "senseAnchor": "爭議；爭論",
+      "roleInScript": "吵著算不清",
+      "humorDevice": "morphology",
+      "zhGloss": "爭議；爭論",
+      "speakLineEn": "Document the dispute trail.",
+      "speakLineZh": "記錄爭議軌跡。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "reputation",
+      "inVocab": false,
+      "senseAnchor": "聲譽",
+      "roleInScript": "聲譽櫃台",
+      "humorDevice": "morphology",
+      "zhGloss": "聲譽",
+      "speakLineEn": "Reputation should not exempt audits.",
+      "speakLineZh": "聲譽不該豁免稽核。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "impute",
+      "inVocab": true,
+      "senseAnchor": "attribute or credit to; attribute (responsibility or fault) to a cause or source",
+      "roleInScript": "算到頭上／填上",
+      "humorDevice": "morphology",
+      "zhGloss": "歸咎；填補",
+      "speakLineEn": "Impute missingness cautiously and report it.",
+      "speakLineZh": "謹慎填補缺失並報告。",
+      "related": {
+        "synonyms": "ascribe, assign, attribute",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "putative",
+      "inVocab": true,
+      "senseAnchor": "purported; commonly put forth or accepted as true on inconclusive grounds",
+      "roleInScript": "據稱候選人",
+      "humorDevice": "morphology",
+      "zhGloss": "推定的；據稱的",
+      "speakLineEn": "A putative mechanism needs a test.",
+      "speakLineZh": "據稱機制需要檢驗。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "deputy",
+      "inVocab": false,
+      "senseAnchor": "someone authorized to exercise the powers of sheriff in emergencies; an assistant with power to act when his superior is absent",
+      "roleInScript": "代理計算員",
+      "humorDevice": "morphology",
+      "zhGloss": "副手；代理",
+      "speakLineEn": "Name a deputy data steward.",
+      "speakLineZh": "具名代理資料管家。",
+      "related": {
+        "synonyms": "lieutenant, surrogate",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "computer",
+      "inVocab": false,
+      "senseAnchor": "電腦",
+      "roleInScript": "機器算盤",
+      "humorDevice": "story",
+      "zhGloss": "電腦",
+      "speakLineEn": "A faster computer cannot fix bad design.",
+      "speakLineZh": "更快電腦修不好壞設計。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "computation",
+      "inVocab": false,
+      "senseAnchor": "計算過程",
+      "roleInScript": "算的流水",
+      "humorDevice": "story",
+      "zhGloss": "計算過程",
+      "speakLineEn": "Show computation steps for key figures.",
+      "speakLineZh": "關鍵圖顯示計算步驟。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "disreputable",
+      "inVocab": true,
+      "senseAnchor": "聲名狼藉的",
+      "roleInScript": "櫃台黑名單",
+      "humorDevice": "story",
+      "zhGloss": "聲名狼藉的",
+      "speakLineEn": "Disreputable vendors fail security review.",
+      "speakLineZh": "聲名狼藉廠商過不了資安審查。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "repute",
+      "inVocab": false,
+      "senseAnchor": "the state of being held in high esteem and honor; look on as or consider",
+      "roleInScript": "傳聞聲譽",
+      "humorDevice": "story",
+      "zhGloss": "名氣",
+      "speakLineEn": "Repute is not a p-value.",
+      "speakLineZh": "名氣不是 p 值。",
+      "related": {
+        "synonyms": "reputation, esteem",
+        "antonyms": "disrepute"
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "count",
+      "inVocab": false,
+      "senseAnchor": "計數",
+      "roleInScript": "算數",
+      "humorDevice": "story",
+      "zhGloss": "計數",
+      "speakLineEn": "Count exclusions before celebrating n.",
+      "speakLineZh": "慶祝樣本前先計數排除。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "accountable",
+      "inVocab": false,
+      "senseAnchor": "可究責的",
+      "roleInScript": "算得清责任",
+      "humorDevice": "story",
+      "zhGloss": "可究責的",
+      "speakLineEn": "Keep teams accountable for silent edits.",
+      "speakLineZh": "讓團隊對沉默修改可究責。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "put＝算：compute/dispute/reputation/impute/putative/deputy",
+    "impute＝歸因／填補"
+  ],
+  "pitfalls": [
+    "impute＝歸咎或統計填補",
+    "putative＝推定的／據稱的"
+  ],
+  "lessonRefs": [
+    "lesson-root-put-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch02"
+  }
+}

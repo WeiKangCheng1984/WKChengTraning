@@ -1,0 +1,200 @@
+{
+  "id": "root-term-01",
+  "type": "root",
+  "elementLemma": "term",
+  "titleZh": "term｜邊界終點站",
+  "titleEn": "Term Boundary Station",
+  "hook": "字根 term＝界、終——終點站專管術語、期限、終結與無盡。",
+  "script": "term 術語／期限。terminate／terminal／termination 到站終結。interminable 彷彿永不到站。determine 劃定邊界；exterminate 極端滅除——站長：先 define terms，再 terminate 收案；interminable 會議請結束。",
+  "members": [
+    {
+      "headword": "term",
+      "inVocab": false,
+      "senseAnchor": "術語；期限；學期",
+      "roleInScript": "站名牌",
+      "humorDevice": "morphology",
+      "zhGloss": "術語；期限；學期",
+      "speakLineEn": "Define every key term operationally.",
+      "speakLineZh": "每個關鍵術語都操作型定義。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "terminal",
+      "inVocab": false,
+      "senseAnchor": "終端的；末期的",
+      "roleInScript": "終點月台",
+      "humorDevice": "morphology",
+      "zhGloss": "終端的；末期的",
+      "speakLineEn": "Terminal figures need readable axes.",
+      "speakLineZh": "終端圖需要可讀軸。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "termination",
+      "inVocab": false,
+      "senseAnchor": "終止；結束",
+      "roleInScript": "結束廣播",
+      "humorDevice": "morphology",
+      "zhGloss": "終止；結束",
+      "speakLineEn": "Document termination criteria.",
+      "speakLineZh": "記錄終止標準。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "interminable",
+      "inVocab": true,
+      "senseAnchor": "tiresomely long; seemingly without end",
+      "roleInScript": "永不到站",
+      "humorDevice": "morphology",
+      "zhGloss": "無盡的；冗長的",
+      "speakLineEn": "Interminable methods hide the procedure.",
+      "speakLineZh": "無盡方法段掩蓋程序。",
+      "related": {
+        "synonyms": "endless, eternal",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "determine",
+      "inVocab": true,
+      "senseAnchor": "決定；測定",
+      "roleInScript": "劃定邊界",
+      "humorDevice": "morphology",
+      "zhGloss": "決定；測定",
+      "speakLineEn": "Determine the estimand before the model.",
+      "speakLineZh": "建模前測定目標量。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "exterminate",
+      "inVocab": true,
+      "senseAnchor": "to get rid of completely usually by killing off",
+      "roleInScript": "極端清除",
+      "humorDevice": "morphology",
+      "zhGloss": "消滅",
+      "speakLineEn": "Do not exterminate outliers without rules.",
+      "speakLineZh": "沒有規則不要消滅極端值。",
+      "related": {
+        "synonyms": "annihilate, eradicate, extirpate, wipe out",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "terminology",
+      "inVocab": false,
+      "senseAnchor": "術語體系",
+      "roleInScript": "站名系統",
+      "humorDevice": "story",
+      "zhGloss": "術語體系",
+      "speakLineEn": "Align terminology across papers.",
+      "speakLineZh": "跨論文對齊術語。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "terminus",
+      "inVocab": false,
+      "senseAnchor": "終點",
+      "roleInScript": "最後一站",
+      "humorDevice": "story",
+      "zhGloss": "終點",
+      "speakLineEn": "State the terminus of follow-up.",
+      "speakLineZh": "說明追蹤終點。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "predetermine",
+      "inVocab": false,
+      "senseAnchor": "预先决定",
+      "roleInScript": "先劃界",
+      "humorDevice": "story",
+      "zhGloss": "预先决定",
+      "speakLineEn": "Do not predetermine results in the intro.",
+      "speakLineZh": "不要在導論預先決定結果。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "indeterminate",
+      "inVocab": true,
+      "senseAnchor": "不確定的",
+      "roleInScript": "界線模糊",
+      "humorDevice": "story",
+      "zhGloss": "不確定的",
+      "speakLineEn": "Indeterminate missingness needs sensitivity analysis.",
+      "speakLineZh": "不確定缺失需要敏感度分析。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "deadline",
+      "inVocab": false,
+      "senseAnchor": "截止日期",
+      "roleInScript": "站的鐘",
+      "humorDevice": "story",
+      "zhGloss": "截止日期",
+      "speakLineEn": "Treat the registry deadline as sacred.",
+      "speakLineZh": "把登錄截止當神聖。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "term＝界終：term/terminate/terminal/interminable/determine",
+    "interminable＝無盡的"
+  ],
+  "pitfalls": [
+    "terminate＝終止",
+    "exterminate＝消滅（語氣重）"
+  ],
+  "lessonRefs": [
+    "lesson-root-term-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch02"
+  }
+}

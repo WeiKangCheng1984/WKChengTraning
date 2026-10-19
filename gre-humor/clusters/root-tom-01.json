@@ -1,0 +1,208 @@
+{
+  "id": "root-tom-01",
+  "type": "root",
+  "elementLemma": "tom",
+  "titleZh": "tom｜切割解剖室",
+  "titleEn": "Tom Cutting Room",
+  "hook": "字根 tom＝切——解剖室專管切開、原子與百科切片。",
+  "script": "atom／atomic 切到切不動。anatomy 結構解剖圖。tome 厚到像切下來的百科磚。epitome 典型切片代表；dichotomy 一刀兩半——主刀：dichotomy 前先定義；tome 別塞進摘要。",
+  "members": [
+    {
+      "headword": "atom",
+      "inVocab": false,
+      "senseAnchor": "原子",
+      "roleInScript": "切到最小",
+      "humorDevice": "morphology",
+      "zhGloss": "原子",
+      "speakLineEn": "An atom of evidence is still evidence—report it.",
+      "speakLineZh": "一原子證據仍是證據——請報告。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "atomic",
+      "inVocab": false,
+      "senseAnchor": "原子的；不可再分的",
+      "roleInScript": "切不動",
+      "humorDevice": "morphology",
+      "zhGloss": "原子的；不可再分的",
+      "speakLineEn": "Atomic commits help audits.",
+      "speakLineZh": "原子化提交幫助稽核。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "anatomy",
+      "inVocab": false,
+      "senseAnchor": "解剖；結構",
+      "roleInScript": "結構圖",
+      "humorDevice": "morphology",
+      "zhGloss": "解剖；結構",
+      "speakLineEn": "Show the anatomy of the pipeline.",
+      "speakLineZh": "展示管線解剖結構。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "tome",
+      "inVocab": false,
+      "senseAnchor": "巨冊",
+      "roleInScript": "百科磚",
+      "humorDevice": "morphology",
+      "zhGloss": "巨冊",
+      "speakLineEn": "Do not hide the protocol in a unread tome.",
+      "speakLineZh": "不要把規程藏在沒人讀的巨冊。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "epitome",
+      "inVocab": true,
+      "senseAnchor": "a standard or typical example; a brief abstract (as of an article or book)",
+      "roleInScript": "典型切片",
+      "humorDevice": "morphology",
+      "zhGloss": "典型；縮影",
+      "speakLineEn": "That lab is the epitome of open sharing.",
+      "speakLineZh": "那實驗室是開放共享的典型。",
+      "related": {
+        "synonyms": "prototype, paradigm, image",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "dichotomy",
+      "inVocab": true,
+      "senseAnchor": "an opposition between two things",
+      "roleInScript": "一刀兩半",
+      "humorDevice": "morphology",
+      "zhGloss": "二分法",
+      "speakLineEn": "Avoid false dichotomies of 'significant or nothing'.",
+      "speakLineZh": "避免『顯著或什麼都不是』的假二分。",
+      "related": {
+        "synonyms": "favorable",
+        "antonyms": "unfavorable"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "anatomy of error",
+      "inVocab": false,
+      "senseAnchor": "錯誤解剖",
+      "roleInScript": "剖錯",
+      "humorDevice": "story",
+      "zhGloss": "錯誤解剖",
+      "speakLineEn": "Do an anatomy of error after retraction.",
+      "speakLineZh": "撤稿後做錯誤解剖。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "cut",
+      "inVocab": false,
+      "senseAnchor": "切",
+      "roleInScript": "下刀",
+      "humorDevice": "story",
+      "zhGloss": "切",
+      "speakLineEn": "Cut exploratory claims from the abstract.",
+      "speakLineZh": "從摘要切開探索性主張。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "slice",
+      "inVocab": false,
+      "senseAnchor": "切片",
+      "roleInScript": "切一片",
+      "humorDevice": "story",
+      "zhGloss": "切片",
+      "speakLineEn": "Slice the sample only by prereg rules.",
+      "speakLineZh": "僅依預註冊規則切片樣本。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "section",
+      "inVocab": false,
+      "senseAnchor": "切開；章節",
+      "roleInScript": "切段",
+      "humorDevice": "story",
+      "zhGloss": "切開；章節",
+      "speakLineEn": "Section the paper so limits are visible.",
+      "speakLineZh": "切段論文讓限制可見。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "dissect",
+      "inVocab": true,
+      "senseAnchor": "cut open or cut apart; make a mathematical, chemical, or grammatical analysis of; break down into components or essential features",
+      "roleInScript": "細剖",
+      "humorDevice": "story",
+      "zhGloss": "解剖分析",
+      "speakLineEn": "Dissect the identification assumptions.",
+      "speakLineZh": "細剖識別假設。",
+      "related": {
+        "synonyms": "analyze, analyse",
+        "antonyms": "synthesize"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "binary",
+      "inVocab": false,
+      "senseAnchor": "二元的",
+      "roleInScript": "兩刀口",
+      "humorDevice": "story",
+      "zhGloss": "二元的",
+      "speakLineEn": "Binary significance thinking is a trap.",
+      "speakLineZh": "二元顯著思維是陷阱。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "tom＝切：atom/anatomy/tome/epitome/dichotomy",
+    "dichotomy＝二分"
+  ],
+  "pitfalls": [
+    "epitome＝典型／縮影",
+    "tome＝巨冊"
+  ],
+  "lessonRefs": [
+    "lesson-root-tom-01"
+  ],
+  "status": "reviewed",
+  "priority": "C",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch03"
+  }
+}

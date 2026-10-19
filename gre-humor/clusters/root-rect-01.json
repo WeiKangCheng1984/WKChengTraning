@@ -1,0 +1,208 @@
+{
+  "id": "root-rect-01",
+  "type": "root",
+  "elementLemma": "rect",
+  "titleZh": "rect｜矯正直尺局",
+  "titleEn": "Rect Straightener Bureau",
+  "hook": "字根 rect＝直、正——直尺局專管弄直、弄對、品德正直。",
+  "script": "correct／rectify 用尺把錯線拉直。rectitude 品德也要直。erect 豎直立起；direct／indirect／directive 指路或轉彎指示。rectangle 直角邊框——局長章：先 rectify 方法，再 erect 結論大廈。",
+  "members": [
+    {
+      "headword": "correct",
+      "inVocab": true,
+      "senseAnchor": "正確的；改正",
+      "roleInScript": "拉直線",
+      "humorDevice": "morphology",
+      "zhGloss": "正確的；改正",
+      "speakLineEn": "Correct the record publicly.",
+      "speakLineZh": "公開改正紀錄。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "rectify",
+      "inVocab": true,
+      "senseAnchor": "math: determine the length of; reduce to a fine, unmixed, or pure state; separate from extraneous matter or cleanse from impurities",
+      "roleInScript": "用尺弄直",
+      "humorDevice": "morphology",
+      "zhGloss": "矯正；改正",
+      "speakLineEn": "Rectify the codebook before round two.",
+      "speakLineZh": "第二輪前矯正碼本。",
+      "related": {
+        "synonyms": "refine, reform, reclaim, regenerate, remediate, remedy",
+        "antonyms": "falsify"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "rectitude",
+      "inVocab": true,
+      "senseAnchor": "righteousness as a consequence of being honorable and honest",
+      "roleInScript": "品德直線",
+      "humorDevice": "morphology",
+      "zhGloss": "正直；廉正",
+      "speakLineEn": "Rectitude matters more than cleverness.",
+      "speakLineZh": "正直比聰明重要。",
+      "related": {
+        "synonyms": "uprightness",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "erect",
+      "inVocab": true,
+      "senseAnchor": "豎立；直立的",
+      "roleInScript": "立起來",
+      "humorDevice": "morphology",
+      "zhGloss": "豎立；直立的",
+      "speakLineEn": "Do not erect causal towers on sand.",
+      "speakLineZh": "不要在沙上豎因果塔。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "direct",
+      "inVocab": true,
+      "senseAnchor": "直接的；指導",
+      "roleInScript": "直線指路",
+      "humorDevice": "morphology",
+      "zhGloss": "直接的；指導",
+      "speakLineEn": "Give direct answers about missingness.",
+      "speakLineZh": "對缺失給直接答案。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "indirect",
+      "inVocab": true,
+      "senseAnchor": "間接的",
+      "roleInScript": "轉彎指路",
+      "humorDevice": "morphology",
+      "zhGloss": "間接的",
+      "speakLineEn": "Indirect effects need mediation assumptions.",
+      "speakLineZh": "間接效應需要中介假設。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "directive",
+      "inVocab": true,
+      "senseAnchor": "指示；指令",
+      "roleInScript": "官方指路條",
+      "humorDevice": "morphology",
+      "zhGloss": "指示；指令",
+      "speakLineEn": "Follow the registry directive on outcomes.",
+      "speakLineZh": "遵循登錄庫對結局的指令。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "rectangle",
+      "inVocab": true,
+      "senseAnchor": "矩形",
+      "roleInScript": "直角邊框",
+      "humorDevice": "story",
+      "zhGloss": "矩形",
+      "speakLineEn": "Put uncertainty in the rectangle of the figure.",
+      "speakLineZh": "把不確定放進圖的矩形裡。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "correction",
+      "inVocab": true,
+      "senseAnchor": "勘誤；改正",
+      "roleInScript": "拉直結果",
+      "humorDevice": "story",
+      "zhGloss": "勘誤；改正",
+      "speakLineEn": "A timely correction is scholarship.",
+      "speakLineZh": "及時勘誤是學術。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "incorrect",
+      "inVocab": true,
+      "senseAnchor": "不正確的",
+      "roleInScript": "歪線",
+      "humorDevice": "story",
+      "zhGloss": "不正確的",
+      "speakLineEn": "Mark incorrect claims without humiliation.",
+      "speakLineZh": "標記不正確主張但不羞辱。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "straighten",
+      "inVocab": true,
+      "senseAnchor": "弄直",
+      "roleInScript": "直尺動作",
+      "humorDevice": "story",
+      "zhGloss": "弄直",
+      "speakLineEn": "Straighten authorship order early.",
+      "speakLineZh": "及早弄直作者序。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "upright",
+      "inVocab": true,
+      "senseAnchor": "正直的；直立的",
+      "roleInScript": "站直",
+      "humorDevice": "story",
+      "zhGloss": "正直的；直立的",
+      "speakLineEn": "Stay upright when incentives bend.",
+      "speakLineZh": "誘因彎曲時仍站直。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    }
+  ],
+  "reviewHooks": [
+    "rect＝直：correct/rectify/rectitude/erect/direct",
+    "rectitude＝正直"
+  ],
+  "pitfalls": [
+    "rectify＝改正；rectitude＝正直品德",
+    "erect＝豎立"
+  ],
+  "lessonRefs": [
+    "lesson-root-rect-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch01"
+  }
+}

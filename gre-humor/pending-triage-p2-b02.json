@@ -1,0 +1,1975 @@
+{
+  "stage": "P2-pending-b02",
+  "at": "2026-10-18T23:53:44.214Z",
+  "pendingBefore": 361,
+  "addedToGreJson": [
+    {
+      "en": "acclaim",
+      "clusterId": "sem-praise-01",
+      "zh": "歡呼；稱讚"
+    },
+    {
+      "en": "acrophobia",
+      "clusterId": "root-phob-01",
+      "zh": "懼高症"
+    },
+    {
+      "en": "admonition",
+      "clusterId": "root-mon-01",
+      "zh": "訓誡；警告"
+    },
+    {
+      "en": "afloat",
+      "clusterId": "root-merge-01",
+      "zh": "漂浮的"
+    },
+    {
+      "en": "agoraphobia",
+      "clusterId": "root-phob-01",
+      "zh": "廣場恐懼症"
+    },
+    {
+      "en": "anglophile",
+      "clusterId": "root-phil-01",
+      "zh": "親英者；英倫迷"
+    },
+    {
+      "en": "antagonize",
+      "clusterId": "root-pugn-01",
+      "zh": "激怒；對抗"
+    },
+    {
+      "en": "anthropomorphic",
+      "clusterId": "root-morph-01",
+      "zh": "擬人的"
+    },
+    {
+      "en": "applaud",
+      "clusterId": "sem-praise-01",
+      "zh": "鼓掌讚許"
+    },
+    {
+      "en": "approval",
+      "clusterId": "root-prob-01",
+      "zh": "批准"
+    },
+    {
+      "en": "arachnophobia",
+      "clusterId": "root-phob-01",
+      "zh": "蜘蛛恐懼症"
+    },
+    {
+      "en": "arrogance",
+      "clusterId": "root-rog-01",
+      "zh": "傲慢"
+    },
+    {
+      "en": "arrogate",
+      "clusterId": "root-rog-01",
+      "zh": "僭取；擅據"
+    },
+    {
+      "en": "attest",
+      "clusterId": "root-test-01",
+      "zh": "證明；表明"
+    },
+    {
+      "en": "audiophile",
+      "clusterId": "root-phil-01",
+      "zh": "音響迷"
+    },
+    {
+      "en": "autopsy",
+      "clusterId": "root-opt-01",
+      "zh": "驗屍；事後剖析"
+    },
+    {
+      "en": "bibliophile",
+      "clusterId": "root-phil-01",
+      "zh": "藏書家；愛書人"
+    },
+    {
+      "en": "cacophonous",
+      "clusterId": "root-phon-01",
+      "zh": "刺耳的"
+    },
+    {
+      "en": "cinephile",
+      "clusterId": "root-phil-01",
+      "zh": "影迷"
+    },
+    {
+      "en": "combat",
+      "clusterId": "root-pugn-01",
+      "zh": "對抗"
+    },
+    {
+      "en": "comic",
+      "clusterId": "root-rid-01",
+      "zh": "喜劇的"
+    },
+    {
+      "en": "commemorate",
+      "clusterId": "root-mem-01",
+      "zh": "紀念"
+    },
+    {
+      "en": "commutativity",
+      "clusterId": "root-mut-01",
+      "zh": "交換律"
+    },
+    {
+      "en": "commute",
+      "clusterId": "root-mut-01",
+      "zh": "通勤；減刑；互換"
+    },
+    {
+      "en": "compete",
+      "clusterId": "root-pet-01",
+      "zh": "競爭"
+    },
+    {
+      "en": "competition",
+      "clusterId": "root-pet-01",
+      "zh": "競爭"
+    },
+    {
+      "en": "conceivable",
+      "clusterId": "rhyme-ceive-01",
+      "zh": "可想像的"
+    },
+    {
+      "en": "conceive",
+      "clusterId": "rhyme-ceive-01",
+      "zh": "構想；懷孕"
+    },
+    {
+      "en": "condemn",
+      "clusterId": "sem-praise-01",
+      "zh": "譴責"
+    },
+    {
+      "en": "confidential",
+      "clusterId": "root-priv-01",
+      "zh": "機密的"
+    },
+    {
+      "en": "converge",
+      "clusterId": "prefix-con-01",
+      "zh": "匯合；收斂"
+    },
+    {
+      "en": "correct",
+      "clusterId": "root-rect-01",
+      "zh": "正確的；改正"
+    },
+    {
+      "en": "correction",
+      "clusterId": "root-rect-01",
+      "zh": "勘誤；改正"
+    },
+    {
+      "en": "deceitful",
+      "clusterId": "rhyme-ceive-01",
+      "zh": "欺詐的"
+    },
+    {
+      "en": "deceive",
+      "clusterId": "rhyme-ceive-01",
+      "zh": "欺騙"
+    },
+    {
+      "en": "deceptive",
+      "clusterId": "rhyme-ceive-01",
+      "zh": "欺騙性的"
+    },
+    {
+      "en": "deliverance",
+      "clusterId": "root-liber-01",
+      "zh": "解救；解脫"
+    },
+    {
+      "en": "demerge",
+      "clusterId": "root-merge-01",
+      "zh": "分拆"
+    },
+    {
+      "en": "derision",
+      "clusterId": "root-rid-01",
+      "zh": "嘲弄；笑柄"
+    },
+    {
+      "en": "determine",
+      "clusterId": "root-term-01",
+      "zh": "決定；測定"
+    },
+    {
+      "en": "direct",
+      "clusterId": "root-rect-01",
+      "zh": "直接的；指導"
+    },
+    {
+      "en": "directive",
+      "clusterId": "root-rect-01",
+      "zh": "指示；指令"
+    },
+    {
+      "en": "disapprove",
+      "clusterId": "root-prob-01",
+      "zh": "不贊成"
+    },
+    {
+      "en": "disreputable",
+      "clusterId": "root-put-01",
+      "zh": "聲名狼藉的"
+    },
+    {
+      "en": "emerge",
+      "clusterId": "root-merge-01",
+      "zh": "浮現；出現"
+    },
+    {
+      "en": "emergence",
+      "clusterId": "root-merge-01",
+      "zh": "出現；興起"
+    },
+    {
+      "en": "emergency",
+      "clusterId": "root-merge-01",
+      "zh": "緊急情況"
+    },
+    {
+      "en": "erect",
+      "clusterId": "root-rect-01",
+      "zh": "豎立；直立的"
+    },
+    {
+      "en": "euphony",
+      "clusterId": "root-phon-01",
+      "zh": "悅耳；諧音美"
+    },
+    {
+      "en": "exchange",
+      "clusterId": "root-mut-01",
+      "zh": "交換"
+    },
+    {
+      "en": "exclusive",
+      "clusterId": "root-priv-01",
+      "zh": "排外的；專有的"
+    },
+    {
+      "en": "extemporaneous",
+      "clusterId": "root-tempor-01",
+      "zh": "即興的"
+    },
+    {
+      "en": "fight",
+      "clusterId": "root-pugn-01",
+      "zh": "戰鬥"
+    },
+    {
+      "en": "formless",
+      "clusterId": "root-morph-01",
+      "zh": "無形式的"
+    },
+    {
+      "en": "freely",
+      "clusterId": "root-liber-01",
+      "zh": "自由地"
+    },
+    {
+      "en": "govern",
+      "clusterId": "root-reg-01",
+      "zh": "治理"
+    },
+    {
+      "en": "homophobia",
+      "clusterId": "root-phob-01",
+      "zh": "對同性戀的恐懼／歧視"
+    },
+    {
+      "en": "homophone",
+      "clusterId": "root-phon-01",
+      "zh": "同音異義詞"
+    },
+    {
+      "en": "hydrophobia",
+      "clusterId": "root-phob-01",
+      "zh": "恐水；狂犬病相關"
+    },
+    {
+      "en": "immediate",
+      "clusterId": "root-medi-01",
+      "zh": "立即的；直接的"
+    },
+    {
+      "en": "immersive",
+      "clusterId": "root-merge-01",
+      "zh": "沉浸式的"
+    },
+    {
+      "en": "impede",
+      "clusterId": "root-ped-01",
+      "zh": "妨礙；阻礙"
+    },
+    {
+      "en": "impediment",
+      "clusterId": "root-ped-01",
+      "zh": "障礙；口吃（語障）"
+    },
+    {
+      "en": "impetus",
+      "clusterId": "root-pet-01",
+      "zh": "動力；契機；動量"
+    },
+    {
+      "en": "improbable",
+      "clusterId": "root-prob-01",
+      "zh": "不太可能的"
+    },
+    {
+      "en": "incorrect",
+      "clusterId": "root-rect-01",
+      "zh": "不正確的"
+    },
+    {
+      "en": "indeterminate",
+      "clusterId": "root-term-01",
+      "zh": "不確定的"
+    },
+    {
+      "en": "indirect",
+      "clusterId": "root-rect-01",
+      "zh": "間接的"
+    },
+    {
+      "en": "inexpugnable",
+      "clusterId": "root-pugn-01",
+      "zh": "難攻克的；堅不可摧的"
+    },
+    {
+      "en": "interchange",
+      "clusterId": "root-mut-01",
+      "zh": "互換"
+    },
+    {
+      "en": "intermediary",
+      "clusterId": "root-medi-01",
+      "zh": "中間人"
+    },
+    {
+      "en": "intermediate",
+      "clusterId": "root-medi-01",
+      "zh": "中級的；中間的"
+    },
+    {
+      "en": "interregnum",
+      "clusterId": "root-reg-01",
+      "zh": "空位期；過渡期"
+    },
+    {
+      "en": "irony",
+      "clusterId": "root-rid-01",
+      "zh": "諷刺"
+    },
+    {
+      "en": "isomorphic",
+      "clusterId": "root-morph-01",
+      "zh": "同構的；同形的"
+    },
+    {
+      "en": "laud",
+      "clusterId": "sem-praise-01",
+      "zh": "讚美"
+    },
+    {
+      "en": "laughable",
+      "clusterId": "root-rid-01",
+      "zh": "可笑的"
+    },
+    {
+      "en": "liberalism",
+      "clusterId": "root-liber-01",
+      "zh": "自由主義"
+    },
+    {
+      "en": "liberalize",
+      "clusterId": "root-liber-01",
+      "zh": "使自由化；放寬"
+    },
+    {
+      "en": "liberate",
+      "clusterId": "root-liber-01",
+      "zh": "解放；使自由"
+    },
+    {
+      "en": "liberation",
+      "clusterId": "root-liber-01",
+      "zh": "解放"
+    },
+    {
+      "en": "libertarian",
+      "clusterId": "root-liber-01",
+      "zh": "自由意志主義者"
+    },
+    {
+      "en": "libertine",
+      "clusterId": "root-liber-01",
+      "zh": "放蕩者"
+    },
+    {
+      "en": "liberty",
+      "clusterId": "root-liber-01",
+      "zh": "自由"
+    },
+    {
+      "en": "median",
+      "clusterId": "root-medi-01",
+      "zh": "中位數"
+    },
+    {
+      "en": "mediate",
+      "clusterId": "root-medi-01",
+      "zh": "調停；仲介"
+    },
+    {
+      "en": "mediation",
+      "clusterId": "root-medi-01",
+      "zh": "調解"
+    },
+    {
+      "en": "mediator",
+      "clusterId": "root-medi-01",
+      "zh": "調解人"
+    },
+    {
+      "en": "medieval",
+      "clusterId": "root-medi-01",
+      "zh": "中世紀的；極舊的"
+    },
+    {
+      "en": "medium",
+      "clusterId": "root-medi-01",
+      "zh": "媒介；中等"
+    },
+    {
+      "en": "megaphone",
+      "clusterId": "root-phon-01",
+      "zh": "擴音器"
+    },
+    {
+      "en": "memento",
+      "clusterId": "root-mem-01",
+      "zh": "紀念品"
+    },
+    {
+      "en": "memo",
+      "clusterId": "root-mem-01",
+      "zh": "便條；備忘"
+    },
+    {
+      "en": "memoir",
+      "clusterId": "root-mem-01",
+      "zh": "回憶錄"
+    },
+    {
+      "en": "memorabilia",
+      "clusterId": "root-mem-01",
+      "zh": "紀念收藏品"
+    },
+    {
+      "en": "memorable",
+      "clusterId": "root-mem-01",
+      "zh": "難忘的"
+    },
+    {
+      "en": "memorandum",
+      "clusterId": "root-mem-01",
+      "zh": "備忘錄"
+    },
+    {
+      "en": "memorial",
+      "clusterId": "root-mem-01",
+      "zh": "紀念碑；追悼的"
+    },
+    {
+      "en": "memory",
+      "clusterId": "root-mem-01",
+      "zh": "記憶"
+    },
+    {
+      "en": "merger",
+      "clusterId": "root-merge-01",
+      "zh": "合併"
+    },
+    {
+      "en": "metamorphic",
+      "clusterId": "root-morph-01",
+      "zh": "變質的；變形的"
+    },
+    {
+      "en": "metamorphosis",
+      "clusterId": "root-morph-01",
+      "zh": "蛻變；變形"
+    },
+    {
+      "en": "microphone",
+      "clusterId": "root-phon-01",
+      "zh": "麥克風"
+    },
+    {
+      "en": "misanthrope",
+      "clusterId": "prefix-mis-01",
+      "zh": "厭世者"
+    },
+    {
+      "en": "mischief",
+      "clusterId": "prefix-mis-01",
+      "zh": "惡作劇；損害"
+    },
+    {
+      "en": "misconceive",
+      "clusterId": "rhyme-ceive-01",
+      "zh": "誤解構想"
+    },
+    {
+      "en": "misconstrue",
+      "clusterId": "prefix-mis-01",
+      "zh": "誤解；曲解"
+    },
+    {
+      "en": "miscount",
+      "clusterId": "prefix-mis-01",
+      "zh": "數錯"
+    },
+    {
+      "en": "misfortune",
+      "clusterId": "prefix-mis-01",
+      "zh": "不幸；厄運"
+    },
+    {
+      "en": "misgivings",
+      "clusterId": "prefix-mis-01",
+      "zh": "疑慮；不安"
+    },
+    {
+      "en": "mislabel",
+      "clusterId": "prefix-mis-01",
+      "zh": "貼錯標籤"
+    },
+    {
+      "en": "mislead",
+      "clusterId": "prefix-mis-01",
+      "zh": "誤導"
+    },
+    {
+      "en": "mismanage",
+      "clusterId": "prefix-mis-01",
+      "zh": "管理不善"
+    },
+    {
+      "en": "misread",
+      "clusterId": "prefix-mis-01",
+      "zh": "誤讀"
+    },
+    {
+      "en": "mistake",
+      "clusterId": "prefix-mis-01",
+      "zh": "錯誤"
+    },
+    {
+      "en": "mnemonic",
+      "clusterId": "root-mem-01",
+      "zh": "助記的；口訣"
+    },
+    {
+      "en": "mockery",
+      "clusterId": "root-rid-01",
+      "zh": "嘲弄；拙劣模仿"
+    },
+    {
+      "en": "monitor",
+      "clusterId": "root-mon-01",
+      "zh": "監視；監控器"
+    },
+    {
+      "en": "monitory",
+      "clusterId": "root-mon-01",
+      "zh": "警告的；訓誡的"
+    },
+    {
+      "en": "monument",
+      "clusterId": "root-mon-01",
+      "zh": "紀念碑"
+    },
+    {
+      "en": "morph",
+      "clusterId": "root-morph-01",
+      "zh": "變形；形態"
+    },
+    {
+      "en": "morphing",
+      "clusterId": "root-morph-01",
+      "zh": "變形中"
+    },
+    {
+      "en": "morphology",
+      "clusterId": "root-morph-01",
+      "zh": "形態學；構詞學"
+    },
+    {
+      "en": "mutability",
+      "clusterId": "root-mut-01",
+      "zh": "可變性"
+    },
+    {
+      "en": "mutable",
+      "clusterId": "root-mut-01",
+      "zh": "可變的"
+    },
+    {
+      "en": "mutant",
+      "clusterId": "root-mut-01",
+      "zh": "突變體"
+    },
+    {
+      "en": "mutate",
+      "clusterId": "root-mut-01",
+      "zh": "突變；變化"
+    },
+    {
+      "en": "mutation",
+      "clusterId": "root-mut-01",
+      "zh": "突變；變異"
+    },
+    {
+      "en": "mutual",
+      "clusterId": "root-mut-01",
+      "zh": "相互的"
+    },
+    {
+      "en": "oppugn",
+      "clusterId": "root-pugn-01",
+      "zh": "反對；質疑"
+    },
+    {
+      "en": "perception",
+      "clusterId": "rhyme-ceive-01",
+      "zh": "知覺；看法"
+    },
+    {
+      "en": "permutation",
+      "clusterId": "root-mut-01",
+      "zh": "排列；置換"
+    },
+    {
+      "en": "perturb",
+      "clusterId": "root-turb-01",
+      "zh": "擾亂；微擾"
+    },
+    {
+      "en": "petition",
+      "clusterId": "root-pet-01",
+      "zh": "請願；正式請求"
+    },
+    {
+      "en": "petitionary",
+      "clusterId": "root-pet-01",
+      "zh": "請願的"
+    },
+    {
+      "en": "philanthropist",
+      "clusterId": "root-phil-01",
+      "zh": "慈善家"
+    },
+    {
+      "en": "philanthropy",
+      "clusterId": "root-phil-01",
+      "zh": "慈善；博愛"
+    },
+    {
+      "en": "philharmonic",
+      "clusterId": "root-phil-01",
+      "zh": "愛樂的；交響樂團"
+    },
+    {
+      "en": "philosophy",
+      "clusterId": "root-phil-01",
+      "zh": "哲學"
+    },
+    {
+      "en": "phobe",
+      "clusterId": "root-phob-01",
+      "zh": "恐懼者（後綴用法）"
+    },
+    {
+      "en": "phobia",
+      "clusterId": "root-phob-01",
+      "zh": "恐懼症"
+    },
+    {
+      "en": "phobic",
+      "clusterId": "root-phob-01",
+      "zh": "恐懼的；恐懼症的"
+    },
+    {
+      "en": "phonic",
+      "clusterId": "root-phon-01",
+      "zh": "聲音的"
+    },
+    {
+      "en": "phonology",
+      "clusterId": "root-phon-01",
+      "zh": "音韻學"
+    },
+    {
+      "en": "photophobia",
+      "clusterId": "root-phob-01",
+      "zh": "畏光"
+    },
+    {
+      "en": "polymorphous",
+      "clusterId": "root-morph-01",
+      "zh": "多形的"
+    },
+    {
+      "en": "privacy",
+      "clusterId": "root-priv-01",
+      "zh": "隱私"
+    },
+    {
+      "en": "private",
+      "clusterId": "root-priv-01",
+      "zh": "私人的"
+    },
+    {
+      "en": "privately",
+      "clusterId": "root-priv-01",
+      "zh": "私下地"
+    },
+    {
+      "en": "privatization",
+      "clusterId": "root-priv-01",
+      "zh": "私有化"
+    },
+    {
+      "en": "privilege",
+      "clusterId": "root-priv-01",
+      "zh": "特權"
+    },
+    {
+      "en": "privy",
+      "clusterId": "root-priv-01",
+      "zh": "知情的；私下的"
+    },
+    {
+      "en": "probability",
+      "clusterId": "root-prob-01",
+      "zh": "機率"
+    },
+    {
+      "en": "probation",
+      "clusterId": "root-prob-01",
+      "zh": "緩刑；試用期"
+    },
+    {
+      "en": "probative",
+      "clusterId": "root-prob-01",
+      "zh": "可作證據的"
+    },
+    {
+      "en": "pugilist",
+      "clusterId": "root-pugn-01",
+      "zh": "拳擊手"
+    },
+    {
+      "en": "pugnacity",
+      "clusterId": "root-pugn-01",
+      "zh": "好鬥性"
+    },
+    {
+      "en": "receipt",
+      "clusterId": "rhyme-ceive-01",
+      "zh": "收據；收到"
+    },
+    {
+      "en": "rectangle",
+      "clusterId": "root-rect-01",
+      "zh": "矩形"
+    },
+    {
+      "en": "reemerge",
+      "clusterId": "root-merge-01",
+      "zh": "再次出現"
+    },
+    {
+      "en": "regal",
+      "clusterId": "root-reg-01",
+      "zh": "帝王的；莊嚴的"
+    },
+    {
+      "en": "regent",
+      "clusterId": "root-reg-01",
+      "zh": "攝政；董事"
+    },
+    {
+      "en": "regicide",
+      "clusterId": "root-reg-01",
+      "zh": "弒君；弒君者"
+    },
+    {
+      "en": "regular",
+      "clusterId": "root-reg-01",
+      "zh": "規則的；定期的"
+    },
+    {
+      "en": "regulate",
+      "clusterId": "root-reg-01",
+      "zh": "管制；調節"
+    },
+    {
+      "en": "regulation",
+      "clusterId": "root-reg-01",
+      "zh": "法規；調節"
+    },
+    {
+      "en": "reign",
+      "clusterId": "root-reg-01",
+      "zh": "統治時期"
+    },
+    {
+      "en": "remedial",
+      "clusterId": "root-medi-01",
+      "zh": "補救的"
+    },
+    {
+      "en": "remember",
+      "clusterId": "root-mem-01",
+      "zh": "記得"
+    },
+    {
+      "en": "reminder",
+      "clusterId": "root-mon-01",
+      "zh": "提醒"
+    },
+    {
+      "en": "repeat",
+      "clusterId": "root-pet-01",
+      "zh": "重複"
+    },
+    {
+      "en": "reprove",
+      "clusterId": "sem-praise-01",
+      "zh": "責備"
+    },
+    {
+      "en": "repugnant",
+      "clusterId": "root-pugn-01",
+      "zh": "令人厭惡的；牴觸的"
+    },
+    {
+      "en": "ridicule",
+      "clusterId": "root-rid-01",
+      "zh": "嘲笑；嘲弄"
+    },
+    {
+      "en": "ridiculous",
+      "clusterId": "root-rid-01",
+      "zh": "荒謬的；可笑的"
+    },
+    {
+      "en": "ruler",
+      "clusterId": "root-reg-01",
+      "zh": "統治者；尺"
+    },
+    {
+      "en": "secrecy",
+      "clusterId": "root-priv-01",
+      "zh": "機密"
+    },
+    {
+      "en": "shapeless",
+      "clusterId": "root-morph-01",
+      "zh": "無形的"
+    },
+    {
+      "en": "sink",
+      "clusterId": "root-merge-01",
+      "zh": "下沉"
+    },
+    {
+      "en": "sophistry",
+      "clusterId": "root-soph-01",
+      "zh": "詭辯"
+    },
+    {
+      "en": "sovereign",
+      "clusterId": "root-reg-01",
+      "zh": "主權的；君主"
+    },
+    {
+      "en": "straighten",
+      "clusterId": "root-rect-01",
+      "zh": "弄直"
+    },
+    {
+      "en": "submerge",
+      "clusterId": "root-merge-01",
+      "zh": "淹沒；沉入"
+    },
+    {
+      "en": "submergence",
+      "clusterId": "root-merge-01",
+      "zh": "沉沒"
+    },
+    {
+      "en": "summons",
+      "clusterId": "root-mon-01",
+      "zh": "傳票；召喚"
+    },
+    {
+      "en": "symphony",
+      "clusterId": "root-phon-01",
+      "zh": "交響曲；和諧"
+    },
+    {
+      "en": "technophile",
+      "clusterId": "root-phil-01",
+      "zh": "科技迷"
+    },
+    {
+      "en": "technophobia",
+      "clusterId": "root-phob-01",
+      "zh": "科技恐懼"
+    },
+    {
+      "en": "telephone",
+      "clusterId": "root-phon-01",
+      "zh": "電話"
+    },
+    {
+      "en": "test",
+      "clusterId": "root-prob-01",
+      "zh": "試驗"
+    },
+    {
+      "en": "transformer",
+      "clusterId": "root-morph-01",
+      "zh": "變形金剛／轉換器"
+    },
+    {
+      "en": "unassailable",
+      "clusterId": "root-pugn-01",
+      "zh": "無可指摘的"
+    },
+    {
+      "en": "underprivileged",
+      "clusterId": "root-priv-01",
+      "zh": "弱勢的"
+    },
+    {
+      "en": "unliberated",
+      "clusterId": "root-liber-01",
+      "zh": "未解放的"
+    },
+    {
+      "en": "upright",
+      "clusterId": "root-rect-01",
+      "zh": "正直的；直立的"
+    },
+    {
+      "en": "vital",
+      "clusterId": "root-viv-01",
+      "zh": "極其重要的；生命的"
+    },
+    {
+      "en": "vivid",
+      "clusterId": "root-viv-01",
+      "zh": "生動的；鮮明的"
+    },
+    {
+      "en": "warning",
+      "clusterId": "root-mon-01",
+      "zh": "警告"
+    },
+    {
+      "en": "watchdog",
+      "clusterId": "root-mon-01",
+      "zh": "監察者"
+    },
+    {
+      "en": "xenophile",
+      "clusterId": "root-phil-01",
+      "zh": "喜好異文化者"
+    },
+    {
+      "en": "xenophobia",
+      "clusterId": "root-phob-01",
+      "zh": "仇外；排外恐懼"
+    }
+  ],
+  "deferred": [
+    {
+      "en": "aboriginal",
+      "clusterId": "root-ori-01",
+      "zh": "原生的；原住民的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "accountable",
+      "clusterId": "root-put-01",
+      "zh": "可究責的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "adopt",
+      "clusterId": "root-opt-01",
+      "zh": "採納；收養",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "adoption",
+      "clusterId": "root-opt-01",
+      "zh": "採納；收養",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "agitate",
+      "clusterId": "root-turb-01",
+      "zh": "煽動；攪拌",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "alive",
+      "clusterId": "root-viv-01",
+      "zh": "活的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "appetite",
+      "clusterId": "root-pet-01",
+      "zh": "食慾；慾望",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "ask",
+      "clusterId": "root-rog-01",
+      "zh": "問",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "assign",
+      "clusterId": "root-sign-01",
+      "zh": "指派",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "attestation",
+      "clusterId": "root-test-01",
+      "zh": "證明書",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "attribution",
+      "clusterId": "root-trib-01",
+      "zh": "歸因；署名",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "binge",
+      "clusterId": "root-vor-01",
+      "zh": "狂吃",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "biped",
+      "clusterId": "root-ped-01",
+      "zh": "兩足動物",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "calm",
+      "clusterId": "root-turb-01",
+      "zh": "平靜",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "carnivore",
+      "clusterId": "root-vor-01",
+      "zh": "肉食動物",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "centipede",
+      "clusterId": "root-ped-01",
+      "zh": "蜈蚣",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "clever",
+      "clusterId": "root-soph-01",
+      "zh": "聰明的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "combine",
+      "clusterId": "prefix-con-01",
+      "zh": "結合",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "committee",
+      "clusterId": "prefix-con-01",
+      "zh": "委員會",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "companion",
+      "clusterId": "prefix-con-01",
+      "zh": "同伴",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "complete",
+      "clusterId": "prefix-con-01",
+      "zh": "完成；完全",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "compress",
+      "clusterId": "prefix-con-01",
+      "zh": "壓縮",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "computation",
+      "clusterId": "root-put-01",
+      "zh": "計算過程",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "compute",
+      "clusterId": "root-put-01",
+      "zh": "計算",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "computer",
+      "clusterId": "root-put-01",
+      "zh": "電腦",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "concurrent",
+      "clusterId": "prefix-con-01",
+      "zh": "同時的；並發的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "conserve",
+      "clusterId": "root-serv-01",
+      "zh": "保存；保育",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "conserve evidence",
+      "clusterId": "root-serv-01",
+      "zh": "保存證據",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "consolidate",
+      "clusterId": "prefix-con-01",
+      "zh": "鞏固；合併",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "contemporary",
+      "clusterId": "root-tempor-01",
+      "zh": "當代的；同時代的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "contest",
+      "clusterId": "root-test-01",
+      "zh": "爭辯；競賽",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "contestant",
+      "clusterId": "root-test-01",
+      "zh": "參賽者",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "contribute",
+      "clusterId": "root-trib-01",
+      "zh": "貢獻",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "contribution",
+      "clusterId": "root-trib-01",
+      "zh": "貢獻",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "contributor",
+      "clusterId": "root-trib-01",
+      "zh": "貢獻者",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "coordinate",
+      "clusterId": "root-ord-01",
+      "zh": "協調；座標",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "coordinator",
+      "clusterId": "root-ord-01",
+      "zh": "協調者",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "cosign",
+      "clusterId": "root-sign-01",
+      "zh": "連署",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "count",
+      "clusterId": "root-put-01",
+      "zh": "計數",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "deadline",
+      "clusterId": "root-term-01",
+      "zh": "截止日期",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "deserve",
+      "clusterId": "root-serv-01",
+      "zh": "應得",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "deserve better",
+      "clusterId": "root-serv-01",
+      "zh": "應得更好",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "design",
+      "clusterId": "root-sign-01",
+      "zh": "設計",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "designate",
+      "clusterId": "root-sign-01",
+      "zh": "指定；命名",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "devouring",
+      "clusterId": "root-vor-01",
+      "zh": "吞食中",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "digest",
+      "clusterId": "root-vor-01",
+      "zh": "消化",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "disorder",
+      "clusterId": "root-ord-01",
+      "zh": "混亂；失調",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "disorient",
+      "clusterId": "root-ori-01",
+      "zh": "使迷失方向",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "dispute",
+      "clusterId": "root-put-01",
+      "zh": "爭議；爭論",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "distribute",
+      "clusterId": "root-trib-01",
+      "zh": "分配；分發",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "distribution",
+      "clusterId": "root-trib-01",
+      "zh": "分配；分布",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "disturb",
+      "clusterId": "root-turb-01",
+      "zh": "打擾；擾亂",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "disturbance",
+      "clusterId": "root-turb-01",
+      "zh": "擾亂；騷動",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "disturbing",
+      "clusterId": "root-turb-01",
+      "zh": "令人不安的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "endoscope",
+      "clusterId": "root-scop-01",
+      "zh": "內視鏡",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "expedite",
+      "clusterId": "root-ped-01",
+      "zh": "加速；催辦",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "expedition",
+      "clusterId": "root-ped-01",
+      "zh": "遠征",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "extraordinary",
+      "clusterId": "root-ord-01",
+      "zh": "非凡的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "extraterrestrial",
+      "clusterId": "root-terr-01",
+      "zh": "外星的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "footprint",
+      "clusterId": "root-ped-01",
+      "zh": "足跡",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "herbivore",
+      "clusterId": "root-vor-01",
+      "zh": "草食動物",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "horoscope",
+      "clusterId": "root-scop-01",
+      "zh": "星座運勢",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "impetus check",
+      "clusterId": "root-pet-01",
+      "zh": "動力檢查",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "insignificant",
+      "clusterId": "root-sign-01",
+      "zh": "不顯著的；無足輕重的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "insubordinate",
+      "clusterId": "root-ord-01",
+      "zh": "不服從的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "kaleidoscope",
+      "clusterId": "root-scop-01",
+      "zh": "萬花筒",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "lifeline",
+      "clusterId": "root-viv-01",
+      "zh": "生命線",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "meantime",
+      "clusterId": "root-tempor-01",
+      "zh": "其間",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "mediterranean",
+      "clusterId": "root-medi-01",
+      "zh": "地中海的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "microscope",
+      "clusterId": "root-scop-01",
+      "zh": "顯微鏡",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "narrow",
+      "clusterId": "root-scop-01",
+      "zh": "變窄",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "observant",
+      "clusterId": "root-serv-01",
+      "zh": "善于觀察的；守規的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "observation",
+      "clusterId": "root-serv-01",
+      "zh": "觀察；評論",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "observe",
+      "clusterId": "root-serv-01",
+      "zh": "觀察；遵守",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "omnivore",
+      "clusterId": "root-vor-01",
+      "zh": "雜食動物",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "optic",
+      "clusterId": "root-opt-01",
+      "zh": "視覺的；光學的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "optimal",
+      "clusterId": "root-opt-01",
+      "zh": "最佳的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "optimism",
+      "clusterId": "root-opt-01",
+      "zh": "樂觀",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "optimize",
+      "clusterId": "root-opt-01",
+      "zh": "最適化",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "optimum",
+      "clusterId": "root-opt-01",
+      "zh": "最適點",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "option",
+      "clusterId": "root-opt-01",
+      "zh": "選項",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "optional",
+      "clusterId": "root-opt-01",
+      "zh": "可選的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "optometrist",
+      "clusterId": "root-opt-01",
+      "zh": "驗光師",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "ordain",
+      "clusterId": "root-ord-01",
+      "zh": "任命；規定",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "order",
+      "clusterId": "root-ord-01",
+      "zh": "秩序；命令；訂單",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "orderly",
+      "clusterId": "root-ord-01",
+      "zh": "有秩序的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "ordinal",
+      "clusterId": "root-ord-01",
+      "zh": "序數的；順序的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "ordinary",
+      "clusterId": "root-ord-01",
+      "zh": "普通的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "orient",
+      "clusterId": "root-ori-01",
+      "zh": "導向；使熟悉",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "orientation",
+      "clusterId": "root-ori-01",
+      "zh": "導向；新生訓練",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "origin",
+      "clusterId": "root-ori-01",
+      "zh": "起源",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "original",
+      "clusterId": "root-ori-01",
+      "zh": "最初的；原創的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "originally",
+      "clusterId": "root-ori-01",
+      "zh": "原先",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "outlook",
+      "clusterId": "root-scop-01",
+      "zh": "展望",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "overscope",
+      "clusterId": "root-scop-01",
+      "zh": "看得太寬",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "overtime",
+      "clusterId": "root-tempor-01",
+      "zh": "加班；超時",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "pedal",
+      "clusterId": "root-ped-01",
+      "zh": "踏板",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "periscope",
+      "clusterId": "root-scop-01",
+      "zh": "潛望鏡",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "perturbation",
+      "clusterId": "root-turb-01",
+      "zh": "微擾",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "philosophy club",
+      "clusterId": "root-soph-01",
+      "zh": "哲學社",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "phobic response",
+      "clusterId": "root-phob-01",
+      "zh": "恐懼反應",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "predetermine",
+      "clusterId": "root-term-01",
+      "zh": "预先决定",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "preserve",
+      "clusterId": "root-serv-01",
+      "zh": "保存；維持",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "protest",
+      "clusterId": "root-test-01",
+      "zh": "抗議",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "protestation",
+      "clusterId": "root-test-01",
+      "zh": "斷言；抗議",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "question",
+      "clusterId": "root-rog-01",
+      "zh": "問題",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "redistribute",
+      "clusterId": "root-trib-01",
+      "zh": "再分配",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "reorient",
+      "clusterId": "root-ori-01",
+      "zh": "重新導向",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "reputation",
+      "clusterId": "root-put-01",
+      "zh": "聲譽",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "reservation",
+      "clusterId": "root-serv-01",
+      "zh": "保留；預約",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "resign",
+      "clusterId": "root-sign-01",
+      "zh": "辭職；屈從",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "revive debate",
+      "clusterId": "root-viv-01",
+      "zh": "重啟辯論",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "savory",
+      "clusterId": "root-vor-01",
+      "zh": "鹹香的；可口的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "scope",
+      "clusterId": "root-scop-01",
+      "zh": "範圍；機會",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "scope creep",
+      "clusterId": "root-scop-01",
+      "zh": "範圍蔓延",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "scopophilia",
+      "clusterId": "root-scop-01",
+      "zh": "窺視癖（教學標註）",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "server",
+      "clusterId": "root-serv-01",
+      "zh": "伺服器",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "service",
+      "clusterId": "root-serv-01",
+      "zh": "服務",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "share",
+      "clusterId": "root-trib-01",
+      "zh": "分享",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "sign",
+      "clusterId": "root-sign-01",
+      "zh": "簽名；標誌",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "signal",
+      "clusterId": "root-sign-01",
+      "zh": "信號",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "signature",
+      "clusterId": "root-sign-01",
+      "zh": "簽名；特徵",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "significance",
+      "clusterId": "root-sign-01",
+      "zh": "顯著性；意義",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "signpost",
+      "clusterId": "root-sign-01",
+      "zh": "路標",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "sophistication",
+      "clusterId": "root-soph-01",
+      "zh": "精巧度；世故",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "sophomore",
+      "clusterId": "root-soph-01",
+      "zh": "二年級生；半吊子",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "source",
+      "clusterId": "root-ori-01",
+      "zh": "來源",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "sunrise",
+      "clusterId": "root-ori-01",
+      "zh": "日出",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "survival",
+      "clusterId": "root-viv-01",
+      "zh": "生存；存活率",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "survive",
+      "clusterId": "root-viv-01",
+      "zh": "存活；倖存",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "survivor",
+      "clusterId": "root-viv-01",
+      "zh": "倖存者",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "symphony of errors",
+      "clusterId": "root-phon-01",
+      "zh": "錯誤交響",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "telescope",
+      "clusterId": "root-scop-01",
+      "zh": "望遠鏡",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "temporarily",
+      "clusterId": "root-tempor-01",
+      "zh": "暫時地",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "temporary",
+      "clusterId": "root-tempor-01",
+      "zh": "暫時的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "term",
+      "clusterId": "root-term-01",
+      "zh": "術語；期限；學期",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "terminal",
+      "clusterId": "root-term-01",
+      "zh": "終端的；末期的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "termination",
+      "clusterId": "root-term-01",
+      "zh": "終止；結束",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "terminology",
+      "clusterId": "root-term-01",
+      "zh": "術語體系",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "terminus",
+      "clusterId": "root-term-01",
+      "zh": "終點",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "terrace",
+      "clusterId": "root-terr-01",
+      "zh": "梯田；露台",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "terrain",
+      "clusterId": "root-terr-01",
+      "zh": "地形；地帶",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "terrible",
+      "clusterId": "root-terr-01",
+      "zh": "糟糕的；可怕的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "terrify",
+      "clusterId": "root-terr-01",
+      "zh": "使恐懼",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "territory",
+      "clusterId": "root-terr-01",
+      "zh": "領土；領域",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "terror",
+      "clusterId": "root-terr-01",
+      "zh": "恐怖",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "testable",
+      "clusterId": "root-test-01",
+      "zh": "可檢驗的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "testify",
+      "clusterId": "root-test-01",
+      "zh": "作證",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "testimonial",
+      "clusterId": "root-test-01",
+      "zh": "推薦證明；見證文",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "timeline",
+      "clusterId": "root-tempor-01",
+      "zh": "時間線",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "trial period",
+      "clusterId": "root-prob-01",
+      "zh": "試用期",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "tribe",
+      "clusterId": "root-trib-01",
+      "zh": "部落",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "tripod",
+      "clusterId": "root-ped-01",
+      "zh": "三腳架",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "turbulence",
+      "clusterId": "root-turb-01",
+      "zh": "動盪；湍流",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "unsophisticated",
+      "clusterId": "root-soph-01",
+      "zh": "不世故的；簡單的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "untimely",
+      "clusterId": "root-tempor-01",
+      "zh": "不合時的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "vitamin",
+      "clusterId": "root-viv-01",
+      "zh": "維生素",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "vortex",
+      "clusterId": "root-vor-01",
+      "zh": "漩渦",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "wise",
+      "clusterId": "root-soph-01",
+      "zh": "有智慧的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "witness",
+      "clusterId": "root-test-01",
+      "zh": "證人",
+      "reason": "basic-multiword-or-specialty"
+    }
+  ],
+  "greTotalAfter": 4406
+}

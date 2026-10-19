@@ -1,0 +1,218 @@
+{
+  "id": "root-opt-01",
+  "type": "root",
+  "elementLemma": "opt",
+  "titleZh": "opt｜選擇驗光室",
+  "titleEn": "Opt Choice Clinic",
+  "hook": "字根 opt＝選／視——驗光室同時配眼鏡與人生選項。",
+  "script": "option／optional 選配鏡片。adopt 認養一副觀點。optimism／optimum 樂觀到以為已是最佳。optic／synopsis／autopsy：看、總覽、剖開細看——醫師喊：先 synopsis 再選 option，別盲目 optimism。",
+  "members": [
+    {
+      "headword": "option",
+      "inVocab": false,
+      "senseAnchor": "選項",
+      "roleInScript": "鏡片菜單",
+      "humorDevice": "morphology",
+      "zhGloss": "選項",
+      "speakLineEn": "Keep a preregistered option for sensitivity checks.",
+      "speakLineZh": "預註冊保留敏感度檢查選項。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "optional",
+      "inVocab": false,
+      "senseAnchor": "可選的",
+      "roleInScript": "選配",
+      "humorDevice": "morphology",
+      "zhGloss": "可選的",
+      "speakLineEn": "Open code should not be optional for claims.",
+      "speakLineZh": "對主張而言開放程式碼不該可選。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "adopt",
+      "inVocab": false,
+      "senseAnchor": "採納；收養",
+      "roleInScript": "認養觀點",
+      "humorDevice": "morphology",
+      "zhGloss": "採納；收養",
+      "speakLineEn": "Adopt shared standards across sites.",
+      "speakLineZh": "跨站點採納共享標準。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "optimism",
+      "inVocab": false,
+      "senseAnchor": "樂觀",
+      "roleInScript": "驗光太樂觀",
+      "humorDevice": "morphology",
+      "zhGloss": "樂觀",
+      "speakLineEn": "Optimism about n=30 needs a power check.",
+      "speakLineZh": "對 n=30 的樂觀需要檢定力檢查。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "optimum",
+      "inVocab": false,
+      "senseAnchor": "最適點",
+      "roleInScript": "最佳焦距",
+      "humorDevice": "morphology",
+      "zhGloss": "最適點",
+      "speakLineEn": "There is no single optimum for every field.",
+      "speakLineZh": "沒有適用所有領域的單一最適。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "optic",
+      "inVocab": false,
+      "senseAnchor": "視覺的；光學的",
+      "roleInScript": "看的線路",
+      "humorDevice": "morphology",
+      "zhGloss": "視覺的；光學的",
+      "speakLineEn": "Fix the optic of the figure before debating taste.",
+      "speakLineZh": "辯論品味前先修好圖的視覺。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "synopsis",
+      "inVocab": true,
+      "senseAnchor": "a brief outline",
+      "roleInScript": "總覽鏡",
+      "humorDevice": "morphology",
+      "zhGloss": "摘要；梗概",
+      "speakLineEn": "Write a honest synopsis, not a trailer.",
+      "speakLineZh": "寫誠實梗概，不是預告片。",
+      "related": {
+        "synonyms": "recapitulation",
+        "antonyms": "cenogenesis"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "autopsy",
+      "inVocab": true,
+      "senseAnchor": "驗屍；事後剖析",
+      "roleInScript": "剖開細看",
+      "humorDevice": "morphology",
+      "zhGloss": "驗屍；事後剖析",
+      "speakLineEn": "Run a blameless autopsy on the failed launch.",
+      "speakLineZh": "對失敗上線做無責事後剖析。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "optimize",
+      "inVocab": false,
+      "senseAnchor": "最適化",
+      "roleInScript": "調到最佳",
+      "humorDevice": "story",
+      "zhGloss": "最適化",
+      "speakLineEn": "Optimize clarity before optimizing citation count.",
+      "speakLineZh": "先優化清晰再優化引用數。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "optometrist",
+      "inVocab": false,
+      "senseAnchor": "驗光師",
+      "roleInScript": "調鏡的人",
+      "humorDevice": "story",
+      "zhGloss": "驗光師",
+      "speakLineEn": "Be the optometrist of your assumptions.",
+      "speakLineZh": "做自己假設的驗光師。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "adoption",
+      "inVocab": false,
+      "senseAnchor": "採納；收養",
+      "roleInScript": "認養儀式",
+      "humorDevice": "story",
+      "zhGloss": "採納；收養",
+      "speakLineEn": "Track adoption of open tools quarterly.",
+      "speakLineZh": "每季追蹤開放工具採納。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "optimal",
+      "inVocab": false,
+      "senseAnchor": "最佳的",
+      "roleInScript": "對焦完成",
+      "humorDevice": "story",
+      "zhGloss": "最佳的",
+      "speakLineEn": "An optimal slogan is still not evidence.",
+      "speakLineZh": "最佳口號仍不是證據。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "opt＝選／視：option/adopt/optimism/optimum/synopsis/autopsy",
+    "optimum＝最適"
+  ],
+  "pitfalls": [
+    "adopt＝採納／收養",
+    "autopsy＝驗屍／事後剖析"
+  ],
+  "lessonRefs": [
+    "lesson-root-opt-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch02"
+  }
+}

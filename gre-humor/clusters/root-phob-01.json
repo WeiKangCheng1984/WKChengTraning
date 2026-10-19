@@ -1,0 +1,209 @@
+{
+  "id": "root-phob-01",
+  "type": "root",
+  "elementLemma": "phob",
+  "titleZh": "phob｜恐懼症遊樂園",
+  "titleEn": "Phobia Theme Park",
+  "hook": "字根 phob＝怕——遊樂園每扇門都寫著「我不要進去」。",
+  "script": "門口掛 phobia 總招牌。claustrophobia 怕密閉電梯；agoraphobia 怕廣場人潮；acrophobia 怕高空旋轉杯；xenophobia 怕「外人」進場。hydrophobia 怕水（也聯狂犬病典故）；technophobia 怕新按鈕；phobic 形容整個人都在抖——記得：怕≠恨，但 xenophobia 常變成歧視劇本。",
+  "members": [
+    {
+      "headword": "phobia",
+      "inVocab": true,
+      "senseAnchor": "恐懼症",
+      "roleInScript": "總招牌",
+      "humorDevice": "morphology",
+      "zhGloss": "恐懼症",
+      "speakLineEn": "Call it a phobia only with clinical care, not as insult.",
+      "speakLineZh": "稱恐懼症要謹慎，勿當侮辱。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "agoraphobia",
+      "inVocab": true,
+      "senseAnchor": "廣場恐懼症",
+      "roleInScript": "怕大場面",
+      "humorDevice": "morphology",
+      "zhGloss": "廣場恐懼症",
+      "speakLineEn": "Agoraphobia metaphors misuse public fear casually.",
+      "speakLineZh": "廣場恐懼隱喻常被隨便用。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "acrophobia",
+      "inVocab": true,
+      "senseAnchor": "懼高症",
+      "roleInScript": "怕高空杯",
+      "humorDevice": "morphology",
+      "zhGloss": "懼高症",
+      "speakLineEn": "Acrophobia is not an excuse to skip remote sites.",
+      "speakLineZh": "懼高不是跳過遠端站點的藉口。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "xenophobia",
+      "inVocab": true,
+      "senseAnchor": "仇外；排外恐懼",
+      "roleInScript": "怕外人進場",
+      "humorDevice": "morphology",
+      "zhGloss": "仇外；排外恐懼",
+      "speakLineEn": "Xenophobia poisons collaborative science.",
+      "speakLineZh": "排外恐懼毒害合作科學。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "hydrophobia",
+      "inVocab": true,
+      "senseAnchor": "恐水；狂犬病相關",
+      "roleInScript": "怕水門",
+      "humorDevice": "morphology",
+      "zhGloss": "恐水；狂犬病相關",
+      "speakLineEn": "Historical 'hydrophobia' labels need careful glossing.",
+      "speakLineZh": "歷史「恐水」標籤需謹慎釋義。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "technophobia",
+      "inVocab": true,
+      "senseAnchor": "科技恐懼",
+      "roleInScript": "怕新按鈕",
+      "humorDevice": "morphology",
+      "zhGloss": "科技恐懼",
+      "speakLineEn": "Technophobia can slow useful tooling adoption.",
+      "speakLineZh": "科技恐懼會拖慢有用工具採用。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "phobic",
+      "inVocab": true,
+      "senseAnchor": "恐懼的；恐懼症的",
+      "roleInScript": "整個人在抖",
+      "humorDevice": "morphology",
+      "zhGloss": "恐懼的；恐懼症的",
+      "speakLineEn": "Phobic reactions to critique block learning.",
+      "speakLineZh": "對批評的恐懼反應阻擋學習。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "homophobia",
+      "inVocab": true,
+      "senseAnchor": "對同性戀的恐懼／歧視",
+      "roleInScript": "社會恐懼門",
+      "humorDevice": "story",
+      "zhGloss": "對同性戀的恐懼／歧視",
+      "speakLineEn": "Homophobia has no place in research ethics.",
+      "speakLineZh": "恐同歧視在研究倫理中沒有位置。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "arachnophobia",
+      "inVocab": true,
+      "senseAnchor": "蜘蛛恐懼症",
+      "roleInScript": "八腳怪門",
+      "humorDevice": "story",
+      "zhGloss": "蜘蛛恐懼症",
+      "speakLineEn": "Arachnophobia jokes still need consent in class.",
+      "speakLineZh": "蜘蛛恐懼玩笑課堂仍需同意。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "photophobia",
+      "inVocab": true,
+      "senseAnchor": "畏光",
+      "roleInScript": "怕光門",
+      "humorDevice": "story",
+      "zhGloss": "畏光",
+      "speakLineEn": "Photophobia can be a medical symptom, not a metaphor toy.",
+      "speakLineZh": "畏光可以是醫學症狀，不是隱喻玩具。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "phobe",
+      "inVocab": true,
+      "senseAnchor": "恐懼者（後綴用法）",
+      "roleInScript": "怕字招牌人",
+      "humorDevice": "story",
+      "zhGloss": "恐懼者（後綴用法）",
+      "speakLineEn": "Drop casual '-phobe' labels in scholarly tone.",
+      "speakLineZh": "學術語氣少用隨便的 -phobe 標籤。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "phobic response",
+      "inVocab": false,
+      "senseAnchor": "恐懼反應",
+      "roleInScript": "樂園警報",
+      "humorDevice": "story",
+      "zhGloss": "恐懼反應",
+      "speakLineEn": "A phobic response to null results wastes cohorts.",
+      "speakLineZh": "對虛無結果的恐懼反應浪費世代。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "phob＝怕：phobia/claustrophobia/agoraphobia/xenophobia/acrophobia",
+    "xenophobia 常帶歧視義"
+  ],
+  "pitfalls": [
+    "xenophobia≠ xenophile（愛異文化）",
+    "hydrophobia 醫學典故＝恐水／狂犬病相關"
+  ],
+  "lessonRefs": [
+    "lesson-root-phob-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch01"
+  }
+}

@@ -24,7 +24,7 @@
     },
     {
       "headword": "inception",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "開端；創始",
       "roleInScript": "起源點",
       "humorDevice": "contrast",
@@ -35,7 +35,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending"
     },
     {
       "headword": "incipient",
@@ -54,7 +54,7 @@
     },
     {
       "headword": "nascent",
-      "inVocab": true,
+      "inVocab": false,
       "senseAnchor": "coming or having recently come into existence",
       "roleInScript": "剛冒出",
       "humorDevice": "contrast",
@@ -65,7 +65,8 @@
         "synonyms": "budding, emerging, inchoate, incipient, unformed",
         "antonyms": "mature, waning, dying, formed"
       },
-      "vocabStatus": "in-vocab"
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "originate",
@@ -80,11 +81,12 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "inaugurate",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "正式開啟；就職",
       "roleInScript": "正式開幕",
       "humorDevice": "contrast",
@@ -95,11 +97,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending"
     },
     {
       "headword": "embryonic",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "胚胎的；未成熟的",
       "roleInScript": "還很早",
       "humorDevice": "contrast",
@@ -110,11 +112,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending"
     },
     {
       "headword": "rudimentary",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "初步的；簡陋的",
       "roleInScript": "才剛有輪廓",
       "humorDevice": "contrast",
@@ -125,7 +127,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending"
     },
     {
       "headword": "terminate",
@@ -140,11 +142,12 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "cessation",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "停止",
       "roleInScript": "停下來",
       "humorDevice": "contrast",
@@ -155,7 +158,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending"
     },
     {
       "headword": "culminate",
@@ -174,7 +177,7 @@
     },
     {
       "headword": "abortive",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "失敗的；流產的",
       "roleInScript": "沒成的終",
       "humorDevice": "contrast",
@@ -185,7 +188,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending"
     }
   ],
   "reviewHooks": [

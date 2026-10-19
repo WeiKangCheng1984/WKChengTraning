@@ -1,0 +1,178 @@
+{
+  "id": "root-strict-01",
+  "type": "root",
+  "elementLemma": "string/strict",
+  "titleZh": "string／strict｜綁緊繩索庫",
+  "titleEn": "Strict Cord Warehouse",
+  "hook": "字根 string/strict＝綁／緊——繩索庫專管嚴格、限制、緊繃與約束。",
+  "script": "strict／strictly／stricture 繩子勒緊。restrict／restriction／restrictive 限制區。constrain／constraint 約束帶。astringent 澀味收斂；strain／stringent 拉緊／嚴厲——庫管：stringent prereg；restrictive paywalls 要拆。",
+  "members": [
+    {
+      "headword": "strict",
+      "inVocab": false,
+      "senseAnchor": "嚴格的",
+      "roleInScript": "勒緊",
+      "humorDevice": "morphology",
+      "zhGloss": "嚴格的",
+      "speakLineEn": "Keep a strict separation of roles in analysis.",
+      "speakLineZh": "分析中嚴格分離角色。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "strictly",
+      "inVocab": false,
+      "senseAnchor": "嚴格地",
+      "roleInScript": "勒緊副詞",
+      "humorDevice": "morphology",
+      "zhGloss": "嚴格地",
+      "speakLineEn": "Strictly pre-specify primary outcomes.",
+      "speakLineZh": "嚴格預先指定主要結局。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "stricture",
+      "inVocab": true,
+      "senseAnchor": "abnormal narrowing of a bodily canal or passageway; severe criticism",
+      "roleInScript": "勒痕責難",
+      "humorDevice": "morphology",
+      "zhGloss": "責難；狹窄",
+      "speakLineEn": "Invite stricture from auditors early.",
+      "speakLineZh": "及早邀請稽核責難。",
+      "related": {
+        "synonyms": "stenosis",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "restrict",
+      "inVocab": false,
+      "senseAnchor": "限制",
+      "roleInScript": "設限",
+      "humorDevice": "morphology",
+      "zhGloss": "限制",
+      "speakLineEn": "Restrict access to identifiable keys.",
+      "speakLineZh": "限制可識別金鑰存取。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "restriction",
+      "inVocab": false,
+      "senseAnchor": "限制",
+      "roleInScript": "限制條款",
+      "humorDevice": "morphology",
+      "zhGloss": "限制",
+      "speakLineEn": "List every restriction in the registry.",
+      "speakLineZh": "在登錄庫列出每條限制。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "restrictive",
+      "inVocab": false,
+      "senseAnchor": "限制性的",
+      "roleInScript": "過緊門",
+      "humorDevice": "morphology",
+      "zhGloss": "限制性的",
+      "speakLineEn": "Restrictive NDAs block replication.",
+      "speakLineZh": "過緊保密協議阻擋複現。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "constrain",
+      "inVocab": false,
+      "senseAnchor": "約束",
+      "roleInScript": "綁住",
+      "humorDevice": "morphology",
+      "zhGloss": "約束",
+      "speakLineEn": "Constrain researcher degrees of freedom.",
+      "speakLineZh": "約束研究者自由度。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "stringent",
+      "inVocab": false,
+      "senseAnchor": "嚴厲的",
+      "roleInScript": "超緊規",
+      "humorDevice": "morphology",
+      "zhGloss": "嚴厲的",
+      "speakLineEn": "Stringent checks beat stringency theater.",
+      "speakLineZh": "嚴厲檢查勝過嚴厲作秀。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "astringent",
+      "inVocab": false,
+      "senseAnchor": "收斂的；嚴苛的",
+      "roleInScript": "澀味",
+      "humorDevice": "story",
+      "zhGloss": "收斂的；嚴苛的",
+      "speakLineEn": "An astringent review can still be fair.",
+      "speakLineZh": "嚴苛審查仍可公平。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "cordon",
+      "inVocab": false,
+      "senseAnchor": "封鎖線",
+      "roleInScript": "繩圈",
+      "humorDevice": "story",
+      "zhGloss": "封鎖線",
+      "speakLineEn": "Cordon off production data from playgrounds.",
+      "speakLineZh": "用封鎖線隔開正式資料與沙盒。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "strict＝緊：strict/restrict/constraint/stringent/stricture",
+    "stringent＝嚴厲的"
+  ],
+  "pitfalls": [
+    "stringent＝嚴格嚴厲",
+    "stricture＝責難／狹窄"
+  ],
+  "lessonRefs": [
+    "lesson-root-strict-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch04"
+  }
+}

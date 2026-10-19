@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-test-01",
+  "slug": "root-test-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-test-01",
+  "titleZh": "test｜見證檢察署",
+  "titleEn": "Test Witness Office",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 test＝見證——檢察署專管作證、證詞、抗議與檢驗。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "testify／testimony／testimonial 作證三件套。attest 連署見證。contest／protest 抗議比賽。detest 厭惡到拒絕作證——檢察官：attest 你的程式碼；protest 不公誘因；別 detest 陰性結果。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "test＝見證：testify/testimony/attest/contest/protest/detest",
+        "attest＝證明"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Declare true; certify:",
+      "promptZh": "證明表明：",
+      "choices": [
+        "attest",
+        "impede",
+        "temporize",
+        "morph"
+      ],
+      "answer": "attest"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Hate intensely:",
+      "promptZh": "憎恨：",
+      "choices": [
+        "detest",
+        "orient",
+        "laud",
+        "conserve"
+      ],
+      "answer": "detest"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Evidence given by a witness:",
+      "promptZh": "證詞：",
+      "choices": [
+        "testimony",
+        "terrain",
+        "optimum",
+        "sophistry"
+      ],
+      "answer": "testimony"
+    }
+  ],
+  "pitfalls": [
+    "testimonial 可＝推薦證明",
+    "detest＝憎恨"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch02"
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "id": "prefix-con-01",
+  "type": "prefix",
+  "elementLemma": "con-/com-",
+  "titleZh": "con-/com-｜一起拼裝廠",
+  "titleEn": "Con Assembly Plant",
+  "hook": "字首 con-/com-＝一起／完全——拼裝廠專管湊齊、共同、壓縮。",
+  "script": "converge 零件湊齊；concurrent 同時開工。conspicuous 裝到超顯眼；consolidate 焊成一塊。concoct 調配配方；condone 默許劣件過關；concord 和諧出廠——廠長：converge on standards；never condone silent forks。",
+  "members": [
+    {
+      "headword": "converge",
+      "inVocab": true,
+      "senseAnchor": "匯合；收斂",
+      "roleInScript": "零件湊齊",
+      "humorDevice": "morphology",
+      "zhGloss": "匯合；收斂",
+      "speakLineEn": "Estimates should converge across specs.",
+      "speakLineZh": "估計應跨規格收斂。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "concurrent",
+      "inVocab": false,
+      "senseAnchor": "同時的；並發的",
+      "roleInScript": "同時開工",
+      "humorDevice": "morphology",
+      "zhGloss": "同時的；並發的",
+      "speakLineEn": "Avoid concurrent unblinded peeks.",
+      "speakLineZh": "避免同時非盲偷看。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "consolidate",
+      "inVocab": false,
+      "senseAnchor": "鞏固；合併",
+      "roleInScript": "焊成一塊",
+      "humorDevice": "morphology",
+      "zhGloss": "鞏固；合併",
+      "speakLineEn": "Consolidate logs before sharing.",
+      "speakLineZh": "共享前鞏固日誌。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "concoct",
+      "inVocab": true,
+      "senseAnchor": "to invent a story to deceive people",
+      "roleInScript": "調配配方",
+      "humorDevice": "morphology",
+      "zhGloss": "調製；捏造",
+      "speakLineEn": "Do not concoct post-hoc stories.",
+      "speakLineZh": "不要事後捏造故事。",
+      "related": {
+        "synonyms": "fabricate",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "condone",
+      "inVocab": true,
+      "senseAnchor": "to accept and allow something wrong",
+      "roleInScript": "劣件過關",
+      "humorDevice": "morphology",
+      "zhGloss": "寬恕；默許",
+      "speakLineEn": "Never condone fabricated figures.",
+      "speakLineZh": "永不默許偽造圖。",
+      "related": {
+        "synonyms": "excuse, remit",
+        "antonyms": "condemn, censure"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "concord",
+      "inVocab": true,
+      "senseAnchor": "capital of the state of New Hampshire; located in south central New Hampshire on the Merrimack river; a harmonious state of things in general and of their properties (as of colors and sounds); congruity of parts with one another and with the whole",
+      "roleInScript": "和諧出廠",
+      "humorDevice": "morphology",
+      "zhGloss": "和諧；一致",
+      "speakLineEn": "Seek concord between prereg and paper.",
+      "speakLineZh": "尋求預註冊與論文一致。",
+      "related": {
+        "synonyms": "harmony, concordance, agreement, Lexington, harmonize, harmonise",
+        "antonyms": "disagree"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "combine",
+      "inVocab": false,
+      "senseAnchor": "結合",
+      "roleInScript": "拼在一起",
+      "humorDevice": "story",
+      "zhGloss": "結合",
+      "speakLineEn": "Combine datasets only with linkage audits.",
+      "speakLineZh": "僅在連結稽核後合併資料。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "companion",
+      "inVocab": false,
+      "senseAnchor": "同伴",
+      "roleInScript": "一起的人",
+      "humorDevice": "story",
+      "zhGloss": "同伴",
+      "speakLineEn": "Code is the companion of the paper.",
+      "speakLineZh": "程式碼是論文同伴。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "complete",
+      "inVocab": false,
+      "senseAnchor": "完成；完全",
+      "roleInScript": "裝齊",
+      "humorDevice": "story",
+      "zhGloss": "完成；完全",
+      "speakLineEn": "Complete the checklist before submit.",
+      "speakLineZh": "提交前完成檢核表。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "compress",
+      "inVocab": false,
+      "senseAnchor": "壓縮",
+      "roleInScript": "壓緊",
+      "humorDevice": "story",
+      "zhGloss": "壓縮",
+      "speakLineEn": "Compress slides, not uncertainty.",
+      "speakLineZh": "壓縮投影片，不是不確定性。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "committee",
+      "inVocab": false,
+      "senseAnchor": "委員會",
+      "roleInScript": "一起開會",
+      "humorDevice": "story",
+      "zhGloss": "委員會",
+      "speakLineEn": "A committee cannot replace registered plans.",
+      "speakLineZh": "委員會不能取代註冊計畫。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "con-＝一起：converge/concurrent/conspicuous/consolidate/concoct/condone",
+    "condone＝寬恕／默許"
+  ],
+  "pitfalls": [
+    "condone＝寬恕錯誤（常否定句）",
+    "concoct＝調製／捏造"
+  ],
+  "lessonRefs": [
+    "lesson-prefix-con-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch02"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-somn-01",
+  "slug": "root-somn-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-somn-01",
+  "titleZh": "somn｜睡眠實驗室",
+  "titleEn": "Somn Sleep Lab",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 somn＝睡——睡眠實驗室專管失眠、催眠與夢遊決策。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "insomnia 研究員徹夜改圖。somnolent 會議睡著。somnambulist 夢遊按了提交。hypnosis／somniferous 催眠與催睡藥味——護士：insomnia 改碼會出錯；別 somnambulist 式上線。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "somn＝睡：insomnia/somnolent/somnambulist/somniferous",
+        "somnolent＝昏昏欲睡"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Sleepy; drowsy:",
+      "promptZh": "昏昏欲睡：",
+      "choices": [
+        "somnolent",
+        "immense",
+        "verbatim",
+        "volatile"
+      ],
+      "answer": "somnolent"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Inability to sleep:",
+      "promptZh": "失眠：",
+      "choices": [
+        "insomnia",
+        "mirage",
+        "thesis",
+        "facsimile"
+      ],
+      "answer": "insomnia"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Sleepwalker:",
+      "promptZh": "夢遊者：",
+      "choices": [
+        "somnambulist",
+        "consumer",
+        "intruder",
+        "metric"
+      ],
+      "answer": "somnambulist"
+    }
+  ],
+  "pitfalls": [
+    "somnambulist＝夢遊者",
+    "somniferous＝催睡的"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch03"
+  }
+}

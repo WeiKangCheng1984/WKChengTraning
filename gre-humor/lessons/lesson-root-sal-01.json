@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-sal-01",
+  "slug": "root-sal-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-sal-01",
+  "titleZh": "sal／sult｜彈跳諮詢台",
+  "titleEn": "Sal Bounce Desk",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 sal/sult＝跳——諮詢台專管跳出重點、跳去罵人、彈回來。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "salient 跳出刺點；sally 衝出去一輪。insult／assail／assault 跳過來攻擊。result／consult／consultant 跳回結果與顧問；resilient／desultory／exult 彈回、跳來跳去、歡躍——台長：salient findings 要報；desultory fishing 禁。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "sal/sult＝跳：salient/insult/result/consult/resilient/desultory",
+        "desultory＝雜亂跳"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Most noticeable; jumping out:",
+      "promptZh": "顯著突出：",
+      "choices": [
+        "salient",
+        "sacred",
+        "solitary",
+        "craven"
+      ],
+      "answer": "salient"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Jumping about without plan:",
+      "promptZh": "雜亂跳換：",
+      "choices": [
+        "desultory",
+        "proper",
+        "marine",
+        "intrepid"
+      ],
+      "answer": "desultory"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Able to spring back:",
+      "promptZh": "有韌性：",
+      "choices": [
+        "resilient",
+        "reprehensible",
+        "scanty",
+        "vacant"
+      ],
+      "answer": "resilient"
+    }
+  ],
+  "pitfalls": [
+    "salient＝顯著突出；silent＝沉默",
+    "desultory＝無計劃跳來跳去"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch05"
+  }
+}

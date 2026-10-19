@@ -1,0 +1,208 @@
+{
+  "id": "root-merge-01",
+  "type": "root",
+  "elementLemma": "merge/mers",
+  "titleZh": "merge｜沉浮游泳池",
+  "titleEn": "Merge Pool",
+  "hook": "字根 merge/mers＝沉——泳池專管沉下去、浮出來、泡進去。",
+  "script": "submerge 整個人沉下去；emerge 冒出頭喘气。immerse 泡進水裡學仰式。emergency 緊急出水警報；merger 兩池併成一池——救生員：資料可以 immerse，結論別 submerge 不利結果。",
+  "members": [
+    {
+      "headword": "submerge",
+      "inVocab": true,
+      "senseAnchor": "淹沒；沉入",
+      "roleInScript": "沉下去",
+      "humorDevice": "morphology",
+      "zhGloss": "淹沒；沉入",
+      "speakLineEn": "Do not submerge adverse findings in appendices.",
+      "speakLineZh": "不要把不良發現沉進附錄。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "emerge",
+      "inVocab": true,
+      "senseAnchor": "浮現；出現",
+      "roleInScript": "冒出頭",
+      "humorDevice": "morphology",
+      "zhGloss": "浮現；出現",
+      "speakLineEn": "Patterns emerge only after cleaning logs.",
+      "speakLineZh": "清理日誌後模式才浮現。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "immerse",
+      "inVocab": true,
+      "senseAnchor": "thrust or throw into; devote (oneself) fully to",
+      "roleInScript": "泡進去",
+      "humorDevice": "morphology",
+      "zhGloss": "沉浸；浸泡",
+      "speakLineEn": "Immerse students in real messy datasets.",
+      "speakLineZh": "讓學生沉浸真實凌亂資料。",
+      "related": {
+        "synonyms": "plunge, steep, engulf, engross, absorb, swallow",
+        "antonyms": "gradual, emit"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "emergency",
+      "inVocab": true,
+      "senseAnchor": "緊急情況",
+      "roleInScript": "出水警報",
+      "humorDevice": "morphology",
+      "zhGloss": "緊急情況",
+      "speakLineEn": "Have an emergency plan for data leaks.",
+      "speakLineZh": "為資料洩漏準備緊急計畫。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "merger",
+      "inVocab": true,
+      "senseAnchor": "合併",
+      "roleInScript": "兩池併一",
+      "humorDevice": "morphology",
+      "zhGloss": "合併",
+      "speakLineEn": "A journal merger should not erase archives.",
+      "speakLineZh": "期刊合併不該抹掉檔案。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "emergence",
+      "inVocab": true,
+      "senseAnchor": "出現；興起",
+      "roleInScript": "冒出過程",
+      "humorDevice": "story",
+      "zhGloss": "出現；興起",
+      "speakLineEn": "The emergence of open norms took a decade.",
+      "speakLineZh": "開放規範的興起花了十年。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "submergence",
+      "inVocab": true,
+      "senseAnchor": "沉沒",
+      "roleInScript": "沉沒狀態",
+      "humorDevice": "story",
+      "zhGloss": "沉沒",
+      "speakLineEn": "Submergence of dissent harms labs.",
+      "speakLineZh": "異議沉沒傷害實驗室。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "immersive",
+      "inVocab": true,
+      "senseAnchor": "沉浸式的",
+      "roleInScript": "整池體驗",
+      "humorDevice": "story",
+      "zhGloss": "沉浸式的",
+      "speakLineEn": "Immersive training beats slide-only ethics.",
+      "speakLineZh": "沉浸式訓練勝過只放投影片的倫理課。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "reemerge",
+      "inVocab": true,
+      "senseAnchor": "再次出現",
+      "roleInScript": "又冒出來",
+      "humorDevice": "story",
+      "zhGloss": "再次出現",
+      "speakLineEn": "Old bugs reemerge without tests.",
+      "speakLineZh": "沒有測試舊錯誤會再冒出。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "demerge",
+      "inVocab": true,
+      "senseAnchor": "分拆",
+      "roleInScript": "一池拆兩",
+      "humorDevice": "story",
+      "zhGloss": "分拆",
+      "speakLineEn": "Demerge entangled hypotheses before testing.",
+      "speakLineZh": "檢驗前先拆開糾纏假說。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "sink",
+      "inVocab": true,
+      "senseAnchor": "下沉",
+      "roleInScript": "往下掉",
+      "humorDevice": "story",
+      "zhGloss": "下沉",
+      "speakLineEn": "Weak identification will sink causal talk.",
+      "speakLineZh": "弱識別會讓因果空談下沉。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "afloat",
+      "inVocab": true,
+      "senseAnchor": "漂浮的",
+      "roleInScript": "還浮著",
+      "humorDevice": "story",
+      "zhGloss": "漂浮的",
+      "speakLineEn": "Keep the project afloat with honest timelines.",
+      "speakLineZh": "用誠實時程讓專案漂浮。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    }
+  ],
+  "reviewHooks": [
+    "mers＝沉：submerge/emerge/immerse/emergency/merger",
+    "emerge↔submerge"
+  ],
+  "pitfalls": [
+    "immerse＝沉浸；emerge＝出現",
+    "emergency＝緊急情況"
+  ],
+  "lessonRefs": [
+    "lesson-root-merge-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch01"
+  }
+}

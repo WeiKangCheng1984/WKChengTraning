@@ -1,0 +1,178 @@
+{
+  "id": "root-verb-01",
+  "type": "root",
+  "elementLemma": "verb",
+  "titleZh": "verb｜用字說話社",
+  "titleEn": "Verb Word Club",
+  "hook": "字根 verb＝字、詞——說話社專管用字、冗詞、逐字與諺語。",
+  "script": "verbal／verbose 口頭說與說太多。verbatim 逐字照念。proverb／proverbial 諺語與諺語級。verbalize 把想法說出口；verbiage 字海淹人——社長：verbatim 引原文；verbose 摘要會被退件。",
+  "members": [
+    {
+      "headword": "verbal",
+      "inVocab": false,
+      "senseAnchor": "口頭的；言語的",
+      "roleInScript": "用嘴巴",
+      "humorDevice": "morphology",
+      "zhGloss": "口頭的；言語的",
+      "speakLineEn": "Get verbal confirmation, then written consent.",
+      "speakLineZh": "先口頭確認再書面同意。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "verbatim",
+      "inVocab": true,
+      "senseAnchor": "in precisely the same words used by a writer or speaker; using exactly the same words",
+      "roleInScript": "照念原文",
+      "humorDevice": "morphology",
+      "zhGloss": "逐字的",
+      "speakLineEn": "Quote exclusions verbatim from the registry.",
+      "speakLineZh": "從登錄庫逐字引用排除。",
+      "related": {
+        "synonyms": "direct",
+        "antonyms": "alternating, collateral, indirect, inverse, retrograde"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "proverb",
+      "inVocab": false,
+      "senseAnchor": "諺語",
+      "roleInScript": "老話",
+      "humorDevice": "morphology",
+      "zhGloss": "諺語",
+      "speakLineEn": "A proverb is not a causal law.",
+      "speakLineZh": "諺語不是因果定律。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "proverbial",
+      "inVocab": false,
+      "senseAnchor": "諺語中的；眾所周知的",
+      "roleInScript": "諺語級",
+      "humorDevice": "morphology",
+      "zhGloss": "諺語中的；眾所周知的",
+      "speakLineEn": "The proverbial 'statistically significant' trap.",
+      "speakLineZh": "眾所周知的『統計顯著』陷阱。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "verbalize",
+      "inVocab": false,
+      "senseAnchor": "用言語表達",
+      "roleInScript": "說出口",
+      "humorDevice": "morphology",
+      "zhGloss": "用言語表達",
+      "speakLineEn": "Verbalize uncertainty in the abstract.",
+      "speakLineZh": "在摘要把不確定說出口。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "verbiage",
+      "inVocab": true,
+      "senseAnchor": "overabundance of words; the manner in which something is expressed in words; - G.S.Patton",
+      "roleInScript": "字海",
+      "humorDevice": "morphology",
+      "zhGloss": "冗詞；措辭",
+      "speakLineEn": "Drop marketing verbiage from claims.",
+      "speakLineZh": "主張刪掉行銷冗詞。",
+      "related": {
+        "synonyms": "verbalism, wording, diction, phrasing, phraseology",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "adverb",
+      "inVocab": false,
+      "senseAnchor": "副詞",
+      "roleInScript": "修飾詞彩蛋",
+      "humorDevice": "story",
+      "zhGloss": "副詞",
+      "speakLineEn": "An adverb like 'clearly' often hides doubt.",
+      "speakLineZh": "『清楚地』這類副詞常藏懷疑。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "proverbially",
+      "inVocab": true,
+      "senseAnchor": "in the manner of something that has become a byword",
+      "roleInScript": "老話說",
+      "humorDevice": "story",
+      "zhGloss": "如諺語所說",
+      "speakLineEn": "Proverbially hard problems still need n.",
+      "speakLineZh": "如諺語難的問題仍需要樣本。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "diction",
+      "inVocab": false,
+      "senseAnchor": "用字遣詞",
+      "roleInScript": "選詞",
+      "humorDevice": "story",
+      "zhGloss": "用字遣詞",
+      "speakLineEn": "Precise diction beats ornate fog.",
+      "speakLineZh": "精確用字勝過華麗迷霧。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "silence",
+      "inVocab": false,
+      "senseAnchor": "沉默",
+      "roleInScript": "不說話",
+      "humorDevice": "story",
+      "zhGloss": "沉默",
+      "speakLineEn": "Silence about exclusions is a red flag.",
+      "speakLineZh": "對排除沉默是紅旗。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "verb＝詞：verbal/verbose/verbatim/proverb/verbiage",
+    "verbatim＝逐字"
+  ],
+  "pitfalls": [
+    "verbose＝冗長",
+    "verbiage＝冗詞／措辭"
+  ],
+  "lessonRefs": [
+    "lesson-root-verb-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch03"
+  }
+}

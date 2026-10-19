@@ -1,0 +1,208 @@
+{
+  "id": "root-prehend-01",
+  "type": "root",
+  "elementLemma": "prehend/prise",
+  "titleZh": "prehend／prise｜抓取鑑識課",
+  "titleEn": "Prehend Grab Lab",
+  "hook": "字根 prehend/prise＝抓——鑑識課專抓罪犯、抓重點、抓到驚喜。",
+  "script": "apprehend 抓住嫌犯；comprehend／comprehensive 全面抓住意思。reprehend／reprehensible 抓出來罵。surprise／enterprise／comprise／prize 驚喜、事業、包含、獎杯——教官：apprehensive 可以；reprehensible 造假抓起來。",
+  "members": [
+    {
+      "headword": "apprehend",
+      "inVocab": true,
+      "senseAnchor": "to understand",
+      "roleInScript": "抓嫌犯",
+      "humorDevice": "morphology",
+      "zhGloss": "逮捕；理解",
+      "speakLineEn": "Apprehend the confound before you celebrate.",
+      "speakLineZh": "慶祝前先抓住混淆因子。",
+      "related": {
+        "synonyms": "comprehend, grasp",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "comprehend",
+      "inVocab": false,
+      "senseAnchor": "理解",
+      "roleInScript": "抓住意思",
+      "humorDevice": "morphology",
+      "zhGloss": "理解",
+      "speakLineEn": "If readers cannot comprehend it, rewrite.",
+      "speakLineZh": "讀者抓不住意思就重寫。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "comprehensive",
+      "inVocab": false,
+      "senseAnchor": "全面的",
+      "roleInScript": "全抓清單",
+      "humorDevice": "morphology",
+      "zhGloss": "全面的",
+      "speakLineEn": "A comprehensive audit beats a heroic patch.",
+      "speakLineZh": "全面稽核勝過英雄式修補。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "reprehend",
+      "inVocab": true,
+      "senseAnchor": "express strong disapproval of",
+      "roleInScript": "抓出來罵",
+      "humorDevice": "morphology",
+      "zhGloss": "譴責",
+      "speakLineEn": "Reprehend silent outcome switching.",
+      "speakLineZh": "譴責沉默的結局替換。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "reprehensible",
+      "inVocab": true,
+      "senseAnchor": "morally wrong and deserving criticism",
+      "roleInScript": "該罵標籤",
+      "humorDevice": "morphology",
+      "zhGloss": "應受譴責的",
+      "speakLineEn": "Fabrication is reprehensible, full stop.",
+      "speakLineZh": "捏造應受譴責，句號。",
+      "related": {
+        "synonyms": "deplorable, reproachable",
+        "antonyms": "praiseworthy, admirable"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "apprehensive",
+      "inVocab": false,
+      "senseAnchor": "憂慮的",
+      "roleInScript": "抓心慌",
+      "humorDevice": "morphology",
+      "zhGloss": "憂慮的",
+      "speakLineEn": "Be apprehensive of convenience samples.",
+      "speakLineZh": "對方便樣本保持憂慮。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "surprise",
+      "inVocab": false,
+      "senseAnchor": "驚喜；使吃驚",
+      "roleInScript": "驚喜箱",
+      "humorDevice": "morphology",
+      "zhGloss": "驚喜；使吃驚",
+      "speakLineEn": "Preregistration reduces harmful surprise.",
+      "speakLineZh": "預註冊減少有害驚喜。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "enterprise",
+      "inVocab": false,
+      "senseAnchor": "事業；進取心",
+      "roleInScript": "事業桌",
+      "humorDevice": "morphology",
+      "zhGloss": "事業；進取心",
+      "speakLineEn": "Treat the project as a public enterprise.",
+      "speakLineZh": "把專案當公共事業。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "comprise",
+      "inVocab": false,
+      "senseAnchor": "包含",
+      "roleInScript": "整包抓住",
+      "humorDevice": "story",
+      "zhGloss": "包含",
+      "speakLineEn": "The sample should comprise all eligible cases.",
+      "speakLineZh": "樣本應包含所有合格個案。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "prize",
+      "inVocab": false,
+      "senseAnchor": "獎；珍視",
+      "roleInScript": "獎杯",
+      "humorDevice": "story",
+      "zhGloss": "獎；珍視",
+      "speakLineEn": "Prize transparency over theatrical novelty.",
+      "speakLineZh": "珍視透明勝過表演式新奇。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "reprisal",
+      "inVocab": false,
+      "senseAnchor": "報復",
+      "roleInScript": "反抓一擊",
+      "humorDevice": "story",
+      "zhGloss": "報復",
+      "speakLineEn": "Fear of reprisal kills error reporting.",
+      "speakLineZh": "怕報復會殺死錯誤回報。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "prison",
+      "inVocab": false,
+      "senseAnchor": "監獄",
+      "roleInScript": "關起來",
+      "humorDevice": "story",
+      "zhGloss": "監獄",
+      "speakLineEn": "Do not prison inconvenient nulls in a drawer.",
+      "speakLineZh": "別把麻煩虛無關進抽屜。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "prehend＝抓：apprehend/comprehend/reprehend/surprise/comprise",
+    "reprehensible＝應受譴責"
+  ],
+  "pitfalls": [
+    "apprehend＝逮捕／理解；comprehend＝理解",
+    "comprise＝包含（不是 composed of 的反向乱用）"
+  ],
+  "lessonRefs": [
+    "lesson-root-prehend-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch05"
+  }
+}

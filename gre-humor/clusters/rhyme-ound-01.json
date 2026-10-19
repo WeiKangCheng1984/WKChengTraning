@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "profound",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "深刻的；深奧的",
       "roleInScript": "深到見底",
       "humorDevice": "phonetic",
@@ -20,7 +20,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending"
     },
     {
       "headword": "confound",
@@ -84,7 +84,7 @@
     },
     {
       "headword": "astound",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "使震驚",
       "roleInScript": "震場",
       "humorDevice": "phonetic",
@@ -95,7 +95,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending"
     },
     {
       "headword": "compound",
@@ -110,7 +110,8 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "rebound",
@@ -125,7 +126,8 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "surround",
@@ -140,7 +142,8 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "abound",
@@ -159,7 +162,7 @@
     },
     {
       "headword": "unbounded",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "無界的",
       "roleInScript": "沒圍欄",
       "humorDevice": "story",
@@ -170,7 +173,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending"
     },
     {
       "headword": "ground",
@@ -185,7 +188,8 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     }
   ],
   "reviewHooks": [

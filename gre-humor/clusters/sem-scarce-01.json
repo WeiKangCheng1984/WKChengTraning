@@ -1,0 +1,208 @@
+{
+  "id": "sem-scarce-01",
+  "type": "semantic",
+  "elementLemma": "scarce-vs-abundant",
+  "titleZh": "稀缺 ↔ 充裕｜倉庫對打",
+  "titleEn": "Scarce vs Abundant Warehouse Duel",
+  "hook": "一邊貨架空空（paucity/dearth），一邊貨堆到爆（plethora/copious）——倉管用對打記住語氣。",
+  "script": "稀缺隊：paucity／dearth／scarcity／scanty／meager 喊「不夠」。充裕隊：copious／plethora／myriad／abundance／surplus 喊「太多」。裁判：GRE 常考「看起來很多其實空」或「看起來少其實致命」。",
+  "members": [
+    {
+      "headword": "paucity",
+      "inVocab": true,
+      "senseAnchor": "smallness of number",
+      "roleInScript": "空貨架",
+      "humorDevice": "contrast",
+      "zhGloss": "缺乏；少數",
+      "speakLineEn": "A paucity of preregistered plans invites chaos.",
+      "speakLineZh": "預註冊計畫缺乏會引來混亂。",
+      "related": {
+        "synonyms": "dearth",
+        "antonyms": "abundance, plenty"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "dearth",
+      "inVocab": false,
+      "senseAnchor": "缺乏；飢饉",
+      "roleInScript": "缺貨鈴",
+      "humorDevice": "contrast",
+      "zhGloss": "缺乏；飢饉",
+      "speakLineEn": "There is a dearth of shared negative results.",
+      "speakLineZh": "共享負結果極度缺乏。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "scarcity",
+      "inVocab": false,
+      "senseAnchor": "稀缺",
+      "roleInScript": "稀缺標",
+      "humorDevice": "contrast",
+      "zhGloss": "稀缺",
+      "speakLineEn": "Scarcity of degrees of freedom is a feature.",
+      "speakLineZh": "自由度稀缺是一種特性。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "scanty",
+      "inVocab": false,
+      "senseAnchor": "不足的；吝嗇的",
+      "roleInScript": "薄薄一層",
+      "humorDevice": "contrast",
+      "zhGloss": "不足的；吝嗇的",
+      "speakLineEn": "Scanty methods detail fails replication.",
+      "speakLineZh": "方法細節不足無法複現。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "meager",
+      "inVocab": false,
+      "senseAnchor": "貧瘠的；不足的",
+      "roleInScript": "瘦弱份",
+      "humorDevice": "contrast",
+      "zhGloss": "貧瘠的；不足的",
+      "speakLineEn": "Meager samples need honest limits.",
+      "speakLineZh": "瘦弱樣本需要誠實界限。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "copious",
+      "inVocab": true,
+      "senseAnchor": "large in quantity",
+      "roleInScript": "堆滿箱",
+      "humorDevice": "contrast",
+      "zhGloss": "豐富的；大量的",
+      "speakLineEn": "Copious notes beat heroic memory.",
+      "speakLineZh": "豐富筆記勝過英雄式記憶。",
+      "related": {
+        "synonyms": "plentiful, abundant, ample, bountiful",
+        "antonyms": "scarce, sparse, meager"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "plethora",
+      "inVocab": true,
+      "senseAnchor": "excess",
+      "roleInScript": "爆倉堆",
+      "humorDevice": "contrast",
+      "zhGloss": "過剩；過多",
+      "speakLineEn": "A plethora of endpoints needs correction.",
+      "speakLineZh": "終點過剩需要校正。",
+      "related": {
+        "synonyms": "surfeit",
+        "antonyms": "dearth, scarcity"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "myriad",
+      "inVocab": true,
+      "senseAnchor": "a large indefinite number; the cardinal number that is the product of ten and one thousand",
+      "roleInScript": "萬千櫃",
+      "humorDevice": "contrast",
+      "zhGloss": "無數；種種",
+      "speakLineEn": "Myriad tweaks without a plan look like fishing.",
+      "speakLineZh": "無數無計畫微調像淘篩。",
+      "related": {
+        "synonyms": "10000, countless, infinite, innumerable, innumerous, multitudinous",
+        "antonyms": "finite"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "abundance",
+      "inVocab": false,
+      "senseAnchor": "充裕",
+      "roleInScript": "豐收牌",
+      "humorDevice": "contrast",
+      "zhGloss": "充裕",
+      "speakLineEn": "Abundance of openness reduces rumor.",
+      "speakLineZh": "開放充裕減少謠言。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "surplus",
+      "inVocab": true,
+      "senseAnchor": "a quantity much larger than is needed; more than is needed, desired, or required",
+      "roleInScript": "剩餘倉",
+      "humorDevice": "story",
+      "zhGloss": "剩餘；過剩",
+      "speakLineEn": "Surplus analyses belong in supplements.",
+      "speakLineZh": "剩餘分析屬於補充材料。",
+      "related": {
+        "synonyms": "excess, surplusage, nimiety, extra, redundant, spare",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "sparse",
+      "inVocab": false,
+      "senseAnchor": "稀疏的",
+      "roleInScript": "稀疏架",
+      "humorDevice": "story",
+      "zhGloss": "稀疏的",
+      "speakLineEn": "Sparse data still deserves a full codebook.",
+      "speakLineZh": "稀疏資料仍值得完整編碼簿。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "overflow",
+      "inVocab": false,
+      "senseAnchor": "溢出",
+      "roleInScript": "溢出桶",
+      "humorDevice": "story",
+      "zhGloss": "溢出",
+      "speakLineEn": "Overflow of claims needs a priority list.",
+      "speakLineZh": "主張溢出需要優先清單。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "稀缺：paucity/dearth/scanty/meager",
+    "充裕：copious/plethora/myriad/abundance"
+  ],
+  "pitfalls": [
+    "paucity＝缺乏；plethora＝過剩",
+    "meager＝貧瘠不足"
+  ],
+  "lessonRefs": [
+    "lesson-sem-scarce-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch05"
+  }
+}

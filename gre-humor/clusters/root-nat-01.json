@@ -1,0 +1,178 @@
+{
+  "id": "root-nat-01",
+  "type": "root",
+  "elementLemma": "nasc/nat",
+  "titleZh": "nasc／nat｜誕生產房",
+  "titleEn": "Nat Birth Ward",
+  "hook": "字根 nasc/nat＝生——產房專管天生、國家、自然與新生。",
+  "script": "native／nativity 土生與誕生。nature／natural／naturalistic 自然產線。nation／national／international 國界標籤。nascent 剛出生的計畫；innate 天生氣質——護士：nascent ideas 要養；假 natural 結論要查。",
+  "members": [
+    {
+      "headword": "native",
+      "inVocab": false,
+      "senseAnchor": "本地的；天生的",
+      "roleInScript": "土生",
+      "humorDevice": "morphology",
+      "zhGloss": "本地的；天生的",
+      "speakLineEn": "Prefer native file formats over screenshots.",
+      "speakLineZh": "寧可原生檔格式，不要截圖。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "nativity",
+      "inVocab": false,
+      "senseAnchor": "誕生；出生",
+      "roleInScript": "誕生場景",
+      "humorDevice": "morphology",
+      "zhGloss": "誕生；出生",
+      "speakLineEn": "Record the nativity of each derived variable.",
+      "speakLineZh": "記錄每個派生變數的誕生。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "nature",
+      "inVocab": false,
+      "senseAnchor": "自然；本質",
+      "roleInScript": "本質",
+      "humorDevice": "morphology",
+      "zhGloss": "自然；本質",
+      "speakLineEn": "State the nature of the estimand clearly.",
+      "speakLineZh": "清楚陳述目標量本質。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "natural",
+      "inVocab": false,
+      "senseAnchor": "自然的",
+      "roleInScript": "自然產",
+      "humorDevice": "morphology",
+      "zhGloss": "自然的",
+      "speakLineEn": "Natural experiments still need assumptions.",
+      "speakLineZh": "自然實驗仍需假設。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "naturalistic",
+      "inVocab": false,
+      "senseAnchor": "自然主義的",
+      "roleInScript": "仿自然",
+      "humorDevice": "morphology",
+      "zhGloss": "自然主義的",
+      "speakLineEn": "Naturalistic observation is not causal ID.",
+      "speakLineZh": "自然主義觀察不是因果識別。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "nation",
+      "inVocab": false,
+      "senseAnchor": "國家",
+      "roleInScript": "國界",
+      "humorDevice": "morphology",
+      "zhGloss": "國家",
+      "speakLineEn": "Nation-level aggregates hide local bias.",
+      "speakLineZh": "國家層加總掩蓋地方偏差。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "national",
+      "inVocab": false,
+      "senseAnchor": "國家的",
+      "roleInScript": "國立標",
+      "humorDevice": "morphology",
+      "zhGloss": "國家的",
+      "speakLineEn": "National registries need access protocols.",
+      "speakLineZh": "國家登錄庫需要存取規程。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "international",
+      "inVocab": false,
+      "senseAnchor": "國際的",
+      "roleInScript": "跨國標",
+      "humorDevice": "morphology",
+      "zhGloss": "國際的",
+      "speakLineEn": "International teams still share one codebook.",
+      "speakLineZh": "國際團隊仍共用一本編碼簿。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "prenatal",
+      "inVocab": false,
+      "senseAnchor": "產前的",
+      "roleInScript": "產前檢查",
+      "humorDevice": "story",
+      "zhGloss": "產前的",
+      "speakLineEn": "Do prenatal design reviews before funding.",
+      "speakLineZh": "補助前先做產前設計審查。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "renaissance",
+      "inVocab": false,
+      "senseAnchor": "復興",
+      "roleInScript": "再誕生",
+      "humorDevice": "story",
+      "zhGloss": "復興",
+      "speakLineEn": "A methods renaissance starts with open logs.",
+      "speakLineZh": "方法復興從開放日誌開始。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "nat＝生：native/nature/nation/nascent/innate",
+    "nascent＝萌芽的"
+  ],
+  "pitfalls": [
+    "innate＝天生的",
+    "nascent＝剛出現的"
+  ],
+  "lessonRefs": [
+    "lesson-root-nat-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch04"
+  }
+}

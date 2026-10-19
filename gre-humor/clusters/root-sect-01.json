@@ -1,0 +1,178 @@
+{
+  "id": "root-sect-01",
+  "type": "root",
+  "elementLemma": "sec/sect",
+  "titleZh": "sec／sect｜切割手術室",
+  "titleEn": "Sect Cutting OR",
+  "hook": "字根 sec/sect＝切——手術室專管切片、部門、昆蟲與相交。",
+  "script": "section／sector 切開分區。dissect／dissection 解剖方法。insect 小切蟲梗。intersect／intersection／intersecting 切線相交；bisect 對切——主刀：dissect assumptions；section bias sources。",
+  "members": [
+    {
+      "headword": "sector",
+      "inVocab": false,
+      "senseAnchor": "部門；扇形",
+      "roleInScript": "扇區",
+      "humorDevice": "morphology",
+      "zhGloss": "部門；扇形",
+      "speakLineEn": "Public sector data still needs consent maps.",
+      "speakLineZh": "公共部門資料仍需同意地圖。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "dissection",
+      "inVocab": false,
+      "senseAnchor": "解剖",
+      "roleInScript": "解剖報告",
+      "humorDevice": "morphology",
+      "zhGloss": "解剖",
+      "speakLineEn": "A methods dissection belongs in supplements.",
+      "speakLineZh": "方法解剖屬於補充材料。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "insect",
+      "inVocab": false,
+      "senseAnchor": "昆蟲",
+      "roleInScript": "小切蟲",
+      "humorDevice": "story",
+      "zhGloss": "昆蟲",
+      "speakLineEn": "Bug trackers catch insects before reviewers do.",
+      "speakLineZh": "錯誤追蹤器比審稿人先抓蟲。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "intersect",
+      "inVocab": false,
+      "senseAnchor": "相交",
+      "roleInScript": "切線交",
+      "humorDevice": "morphology",
+      "zhGloss": "相交",
+      "speakLineEn": "Where ethics and methods intersect, document both.",
+      "speakLineZh": "倫理與方法相交處兩者都記錄。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "intersection",
+      "inVocab": false,
+      "senseAnchor": "交集；十字路口",
+      "roleInScript": "交點",
+      "humorDevice": "morphology",
+      "zhGloss": "交集；十字路口",
+      "speakLineEn": "Study the intersection of missingness and attrition.",
+      "speakLineZh": "研究缺失與流失的交集。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "bisect",
+      "inVocab": false,
+      "senseAnchor": "對切",
+      "roleInScript": "切成兩半",
+      "humorDevice": "morphology",
+      "zhGloss": "對切",
+      "speakLineEn": "Bisect the sample only if pre-planned.",
+      "speakLineZh": "僅在預先計畫時對切樣本。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "secant",
+      "inVocab": false,
+      "senseAnchor": "割線",
+      "roleInScript": "割線刀",
+      "humorDevice": "story",
+      "zhGloss": "割線",
+      "speakLineEn": "A secant through subgroups needs correction.",
+      "speakLineZh": "割過次群需要校正。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "transect",
+      "inVocab": false,
+      "senseAnchor": "橫切線",
+      "roleInScript": "橫切",
+      "humorDevice": "story",
+      "zhGloss": "橫切線",
+      "speakLineEn": "Transect the city with random routes, not vibes.",
+      "speakLineZh": "用隨機路線橫切城市，不是感覺。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "cutaway",
+      "inVocab": false,
+      "senseAnchor": "剖面圖",
+      "roleInScript": "剖視",
+      "humorDevice": "story",
+      "zhGloss": "剖面圖",
+      "speakLineEn": "Show a cutaway of the pipeline stages.",
+      "speakLineZh": "展示管線階段剖面。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "segment",
+      "inVocab": false,
+      "senseAnchor": "區段",
+      "roleInScript": "切片段",
+      "humorDevice": "story",
+      "zhGloss": "區段",
+      "speakLineEn": "Predefine segments before looking at outcomes.",
+      "speakLineZh": "看結局前先定義區段。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "sect＝切：section/dissect/insect/intersect/bisect",
+    "dissect＝剖析"
+  ],
+  "pitfalls": [
+    "section＝章節／切開",
+    "intersect＝相交"
+  ],
+  "lessonRefs": [
+    "lesson-root-sect-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch04"
+  }
+}

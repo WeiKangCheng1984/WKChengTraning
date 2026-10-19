@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-umbr-01",
+  "slug": "root-umbr-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-umbr-01",
+  "titleZh": "umbr｜陰影傘具店",
+  "titleEn": "Umbr Shade Shop",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 umbr＝影——傘具店專管陰影、傘下與生氣翻臉。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "umbrella 大傘遮一切（別濫用）。umbra／penumbra 本影與半影。adumbrate 先投下輪廓陰影。umbrage 生氣翻臉覺得被踩影——店員：adumbrate 限制；別 take umbrage 於誠實批評。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "umbr＝影：umbrella/umbra/penumbra/adumbrate/umbrage",
+        "take umbrage＝生氣見怪"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Offense; resentment (take ___ ):",
+      "promptZh": "不快見怪：",
+      "choices": [
+        "umbrage",
+        "metric",
+        "thesis",
+        "volley"
+      ],
+      "answer": "umbrage"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Foreshadow; outline faintly:",
+      "promptZh": "預示勾勒：",
+      "choices": [
+        "adumbrate",
+        "intrude",
+        "consume",
+        "detest"
+      ],
+      "answer": "adumbrate"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Partial shadow region:",
+      "promptZh": "半影：",
+      "choices": [
+        "penumbra",
+        "insomnia",
+        "verbiage",
+        "optimum"
+      ],
+      "answer": "penumbra"
+    }
+  ],
+  "pitfalls": [
+    "adumbrate＝預示／勾勒",
+    "umbrage＝不快／生氣"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch03"
+  }
+}

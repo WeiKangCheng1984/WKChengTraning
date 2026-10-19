@@ -1,0 +1,208 @@
+{
+  "id": "root-priv-01",
+  "type": "root",
+  "elementLemma": "priv",
+  "titleZh": "priv｜隱私金庫",
+  "titleEn": "Priv Vault",
+  "hook": "字根 priv＝私——金庫專管私人、剝奪、特權鑰匙。",
+  "script": "private／privacy 鎖進金庫。deprive 把鑰匙拿走；privation 被剝到空。privilege 特殊鑰匙；privy 知情的自己人——守衛：privilege 要揭露，privacy 要保護識別資訊。",
+  "members": [
+    {
+      "headword": "private",
+      "inVocab": true,
+      "senseAnchor": "私人的",
+      "roleInScript": "鎖進金庫",
+      "humorDevice": "morphology",
+      "zhGloss": "私人的",
+      "speakLineEn": "Keep private keys off shared slides.",
+      "speakLineZh": "私鑰別放共享投影片。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "privacy",
+      "inVocab": true,
+      "senseAnchor": "隱私",
+      "roleInScript": "金庫門禁",
+      "humorDevice": "morphology",
+      "zhGloss": "隱私",
+      "speakLineEn": "Privacy requires more than anonymized names.",
+      "speakLineZh": "隱私不只是匿名姓名。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "deprive",
+      "inVocab": true,
+      "senseAnchor": "take away possessions from someone; keep from having, keeping, or obtaining",
+      "roleInScript": "拿走鑰匙",
+      "humorDevice": "morphology",
+      "zhGloss": "剝奪",
+      "speakLineEn": "Do not deprive reviewers of code access.",
+      "speakLineZh": "不要剝奪審稿人程式碼近用。",
+      "related": {
+        "synonyms": "strip, divest, impoverish",
+        "antonyms": "enrich"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "privation",
+      "inVocab": true,
+      "senseAnchor": "a state of extreme poverty; act of depriving someone of food or money or rights",
+      "roleInScript": "被剝到空",
+      "humorDevice": "morphology",
+      "zhGloss": "匱乏；剝奪",
+      "speakLineEn": "Privation of tooling hits poorer labs hardest.",
+      "speakLineZh": "工具匱乏最傷較窮實驗室。",
+      "related": {
+        "synonyms": "want, deprivation, neediness",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "privilege",
+      "inVocab": true,
+      "senseAnchor": "特權",
+      "roleInScript": "特殊鑰匙",
+      "humorDevice": "morphology",
+      "zhGloss": "特權",
+      "speakLineEn": "Disclose privilege and funding ties.",
+      "speakLineZh": "揭露特權與資助關係。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "privy",
+      "inVocab": true,
+      "senseAnchor": "知情的；私下的",
+      "roleInScript": "自己人",
+      "humorDevice": "morphology",
+      "zhGloss": "知情的；私下的",
+      "speakLineEn": "Only those privy to raw IDs need clearance.",
+      "speakLineZh": "只有知情原始 ID 者需通關。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "privatization",
+      "inVocab": true,
+      "senseAnchor": "私有化",
+      "roleInScript": "公變私",
+      "humorDevice": "story",
+      "zhGloss": "私有化",
+      "speakLineEn": "Privatization of essential data harms equity.",
+      "speakLineZh": "必要資料私有化傷害公平。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "underprivileged",
+      "inVocab": true,
+      "senseAnchor": "弱勢的",
+      "roleInScript": "少鑰匙的人",
+      "humorDevice": "story",
+      "zhGloss": "弱勢的",
+      "speakLineEn": "Waive fees for underprivileged authors.",
+      "speakLineZh": "為弱勢作者減免費用。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "privately",
+      "inVocab": true,
+      "senseAnchor": "私下地",
+      "roleInScript": "金庫內談",
+      "humorDevice": "story",
+      "zhGloss": "私下地",
+      "speakLineEn": "Resolve disputes privately, correct publicly.",
+      "speakLineZh": "私下解決爭議，公開勘誤。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "secrecy",
+      "inVocab": true,
+      "senseAnchor": "機密",
+      "roleInScript": "金庫氣氛",
+      "humorDevice": "story",
+      "zhGloss": "機密",
+      "speakLineEn": "Secrecy about exclusions is misconduct-adjacent.",
+      "speakLineZh": "對排除保密近乎不端。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "confidential",
+      "inVocab": true,
+      "senseAnchor": "機密的",
+      "roleInScript": "密封袋",
+      "humorDevice": "story",
+      "zhGloss": "機密的",
+      "speakLineEn": "Mark confidential fields before sharing.",
+      "speakLineZh": "共享前標記機密欄位。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "exclusive",
+      "inVocab": true,
+      "senseAnchor": "排外的；專有的",
+      "roleInScript": "只有自己人",
+      "humorDevice": "story",
+      "zhGloss": "排外的；專有的",
+      "speakLineEn": "Exclusive clubs slow cumulative science.",
+      "speakLineZh": "排外俱樂部拖慢累積科學。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    }
+  ],
+  "reviewHooks": [
+    "priv＝私：private/privacy/deprive/privation/privilege/privy",
+    "deprive＝剝奪"
+  ],
+  "pitfalls": [
+    "privy to＝知情參與",
+    "privation＝匱乏／剝奪狀態"
+  ],
+  "lessonRefs": [
+    "lesson-root-priv-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch01"
+  }
+}

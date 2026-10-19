@@ -1,0 +1,208 @@
+{
+  "id": "root-reg-01",
+  "type": "root",
+  "elementLemma": "reg/rex",
+  "titleZh": "reg｜王權調度室",
+  "titleEn": "Reg Throne Room",
+  "hook": "字根 reg/rex＝統治——調度室專管國王、攝政、體制與規則。",
+  "script": "regal 王者氣場；regent 攝政代班。regime 統治體制；regicide 弒君大戲。regulate／regular 用規則排班；interregnum 王位空窗期——大臣諫言：科學要 regulate，不要 regicide 式互砍。",
+  "members": [
+    {
+      "headword": "regal",
+      "inVocab": true,
+      "senseAnchor": "帝王的；莊嚴的",
+      "roleInScript": "王者氣場",
+      "humorDevice": "morphology",
+      "zhGloss": "帝王的；莊嚴的",
+      "speakLineEn": "Regal prose cannot hide weak n.",
+      "speakLineZh": "帝王文風藏不住弱樣本。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "regent",
+      "inVocab": true,
+      "senseAnchor": "攝政；董事",
+      "roleInScript": "代班統治",
+      "humorDevice": "morphology",
+      "zhGloss": "攝政；董事",
+      "speakLineEn": "An interim regent should not rewrite norms alone.",
+      "speakLineZh": "臨時攝政不該獨改規範。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "regime",
+      "inVocab": true,
+      "senseAnchor": "lawful control",
+      "roleInScript": "統治體制",
+      "humorDevice": "morphology",
+      "zhGloss": "政權；體制；養生制",
+      "speakLineEn": "A data-sharing regime needs enforcement.",
+      "speakLineZh": "資料共享體制需要執行。",
+      "related": {
+        "synonyms": "authority, governance",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "regicide",
+      "inVocab": true,
+      "senseAnchor": "弒君；弒君者",
+      "roleInScript": "砍王位",
+      "humorDevice": "morphology",
+      "zhGloss": "弒君；弒君者",
+      "speakLineEn": "Methodological 'regicide' of sacred cows needs evidence.",
+      "speakLineZh": "對聖牛的方法弒君需要證據。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "regulate",
+      "inVocab": true,
+      "senseAnchor": "管制；調節",
+      "roleInScript": "用規則排班",
+      "humorDevice": "morphology",
+      "zhGloss": "管制；調節",
+      "speakLineEn": "Regulate access to identifiable data.",
+      "speakLineZh": "管制可識別資料近用。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "regular",
+      "inVocab": true,
+      "senseAnchor": "規則的；定期的",
+      "roleInScript": "排班正常",
+      "humorDevice": "morphology",
+      "zhGloss": "規則的；定期的",
+      "speakLineEn": "Run regular audits of repositories.",
+      "speakLineZh": "定期稽核儲庫。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "interregnum",
+      "inVocab": true,
+      "senseAnchor": "空位期；過渡期",
+      "roleInScript": "王位空窗",
+      "humorDevice": "morphology",
+      "zhGloss": "空位期；過渡期",
+      "speakLineEn": "During an interregnum, freeze risky protocol changes.",
+      "speakLineZh": "空位期凍結高風險規程變更。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "regulation",
+      "inVocab": true,
+      "senseAnchor": "法規；調節",
+      "roleInScript": "規則文本",
+      "humorDevice": "story",
+      "zhGloss": "法規；調節",
+      "speakLineEn": "Follow human-subjects regulation closely.",
+      "speakLineZh": "嚴格遵守人體研究法規。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "ruler",
+      "inVocab": true,
+      "senseAnchor": "統治者；尺",
+      "roleInScript": "拿尺的王",
+      "humorDevice": "story",
+      "zhGloss": "統治者；尺",
+      "speakLineEn": "Be a ruler of processes, not of people by fear.",
+      "speakLineZh": "用流程統治，不用恐懼統治人。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "reign",
+      "inVocab": true,
+      "senseAnchor": "統治時期",
+      "roleInScript": "在位期間",
+      "humorDevice": "story",
+      "zhGloss": "統治時期",
+      "speakLineEn": "During her reign as editor, open data rose.",
+      "speakLineZh": "她任編輯期間開放資料上升。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "sovereign",
+      "inVocab": true,
+      "senseAnchor": "主權的；君主",
+      "roleInScript": "最高統治",
+      "humorDevice": "story",
+      "zhGloss": "主權的；君主",
+      "speakLineEn": "No lab is sovereign over ethics boards.",
+      "speakLineZh": "沒有實驗室對倫理委員會擁有主權。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "govern",
+      "inVocab": true,
+      "senseAnchor": "治理",
+      "roleInScript": "治理動作",
+      "humorDevice": "story",
+      "zhGloss": "治理",
+      "speakLineEn": "Govern incentives, not only individuals.",
+      "speakLineZh": "治理誘因，不只治理個人。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    }
+  ],
+  "reviewHooks": [
+    "reg＝統治：regal/regent/regime/regulate/regicide/interregnum",
+    "interregnum＝空位期"
+  ],
+  "pitfalls": [
+    "regime 可指政權或制度／養生制度",
+    "regicide＝弒君"
+  ],
+  "lessonRefs": [
+    "lesson-root-reg-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch01"
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "id": "root-plac-01",
+  "type": "root",
+  "elementLemma": "plac",
+  "titleZh": "plac｜安撫接待室",
+  "titleEn": "Plac Calm Lounge",
+  "hook": "字根 plac＝平息／討好——接待室專管安撫、平靜、討好與和解。",
+  "script": "placid 水面平靜。placate 安撫怒審。placebo 安慰劑糖。complacent／complacency 自滿沙發；implacable 安撫不了——接待：placate egos after critique；complacent labs 危險。",
+  "members": [
+    {
+      "headword": "placid",
+      "inVocab": true,
+      "senseAnchor": "(of a body of water) free from disturbance by heavy waves; not easily irritated",
+      "roleInScript": "平水面",
+      "humorDevice": "morphology",
+      "zhGloss": "平靜的",
+      "speakLineEn": "Keep a placid tone in rebuttals.",
+      "speakLineZh": "反駁保持平靜語氣。",
+      "related": {
+        "synonyms": "quiet, still, tranquil, smooth, unruffled, equable",
+        "antonyms": "active, agitate, louden, noisy, sound, unquiet, unquietly, moving"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "placate",
+      "inVocab": true,
+      "senseAnchor": "cause to be more favorably inclined; gain the good will of",
+      "roleInScript": "安撫怒",
+      "humorDevice": "morphology",
+      "zhGloss": "安撫",
+      "speakLineEn": "Placate concerns with data, not adjectives.",
+      "speakLineZh": "用資料安撫疑慮，不是形容詞。",
+      "related": {
+        "synonyms": "pacify, lenify, conciliate, assuage, appease, mollify",
+        "antonyms": "provoke, enrage"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "placebo",
+      "inVocab": true,
+      "senseAnchor": "an innocuous or inert medication; given as a pacifier or to the control group in experiments on the efficacy of a drug; (Roman Catholic Church) vespers of the office for the dead",
+      "roleInScript": "安慰糖",
+      "humorDevice": "morphology",
+      "zhGloss": "安慰劑",
+      "speakLineEn": "Placebo arms still need outcome locks.",
+      "speakLineZh": "安慰劑臂仍需結局鎖定。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "complacent",
+      "inVocab": false,
+      "senseAnchor": "自滿的",
+      "roleInScript": "自滿沙發",
+      "humorDevice": "morphology",
+      "zhGloss": "自滿的",
+      "speakLineEn": "Complacent labs skip audits.",
+      "speakLineZh": "自滿實驗室跳過稽核。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "complacency",
+      "inVocab": false,
+      "senseAnchor": "自滿",
+      "roleInScript": "沙發病",
+      "humorDevice": "morphology",
+      "zhGloss": "自滿",
+      "speakLineEn": "Complacency about p-hacking is contagious.",
+      "speakLineZh": "對 p 操弄的自滿會傳染。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "implacable",
+      "inVocab": true,
+      "senseAnchor": "incapable of being placated",
+      "roleInScript": "安撫不了",
+      "humorDevice": "morphology",
+      "zhGloss": "無法平息的",
+      "speakLineEn": "Implacable skepticism is fine; bad faith is not.",
+      "speakLineZh": "無法平息的懷疑沒問題；惡意不行。",
+      "related": {
+        "synonyms": "",
+        "antonyms": "merciful, forgiving, placable"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "plea",
+      "inVocab": false,
+      "senseAnchor": "懇求",
+      "roleInScript": "求情",
+      "humorDevice": "story",
+      "zhGloss": "懇求",
+      "speakLineEn": "A plea for urgency is not a design.",
+      "speakLineZh": "懇求急迫不是設計。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "please",
+      "inVocab": false,
+      "senseAnchor": "取悅；請",
+      "roleInScript": "討好",
+      "humorDevice": "story",
+      "zhGloss": "取悅；請",
+      "speakLineEn": "Do not please editors by hiding nulls.",
+      "speakLineZh": "不要為取悅編輯隱藏虛無。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "pleasant",
+      "inVocab": false,
+      "senseAnchor": "愉快的",
+      "roleInScript": "好氣氛",
+      "humorDevice": "story",
+      "zhGloss": "愉快的",
+      "speakLineEn": "Pleasant culture still needs hard reviews.",
+      "speakLineZh": "愉快文化仍需嚴格審查。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "appease",
+      "inVocab": true,
+      "senseAnchor": "cause to be more favorably inclined; gain the good will of; overcome or allay",
+      "roleInScript": "綏靖",
+      "humorDevice": "story",
+      "zhGloss": "綏靖；安撫",
+      "speakLineEn": "Appease funders with milestones, not fake p.",
+      "speakLineZh": "用里程碑安撫資助者，不是假 p。",
+      "related": {
+        "synonyms": "pacify, lenify, conciliate, assuage, mollify, placate",
+        "antonyms": "provoke, agitate"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "soothe",
+      "inVocab": false,
+      "senseAnchor": "撫慰",
+      "roleInScript": "撫平",
+      "humorDevice": "story",
+      "zhGloss": "撫慰",
+      "speakLineEn": "Soothe anxiety with checklists.",
+      "speakLineZh": "用清單撫慰焦慮。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "plac＝平：placid/placate/placebo/complacent/implacable",
+    "complacent＝自滿的"
+  ],
+  "pitfalls": [
+    "placate＝安撫；placebo＝安慰劑",
+    "implacable＝無法平息的"
+  ],
+  "lessonRefs": [
+    "lesson-root-plac-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch04"
+  }
+}

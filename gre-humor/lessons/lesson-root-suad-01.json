@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-suad-01",
+  "slug": "root-suad-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-suad-01",
+  "titleZh": "suad｜勸說廣播站",
+  "titleEn": "Suad Persuasion Radio",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 suad＝勸——廣播站用甜嗓勸你，也用冷靜嗓勸你別衝動。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "persuade／persuasion／persuasive 主頻道勸進。suave 滑順主持腔。assuage 安撫聽眾情緒；convince／coax／cajole／wheedle 說服家族客串——台長：persuasive writing 可以；cajole reviewers 用資料，不是奉承。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "suad＝勸：persuade/persuasion/persuasive/suave/assuage",
+        "assuage＝緩和"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Win someone over by argument:",
+      "promptZh": "說服：",
+      "choices": [
+        "persuade",
+        "invade",
+        "enumerate",
+        "sacrifice"
+      ],
+      "answer": "persuade"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Make less severe; soothe:",
+      "promptZh": "緩和安撫：",
+      "choices": [
+        "assuage",
+        "assail",
+        "exult",
+        "abdicate"
+      ],
+      "answer": "assuage"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Smoothly charming in manner:",
+      "promptZh": "圓滑文雅：",
+      "choices": [
+        "suave",
+        "salient",
+        "desolate",
+        "craven"
+      ],
+      "answer": "suave"
+    }
+  ],
+  "pitfalls": [
+    "persuade＝說服；assuage＝減輕（情緒／疼痛）",
+    "suave＝圓滑文雅"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch05"
+  }
+}

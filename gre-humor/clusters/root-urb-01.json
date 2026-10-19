@@ -1,0 +1,208 @@
+{
+  "id": "root-urb-01",
+  "type": "root",
+  "elementLemma": "urb",
+  "titleZh": "urb｜城市風度局",
+  "titleEn": "Urb City Manners Bureau",
+  "hook": "字根 urb＝城——風度局管都市、郊區，還有「urbane」那種都會禮貌。",
+  "script": "urban／suburb／suburban／exurb／interurban 城市圈規劃。urbane／urbanity 都會風度課——局長：urbane rebuttals 可以；suburban folklore 不能當方法。",
+  "members": [
+    {
+      "headword": "urban",
+      "inVocab": false,
+      "senseAnchor": "都市的",
+      "roleInScript": "都市圈",
+      "humorDevice": "morphology",
+      "zhGloss": "都市的",
+      "speakLineEn": "Urban multi-site studies need site effects.",
+      "speakLineZh": "都市多站研究需要站點效應。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "suburb",
+      "inVocab": false,
+      "senseAnchor": "郊區",
+      "roleInScript": "郊區站",
+      "humorDevice": "morphology",
+      "zhGloss": "郊區",
+      "speakLineEn": "Do not hide exclusions in a suburb of the appendix.",
+      "speakLineZh": "別把排除藏在附錄郊區。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "suburban",
+      "inVocab": false,
+      "senseAnchor": "郊區的",
+      "roleInScript": "郊區風",
+      "humorDevice": "morphology",
+      "zhGloss": "郊區的",
+      "speakLineEn": "Suburban convenience samples limit transport.",
+      "speakLineZh": "郊區方便樣本限制外推。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "urbane",
+      "inVocab": true,
+      "senseAnchor": "showing a high degree of refinement and the assurance that comes from wide social experience",
+      "roleInScript": "風度課",
+      "humorDevice": "morphology",
+      "zhGloss": "溫文都會的",
+      "speakLineEn": "Urbane critique still names the error.",
+      "speakLineZh": "溫文批評仍要點名錯誤。",
+      "related": {
+        "synonyms": "polished, refined, svelte",
+        "antonyms": "rustic, uncouth"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "urbanity",
+      "inVocab": false,
+      "senseAnchor": "都雅；禮數",
+      "roleInScript": "禮數手冊",
+      "humorDevice": "morphology",
+      "zhGloss": "都雅；禮數",
+      "speakLineEn": "Urbanity without honesty is empty polish.",
+      "speakLineZh": "沒有誠實的都雅是空拋光。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "exurb",
+      "inVocab": false,
+      "senseAnchor": "遠郊",
+      "roleInScript": "遠郊帶",
+      "humorDevice": "story",
+      "zhGloss": "遠郊",
+      "speakLineEn": "Exurb collaborators need shared time zones rules.",
+      "speakLineZh": "遠郊合作者需要共享時區規則。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "interurban",
+      "inVocab": false,
+      "senseAnchor": "城際的",
+      "roleInScript": "城際線",
+      "humorDevice": "story",
+      "zhGloss": "城際的",
+      "speakLineEn": "Interurban replication networks share protocols.",
+      "speakLineZh": "城際複現網絡共享規程。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "civic",
+      "inVocab": false,
+      "senseAnchor": "市民的",
+      "roleInScript": "市民約",
+      "humorDevice": "story",
+      "zhGloss": "市民的",
+      "speakLineEn": "Civic duty: correct the public record.",
+      "speakLineZh": "市民義務：更正公開紀錄。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "metropolitan",
+      "inVocab": false,
+      "senseAnchor": "大都市的",
+      "roleInScript": "大都會",
+      "humorDevice": "story",
+      "zhGloss": "大都市的",
+      "speakLineEn": "Metropolitan claims need metropolitan evidence.",
+      "speakLineZh": "大都會主張需要大都會證據。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "downtown",
+      "inVocab": false,
+      "senseAnchor": "市中心",
+      "roleInScript": "市中心檔",
+      "humorDevice": "story",
+      "zhGloss": "市中心",
+      "speakLineEn": "Keep primary results downtown, not in footnotes.",
+      "speakLineZh": "主要結果放市中心，不放腳註。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "skyline",
+      "inVocab": false,
+      "senseAnchor": "天際線",
+      "roleInScript": "天際線",
+      "humorDevice": "story",
+      "zhGloss": "天際線",
+      "speakLineEn": "Your skyline of figures should show uncertainty.",
+      "speakLineZh": "圖表天際線應顯示不確定性。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "boulevard",
+      "inVocab": false,
+      "senseAnchor": "大道",
+      "roleInScript": "林蔭道",
+      "humorDevice": "story",
+      "zhGloss": "大道",
+      "speakLineEn": "Make the analysis boulevard one-way and signed.",
+      "speakLineZh": "讓分析大道單向且有路標。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "urb＝城：urban/suburb/urbane/urbanity/suburban",
+    "urbane＝溫文都會的"
+  ],
+  "pitfalls": [
+    "urbane＝溫文爾雅；urban＝都市的",
+    "suburb＝郊區"
+  ],
+  "lessonRefs": [
+    "lesson-root-urb-01"
+  ],
+  "status": "reviewed",
+  "priority": "C",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch05"
+  }
+}

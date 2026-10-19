@@ -1,0 +1,208 @@
+{
+  "id": "root-sol-01",
+  "type": "root",
+  "elementLemma": "sol",
+  "titleZh": "sol｜獨奏日照廳",
+  "titleEn": "Sol Solo Sun Hall",
+  "hook": "字根 sol＝獨／日——日照廳既辦獨奏，也開日照；寂寞與陽光同一個票口。",
+  "script": "solo／soloist／solitary／sole 獨奏席。desolate／solace 荒涼與安慰劑。solar／parasol 日照與遮陽傘——廳長：sole primary endpoint；solitary genius 神話退場。",
+  "members": [
+    {
+      "headword": "solo",
+      "inVocab": false,
+      "senseAnchor": "獨奏；單獨的",
+      "roleInScript": "獨奏席",
+      "humorDevice": "morphology",
+      "zhGloss": "獨奏；單獨的",
+      "speakLineEn": "No solo decisions on outcome swaps.",
+      "speakLineZh": "結局替換禁止獨斷。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "soloist",
+      "inVocab": false,
+      "senseAnchor": "獨奏者",
+      "roleInScript": "獨奏明星",
+      "humorDevice": "morphology",
+      "zhGloss": "獨奏者",
+      "speakLineEn": "Even a star soloist needs an orchestra of checks.",
+      "speakLineZh": "明星獨奏也需要檢查樂團。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "solitary",
+      "inVocab": false,
+      "senseAnchor": "孤獨的；單獨的",
+      "roleInScript": "獨坐椅",
+      "humorDevice": "morphology",
+      "zhGloss": "孤獨的；單獨的",
+      "speakLineEn": "Solitary reanalyses invite silent bias.",
+      "speakLineZh": "孤獨再分析誘發沉默偏差。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "sole",
+      "inVocab": false,
+      "senseAnchor": "唯一的；鞋底",
+      "roleInScript": "唯一票",
+      "humorDevice": "morphology",
+      "zhGloss": "唯一的；鞋底",
+      "speakLineEn": "Name the sole primary endpoint in ink.",
+      "speakLineZh": "用墨水寫明唯一主要終點。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "desolate",
+      "inVocab": true,
+      "senseAnchor": "leave someone who needs or counts on you; leave in the lurch; reduce in population",
+      "roleInScript": "荒涼場",
+      "humorDevice": "morphology",
+      "zhGloss": "荒涼的；淒涼的",
+      "speakLineEn": "A desolate methods section fails readers.",
+      "speakLineZh": "荒涼的方法段對不起讀者。",
+      "related": {
+        "synonyms": "abandon, forsake, desert, depopulate, waste, devastate",
+        "antonyms": "conserve"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "solace",
+      "inVocab": true,
+      "senseAnchor": "to give comfort to",
+      "roleInScript": "安慰茶",
+      "humorDevice": "morphology",
+      "zhGloss": "安慰",
+      "speakLineEn": "Open data is solace after a null.",
+      "speakLineZh": "開放資料是虛無之後的安慰。",
+      "related": {
+        "synonyms": "comfort, console, soothe",
+        "antonyms": "discomfort, irritate"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "solar",
+      "inVocab": false,
+      "senseAnchor": "太陽的",
+      "roleInScript": "日照燈",
+      "humorDevice": "morphology",
+      "zhGloss": "太陽的",
+      "speakLineEn": "Solar-clear figures beat ornate darkness.",
+      "speakLineZh": "日照般清晰的圖勝過華麗黑暗。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "parasol",
+      "inVocab": false,
+      "senseAnchor": "陽傘",
+      "roleInScript": "遮陽傘",
+      "humorDevice": "story",
+      "zhGloss": "陽傘",
+      "speakLineEn": "Use a parasol of sensitivity analyses.",
+      "speakLineZh": "撑起敏感度分析陽傘。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "alone",
+      "inVocab": false,
+      "senseAnchor": "單獨",
+      "roleInScript": "單獨鍵",
+      "humorDevice": "story",
+      "zhGloss": "單獨",
+      "speakLineEn": "Do not decide alone after seeing results.",
+      "speakLineZh": "看到結果後不要單獨決定。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "lonely",
+      "inVocab": false,
+      "senseAnchor": "寂寞的",
+      "roleInScript": "寂寞燈",
+      "humorDevice": "story",
+      "zhGloss": "寂寞的",
+      "speakLineEn": "Lonely variables still need definitions.",
+      "speakLineZh": "寂寞變數仍需定義。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "sunlit",
+      "inVocab": false,
+      "senseAnchor": "陽光照射的",
+      "roleInScript": "光照面",
+      "humorDevice": "story",
+      "zhGloss": "陽光照射的",
+      "speakLineEn": "Keep assumptions sunlit in the paper.",
+      "speakLineZh": "讓假設在論文裡被陽光照射。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "spotlight",
+      "inVocab": false,
+      "senseAnchor": "聚光燈",
+      "roleInScript": "聚光燈",
+      "humorDevice": "story",
+      "zhGloss": "聚光燈",
+      "speakLineEn": "Spotlight limitations as brightly as wins.",
+      "speakLineZh": "限制與勝利一樣用聚光燈。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "sol＝獨／日：solo/solitary/sole/desolate/solace/solar",
+    "desolate＝荒涼的"
+  ],
+  "pitfalls": [
+    "sole＝唯一的；soul＝靈魂",
+    "solace＝安慰"
+  ],
+  "lessonRefs": [
+    "lesson-root-sol-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch05"
+  }
+}

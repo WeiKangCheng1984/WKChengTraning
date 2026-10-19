@@ -1,0 +1,178 @@
+{
+  "id": "prefix-hypo-01",
+  "type": "prefix",
+  "elementLemma": "hypo-",
+  "titleZh": "hypo-｜不足低壓艙",
+  "titleEn": "Hypo Low-Pressure Bay",
+  "hook": "字首 hypo-＝不足／在下——低壓艙專管假說、低估與皮下。",
+  "script": "hypothesis（thesis 族）在低壓艙待命。hypocrisy 說一套做一套漏氣。hypothetical 假如情境。hypodermic 皮下注射梗；hypothermia 低溫——艙長：hypothesis 要可驗；hypocrisy 對開放科學最傷。",
+  "members": [
+    {
+      "headword": "hypocrisy",
+      "inVocab": false,
+      "senseAnchor": "偽善",
+      "roleInScript": "漏氣雙標",
+      "humorDevice": "morphology",
+      "zhGloss": "偽善",
+      "speakLineEn": "Open-science hypocrisy is sharing slogans only.",
+      "speakLineZh": "開放科學偽善是只分享口號。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "hypodermic",
+      "inVocab": false,
+      "senseAnchor": "皮下的；注射器",
+      "roleInScript": "皮下針",
+      "humorDevice": "morphology",
+      "zhGloss": "皮下的；注射器",
+      "speakLineEn": "Think of audits as hypodermic checks—precise.",
+      "speakLineZh": "把稽核當皮下檢查：精準。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "hypothermia",
+      "inVocab": false,
+      "senseAnchor": "低體溫",
+      "roleInScript": "低溫艙",
+      "humorDevice": "story",
+      "zhGloss": "低體溫",
+      "speakLineEn": "Hypothermia of funding freezes replications.",
+      "speakLineZh": "資金低溫凍結複現。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "underpowered",
+      "inVocab": false,
+      "senseAnchor": "檢定力不足",
+      "roleInScript": "壓力不足",
+      "humorDevice": "story",
+      "zhGloss": "檢定力不足",
+      "speakLineEn": "Underpowered designs are hypo-evidence machines.",
+      "speakLineZh": "檢定力不足是低證據機器。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "understate",
+      "inVocab": true,
+      "senseAnchor": "represent as less significant or important",
+      "roleInScript": "說太少",
+      "humorDevice": "story",
+      "zhGloss": "低估陳述",
+      "speakLineEn": "Do not understate uncertainty.",
+      "speakLineZh": "不要低估陳述不確定性。",
+      "related": {
+        "synonyms": "minimize, minimise, downplay",
+        "antonyms": "overstate"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "beneath",
+      "inVocab": false,
+      "senseAnchor": "在下",
+      "roleInScript": "在下層",
+      "humorDevice": "story",
+      "zhGloss": "在下",
+      "speakLineEn": "Look beneath the mean for subgroups.",
+      "speakLineZh": "往均值下層看次群。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "low",
+      "inVocab": false,
+      "senseAnchor": "低",
+      "roleInScript": "低檔",
+      "humorDevice": "story",
+      "zhGloss": "低",
+      "speakLineEn": "Low transparency predicts trouble.",
+      "speakLineZh": "低透明預測麻煩。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "deficit",
+      "inVocab": false,
+      "senseAnchor": "不足",
+      "roleInScript": "缺額",
+      "humorDevice": "story",
+      "zhGloss": "不足",
+      "speakLineEn": "A deficit of logs blocks audit.",
+      "speakLineZh": "日誌不足阻擋稽核。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "hypo claim",
+      "inVocab": false,
+      "senseAnchor": "不足宣稱",
+      "roleInScript": "說不夠",
+      "humorDevice": "story",
+      "zhGloss": "不足宣稱",
+      "speakLineEn": "A hypo claim still needs intervals.",
+      "speakLineZh": "不足宣稱仍需要區間。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "basement",
+      "inVocab": false,
+      "senseAnchor": "地下室",
+      "roleInScript": "在下空間",
+      "humorDevice": "story",
+      "zhGloss": "地下室",
+      "speakLineEn": "Keep raw files in a secured basement, not Slack.",
+      "speakLineZh": "原始檔放安全地下室，不是 Slack。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "hypo-＝在下／不足：hypothesis/hypocrisy/hypothetical/hypodermic",
+    "hypocrisy＝偽善"
+  ],
+  "pitfalls": [
+    "hypocrisy＝偽善",
+    "hypothetical＝假設的"
+  ],
+  "lessonRefs": [
+    "lesson-prefix-hypo-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch03"
+  }
+}

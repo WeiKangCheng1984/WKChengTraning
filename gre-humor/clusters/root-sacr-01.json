@@ -1,0 +1,208 @@
+{
+  "id": "root-sacr-01",
+  "type": "root",
+  "elementLemma": "sacr/sanct",
+  "titleZh": "sacr／sanct｜聖物保全署",
+  "titleEn": "Sacr Sanctuary Agency",
+  "hook": "字根 sacr/sanct＝聖——保全署把「不可碰」的東西貼封印，也抓假虔誠。",
+  "script": "sacred／sacrosanct 貼上聖封。sanctuary／sanctify／saint 庇護所與封聖儀式。sacrifice／sacrificial 獻祭交換；sanction／sanctimonious／consecrate 制裁、假神聖、奉獻——署長：methods 可 sacred；ego 不可 sacrosanct。",
+  "members": [
+    {
+      "headword": "sacred",
+      "inVocab": false,
+      "senseAnchor": "神聖的",
+      "roleInScript": "聖封貼紙",
+      "humorDevice": "morphology",
+      "zhGloss": "神聖的",
+      "speakLineEn": "Treat consent as sacred, not optional.",
+      "speakLineZh": "把同意視為神聖，不是可選。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "sacrosanct",
+      "inVocab": true,
+      "senseAnchor": "most sacred or holy",
+      "roleInScript": "禁碰封印",
+      "humorDevice": "morphology",
+      "zhGloss": "神聖不可侵犯的",
+      "speakLineEn": "No hypothesis is sacrosanct after new evidence.",
+      "speakLineZh": "新證據後沒有假說不可碰。",
+      "related": {
+        "synonyms": "hallowed, inviolable",
+        "antonyms": "desecrate, violable"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "sanctuary",
+      "inVocab": true,
+      "senseAnchor": "a consecrated place where sacred objects are kept; a shelter from danger or hardship",
+      "roleInScript": "庇護所",
+      "humorDevice": "morphology",
+      "zhGloss": "庇護所；聖殿",
+      "speakLineEn": "Make the lab a sanctuary for honest doubt.",
+      "speakLineZh": "讓實驗室成為誠實懷疑的庇護所。",
+      "related": {
+        "synonyms": "refuge, asylum, chancel, bema",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "sanctify",
+      "inVocab": false,
+      "senseAnchor": "使神聖；認可",
+      "roleInScript": "封聖章",
+      "humorDevice": "morphology",
+      "zhGloss": "使神聖；認可",
+      "speakLineEn": "Do not sanctify a pipeline just because it is old.",
+      "speakLineZh": "別因老舊就封聖一條管線。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "sacrifice",
+      "inVocab": false,
+      "senseAnchor": "犧牲；獻祭",
+      "roleInScript": "獻祭交換",
+      "humorDevice": "morphology",
+      "zhGloss": "犧牲；獻祭",
+      "speakLineEn": "Never sacrifice blinding for speed.",
+      "speakLineZh": "永遠不要為速度犧牲盲法。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "sacrificial",
+      "inVocab": false,
+      "senseAnchor": "犧牲的",
+      "roleInScript": "祭品標",
+      "humorDevice": "morphology",
+      "zhGloss": "犧牲的",
+      "speakLineEn": "Juniors are not sacrificial authors.",
+      "speakLineZh": "資淺者不是祭品作者。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "sanction",
+      "inVocab": true,
+      "senseAnchor": "to permit officially",
+      "roleInScript": "批准／制裁章",
+      "humorDevice": "morphology",
+      "zhGloss": "批准；制裁",
+      "speakLineEn": "Ethics boards sanction protocols, not vibes.",
+      "speakLineZh": "倫理委員會批准規程，不是感覺。",
+      "related": {
+        "synonyms": "accredit, authorize, endorse, license",
+        "antonyms": "prohibit, forbid, disapprove, decertify"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "consecrate",
+      "inVocab": true,
+      "senseAnchor": "appoint to a clerical posts; give entirely to a specific person, activity, or cause",
+      "roleInScript": "奉獻儀式",
+      "humorDevice": "morphology",
+      "zhGloss": "奉獻；使神聖",
+      "speakLineEn": "Consecrate time for replication, not only novelty.",
+      "speakLineZh": "把時間奉獻給複現，不只新奇。",
+      "related": {
+        "synonyms": "ordain, ordinate, order, give, dedicate, commit",
+        "antonyms": "desecrate, desecrated"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "saint",
+      "inVocab": false,
+      "senseAnchor": "聖徒",
+      "roleInScript": "聖人海報",
+      "humorDevice": "story",
+      "zhGloss": "聖徒",
+      "speakLineEn": "Even a methods saint needs checklists.",
+      "speakLineZh": "方法聖人仍需要清單。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "sanctimonious",
+      "inVocab": true,
+      "senseAnchor": "pretending to be morally better than other people",
+      "roleInScript": "假神聖臉",
+      "humorDevice": "story",
+      "zhGloss": "假虔誠的",
+      "speakLineEn": "Sanctimonious slogans do not replace audits.",
+      "speakLineZh": "假虔誠口號取代不了稽核。",
+      "related": {
+        "synonyms": "preachy, didactic, hypocritical, self-righteous",
+        "antonyms": "undidactic"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "holy",
+      "inVocab": false,
+      "senseAnchor": "神聖的",
+      "roleInScript": "口語聖",
+      "humorDevice": "story",
+      "zhGloss": "神聖的",
+      "speakLineEn": "Keep a holy distance from unblinded peeks.",
+      "speakLineZh": "與非盲偷看保持神聖距離。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "taboo",
+      "inVocab": true,
+      "senseAnchor": "a prejudice (especially in Polynesia and other South Pacific islands) that prohibits the use or mention of something because of its sacred nature; an inhibition or ban resulting from social custom or emotional aversion",
+      "roleInScript": "禁區牌",
+      "humorDevice": "story",
+      "zhGloss": "禁忌",
+      "speakLineEn": "Make outcome switching a lab taboo.",
+      "speakLineZh": "把結局替換設為實驗室禁忌。",
+      "related": {
+        "synonyms": "tabu, forbidden, out, prohibited, proscribed, verboten",
+        "antonyms": "allow, permit, safe"
+      },
+      "vocabStatus": "in-vocab"
+    }
+  ],
+  "reviewHooks": [
+    "sacr/sanct＝聖：sacred/sanctuary/sacrifice/sanction/sacrosanct",
+    "sanctimonious＝假虔誠"
+  ],
+  "pitfalls": [
+    "sanction＝批准／制裁（雙義）",
+    "sacrosanct＝神聖不可侵犯"
+  ],
+  "lessonRefs": [
+    "lesson-root-sacr-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch05"
+  }
+}

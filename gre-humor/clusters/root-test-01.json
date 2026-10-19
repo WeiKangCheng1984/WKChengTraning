@@ -1,0 +1,218 @@
+{
+  "id": "root-test-01",
+  "type": "root",
+  "elementLemma": "test",
+  "titleZh": "test｜見證檢察署",
+  "titleEn": "Test Witness Office",
+  "hook": "字根 test＝見證——檢察署專管作證、證詞、抗議與檢驗。",
+  "script": "testify／testimony／testimonial 作證三件套。attest 連署見證。contest／protest 抗議比賽。detest 厭惡到拒絕作證——檢察官：attest 你的程式碼；protest 不公誘因；別 detest 陰性結果。",
+  "members": [
+    {
+      "headword": "testify",
+      "inVocab": false,
+      "senseAnchor": "作證",
+      "roleInScript": "出庭說",
+      "humorDevice": "morphology",
+      "zhGloss": "作證",
+      "speakLineEn": "Let the data testify, not the press release.",
+      "speakLineZh": "讓資料作證，不是新聞稿。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "testimony",
+      "inVocab": false,
+      "senseAnchor": "a solemn statement made under oath; an assertion offering firsthand authentication of a fact",
+      "roleInScript": "證詞本",
+      "humorDevice": "morphology",
+      "zhGloss": "證詞",
+      "speakLineEn": "Code is testimony; keep it readable.",
+      "speakLineZh": "程式碼是證詞；保持可讀。",
+      "related": {
+        "synonyms": "testimonial",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "testimonial",
+      "inVocab": false,
+      "senseAnchor": "推薦證明；見證文",
+      "roleInScript": "推薦卡",
+      "humorDevice": "morphology",
+      "zhGloss": "推薦證明；見證文",
+      "speakLineEn": "A celebrity testimonial is not validation.",
+      "speakLineZh": "名人見證文不是驗證。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "attest",
+      "inVocab": true,
+      "senseAnchor": "證明；表明",
+      "roleInScript": "連署見證",
+      "humorDevice": "morphology",
+      "zhGloss": "證明；表明",
+      "speakLineEn": "Attest that exclusions were pre-specified.",
+      "speakLineZh": "證明排除已預先指定。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "contest",
+      "inVocab": false,
+      "senseAnchor": "爭辯；競賽",
+      "roleInScript": "抗議比賽",
+      "humorDevice": "morphology",
+      "zhGloss": "爭辯；競賽",
+      "speakLineEn": "Contest shaky causal leaps.",
+      "speakLineZh": "爭辯不穩的因果跳躍。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "protest",
+      "inVocab": false,
+      "senseAnchor": "抗議",
+      "roleInScript": "舉牌",
+      "humorDevice": "morphology",
+      "zhGloss": "抗議",
+      "speakLineEn": "Protest paywalls that block replication.",
+      "speakLineZh": "抗議阻擋複現的付費牆。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "detest",
+      "inVocab": true,
+      "senseAnchor": "dislike intensely; feel antipathy or aversion towards",
+      "roleInScript": "厭惡拒證",
+      "humorDevice": "morphology",
+      "zhGloss": "憎恨；厭惡",
+      "speakLineEn": "Detest fraud, not honest nulls.",
+      "speakLineZh": "厭惡造假，不是誠實虛無。",
+      "related": {
+        "synonyms": "hate",
+        "antonyms": "love"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "testable",
+      "inVocab": false,
+      "senseAnchor": "可檢驗的",
+      "roleInScript": "能作證的主張",
+      "humorDevice": "story",
+      "zhGloss": "可檢驗的",
+      "speakLineEn": "Only testable claims belong in hypotheses.",
+      "speakLineZh": "只有可檢驗主張屬於假說。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "contestant",
+      "inVocab": false,
+      "senseAnchor": "參賽者",
+      "roleInScript": "比賽的人",
+      "humorDevice": "story",
+      "zhGloss": "參賽者",
+      "speakLineEn": "Every contestant metric needs a rulebook.",
+      "speakLineZh": "每個參賽指標需要規則書。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "attestation",
+      "inVocab": false,
+      "senseAnchor": "證明書",
+      "roleInScript": "見證文件",
+      "humorDevice": "story",
+      "zhGloss": "證明書",
+      "speakLineEn": "Keep attestation of consent versions.",
+      "speakLineZh": "保留同意版本證明。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "protestation",
+      "inVocab": false,
+      "senseAnchor": "斷言；抗議",
+      "roleInScript": "大聲聲明",
+      "humorDevice": "story",
+      "zhGloss": "斷言；抗議",
+      "speakLineEn": "Protestations of purity need audits.",
+      "speakLineZh": "純潔斷言需要稽核。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "witness",
+      "inVocab": false,
+      "senseAnchor": "證人",
+      "roleInScript": "在場的人",
+      "humorDevice": "story",
+      "zhGloss": "證人",
+      "speakLineEn": "Be a witness to protocol changes.",
+      "speakLineZh": "做規程變更的證人。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "test＝見證：testify/testimony/attest/contest/protest/detest",
+    "attest＝證明"
+  ],
+  "pitfalls": [
+    "testimonial 可＝推薦證明",
+    "detest＝憎恨"
+  ],
+  "lessonRefs": [
+    "lesson-root-test-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch02"
+  }
+}

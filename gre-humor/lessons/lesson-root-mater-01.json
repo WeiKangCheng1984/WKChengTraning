@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-mater-01",
+  "slug": "root-mater-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-mater-01",
+  "titleZh": "mater／matr｜母系登記處",
+  "titleEn": "Mater Mother Registry",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 mater/matr＝母——登記處管母系、婚姻、母校，還有矩陣媽媽。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "maternal／maternity／matron 母性櫃台。matriarch／matriarchal 家族女王。matrimony 結婚登記；alma mater／matrix 母校與矩陣媽媽——登記員：matrix 要可逆；matriarch 也不能免審。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "mater＝母：maternal/matriarch/matrimony/matron/matrix/alma mater",
+        "matriarch＝女家長"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Female head of a family:",
+      "promptZh": "女家長：",
+      "choices": [
+        "matriarch",
+        "mariner",
+        "mercenary",
+        "vagabond"
+      ],
+      "answer": "matriarch"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Marriage:",
+      "promptZh": "婚姻：",
+      "choices": [
+        "matrimony",
+        "maritime",
+        "paucity",
+        "assault"
+      ],
+      "answer": "matrimony"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Array; mold; enclosing structure:",
+      "promptZh": "矩陣／母體：",
+      "choices": [
+        "matrix",
+        "marina",
+        "sally",
+        "suave"
+      ],
+      "answer": "matrix"
+    }
+  ],
+  "pitfalls": [
+    "maternal＝母親的；paternal＝父親的",
+    "alma mater＝母校"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch05"
+  }
+}

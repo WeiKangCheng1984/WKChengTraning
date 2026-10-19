@@ -1,0 +1,202 @@
+{
+  "id": "root-vor-01",
+  "type": "root",
+  "elementLemma": "vor",
+  "titleZh": "vor｜食欲怪獸食堂",
+  "titleEn": "Vor Appetite Cafeteria",
+  "hook": "字根 vor＝吃——食堂怪獸依食譜分類：雜食、肉食、吞食。",
+  "script": "voracious 食欲怪獸。devour 整盤吞。carnivore／herbivore／omnivore 肉／草／雜食窗口。savory 鹹香好吃（非 vor 但同桌）；vortex 漩渦把東西吃進去——廚師：voracious reading 好；devour 證據別只吞摘要。",
+  "members": [
+    {
+      "headword": "voracious",
+      "inVocab": true,
+      "senseAnchor": "having a huge appetite",
+      "roleInScript": "食欲怪獸",
+      "humorDevice": "morphology",
+      "zhGloss": "貪婪的；如饑似渴的",
+      "speakLineEn": "Be voracious for primary sources.",
+      "speakLineZh": "對一手來源如饑似渴。",
+      "related": {
+        "synonyms": "gluttonous, ravenous, rapacious",
+        "antonyms": "indifferent, satiated, abstemious"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "devour",
+      "inVocab": true,
+      "senseAnchor": "destroy completely; enjoy avidly",
+      "roleInScript": "整盤吞",
+      "humorDevice": "morphology",
+      "zhGloss": "吞食；貪婪閱讀",
+      "speakLineEn": "Do not devour only abstracts.",
+      "speakLineZh": "不要只吞摘要。",
+      "related": {
+        "synonyms": "down, consume, guttle, raven, pig",
+        "antonyms": "up, upward, upwardly, upwards, abstain"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "carnivore",
+      "inVocab": false,
+      "senseAnchor": "肉食動物",
+      "roleInScript": "肉食窗",
+      "humorDevice": "morphology",
+      "zhGloss": "肉食動物",
+      "speakLineEn": "A methods carnivore still needs veggies of ethics.",
+      "speakLineZh": "方法肉食者仍需倫理蔬菜。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "herbivore",
+      "inVocab": false,
+      "senseAnchor": "草食動物",
+      "roleInScript": "草食窗",
+      "humorDevice": "morphology",
+      "zhGloss": "草食動物",
+      "speakLineEn": "Herbivore patience fits long replications.",
+      "speakLineZh": "草食耐心適合長複現。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "omnivore",
+      "inVocab": false,
+      "senseAnchor": "雜食動物",
+      "roleInScript": "雜食窗",
+      "humorDevice": "morphology",
+      "zhGloss": "雜食動物",
+      "speakLineEn": "An omnivore toolkit still needs coherence.",
+      "speakLineZh": "雜食工具箱仍需一貫。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "vortex",
+      "inVocab": false,
+      "senseAnchor": "漩渦",
+      "roleInScript": "吃進去的渦",
+      "humorDevice": "morphology",
+      "zhGloss": "漩渦",
+      "speakLineEn": "Avoid the vortex of endless metrics.",
+      "speakLineZh": "避開無盡指標漩渦。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "devouring",
+      "inVocab": false,
+      "senseAnchor": "吞食中",
+      "roleInScript": "狂吞",
+      "humorDevice": "story",
+      "zhGloss": "吞食中",
+      "speakLineEn": "Devouring hype leaves no room for limits.",
+      "speakLineZh": "狂吞炒作就塞不下限制。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "savory",
+      "inVocab": false,
+      "senseAnchor": "鹹香的；可口的",
+      "roleInScript": "好吃菜",
+      "humorDevice": "story",
+      "zhGloss": "鹹香的；可口的",
+      "speakLineEn": "Savory narratives still need salt of doubt.",
+      "speakLineZh": "可口敘事仍需懷疑的鹽。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "glutton",
+      "inVocab": false,
+      "senseAnchor": "a person who is devoted to eating and drinking to excess; musteline mammal of northern Eurasia",
+      "roleInScript": "吃太多",
+      "humorDevice": "story",
+      "zhGloss": "暴食者",
+      "speakLineEn": "Do not be a glutton for covariates.",
+      "speakLineZh": "不要當共變項暴食者。",
+      "related": {
+        "synonyms": "gourmand, gourmandizer, trencherman, wolverine",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "digest",
+      "inVocab": false,
+      "senseAnchor": "消化",
+      "roleInScript": "慢慢吃",
+      "humorDevice": "story",
+      "zhGloss": "消化",
+      "speakLineEn": "Digest critique overnight before replying.",
+      "speakLineZh": "回覆前隔夜消化批評。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "binge",
+      "inVocab": false,
+      "senseAnchor": "狂吃",
+      "roleInScript": "一次吃爆",
+      "humorDevice": "story",
+      "zhGloss": "狂吃",
+      "speakLineEn": "Binge-reading without notes wastes time.",
+      "speakLineZh": "不筆記的狂讀浪費時間。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "vor＝吃：voracious/devour/carnivore/herbivore/omnivore",
+    "voracious＝貪婪的"
+  ],
+  "pitfalls": [
+    "voracious＝貪婪／如饑似渴",
+    "devour＝吞食"
+  ],
+  "lessonRefs": [
+    "lesson-root-vor-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch02"
+  }
+}

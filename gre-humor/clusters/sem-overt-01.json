@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "overt",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "公開的；明顯的",
       "roleInScript": "擺在明面",
       "humorDevice": "contrast",
@@ -20,7 +20,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending"
     },
     {
       "headword": "covert",

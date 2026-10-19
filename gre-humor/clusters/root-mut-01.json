@@ -1,0 +1,208 @@
+{
+  "id": "root-mut-01",
+  "type": "root",
+  "elementLemma": "mut",
+  "titleZh": "mut｜突變交換所",
+  "titleEn": "Mut Exchange Desk",
+  "hook": "字根 mut＝變——交換所專管突變、互換、互相。",
+  "script": "mutate／mutation 基因櫃突然變樣；mutable 還改得動，對面是 immutable（他族已登場）。commute 上下班交換路線；mutual 互相交換好處。transmute 煉金式質變；permutation 排列交換秀——櫃員章：先登記再突變。",
+  "members": [
+    {
+      "headword": "mutate",
+      "inVocab": true,
+      "senseAnchor": "突變；變化",
+      "roleInScript": "突然變樣",
+      "humorDevice": "morphology",
+      "zhGloss": "突變；變化",
+      "speakLineEn": "Estimates mutate when you silent-swap covariates.",
+      "speakLineZh": "沉默替換共變項時估計會突變。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "mutation",
+      "inVocab": true,
+      "senseAnchor": "突變；變異",
+      "roleInScript": "變樣紀錄",
+      "humorDevice": "morphology",
+      "zhGloss": "突變；變異",
+      "speakLineEn": "Treat protocol mutation as a logged event.",
+      "speakLineZh": "把規程突變當需記錄事件。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "mutable",
+      "inVocab": true,
+      "senseAnchor": "可變的",
+      "roleInScript": "還改得動",
+      "humorDevice": "morphology",
+      "zhGloss": "可變的",
+      "speakLineEn": "Keep inclusion rules mutable only before lock.",
+      "speakLineZh": "納入規則僅鎖定前可改。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "commute",
+      "inVocab": true,
+      "senseAnchor": "通勤；減刑；互換",
+      "roleInScript": "交換路線",
+      "humorDevice": "morphology",
+      "zhGloss": "通勤；減刑；互換",
+      "speakLineEn": "Do not commute a strong claim into a weak one quietly.",
+      "speakLineZh": "不要悄悄把強主張換成弱主張。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "mutual",
+      "inVocab": true,
+      "senseAnchor": "相互的",
+      "roleInScript": "互相交換",
+      "humorDevice": "morphology",
+      "zhGloss": "相互的",
+      "speakLineEn": "Mutual transparency builds consortia.",
+      "speakLineZh": "相互透明建立聯盟。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "transmute",
+      "inVocab": true,
+      "senseAnchor": "change in outward structure or looks; change or alter in form, appearance, or nature",
+      "roleInScript": "煉金變質",
+      "humorDevice": "morphology",
+      "zhGloss": "使質變；煉成",
+      "speakLineEn": "Hype cannot transmute correlation into causation.",
+      "speakLineZh": "炒作不能把相關煉成因果。",
+      "related": {
+        "synonyms": "transform, metamorphose, transubstantiate",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "permutation",
+      "inVocab": true,
+      "senseAnchor": "排列；置換",
+      "roleInScript": "交換秀",
+      "humorDevice": "morphology",
+      "zhGloss": "排列；置換",
+      "speakLineEn": "Multiple testing across permutations needs correction.",
+      "speakLineZh": "跨排列的多重檢定需要校正。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "mutability",
+      "inVocab": true,
+      "senseAnchor": "可變性",
+      "roleInScript": "可變程度",
+      "humorDevice": "story",
+      "zhGloss": "可變性",
+      "speakLineEn": "Declare mutability of analysis plans up front.",
+      "speakLineZh": "事先聲明分析計畫可變性。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "commutativity",
+      "inVocab": true,
+      "senseAnchor": "交換律",
+      "roleInScript": "誰先誰後一樣",
+      "humorDevice": "story",
+      "zhGloss": "交換律",
+      "speakLineEn": "Order commutativity fails for some filters.",
+      "speakLineZh": "某些濾波不滿足交換律。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "mutant",
+      "inVocab": true,
+      "senseAnchor": "突變體",
+      "roleInScript": "變種角色",
+      "humorDevice": "story",
+      "zhGloss": "突變體",
+      "speakLineEn": "A mutant metric needs a new validation.",
+      "speakLineZh": "突變指標需要新驗證。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "exchange",
+      "inVocab": true,
+      "senseAnchor": "交換",
+      "roleInScript": "櫃台動作",
+      "humorDevice": "story",
+      "zhGloss": "交換",
+      "speakLineEn": "Exchange drafts before public claims.",
+      "speakLineZh": "公開主張前先交換草稿。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "interchange",
+      "inVocab": true,
+      "senseAnchor": "互換",
+      "roleInScript": "對調",
+      "humorDevice": "story",
+      "zhGloss": "互換",
+      "speakLineEn": "Interchange train/test only with leakage checks.",
+      "speakLineZh": "對調訓練／測試須防洩漏。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    }
+  ],
+  "reviewHooks": [
+    "mut＝變：mutate/mutation/mutable/commute/mutual/transmute/permutation",
+    "mutable↔immutable"
+  ],
+  "pitfalls": [
+    "commute 可＝通勤或減刑／互換",
+    "transmute＝質變式轉變"
+  ],
+  "lessonRefs": [
+    "lesson-root-mut-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch01"
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "id": "root-merc-01",
+  "type": "root",
+  "elementLemma": "merc",
+  "titleZh": "merc｜傭兵商會",
+  "titleEn": "Merc Hire Guild",
+  "hook": "字根 merc＝商／報——商會裡有商人、商品，也有只為錢打仗的傭兵。",
+  "script": "merchant／merchandise／mercantile／commerce／commercial 買賣大廳。mercenary 只認錢的刀。mercy／merciful 法外開恩櫃；mercury 滑溜信使——會長：commercial incentives 要揭露；mercenary stats 滾出去。",
+  "members": [
+    {
+      "headword": "merchant",
+      "inVocab": false,
+      "senseAnchor": "商人",
+      "roleInScript": "買賣櫃",
+      "humorDevice": "morphology",
+      "zhGloss": "商人",
+      "speakLineEn": "Be a merchant of methods, not of miracles.",
+      "speakLineZh": "做方法商人，不是奇蹟商人。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "merchandise",
+      "inVocab": false,
+      "senseAnchor": "商品",
+      "roleInScript": "貨架",
+      "humorDevice": "morphology",
+      "zhGloss": "商品",
+      "speakLineEn": "Do not merchandise p-values as products.",
+      "speakLineZh": "別把 p 值當商品販售。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "mercantile",
+      "inVocab": false,
+      "senseAnchor": "商業的",
+      "roleInScript": "商會風",
+      "humorDevice": "morphology",
+      "zhGloss": "商業的",
+      "speakLineEn": "Mercantile pressure can distort endpoints.",
+      "speakLineZh": "商業壓力會扭曲終點。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "commerce",
+      "inVocab": false,
+      "senseAnchor": "商業；往來",
+      "roleInScript": "交易廳",
+      "humorDevice": "morphology",
+      "zhGloss": "商業；往來",
+      "speakLineEn": "Open science is commerce of scrutiny.",
+      "speakLineZh": "開放科學是審視的交易。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "commercial",
+      "inVocab": false,
+      "senseAnchor": "商業的；廣告",
+      "roleInScript": "廣告燈",
+      "humorDevice": "morphology",
+      "zhGloss": "商業的；廣告",
+      "speakLineEn": "Disclose commercial ties in the paper.",
+      "speakLineZh": "在論文揭露商業關係。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "mercenary",
+      "inVocab": true,
+      "senseAnchor": "caring only about making money",
+      "roleInScript": "只認錢刀",
+      "humorDevice": "morphology",
+      "zhGloss": "傭兵；唯利是圖的",
+      "speakLineEn": "Mercenary analytic choices chase headlines.",
+      "speakLineZh": "唯利分析選擇追逐標題。",
+      "related": {
+        "synonyms": "profit-monger n. 唯利是圖的人",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "mercy",
+      "inVocab": false,
+      "senseAnchor": "慈悲；寬恕",
+      "roleInScript": "開恩櫃",
+      "humorDevice": "morphology",
+      "zhGloss": "慈悲；寬恕",
+      "speakLineEn": "Show no mercy to fabricated rows.",
+      "speakLineZh": "對捏造列不開恩。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "merciful",
+      "inVocab": false,
+      "senseAnchor": "慈悲的",
+      "roleInScript": "慈悲章",
+      "humorDevice": "morphology",
+      "zhGloss": "慈悲的",
+      "speakLineEn": "Be merciful to honest mistakes, harsh to cover-ups.",
+      "speakLineZh": "對誠實錯誤慈悲，對掩蓋嚴厲。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "mercury",
+      "inVocab": false,
+      "senseAnchor": "水銀；信使",
+      "roleInScript": "滑溜信使",
+      "humorDevice": "story",
+      "zhGloss": "水銀；信使",
+      "speakLineEn": "Mercury-fast releases still need audits.",
+      "speakLineZh": "水銀般快速發布仍需稽核。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "bargain",
+      "inVocab": false,
+      "senseAnchor": "交易；便宜貨",
+      "roleInScript": "砍價桌",
+      "humorDevice": "story",
+      "zhGloss": "交易；便宜貨",
+      "speakLineEn": "A bargain with bias is never cheap.",
+      "speakLineZh": "與偏差討價還價從不便宜。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "invoice",
+      "inVocab": false,
+      "senseAnchor": "發票",
+      "roleInScript": "發票單",
+      "humorDevice": "story",
+      "zhGloss": "發票",
+      "speakLineEn": "Invoice compute costs honestly in grants.",
+      "speakLineZh": "在補助案誠實開列計算成本。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "payoff",
+      "inVocab": false,
+      "senseAnchor": "報酬；結果",
+      "roleInScript": "報酬表",
+      "humorDevice": "story",
+      "zhGloss": "報酬；結果",
+      "speakLineEn": "State the scientific payoff before the press.",
+      "speakLineZh": "新聞前先說科學報酬。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "merc＝商／報：merchant/merchandise/mercenary/commerce/mercy",
+    "mercenary＝唯利是圖"
+  ],
+  "pitfalls": [
+    "mercenary＝傭兵／唯利；merciful＝慈悲的",
+    "commerce＝商業"
+  ],
+  "lessonRefs": [
+    "lesson-root-merc-01"
+  ],
+  "status": "reviewed",
+  "priority": "C",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch05"
+  }
+}

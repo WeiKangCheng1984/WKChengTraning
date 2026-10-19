@@ -1,0 +1,148 @@
+{
+  "id": "prefix-inter-01",
+  "type": "prefix",
+  "elementLemma": "inter-",
+  "titleZh": "inter-｜之間調度室",
+  "titleEn": "Inter Between Desk",
+  "hook": "字首 inter-＝之間——調度室專管中間、互相、打斷與間隔。",
+  "script": "interact／interaction／interactive 互動機。interrupt／interruption 打斷線。interval／interim 間隔／期中。intermediate／intermediary 中間人；international（nat 族）跨國——調度：interaction tests；勿 interim peek。",
+  "members": [
+    {
+      "headword": "interact",
+      "inVocab": false,
+      "senseAnchor": "互動",
+      "roleInScript": "互動機",
+      "humorDevice": "morphology",
+      "zhGloss": "互動",
+      "speakLineEn": "Factors may interact; test that plan.",
+      "speakLineZh": "因子可能互動；按計畫檢定。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "interaction",
+      "inVocab": false,
+      "senseAnchor": "交互作用",
+      "roleInScript": "交互項",
+      "humorDevice": "morphology",
+      "zhGloss": "交互作用",
+      "speakLineEn": "Pre-specify interaction hypotheses.",
+      "speakLineZh": "預先指定交互假說。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "interactive",
+      "inVocab": false,
+      "senseAnchor": "互動的",
+      "roleInScript": "可互動",
+      "humorDevice": "morphology",
+      "zhGloss": "互動的",
+      "speakLineEn": "Interactive dashboards still need version pins.",
+      "speakLineZh": "互動儀表板仍需版本釘選。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "interruption",
+      "inVocab": false,
+      "senseAnchor": "中斷",
+      "roleInScript": "中斷點",
+      "humorDevice": "morphology",
+      "zhGloss": "中斷",
+      "speakLineEn": "Log every interruption of data collection.",
+      "speakLineZh": "記錄資料收集每次中斷。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "interval",
+      "inVocab": false,
+      "senseAnchor": "間隔；區間",
+      "roleInScript": "區間帶",
+      "humorDevice": "morphology",
+      "zhGloss": "間隔；區間",
+      "speakLineEn": "Always report intervals with estimates.",
+      "speakLineZh": "估計值一律附區間。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "interim",
+      "inVocab": false,
+      "senseAnchor": "暫時的；期中的",
+      "roleInScript": "期中窗",
+      "humorDevice": "morphology",
+      "zhGloss": "暫時的；期中的",
+      "speakLineEn": "Interim looks need alpha spending rules.",
+      "speakLineZh": "期中查看需要 α 花費規則。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "interweave",
+      "inVocab": false,
+      "senseAnchor": "交織",
+      "roleInScript": "織在一起",
+      "humorDevice": "story",
+      "zhGloss": "交織",
+      "speakLineEn": "Interweave ethics and methods in training.",
+      "speakLineZh": "訓練中交織倫理與方法。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "between",
+      "inVocab": false,
+      "senseAnchor": "之間",
+      "roleInScript": "之間口語",
+      "humorDevice": "story",
+      "zhGloss": "之間",
+      "speakLineEn": "Effects between sites need pooling rules.",
+      "speakLineZh": "站點之間效應需要合併規則。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "inter-＝之間：interact/interrupt/interval/interim/intermediate",
+    "interim＝暫時期中"
+  ],
+  "pitfalls": [
+    "interim＝暫時的",
+    "intermediary＝中間人"
+  ],
+  "lessonRefs": [
+    "lesson-prefix-inter-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch04"
+  }
+}

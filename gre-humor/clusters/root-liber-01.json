@@ -1,0 +1,208 @@
+{
+  "id": "root-liber-01",
+  "type": "root",
+  "elementLemma": "liber",
+  "titleZh": "liber｜解放檢查哨",
+  "titleEn": "Liber Checkpoint",
+  "hook": "字根 liber＝自由——檢查哨問：你是真自由，還是浪子自由？",
+  "script": "liberate 放人出關；liberty 自由通行證。liberal 寬鬆放行，illiberal 關到更緊。libertine 把自由用成放蕩通行證；libertarian 理論上最小干預。liberalize 法規鬆綁；deliverance 被救出關的劇情——哨兵提醒：自由≠零責任。",
+  "members": [
+    {
+      "headword": "liberate",
+      "inVocab": true,
+      "senseAnchor": "解放；使自由",
+      "roleInScript": "放人出關",
+      "humorDevice": "morphology",
+      "zhGloss": "解放；使自由",
+      "speakLineEn": "Open data can liberate secondary analysis.",
+      "speakLineZh": "開放資料能解放二次分析。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "liberty",
+      "inVocab": true,
+      "senseAnchor": "自由",
+      "roleInScript": "通行證",
+      "humorDevice": "morphology",
+      "zhGloss": "自由",
+      "speakLineEn": "Academic liberty still needs replication norms.",
+      "speakLineZh": "學術自由仍需複現規範。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "liberal",
+      "inVocab": true,
+      "senseAnchor": "a person who favors a political philosophy of progress and reform and the protection of civil liberties; a person who favors an economic theory of laissez-faire and self-regulating markets",
+      "roleInScript": "寬鬆放行",
+      "humorDevice": "morphology",
+      "zhGloss": "開明的；慷慨的；自由派的",
+      "speakLineEn": "A liberal interpretation still cites the text.",
+      "speakLineZh": "寬鬆解讀仍要引用文本。",
+      "related": {
+        "synonyms": "liberalist, progressive, broad, large-minded, tolerant, big",
+        "antonyms": "conservative"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "illiberal",
+      "inVocab": true,
+      "senseAnchor": "narrow-minded about cherished opinions",
+      "roleInScript": "關更緊",
+      "humorDevice": "morphology",
+      "zhGloss": "狹隘的；反自由的",
+      "speakLineEn": "Illiberal gatekeeping blocks critique.",
+      "speakLineZh": "狹隘把關阻擋批評。",
+      "related": {
+        "synonyms": "intolerant",
+        "antonyms": "tolerant"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "libertine",
+      "inVocab": true,
+      "senseAnchor": "放蕩者",
+      "roleInScript": "浪子通行證",
+      "humorDevice": "morphology",
+      "zhGloss": "放蕩者",
+      "speakLineEn": "A libertine citation style ignores primary sources.",
+      "speakLineZh": "放蕩引用風格忽略一手來源。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "libertarian",
+      "inVocab": true,
+      "senseAnchor": "自由意志主義者",
+      "roleInScript": "最小干預派",
+      "humorDevice": "morphology",
+      "zhGloss": "自由意志主義者",
+      "speakLineEn": "Libertarian rhetoric can clash with public-good data.",
+      "speakLineZh": "自由意志修辭可能與公共財資料衝突。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "liberalize",
+      "inVocab": true,
+      "senseAnchor": "使自由化；放寬",
+      "roleInScript": "鬆綁按鈕",
+      "humorDevice": "morphology",
+      "zhGloss": "使自由化；放寬",
+      "speakLineEn": "Liberalize access without abandoning ethics review.",
+      "speakLineZh": "放寬近用但不放棄倫理審查。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "deliverance",
+      "inVocab": true,
+      "senseAnchor": "解救；解脫",
+      "roleInScript": "被救出關",
+      "humorDevice": "morphology",
+      "zhGloss": "解救；解脫",
+      "speakLineEn": "Correction can feel like deliverance after years of doubt.",
+      "speakLineZh": "勘誤在多年懷疑後像解脫。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "liberation",
+      "inVocab": true,
+      "senseAnchor": "解放",
+      "roleInScript": "出關運動",
+      "humorDevice": "story",
+      "zhGloss": "解放",
+      "speakLineEn": "Method liberation is not method anarchy.",
+      "speakLineZh": "方法解放不是方法無政府。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "freely",
+      "inVocab": true,
+      "senseAnchor": "自由地",
+      "roleInScript": "暢行",
+      "humorDevice": "story",
+      "zhGloss": "自由地",
+      "speakLineEn": "Share code freely with clear licenses.",
+      "speakLineZh": "以清楚授權自由分享程式碼。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "unliberated",
+      "inVocab": true,
+      "senseAnchor": "未解放的",
+      "roleInScript": "還關著",
+      "humorDevice": "story",
+      "zhGloss": "未解放的",
+      "speakLineEn": "Unliberated datasets hide in private drives.",
+      "speakLineZh": "未解放資料集藏在私人硬碟。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "liberalism",
+      "inVocab": true,
+      "senseAnchor": "自由主義",
+      "roleInScript": "自由派思潮",
+      "humorDevice": "story",
+      "zhGloss": "自由主義",
+      "speakLineEn": "Debate liberalism without turning methods into slogans.",
+      "speakLineZh": "辯論自由主義，勿把方法變口號。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    }
+  ],
+  "reviewHooks": [
+    "liber＝自由：liberate/liberty/liberal/illiberal/libertine",
+    "libertine＝放蕩者"
+  ],
+  "pitfalls": [
+    "liberal 政治義 vs 慷慨／寬鬆義看語境",
+    "libertine 偏道德放縱"
+  ],
+  "lessonRefs": [
+    "lesson-root-liber-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch01"
+  }
+}

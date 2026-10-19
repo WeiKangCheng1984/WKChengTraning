@@ -84,7 +84,7 @@
     },
     {
       "headword": "brevity",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "簡潔；短暫",
       "roleInScript": "短本身",
       "humorDevice": "contrast",
@@ -95,11 +95,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending"
     },
     {
       "headword": "concise",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "簡明的",
       "roleInScript": "不囉唆",
       "humorDevice": "contrast",
@@ -110,7 +110,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending"
     },
     {
       "headword": "prolix",
@@ -159,7 +159,7 @@
     },
     {
       "headword": "rambling",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "漫談的；東拉西扯的",
       "roleInScript": "跑題長聊",
       "humorDevice": "contrast",
@@ -170,11 +170,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending"
     },
     {
       "headword": "long-winded",
-      "inVocab": true,
+      "inVocab": false,
       "senseAnchor": "using or containing too many words",
       "roleInScript": "風很長",
       "humorDevice": "contrast",
@@ -185,7 +185,8 @@
         "synonyms": "tedious, verbose, windy, wordy",
         "antonyms": "concise, succinct"
       },
-      "vocabStatus": "in-vocab"
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     }
   ],
   "reviewHooks": [

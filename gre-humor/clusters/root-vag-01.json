@@ -1,0 +1,208 @@
+{
+  "id": "root-vag-01",
+  "type": "root",
+  "elementLemma": "vag",
+  "titleZh": "vag｜遊蕩迷路站",
+  "titleEn": "Vag Wander Station",
+  "hook": "字根 vag＝遊——迷路站收留遊民、揮霍旅人，也抓「話太散」的分析。",
+  "script": "vagrant／vagrancy／vagabond 遊民接待。extravagant／extravagance 揮霍旅費。divagate 離題散步；roam／ramble／meander 閒晃客串——站長：extravagant claims 要收據；divagate 可以，但要標探索。",
+  "members": [
+    {
+      "headword": "vagrant",
+      "inVocab": false,
+      "senseAnchor": "流浪的；遊民",
+      "roleInScript": "遊民牌",
+      "humorDevice": "morphology",
+      "zhGloss": "流浪的；遊民",
+      "speakLineEn": "Vagrant hypotheses need a shelter: prereg.",
+      "speakLineZh": "流浪假說需要庇護所：預註冊。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "vagrancy",
+      "inVocab": false,
+      "senseAnchor": "遊蕩；流浪罪",
+      "roleInScript": "遊蕩罪",
+      "humorDevice": "morphology",
+      "zhGloss": "遊蕩；流浪罪",
+      "speakLineEn": "Statistical vagrancy is unplanned wandering.",
+      "speakLineZh": "統計遊蕩就是無計畫閒晃。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "vagabond",
+      "inVocab": false,
+      "senseAnchor": "流浪漢",
+      "roleInScript": "背包客",
+      "humorDevice": "morphology",
+      "zhGloss": "流浪漢",
+      "speakLineEn": "A methods vagabond still carries a notebook.",
+      "speakLineZh": "方法流浪漢仍要帶筆記本。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "extravagant",
+      "inVocab": false,
+      "senseAnchor": "過度的；揮霍的",
+      "roleInScript": "揮霍旅費",
+      "humorDevice": "morphology",
+      "zhGloss": "過度的；揮霍的",
+      "speakLineEn": "Extravagant claims need extravagant evidence.",
+      "speakLineZh": "過度主張需要過度證據。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "extravagance",
+      "inVocab": true,
+      "senseAnchor": "the quality of exceeding the appropriate limits of decorum or probability or truth; the trait of spending extravagantly",
+      "roleInScript": "奢侈帳單",
+      "humorDevice": "morphology",
+      "zhGloss": "奢侈；過度",
+      "speakLineEn": "Cut extravagance in secondary endpoints.",
+      "speakLineZh": "削減次要終點的奢侈。",
+      "related": {
+        "synonyms": "extravagancy, prodigality, profligacy, lavishness, highlife",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "divagate",
+      "inVocab": true,
+      "senseAnchor": "lose clarity or turn aside especially from the main subject of attention or course of argument in writing, thinking, or speaking",
+      "roleInScript": "離題散步",
+      "humorDevice": "morphology",
+      "zhGloss": "離題；遊走",
+      "speakLineEn": "Label when you divagate into exploration.",
+      "speakLineZh": "離題探索時請標註。",
+      "related": {
+        "synonyms": "digress, stray, wander",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "roam",
+      "inVocab": true,
+      "senseAnchor": "move about aimlessly or without any destination, often in search of food or employment",
+      "roleInScript": "漫遊鍵",
+      "humorDevice": "story",
+      "zhGloss": "漫遊",
+      "speakLineEn": "Roam the literature, then lock the question.",
+      "speakLineZh": "先漫遊文獻，再鎖定問題。",
+      "related": {
+        "synonyms": "roll, wander, swan, stray, tramp, cast",
+        "antonyms": "unwind, keep down"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "ramble",
+      "inVocab": true,
+      "senseAnchor": "an aimless amble on a winding course; continue talking or writing in a desultory manner",
+      "roleInScript": "漫談稿",
+      "humorDevice": "story",
+      "zhGloss": "漫談；漫步",
+      "speakLineEn": "Do not ramble past the estimand.",
+      "speakLineZh": "別漫談到目標量之外。",
+      "related": {
+        "synonyms": "meander, jog, roll, wander, swan, stray",
+        "antonyms": "unwind"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "meander",
+      "inVocab": true,
+      "senseAnchor": "to move aimlessly without fixed direction",
+      "roleInScript": "蜿蜒河",
+      "humorDevice": "story",
+      "zhGloss": "蜿蜒；漫步",
+      "speakLineEn": "Meander in brainstorming, not in the final code.",
+      "speakLineZh": "腦力激盪可蜿蜒，最終程式不行。",
+      "related": {
+        "synonyms": "amble, ramble, wander",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "nomadic",
+      "inVocab": false,
+      "senseAnchor": "遊牧的",
+      "roleInScript": "遊牧帳",
+      "humorDevice": "story",
+      "zhGloss": "遊牧的",
+      "speakLineEn": "Nomadic analysts sync to one repo nightly.",
+      "speakLineZh": "遊牧分析師每晚同步到同一 repo。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "drift",
+      "inVocab": false,
+      "senseAnchor": "漂移",
+      "roleInScript": "漂流標",
+      "humorDevice": "story",
+      "zhGloss": "漂移",
+      "speakLineEn": "Watch for covariate drift across waves.",
+      "speakLineZh": "注意跨波次共變數漂移。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "wayward",
+      "inVocab": true,
+      "senseAnchor": "following one’s own capricious inclinations",
+      "roleInScript": "任性路",
+      "humorDevice": "story",
+      "zhGloss": "任性迷路的",
+      "speakLineEn": "Wayward tweaks belong in a sandbox.",
+      "speakLineZh": "任性微調屬於沙盒。",
+      "related": {
+        "synonyms": "errant, intractable, rebellious, recalcitrant, refractory, unruly",
+        "antonyms": "manageable, tractable, compliant, obedient"
+      },
+      "vocabStatus": "in-vocab"
+    }
+  ],
+  "reviewHooks": [
+    "vag＝遊：vagrant/vagabond/extravagant/extravagance/divagate",
+    "extravagant＝過度揮霍"
+  ],
+  "pitfalls": [
+    "extravagant＝過度的；extra＝額外的",
+    "vagabond＝流浪漢"
+  ],
+  "lessonRefs": [
+    "lesson-root-vag-01"
+  ],
+  "status": "reviewed",
+  "priority": "C",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch05"
+  }
+}

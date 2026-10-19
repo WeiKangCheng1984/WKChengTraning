@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-sign-01",
+  "slug": "root-sign-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-sign-01",
+  "titleZh": "sign｜記號信號站",
+  "titleEn": "Sign Signal Station",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 sign＝記號——信號站專管簽名、指派、設計與意義。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "sign 簽名放行。signal／significance 信號與顯著小旗。assign／designate 指派崗位。design 畫出藍圖；resign 簽名離職。insignificant 小到沒旗；consign 託運記號——站長：significance ≠ importance；先 design 再 sign。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "sign＝記號：sign/signal/significance/assign/designate/design/resign",
+        "significant≠important 必然"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Appoint; name officially:",
+      "promptZh": "指定：",
+      "choices": [
+        "designate",
+        "impede",
+        "immerse",
+        "laud"
+      ],
+      "answer": "designate"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Give up a position; accept as inevitable:",
+      "promptZh": "辭職／屈從：",
+      "choices": [
+        "resign",
+        "orient",
+        "expedite",
+        "morph"
+      ],
+      "answer": "resign"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Message; cue amid noise:",
+      "promptZh": "信號：",
+      "choices": [
+        "signal",
+        "horoscope",
+        "centipede",
+        "conceit"
+      ],
+      "answer": "signal"
+    }
+  ],
+  "pitfalls": [
+    "consign＝託付／寄售",
+    "designate＝指定"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch02"
+  }
+}

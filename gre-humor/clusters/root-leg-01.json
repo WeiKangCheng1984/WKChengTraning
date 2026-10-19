@@ -24,7 +24,7 @@
     },
     {
       "headword": "illegible",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "難以辨認的",
       "roleInScript": "讀不出來",
       "humorDevice": "morphology",
@@ -35,7 +35,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending"
     },
     {
       "headword": "negligence",
@@ -80,11 +80,12 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "legible",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "清晰可讀的",
       "roleInScript": "讀得清楚",
       "humorDevice": "morphology",
@@ -95,7 +96,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending"
     },
     {
       "headword": "dialect",
@@ -110,7 +111,8 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "eclectic",
@@ -185,7 +187,8 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     }
   ],
   "reviewHooks": [

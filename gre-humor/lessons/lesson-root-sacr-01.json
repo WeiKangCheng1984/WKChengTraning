@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-sacr-01",
+  "slug": "root-sacr-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-sacr-01",
+  "titleZh": "sacr／sanct｜聖物保全署",
+  "titleEn": "Sacr Sanctuary Agency",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 sacr/sanct＝聖——保全署把「不可碰」的東西貼封印，也抓假虔誠。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "sacred／sacrosanct 貼上聖封。sanctuary／sanctify／saint 庇護所與封聖儀式。sacrifice／sacrificial 獻祭交換；sanction／sanctimonious／consecrate 制裁、假神聖、奉獻——署長：methods 可 sacred；ego 不可 sacrosanct。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "sacr/sanct＝聖：sacred/sanctuary/sacrifice/sanction/sacrosanct",
+        "sanctimonious＝假虔誠"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Too sacred to be criticized:",
+      "promptZh": "神聖不可侵犯：",
+      "choices": [
+        "sacrosanct",
+        "lateral",
+        "mercenary",
+        "scanty"
+      ],
+      "answer": "sacrosanct"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Hypocritically pious:",
+      "promptZh": "假虔誠：",
+      "choices": [
+        "sanctimonious",
+        "apprehensive",
+        "pacific",
+        "urbane"
+      ],
+      "answer": "sanctimonious"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Approve or penalize officially:",
+      "promptZh": "批准／制裁：",
+      "choices": [
+        "sanction",
+        "comprise",
+        "dilate",
+        "vagabond"
+      ],
+      "answer": "sanction"
+    }
+  ],
+  "pitfalls": [
+    "sanction＝批准／制裁（雙義）",
+    "sacrosanct＝神聖不可侵犯"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch05"
+  }
+}

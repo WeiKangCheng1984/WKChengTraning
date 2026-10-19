@@ -1,0 +1,188 @@
+{
+  "id": "root-ori-01",
+  "type": "root",
+  "elementLemma": "ori",
+  "titleZh": "ori｜日出導航台",
+  "titleEn": "Ori Sunrise Hub",
+  "hook": "字根 ori＝升起、起源——導航台對準太陽升起的地方。",
+  "script": "origin／originate 從哪升起。original 初升版本；orient／orientation 調整方向。aboriginal 最初住民意象；oriental（舊稱，謹慎）——領航員：找 origin 比找 oriental 標籤重要；orientation 週先講清楚。",
+  "members": [
+    {
+      "headword": "origin",
+      "inVocab": false,
+      "senseAnchor": "起源",
+      "roleInScript": "升起點",
+      "humorDevice": "morphology",
+      "zhGloss": "起源",
+      "speakLineEn": "Trace the origin of each exclusion rule.",
+      "speakLineZh": "追溯每條排除規則的起源。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "original",
+      "inVocab": false,
+      "senseAnchor": "最初的；原創的",
+      "roleInScript": "初升版",
+      "humorDevice": "morphology",
+      "zhGloss": "最初的；原創的",
+      "speakLineEn": "Cite the original protocol, not a rumor.",
+      "speakLineZh": "引用原始規程，不是謠言。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "orient",
+      "inVocab": false,
+      "senseAnchor": "導向；使熟悉",
+      "roleInScript": "對準太陽",
+      "humorDevice": "morphology",
+      "zhGloss": "導向；使熟悉",
+      "speakLineEn": "Orient new members to logging norms.",
+      "speakLineZh": "讓新人對準日誌規範。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "orientation",
+      "inVocab": false,
+      "senseAnchor": "導向；新生訓練",
+      "roleInScript": "導航週",
+      "humorDevice": "morphology",
+      "zhGloss": "導向；新生訓練",
+      "speakLineEn": "Ethics orientation is mandatory.",
+      "speakLineZh": "倫理導向訓練為必修。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "aboriginal",
+      "inVocab": false,
+      "senseAnchor": "原生的；原住民的",
+      "roleInScript": "最初在地",
+      "humorDevice": "morphology",
+      "zhGloss": "原生的；原住民的",
+      "speakLineEn": "Respect aboriginal knowledge systems in fieldwork.",
+      "speakLineZh": "田野尊重原住民知識系統。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "disorient",
+      "inVocab": false,
+      "senseAnchor": "使迷失方向",
+      "roleInScript": "轉暈羅盤",
+      "humorDevice": "story",
+      "zhGloss": "使迷失方向",
+      "speakLineEn": "Missing metadata can disorient reanalyzers.",
+      "speakLineZh": "缺中繼資料會讓再分析者迷失。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "reorient",
+      "inVocab": false,
+      "senseAnchor": "重新導向",
+      "roleInScript": "重對太陽",
+      "humorDevice": "story",
+      "zhGloss": "重新導向",
+      "speakLineEn": "Reorient incentives toward sharing.",
+      "speakLineZh": "把誘因重新導向共享。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "originally",
+      "inVocab": false,
+      "senseAnchor": "原先",
+      "roleInScript": "一開始",
+      "humorDevice": "story",
+      "zhGloss": "原先",
+      "speakLineEn": "Originally preregistered outcomes must stay primary.",
+      "speakLineZh": "原先預註冊結局須維持主要。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "sunrise",
+      "inVocab": false,
+      "senseAnchor": "日出",
+      "roleInScript": "升起畫面",
+      "humorDevice": "story",
+      "zhGloss": "日出",
+      "speakLineEn": "Treat day-one logs as the project's sunrise.",
+      "speakLineZh": "把第一天日誌當專案日出。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "source",
+      "inVocab": false,
+      "senseAnchor": "來源",
+      "roleInScript": "升起的河",
+      "humorDevice": "story",
+      "zhGloss": "來源",
+      "speakLineEn": "Name every data source.",
+      "speakLineZh": "具名每個資料來源。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "ori＝起：origin/originate/original/orient/orientation",
+    "orient＝導向"
+  ],
+  "pitfalls": [
+    "oriental 現代英語常過時／冒犯，教學標註即可",
+    "orientation＝導向／新生訓練"
+  ],
+  "lessonRefs": [
+    "lesson-root-ori-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch02"
+  }
+}

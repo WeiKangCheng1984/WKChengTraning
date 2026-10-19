@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-priv-01",
+  "slug": "root-priv-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-priv-01",
+  "titleZh": "priv｜隱私金庫",
+  "titleEn": "Priv Vault",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 priv＝私——金庫專管私人、剝奪、特權鑰匙。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "private／privacy 鎖進金庫。deprive 把鑰匙拿走；privation 被剝到空。privilege 特殊鑰匙；privy 知情的自己人——守衛：privilege 要揭露，privacy 要保護識別資訊。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "priv＝私：private/privacy/deprive/privation/privilege/privy",
+        "deprive＝剝奪"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Take away; strip of:",
+      "promptZh": "剝奪：",
+      "choices": [
+        "deprive",
+        "laud",
+        "emerge",
+        "morph"
+      ],
+      "answer": "deprive"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Special right/advantage:",
+      "promptZh": "特權：",
+      "choices": [
+        "privilege",
+        "cacophony",
+        "impetuous",
+        "philately"
+      ],
+      "answer": "privilege"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Informed; sharing secret knowledge:",
+      "promptZh": "知情的：",
+      "choices": [
+        "privy",
+        "ridiculous",
+        "submerge",
+        "rectify"
+      ],
+      "answer": "privy"
+    }
+  ],
+  "pitfalls": [
+    "privy to＝知情參與",
+    "privation＝匱乏／剝奪狀態"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch01"
+  }
+}

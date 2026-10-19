@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-fract-01",
+  "slug": "root-fract-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-fract-01",
+  "titleZh": "frag／fract｜碎裂修復站",
+  "titleEn": "Fract Break Station",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 frag/fract＝碎——修復站專管碎片、分數與難搞。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "fragment／fragmentary 樣本碎成片。fracture 裂縫報告。fraction／fractional 分數切片。fragile／frail 易碎玻璃；refract 折射光線——站長：fragmentary evidence 要標；fragile egos 別擋勘誤。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "fract＝碎：fragment/fracture/fraction/fragile/refract",
+        "fragmentary＝片斷的"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Easily broken:",
+      "promptZh": "易碎：",
+      "choices": [
+        "fragile",
+        "fraction",
+        "telegram",
+        "valiant"
+      ],
+      "answer": "fragile"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Incomplete; in pieces:",
+      "promptZh": "片斷不完整：",
+      "choices": [
+        "fragmentary",
+        "graphic",
+        "migrate",
+        "vacant"
+      ],
+      "answer": "fragmentary"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "A break or crack:",
+      "promptZh": "裂縫／骨折：",
+      "choices": [
+        "fracture",
+        "epigram",
+        "mandate",
+        "quiet"
+      ],
+      "answer": "fracture"
+    }
+  ],
+  "pitfalls": [
+    "fragile＝易碎；frail＝虛弱",
+    "refract＝折射"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch04"
+  }
+}

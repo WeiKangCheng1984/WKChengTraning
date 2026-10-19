@@ -1,0 +1,208 @@
+{
+  "id": "prefix-syn-01",
+  "type": "prefix",
+  "elementLemma": "syn-/sym-",
+  "priority": "A",
+  "titleZh": "syn-/sym-｜同步合奏廳",
+  "titleEn": "Syn Harmony Hall",
+  "hook": "字首 syn-/sym-＝一起／相同——合奏廳專管共生、研討與綜效。",
+  "script": "symbiosis 互相養活合奏。symposium 一起開會。symmetry 左右對稱譜。syndicate 聯盟櫃。synoptic 一頁總譜；synergy 1+1>2——指揮：synergy 要可測；syndicate 別變黑箱。",
+  "members": [
+    {
+      "headword": "symbiosis",
+      "inVocab": false,
+      "senseAnchor": "共生",
+      "roleInScript": "互相養活",
+      "humorDevice": "morphology",
+      "zhGloss": "共生",
+      "speakLineEn": "Methods and ethics should be in symbiosis.",
+      "speakLineZh": "方法與倫理應共生。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "symposium",
+      "inVocab": false,
+      "senseAnchor": "研討會",
+      "roleInScript": "一起討論會",
+      "humorDevice": "morphology",
+      "zhGloss": "研討會",
+      "speakLineEn": "Host a symposium on failed replications.",
+      "speakLineZh": "舉辦失敗複現研討會。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "symmetry",
+      "inVocab": false,
+      "senseAnchor": "對稱",
+      "roleInScript": "左右對稱",
+      "humorDevice": "morphology",
+      "zhGloss": "對稱",
+      "speakLineEn": "Do not invent symmetry the data lack.",
+      "speakLineZh": "資料沒有的對稱別硬造。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "syndicate",
+      "inVocab": false,
+      "senseAnchor": "企業聯合",
+      "roleInScript": "聯盟櫃",
+      "humorDevice": "morphology",
+      "zhGloss": "企業聯合",
+      "speakLineEn": "A syndicate of labs still needs open logs.",
+      "speakLineZh": "實驗室聯盟仍需開放日誌。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "synoptic",
+      "inVocab": true,
+      "senseAnchor": "presenting a summary or general view of a whole; presenting or taking the same point of view; used especially with regard to the first three gospels of the New Testament",
+      "roleInScript": "總譜一頁",
+      "humorDevice": "morphology",
+      "zhGloss": "概覽的",
+      "speakLineEn": "Give a synoptic figure of the design.",
+      "speakLineZh": "給設計的概覽圖。",
+      "related": {
+        "synonyms": "synoptical",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "synergy",
+      "inVocab": false,
+      "senseAnchor": "綜效",
+      "roleInScript": "1+1>2",
+      "humorDevice": "morphology",
+      "zhGloss": "綜效",
+      "speakLineEn": "Claim synergy only with interaction tests.",
+      "speakLineZh": "有交互檢定才稱綜效。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "synagogue",
+      "inVocab": false,
+      "senseAnchor": "猶太會堂",
+      "roleInScript": "詞源彩蛋",
+      "humorDevice": "story",
+      "zhGloss": "猶太會堂",
+      "speakLineEn": "Etymology note: syn- also appears in synagogue.",
+      "speakLineZh": "詞源：syn- 也出現在 synagogue。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "syncopation",
+      "inVocab": false,
+      "senseAnchor": "切分音",
+      "roleInScript": "節奏錯位",
+      "humorDevice": "story",
+      "zhGloss": "切分音",
+      "speakLineEn": "Avoid syncopation between prereg and paper.",
+      "speakLineZh": "避免預註冊與論文節奏錯位。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "syntax",
+      "inVocab": false,
+      "senseAnchor": "句法",
+      "roleInScript": "合在一起的規則",
+      "humorDevice": "story",
+      "zhGloss": "句法",
+      "speakLineEn": "Messy syntax in code breeds bugs.",
+      "speakLineZh": "混亂句法滋生錯誤。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "synapse",
+      "inVocab": false,
+      "senseAnchor": "突觸",
+      "roleInScript": "一起接上",
+      "humorDevice": "story",
+      "zhGloss": "突觸",
+      "speakLineEn": "Build synapses between teams with shared docs.",
+      "speakLineZh": "用共享文件建立團隊突觸。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "synonymy",
+      "inVocab": false,
+      "senseAnchor": "同義關係",
+      "roleInScript": "一起同義",
+      "humorDevice": "story",
+      "zhGloss": "同義關係",
+      "speakLineEn": "Near synonymy still shifts tone.",
+      "speakLineZh": "近同義仍改語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "synchronousness",
+      "inVocab": false,
+      "senseAnchor": "同步狀態",
+      "roleInScript": "同拍狀態",
+      "humorDevice": "story",
+      "zhGloss": "同步狀態",
+      "speakLineEn": "Check synchronousness of clocks before recording.",
+      "speakLineZh": "錄音前檢查時鐘同步狀態。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "syn-＝一起：symbiosis/symposium/symmetry/syndicate/synergy",
+    "symbiosis＝共生"
+  ],
+  "pitfalls": [
+    "synoptic＝概覽的",
+    "syndicate＝企業聯合／集團"
+  ],
+  "lessonRefs": [
+    "lesson-prefix-syn-01"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch03"
+  }
+}

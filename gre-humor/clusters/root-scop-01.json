@@ -1,0 +1,220 @@
+{
+  "id": "root-scop-01",
+  "type": "root",
+  "elementLemma": "scop",
+  "titleZh": "scop｜窺視望遠鏡館",
+  "titleEn": "Scop Observatory",
+  "hook": "字根 scop＝看——望遠鏡館專管範圍、窺視與各種 -scope。",
+  "script": "scope 視野範圍。telescope 看遠；microscope 看小；periscope 抬頭偷看。horoscope 星象娛樂（別當證據）。episcope／scope creep：範圍蔓延——館長：先定 scope，再防 scope creep；horoscope 請離開方法段。",
+  "members": [
+    {
+      "headword": "scope",
+      "inVocab": false,
+      "senseAnchor": "範圍；機會",
+      "roleInScript": "視野框",
+      "humorDevice": "morphology",
+      "zhGloss": "範圍；機會",
+      "speakLineEn": "Define the scope of claims narrowly.",
+      "speakLineZh": "把主張範圍定窄一點。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "telescope",
+      "inVocab": false,
+      "senseAnchor": "望遠鏡",
+      "roleInScript": "看遠",
+      "humorDevice": "morphology",
+      "zhGloss": "望遠鏡",
+      "speakLineEn": "Do not telescope years of work into one lucky p.",
+      "speakLineZh": "不要把多年工作壓縮成一次幸運 p。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "microscope",
+      "inVocab": false,
+      "senseAnchor": "顯微鏡",
+      "roleInScript": "看小",
+      "humorDevice": "morphology",
+      "zhGloss": "顯微鏡",
+      "speakLineEn": "Put the codebook under a microscope.",
+      "speakLineZh": "把碼本放顯微鏡下。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "periscope",
+      "inVocab": false,
+      "senseAnchor": "潛望鏡",
+      "roleInScript": "抬頭偷看",
+      "humorDevice": "morphology",
+      "zhGloss": "潛望鏡",
+      "speakLineEn": "A periscope peek at interim results biases stopping.",
+      "speakLineZh": "潛望鏡偷看期中結果扭曲停損。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "horoscope",
+      "inVocab": false,
+      "senseAnchor": "星座運勢",
+      "roleInScript": "娛樂窺視",
+      "humorDevice": "morphology",
+      "zhGloss": "星座運勢",
+      "speakLineEn": "A horoscope is not a causal identification.",
+      "speakLineZh": "星座運勢不是因果識別。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "scope creep",
+      "inVocab": false,
+      "senseAnchor": "範圍蔓延",
+      "roleInScript": "框一直變大",
+      "humorDevice": "story",
+      "zhGloss": "範圍蔓延",
+      "speakLineEn": "Fight scope creep with written aims.",
+      "speakLineZh": "用書面目標對抗範圍蔓延。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "kaleidoscope",
+      "inVocab": false,
+      "senseAnchor": "萬花筒",
+      "roleInScript": "碎鏡看",
+      "humorDevice": "story",
+      "zhGloss": "萬花筒",
+      "speakLineEn": "A kaleidoscope of metrics confuses policy.",
+      "speakLineZh": "指標萬花筒迷惑政策。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "endoscope",
+      "inVocab": false,
+      "senseAnchor": "內視鏡",
+      "roleInScript": "往裡看",
+      "humorDevice": "story",
+      "zhGloss": "內視鏡",
+      "speakLineEn": "Endoscope the pipeline for silent forks.",
+      "speakLineZh": "用內視鏡檢查管線沉默分叉。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "scopophilia",
+      "inVocab": false,
+      "senseAnchor": "窺視癖（教學標註）",
+      "roleInScript": "愛偷看",
+      "humorDevice": "story",
+      "zhGloss": "窺視癖（教學標註）",
+      "speakLineEn": "Scopophilia jokes aside: respect participant privacy.",
+      "speakLineZh": "窺視玩笑之外：尊重參與者隱私。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "overscope",
+      "inVocab": false,
+      "senseAnchor": "看得太寬",
+      "roleInScript": "框太大",
+      "humorDevice": "story",
+      "zhGloss": "看得太寬",
+      "speakLineEn": "Overscope claims invite reviewer fire.",
+      "speakLineZh": "主張過寬招來審稿砲火。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "narrow",
+      "inVocab": false,
+      "senseAnchor": "變窄",
+      "roleInScript": "縮框",
+      "humorDevice": "story",
+      "zhGloss": "變窄",
+      "speakLineEn": "Narrow the estimand before modeling.",
+      "speakLineZh": "建模前先縮窄目標量。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "outlook",
+      "inVocab": false,
+      "senseAnchor": "展望",
+      "roleInScript": "往外看",
+      "humorDevice": "story",
+      "zhGloss": "展望",
+      "speakLineEn": "Give a sober outlook in discussion.",
+      "speakLineZh": "討論給清醒展望。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "scop＝看：scope/telescope/microscope/periscope",
+    "scope creep＝範圍蔓延"
+  ],
+  "pitfalls": [
+    "scope＝範圍／機會",
+    "horoscope 非科學證據"
+  ],
+  "lessonRefs": [
+    "lesson-root-scop-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch02"
+  }
+}

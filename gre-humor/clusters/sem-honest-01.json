@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "candid",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "坦率的",
       "roleInScript": "直言不諱",
       "humorDevice": "contrast",
@@ -20,11 +20,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending"
     },
     {
       "headword": "candor",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "坦率",
       "roleInScript": "坦率本身",
       "humorDevice": "contrast",
@@ -35,11 +35,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending"
     },
     {
       "headword": "sincere",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "真誠的",
       "roleInScript": "不裝",
       "humorDevice": "contrast",
@@ -50,7 +50,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending"
     },
     {
       "headword": "veracity",
@@ -69,7 +69,7 @@
     },
     {
       "headword": "guile",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "狡詐",
       "roleInScript": "心機牌",
       "humorDevice": "contrast",
@@ -80,11 +80,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending"
     },
     {
       "headword": "duplicity",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "口是心非；雙面",
       "roleInScript": "兩張臉",
       "humorDevice": "contrast",
@@ -95,7 +95,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending"
     },
     {
       "headword": "deceit",
@@ -114,7 +114,7 @@
     },
     {
       "headword": "deception",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "欺瞞行為",
       "roleInScript": "騙人過程",
       "humorDevice": "contrast",
@@ -125,7 +125,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending"
     },
     {
       "headword": "artifice",
@@ -174,7 +174,7 @@
     },
     {
       "headword": "pretense",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "偽裝；藉口",
       "roleInScript": "假面具",
       "humorDevice": "contrast",
@@ -185,7 +185,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending"
     }
   ],
   "reviewHooks": [

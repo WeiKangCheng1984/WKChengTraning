@@ -1,9 +1,9 @@
 {
-  "vocabSize": 4162,
-  "uniqueHumorWords": 1006,
-  "inVocabCovered": 661,
-  "pendingAdd": 345,
-  "clusters": 88,
-  "coveragePct": 15.88,
-  "gapTo4000": 2994
+  "vocabSize": 4406,
+  "uniqueHumorWords": 2131,
+  "inVocabCovered": 1139,
+  "pendingAdd": 992,
+  "clusters": 187,
+  "coveragePct": 25.85,
+  "gapTo4000": 1869
 }

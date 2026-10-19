@@ -1,0 +1,193 @@
+{
+  "id": "root-rap-01",
+  "type": "root",
+  "elementLemma": "rap/rav",
+  "titleZh": "rap／rav｜奪取警報台",
+  "titleEn": "Rap Seize Alarm",
+  "hook": "字根 rap/rav＝奪——警報台專管強奪、狂喜與蹂躪。",
+  "script": "rapacious／rapacity 貪婪奪取。rapt／rapture／enrapture 奪魂狂喜。ravage／ravages／ravishing 蹂躪與奪目；usurp／plunder／seize——台長：rapacious metrics 禁；勿 usurp authorship。",
+  "members": [
+    {
+      "headword": "rapacious",
+      "inVocab": true,
+      "senseAnchor": "living by preying on other animals especially by catching living prey; excessively greedy and grasping",
+      "roleInScript": "搶奪嘴",
+      "humorDevice": "morphology",
+      "zhGloss": "貪婪的",
+      "speakLineEn": "Rapacious citation farming erodes trust.",
+      "speakLineZh": "貪婪刷引用侵蝕信任。",
+      "related": {
+        "synonyms": "predatory, raptorial, ravening, vulturine, vulturous, voracious",
+        "antonyms": "indifferent, satiated"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "rapacity",
+      "inVocab": false,
+      "senseAnchor": "貪婪",
+      "roleInScript": "搶奪慾",
+      "humorDevice": "morphology",
+      "zhGloss": "貪婪",
+      "speakLineEn": "Rapacity for significance invites fishing.",
+      "speakLineZh": "對顯著性的貪婪誘發淘篩。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "rapt",
+      "inVocab": true,
+      "senseAnchor": "feeling great rapture or delight",
+      "roleInScript": "被奪走眼",
+      "humorDevice": "morphology",
+      "zhGloss": "全神貫注的",
+      "speakLineEn": "Stay rapt on the protocol, not the press.",
+      "speakLineZh": "全神貫注規程，不是新聞。",
+      "related": {
+        "synonyms": "ecstatic, enraptured, rapturous, rhapsodic",
+        "antonyms": "disenchant"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "rapture",
+      "inVocab": false,
+      "senseAnchor": "狂喜",
+      "roleInScript": "奪魂喜",
+      "humorDevice": "morphology",
+      "zhGloss": "狂喜",
+      "speakLineEn": "Do not write abstracts in rapture without intervals.",
+      "speakLineZh": "摘要別在狂喜中省略區間。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "enrapture",
+      "inVocab": true,
+      "senseAnchor": "hold spellbound",
+      "roleInScript": "搶走心",
+      "humorDevice": "morphology",
+      "zhGloss": "使狂喜",
+      "speakLineEn": "Flashy figures can enrapture and mislead.",
+      "speakLineZh": "炫圖能使人狂喜並誤導。",
+      "related": {
+        "synonyms": "enchant, transport, enthrall, ravish, enthral, delight",
+        "antonyms": "disenchant"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "ravage",
+      "inVocab": false,
+      "senseAnchor": "蹂躪",
+      "roleInScript": "毀壞掃",
+      "humorDevice": "morphology",
+      "zhGloss": "蹂躪",
+      "speakLineEn": "Fraud will ravage a lab faster than a bug.",
+      "speakLineZh": "欺詐蹂躪實驗室比蟲快。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "ravages",
+      "inVocab": false,
+      "senseAnchor": "蹂躪痕跡",
+      "roleInScript": "毀壞痕",
+      "humorDevice": "morphology",
+      "zhGloss": "蹂躪痕跡",
+      "speakLineEn": "Show the ravages of attrition in a flowchart.",
+      "speakLineZh": "用流程圖展示流失蹂躪。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "ravishing",
+      "inVocab": true,
+      "senseAnchor": "force (someone) to have sex against their will; hold spellbound",
+      "roleInScript": "奪目",
+      "humorDevice": "morphology",
+      "zhGloss": "令人著迷的",
+      "speakLineEn": "A ravishing narrative is not identification.",
+      "speakLineZh": "奪目敘事不是識別策略。",
+      "related": {
+        "synonyms": "rape, ravish, violate, assault, dishonor, dishonour",
+        "antonyms": "disenchant"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "usurp",
+      "inVocab": false,
+      "senseAnchor": "篡奪",
+      "roleInScript": "搶位",
+      "humorDevice": "story",
+      "zhGloss": "篡奪",
+      "speakLineEn": "Do not usurp first authorship by stealth edits.",
+      "speakLineZh": "不要靠偷偷改稿篡奪一作。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "plunder",
+      "inVocab": true,
+      "senseAnchor": "goods or money obtained illegally; take illegally; of intellectual property",
+      "roleInScript": "搶庫",
+      "humorDevice": "story",
+      "zhGloss": "掠奪",
+      "speakLineEn": "Plunder of shared data without credit is theft.",
+      "speakLineZh": "無署名掠奪共享資料是竊。",
+      "related": {
+        "synonyms": "loot, booty, pillage, prize, swag, sack",
+        "antonyms": "disesteem, disrespect, hire"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "seize",
+      "inVocab": false,
+      "senseAnchor": "抓住；奪取",
+      "roleInScript": "一把抓",
+      "humorDevice": "story",
+      "zhGloss": "抓住；奪取",
+      "speakLineEn": "Seize teaching moments when nulls appear.",
+      "speakLineZh": "虛無出現時抓住教學時刻。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "rap＝奪：rapacious/rapt/rapture/ravage/usurp",
+    "rapacious＝貪婪的"
+  ],
+  "pitfalls": [
+    "rapt＝全神貫注；rapture＝狂喜",
+    "usurp＝篡奪"
+  ],
+  "lessonRefs": [
+    "lesson-root-rap-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch04"
+  }
+}

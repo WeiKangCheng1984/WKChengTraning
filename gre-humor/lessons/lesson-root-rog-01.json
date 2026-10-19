@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-rog-01",
+  "slug": "root-rog-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-rog-01",
+  "titleZh": "rog｜質問櫃臺",
+  "titleEn": "Rog Question Desk",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 rog＝問——櫃臺專管提問、特權問、驕橫問。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "interrogate 問到水落石出。arrogant／arrogance 還沒問就自以為知道。prerogative 特權提問權；derogatory 貶低式問話。abrogate 廢止條款；arrogate 擅自據為己有——警衛：interrogation 對方法，arrogance 對人零分。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "rog＝問：interrogate/arrogant/prerogative/derogatory/abrogate/arrogate",
+        "arrogate＝僭取"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Claim without right; seize:",
+      "promptZh": "僭取：",
+      "choices": [
+        "arrogate",
+        "adopt",
+        "expedite",
+        "immerse"
+      ],
+      "answer": "arrogate"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Exclusive right/privilege:",
+      "promptZh": "特權：",
+      "choices": [
+        "prerogative",
+        "synopsis",
+        "memento",
+        "cacophony"
+      ],
+      "answer": "prerogative"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Repeal; abolish formally:",
+      "promptZh": "廢止：",
+      "choices": [
+        "abrogate",
+        "impede",
+        "orient",
+        "laud"
+      ],
+      "answer": "abrogate"
+    }
+  ],
+  "pitfalls": [
+    "abrogate＝廢止",
+    "prerogative＝特權"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch02"
+  }
+}

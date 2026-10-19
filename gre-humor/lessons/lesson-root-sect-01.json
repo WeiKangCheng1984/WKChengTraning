@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-sect-01",
+  "slug": "root-sect-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-sect-01",
+  "titleZh": "sec／sect｜切割手術室",
+  "titleEn": "Sect Cutting OR",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 sec/sect＝切——手術室專管切片、部門、昆蟲與相交。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "section／sector 切開分區。dissect／dissection 解剖方法。insect 小切蟲梗。intersect／intersection／intersecting 切線相交；bisect 對切——主刀：dissect assumptions；section bias sources。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "sect＝切：section/dissect/insect/intersect/bisect",
+        "dissect＝剖析"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Cut apart for study; analyze finely:",
+      "promptZh": "剖析：",
+      "choices": [
+        "dissect",
+        "aspire",
+        "vacate",
+        "commend"
+      ],
+      "answer": "dissect"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Cross; meet at a point:",
+      "promptZh": "相交：",
+      "choices": [
+        "intersect",
+        "suppress",
+        "migrate",
+        "graphic"
+      ],
+      "answer": "intersect"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Cut into two equal parts:",
+      "promptZh": "對切：",
+      "choices": [
+        "bisect",
+        "expire",
+        "intact",
+        "valor"
+      ],
+      "answer": "bisect"
+    }
+  ],
+  "pitfalls": [
+    "section＝章節／切開",
+    "intersect＝相交"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch04"
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "id": "prefix-sub-01",
+  "type": "prefix",
+  "elementLemma": "sub-",
+  "titleZh": "sub-｜地下工程隊",
+  "titleEn": "Sub Underground Crew",
+  "hook": "字首 sub-＝在下——工程隊專管底下、替補、征服與訂閱。",
+  "script": "submerge（他族）往下沉。submit／submission 呈交到上層。subordinate（他族）在下屬。subtle 底下細微差異。substitute 替補零件；subscribe／subscription 訂閱維修——隊長：subtle bias 要抓；submit 前先自查。",
+  "members": [
+    {
+      "headword": "submission",
+      "inVocab": false,
+      "senseAnchor": "提交；屈服",
+      "roleInScript": "呈交件",
+      "humorDevice": "morphology",
+      "zhGloss": "提交；屈服",
+      "speakLineEn": "Track every submission version.",
+      "speakLineZh": "追蹤每次提交版本。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "subtle",
+      "inVocab": false,
+      "senseAnchor": "微妙的；精細的",
+      "roleInScript": "底下細微",
+      "humorDevice": "morphology",
+      "zhGloss": "微妙的；精細的",
+      "speakLineEn": "Subtle selection bias compounds.",
+      "speakLineZh": "微妙選擇偏差會累加。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "subscription",
+      "inVocab": false,
+      "senseAnchor": "訂閱",
+      "roleInScript": "訂閱制",
+      "humorDevice": "morphology",
+      "zhGloss": "訂閱",
+      "speakLineEn": "Subscription paywalls block replication.",
+      "speakLineZh": "訂閱付費牆阻擋複現。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "subdue",
+      "inVocab": true,
+      "senseAnchor": "put down by force or intimidation; to put down by force or authority",
+      "roleInScript": "壓下去",
+      "humorDevice": "morphology",
+      "zhGloss": "征服；壓制",
+      "speakLineEn": "Subdue hype with preregistration.",
+      "speakLineZh": "用預註冊壓制炒作。",
+      "related": {
+        "synonyms": "repress, quash, subjugate, reduce, suppress, inhibit",
+        "antonyms": "express, release, validate, blow up, expand, gain, oxidise, oxidize"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "subtotal",
+      "inVocab": false,
+      "senseAnchor": "小計",
+      "roleInScript": "底下加總",
+      "humorDevice": "story",
+      "zhGloss": "小計",
+      "speakLineEn": "Show subtotals of exclusions by reason.",
+      "speakLineZh": "依理由顯示排除小計。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "subway",
+      "inVocab": false,
+      "senseAnchor": "地鐵",
+      "roleInScript": "地下通道",
+      "humorDevice": "story",
+      "zhGloss": "地鐵",
+      "speakLineEn": "Think of appendices as a subway—map them.",
+      "speakLineZh": "把附錄當地鐵：要有地圖。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "underground",
+      "inVocab": false,
+      "senseAnchor": "地下的",
+      "roleInScript": "地下作業",
+      "humorDevice": "story",
+      "zhGloss": "地下的",
+      "speakLineEn": "No underground outcome switching.",
+      "speakLineZh": "禁止地下更換結局。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "beneath notice",
+      "inVocab": false,
+      "senseAnchor": "不值一提",
+      "roleInScript": "在目光下",
+      "humorDevice": "story",
+      "zhGloss": "不值一提",
+      "speakLineEn": "Nulls are not beneath notice.",
+      "speakLineZh": "虛無不值一提是錯的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "underling",
+      "inVocab": false,
+      "senseAnchor": "下屬",
+      "roleInScript": "底下的人",
+      "humorDevice": "story",
+      "zhGloss": "下屬",
+      "speakLineEn": "Protect underlings who report errors.",
+      "speakLineZh": "保護回報錯誤的下屬。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "sub-＝在下：submit/subtle/substitute/subscribe/subdue",
+    "subtle＝微妙的"
+  ],
+  "pitfalls": [
+    "subtle≠ shuttle",
+    "subdue＝征服／壓制"
+  ],
+  "lessonRefs": [
+    "lesson-prefix-sub-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch03"
+  }
+}

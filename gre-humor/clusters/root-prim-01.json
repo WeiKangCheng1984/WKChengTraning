@@ -1,0 +1,208 @@
+{
+  "id": "root-prim-01",
+  "type": "root",
+  "elementLemma": "prim",
+  "titleZh": "prim｜第一優先櫃枱",
+  "titleEn": "Prim Priority Desk",
+  "hook": "字根 prim＝第一——櫃枱專管首要、原始、首相與『裝正經』。",
+  "script": "primary／primarily 第一優先章。prime 質數／最佳檔；primitive 原始工具。premier／primeval 首席與遠古。prim 裝正經——櫃員：primary outcome 先鎖；prim manners 幫不了 p 值。",
+  "members": [
+    {
+      "headword": "primary",
+      "inVocab": false,
+      "senseAnchor": "主要的；初級的",
+      "roleInScript": "第一優先",
+      "humorDevice": "morphology",
+      "zhGloss": "主要的；初級的",
+      "speakLineEn": "Lock the primary outcome before peeking.",
+      "speakLineZh": "偷看前鎖定主要結局。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "primarily",
+      "inVocab": false,
+      "senseAnchor": "主要地",
+      "roleInScript": "首要地",
+      "humorDevice": "morphology",
+      "zhGloss": "主要地",
+      "speakLineEn": "This paper is primarily about measurement.",
+      "speakLineZh": "本文首要關於測量。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "prime",
+      "inVocab": false,
+      "senseAnchor": "主要的；質數；最佳",
+      "roleInScript": "最佳檔",
+      "humorDevice": "morphology",
+      "zhGloss": "主要的；質數；最佳",
+      "speakLineEn": "Prime the team with a checklist.",
+      "speakLineZh": "用檢核表先啟動團隊。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "primitive",
+      "inVocab": false,
+      "senseAnchor": "原始的；簡陋的",
+      "roleInScript": "原始工具",
+      "humorDevice": "morphology",
+      "zhGloss": "原始的；簡陋的",
+      "speakLineEn": "Primitive tools beat opaque black boxes.",
+      "speakLineZh": "簡陋工具勝過不透明黑箱。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "premier",
+      "inVocab": false,
+      "senseAnchor": "首位的；首相",
+      "roleInScript": "首席",
+      "humorDevice": "morphology",
+      "zhGloss": "首位的；首相",
+      "speakLineEn": "Premier journals still retract.",
+      "speakLineZh": "一流期刊仍撤稿。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "primeval",
+      "inVocab": false,
+      "senseAnchor": "遠古的；原始的",
+      "roleInScript": "遠古層",
+      "humorDevice": "morphology",
+      "zhGloss": "遠古的；原始的",
+      "speakLineEn": "Primeval habits of hoarding data must end.",
+      "speakLineZh": "囤資料的遠古習慣必須結束。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "prim",
+      "inVocab": false,
+      "senseAnchor": "拘謹的；裝正經的",
+      "roleInScript": "裝正經",
+      "humorDevice": "story",
+      "zhGloss": "拘謹的；裝正經的",
+      "speakLineEn": "Prim tone cannot replace open code.",
+      "speakLineZh": "裝正經語氣不能取代開放程式碼。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "primer",
+      "inVocab": false,
+      "senseAnchor": "入門書；底漆",
+      "roleInScript": "入門層",
+      "humorDevice": "story",
+      "zhGloss": "入門書；底漆",
+      "speakLineEn": "Write a primer for new coders.",
+      "speakLineZh": "為新編碼者寫入門。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "primordial",
+      "inVocab": true,
+      "senseAnchor": "having existed from the beginning; in an earliest or original stage or state",
+      "roleInScript": "根本第一",
+      "humorDevice": "story",
+      "zhGloss": "原始的；根本的",
+      "speakLineEn": "Ask the primordial question: what is the estimand?",
+      "speakLineZh": "問根本問題：目標量是什麼？",
+      "related": {
+        "synonyms": "aboriginal, primal, primeval, primaeval",
+        "antonyms": "nonnative"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "first",
+      "inVocab": false,
+      "senseAnchor": "第一",
+      "roleInScript": "第一名",
+      "humorDevice": "story",
+      "zhGloss": "第一",
+      "speakLineEn": "First, preregister.",
+      "speakLineZh": "第一，預註冊。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "foremost",
+      "inVocab": false,
+      "senseAnchor": "最重要的",
+      "roleInScript": "最前",
+      "humorDevice": "story",
+      "zhGloss": "最重要的",
+      "speakLineEn": "Foremost: do not fabricate.",
+      "speakLineZh": "最重要：不要捏造。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "priority",
+      "inVocab": false,
+      "senseAnchor": "優先順序",
+      "roleInScript": "排隊序",
+      "humorDevice": "story",
+      "zhGloss": "優先順序",
+      "speakLineEn": "Make correction a priority over celebration.",
+      "speakLineZh": "勘誤優先於慶祝。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "prim＝第一：primary/prime/primitive/premier/primeval",
+    "primary outcome＝主要結局"
+  ],
+  "pitfalls": [
+    "prim＝拘謹裝正經（另一義）",
+    "primeval＝原始遠古"
+  ],
+  "lessonRefs": [
+    "lesson-root-prim-01"
+  ],
+  "status": "reviewed",
+  "priority": "C",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch03"
+  }
+}

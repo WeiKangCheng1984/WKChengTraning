@@ -1,0 +1,217 @@
+{
+  "id": "root-tempor-01",
+  "type": "root",
+  "elementLemma": "tempor",
+  "titleZh": "tempor｜時間調度室",
+  "titleEn": "Tempor Time Desk",
+  "hook": "字根 tempor＝時——調度室專管暫時、當代、拖延與合時。",
+  "script": "temporary 臨時通行證。contemporary 同時代同事。extemporaneous 即興發言（沒預寫）。temporize 拖時間和稀泥；tense／temporal：時間的——主任：temporary fix 要標日期；別 temporize 到錯過註冊窗。",
+  "members": [
+    {
+      "headword": "temporary",
+      "inVocab": false,
+      "senseAnchor": "暫時的",
+      "roleInScript": "臨時通行證",
+      "humorDevice": "morphology",
+      "zhGloss": "暫時的",
+      "speakLineEn": "Label temporary exclusions clearly.",
+      "speakLineZh": "清楚標示暫時排除。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "contemporary",
+      "inVocab": false,
+      "senseAnchor": "當代的；同時代的",
+      "roleInScript": "同時代同事",
+      "humorDevice": "morphology",
+      "zhGloss": "當代的；同時代的",
+      "speakLineEn": "Cite contemporary standards for open data.",
+      "speakLineZh": "引用當代開放資料標準。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "extemporaneous",
+      "inVocab": true,
+      "senseAnchor": "即興的",
+      "roleInScript": "沒預寫發言",
+      "humorDevice": "morphology",
+      "zhGloss": "即興的",
+      "speakLineEn": "Extemporaneous analysis is fine if labeled exploratory.",
+      "speakLineZh": "即興分析可以，但要標探索性。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "temporize",
+      "inVocab": true,
+      "senseAnchor": "draw out a discussion or process in order to gain time",
+      "roleInScript": "拖時間和稀泥",
+      "humorDevice": "morphology",
+      "zhGloss": "拖延觀望；妥協拖延",
+      "speakLineEn": "Do not temporize on correcting the record.",
+      "speakLineZh": "勘誤紀錄不要拖延觀望。",
+      "related": {
+        "synonyms": "temporise",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "temporal",
+      "inVocab": true,
+      "senseAnchor": "the semantic role of the noun phrase that designates the time of the state or action denoted by the verb; not eternal; - F.D.Roosevelt",
+      "roleInScript": "時間軸",
+      "humorDevice": "morphology",
+      "zhGloss": "時間的；世俗的",
+      "speakLineEn": "Clarify temporal order for causality.",
+      "speakLineZh": "釐清時間順序以談因果。",
+      "related": {
+        "synonyms": "worldly, secular",
+        "antonyms": "unworldly"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "tempo",
+      "inVocab": false,
+      "senseAnchor": "(music) the speed at which a composition is to be played; the rate of some repeating event",
+      "roleInScript": "拍子",
+      "humorDevice": "story",
+      "zhGloss": "速度；節奏",
+      "speakLineEn": "Slow the tempo of claims to match evidence.",
+      "speakLineZh": "把主張節奏降到匹配證據。",
+      "related": {
+        "synonyms": "pacing, pace",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "overtime",
+      "inVocab": false,
+      "senseAnchor": "加班；超時",
+      "roleInScript": "超時賽",
+      "humorDevice": "story",
+      "zhGloss": "加班；超時",
+      "speakLineEn": "Overtime coding without sleep breeds errors.",
+      "speakLineZh": "沒睡的加班編碼滋生錯誤。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "timeline",
+      "inVocab": false,
+      "senseAnchor": "時間線",
+      "roleInScript": "調度表",
+      "humorDevice": "story",
+      "zhGloss": "時間線",
+      "speakLineEn": "Publish a timeline of protocol changes.",
+      "speakLineZh": "公開規程變更時間線。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "meantime",
+      "inVocab": false,
+      "senseAnchor": "其間",
+      "roleInScript": "暫時空窗",
+      "humorDevice": "story",
+      "zhGloss": "其間",
+      "speakLineEn": "In the meantime, share interim documentation.",
+      "speakLineZh": "其間分享期中文件。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "timely",
+      "inVocab": false,
+      "senseAnchor": "appropriate to the times or the occasion",
+      "roleInScript": "合時",
+      "humorDevice": "story",
+      "zhGloss": "及時的",
+      "speakLineEn": "Timely corrections beat perfect silence.",
+      "speakLineZh": "及時勘誤勝過完美沉默。",
+      "related": {
+        "synonyms": "opportune, well-timed",
+        "antonyms": "inopportune"
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "untimely",
+      "inVocab": false,
+      "senseAnchor": "不合時的",
+      "roleInScript": "不對時",
+      "humorDevice": "story",
+      "zhGloss": "不合時的",
+      "speakLineEn": "Untimely peeking ruins blinding.",
+      "speakLineZh": "不合時偷看毀掉盲法。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "temporarily",
+      "inVocab": false,
+      "senseAnchor": "暫時地",
+      "roleInScript": "臨時地",
+      "humorDevice": "story",
+      "zhGloss": "暫時地",
+      "speakLineEn": "Temporarily embargo data only with reason.",
+      "speakLineZh": "僅在有理由時暫時禁運資料。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "tempor＝時：temporary/contemporary/extemporaneous/temporize/temporal",
+    "temporize＝拖延觀望"
+  ],
+  "pitfalls": [
+    "extemporaneous＝即興的",
+    "contemporary＝當代的／同時代的"
+  ],
+  "lessonRefs": [
+    "lesson-root-tempor-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch02"
+  }
+}

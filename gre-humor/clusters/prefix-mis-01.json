@@ -1,0 +1,208 @@
+{
+  "id": "prefix-mis-01",
+  "type": "prefix",
+  "elementLemma": "mis-",
+  "titleZh": "mis-｜搞錯工廠",
+  "titleEn": "Mis- Mistake Factory",
+  "hook": "字首 mis-＝錯——工廠專產誤會、看錯、厭世錯覺。",
+  "script": "misconstrue 理解線路接反。misapprehension 整廠誤會。misgivings 心裡咯噔的錯感。misfortune 倒霉流水線。mischief 小惡作劇；misanthrope 厭世品管員——廠長：mis- 開頭先假設『可能搞錯』再發火。",
+  "members": [
+    {
+      "headword": "misconstrue",
+      "inVocab": true,
+      "senseAnchor": "誤解；曲解",
+      "roleInScript": "線路接反",
+      "humorDevice": "morphology",
+      "zhGloss": "誤解；曲解",
+      "speakLineEn": "Do not misconstrue caution as hostility.",
+      "speakLineZh": "不要把謹慎曲解成敵意。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "misapprehension",
+      "inVocab": true,
+      "senseAnchor": "an understanding of something that is not correct",
+      "roleInScript": "整廠誤會",
+      "humorDevice": "morphology",
+      "zhGloss": "誤會；誤解",
+      "speakLineEn": "Clear the misapprehension that p equals truth.",
+      "speakLineZh": "澄清 p 等於真理的誤會。",
+      "related": {
+        "synonyms": "mistake, misunderstanding",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "misgivings",
+      "inVocab": true,
+      "senseAnchor": "疑慮；不安",
+      "roleInScript": "心裡咯噔",
+      "humorDevice": "morphology",
+      "zhGloss": "疑慮；不安",
+      "speakLineEn": "Share misgivings about underpowered designs.",
+      "speakLineZh": "分享對低檢定力設計的疑慮。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "misfortune",
+      "inVocab": true,
+      "senseAnchor": "不幸；厄運",
+      "roleInScript": "倒霉流水線",
+      "humorDevice": "morphology",
+      "zhGloss": "不幸；厄運",
+      "speakLineEn": "Misfortune is not a methods section.",
+      "speakLineZh": "不幸不是方法段。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "mischief",
+      "inVocab": true,
+      "senseAnchor": "惡作劇；損害",
+      "roleInScript": "小惡作劇",
+      "humorDevice": "morphology",
+      "zhGloss": "惡作劇；損害",
+      "speakLineEn": "Statistical mischief hides in silent forks.",
+      "speakLineZh": "統計惡作劇藏在沉默分叉。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "misanthrope",
+      "inVocab": true,
+      "senseAnchor": "厭世者",
+      "roleInScript": "厭世品管",
+      "humorDevice": "morphology",
+      "zhGloss": "厭世者",
+      "speakLineEn": "A misanthrope can still write fair reviews.",
+      "speakLineZh": "厭世者仍可寫公平審查。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "mismanage",
+      "inVocab": true,
+      "senseAnchor": "管理不善",
+      "roleInScript": "工廠管爆",
+      "humorDevice": "story",
+      "zhGloss": "管理不善",
+      "speakLineEn": "Mismanage incentives and fraud follows.",
+      "speakLineZh": "誘因管理不善，造假隨之。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "mislead",
+      "inVocab": true,
+      "senseAnchor": "誤導",
+      "roleInScript": "指標路牌錯",
+      "humorDevice": "story",
+      "zhGloss": "誤導",
+      "speakLineEn": "Pretty graphs can mislead.",
+      "speakLineZh": "漂亮圖可能誤導。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "mistake",
+      "inVocab": true,
+      "senseAnchor": "錯誤",
+      "roleInScript": "工廠出品",
+      "humorDevice": "story",
+      "zhGloss": "錯誤",
+      "speakLineEn": "Admit mistakes faster than rumors spread.",
+      "speakLineZh": "認錯要比謠言快。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "misread",
+      "inVocab": true,
+      "senseAnchor": "誤讀",
+      "roleInScript": "看錯儀表",
+      "humorDevice": "story",
+      "zhGloss": "誤讀",
+      "speakLineEn": "Misread confidence intervals carefully—then reread.",
+      "speakLineZh": "小心誤讀信賴區間——然後重讀。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "miscount",
+      "inVocab": true,
+      "senseAnchor": "數錯",
+      "roleInScript": "計數翻車",
+      "humorDevice": "story",
+      "zhGloss": "數錯",
+      "speakLineEn": "A miscount of exclusions sank the paper.",
+      "speakLineZh": "排除數錯讓論文翻車。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    },
+    {
+      "headword": "mislabel",
+      "inVocab": true,
+      "senseAnchor": "貼錯標籤",
+      "roleInScript": "標籤印錯",
+      "humorDevice": "story",
+      "zhGloss": "貼錯標籤",
+      "speakLineEn": "Mislabeled files destroy trust.",
+      "speakLineZh": "貼錯標籤的檔案摧毀信任。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b02"
+    }
+  ],
+  "reviewHooks": [
+    "mis-＝錯：misconstrue/misapprehension/misgivings/misfortune/misanthrope",
+    "misconstrue＝誤解"
+  ],
+  "pitfalls": [
+    "misanthrope＝厭世者／厭惡人類者",
+    "misgivings＝疑慮"
+  ],
+  "lessonRefs": [
+    "lesson-prefix-mis-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-18",
+    "stage": "P2-batch01"
+  }
+}

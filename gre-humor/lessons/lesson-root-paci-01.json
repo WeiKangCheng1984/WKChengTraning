@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-paci-01",
+  "slug": "root-paci-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-paci-01",
+  "titleZh": "paci｜和解談判桌",
+  "titleEn": "Paci Peace Table",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 paci＝和平——談判桌把怒火按下去，簽停戰，也識破假和平。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "pacify／pacific／pacifist／pacifism 和解小組。peace／pax 停戰旗。truce／armistice／placid／calm 停火與平靜客串——主席：pacify conflicts with data；假 pacific 微笑不改錯，無效。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "paci＝和平：pacify/pacific/pacifist/pacifism/peace",
+        "pacify＝平息"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Make calm; soothe anger:",
+      "promptZh": "平息安撫：",
+      "choices": [
+        "pacify",
+        "invade",
+        "assail",
+        "exult"
+      ],
+      "answer": "pacify"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Peaceful; tranquil:",
+      "promptZh": "和平平和：",
+      "choices": [
+        "pacific",
+        "pervasive",
+        "mercenary",
+        "desultory"
+      ],
+      "answer": "pacific"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Person opposed to war:",
+      "promptZh": "和平主義者：",
+      "choices": [
+        "pacifist",
+        "mariner",
+        "proprietor",
+        "consultant"
+      ],
+      "answer": "pacifist"
+    }
+  ],
+  "pitfalls": [
+    "pacific＝和平的／太平洋",
+    "pacifist＝和平主義者"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch05"
+  }
+}
