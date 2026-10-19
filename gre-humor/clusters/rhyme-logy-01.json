@@ -1,0 +1,192 @@
+{
+  "id": "rhyme-logy-01",
+  "type": "rhyme",
+  "elementLemma": "-logy/-logue",
+  "titleZh": "-logy／-logue｜學科對話館",
+  "titleEn": "Logy Dialogue Museum",
+  "hook": "字尾 -logy/-logue＝學／對話——對話館用一排「學」字門牌串記。",
+  "script": "apology 道歉櫃。mythology／theology／psychology／ecology／geology 學科走廊。trilogy 三部曲——館長：apology for errors 公開；mythology of genius 退場。",
+  "members": [
+    {
+      "headword": "apology",
+      "inVocab": false,
+      "senseAnchor": "道歉",
+      "roleInScript": "道歉櫃",
+      "humorDevice": "morphology",
+      "zhGloss": "道歉",
+      "speakLineEn": "Publish an apology with the correction.",
+      "speakLineZh": "與勘誤一起公開道歉。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "mythology",
+      "inVocab": false,
+      "senseAnchor": "神話迷思",
+      "roleInScript": "神話廊",
+      "humorDevice": "morphology",
+      "zhGloss": "神話迷思",
+      "speakLineEn": "Retire the mythology of lone genius.",
+      "speakLineZh": "淘汰孤獨天才迷思。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "theology",
+      "inVocab": false,
+      "senseAnchor": "神學",
+      "roleInScript": "神學閣",
+      "humorDevice": "morphology",
+      "zhGloss": "神學",
+      "speakLineEn": "Keep theology out of p-value worship.",
+      "speakLineZh": "別把神學帶進 p 值崇拜。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "psychology",
+      "inVocab": false,
+      "senseAnchor": "心理學",
+      "roleInScript": "心理廊",
+      "humorDevice": "morphology",
+      "zhGloss": "心理學",
+      "speakLineEn": "Use psychology of incentives in lab design.",
+      "speakLineZh": "實驗室設計考慮誘因心理。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "ecology",
+      "inVocab": false,
+      "senseAnchor": "生態學",
+      "roleInScript": "生態廊",
+      "humorDevice": "morphology",
+      "zhGloss": "生態學",
+      "speakLineEn": "Think ecology of errors across teams.",
+      "speakLineZh": "思考跨團隊錯誤生態。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "geology",
+      "inVocab": false,
+      "senseAnchor": "地質學",
+      "roleInScript": "地質廊",
+      "humorDevice": "morphology",
+      "zhGloss": "地質學",
+      "speakLineEn": "Layer decisions like geology: dated strata.",
+      "speakLineZh": "決策像地質：有年代的地層。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "trilogy",
+      "inVocab": false,
+      "senseAnchor": "三部曲",
+      "roleInScript": "三部曲",
+      "humorDevice": "morphology",
+      "zhGloss": "三部曲",
+      "speakLineEn": "Prereg, analyze, correct: a methods trilogy.",
+      "speakLineZh": "預註冊、分析、勘誤：方法三部曲。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "catalog",
+      "inVocab": false,
+      "senseAnchor": "目錄",
+      "roleInScript": "目錄櫃",
+      "humorDevice": "story",
+      "zhGloss": "目錄",
+      "speakLineEn": "Catalog every endpoint change.",
+      "speakLineZh": "目錄化每次終點變更。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "school",
+      "inVocab": false,
+      "senseAnchor": "學派",
+      "roleInScript": "學派旗",
+      "humorDevice": "story",
+      "zhGloss": "學派",
+      "speakLineEn": "No school is above audit.",
+      "speakLineZh": "沒有學派高於稽核。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "curriculum",
+      "inVocab": false,
+      "senseAnchor": "課程",
+      "roleInScript": "課程表",
+      "humorDevice": "story",
+      "zhGloss": "課程",
+      "speakLineEn": "Build a curriculum of checklists.",
+      "speakLineZh": "建立清單課程表。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "museum",
+      "inVocab": false,
+      "senseAnchor": "博物館",
+      "roleInScript": "博物館",
+      "humorDevice": "story",
+      "zhGloss": "博物館",
+      "speakLineEn": "Museum of past mistakes stays open.",
+      "speakLineZh": "過去錯誤博物館保持開放。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "-logy：apology/mythology/theology/psychology/ecology/trilogy",
+    "apology＝道歉"
+  ],
+  "pitfalls": [
+    "apology＝道歉；trilogy＝三部曲"
+  ],
+  "lessonRefs": [
+    "lesson-rhyme-logy-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch07"
+  }
+}

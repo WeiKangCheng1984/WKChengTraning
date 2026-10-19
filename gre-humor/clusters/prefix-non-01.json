@@ -1,0 +1,178 @@
+{
+  "id": "prefix-non-01",
+  "type": "prefix",
+  "elementLemma": "non-",
+  "titleZh": "non-｜非如此櫃臺",
+  "titleEn": "Non Not-So Desk",
+  "hook": "字首 non-＝非——櫃臺專管「不是那樣」：冷靜、無特色、不表態。",
+  "script": "nonchalant 酷到不在乎。nondescript 沒特徵。nonentity 小人物。nonplus／nonplussed 愣住；noncommittal／nonpartisan／nonsectarian 不表態、不站隊——櫃員：noncommittal abstracts 不及格；nonpartisan audit 加分。",
+  "members": [
+    {
+      "headword": "nonchalant",
+      "inVocab": true,
+      "senseAnchor": "marked by blithe unconcern",
+      "roleInScript": "酷臉",
+      "humorDevice": "morphology",
+      "zhGloss": "漠不關心的；冷靜的",
+      "speakLineEn": "Do not be nonchalant about consent.",
+      "speakLineZh": "對同意書別漠不關心。",
+      "related": {
+        "synonyms": "casual, insouciant",
+        "antonyms": "anxious, concerned"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "nonentity",
+      "inVocab": true,
+      "senseAnchor": "a person or thing of little significance",
+      "roleInScript": "小人物",
+      "humorDevice": "morphology",
+      "zhGloss": "無足輕重的人／事",
+      "speakLineEn": "Treat nulls as evidence, not nonentities.",
+      "speakLineZh": "把虛無當證據，不是小角色。",
+      "related": {
+        "synonyms": "nonexistence, cipher, cypher, nobody",
+        "antonyms": "existence"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "nonplus",
+      "inVocab": true,
+      "senseAnchor": "be a mystery or bewildering to",
+      "roleInScript": "愣住鍵",
+      "humorDevice": "morphology",
+      "zhGloss": "使困惑",
+      "speakLineEn": "Unexpected missingness can nonplus a team.",
+      "speakLineZh": "意外缺失會讓團隊愣住。",
+      "related": {
+        "synonyms": "perplex, vex, stick, get, puzzle, mystify",
+        "antonyms": "simplify, reassure, dislodge, move, end, leave, take away, demystify"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "nonplussed",
+      "inVocab": false,
+      "senseAnchor": "困惑的；不知所措",
+      "roleInScript": "愣住臉",
+      "humorDevice": "morphology",
+      "zhGloss": "困惑的；不知所措",
+      "speakLineEn": "If nonplussed by a result, check the code.",
+      "speakLineZh": "被結果搞懵就查程式。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "noncommittal",
+      "inVocab": true,
+      "senseAnchor": "refusing to bind oneself to a particular course of action or view or the like",
+      "roleInScript": "不表態",
+      "humorDevice": "morphology",
+      "zhGloss": "含糊的；不表態的",
+      "speakLineEn": "Avoid noncommittal endpoint definitions.",
+      "speakLineZh": "避免含糊的終點定義。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "nonpartisan",
+      "inVocab": false,
+      "senseAnchor": "無黨派的",
+      "roleInScript": "不站隊",
+      "humorDevice": "morphology",
+      "zhGloss": "無黨派的",
+      "speakLineEn": "Keep analyses nonpartisan to the hypothesis.",
+      "speakLineZh": "分析對假說保持無黨派。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "nonsectarian",
+      "inVocab": false,
+      "senseAnchor": "無宗派的",
+      "roleInScript": "無宗派",
+      "humorDevice": "story",
+      "zhGloss": "無宗派的",
+      "speakLineEn": "Use nonsectarian tools, not cult software.",
+      "speakLineZh": "用無宗派工具，不是邪教軟體。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "not-so",
+      "inVocab": false,
+      "senseAnchor": "並非如此",
+      "roleInScript": "並非章",
+      "humorDevice": "story",
+      "zhGloss": "並非如此",
+      "speakLineEn": "Add a not-so checklist for common traps.",
+      "speakLineZh": "為常見陷阱加「並非如此」清單。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "absence",
+      "inVocab": false,
+      "senseAnchor": "缺席",
+      "roleInScript": "缺席燈",
+      "humorDevice": "story",
+      "zhGloss": "缺席",
+      "speakLineEn": "Absence of evidence is still reportable.",
+      "speakLineZh": "證據缺席仍可報告。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "neutral",
+      "inVocab": false,
+      "senseAnchor": "中立的",
+      "roleInScript": "中立旗",
+      "humorDevice": "story",
+      "zhGloss": "中立的",
+      "speakLineEn": "Neutral tone, sharp methods.",
+      "speakLineZh": "語氣中立，方法鋒利。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "non-＝非：nonchalant/nondescript/noncommittal/nonpartisan/nonplussed",
+    "nonchalant＝漠不關心"
+  ],
+  "pitfalls": [
+    "nonplussed＝困惑驚呆",
+    "noncommittal＝含糊不表態"
+  ],
+  "lessonRefs": [
+    "lesson-prefix-non-01"
+  ],
+  "status": "reviewed",
+  "priority": "C",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch07"
+  }
+}

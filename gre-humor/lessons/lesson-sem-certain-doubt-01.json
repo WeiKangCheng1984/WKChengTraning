@@ -1,0 +1,97 @@
+{
+  "id": "lesson-sem-certain-doubt-01",
+  "slug": "sem-certain-doubt-01",
+  "season": 3,
+  "seasonTitleZh": "語氣對打",
+  "seasonTitleEn": "Tone Duels",
+  "type": "duel",
+  "minutes": "12-15",
+  "clusterId": "sem-certain-doubt-01",
+  "titleZh": "確定 ↔ 存疑｜錨對霧",
+  "titleEn": "Certain vs Doubt Anchor Fog",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "錨對霧——信心語氣對打。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "確定：aplomb／unequivocal／categorical／indubitable；存疑：skeptical／tenuous／quandary／far-fetched。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "確定：aplomb/unequivocal/categorical",
+        "存疑：skeptical/tenuous/quandary"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Leaving no doubt:",
+      "promptZh": "毫不含糊：",
+      "choices": [
+        "unequivocal",
+        "tenuous",
+        "trilogy",
+        "neon"
+      ],
+      "answer": "unequivocal"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Flimsy; weak:",
+      "promptZh": "薄弱牽強：",
+      "choices": [
+        "tenuous",
+        "aplomb",
+        "forecast",
+        "sole"
+      ],
+      "answer": "tenuous"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Distrustful:",
+      "promptZh": "懷疑的：",
+      "choices": [
+        "skeptical",
+        "categorical",
+        "omnibus",
+        "scanty"
+      ],
+      "answer": "skeptical"
+    }
+  ],
+  "pitfalls": [
+    "unequivocal＝毫不含糊",
+    "tenuous＝薄弱"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch01"
+  }
+}

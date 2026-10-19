@@ -1,0 +1,148 @@
+{
+  "id": "prefix-ultra-01",
+  "type": "prefix",
+  "elementLemma": "ultra-",
+  "titleZh": "ultra-｜極端加速艙",
+  "titleEn": "Ultra Extreme Capsule",
+  "hook": "字首 ultra-＝極端——加速艙把一切推到超：紫外、極端保守、超輕。",
+  "script": "ultraviolet 紫外檢查燈。ultramodern／ultralight／ultrafine 超現代、超輕、超細；ultraconservative 極端保守閘——艙長：ultraviolet scrutiny；ultraconservative claims 要有超強證據。",
+  "members": [
+    {
+      "headword": "ultraviolet",
+      "inVocab": false,
+      "senseAnchor": "紫外線的",
+      "roleInScript": "紫外燈",
+      "humorDevice": "morphology",
+      "zhGloss": "紫外線的",
+      "speakLineEn": "Shine ultraviolet light on hidden exclusions.",
+      "speakLineZh": "用紫外光照隱藏排除。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "ultramodern",
+      "inVocab": false,
+      "senseAnchor": "超現代的",
+      "roleInScript": "超現代",
+      "humorDevice": "morphology",
+      "zhGloss": "超現代的",
+      "speakLineEn": "Ultramodern models still need old audits.",
+      "speakLineZh": "超現代模型仍需舊稽核。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "ultralight",
+      "inVocab": false,
+      "senseAnchor": "超輕的",
+      "roleInScript": "超輕",
+      "humorDevice": "morphology",
+      "zhGloss": "超輕的",
+      "speakLineEn": "Ultralight abstracts must still carry limits.",
+      "speakLineZh": "超輕摘要仍要承載限制。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "ultrafine",
+      "inVocab": false,
+      "senseAnchor": "超細的",
+      "roleInScript": "超細",
+      "humorDevice": "morphology",
+      "zhGloss": "超細的",
+      "speakLineEn": "Ultrafine bins need pre-specification.",
+      "speakLineZh": "超細分箱需要預先指定。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "ultraconservative",
+      "inVocab": false,
+      "senseAnchor": "極端保守的",
+      "roleInScript": "極端保守",
+      "humorDevice": "morphology",
+      "zhGloss": "極端保守的",
+      "speakLineEn": "Be ultraconservative about unblinded peeks.",
+      "speakLineZh": "對非盲偷看極端保守。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "beyond",
+      "inVocab": false,
+      "senseAnchor": "超越",
+      "roleInScript": "超越線",
+      "humorDevice": "story",
+      "zhGloss": "超越",
+      "speakLineEn": "Beyond p: discuss practical significance.",
+      "speakLineZh": "超越 p：討論實務顯著。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "hyper",
+      "inVocab": false,
+      "senseAnchor": "過度（口語）",
+      "roleInScript": "過度貼",
+      "humorDevice": "story",
+      "zhGloss": "過度（口語）",
+      "speakLineEn": "Hyper confidence is a warning light.",
+      "speakLineZh": "過度自信是警示燈。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "max",
+      "inVocab": false,
+      "senseAnchor": "最大",
+      "roleInScript": "最大鍵",
+      "humorDevice": "story",
+      "zhGloss": "最大",
+      "speakLineEn": "Max openness, min discretion after lock.",
+      "speakLineZh": "鎖定後最大開放、最小裁量。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "ultra-＝極端：ultraviolet/ultramodern/ultralight/ultraconservative",
+    "ultrafine＝超細"
+  ],
+  "pitfalls": [
+    "ultraconservative＝極端保守",
+    "ultramodern＝超現代"
+  ],
+  "lessonRefs": [
+    "lesson-prefix-ultra-01"
+  ],
+  "status": "reviewed",
+  "priority": "C",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch07"
+  }
+}

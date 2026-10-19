@@ -1,0 +1,208 @@
+{
+  "id": "prefix-out-01",
+  "type": "prefix",
+  "elementLemma": "out-",
+  "titleZh": "out-｜勝出外圈場",
+  "titleEn": "Out Outer Ring Arena",
+  "hook": "字首 out-＝向外／勝過——外圈場專管古怪、過時、直言、勝過對手。",
+  "script": "outlandish／outrageous 古怪過火。outmoded 過時道具。outspoken 直言麥；outstrip／outwit 勝過與智取；outskirts／outburst／outcast 外圍、爆發、被排除者——裁判：outspoken limitations；outlandish claims 需證據。",
+  "members": [
+    {
+      "headword": "outlandish",
+      "inVocab": true,
+      "senseAnchor": "conspicuously or grossly unconventional or unusual",
+      "roleInScript": "古怪燈",
+      "humorDevice": "morphology",
+      "zhGloss": "古怪的；奇異的",
+      "speakLineEn": "Outlandish effect sizes need skepticism.",
+      "speakLineZh": "古怪效應量需要懷疑。",
+      "related": {
+        "synonyms": "bizarre, eccentric, freakish, freaky, flaky, flakey",
+        "antonyms": "concentric"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "outrageous",
+      "inVocab": false,
+      "senseAnchor": "離譜的；暴行的",
+      "roleInScript": "離譜旗",
+      "humorDevice": "morphology",
+      "zhGloss": "離譜的；暴行的",
+      "speakLineEn": "Outrageous certainty from n=12 is comedy.",
+      "speakLineZh": "n=12 的離譜確定是喜劇。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "outmoded",
+      "inVocab": false,
+      "senseAnchor": "過時的",
+      "roleInScript": "過時道具",
+      "humorDevice": "morphology",
+      "zhGloss": "過時的",
+      "speakLineEn": "Retire outmoded Excel-only pipelines.",
+      "speakLineZh": "淘汰過時純 Excel 管線。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "outspoken",
+      "inVocab": false,
+      "senseAnchor": "直言的",
+      "roleInScript": "直言麥",
+      "humorDevice": "morphology",
+      "zhGloss": "直言的",
+      "speakLineEn": "Be outspoken about limitations.",
+      "speakLineZh": "對限制要直言。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "outstrip",
+      "inVocab": true,
+      "senseAnchor": "be or do something to a greater degree; go far ahead of",
+      "roleInScript": "勝出箭",
+      "humorDevice": "morphology",
+      "zhGloss": "超越；勝過",
+      "speakLineEn": "Transparency can outstrip hype.",
+      "speakLineZh": "透明能勝過炒作。",
+      "related": {
+        "synonyms": "surpass, outmatch, outgo, exceed, outdo, surmount",
+        "antonyms": "income"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "outwit",
+      "inVocab": false,
+      "senseAnchor": "以智取勝",
+      "roleInScript": "智取牌",
+      "humorDevice": "morphology",
+      "zhGloss": "以智取勝",
+      "speakLineEn": "Outwit bias with design, not adjectives.",
+      "speakLineZh": "用設計智取偏差，不是形容詞。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "outskirts",
+      "inVocab": false,
+      "senseAnchor": "郊區；外圍",
+      "roleInScript": "外圍區",
+      "humorDevice": "story",
+      "zhGloss": "郊區；外圍",
+      "speakLineEn": "Do not exile nulls to the outskirts.",
+      "speakLineZh": "別把虛無放逐到外圍。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "outburst",
+      "inVocab": false,
+      "senseAnchor": "爆發",
+      "roleInScript": "爆發點",
+      "humorDevice": "story",
+      "zhGloss": "爆發",
+      "speakLineEn": "An outburst of peeks needs alpha control.",
+      "speakLineZh": "偷看爆發需要 α 控制。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "outcast",
+      "inVocab": false,
+      "senseAnchor": "被排斥者",
+      "roleInScript": "被排除",
+      "humorDevice": "story",
+      "zhGloss": "被排斥者",
+      "speakLineEn": "Outcast observations still need a reason.",
+      "speakLineZh": "被排除觀察仍需要理由。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "outer",
+      "inVocab": false,
+      "senseAnchor": "外部的",
+      "roleInScript": "外圈",
+      "humorDevice": "story",
+      "zhGloss": "外部的",
+      "speakLineEn": "Keep outer robustness in the supplement.",
+      "speakLineZh": "外部穩健放補充材料。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "outdo",
+      "inVocab": false,
+      "senseAnchor": "勝過",
+      "roleInScript": "勝過鍵",
+      "humorDevice": "story",
+      "zhGloss": "勝過",
+      "speakLineEn": "Outdo last quarter’s documentation.",
+      "speakLineZh": "勝過上季的文件品質。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "outlier-ward",
+      "inVocab": false,
+      "senseAnchor": "朝離群",
+      "roleInScript": "離群方向",
+      "humorDevice": "story",
+      "zhGloss": "朝離群",
+      "speakLineEn": "Walk outlier-ward with pre-rules.",
+      "speakLineZh": "依預先規則走向離群處理。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "out-＝外／勝：outlandish/outmoded/outspoken/outstrip/outwit/outcast",
+    "outstrip＝超越"
+  ],
+  "pitfalls": [
+    "outlandish＝古怪誇張",
+    "outmoded＝過時"
+  ],
+  "lessonRefs": [
+    "lesson-prefix-out-01"
+  ],
+  "status": "reviewed",
+  "priority": "C",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch07"
+  }
+}

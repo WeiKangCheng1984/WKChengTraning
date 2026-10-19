@@ -1,0 +1,327 @@
+{
+  "id": "sem-obj-bias-01",
+  "type": "semantic",
+  "elementLemma": "objective-vs-biased",
+  "titleZh": "客觀 ↔ 偏頗｜無私鏡 vs 偏執帽",
+  "titleEn": "Objective vs Biased Mirror",
+  "hook": "無私鏡對偏執帽——評價語氣對打。",
+  "script": "客觀：disinterested／impartial／clinical；偏頗：bigot／demagogue／partisan／tendentious／skew。",
+  "members": [
+    {
+      "headword": "disinterested",
+      "inVocab": true,
+      "senseAnchor": "unaffected by self-interest",
+      "roleInScript": "無私鏡",
+      "humorDevice": "contrast",
+      "zhGloss": "公正無私",
+      "speakLineEn": "GRE tip: disinterested ~ 公正無私; keep the tone straight.",
+      "speakLineZh": "GRE 提示：disinterested 約「公正無私」——抓住語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "impartial",
+      "inVocab": false,
+      "senseAnchor": "不偏不倚",
+      "roleInScript": "不偏秤",
+      "humorDevice": "contrast",
+      "zhGloss": "不偏不倚",
+      "speakLineEn": "GRE tip: impartial ~ 不偏不倚; keep the tone straight.",
+      "speakLineZh": "GRE 提示：impartial 約「不偏不倚」——抓住語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "aloof",
+      "inVocab": true,
+      "senseAnchor": "removed or distant either physically or emotionally",
+      "roleInScript": "超然",
+      "humorDevice": "contrast",
+      "zhGloss": "超然冷淡",
+      "speakLineEn": "GRE tip: aloof ~ 超然冷淡; keep the tone straight.",
+      "speakLineZh": "GRE 提示：aloof 約「超然冷淡」——抓住語氣。",
+      "related": {
+        "synonyms": "detached, offish, unsociable, withdrawn",
+        "antonyms": "friendly, approachable, attach, attached, sociable, advance, deposit, engage"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "clinical",
+      "inVocab": true,
+      "senseAnchor": "relating to a clinic or conducted in or as if in a clinic and depending on direct observation of patients; scientifically detached; unemotional",
+      "roleInScript": "臨床冷",
+      "humorDevice": "contrast",
+      "zhGloss": "冷靜客觀",
+      "speakLineEn": "GRE tip: clinical ~ 冷靜客觀; keep the tone straight.",
+      "speakLineZh": "GRE 提示：clinical 約「冷靜客觀」——抓住語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "egalitarian",
+      "inVocab": true,
+      "senseAnchor": "equal for all people",
+      "roleInScript": "平等旗",
+      "humorDevice": "contrast",
+      "zhGloss": "平等主義",
+      "speakLineEn": "GRE tip: egalitarian ~ 平等主義; keep the tone straight.",
+      "speakLineZh": "GRE 提示：egalitarian 約「平等主義」——抓住語氣。",
+      "related": {
+        "synonyms": "impartial, unprejudiced",
+        "antonyms": "elitist, partial, prejudiced"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "bigot",
+      "inVocab": true,
+      "senseAnchor": "a prejudiced person who is intolerant of any opinions differing from his own",
+      "roleInScript": "偏執帽",
+      "humorDevice": "contrast",
+      "zhGloss": "偏執者",
+      "speakLineEn": "GRE tip: bigot ~ 偏執者; keep the tone straight.",
+      "speakLineZh": "GRE 提示：bigot 約「偏執者」——抓住語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "demagogue",
+      "inVocab": true,
+      "senseAnchor": "a political leader who seeks support by appealing to popular passions and prejudices",
+      "roleInScript": "煽動麥",
+      "humorDevice": "contrast",
+      "zhGloss": "煽動者",
+      "speakLineEn": "GRE tip: demagogue ~ 煽動者; keep the tone straight.",
+      "speakLineZh": "GRE 提示：demagogue 約「煽動者」——抓住語氣。",
+      "related": {
+        "synonyms": "demagog, rabble-rouser",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "partisan",
+      "inVocab": true,
+      "senseAnchor": "inclined to favor one side over another",
+      "roleInScript": "黨派旗",
+      "humorDevice": "contrast",
+      "zhGloss": "黨派的",
+      "speakLineEn": "GRE tip: partisan ~ 黨派的; keep the tone straight.",
+      "speakLineZh": "GRE 提示：partisan 約「黨派的」——抓住語氣。",
+      "related": {
+        "synonyms": "biased, partial, prejudiced",
+        "antonyms": "impartial, neutral, nonpartisan, unbiased, unprejudiced"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "tendentious",
+      "inVocab": true,
+      "senseAnchor": "having or marked by a strong tendency especially a controversial one",
+      "roleInScript": "傾向槍",
+      "humorDevice": "contrast",
+      "zhGloss": "有傾向性",
+      "speakLineEn": "GRE tip: tendentious ~ 有傾向性; keep the tone straight.",
+      "speakLineZh": "GRE 提示：tendentious 約「有傾向性」——抓住語氣。",
+      "related": {
+        "synonyms": "tendencious",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "skew",
+      "inVocab": true,
+      "senseAnchor": "turn or place at an angle; having an oblique or slanting direction or position",
+      "roleInScript": "偏斜",
+      "humorDevice": "contrast",
+      "zhGloss": "偏斜扭曲",
+      "speakLineEn": "GRE tip: skew ~ 偏斜扭曲; keep the tone straight.",
+      "speakLineZh": "GRE 提示：skew 約「偏斜扭曲」——抓住語氣。",
+      "related": {
+        "synonyms": "skewed",
+        "antonyms": "align"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "jaundice",
+      "inVocab": true,
+      "senseAnchor": "bitterness, resentment or envy",
+      "roleInScript": "偏見黃",
+      "humorDevice": "contrast",
+      "zhGloss": "偏見",
+      "speakLineEn": "GRE tip: jaundice ~ 偏見; keep the tone straight.",
+      "speakLineZh": "GRE 提示：jaundice 約「偏見」——抓住語氣。",
+      "related": {
+        "synonyms": "icterus, bitterness, acrimony, acerbity, tartness, thorniness",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "preconception",
+      "inVocab": true,
+      "senseAnchor": "an opinion formed beforehand without adequate evidence; a partiality that prevents objective consideration of an issue or situation",
+      "roleInScript": "先入鏡",
+      "humorDevice": "contrast",
+      "zhGloss": "先入為主",
+      "speakLineEn": "GRE tip: preconception ~ 先入為主; keep the tone straight.",
+      "speakLineZh": "GRE 提示：preconception 約「先入為主」——抓住語氣。",
+      "related": {
+        "synonyms": "prepossession, bias, prejudice",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "slanted",
+      "inVocab": false,
+      "senseAnchor": "有偏向",
+      "roleInScript": "斜面",
+      "humorDevice": "contrast",
+      "zhGloss": "有偏向",
+      "speakLineEn": "GRE tip: slanted ~ 有偏向; keep the tone straight.",
+      "speakLineZh": "GRE 提示：slanted 約「有偏向」——抓住語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "biased",
+      "inVocab": false,
+      "senseAnchor": "有偏",
+      "roleInScript": "有偏針",
+      "humorDevice": "contrast",
+      "zhGloss": "有偏",
+      "speakLineEn": "GRE tip: biased ~ 有偏; keep the tone straight.",
+      "speakLineZh": "GRE 提示：biased 約「有偏」——抓住語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "partial",
+      "inVocab": false,
+      "senseAnchor": "偏袒",
+      "roleInScript": "偏袒",
+      "humorDevice": "contrast",
+      "zhGloss": "偏袒",
+      "speakLineEn": "GRE tip: partial ~ 偏袒; keep the tone straight.",
+      "speakLineZh": "GRE 提示：partial 約「偏袒」——抓住語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "evenhanded",
+      "inVocab": false,
+      "senseAnchor": "公平",
+      "roleInScript": "公平手",
+      "humorDevice": "story",
+      "zhGloss": "公平",
+      "speakLineEn": "GRE tip: evenhanded ~ 公平; keep the tone straight.",
+      "speakLineZh": "GRE 提示：evenhanded 約「公平」——抓住語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "detached",
+      "inVocab": false,
+      "senseAnchor": "超然",
+      "roleInScript": "超然椅",
+      "humorDevice": "story",
+      "zhGloss": "超然",
+      "speakLineEn": "GRE tip: detached ~ 超然; keep the tone straight.",
+      "speakLineZh": "GRE 提示：detached 約「超然」——抓住語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "liquidate",
+      "inVocab": true,
+      "senseAnchor": "get rid of (someone who may be a threat) by killing; eliminate by paying off (debts)",
+      "roleInScript": "清算",
+      "humorDevice": "story",
+      "zhGloss": "清算",
+      "speakLineEn": "GRE tip: liquidate ~ 清算; keep the tone straight.",
+      "speakLineZh": "GRE 提示：liquidate 約「清算」——抓住語氣。",
+      "related": {
+        "synonyms": "neutralize, neutralise, waste",
+        "antonyms": "conserve"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "enamel",
+      "inVocab": true,
+      "senseAnchor": "hard white substance covering the crown of a tooth; a colored glassy compound (opaque or partially opaque) that is fused to the surface of metal or glass or pottery for decoration or protection",
+      "roleInScript": "粉飾",
+      "humorDevice": "story",
+      "zhGloss": "搪瓷／粉飾",
+      "speakLineEn": "GRE tip: enamel ~ 搪瓷／粉飾; keep the tone straight.",
+      "speakLineZh": "GRE 提示：enamel 約「搪瓷／粉飾」——抓住語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "extenuate",
+      "inVocab": true,
+      "senseAnchor": "to lessen the seriousness or extent of by making partial excuses",
+      "roleInScript": "開脫",
+      "humorDevice": "story",
+      "zhGloss": "開脫減輕",
+      "speakLineEn": "GRE tip: extenuate ~ 開脫減輕; keep the tone straight.",
+      "speakLineZh": "GRE 提示：extenuate 約「開脫減輕」——抓住語氣。",
+      "related": {
+        "synonyms": "palliate, mitigate",
+        "antonyms": "aggravate, exacerbate"
+      },
+      "vocabStatus": "in-vocab"
+    }
+  ],
+  "reviewHooks": [
+    "客觀：disinterested/impartial",
+    "偏頗：bigot/partisan/tendentious"
+  ],
+  "pitfalls": [
+    "disinterested＝公正無私"
+  ],
+  "lessonRefs": [
+    "lesson-sem-obj-bias-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch01"
+  }
+}

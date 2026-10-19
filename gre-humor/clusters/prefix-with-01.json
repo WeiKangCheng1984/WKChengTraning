@@ -1,0 +1,163 @@
+{
+  "id": "prefix-with-01",
+  "type": "prefix",
+  "elementLemma": "with-",
+  "titleZh": "with-｜撤回抵抗門",
+  "titleEn": "With Withdraw Gate",
+  "hook": "字首 with-＝反對／撤回——抵抗門專管扣住、撤回、抵擋與枯萎。",
+  "script": "withhold 扣住不給。withstand 抵擋衝擊。withdrawn 撤回／內向；wither／without 枯萎與沒有——門衛：withhold secrets from public dumps；withstand pressure to peek。",
+  "members": [
+    {
+      "headword": "withhold",
+      "inVocab": false,
+      "senseAnchor": "扣留；拒絕給予",
+      "roleInScript": "扣住鎖",
+      "humorDevice": "morphology",
+      "zhGloss": "扣留；拒絕給予",
+      "speakLineEn": "Do not withhold inconvenient nulls.",
+      "speakLineZh": "不要扣留麻煩的虛無。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "withstand",
+      "inVocab": true,
+      "senseAnchor": "resist or confront with resistance; stand up or offer resistance to somebody or something",
+      "roleInScript": "抵擋盾",
+      "humorDevice": "morphology",
+      "zhGloss": "抵擋；承受",
+      "speakLineEn": "Good design withstands outcome pressure.",
+      "speakLineZh": "好設計抵擋結局壓力。",
+      "related": {
+        "synonyms": "defy, hold, resist",
+        "antonyms": "surrender"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "withdrawn",
+      "inVocab": false,
+      "senseAnchor": "撤回的；內向的",
+      "roleInScript": "撤回臉",
+      "humorDevice": "morphology",
+      "zhGloss": "撤回的；內向的",
+      "speakLineEn": "A withdrawn paper needs a public note.",
+      "speakLineZh": "撤回論文需要公開說明。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "wither",
+      "inVocab": false,
+      "senseAnchor": "枯萎；萎縮",
+      "roleInScript": "枯萎葉",
+      "humorDevice": "morphology",
+      "zhGloss": "枯萎；萎縮",
+      "speakLineEn": "Trust withers when logs disappear.",
+      "speakLineZh": "日誌消失時信任枯萎。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "without",
+      "inVocab": false,
+      "senseAnchor": "沒有",
+      "roleInScript": "沒有牌",
+      "humorDevice": "morphology",
+      "zhGloss": "沒有",
+      "speakLineEn": "Without prereg, flexibility looks like fishing.",
+      "speakLineZh": "沒有預註冊，彈性像淘篩。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "hold-back",
+      "inVocab": false,
+      "senseAnchor": "扣住",
+      "roleInScript": "扣住鍵",
+      "humorDevice": "story",
+      "zhGloss": "扣住",
+      "speakLineEn": "Hold-back of code harms replication.",
+      "speakLineZh": "扣住程式碼傷害複現。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "dry-up",
+      "inVocab": false,
+      "senseAnchor": "乾涸",
+      "roleInScript": "乾涸井",
+      "humorDevice": "story",
+      "zhGloss": "乾涸",
+      "speakLineEn": "Support dries up after hidden errors.",
+      "speakLineZh": "隱藏錯誤後支持會乾涸。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "against",
+      "inVocab": false,
+      "senseAnchor": "反對",
+      "roleInScript": "反對箭",
+      "humorDevice": "story",
+      "zhGloss": "反對",
+      "speakLineEn": "Argue against your favorite finding.",
+      "speakLineZh": "反駁自己最愛的發現。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "gate",
+      "inVocab": false,
+      "senseAnchor": "閘門",
+      "roleInScript": "閘門",
+      "humorDevice": "story",
+      "zhGloss": "閘門",
+      "speakLineEn": "Put a gate before unblinded access.",
+      "speakLineZh": "非盲存取前設閘門。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "with-＝撤回／抵抗：withhold/withstand/withdrawn/wither",
+    "withhold＝扣留"
+  ],
+  "pitfalls": [
+    "withhold＝扣留不給",
+    "withstand＝抵擋"
+  ],
+  "lessonRefs": [
+    "lesson-prefix-with-01"
+  ],
+  "status": "reviewed",
+  "priority": "C",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch07"
+  }
+}

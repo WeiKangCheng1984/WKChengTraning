@@ -1,0 +1,193 @@
+{
+  "id": "prefix-meta-01",
+  "type": "prefix",
+  "elementLemma": "meta-",
+  "titleZh": "meta-｜後設鏡像館",
+  "titleEn": "Meta Mirror Hall",
+  "hook": "字首 meta-＝之後／超越——鏡像館專管「關於自己的自己」：隱喻、形上、後設資料。",
+  "script": "metaphor／metaphorical 隱喻走廊。metaphysics 形上閣樓。metadata／metalanguage／metacognition 後設標籤與後設語言；metastasis 擴散警示——館長：metadata 要齊；metaphor 不能取代 ident。",
+  "members": [
+    {
+      "headword": "metaphor",
+      "inVocab": false,
+      "senseAnchor": "隱喻",
+      "roleInScript": "隱喻廊",
+      "humorDevice": "morphology",
+      "zhGloss": "隱喻",
+      "speakLineEn": "A metaphor is not a causal model.",
+      "speakLineZh": "隱喻不是因果模型。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "metaphorical",
+      "inVocab": false,
+      "senseAnchor": "隱喻的",
+      "roleInScript": "隱喻風",
+      "humorDevice": "morphology",
+      "zhGloss": "隱喻的",
+      "speakLineEn": "Keep metaphorical language out of endpoints.",
+      "speakLineZh": "終點定義別用隱喻語言。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "metaphysics",
+      "inVocab": false,
+      "senseAnchor": "形上學",
+      "roleInScript": "形上閣",
+      "humorDevice": "morphology",
+      "zhGloss": "形上學",
+      "speakLineEn": "Save metaphysics for the cafe, not the methods.",
+      "speakLineZh": "形上留給咖啡廳，不留給方法段。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "metadata",
+      "inVocab": false,
+      "senseAnchor": "後設資料",
+      "roleInScript": "標籤牆",
+      "humorDevice": "morphology",
+      "zhGloss": "後設資料",
+      "speakLineEn": "Lock metadata with the dataset version.",
+      "speakLineZh": "後設資料與資料版本一起鎖定。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "metalanguage",
+      "inVocab": false,
+      "senseAnchor": "後設語言",
+      "roleInScript": "語言上的語言",
+      "humorDevice": "morphology",
+      "zhGloss": "後設語言",
+      "speakLineEn": "Use a metalanguage to define coding rules.",
+      "speakLineZh": "用後設語言定義編碼規則。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "metacognition",
+      "inVocab": false,
+      "senseAnchor": "後設認知",
+      "roleInScript": "思考的思考",
+      "humorDevice": "morphology",
+      "zhGloss": "後設認知",
+      "speakLineEn": "Build metacognition: notice when you peek.",
+      "speakLineZh": "培養後設認知：察覺自己何時偷看。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "metastasis",
+      "inVocab": false,
+      "senseAnchor": "轉移；擴散",
+      "roleInScript": "擴散警",
+      "humorDevice": "story",
+      "zhGloss": "轉移；擴散",
+      "speakLineEn": "Error metastasis starts with silent forks.",
+      "speakLineZh": "錯誤轉移始於沉默分叉。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "aboutness",
+      "inVocab": false,
+      "senseAnchor": "關於性",
+      "roleInScript": "關於標",
+      "humorDevice": "story",
+      "zhGloss": "關於性",
+      "speakLineEn": "State the aboutness of each variable.",
+      "speakLineZh": "說清每個變數的關於性。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "self-ref",
+      "inVocab": false,
+      "senseAnchor": "自我指涉",
+      "roleInScript": "自指箭",
+      "humorDevice": "story",
+      "zhGloss": "自我指涉",
+      "speakLineEn": "Avoid self-ref loops in outcome definitions.",
+      "speakLineZh": "結局定義避免自我指涉迴圈。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "layer",
+      "inVocab": false,
+      "senseAnchor": "層",
+      "roleInScript": "鏡層",
+      "humorDevice": "story",
+      "zhGloss": "層",
+      "speakLineEn": "Separate analysis layers clearly.",
+      "speakLineZh": "清楚分開分析層。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "label",
+      "inVocab": false,
+      "senseAnchor": "標籤",
+      "roleInScript": "標籤槍",
+      "humorDevice": "story",
+      "zhGloss": "標籤",
+      "speakLineEn": "Every column needs a human label.",
+      "speakLineZh": "每一欄都需要人類標籤。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "meta-＝後設：metaphor/metaphysics/metadata/metacognition",
+    "metaphor＝隱喻"
+  ],
+  "pitfalls": [
+    "metaphor＝隱喻；metastasis＝轉移擴散",
+    "metadata＝後設資料"
+  ],
+  "lessonRefs": [
+    "lesson-prefix-meta-01"
+  ],
+  "status": "reviewed",
+  "priority": "C",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch07"
+  }
+}

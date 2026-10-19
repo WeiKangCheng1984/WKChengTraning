@@ -1,0 +1,207 @@
+{
+  "id": "look-venal-01",
+  "type": "lookalike",
+  "elementLemma": "venal-venial",
+  "titleZh": "venal ↔ venial｜貪腐／可恕法庭",
+  "titleEn": "Venal vs Venial Court",
+  "hook": "venal＝可收買，venial＝可恕小過——木槌別敲錯。",
+  "script": "venality 對 forgivable／excusable——法官：venal misconduct；venial typos。",
+  "members": [
+    {
+      "headword": "venality",
+      "inVocab": false,
+      "senseAnchor": "貪腐",
+      "roleInScript": "貪腐標",
+      "humorDevice": "lookalike",
+      "zhGloss": "貪腐",
+      "speakLineEn": "GRE tip: venality ~ 貪腐; keep the tone straight.",
+      "speakLineZh": "GRE 提示：venality 約「貪腐」——抓住語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "bribery",
+      "inVocab": false,
+      "senseAnchor": "賄賂",
+      "roleInScript": "賄賂",
+      "humorDevice": "story",
+      "zhGloss": "賄賂",
+      "speakLineEn": "GRE tip: bribery ~ 賄賂; keep the tone straight.",
+      "speakLineZh": "GRE 提示：bribery 約「賄賂」——抓住語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "forgivable",
+      "inVocab": false,
+      "senseAnchor": "可原諒",
+      "roleInScript": "可恕",
+      "humorDevice": "story",
+      "zhGloss": "可原諒",
+      "speakLineEn": "GRE tip: forgivable ~ 可原諒; keep the tone straight.",
+      "speakLineZh": "GRE 提示：forgivable 約「可原諒」——抓住語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "excusable",
+      "inVocab": false,
+      "senseAnchor": "可諒解",
+      "roleInScript": "可諒",
+      "humorDevice": "story",
+      "zhGloss": "可諒解",
+      "speakLineEn": "GRE tip: excusable ~ 可諒解; keep the tone straight.",
+      "speakLineZh": "GRE 提示：excusable 約「可諒解」——抓住語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "kickback",
+      "inVocab": false,
+      "senseAnchor": "回扣",
+      "roleInScript": "回扣",
+      "humorDevice": "story",
+      "zhGloss": "回扣",
+      "speakLineEn": "GRE tip: kickback ~ 回扣; keep the tone straight.",
+      "speakLineZh": "GRE 提示：kickback 約「回扣」——抓住語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "graft",
+      "inVocab": false,
+      "senseAnchor": "貪污",
+      "roleInScript": "貪污",
+      "humorDevice": "story",
+      "zhGloss": "貪污",
+      "speakLineEn": "GRE tip: graft ~ 貪污; keep the tone straight.",
+      "speakLineZh": "GRE 提示：graft 約「貪污」——抓住語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "pardonable",
+      "inVocab": false,
+      "senseAnchor": "可赦免",
+      "roleInScript": "可赦",
+      "humorDevice": "story",
+      "zhGloss": "可赦免",
+      "speakLineEn": "GRE tip: pardonable ~ 可赦免; keep the tone straight.",
+      "speakLineZh": "GRE 提示：pardonable 約「可赦免」——抓住語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "payola",
+      "inVocab": false,
+      "senseAnchor": "封口賄賂",
+      "roleInScript": "封口費",
+      "humorDevice": "story",
+      "zhGloss": "封口賄賂",
+      "speakLineEn": "GRE tip: payola ~ 封口賄賂; keep the tone straight.",
+      "speakLineZh": "GRE 提示：payola 約「封口賄賂」——抓住語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "corruptibility",
+      "inVocab": false,
+      "senseAnchor": "可腐化",
+      "roleInScript": "可腐化",
+      "humorDevice": "story",
+      "zhGloss": "可腐化",
+      "speakLineEn": "GRE tip: corruptibility ~ 可腐化; keep the tone straight.",
+      "speakLineZh": "GRE 提示：corruptibility 約「可腐化」——抓住語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "courtroom",
+      "inVocab": false,
+      "senseAnchor": "法庭",
+      "roleInScript": "法庭",
+      "humorDevice": "story",
+      "zhGloss": "法庭",
+      "speakLineEn": "GRE tip: courtroom ~ 法庭; keep the tone straight.",
+      "speakLineZh": "GRE 提示：courtroom 約「法庭」——抓住語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "gavel",
+      "inVocab": true,
+      "senseAnchor": "a small mallet used by a presiding officer or a judge",
+      "roleInScript": "木槌",
+      "humorDevice": "story",
+      "zhGloss": "木槌",
+      "speakLineEn": "GRE tip: gavel ~ 木槌; keep the tone straight.",
+      "speakLineZh": "GRE 提示：gavel 約「木槌」——抓住語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "ticket",
+      "inVocab": false,
+      "senseAnchor": "罰單",
+      "roleInScript": "罰單",
+      "humorDevice": "story",
+      "zhGloss": "罰單",
+      "speakLineEn": "GRE tip: ticket ~ 罰單; keep the tone straight.",
+      "speakLineZh": "GRE 提示：ticket 約「罰單」——抓住語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "venal＝貪腐",
+    "venial＝可恕小過"
+  ],
+  "pitfalls": [
+    "venal≠venial"
+  ],
+  "lessonRefs": [
+    "lesson-look-venal-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch01"
+  }
+}

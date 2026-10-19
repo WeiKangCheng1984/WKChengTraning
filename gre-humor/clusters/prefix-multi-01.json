@@ -1,0 +1,178 @@
+{
+  "id": "prefix-multi-01",
+  "type": "prefix",
+  "elementLemma": "multi-",
+  "titleZh": "multi-｜多重馬戲團",
+  "titleEn": "Multi Circus Tent",
+  "hook": "字首 multi-＝多——馬戲團同時開很多帳篷：多面向、多語、多重性。",
+  "script": "multifaceted／multiplicity／multipartite 多面鏡子。multiply／multiplex 倍增與多工。multicultural／multilingual 多文化多語廣播——團長：multifaceted checks；multiply endpoints 要校正。",
+  "members": [
+    {
+      "headword": "multifaceted",
+      "inVocab": false,
+      "senseAnchor": "多面向的",
+      "roleInScript": "多面鏡",
+      "humorDevice": "morphology",
+      "zhGloss": "多面向的",
+      "speakLineEn": "Use multifaceted robustness checks.",
+      "speakLineZh": "使用多面向穩健檢查。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "multiplicity",
+      "inVocab": true,
+      "senseAnchor": "the property of being multiple; a large number",
+      "roleInScript": "多重櫃",
+      "humorDevice": "morphology",
+      "zhGloss": "多重性；多樣",
+      "speakLineEn": "A multiplicity of peeks inflates error.",
+      "speakLineZh": "多次偷看膨脹誤差。",
+      "related": {
+        "synonyms": "numerousness, numerosity",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "multiply",
+      "inVocab": false,
+      "senseAnchor": "倍增；繁殖",
+      "roleInScript": "倍增機",
+      "humorDevice": "morphology",
+      "zhGloss": "倍增；繁殖",
+      "speakLineEn": "Do not multiply hypotheses after looking.",
+      "speakLineZh": "看完後不要倍增假說。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "multiplex",
+      "inVocab": false,
+      "senseAnchor": "多元的；多工的",
+      "roleInScript": "多工棚",
+      "humorDevice": "morphology",
+      "zhGloss": "多元的；多工的",
+      "speakLineEn": "Multiplex dashboards still need version pins.",
+      "speakLineZh": "多工儀表板仍需版本釘。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "multicultural",
+      "inVocab": false,
+      "senseAnchor": "多元文化的",
+      "roleInScript": "多文化旗",
+      "humorDevice": "morphology",
+      "zhGloss": "多元文化的",
+      "speakLineEn": "Multicultural teams need shared glossaries.",
+      "speakLineZh": "多元文化團隊需要共享詞彙表。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "multilingual",
+      "inVocab": false,
+      "senseAnchor": "多語的",
+      "roleInScript": "多語麥",
+      "humorDevice": "morphology",
+      "zhGloss": "多語的",
+      "speakLineEn": "Keep code comments multilingual-friendly: clear English.",
+      "speakLineZh": "程式註解用清楚英文，方便多語團隊。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "multipartite",
+      "inVocab": false,
+      "senseAnchor": "多方的；多部分的",
+      "roleInScript": "多方桌",
+      "humorDevice": "story",
+      "zhGloss": "多方的；多部分的",
+      "speakLineEn": "Multipartite agreements need one codebook.",
+      "speakLineZh": "多方協議需要一本編碼簿。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "many-sided",
+      "inVocab": false,
+      "senseAnchor": "多邊的",
+      "roleInScript": "多邊牌",
+      "humorDevice": "story",
+      "zhGloss": "多邊的",
+      "speakLineEn": "Many-sided claims need many-sided evidence.",
+      "speakLineZh": "多邊主張需要多邊證據。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "variety",
+      "inVocab": false,
+      "senseAnchor": "多樣性",
+      "roleInScript": "多樣攤",
+      "humorDevice": "story",
+      "zhGloss": "多樣性",
+      "speakLineEn": "Variety in sites is not variety in estimands.",
+      "speakLineZh": "站點多樣不是目標量多樣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "bundle",
+      "inVocab": false,
+      "senseAnchor": "捆；束",
+      "roleInScript": "捆束",
+      "humorDevice": "story",
+      "zhGloss": "捆；束",
+      "speakLineEn": "Do not bundle silent changes into one commit.",
+      "speakLineZh": "別把沉默變更捆進一次提交。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "multi-＝多：multifaceted/multiplicity/multiply/multilingual/multiplex",
+    "multiplicity＝多重性"
+  ],
+  "pitfalls": [
+    "multifaceted＝多面向",
+    "multiplex＝多元複合"
+  ],
+  "lessonRefs": [
+    "lesson-prefix-multi-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch07"
+  }
+}

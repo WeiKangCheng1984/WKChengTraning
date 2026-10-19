@@ -1,0 +1,97 @@
+{
+  "id": "lesson-prefix-out-01",
+  "slug": "prefix-out-01",
+  "season": 4,
+  "seasonTitleZh": "字首調味",
+  "seasonTitleEn": "Prefix Seasoning",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "prefix-out-01",
+  "titleZh": "out-｜勝出外圈場",
+  "titleEn": "Out Outer Ring Arena",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字首 out-＝向外／勝過——外圈場專管古怪、過時、直言、勝過對手。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "outlandish／outrageous 古怪過火。outmoded 過時道具。outspoken 直言麥；outstrip／outwit 勝過與智取；outskirts／outburst／outcast 外圍、爆發、被排除者——裁判：outspoken limitations；outlandish claims 需證據。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "out-＝外／勝：outlandish/outmoded/outspoken/outstrip/outwit/outcast",
+        "outstrip＝超越"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Bizarre; freakishly strange:",
+      "promptZh": "古怪奇異：",
+      "choices": [
+        "outlandish",
+        "nonchalant",
+        "metadata",
+        "via"
+      ],
+      "answer": "outlandish"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Surpass; leave behind:",
+      "promptZh": "超越勝過：",
+      "choices": [
+        "outstrip",
+        "withhold",
+        "seed",
+        "clamor"
+      ],
+      "answer": "outstrip"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Frank in speech:",
+      "promptZh": "直言：",
+      "choices": [
+        "outspoken",
+        "peripheral",
+        "omnibus",
+        "neon"
+      ],
+      "answer": "outspoken"
+    }
+  ],
+  "pitfalls": [
+    "outlandish＝古怪誇張",
+    "outmoded＝過時"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch07"
+  }
+}

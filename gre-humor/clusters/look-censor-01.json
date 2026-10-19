@@ -1,0 +1,162 @@
+{
+  "id": "look-censor-01",
+  "type": "lookalike",
+  "elementLemma": "censor-censure",
+  "titleZh": "censor ↔ censure｜審查／譴責剪輯室",
+  "titleEn": "Censor vs Censure Edit Bay",
+  "hook": "censor＝審查刪改，censure＝譴責——剪輯室兩把剪刀用途不同。",
+  "script": "censorship／censorious／uncensored 審查鏈——導演：censorship of nulls 禁；censure fraud 可以。",
+  "members": [
+    {
+      "headword": "censorship",
+      "inVocab": false,
+      "senseAnchor": "審查制度",
+      "roleInScript": "審查剪",
+      "humorDevice": "lookalike",
+      "zhGloss": "審查制度",
+      "speakLineEn": "Censorship of negative results is misconduct-adjacent.",
+      "speakLineZh": "審查負結果近似不端。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "censorious",
+      "inVocab": true,
+      "senseAnchor": "criticizing and expressing disapproval",
+      "roleInScript": "挑剔剪",
+      "humorDevice": "lookalike",
+      "zhGloss": "愛挑剔譴責的",
+      "speakLineEn": "Be precise, not merely censorious.",
+      "speakLineZh": "要精準，不要只是挑剔。",
+      "related": {
+        "synonyms": "captious, fastidious",
+        "antonyms": "careless, sloppy, unfastidious"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "uncensored",
+      "inVocab": false,
+      "senseAnchor": "未經審查的",
+      "roleInScript": "未剪帶",
+      "humorDevice": "lookalike",
+      "zhGloss": "未經審查的",
+      "speakLineEn": "Keep an uncensored log of decisions.",
+      "speakLineZh": "保留未經審查的決策日誌。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "redact",
+      "inVocab": false,
+      "senseAnchor": "遮蓋刪改",
+      "roleInScript": "遮蓋帶",
+      "humorDevice": "story",
+      "zhGloss": "遮蓋刪改",
+      "speakLineEn": "Redact identifiers, not limitations.",
+      "speakLineZh": "遮蓋識別碼，不是限制。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "blame",
+      "inVocab": false,
+      "senseAnchor": "責備",
+      "roleInScript": "責備燈",
+      "humorDevice": "story",
+      "zhGloss": "責備",
+      "speakLineEn": "Blame processes, then fix them.",
+      "speakLineZh": "責備流程，然後修好。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "scissors",
+      "inVocab": false,
+      "senseAnchor": "剪刀",
+      "roleInScript": "剪刀",
+      "humorDevice": "story",
+      "zhGloss": "剪刀",
+      "speakLineEn": "Two scissors: privacy vs honesty.",
+      "speakLineZh": "兩把剪刀：隱私與誠實。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "blacklist",
+      "inVocab": false,
+      "senseAnchor": "黑名單",
+      "roleInScript": "黑名單",
+      "humorDevice": "story",
+      "zhGloss": "黑名單",
+      "speakLineEn": "Blacklist fabricated datasets.",
+      "speakLineZh": "把捏造資料集列入黑名單。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "approve",
+      "inVocab": false,
+      "senseAnchor": "批准",
+      "roleInScript": "批准章",
+      "humorDevice": "story",
+      "zhGloss": "批准",
+      "speakLineEn": "Approve protocols before collection.",
+      "speakLineZh": "收集前批准規程。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "edit",
+      "inVocab": false,
+      "senseAnchor": "剪輯",
+      "roleInScript": "剪輯",
+      "humorDevice": "story",
+      "zhGloss": "剪輯",
+      "speakLineEn": "Label every edit in the bay.",
+      "speakLineZh": "剪輯室每次剪輯都要標。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "censor→censorship/censorious",
+    "censure＝譴責"
+  ],
+  "pitfalls": [
+    "censor≠censure"
+  ],
+  "lessonRefs": [
+    "lesson-look-censor-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch07"
+  }
+}

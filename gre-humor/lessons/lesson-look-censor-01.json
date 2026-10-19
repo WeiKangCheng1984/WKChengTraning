@@ -1,0 +1,96 @@
+{
+  "id": "lesson-look-censor-01",
+  "slug": "look-censor-01",
+  "season": 3,
+  "seasonTitleZh": "語氣對打",
+  "seasonTitleEn": "Tone Duels",
+  "type": "duel",
+  "minutes": "12-15",
+  "clusterId": "look-censor-01",
+  "titleZh": "censor ↔ censure｜審查／譴責剪輯室",
+  "titleEn": "Censor vs Censure Edit Bay",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "censor＝審查刪改，censure＝譴責——剪輯室兩把剪刀用途不同。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "censorship／censorious／uncensored 審查鏈——導演：censorship of nulls 禁；censure fraud 可以。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "censor→censorship/censorious",
+        "censure＝譴責"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "System of suppressing content:",
+      "promptZh": "審查制度：",
+      "choices": [
+        "censorship",
+        "adversity",
+        "trilogy",
+        "neon"
+      ],
+      "answer": "censorship"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Harshly critical:",
+      "promptZh": "挑剔譴責：",
+      "choices": [
+        "censorious",
+        "quiescent",
+        "omnibus",
+        "sole"
+      ],
+      "answer": "censorious"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Not edited by censors:",
+      "promptZh": "未經審查：",
+      "choices": [
+        "uncensored",
+        "outmoded",
+        "scanty",
+        "forecast"
+      ],
+      "answer": "uncensored"
+    }
+  ],
+  "pitfalls": [
+    "censor≠censure"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch07"
+  }
+}

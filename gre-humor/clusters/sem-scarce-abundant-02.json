@@ -1,0 +1,403 @@
+{
+  "id": "sem-scarce-abundant-02",
+  "type": "semantic",
+  "elementLemma": "scarce-vs-abundant",
+  "titleZh": "稀缺 ↔ 充裕｜空貨架超市續集",
+  "titleEn": "Scarce vs Abundant Mart 2",
+  "hook": "空貨架對爆倉堆——GRE 量感語氣續集。",
+  "script": "稀缺：exiguous／paltry／scant／puny；充裕：glut／surfeit／opulence／rife／scads。",
+  "members": [
+    {
+      "headword": "exiguous",
+      "inVocab": true,
+      "senseAnchor": "extremely scanty",
+      "roleInScript": "稀少",
+      "humorDevice": "contrast",
+      "zhGloss": "稀少",
+      "speakLineEn": "GRE tip: exiguous ~ 稀少; keep the tone straight.",
+      "speakLineZh": "GRE 提示：exiguous 約「稀少」——抓住語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "paltry",
+      "inVocab": true,
+      "senseAnchor": "very small and insignificant",
+      "roleInScript": "微不足道",
+      "humorDevice": "contrast",
+      "zhGloss": "微不足道",
+      "speakLineEn": "GRE tip: paltry ~ 微不足道; keep the tone straight.",
+      "speakLineZh": "GRE 提示：paltry 約「微不足道」——抓住語氣。",
+      "related": {
+        "synonyms": "meager, trivial, petty",
+        "antonyms": "ample, grand larceny"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "puny",
+      "inVocab": true,
+      "senseAnchor": "inferior in strength or significance; (used especially of persons) of inferior size",
+      "roleInScript": "弱小",
+      "humorDevice": "contrast",
+      "zhGloss": "弱小",
+      "speakLineEn": "GRE tip: puny ~ 弱小; keep the tone straight.",
+      "speakLineZh": "GRE 提示：puny 約「弱小」——抓住語氣。",
+      "related": {
+        "synonyms": "runty, shrimpy",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "scant",
+      "inVocab": true,
+      "senseAnchor": "work hastily or carelessly; deal with inadequately and superficially; limit in quality or quantity",
+      "roleInScript": "不足",
+      "humorDevice": "contrast",
+      "zhGloss": "不足",
+      "speakLineEn": "GRE tip: scant ~ 不足; keep the tone straight.",
+      "speakLineZh": "GRE 提示：scant 約「不足」——抓住語氣。",
+      "related": {
+        "synonyms": "skimp, stint, light, short",
+        "antonyms": "dark, extinguish, heavy, long, retentive, tall"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "scrimp",
+      "inVocab": true,
+      "senseAnchor": "subsist on a meager allowance",
+      "roleInScript": "吝嗇",
+      "humorDevice": "contrast",
+      "zhGloss": "吝嗇節省",
+      "speakLineEn": "GRE tip: scrimp ~ 吝嗇節省; keep the tone straight.",
+      "speakLineZh": "GRE 提示：scrimp 約「吝嗇節省」——抓住語氣。",
+      "related": {
+        "synonyms": "stint, skimp",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "skimp",
+      "inVocab": true,
+      "senseAnchor": "work hastily or carelessly; deal with inadequately and superficially; limit in quality or quantity",
+      "roleInScript": "吝給",
+      "humorDevice": "contrast",
+      "zhGloss": "吝於給",
+      "speakLineEn": "GRE tip: skimp ~ 吝於給; keep the tone straight.",
+      "speakLineZh": "GRE 提示：skimp 約「吝於給」——抓住語氣。",
+      "related": {
+        "synonyms": "scant, scrimp, stint",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "stint",
+      "inVocab": true,
+      "senseAnchor": "an unbroken period of time during which you do something; smallest American sandpiper",
+      "roleInScript": "吝惜",
+      "humorDevice": "contrast",
+      "zhGloss": "吝惜",
+      "speakLineEn": "GRE tip: stint ~ 吝惜; keep the tone straight.",
+      "speakLineZh": "GRE 提示：stint 約「吝惜」——抓住語氣。",
+      "related": {
+        "synonyms": "stretch, scrimp, skimp, scant",
+        "antonyms": "shrink"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "anemic",
+      "inVocab": true,
+      "senseAnchor": "lacking vigor or energy; relating to anemia or suffering from anemia",
+      "roleInScript": "乏力",
+      "humorDevice": "contrast",
+      "zhGloss": "乏力貧血",
+      "speakLineEn": "GRE tip: anemic ~ 乏力貧血; keep the tone straight.",
+      "speakLineZh": "GRE 提示：anemic 約「乏力貧血」——抓住語氣。",
+      "related": {
+        "synonyms": "anaemic",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "famine",
+      "inVocab": true,
+      "senseAnchor": "an acute insufficiency; a severe shortage of food (as through crop failure) resulting in violent hunger and starvation and death",
+      "roleInScript": "饑荒",
+      "humorDevice": "contrast",
+      "zhGloss": "饑荒",
+      "speakLineEn": "GRE tip: famine ~ 饑荒; keep the tone straight.",
+      "speakLineZh": "GRE 提示：famine 約「饑荒」——抓住語氣。",
+      "related": {
+        "synonyms": "dearth, shortage",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "glut",
+      "inVocab": true,
+      "senseAnchor": "to fill beyond capacity, especially with food",
+      "roleInScript": "過剩堆",
+      "humorDevice": "contrast",
+      "zhGloss": "過剩",
+      "speakLineEn": "GRE tip: glut ~ 過剩; keep the tone straight.",
+      "speakLineZh": "GRE 提示：glut 約「過剩」——抓住語氣。",
+      "related": {
+        "synonyms": "surfeit, plethora",
+        "antonyms": "dearth, scarcity"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "surfeit",
+      "inVocab": true,
+      "senseAnchor": "the state of being more than full; the quality of being so overabundant that prices fall",
+      "roleInScript": "過量",
+      "humorDevice": "contrast",
+      "zhGloss": "過量",
+      "speakLineEn": "GRE tip: surfeit ~ 過量; keep the tone straight.",
+      "speakLineZh": "GRE 提示：surfeit 約「過量」——抓住語氣。",
+      "related": {
+        "synonyms": "excess, overabundance, glut, oversupply, repletion, cloy",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "opulence",
+      "inVocab": true,
+      "senseAnchor": "wealth as evidenced by sumptuous living",
+      "roleInScript": "豪華",
+      "humorDevice": "contrast",
+      "zhGloss": "富裕豪華",
+      "speakLineEn": "GRE tip: opulence ~ 富裕豪華; keep the tone straight.",
+      "speakLineZh": "GRE 提示：opulence 約「富裕豪華」——抓住語氣。",
+      "related": {
+        "synonyms": "luxury, luxuriousness, sumptuousness",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "bounteous",
+      "inVocab": true,
+      "senseAnchor": "given or giving freely",
+      "roleInScript": "慷慨",
+      "humorDevice": "contrast",
+      "zhGloss": "慷慨豐富",
+      "speakLineEn": "GRE tip: bounteous ~ 慷慨豐富; keep the tone straight.",
+      "speakLineZh": "GRE 提示：bounteous 約「慷慨豐富」——抓住語氣。",
+      "related": {
+        "synonyms": "big, bighearted, bountiful, freehanded, handsome, giving",
+        "antonyms": "little, small, starve, take"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "exuberance",
+      "inVocab": true,
+      "senseAnchor": "joyful enthusiasm; overflowing with eager enjoyment or approval",
+      "roleInScript": "充溢",
+      "humorDevice": "contrast",
+      "zhGloss": "充溢",
+      "speakLineEn": "GRE tip: exuberance ~ 充溢; keep the tone straight.",
+      "speakLineZh": "GRE 提示：exuberance 約「充溢」——抓住語氣。",
+      "related": {
+        "synonyms": "enthusiasm, ebullience",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "lush",
+      "inVocab": true,
+      "senseAnchor": "producing abundantly",
+      "roleInScript": "茂盛",
+      "humorDevice": "contrast",
+      "zhGloss": "茂盛",
+      "speakLineEn": "GRE tip: lush ~ 茂盛; keep the tone straight.",
+      "speakLineZh": "GRE 提示：lush 約「茂盛」——抓住語氣。",
+      "related": {
+        "synonyms": "fecund, prolific",
+        "antonyms": "unproductive, barren"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "rife",
+      "inVocab": true,
+      "senseAnchor": "most frequent or common; excessively abundant",
+      "roleInScript": "充斥",
+      "humorDevice": "contrast",
+      "zhGloss": "充斥",
+      "speakLineEn": "GRE tip: rife ~ 充斥; keep the tone straight.",
+      "speakLineZh": "GRE 提示：rife 約「充斥」——抓住語氣。",
+      "related": {
+        "synonyms": "prevailing, prevalent, predominant, dominant, overabundant, plethoric",
+        "antonyms": "recessive, subordinate"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "scads",
+      "inVocab": true,
+      "senseAnchor": "a large number or amount; any of a number of fishes of the family Carangidae",
+      "roleInScript": "大量",
+      "humorDevice": "contrast",
+      "zhGloss": "大量",
+      "speakLineEn": "GRE tip: scads ~ 大量; keep the tone straight.",
+      "speakLineZh": "GRE 提示：scads 約「大量」——抓住語氣。",
+      "related": {
+        "synonyms": "tons, dozens, heaps, lots, piles, scores",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "superfluity",
+      "inVocab": true,
+      "senseAnchor": "extreme excess",
+      "roleInScript": "多餘",
+      "humorDevice": "contrast",
+      "zhGloss": "多餘",
+      "speakLineEn": "GRE tip: superfluity ~ 多餘; keep the tone straight.",
+      "speakLineZh": "GRE 提示：superfluity 約「多餘」——抓住語氣。",
+      "related": {
+        "synonyms": "overplus, plethora, embarrassment",
+        "antonyms": "dearth, scarcity, disembarrassment"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "sybaritic",
+      "inVocab": true,
+      "senseAnchor": "displaying luxury and furnishing gratification to the senses",
+      "roleInScript": "逸樂",
+      "humorDevice": "contrast",
+      "zhGloss": "奢侈逸樂",
+      "speakLineEn": "GRE tip: sybaritic ~ 奢侈逸樂; keep the tone straight.",
+      "speakLineZh": "GRE 提示：sybaritic 約「奢侈逸樂」——抓住語氣。",
+      "related": {
+        "synonyms": "epicurean, luxurious, luxuriant, voluptuary, voluptuous",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "magnanimous",
+      "inVocab": true,
+      "senseAnchor": "generous and forgiving",
+      "roleInScript": "寬宏",
+      "humorDevice": "contrast",
+      "zhGloss": "寬宏",
+      "speakLineEn": "GRE tip: magnanimous ~ 寬宏; keep the tone straight.",
+      "speakLineZh": "GRE 提示：magnanimous 約「寬宏」——抓住語氣。",
+      "related": {
+        "synonyms": "greathearted, big, large",
+        "antonyms": "petty, mean"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "ebullience",
+      "inVocab": true,
+      "senseAnchor": "overflowing with eager enjoyment or approval",
+      "roleInScript": "奔放",
+      "humorDevice": "contrast",
+      "zhGloss": "奔放",
+      "speakLineEn": "GRE tip: ebullience ~ 奔放; keep the tone straight.",
+      "speakLineZh": "GRE 提示：ebullience 約「奔放」——抓住語氣。",
+      "related": {
+        "synonyms": "exuberance, enthusiasm",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "mint",
+      "inVocab": true,
+      "senseAnchor": "(often followed by `of') a large number or amount or extent; any north temperate plant of the genus Mentha with aromatic leaves and small mauve flowers",
+      "roleInScript": "巨額",
+      "humorDevice": "story",
+      "zhGloss": "巨額",
+      "speakLineEn": "GRE tip: mint ~ 巨額; keep the tone straight.",
+      "speakLineZh": "GRE 提示：mint 約「巨額」——抓住語氣。",
+      "related": {
+        "synonyms": "batch, deal, flock, hatful, heap, lot",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "regale",
+      "inVocab": true,
+      "senseAnchor": "provide with choice or abundant food or drink",
+      "roleInScript": "款待",
+      "humorDevice": "story",
+      "zhGloss": "盛情款待",
+      "speakLineEn": "GRE tip: regale ~ 盛情款待; keep the tone straight.",
+      "speakLineZh": "GRE 提示：regale 約「盛情款待」——抓住語氣。",
+      "related": {
+        "synonyms": "treat",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "slash",
+      "inVocab": true,
+      "senseAnchor": "a wound made by cutting; an open tract of land in a forest that is strewn with debris from logging (or fire or wind)",
+      "roleInScript": "削減",
+      "humorDevice": "story",
+      "zhGloss": "大幅削減",
+      "speakLineEn": "GRE tip: slash ~ 大幅削減; keep the tone straight.",
+      "speakLineZh": "GRE 提示：slash 約「大幅削減」——抓住語氣。",
+      "related": {
+        "synonyms": "cut, gash, slice, solidus, virgule, diagonal",
+        "antonyms": "expand, switch on, uncut, unmown, untrimmed"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "decimate",
+      "inVocab": true,
+      "senseAnchor": "to destroy a very large amount",
+      "roleInScript": "毀壞",
+      "humorDevice": "story",
+      "zhGloss": "大量毀壞",
+      "speakLineEn": "GRE tip: decimate ~ 大量毀壞; keep the tone straight.",
+      "speakLineZh": "GRE 提示：decimate 約「大量毀壞」——抓住語氣。",
+      "related": {
+        "synonyms": "annihilate, devastate, raze",
+        "antonyms": "raise"
+      },
+      "vocabStatus": "in-vocab"
+    }
+  ],
+  "reviewHooks": [
+    "稀缺：exiguous/paltry/scant",
+    "充裕：glut/surfeit/opulence"
+  ],
+  "pitfalls": [
+    "exiguous＝稀少",
+    "surfeit＝過量"
+  ],
+  "lessonRefs": [
+    "lesson-sem-scarce-abundant-02"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch01"
+  }
+}

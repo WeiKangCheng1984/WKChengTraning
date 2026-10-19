@@ -1,6 +1,6 @@
 {
-  "version": "v0.9-p2b06",
-  "total": 207,
+  "version": "v0.9-p2b07-p3b01",
+  "total": 232,
   "lessons": [
     {
       "id": "lesson-rhyme-ain-01",
@@ -80,6 +80,39 @@
       "memberCount": 5
     },
     {
+      "id": "lesson-rhyme-escent-01",
+      "slug": "rhyme-escent-01",
+      "season": 1,
+      "seasonTitleZh": "押韻派對",
+      "titleZh": "-escent｜漸變霓虹巷",
+      "clusterId": "rhyme-escent-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
+      "id": "lesson-rhyme-logy-01",
+      "slug": "rhyme-logy-01",
+      "season": 1,
+      "seasonTitleZh": "押韻派對",
+      "titleZh": "-logy／-logue｜學科對話館",
+      "clusterId": "rhyme-logy-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
+      "id": "lesson-rhyme-ory-01",
+      "slug": "rhyme-ory-01",
+      "season": 1,
+      "seasonTitleZh": "押韻派對",
+      "titleZh": "-ory／-ary｜場所傾向街",
+      "clusterId": "rhyme-ory-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 9
+    },
+    {
       "id": "lesson-rhyme-ound-01",
       "slug": "rhyme-ound-01",
       "season": 1,
@@ -119,6 +152,17 @@
       "seasonTitleZh": "押韻派對",
       "titleZh": "spir｜呼吸志向館",
       "clusterId": "rhyme-spir-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
+      "id": "lesson-rhyme-ster-01",
+      "slug": "rhyme-ster-01",
+      "season": 1,
+      "seasonTitleZh": "押韻派對",
+      "titleZh": "-ster｜角色面具舖",
+      "clusterId": "rhyme-ster-01",
       "type": "family",
       "status": "reviewed",
       "memberCount": 12
@@ -1807,6 +1851,50 @@
       "memberCount": 9
     },
     {
+      "id": "lesson-look-appraise-01",
+      "slug": "look-appraise-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "appraise ↔ apprise｜估價／通知服務台",
+      "clusterId": "look-appraise-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 9
+    },
+    {
+      "id": "lesson-look-averse-01",
+      "slug": "look-averse-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "averse ↔ adverse｜厭惡／不利診所",
+      "clusterId": "look-averse-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
+      "id": "lesson-look-censor-01",
+      "slug": "look-censor-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "censor ↔ censure｜審查／譴責剪輯室",
+      "clusterId": "look-censor-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 9
+    },
+    {
+      "id": "lesson-look-complacent-01",
+      "slug": "look-complacent-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "complacent ↔ complaisant｜自滿／討好化妝間",
+      "clusterId": "look-complacent-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 9
+    },
+    {
       "id": "lesson-look-discrete-01",
       "slug": "look-discrete-01",
       "season": 3,
@@ -1851,6 +1939,17 @@
       "memberCount": 16
     },
     {
+      "id": "lesson-look-venal-01",
+      "slug": "look-venal-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "venal ↔ venial｜貪腐／可恕法庭",
+      "clusterId": "look-venal-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
       "id": "lesson-sem-begin-01",
       "slug": "sem-begin-01",
       "season": 3,
@@ -1871,6 +1970,17 @@
       "type": "duel",
       "status": "reviewed",
       "memberCount": 12
+    },
+    {
+      "id": "lesson-sem-certain-doubt-01",
+      "slug": "sem-certain-doubt-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "確定 ↔ 存疑｜錨對霧",
+      "clusterId": "sem-certain-doubt-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 25
     },
     {
       "id": "lesson-sem-clear-01",
@@ -1917,6 +2027,39 @@
       "memberCount": 12
     },
     {
+      "id": "lesson-sem-humble-vain-01",
+      "slug": "sem-humble-vain-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "謙遜 ↔ 自負｜帽子對打擂台",
+      "clusterId": "sem-humble-vain-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 25
+    },
+    {
+      "id": "lesson-sem-obj-bias-01",
+      "slug": "sem-obj-bias-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "客觀 ↔ 偏頗｜無私鏡 vs 偏執帽",
+      "clusterId": "sem-obj-bias-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 20
+    },
+    {
+      "id": "lesson-sem-order-chaos-01",
+      "slug": "sem-order-chaos-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "秩序 ↔ 混亂｜條理尺 vs 糊塗桶",
+      "clusterId": "sem-order-chaos-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 25
+    },
+    {
       "id": "lesson-sem-overt-01",
       "slug": "sem-overt-01",
       "season": 3,
@@ -1961,6 +2104,28 @@
       "memberCount": 12
     },
     {
+      "id": "lesson-sem-scarce-abundant-02",
+      "slug": "sem-scarce-abundant-02",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "稀缺 ↔ 充裕｜空貨架超市續集",
+      "clusterId": "sem-scarce-abundant-02",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 25
+    },
+    {
+      "id": "lesson-sem-support-undermine-01",
+      "slug": "sem-support-undermine-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "支持 ↔ 削弱｜加固隊 vs 挖牆腳",
+      "clusterId": "sem-support-undermine-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 25
+    },
+    {
       "id": "lesson-sem-talk-01",
       "slug": "sem-talk-01",
       "season": 3,
@@ -1970,6 +2135,17 @@
       "type": "duel",
       "status": "reviewed",
       "memberCount": 6
+    },
+    {
+      "id": "lesson-sem-temp-perm-01",
+      "slug": "sem-temp-perm-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "暫時 ↔ 持久｜沙漏對岩石",
+      "clusterId": "sem-temp-perm-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 25
     },
     {
       "id": "lesson-sem-temper-01",
@@ -2115,6 +2291,17 @@
       "memberCount": 11
     },
     {
+      "id": "lesson-prefix-fore-01",
+      "slug": "prefix-fore-01",
+      "season": 4,
+      "seasonTitleZh": "字首調味",
+      "titleZh": "fore-｜預報瞭望台",
+      "clusterId": "prefix-fore-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
       "id": "lesson-prefix-hyper-01",
       "slug": "prefix-hyper-01",
       "season": 4,
@@ -2159,6 +2346,17 @@
       "memberCount": 8
     },
     {
+      "id": "lesson-prefix-meta-01",
+      "slug": "prefix-meta-01",
+      "season": 4,
+      "seasonTitleZh": "字首調味",
+      "titleZh": "meta-｜後設鏡像館",
+      "clusterId": "prefix-meta-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
       "id": "lesson-prefix-mis-01",
       "slug": "prefix-mis-01",
       "season": 4,
@@ -2168,6 +2366,17 @@
       "type": "family",
       "status": "reviewed",
       "memberCount": 12
+    },
+    {
+      "id": "lesson-prefix-multi-01",
+      "slug": "prefix-multi-01",
+      "season": 4,
+      "seasonTitleZh": "字首調味",
+      "titleZh": "multi-｜多重馬戲團",
+      "clusterId": "prefix-multi-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 10
     },
     {
       "id": "lesson-prefix-neo-01",
@@ -2181,6 +2390,17 @@
       "memberCount": 11
     },
     {
+      "id": "lesson-prefix-non-01",
+      "slug": "prefix-non-01",
+      "season": 4,
+      "seasonTitleZh": "字首調味",
+      "titleZh": "non-｜非如此櫃臺",
+      "clusterId": "prefix-non-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 10
+    },
+    {
       "id": "lesson-prefix-ob-01",
       "slug": "prefix-ob-01",
       "season": 4,
@@ -2190,6 +2410,28 @@
       "type": "family",
       "status": "reviewed",
       "memberCount": 8
+    },
+    {
+      "id": "lesson-prefix-omni-01",
+      "slug": "prefix-omni-01",
+      "season": 4,
+      "seasonTitleZh": "字首調味",
+      "titleZh": "omni-｜全能廣播塔",
+      "clusterId": "prefix-omni-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 9
+    },
+    {
+      "id": "lesson-prefix-out-01",
+      "slug": "prefix-out-01",
+      "season": 4,
+      "seasonTitleZh": "字首調味",
+      "titleZh": "out-｜勝出外圈場",
+      "clusterId": "prefix-out-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 12
     },
     {
       "id": "lesson-prefix-pan-01",
@@ -2212,6 +2454,17 @@
       "type": "family",
       "status": "reviewed",
       "memberCount": 11
+    },
+    {
+      "id": "lesson-prefix-peri-01",
+      "slug": "prefix-peri-01",
+      "season": 4,
+      "seasonTitleZh": "字首調味",
+      "titleZh": "peri-｜外圍繞行站",
+      "clusterId": "prefix-peri-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 10
     },
     {
       "id": "lesson-prefix-poly-01",
@@ -2278,6 +2531,28 @@
       "type": "family",
       "status": "reviewed",
       "memberCount": 12
+    },
+    {
+      "id": "lesson-prefix-ultra-01",
+      "slug": "prefix-ultra-01",
+      "season": 4,
+      "seasonTitleZh": "字首調味",
+      "titleZh": "ultra-｜極端加速艙",
+      "clusterId": "prefix-ultra-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 8
+    },
+    {
+      "id": "lesson-prefix-with-01",
+      "slug": "prefix-with-01",
+      "season": 4,
+      "seasonTitleZh": "字首調味",
+      "titleZh": "with-｜撤回抵抗門",
+      "clusterId": "prefix-with-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 9
     }
   ]
 }

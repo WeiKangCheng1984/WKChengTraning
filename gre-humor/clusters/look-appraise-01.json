@@ -1,0 +1,162 @@
+{
+  "id": "look-appraise-01",
+  "type": "lookalike",
+  "elementLemma": "appraise-apprise",
+  "titleZh": "appraise ↔ apprise｜估價／通知服務台",
+  "titleEn": "Appraise vs Apprise Desk",
+  "hook": "估價窗對告知窗——別排錯隊。",
+  "script": "估價窗 appraisal／appraiser；告知窗 apprised——櫃員大聲念：appraise the evidence；apprise the whole team before lock。兩扇窗排錯隊就會估錯價、說漏話。",
+  "members": [
+    {
+      "headword": "appraisal",
+      "inVocab": false,
+      "senseAnchor": "評估估價",
+      "roleInScript": "估價單",
+      "humorDevice": "lookalike",
+      "zhGloss": "評估估價",
+      "speakLineEn": "GRE tip: appraisal ~ 評估估價; keep the tone straight.",
+      "speakLineZh": "GRE 提示：appraisal 約「評估估價」——抓住語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "appraiser",
+      "inVocab": false,
+      "senseAnchor": "估價師",
+      "roleInScript": "估價師",
+      "humorDevice": "lookalike",
+      "zhGloss": "估價師",
+      "speakLineEn": "GRE tip: appraiser ~ 估價師; keep the tone straight.",
+      "speakLineZh": "GRE 提示：appraiser 約「估價師」——抓住語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "apprised",
+      "inVocab": false,
+      "senseAnchor": "獲悉",
+      "roleInScript": "獲悉",
+      "humorDevice": "lookalike",
+      "zhGloss": "獲悉",
+      "speakLineEn": "GRE tip: apprised ~ 獲悉; keep the tone straight.",
+      "speakLineZh": "GRE 提示：apprised 約「獲悉」——抓住語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "valuation",
+      "inVocab": false,
+      "senseAnchor": "估值",
+      "roleInScript": "估值",
+      "humorDevice": "story",
+      "zhGloss": "估值",
+      "speakLineEn": "GRE tip: valuation ~ 估值; keep the tone straight.",
+      "speakLineZh": "GRE 提示：valuation 約「估值」——抓住語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "notify",
+      "inVocab": false,
+      "senseAnchor": "通知",
+      "roleInScript": "通知",
+      "humorDevice": "story",
+      "zhGloss": "通知",
+      "speakLineEn": "GRE tip: notify ~ 通知; keep the tone straight.",
+      "speakLineZh": "GRE 提示：notify 約「通知」——抓住語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "assessment",
+      "inVocab": false,
+      "senseAnchor": "評量",
+      "roleInScript": "評量",
+      "humorDevice": "story",
+      "zhGloss": "評量",
+      "speakLineEn": "GRE tip: assessment ~ 評量; keep the tone straight.",
+      "speakLineZh": "GRE 提示：assessment 約「評量」——抓住語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "briefing",
+      "inVocab": false,
+      "senseAnchor": "簡報",
+      "roleInScript": "簡報",
+      "humorDevice": "story",
+      "zhGloss": "簡報",
+      "speakLineEn": "GRE tip: briefing ~ 簡報; keep the tone straight.",
+      "speakLineZh": "GRE 提示：briefing 約「簡報」——抓住語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "counter",
+      "inVocab": false,
+      "senseAnchor": "櫃檯",
+      "roleInScript": "櫃檯",
+      "humorDevice": "story",
+      "zhGloss": "櫃檯",
+      "speakLineEn": "GRE tip: counter ~ 櫃檯; keep the tone straight.",
+      "speakLineZh": "GRE 提示：counter 約「櫃檯」——抓住語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "queue",
+      "inVocab": false,
+      "senseAnchor": "排隊",
+      "roleInScript": "排隊",
+      "humorDevice": "story",
+      "zhGloss": "排隊",
+      "speakLineEn": "GRE tip: queue ~ 排隊; keep the tone straight.",
+      "speakLineZh": "GRE 提示：queue 約「排隊」——抓住語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "appraise＝估價",
+    "apprise＝告知"
+  ],
+  "pitfalls": [
+    "appraise≠apprise"
+  ],
+  "lessonRefs": [
+    "lesson-look-appraise-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch01"
+  }
+}

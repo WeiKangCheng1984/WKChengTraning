@@ -1,0 +1,193 @@
+{
+  "id": "prefix-fore-01",
+  "type": "prefix",
+  "elementLemma": "fore-",
+  "titleZh": "fore-｜預報瞭望台",
+  "titleEn": "Fore Lookout Tower",
+  "hook": "字首 fore-＝先前——瞭望台專管預報、預見、不祥預感與預示。",
+  "script": "forecast／foresee／foretell／foreshadow 預報鏈。forewarn／foreboding 預警與不祥雲；forefather／foremost 先祖與最前方——台長：forecast uncertainty；foreboding without a plan 無用。",
+  "members": [
+    {
+      "headword": "forecast",
+      "inVocab": false,
+      "senseAnchor": "預報；預測",
+      "roleInScript": "預報板",
+      "humorDevice": "morphology",
+      "zhGloss": "預報；預測",
+      "speakLineEn": "Forecast coverage, not just point estimates.",
+      "speakLineZh": "預報覆蓋率，不只點估計。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "foresee",
+      "inVocab": false,
+      "senseAnchor": "預見",
+      "roleInScript": "望遠鏡",
+      "humorDevice": "morphology",
+      "zhGloss": "預見",
+      "speakLineEn": "Foresee missing-data problems in design.",
+      "speakLineZh": "在設計時預見缺失問題。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "foretell",
+      "inVocab": false,
+      "senseAnchor": "預言",
+      "roleInScript": "預言筒",
+      "humorDevice": "morphology",
+      "zhGloss": "預言",
+      "speakLineEn": "Do not foretell significance before lock.",
+      "speakLineZh": "鎖定前不要預言顯著。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "foreshadow",
+      "inVocab": false,
+      "senseAnchor": "預示",
+      "roleInScript": "預示影",
+      "humorDevice": "morphology",
+      "zhGloss": "預示",
+      "speakLineEn": "Pilot results may foreshadow, not prove.",
+      "speakLineZh": "試點結果可預示，不證明。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "forewarn",
+      "inVocab": false,
+      "senseAnchor": "預先警告",
+      "roleInScript": "預警鈴",
+      "humorDevice": "morphology",
+      "zhGloss": "預先警告",
+      "speakLineEn": "Forewarn the team about alpha spending.",
+      "speakLineZh": "預先警告團隊 α 花費。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "foreboding",
+      "inVocab": false,
+      "senseAnchor": "不祥預感",
+      "roleInScript": "不祥雲",
+      "humorDevice": "morphology",
+      "zhGloss": "不祥預感",
+      "speakLineEn": "A foreboding silence after errors is toxic.",
+      "speakLineZh": "錯誤後不祥沉默有毒。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "forefather",
+      "inVocab": false,
+      "senseAnchor": "先祖",
+      "roleInScript": "先祖牆",
+      "humorDevice": "story",
+      "zhGloss": "先祖",
+      "speakLineEn": "Cite forefathers of the method honestly.",
+      "speakLineZh": "誠實引用方法先祖。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "preview",
+      "inVocab": false,
+      "senseAnchor": "預覽",
+      "roleInScript": "預覽窗",
+      "humorDevice": "story",
+      "zhGloss": "預覽",
+      "speakLineEn": "Preview plots without peeking at p.",
+      "speakLineZh": "預覽圖但不要偷看 p。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "early-warning",
+      "inVocab": false,
+      "senseAnchor": "預警",
+      "roleInScript": "預警系統",
+      "humorDevice": "story",
+      "zhGloss": "預警",
+      "speakLineEn": "Build early-warning for protocol drift.",
+      "speakLineZh": "為規程漂移建立預警。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "ahead",
+      "inVocab": false,
+      "senseAnchor": "事先",
+      "roleInScript": "事先牌",
+      "humorDevice": "story",
+      "zhGloss": "事先",
+      "speakLineEn": "Decide exclusions ahead of time.",
+      "speakLineZh": "事先決定排除。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "omen",
+      "inVocab": false,
+      "senseAnchor": "預兆",
+      "roleInScript": "預兆燈",
+      "humorDevice": "story",
+      "zhGloss": "預兆",
+      "speakLineEn": "A missing log is an omen—stop and fix.",
+      "speakLineZh": "缺失日誌是預兆——停下修好。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "fore-＝前：forecast/foresee/foreshadow/forewarn/foreboding",
+    "foreshadow＝預示"
+  ],
+  "pitfalls": [
+    "foreboding＝不祥預感",
+    "foremost＝最重要的"
+  ],
+  "lessonRefs": [
+    "lesson-prefix-fore-01"
+  ],
+  "status": "reviewed",
+  "priority": "C",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch07"
+  }
+}

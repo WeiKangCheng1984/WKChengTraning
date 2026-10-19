@@ -1,0 +1,402 @@
+{
+  "id": "sem-order-chaos-01",
+  "type": "semantic",
+  "elementLemma": "order-vs-chaos",
+  "titleZh": "秩序 ↔ 混亂｜條理尺 vs 糊塗桶",
+  "titleEn": "Order vs Chaos Desk",
+  "hook": "條理尺對糊塗桶——場面語氣對打。",
+  "script": "秩序：methodical／systematic／disciplined／tidy；混亂：havoc／turmoil／muddle／welter。",
+  "members": [
+    {
+      "headword": "methodical",
+      "inVocab": false,
+      "senseAnchor": "有條理",
+      "roleInScript": "條理尺",
+      "humorDevice": "contrast",
+      "zhGloss": "有條理",
+      "speakLineEn": "GRE tip: methodical ~ 有條理; keep the tone straight.",
+      "speakLineZh": "GRE 提示：methodical 約「有條理」——抓住語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "systematic",
+      "inVocab": false,
+      "senseAnchor": "系統的",
+      "roleInScript": "系統格",
+      "humorDevice": "contrast",
+      "zhGloss": "系統的",
+      "speakLineEn": "GRE tip: systematic ~ 系統的; keep the tone straight.",
+      "speakLineZh": "GRE 提示：systematic 約「系統的」——抓住語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "disciplined",
+      "inVocab": false,
+      "senseAnchor": "有紀律",
+      "roleInScript": "紀律鼓",
+      "humorDevice": "contrast",
+      "zhGloss": "有紀律",
+      "speakLineEn": "GRE tip: disciplined ~ 有紀律; keep the tone straight.",
+      "speakLineZh": "GRE 提示：disciplined 約「有紀律」——抓住語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "tidy",
+      "inVocab": false,
+      "senseAnchor": "整齊",
+      "roleInScript": "整齊櫃",
+      "humorDevice": "contrast",
+      "zhGloss": "整齊",
+      "speakLineEn": "GRE tip: tidy ~ 整齊; keep the tone straight.",
+      "speakLineZh": "GRE 提示：tidy 約「整齊」——抓住語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "ratiocination",
+      "inVocab": true,
+      "senseAnchor": "the proposition arrived at by logical reasoning (such as the proposition that must follow from the major and minor premises of a syllogism); logical and methodical reasoning",
+      "roleInScript": "推理鏈",
+      "humorDevice": "contrast",
+      "zhGloss": "推理",
+      "speakLineEn": "GRE tip: ratiocination ~ 推理; keep the tone straight.",
+      "speakLineZh": "GRE 提示：ratiocination 約「推理」——抓住語氣。",
+      "related": {
+        "synonyms": "conclusion",
+        "antonyms": "beginning"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "havoc",
+      "inVocab": true,
+      "senseAnchor": "violent and needless disturbance",
+      "roleInScript": "破壞場",
+      "humorDevice": "contrast",
+      "zhGloss": "大破壞",
+      "speakLineEn": "GRE tip: havoc ~ 大破壞; keep the tone straight.",
+      "speakLineZh": "GRE 提示：havoc 約「大破壞」——抓住語氣。",
+      "related": {
+        "synonyms": "mayhem",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "turmoil",
+      "inVocab": true,
+      "senseAnchor": "a violent disturbance; violent agitation",
+      "roleInScript": "動盪浪",
+      "humorDevice": "contrast",
+      "zhGloss": "動盪",
+      "speakLineEn": "GRE tip: turmoil ~ 動盪; keep the tone straight.",
+      "speakLineZh": "GRE 提示：turmoil 約「動盪」——抓住語氣。",
+      "related": {
+        "synonyms": "convulsion, upheaval, tumult, agitation, excitement, hullabaloo",
+        "antonyms": "calmness"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "tumult",
+      "inVocab": true,
+      "senseAnchor": "a disorderly commotion or disturbance",
+      "roleInScript": "喧囂",
+      "humorDevice": "contrast",
+      "zhGloss": "喧囂",
+      "speakLineEn": "GRE tip: tumult ~ 喧囂; keep the tone straight.",
+      "speakLineZh": "GRE 提示：tumult 約「喧囂」——抓住語氣。",
+      "related": {
+        "synonyms": "commotion, turmoil, pandemonium, chaos, free-for-all",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "welter",
+      "inVocab": true,
+      "senseAnchor": "a confused multitude of things; toss, roll, or rise and fall in an uncontrolled way",
+      "roleInScript": "雜亂堆",
+      "humorDevice": "contrast",
+      "zhGloss": "雜亂",
+      "speakLineEn": "GRE tip: welter ~ 雜亂; keep the tone straight.",
+      "speakLineZh": "GRE 提示：welter 約「雜亂」——抓住語氣。",
+      "related": {
+        "synonyms": "clutter, jumble, muddle, fuddle, smother, wallow",
+        "antonyms": "unclutter"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "ruckus",
+      "inVocab": true,
+      "senseAnchor": "the act of making a noisy disturbance",
+      "roleInScript": "喧嘩",
+      "humorDevice": "contrast",
+      "zhGloss": "喧嘩",
+      "speakLineEn": "GRE tip: ruckus ~ 喧嘩; keep the tone straight.",
+      "speakLineZh": "GRE 提示：ruckus 約「喧嘩」——抓住語氣。",
+      "related": {
+        "synonyms": "commotion, din, ruction, rumpus, tumult",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "muddle",
+      "inVocab": true,
+      "senseAnchor": "a confused multitude of things; informal terms for a difficult situation",
+      "roleInScript": "糊塗桶",
+      "humorDevice": "contrast",
+      "zhGloss": "糊塗混亂",
+      "speakLineEn": "GRE tip: muddle ~ 糊塗混亂; keep the tone straight.",
+      "speakLineZh": "GRE 提示：muddle 約「糊塗混亂」——抓住語氣。",
+      "related": {
+        "synonyms": "clutter, jumble, fuddle, welter, smother, fix",
+        "antonyms": "unclutter, break, unfasten"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "snarl",
+      "inVocab": true,
+      "senseAnchor": "a vicious angry growl; an angry vicious expression",
+      "roleInScript": "糾纏線",
+      "humorDevice": "contrast",
+      "zhGloss": "糾纏",
+      "speakLineEn": "GRE tip: snarl ~ 糾纏; keep the tone straight.",
+      "speakLineZh": "GRE 提示：snarl 約「糾纏」——抓住語氣。",
+      "related": {
+        "synonyms": "tangle, maze, snap, entangle, mat, embrangle",
+        "antonyms": "disentangle, unsnarl"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "riotous",
+      "inVocab": true,
+      "senseAnchor": "produced or growing in extreme abundance; characterized by unrest or disorder or insubordination",
+      "roleInScript": "暴動",
+      "humorDevice": "contrast",
+      "zhGloss": "喧鬧暴動",
+      "speakLineEn": "GRE tip: riotous ~ 喧鬧暴動; keep the tone straight.",
+      "speakLineZh": "GRE 提示：riotous 約「喧鬧暴動」——抓住語氣。",
+      "related": {
+        "synonyms": "exuberant, lush, luxuriant, profuse, disruptive, troubled",
+        "antonyms": "restrained, subdued, untroubled"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "discombobulated",
+      "inVocab": true,
+      "senseAnchor": "cause to be confused emotionally; be confusing or perplexing to; cause to be unable to think clearly",
+      "roleInScript": "混亂臉",
+      "humorDevice": "contrast",
+      "zhGloss": "混亂困惑",
+      "speakLineEn": "GRE tip: discombobulated ~ 混亂困惑; keep the tone straight.",
+      "speakLineZh": "GRE 提示：discombobulated 約「混亂困惑」——抓住語氣。",
+      "related": {
+        "synonyms": "bewilder, bemuse, discombobulate, throw, confuse, fox",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "addle",
+      "inVocab": true,
+      "senseAnchor": "mix up or confuse; become rotten",
+      "roleInScript": "糊塗蛋",
+      "humorDevice": "contrast",
+      "zhGloss": "使糊塗",
+      "speakLineEn": "GRE tip: addle ~ 使糊塗; keep the tone straight.",
+      "speakLineZh": "GRE 提示：addle 約「使糊塗」——抓住語氣。",
+      "related": {
+        "synonyms": "muddle, puddle",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "flustered",
+      "inVocab": true,
+      "senseAnchor": "be flustered; behave in a confused manner; cause to be nervous or upset",
+      "roleInScript": "慌亂",
+      "humorDevice": "contrast",
+      "zhGloss": "慌亂",
+      "speakLineEn": "GRE tip: flustered ~ 慌亂; keep the tone straight.",
+      "speakLineZh": "GRE 提示：flustered 約「慌亂」——抓住語氣。",
+      "related": {
+        "synonyms": "fluster, perturbed, rattled",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "unkempt",
+      "inVocab": true,
+      "senseAnchor": "lacking in order or cleanness",
+      "roleInScript": "凌亂髮",
+      "humorDevice": "contrast",
+      "zhGloss": "凌亂",
+      "speakLineEn": "GRE tip: unkempt ~ 凌亂; keep the tone straight.",
+      "speakLineZh": "GRE 提示：unkempt 約「凌亂」——抓住語氣。",
+      "related": {
+        "synonyms": "slovenly, chaotic, untidy, topsy-turvy",
+        "antonyms": "tidy"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "uproar",
+      "inVocab": true,
+      "senseAnchor": "a state of commotion and noise and confusion; loud confused noise from many sources",
+      "roleInScript": "騷動",
+      "humorDevice": "contrast",
+      "zhGloss": "騷動",
+      "speakLineEn": "GRE tip: uproar ~ 騷動; keep the tone straight.",
+      "speakLineZh": "GRE 提示：uproar 約「騷動」——抓住語氣。",
+      "related": {
+        "synonyms": "tumult, tumultuousness, garboil, hubbub, brouhaha, katzenjammer",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "free-for-all",
+      "inVocab": true,
+      "senseAnchor": "a chaotic situation",
+      "roleInScript": "混戰場",
+      "humorDevice": "contrast",
+      "zhGloss": "混戰",
+      "speakLineEn": "GRE tip: free-for-all ~ 混戰; keep the tone straight.",
+      "speakLineZh": "GRE 提示：free-for-all 約「混戰」——抓住語氣。",
+      "related": {
+        "synonyms": "disorder",
+        "antonyms": "order, orderliness"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "scruffy",
+      "inVocab": true,
+      "senseAnchor": "shabby and untidy; ; - Mark Twain",
+      "roleInScript": "邋遢",
+      "humorDevice": "story",
+      "zhGloss": "邋遢",
+      "speakLineEn": "GRE tip: scruffy ~ 邋遢; keep the tone straight.",
+      "speakLineZh": "GRE 提示：scruffy 約「邋遢」——抓住語氣。",
+      "related": {
+        "synonyms": "seedy",
+        "antonyms": "seedless"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "huddle",
+      "inVocab": true,
+      "senseAnchor": "(informal) a quick private conference; a disorganized and densely packed crowd",
+      "roleInScript": "密商",
+      "humorDevice": "story",
+      "zhGloss": "密商擠成團",
+      "speakLineEn": "GRE tip: huddle ~ 密商擠成團; keep the tone straight.",
+      "speakLineZh": "GRE 提示：huddle 約「密商擠成團」——抓住語氣。",
+      "related": {
+        "synonyms": "powwow, cower",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "rout",
+      "inVocab": true,
+      "senseAnchor": "a disorderly crowd of people; an overwhelming defeat",
+      "roleInScript": "潰敗",
+      "humorDevice": "story",
+      "zhGloss": "潰敗",
+      "speakLineEn": "GRE tip: rout ~ 潰敗; keep the tone straight.",
+      "speakLineZh": "GRE 提示：rout 約「潰敗」——抓住語氣。",
+      "related": {
+        "synonyms": "mob, rabble, expel, root, rootle, gouge",
+        "antonyms": "descendant"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "spontaneous",
+      "inVocab": true,
+      "senseAnchor": "not been planned or organized",
+      "roleInScript": "自發",
+      "humorDevice": "story",
+      "zhGloss": "自發",
+      "speakLineEn": "GRE tip: spontaneous ~ 自發; keep the tone straight.",
+      "speakLineZh": "GRE 提示：spontaneous 約「自發」——抓住語氣。",
+      "related": {
+        "synonyms": "automatic, intuitive, instinctive",
+        "antonyms": "induced, manual"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "trek",
+      "inVocab": true,
+      "senseAnchor": "a journey by ox wagon (especially an organized migration by a group of settlers); any long and difficult trip",
+      "roleInScript": "跋涉",
+      "humorDevice": "story",
+      "zhGloss": "長途跋涉",
+      "speakLineEn": "GRE tip: trek ~ 長途跋涉; keep the tone straight.",
+      "speakLineZh": "GRE 提示：trek 約「長途跋涉」——抓住語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "tussle",
+      "inVocab": true,
+      "senseAnchor": "disorderly fighting; fight or struggle in a confused way at close quarters",
+      "roleInScript": "爭執",
+      "humorDevice": "story",
+      "zhGloss": "扭打爭執",
+      "speakLineEn": "GRE tip: tussle ~ 扭打爭執; keep the tone straight.",
+      "speakLineZh": "GRE 提示：tussle 約「扭打爭執」——抓住語氣。",
+      "related": {
+        "synonyms": "hassle, scuffle, dogfight, rough-and-tumble, muss",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    }
+  ],
+  "reviewHooks": [
+    "秩序：methodical/systematic/tidy",
+    "混亂：havoc/turmoil/muddle"
+  ],
+  "pitfalls": [
+    "havoc＝大破壞"
+  ],
+  "lessonRefs": [
+    "lesson-sem-order-chaos-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch01"
+  }
+}

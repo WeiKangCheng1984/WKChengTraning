@@ -1,0 +1,402 @@
+{
+  "id": "sem-temp-perm-01",
+  "type": "semantic",
+  "elementLemma": "temporary-vs-permanent",
+  "titleZh": "暫時 ↔ 持久｜沙漏對岩石",
+  "titleEn": "Temp vs Permanent Hourglass",
+  "hook": "沙漏對岩石——時間語氣對打。",
+  "script": "暫時：evanescent／transient／provisional／tentative／fad；持久：abiding／perennial／perpetuate／eternal／incessant。",
+  "members": [
+    {
+      "headword": "evanescent",
+      "inVocab": true,
+      "senseAnchor": "tending to vanish like vapor",
+      "roleInScript": "泡沫燈",
+      "humorDevice": "contrast",
+      "zhGloss": "轉瞬即逝",
+      "speakLineEn": "GRE tip: evanescent ~ 轉瞬即逝; keep the tone straight.",
+      "speakLineZh": "GRE 提示：evanescent 約「轉瞬即逝」——抓住語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "transient",
+      "inVocab": true,
+      "senseAnchor": "lasting only a short time",
+      "roleInScript": "過客燈",
+      "humorDevice": "contrast",
+      "zhGloss": "短暫",
+      "speakLineEn": "GRE tip: transient ~ 短暫; keep the tone straight.",
+      "speakLineZh": "GRE 提示：transient 約「短暫」——抓住語氣。",
+      "related": {
+        "synonyms": "transitory, ephemeral, evanescent, fleeting",
+        "antonyms": "permanent, lasting, immanent, enduring"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "provisional",
+      "inVocab": true,
+      "senseAnchor": "under terms not final or fully worked out or agreed upon",
+      "roleInScript": "臨時章",
+      "humorDevice": "contrast",
+      "zhGloss": "暫時",
+      "speakLineEn": "GRE tip: provisional ~ 暫時; keep the tone straight.",
+      "speakLineZh": "GRE 提示：provisional 約「暫時」——抓住語氣。",
+      "related": {
+        "synonyms": "probationary, provisionary, tentative",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "tentative",
+      "inVocab": true,
+      "senseAnchor": "not fully worked out or developed",
+      "roleInScript": "試探針",
+      "humorDevice": "contrast",
+      "zhGloss": "暫定試探",
+      "speakLineEn": "GRE tip: tentative ~ 暫定試探; keep the tone straight.",
+      "speakLineZh": "GRE 提示：tentative 約「暫定試探」——抓住語氣。",
+      "related": {
+        "synonyms": "conditional, provisional, temporary",
+        "antonyms": "unconditional, permanent"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "fleeting",
+      "inVocab": false,
+      "senseAnchor": "飛逝",
+      "roleInScript": "飛逝",
+      "humorDevice": "contrast",
+      "zhGloss": "飛逝",
+      "speakLineEn": "GRE tip: fleeting ~ 飛逝; keep the tone straight.",
+      "speakLineZh": "GRE 提示：fleeting 約「飛逝」——抓住語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "impromptu",
+      "inVocab": true,
+      "senseAnchor": "an extemporaneous speech or remark; a short musical passage that seems to have been made spontaneously without advance preparation",
+      "roleInScript": "即興",
+      "humorDevice": "contrast",
+      "zhGloss": "即興",
+      "speakLineEn": "GRE tip: impromptu ~ 即興; keep the tone straight.",
+      "speakLineZh": "GRE 提示：impromptu 約「即興」——抓住語氣。",
+      "related": {
+        "synonyms": "ad-lib, extemporaneous, extemporary, extempore, offhand, offhanded",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "makeshift",
+      "inVocab": true,
+      "senseAnchor": "serving as a temporary substitute",
+      "roleInScript": "湊合棚",
+      "humorDevice": "contrast",
+      "zhGloss": "臨時湊合",
+      "speakLineEn": "GRE tip: makeshift ~ 臨時湊合; keep the tone straight.",
+      "speakLineZh": "GRE 提示：makeshift 約「臨時湊合」——抓住語氣。",
+      "related": {
+        "synonyms": "expedient",
+        "antonyms": "imprudent, unwise, inexpedient"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "respite",
+      "inVocab": true,
+      "senseAnchor": "a (temporary) relief from harm or discomfort; a pause from doing something (as work)",
+      "roleInScript": "休息椅",
+      "humorDevice": "contrast",
+      "zhGloss": "暫緩休息",
+      "speakLineEn": "GRE tip: respite ~ 暫緩休息; keep the tone straight.",
+      "speakLineZh": "GRE 提示：respite 約「暫緩休息」——抓住語氣。",
+      "related": {
+        "synonyms": "reprieve, recess, break, suspension, hiatus, abatement",
+        "antonyms": "conform to, keep, make, promote, repair"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "reprieve",
+      "inVocab": true,
+      "senseAnchor": "a (temporary) relief from harm or discomfort; an interruption in the intensity or amount of something",
+      "roleInScript": "暫緩牌",
+      "humorDevice": "contrast",
+      "zhGloss": "暫緩處分",
+      "speakLineEn": "GRE tip: reprieve ~ 暫緩處分; keep the tone straight.",
+      "speakLineZh": "GRE 提示：reprieve 約「暫緩處分」——抓住語氣。",
+      "related": {
+        "synonyms": "respite, suspension, hiatus, abatement",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "fad",
+      "inVocab": true,
+      "senseAnchor": "a practice or interest that is very popular for a short time",
+      "roleInScript": "風尚帽",
+      "humorDevice": "contrast",
+      "zhGloss": "一時風尚",
+      "speakLineEn": "GRE tip: fad ~ 一時風尚; keep the tone straight.",
+      "speakLineZh": "GRE 提示：fad 約「一時風尚」——抓住語氣。",
+      "related": {
+        "synonyms": "trend, vogue",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "impermanence",
+      "inVocab": true,
+      "senseAnchor": "the property of not existing for indefinitely long durations",
+      "roleInScript": "無常鐘",
+      "humorDevice": "contrast",
+      "zhGloss": "無常",
+      "speakLineEn": "GRE tip: impermanence ~ 無常; keep the tone straight.",
+      "speakLineZh": "GRE 提示：impermanence 約「無常」——抓住語氣。",
+      "related": {
+        "synonyms": "impermanency",
+        "antonyms": "permanence"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "abiding",
+      "inVocab": true,
+      "senseAnchor": "lasting for a long time",
+      "roleInScript": "持久燈",
+      "humorDevice": "contrast",
+      "zhGloss": "持久",
+      "speakLineEn": "GRE tip: abiding ~ 持久; keep the tone straight.",
+      "speakLineZh": "GRE 提示：abiding 約「持久」——抓住語氣。",
+      "related": {
+        "synonyms": "enduring, everlasting, long-lived, eternal, permanent",
+        "antonyms": "enjoy, impermanent"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "perennial",
+      "inVocab": true,
+      "senseAnchor": "(botany) a plant lasting for three seasons or more; lasting three seasons or more",
+      "roleInScript": "長年花",
+      "humorDevice": "contrast",
+      "zhGloss": "長期",
+      "speakLineEn": "GRE tip: perennial ~ 長期; keep the tone straight.",
+      "speakLineZh": "GRE 提示：perennial 約「長期」——抓住語氣。",
+      "related": {
+        "synonyms": "recurrent, repeated",
+        "antonyms": "annual, biennial"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "perpetuate",
+      "inVocab": true,
+      "senseAnchor": "cause to continue or prevail",
+      "roleInScript": "長存釘",
+      "humorDevice": "contrast",
+      "zhGloss": "使長存",
+      "speakLineEn": "GRE tip: perpetuate ~ 使長存; keep the tone straight.",
+      "speakLineZh": "GRE 提示：perpetuate 約「使長存」——抓住語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "eternal",
+      "inVocab": true,
+      "senseAnchor": "continuing forever or indefinitely; tiresomely long; seemingly without end",
+      "roleInScript": "永恆環",
+      "humorDevice": "contrast",
+      "zhGloss": "永恆",
+      "speakLineEn": "GRE tip: eternal ~ 永恆; keep the tone straight.",
+      "speakLineZh": "GRE 提示：eternal 約「永恆」——抓住語氣。",
+      "related": {
+        "synonyms": "ageless, aeonian, eonian, everlasting, perpetual, unending",
+        "antonyms": "temporary, fleeting"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "incessant",
+      "inVocab": true,
+      "senseAnchor": "uninterrupted in time and indefinitely long continuing",
+      "roleInScript": "不停鼓",
+      "humorDevice": "contrast",
+      "zhGloss": "不停",
+      "speakLineEn": "GRE tip: incessant ~ 不停; keep the tone straight.",
+      "speakLineZh": "GRE 提示：incessant 約「不停」——抓住語氣。",
+      "related": {
+        "synonyms": "ceaseless, constant, never-ending, perpetual, unceasing, unremitting",
+        "antonyms": "inconstant, temporary, fleeting"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "outlast",
+      "inVocab": true,
+      "senseAnchor": "live longer than",
+      "roleInScript": "持久賽",
+      "humorDevice": "contrast",
+      "zhGloss": "比…持久",
+      "speakLineEn": "GRE tip: outlast ~ 比…持久; keep the tone straight.",
+      "speakLineZh": "GRE 提示：outlast 約「比…持久」——抓住語氣。",
+      "related": {
+        "synonyms": "outlive, survive",
+        "antonyms": "succumb"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "durable",
+      "inVocab": false,
+      "senseAnchor": "耐用",
+      "roleInScript": "耐用殼",
+      "humorDevice": "contrast",
+      "zhGloss": "耐用",
+      "speakLineEn": "GRE tip: durable ~ 耐用; keep the tone straight.",
+      "speakLineZh": "GRE 提示：durable 約「耐用」——抓住語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "recurrent",
+      "inVocab": true,
+      "senseAnchor": "recurring again and again",
+      "roleInScript": "反覆燈",
+      "humorDevice": "contrast",
+      "zhGloss": "反覆出現",
+      "speakLineEn": "GRE tip: recurrent ~ 反覆出現; keep the tone straight.",
+      "speakLineZh": "GRE 提示：recurrent 約「反覆出現」——抓住語氣。",
+      "related": {
+        "synonyms": "perennial, repeated",
+        "antonyms": "annual, biennial"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "sequester",
+      "inVocab": true,
+      "senseAnchor": "requisition forcibly, as of enemy property; take temporary possession of as a security, by legal authority",
+      "roleInScript": "隔離室",
+      "humorDevice": "story",
+      "zhGloss": "隔離",
+      "speakLineEn": "GRE tip: sequester ~ 隔離; keep the tone straight.",
+      "speakLineZh": "GRE 提示：sequester 約「隔離」——抓住語氣。",
+      "related": {
+        "synonyms": "impound, attach, confiscate, seize, seclude, sequestrate",
+        "antonyms": "detach"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "intermission",
+      "inVocab": true,
+      "senseAnchor": "the act of suspending activity temporarily; a time interval during which there is a temporary cessation of something",
+      "roleInScript": "中場",
+      "humorDevice": "story",
+      "zhGloss": "中場休息",
+      "speakLineEn": "GRE tip: intermission ~ 中場休息; keep the tone straight.",
+      "speakLineZh": "GRE 提示：intermission 約「中場休息」——抓住語氣。",
+      "related": {
+        "synonyms": "pause, break, interruption, suspension",
+        "antonyms": "conform to, keep, make, promote, repair"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "offhand",
+      "inVocab": true,
+      "senseAnchor": "with little or no preparation or forethought; casually thoughtless or inconsiderate",
+      "roleInScript": "隨便",
+      "humorDevice": "story",
+      "zhGloss": "即興隨便",
+      "speakLineEn": "GRE tip: offhand ~ 即興隨便; keep the tone straight.",
+      "speakLineZh": "GRE 提示：offhand 約「即興隨便」——抓住語氣。",
+      "related": {
+        "synonyms": "ad-lib, extemporaneous, extemporary, extempore, impromptu, offhanded",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "rugged",
+      "inVocab": true,
+      "senseAnchor": "sturdy and strong in constitution or construction; enduring; having long narrow shallow depressions (as grooves or wrinkles) in the surface",
+      "roleInScript": "堅固岩",
+      "humorDevice": "story",
+      "zhGloss": "堅固粗獷",
+      "speakLineEn": "GRE tip: rugged ~ 堅固粗獷; keep the tone straight.",
+      "speakLineZh": "GRE 提示：rugged 約「堅固粗獷」——抓住語氣。",
+      "related": {
+        "synonyms": "furrowed, broken, tough",
+        "antonyms": "delicate, unfurrowed"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "purgatory",
+      "inVocab": true,
+      "senseAnchor": "a temporary condition of torment or suffering; (theology) in Roman Catholic theology the place where those who have died in a state of grace undergo limited torment to expiate their sins",
+      "roleInScript": "煉獄",
+      "humorDevice": "story",
+      "zhGloss": "煉獄過渡",
+      "speakLineEn": "GRE tip: purgatory ~ 煉獄過渡; keep the tone straight.",
+      "speakLineZh": "GRE 提示：purgatory 約「煉獄過渡」——抓住語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "calamity",
+      "inVocab": true,
+      "senseAnchor": "a disastrous event marked by great loss and lasting distress and suffering",
+      "roleInScript": "災禍",
+      "humorDevice": "story",
+      "zhGloss": "災禍",
+      "speakLineEn": "GRE tip: calamity ~ 災禍; keep the tone straight.",
+      "speakLineZh": "GRE 提示：calamity 約「災禍」——抓住語氣。",
+      "related": {
+        "synonyms": "catastrophe, cataclysm, apocalypse,",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    }
+  ],
+  "reviewHooks": [
+    "暫時：evanescent/transient/provisional",
+    "持久：abiding/perennial/eternal"
+  ],
+  "pitfalls": [
+    "evanescent＝轉瞬即逝"
+  ],
+  "lessonRefs": [
+    "lesson-sem-temp-perm-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch01"
+  }
+}
