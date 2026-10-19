@@ -168,6 +168,8 @@ export default function HomePage() {
           <QuickLink href="/speak" label="跟讀" meta="聽" icon="ear" />
           <QuickLink href="/rewards" label="打卡" meta="streak" icon="fire" />
           <QuickLink href="/search" label="搜尋" meta="找" icon="spark" />
+          <QuickLink href="/dictionary" label="字典" meta="詞" icon="book" />
+          <QuickLink href="/word-bag" label="生詞袋" meta="收" icon="pencil" />
         </div>
       </section>
 

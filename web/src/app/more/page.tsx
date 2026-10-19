@@ -47,8 +47,14 @@ const links: Array<{
   {
     href: "/word-bag",
     title: "生詞袋",
-    body: "選取單字收納 · 未會優先 · 可標已會。",
+    body: "選取單字收納 · 展開站內釋義與幽默聯想。",
     icon: "pencil",
+  },
+  {
+    href: "/dictionary",
+    title: "字典",
+    body: "查 GRE／進階詞彙 · 幽默聯想 · 收進生詞袋。",
+    icon: "book",
   },
   {
     href: "/vault",

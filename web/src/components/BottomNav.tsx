@@ -38,6 +38,7 @@ const items = [
       p.startsWith("/search") ||
       p.startsWith("/saved") ||
       p.startsWith("/word-bag") ||
+      p.startsWith("/dictionary") ||
       p.startsWith("/real-estate") ||
       p.startsWith("/rewards") ||
       p.startsWith("/quiz") ||
