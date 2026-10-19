@@ -24,7 +24,7 @@
     },
     {
       "headword": "sally",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "突襲；俏皮話",
       "roleInScript": "衝出去",
       "humorDevice": "morphology",
@@ -35,11 +35,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "insult",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "侮辱",
       "roleInScript": "跳過來罵",
       "humorDevice": "morphology",
@@ -50,11 +50,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "assail",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "抨擊；襲擊",
       "roleInScript": "跳打",
       "humorDevice": "morphology",
@@ -65,11 +65,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "assault",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "攻擊",
       "roleInScript": "猛攻",
       "humorDevice": "morphology",
@@ -80,11 +80,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "result",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "結果",
       "roleInScript": "跳回結果",
       "humorDevice": "morphology",
@@ -95,11 +95,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "consult",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "諮詢",
       "roleInScript": "跳去問",
       "humorDevice": "morphology",
@@ -110,11 +110,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "consultant",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "顧問",
       "roleInScript": "顧問鈴",
       "humorDevice": "morphology",
@@ -125,7 +125,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "resilient",

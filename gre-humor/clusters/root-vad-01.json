@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "invade",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "入侵",
       "roleInScript": "衝進去",
       "humorDevice": "morphology",
@@ -20,11 +20,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "invasion",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "入侵",
       "roleInScript": "入侵警報",
       "humorDevice": "morphology",
@@ -35,11 +35,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "invasive",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "侵入性的",
       "roleInScript": "侵入標籤",
       "humorDevice": "morphology",
@@ -50,11 +50,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "evade",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "逃避；規避",
       "roleInScript": "滑走開",
       "humorDevice": "morphology",
@@ -65,7 +65,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "evasion",
@@ -84,7 +84,7 @@
     },
     {
       "headword": "evasive",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "閃爍其詞的",
       "roleInScript": "閃答模式",
       "humorDevice": "morphology",
@@ -95,11 +95,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "pervade",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "瀰漫；遍布",
       "roleInScript": "走遍全場",
       "humorDevice": "morphology",
@@ -110,11 +110,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "pervasive",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "遍布的",
       "roleInScript": "全場霧",
       "humorDevice": "morphology",
@@ -125,11 +125,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "wade",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "涉水；吃力前進",
       "roleInScript": "涉水走",
       "humorDevice": "story",
@@ -140,11 +140,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "trespass",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "擅自進入",
       "roleInScript": "越界牌",
       "humorDevice": "story",
@@ -155,7 +155,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     }
   ],
   "reviewHooks": [

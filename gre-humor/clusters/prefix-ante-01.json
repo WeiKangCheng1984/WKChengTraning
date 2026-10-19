@@ -1,0 +1,197 @@
+{
+  "id": "prefix-ante-01",
+  "type": "prefix",
+  "elementLemma": "ante-",
+  "titleZh": "ante-｜前廳時光機",
+  "titleEn": "Ante Antechamber Time Machine",
+  "hook": "字首 ante-＝在前——前廳專管先前、前室，還有洪水以前的古老。",
+  "script": "antecedent／anterior／antedate 時間前綴。antechamber 前室等候。antebellum／antediluvian／antemeridian 戰前、洪水前、午前——接待：name antecedents；antediluvian pipelines 退役。",
+  "members": [
+    {
+      "headword": "antecedent",
+      "inVocab": true,
+      "senseAnchor": "先行的；前事；先行詞",
+      "roleInScript": "前事牌",
+      "humorDevice": "morphology",
+      "zhGloss": "先行的；前事；先行詞",
+      "speakLineEn": "List causal antecedents, not just correlates.",
+      "speakLineZh": "列出因果前事，不只相關。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "anterior",
+      "inVocab": true,
+      "senseAnchor": "前面的；先前的",
+      "roleInScript": "前方燈",
+      "humorDevice": "morphology",
+      "zhGloss": "前面的；先前的",
+      "speakLineEn": "Keep anterior decisions in the protocol.",
+      "speakLineZh": "把先前決策留在規程。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "antedate",
+      "inVocab": true,
+      "senseAnchor": "早於；填早日期",
+      "roleInScript": "填早章",
+      "humorDevice": "morphology",
+      "zhGloss": "早於；填早日期",
+      "speakLineEn": "Do not antedate analyses after seeing results.",
+      "speakLineZh": "看到結果後不要倒填分析日期。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "antechamber",
+      "inVocab": true,
+      "senseAnchor": "前廳；前室",
+      "roleInScript": "前室椅",
+      "humorDevice": "morphology",
+      "zhGloss": "前廳；前室",
+      "speakLineEn": "Use the antechamber: pilot before main run.",
+      "speakLineZh": "用前室：主跑前先試跑。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "antebellum",
+      "inVocab": true,
+      "senseAnchor": "戰前的",
+      "roleInScript": "戰前照",
+      "humorDevice": "morphology",
+      "zhGloss": "戰前的",
+      "speakLineEn": "Archive antebellum code before the redesign.",
+      "speakLineZh": "改版前封存戰前程式碼。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "antediluvian",
+      "inVocab": true,
+      "senseAnchor": "extremely old",
+      "roleInScript": "洪水前",
+      "humorDevice": "morphology",
+      "zhGloss": "遠古的；老掉牙的",
+      "speakLineEn": "Retire antediluvian Excel-only workflows.",
+      "speakLineZh": "淘汰洪水前的純 Excel 流程。",
+      "related": {
+        "synonyms": "old-fashioned, archaic",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "antemeridian",
+      "inVocab": true,
+      "senseAnchor": "午前的",
+      "roleInScript": "午前鐘",
+      "humorDevice": "story",
+      "zhGloss": "午前的",
+      "speakLineEn": "Schedule antemeridian locks when possible.",
+      "speakLineZh": "可能時安排午前鎖定。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "beforehand",
+      "inVocab": false,
+      "senseAnchor": "事先",
+      "roleInScript": "事先牌",
+      "humorDevice": "story",
+      "zhGloss": "事先",
+      "speakLineEn": "Decide exclusions beforehand.",
+      "speakLineZh": "事先決定排除。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "prior",
+      "inVocab": false,
+      "senseAnchor": "先前的",
+      "roleInScript": "先前匣",
+      "humorDevice": "story",
+      "zhGloss": "先前的",
+      "speakLineEn": "Prior commitments beat post-hoc stories.",
+      "speakLineZh": "先前承諾勝過事後故事。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "forerunner",
+      "inVocab": false,
+      "senseAnchor": "先驅",
+      "roleInScript": "先驅旗",
+      "humorDevice": "story",
+      "zhGloss": "先驅",
+      "speakLineEn": "Cite forerunners of your design honestly.",
+      "speakLineZh": "誠實引用設計先驅。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "warmup",
+      "inVocab": false,
+      "senseAnchor": "熱身",
+      "roleInScript": "熱身跑",
+      "humorDevice": "story",
+      "zhGloss": "熱身",
+      "speakLineEn": "Warmup analyses stay labeled exploratory.",
+      "speakLineZh": "熱身分析保持探索標籤。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "ante-＝前：antecedent/anterior/antedate/antechamber/antediluvian",
+    "antediluvian＝極古老"
+  ],
+  "pitfalls": [
+    "antecedent＝先行詞／前事；anterior＝前面的",
+    "antediluvian＝遠古／老掉牙"
+  ],
+  "lessonRefs": [
+    "lesson-prefix-ante-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch06"
+  }
+}

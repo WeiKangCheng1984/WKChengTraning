@@ -24,7 +24,7 @@
     },
     {
       "headword": "dauntless",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "勇敢無懼的",
       "roleInScript": "不嚇退",
       "humorDevice": "contrast",
@@ -35,7 +35,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "valorous",
@@ -54,7 +54,7 @@
     },
     {
       "headword": "plucky",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "有勇氣的；倔強的",
       "roleInScript": "小勇猛",
       "humorDevice": "contrast",
@@ -65,7 +65,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "audacious",
@@ -114,7 +114,7 @@
     },
     {
       "headword": "pusillanimous",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "卑怯的",
       "roleInScript": "卑怯章",
       "humorDevice": "contrast",
@@ -125,7 +125,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "trepidation",
@@ -159,7 +159,7 @@
     },
     {
       "headword": "bold",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "大膽的",
       "roleInScript": "粗體膽",
       "humorDevice": "story",
@@ -170,11 +170,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "fearless",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "無所畏懼的",
       "roleInScript": "無畏貼",
       "humorDevice": "story",
@@ -185,7 +185,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     }
   ],
   "reviewHooks": [

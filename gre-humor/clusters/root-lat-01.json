@@ -24,7 +24,7 @@
     },
     {
       "headword": "relative",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "相對的；親戚",
       "roleInScript": "親戚網",
       "humorDevice": "morphology",
@@ -35,11 +35,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "relation",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "關係",
       "roleInScript": "連線圖",
       "humorDevice": "morphology",
@@ -50,11 +50,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "relate",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "關聯；敘述",
       "roleInScript": "把線接上",
       "humorDevice": "morphology",
@@ -65,7 +65,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "dilate",
@@ -114,7 +114,7 @@
     },
     {
       "headword": "translate",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "翻譯；轉換",
       "roleInScript": "翻譯官",
       "humorDevice": "morphology",
@@ -125,11 +125,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "collateral",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "附帶的；抵押品",
       "roleInScript": "附帶傷",
       "humorDevice": "story",
@@ -140,11 +140,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "prelate",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "高級神職",
       "roleInScript": "側邊大佬",
       "humorDevice": "story",
@@ -155,11 +155,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "latitudinal",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "緯度的；幅度的",
       "roleInScript": "緯線尺",
       "humorDevice": "story",
@@ -170,11 +170,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "sidestep",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "側步避開",
       "roleInScript": "側步閃",
       "humorDevice": "story",
@@ -185,7 +185,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     }
   ],
   "reviewHooks": [

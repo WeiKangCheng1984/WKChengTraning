@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "merchant",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "商人",
       "roleInScript": "買賣櫃",
       "humorDevice": "morphology",
@@ -20,11 +20,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "merchandise",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "商品",
       "roleInScript": "貨架",
       "humorDevice": "morphology",
@@ -35,11 +35,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "mercantile",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "商業的",
       "roleInScript": "商會風",
       "humorDevice": "morphology",
@@ -50,11 +50,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "commerce",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "商業；往來",
       "roleInScript": "交易廳",
       "humorDevice": "morphology",
@@ -65,11 +65,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "commercial",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "商業的；廣告",
       "roleInScript": "廣告燈",
       "humorDevice": "morphology",
@@ -80,7 +80,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "mercenary",
@@ -99,7 +99,7 @@
     },
     {
       "headword": "mercy",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "慈悲；寬恕",
       "roleInScript": "開恩櫃",
       "humorDevice": "morphology",
@@ -110,11 +110,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "merciful",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "慈悲的",
       "roleInScript": "慈悲章",
       "humorDevice": "morphology",
@@ -125,11 +125,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "mercury",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "水銀；信使",
       "roleInScript": "滑溜信使",
       "humorDevice": "story",
@@ -140,11 +140,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "bargain",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "交易；便宜貨",
       "roleInScript": "砍價桌",
       "humorDevice": "story",
@@ -155,11 +155,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "invoice",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "發票",
       "roleInScript": "發票單",
       "humorDevice": "story",
@@ -170,11 +170,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "payoff",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "報酬；結果",
       "roleInScript": "報酬表",
       "humorDevice": "story",
@@ -185,7 +185,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     }
   ],
   "reviewHooks": [

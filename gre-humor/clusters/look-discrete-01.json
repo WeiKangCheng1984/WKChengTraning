@@ -1,0 +1,199 @@
+{
+  "id": "look-discrete-01",
+  "type": "lookalike",
+  "elementLemma": "discrete-discreet",
+  "titleZh": "discrete ↔ discreet｜謹慎分割櫃",
+  "titleEn": "Discrete vs Discreet Cabinet",
+  "hook": "形近對決：discrete＝分離的（一格一格），discreet＝謹慎的（小聲）——櫃子標籤別貼反。",
+  "script": "discretely 一格一格放。discreetly／indiscreet／discretion／discretionary 小聲、不謹慎、裁量權——管理員：discrete variables；discreet handling of identifiers。",
+  "members": [
+    {
+      "headword": "discretely",
+      "inVocab": true,
+      "senseAnchor": "分離地；離散地",
+      "roleInScript": "一格一格",
+      "humorDevice": "lookalike",
+      "zhGloss": "分離地；離散地",
+      "speakLineEn": "Code categories discretely with clear labels.",
+      "speakLineZh": "用清楚標籤分離地編碼類別。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "discreetly",
+      "inVocab": true,
+      "senseAnchor": "謹慎地；低調地",
+      "roleInScript": "小聲放",
+      "humorDevice": "lookalike",
+      "zhGloss": "謹慎地；低調地",
+      "speakLineEn": "Store identifiers discreetly, encrypted.",
+      "speakLineZh": "謹慎加密存放識別碼。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "indiscreet",
+      "inVocab": true,
+      "senseAnchor": "不謹慎的",
+      "roleInScript": "漏嘴燈",
+      "humorDevice": "lookalike",
+      "zhGloss": "不謹慎的",
+      "speakLineEn": "Indiscreet screenshots leak participants.",
+      "speakLineZh": "不謹慎截圖洩漏參與者。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "discretion",
+      "inVocab": true,
+      "senseAnchor": "freedom to act or judge on one's own; knowing how to avoid embarrassment or distress",
+      "roleInScript": "裁量匣",
+      "humorDevice": "lookalike",
+      "zhGloss": "謹慎；裁量",
+      "speakLineEn": "Use statistical discretion with pre-rules.",
+      "speakLineZh": "在預先規則下使用統計裁量。",
+      "related": {
+        "synonyms": "discreetness, circumspection, prudence, delicacy, discernment",
+        "antonyms": "imprudence"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "discretionary",
+      "inVocab": true,
+      "senseAnchor": "left to individual choice",
+      "roleInScript": "酌情鈕",
+      "humorDevice": "lookalike",
+      "zhGloss": "酌情的；任意的",
+      "speakLineEn": "Minimize discretionary outcome swaps.",
+      "speakLineZh": "最小化酌情結局替換。",
+      "related": {
+        "synonyms": "optional, elective, independent, autonomous",
+        "antonyms": "obligatory, appointive, dependent, subordinate"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "separate",
+      "inVocab": false,
+      "senseAnchor": "分開的",
+      "roleInScript": "分開格",
+      "humorDevice": "story",
+      "zhGloss": "分開的",
+      "speakLineEn": "Keep train and test separate.",
+      "speakLineZh": "訓練與測試分開。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "careful",
+      "inVocab": false,
+      "senseAnchor": "小心的",
+      "roleInScript": "小心牌",
+      "humorDevice": "story",
+      "zhGloss": "小心的",
+      "speakLineEn": "Be careful with unblinded interim looks.",
+      "speakLineZh": "對非盲期中查看要小心。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "compartmentalize",
+      "inVocab": false,
+      "senseAnchor": "to divide something into separate sections",
+      "roleInScript": "分隔櫃",
+      "humorDevice": "story",
+      "zhGloss": "分隔管理",
+      "speakLineEn": "Compartmentalize exploratory and confirmatory.",
+      "speakLineZh": "分隔探索與驗證。",
+      "related": {
+        "synonyms": "categorize, classify",
+        "antonyms": "declassify"
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "whisper",
+      "inVocab": false,
+      "senseAnchor": "低語",
+      "roleInScript": "低語區",
+      "humorDevice": "story",
+      "zhGloss": "低語",
+      "speakLineEn": "Whisper mode still needs an audit trail.",
+      "speakLineZh": "低語模式仍需要稽核軌跡。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "partition",
+      "inVocab": false,
+      "senseAnchor": "分割",
+      "roleInScript": "分割線",
+      "humorDevice": "story",
+      "zhGloss": "分割",
+      "speakLineEn": "Partition responsibilities for code review.",
+      "speakLineZh": "分割程式審查責任。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "bin",
+      "inVocab": false,
+      "senseAnchor": "分箱",
+      "roleInScript": "分箱格",
+      "humorDevice": "story",
+      "zhGloss": "分箱",
+      "speakLineEn": "Pre-specify how you bin continuous variables.",
+      "speakLineZh": "預先指定連續變數如何分箱。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "discrete＝分離的 → discretely",
+    "discreet＝謹慎的 → discreetly/discretion"
+  ],
+  "pitfalls": [
+    "discrete≠discreet",
+    "discretion＝謹慎／裁量；discretionary＝酌情的"
+  ],
+  "lessonRefs": [
+    "lesson-look-discrete-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch06"
+  }
+}

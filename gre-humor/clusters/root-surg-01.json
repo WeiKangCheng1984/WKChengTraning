@@ -1,0 +1,212 @@
+{
+  "id": "root-surg-01",
+  "type": "root",
+  "elementLemma": "surg",
+  "titleZh": "surg｜浪潮手術室",
+  "titleEn": "Surg Surge Ward",
+  "hook": "字根 surg＝升——手術室又處理浪潮上升，也處理外科切割。",
+  "script": "surge／upsurge／resurgent／resurgence 浪潮監視器。surgeon／surgery／surgical 精準下刀；insurgency 叛亂升溫——主任：surgical edits 可以；hype surge 要止血。",
+  "members": [
+    {
+      "headword": "surge",
+      "inVocab": true,
+      "senseAnchor": "a sudden forceful flow; a sudden or abrupt strong increase",
+      "roleInScript": "浪潮",
+      "humorDevice": "morphology",
+      "zhGloss": "湧現；急升",
+      "speakLineEn": "A surge in p-hacking follows vague plans.",
+      "speakLineZh": "計畫含糊後 p 黑客會湧現。",
+      "related": {
+        "synonyms": "rush, spate, upsurge, billow, heave, soar",
+        "antonyms": "ebb"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "upsurge",
+      "inVocab": true,
+      "senseAnchor": "a rapid or sudden increase",
+      "roleInScript": "上升箭",
+      "humorDevice": "morphology",
+      "zhGloss": "急劇上升",
+      "speakLineEn": "An upsurge of interest is not evidence.",
+      "speakLineZh": "興趣急升不是證據。",
+      "related": {
+        "synonyms": "boom, spike",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "resurgent",
+      "inVocab": true,
+      "senseAnchor": "再起的",
+      "roleInScript": "再起燈",
+      "humorDevice": "morphology",
+      "zhGloss": "再起的",
+      "speakLineEn": "Resurgent errors need stronger gates.",
+      "speakLineZh": "再起的錯誤需要更強閘門。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "resurgence",
+      "inVocab": true,
+      "senseAnchor": "the reappearance of something common in the past",
+      "roleInScript": "再起曲線",
+      "humorDevice": "morphology",
+      "zhGloss": "再起；復甦",
+      "speakLineEn": "Watch for resurgence of dropped outliers.",
+      "speakLineZh": "注意被丟掉離群值的再起。",
+      "related": {
+        "synonyms": "resurrection, recrudescence",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "surgeon",
+      "inVocab": true,
+      "senseAnchor": "外科醫生",
+      "roleInScript": "主刀",
+      "humorDevice": "morphology",
+      "zhGloss": "外科醫生",
+      "speakLineEn": "Be a surgeon of the analysis plan: precise cuts.",
+      "speakLineZh": "當分析計畫的外科醫生：精準下刀。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "surgery",
+      "inVocab": true,
+      "senseAnchor": "外科；手術",
+      "roleInScript": "手術台",
+      "humorDevice": "morphology",
+      "zhGloss": "外科；手術",
+      "speakLineEn": "Protocol surgery requires a change log.",
+      "speakLineZh": "規程手術需要變更日誌。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "surgical",
+      "inVocab": true,
+      "senseAnchor": "外科的；精準的",
+      "roleInScript": "精準刀",
+      "humorDevice": "morphology",
+      "zhGloss": "外科的；精準的",
+      "speakLineEn": "Make surgical corrections, not silent rewrites.",
+      "speakLineZh": "做精準勘誤，不是沉默改寫。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "insurgency",
+      "inVocab": true,
+      "senseAnchor": "叛亂；起義",
+      "roleInScript": "叛亂溫",
+      "humorDevice": "morphology",
+      "zhGloss": "叛亂；起義",
+      "speakLineEn": "An insurgency of undocumented forks is toxic.",
+      "speakLineZh": "無文件分叉叛亂有毒。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "rise",
+      "inVocab": false,
+      "senseAnchor": "上升",
+      "roleInScript": "上升梯",
+      "humorDevice": "story",
+      "zhGloss": "上升",
+      "speakLineEn": "A rise in citations is not validity.",
+      "speakLineZh": "引用上升不是效度。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "spike",
+      "inVocab": false,
+      "senseAnchor": "尖峰",
+      "roleInScript": "尖峰針",
+      "humorDevice": "story",
+      "zhGloss": "尖峰",
+      "speakLineEn": "Explain every spike before celebrating.",
+      "speakLineZh": "慶祝前先解釋每個尖峰。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "scalpel",
+      "inVocab": false,
+      "senseAnchor": "手術刀",
+      "roleInScript": "小刀",
+      "humorDevice": "story",
+      "zhGloss": "手術刀",
+      "speakLineEn": "Use a scalpel on endpoints, not an axe.",
+      "speakLineZh": "對終點用手術刀，不用斧頭。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "incision",
+      "inVocab": false,
+      "senseAnchor": "切口",
+      "roleInScript": "切口線",
+      "humorDevice": "story",
+      "zhGloss": "切口",
+      "speakLineEn": "Every incision in the sample needs a reason.",
+      "speakLineZh": "樣本每個切口需要理由。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "surg＝升：surge/resurgence/surgical/surgeon/upsurge",
+    "resurgent＝再起的"
+  ],
+  "pitfalls": [
+    "surge＝湧現；surgery＝外科手術",
+    "insurgency＝叛亂（與 insurgent 同源）"
+  ],
+  "lessonRefs": [
+    "lesson-root-surg-01"
+  ],
+  "status": "reviewed",
+  "priority": "C",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch06"
+  }
+}

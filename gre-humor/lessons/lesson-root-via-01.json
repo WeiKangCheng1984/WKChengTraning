@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-via-01",
+  "slug": "root-via-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-via-01",
+  "titleZh": "via｜路徑分岔口",
+  "titleEn": "Via Path Junction",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 via＝路——分岔口專管路徑、偏離、顯而易見與穿不透。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "via 路徑標。deviate／deviation／deviant 偏離道。previous／trivial／obvious 前一路與顯而易見牌；impervious／pervious 穿不透／可滲——交警：report deviation；impervious egos 禁行。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "via＝路：via/deviate/deviation/trivial/obvious/impervious",
+        "impervious＝不能滲透／無動於衷"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Not allowing passage; unmoved:",
+      "promptZh": "穿不透／無動於衷：",
+      "choices": [
+        "impervious",
+        "popular",
+        "sonic",
+        "seminal"
+      ],
+      "answer": "impervious"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Stray from a path or norm:",
+      "promptZh": "偏離：",
+      "choices": [
+        "deviate",
+        "operate",
+        "surge",
+        "resonate"
+      ],
+      "answer": "deviate"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Of little importance; ordinary:",
+      "promptZh": "瑣碎平凡：",
+      "choices": [
+        "trivial",
+        "telegenic",
+        "operatic",
+        "populous"
+      ],
+      "answer": "trivial"
+    }
+  ],
+  "pitfalls": [
+    "trivial＝瑣碎；obvious＝明顯",
+    "deviant＝偏離常規的（可中性／貶）"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch06"
+  }
+}

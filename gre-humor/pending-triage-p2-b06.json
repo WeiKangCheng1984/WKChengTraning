@@ -1,0 +1,1928 @@
+{
+  "stage": "P2-pending-b06",
+  "at": "2026-10-19T05:53:06.005Z",
+  "pendingBefore": 364,
+  "addedToGreJson": [
+    {
+      "en": "aberration",
+      "clusterId": "prefix-ab-01",
+      "zh": "偏差；失常"
+    },
+    {
+      "en": "abhor",
+      "clusterId": "prefix-ab-01",
+      "zh": "憎惡"
+    },
+    {
+      "en": "ablution",
+      "clusterId": "prefix-ab-01",
+      "zh": "洗淨；潔禮"
+    },
+    {
+      "en": "abundance",
+      "clusterId": "sem-scarce-01",
+      "zh": "充裕"
+    },
+    {
+      "en": "across-the-board",
+      "clusterId": "prefix-pan-01",
+      "zh": "全面的"
+    },
+    {
+      "en": "allusion",
+      "clusterId": "look-allude-01",
+      "zh": "暗指；典故"
+    },
+    {
+      "en": "allusive",
+      "clusterId": "look-allude-01",
+      "zh": "暗指的"
+    },
+    {
+      "en": "alma",
+      "clusterId": "root-mater-01",
+      "zh": "慈養的（alma mater）"
+    },
+    {
+      "en": "alone",
+      "clusterId": "root-sol-01",
+      "zh": "單獨"
+    },
+    {
+      "en": "ambidextrous",
+      "clusterId": "prefix-ambi-01",
+      "zh": "左右開弓的"
+    },
+    {
+      "en": "ambiguity",
+      "clusterId": "prefix-ambi-01",
+      "zh": "含糊；歧義"
+    },
+    {
+      "en": "ambivalence",
+      "clusterId": "prefix-ambi-01",
+      "zh": "矛盾情感"
+    },
+    {
+      "en": "ambivert",
+      "clusterId": "prefix-ambi-01",
+      "zh": "中間性格者"
+    },
+    {
+      "en": "anarchy",
+      "clusterId": "rhyme-archy-01",
+      "zh": "無政府；混亂"
+    },
+    {
+      "en": "antebellum",
+      "clusterId": "prefix-ante-01",
+      "zh": "戰前的"
+    },
+    {
+      "en": "antecedent",
+      "clusterId": "prefix-ante-01",
+      "zh": "先行的；前事；先行詞"
+    },
+    {
+      "en": "antechamber",
+      "clusterId": "prefix-ante-01",
+      "zh": "前廳；前室"
+    },
+    {
+      "en": "antedate",
+      "clusterId": "prefix-ante-01",
+      "zh": "早於；填早日期"
+    },
+    {
+      "en": "antemeridian",
+      "clusterId": "prefix-ante-01",
+      "zh": "午前的"
+    },
+    {
+      "en": "anterior",
+      "clusterId": "prefix-ante-01",
+      "zh": "前面的；先前的"
+    },
+    {
+      "en": "apprehensive",
+      "clusterId": "root-prehend-01",
+      "zh": "憂慮的"
+    },
+    {
+      "en": "appropriate",
+      "clusterId": "root-propri-01",
+      "zh": "適當的；撥用"
+    },
+    {
+      "en": "appropriation",
+      "clusterId": "root-propri-01",
+      "zh": "撥款；挪用"
+    },
+    {
+      "en": "aquamarine",
+      "clusterId": "root-mar-01",
+      "zh": "海藍寶石色"
+    },
+    {
+      "en": "arithmetic",
+      "clusterId": "root-numer-01",
+      "zh": "算術"
+    },
+    {
+      "en": "armistice",
+      "clusterId": "root-paci-01",
+      "zh": "停戰協定"
+    },
+    {
+      "en": "assail",
+      "clusterId": "root-sal-01",
+      "zh": "抨擊；襲擊"
+    },
+    {
+      "en": "assault",
+      "clusterId": "root-sal-01",
+      "zh": "攻擊"
+    },
+    {
+      "en": "assonant",
+      "clusterId": "root-son-01",
+      "zh": "諧音的"
+    },
+    {
+      "en": "astronaut",
+      "clusterId": "root-nav-01",
+      "zh": "太空人"
+    },
+    {
+      "en": "autobiography",
+      "clusterId": "prefix-auto-01",
+      "zh": "自傳"
+    },
+    {
+      "en": "autocratic",
+      "clusterId": "prefix-auto-01",
+      "zh": "獨裁的"
+    },
+    {
+      "en": "autonomous",
+      "clusterId": "prefix-auto-01",
+      "zh": "自主的"
+    },
+    {
+      "en": "autonomy",
+      "clusterId": "prefix-auto-01",
+      "zh": "自主；自治"
+    },
+    {
+      "en": "bargain",
+      "clusterId": "root-merc-01",
+      "zh": "交易；便宜貨"
+    },
+    {
+      "en": "belongings",
+      "clusterId": "root-propri-01",
+      "zh": "財物"
+    },
+    {
+      "en": "blanket",
+      "clusterId": "prefix-pan-01",
+      "zh": "毯子；全面的"
+    },
+    {
+      "en": "bold",
+      "clusterId": "sem-courage-01",
+      "zh": "大膽的"
+    },
+    {
+      "en": "boulevard",
+      "clusterId": "root-urb-01",
+      "zh": "大道"
+    },
+    {
+      "en": "brood",
+      "clusterId": "root-mater-01",
+      "zh": "一窩；憂思"
+    },
+    {
+      "en": "bureaucracy",
+      "clusterId": "rhyme-archy-01",
+      "zh": "官僚體制"
+    },
+    {
+      "en": "ceasefire",
+      "clusterId": "root-paci-01",
+      "zh": "停火"
+    },
+    {
+      "en": "census",
+      "clusterId": "root-numer-01",
+      "zh": "普查"
+    },
+    {
+      "en": "circumnavigate",
+      "clusterId": "root-nav-01",
+      "zh": "環航；避開"
+    },
+    {
+      "en": "clamor",
+      "clusterId": "rhyme-claim-01",
+      "zh": "喧鬧；大聲要求"
+    },
+    {
+      "en": "clamorous",
+      "clusterId": "rhyme-claim-01",
+      "zh": "喧鬧的"
+    },
+    {
+      "en": "coax",
+      "clusterId": "root-suad-01",
+      "zh": "好言勸誘"
+    },
+    {
+      "en": "collateral",
+      "clusterId": "root-lat-01",
+      "zh": "附帶的；抵押品"
+    },
+    {
+      "en": "commerce",
+      "clusterId": "root-merc-01",
+      "zh": "商業；往來"
+    },
+    {
+      "en": "commercial",
+      "clusterId": "root-merc-01",
+      "zh": "商業的；廣告"
+    },
+    {
+      "en": "compass",
+      "clusterId": "root-nav-01",
+      "zh": "羅盤"
+    },
+    {
+      "en": "comprehend",
+      "clusterId": "root-prehend-01",
+      "zh": "理解"
+    },
+    {
+      "en": "comprehensive",
+      "clusterId": "root-prehend-01",
+      "zh": "全面的"
+    },
+    {
+      "en": "comprise",
+      "clusterId": "root-prehend-01",
+      "zh": "包含"
+    },
+    {
+      "en": "consult",
+      "clusterId": "root-sal-01",
+      "zh": "諮詢"
+    },
+    {
+      "en": "consultant",
+      "clusterId": "root-sal-01",
+      "zh": "顧問"
+    },
+    {
+      "en": "dauntless",
+      "clusterId": "sem-courage-01",
+      "zh": "勇敢無懼的"
+    },
+    {
+      "en": "dearth",
+      "clusterId": "sem-scarce-01",
+      "zh": "缺乏；飢饉"
+    },
+    {
+      "en": "democracy",
+      "clusterId": "rhyme-archy-01",
+      "zh": "民主"
+    },
+    {
+      "en": "depopulate",
+      "clusterId": "root-popul-01",
+      "zh": "使人口減少"
+    },
+    {
+      "en": "diagnose",
+      "clusterId": "prefix-dia-01",
+      "zh": "診斷"
+    },
+    {
+      "en": "diagnosis",
+      "clusterId": "prefix-dia-01",
+      "zh": "診斷"
+    },
+    {
+      "en": "diagonal",
+      "clusterId": "prefix-dia-01",
+      "zh": "對角的"
+    },
+    {
+      "en": "dialectic",
+      "clusterId": "prefix-dia-01",
+      "zh": "辯證；辯論法"
+    },
+    {
+      "en": "diameter",
+      "clusterId": "prefix-dia-01",
+      "zh": "直徑"
+    },
+    {
+      "en": "diaphanous",
+      "clusterId": "prefix-dia-01",
+      "zh": "半透明的；薄弱的"
+    },
+    {
+      "en": "diaspora",
+      "clusterId": "prefix-dia-01",
+      "zh": "離散；散居群體"
+    },
+    {
+      "en": "disclaimer",
+      "clusterId": "rhyme-claim-01",
+      "zh": "免責聲明"
+    },
+    {
+      "en": "discreetly",
+      "clusterId": "look-discrete-01",
+      "zh": "謹慎地；低調地"
+    },
+    {
+      "en": "discretely",
+      "clusterId": "look-discrete-01",
+      "zh": "分離地；離散地"
+    },
+    {
+      "en": "dissemination",
+      "clusterId": "root-semin-01",
+      "zh": "散播"
+    },
+    {
+      "en": "dissonance",
+      "clusterId": "root-son-01",
+      "zh": "不協調；認知失調"
+    },
+    {
+      "en": "dissonant",
+      "clusterId": "root-son-01",
+      "zh": "不和諧的"
+    },
+    {
+      "en": "downtown",
+      "clusterId": "root-urb-01",
+      "zh": "市中心"
+    },
+    {
+      "en": "drift",
+      "clusterId": "root-vag-01",
+      "zh": "漂移"
+    },
+    {
+      "en": "elusion",
+      "clusterId": "look-allude-01",
+      "zh": "逃避；躲避"
+    },
+    {
+      "en": "enterprise",
+      "clusterId": "root-prehend-01",
+      "zh": "事業；進取心"
+    },
+    {
+      "en": "enumerate",
+      "clusterId": "root-numer-01",
+      "zh": "列舉；點數"
+    },
+    {
+      "en": "enumeration",
+      "clusterId": "root-numer-01",
+      "zh": "列舉；清點"
+    },
+    {
+      "en": "ephemeral",
+      "clusterId": "prefix-epi-01",
+      "zh": "短暫的"
+    },
+    {
+      "en": "epicenter",
+      "clusterId": "prefix-epi-01",
+      "zh": "震源；中心"
+    },
+    {
+      "en": "epitaph",
+      "clusterId": "prefix-epi-01",
+      "zh": "墓誌銘"
+    },
+    {
+      "en": "etiquette",
+      "clusterId": "root-propri-01",
+      "zh": "禮儀"
+    },
+    {
+      "en": "evade",
+      "clusterId": "root-vad-01",
+      "zh": "逃避；規避"
+    },
+    {
+      "en": "evasive",
+      "clusterId": "root-vad-01",
+      "zh": "閃爍其詞的"
+    },
+    {
+      "en": "everywhere",
+      "clusterId": "prefix-pan-01",
+      "zh": "到處"
+    },
+    {
+      "en": "extravagant",
+      "clusterId": "root-vag-01",
+      "zh": "過度的；揮霍的"
+    },
+    {
+      "en": "exurb",
+      "clusterId": "root-urb-01",
+      "zh": "遠郊"
+    },
+    {
+      "en": "fearless",
+      "clusterId": "sem-courage-01",
+      "zh": "無所畏懼的"
+    },
+    {
+      "en": "flotilla",
+      "clusterId": "root-nav-01",
+      "zh": "小艦隊"
+    },
+    {
+      "en": "headcount",
+      "clusterId": "root-numer-01",
+      "zh": "人數清點"
+    },
+    {
+      "en": "hierarchy",
+      "clusterId": "rhyme-archy-01",
+      "zh": "層級；等級制"
+    },
+    {
+      "en": "holy",
+      "clusterId": "root-sacr-01",
+      "zh": "神聖的"
+    },
+    {
+      "en": "improper",
+      "clusterId": "root-propri-01",
+      "zh": "不適當的"
+    },
+    {
+      "en": "indiscreet",
+      "clusterId": "look-discrete-01",
+      "zh": "不謹慎的"
+    },
+    {
+      "en": "innumerable",
+      "clusterId": "root-numer-01",
+      "zh": "無數的"
+    },
+    {
+      "en": "inoperative",
+      "clusterId": "root-oper-01",
+      "zh": "失效的"
+    },
+    {
+      "en": "inseminate",
+      "clusterId": "root-semin-01",
+      "zh": "播入；使受精"
+    },
+    {
+      "en": "insult",
+      "clusterId": "root-sal-01",
+      "zh": "侮辱"
+    },
+    {
+      "en": "insurgency",
+      "clusterId": "root-surg-01",
+      "zh": "叛亂；起義"
+    },
+    {
+      "en": "interurban",
+      "clusterId": "root-urb-01",
+      "zh": "城際的"
+    },
+    {
+      "en": "invade",
+      "clusterId": "root-vad-01",
+      "zh": "入侵"
+    },
+    {
+      "en": "invasion",
+      "clusterId": "root-vad-01",
+      "zh": "入侵"
+    },
+    {
+      "en": "invasive",
+      "clusterId": "root-vad-01",
+      "zh": "侵入性的"
+    },
+    {
+      "en": "invoice",
+      "clusterId": "root-merc-01",
+      "zh": "發票"
+    },
+    {
+      "en": "latitudinal",
+      "clusterId": "root-lat-01",
+      "zh": "緯度的；幅度的"
+    },
+    {
+      "en": "lineage",
+      "clusterId": "root-mater-01",
+      "zh": "世系"
+    },
+    {
+      "en": "lonely",
+      "clusterId": "root-sol-01",
+      "zh": "寂寞的"
+    },
+    {
+      "en": "marina",
+      "clusterId": "root-mar-01",
+      "zh": "碼頭；船塢"
+    },
+    {
+      "en": "marine",
+      "clusterId": "root-mar-01",
+      "zh": "海的；海軍陸戰隊"
+    },
+    {
+      "en": "mariner",
+      "clusterId": "root-mar-01",
+      "zh": "水手"
+    },
+    {
+      "en": "maritime",
+      "clusterId": "root-mar-01",
+      "zh": "海事的；沿海的"
+    },
+    {
+      "en": "maternal",
+      "clusterId": "root-mater-01",
+      "zh": "母親的"
+    },
+    {
+      "en": "maternity",
+      "clusterId": "root-mater-01",
+      "zh": "母性；產科"
+    },
+    {
+      "en": "matriarch",
+      "clusterId": "root-mater-01",
+      "zh": "女家長"
+    },
+    {
+      "en": "matriarchal",
+      "clusterId": "root-mater-01",
+      "zh": "母系的"
+    },
+    {
+      "en": "matriarchy",
+      "clusterId": "rhyme-archy-01",
+      "zh": "母系制"
+    },
+    {
+      "en": "matrimony",
+      "clusterId": "root-mater-01",
+      "zh": "婚姻"
+    },
+    {
+      "en": "matrix",
+      "clusterId": "root-mater-01",
+      "zh": "矩陣；母體"
+    },
+    {
+      "en": "matron",
+      "clusterId": "root-mater-01",
+      "zh": "女監護；成熟女性"
+    },
+    {
+      "en": "meager",
+      "clusterId": "sem-scarce-01",
+      "zh": "貧瘠的；不足的"
+    },
+    {
+      "en": "mercantile",
+      "clusterId": "root-merc-01",
+      "zh": "商業的"
+    },
+    {
+      "en": "merchandise",
+      "clusterId": "root-merc-01",
+      "zh": "商品"
+    },
+    {
+      "en": "merchant",
+      "clusterId": "root-merc-01",
+      "zh": "商人"
+    },
+    {
+      "en": "merciful",
+      "clusterId": "root-merc-01",
+      "zh": "慈悲的"
+    },
+    {
+      "en": "mercury",
+      "clusterId": "root-merc-01",
+      "zh": "水銀；信使"
+    },
+    {
+      "en": "mercy",
+      "clusterId": "root-merc-01",
+      "zh": "慈悲；寬恕"
+    },
+    {
+      "en": "metropolitan",
+      "clusterId": "root-urb-01",
+      "zh": "大都市的"
+    },
+    {
+      "en": "monarchy",
+      "clusterId": "rhyme-archy-01",
+      "zh": "君主制"
+    },
+    {
+      "en": "motherlode",
+      "clusterId": "root-mater-01",
+      "zh": "富礦脈"
+    },
+    {
+      "en": "naval",
+      "clusterId": "root-nav-01",
+      "zh": "海軍的"
+    },
+    {
+      "en": "navigate",
+      "clusterId": "root-nav-01",
+      "zh": "航行；導航"
+    },
+    {
+      "en": "navigation",
+      "clusterId": "root-nav-01",
+      "zh": "航行；導航"
+    },
+    {
+      "en": "navigator",
+      "clusterId": "root-nav-01",
+      "zh": "航海者；導航者"
+    },
+    {
+      "en": "navy",
+      "clusterId": "root-nav-01",
+      "zh": "海軍"
+    },
+    {
+      "en": "neoclassical",
+      "clusterId": "prefix-neo-01",
+      "zh": "新古典的"
+    },
+    {
+      "en": "neoliberal",
+      "clusterId": "prefix-neo-01",
+      "zh": "新自由主義的"
+    },
+    {
+      "en": "neolithic",
+      "clusterId": "prefix-neo-01",
+      "zh": "新石器時代的"
+    },
+    {
+      "en": "neon",
+      "clusterId": "prefix-neo-01",
+      "zh": "霓虹；氖"
+    },
+    {
+      "en": "neonatal",
+      "clusterId": "prefix-neo-01",
+      "zh": "新生的；新生兒的"
+    },
+    {
+      "en": "nomadic",
+      "clusterId": "root-vag-01",
+      "zh": "遊牧的"
+    },
+    {
+      "en": "numeral",
+      "clusterId": "root-numer-01",
+      "zh": "數字"
+    },
+    {
+      "en": "numerator",
+      "clusterId": "root-numer-01",
+      "zh": "分子"
+    },
+    {
+      "en": "numerology",
+      "clusterId": "root-numer-01",
+      "zh": "數字命理"
+    },
+    {
+      "en": "numerous",
+      "clusterId": "root-numer-01",
+      "zh": "許多的"
+    },
+    {
+      "en": "nurture",
+      "clusterId": "root-mater-01",
+      "zh": "養育"
+    },
+    {
+      "en": "oligarchy",
+      "clusterId": "rhyme-archy-01",
+      "zh": "寡頭政治"
+    },
+    {
+      "en": "omni",
+      "clusterId": "prefix-pan-01",
+      "zh": "全（口語詞根）"
+    },
+    {
+      "en": "operable",
+      "clusterId": "root-oper-01",
+      "zh": "可操作的；可動手術的"
+    },
+    {
+      "en": "operatic",
+      "clusterId": "root-oper-01",
+      "zh": "歌劇式的；誇張的"
+    },
+    {
+      "en": "operative",
+      "clusterId": "root-oper-01",
+      "zh": "有效的；特工"
+    },
+    {
+      "en": "opus",
+      "clusterId": "root-oper-01",
+      "zh": "作品（編號）"
+    },
+    {
+      "en": "outlier",
+      "clusterId": "prefix-para-01",
+      "zh": "離群值"
+    },
+    {
+      "en": "overflow",
+      "clusterId": "sem-scarce-01",
+      "zh": "溢出"
+    },
+    {
+      "en": "ownership",
+      "clusterId": "root-propri-01",
+      "zh": "所有權"
+    },
+    {
+      "en": "pacific",
+      "clusterId": "root-paci-01",
+      "zh": "和平的；平和的"
+    },
+    {
+      "en": "pacifism",
+      "clusterId": "root-paci-01",
+      "zh": "和平主義"
+    },
+    {
+      "en": "pacifist",
+      "clusterId": "root-paci-01",
+      "zh": "和平主義者"
+    },
+    {
+      "en": "pandemic",
+      "clusterId": "prefix-pan-01",
+      "zh": "大流行的；疫情"
+    },
+    {
+      "en": "panoramic",
+      "clusterId": "prefix-pan-01",
+      "zh": "全景的"
+    },
+    {
+      "en": "pantheon",
+      "clusterId": "prefix-pan-01",
+      "zh": "萬神殿；名流群"
+    },
+    {
+      "en": "paradigm",
+      "clusterId": "prefix-para-01",
+      "zh": "範式；典範"
+    },
+    {
+      "en": "paradox",
+      "clusterId": "prefix-para-01",
+      "zh": "悖論"
+    },
+    {
+      "en": "paragon",
+      "clusterId": "prefix-para-01",
+      "zh": "模範；完美典型"
+    },
+    {
+      "en": "parallel",
+      "clusterId": "prefix-para-01",
+      "zh": "平行的；類似的"
+    },
+    {
+      "en": "paranormal",
+      "clusterId": "prefix-para-01",
+      "zh": "超常的"
+    },
+    {
+      "en": "paraphrase",
+      "clusterId": "prefix-para-01",
+      "zh": "改述"
+    },
+    {
+      "en": "parasite",
+      "clusterId": "prefix-para-01",
+      "zh": "寄生虫；寄生者"
+    },
+    {
+      "en": "parasol",
+      "clusterId": "root-sol-01",
+      "zh": "陽傘"
+    },
+    {
+      "en": "paternal",
+      "clusterId": "root-pater-01",
+      "zh": "父親的"
+    },
+    {
+      "en": "paternity",
+      "clusterId": "root-pater-01",
+      "zh": "父性；父權身份"
+    },
+    {
+      "en": "patriarch",
+      "clusterId": "root-pater-01",
+      "zh": "家長；元老"
+    },
+    {
+      "en": "patriarchy",
+      "clusterId": "rhyme-archy-01",
+      "zh": "父系制"
+    },
+    {
+      "en": "patriot",
+      "clusterId": "root-pater-01",
+      "zh": "愛國者"
+    },
+    {
+      "en": "patriotic",
+      "clusterId": "root-pater-01",
+      "zh": "愛國的"
+    },
+    {
+      "en": "patron",
+      "clusterId": "root-pater-01",
+      "zh": "贊助人；主顧"
+    },
+    {
+      "en": "pax",
+      "clusterId": "root-paci-01",
+      "zh": "和平；平安"
+    },
+    {
+      "en": "payoff",
+      "clusterId": "root-merc-01",
+      "zh": "報酬；結果"
+    },
+    {
+      "en": "peace",
+      "clusterId": "root-paci-01",
+      "zh": "和平"
+    },
+    {
+      "en": "persuade",
+      "clusterId": "root-suad-01",
+      "zh": "說服"
+    },
+    {
+      "en": "persuasion",
+      "clusterId": "root-suad-01",
+      "zh": "說服；信念"
+    },
+    {
+      "en": "persuasive",
+      "clusterId": "root-suad-01",
+      "zh": "有說服力的"
+    },
+    {
+      "en": "pervade",
+      "clusterId": "root-vad-01",
+      "zh": "瀰漫；遍布"
+    },
+    {
+      "en": "pervasive",
+      "clusterId": "root-vad-01",
+      "zh": "遍布的"
+    },
+    {
+      "en": "pitch",
+      "clusterId": "root-suad-01",
+      "zh": "推銷說詞"
+    },
+    {
+      "en": "plucky",
+      "clusterId": "sem-courage-01",
+      "zh": "有勇氣的；倔強的"
+    },
+    {
+      "en": "plutocracy",
+      "clusterId": "rhyme-archy-01",
+      "zh": "財閥統治"
+    },
+    {
+      "en": "polytechnic",
+      "clusterId": "root-techn-01",
+      "zh": "理工的；綜合技術"
+    },
+    {
+      "en": "populace",
+      "clusterId": "root-popul-01",
+      "zh": "大眾；平民"
+    },
+    {
+      "en": "populist",
+      "clusterId": "root-popul-01",
+      "zh": "民粹的；民粹主義者"
+    },
+    {
+      "en": "prelate",
+      "clusterId": "root-lat-01",
+      "zh": "高級神職"
+    },
+    {
+      "en": "prison",
+      "clusterId": "root-prehend-01",
+      "zh": "監獄"
+    },
+    {
+      "en": "prize",
+      "clusterId": "root-prehend-01",
+      "zh": "獎；珍視"
+    },
+    {
+      "en": "proper",
+      "clusterId": "root-propri-01",
+      "zh": "適當的；真正的"
+    },
+    {
+      "en": "property",
+      "clusterId": "root-propri-01",
+      "zh": "財產；性質"
+    },
+    {
+      "en": "proprietor",
+      "clusterId": "root-propri-01",
+      "zh": "業主；老闆"
+    },
+    {
+      "en": "propriety",
+      "clusterId": "root-propri-01",
+      "zh": "得體；禮儀"
+    },
+    {
+      "en": "pusillanimous",
+      "clusterId": "sem-courage-01",
+      "zh": "卑怯的"
+    },
+    {
+      "en": "pyrotechnics",
+      "clusterId": "root-techn-01",
+      "zh": "煙火；炫技"
+    },
+    {
+      "en": "reclaim",
+      "clusterId": "rhyme-claim-01",
+      "zh": "收回；開墾"
+    },
+    {
+      "en": "relate",
+      "clusterId": "root-lat-01",
+      "zh": "關聯；敘述"
+    },
+    {
+      "en": "relation",
+      "clusterId": "root-lat-01",
+      "zh": "關係"
+    },
+    {
+      "en": "relative",
+      "clusterId": "root-lat-01",
+      "zh": "相對的；親戚"
+    },
+    {
+      "en": "repatriate",
+      "clusterId": "root-pater-01",
+      "zh": "遣返；送回本國"
+    },
+    {
+      "en": "reprisal",
+      "clusterId": "root-prehend-01",
+      "zh": "報復"
+    },
+    {
+      "en": "resonance",
+      "clusterId": "root-son-01",
+      "zh": "共鳴；迴響"
+    },
+    {
+      "en": "resonate",
+      "clusterId": "root-son-01",
+      "zh": "共鳴；引起共鳴"
+    },
+    {
+      "en": "result",
+      "clusterId": "root-sal-01",
+      "zh": "結果"
+    },
+    {
+      "en": "resurgent",
+      "clusterId": "root-surg-01",
+      "zh": "再起的"
+    },
+    {
+      "en": "sacred",
+      "clusterId": "root-sacr-01",
+      "zh": "神聖的"
+    },
+    {
+      "en": "sacrifice",
+      "clusterId": "root-sacr-01",
+      "zh": "犧牲；獻祭"
+    },
+    {
+      "en": "sacrificial",
+      "clusterId": "root-sacr-01",
+      "zh": "犧牲的"
+    },
+    {
+      "en": "saint",
+      "clusterId": "root-sacr-01",
+      "zh": "聖徒"
+    },
+    {
+      "en": "sally",
+      "clusterId": "root-sal-01",
+      "zh": "突襲；俏皮話"
+    },
+    {
+      "en": "sanctify",
+      "clusterId": "root-sacr-01",
+      "zh": "使神聖；認可"
+    },
+    {
+      "en": "scanty",
+      "clusterId": "sem-scarce-01",
+      "zh": "不足的；吝嗇的"
+    },
+    {
+      "en": "scarcity",
+      "clusterId": "sem-scarce-01",
+      "zh": "稀缺"
+    },
+    {
+      "en": "seafaring",
+      "clusterId": "root-mar-01",
+      "zh": "航海的"
+    },
+    {
+      "en": "seminar",
+      "clusterId": "root-semin-01",
+      "zh": "研討會"
+    },
+    {
+      "en": "seminary",
+      "clusterId": "root-semin-01",
+      "zh": "神學院；養成所"
+    },
+    {
+      "en": "shipwreck",
+      "clusterId": "root-mar-01",
+      "zh": "船難"
+    },
+    {
+      "en": "sidekick",
+      "clusterId": "prefix-para-01",
+      "zh": "助手；配角"
+    },
+    {
+      "en": "sidestep",
+      "clusterId": "root-lat-01",
+      "zh": "側步避開"
+    },
+    {
+      "en": "skyline",
+      "clusterId": "root-urb-01",
+      "zh": "天際線"
+    },
+    {
+      "en": "softsoap",
+      "clusterId": "root-suad-01",
+      "zh": "灌迷湯"
+    },
+    {
+      "en": "solar",
+      "clusterId": "root-sol-01",
+      "zh": "太陽的"
+    },
+    {
+      "en": "sole",
+      "clusterId": "root-sol-01",
+      "zh": "唯一的；鞋底"
+    },
+    {
+      "en": "solitary",
+      "clusterId": "root-sol-01",
+      "zh": "孤獨的；單獨的"
+    },
+    {
+      "en": "solo",
+      "clusterId": "root-sol-01",
+      "zh": "獨奏；單獨的"
+    },
+    {
+      "en": "soloist",
+      "clusterId": "root-sol-01",
+      "zh": "獨奏者"
+    },
+    {
+      "en": "sparse",
+      "clusterId": "sem-scarce-01",
+      "zh": "稀疏的"
+    },
+    {
+      "en": "sponsor",
+      "clusterId": "root-pater-01",
+      "zh": "贊助者"
+    },
+    {
+      "en": "spotlight",
+      "clusterId": "root-sol-01",
+      "zh": "聚光燈"
+    },
+    {
+      "en": "suave",
+      "clusterId": "root-suad-01",
+      "zh": "圓滑文雅的"
+    },
+    {
+      "en": "submarine",
+      "clusterId": "root-mar-01",
+      "zh": "潛水艇；水下的"
+    },
+    {
+      "en": "suburb",
+      "clusterId": "root-urb-01",
+      "zh": "郊區"
+    },
+    {
+      "en": "suburban",
+      "clusterId": "root-urb-01",
+      "zh": "郊區的"
+    },
+    {
+      "en": "sunlit",
+      "clusterId": "root-sol-01",
+      "zh": "陽光照射的"
+    },
+    {
+      "en": "superb",
+      "clusterId": "prefix-super-01",
+      "zh": "極好的"
+    },
+    {
+      "en": "superficial",
+      "clusterId": "prefix-super-01",
+      "zh": "表面的；膚淺的"
+    },
+    {
+      "en": "superintendent",
+      "clusterId": "prefix-super-01",
+      "zh": "主管；督學"
+    },
+    {
+      "en": "superior",
+      "clusterId": "prefix-super-01",
+      "zh": "較優的；上級的"
+    },
+    {
+      "en": "supernatural",
+      "clusterId": "prefix-super-01",
+      "zh": "超自然的"
+    },
+    {
+      "en": "supernumerary",
+      "clusterId": "root-numer-01",
+      "zh": "多餘的；編制外"
+    },
+    {
+      "en": "supersonic",
+      "clusterId": "root-son-01",
+      "zh": "超音速的"
+    },
+    {
+      "en": "surgeon",
+      "clusterId": "root-surg-01",
+      "zh": "外科醫生"
+    },
+    {
+      "en": "surgery",
+      "clusterId": "root-surg-01",
+      "zh": "外科；手術"
+    },
+    {
+      "en": "surgical",
+      "clusterId": "root-surg-01",
+      "zh": "外科的；精準的"
+    },
+    {
+      "en": "surprise",
+      "clusterId": "root-prehend-01",
+      "zh": "驚喜；使吃驚"
+    },
+    {
+      "en": "technocrat",
+      "clusterId": "root-techn-01",
+      "zh": "技術官僚"
+    },
+    {
+      "en": "telecommute",
+      "clusterId": "root-tele-01",
+      "zh": "遠距通勤上班"
+    },
+    {
+      "en": "telegenic",
+      "clusterId": "root-tele-01",
+      "zh": "上鏡的"
+    },
+    {
+      "en": "telegraph",
+      "clusterId": "root-tele-01",
+      "zh": "電報；電匯暗示"
+    },
+    {
+      "en": "telemetry",
+      "clusterId": "root-tele-01",
+      "zh": "遙測"
+    },
+    {
+      "en": "tide",
+      "clusterId": "root-mar-01",
+      "zh": "潮汐"
+    },
+    {
+      "en": "translate",
+      "clusterId": "root-lat-01",
+      "zh": "翻譯；轉換"
+    },
+    {
+      "en": "trespass",
+      "clusterId": "root-vad-01",
+      "zh": "擅自進入"
+    },
+    {
+      "en": "ultramarine",
+      "clusterId": "root-mar-01",
+      "zh": "深藍的"
+    },
+    {
+      "en": "ultrasonic",
+      "clusterId": "root-son-01",
+      "zh": "超音波的"
+    },
+    {
+      "en": "unison",
+      "clusterId": "root-son-01",
+      "zh": "齊聲；一致"
+    },
+    {
+      "en": "urban",
+      "clusterId": "root-urb-01",
+      "zh": "都市的"
+    },
+    {
+      "en": "urbanity",
+      "clusterId": "root-urb-01",
+      "zh": "都雅；禮數"
+    },
+    {
+      "en": "vagabond",
+      "clusterId": "root-vag-01",
+      "zh": "流浪漢"
+    },
+    {
+      "en": "vagrancy",
+      "clusterId": "root-vag-01",
+      "zh": "遊蕩；流浪罪"
+    },
+    {
+      "en": "vagrant",
+      "clusterId": "root-vag-01",
+      "zh": "流浪的；遊民"
+    },
+    {
+      "en": "wade",
+      "clusterId": "root-vad-01",
+      "zh": "涉水；吃力前進"
+    }
+  ],
+  "deferred": [
+    {
+      "en": "abnormal",
+      "clusterId": "prefix-ab-01",
+      "zh": "異常的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "abort",
+      "clusterId": "prefix-ab-01",
+      "zh": "中止；流產",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "abstract",
+      "clusterId": "prefix-ab-01",
+      "zh": "摘要；抽象的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "across",
+      "clusterId": "prefix-dia-01",
+      "zh": "穿過",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "add-on",
+      "clusterId": "prefix-epi-01",
+      "zh": "附加元件",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "afterword",
+      "clusterId": "prefix-epi-01",
+      "zh": "後記",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "ambience",
+      "clusterId": "prefix-ambi-01",
+      "zh": "氣氛；環境",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "ambition",
+      "clusterId": "prefix-ambi-01",
+      "zh": "野心；志向",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "ambitious",
+      "clusterId": "prefix-ambi-01",
+      "zh": "有野心的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "announcement",
+      "clusterId": "rhyme-claim-01",
+      "zh": "宣布",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "antenna",
+      "clusterId": "root-tele-01",
+      "zh": "天線",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "autofocus",
+      "clusterId": "prefix-auto-01",
+      "zh": "自動對焦",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "automatic",
+      "clusterId": "prefix-auto-01",
+      "zh": "自動的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "automobile",
+      "clusterId": "prefix-auto-01",
+      "zh": "汽車",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "autopilot",
+      "clusterId": "prefix-auto-01",
+      "zh": "自動駕駛",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "beforehand",
+      "clusterId": "prefix-ante-01",
+      "zh": "事先",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "bin",
+      "clusterId": "look-discrete-01",
+      "zh": "分箱",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "blueprint",
+      "clusterId": "root-techn-01",
+      "zh": "藍圖",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "broadcast",
+      "clusterId": "root-semin-01",
+      "zh": "廣播",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "bulletin",
+      "clusterId": "rhyme-claim-01",
+      "zh": "公告",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "careful",
+      "clusterId": "look-discrete-01",
+      "zh": "小心的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "civic",
+      "clusterId": "root-urb-01",
+      "zh": "市民的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "cooperate",
+      "clusterId": "root-oper-01",
+      "zh": "合作",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "cooperation",
+      "clusterId": "root-oper-01",
+      "zh": "合作",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "craft",
+      "clusterId": "root-techn-01",
+      "zh": "工藝",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "cross-cut",
+      "clusterId": "prefix-dia-01",
+      "zh": "横切",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "crossroad",
+      "clusterId": "root-via-01",
+      "zh": "十字路口",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "crowd",
+      "clusterId": "root-popul-01",
+      "zh": "人群",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "crown",
+      "clusterId": "rhyme-archy-01",
+      "zh": "皇冠",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "detour",
+      "clusterId": "root-via-01",
+      "zh": "繞道",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "dialogue",
+      "clusterId": "prefix-dia-01",
+      "zh": "對話",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "diurnal",
+      "clusterId": "prefix-dia-01",
+      "zh": "晝夜的；日間的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "dodge",
+      "clusterId": "look-allude-01",
+      "zh": "閃避",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "double-edge",
+      "clusterId": "prefix-ambi-01",
+      "zh": "雙刃",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "echo",
+      "clusterId": "root-son-01",
+      "zh": "回音",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "either-or",
+      "clusterId": "prefix-ambi-01",
+      "zh": "二選一",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "episode",
+      "clusterId": "prefix-epi-01",
+      "zh": "一集；片段",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "escape",
+      "clusterId": "look-allude-01",
+      "zh": "逃脫",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "exit",
+      "clusterId": "prefix-ab-01",
+      "zh": "出口",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "fence-sitting",
+      "clusterId": "prefix-ambi-01",
+      "zh": "騎牆",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "fineprint",
+      "clusterId": "rhyme-claim-01",
+      "zh": "細則小字",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "forerunner",
+      "clusterId": "prefix-ante-01",
+      "zh": "先驅",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "freshman",
+      "clusterId": "prefix-neo-01",
+      "zh": "新生",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "gadget",
+      "clusterId": "root-techn-01",
+      "zh": "小裝置",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "germinate",
+      "clusterId": "root-semin-01",
+      "zh": "發芽",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "handbook",
+      "clusterId": "prefix-auto-01",
+      "zh": "手冊",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "hint",
+      "clusterId": "look-allude-01",
+      "zh": "提示",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "horizon",
+      "clusterId": "root-tele-01",
+      "zh": "地平線",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "incision",
+      "clusterId": "root-surg-01",
+      "zh": "切口",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "long-range",
+      "clusterId": "root-tele-01",
+      "zh": "長程的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "maze",
+      "clusterId": "look-allude-01",
+      "zh": "迷宮",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "newbie",
+      "clusterId": "prefix-neo-01",
+      "zh": "新手",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "obvious",
+      "clusterId": "root-via-01",
+      "zh": "明顯的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "opera",
+      "clusterId": "root-oper-01",
+      "zh": "歌劇",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "operate",
+      "clusterId": "root-oper-01",
+      "zh": "操作；動手術",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "operation",
+      "clusterId": "root-oper-01",
+      "zh": "操作；行動；手術",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "operator",
+      "clusterId": "root-oper-01",
+      "zh": "操作員",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "outcry",
+      "clusterId": "rhyme-claim-01",
+      "zh": "抗議呼聲",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "over-the-top",
+      "clusterId": "prefix-super-01",
+      "zh": "過頭的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "overhead",
+      "clusterId": "prefix-super-01",
+      "zh": "上方；管理費",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "overlay",
+      "clusterId": "prefix-epi-01",
+      "zh": "覆蓋層",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "partition",
+      "clusterId": "look-discrete-01",
+      "zh": "分割",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "pathway",
+      "clusterId": "root-via-01",
+      "zh": "通路",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "penthouse",
+      "clusterId": "prefix-super-01",
+      "zh": "頂樓",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "popular",
+      "clusterId": "root-popul-01",
+      "zh": "受歡迎的；流行的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "popularize",
+      "clusterId": "root-popul-01",
+      "zh": "普及；推廣",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "populate",
+      "clusterId": "root-popul-01",
+      "zh": "使居住；填充",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "population",
+      "clusterId": "root-popul-01",
+      "zh": "人口；母體",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "previous",
+      "clusterId": "root-via-01",
+      "zh": "先前的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "prior",
+      "clusterId": "prefix-ante-01",
+      "zh": "先前的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "public",
+      "clusterId": "root-popul-01",
+      "zh": "公眾的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "reboot",
+      "clusterId": "prefix-neo-01",
+      "zh": "重啟",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "rise",
+      "clusterId": "root-surg-01",
+      "zh": "上升",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "scalpel",
+      "clusterId": "root-surg-01",
+      "zh": "手術刀",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "seed",
+      "clusterId": "root-semin-01",
+      "zh": "種子",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "seedling",
+      "clusterId": "root-semin-01",
+      "zh": "幼苗",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "self-driving",
+      "clusterId": "prefix-auto-01",
+      "zh": "自駕的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "self-rule",
+      "clusterId": "prefix-auto-01",
+      "zh": "自治",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "separate",
+      "clusterId": "look-discrete-01",
+      "zh": "分開的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "shout",
+      "clusterId": "rhyme-claim-01",
+      "zh": "喊叫",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "sonic",
+      "clusterId": "root-son-01",
+      "zh": "聲音的；音速的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "sow",
+      "clusterId": "root-semin-01",
+      "zh": "播種",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "spike",
+      "clusterId": "root-surg-01",
+      "zh": "尖峰",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "surface",
+      "clusterId": "prefix-epi-01",
+      "zh": "表面",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "technical",
+      "clusterId": "root-techn-01",
+      "zh": "技術的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "technician",
+      "clusterId": "root-techn-01",
+      "zh": "技術員",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "technique",
+      "clusterId": "root-techn-01",
+      "zh": "技巧；技法",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "technology",
+      "clusterId": "root-techn-01",
+      "zh": "科技；技術",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "television",
+      "clusterId": "root-tele-01",
+      "zh": "電視",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "tooling",
+      "clusterId": "root-techn-01",
+      "zh": "工具鏈",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "two-sided",
+      "clusterId": "prefix-ambi-01",
+      "zh": "雙面的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "unpopular",
+      "clusterId": "root-popul-01",
+      "zh": "不受歡迎的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "upgrade",
+      "clusterId": "prefix-super-01",
+      "zh": "升級",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "via",
+      "clusterId": "root-via-01",
+      "zh": "經由；通過",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "warmup",
+      "clusterId": "prefix-ante-01",
+      "zh": "熱身",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "whisper",
+      "clusterId": "look-discrete-01",
+      "zh": "低語",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "withdraw",
+      "clusterId": "prefix-ab-01",
+      "zh": "撤回",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "workshop",
+      "clusterId": "root-oper-01",
+      "zh": "工作坊",
+      "reason": "basic-multiword-or-specialty"
+    }
+  ],
+  "greTotalAfter": 4672
+}

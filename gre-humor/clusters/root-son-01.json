@@ -1,0 +1,210 @@
+{
+  "id": "root-son-01",
+  "type": "root",
+  "elementLemma": "son",
+  "titleZh": "son｜共鳴錄音棚",
+  "titleEn": "Son Resonance Studio",
+  "hook": "字根 son＝聲——錄音棚管共鳴、刺耳、齊聲與超音波。",
+  "script": "sonic／sonorous／supersonic／ultrasonic 聲浪層。resonate／resonance／resonant 共鳴牆。unison 齊聲；dissonant／dissonance／assonant 刺耳與諧音——導播：let claims resonate with evidence；dissonant incentives 調音。",
+  "members": [
+    {
+      "headword": "sonic",
+      "inVocab": false,
+      "senseAnchor": "聲音的；音速的",
+      "roleInScript": "聲浪",
+      "humorDevice": "morphology",
+      "zhGloss": "聲音的；音速的",
+      "speakLineEn": "Sonic branding cannot replace methods.",
+      "speakLineZh": "聲音品牌取代不了方法。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "sonorous",
+      "inVocab": true,
+      "senseAnchor": "full and loud and deep",
+      "roleInScript": "洪亮麥",
+      "humorDevice": "morphology",
+      "zhGloss": "洪亮的",
+      "speakLineEn": "Sonorous abstracts still need numbers.",
+      "speakLineZh": "洪亮摘要仍需要數字。",
+      "related": {
+        "synonyms": "heavy",
+        "antonyms": "light"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "resonate",
+      "inVocab": true,
+      "senseAnchor": "共鳴；引起共鳴",
+      "roleInScript": "共鳴牆",
+      "humorDevice": "morphology",
+      "zhGloss": "共鳴；引起共鳴",
+      "speakLineEn": "Let limitations resonate as loudly as wins.",
+      "speakLineZh": "讓限制與勝利一樣共鳴。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "resonance",
+      "inVocab": true,
+      "senseAnchor": "共鳴；迴響",
+      "roleInScript": "迴響值",
+      "humorDevice": "morphology",
+      "zhGloss": "共鳴；迴響",
+      "speakLineEn": "Emotional resonance is not causal ID.",
+      "speakLineZh": "情緒共鳴不是因果識別。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "resonant",
+      "inVocab": true,
+      "senseAnchor": "characterized by resonance; serving to bring to mind; - Wilder Hobson",
+      "roleInScript": "共鳴標",
+      "humorDevice": "morphology",
+      "zhGloss": "共鳴的",
+      "speakLineEn": "Resonant stories need boring audits.",
+      "speakLineZh": "共鳴故事需要無聊稽核。",
+      "related": {
+        "synonyms": "resonating, resounding, reverberating, reverberative, evocative, redolent",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "unison",
+      "inVocab": true,
+      "senseAnchor": "齊聲；一致",
+      "roleInScript": "齊聲鍵",
+      "humorDevice": "morphology",
+      "zhGloss": "齊聲；一致",
+      "speakLineEn": "Lock endpoints in unison across sites.",
+      "speakLineZh": "跨站點齊聲鎖定終點。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "dissonant",
+      "inVocab": true,
+      "senseAnchor": "不和諧的",
+      "roleInScript": "刺耳燈",
+      "humorDevice": "morphology",
+      "zhGloss": "不和諧的",
+      "speakLineEn": "Dissonant incentives distort reporting.",
+      "speakLineZh": "不和諧誘因扭曲報告。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "dissonance",
+      "inVocab": true,
+      "senseAnchor": "不協調；認知失調",
+      "roleInScript": "刺耳值",
+      "humorDevice": "morphology",
+      "zhGloss": "不協調；認知失調",
+      "speakLineEn": "Cognitive dissonance after a null is data.",
+      "speakLineZh": "虛無後的認知失調也是資料。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "assonant",
+      "inVocab": true,
+      "senseAnchor": "諧音的",
+      "roleInScript": "諧音鍵",
+      "humorDevice": "story",
+      "zhGloss": "諧音的",
+      "speakLineEn": "Assonant slogans are not analyses.",
+      "speakLineZh": "諧音口號不是分析。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "supersonic",
+      "inVocab": true,
+      "senseAnchor": "超音速的",
+      "roleInScript": "超音速",
+      "humorDevice": "story",
+      "zhGloss": "超音速的",
+      "speakLineEn": "Supersonic deadlines still need checklists.",
+      "speakLineZh": "超音速期限仍需要清單。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "ultrasonic",
+      "inVocab": true,
+      "senseAnchor": "超音波的",
+      "roleInScript": "超音波",
+      "humorDevice": "story",
+      "zhGloss": "超音波的",
+      "speakLineEn": "Use ultrasonic detail on edge cases.",
+      "speakLineZh": "對邊界案例用超音波級細節。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "echo",
+      "inVocab": false,
+      "senseAnchor": "回音",
+      "roleInScript": "回音壁",
+      "humorDevice": "story",
+      "zhGloss": "回音",
+      "speakLineEn": "Echo chambers amplify unreplicated claims.",
+      "speakLineZh": "回音室放大未複現主張。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "son＝聲：sonic/sonorous/resonate/unison/dissonance",
+    "dissonant＝不和諧"
+  ],
+  "pitfalls": [
+    "resonate＝共鳴；dissonant＝不協調",
+    "unison＝齊聲／一致"
+  ],
+  "lessonRefs": [
+    "lesson-root-son-01"
+  ],
+  "status": "reviewed",
+  "priority": "C",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch06"
+  }
+}

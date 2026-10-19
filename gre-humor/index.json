@@ -1,7 +1,7 @@
 {
-  "version": "v0.9-p2b05",
-  "status": "p2-batch05",
-  "uniqueWords": 2131,
+  "version": "v0.9-p2b06",
+  "status": "p2-batch06",
+  "uniqueWords": 2358,
   "clusters": [
     {
       "id": "look-a-01",
@@ -9,6 +9,20 @@
       "titleZh": "A 開頭易混對決",
       "status": "reviewed",
       "memberCount": 8
+    },
+    {
+      "id": "look-allude-01",
+      "type": "lookalike",
+      "titleZh": "allude ↔ elude｜暗指迷宮",
+      "status": "reviewed",
+      "memberCount": 9
+    },
+    {
+      "id": "look-discrete-01",
+      "type": "lookalike",
+      "titleZh": "discrete ↔ discreet｜謹慎分割櫃",
+      "status": "reviewed",
+      "memberCount": 11
     },
     {
       "id": "look-emigrate-01",
@@ -30,6 +44,34 @@
       "titleZh": "形近／易混對決包",
       "status": "reviewed",
       "memberCount": 16
+    },
+    {
+      "id": "prefix-ab-01",
+      "type": "prefix",
+      "titleZh": "ab-｜撤離消毒門",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
+      "id": "prefix-ambi-01",
+      "type": "prefix",
+      "titleZh": "ambi-｜雙面猶豫廳",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
+      "id": "prefix-ante-01",
+      "type": "prefix",
+      "titleZh": "ante-｜前廳時光機",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
+      "id": "prefix-auto-01",
+      "type": "prefix",
+      "titleZh": "auto-｜自動駕駛艙",
+      "status": "reviewed",
+      "memberCount": 12
     },
     {
       "id": "prefix-bene-mal-01",
@@ -60,11 +102,25 @@
       "memberCount": 11
     },
     {
+      "id": "prefix-dia-01",
+      "type": "prefix",
+      "titleZh": "dia-｜對角診療室",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
       "id": "prefix-dis-01",
       "type": "prefix",
       "titleZh": "dis-｜拆解否定工廠",
       "status": "reviewed",
       "memberCount": 9
+    },
+    {
+      "id": "prefix-epi-01",
+      "type": "prefix",
+      "titleZh": "epi-｜表皮附加層",
+      "status": "reviewed",
+      "memberCount": 12
     },
     {
       "id": "prefix-ex-01",
@@ -107,6 +163,13 @@
       "titleZh": "mis-｜搞錯工廠",
       "status": "reviewed",
       "memberCount": 12
+    },
+    {
+      "id": "prefix-neo-01",
+      "type": "prefix",
+      "titleZh": "neo-｜新詞孵化器",
+      "status": "reviewed",
+      "memberCount": 11
     },
     {
       "id": "prefix-ob-01",
@@ -158,6 +221,13 @@
       "memberCount": 9
     },
     {
+      "id": "prefix-super-01",
+      "type": "prefix",
+      "titleZh": "super-｜超級頂樓",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
       "id": "prefix-syn-01",
       "type": "prefix",
       "titleZh": "syn-/sym-｜同步合奏廳",
@@ -179,11 +249,25 @@
       "memberCount": 5
     },
     {
+      "id": "rhyme-archy-01",
+      "type": "rhyme",
+      "titleZh": "-archy／-cracy｜體制皇冠館",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
       "id": "rhyme-ceive-01",
       "type": "rhyme",
       "titleZh": "ceive｜拿騙感官館",
       "status": "reviewed",
       "memberCount": 9
+    },
+    {
+      "id": "rhyme-claim-01",
+      "type": "rhyme",
+      "titleZh": "-claim／-clam｜呼喊公告欄",
+      "status": "reviewed",
+      "memberCount": 11
     },
     {
       "id": "rhyme-eak-01",
@@ -613,6 +697,13 @@
       "memberCount": 12
     },
     {
+      "id": "root-oper-01",
+      "type": "root",
+      "titleZh": "oper｜操作指揮台",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
       "id": "root-opt-01",
       "type": "root",
       "titleZh": "opt｜選擇驗光室",
@@ -707,6 +798,13 @@
       "id": "root-plac-01",
       "type": "root",
       "titleZh": "plac｜安撫接待室",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
+      "id": "root-popul-01",
+      "type": "root",
+      "titleZh": "popul｜民意廣場",
       "status": "reviewed",
       "memberCount": 11
     },
@@ -921,6 +1019,13 @@
       "memberCount": 12
     },
     {
+      "id": "root-semin-01",
+      "type": "root",
+      "titleZh": "sem／semin｜種子散播站",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
       "id": "root-sent-01",
       "type": "root",
       "titleZh": "sent／sens｜感覺與同意議會",
@@ -977,6 +1082,13 @@
       "memberCount": 12
     },
     {
+      "id": "root-son-01",
+      "type": "root",
+      "titleZh": "son｜共鳴錄音棚",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
       "id": "root-soph-01",
       "type": "root",
       "titleZh": "soph｜智巧辯論社",
@@ -1026,11 +1138,32 @@
       "memberCount": 12
     },
     {
+      "id": "root-surg-01",
+      "type": "root",
+      "titleZh": "surg｜浪潮手術室",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
       "id": "root-tact-01",
       "type": "root",
       "titleZh": "tact／tang｜觸覺接待處",
       "status": "reviewed",
       "memberCount": 12
+    },
+    {
+      "id": "root-techn-01",
+      "type": "root",
+      "titleZh": "techn｜技術工坊",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
+      "id": "root-tele-01",
+      "type": "root",
+      "titleZh": "tele｜遠距傳送站",
+      "status": "reviewed",
+      "memberCount": 9
     },
     {
       "id": "root-tempor-01",
@@ -1187,6 +1320,13 @@
       "memberCount": 11
     },
     {
+      "id": "root-via-01",
+      "type": "root",
+      "titleZh": "via｜路徑分岔口",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
       "id": "root-vid-01",
       "type": "root",
       "titleZh": "vid／vis｜視線塔",
@@ -1337,6 +1477,17 @@
       "memberCount": 5
     },
     {
+      "id": "lesson-rhyme-archy-01",
+      "slug": "rhyme-archy-01",
+      "season": 1,
+      "seasonTitleZh": "押韻派對",
+      "titleZh": "-archy／-cracy｜體制皇冠館",
+      "clusterId": "rhyme-archy-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
       "id": "lesson-rhyme-ceive-01",
       "slug": "rhyme-ceive-01",
       "season": 1,
@@ -1346,6 +1497,17 @@
       "type": "family",
       "status": "reviewed",
       "memberCount": 9
+    },
+    {
+      "id": "lesson-rhyme-claim-01",
+      "slug": "rhyme-claim-01",
+      "season": 1,
+      "seasonTitleZh": "押韻派對",
+      "titleZh": "-claim／-clam｜呼喊公告欄",
+      "clusterId": "rhyme-claim-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 11
     },
     {
       "id": "lesson-rhyme-eak-01",
@@ -2019,6 +2181,17 @@
       "memberCount": 12
     },
     {
+      "id": "lesson-root-oper-01",
+      "slug": "root-oper-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "oper｜操作指揮台",
+      "clusterId": "root-oper-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
       "id": "lesson-root-opt-01",
       "slug": "root-opt-01",
       "season": 2,
@@ -2168,6 +2341,17 @@
       "seasonTitleZh": "字根劇場",
       "titleZh": "plac｜安撫接待室",
       "clusterId": "root-plac-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
+      "id": "lesson-root-popul-01",
+      "slug": "root-popul-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "popul｜民意廣場",
+      "clusterId": "root-popul-01",
       "type": "family",
       "status": "reviewed",
       "memberCount": 11
@@ -2503,6 +2687,17 @@
       "memberCount": 12
     },
     {
+      "id": "lesson-root-semin-01",
+      "slug": "root-semin-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "sem／semin｜種子散播站",
+      "clusterId": "root-semin-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
       "id": "lesson-root-sent-01",
       "slug": "root-sent-01",
       "season": 2,
@@ -2591,6 +2786,17 @@
       "memberCount": 12
     },
     {
+      "id": "lesson-root-son-01",
+      "slug": "root-son-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "son｜共鳴錄音棚",
+      "clusterId": "root-son-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
       "id": "lesson-root-soph-01",
       "slug": "root-soph-01",
       "season": 2,
@@ -2668,6 +2874,17 @@
       "memberCount": 12
     },
     {
+      "id": "lesson-root-surg-01",
+      "slug": "root-surg-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "surg｜浪潮手術室",
+      "clusterId": "root-surg-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
       "id": "lesson-root-tact-01",
       "slug": "root-tact-01",
       "season": 2,
@@ -2677,6 +2894,28 @@
       "type": "family",
       "status": "reviewed",
       "memberCount": 12
+    },
+    {
+      "id": "lesson-root-techn-01",
+      "slug": "root-techn-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "techn｜技術工坊",
+      "clusterId": "root-techn-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
+      "id": "lesson-root-tele-01",
+      "slug": "root-tele-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "tele｜遠距傳送站",
+      "clusterId": "root-tele-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 9
     },
     {
       "id": "lesson-root-tempor-01",
@@ -2921,6 +3160,17 @@
       "memberCount": 11
     },
     {
+      "id": "lesson-root-via-01",
+      "slug": "root-via-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "via｜路徑分岔口",
+      "clusterId": "root-via-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
       "id": "lesson-root-vid-01",
       "slug": "root-vid-01",
       "season": 2,
@@ -2996,6 +3246,28 @@
       "type": "duel",
       "status": "reviewed",
       "memberCount": 8
+    },
+    {
+      "id": "lesson-look-allude-01",
+      "slug": "look-allude-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "allude ↔ elude｜暗指迷宮",
+      "clusterId": "look-allude-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 9
+    },
+    {
+      "id": "lesson-look-discrete-01",
+      "slug": "look-discrete-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "discrete ↔ discreet｜謹慎分割櫃",
+      "clusterId": "look-discrete-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 11
     },
     {
       "id": "lesson-look-emigrate-01",
@@ -3163,6 +3435,50 @@
       "memberCount": 6
     },
     {
+      "id": "lesson-prefix-ab-01",
+      "slug": "prefix-ab-01",
+      "season": 4,
+      "seasonTitleZh": "字首調味",
+      "titleZh": "ab-｜撤離消毒門",
+      "clusterId": "prefix-ab-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
+      "id": "lesson-prefix-ambi-01",
+      "slug": "prefix-ambi-01",
+      "season": 4,
+      "seasonTitleZh": "字首調味",
+      "titleZh": "ambi-｜雙面猶豫廳",
+      "clusterId": "prefix-ambi-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
+      "id": "lesson-prefix-ante-01",
+      "slug": "prefix-ante-01",
+      "season": 4,
+      "seasonTitleZh": "字首調味",
+      "titleZh": "ante-｜前廳時光機",
+      "clusterId": "prefix-ante-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
+      "id": "lesson-prefix-auto-01",
+      "slug": "prefix-auto-01",
+      "season": 4,
+      "seasonTitleZh": "字首調味",
+      "titleZh": "auto-｜自動駕駛艙",
+      "clusterId": "prefix-auto-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
       "id": "lesson-prefix-bene-mal-01",
       "slug": "prefix-bene-mal-01",
       "season": 4,
@@ -3207,6 +3523,17 @@
       "memberCount": 11
     },
     {
+      "id": "lesson-prefix-dia-01",
+      "slug": "prefix-dia-01",
+      "season": 4,
+      "seasonTitleZh": "字首調味",
+      "titleZh": "dia-｜對角診療室",
+      "clusterId": "prefix-dia-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
       "id": "lesson-prefix-dis-01",
       "slug": "prefix-dis-01",
       "season": 4,
@@ -3216,6 +3543,17 @@
       "type": "family",
       "status": "reviewed",
       "memberCount": 9
+    },
+    {
+      "id": "lesson-prefix-epi-01",
+      "slug": "prefix-epi-01",
+      "season": 4,
+      "seasonTitleZh": "字首調味",
+      "titleZh": "epi-｜表皮附加層",
+      "clusterId": "prefix-epi-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 12
     },
     {
       "id": "lesson-prefix-ex-01",
@@ -3282,6 +3620,17 @@
       "type": "family",
       "status": "reviewed",
       "memberCount": 12
+    },
+    {
+      "id": "lesson-prefix-neo-01",
+      "slug": "prefix-neo-01",
+      "season": 4,
+      "seasonTitleZh": "字首調味",
+      "titleZh": "neo-｜新詞孵化器",
+      "clusterId": "prefix-neo-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 11
     },
     {
       "id": "lesson-prefix-ob-01",
@@ -3359,6 +3708,17 @@
       "type": "family",
       "status": "reviewed",
       "memberCount": 9
+    },
+    {
+      "id": "lesson-prefix-super-01",
+      "slug": "prefix-super-01",
+      "season": 4,
+      "seasonTitleZh": "字首調味",
+      "titleZh": "super-｜超級頂樓",
+      "clusterId": "prefix-super-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 12
     },
     {
       "id": "lesson-prefix-syn-01",

@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "navy",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "海軍",
       "roleInScript": "艦隊",
       "humorDevice": "morphology",
@@ -20,11 +20,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "naval",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "海軍的",
       "roleInScript": "海軍編制",
       "humorDevice": "morphology",
@@ -35,11 +35,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "navigate",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "航行；導航",
       "roleInScript": "掌舵",
       "humorDevice": "morphology",
@@ -50,11 +50,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "navigation",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "航行；導航",
       "roleInScript": "航圖",
       "humorDevice": "morphology",
@@ -65,11 +65,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "navigator",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "航海者；導航者",
       "roleInScript": "舵手",
       "humorDevice": "morphology",
@@ -80,7 +80,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "nautical",
@@ -99,7 +99,7 @@
     },
     {
       "headword": "circumnavigate",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "環航；避開",
       "roleInScript": "繞一圈",
       "humorDevice": "morphology",
@@ -110,11 +110,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "astronaut",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "太空人",
       "roleInScript": "太空艙",
       "humorDevice": "story",
@@ -125,7 +125,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "nausea",
@@ -144,7 +144,7 @@
     },
     {
       "headword": "compass",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "羅盤",
       "roleInScript": "羅盤針",
       "humorDevice": "story",
@@ -155,7 +155,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "rudder",
@@ -174,7 +174,7 @@
     },
     {
       "headword": "flotilla",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "小艦隊",
       "roleInScript": "小艦隊",
       "humorDevice": "story",
@@ -185,7 +185,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     }
   ],
   "reviewHooks": [

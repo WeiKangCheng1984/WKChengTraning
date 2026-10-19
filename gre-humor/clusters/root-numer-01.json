@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "numeral",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "數字",
       "roleInScript": "數字牌",
       "humorDevice": "morphology",
@@ -20,11 +20,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "numerous",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "許多的",
       "roleInScript": "很多櫃",
       "humorDevice": "morphology",
@@ -35,11 +35,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "enumerate",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "列舉；點數",
       "roleInScript": "逐一點名",
       "humorDevice": "morphology",
@@ -50,11 +50,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "enumeration",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "列舉；清點",
       "roleInScript": "清點表",
       "humorDevice": "morphology",
@@ -65,11 +65,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "innumerable",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "無數的",
       "roleInScript": "數不清堆",
       "humorDevice": "morphology",
@@ -80,11 +80,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "numerator",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "分子",
       "roleInScript": "分數上方",
       "humorDevice": "morphology",
@@ -95,11 +95,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "supernumerary",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "多餘的；編制外",
       "roleInScript": "多餘名額",
       "humorDevice": "morphology",
@@ -110,11 +110,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "numerology",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "數字命理",
       "roleInScript": "玄學算命",
       "humorDevice": "story",
@@ -125,7 +125,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "tally",
@@ -144,7 +144,7 @@
     },
     {
       "headword": "census",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "普查",
       "roleInScript": "普查表",
       "humorDevice": "story",
@@ -155,11 +155,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "headcount",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "人數清點",
       "roleInScript": "人頭數",
       "humorDevice": "story",
@@ -170,11 +170,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "arithmetic",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "算術",
       "roleInScript": "算術板",
       "humorDevice": "story",
@@ -185,7 +185,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     }
   ],
   "reviewHooks": [

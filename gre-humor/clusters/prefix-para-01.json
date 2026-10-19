@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "paradox",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "悖論",
       "roleInScript": "悖論鏡",
       "humorDevice": "morphology",
@@ -20,11 +20,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "parallel",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "平行的；類似的",
       "roleInScript": "平行線",
       "humorDevice": "morphology",
@@ -35,11 +35,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "paradigm",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "範式；典範",
       "roleInScript": "範式轉盤",
       "humorDevice": "morphology",
@@ -50,11 +50,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "parasite",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "寄生虫；寄生者",
       "roleInScript": "寄生客",
       "humorDevice": "morphology",
@@ -65,11 +65,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "paragon",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "模範；完美典型",
       "roleInScript": "模範櫃",
       "humorDevice": "morphology",
@@ -80,11 +80,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "paraphrase",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "改述",
       "roleInScript": "改寫台",
       "humorDevice": "morphology",
@@ -95,7 +95,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "paramount",
@@ -114,7 +114,7 @@
     },
     {
       "headword": "paranormal",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "超常的",
       "roleInScript": "超常燈",
       "humorDevice": "story",
@@ -125,7 +125,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "parable",
@@ -144,7 +144,7 @@
     },
     {
       "headword": "sidekick",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "助手；配角",
       "roleInScript": "配角燈",
       "humorDevice": "story",
@@ -155,11 +155,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "outlier",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "離群值",
       "roleInScript": "旁門怪人",
       "humorDevice": "story",
@@ -170,7 +170,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     }
   ],
   "reviewHooks": [

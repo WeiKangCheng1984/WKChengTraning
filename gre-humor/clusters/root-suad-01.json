@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "persuade",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "說服",
       "roleInScript": "主頻道勸",
       "humorDevice": "morphology",
@@ -20,11 +20,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "persuasion",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "說服；信念",
       "roleInScript": "勸說節目",
       "humorDevice": "morphology",
@@ -35,11 +35,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "persuasive",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "有說服力的",
       "roleInScript": "勸功力",
       "humorDevice": "morphology",
@@ -50,11 +50,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "suave",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "圓滑文雅的",
       "roleInScript": "滑順腔",
       "humorDevice": "morphology",
@@ -65,7 +65,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "assuage",
@@ -84,7 +84,7 @@
     },
     {
       "headword": "coax",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "好言勸誘",
       "roleInScript": "溫柔推",
       "humorDevice": "story",
@@ -95,7 +95,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "cajole",
@@ -129,7 +129,7 @@
     },
     {
       "headword": "pitch",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "推銷說詞",
       "roleInScript": "推銷稿",
       "humorDevice": "story",
@@ -140,11 +140,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "softsoap",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "灌迷湯",
       "roleInScript": "迷湯桶",
       "humorDevice": "story",
@@ -155,7 +155,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     }
   ],
   "reviewHooks": [

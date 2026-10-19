@@ -1,0 +1,97 @@
+{
+  "id": "lesson-prefix-auto-01",
+  "slug": "prefix-auto-01",
+  "season": 4,
+  "seasonTitleZh": "字首調味",
+  "seasonTitleEn": "Prefix Seasoning",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "prefix-auto-01",
+  "titleZh": "auto-｜自動駕駛艙",
+  "titleEn": "Auto Pilot Cabin",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字首 auto-＝自己——駕駛艙要嘛自己開，要嘛自己統治，還寫自傳。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "automatic／autopilot／autofocus 自動檔。autonomy／autonomous 自治方向盤。autocrat／autocratic 獨裁按鈕；automobile／autobiography 載具與自傳——機長：autonomy with audits；拒 autocratic silence。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "auto-＝自己：automatic/autonomy/autonomous/autocrat/autopilot",
+        "autocrat＝獨裁者"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Self-government; independence:",
+      "promptZh": "自主自治：",
+      "choices": [
+        "autonomy",
+        "populace",
+        "surge",
+        "seed"
+      ],
+      "answer": "autonomy"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "A ruler with absolute power:",
+      "promptZh": "獨裁者：",
+      "choices": [
+        "autocrat",
+        "technician",
+        "mariner",
+        "consultant"
+      ],
+      "answer": "autocrat"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Working by itself:",
+      "promptZh": "自動的：",
+      "choices": [
+        "automatic",
+        "dissonant",
+        "trivial",
+        "seminal"
+      ],
+      "answer": "automatic"
+    }
+  ],
+  "pitfalls": [
+    "autonomy＝自主；automatic＝自動的",
+    "autocratic＝獨裁的"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch06"
+  }
+}

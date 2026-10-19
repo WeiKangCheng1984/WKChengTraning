@@ -1,0 +1,201 @@
+{
+  "id": "root-techn-01",
+  "type": "root",
+  "elementLemma": "techn",
+  "titleZh": "techn｜技術工坊",
+  "titleEn": "Techn Craft Shop",
+  "hook": "字根 techn＝技——工坊把技術、煙火與技術官僚放上同一張工作台。",
+  "script": "technical／technique／technology／technician 工藝線。technocrat 技術官僚椅；pyrotechnics／polytechnic 煙火秀與綜合技校——師傅：technique > theatrics；technocrat 也不能免審。",
+  "members": [
+    {
+      "headword": "technical",
+      "inVocab": false,
+      "senseAnchor": "技術的",
+      "roleInScript": "技術標",
+      "humorDevice": "morphology",
+      "zhGloss": "技術的",
+      "speakLineEn": "Technical debt in code becomes ethics debt.",
+      "speakLineZh": "程式技術債會變倫理債。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "technique",
+      "inVocab": false,
+      "senseAnchor": "技巧；技法",
+      "roleInScript": "技法卡",
+      "humorDevice": "morphology",
+      "zhGloss": "技巧；技法",
+      "speakLineEn": "Name the estimation technique plainly.",
+      "speakLineZh": "清楚命名估計技法。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "technology",
+      "inVocab": false,
+      "senseAnchor": "科技；技術",
+      "roleInScript": "技術架",
+      "humorDevice": "morphology",
+      "zhGloss": "科技；技術",
+      "speakLineEn": "New technology still needs old checklists.",
+      "speakLineZh": "新科技仍需要舊清單。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "technician",
+      "inVocab": false,
+      "senseAnchor": "技術員",
+      "roleInScript": "技術員凳",
+      "humorDevice": "morphology",
+      "zhGloss": "技術員",
+      "speakLineEn": "A careful technician beats a charismatic slide.",
+      "speakLineZh": "細心技術員勝過魅力簡報。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "technocrat",
+      "inVocab": true,
+      "senseAnchor": "技術官僚",
+      "roleInScript": "官僚椅",
+      "humorDevice": "morphology",
+      "zhGloss": "技術官僚",
+      "speakLineEn": "A technocrat without humility ships bias.",
+      "speakLineZh": "沒有謙遜的技術官僚會產出偏差。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "pyrotechnics",
+      "inVocab": true,
+      "senseAnchor": "煙火；炫技",
+      "roleInScript": "煙火秀",
+      "humorDevice": "morphology",
+      "zhGloss": "煙火；炫技",
+      "speakLineEn": "Verbal pyrotechnics cannot hide missing data.",
+      "speakLineZh": "言語煙火藏不住缺失資料。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "polytechnic",
+      "inVocab": true,
+      "senseAnchor": "理工的；綜合技術",
+      "roleInScript": "綜合技校",
+      "humorDevice": "morphology",
+      "zhGloss": "理工的；綜合技術",
+      "speakLineEn": "Keep a polytechnic mix of skills on the team.",
+      "speakLineZh": "團隊保持綜合技術技能組合。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "craft",
+      "inVocab": false,
+      "senseAnchor": "工藝",
+      "roleInScript": "手工藝",
+      "humorDevice": "story",
+      "zhGloss": "工藝",
+      "speakLineEn": "Treat analysis as craft, not magic.",
+      "speakLineZh": "把分析當工藝，不是魔法。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "tooling",
+      "inVocab": false,
+      "senseAnchor": "工具鏈",
+      "roleInScript": "工具牆",
+      "humorDevice": "story",
+      "zhGloss": "工具鏈",
+      "speakLineEn": "Invest in tooling for reproducibility.",
+      "speakLineZh": "投資可複現工具鏈。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "gadget",
+      "inVocab": false,
+      "senseAnchor": "小裝置",
+      "roleInScript": "小玩意",
+      "humorDevice": "story",
+      "zhGloss": "小裝置",
+      "speakLineEn": "A fancy gadget is not a design.",
+      "speakLineZh": "花俏小裝置不是設計。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "blueprint",
+      "inVocab": false,
+      "senseAnchor": "藍圖",
+      "roleInScript": "藍圖桌",
+      "humorDevice": "story",
+      "zhGloss": "藍圖",
+      "speakLineEn": "Publish the blueprint with the build.",
+      "speakLineZh": "與建置一起公開藍圖。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "techn＝技：technical/technique/technology/technician/technocrat",
+    "pyrotechnics＝煙火／炫技"
+  ],
+  "pitfalls": [
+    "technique＝技巧；technology＝技術體系",
+    "technocrat＝技術官僚"
+  ],
+  "lessonRefs": [
+    "lesson-root-techn-01"
+  ],
+  "status": "reviewed",
+  "priority": "C",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch06"
+  }
+}

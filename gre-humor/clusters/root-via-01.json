@@ -1,0 +1,214 @@
+{
+  "id": "root-via-01",
+  "type": "root",
+  "elementLemma": "via",
+  "titleZh": "via｜路徑分岔口",
+  "titleEn": "Via Path Junction",
+  "hook": "字根 via＝路——分岔口專管路徑、偏離、顯而易見與穿不透。",
+  "script": "via 路徑標。deviate／deviation／deviant 偏離道。previous／trivial／obvious 前一路與顯而易見牌；impervious／pervious 穿不透／可滲——交警：report deviation；impervious egos 禁行。",
+  "members": [
+    {
+      "headword": "via",
+      "inVocab": false,
+      "senseAnchor": "經由；通過",
+      "roleInScript": "路徑標",
+      "humorDevice": "morphology",
+      "zhGloss": "經由；通過",
+      "speakLineEn": "Share files via a versioned vault, not chat.",
+      "speakLineZh": "經由版本庫分享檔案，不是聊天。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "deviate",
+      "inVocab": true,
+      "senseAnchor": "a person whose behavior deviates from what is acceptable especially in sexual behavior; turn aside; turn away from",
+      "roleInScript": "偏離道",
+      "humorDevice": "morphology",
+      "zhGloss": "偏離",
+      "speakLineEn": "Do not deviate from the plan silently.",
+      "speakLineZh": "不要沉默偏離計畫。",
+      "related": {
+        "synonyms": "pervert, deviant, degenerate, divert, vary, diverge",
+        "antonyms": "conform"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "deviation",
+      "inVocab": true,
+      "senseAnchor": "a variation that deviates from the standard or norm; the difference between an observed value and the expected value of a variable or function",
+      "roleInScript": "偏離表",
+      "humorDevice": "morphology",
+      "zhGloss": "偏離；偏差",
+      "speakLineEn": "Log every deviation with a timestamp.",
+      "speakLineZh": "每筆偏離記錄時間戳。",
+      "related": {
+        "synonyms": "divergence, departure, difference, deviance, diversion, digression",
+        "antonyms": "convergence, convergency, sameness"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "deviant",
+      "inVocab": true,
+      "senseAnchor": "a person whose behavior deviates from what is acceptable especially in sexual behavior; markedly different from an accepted norm",
+      "roleInScript": "非常規標",
+      "humorDevice": "morphology",
+      "zhGloss": "偏離常規的",
+      "speakLineEn": "Label deviant analyses as exploratory.",
+      "speakLineZh": "把非常規分析標為探索。",
+      "related": {
+        "synonyms": "pervert, deviate, degenerate, aberrant",
+        "antonyms": "conform, recuperate"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "previous",
+      "inVocab": false,
+      "senseAnchor": "先前的",
+      "roleInScript": "前一路",
+      "humorDevice": "morphology",
+      "zhGloss": "先前的",
+      "speakLineEn": "Cite previous locks of the same dataset.",
+      "speakLineZh": "引用同一資料集先前鎖定。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "trivial",
+      "inVocab": true,
+      "senseAnchor": "unimportant and not serious",
+      "roleInScript": "瑣碎牌",
+      "humorDevice": "morphology",
+      "zhGloss": "瑣碎的；平凡的",
+      "speakLineEn": "A trivial bug can still bias estimates.",
+      "speakLineZh": "瑣碎 bug 仍可能偏差估計。",
+      "related": {
+        "synonyms": "inconsequential, trifling, negligible",
+        "antonyms": "important, significant"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "obvious",
+      "inVocab": false,
+      "senseAnchor": "明顯的",
+      "roleInScript": "明顯牌",
+      "humorDevice": "morphology",
+      "zhGloss": "明顯的",
+      "speakLineEn": "If it is obvious, still show the check.",
+      "speakLineZh": "即使明顯，仍展示檢查。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "impervious",
+      "inVocab": true,
+      "senseAnchor": "not allowing entrance or passage",
+      "roleInScript": "穿不透盾",
+      "humorDevice": "morphology",
+      "zhGloss": "不能滲透的；無動於衷的",
+      "speakLineEn": "Do not be impervious to critique.",
+      "speakLineZh": "不要對批評無動於衷。",
+      "related": {
+        "synonyms": "impassable, impenetrable, impermeable",
+        "antonyms": "permeable, vulnerable, pervious, passable, penetrable"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "pervious",
+      "inVocab": true,
+      "senseAnchor": "admitting of passage or entrance",
+      "roleInScript": "可滲膜",
+      "humorDevice": "story",
+      "zhGloss": "可滲透的",
+      "speakLineEn": "Keep leadership pervious to junior flags.",
+      "speakLineZh": "讓領導層可被資淺舉旗滲透。",
+      "related": {
+        "synonyms": "",
+        "antonyms": "impervious"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "pathway",
+      "inVocab": false,
+      "senseAnchor": "通路",
+      "roleInScript": "通路圖",
+      "humorDevice": "story",
+      "zhGloss": "通路",
+      "speakLineEn": "Draw the causal pathway before the model.",
+      "speakLineZh": "建模前畫因果通路。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "detour",
+      "inVocab": false,
+      "senseAnchor": "繞道",
+      "roleInScript": "繞道牌",
+      "humorDevice": "story",
+      "zhGloss": "繞道",
+      "speakLineEn": "Detours need signs in the supplement.",
+      "speakLineZh": "繞道需要在補充材料立牌。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "crossroad",
+      "inVocab": false,
+      "senseAnchor": "十字路口",
+      "roleInScript": "十字路口",
+      "humorDevice": "story",
+      "zhGloss": "十字路口",
+      "speakLineEn": "At each crossroad, write the decision rule.",
+      "speakLineZh": "每個十字路口寫下決策規則。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "via＝路：via/deviate/deviation/trivial/obvious/impervious",
+    "impervious＝不能滲透／無動於衷"
+  ],
+  "pitfalls": [
+    "trivial＝瑣碎；obvious＝明顯",
+    "deviant＝偏離常規的（可中性／貶）"
+  ],
+  "lessonRefs": [
+    "lesson-root-via-01"
+  ],
+  "status": "reviewed",
+  "priority": "C",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch06"
+  }
+}

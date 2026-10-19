@@ -1,0 +1,168 @@
+{
+  "id": "root-tele-01",
+  "type": "root",
+  "elementLemma": "tele",
+  "titleZh": "tele｜遠距傳送站",
+  "titleEn": "Tele Farlink Station",
+  "hook": "字根 tele＝遠——傳送站專管遠距、遠望、遠寫與遠距上班。",
+  "script": "television／telegraph／telemetry 遠距訊號。telegenic 上鏡臉；telecommute 遠距工位——站長：telemetry of decisions；別只 telegenic 不實測。",
+  "members": [
+    {
+      "headword": "television",
+      "inVocab": false,
+      "senseAnchor": "電視",
+      "roleInScript": "遠距螢幕",
+      "humorDevice": "morphology",
+      "zhGloss": "電視",
+      "speakLineEn": "Television timelines must not force peeking.",
+      "speakLineZh": "電視時程不該逼出偷看。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "telegraph",
+      "inVocab": true,
+      "senseAnchor": "電報；電匯暗示",
+      "roleInScript": "遠距急報",
+      "humorDevice": "morphology",
+      "zhGloss": "電報；電匯暗示",
+      "speakLineEn": "Telegraph uncertainty in the abstract.",
+      "speakLineZh": "在摘要電報式標出不確定。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "telemetry",
+      "inVocab": true,
+      "senseAnchor": "遙測",
+      "roleInScript": "遙測板",
+      "humorDevice": "morphology",
+      "zhGloss": "遙測",
+      "speakLineEn": "Keep telemetry on who changed what when.",
+      "speakLineZh": "遙測誰在何時改了什麼。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "telegenic",
+      "inVocab": true,
+      "senseAnchor": "上鏡的",
+      "roleInScript": "上鏡臉",
+      "humorDevice": "morphology",
+      "zhGloss": "上鏡的",
+      "speakLineEn": "Telegenic charts still need axes.",
+      "speakLineZh": "上鏡圖表仍需要座標軸。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "telecommute",
+      "inVocab": true,
+      "senseAnchor": "遠距通勤上班",
+      "roleInScript": "遠距工位",
+      "humorDevice": "morphology",
+      "zhGloss": "遠距通勤上班",
+      "speakLineEn": "Telecommute teams still share one repo clock.",
+      "speakLineZh": "遠距團隊仍共用一個 repo 時鐘。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "distant",
+      "inVocab": false,
+      "senseAnchor": "separated in space or coming from or going to a distance; far apart in relevance or relationship or kinship",
+      "roleInScript": "遠距尺",
+      "humorDevice": "story",
+      "zhGloss": "遠的",
+      "speakLineEn": "Distant effects need stronger identification.",
+      "speakLineZh": "遠距效應需要更強識別。",
+      "related": {
+        "synonyms": "remote, aloof, upstage, removed",
+        "antonyms": "close"
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "long-range",
+      "inVocab": false,
+      "senseAnchor": "長程的",
+      "roleInScript": "長程箭",
+      "humorDevice": "story",
+      "zhGloss": "長程的",
+      "speakLineEn": "Long-range claims need long-range data.",
+      "speakLineZh": "長程主張需要長程資料。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "antenna",
+      "inVocab": false,
+      "senseAnchor": "天線",
+      "roleInScript": "天線杆",
+      "humorDevice": "story",
+      "zhGloss": "天線",
+      "speakLineEn": "Point the antenna at disconfirming evidence.",
+      "speakLineZh": "天線指向否證證據。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "horizon",
+      "inVocab": false,
+      "senseAnchor": "地平線",
+      "roleInScript": "地平線",
+      "humorDevice": "story",
+      "zhGloss": "地平線",
+      "speakLineEn": "State the prediction horizon before fitting.",
+      "speakLineZh": "擬合前說清預測地平線。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "tele＝遠：television/telegraph/telemetry/telecommute/telegenic",
+    "telemetry＝遙測"
+  ],
+  "pitfalls": [
+    "telegenic＝上鏡的",
+    "telemetry＝遙測數據"
+  ],
+  "lessonRefs": [
+    "lesson-root-tele-01"
+  ],
+  "status": "reviewed",
+  "priority": "C",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch06"
+  }
+}

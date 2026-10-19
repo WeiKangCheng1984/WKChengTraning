@@ -1,0 +1,215 @@
+{
+  "id": "prefix-auto-01",
+  "type": "prefix",
+  "elementLemma": "auto-",
+  "titleZh": "auto-｜自動駕駛艙",
+  "titleEn": "Auto Pilot Cabin",
+  "hook": "字首 auto-＝自己——駕駛艙要嘛自己開，要嘛自己統治，還寫自傳。",
+  "script": "automatic／autopilot／autofocus 自動檔。autonomy／autonomous 自治方向盤。autocrat／autocratic 獨裁按鈕；automobile／autobiography 載具與自傳——機長：autonomy with audits；拒 autocratic silence。",
+  "members": [
+    {
+      "headword": "automatic",
+      "inVocab": false,
+      "senseAnchor": "自動的",
+      "roleInScript": "自動檔",
+      "humorDevice": "morphology",
+      "zhGloss": "自動的",
+      "speakLineEn": "Automatic pipelines still need human gates.",
+      "speakLineZh": "自動管線仍需要人工閘門。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "autonomy",
+      "inVocab": true,
+      "senseAnchor": "自主；自治",
+      "roleInScript": "自治盤",
+      "humorDevice": "morphology",
+      "zhGloss": "自主；自治",
+      "speakLineEn": "Grant analysts autonomy to report errors.",
+      "speakLineZh": "給分析師回報錯誤的自主權。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "autonomous",
+      "inVocab": true,
+      "senseAnchor": "自主的",
+      "roleInScript": "自主車",
+      "humorDevice": "morphology",
+      "zhGloss": "自主的",
+      "speakLineEn": "Autonomous teams still sync nightly.",
+      "speakLineZh": "自主團隊仍每晚同步。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "autocrat",
+      "inVocab": true,
+      "senseAnchor": "a cruel and oppressive dictator",
+      "roleInScript": "獨裁鈕",
+      "humorDevice": "morphology",
+      "zhGloss": "獨裁者",
+      "speakLineEn": "No lab autocrat owns the outcome list alone.",
+      "speakLineZh": "實驗室獨裁者不能獨占結局清單。",
+      "related": {
+        "synonyms": "tyrant, despot",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "autocratic",
+      "inVocab": true,
+      "senseAnchor": "獨裁的",
+      "roleInScript": "獨裁風",
+      "humorDevice": "morphology",
+      "zhGloss": "獨裁的",
+      "speakLineEn": "Autocratic edits without review are banned.",
+      "speakLineZh": "無審查的獨裁編輯禁止。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "automobile",
+      "inVocab": false,
+      "senseAnchor": "汽車",
+      "roleInScript": "載具",
+      "humorDevice": "morphology",
+      "zhGloss": "汽車",
+      "speakLineEn": "An automobile of tools needs a maintenance log.",
+      "speakLineZh": "工具汽車需要維護日誌。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "autobiography",
+      "inVocab": true,
+      "senseAnchor": "自傳",
+      "roleInScript": "自傳本",
+      "humorDevice": "morphology",
+      "zhGloss": "自傳",
+      "speakLineEn": "Methods autobiography should list forks.",
+      "speakLineZh": "方法自傳應列出分叉。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "autopilot",
+      "inVocab": false,
+      "senseAnchor": "自動駕駛",
+      "roleInScript": "自動駕駛",
+      "humorDevice": "story",
+      "zhGloss": "自動駕駛",
+      "speakLineEn": "Do not leave ethics on autopilot.",
+      "speakLineZh": "倫理不要放自動駕駛。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "autofocus",
+      "inVocab": false,
+      "senseAnchor": "自動對焦",
+      "roleInScript": "對焦環",
+      "humorDevice": "story",
+      "zhGloss": "自動對焦",
+      "speakLineEn": "Autofocus on the estimand, not the headline.",
+      "speakLineZh": "自動對焦目標量，不是標題。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "self-driving",
+      "inVocab": false,
+      "senseAnchor": "自駕的",
+      "roleInScript": "自駕車",
+      "humorDevice": "story",
+      "zhGloss": "自駕的",
+      "speakLineEn": "Self-driving code still needs seatbelts: tests.",
+      "speakLineZh": "自駕程式仍需要安全帶：測試。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "self-rule",
+      "inVocab": false,
+      "senseAnchor": "自治",
+      "roleInScript": "自治旗",
+      "humorDevice": "story",
+      "zhGloss": "自治",
+      "speakLineEn": "Self-rule includes self-correction.",
+      "speakLineZh": "自治包含自我更正。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "handbook",
+      "inVocab": false,
+      "senseAnchor": "手冊",
+      "roleInScript": "手冊匣",
+      "humorDevice": "story",
+      "zhGloss": "手冊",
+      "speakLineEn": "Keep a pilot handbook next to the scripts.",
+      "speakLineZh": "腳本旁放飛行員手冊。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "auto-＝自己：automatic/autonomy/autonomous/autocrat/autopilot",
+    "autocrat＝獨裁者"
+  ],
+  "pitfalls": [
+    "autonomy＝自主；automatic＝自動的",
+    "autocratic＝獨裁的"
+  ],
+  "lessonRefs": [
+    "lesson-prefix-auto-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch06"
+  }
+}

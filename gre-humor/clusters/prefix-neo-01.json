@@ -1,0 +1,197 @@
+{
+  "id": "prefix-neo-01",
+  "type": "prefix",
+  "elementLemma": "neo-",
+  "titleZh": "neo-｜新詞孵化器",
+  "titleEn": "Neo Neologism Incubator",
+  "hook": "字首 neo-＝新——孵化器專管新詞、新手、新石器與霓虹燈。",
+  "script": "neologism／neophyte 新詞與新手徽章。neonatal／neolithic／neoclassical／neoliberal 新生、新石器、新古典、新自由——園長：neophyte questions welcome；neologism 不能取代清楚定義。",
+  "members": [
+    {
+      "headword": "neologism",
+      "inVocab": true,
+      "senseAnchor": "a newly invented word or phrase; the act of inventing a word or phrase",
+      "roleInScript": "新詞瓶",
+      "humorDevice": "morphology",
+      "zhGloss": "新造詞",
+      "speakLineEn": "Define every neologism in the codebook.",
+      "speakLineZh": "編碼簿定義每個新造詞。",
+      "related": {
+        "synonyms": "neology, coinage",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "neophyte",
+      "inVocab": true,
+      "senseAnchor": "a plant that is found in an area where it had not been recorded previously; any new participant in some activity",
+      "roleInScript": "新手徽章",
+      "humorDevice": "morphology",
+      "zhGloss": "新手；新信徒",
+      "speakLineEn": "Protect neophyte analysts who raise flags.",
+      "speakLineZh": "保護舉旗的新手分析師。",
+      "related": {
+        "synonyms": "newcomer, fledgling, fledgeling, starter, freshman, newbie",
+        "antonyms": "veteran, expert"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "neonatal",
+      "inVocab": true,
+      "senseAnchor": "新生的；新生兒的",
+      "roleInScript": "新生燈",
+      "humorDevice": "morphology",
+      "zhGloss": "新生的；新生兒的",
+      "speakLineEn": "Neonatal projects need checklists from day one.",
+      "speakLineZh": "新生專案第一天就要清單。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "neolithic",
+      "inVocab": true,
+      "senseAnchor": "新石器時代的",
+      "roleInScript": "新石器",
+      "humorDevice": "morphology",
+      "zhGloss": "新石器時代的",
+      "speakLineEn": "Retire neolithic copy-paste pipelines.",
+      "speakLineZh": "淘汰新石器級複製貼上管線。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "neoclassical",
+      "inVocab": true,
+      "senseAnchor": "新古典的",
+      "roleInScript": "新古典",
+      "humorDevice": "morphology",
+      "zhGloss": "新古典的",
+      "speakLineEn": "Neoclassical slides still need error bars.",
+      "speakLineZh": "新古典簡報仍需誤差條。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "neoliberal",
+      "inVocab": true,
+      "senseAnchor": "新自由主義的",
+      "roleInScript": "新自由旗",
+      "humorDevice": "morphology",
+      "zhGloss": "新自由主義的",
+      "speakLineEn": "Label neoliberal assumptions in policy papers.",
+      "speakLineZh": "政策論文標註新自由假設。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "neon",
+      "inVocab": true,
+      "senseAnchor": "霓虹；氖",
+      "roleInScript": "霓虹燈",
+      "humorDevice": "story",
+      "zhGloss": "霓虹；氖",
+      "speakLineEn": "Neon headlines need dull appendices.",
+      "speakLineZh": "霓虹標題需要無聊附錄。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "newbie",
+      "inVocab": false,
+      "senseAnchor": "新手",
+      "roleInScript": "新手椅",
+      "humorDevice": "story",
+      "zhGloss": "新手",
+      "speakLineEn": "Newbie onboarding includes how to correct.",
+      "speakLineZh": "新手入職包含如何勘誤。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "freshman",
+      "inVocab": false,
+      "senseAnchor": "新生",
+      "roleInScript": "新生證",
+      "humorDevice": "story",
+      "zhGloss": "新生",
+      "speakLineEn": "Freshman mistakes should be teachable moments.",
+      "speakLineZh": "新生錯誤應是可教時刻。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "reboot",
+      "inVocab": false,
+      "senseAnchor": "重啟",
+      "roleInScript": "重啟鍵",
+      "humorDevice": "story",
+      "zhGloss": "重啟",
+      "speakLineEn": "Reboot the plan when assumptions crack.",
+      "speakLineZh": "假設裂開時重啟計畫。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "prototype",
+      "inVocab": false,
+      "senseAnchor": "an original model on which something is patterned",
+      "roleInScript": "原型桌",
+      "humorDevice": "story",
+      "zhGloss": "原型",
+      "speakLineEn": "Prototype openly; lock before confirmatory.",
+      "speakLineZh": "公開做原型；驗證前鎖定。",
+      "related": {
+        "synonyms": "archetype",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "neo-＝新：neologism/neophyte/neonatal/neolithic/neoclassical",
+    "neophyte＝新手"
+  ],
+  "pitfalls": [
+    "neologism＝新造詞",
+    "neophyte＝新手／新信徒"
+  ],
+  "lessonRefs": [
+    "lesson-prefix-neo-01"
+  ],
+  "status": "reviewed",
+  "priority": "C",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch06"
+  }
+}

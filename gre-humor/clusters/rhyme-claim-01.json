@@ -1,0 +1,198 @@
+{
+  "id": "rhyme-claim-01",
+  "type": "rhyme",
+  "elementLemma": "-claim/-clam",
+  "titleZh": "-claim／-clam｜呼喊公告欄",
+  "titleEn": "Claim Shout Board",
+  "hook": "尾韻 claim/clam＝呼喊——公告欄專管大喊、收回、喧鬧與免責。",
+  "script": "exclaim／declaim 大喊朗讀。reclaim 收回失物。clamor／clamorous 喧鬧牆；disclaimer 免責小字——管理員：exclaim uncertainty；clamor 不能取代證據。",
+  "members": [
+    {
+      "headword": "exclaim",
+      "inVocab": true,
+      "senseAnchor": "utter aloud; often with surprise, horror, or joy; state or announce",
+      "roleInScript": "驚呼鈴",
+      "humorDevice": "morphology",
+      "zhGloss": "驚呼；大聲說",
+      "speakLineEn": "Exclaim caveats in the highlight box.",
+      "speakLineZh": "在亮點框驚呼但書。",
+      "related": {
+        "synonyms": "cry, outcry, shout, proclaim, promulgate",
+        "antonyms": "laugh, whisper"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "reclaim",
+      "inVocab": true,
+      "senseAnchor": "收回；開墾",
+      "roleInScript": "收回籃",
+      "humorDevice": "morphology",
+      "zhGloss": "收回；開墾",
+      "speakLineEn": "Reclaim credit only with a public note.",
+      "speakLineZh": "只在公開說明下收回功勞。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "declaim",
+      "inVocab": true,
+      "senseAnchor": "recite in elocution; speak against in an impassioned manner",
+      "roleInScript": "演說台",
+      "humorDevice": "morphology",
+      "zhGloss": "慷慨激昂地演說",
+      "speakLineEn": "Do not declaim causality from correlations.",
+      "speakLineZh": "別從相關慷慨激昂演說因果。",
+      "related": {
+        "synonyms": "recite, inveigh",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "clamor",
+      "inVocab": true,
+      "senseAnchor": "喧鬧；大聲要求",
+      "roleInScript": "喧鬧牆",
+      "humorDevice": "morphology",
+      "zhGloss": "喧鬧；大聲要求",
+      "speakLineEn": "Clamor for open data, not for miracles.",
+      "speakLineZh": "喧鬧要求開放資料，不是奇蹟。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "clamorous",
+      "inVocab": true,
+      "senseAnchor": "喧鬧的",
+      "roleInScript": "喧鬧標",
+      "humorDevice": "morphology",
+      "zhGloss": "喧鬧的",
+      "speakLineEn": "Clamorous marketing needs quiet methods.",
+      "speakLineZh": "喧鬧行銷需要安靜方法。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "disclaimer",
+      "inVocab": true,
+      "senseAnchor": "免責聲明",
+      "roleInScript": "免責小字",
+      "humorDevice": "morphology",
+      "zhGloss": "免責聲明",
+      "speakLineEn": "A disclaimer cannot replace preregistration.",
+      "speakLineZh": "免責聲明取代不了預註冊。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "shout",
+      "inVocab": false,
+      "senseAnchor": "喊叫",
+      "roleInScript": "喊叫筒",
+      "humorDevice": "story",
+      "zhGloss": "喊叫",
+      "speakLineEn": "Shout corrections as loud as launches.",
+      "speakLineZh": "勘誤要跟上線一樣喊。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "bulletin",
+      "inVocab": false,
+      "senseAnchor": "公告",
+      "roleInScript": "公告欄",
+      "humorDevice": "story",
+      "zhGloss": "公告",
+      "speakLineEn": "Post a bulletin when endpoints change.",
+      "speakLineZh": "終點變更時貼公告。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "fineprint",
+      "inVocab": false,
+      "senseAnchor": "細則小字",
+      "roleInScript": "小字條",
+      "humorDevice": "story",
+      "zhGloss": "細則小字",
+      "speakLineEn": "Read the fineprint of exclusion rules.",
+      "speakLineZh": "讀排除規則細則小字。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "announcement",
+      "inVocab": false,
+      "senseAnchor": "宣布",
+      "roleInScript": "宣布卡",
+      "humorDevice": "story",
+      "zhGloss": "宣布",
+      "speakLineEn": "Announcement of freezes beats rumor.",
+      "speakLineZh": "凍結宣布勝過謠言。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "outcry",
+      "inVocab": false,
+      "senseAnchor": "抗議呼聲",
+      "roleInScript": "抗議聲",
+      "humorDevice": "story",
+      "zhGloss": "抗議呼聲",
+      "speakLineEn": "Public outcry starts when logs go missing.",
+      "speakLineZh": "日誌消失時公眾抗議開始。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "claim/clam：exclaim/reclaim/declaim/clamor/disclaimer",
+    "clamor＝喧鬧要求"
+  ],
+  "pitfalls": [
+    "exclaim＝驚呼；declaim＝慷慨激昂演說",
+    "disclaimer＝免責聲明"
+  ],
+  "lessonRefs": [
+    "lesson-rhyme-claim-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch06"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "lesson-look-allude-01",
+  "slug": "look-allude-01",
+  "season": 3,
+  "seasonTitleZh": "語氣對打",
+  "seasonTitleEn": "Tone Duels",
+  "type": "duel",
+  "minutes": "12-15",
+  "clusterId": "look-allude-01",
+  "titleZh": "allude ↔ elude｜暗指迷宮",
+  "titleEn": "Allude vs Elude Maze",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "形近對決：allude＝暗指（點一下），elude＝躲避（溜走）——迷宮裡別走錯門。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "allusion／allusive 暗指箭頭。elusive／elusion 溜走霧。hint／imply／escape／dodge 客串——管理員：allude to limits；勿 let responsibility elude you。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "allude＝暗指 → allusion/allusive",
+        "elude＝躲避 → elusive/elusion"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "lookalike",
+      "promptEn": "Indirect reference:",
+      "promptZh": "暗指：",
+      "choices": [
+        "allusion",
+        "elusion",
+        "surge",
+        "neon"
+      ],
+      "answer": "allusion"
+    },
+    {
+      "id": "q2",
+      "type": "lookalike",
+      "promptEn": "Hard to catch; escaping:",
+      "promptZh": "難捉摸／躲避：",
+      "choices": [
+        "elusive",
+        "allusive",
+        "popular",
+        "trivial"
+      ],
+      "answer": "elusive"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Act of escaping or avoiding:",
+      "promptZh": "逃避：",
+      "choices": [
+        "elusion",
+        "allusion",
+        "seminar",
+        "opus"
+      ],
+      "answer": "elusion"
+    }
+  ],
+  "pitfalls": [
+    "allude≠elude",
+    "allusion＝典故暗指；illusion＝幻覺（另一組）"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch06"
+  }
+}

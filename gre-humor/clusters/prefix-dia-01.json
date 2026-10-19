@@ -1,0 +1,197 @@
+{
+  "id": "prefix-dia-01",
+  "type": "prefix",
+  "elementLemma": "dia-",
+  "titleZh": "dia-｜對角診療室",
+  "titleEn": "Dia Across Clinic",
+  "hook": "字首 dia-＝穿過／之間——診療室對角切開：對話、診斷、直徑與散居。",
+  "script": "dialogue／dialectic 對談床。diagnosis／diagnose 診斷燈。diagonal／diameter 對角與直徑尺；diaphanous／diurnal／diaspora 薄紗、日夜、散居——醫師：diagnose bias；diaphanous methods 不及格。",
+  "members": [
+    {
+      "headword": "dialogue",
+      "inVocab": false,
+      "senseAnchor": "對話",
+      "roleInScript": "對談床",
+      "humorDevice": "morphology",
+      "zhGloss": "對話",
+      "speakLineEn": "Keep a dialogue between code and codebook.",
+      "speakLineZh": "讓程式與編碼簿持續對話。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "dialectic",
+      "inVocab": true,
+      "senseAnchor": "辯證；辯論法",
+      "roleInScript": "辯證燈",
+      "humorDevice": "morphology",
+      "zhGloss": "辯證；辯論法",
+      "speakLineEn": "Use dialectic: thesis, antithesis, audit.",
+      "speakLineZh": "用辯證：正、反、稽核。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "diagnosis",
+      "inVocab": true,
+      "senseAnchor": "診斷",
+      "roleInScript": "診斷單",
+      "humorDevice": "morphology",
+      "zhGloss": "診斷",
+      "speakLineEn": "Write a diagnosis of threats to validity.",
+      "speakLineZh": "寫下效度威脅診斷。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "diagnose",
+      "inVocab": true,
+      "senseAnchor": "診斷",
+      "roleInScript": "聽診器",
+      "humorDevice": "morphology",
+      "zhGloss": "診斷",
+      "speakLineEn": "Diagnose leakage before fitting.",
+      "speakLineZh": "擬合前診斷洩漏。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "diagonal",
+      "inVocab": true,
+      "senseAnchor": "對角的",
+      "roleInScript": "對角線",
+      "humorDevice": "morphology",
+      "zhGloss": "對角的",
+      "speakLineEn": "Read the confusion matrix on the diagonal first.",
+      "speakLineZh": "先看混淆矩陣對角線。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "diameter",
+      "inVocab": true,
+      "senseAnchor": "直徑",
+      "roleInScript": "直徑尺",
+      "humorDevice": "morphology",
+      "zhGloss": "直徑",
+      "speakLineEn": "Report the diameter of uncertainty, not a point.",
+      "speakLineZh": "報告不確定直徑，不是一點。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "diaphanous",
+      "inVocab": true,
+      "senseAnchor": "半透明的；薄弱的",
+      "roleInScript": "薄紗",
+      "humorDevice": "morphology",
+      "zhGloss": "半透明的；薄弱的",
+      "speakLineEn": "Diaphanous methods sections fail review.",
+      "speakLineZh": "薄弱方法段審不過。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "diurnal",
+      "inVocab": false,
+      "senseAnchor": "晝夜的；日間的",
+      "roleInScript": "日夜鐘",
+      "humorDevice": "story",
+      "zhGloss": "晝夜的；日間的",
+      "speakLineEn": "Account for diurnal collection effects.",
+      "speakLineZh": "考慮日間收集效應。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "diaspora",
+      "inVocab": true,
+      "senseAnchor": "離散；散居群體",
+      "roleInScript": "散居圖",
+      "humorDevice": "story",
+      "zhGloss": "離散；散居群體",
+      "speakLineEn": "A diaspora of forks needs a map.",
+      "speakLineZh": "分叉散居需要地圖。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "across",
+      "inVocab": false,
+      "senseAnchor": "穿過",
+      "roleInScript": "穿過橋",
+      "humorDevice": "story",
+      "zhGloss": "穿過",
+      "speakLineEn": "Effects across sites need pooling rules.",
+      "speakLineZh": "跨站點效應需要合併規則。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "cross-cut",
+      "inVocab": false,
+      "senseAnchor": "横切",
+      "roleInScript": "横切面",
+      "humorDevice": "story",
+      "zhGloss": "横切",
+      "speakLineEn": "Cross-cut the data by prereg strata.",
+      "speakLineZh": "依預註冊分層横切資料。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "dia-＝穿過：dialogue/diagnosis/diagnose/diagonal/diameter/diaspora",
+    "diaphanous＝半透明薄弱"
+  ],
+  "pitfalls": [
+    "diagnosis＝診斷；dialectic＝辯證",
+    "diaspora＝離散群體"
+  ],
+  "lessonRefs": [
+    "lesson-prefix-dia-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch06"
+  }
+}
