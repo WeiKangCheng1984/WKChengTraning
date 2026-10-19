@@ -1,0 +1,163 @@
+{
+  "id": "prefix-circum-01",
+  "type": "prefix",
+  "elementLemma": "circum-",
+  "titleZh": "circum-｜環繞航線塔",
+  "titleEn": "Circum Orbit Tower",
+  "hook": "字首 circum-＝環繞——航線塔專管周圍、迂回與環境。",
+  "script": "circumference 外圓周。circumvent 繞過規則。circumstance／circumstances 周圍情境。circumspect 環顧再走；circuitous 繞遠路——塔台：circumspect claims；勿 circumvent prereg。",
+  "members": [
+    {
+      "headword": "circumvent",
+      "inVocab": true,
+      "senseAnchor": "to avoid",
+      "roleInScript": "繞規則",
+      "humorDevice": "morphology",
+      "zhGloss": "規避；繞過",
+      "speakLineEn": "Do not circumvent inclusion criteria.",
+      "speakLineZh": "不要規避納入標準。",
+      "related": {
+        "synonyms": "bypass, sidestep, shun, hedge, dodge, evade",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "circumstance",
+      "inVocab": false,
+      "senseAnchor": "情況；環境",
+      "roleInScript": "周圍情境",
+      "humorDevice": "morphology",
+      "zhGloss": "情況；環境",
+      "speakLineEn": "Report the circumstance of each exclusion.",
+      "speakLineZh": "報告每次排除的情境。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "circumstances",
+      "inVocab": false,
+      "senseAnchor": "環境；境況",
+      "roleInScript": "多情境",
+      "humorDevice": "morphology",
+      "zhGloss": "環境；境況",
+      "speakLineEn": "Under no circumstances peek unblinded.",
+      "speakLineZh": "任何情況下都不要非盲偷看。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "circuitous",
+      "inVocab": false,
+      "senseAnchor": "迂回的",
+      "roleInScript": "繞遠路",
+      "humorDevice": "morphology",
+      "zhGloss": "迂回的",
+      "speakLineEn": "A circuitous methods section hides gaps.",
+      "speakLineZh": "迂回方法段隱藏缺口。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "circuit",
+      "inVocab": false,
+      "senseAnchor": "電路；環線",
+      "roleInScript": "環線",
+      "humorDevice": "story",
+      "zhGloss": "電路；環線",
+      "speakLineEn": "Close the feedback circuit with post-pub audits.",
+      "speakLineZh": "用刊後稽核閉合回饋環。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "around",
+      "inVocab": false,
+      "senseAnchor": "周圍",
+      "roleInScript": "一圈",
+      "humorDevice": "story",
+      "zhGloss": "周圍",
+      "speakLineEn": "Look around for rival explanations.",
+      "speakLineZh": "環顧對立解釋。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "bypass",
+      "inVocab": false,
+      "senseAnchor": "旁通；繞過",
+      "roleInScript": "旁路",
+      "humorDevice": "story",
+      "zhGloss": "旁通；繞過",
+      "speakLineEn": "A ethics bypass is still misconduct.",
+      "speakLineZh": "倫理旁路仍是不端。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "perimeter",
+      "inVocab": false,
+      "senseAnchor": "周界",
+      "roleInScript": "周界線",
+      "humorDevice": "story",
+      "zhGloss": "周界",
+      "speakLineEn": "Define the perimeter of the target population.",
+      "speakLineZh": "定義目標族群周界。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "orbit",
+      "inVocab": false,
+      "senseAnchor": "軌道",
+      "roleInScript": "環軌道",
+      "humorDevice": "story",
+      "zhGloss": "軌道",
+      "speakLineEn": "Keep helpers in orbit of the locked protocol.",
+      "speakLineZh": "讓幫手繞著鎖定規程運轉。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "circum-＝環繞：circumference/circumvent/circumstance/circumspect",
+    "circumvent＝規避"
+  ],
+  "pitfalls": [
+    "circumvent＝設法規避",
+    "circumspect＝謹慎周到"
+  ],
+  "lessonRefs": [
+    "lesson-prefix-circum-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch04"
+  }
+}

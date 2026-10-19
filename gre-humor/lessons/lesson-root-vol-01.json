@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-vol-01",
+  "slug": "root-vol-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-vol-01",
+  "titleZh": "vol｜意願飛行塔",
+  "titleEn": "Vol Will & Flight Tower",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 vol＝願／飛——塔台左頻是意願，右頻是飛行（依詞分流）。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "voluntary／volunteer 自願登機。volition 意願操縱桿。benevolent／malevolent（他族）提醒好壞意願。volatile 脾氣／市況易飛走；volley 對打飛球；volume 音量飛高——塔台：voluntary consent；volatile claims 要繫安全帶。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "vol＝願：voluntary/volunteer/volition；vol＝飛／變：volatile/volley",
+        "volition＝意志"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Done by free will:",
+      "promptZh": "自願：",
+      "choices": [
+        "voluntary",
+        "noxious",
+        "abstruse",
+        "verbatim"
+      ],
+      "answer": "voluntary"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Unstable; changeable:",
+      "promptZh": "易變：",
+      "choices": [
+        "volatile",
+        "innocuous",
+        "similar",
+        "regal"
+      ],
+      "answer": "volatile"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Act of willing; willpower choice:",
+      "promptZh": "意志決意：",
+      "choices": [
+        "volition",
+        "facsimile",
+        "pedestal",
+        "horoscope"
+      ],
+      "answer": "volition"
+    }
+  ],
+  "pitfalls": [
+    "volatile＝易變／易揮發",
+    "voluntary≠ volunteer 詞類不同"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch03"
+  }
+}

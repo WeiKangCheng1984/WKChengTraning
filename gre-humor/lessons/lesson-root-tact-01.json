@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-tact-01",
+  "slug": "root-tact-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-tact-01",
+  "titleZh": "tact／tang｜觸覺接待處",
+  "titleEn": "Tact Touch Desk",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 tact/tang＝觸——接待處專管接觸、策略、具體與完整。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "tact／tactful／tactless 交際觸感。contact／intact 接觸／完整未碰壞。tangible／intangible 摸得到／摸不到。tangent 跑題切線；contingent 依條件觸發——接待：tactful critique；intact blinding。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "tact＝觸：tact/contact/intact/tangible/tangent/contingent",
+        "intact＝完整未損"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Whole; undamaged:",
+      "promptZh": "完整未損：",
+      "choices": [
+        "intact",
+        "vacuous",
+        "suppress",
+        "emigrant"
+      ],
+      "answer": "intact"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Perceptible by touch; concrete:",
+      "promptZh": "具體可觸：",
+      "choices": [
+        "tangible",
+        "spiritual",
+        "vacant",
+        "nascent"
+      ],
+      "answer": "tangible"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Diplomatic sensitivity:",
+      "promptZh": "圓通：",
+      "choices": [
+        "tact",
+        "press",
+        "shard",
+        "mandate"
+      ],
+      "answer": "tact"
+    }
+  ],
+  "pitfalls": [
+    "tact＝圓通；tactile＝觸覺的",
+    "tangent＝切線／離題"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch04"
+  }
+}

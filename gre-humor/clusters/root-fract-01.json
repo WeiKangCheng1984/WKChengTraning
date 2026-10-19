@@ -1,0 +1,208 @@
+{
+  "id": "root-fract-01",
+  "type": "root",
+  "elementLemma": "frag/fract",
+  "titleZh": "frag／fract｜碎裂修復站",
+  "titleEn": "Fract Break Station",
+  "hook": "字根 frag/fract＝碎——修復站專管碎片、分數與難搞。",
+  "script": "fragment／fragmentary 樣本碎成片。fracture 裂縫報告。fraction／fractional 分數切片。fragile／frail 易碎玻璃；refract 折射光線——站長：fragmentary evidence 要標；fragile egos 別擋勘誤。",
+  "members": [
+    {
+      "headword": "fragment",
+      "inVocab": false,
+      "senseAnchor": "碎片；片段",
+      "roleInScript": "碎樣本",
+      "humorDevice": "morphology",
+      "zhGloss": "碎片；片段",
+      "speakLineEn": "Archive every fragment of the raw log.",
+      "speakLineZh": "保存原始日誌每一碎片。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "fragmentary",
+      "inVocab": false,
+      "senseAnchor": "片斷的；不完整的",
+      "roleInScript": "碎證據",
+      "humorDevice": "morphology",
+      "zhGloss": "片斷的；不完整的",
+      "speakLineEn": "Fragmentary evidence needs cautious claims.",
+      "speakLineZh": "片斷證據需要謹慎主張。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "fracture",
+      "inVocab": false,
+      "senseAnchor": "骨折；裂縫",
+      "roleInScript": "裂縫報告",
+      "humorDevice": "morphology",
+      "zhGloss": "骨折；裂縫",
+      "speakLineEn": "A fracture in the protocol must be logged.",
+      "speakLineZh": "規程裂縫必須記錄。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "fraction",
+      "inVocab": false,
+      "senseAnchor": "分數；部分",
+      "roleInScript": "切片",
+      "humorDevice": "morphology",
+      "zhGloss": "分數；部分",
+      "speakLineEn": "Report the excluded fraction with reasons.",
+      "speakLineZh": "報告排除分數並附理由。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "fractional",
+      "inVocab": false,
+      "senseAnchor": "分數的；微小的",
+      "roleInScript": "微小片",
+      "humorDevice": "morphology",
+      "zhGloss": "分數的；微小的",
+      "speakLineEn": "Even a fractional leak of outcomes matters.",
+      "speakLineZh": "結局哪怕微小洩漏也重要。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "fragile",
+      "inVocab": false,
+      "senseAnchor": "易碎的",
+      "roleInScript": "易碎玻璃",
+      "humorDevice": "morphology",
+      "zhGloss": "易碎的",
+      "speakLineEn": "Fragile findings need replication.",
+      "speakLineZh": "易碎發現需要複現。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "frail",
+      "inVocab": true,
+      "senseAnchor": "the weight of a frail (basket) full of raisins or figs; between 50 and 75 pounds; a basket for holding dried fruit (especially raisins or figs)",
+      "roleInScript": "虛弱架",
+      "humorDevice": "morphology",
+      "zhGloss": "虛弱的",
+      "speakLineEn": "A frail identification strategy collapses.",
+      "speakLineZh": "虛弱識別策略會塌。",
+      "related": {
+        "synonyms": "fallible, imperfect, weak, delicate, fragile",
+        "antonyms": "robust"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "refract",
+      "inVocab": false,
+      "senseAnchor": "折射",
+      "roleInScript": "折光",
+      "humorDevice": "morphology",
+      "zhGloss": "折射",
+      "speakLineEn": "Do not refract critique into personal attack.",
+      "speakLineZh": "別把批評折射成人身攻擊。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "infraction",
+      "inVocab": true,
+      "senseAnchor": "a crime less serious than a felony",
+      "roleInScript": "規則碎裂",
+      "humorDevice": "story",
+      "zhGloss": "違規",
+      "speakLineEn": "An infraction of blinding rules voids trust.",
+      "speakLineZh": "違反盲法規則摧毀信任。",
+      "related": {
+        "synonyms": "misdemeanor, misdemeanour, violation, infringement",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "diffraction",
+      "inVocab": false,
+      "senseAnchor": "繞射",
+      "roleInScript": "光繞彎",
+      "humorDevice": "story",
+      "zhGloss": "繞射",
+      "speakLineEn": "Think of bias as diffraction around design gaps.",
+      "speakLineZh": "把偏差當設計缺口的繞射。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "shatter",
+      "inVocab": true,
+      "senseAnchor": "break into many pieces; damage or destroy",
+      "roleInScript": "打碎",
+      "humorDevice": "story",
+      "zhGloss": "粉碎",
+      "speakLineEn": "One silent fork can shatter credibility.",
+      "speakLineZh": "一次沉默分叉可粉碎可信度。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "shard",
+      "inVocab": false,
+      "senseAnchor": "碎片",
+      "roleInScript": "玻璃渣",
+      "humorDevice": "story",
+      "zhGloss": "碎片",
+      "speakLineEn": "Each shard of code needs a commit message.",
+      "speakLineZh": "每片程式碼碎片需要 commit 訊息。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "fract＝碎：fragment/fracture/fraction/fragile/refract",
+    "fragmentary＝片斷的"
+  ],
+  "pitfalls": [
+    "fragile＝易碎；frail＝虛弱",
+    "refract＝折射"
+  ],
+  "lessonRefs": [
+    "lesson-root-fract-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch04"
+  }
+}

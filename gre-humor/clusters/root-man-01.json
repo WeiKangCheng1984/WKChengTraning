@@ -1,0 +1,163 @@
+{
+  "id": "root-man-01",
+  "type": "root",
+  "elementLemma": "man",
+  "titleZh": "man｜手法操作台",
+  "titleEn": "Man Hand Bench",
+  "hook": "字根 man＝手——操作台專管手工、指揮、維修與手冊。",
+  "script": "manual／manually 親手操作。manipulate／manipulation 動手腳。manufacture 製造產出。manage／manager／management 指揮手；emancipate 鬆開手銬——台長：manipulate data 零分；manual checks 必要。",
+  "members": [
+    {
+      "headword": "manual",
+      "inVocab": false,
+      "senseAnchor": "手冊；手動的",
+      "roleInScript": "親手操作",
+      "humorDevice": "morphology",
+      "zhGloss": "手冊；手動的",
+      "speakLineEn": "Keep a manual for the analysis pipeline.",
+      "speakLineZh": "為分析管線保留手冊。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "manually",
+      "inVocab": false,
+      "senseAnchor": "手動地",
+      "roleInScript": "親手做",
+      "humorDevice": "morphology",
+      "zhGloss": "手動地",
+      "speakLineEn": "Manually audit a random subset of rows.",
+      "speakLineZh": "手動稽核隨機列子集。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "manipulate",
+      "inVocab": false,
+      "senseAnchor": "操縱；操作",
+      "roleInScript": "動手腳",
+      "humorDevice": "morphology",
+      "zhGloss": "操縱；操作",
+      "speakLineEn": "Do not manipulate outcomes after seeing p.",
+      "speakLineZh": "看到 p 後不要操縱結局。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "manipulation",
+      "inVocab": false,
+      "senseAnchor": "操縱",
+      "roleInScript": "動手腳行為",
+      "humorDevice": "morphology",
+      "zhGloss": "操縱",
+      "speakLineEn": "Outcome manipulation is misconduct.",
+      "speakLineZh": "結局操縱是不端。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "manage",
+      "inVocab": false,
+      "senseAnchor": "管理",
+      "roleInScript": "指揮手",
+      "humorDevice": "morphology",
+      "zhGloss": "管理",
+      "speakLineEn": "Manage version control like a lab notebook.",
+      "speakLineZh": "把版本控制當實驗筆記管理。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "manager",
+      "inVocab": false,
+      "senseAnchor": "經理",
+      "roleInScript": "指揮的人",
+      "humorDevice": "morphology",
+      "zhGloss": "經理",
+      "speakLineEn": "A manager should model open corrections.",
+      "speakLineZh": "經理應示範公開勘誤。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "management",
+      "inVocab": false,
+      "senseAnchor": "管理",
+      "roleInScript": "指揮系統",
+      "humorDevice": "morphology",
+      "zhGloss": "管理",
+      "speakLineEn": "Data management plans beat heroics.",
+      "speakLineZh": "資料管理計畫勝過英雄主義。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "maneuver",
+      "inVocab": false,
+      "senseAnchor": "機動；手法",
+      "roleInScript": "手法動作",
+      "humorDevice": "story",
+      "zhGloss": "機動；手法",
+      "speakLineEn": "A statistical maneuver needs pre-rules.",
+      "speakLineZh": "統計手法需要預先規則。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "handmade",
+      "inVocab": false,
+      "senseAnchor": "手工的",
+      "roleInScript": "親手做的",
+      "humorDevice": "story",
+      "zhGloss": "手工的",
+      "speakLineEn": "Handmade figures still need axis labels.",
+      "speakLineZh": "手工圖仍需軸標籤。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "man＝手：manual/manipulate/manufacture/manage/emancipate",
+    "manipulate＝操縱"
+  ],
+  "pitfalls": [
+    "manual＝手冊／手動",
+    "emancipate＝解放"
+  ],
+  "lessonRefs": [
+    "lesson-root-man-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch04"
+  }
+}

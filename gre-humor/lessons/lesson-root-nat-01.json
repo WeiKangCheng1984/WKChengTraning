@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-nat-01",
+  "slug": "root-nat-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-nat-01",
+  "titleZh": "nasc／nat｜誕生產房",
+  "titleEn": "Nat Birth Ward",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 nasc/nat＝生——產房專管天生、國家、自然與新生。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "native／nativity 土生與誕生。nature／natural／naturalistic 自然產線。nation／national／international 國界標籤。nascent 剛出生的計畫；innate 天生氣質——護士：nascent ideas 要養；假 natural 結論要查。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "nat＝生：native/nature/nation/nascent/innate",
+        "nascent＝萌芽的"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Just beginning to exist:",
+      "promptZh": "萌芽新生：",
+      "choices": [
+        "nascent",
+        "mandatory",
+        "fragile",
+        "transmit"
+      ],
+      "answer": "nascent"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Inborn; not learned:",
+      "promptZh": "天生的：",
+      "choices": [
+        "innate",
+        "migrate",
+        "diagram",
+        "reprimand"
+      ],
+      "answer": "innate"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Of birthplace; original to a place:",
+      "promptZh": "本地／天生：",
+      "choices": [
+        "native",
+        "emission",
+        "shard",
+        "quietude"
+      ],
+      "answer": "native"
+    }
+  ],
+  "pitfalls": [
+    "innate＝天生的",
+    "nascent＝剛出現的"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch04"
+  }
+}

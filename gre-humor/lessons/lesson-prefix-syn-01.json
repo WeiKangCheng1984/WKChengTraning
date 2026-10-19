@@ -1,0 +1,97 @@
+{
+  "id": "lesson-prefix-syn-01",
+  "slug": "prefix-syn-01",
+  "season": 4,
+  "seasonTitleZh": "字首調味",
+  "seasonTitleEn": "Prefix Seasoning",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "prefix-syn-01",
+  "titleZh": "syn-/sym-｜同步合奏廳",
+  "titleEn": "Syn Harmony Hall",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字首 syn-/sym-＝一起／相同——合奏廳專管共生、研討與綜效。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "symbiosis 互相養活合奏。symposium 一起開會。symmetry 左右對稱譜。syndicate 聯盟櫃。synoptic 一頁總譜；synergy 1+1>2——指揮：synergy 要可測；syndicate 別變黑箱。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "syn-＝一起：symbiosis/symposium/symmetry/syndicate/synergy",
+        "symbiosis＝共生"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Living together mutually:",
+      "promptZh": "共生：",
+      "choices": [
+        "symbiosis",
+        "insomnia",
+        "umbrage",
+        "tome"
+      ],
+      "answer": "symbiosis"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Combined greater effect:",
+      "promptZh": "綜效：",
+      "choices": [
+        "synergy",
+        "verbiage",
+        "intruder",
+        "nap"
+      ],
+      "answer": "synergy"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Conference of specialists:",
+      "promptZh": "研討會：",
+      "choices": [
+        "symposium",
+        "mirage",
+        "noxious",
+        "prim"
+      ],
+      "answer": "symposium"
+    }
+  ],
+  "pitfalls": [
+    "synoptic＝概覽的",
+    "syndicate＝企業聯合／集團"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch03"
+  }
+}

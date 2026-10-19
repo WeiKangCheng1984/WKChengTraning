@@ -1,0 +1,208 @@
+{
+  "id": "root-simil-01",
+  "type": "root",
+  "elementLemma": "simil/simul",
+  "titleZh": "simil｜相似模仿影棚",
+  "titleEn": "Simil Lookalike Studio",
+  "hook": "字根 simil/simul＝相似——影棚專管相像、同時、假裝與彙整。",
+  "script": "similar／similarity 長得很像。simulate／simulation 用替身拍危險戲。simultaneous 多機同時開拍。assimilate 把新人同化進劇組；facsimile 傳真複本；dissimilar 根本不是同一劇——導演：simulate 可以，假資料不行；facsimile ≠ 原始檔。",
+  "members": [
+    {
+      "headword": "similar",
+      "inVocab": false,
+      "senseAnchor": "相似的",
+      "roleInScript": "長得很像",
+      "humorDevice": "morphology",
+      "zhGloss": "相似的",
+      "speakLineEn": "Similar p-values do not imply same mechanisms.",
+      "speakLineZh": "相似 p 值不代表同一機制。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "similarity",
+      "inVocab": false,
+      "senseAnchor": "相似性",
+      "roleInScript": "像的程度",
+      "humorDevice": "morphology",
+      "zhGloss": "相似性",
+      "speakLineEn": "Report similarity metrics with caveats.",
+      "speakLineZh": "報告相似性指標並附但書。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "simulate",
+      "inVocab": false,
+      "senseAnchor": "模擬",
+      "roleInScript": "替身拍戲",
+      "humorDevice": "morphology",
+      "zhGloss": "模擬",
+      "speakLineEn": "Simulate missingness before claiming robustness.",
+      "speakLineZh": "宣稱穩健前先模擬缺失。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "simulation",
+      "inVocab": false,
+      "senseAnchor": "模擬；假裝",
+      "roleInScript": "替身場次",
+      "humorDevice": "morphology",
+      "zhGloss": "模擬；假裝",
+      "speakLineEn": "A simulation is not a substitute for field data alone.",
+      "speakLineZh": "模擬不能單獨取代田野資料。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "simultaneous",
+      "inVocab": false,
+      "senseAnchor": "同時的",
+      "roleInScript": "多機同拍",
+      "humorDevice": "morphology",
+      "zhGloss": "同時的",
+      "speakLineEn": "Avoid simultaneous unblinded peeks.",
+      "speakLineZh": "避免同時非盲偷看。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "assimilate",
+      "inVocab": false,
+      "senseAnchor": "同化；吸收",
+      "roleInScript": "新人進劇組",
+      "humorDevice": "morphology",
+      "zhGloss": "同化；吸收",
+      "speakLineEn": "Assimilate open norms without erasing dissent.",
+      "speakLineZh": "同化開放規範但不抹掉異議。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "facsimile",
+      "inVocab": false,
+      "senseAnchor": "精確複本；傳真",
+      "roleInScript": "複本道具",
+      "humorDevice": "morphology",
+      "zhGloss": "精確複本；傳真",
+      "speakLineEn": "A facsimile PDF is not editable raw data.",
+      "speakLineZh": "傳真式 PDF 不是可編輯原始資料。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "dissimilar",
+      "inVocab": true,
+      "senseAnchor": "not similar; not alike or similar",
+      "roleInScript": "根本不像",
+      "humorDevice": "morphology",
+      "zhGloss": "不相似的",
+      "speakLineEn": "Dissimilar cohorts need stratified claims.",
+      "speakLineZh": "不相似世代需要分層主張。",
+      "related": {
+        "synonyms": "unalike, unlike, different",
+        "antonyms": "alike, like, similar"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "simile",
+      "inVocab": true,
+      "senseAnchor": "a figure of speech that expresses a resemblance between things of different kinds (usually formed with `like' or `as')",
+      "roleInScript": "像什麼的修辭",
+      "humorDevice": "story",
+      "zhGloss": "明喻",
+      "speakLineEn": "A simile in the intro is not identification.",
+      "speakLineZh": "導論明喻不是識別策略。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "semblance",
+      "inVocab": false,
+      "senseAnchor": "外表；相似外表",
+      "roleInScript": "看起來像",
+      "humorDevice": "story",
+      "zhGloss": "外表；相似外表",
+      "speakLineEn": "A semblance of rigor is still fog.",
+      "speakLineZh": "嚴謹的外表仍是霧。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "verisimilitude",
+      "inVocab": true,
+      "senseAnchor": "the quality of being true or real",
+      "roleInScript": "超像真",
+      "humorDevice": "story",
+      "zhGloss": "逼真；酷似真實",
+      "speakLineEn": "Verisimilitude in examples helps teaching.",
+      "speakLineZh": "例子逼真有助教學。",
+      "related": {
+        "synonyms": "authenticity, realism",
+        "antonyms": "unreality"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "simultaneously",
+      "inVocab": false,
+      "senseAnchor": "同時地",
+      "roleInScript": "同拍副詞",
+      "humorDevice": "story",
+      "zhGloss": "同時地",
+      "speakLineEn": "Do not edit code and results simultaneously unchecked.",
+      "speakLineZh": "不要同時改碼與結果且不檢查。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "simil＝似：similar/simulate/simultaneous/assimilate/facsimile",
+    "simulate＝模擬"
+  ],
+  "pitfalls": [
+    "assimilate＝同化／吸收",
+    "facsimile＝精確複本"
+  ],
+  "lessonRefs": [
+    "lesson-root-simil-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch03"
+  }
+}

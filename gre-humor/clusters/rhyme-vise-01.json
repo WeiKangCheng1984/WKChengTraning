@@ -1,0 +1,163 @@
+{
+  "id": "rhyme-vise-01",
+  "type": "rhyme",
+  "elementLemma": "-vise/-vice",
+  "titleZh": "vise／vice｜遠見與惡習館",
+  "titleEn": "Vise Vision & Vice Hall",
+  "hook": "vise＝看；vice＝惡／副——一館兩門：遠見顧問 vs 惡習警告。",
+  "script": "advise／advice／advisor 給遠見建議。revise／revision 再看一遍改稿。supervise／supervisor 監看。vice／vicious／vice versa：惡習、惡性、反之亦然——館長：revise  openly；vicious incentives 要拆。",
+  "members": [
+    {
+      "headword": "advise",
+      "inVocab": false,
+      "senseAnchor": "勸告；建議",
+      "roleInScript": "給遠見",
+      "humorDevice": "phonetic",
+      "zhGloss": "勸告；建議",
+      "speakLineEn": "Advise preregistration early.",
+      "speakLineZh": "及早建議預註冊。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "advice",
+      "inVocab": false,
+      "senseAnchor": "建議",
+      "roleInScript": "建議書",
+      "humorDevice": "phonetic",
+      "zhGloss": "建議",
+      "speakLineEn": "Take advice from auditors seriously.",
+      "speakLineZh": "認真採納稽核建議。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "advisor",
+      "inVocab": false,
+      "senseAnchor": "顧問",
+      "roleInScript": "遠見人",
+      "humorDevice": "phonetic",
+      "zhGloss": "顧問",
+      "speakLineEn": "Name a methods advisor on the team.",
+      "speakLineZh": "團隊具名方法顧問。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "revision",
+      "inVocab": false,
+      "senseAnchor": "修訂版",
+      "roleInScript": "再看版本",
+      "humorDevice": "phonetic",
+      "zhGloss": "修訂版",
+      "speakLineEn": "Log every revision of the protocol.",
+      "speakLineZh": "記錄規程每次修訂。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "supervisor",
+      "inVocab": false,
+      "senseAnchor": "主管；督導",
+      "roleInScript": "監看的人",
+      "humorDevice": "phonetic",
+      "zhGloss": "主管；督導",
+      "speakLineEn": "A supervisor should model corrections.",
+      "speakLineZh": "督導應示範勘誤。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "vice",
+      "inVocab": false,
+      "senseAnchor": "惡習；副職",
+      "roleInScript": "惡習門",
+      "humorDevice": "phonetic",
+      "zhGloss": "惡習；副職",
+      "speakLineEn": "P-hacking is a methodological vice.",
+      "speakLineZh": "p 操弄是方法惡習。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "vicious",
+      "inVocab": true,
+      "senseAnchor": "(of persons or their actions) able or disposed to inflict pain or suffering; having the nature of vice",
+      "roleInScript": "惡性循環",
+      "humorDevice": "phonetic",
+      "zhGloss": "惡性的；惡意的",
+      "speakLineEn": "Vicious cycles of secrecy block science.",
+      "speakLineZh": "保密惡性循環阻擋科學。",
+      "related": {
+        "synonyms": "barbarous, brutal, cruel, fell, roughshod, savage",
+        "antonyms": "ascend, increase, rise"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "vice versa",
+      "inVocab": false,
+      "senseAnchor": "反之亦然",
+      "roleInScript": "左右對調",
+      "humorDevice": "story",
+      "zhGloss": "反之亦然",
+      "speakLineEn": "If A implies B, check vice versa carefully.",
+      "speakLineZh": "若 A 蘊含 B，小心檢查反之亦然。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "envision",
+      "inVocab": false,
+      "senseAnchor": "設想",
+      "roleInScript": "看見未來",
+      "humorDevice": "story",
+      "zhGloss": "設想",
+      "speakLineEn": "Envision failure modes before launch.",
+      "speakLineZh": "上線前設想失敗模式。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "vise＝看：advise/revise/supervise；vice＝惡：vice/vicious",
+    "advice 名詞／advise 動詞"
+  ],
+  "pitfalls": [
+    "advice≠ advise 詞性",
+    "vice versa＝反之亦然"
+  ],
+  "lessonRefs": [
+    "lesson-rhyme-vise-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch03"
+  }
+}

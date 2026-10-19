@@ -1,0 +1,178 @@
+{
+  "id": "rhyme-sist-01",
+  "type": "rhyme",
+  "elementLemma": "-sist",
+  "titleZh": "sist｜站立抵抗館",
+  "titleEn": "Sist Stand Hall",
+  "hook": "字根／押韻 sist＝站——抵抗館專管堅持、協助、存在與堅持到底。",
+  "script": "insist 站著不讓步。persist／persistence 一直站。assist／assistance 扶你站穩。consist／consistent 站成一貫。exist／existence 站在世界上；resist／resistance 站著反抗——館長：insist on prereg；persist through nulls。",
+  "members": [
+    {
+      "headword": "insist",
+      "inVocab": false,
+      "senseAnchor": "堅持；堅決要求",
+      "roleInScript": "站著不讓",
+      "humorDevice": "phonetic",
+      "zhGloss": "堅持；堅決要求",
+      "speakLineEn": "Insist on open materials.",
+      "speakLineZh": "堅持要求開放材料。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "persistence",
+      "inVocab": false,
+      "senseAnchor": "持續；毅力",
+      "roleInScript": "站功",
+      "humorDevice": "phonetic",
+      "zhGloss": "持續；毅力",
+      "speakLineEn": "Persistence without methods is stubbornness.",
+      "speakLineZh": "沒有方法的持續是固執。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "assist",
+      "inVocab": false,
+      "senseAnchor": "協助",
+      "roleInScript": "扶一把",
+      "humorDevice": "phonetic",
+      "zhGloss": "協助",
+      "speakLineEn": "Assist juniors without rewriting their errors away.",
+      "speakLineZh": "協助資淺者，但不要改掉他們的錯誤紀錄。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "assistance",
+      "inVocab": false,
+      "senseAnchor": "協助",
+      "roleInScript": "扶助",
+      "humorDevice": "phonetic",
+      "zhGloss": "協助",
+      "speakLineEn": "Statistical assistance should be credited.",
+      "speakLineZh": "統計協助應署名。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "consist",
+      "inVocab": false,
+      "senseAnchor": "由……組成；在於",
+      "roleInScript": "站成整體",
+      "humorDevice": "phonetic",
+      "zhGloss": "由……組成；在於",
+      "speakLineEn": "Good papers consist of claims plus checks.",
+      "speakLineZh": "好論文由主張加檢查組成。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "consistent",
+      "inVocab": false,
+      "senseAnchor": "一致的",
+      "roleInScript": "站成一貫",
+      "humorDevice": "phonetic",
+      "zhGloss": "一致的",
+      "speakLineEn": "Keep coding rules consistent.",
+      "speakLineZh": "保持編碼規則一致。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "exist",
+      "inVocab": false,
+      "senseAnchor": "存在",
+      "roleInScript": "站在世界上",
+      "humorDevice": "phonetic",
+      "zhGloss": "存在",
+      "speakLineEn": "Null effects exist; publish them.",
+      "speakLineZh": "虛無效應存在；請發表。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "existence",
+      "inVocab": false,
+      "senseAnchor": "存在",
+      "roleInScript": "存在狀態",
+      "humorDevice": "phonetic",
+      "zhGloss": "存在",
+      "speakLineEn": "Question the existence of the effect, not the critic.",
+      "speakLineZh": "質疑效應存在，不是批評者。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "resistance",
+      "inVocab": false,
+      "senseAnchor": "抵抗；阻力",
+      "roleInScript": "反抗力",
+      "humorDevice": "phonetic",
+      "zhGloss": "抵抗；阻力",
+      "speakLineEn": "Resistance to sharing needs policy.",
+      "speakLineZh": "對共享的阻力需要政策。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "subsist",
+      "inVocab": false,
+      "senseAnchor": "維持生存；靠……過活",
+      "roleInScript": "站著活命",
+      "humorDevice": "story",
+      "zhGloss": "維持生存；靠……過活",
+      "speakLineEn": "Labs cannot subsist on slogans alone.",
+      "speakLineZh": "實驗室不能只靠口號過活。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "sist＝站：insist/persist/assist/consist/exist/resist",
+    "consistent＝一致的"
+  ],
+  "pitfalls": [
+    "insist on＝堅持要求",
+    "consist of／in 用法不同"
+  ],
+  "lessonRefs": [
+    "lesson-rhyme-sist-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch03"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "lesson-prefix-inter-01",
+  "slug": "prefix-inter-01",
+  "season": 4,
+  "seasonTitleZh": "字首調味",
+  "seasonTitleEn": "Prefix Seasoning",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "prefix-inter-01",
+  "titleZh": "inter-｜之間調度室",
+  "titleEn": "Inter Between Desk",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字首 inter-＝之間——調度室專管中間、互相、打斷與間隔。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "interact／interaction／interactive 互動機。interrupt／interruption 打斷線。interval／interim 間隔／期中。intermediate／intermediary 中間人；international（nat 族）跨國——調度：interaction tests；勿 interim peek。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "inter-＝之間：interact/interrupt/interval/interim/intermediate",
+        "interim＝暫時期中"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Temporary; in the meantime:",
+      "promptZh": "期中暫時：",
+      "choices": [
+        "interim",
+        "placid",
+        "polyglot",
+        "vacuous"
+      ],
+      "answer": "interim"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Space or time between; CI:",
+      "promptZh": "間隔／區間：",
+      "choices": [
+        "interval",
+        "fracture",
+        "mandate",
+        "sate"
+      ],
+      "answer": "interval"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Break into; stop briefly:",
+      "promptZh": "打斷：",
+      "choices": [
+        "interrupt",
+        "bisect",
+        "aspire",
+        "commend"
+      ],
+      "answer": "interrupt"
+    }
+  ],
+  "pitfalls": [
+    "interim＝暫時的",
+    "intermediary＝中間人"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch04"
+  }
+}

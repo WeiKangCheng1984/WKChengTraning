@@ -1,0 +1,208 @@
+{
+  "id": "root-radic-01",
+  "type": "root",
+  "elementLemma": "radic",
+  "titleZh": "radic｜根系園藝部",
+  "titleEn": "Radic Root Garden",
+  "hook": "字根 radic＝根——園藝部專管根本、根除與生根。",
+  "script": "radical／radically 連根改革。eradicate／eradication 根除雜草。radix／radicle／rootlet 根與幼根；rooted／rootedness／uprooting／deracinate——園長：eradicate p-hacking；radical openness。",
+  "members": [
+    {
+      "headword": "radical",
+      "inVocab": false,
+      "senseAnchor": "根本的；激進的",
+      "roleInScript": "連根",
+      "humorDevice": "morphology",
+      "zhGloss": "根本的；激進的",
+      "speakLineEn": "Radical transparency beats decorative openness.",
+      "speakLineZh": "根本透明勝過裝飾性開放。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "radically",
+      "inVocab": false,
+      "senseAnchor": "根本地",
+      "roleInScript": "連根副詞",
+      "humorDevice": "morphology",
+      "zhGloss": "根本地",
+      "speakLineEn": "Radically rewrite incentives around corrections.",
+      "speakLineZh": "根本改寫圍繞勘誤的誘因。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "eradicate",
+      "inVocab": false,
+      "senseAnchor": "根除",
+      "roleInScript": "拔雜草",
+      "humorDevice": "morphology",
+      "zhGloss": "根除",
+      "speakLineEn": "Eradicate silent outcome switching.",
+      "speakLineZh": "根除沉默結局更換。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "eradication",
+      "inVocab": false,
+      "senseAnchor": "根除",
+      "roleInScript": "根除案",
+      "humorDevice": "morphology",
+      "zhGloss": "根除",
+      "speakLineEn": "Eradication of opacity starts with logs.",
+      "speakLineZh": "根除不透明從日誌開始。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "radix",
+      "inVocab": false,
+      "senseAnchor": "字根；基數",
+      "roleInScript": "根部",
+      "humorDevice": "morphology",
+      "zhGloss": "字根；基數",
+      "speakLineEn": "Treat the estimand as the radix of claims.",
+      "speakLineZh": "把目標量當主張的根。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "radicle",
+      "inVocab": false,
+      "senseAnchor": "胚根；幼根",
+      "roleInScript": "幼根",
+      "humorDevice": "story",
+      "zhGloss": "胚根；幼根",
+      "speakLineEn": "Protect the radicle of junior skepticism.",
+      "speakLineZh": "保護資淺懷疑的幼根。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "rootlet",
+      "inVocab": false,
+      "senseAnchor": "細根",
+      "roleInScript": "細根絲",
+      "humorDevice": "story",
+      "zhGloss": "細根",
+      "speakLineEn": "Each rootlet of bias needs a label.",
+      "speakLineZh": "每條偏差細根都要標籤。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "rooted",
+      "inVocab": false,
+      "senseAnchor": "生根的",
+      "roleInScript": "已生根",
+      "humorDevice": "story",
+      "zhGloss": "生根的",
+      "speakLineEn": "Keep good habits rooted in checklists.",
+      "speakLineZh": "讓好習慣在清單中生根。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "rootedness",
+      "inVocab": false,
+      "senseAnchor": "生根性",
+      "roleInScript": "扎根度",
+      "humorDevice": "story",
+      "zhGloss": "生根性",
+      "speakLineEn": "Rootedness in methods beats charisma.",
+      "speakLineZh": "方法扎根勝過魅力。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "uprooting",
+      "inVocab": false,
+      "senseAnchor": "拔根",
+      "roleInScript": "拔根中",
+      "humorDevice": "story",
+      "zhGloss": "拔根",
+      "speakLineEn": "Uprooting legacy scripts needs a migration plan.",
+      "speakLineZh": "拔除遺留腳本需要遷移計畫。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "deracinate",
+      "inVocab": false,
+      "senseAnchor": "連根拔起",
+      "roleInScript": "拔起人",
+      "humorDevice": "story",
+      "zhGloss": "連根拔起",
+      "speakLineEn": "Deracinate cargo-cult statistics.",
+      "speakLineZh": "連根拔起盲從統計。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "irradiate",
+      "inVocab": false,
+      "senseAnchor": "照射",
+      "roleInScript": "光灑根",
+      "humorDevice": "story",
+      "zhGloss": "照射",
+      "speakLineEn": "Irradiate dark corners of the pipeline with audits.",
+      "speakLineZh": "用稽核照射管線暗角。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "radic＝根：radical/eradicate/radix/rooted/deracinate",
+    "eradicate＝根除"
+  ],
+  "pitfalls": [
+    "radical＝根本的／激進的",
+    "deracinate＝連根拔起"
+  ],
+  "lessonRefs": [
+    "lesson-root-radic-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch04"
+  }
+}

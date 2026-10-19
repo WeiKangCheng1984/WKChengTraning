@@ -1,0 +1,193 @@
+{
+  "id": "root-qui-01",
+  "type": "root",
+  "elementLemma": "qui",
+  "titleZh": "qui｜靜音控制室",
+  "titleEn": "Qui Quiet Control Room",
+  "hook": "字根 qui＝靜——控制室專管安靜、靜止、默許與收購安靜。",
+  "script": "quiet／quietly／quietude 靜音旋鈕。tranquil／tranquility 平靜畫面。acquiesce／acquiescent 默許點頭。requiem 安息曲梗；quietism 無為——控師：quietude for thinking；acquiesce to bad incentives 不行。",
+  "members": [
+    {
+      "headword": "quiet",
+      "inVocab": false,
+      "senseAnchor": "安靜的",
+      "roleInScript": "靜音",
+      "humorDevice": "morphology",
+      "zhGloss": "安靜的",
+      "speakLineEn": "Keep a quiet channel for error reports.",
+      "speakLineZh": "為錯誤回報保留安靜通道。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "quietly",
+      "inVocab": false,
+      "senseAnchor": "安靜地",
+      "roleInScript": "靜靜地",
+      "humorDevice": "morphology",
+      "zhGloss": "安靜地",
+      "speakLineEn": "Fix quietly, then announce publicly.",
+      "speakLineZh": "先安靜修好，再公開宣布。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "quietude",
+      "inVocab": false,
+      "senseAnchor": "寧靜",
+      "roleInScript": "靜室",
+      "humorDevice": "morphology",
+      "zhGloss": "寧靜",
+      "speakLineEn": "Protect quietude for reading the protocol.",
+      "speakLineZh": "保護閱讀規程的寧靜。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "tranquil",
+      "inVocab": true,
+      "senseAnchor": "(of a body of water) free from disturbance by heavy waves; not agitated; without losing self-possession",
+      "roleInScript": "平靜畫面",
+      "humorDevice": "morphology",
+      "zhGloss": "平靜的",
+      "speakLineEn": "Tranquil dashboards can hide missingness.",
+      "speakLineZh": "平靜儀表板可能藏缺失。",
+      "related": {
+        "synonyms": "placid, quiet, still, smooth, unruffled, calm",
+        "antonyms": "active, agitate, louden, noisy, sound, unquiet, unquietly, moving"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "tranquility",
+      "inVocab": true,
+      "senseAnchor": "a disposition free from stress or emotion; an untroubled state; free from disturbances",
+      "roleInScript": "平靜度",
+      "humorDevice": "morphology",
+      "zhGloss": "平靜",
+      "speakLineEn": "Tranquility is not the same as rigor.",
+      "speakLineZh": "平靜不等於嚴謹。",
+      "related": {
+        "synonyms": "repose, quiet, placidity, serenity, tranquillity, quietness",
+        "antonyms": "active, agitate, louden, noisy, sound, unquiet, unquietly"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "acquiesce",
+      "inVocab": true,
+      "senseAnchor": "to agree or express agreement",
+      "roleInScript": "點頭默許",
+      "humorDevice": "morphology",
+      "zhGloss": "默許",
+      "speakLineEn": "Do not acquiesce to outcome switching.",
+      "speakLineZh": "不要默許結局更換。",
+      "related": {
+        "synonyms": "assent, accede",
+        "antonyms": "resist, oppose, dissent"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "acquiescent",
+      "inVocab": false,
+      "senseAnchor": "默許的",
+      "roleInScript": "好說話",
+      "humorDevice": "morphology",
+      "zhGloss": "默許的",
+      "speakLineEn": "An acquiescent coauthor still shares blame.",
+      "speakLineZh": "好說話共同作者仍共擔責任。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "requiem",
+      "inVocab": false,
+      "senseAnchor": "安魂曲",
+      "roleInScript": "安息曲",
+      "humorDevice": "story",
+      "zhGloss": "安魂曲",
+      "speakLineEn": "Write a requiem for deprecated endpoints.",
+      "speakLineZh": "為棄用終點寫安魂曲。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "quietism",
+      "inVocab": false,
+      "senseAnchor": "寂靜主義",
+      "roleInScript": "無為靜",
+      "humorDevice": "story",
+      "zhGloss": "寂靜主義",
+      "speakLineEn": "Quietism about misconduct enables it.",
+      "speakLineZh": "對不端的無為使其得逞。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "mute",
+      "inVocab": false,
+      "senseAnchor": "靜音；啞",
+      "roleInScript": "靜音鍵",
+      "humorDevice": "story",
+      "zhGloss": "靜音；啞",
+      "speakLineEn": "Mute hype words in the title.",
+      "speakLineZh": "標題靜音炒作詞。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "hush",
+      "inVocab": true,
+      "senseAnchor": "(poetic) tranquil silence; become quiet or still; fall silent",
+      "roleInScript": "噓",
+      "humorDevice": "story",
+      "zhGloss": "肅靜",
+      "speakLineEn": "Hush culture blocks whistleblowers.",
+      "speakLineZh": "噓聲文化阻擋吹哨。",
+      "related": {
+        "synonyms": "stillness, still, quieten, silence, quiet, quiesce",
+        "antonyms": "louden"
+      },
+      "vocabStatus": "in-vocab"
+    }
+  ],
+  "reviewHooks": [
+    "qui＝靜：quiet/tranquil/acquiesce/quietude/requiem",
+    "acquiesce＝默許"
+  ],
+  "pitfalls": [
+    "acquiesce＝勉強同意／默許",
+    "quietude＝寧靜"
+  ],
+  "lessonRefs": [
+    "lesson-root-qui-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch04"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "id": "root-migr-01",
+  "type": "root",
+  "elementLemma": "migr",
+  "titleZh": "migr｜遷移口岸",
+  "titleEn": "Migr Crossing Gate",
+  "hook": "字根 migr＝移——口岸專管遷移、移民與轉場。",
+  "script": "migrate／migration 資料搬家。immigrant／emigrant 進關／出關人。migratory 季節性遷徙。transmigrate 轉世梗搬場——關員：migrate pipelines 要有 checksum；別 migrate 結局定義。",
+  "members": [
+    {
+      "headword": "immigrant",
+      "inVocab": false,
+      "senseAnchor": "移民（移入）",
+      "roleInScript": "進關人",
+      "humorDevice": "morphology",
+      "zhGloss": "移民（移入）",
+      "speakLineEn": "Treat immigrant datasets with local consent rules.",
+      "speakLineZh": "移入資料集遵守在地同意規則。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "emigrant",
+      "inVocab": false,
+      "senseAnchor": "移民（移出）",
+      "roleInScript": "出關人",
+      "humorDevice": "morphology",
+      "zhGloss": "移民（移出）",
+      "speakLineEn": "Emigrant variables need destination labels.",
+      "speakLineZh": "移出變數需要目的地標籤。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "relocating",
+      "inVocab": false,
+      "senseAnchor": "重新安置",
+      "roleInScript": "再安置",
+      "humorDevice": "story",
+      "zhGloss": "重新安置",
+      "speakLineEn": "Relocating servers is not relocating outcomes.",
+      "speakLineZh": "搬伺服器不是搬結局。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "exodus",
+      "inVocab": true,
+      "senseAnchor": "a journey by a large group to escape from a hostile environment; the second book of the Old Testament: tells of the departure of the Israelites out of slavery in Egypt led by Moses; God gave them the Ten Commandments and the rest of Mosaic law on Mount Sinai during the Exodus",
+      "roleInScript": "大出走",
+      "humorDevice": "story",
+      "zhGloss": "大批離開",
+      "speakLineEn": "An exodus of staff risks lost documentation.",
+      "speakLineZh": "人員大出走有文件遺失風險。",
+      "related": {
+        "synonyms": "hegira, hejira",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "nomad",
+      "inVocab": false,
+      "senseAnchor": "遊牧者",
+      "roleInScript": "遊牧帳",
+      "humorDevice": "story",
+      "zhGloss": "遊牧者",
+      "speakLineEn": "Nomad analysts still commit to a repo.",
+      "speakLineZh": "遊牧分析師仍要提交到 repo。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "transit",
+      "inVocab": false,
+      "senseAnchor": "過境",
+      "roleInScript": "過境帶",
+      "humorDevice": "story",
+      "zhGloss": "過境",
+      "speakLineEn": "Keep identifiers in transit encrypted.",
+      "speakLineZh": "過境中的識別碼要加密。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "uproot",
+      "inVocab": false,
+      "senseAnchor": "連根拔起",
+      "roleInScript": "拔根",
+      "humorDevice": "story",
+      "zhGloss": "連根拔起",
+      "speakLineEn": "Uproot legacy scripts that hide peeks.",
+      "speakLineZh": "拔起隱藏偷看的遺留腳本。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "resettle",
+      "inVocab": false,
+      "senseAnchor": "重新定居",
+      "roleInScript": "再安家",
+      "humorDevice": "story",
+      "zhGloss": "重新定居",
+      "speakLineEn": "Resettle cleaned data in a read-only vault.",
+      "speakLineZh": "把清乾淨資料再安家到唯讀庫。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "migr＝移：migrate/migration/immigrant/emigrant/migratory",
+    "emigrant＝移出者"
+  ],
+  "pitfalls": [
+    "immigrant＝移入；emigrant＝移出",
+    "migratory＝遷徙的"
+  ],
+  "lessonRefs": [
+    "lesson-root-migr-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch04"
+  }
+}

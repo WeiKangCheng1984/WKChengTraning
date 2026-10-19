@@ -1,7 +1,7 @@
 {
-  "version": "v0.8-p2b02",
-  "status": "p2-batch02",
-  "uniqueWords": 1462,
+  "version": "v0.9-p2b04",
+  "status": "p2-batch04",
+  "uniqueWords": 1887,
   "clusters": [
     {
       "id": "look-a-01",
@@ -39,6 +39,13 @@
       "memberCount": 10
     },
     {
+      "id": "prefix-circum-01",
+      "type": "prefix",
+      "titleZh": "circum-｜環繞航線塔",
+      "status": "reviewed",
+      "memberCount": 9
+    },
+    {
       "id": "prefix-con-01",
       "type": "prefix",
       "titleZh": "con-/com-｜一起拼裝廠",
@@ -67,11 +74,32 @@
       "memberCount": 11
     },
     {
+      "id": "prefix-hyper-01",
+      "type": "prefix",
+      "titleZh": "hyper-｜過度加速器",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
+      "id": "prefix-hypo-01",
+      "type": "prefix",
+      "titleZh": "hypo-｜不足低壓艙",
+      "status": "reviewed",
+      "memberCount": 10
+    },
+    {
       "id": "prefix-in-01",
       "type": "prefix",
       "titleZh": "in-｜進入／否定雙門",
       "status": "reviewed",
       "memberCount": 12
+    },
+    {
+      "id": "prefix-inter-01",
+      "type": "prefix",
+      "titleZh": "inter-｜之間調度室",
+      "status": "reviewed",
+      "memberCount": 8
     },
     {
       "id": "prefix-mis-01",
@@ -88,6 +116,13 @@
       "memberCount": 8
     },
     {
+      "id": "prefix-poly-01",
+      "type": "prefix",
+      "titleZh": "poly-｜多聲部錄音室",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
       "id": "prefix-pre-01",
       "type": "prefix",
       "titleZh": "pre-｜預先倒數計時器",
@@ -100,6 +135,20 @@
       "titleZh": "pro-｜向前推進器",
       "status": "reviewed",
       "memberCount": 8
+    },
+    {
+      "id": "prefix-sub-01",
+      "type": "prefix",
+      "titleZh": "sub-｜地下工程隊",
+      "status": "reviewed",
+      "memberCount": 9
+    },
+    {
+      "id": "prefix-syn-01",
+      "type": "prefix",
+      "titleZh": "syn-/sym-｜同步合奏廳",
+      "status": "reviewed",
+      "memberCount": 12
     },
     {
       "id": "rhyme-ain-01",
@@ -151,6 +200,13 @@
       "memberCount": 5
     },
     {
+      "id": "rhyme-sist-01",
+      "type": "rhyme",
+      "titleZh": "sist｜站立抵抗館",
+      "status": "reviewed",
+      "memberCount": 10
+    },
+    {
       "id": "rhyme-spir-01",
       "type": "rhyme",
       "titleZh": "spir｜呼吸志向館",
@@ -163,6 +219,13 @@
       "titleZh": "ude｜質地抽象館",
       "status": "reviewed",
       "memberCount": 11
+    },
+    {
+      "id": "rhyme-vise-01",
+      "type": "rhyme",
+      "titleZh": "vise／vice｜遠見與惡習館",
+      "status": "reviewed",
+      "memberCount": 9
     },
     {
       "id": "root-cap-01",
@@ -256,6 +319,13 @@
       "memberCount": 12
     },
     {
+      "id": "root-fract-01",
+      "type": "root",
+      "titleZh": "frag／fract｜碎裂修復站",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
       "id": "root-fus-01",
       "type": "root",
       "titleZh": "fus｜澆熔混合廠",
@@ -266,6 +336,13 @@
       "id": "root-gen-01",
       "type": "root",
       "titleZh": "gen｜基因與天才產房",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
+      "id": "root-graph-01",
+      "type": "root",
+      "titleZh": "graph／gram｜圖寫繪圖司",
       "status": "reviewed",
       "memberCount": 12
     },
@@ -347,6 +424,20 @@
       "memberCount": 12
     },
     {
+      "id": "root-man-01",
+      "type": "root",
+      "titleZh": "man｜手法操作台",
+      "status": "reviewed",
+      "memberCount": 9
+    },
+    {
+      "id": "root-mand-01",
+      "type": "root",
+      "titleZh": "mand｜命令櫃台",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
       "id": "root-medi-01",
       "type": "root",
       "titleZh": "medi｜中庸調解茶室",
@@ -361,11 +452,32 @@
       "memberCount": 12
     },
     {
+      "id": "root-mens-01",
+      "type": "root",
+      "titleZh": "mens｜度量衡檢驗所",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
       "id": "root-merge-01",
       "type": "root",
       "titleZh": "merge｜沉浮游泳池",
       "status": "reviewed",
       "memberCount": 12
+    },
+    {
+      "id": "root-migr-01",
+      "type": "root",
+      "titleZh": "migr｜遷移口岸",
+      "status": "reviewed",
+      "memberCount": 8
+    },
+    {
+      "id": "root-mir-01",
+      "type": "root",
+      "titleZh": "mir｜奇蹟鏡屋",
+      "status": "reviewed",
+      "memberCount": 11
     },
     {
       "id": "root-mit-01",
@@ -410,11 +522,25 @@
       "memberCount": 12
     },
     {
+      "id": "root-nat-01",
+      "type": "root",
+      "titleZh": "nasc／nat｜誕生產房",
+      "status": "reviewed",
+      "memberCount": 10
+    },
+    {
       "id": "root-neg-01",
       "type": "root",
       "titleZh": "neg｜否定開關室",
       "status": "reviewed",
       "memberCount": 12
+    },
+    {
+      "id": "root-noc-01",
+      "type": "root",
+      "titleZh": "noc／nox｜有害物質管制局",
+      "status": "reviewed",
+      "memberCount": 11
     },
     {
       "id": "root-nov-01",
@@ -508,6 +634,13 @@
       "memberCount": 12
     },
     {
+      "id": "root-plac-01",
+      "type": "root",
+      "titleZh": "plac｜安撫接待室",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
       "id": "root-port-01",
       "type": "root",
       "titleZh": "port｜港口物流劇",
@@ -525,6 +658,20 @@
       "id": "root-pot-01",
       "type": "root",
       "titleZh": "pot｜能量電位室",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
+      "id": "root-press-01",
+      "type": "root",
+      "titleZh": "press｜壓力印刷廠",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
+      "id": "root-prim-01",
+      "type": "root",
+      "titleZh": "prim｜第一優先櫃枱",
       "status": "reviewed",
       "memberCount": 12
     },
@@ -564,11 +711,32 @@
       "memberCount": 12
     },
     {
+      "id": "root-qui-01",
+      "type": "root",
+      "titleZh": "qui｜靜音控制室",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
       "id": "root-quis-01",
       "type": "root",
       "titleZh": "quis｜尋問徵收處",
       "status": "reviewed",
       "memberCount": 12
+    },
+    {
+      "id": "root-radic-01",
+      "type": "root",
+      "titleZh": "radic｜根系園藝部",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
+      "id": "root-rap-01",
+      "type": "root",
+      "titleZh": "rap／rav｜奪取警報台",
+      "status": "reviewed",
+      "memberCount": 11
     },
     {
       "id": "root-rect-01",
@@ -606,6 +774,13 @@
       "memberCount": 11
     },
     {
+      "id": "root-sat-01",
+      "type": "root",
+      "titleZh": "sat／satis｜飽足餐廳",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
       "id": "root-scend-01",
       "type": "root",
       "titleZh": "scend｜階層攀爬遊戲",
@@ -632,6 +807,13 @@
       "titleZh": "scrib｜書寫管理局",
       "status": "reviewed",
       "memberCount": 15
+    },
+    {
+      "id": "root-sect-01",
+      "type": "root",
+      "titleZh": "sec／sect｜切割手術室",
+      "status": "reviewed",
+      "memberCount": 10
     },
     {
       "id": "root-sed-01",
@@ -669,9 +851,23 @@
       "memberCount": 12
     },
     {
+      "id": "root-simil-01",
+      "type": "root",
+      "titleZh": "simil｜相似模仿影棚",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
       "id": "root-solv-01",
       "type": "root",
       "titleZh": "solv｜溶解與解方實驗室",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
+      "id": "root-somn-01",
+      "type": "root",
+      "titleZh": "somn｜睡眠實驗室",
       "status": "reviewed",
       "memberCount": 12
     },
@@ -697,11 +893,32 @@
       "memberCount": 15
     },
     {
+      "id": "root-strict-01",
+      "type": "root",
+      "titleZh": "string／strict｜綁緊繩索庫",
+      "status": "reviewed",
+      "memberCount": 10
+    },
+    {
       "id": "root-struct-01",
       "type": "root",
       "titleZh": "struct｜建築工地",
       "status": "reviewed",
       "memberCount": 15
+    },
+    {
+      "id": "root-sum-01",
+      "type": "root",
+      "titleZh": "sum｜加總提款機",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
+      "id": "root-tact-01",
+      "type": "root",
+      "titleZh": "tact／tang｜觸覺接待處",
+      "status": "reviewed",
+      "memberCount": 12
     },
     {
       "id": "root-tempor-01",
@@ -746,6 +963,20 @@
       "memberCount": 12
     },
     {
+      "id": "root-thesis-01",
+      "type": "root",
+      "titleZh": "thesis｜命題對打擂台",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
+      "id": "root-tom-01",
+      "type": "root",
+      "titleZh": "tom｜切割解剖室",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
       "id": "root-tort-01",
       "type": "root",
       "titleZh": "tort｜麻花捲人格",
@@ -767,9 +998,37 @@
       "memberCount": 12
     },
     {
+      "id": "root-trud-01",
+      "type": "root",
+      "titleZh": "trud｜推擠閘門",
+      "status": "reviewed",
+      "memberCount": 10
+    },
+    {
       "id": "root-turb-01",
       "type": "root",
       "titleZh": "turb｜擾流控制室",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
+      "id": "root-umbr-01",
+      "type": "root",
+      "titleZh": "umbr｜陰影傘具店",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
+      "id": "root-vac-01",
+      "type": "root",
+      "titleZh": "vac｜真空清潔站",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
+      "id": "root-val-01",
+      "type": "root",
+      "titleZh": "val｜價值健身房",
       "status": "reviewed",
       "memberCount": 12
     },
@@ -779,6 +1038,13 @@
       "titleZh": "ven／vent｜到來與出口",
       "status": "reviewed",
       "memberCount": 15
+    },
+    {
+      "id": "root-verb-01",
+      "type": "root",
+      "titleZh": "verb｜用字說話社",
+      "status": "reviewed",
+      "memberCount": 10
     },
     {
       "id": "root-vert-01",
@@ -814,6 +1080,13 @@
       "titleZh": "voc／vok｜呼叫中心",
       "status": "reviewed",
       "memberCount": 11
+    },
+    {
+      "id": "root-vol-01",
+      "type": "root",
+      "titleZh": "vol｜意願飛行塔",
+      "status": "reviewed",
+      "memberCount": 12
     },
     {
       "id": "root-vor-01",
@@ -972,6 +1245,17 @@
       "memberCount": 5
     },
     {
+      "id": "lesson-rhyme-sist-01",
+      "slug": "rhyme-sist-01",
+      "season": 1,
+      "seasonTitleZh": "押韻派對",
+      "titleZh": "sist｜站立抵抗館",
+      "clusterId": "rhyme-sist-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 10
+    },
+    {
       "id": "lesson-rhyme-spir-01",
       "slug": "rhyme-spir-01",
       "season": 1,
@@ -992,6 +1276,17 @@
       "type": "family",
       "status": "reviewed",
       "memberCount": 11
+    },
+    {
+      "id": "lesson-rhyme-vise-01",
+      "slug": "rhyme-vise-01",
+      "season": 1,
+      "seasonTitleZh": "押韻派對",
+      "titleZh": "vise／vice｜遠見與惡習館",
+      "clusterId": "rhyme-vise-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 9
     },
     {
       "id": "lesson-root-cap-01",
@@ -1137,6 +1432,17 @@
       "memberCount": 12
     },
     {
+      "id": "lesson-root-fract-01",
+      "slug": "root-fract-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "frag／fract｜碎裂修復站",
+      "clusterId": "root-fract-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
       "id": "lesson-root-fus-01",
       "slug": "root-fus-01",
       "season": 2,
@@ -1154,6 +1460,17 @@
       "seasonTitleZh": "字根劇場",
       "titleZh": "gen｜基因與天才產房",
       "clusterId": "root-gen-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
+      "id": "lesson-root-graph-01",
+      "slug": "root-graph-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "graph／gram｜圖寫繪圖司",
+      "clusterId": "root-graph-01",
       "type": "family",
       "status": "reviewed",
       "memberCount": 12
@@ -1280,6 +1597,28 @@
       "memberCount": 12
     },
     {
+      "id": "lesson-root-man-01",
+      "slug": "root-man-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "man｜手法操作台",
+      "clusterId": "root-man-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 9
+    },
+    {
+      "id": "lesson-root-mand-01",
+      "slug": "root-mand-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "mand｜命令櫃台",
+      "clusterId": "root-mand-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
       "id": "lesson-root-medi-01",
       "slug": "root-medi-01",
       "season": 2,
@@ -1302,6 +1641,17 @@
       "memberCount": 12
     },
     {
+      "id": "lesson-root-mens-01",
+      "slug": "root-mens-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "mens｜度量衡檢驗所",
+      "clusterId": "root-mens-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
       "id": "lesson-root-merge-01",
       "slug": "root-merge-01",
       "season": 2,
@@ -1311,6 +1661,28 @@
       "type": "family",
       "status": "reviewed",
       "memberCount": 12
+    },
+    {
+      "id": "lesson-root-migr-01",
+      "slug": "root-migr-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "migr｜遷移口岸",
+      "clusterId": "root-migr-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 8
+    },
+    {
+      "id": "lesson-root-mir-01",
+      "slug": "root-mir-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "mir｜奇蹟鏡屋",
+      "clusterId": "root-mir-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 11
     },
     {
       "id": "lesson-root-mit-01",
@@ -1379,6 +1751,17 @@
       "memberCount": 12
     },
     {
+      "id": "lesson-root-nat-01",
+      "slug": "root-nat-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "nasc／nat｜誕生產房",
+      "clusterId": "root-nat-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 10
+    },
+    {
       "id": "lesson-root-neg-01",
       "slug": "root-neg-01",
       "season": 2,
@@ -1388,6 +1771,17 @@
       "type": "family",
       "status": "reviewed",
       "memberCount": 12
+    },
+    {
+      "id": "lesson-root-noc-01",
+      "slug": "root-noc-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "noc／nox｜有害物質管制局",
+      "clusterId": "root-noc-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 11
     },
     {
       "id": "lesson-root-nov-01",
@@ -1533,6 +1927,17 @@
       "memberCount": 12
     },
     {
+      "id": "lesson-root-plac-01",
+      "slug": "root-plac-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "plac｜安撫接待室",
+      "clusterId": "root-plac-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
       "id": "lesson-root-port-01",
       "slug": "root-port-01",
       "season": 2,
@@ -1561,6 +1966,28 @@
       "seasonTitleZh": "字根劇場",
       "titleZh": "pot｜能量電位室",
       "clusterId": "root-pot-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
+      "id": "lesson-root-press-01",
+      "slug": "root-press-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "press｜壓力印刷廠",
+      "clusterId": "root-press-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
+      "id": "lesson-root-prim-01",
+      "slug": "root-prim-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "prim｜第一優先櫃枱",
+      "clusterId": "root-prim-01",
       "type": "family",
       "status": "reviewed",
       "memberCount": 12
@@ -1621,6 +2048,17 @@
       "memberCount": 12
     },
     {
+      "id": "lesson-root-qui-01",
+      "slug": "root-qui-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "qui｜靜音控制室",
+      "clusterId": "root-qui-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
       "id": "lesson-root-quis-01",
       "slug": "root-quis-01",
       "season": 2,
@@ -1630,6 +2068,28 @@
       "type": "family",
       "status": "reviewed",
       "memberCount": 12
+    },
+    {
+      "id": "lesson-root-radic-01",
+      "slug": "root-radic-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "radic｜根系園藝部",
+      "clusterId": "root-radic-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
+      "id": "lesson-root-rap-01",
+      "slug": "root-rap-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "rap／rav｜奪取警報台",
+      "clusterId": "root-rap-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 11
     },
     {
       "id": "lesson-root-rect-01",
@@ -1687,6 +2147,17 @@
       "memberCount": 11
     },
     {
+      "id": "lesson-root-sat-01",
+      "slug": "root-sat-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "sat／satis｜飽足餐廳",
+      "clusterId": "root-sat-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
       "id": "lesson-root-scend-01",
       "slug": "root-scend-01",
       "season": 2,
@@ -1729,6 +2200,17 @@
       "type": "family",
       "status": "reviewed",
       "memberCount": 15
+    },
+    {
+      "id": "lesson-root-sect-01",
+      "slug": "root-sect-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "sec／sect｜切割手術室",
+      "clusterId": "root-sect-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 10
     },
     {
       "id": "lesson-root-sed-01",
@@ -1786,12 +2268,34 @@
       "memberCount": 12
     },
     {
+      "id": "lesson-root-simil-01",
+      "slug": "root-simil-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "simil｜相似模仿影棚",
+      "clusterId": "root-simil-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
       "id": "lesson-root-solv-01",
       "slug": "root-solv-01",
       "season": 2,
       "seasonTitleZh": "字根劇場",
       "titleZh": "solv｜溶解與解方實驗室",
       "clusterId": "root-solv-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
+      "id": "lesson-root-somn-01",
+      "slug": "root-somn-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "somn｜睡眠實驗室",
+      "clusterId": "root-somn-01",
       "type": "family",
       "status": "reviewed",
       "memberCount": 12
@@ -1830,6 +2334,17 @@
       "memberCount": 15
     },
     {
+      "id": "lesson-root-strict-01",
+      "slug": "root-strict-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "string／strict｜綁緊繩索庫",
+      "clusterId": "root-strict-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 10
+    },
+    {
       "id": "lesson-root-struct-01",
       "slug": "root-struct-01",
       "season": 2,
@@ -1839,6 +2354,28 @@
       "type": "family",
       "status": "reviewed",
       "memberCount": 15
+    },
+    {
+      "id": "lesson-root-sum-01",
+      "slug": "root-sum-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "sum｜加總提款機",
+      "clusterId": "root-sum-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
+      "id": "lesson-root-tact-01",
+      "slug": "root-tact-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "tact／tang｜觸覺接待處",
+      "clusterId": "root-tact-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 12
     },
     {
       "id": "lesson-root-tempor-01",
@@ -1907,6 +2444,28 @@
       "memberCount": 12
     },
     {
+      "id": "lesson-root-thesis-01",
+      "slug": "root-thesis-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "thesis｜命題對打擂台",
+      "clusterId": "root-thesis-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
+      "id": "lesson-root-tom-01",
+      "slug": "root-tom-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "tom｜切割解剖室",
+      "clusterId": "root-tom-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
       "id": "lesson-root-tort-01",
       "slug": "root-tort-01",
       "season": 2,
@@ -1940,12 +2499,56 @@
       "memberCount": 12
     },
     {
+      "id": "lesson-root-trud-01",
+      "slug": "root-trud-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "trud｜推擠閘門",
+      "clusterId": "root-trud-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 10
+    },
+    {
       "id": "lesson-root-turb-01",
       "slug": "root-turb-01",
       "season": 2,
       "seasonTitleZh": "字根劇場",
       "titleZh": "turb｜擾流控制室",
       "clusterId": "root-turb-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
+      "id": "lesson-root-umbr-01",
+      "slug": "root-umbr-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "umbr｜陰影傘具店",
+      "clusterId": "root-umbr-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
+      "id": "lesson-root-vac-01",
+      "slug": "root-vac-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "vac｜真空清潔站",
+      "clusterId": "root-vac-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
+      "id": "lesson-root-val-01",
+      "slug": "root-val-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "val｜價值健身房",
+      "clusterId": "root-val-01",
       "type": "family",
       "status": "reviewed",
       "memberCount": 12
@@ -1960,6 +2563,17 @@
       "type": "family",
       "status": "reviewed",
       "memberCount": 15
+    },
+    {
+      "id": "lesson-root-verb-01",
+      "slug": "root-verb-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "verb｜用字說話社",
+      "clusterId": "root-verb-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 10
     },
     {
       "id": "lesson-root-vert-01",
@@ -2015,6 +2629,17 @@
       "type": "family",
       "status": "reviewed",
       "memberCount": 11
+    },
+    {
+      "id": "lesson-root-vol-01",
+      "slug": "root-vol-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "vol｜意願飛行塔",
+      "clusterId": "root-vol-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 12
     },
     {
       "id": "lesson-root-vor-01",
@@ -2193,6 +2818,17 @@
       "memberCount": 10
     },
     {
+      "id": "lesson-prefix-circum-01",
+      "slug": "prefix-circum-01",
+      "season": 4,
+      "seasonTitleZh": "字首調味",
+      "titleZh": "circum-｜環繞航線塔",
+      "clusterId": "prefix-circum-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 9
+    },
+    {
       "id": "lesson-prefix-con-01",
       "slug": "prefix-con-01",
       "season": 4,
@@ -2237,6 +2873,28 @@
       "memberCount": 11
     },
     {
+      "id": "lesson-prefix-hyper-01",
+      "slug": "prefix-hyper-01",
+      "season": 4,
+      "seasonTitleZh": "字首調味",
+      "titleZh": "hyper-｜過度加速器",
+      "clusterId": "prefix-hyper-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
+      "id": "lesson-prefix-hypo-01",
+      "slug": "prefix-hypo-01",
+      "season": 4,
+      "seasonTitleZh": "字首調味",
+      "titleZh": "hypo-｜不足低壓艙",
+      "clusterId": "prefix-hypo-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 10
+    },
+    {
       "id": "lesson-prefix-in-01",
       "slug": "prefix-in-01",
       "season": 4,
@@ -2246,6 +2904,17 @@
       "type": "family",
       "status": "reviewed",
       "memberCount": 12
+    },
+    {
+      "id": "lesson-prefix-inter-01",
+      "slug": "prefix-inter-01",
+      "season": 4,
+      "seasonTitleZh": "字首調味",
+      "titleZh": "inter-｜之間調度室",
+      "clusterId": "prefix-inter-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 8
     },
     {
       "id": "lesson-prefix-mis-01",
@@ -2270,6 +2939,17 @@
       "memberCount": 8
     },
     {
+      "id": "lesson-prefix-poly-01",
+      "slug": "prefix-poly-01",
+      "season": 4,
+      "seasonTitleZh": "字首調味",
+      "titleZh": "poly-｜多聲部錄音室",
+      "clusterId": "prefix-poly-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
       "id": "lesson-prefix-pre-01",
       "slug": "prefix-pre-01",
       "season": 4,
@@ -2290,6 +2970,28 @@
       "type": "family",
       "status": "reviewed",
       "memberCount": 8
+    },
+    {
+      "id": "lesson-prefix-sub-01",
+      "slug": "prefix-sub-01",
+      "season": 4,
+      "seasonTitleZh": "字首調味",
+      "titleZh": "sub-｜地下工程隊",
+      "clusterId": "prefix-sub-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 9
+    },
+    {
+      "id": "lesson-prefix-syn-01",
+      "slug": "prefix-syn-01",
+      "season": 4,
+      "seasonTitleZh": "字首調味",
+      "titleZh": "syn-/sym-｜同步合奏廳",
+      "clusterId": "prefix-syn-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 12
     }
   ]
 }

@@ -1,0 +1,208 @@
+{
+  "id": "root-vol-01",
+  "type": "root",
+  "elementLemma": "vol",
+  "titleZh": "vol｜意願飛行塔",
+  "titleEn": "Vol Will & Flight Tower",
+  "hook": "字根 vol＝願／飛——塔台左頻是意願，右頻是飛行（依詞分流）。",
+  "script": "voluntary／volunteer 自願登機。volition 意願操縱桿。benevolent／malevolent（他族）提醒好壞意願。volatile 脾氣／市況易飛走；volley 對打飛球；volume 音量飛高——塔台：voluntary consent；volatile claims 要繫安全帶。",
+  "members": [
+    {
+      "headword": "voluntary",
+      "inVocab": false,
+      "senseAnchor": "自願的",
+      "roleInScript": "自願登機",
+      "humorDevice": "morphology",
+      "zhGloss": "自願的",
+      "speakLineEn": "Participation must be voluntary and informed.",
+      "speakLineZh": "參與必須自願且知情。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "volunteer",
+      "inVocab": false,
+      "senseAnchor": "志工；自願做",
+      "roleInScript": "志願機組",
+      "humorDevice": "morphology",
+      "zhGloss": "志工；自願做",
+      "speakLineEn": "Volunteer coders still need credit.",
+      "speakLineZh": "志願寫碼者仍需署名。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "volition",
+      "inVocab": true,
+      "senseAnchor": "the capability of conscious choice and decision and intention; - George Meredith; the act of making a choice",
+      "roleInScript": "操縱桿",
+      "humorDevice": "morphology",
+      "zhGloss": "意志；決意",
+      "speakLineEn": "Fraud is a choice of volition, not accident.",
+      "speakLineZh": "造假是意志選擇不是意外。",
+      "related": {
+        "synonyms": "will, willing",
+        "antonyms": "disinherit, unwilling"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "volatile",
+      "inVocab": true,
+      "senseAnchor": "a volatile substance; a substance that changes readily from solid or liquid to a vapor; evaporating readily at normal temperatures and pressures",
+      "roleInScript": "易飛走",
+      "humorDevice": "morphology",
+      "zhGloss": "易變的；易揮發的",
+      "speakLineEn": "Volatile metrics need version pins.",
+      "speakLineZh": "易變指標需要版本釘死。",
+      "related": {
+        "synonyms": "explosive, fickle",
+        "antonyms": "stable, steady, nonvolatile"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "volley",
+      "inVocab": false,
+      "senseAnchor": "齊發；對打",
+      "roleInScript": "飛球對打",
+      "humorDevice": "morphology",
+      "zhGloss": "齊發；對打",
+      "speakLineEn": "A volley of critiques should stay on methods.",
+      "speakLineZh": "齊發批評應停在方法上。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "volume",
+      "inVocab": false,
+      "senseAnchor": "音量；冊；體積",
+      "roleInScript": "音量飛高",
+      "humorDevice": "morphology",
+      "zhGloss": "音量；冊；體積",
+      "speakLineEn": "Turn down the volume of hype.",
+      "speakLineZh": "把炒作音量調低。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "involuntary",
+      "inVocab": true,
+      "senseAnchor": "not subject to the control of the will; ; ; ; - John F.Kennedy; controlled by the autonomic nervous system; without conscious control",
+      "roleInScript": "被推進機艙",
+      "humorDevice": "story",
+      "zhGloss": "非自願的",
+      "speakLineEn": "Involuntary data reuse needs fresh consent.",
+      "speakLineZh": "非自願資料再利用需新同意。",
+      "related": {
+        "synonyms": "nonvoluntary, unvoluntary",
+        "antonyms": "voluntary"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "volatility",
+      "inVocab": false,
+      "senseAnchor": "波動性",
+      "roleInScript": "飛走程度",
+      "humorDevice": "story",
+      "zhGloss": "波動性",
+      "speakLineEn": "Report estimate volatility across specs.",
+      "speakLineZh": "報告跨規格估計波動。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "fly",
+      "inVocab": false,
+      "senseAnchor": "飛",
+      "roleInScript": "起飛",
+      "humorDevice": "story",
+      "zhGloss": "飛",
+      "speakLineEn": "Ideas that cannot fly without secrecy fail science.",
+      "speakLineZh": "靠保密才能飛的想法不符科學。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "willpower",
+      "inVocab": false,
+      "senseAnchor": "意志力",
+      "roleInScript": "願的力",
+      "humorDevice": "story",
+      "zhGloss": "意志力",
+      "speakLineEn": "Willpower alone cannot replace checklists.",
+      "speakLineZh": "單靠意志力不能取代檢核表。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "willing",
+      "inVocab": false,
+      "senseAnchor": "願意的",
+      "roleInScript": "肯飛",
+      "humorDevice": "story",
+      "zhGloss": "願意的",
+      "speakLineEn": "Be willing to publish nulls.",
+      "speakLineZh": "願意發表虛無結果。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "unwilling",
+      "inVocab": false,
+      "senseAnchor": "不願意的",
+      "roleInScript": "不肯飛",
+      "humorDevice": "story",
+      "zhGloss": "不願意的",
+      "speakLineEn": "Unwilling data sharing stalls replications.",
+      "speakLineZh": "不願共享資料拖延複現。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "vol＝願：voluntary/volunteer/volition；vol＝飛／變：volatile/volley",
+    "volition＝意志"
+  ],
+  "pitfalls": [
+    "volatile＝易變／易揮發",
+    "voluntary≠ volunteer 詞類不同"
+  ],
+  "lessonRefs": [
+    "lesson-root-vol-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch03"
+  }
+}

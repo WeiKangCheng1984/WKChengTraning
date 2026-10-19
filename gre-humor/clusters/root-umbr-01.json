@@ -1,0 +1,208 @@
+{
+  "id": "root-umbr-01",
+  "type": "root",
+  "elementLemma": "umbr",
+  "titleZh": "umbr｜陰影傘具店",
+  "titleEn": "Umbr Shade Shop",
+  "hook": "字根 umbr＝影——傘具店專管陰影、傘下與生氣翻臉。",
+  "script": "umbrella 大傘遮一切（別濫用）。umbra／penumbra 本影與半影。adumbrate 先投下輪廓陰影。umbrage 生氣翻臉覺得被踩影——店員：adumbrate 限制；別 take umbrage 於誠實批評。",
+  "members": [
+    {
+      "headword": "umbrella",
+      "inVocab": false,
+      "senseAnchor": "傘；總括",
+      "roleInScript": "大傘",
+      "humorDevice": "morphology",
+      "zhGloss": "傘；總括",
+      "speakLineEn": "An 'umbrella term' still needs definition.",
+      "speakLineZh": "總括詞仍需定義。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "umbra",
+      "inVocab": false,
+      "senseAnchor": "本影",
+      "roleInScript": "全暗影",
+      "humorDevice": "morphology",
+      "zhGloss": "本影",
+      "speakLineEn": "Keep fraud in the umbra of zero tolerance.",
+      "speakLineZh": "造假放在零容忍本影裡。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "penumbra",
+      "inVocab": false,
+      "senseAnchor": "半影",
+      "roleInScript": "灰影帶",
+      "humorDevice": "morphology",
+      "zhGloss": "半影",
+      "speakLineEn": "Ethics often lives in a penumbra of edge cases.",
+      "speakLineZh": "倫理常活在邊緣半影。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "adumbrate",
+      "inVocab": false,
+      "senseAnchor": "預示；勾勒",
+      "roleInScript": "投下輪廓影",
+      "humorDevice": "morphology",
+      "zhGloss": "預示；勾勒",
+      "speakLineEn": "Adumbrate the design in the abstract.",
+      "speakLineZh": "在摘要勾勒設計。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "umbrage",
+      "inVocab": true,
+      "senseAnchor": "anger",
+      "roleInScript": "踩影翻臉",
+      "humorDevice": "morphology",
+      "zhGloss": "不快；生氣",
+      "speakLineEn": "Do not take umbrage at null results.",
+      "speakLineZh": "不要對虛無結果見怪。",
+      "related": {
+        "synonyms": "offense, resentment",
+        "antonyms": "defence, defense"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "shadow",
+      "inVocab": false,
+      "senseAnchor": "影子",
+      "roleInScript": "影近親",
+      "humorDevice": "story",
+      "zhGloss": "影子",
+      "speakLineEn": "Shadow the analysis with a second coder.",
+      "speakLineZh": "用第二編碼者影子覆核分析。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "shade",
+      "inVocab": false,
+      "senseAnchor": "陰影；色度",
+      "roleInScript": "遮光",
+      "humorDevice": "story",
+      "zhGloss": "陰影；色度",
+      "speakLineEn": "Shade uncertainty on the plot.",
+      "speakLineZh": "在圖上為不確定遮光。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "overshadow",
+      "inVocab": false,
+      "senseAnchor": "使黯然",
+      "roleInScript": "大影壓小",
+      "humorDevice": "story",
+      "zhGloss": "使黯然",
+      "speakLineEn": "Do not let branding overshadow methods.",
+      "speakLineZh": "不要讓品牌壓過方法。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "silhouette",
+      "inVocab": false,
+      "senseAnchor": "剪影",
+      "roleInScript": "輪廓影",
+      "humorDevice": "story",
+      "zhGloss": "剪影",
+      "speakLineEn": "Give a silhouette of the causal graph early.",
+      "speakLineZh": "及早給因果圖剪影。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "cloud",
+      "inVocab": false,
+      "senseAnchor": "雲；陰影",
+      "roleInScript": "遮住",
+      "humorDevice": "story",
+      "zhGloss": "雲；陰影",
+      "speakLineEn": "Clouds of jargon hide weak n.",
+      "speakLineZh": "行話雲遮住弱樣本。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "eclipse",
+      "inVocab": false,
+      "senseAnchor": "蝕；蓋過",
+      "roleInScript": "影蓋過",
+      "humorDevice": "story",
+      "zhGloss": "蝕；蓋過",
+      "speakLineEn": "Do not eclipse limitations with celebrations.",
+      "speakLineZh": "不要用慶祝蓋過限制。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "cast a shadow",
+      "inVocab": false,
+      "senseAnchor": "投下陰影",
+      "roleInScript": "投下疑雲",
+      "humorDevice": "story",
+      "zhGloss": "投下陰影",
+      "speakLineEn": "Leaked IDs cast a shadow on trust.",
+      "speakLineZh": "外洩 ID 對信任投下陰影。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "umbr＝影：umbrella/umbra/penumbra/adumbrate/umbrage",
+    "take umbrage＝生氣見怪"
+  ],
+  "pitfalls": [
+    "adumbrate＝預示／勾勒",
+    "umbrage＝不快／生氣"
+  ],
+  "lessonRefs": [
+    "lesson-root-umbr-01"
+  ],
+  "status": "reviewed",
+  "priority": "C",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch03"
+  }
+}

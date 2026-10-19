@@ -1,0 +1,178 @@
+{
+  "id": "root-trud-01",
+  "type": "root",
+  "elementLemma": "trud/trus",
+  "titleZh": "trud｜推擠閘門",
+  "titleEn": "Trud Push Gate",
+  "hook": "字根 trud/trus＝推——閘門專管硬推、侵入、突出與抽象。",
+  "script": "intrude／intrusion／intruder 硬闖閘門。obtrude／obtrusive 硬把東西推到眼前。protrude 往外突出。abstruse 推到抽象雲端看不懂；extrude 擠出成形——門衛：obtrusive 浮水印不行；abstruse 方法要翻譯。",
+  "members": [
+    {
+      "headword": "intrude",
+      "inVocab": true,
+      "senseAnchor": "to come into a place or situation",
+      "roleInScript": "硬闖",
+      "humorDevice": "morphology",
+      "zhGloss": "侵入；打擾",
+      "speakLineEn": "Do not intrude on blinded analysis.",
+      "speakLineZh": "不要侵入盲法分析。",
+      "related": {
+        "synonyms": "invade",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "intrusion",
+      "inVocab": false,
+      "senseAnchor": "侵入",
+      "roleInScript": "闖閘事件",
+      "humorDevice": "morphology",
+      "zhGloss": "侵入",
+      "speakLineEn": "Data intrusion requires incident response.",
+      "speakLineZh": "資料侵入需要事故應變。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "intruder",
+      "inVocab": false,
+      "senseAnchor": "入侵者",
+      "roleInScript": "闖閘的人",
+      "humorDevice": "morphology",
+      "zhGloss": "入侵者",
+      "speakLineEn": "Treat silent forks as protocol intruders.",
+      "speakLineZh": "把沉默分叉當規程入侵者。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "obtrude",
+      "inVocab": true,
+      "senseAnchor": "push to thrust outward; thrust oneself in as if by force",
+      "roleInScript": "硬推到眼前",
+      "humorDevice": "morphology",
+      "zhGloss": "強加；突出",
+      "speakLineEn": "Do not obtrude ideology onto measures.",
+      "speakLineZh": "不要把意識形態強加到測量。",
+      "related": {
+        "synonyms": "intrude",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "protrude",
+      "inVocab": false,
+      "senseAnchor": "突出；伸出",
+      "roleInScript": "往外凸",
+      "humorDevice": "morphology",
+      "zhGloss": "突出；伸出",
+      "speakLineEn": "Outliers that protrude need rules, not vibes.",
+      "speakLineZh": "突出極端值需要規則不是感覺。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "extrude",
+      "inVocab": true,
+      "senseAnchor": "form or shape by forcing through an opening",
+      "roleInScript": "擠出成形",
+      "humorDevice": "story",
+      "zhGloss": "擠出",
+      "speakLineEn": "Extrude clear takeaways from dense tables.",
+      "speakLineZh": "從密集表擠出清楚重點。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "thrust",
+      "inVocab": false,
+      "senseAnchor": "推力",
+      "roleInScript": "推一把",
+      "humorDevice": "story",
+      "zhGloss": "推力",
+      "speakLineEn": "Thrust transparency into the workflow.",
+      "speakLineZh": "把透明推進工作流。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "intrusive",
+      "inVocab": false,
+      "senseAnchor": "侵擾的",
+      "roleInScript": "太侵入",
+      "humorDevice": "story",
+      "zhGloss": "侵擾的",
+      "speakLineEn": "Intrusive surveys need stronger consent.",
+      "speakLineZh": "侵擾式問卷需要更強同意。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "unobtrusive",
+      "inVocab": true,
+      "senseAnchor": "not obtrusive or undesirably noticeable",
+      "roleInScript": "不擋路",
+      "humorDevice": "story",
+      "zhGloss": "不顯眼的",
+      "speakLineEn": "Prefer unobtrusive watermarks.",
+      "speakLineZh": "偏好不顯眼浮水印。",
+      "related": {
+        "synonyms": "unnoticeable",
+        "antonyms": "obtrusive"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "pushy",
+      "inVocab": false,
+      "senseAnchor": "硬推的",
+      "roleInScript": "推銷感",
+      "humorDevice": "story",
+      "zhGloss": "硬推的",
+      "speakLineEn": "Pushy claims invite skepticism.",
+      "speakLineZh": "硬推主張招來懷疑。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "trud＝推：intrude/obtrude/protrude/abstruse/extrude",
+    "abstruse＝深奧難懂"
+  ],
+  "pitfalls": [
+    "obtrude／obtrusive＝強加／礙眼",
+    "abstruse≠ abstract 完全等同"
+  ],
+  "lessonRefs": [
+    "lesson-root-trud-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch03"
+  }
+}

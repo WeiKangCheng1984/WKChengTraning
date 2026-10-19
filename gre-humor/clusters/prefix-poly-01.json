@@ -1,0 +1,193 @@
+{
+  "id": "prefix-poly-01",
+  "type": "prefix",
+  "elementLemma": "poly-",
+  "titleZh": "poly-｜多聲部錄音室",
+  "titleEn": "Poly Multitrack Studio",
+  "hook": "字首 poly-＝多——錄音室專管多元、多音、多形與多智。",
+  "script": "polyglot 多語軌。polygon 多邊舞台。polymorphic／polymorphism 多形變聲。polymath 多才工程師；polyphony 多聲部——製作人：polyglot docs；勿 polymorphic 結局定義。",
+  "members": [
+    {
+      "headword": "polyglot",
+      "inVocab": false,
+      "senseAnchor": "通多種語言的人",
+      "roleInScript": "多語軌",
+      "humorDevice": "morphology",
+      "zhGloss": "通多種語言的人",
+      "speakLineEn": "Ship polyglot documentation for collaborators.",
+      "speakLineZh": "為合作者提供多語文件。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "polygon",
+      "inVocab": false,
+      "senseAnchor": "多邊形",
+      "roleInScript": "多邊舞台",
+      "humorDevice": "morphology",
+      "zhGloss": "多邊形",
+      "speakLineEn": "Plot uncertainty as a polygon, not a point.",
+      "speakLineZh": "把不確定畫成多邊形，不是點。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "polymorphic",
+      "inVocab": false,
+      "senseAnchor": "多形的；多態的",
+      "roleInScript": "多形變聲",
+      "humorDevice": "morphology",
+      "zhGloss": "多形的；多態的",
+      "speakLineEn": "Polymorphic outcome definitions invite chaos.",
+      "speakLineZh": "多態結局定義招來混亂。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "polymorphism",
+      "inVocab": false,
+      "senseAnchor": "多型；多態",
+      "roleInScript": "多型譜",
+      "humorDevice": "morphology",
+      "zhGloss": "多型；多態",
+      "speakLineEn": "Genetic polymorphism is not a free causal ticket.",
+      "speakLineZh": "基因多型不是免費因果票。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "polymath",
+      "inVocab": true,
+      "senseAnchor": "a person who knows a lot about different subjects",
+      "roleInScript": "多才軌",
+      "humorDevice": "morphology",
+      "zhGloss": "博學者",
+      "speakLineEn": "Even a polymath needs a checklist.",
+      "speakLineZh": "即使博學者也需要清單。",
+      "related": {
+        "synonyms": "pundit, savant",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "polyphony",
+      "inVocab": false,
+      "senseAnchor": "複音；多聲部",
+      "roleInScript": "多聲部",
+      "humorDevice": "story",
+      "zhGloss": "複音；多聲部",
+      "speakLineEn": "Lab polyphony needs a conductor protocol.",
+      "speakLineZh": "實驗室多聲部需要指揮規程。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "polymer",
+      "inVocab": false,
+      "senseAnchor": "聚合物",
+      "roleInScript": "多單體",
+      "humorDevice": "story",
+      "zhGloss": "聚合物",
+      "speakLineEn": "Think of a paper as a polymer of claims and checks.",
+      "speakLineZh": "把論文當主張與檢查的聚合物。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "multimedia",
+      "inVocab": false,
+      "senseAnchor": "多媒體",
+      "roleInScript": "多媒介",
+      "humorDevice": "story",
+      "zhGloss": "多媒體",
+      "speakLineEn": "Multimedia supplements still need captions.",
+      "speakLineZh": "多媒體補充仍需圖說。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "multiple",
+      "inVocab": false,
+      "senseAnchor": "多重的",
+      "roleInScript": "多重",
+      "humorDevice": "story",
+      "zhGloss": "多重的",
+      "speakLineEn": "Correct for multiple comparisons when planned.",
+      "speakLineZh": "計畫時校正多重比較。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "manifold",
+      "inVocab": false,
+      "senseAnchor": "多種的；流形",
+      "roleInScript": "多樣",
+      "humorDevice": "story",
+      "zhGloss": "多種的；流形",
+      "speakLineEn": "Manifold threats to validity need a table.",
+      "speakLineZh": "多種效度威脅需要表格。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "plural",
+      "inVocab": false,
+      "senseAnchor": "複數的；多元的",
+      "roleInScript": "複數",
+      "humorDevice": "story",
+      "zhGloss": "複數的；多元的",
+      "speakLineEn": "Use plural authorship with plural accountability.",
+      "speakLineZh": "多元作者伴隨多元問責。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "poly-＝多：polyglot/polygon/polymorphic/polymath/polyphony",
+    "polyglot＝通多語者"
+  ],
+  "pitfalls": [
+    "polymath＝博學者",
+    "polymorphism＝多型／多態"
+  ],
+  "lessonRefs": [
+    "lesson-prefix-poly-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch04"
+  }
+}

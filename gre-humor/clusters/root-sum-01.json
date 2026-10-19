@@ -1,0 +1,208 @@
+{
+  "id": "root-sum-01",
+  "type": "root",
+  "elementLemma": "sum",
+  "titleZh": "sum｜加總提款機",
+  "titleEn": "Sum Total ATM",
+  "hook": "字根 sum＝拿、總——提款機專管總結、消費、假定與傲慢帳單。",
+  "script": "summary／summarize 列印總結小票。consume／consumer／consumption 把餘額花掉。assume／assumption 先假定密碼對。presumptuous 還沒刷卡就自以為VIP；sumptuous 豪華帳單——行員：assume 要寫明；presumptuous 語氣會被拒單。",
+  "members": [
+    {
+      "headword": "summary",
+      "inVocab": false,
+      "senseAnchor": "摘要；總結",
+      "roleInScript": "總結小票",
+      "humorDevice": "morphology",
+      "zhGloss": "摘要；總結",
+      "speakLineEn": "A summary must list limitations.",
+      "speakLineZh": "摘要必須列出限制。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "summarize",
+      "inVocab": false,
+      "senseAnchor": "總結",
+      "roleInScript": "列印總結",
+      "humorDevice": "morphology",
+      "zhGloss": "總結",
+      "speakLineEn": "Summarize without erasing uncertainty.",
+      "speakLineZh": "總結時不要抹掉不確定性。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "consume",
+      "inVocab": false,
+      "senseAnchor": "消耗；消費",
+      "roleInScript": "花掉餘額",
+      "humorDevice": "morphology",
+      "zhGloss": "消耗；消費",
+      "speakLineEn": "Do not consume the whole alpha on fishing.",
+      "speakLineZh": "不要把 α 全花在淘篩上。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "consumer",
+      "inVocab": false,
+      "senseAnchor": "消費者",
+      "roleInScript": "刷卡的人",
+      "humorDevice": "morphology",
+      "zhGloss": "消費者",
+      "speakLineEn": "Treat readers as skeptical consumers of claims.",
+      "speakLineZh": "把讀者當懷疑的主張消費者。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "consumption",
+      "inVocab": false,
+      "senseAnchor": "消耗；消費",
+      "roleInScript": "花費流水",
+      "humorDevice": "morphology",
+      "zhGloss": "消耗；消費",
+      "speakLineEn": "Track compute consumption in methods.",
+      "speakLineZh": "方法段追蹤計算消耗。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "assume",
+      "inVocab": true,
+      "senseAnchor": "take on oneself",
+      "roleInScript": "先假定",
+      "humorDevice": "morphology",
+      "zhGloss": "假定；承擔",
+      "speakLineEn": "State what you assume about missingness.",
+      "speakLineZh": "說明你對缺失的假定。",
+      "related": {
+        "synonyms": "undertake, shoulder",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "assumption",
+      "inVocab": false,
+      "senseAnchor": "假設",
+      "roleInScript": "密碼前提",
+      "humorDevice": "morphology",
+      "zhGloss": "假設",
+      "speakLineEn": "Every causal claim hides assumptions.",
+      "speakLineZh": "每個因果主張都藏假設。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "presumptuous",
+      "inVocab": true,
+      "senseAnchor": "excessively forward",
+      "roleInScript": "自以為VIP",
+      "humorDevice": "morphology",
+      "zhGloss": "僭越的；自負的",
+      "speakLineEn": "It is presumptuous to skip preregistration.",
+      "speakLineZh": "跳過預註冊很僭越。",
+      "related": {
+        "synonyms": "assumptive, assuming",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "sumptuous",
+      "inVocab": true,
+      "senseAnchor": "rich and superior in quality",
+      "roleInScript": "豪華帳單",
+      "humorDevice": "story",
+      "zhGloss": "奢華的",
+      "speakLineEn": "Sumptuous prose cannot buy identification.",
+      "speakLineZh": "奢華文風買不到識別。",
+      "related": {
+        "synonyms": "deluxe, gilded, grand, luxurious, opulent, princely",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "resume",
+      "inVocab": false,
+      "senseAnchor": "繼續；履歷",
+      "roleInScript": "再提款",
+      "humorDevice": "story",
+      "zhGloss": "繼續；履歷",
+      "speakLineEn": "Resume enrollment only after lock.",
+      "speakLineZh": "鎖定後才繼續收案。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "summit",
+      "inVocab": false,
+      "senseAnchor": "高峰；峰會",
+      "roleInScript": "加總頂點",
+      "humorDevice": "story",
+      "zhGloss": "高峰；峰會",
+      "speakLineEn": "Do not claim a summit from one pilot.",
+      "speakLineZh": "不要用一次試點宣稱高峰。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "sum",
+      "inVocab": false,
+      "senseAnchor": "總和",
+      "roleInScript": "加總鍵",
+      "humorDevice": "story",
+      "zhGloss": "總和",
+      "speakLineEn": "Report the sum of exclusions.",
+      "speakLineZh": "報告排除總和。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "sum＝總／拿：summary/consume/assume/assumption/presumptuous",
+    "presumptuous＝僭越自負"
+  ],
+  "pitfalls": [
+    "assume≠ ensure",
+    "sumptuous＝奢華的"
+  ],
+  "lessonRefs": [
+    "lesson-root-sum-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch03"
+  }
+}

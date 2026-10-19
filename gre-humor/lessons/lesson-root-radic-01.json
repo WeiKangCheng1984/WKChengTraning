@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-radic-01",
+  "slug": "root-radic-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-radic-01",
+  "titleZh": "radic｜根系園藝部",
+  "titleEn": "Radic Root Garden",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 radic＝根——園藝部專管根本、根除與生根。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "radical／radically 連根改革。eradicate／eradication 根除雜草。radix／radicle／rootlet 根與幼根；rooted／rootedness／uprooting／deracinate——園長：eradicate p-hacking；radical openness。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "radic＝根：radical/eradicate/radix/rooted/deracinate",
+        "eradicate＝根除"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Destroy completely; root out:",
+      "promptZh": "根除：",
+      "choices": [
+        "eradicate",
+        "aspire",
+        "placate",
+        "mute"
+      ],
+      "answer": "eradicate"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Fundamental; extreme:",
+      "promptZh": "根本／激進：",
+      "choices": [
+        "radical",
+        "vacuous",
+        "interim",
+        "polyglot"
+      ],
+      "answer": "radical"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Uproot from native place:",
+      "promptZh": "連根拔起：",
+      "choices": [
+        "deracinate",
+        "satisfy",
+        "bisect",
+        "commend"
+      ],
+      "answer": "deracinate"
+    }
+  ],
+  "pitfalls": [
+    "radical＝根本的／激進的",
+    "deracinate＝連根拔起"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch04"
+  }
+}

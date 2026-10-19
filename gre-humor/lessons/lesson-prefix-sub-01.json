@@ -1,0 +1,97 @@
+{
+  "id": "lesson-prefix-sub-01",
+  "slug": "prefix-sub-01",
+  "season": 4,
+  "seasonTitleZh": "字首調味",
+  "seasonTitleEn": "Prefix Seasoning",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "prefix-sub-01",
+  "titleZh": "sub-｜地下工程隊",
+  "titleEn": "Sub Underground Crew",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字首 sub-＝在下——工程隊專管底下、替補、征服與訂閱。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "submerge（他族）往下沉。submit／submission 呈交到上層。subordinate（他族）在下屬。subtle 底下細微差異。substitute 替補零件；subscribe／subscription 訂閱維修——隊長：subtle bias 要抓；submit 前先自查。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "sub-＝在下：submit/subtle/substitute/subscribe/subdue",
+        "subtle＝微妙的"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Delicate; not obvious:",
+      "promptZh": "微妙精細：",
+      "choices": [
+        "subtle",
+        "immense",
+        "noxious",
+        "prim"
+      ],
+      "answer": "subtle"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Replace with another:",
+      "promptZh": "替代：",
+      "choices": [
+        "substitute",
+        "admire",
+        "detest",
+        "orient"
+      ],
+      "answer": "substitute"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Hand in; yield:",
+      "promptZh": "提交／屈服：",
+      "choices": [
+        "submit",
+        "volley",
+        "mirage",
+        "tome"
+      ],
+      "answer": "submit"
+    }
+  ],
+  "pitfalls": [
+    "subtle≠ shuttle",
+    "subdue＝征服／壓制"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch03"
+  }
+}

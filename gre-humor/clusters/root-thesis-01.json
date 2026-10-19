@@ -1,0 +1,193 @@
+{
+  "id": "root-thesis-01",
+  "type": "root",
+  "elementLemma": "thesis",
+  "titleZh": "thesis｜命題對打擂台",
+  "titleEn": "Thesis Debate Ring",
+  "hook": "字根 thesis＝放、命題——擂台左右是正題與反題，合成才是結局。",
+  "script": "thesis 正方命題放上桌。antithesis 反方對打。synthesis 合成收場。hypothesis 待驗假說；parenthesis 括號旁白。prosthesis 義肢道具（詞源『放在前面』）——裁判：hypothesis 要可打；parenthesis 別塞進結局變項。",
+  "members": [
+    {
+      "headword": "thesis",
+      "inVocab": false,
+      "senseAnchor": "論題；論文",
+      "roleInScript": "正方命題",
+      "humorDevice": "morphology",
+      "zhGloss": "論題；論文",
+      "speakLineEn": "State the thesis before the literature fog.",
+      "speakLineZh": "文獻迷霧前先陳述論題。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "antithesis",
+      "inVocab": true,
+      "senseAnchor": "exact opposite; the juxtaposition of contrasting words or ideas to give a feeling of balance",
+      "roleInScript": "反方對打",
+      "humorDevice": "morphology",
+      "zhGloss": "對立面；對照",
+      "speakLineEn": "Report the antithesis finding honestly.",
+      "speakLineZh": "誠實報告對立發現。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "synthesis",
+      "inVocab": false,
+      "senseAnchor": "綜合；合成",
+      "roleInScript": "合成收場",
+      "humorDevice": "morphology",
+      "zhGloss": "綜合；合成",
+      "speakLineEn": "A synthesis of replications beats one hit.",
+      "speakLineZh": "複現綜合勝過單次爆紅。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "hypothesis",
+      "inVocab": false,
+      "senseAnchor": "假說",
+      "roleInScript": "待驗命題",
+      "humorDevice": "morphology",
+      "zhGloss": "假說",
+      "speakLineEn": "Preregister the hypothesis, not the punchline.",
+      "speakLineZh": "預註冊假說，不是笑點。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "parenthesis",
+      "inVocab": false,
+      "senseAnchor": "括號；插句",
+      "roleInScript": "旁白括號",
+      "humorDevice": "morphology",
+      "zhGloss": "括號；插句",
+      "speakLineEn": "Do not hide exclusions in a parenthesis.",
+      "speakLineZh": "不要把排除藏在括號裡。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "prosthesis",
+      "inVocab": false,
+      "senseAnchor": "義肢；假體",
+      "roleInScript": "前方加裝道具",
+      "humorDevice": "morphology",
+      "zhGloss": "義肢；假體",
+      "speakLineEn": "A statistical prosthesis cannot fix bad design.",
+      "speakLineZh": "統計義肢修不好壞設計。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "hypothetical",
+      "inVocab": false,
+      "senseAnchor": "假設的",
+      "roleInScript": "假如對打",
+      "humorDevice": "story",
+      "zhGloss": "假設的",
+      "speakLineEn": "Keep hypotheticals labeled as such.",
+      "speakLineZh": "假設情境要標清楚。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "synthesize",
+      "inVocab": false,
+      "senseAnchor": "綜合；合成",
+      "roleInScript": "做合成",
+      "humorDevice": "story",
+      "zhGloss": "綜合；合成",
+      "speakLineEn": "Synthesize evidence with explicit weights.",
+      "speakLineZh": "用明確權重綜合證據。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "hypothesize",
+      "inVocab": false,
+      "senseAnchor": "提出假說",
+      "roleInScript": "放上假說",
+      "humorDevice": "story",
+      "zhGloss": "提出假說",
+      "speakLineEn": "Hypothesize before you peek.",
+      "speakLineZh": "偷看前先提出假說。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "dissertation",
+      "inVocab": false,
+      "senseAnchor": "學位論文",
+      "roleInScript": "長命題",
+      "humorDevice": "story",
+      "zhGloss": "學位論文",
+      "speakLineEn": "A dissertation needs open materials.",
+      "speakLineZh": "學位論文需要開放材料。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "counterthesis",
+      "inVocab": false,
+      "senseAnchor": "反論題",
+      "roleInScript": "對打卡",
+      "humorDevice": "story",
+      "zhGloss": "反論題",
+      "speakLineEn": "Write the counterthesis in the discussion.",
+      "speakLineZh": "在討論寫反論題。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "thesis＝命題：thesis/antithesis/synthesis/hypothesis/parenthesis",
+    "antithesis＝對立面"
+  ],
+  "pitfalls": [
+    "hypothesis＝假說",
+    "synthesis＝綜合／合成"
+  ],
+  "lessonRefs": [
+    "lesson-root-thesis-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch03"
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "id": "root-somn-01",
+  "type": "root",
+  "elementLemma": "somn",
+  "titleZh": "somn｜睡眠實驗室",
+  "titleEn": "Somn Sleep Lab",
+  "hook": "字根 somn＝睡——睡眠實驗室專管失眠、催眠與夢遊決策。",
+  "script": "insomnia 研究員徹夜改圖。somnolent 會議睡著。somnambulist 夢遊按了提交。hypnosis／somniferous 催眠與催睡藥味——護士：insomnia 改碼會出錯；別 somnambulist 式上線。",
+  "members": [
+    {
+      "headword": "insomnia",
+      "inVocab": false,
+      "senseAnchor": "失眠",
+      "roleInScript": "徹夜改圖",
+      "humorDevice": "morphology",
+      "zhGloss": "失眠",
+      "speakLineEn": "Insomnia coding breeds silent bugs.",
+      "speakLineZh": "失眠寫碼滋生沉默錯誤。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "somnolent",
+      "inVocab": true,
+      "senseAnchor": "making you want to sleep",
+      "roleInScript": "會議睡著",
+      "humorDevice": "morphology",
+      "zhGloss": "昏昏欲睡的",
+      "speakLineEn": "Somnolent review misses swaps.",
+      "speakLineZh": "昏昏欲睡的審查錯過替換。",
+      "related": {
+        "synonyms": "soporific",
+        "antonyms": "stimulating, invigorating"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "somnambulist",
+      "inVocab": false,
+      "senseAnchor": "夢遊者",
+      "roleInScript": "夢遊提交",
+      "humorDevice": "morphology",
+      "zhGloss": "夢遊者",
+      "speakLineEn": "Do not be a somnambulist deployer.",
+      "speakLineZh": "不要當夢遊部署者。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "somniferous",
+      "inVocab": false,
+      "senseAnchor": "催睡的",
+      "roleInScript": "催睡藥味",
+      "humorDevice": "morphology",
+      "zhGloss": "催睡的",
+      "speakLineEn": "Somniferous prose hides the estimand.",
+      "speakLineZh": "催睡文風掩蓋目標量。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "hypnosis",
+      "inVocab": false,
+      "senseAnchor": "催眠",
+      "roleInScript": "被催眠",
+      "humorDevice": "morphology",
+      "zhGloss": "催眠",
+      "speakLineEn": "Hype can feel like hypnosis—wake up to n.",
+      "speakLineZh": "炒作像催眠——用樣本叫醒。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "asleep",
+      "inVocab": false,
+      "senseAnchor": "睡著的",
+      "roleInScript": "沒醒",
+      "humorDevice": "story",
+      "zhGloss": "睡著的",
+      "speakLineEn": "Do not ship while half asleep.",
+      "speakLineZh": "半睡不要上線。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "drowsy",
+      "inVocab": false,
+      "senseAnchor": "昏沉的",
+      "roleInScript": "想睡",
+      "humorDevice": "story",
+      "zhGloss": "昏沉的",
+      "speakLineEn": "Drowsy ethics training helps no one.",
+      "speakLineZh": "昏沉倫理訓練幫不了人。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "nap",
+      "inVocab": false,
+      "senseAnchor": "小睡",
+      "roleInScript": "短睡",
+      "humorDevice": "story",
+      "zhGloss": "小睡",
+      "speakLineEn": "A nap beats a reckless push.",
+      "speakLineZh": "小睡勝過魯莽推送。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "dream",
+      "inVocab": false,
+      "senseAnchor": "夢",
+      "roleInScript": "夢境主張",
+      "humorDevice": "story",
+      "zhGloss": "夢",
+      "speakLineEn": "Dream results need waking replications.",
+      "speakLineZh": "夢境結果需要醒著的複現。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "awake",
+      "inVocab": false,
+      "senseAnchor": "醒著的",
+      "roleInScript": "清醒",
+      "humorDevice": "story",
+      "zhGloss": "醒著的",
+      "speakLineEn": "Stay awake to interim peeking risks.",
+      "speakLineZh": "對期中偷看風險保持清醒。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "sleepwalk",
+      "inVocab": false,
+      "senseAnchor": "夢遊",
+      "roleInScript": "夢遊動詞",
+      "humorDevice": "story",
+      "zhGloss": "夢遊",
+      "speakLineEn": "Sleepwalk peer review is negligence.",
+      "speakLineZh": "夢遊式同儕審查是疏忽。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "lullaby",
+      "inVocab": false,
+      "senseAnchor": "搖籃曲",
+      "roleInScript": "催睡曲",
+      "humorDevice": "story",
+      "zhGloss": "搖籃曲",
+      "speakLineEn": "A methods lullaby of jargon puts readers under.",
+      "speakLineZh": "行話搖籃曲催眠讀者。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "somn＝睡：insomnia/somnolent/somnambulist/somniferous",
+    "somnolent＝昏昏欲睡"
+  ],
+  "pitfalls": [
+    "somnambulist＝夢遊者",
+    "somniferous＝催睡的"
+  ],
+  "lessonRefs": [
+    "lesson-root-somn-01"
+  ],
+  "status": "reviewed",
+  "priority": "C",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch03"
+  }
+}

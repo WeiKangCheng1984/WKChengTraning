@@ -1,0 +1,193 @@
+{
+  "id": "root-sat-01",
+  "type": "root",
+  "elementLemma": "sat/satis",
+  "titleZh": "sat／satis｜飽足餐廳",
+  "titleEn": "Satis Full Plate Diner",
+  "hook": "字根 sat/satis＝滿——餐廳專管滿足、飽和、過剩與資產。",
+  "script": "satisfy／satisfaction／satisfactory 上菜滿意度。sate／satiate／satiated 吃到飽。saturate／saturation／saturated 醬汁飽和。asset／satire 資產與諷刺配菜——主廚：satisfactory power；不要 saturate 摘要形容詞。",
+  "members": [
+    {
+      "headword": "satisfy",
+      "inVocab": false,
+      "senseAnchor": "使滿足",
+      "roleInScript": "滿意上菜",
+      "humorDevice": "morphology",
+      "zhGloss": "使滿足",
+      "speakLineEn": "Satisfy reviewers with robustness, not adjectives.",
+      "speakLineZh": "用穩健滿足審稿，不是形容詞。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "satisfaction",
+      "inVocab": false,
+      "senseAnchor": "滿意",
+      "roleInScript": "滿意度",
+      "humorDevice": "morphology",
+      "zhGloss": "滿意",
+      "speakLineEn": "Reader satisfaction tracks clarity of estimands.",
+      "speakLineZh": "讀者滿意追蹤目標量清晰度。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "satisfactory",
+      "inVocab": false,
+      "senseAnchor": "令人滿意的",
+      "roleInScript": "及格盤",
+      "humorDevice": "morphology",
+      "zhGloss": "令人滿意的",
+      "speakLineEn": "A satisfactory prereg is specific.",
+      "speakLineZh": "令人滿意的預註冊要具體。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "sate",
+      "inVocab": true,
+      "senseAnchor": "fill to satisfaction",
+      "roleInScript": "吃飽",
+      "humorDevice": "morphology",
+      "zhGloss": "使飽足",
+      "speakLineEn": "Sate curiosity with exploratory labels.",
+      "speakLineZh": "用探索標籤滿足好奇。",
+      "related": {
+        "synonyms": "satiate, replete, fill",
+        "antonyms": "starve, deprive, insatiate, empty, depleted"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "satiate",
+      "inVocab": false,
+      "senseAnchor": "使充分滿足",
+      "roleInScript": "灌飽",
+      "humorDevice": "morphology",
+      "zhGloss": "使充分滿足",
+      "speakLineEn": "Do not satiate journals with recycled figures.",
+      "speakLineZh": "不要用回收圖灌飽期刊。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "satiated",
+      "inVocab": true,
+      "senseAnchor": "fill to satisfaction; overeat or eat immodestly; make a pig of oneself",
+      "roleInScript": "已飽",
+      "humorDevice": "morphology",
+      "zhGloss": "吃飽的",
+      "speakLineEn": "A satiated alpha leaves nothing for confirmation.",
+      "speakLineZh": "α 吃飽就沒剩確認額度。",
+      "related": {
+        "synonyms": "satiate, sate, replete, fill, gorge, ingurgitate",
+        "antonyms": "insatiate"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "saturate",
+      "inVocab": true,
+      "senseAnchor": "to wet thoroughly with liquid",
+      "roleInScript": "倒滿醬",
+      "humorDevice": "morphology",
+      "zhGloss": "使飽和",
+      "speakLineEn": "Do not saturate the abstract with hype.",
+      "speakLineZh": "不要用炒作使摘要飽和。",
+      "related": {
+        "synonyms": "drench, soak, drown",
+        "antonyms": "undercharge"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "saturation",
+      "inVocab": false,
+      "senseAnchor": "飽和",
+      "roleInScript": "飽和度",
+      "humorDevice": "morphology",
+      "zhGloss": "飽和",
+      "speakLineEn": "Market saturation of flashy claims hurts trust.",
+      "speakLineZh": "炫目主張市場飽和傷害信任。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "saturated",
+      "inVocab": false,
+      "senseAnchor": "飽和的",
+      "roleInScript": "已滿醬",
+      "humorDevice": "morphology",
+      "zhGloss": "飽和的",
+      "speakLineEn": "A saturated model still needs out-of-sample checks.",
+      "speakLineZh": "飽和模型仍需樣本外檢查。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "asset",
+      "inVocab": false,
+      "senseAnchor": "資產",
+      "roleInScript": "資產盤",
+      "humorDevice": "story",
+      "zhGloss": "資產",
+      "speakLineEn": "Open code is a lab asset.",
+      "speakLineZh": "開放程式碼是實驗室資產。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "enough",
+      "inVocab": false,
+      "senseAnchor": "足夠",
+      "roleInScript": "夠了",
+      "humorDevice": "story",
+      "zhGloss": "足夠",
+      "speakLineEn": "Enough power beats elegant underpower.",
+      "speakLineZh": "足夠檢定力勝過優雅的不足。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "sat＝滿：satisfy/sate/saturate/satisfactory/satiated",
+    "saturate＝使飽和"
+  ],
+  "pitfalls": [
+    "sate／satiate＝使飽足",
+    "satire＝諷刺（形近彩蛋）"
+  ],
+  "lessonRefs": [
+    "lesson-root-sat-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch04"
+  }
+}

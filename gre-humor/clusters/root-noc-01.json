@@ -1,0 +1,193 @@
+{
+  "id": "root-noc-01",
+  "type": "root",
+  "elementLemma": "noc/nox",
+  "titleZh": "noc／nox｜有害物質管制局",
+  "titleEn": "Nox Hazard Bureau",
+  "hook": "字根 noc/nox＝害——管制局門口寫：無辜／有罪／夜間加班都可能『有害』。",
+  "script": "innocent 自稱無害通行證。noxious／obnoxious 毒氣與討人厭同事。innocuous 看起來無害其實要驗。noxious fumes 從附錄冒出；innocence 被審核追問——局長章：innocuous 寫作可以，noxious 誘因不行；obnoxious 語氣零分。",
+  "members": [
+    {
+      "headword": "innocent",
+      "inVocab": false,
+      "senseAnchor": "無辜的；天真的",
+      "roleInScript": "無害通行證",
+      "humorDevice": "morphology",
+      "zhGloss": "無辜的；天真的",
+      "speakLineEn": "An innocent typo is not research misconduct.",
+      "speakLineZh": "無辜打字錯誤不是研究不端。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "innocuous",
+      "inVocab": true,
+      "senseAnchor": "harmless",
+      "roleInScript": "驗過的無害",
+      "humorDevice": "morphology",
+      "zhGloss": "無害的；無冒犯的",
+      "speakLineEn": "An innocuous footnote can still hide a swap.",
+      "speakLineZh": "無害腳註仍可能藏替換。",
+      "related": {
+        "synonyms": "benign",
+        "antonyms": "harmful, dangerous, noxious, malignant, hostile, malign"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "noxious",
+      "inVocab": true,
+      "senseAnchor": "causing intense displeasure, disgust, or resentment",
+      "roleInScript": "毒氣警報",
+      "humorDevice": "morphology",
+      "zhGloss": "有害的；有毒的",
+      "speakLineEn": "Noxious incentives reward flashy false positives.",
+      "speakLineZh": "有害誘因獎勵炫目假陽性。",
+      "related": {
+        "synonyms": "disgusting, noisome, repugnant",
+        "antonyms": "beneficial, harmless, innocuous, pleasant, fragrant"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "innocence",
+      "inVocab": false,
+      "senseAnchor": "無辜；清白",
+      "roleInScript": "清白檔案",
+      "humorDevice": "morphology",
+      "zhGloss": "無辜；清白",
+      "speakLineEn": "Presume innocence, then audit the logs.",
+      "speakLineZh": "先假定清白，再稽核日誌。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "noxiousness",
+      "inVocab": false,
+      "senseAnchor": "有害性",
+      "roleInScript": "毒値",
+      "humorDevice": "story",
+      "zhGloss": "有害性",
+      "speakLineEn": "Measure the noxiousness of paywalled data.",
+      "speakLineZh": "測量付費牆資料的有害性。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "harmless",
+      "inVocab": false,
+      "senseAnchor": "無害的",
+      "roleInScript": "無害近親",
+      "humorDevice": "story",
+      "zhGloss": "無害的",
+      "speakLineEn": "Harmless metaphors can still mislead.",
+      "speakLineZh": "無害隱喻仍可能誤導。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "toxic",
+      "inVocab": false,
+      "senseAnchor": "有毒的",
+      "roleInScript": "毒標籤",
+      "humorDevice": "story",
+      "zhGloss": "有毒的",
+      "speakLineEn": "Toxic lab culture blocks error reports.",
+      "speakLineZh": "有毒實驗室文化阻擋錯誤回報。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "nuisance",
+      "inVocab": false,
+      "senseAnchor": "滋擾",
+      "roleInScript": "小害蟲",
+      "humorDevice": "story",
+      "zhGloss": "滋擾",
+      "speakLineEn": "A nuisance bug still needs a ticket.",
+      "speakLineZh": "滋擾級錯誤仍需開單。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "contaminate",
+      "inVocab": true,
+      "senseAnchor": "make impure; make radioactive by adding radioactive material",
+      "roleInScript": "弄髒樣本",
+      "humorDevice": "story",
+      "zhGloss": "污染",
+      "speakLineEn": "Do not contaminate the analysis with peeks.",
+      "speakLineZh": "不要用偷看污染分析。",
+      "related": {
+        "synonyms": "pollute, foul",
+        "antonyms": "decontaminate"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "poison",
+      "inVocab": false,
+      "senseAnchor": "毒藥",
+      "roleInScript": "劇毒誘因",
+      "humorDevice": "story",
+      "zhGloss": "毒藥",
+      "speakLineEn": "Publication poison is silent outcome switching.",
+      "speakLineZh": "發表毒藥是沉默更換結局。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "antidote",
+      "inVocab": true,
+      "senseAnchor": "a remedy that stops or controls the effects of a poison",
+      "roleInScript": "解藥",
+      "humorDevice": "story",
+      "zhGloss": "解毒劑",
+      "speakLineEn": "Preregistration is an antidote to fishing.",
+      "speakLineZh": "預註冊是淘篩解毒劑。",
+      "related": {
+        "synonyms": "counterpoison",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    }
+  ],
+  "reviewHooks": [
+    "noc＝害：innocent/innocuous/noxious/obnoxious",
+    "innocuous＝無害的"
+  ],
+  "pitfalls": [
+    "innocent＝無辜；innocuous＝無害無冒犯",
+    "noxious＝有害的"
+  ],
+  "lessonRefs": [
+    "lesson-root-noc-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch03"
+  }
+}

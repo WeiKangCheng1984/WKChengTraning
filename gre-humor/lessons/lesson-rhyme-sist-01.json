@@ -1,0 +1,97 @@
+{
+  "id": "lesson-rhyme-sist-01",
+  "slug": "rhyme-sist-01",
+  "season": 1,
+  "seasonTitleZh": "押韻派對",
+  "seasonTitleEn": "Rhyme Party",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "rhyme-sist-01",
+  "titleZh": "sist｜站立抵抗館",
+  "titleEn": "Sist Stand Hall",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根／押韻 sist＝站——抵抗館專管堅持、協助、存在與堅持到底。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "insist 站著不讓步。persist／persistence 一直站。assist／assistance 扶你站穩。consist／consistent 站成一貫。exist／existence 站在世界上；resist／resistance 站著反抗——館長：insist on prereg；persist through nulls。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "sist＝站：insist/persist/assist/consist/exist/resist",
+        "consistent＝一致的"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Demand firmly:",
+      "promptZh": "堅決要求：",
+      "choices": [
+        "insist",
+        "admire",
+        "consume",
+        "mirage"
+      ],
+      "answer": "insist"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Continue steadfastly:",
+      "promptZh": "持續堅持：",
+      "choices": [
+        "persist",
+        "intrude",
+        "obtrude",
+        "nap"
+      ],
+      "answer": "persist"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "In agreement; not contradictory:",
+      "promptZh": "一致：",
+      "choices": [
+        "consistent",
+        "noxious",
+        "prim",
+        "somnolent"
+      ],
+      "answer": "consistent"
+    }
+  ],
+  "pitfalls": [
+    "insist on＝堅持要求",
+    "consist of／in 用法不同"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch03"
+  }
+}

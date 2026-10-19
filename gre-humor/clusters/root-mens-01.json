@@ -1,0 +1,208 @@
+{
+  "id": "root-mens-01",
+  "type": "root",
+  "elementLemma": "mens/metri",
+  "titleZh": "mens｜度量衡檢驗所",
+  "titleEn": "Mens Measure Lab",
+  "hook": "字根 mens/metri＝量——檢驗所專管尺寸、公尺與『巨大』廣告。",
+  "script": "measure／measurement／measurable 先能量。metric／meter 公尺與指標。immense／immensity 大到尺不夠。commensurate 成比例對齊——所長：metric 要 operational；immense claim 要 immense evidence。",
+  "members": [
+    {
+      "headword": "measure",
+      "inVocab": false,
+      "senseAnchor": "測量；措施",
+      "roleInScript": "拿尺",
+      "humorDevice": "morphology",
+      "zhGloss": "測量；措施",
+      "speakLineEn": "Measure what you claim.",
+      "speakLineZh": "測量你所主張的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "measurement",
+      "inVocab": false,
+      "senseAnchor": "測量",
+      "roleInScript": "量測過程",
+      "humorDevice": "morphology",
+      "zhGloss": "測量",
+      "speakLineEn": "Bad measurement sinks causal talk.",
+      "speakLineZh": "糟糕測量讓因果空談沉沒。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "measurable",
+      "inVocab": false,
+      "senseAnchor": "可測量的",
+      "roleInScript": "量得到",
+      "humorDevice": "morphology",
+      "zhGloss": "可測量的",
+      "speakLineEn": "Prefer measurable endpoints.",
+      "speakLineZh": "偏好可測量終點。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "metric",
+      "inVocab": false,
+      "senseAnchor": "度量；指標",
+      "roleInScript": "指標尺",
+      "humorDevice": "morphology",
+      "zhGloss": "度量；指標",
+      "speakLineEn": "Declare the primary metric in advance.",
+      "speakLineZh": "事先聲明主要指標。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "meter",
+      "inVocab": false,
+      "senseAnchor": "公尺；計量器",
+      "roleInScript": "公尺棒",
+      "humorDevice": "morphology",
+      "zhGloss": "公尺；計量器",
+      "speakLineEn": "Calibrate the meter before comparing labs.",
+      "speakLineZh": "比較實驗室前先校正計量器。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "immense",
+      "inVocab": false,
+      "senseAnchor": "巨大的",
+      "roleInScript": "尺不夠大",
+      "humorDevice": "morphology",
+      "zhGloss": "巨大的",
+      "speakLineEn": "Immense claims need immense checks.",
+      "speakLineZh": "巨大主張需要巨大檢查。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "immensity",
+      "inVocab": false,
+      "senseAnchor": "巨大",
+      "roleInScript": "巨大感",
+      "humorDevice": "morphology",
+      "zhGloss": "巨大",
+      "speakLineEn": "The immensity of the literature is not an excuse for thin methods.",
+      "speakLineZh": "文獻巨大不是方法單薄的藉口。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "commensurate",
+      "inVocab": true,
+      "senseAnchor": "corresponding in size or degree or extent",
+      "roleInScript": "對齊比例",
+      "humorDevice": "morphology",
+      "zhGloss": "相稱的；成比例的",
+      "speakLineEn": "Rewards should be commensurate with contribution.",
+      "speakLineZh": "報酬應與貢獻相稱。",
+      "related": {
+        "synonyms": "",
+        "antonyms": "disproportionate, incommensurate"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "dimension",
+      "inVocab": false,
+      "senseAnchor": "維度",
+      "roleInScript": "量的方向",
+      "humorDevice": "story",
+      "zhGloss": "維度",
+      "speakLineEn": "State the dimension you generalize to.",
+      "speakLineZh": "說明你概括到的維度。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "scale",
+      "inVocab": false,
+      "senseAnchor": "尺度",
+      "roleInScript": "量尺",
+      "humorDevice": "story",
+      "zhGloss": "尺度",
+      "speakLineEn": "Check scale invariance claims carefully.",
+      "speakLineZh": "仔細檢查尺度不變宣稱。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "gigantic",
+      "inVocab": false,
+      "senseAnchor": "巨大的",
+      "roleInScript": "巨大近親",
+      "humorDevice": "story",
+      "zhGloss": "巨大的",
+      "speakLineEn": "Gigantic dashboards can hide missingness.",
+      "speakLineZh": "巨大儀表板可能藏缺失。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "tiny",
+      "inVocab": false,
+      "senseAnchor": "微小的",
+      "roleInScript": "小到難量",
+      "humorDevice": "story",
+      "zhGloss": "微小的",
+      "speakLineEn": "Tiny effects still deserve intervals.",
+      "speakLineZh": "微小效應仍值得區間。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "mens＝量：measure/metric/immense/commensurate",
+    "commensurate＝相稱的"
+  ],
+  "pitfalls": [
+    "immense＝巨大的",
+    "commensurate with＝與……相稱"
+  ],
+  "lessonRefs": [
+    "lesson-root-mens-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch03"
+  }
+}

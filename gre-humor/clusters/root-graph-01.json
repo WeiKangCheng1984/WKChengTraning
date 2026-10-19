@@ -1,0 +1,208 @@
+{
+  "id": "root-graph-01",
+  "type": "root",
+  "elementLemma": "graph/gram",
+  "titleZh": "graph／gram｜圖寫繪圖司",
+  "titleEn": "Graph Ink Bureau",
+  "hook": "字根 graph/gram＝寫／圖——繪圖司專管圖表、電報與文法墨水。",
+  "script": "graph／graphic 把結果畫出來。diagram 流程圖牆。telegram 短訊急報。grammar／epigram 句法與警句墨水；autograph 簽名蓋章——司長：graphic clarity 加分；epigram 不能取代 ident。",
+  "members": [
+    {
+      "headword": "graph",
+      "inVocab": false,
+      "senseAnchor": "圖；圖表",
+      "roleInScript": "主圖",
+      "humorDevice": "morphology",
+      "zhGloss": "圖；圖表",
+      "speakLineEn": "Put the primary graph in the abstract figure.",
+      "speakLineZh": "把主圖放進摘要圖。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "graphic",
+      "inVocab": false,
+      "senseAnchor": "圖形的；生動的",
+      "roleInScript": "圖形清晰",
+      "humorDevice": "morphology",
+      "zhGloss": "圖形的；生動的",
+      "speakLineEn": "Use graphic clarity, not graphic drama.",
+      "speakLineZh": "要圖形清晰，不要圖形戲劇。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "diagram",
+      "inVocab": false,
+      "senseAnchor": "圖解；示意圖",
+      "roleInScript": "流程圖牆",
+      "humorDevice": "morphology",
+      "zhGloss": "圖解；示意圖",
+      "speakLineEn": "A diagram of exclusions belongs in methods.",
+      "speakLineZh": "排除示意圖應在方法段。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "telegram",
+      "inVocab": false,
+      "senseAnchor": "電報",
+      "roleInScript": "急報短訊",
+      "humorDevice": "morphology",
+      "zhGloss": "電報",
+      "speakLineEn": "Send a telegram-length correction notice.",
+      "speakLineZh": "發電報長度的勘誤通知。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "grammar",
+      "inVocab": false,
+      "senseAnchor": "文法",
+      "roleInScript": "句法墨水",
+      "humorDevice": "morphology",
+      "zhGloss": "文法",
+      "speakLineEn": "Broken grammar in code comments breeds bugs.",
+      "speakLineZh": "註解文法壞掉會滋生錯誤。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "epigram",
+      "inVocab": true,
+      "senseAnchor": "a witty saying",
+      "roleInScript": "一句刺",
+      "humorDevice": "morphology",
+      "zhGloss": "警句；雋語",
+      "speakLineEn": "An epigram is not a causal claim.",
+      "speakLineZh": "警句不是因果主張。",
+      "related": {
+        "synonyms": "quip",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "autograph",
+      "inVocab": false,
+      "senseAnchor": "親筆簽名",
+      "roleInScript": "簽名蓋章",
+      "humorDevice": "story",
+      "zhGloss": "親筆簽名",
+      "speakLineEn": "Do not treat an autograph as peer review.",
+      "speakLineZh": "別把簽名當同儕審查。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "biography",
+      "inVocab": false,
+      "senseAnchor": "傳記",
+      "roleInScript": "人生圖寫",
+      "humorDevice": "story",
+      "zhGloss": "傳記",
+      "speakLineEn": "A methods biography should list forks.",
+      "speakLineZh": "方法傳記應列出分叉。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "paragraph",
+      "inVocab": false,
+      "senseAnchor": "段落",
+      "roleInScript": "段寫單位",
+      "humorDevice": "story",
+      "zhGloss": "段落",
+      "speakLineEn": "One claim per paragraph, then evidence.",
+      "speakLineZh": "一段一主張，再給證據。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "monogram",
+      "inVocab": false,
+      "senseAnchor": "字母組合標記",
+      "roleInScript": "標記章",
+      "humorDevice": "story",
+      "zhGloss": "字母組合標記",
+      "speakLineEn": "Stamp a monogram on locked code.",
+      "speakLineZh": "在鎖定程式碼蓋上標記。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "graphite",
+      "inVocab": false,
+      "senseAnchor": "石墨",
+      "roleInScript": "畫線粉",
+      "humorDevice": "story",
+      "zhGloss": "石墨",
+      "speakLineEn": "Trace uncertainty with a graphite pencil first.",
+      "speakLineZh": "先用石墨筆描不確定。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "cartography",
+      "inVocab": false,
+      "senseAnchor": "製圖學",
+      "roleInScript": "地圖寫法",
+      "humorDevice": "story",
+      "zhGloss": "製圖學",
+      "speakLineEn": "Sensitivity cartography maps assumption land.",
+      "speakLineZh": "敏感度製圖學畫出假設地圖。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "graph＝寫圖：graphic/diagram/telegram/grammar/epigram",
+    "epigram＝警句"
+  ],
+  "pitfalls": [
+    "epigram＝短警句；epigraph＝題詞",
+    "telegram＝電報／短訊"
+  ],
+  "lessonRefs": [
+    "lesson-root-graph-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch04"
+  }
+}

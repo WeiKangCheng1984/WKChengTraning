@@ -1,0 +1,97 @@
+{
+  "id": "lesson-prefix-circum-01",
+  "slug": "prefix-circum-01",
+  "season": 4,
+  "seasonTitleZh": "字首調味",
+  "seasonTitleEn": "Prefix Seasoning",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "prefix-circum-01",
+  "titleZh": "circum-｜環繞航線塔",
+  "titleEn": "Circum Orbit Tower",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字首 circum-＝環繞——航線塔專管周圍、迂回與環境。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "circumference 外圓周。circumvent 繞過規則。circumstance／circumstances 周圍情境。circumspect 環顧再走；circuitous 繞遠路——塔台：circumspect claims；勿 circumvent prereg。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "circum-＝環繞：circumference/circumvent/circumstance/circumspect",
+        "circumvent＝規避"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Avoid by going around:",
+      "promptZh": "規避繞過：",
+      "choices": [
+        "circumvent",
+        "placate",
+        "validate",
+        "satiate"
+      ],
+      "answer": "circumvent"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Cautious; looking around:",
+      "promptZh": "謹慎周到：",
+      "choices": [
+        "circumspect",
+        "vacuous",
+        "complacent",
+        "mute"
+      ],
+      "answer": "circumspect"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Roundabout; indirect:",
+      "promptZh": "迂回：",
+      "choices": [
+        "circuitous",
+        "intact",
+        "nascent",
+        "stringent"
+      ],
+      "answer": "circuitous"
+    }
+  ],
+  "pitfalls": [
+    "circumvent＝設法規避",
+    "circumspect＝謹慎周到"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch04"
+  }
+}

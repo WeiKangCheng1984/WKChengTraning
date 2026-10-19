@@ -1,0 +1,208 @@
+{
+  "id": "root-press-01",
+  "type": "root",
+  "elementLemma": "press",
+  "titleZh": "press｜壓力印刷廠",
+  "titleEn": "Press Pressure Plant",
+  "hook": "字根 press＝壓——印刷廠專管壓力、表達、印象與壓制。",
+  "script": "press／pressure／pressing 機器壓力。express／expression／expressive 把墨擠出來。impress／impression／impressive 印出印象。oppress／repress／suppress 往下壓——廠長：suppress nulls 零分；express uncertainty。",
+  "members": [
+    {
+      "headword": "press",
+      "inVocab": false,
+      "senseAnchor": "壓；新聞界",
+      "roleInScript": "印刷機",
+      "humorDevice": "morphology",
+      "zhGloss": "壓；新聞界",
+      "speakLineEn": "Do not let the press timeline force peeking.",
+      "speakLineZh": "別讓新聞時程逼出偷看。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "pressure",
+      "inVocab": false,
+      "senseAnchor": "壓力",
+      "roleInScript": "壓力錶",
+      "humorDevice": "morphology",
+      "zhGloss": "壓力",
+      "speakLineEn": "Deadline pressure is not a methods excuse.",
+      "speakLineZh": "期限壓力不是方法藉口。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "pressing",
+      "inVocab": true,
+      "senseAnchor": "the act of pressing; the exertion of pressure; a metal or plastic part that is made by a mechanical press",
+      "roleInScript": "急壓單",
+      "humorDevice": "morphology",
+      "zhGloss": "急迫的",
+      "speakLineEn": "A pressing question still needs a design.",
+      "speakLineZh": "急迫問題仍需要設計。",
+      "related": {
+        "synonyms": "press, pressure, urge, exhort, weigh, compress",
+        "antonyms": "decompress"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "express",
+      "inVocab": false,
+      "senseAnchor": "表達；快遞",
+      "roleInScript": "擠出墨",
+      "humorDevice": "morphology",
+      "zhGloss": "表達；快遞",
+      "speakLineEn": "Express limitations in the abstract.",
+      "speakLineZh": "在摘要表達限制。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "expression",
+      "inVocab": false,
+      "senseAnchor": "表達；表情",
+      "roleInScript": "墨跡",
+      "humorDevice": "morphology",
+      "zhGloss": "表達；表情",
+      "speakLineEn": "Keep the expression of results proportional.",
+      "speakLineZh": "結果表達要成比例。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "expressive",
+      "inVocab": false,
+      "senseAnchor": "富表達的",
+      "roleInScript": "表情豐富",
+      "humorDevice": "morphology",
+      "zhGloss": "富表達的",
+      "speakLineEn": "Expressive plots still need error bars.",
+      "speakLineZh": "富表達圖仍需誤差條。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "impress",
+      "inVocab": false,
+      "senseAnchor": "留下印象",
+      "roleInScript": "蓋印",
+      "humorDevice": "morphology",
+      "zhGloss": "留下印象",
+      "speakLineEn": "Impress reviewers with audits, not adjectives.",
+      "speakLineZh": "用稽核打動審稿，不是形容詞。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "impression",
+      "inVocab": false,
+      "senseAnchor": "印象",
+      "roleInScript": "印痕",
+      "humorDevice": "morphology",
+      "zhGloss": "印象",
+      "speakLineEn": "First impressions of p-values mislead.",
+      "speakLineZh": "對 p 值的第一印象常誤導。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "impressive",
+      "inVocab": false,
+      "senseAnchor": "令人印象深刻的",
+      "roleInScript": "印很深",
+      "humorDevice": "morphology",
+      "zhGloss": "令人印象深刻的",
+      "speakLineEn": "Impressive effect sizes need robustness checks.",
+      "speakLineZh": "驚人效應量需要穩健檢查。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "oppress",
+      "inVocab": true,
+      "senseAnchor": "come down on or keep down by unjust use of one's authority; cause to suffer",
+      "roleInScript": "往下壓人",
+      "humorDevice": "story",
+      "zhGloss": "壓迫",
+      "speakLineEn": "Do not oppress dissent in lab meetings.",
+      "speakLineZh": "實驗室會議不要壓迫異議。",
+      "related": {
+        "synonyms": "suppress, crush, persecute",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "repress",
+      "inVocab": false,
+      "senseAnchor": "壓抑",
+      "roleInScript": "壓回去",
+      "humorDevice": "story",
+      "zhGloss": "壓抑",
+      "speakLineEn": "Repress the urge to drop outliers silently.",
+      "speakLineZh": "壓抑沉默丟掉離群的衝動。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "suppress",
+      "inVocab": false,
+      "senseAnchor": "壓制；隱瞞",
+      "roleInScript": "壓住不報",
+      "humorDevice": "story",
+      "zhGloss": "壓制；隱瞞",
+      "speakLineEn": "Never suppress inconvenient nulls.",
+      "speakLineZh": "永不隱瞞麻煩的虛無。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "press＝壓：pressure/express/impress/oppress/repress/suppress",
+    "suppress＝壓制／隱瞞"
+  ],
+  "pitfalls": [
+    "suppress＝壓制；oppress＝壓迫",
+    "impress＝留下印象"
+  ],
+  "lessonRefs": [
+    "lesson-root-press-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch04"
+  }
+}

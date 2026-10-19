@@ -1,0 +1,208 @@
+{
+  "id": "root-vac-01",
+  "type": "root",
+  "elementLemma": "vac",
+  "titleZh": "vac｜真空清潔站",
+  "titleEn": "Vac Vacuum Station",
+  "hook": "字根 vac＝空——清潔站專管真空、空缺、假期與撤離。",
+  "script": "vacant／vacancy 空位子。vacuum 真空袋。evacuate／evacuation 撤離現場。vacation／vacate 放假清空；vacuous 空洞發言——站長：vacuous claims 掃走；vacant rows 要標缺失。",
+  "members": [
+    {
+      "headword": "vacant",
+      "inVocab": false,
+      "senseAnchor": "空的；空缺的",
+      "roleInScript": "空位子",
+      "humorDevice": "morphology",
+      "zhGloss": "空的；空缺的",
+      "speakLineEn": "Mark vacant cells as missing, not zero.",
+      "speakLineZh": "空格標缺失，不要當零。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "vacancy",
+      "inVocab": false,
+      "senseAnchor": "空缺",
+      "roleInScript": "職缺／空位",
+      "humorDevice": "morphology",
+      "zhGloss": "空缺",
+      "speakLineEn": "A vacancy in the codebook invites miscodes.",
+      "speakLineZh": "編碼簿空缺誘發錯碼。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "vacuum",
+      "inVocab": false,
+      "senseAnchor": "真空",
+      "roleInScript": "真空袋",
+      "humorDevice": "morphology",
+      "zhGloss": "真空",
+      "speakLineEn": "There is no vacuum of assumptions—list them.",
+      "speakLineZh": "沒有假設真空——請列出。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "evacuate",
+      "inVocab": true,
+      "senseAnchor": "move out of an unsafe location into safety; empty completely",
+      "roleInScript": "清場",
+      "humorDevice": "morphology",
+      "zhGloss": "撤離",
+      "speakLineEn": "Evacuate secrets from public repos.",
+      "speakLineZh": "把秘密從公開 repo 撤離。",
+      "related": {
+        "synonyms": "void, empty",
+        "antonyms": "validate, fill, full"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "evacuation",
+      "inVocab": false,
+      "senseAnchor": "撤離",
+      "roleInScript": "撤離令",
+      "humorDevice": "morphology",
+      "zhGloss": "撤離",
+      "speakLineEn": "Plan data evacuation before hardware fails.",
+      "speakLineZh": "硬體故障前先規劃資料撤離。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "vacation",
+      "inVocab": false,
+      "senseAnchor": "假期",
+      "roleInScript": "放假",
+      "humorDevice": "morphology",
+      "zhGloss": "假期",
+      "speakLineEn": "Coverage does not take a vacation during holidays.",
+      "speakLineZh": "假期期間覆蓋率不放假。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "vacate",
+      "inVocab": false,
+      "senseAnchor": "騰空；離開",
+      "roleInScript": "清空",
+      "humorDevice": "morphology",
+      "zhGloss": "騰空；離開",
+      "speakLineEn": "Vacate deprecated outcomes from the paper.",
+      "speakLineZh": "把棄用結局從論文騰空。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "vacuous",
+      "inVocab": true,
+      "senseAnchor": "devoid of intelligence; devoid of significance or point",
+      "roleInScript": "空話",
+      "humorDevice": "morphology",
+      "zhGloss": "空洞的",
+      "speakLineEn": "Vacuous significance talk wastes space.",
+      "speakLineZh": "空洞顯著性空談浪費篇幅。",
+      "related": {
+        "synonyms": "asinine, fatuous, inane, mindless, empty, hollow",
+        "antonyms": "meaningful, sensible, mindful, fill, full, solid"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "void",
+      "inVocab": false,
+      "senseAnchor": "空隙；無效",
+      "roleInScript": "空洞區",
+      "humorDevice": "story",
+      "zhGloss": "空隙；無效",
+      "speakLineEn": "A void in the audit trail voids trust.",
+      "speakLineZh": "稽核軌跡空隙使信任無效。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "empty",
+      "inVocab": false,
+      "senseAnchor": "空的",
+      "roleInScript": "空箱",
+      "humorDevice": "story",
+      "zhGloss": "空的",
+      "speakLineEn": "Empty promises about sharing are misconduct-adjacent.",
+      "speakLineZh": "空頭分享承諾近似不端。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "blank",
+      "inVocab": false,
+      "senseAnchor": "空白",
+      "roleInScript": "空白格",
+      "humorDevice": "story",
+      "zhGloss": "空白",
+      "speakLineEn": "A blank methods section fails review.",
+      "speakLineZh": "空白方法段審不過。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "hollow",
+      "inVocab": false,
+      "senseAnchor": "中空的",
+      "roleInScript": "空心",
+      "humorDevice": "story",
+      "zhGloss": "中空的",
+      "speakLineEn": "Hollow metrics inflate resumes.",
+      "speakLineZh": "空心指標灌水履歷。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "vac＝空：vacant/vacuum/evacuate/vacation/vacuous",
+    "vacuous＝空洞的"
+  ],
+  "pitfalls": [
+    "vacant＝空的；vacuous＝無內容的",
+    "vacate＝騰空／撤離"
+  ],
+  "lessonRefs": [
+    "lesson-root-vac-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch04"
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "id": "root-tact-01",
+  "type": "root",
+  "elementLemma": "tact/tang",
+  "titleZh": "tact／tang｜觸覺接待處",
+  "titleEn": "Tact Touch Desk",
+  "hook": "字根 tact/tang＝觸——接待處專管接觸、策略、具體與完整。",
+  "script": "tact／tactful／tactless 交際觸感。contact／intact 接觸／完整未碰壞。tangible／intangible 摸得到／摸不到。tangent 跑題切線；contingent 依條件觸發——接待：tactful critique；intact blinding。",
+  "members": [
+    {
+      "headword": "tact",
+      "inVocab": true,
+      "senseAnchor": "consideration in dealing with others and avoiding giving offense",
+      "roleInScript": "交際觸感",
+      "humorDevice": "morphology",
+      "zhGloss": "圓通；機智",
+      "speakLineEn": "Use tact when requesting raw data.",
+      "speakLineZh": "索取原始資料要用圓通。",
+      "related": {
+        "synonyms": "tactfulness",
+        "antonyms": "tactlessness"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "tactful",
+      "inVocab": false,
+      "senseAnchor": "圓通的",
+      "roleInScript": "有觸感",
+      "humorDevice": "morphology",
+      "zhGloss": "圓通的",
+      "speakLineEn": "Tactful emails still attach checklists.",
+      "speakLineZh": "圓通郵件仍附清單。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "tactless",
+      "inVocab": true,
+      "senseAnchor": "likely to offend or upset people",
+      "roleInScript": "沒觸感",
+      "humorDevice": "morphology",
+      "zhGloss": "不得體的",
+      "speakLineEn": "Tactless sarcasm sinks valid points.",
+      "speakLineZh": "不得體諷刺毁掉有效論點。",
+      "related": {
+        "synonyms": "impolitic, imprudent, injudicious, undiplomatic",
+        "antonyms": "tactful, politic, prudent, diplomatic"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "contact",
+      "inVocab": false,
+      "senseAnchor": "接觸；聯絡",
+      "roleInScript": "觸點",
+      "humorDevice": "morphology",
+      "zhGloss": "接觸；聯絡",
+      "speakLineEn": "Document every contact with the data vendor.",
+      "speakLineZh": "記錄與資料供應商每次接觸。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "intact",
+      "inVocab": true,
+      "senseAnchor": "constituting the undiminished entirety; lacking nothing essential especially not damaged; - Bacon; (of a woman) having the hymen unbroken",
+      "roleInScript": "沒碰壞",
+      "humorDevice": "morphology",
+      "zhGloss": "完整未損的",
+      "speakLineEn": "Keep blinding intact until lock.",
+      "speakLineZh": "鎖定前保持盲法完整。",
+      "related": {
+        "synonyms": "integral, entire, inviolate",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "tangible",
+      "inVocab": true,
+      "senseAnchor": "capable of being perceived",
+      "roleInScript": "摸得到",
+      "humorDevice": "morphology",
+      "zhGloss": "可觸摸的；具體的",
+      "speakLineEn": "Give tangible deliverables: code and codebook.",
+      "speakLineZh": "給具體交付：程式碼與編碼簿。",
+      "related": {
+        "synonyms": "palpable, perceptible, discernable",
+        "antonyms": "impalpable, intangible, imperceptible, indiscernible"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "intangible",
+      "inVocab": false,
+      "senseAnchor": "無形的",
+      "roleInScript": "摸不到",
+      "humorDevice": "morphology",
+      "zhGloss": "無形的",
+      "speakLineEn": "Intangible prestige is not a methods argument.",
+      "speakLineZh": "無形聲望不是方法論據。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "tangent",
+      "inVocab": false,
+      "senseAnchor": "切線；離題",
+      "roleInScript": "跑題線",
+      "humorDevice": "morphology",
+      "zhGloss": "切線；離題",
+      "speakLineEn": "Do not go on a tangent mid-prereg.",
+      "speakLineZh": "預註冊中途不要離題。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "contingent",
+      "inVocab": true,
+      "senseAnchor": "depending on something else",
+      "roleInScript": "觸發條件",
+      "humorDevice": "morphology",
+      "zhGloss": "依條件的；代表團",
+      "speakLineEn": "Secondary analyses are contingent on the primary.",
+      "speakLineZh": "次要分析依主要結果而定。",
+      "related": {
+        "synonyms": "detail",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "tactile",
+      "inVocab": false,
+      "senseAnchor": "觸覺的",
+      "roleInScript": "用手摸",
+      "humorDevice": "story",
+      "zhGloss": "觸覺的",
+      "speakLineEn": "Tactile stickers on drives beat mystery folders.",
+      "speakLineZh": "硬碟觸覺貼紙勝過神秘資料夾。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "contiguous",
+      "inVocab": true,
+      "senseAnchor": "very close or connected in space or time; connecting without a break; within a common boundary",
+      "roleInScript": "貼著的",
+      "humorDevice": "story",
+      "zhGloss": "毗連的",
+      "speakLineEn": "Keep contiguous logs without gaps.",
+      "speakLineZh": "保持毗連日誌無缺口。",
+      "related": {
+        "synonyms": "immediate, conterminous, adjacent, neighboring",
+        "antonyms": "mediate"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "attain",
+      "inVocab": false,
+      "senseAnchor": "達成",
+      "roleInScript": "碰到目標",
+      "humorDevice": "story",
+      "zhGloss": "達成",
+      "speakLineEn": "Attain power targets before recruitment ends.",
+      "speakLineZh": "招募結束前達成檢定力目標。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "tact＝觸：tact/contact/intact/tangible/tangent/contingent",
+    "intact＝完整未損"
+  ],
+  "pitfalls": [
+    "tact＝圓通；tactile＝觸覺的",
+    "tangent＝切線／離題"
+  ],
+  "lessonRefs": [
+    "lesson-root-tact-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch04"
+  }
+}
