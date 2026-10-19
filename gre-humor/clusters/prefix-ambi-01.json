@@ -1,0 +1,215 @@
+{
+  "id": "prefix-ambi-01",
+  "type": "prefix",
+  "elementLemma": "ambi-",
+  "titleZh": "ambi-｜雙面猶豫廳",
+  "titleEn": "Ambi Two-Face Lounge",
+  "hook": "字首 ambi-＝兩邊——猶豫廳左右開攻：雙關、矛盾情感、左右開弓。",
+  "script": "ambiguous／ambiguity 雙關霧。ambivalent／ambivalence 左右情感拉扯。ambidextrous 左右開弓；ambience／ambition／ambitious／ambivert 氣氛與野心——大廳經理：reduce ambiguity；ambivalence 可以寫進限制。",
+  "members": [
+    {
+      "headword": "ambiguity",
+      "inVocab": true,
+      "senseAnchor": "含糊；歧義",
+      "roleInScript": "雙關霧",
+      "humorDevice": "morphology",
+      "zhGloss": "含糊；歧義",
+      "speakLineEn": "Reduce outcome ambiguity before collection.",
+      "speakLineZh": "收集前減少結局歧義。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "ambivalent",
+      "inVocab": true,
+      "senseAnchor": "having a mixture of opposing feelings",
+      "roleInScript": "左右拉",
+      "humorDevice": "morphology",
+      "zhGloss": "矛盾情感的",
+      "speakLineEn": "Be ambivalent about flashy but fragile findings.",
+      "speakLineZh": "對花俏卻易碎發現保持矛盾情感。",
+      "related": {
+        "synonyms": "contradictory",
+        "antonyms": "decisive, certain"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "ambivalence",
+      "inVocab": true,
+      "senseAnchor": "矛盾情感",
+      "roleInScript": "拉扯計",
+      "humorDevice": "morphology",
+      "zhGloss": "矛盾情感",
+      "speakLineEn": "Report ambivalence about causal leaps.",
+      "speakLineZh": "報告對因果跳躍的矛盾情感。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "ambidextrous",
+      "inVocab": true,
+      "senseAnchor": "左右開弓的",
+      "roleInScript": "雙手帳",
+      "humorDevice": "morphology",
+      "zhGloss": "左右開弓的",
+      "speakLineEn": "Be ambidextrous: code and communicate.",
+      "speakLineZh": "左右開弓：寫程式也會溝通。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "ambience",
+      "inVocab": false,
+      "senseAnchor": "氣氛；環境",
+      "roleInScript": "氣氛燈",
+      "humorDevice": "morphology",
+      "zhGloss": "氣氛；環境",
+      "speakLineEn": "Lab ambience should reward flags, not fear.",
+      "speakLineZh": "實驗室氣氛應獎勵舉旗，不是恐懼。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "ambition",
+      "inVocab": false,
+      "senseAnchor": "野心；志向",
+      "roleInScript": "野心錶",
+      "humorDevice": "morphology",
+      "zhGloss": "野心；志向",
+      "speakLineEn": "Ambition without a plan is noise.",
+      "speakLineZh": "沒有計畫的野心是噪音。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "ambitious",
+      "inVocab": false,
+      "senseAnchor": "有野心的",
+      "roleInScript": "野心標",
+      "humorDevice": "morphology",
+      "zhGloss": "有野心的",
+      "speakLineEn": "Ambitious claims need ambitious checks.",
+      "speakLineZh": "有野心的主張需要有野心的檢查。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "ambivert",
+      "inVocab": true,
+      "senseAnchor": "中間性格者",
+      "roleInScript": "中間人",
+      "humorDevice": "story",
+      "zhGloss": "中間性格者",
+      "speakLineEn": "An ambivert facilitator keeps meetings fair.",
+      "speakLineZh": "中間性格主持讓會議公平。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "two-sided",
+      "inVocab": false,
+      "senseAnchor": "雙面的",
+      "roleInScript": "雙面牌",
+      "humorDevice": "story",
+      "zhGloss": "雙面的",
+      "speakLineEn": "Use two-sided tests unless justified.",
+      "speakLineZh": "除非有理由，否則用雙尾檢定。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "either-or",
+      "inVocab": false,
+      "senseAnchor": "二選一",
+      "roleInScript": "二選一門",
+      "humorDevice": "story",
+      "zhGloss": "二選一",
+      "speakLineEn": "Avoid either-or framing of messy data.",
+      "speakLineZh": "避免把凌亂資料框成二選一。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "fence-sitting",
+      "inVocab": false,
+      "senseAnchor": "騎牆",
+      "roleInScript": "騎牆凳",
+      "humorDevice": "story",
+      "zhGloss": "騎牆",
+      "speakLineEn": "Fence-sitting on fraud is not neutrality.",
+      "speakLineZh": "對造假騎牆不是中立。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "double-edge",
+      "inVocab": false,
+      "senseAnchor": "雙刃",
+      "roleInScript": "雙刃刀",
+      "humorDevice": "story",
+      "zhGloss": "雙刃",
+      "speakLineEn": "Flexibility is a double-edge without locks.",
+      "speakLineZh": "沒有鎖定的彈性是雙刃。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "ambi-＝兩邊：ambiguous/ambiguity/ambivalent/ambidextrous/ambition",
+    "ambivalent＝矛盾情感"
+  ],
+  "pitfalls": [
+    "ambiguous＝含糊；ambivalent＝矛盾態度",
+    "ambidextrous＝左右手都靈"
+  ],
+  "lessonRefs": [
+    "lesson-prefix-ambi-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch06"
+  }
+}

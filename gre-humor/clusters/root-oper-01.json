@@ -1,0 +1,215 @@
+{
+  "id": "root-oper-01",
+  "type": "root",
+  "elementLemma": "oper",
+  "titleZh": "oper｜操作指揮台",
+  "titleEn": "Oper Control Deck",
+  "hook": "字根 oper＝工作——指揮台把「動手做」編成歌劇級流程。",
+  "script": "operate／operation／operator／operative 開機作業。cooperate／cooperation 合奏席。opera／operatic／opus 把工作唱成劇；inoperative／operable 故障燈與可修標——台長：operative definition 要寫；inoperative ethics 禁演。",
+  "members": [
+    {
+      "headword": "operate",
+      "inVocab": false,
+      "senseAnchor": "操作；動手術",
+      "roleInScript": "開機",
+      "humorDevice": "morphology",
+      "zhGloss": "操作；動手術",
+      "speakLineEn": "Operate only on locked analysis code.",
+      "speakLineZh": "只在鎖定分析程式上操作。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "operation",
+      "inVocab": false,
+      "senseAnchor": "操作；行動；手術",
+      "roleInScript": "作業單",
+      "humorDevice": "morphology",
+      "zhGloss": "操作；行動；手術",
+      "speakLineEn": "Document every operation that changes outcomes.",
+      "speakLineZh": "記錄每次改結局的操作。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "operator",
+      "inVocab": false,
+      "senseAnchor": "操作員",
+      "roleInScript": "操作員椅",
+      "humorDevice": "morphology",
+      "zhGloss": "操作員",
+      "speakLineEn": "The pipeline operator owns the changelog.",
+      "speakLineZh": "管線操作員擁有變更日誌。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "operative",
+      "inVocab": true,
+      "senseAnchor": "有效的；特工",
+      "roleInScript": "有效章",
+      "humorDevice": "morphology",
+      "zhGloss": "有效的；特工",
+      "speakLineEn": "Write an operative definition of the endpoint.",
+      "speakLineZh": "寫下終點的有效定義。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "inoperative",
+      "inVocab": true,
+      "senseAnchor": "失效的",
+      "roleInScript": "故障燈",
+      "humorDevice": "morphology",
+      "zhGloss": "失效的",
+      "speakLineEn": "An inoperative prereg is worse than none.",
+      "speakLineZh": "失效的預註冊比沒有更糟。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "operable",
+      "inVocab": true,
+      "senseAnchor": "可操作的；可動手術的",
+      "roleInScript": "可修標",
+      "humorDevice": "morphology",
+      "zhGloss": "可操作的；可動手術的",
+      "speakLineEn": "Keep claims operable under missing data.",
+      "speakLineZh": "讓主張在缺失資料下仍可操作。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "cooperate",
+      "inVocab": false,
+      "senseAnchor": "合作",
+      "roleInScript": "合奏席",
+      "humorDevice": "morphology",
+      "zhGloss": "合作",
+      "speakLineEn": "Teams must cooperate on shared codebooks.",
+      "speakLineZh": "團隊必須共用編碼簿合作。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "cooperation",
+      "inVocab": false,
+      "senseAnchor": "合作",
+      "roleInScript": "合奏契約",
+      "humorDevice": "morphology",
+      "zhGloss": "合作",
+      "speakLineEn": "Cooperation without audit is theater.",
+      "speakLineZh": "沒有稽核的合作是表演。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "opera",
+      "inVocab": false,
+      "senseAnchor": "歌劇",
+      "roleInScript": "歌劇廳",
+      "humorDevice": "story",
+      "zhGloss": "歌劇",
+      "speakLineEn": "Do not turn methods into opera without scores.",
+      "speakLineZh": "別把方法變成沒有樂譜的歌劇。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "operatic",
+      "inVocab": true,
+      "senseAnchor": "歌劇式的；誇張的",
+      "roleInScript": "誇張唱腔",
+      "humorDevice": "story",
+      "zhGloss": "歌劇式的；誇張的",
+      "speakLineEn": "Avoid operatic claims from tiny samples.",
+      "speakLineZh": "避免從小樣本唱出誇張主張。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "opus",
+      "inVocab": true,
+      "senseAnchor": "作品（編號）",
+      "roleInScript": "作品號",
+      "humorDevice": "story",
+      "zhGloss": "作品（編號）",
+      "speakLineEn": "Treat each paper as an opus with a version tag.",
+      "speakLineZh": "把每篇論文當有版本號的作品。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "workshop",
+      "inVocab": false,
+      "senseAnchor": "工作坊",
+      "roleInScript": "工作坊桌",
+      "humorDevice": "story",
+      "zhGloss": "工作坊",
+      "speakLineEn": "Run a methods workshop before launch.",
+      "speakLineZh": "上線前開方法工作坊。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "oper＝做：operate/operation/cooperate/operative/opus",
+    "inoperative＝失效"
+  ],
+  "pitfalls": [
+    "operative＝有效的／特工；operation＝手術／行動",
+    "opus＝作品"
+  ],
+  "lessonRefs": [
+    "lesson-root-oper-01"
+  ],
+  "status": "reviewed",
+  "priority": "C",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch06"
+  }
+}

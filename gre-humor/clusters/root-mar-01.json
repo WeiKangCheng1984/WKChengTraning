@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "marine",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "海的；海軍陸戰隊",
       "roleInScript": "海上編制",
       "humorDevice": "morphology",
@@ -20,11 +20,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "maritime",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "海事的；沿海的",
       "roleInScript": "海事法",
       "humorDevice": "morphology",
@@ -35,11 +35,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "submarine",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "潛水艇；水下的",
       "roleInScript": "潛下去",
       "humorDevice": "morphology",
@@ -50,11 +50,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "mariner",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "水手",
       "roleInScript": "水手日誌",
       "humorDevice": "morphology",
@@ -65,11 +65,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "marina",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "碼頭；船塢",
       "roleInScript": "停泊處",
       "humorDevice": "morphology",
@@ -80,11 +80,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "ultramarine",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "深藍的",
       "roleInScript": "深藍漆",
       "humorDevice": "story",
@@ -95,11 +95,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "aquamarine",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "海藍寶石色",
       "roleInScript": "海藍光",
       "humorDevice": "story",
@@ -110,11 +110,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "seafaring",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "航海的",
       "roleInScript": "航海癖",
       "humorDevice": "story",
@@ -125,11 +125,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "tide",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "潮汐",
       "roleInScript": "潮汐表",
       "humorDevice": "story",
@@ -140,7 +140,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "anchor",
@@ -159,7 +159,7 @@
     },
     {
       "headword": "shipwreck",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "船難",
       "roleInScript": "船難現場",
       "humorDevice": "story",
@@ -170,7 +170,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "buoy",

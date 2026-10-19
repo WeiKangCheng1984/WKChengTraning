@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "urban",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "都市的",
       "roleInScript": "都市圈",
       "humorDevice": "morphology",
@@ -20,11 +20,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "suburb",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "郊區",
       "roleInScript": "郊區站",
       "humorDevice": "morphology",
@@ -35,11 +35,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "suburban",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "郊區的",
       "roleInScript": "郊區風",
       "humorDevice": "morphology",
@@ -50,7 +50,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "urbane",
@@ -69,7 +69,7 @@
     },
     {
       "headword": "urbanity",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "都雅；禮數",
       "roleInScript": "禮數手冊",
       "humorDevice": "morphology",
@@ -80,11 +80,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "exurb",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "遠郊",
       "roleInScript": "遠郊帶",
       "humorDevice": "story",
@@ -95,11 +95,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "interurban",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "城際的",
       "roleInScript": "城際線",
       "humorDevice": "story",
@@ -110,7 +110,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "civic",
@@ -125,11 +125,12 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "metropolitan",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "大都市的",
       "roleInScript": "大都會",
       "humorDevice": "story",
@@ -140,11 +141,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "downtown",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "市中心",
       "roleInScript": "市中心檔",
       "humorDevice": "story",
@@ -155,11 +156,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "skyline",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "天際線",
       "roleInScript": "天際線",
       "humorDevice": "story",
@@ -170,11 +171,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "boulevard",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "大道",
       "roleInScript": "林蔭道",
       "humorDevice": "story",
@@ -185,7 +186,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     }
   ],
   "reviewHooks": [

@@ -24,7 +24,7 @@
     },
     {
       "headword": "comprehend",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "理解",
       "roleInScript": "抓住意思",
       "humorDevice": "morphology",
@@ -35,11 +35,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "comprehensive",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "全面的",
       "roleInScript": "全抓清單",
       "humorDevice": "morphology",
@@ -50,7 +50,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "reprehend",
@@ -84,7 +84,7 @@
     },
     {
       "headword": "apprehensive",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "憂慮的",
       "roleInScript": "抓心慌",
       "humorDevice": "morphology",
@@ -95,11 +95,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "surprise",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "驚喜；使吃驚",
       "roleInScript": "驚喜箱",
       "humorDevice": "morphology",
@@ -110,11 +110,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "enterprise",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "事業；進取心",
       "roleInScript": "事業桌",
       "humorDevice": "morphology",
@@ -125,11 +125,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "comprise",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "包含",
       "roleInScript": "整包抓住",
       "humorDevice": "story",
@@ -140,11 +140,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "prize",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "獎；珍視",
       "roleInScript": "獎杯",
       "humorDevice": "story",
@@ -155,11 +155,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "reprisal",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "報復",
       "roleInScript": "反抓一擊",
       "humorDevice": "story",
@@ -170,11 +170,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "prison",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "監獄",
       "roleInScript": "關起來",
       "humorDevice": "story",
@@ -185,7 +185,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     }
   ],
   "reviewHooks": [

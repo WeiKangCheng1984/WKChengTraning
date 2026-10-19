@@ -1,0 +1,213 @@
+{
+  "id": "prefix-epi-01",
+  "type": "prefix",
+  "elementLemma": "epi-",
+  "titleZh": "epi-｜表皮附加層",
+  "titleEn": "Epi Surface Layer Lab",
+  "hook": "字首 epi-＝在上／附加——附加層管表皮、後記、墓誌銘與短暫。",
+  "script": "epidermis／epidemic／epicenter 表皮與疫情震源。epilogue／epitaph／epithet 後記、墓誌、稱號貼紙；ephemeral／episode 短暫一集——層長：ephemeral hype；epithet 不能取代定義。",
+  "members": [
+    {
+      "headword": "epidemic",
+      "inVocab": true,
+      "senseAnchor": "a widespread outbreak of an infectious disease; many people are infected at the same time; (especially of medicine) of disease or anything resembling a disease; attacking or affecting many individuals in a community or a population simultaneously",
+      "roleInScript": "疫情旗",
+      "humorDevice": "morphology",
+      "zhGloss": "流行病；流行的",
+      "speakLineEn": "An epidemic of silent forks needs quarantine.",
+      "speakLineZh": "沉默分叉流行需要隔離。",
+      "related": {
+        "synonyms": "",
+        "antonyms": "ecdemic, endemic"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "epidermis",
+      "inVocab": true,
+      "senseAnchor": "the outer layer of the skin covering the exterior body surface of vertebrates",
+      "roleInScript": "表皮層",
+      "humorDevice": "morphology",
+      "zhGloss": "表皮",
+      "speakLineEn": "Do not stop at the epidermis of the methods.",
+      "speakLineZh": "別停在方法的表皮。",
+      "related": {
+        "synonyms": "cuticle",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "epicenter",
+      "inVocab": true,
+      "senseAnchor": "震源；中心",
+      "roleInScript": "震源點",
+      "humorDevice": "morphology",
+      "zhGloss": "震源；中心",
+      "speakLineEn": "Find the epicenter of the bias, not the symptom.",
+      "speakLineZh": "找偏差震源，不是症狀。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "epilogue",
+      "inVocab": true,
+      "senseAnchor": "a short speech (often in verse) addressed directly to the audience by an actor at the end of a play; a short passage added at the end of a literary work",
+      "roleInScript": "後記頁",
+      "humorDevice": "morphology",
+      "zhGloss": "結語；後記",
+      "speakLineEn": "Put corrections in an epilogue, not a rumor.",
+      "speakLineZh": "勘誤放後記，不是謠言。",
+      "related": {
+        "synonyms": "epilog",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "epitaph",
+      "inVocab": true,
+      "senseAnchor": "墓誌銘",
+      "roleInScript": "墓誌碑",
+      "humorDevice": "morphology",
+      "zhGloss": "墓誌銘",
+      "speakLineEn": "A bad paper's epitaph is unreproducible.",
+      "speakLineZh": "壞論文的墓誌是不可複現。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "epithet",
+      "inVocab": true,
+      "senseAnchor": "a defamatory or abusive word or phrase; descriptive word or phrase",
+      "roleInScript": "稱號貼",
+      "humorDevice": "morphology",
+      "zhGloss": "稱號；修飾語",
+      "speakLineEn": "An epithet is not an operational definition.",
+      "speakLineZh": "稱號不是操作性定義。",
+      "related": {
+        "synonyms": "name",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "ephemeral",
+      "inVocab": true,
+      "senseAnchor": "短暫的",
+      "roleInScript": "泡沫燈",
+      "humorDevice": "morphology",
+      "zhGloss": "短暫的",
+      "speakLineEn": "Ephemeral significance fades without robustness.",
+      "speakLineZh": "短暫顯著無穩健就消失。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "episode",
+      "inVocab": false,
+      "senseAnchor": "一集；片段",
+      "roleInScript": "片段集",
+      "humorDevice": "story",
+      "zhGloss": "一集；片段",
+      "speakLineEn": "Treat each peek as a logged episode.",
+      "speakLineZh": "把每次偷看當已記錄片段。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "overlay",
+      "inVocab": false,
+      "senseAnchor": "覆蓋層",
+      "roleInScript": "覆蓋膜",
+      "humorDevice": "story",
+      "zhGloss": "覆蓋層",
+      "speakLineEn": "Label overlays that change coding.",
+      "speakLineZh": "標註會改編碼的覆蓋層。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "add-on",
+      "inVocab": false,
+      "senseAnchor": "附加元件",
+      "roleInScript": "附加盒",
+      "humorDevice": "story",
+      "zhGloss": "附加元件",
+      "speakLineEn": "Add-on analyses stay secondary.",
+      "speakLineZh": "附加分析保持次要。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "surface",
+      "inVocab": false,
+      "senseAnchor": "表面",
+      "roleInScript": "表面板",
+      "humorDevice": "story",
+      "zhGloss": "表面",
+      "speakLineEn": "Surface polish cannot hide missing consent.",
+      "speakLineZh": "表面拋光藏不住缺失同意。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "afterword",
+      "inVocab": false,
+      "senseAnchor": "後記",
+      "roleInScript": "後記卡",
+      "humorDevice": "story",
+      "zhGloss": "後記",
+      "speakLineEn": "Write an afterword when you correct the record.",
+      "speakLineZh": "更正紀錄時寫後記。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "epi-＝上／附加：epidemic/epicenter/epilogue/epithet/ephemeral",
+    "ephemeral＝短暫的"
+  ],
+  "pitfalls": [
+    "epithet＝稱號／罵名；epitaph＝墓誌銘",
+    "ephemeral＝短暫"
+  ],
+  "lessonRefs": [
+    "lesson-prefix-epi-01"
+  ],
+  "status": "reviewed",
+  "priority": "C",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch06"
+  }
+}

@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "proper",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "適當的；真正的",
       "roleInScript": "得體證",
       "humorDevice": "morphology",
@@ -20,11 +20,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "improper",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "不適當的",
       "roleInScript": "失禮鈴",
       "humorDevice": "morphology",
@@ -35,11 +35,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "propriety",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "得體；禮儀",
       "roleInScript": "禮儀手冊",
       "humorDevice": "morphology",
@@ -50,11 +50,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "property",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "財產；性質",
       "roleInScript": "產權牌",
       "humorDevice": "morphology",
@@ -65,7 +65,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "proprietary",
@@ -84,7 +84,7 @@
     },
     {
       "headword": "proprietor",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "業主；老闆",
       "roleInScript": "老闆章",
       "humorDevice": "morphology",
@@ -95,11 +95,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "appropriate",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "適當的；撥用",
       "roleInScript": "撥用章",
       "humorDevice": "morphology",
@@ -110,11 +110,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "appropriation",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "撥款；挪用",
       "roleInScript": "挪用以案",
       "humorDevice": "morphology",
@@ -125,7 +125,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "expropriate",
@@ -144,7 +144,7 @@
     },
     {
       "headword": "ownership",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "所有權",
       "roleInScript": "誰的鍋",
       "humorDevice": "story",
@@ -155,11 +155,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "belongings",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "財物",
       "roleInScript": "私人物品",
       "humorDevice": "story",
@@ -170,11 +170,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "etiquette",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "禮儀",
       "roleInScript": "禮儀卡",
       "humorDevice": "story",
@@ -185,7 +185,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     }
   ],
   "reviewHooks": [

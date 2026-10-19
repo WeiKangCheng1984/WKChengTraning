@@ -1,0 +1,97 @@
+{
+  "id": "lesson-look-discrete-01",
+  "slug": "look-discrete-01",
+  "season": 3,
+  "seasonTitleZh": "語氣對打",
+  "seasonTitleEn": "Tone Duels",
+  "type": "duel",
+  "minutes": "12-15",
+  "clusterId": "look-discrete-01",
+  "titleZh": "discrete ↔ discreet｜謹慎分割櫃",
+  "titleEn": "Discrete vs Discreet Cabinet",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "形近對決：discrete＝分離的（一格一格），discreet＝謹慎的（小聲）——櫃子標籤別貼反。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "discretely 一格一格放。discreetly／indiscreet／discretion／discretionary 小聲、不謹慎、裁量權——管理員：discrete variables；discreet handling of identifiers。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "discrete＝分離的 → discretely",
+        "discreet＝謹慎的 → discreetly/discretion"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "lookalike",
+      "promptEn": "In a separate/distinct way:",
+      "promptZh": "分離地：",
+      "choices": [
+        "discretely",
+        "discreetly",
+        "popularly",
+        "surgically"
+      ],
+      "answer": "discretely"
+    },
+    {
+      "id": "q2",
+      "type": "lookalike",
+      "promptEn": "In a careful, low-key way:",
+      "promptZh": "謹慎低調地：",
+      "choices": [
+        "discreetly",
+        "discretely",
+        "autocratically",
+        "operatically"
+      ],
+      "answer": "discreetly"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Left to choice; optional by judgment:",
+      "promptZh": "酌情任意的：",
+      "choices": [
+        "discretionary",
+        "epidemic",
+        "sonorous",
+        "neon"
+      ],
+      "answer": "discretionary"
+    }
+  ],
+  "pitfalls": [
+    "discrete≠discreet",
+    "discretion＝謹慎／裁量；discretionary＝酌情的"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch06"
+  }
+}

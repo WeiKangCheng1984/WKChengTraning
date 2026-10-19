@@ -1,0 +1,213 @@
+{
+  "id": "prefix-super-01",
+  "type": "prefix",
+  "elementLemma": "super-",
+  "titleZh": "super-｜超級頂樓",
+  "titleEn": "Super Penthouse",
+  "hook": "字首 super-＝在上／過度——頂樓專管卓越、表面、取代與最高級。",
+  "script": "superior／superb／superlative 頂樓獎盃。superficial 只擦表面。supernatural 超自然櫃；supersede／superintendent 取代令與總管——管理員：superb checks；superficial claims 趕下樓。",
+  "members": [
+    {
+      "headword": "superior",
+      "inVocab": true,
+      "senseAnchor": "較優的；上級的",
+      "roleInScript": "頂樓獎",
+      "humorDevice": "morphology",
+      "zhGloss": "較優的；上級的",
+      "speakLineEn": "Prefer superior identification over fancy models.",
+      "speakLineZh": "寧可較優識別，不要花俏模型。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "superb",
+      "inVocab": true,
+      "senseAnchor": "極好的",
+      "roleInScript": "極好燈",
+      "humorDevice": "morphology",
+      "zhGloss": "極好的",
+      "speakLineEn": "Superb documentation beats superb adjectives.",
+      "speakLineZh": "極好文件勝過極好形容詞。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "superficial",
+      "inVocab": true,
+      "senseAnchor": "表面的；膚淺的",
+      "roleInScript": "表面擦",
+      "humorDevice": "morphology",
+      "zhGloss": "表面的；膚淺的",
+      "speakLineEn": "Superficial robustness checks mislead.",
+      "speakLineZh": "膚淺穩健檢查會誤導。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "supernatural",
+      "inVocab": true,
+      "senseAnchor": "超自然的",
+      "roleInScript": "超自然櫃",
+      "humorDevice": "morphology",
+      "zhGloss": "超自然的",
+      "speakLineEn": "Treat unreplicated miracles as near supernatural.",
+      "speakLineZh": "把未複現奇蹟當近乎超自然。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "supersede",
+      "inVocab": true,
+      "senseAnchor": "take the place or move into the position of",
+      "roleInScript": "取代令",
+      "humorDevice": "morphology",
+      "zhGloss": "取代；淘汰",
+      "speakLineEn": "New protocols supersede folklore.",
+      "speakLineZh": "新規程取代口頭傳說。",
+      "related": {
+        "synonyms": "supplant, replace, supercede",
+        "antonyms": "preserve, retain"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "superintendent",
+      "inVocab": true,
+      "senseAnchor": "主管；督學",
+      "roleInScript": "總管椅",
+      "humorDevice": "morphology",
+      "zhGloss": "主管；督學",
+      "speakLineEn": "Appoint a reproducibility superintendent.",
+      "speakLineZh": "指定可複現總管。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "superlative",
+      "inVocab": true,
+      "senseAnchor": "an exaggerated expression (usually of praise); the highest level or degree attainable; the highest stage of development",
+      "roleInScript": "最高級",
+      "humorDevice": "morphology",
+      "zhGloss": "最高級的；最好的",
+      "speakLineEn": "Avoid superlative claims from one study.",
+      "speakLineZh": "避免用單一研究下最高級主張。",
+      "related": {
+        "synonyms": "acme, height, elevation, peak, pinnacle, summit",
+        "antonyms": "natural depression, bottom out"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "overhead",
+      "inVocab": false,
+      "senseAnchor": "上方；管理費",
+      "roleInScript": "頂樓費",
+      "humorDevice": "story",
+      "zhGloss": "上方；管理費",
+      "speakLineEn": "Track overhead of endless tweaking.",
+      "speakLineZh": "追蹤無盡微調的頂樓成本。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "over-the-top",
+      "inVocab": false,
+      "senseAnchor": "過頭的",
+      "roleInScript": "過頭燈",
+      "humorDevice": "story",
+      "zhGloss": "過頭的",
+      "speakLineEn": "Over-the-top certainty is a red flag.",
+      "speakLineZh": "過頭確定是紅旗。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "penthouse",
+      "inVocab": false,
+      "senseAnchor": "頂樓",
+      "roleInScript": "頂樓窗",
+      "humorDevice": "story",
+      "zhGloss": "頂樓",
+      "speakLineEn": "Keep primary results in the penthouse of the paper.",
+      "speakLineZh": "主要結果放論文頂樓。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "upgrade",
+      "inVocab": false,
+      "senseAnchor": "升級",
+      "roleInScript": "升級鍵",
+      "humorDevice": "story",
+      "zhGloss": "升級",
+      "speakLineEn": "Upgrade gates when errors recur.",
+      "speakLineZh": "錯誤再現時升級閘門。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "overrule",
+      "inVocab": false,
+      "senseAnchor": "rule against",
+      "roleInScript": "否決錘",
+      "humorDevice": "story",
+      "zhGloss": "否決",
+      "speakLineEn": "Evidence can overrule hierarchy.",
+      "speakLineZh": "證據可以否決層級。",
+      "related": {
+        "synonyms": "overturn, override, overthrow, reverse",
+        "antonyms": "forward, obverse"
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "super-＝上／過度：superior/superb/superficial/supersede/superlative",
+    "supersede＝取代"
+  ],
+  "pitfalls": [
+    "superficial＝膚淺的；superior＝較優的",
+    "supersede＝取代（常拼錯）"
+  ],
+  "lessonRefs": [
+    "lesson-prefix-super-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch06"
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "id": "root-semin-01",
+  "type": "root",
+  "elementLemma": "sem/semin",
+  "titleZh": "sem／semin｜種子散播站",
+  "titleEn": "Semin Seed Station",
+  "hook": "字根 sem/semin＝種——散播站專管播種、研討與「種子級」影響。",
+  "script": "seminar／seminary 研討溫室。seminal 種子級論文。disseminate／dissemination 把種子撒出去；inseminate／seed／seedling 播入與幼苗——站長：disseminate nulls；seminal 不是自封。",
+  "members": [
+    {
+      "headword": "seminar",
+      "inVocab": true,
+      "senseAnchor": "研討會",
+      "roleInScript": "溫室課",
+      "humorDevice": "morphology",
+      "zhGloss": "研討會",
+      "speakLineEn": "Bring raw plots to the seminar, not vibes.",
+      "speakLineZh": "研討會帶原始圖，不是感覺。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "seminary",
+      "inVocab": true,
+      "senseAnchor": "神學院；養成所",
+      "roleInScript": "養成所",
+      "humorDevice": "morphology",
+      "zhGloss": "神學院；養成所",
+      "speakLineEn": "Treat lab training like a methods seminary.",
+      "speakLineZh": "把實驗室訓練當方法養成所。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "seminal",
+      "inVocab": true,
+      "senseAnchor": "creative and important",
+      "roleInScript": "種子級",
+      "humorDevice": "morphology",
+      "zhGloss": "開創性的；種子的",
+      "speakLineEn": "Call a paper seminal only after replication.",
+      "speakLineZh": "複現後才稱論文開創。",
+      "related": {
+        "synonyms": "groundbreaking, pioneering, original, innovate",
+        "antonyms": "unoriginal"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "disseminate",
+      "inVocab": true,
+      "senseAnchor": "cause to become widely known",
+      "roleInScript": "撒種機",
+      "humorDevice": "morphology",
+      "zhGloss": "散播；傳播",
+      "speakLineEn": "Disseminate protocols with the preprint.",
+      "speakLineZh": "與預印本一起散播規程。",
+      "related": {
+        "synonyms": "circulate, circularize, circularise, distribute, propagate, broadcast",
+        "antonyms": "withhold, suppress"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "dissemination",
+      "inVocab": true,
+      "senseAnchor": "散播",
+      "roleInScript": "撒種紀錄",
+      "humorDevice": "morphology",
+      "zhGloss": "散播",
+      "speakLineEn": "Plan dissemination of negatives too.",
+      "speakLineZh": "負結果也要有散播計畫。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "inseminate",
+      "inVocab": true,
+      "senseAnchor": "播入；使受精",
+      "roleInScript": "播入針",
+      "humorDevice": "morphology",
+      "zhGloss": "播入；使受精",
+      "speakLineEn": "Inseminate good habits in onboarding week.",
+      "speakLineZh": "入職週就播入好習慣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "seed",
+      "inVocab": false,
+      "senseAnchor": "種子",
+      "roleInScript": "種子袋",
+      "humorDevice": "morphology",
+      "zhGloss": "種子",
+      "speakLineEn": "Set a random seed and record it.",
+      "speakLineZh": "設定隨機種子並記錄。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "seedling",
+      "inVocab": false,
+      "senseAnchor": "幼苗",
+      "roleInScript": "幼苗盆",
+      "humorDevice": "story",
+      "zhGloss": "幼苗",
+      "speakLineEn": "Protect seedling ideas from hype frost.",
+      "speakLineZh": "保護幼苗想法免於炒作霜凍。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "sow",
+      "inVocab": false,
+      "senseAnchor": "播種",
+      "roleInScript": "播種手",
+      "humorDevice": "story",
+      "zhGloss": "播種",
+      "speakLineEn": "Sow preregistration before collecting.",
+      "speakLineZh": "收集前先播下預註冊。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "germinate",
+      "inVocab": false,
+      "senseAnchor": "發芽",
+      "roleInScript": "發芽燈",
+      "humorDevice": "story",
+      "zhGloss": "發芽",
+      "speakLineEn": "Let critiques germinate before rebutting.",
+      "speakLineZh": "反駁前讓批評先發芽。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "scatter",
+      "inVocab": false,
+      "senseAnchor": "a haphazard distribution in all directions; the act of scattering",
+      "roleInScript": "撒布圖",
+      "humorDevice": "story",
+      "zhGloss": "撒布",
+      "speakLineEn": "Scatterplots beat adjective storms.",
+      "speakLineZh": "散佈圖勝過形容詞風暴。",
+      "related": {
+        "synonyms": "spread, scattering, strewing, disperse, dissipate, dispel",
+        "antonyms": "fold, gather, accumulate"
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "broadcast",
+      "inVocab": false,
+      "senseAnchor": "廣播",
+      "roleInScript": "廣播塔",
+      "humorDevice": "story",
+      "zhGloss": "廣播",
+      "speakLineEn": "Broadcast corrections as loudly as launches.",
+      "speakLineZh": "勘誤廣播要跟上線一樣大聲。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "semin＝種：seminar/seminal/disseminate/dissemination/seed",
+    "seminal＝開創性的"
+  ],
+  "pitfalls": [
+    "seminal＝開創／種子的；seminar＝研討會",
+    "disseminate＝散播"
+  ],
+  "lessonRefs": [
+    "lesson-root-semin-01"
+  ],
+  "status": "reviewed",
+  "priority": "C",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch06"
+  }
+}

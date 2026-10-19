@@ -24,7 +24,7 @@
     },
     {
       "headword": "dearth",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "缺乏；飢饉",
       "roleInScript": "缺貨鈴",
       "humorDevice": "contrast",
@@ -35,11 +35,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "scarcity",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "稀缺",
       "roleInScript": "稀缺標",
       "humorDevice": "contrast",
@@ -50,11 +50,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "scanty",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "不足的；吝嗇的",
       "roleInScript": "薄薄一層",
       "humorDevice": "contrast",
@@ -65,11 +65,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "meager",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "貧瘠的；不足的",
       "roleInScript": "瘦弱份",
       "humorDevice": "contrast",
@@ -80,7 +80,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "copious",
@@ -129,7 +129,7 @@
     },
     {
       "headword": "abundance",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "充裕",
       "roleInScript": "豐收牌",
       "humorDevice": "contrast",
@@ -140,7 +140,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "surplus",
@@ -159,7 +159,7 @@
     },
     {
       "headword": "sparse",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "稀疏的",
       "roleInScript": "稀疏架",
       "humorDevice": "story",
@@ -170,11 +170,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "overflow",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "溢出",
       "roleInScript": "溢出桶",
       "humorDevice": "story",
@@ -185,7 +185,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     }
   ],
   "reviewHooks": [

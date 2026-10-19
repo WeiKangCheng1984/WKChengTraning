@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "maternal",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "母親的",
       "roleInScript": "母性章",
       "humorDevice": "morphology",
@@ -20,11 +20,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "maternity",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "母性；產科",
       "roleInScript": "產科窗",
       "humorDevice": "morphology",
@@ -35,11 +35,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "matriarch",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "女家長",
       "roleInScript": "家族女王",
       "humorDevice": "morphology",
@@ -50,11 +50,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "matriarchal",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "母系的",
       "roleInScript": "母系制",
       "humorDevice": "morphology",
@@ -65,11 +65,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "matron",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "女監護；成熟女性",
       "roleInScript": "監護人",
       "humorDevice": "morphology",
@@ -80,11 +80,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "matrimony",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "婚姻",
       "roleInScript": "結婚登記",
       "humorDevice": "morphology",
@@ -95,11 +95,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "matrix",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "矩陣；母體",
       "roleInScript": "矩陣媽媽",
       "humorDevice": "morphology",
@@ -110,11 +110,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "alma",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "慈養的（alma mater）",
       "roleInScript": "母校前綴",
       "humorDevice": "story",
@@ -125,11 +125,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "motherlode",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "富礦脈",
       "roleInScript": "主礦脈",
       "humorDevice": "story",
@@ -140,11 +140,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "nurture",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "養育",
       "roleInScript": "養育箱",
       "humorDevice": "story",
@@ -155,11 +155,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "brood",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "一窩；憂思",
       "roleInScript": "一窩幼崽",
       "humorDevice": "story",
@@ -170,11 +170,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "lineage",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "世系",
       "roleInScript": "血統樹",
       "humorDevice": "story",
@@ -185,7 +185,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     }
   ],
   "reviewHooks": [

@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "paternal",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "父親的",
       "roleInScript": "父系章",
       "humorDevice": "morphology",
@@ -20,11 +20,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "paternity",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "父性；父權身份",
       "roleInScript": "父職窗",
       "humorDevice": "morphology",
@@ -35,11 +35,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "patriarch",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "家長；元老",
       "roleInScript": "元老椅",
       "humorDevice": "morphology",
@@ -50,11 +50,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "patriot",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "愛國者",
       "roleInScript": "啦啦隊",
       "humorDevice": "morphology",
@@ -65,11 +65,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "patriotic",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "愛國的",
       "roleInScript": "愛國燈",
       "humorDevice": "morphology",
@@ -80,11 +80,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "patron",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "贊助人；主顧",
       "roleInScript": "贊助章",
       "humorDevice": "morphology",
@@ -95,7 +95,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "patronage",
@@ -144,7 +144,7 @@
     },
     {
       "headword": "repatriate",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "遣返；送回本國",
       "roleInScript": "送回國",
       "humorDevice": "story",
@@ -155,11 +155,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "sponsor",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "贊助者",
       "roleInScript": "贊助條",
       "humorDevice": "story",
@@ -170,7 +170,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     }
   ],
   "reviewHooks": [

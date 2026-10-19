@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-son-01",
+  "slug": "root-son-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-son-01",
+  "titleZh": "son｜共鳴錄音棚",
+  "titleEn": "Son Resonance Studio",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 son＝聲——錄音棚管共鳴、刺耳、齊聲與超音波。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "sonic／sonorous／supersonic／ultrasonic 聲浪層。resonate／resonance／resonant 共鳴牆。unison 齊聲；dissonant／dissonance／assonant 刺耳與諧音——導播：let claims resonate with evidence；dissonant incentives 調音。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "son＝聲：sonic/sonorous/resonate/unison/dissonance",
+        "dissonant＝不和諧"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Harshly unharmonious:",
+      "promptZh": "不和諧刺耳：",
+      "choices": [
+        "dissonant",
+        "seminal",
+        "popular",
+        "trivial"
+      ],
+      "answer": "dissonant"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "To echo; strike a chord:",
+      "promptZh": "共鳴：",
+      "choices": [
+        "resonate",
+        "operate",
+        "populate",
+        "deviate"
+      ],
+      "answer": "resonate"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Full, rich sound; imposing:",
+      "promptZh": "洪亮：",
+      "choices": [
+        "sonorous",
+        "populous",
+        "inoperative",
+        "neon"
+      ],
+      "answer": "sonorous"
+    }
+  ],
+  "pitfalls": [
+    "resonate＝共鳴；dissonant＝不協調",
+    "unison＝齊聲／一致"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch06"
+  }
+}

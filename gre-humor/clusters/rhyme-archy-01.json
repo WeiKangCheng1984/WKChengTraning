@@ -1,0 +1,209 @@
+{
+  "id": "rhyme-archy-01",
+  "type": "rhyme",
+  "elementLemma": "-archy/-cracy",
+  "titleZh": "-archy／-cracy｜體制皇冠館",
+  "titleEn": "Archy Crown Gallery",
+  "hook": "尾韻 -archy/-cracy＝統治體制——皇冠館用一座座「誰說了算」的帽子串記。",
+  "script": "anarchy 無皇冠。monarchy／patriarchy／matriarchy／oligarchy／hierarchy 各式帽子。democracy／autocracy／bureaucracy／aristocracy／plutocracy 另一排帽子——導覽：hierarchy of evidence；拒 autocracy of one p。",
+  "members": [
+    {
+      "headword": "anarchy",
+      "inVocab": true,
+      "senseAnchor": "無政府；混亂",
+      "roleInScript": "無皇冠",
+      "humorDevice": "morphology",
+      "zhGloss": "無政府；混亂",
+      "speakLineEn": "Analysis anarchy starts without a lock date.",
+      "speakLineZh": "沒有鎖定日就開始分析無政府。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "monarchy",
+      "inVocab": true,
+      "senseAnchor": "君主制",
+      "roleInScript": "單冠",
+      "humorDevice": "morphology",
+      "zhGloss": "君主制",
+      "speakLineEn": "A methods monarchy still needs peer review.",
+      "speakLineZh": "方法君主制仍需同儕審查。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "hierarchy",
+      "inVocab": true,
+      "senseAnchor": "層級；等級制",
+      "roleInScript": "層級帽",
+      "humorDevice": "morphology",
+      "zhGloss": "層級；等級制",
+      "speakLineEn": "State the hierarchy of outcomes clearly.",
+      "speakLineZh": "清楚陳述結局層級。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "oligarchy",
+      "inVocab": true,
+      "senseAnchor": "寡頭政治",
+      "roleInScript": "寡人帽",
+      "humorDevice": "morphology",
+      "zhGloss": "寡頭政治",
+      "speakLineEn": "Avoid an oligarchy of unblinded PIs.",
+      "speakLineZh": "避免非盲 PI 寡頭。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "matriarchy",
+      "inVocab": true,
+      "senseAnchor": "母系制",
+      "roleInScript": "母系冠",
+      "humorDevice": "morphology",
+      "zhGloss": "母系制",
+      "speakLineEn": "Credit matriarchy: who actually kept logs.",
+      "speakLineZh": "功勞母系制：誰真正維護日誌。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "patriarchy",
+      "inVocab": true,
+      "senseAnchor": "父系制",
+      "roleInScript": "父系冠",
+      "humorDevice": "morphology",
+      "zhGloss": "父系制",
+      "speakLineEn": "Challenge patriarchy of 'senior knows best'.",
+      "speakLineZh": "挑戰「資深一定對」的父系制。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "democracy",
+      "inVocab": true,
+      "senseAnchor": "民主",
+      "roleInScript": "民主帽",
+      "humorDevice": "morphology",
+      "zhGloss": "民主",
+      "speakLineEn": "Lab democracy: juniors can veto unsafe peeks.",
+      "speakLineZh": "實驗室民主：資淺可否決不安全偷看。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "autocracy",
+      "inVocab": true,
+      "senseAnchor": "a political system governed by a single individual; a political theory favoring unlimited authority by a single individual",
+      "roleInScript": "專制帽",
+      "humorDevice": "morphology",
+      "zhGloss": "專制",
+      "speakLineEn": "Autocracy over code review breeds bugs.",
+      "speakLineZh": "程式審查專制滋生錯誤。",
+      "related": {
+        "synonyms": "autarchy",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "bureaucracy",
+      "inVocab": true,
+      "senseAnchor": "官僚體制",
+      "roleInScript": "官僚帽",
+      "humorDevice": "story",
+      "zhGloss": "官僚體制",
+      "speakLineEn": "Good bureaucracy is checklists, not delay.",
+      "speakLineZh": "好官僚是清單，不是拖延。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "aristocracy",
+      "inVocab": true,
+      "senseAnchor": "people born in the highest social class",
+      "roleInScript": "貴族帽",
+      "humorDevice": "story",
+      "zhGloss": "貴族統治",
+      "speakLineEn": "Citation aristocracy is not validity.",
+      "speakLineZh": "引用貴族不是效度。",
+      "related": {
+        "synonyms": "nobility, gentry",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "plutocracy",
+      "inVocab": true,
+      "senseAnchor": "財閥統治",
+      "roleInScript": "財閥帽",
+      "humorDevice": "story",
+      "zhGloss": "財閥統治",
+      "speakLineEn": "Disclose funding to avoid plutocracy vibes.",
+      "speakLineZh": "揭露資金以避免財閥感。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "crown",
+      "inVocab": false,
+      "senseAnchor": "皇冠",
+      "roleInScript": "皇冠道具",
+      "humorDevice": "story",
+      "zhGloss": "皇冠",
+      "speakLineEn": "No single metric wears the crown alone.",
+      "speakLineZh": "沒有單一指標獨戴皇冠。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "-archy/-cracy：anarchy/hierarchy/oligarchy/democracy/bureaucracy/plutocracy",
+    "oligarchy＝寡頭"
+  ],
+  "pitfalls": [
+    "hierarchy＝層級；anarchy＝無政府",
+    "plutocracy＝財閥統治"
+  ],
+  "lessonRefs": [
+    "lesson-rhyme-archy-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch06"
+  }
+}

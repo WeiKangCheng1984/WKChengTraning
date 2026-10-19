@@ -1,0 +1,97 @@
+{
+  "id": "lesson-prefix-super-01",
+  "slug": "prefix-super-01",
+  "season": 4,
+  "seasonTitleZh": "字首調味",
+  "seasonTitleEn": "Prefix Seasoning",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "prefix-super-01",
+  "titleZh": "super-｜超級頂樓",
+  "titleEn": "Super Penthouse",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字首 super-＝在上／過度——頂樓專管卓越、表面、取代與最高級。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "superior／superb／superlative 頂樓獎盃。superficial 只擦表面。supernatural 超自然櫃；supersede／superintendent 取代令與總管——管理員：superb checks；superficial claims 趕下樓。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "super-＝上／過度：superior/superb/superficial/supersede/superlative",
+        "supersede＝取代"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Shallow; only on the surface:",
+      "promptZh": "表面膚淺：",
+      "choices": [
+        "superficial",
+        "seminal",
+        "sonorous",
+        "ambidextrous"
+      ],
+      "answer": "superficial"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Replace in authority or use:",
+      "promptZh": "取代：",
+      "choices": [
+        "supersede",
+        "disseminate",
+        "resonate",
+        "populate"
+      ],
+      "answer": "supersede"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Of the highest kind; best:",
+      "promptZh": "最高級：",
+      "choices": [
+        "superlative",
+        "trivial",
+        "diurnal",
+        "neon"
+      ],
+      "answer": "superlative"
+    }
+  ],
+  "pitfalls": [
+    "superficial＝膚淺的；superior＝較優的",
+    "supersede＝取代（常拼錯）"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch06"
+  }
+}

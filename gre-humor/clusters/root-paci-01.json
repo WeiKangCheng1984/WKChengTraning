@@ -24,7 +24,7 @@
     },
     {
       "headword": "pacific",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "和平的；平和的",
       "roleInScript": "停戰臉",
       "humorDevice": "morphology",
@@ -35,11 +35,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "pacifist",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "和平主義者",
       "roleInScript": "反戰牌",
       "humorDevice": "morphology",
@@ -50,11 +50,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "pacifism",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "和平主義",
       "roleInScript": "和平綱領",
       "humorDevice": "morphology",
@@ -65,11 +65,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "peace",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "和平",
       "roleInScript": "停戰旗",
       "humorDevice": "morphology",
@@ -80,11 +80,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "pax",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "和平；平安",
       "roleInScript": "Pax 印章",
       "humorDevice": "story",
@@ -95,7 +95,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "truce",
@@ -114,7 +114,7 @@
     },
     {
       "headword": "armistice",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "停戰協定",
       "roleInScript": "停戰書",
       "humorDevice": "story",
@@ -125,7 +125,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "reconcile",
@@ -144,7 +144,7 @@
     },
     {
       "headword": "ceasefire",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "停火",
       "roleInScript": "停火線",
       "humorDevice": "story",
@@ -155,7 +155,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     }
   ],
   "reviewHooks": [

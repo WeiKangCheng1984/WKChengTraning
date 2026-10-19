@@ -1,0 +1,168 @@
+{
+  "id": "look-allude-01",
+  "type": "lookalike",
+  "elementLemma": "allude-elude",
+  "titleZh": "allude ↔ elude｜暗指迷宮",
+  "titleEn": "Allude vs Elude Maze",
+  "hook": "形近對決：allude＝暗指（點一下），elude＝躲避（溜走）——迷宮裡別走錯門。",
+  "script": "allusion／allusive 暗指箭頭。elusive／elusion 溜走霧。hint／imply／escape／dodge 客串——管理員：allude to limits；勿 let responsibility elude you。",
+  "members": [
+    {
+      "headword": "allusion",
+      "inVocab": true,
+      "senseAnchor": "暗指；典故",
+      "roleInScript": "暗指箭",
+      "humorDevice": "lookalike",
+      "zhGloss": "暗指；典故",
+      "speakLineEn": "Make limitations an allusion readers cannot miss.",
+      "speakLineZh": "讓限制成為讀者無法錯過的暗指。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "allusive",
+      "inVocab": true,
+      "senseAnchor": "暗指的",
+      "roleInScript": "暗指標",
+      "humorDevice": "lookalike",
+      "zhGloss": "暗指的",
+      "speakLineEn": "Allusive abstracts still need numbers.",
+      "speakLineZh": "暗指摘要仍需要數字。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "elusive",
+      "inVocab": true,
+      "senseAnchor": "hard to capture",
+      "roleInScript": "溜走霧",
+      "humorDevice": "lookalike",
+      "zhGloss": "難捉摸的；躲避的",
+      "speakLineEn": "Causal effects are often elusive without design.",
+      "speakLineZh": "沒有設計時因果效應常難捉摸。",
+      "related": {
+        "synonyms": "mysterious, cryptic",
+        "antonyms": "obvious, accessible"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "elusion",
+      "inVocab": true,
+      "senseAnchor": "逃避；躲避",
+      "roleInScript": "躲避門",
+      "humorDevice": "lookalike",
+      "zhGloss": "逃避；躲避",
+      "speakLineEn": "Elusion of peer review is not strategy.",
+      "speakLineZh": "逃避同儕審查不是策略。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "hint",
+      "inVocab": false,
+      "senseAnchor": "提示",
+      "roleInScript": "提示釘",
+      "humorDevice": "story",
+      "zhGloss": "提示",
+      "speakLineEn": "A hint in discussion is not a primary claim.",
+      "speakLineZh": "討論裡的提示不是主要主張。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "escape",
+      "inVocab": false,
+      "senseAnchor": "逃脫",
+      "roleInScript": "逃脫口",
+      "humorDevice": "story",
+      "zhGloss": "逃脫",
+      "speakLineEn": "Bugs escape when tests are thin.",
+      "speakLineZh": "測試薄弱時 bug 會逃脫。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "dodge",
+      "inVocab": false,
+      "senseAnchor": "閃避",
+      "roleInScript": "閃避步",
+      "humorDevice": "story",
+      "zhGloss": "閃避",
+      "speakLineEn": "Do not dodge requests for code.",
+      "speakLineZh": "不要閃避程式碼請求。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "slippery",
+      "inVocab": false,
+      "senseAnchor": "causing or tending to cause things to slip or slide; not to be trusted; - James Agee",
+      "roleInScript": "滑溜地",
+      "humorDevice": "story",
+      "zhGloss": "滑溜的",
+      "speakLineEn": "Slippery endpoints invite fishing.",
+      "speakLineZh": "滑溜終點誘發淘篩。",
+      "related": {
+        "synonyms": "slippy, tricky",
+        "antonyms": "nonslippery"
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "maze",
+      "inVocab": false,
+      "senseAnchor": "迷宮",
+      "roleInScript": "迷宮圖",
+      "humorDevice": "story",
+      "zhGloss": "迷宮",
+      "speakLineEn": "Map the maze of decisions in a DAG or list.",
+      "speakLineZh": "用 DAG 或清單畫決策迷宮。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "allude＝暗指 → allusion/allusive",
+    "elude＝躲避 → elusive/elusion"
+  ],
+  "pitfalls": [
+    "allude≠elude",
+    "allusion＝典故暗指；illusion＝幻覺（另一組）"
+  ],
+  "lessonRefs": [
+    "lesson-look-allude-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch06"
+  }
+}

@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "solo",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "獨奏；單獨的",
       "roleInScript": "獨奏席",
       "humorDevice": "morphology",
@@ -20,11 +20,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "soloist",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "獨奏者",
       "roleInScript": "獨奏明星",
       "humorDevice": "morphology",
@@ -35,11 +35,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "solitary",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "孤獨的；單獨的",
       "roleInScript": "獨坐椅",
       "humorDevice": "morphology",
@@ -50,11 +50,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "sole",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "唯一的；鞋底",
       "roleInScript": "唯一票",
       "humorDevice": "morphology",
@@ -65,7 +65,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "desolate",
@@ -99,7 +99,7 @@
     },
     {
       "headword": "solar",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "太陽的",
       "roleInScript": "日照燈",
       "humorDevice": "morphology",
@@ -110,11 +110,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "parasol",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "陽傘",
       "roleInScript": "遮陽傘",
       "humorDevice": "story",
@@ -125,11 +125,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "alone",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "單獨",
       "roleInScript": "單獨鍵",
       "humorDevice": "story",
@@ -140,11 +140,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "lonely",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "寂寞的",
       "roleInScript": "寂寞燈",
       "humorDevice": "story",
@@ -155,11 +155,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "sunlit",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "陽光照射的",
       "roleInScript": "光照面",
       "humorDevice": "story",
@@ -170,11 +170,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "spotlight",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "聚光燈",
       "roleInScript": "聚光燈",
       "humorDevice": "story",
@@ -185,7 +185,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     }
   ],
   "reviewHooks": [

@@ -54,7 +54,7 @@
     },
     {
       "headword": "transparent",
-      "inVocab": true,
+      "inVocab": false,
       "senseAnchor": "透明的",
       "roleInScript": "可透視",
       "humorDevice": "contrast",
@@ -65,7 +65,8 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "synced-s3a"
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "obscure",

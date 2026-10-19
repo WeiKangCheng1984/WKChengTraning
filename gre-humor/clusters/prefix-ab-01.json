@@ -1,0 +1,213 @@
+{
+  "id": "prefix-ab-01",
+  "type": "prefix",
+  "elementLemma": "ab-",
+  "titleZh": "ab-｜撤離消毒門",
+  "titleEn": "Ab Exit Decontam Gate",
+  "hook": "字首 ab-＝離開／否定——消毒門專管離開、異常、棄權與厭惡。",
+  "script": "abnormal／aberration 異常警報。abscond／abdicate／abjure 溜走、退位、宣誓放棄。abhor／abort／abstract／abeyance／ablution 厭惡、中止、抽離、暫擱、清洗——門衛：abhor fabrication；abscond with data 零分。",
+  "members": [
+    {
+      "headword": "abnormal",
+      "inVocab": false,
+      "senseAnchor": "異常的",
+      "roleInScript": "異常燈",
+      "humorDevice": "morphology",
+      "zhGloss": "異常的",
+      "speakLineEn": "Flag abnormal missingness patterns early.",
+      "speakLineZh": "及早標記異常缺失模式。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "aberration",
+      "inVocab": true,
+      "senseAnchor": "偏差；失常",
+      "roleInScript": "失常針",
+      "humorDevice": "morphology",
+      "zhGloss": "偏差；失常",
+      "speakLineEn": "Treat a lucky p as a possible aberration.",
+      "speakLineZh": "把幸運 p 當可能失常。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "abscond",
+      "inVocab": true,
+      "senseAnchor": "run away; usually includes taking something or somebody along",
+      "roleInScript": "溜走門",
+      "humorDevice": "morphology",
+      "zhGloss": "潛逃；溜走",
+      "speakLineEn": "Do not abscond with unshared materials.",
+      "speakLineZh": "別帶著未分享材料溜走。",
+      "related": {
+        "synonyms": "bolt, absquatulate, decamp",
+        "antonyms": "unbolt"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "abdicate",
+      "inVocab": true,
+      "senseAnchor": "give up, such as power, as of monarchs and emperors, or duties and obligations",
+      "roleInScript": "退位章",
+      "humorDevice": "morphology",
+      "zhGloss": "退位；放棄職責",
+      "speakLineEn": "Leaders must not abdicate audit duty.",
+      "speakLineZh": "領導不可放棄稽核職責。",
+      "related": {
+        "synonyms": "renounce",
+        "antonyms": "embrace, claim"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "abjure",
+      "inVocab": true,
+      "senseAnchor": "formally reject or disavow a formerly held belief, usually under pressure",
+      "roleInScript": "棄權誓",
+      "humorDevice": "morphology",
+      "zhGloss": "宣誓放棄",
+      "speakLineEn": "Abjure outcome switching in writing.",
+      "speakLineZh": "書面宣誓放棄結局替換。",
+      "related": {
+        "synonyms": "recant, forswear, retract, resile",
+        "antonyms": "embrace, affirm"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "abhor",
+      "inVocab": true,
+      "senseAnchor": "憎惡",
+      "roleInScript": "厭惡鈴",
+      "humorDevice": "morphology",
+      "zhGloss": "憎惡",
+      "speakLineEn": "Abhor silent deletion of outliers.",
+      "speakLineZh": "憎惡沉默刪除離群值。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "abort",
+      "inVocab": false,
+      "senseAnchor": "中止；流產",
+      "roleInScript": "中止鍵",
+      "humorDevice": "morphology",
+      "zhGloss": "中止；流產",
+      "speakLineEn": "Abort a run when blinding breaks.",
+      "speakLineZh": "盲法破裂時中止執行。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "abstract",
+      "inVocab": false,
+      "senseAnchor": "摘要；抽象的",
+      "roleInScript": "摘要卡",
+      "humorDevice": "morphology",
+      "zhGloss": "摘要；抽象的",
+      "speakLineEn": "Put uncertainty in the abstract.",
+      "speakLineZh": "把不確定放進摘要。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "abeyance",
+      "inVocab": true,
+      "senseAnchor": "temporary inactivity",
+      "roleInScript": "暫擱架",
+      "humorDevice": "story",
+      "zhGloss": "暫緩；擱置",
+      "speakLineEn": "Hold disputed claims in abeyance.",
+      "speakLineZh": "爭議主張先暫擱。",
+      "related": {
+        "synonyms": "quiescence, dormancy",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "ablution",
+      "inVocab": true,
+      "senseAnchor": "洗淨；潔禮",
+      "roleInScript": "清洗池",
+      "humorDevice": "story",
+      "zhGloss": "洗淨；潔禮",
+      "speakLineEn": "Do ablution: clean identifiers before share.",
+      "speakLineZh": "做清洗禮：分享前清識別碼。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "exit",
+      "inVocab": false,
+      "senseAnchor": "出口",
+      "roleInScript": "出口燈",
+      "humorDevice": "story",
+      "zhGloss": "出口",
+      "speakLineEn": "Define exit criteria for interim peeks.",
+      "speakLineZh": "定義期中偷看的退出標準。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "withdraw",
+      "inVocab": false,
+      "senseAnchor": "撤回",
+      "roleInScript": "撤回單",
+      "humorDevice": "story",
+      "zhGloss": "撤回",
+      "speakLineEn": "Withdraw overclaimed papers with a note.",
+      "speakLineZh": "用說明撤回過度宣稱論文。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "ab-＝離開：abnormal/aberration/abscond/abdicate/abhor/abeyance",
+    "abscond＝潛逃"
+  ],
+  "pitfalls": [
+    "abdicate＝退位放棄；abjure＝宣誓放棄",
+    "abeyance＝暫緩擱置"
+  ],
+  "lessonRefs": [
+    "lesson-prefix-ab-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch06"
+  }
+}

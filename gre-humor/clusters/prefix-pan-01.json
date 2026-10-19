@@ -24,7 +24,7 @@
     },
     {
       "headword": "panoramic",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "全景的",
       "roleInScript": "全景鏡",
       "humorDevice": "morphology",
@@ -35,7 +35,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "panacea",
@@ -84,7 +84,7 @@
     },
     {
       "headword": "pandemic",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "大流行的；疫情",
       "roleInScript": "大流行旗",
       "humorDevice": "morphology",
@@ -95,11 +95,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "pantheon",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "萬神殿；名流群",
       "roleInScript": "萬神殿",
       "humorDevice": "morphology",
@@ -110,11 +110,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "blanket",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "毯子；全面的",
       "roleInScript": "全面毯",
       "humorDevice": "story",
@@ -125,7 +125,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "wholesale",
@@ -144,7 +144,7 @@
     },
     {
       "headword": "across-the-board",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "全面的",
       "roleInScript": "全面板",
       "humorDevice": "story",
@@ -155,11 +155,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "omni",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "全（口語詞根）",
       "roleInScript": "全字貼",
       "humorDevice": "story",
@@ -170,11 +170,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "everywhere",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "到處",
       "roleInScript": "到處燈",
       "humorDevice": "story",
@@ -185,7 +185,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     }
   ],
   "reviewHooks": [

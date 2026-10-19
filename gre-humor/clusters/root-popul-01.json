@@ -1,0 +1,200 @@
+{
+  "id": "root-popul-01",
+  "type": "root",
+  "elementLemma": "popul",
+  "titleZh": "popul｜民意廣場",
+  "titleEn": "Popul Public Square",
+  "hook": "字根 popul＝民——廣場上擠滿人潮、民粹喇叭與冷清角落。",
+  "script": "popular／unpopular／popularize 人氣燈。populate／population／populous／populace 人潮統計。populist／depopulate 民粹喇叭與清空場——市長：populace ≠ sample；populist shortcuts 禁。",
+  "members": [
+    {
+      "headword": "popular",
+      "inVocab": false,
+      "senseAnchor": "受歡迎的；流行的",
+      "roleInScript": "人氣燈",
+      "humorDevice": "morphology",
+      "zhGloss": "受歡迎的；流行的",
+      "speakLineEn": "Popular metrics can still be wrong.",
+      "speakLineZh": "流行指標仍可能錯。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "unpopular",
+      "inVocab": false,
+      "senseAnchor": "不受歡迎的",
+      "roleInScript": "冷清角",
+      "humorDevice": "morphology",
+      "zhGloss": "不受歡迎的",
+      "speakLineEn": "Unpopular nulls deserve publication.",
+      "speakLineZh": "不受歡迎的虛無也該發表。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "popularize",
+      "inVocab": false,
+      "senseAnchor": "普及；推廣",
+      "roleInScript": "推廣攤",
+      "humorDevice": "morphology",
+      "zhGloss": "普及；推廣",
+      "speakLineEn": "Popularize prereg without dumbing it down.",
+      "speakLineZh": "普及預註冊但不簡化到失真。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "populate",
+      "inVocab": false,
+      "senseAnchor": "使居住；填充",
+      "roleInScript": "填人潮",
+      "humorDevice": "morphology",
+      "zhGloss": "使居住；填充",
+      "speakLineEn": "Populate the codebook before the model.",
+      "speakLineZh": "建模前先填滿編碼簿。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "population",
+      "inVocab": false,
+      "senseAnchor": "人口；母體",
+      "roleInScript": "母體牆",
+      "humorDevice": "morphology",
+      "zhGloss": "人口；母體",
+      "speakLineEn": "State the population you can actually reach.",
+      "speakLineZh": "說清你真正能觸及的母體。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "populous",
+      "inVocab": true,
+      "senseAnchor": "densely populated",
+      "roleInScript": "擁擠區",
+      "humorDevice": "morphology",
+      "zhGloss": "人口稠密的",
+      "speakLineEn": "Populous multi-site studies need site effects.",
+      "speakLineZh": "人口稠密多站研究需要站點效應。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "populace",
+      "inVocab": true,
+      "senseAnchor": "大眾；平民",
+      "roleInScript": "廣場人群",
+      "humorDevice": "morphology",
+      "zhGloss": "大眾；平民",
+      "speakLineEn": "Do not confuse online populace with the frame.",
+      "speakLineZh": "別把線上人群當抽樣架構。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "populist",
+      "inVocab": true,
+      "senseAnchor": "民粹的；民粹主義者",
+      "roleInScript": "民粹喇叭",
+      "humorDevice": "morphology",
+      "zhGloss": "民粹的；民粹主義者",
+      "speakLineEn": "Populist certainty is not statistical certainty.",
+      "speakLineZh": "民粹確定不是統計確定。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "depopulate",
+      "inVocab": true,
+      "senseAnchor": "使人口減少",
+      "roleInScript": "清空場",
+      "humorDevice": "story",
+      "zhGloss": "使人口減少",
+      "speakLineEn": "Depopulate junk variables before fitting.",
+      "speakLineZh": "擬合前清空垃圾變數。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p2-pending-b06"
+    },
+    {
+      "headword": "crowd",
+      "inVocab": false,
+      "senseAnchor": "人群",
+      "roleInScript": "人群浪",
+      "humorDevice": "story",
+      "zhGloss": "人群",
+      "speakLineEn": "Crowd applause is not peer review.",
+      "speakLineZh": "人群掌聲不是同儕審查。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "public",
+      "inVocab": false,
+      "senseAnchor": "公眾的",
+      "roleInScript": "公眾席",
+      "humorDevice": "story",
+      "zhGloss": "公眾的",
+      "speakLineEn": "Keep public corrections faster than rumors.",
+      "speakLineZh": "公開勘誤要比謠言快。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "popul＝民：popular/populate/population/populace/populist",
+    "populace＝大眾"
+  ],
+  "pitfalls": [
+    "populace＝民眾；population＝人口／母體",
+    "populist＝民粹的"
+  ],
+  "lessonRefs": [
+    "lesson-root-popul-01"
+  ],
+  "status": "reviewed",
+  "priority": "C",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch06"
+  }
+}

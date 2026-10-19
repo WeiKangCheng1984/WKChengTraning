@@ -1,0 +1,97 @@
+{
+  "id": "lesson-prefix-ab-01",
+  "slug": "prefix-ab-01",
+  "season": 4,
+  "seasonTitleZh": "字首調味",
+  "seasonTitleEn": "Prefix Seasoning",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "prefix-ab-01",
+  "titleZh": "ab-｜撤離消毒門",
+  "titleEn": "Ab Exit Decontam Gate",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字首 ab-＝離開／否定——消毒門專管離開、異常、棄權與厭惡。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "abnormal／aberration 異常警報。abscond／abdicate／abjure 溜走、退位、宣誓放棄。abhor／abort／abstract／abeyance／ablution 厭惡、中止、抽離、暫擱、清洗——門衛：abhor fabrication；abscond with data 零分。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "ab-＝離開：abnormal/aberration/abscond/abdicate/abhor/abeyance",
+        "abscond＝潛逃"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Leave hurriedly and secretly:",
+      "promptZh": "潛逃溜走：",
+      "choices": [
+        "abscond",
+        "resonate",
+        "populate",
+        "diagnose"
+      ],
+      "answer": "abscond"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Hate; detest:",
+      "promptZh": "憎惡：",
+      "choices": [
+        "abhor",
+        "surge",
+        "seed",
+        "via"
+      ],
+      "answer": "abhor"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Temporary suspension; being set aside:",
+      "promptZh": "暫緩擱置：",
+      "choices": [
+        "abeyance",
+        "autonomy",
+        "epidemic",
+        "opus"
+      ],
+      "answer": "abeyance"
+    }
+  ],
+  "pitfalls": [
+    "abdicate＝退位放棄；abjure＝宣誓放棄",
+    "abeyance＝暫緩擱置"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch06"
+  }
+}

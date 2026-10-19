@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "vagrant",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "流浪的；遊民",
       "roleInScript": "遊民牌",
       "humorDevice": "morphology",
@@ -20,11 +20,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "vagrancy",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "遊蕩；流浪罪",
       "roleInScript": "遊蕩罪",
       "humorDevice": "morphology",
@@ -35,11 +35,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "vagabond",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "流浪漢",
       "roleInScript": "背包客",
       "humorDevice": "morphology",
@@ -50,11 +50,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "extravagant",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "過度的；揮霍的",
       "roleInScript": "揮霍旅費",
       "humorDevice": "morphology",
@@ -65,7 +65,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "extravagance",
@@ -144,7 +144,7 @@
     },
     {
       "headword": "nomadic",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "遊牧的",
       "roleInScript": "遊牧帳",
       "humorDevice": "story",
@@ -155,11 +155,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "drift",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "漂移",
       "roleInScript": "漂流標",
       "humorDevice": "story",
@@ -170,7 +170,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p2-pending-b06"
     },
     {
       "headword": "wayward",
