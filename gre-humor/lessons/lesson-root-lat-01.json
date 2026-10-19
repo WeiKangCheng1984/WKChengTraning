@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-lat-01",
+  "slug": "root-lat-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-lat-01",
+  "titleZh": "lat｜側邊快遞局",
+  "titleEn": "Lat Sideways Courier",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 lat＝邊／帶——快遞局只走側門：橫向、拉開、連帶責任全包。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "lateral 側滑閃人；relative／relation／relate 把親戚網路連起來。dilate 把瞳孔拉開；elated 開心到飄。collate／collateral／translate 核對、抵押、翻譯——局長：lateral thinking 可以；collateral damage 不行。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "lat＝邊：lateral/relative/dilate/collate/collateral",
+        "elated＝興高采烈"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Sideways; of the side:",
+      "promptZh": "側面橫向：",
+      "choices": [
+        "lateral",
+        "sacred",
+        "pacify",
+        "vagabond"
+      ],
+      "answer": "lateral"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Joyfully excited:",
+      "promptZh": "興高采烈：",
+      "choices": [
+        "elated",
+        "evasive",
+        "scanty",
+        "urbane"
+      ],
+      "answer": "elated"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Secondary; accompanying damage/security:",
+      "promptZh": "附帶／抵押：",
+      "choices": [
+        "collateral",
+        "salient",
+        "mercenary",
+        "solo"
+      ],
+      "answer": "collateral"
+    }
+  ],
+  "pitfalls": [
+    "lateral＝側面的；literal＝字面的",
+    "collateral＝附帶／抵押"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch05"
+  }
+}

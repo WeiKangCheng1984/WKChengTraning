@@ -1,0 +1,193 @@
+{
+  "id": "prefix-para-01",
+  "type": "prefix",
+  "elementLemma": "para-",
+  "titleZh": "para-｜旁門異常館",
+  "titleEn": "Para Side Door Hall",
+  "hook": "字首 para-＝旁／異常——旁門館收模範、悖論、寄生與改寫版。",
+  "script": "paragon 模範展櫃。paradox／parallel／paradigm 悖論、平行線、範式轉盤。parasite 寄生客；paraphrase／paramount／paranormal／parable 改寫、至上、超常、寓言——館長：paramount clarity；parasite claims 驅除。",
+  "members": [
+    {
+      "headword": "paradox",
+      "inVocab": false,
+      "senseAnchor": "悖論",
+      "roleInScript": "悖論鏡",
+      "humorDevice": "morphology",
+      "zhGloss": "悖論",
+      "speakLineEn": "Report the paradox of significant yet tiny effects.",
+      "speakLineZh": "報告顯著卻微小的悖論。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "parallel",
+      "inVocab": false,
+      "senseAnchor": "平行的；類似的",
+      "roleInScript": "平行線",
+      "humorDevice": "morphology",
+      "zhGloss": "平行的；類似的",
+      "speakLineEn": "Run a parallel blinded analysis track.",
+      "speakLineZh": "跑一條平行盲法分析軌道。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "paradigm",
+      "inVocab": false,
+      "senseAnchor": "範式；典範",
+      "roleInScript": "範式轉盤",
+      "humorDevice": "morphology",
+      "zhGloss": "範式；典範",
+      "speakLineEn": "A paradigm shift still needs boring audits.",
+      "speakLineZh": "範式轉移仍需要無聊稽核。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "parasite",
+      "inVocab": false,
+      "senseAnchor": "寄生虫；寄生者",
+      "roleInScript": "寄生客",
+      "humorDevice": "morphology",
+      "zhGloss": "寄生虫；寄生者",
+      "speakLineEn": "HARKing is a parasite on honest inquiry.",
+      "speakLineZh": "HARKing 是誠實探究的寄生虫。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "paragon",
+      "inVocab": false,
+      "senseAnchor": "模範；完美典型",
+      "roleInScript": "模範櫃",
+      "humorDevice": "morphology",
+      "zhGloss": "模範；完美典型",
+      "speakLineEn": "Be a paragon of correction speed.",
+      "speakLineZh": "做勘誤速度的模範。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "paraphrase",
+      "inVocab": false,
+      "senseAnchor": "改述",
+      "roleInScript": "改寫台",
+      "humorDevice": "morphology",
+      "zhGloss": "改述",
+      "speakLineEn": "Paraphrase claims without changing the estimand.",
+      "speakLineZh": "改述主張但不改目標量。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "paramount",
+      "inVocab": true,
+      "senseAnchor": "having superior power and influence",
+      "roleInScript": "至上旗",
+      "humorDevice": "morphology",
+      "zhGloss": "至上的；最重要的",
+      "speakLineEn": "Transparency is paramount under uncertainty.",
+      "speakLineZh": "不確定下透明至上。",
+      "related": {
+        "synonyms": "overriding, predominant, predominate, preponderant, preponderating",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "paranormal",
+      "inVocab": false,
+      "senseAnchor": "超常的",
+      "roleInScript": "超常燈",
+      "humorDevice": "story",
+      "zhGloss": "超常的",
+      "speakLineEn": "Treat extraordinary claims as almost paranormal.",
+      "speakLineZh": "把非凡主張當近乎超常。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "parable",
+      "inVocab": true,
+      "senseAnchor": "a short moral story (often with animal characters); (New Testament) any of the stories told by Jesus to convey his religious message",
+      "roleInScript": "寓言箱",
+      "humorDevice": "story",
+      "zhGloss": "寓言",
+      "speakLineEn": "A methods parable: the lab that hid a null.",
+      "speakLineZh": "方法寓言：那個藏起虛無的實驗室。",
+      "related": {
+        "synonyms": "fable, allegory, apologue",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "sidekick",
+      "inVocab": false,
+      "senseAnchor": "助手；配角",
+      "roleInScript": "配角燈",
+      "humorDevice": "story",
+      "zhGloss": "助手；配角",
+      "speakLineEn": "Secondary endpoints are sidekicks, not leads.",
+      "speakLineZh": "次要終點是配角，不是主角。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "outlier",
+      "inVocab": false,
+      "senseAnchor": "離群值",
+      "roleInScript": "旁門怪人",
+      "humorDevice": "story",
+      "zhGloss": "離群值",
+      "speakLineEn": "Label outliers; do not quietly exile them.",
+      "speakLineZh": "標註離群值；別安靜放逐。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "para-＝旁／異常：paradox/parallel/paradigm/parasite/paragon/paramount",
+    "paragon＝模範"
+  ],
+  "pitfalls": [
+    "paradigm＝範式；paragon＝模範",
+    "paramount＝至上的"
+  ],
+  "lessonRefs": [
+    "lesson-prefix-para-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch05"
+  }
+}

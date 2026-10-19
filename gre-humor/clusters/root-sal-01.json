@@ -1,0 +1,208 @@
+{
+  "id": "root-sal-01",
+  "type": "root",
+  "elementLemma": "sal/sult",
+  "titleZh": "sal／sult｜彈跳諮詢台",
+  "titleEn": "Sal Bounce Desk",
+  "hook": "字根 sal/sult＝跳——諮詢台專管跳出重點、跳去罵人、彈回來。",
+  "script": "salient 跳出刺點；sally 衝出去一輪。insult／assail／assault 跳過來攻擊。result／consult／consultant 跳回結果與顧問；resilient／desultory／exult 彈回、跳來跳去、歡躍——台長：salient findings 要報；desultory fishing 禁。",
+  "members": [
+    {
+      "headword": "salient",
+      "inVocab": true,
+      "senseAnchor": "(military) the part of the line of battle that projects closest to the enemy; having a quality that thrusts itself into attention",
+      "roleInScript": "刺點跳出",
+      "humorDevice": "morphology",
+      "zhGloss": "顯著的；突出的",
+      "speakLineEn": "Report the salient threat to validity first.",
+      "speakLineZh": "先報告最突出的效度威脅。",
+      "related": {
+        "synonyms": "outstanding, prominent, spectacular, striking",
+        "antonyms": "inconspicuous, minor, re-entrant"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "sally",
+      "inVocab": false,
+      "senseAnchor": "突襲；俏皮話",
+      "roleInScript": "衝出去",
+      "humorDevice": "morphology",
+      "zhGloss": "突襲；俏皮話",
+      "speakLineEn": "One exploratory sally needs a clear label.",
+      "speakLineZh": "一次探索突襲需要清楚標籤。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "insult",
+      "inVocab": false,
+      "senseAnchor": "侮辱",
+      "roleInScript": "跳過來罵",
+      "humorDevice": "morphology",
+      "zhGloss": "侮辱",
+      "speakLineEn": "Do not insult reviewers with hidden exclusions.",
+      "speakLineZh": "別用隱藏排除侮辱審稿人。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "assail",
+      "inVocab": false,
+      "senseAnchor": "抨擊；襲擊",
+      "roleInScript": "跳打",
+      "humorDevice": "morphology",
+      "zhGloss": "抨擊；襲擊",
+      "speakLineEn": "Assail weak designs, not people.",
+      "speakLineZh": "抨擊虛弱設計，不是抨擊人。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "assault",
+      "inVocab": false,
+      "senseAnchor": "攻擊",
+      "roleInScript": "猛攻",
+      "humorDevice": "morphology",
+      "zhGloss": "攻擊",
+      "speakLineEn": "An assault on p-hacking starts with templates.",
+      "speakLineZh": "打擊 p 值黑客從模板開始。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "result",
+      "inVocab": false,
+      "senseAnchor": "結果",
+      "roleInScript": "跳回結果",
+      "humorDevice": "morphology",
+      "zhGloss": "結果",
+      "speakLineEn": "Lock the result definition before looking.",
+      "speakLineZh": "看之前先鎖定結果定義。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "consult",
+      "inVocab": false,
+      "senseAnchor": "諮詢",
+      "roleInScript": "跳去問",
+      "humorDevice": "morphology",
+      "zhGloss": "諮詢",
+      "speakLineEn": "Consult a statistician before clever tricks.",
+      "speakLineZh": "耍聰明前先諮詢統計師。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "consultant",
+      "inVocab": false,
+      "senseAnchor": "顧問",
+      "roleInScript": "顧問鈴",
+      "humorDevice": "morphology",
+      "zhGloss": "顧問",
+      "speakLineEn": "A consultant cannot replace your prereg.",
+      "speakLineZh": "顧問取代不了你的預註冊。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "resilient",
+      "inVocab": true,
+      "senseAnchor": "recovering readily from adversity, depression, or the like; elastic; rebounds readily",
+      "roleInScript": "彈回來",
+      "humorDevice": "story",
+      "zhGloss": "有韌性的",
+      "speakLineEn": "Build resilient pipelines with tests.",
+      "speakLineZh": "用測試打造有韌性的管線。",
+      "related": {
+        "synonyms": "bouncy, live, lively, springy",
+        "antonyms": "dead, recorded, dull"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "resilience",
+      "inVocab": true,
+      "senseAnchor": "the physical property of a material that can return to its original shape or position after deformation that does not exceed its elastic limit; an occurrence of rebounding or springing back",
+      "roleInScript": "彈力值",
+      "humorDevice": "story",
+      "zhGloss": "韌性",
+      "speakLineEn": "Resilience includes recovering from nulls.",
+      "speakLineZh": "韌性包含從虛無中恢復。",
+      "related": {
+        "synonyms": "resiliency",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "desultory",
+      "inVocab": true,
+      "senseAnchor": "lacking a definite plan, purpose, or pattern",
+      "roleInScript": "跳來跳去",
+      "humorDevice": "story",
+      "zhGloss": "雜亂無章的",
+      "speakLineEn": "Desultory analyses look like fishing.",
+      "speakLineZh": "雜亂分析看起來像淘篩。",
+      "related": {
+        "synonyms": "digressive, meandering, rambling, aimless",
+        "antonyms": "methodical, focused"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "exult",
+      "inVocab": true,
+      "senseAnchor": "feel extreme happiness or elation; to express great joy",
+      "roleInScript": "跳著慶祝",
+      "humorDevice": "story",
+      "zhGloss": "歡躍",
+      "speakLineEn": "Exult after replication, not after one peek.",
+      "speakLineZh": "複現後再歡躍，不是偷看後。",
+      "related": {
+        "synonyms": "exuberate, rejoice, triumph, jubilate",
+        "antonyms": "defeat"
+      },
+      "vocabStatus": "in-vocab"
+    }
+  ],
+  "reviewHooks": [
+    "sal/sult＝跳：salient/insult/result/consult/resilient/desultory",
+    "desultory＝雜亂跳"
+  ],
+  "pitfalls": [
+    "salient＝顯著突出；silent＝沉默",
+    "desultory＝無計劃跳來跳去"
+  ],
+  "lessonRefs": [
+    "lesson-root-sal-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch05"
+  }
+}

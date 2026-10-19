@@ -28,6 +28,7 @@ const TYPE_LABEL = {
   root: { zh: "字根劇場", en: "Root", season: 2 },
   semantic: { zh: "語氣對打", en: "Semantic", season: 3 },
   lookalike: { zh: "形近對決", en: "Look-alike", season: 3 },
+  prefix: { zh: "字首調味", en: "Prefix", season: 4 },
 };
 
 const unique = new Set();
@@ -91,6 +92,12 @@ const seasons = [
     lessons: packed
       .filter((p) => p.type === "semantic" || p.type === "lookalike")
       .map((p) => p.slug),
+  },
+  {
+    id: 4,
+    titleZh: "字首調味",
+    titleEn: "Prefix Seasoning",
+    lessons: packed.filter((p) => p.type === "prefix").map((p) => p.slug),
   },
 ];
 

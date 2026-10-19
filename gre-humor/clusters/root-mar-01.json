@@ -1,0 +1,208 @@
+{
+  "id": "root-mar-01",
+  "type": "root",
+  "elementLemma": "mar",
+  "titleZh": "mar｜海事風浪館",
+  "titleEn": "Mar Sea Hall",
+  "hook": "字根 mar＝海——風浪館專管海上、水手、潛水與藍色事故。",
+  "script": "marine／maritime／mariner 海上編制。submarine 潛下去偷探。marina 停泊碼頭；ultramarine／aquamarine 藍到發亮——館長：submarine peeks 禁止；maritime logs 要留。",
+  "members": [
+    {
+      "headword": "marine",
+      "inVocab": false,
+      "senseAnchor": "海的；海軍陸戰隊",
+      "roleInScript": "海上編制",
+      "humorDevice": "morphology",
+      "zhGloss": "海的；海軍陸戰隊",
+      "speakLineEn": "Treat multi-site drift like marine currents.",
+      "speakLineZh": "把多站漂移當海流處理。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "maritime",
+      "inVocab": false,
+      "senseAnchor": "海事的；沿海的",
+      "roleInScript": "海事法",
+      "humorDevice": "morphology",
+      "zhGloss": "海事的；沿海的",
+      "speakLineEn": "Maritime-level documentation survives storms.",
+      "speakLineZh": "海事級文件撐得過風暴。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "submarine",
+      "inVocab": false,
+      "senseAnchor": "潛水艇；水下的",
+      "roleInScript": "潛下去",
+      "humorDevice": "morphology",
+      "zhGloss": "潛水艇；水下的",
+      "speakLineEn": "No submarine looks at unblinded outcomes.",
+      "speakLineZh": "禁止潛水偷看非盲結局。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "mariner",
+      "inVocab": false,
+      "senseAnchor": "水手",
+      "roleInScript": "水手日誌",
+      "humorDevice": "morphology",
+      "zhGloss": "水手",
+      "speakLineEn": "Every mariner of the pipeline signs the log.",
+      "speakLineZh": "管線上每個水手都簽日誌。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "marina",
+      "inVocab": false,
+      "senseAnchor": "碼頭；船塢",
+      "roleInScript": "停泊處",
+      "humorDevice": "morphology",
+      "zhGloss": "碼頭；船塢",
+      "speakLineEn": "Dock raw data in a read-only marina.",
+      "speakLineZh": "把原始資料停泊在唯讀碼頭。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "ultramarine",
+      "inVocab": false,
+      "senseAnchor": "深藍的",
+      "roleInScript": "深藍漆",
+      "humorDevice": "story",
+      "zhGloss": "深藍的",
+      "speakLineEn": "Ultramarine claims need ultramarine evidence.",
+      "speakLineZh": "深藍主張需要深藍證據。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "aquamarine",
+      "inVocab": false,
+      "senseAnchor": "海藍寶石色",
+      "roleInScript": "海藍光",
+      "humorDevice": "story",
+      "zhGloss": "海藍寶石色",
+      "speakLineEn": "Aquamarine slides still need error bars.",
+      "speakLineZh": "海藍簡報仍需誤差條。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "seafaring",
+      "inVocab": false,
+      "senseAnchor": "航海的",
+      "roleInScript": "航海癖",
+      "humorDevice": "story",
+      "zhGloss": "航海的",
+      "speakLineEn": "Seafaring teams need shared maps of decisions.",
+      "speakLineZh": "航海團隊需要共享決策地圖。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "tide",
+      "inVocab": false,
+      "senseAnchor": "潮汐",
+      "roleInScript": "潮汐表",
+      "humorDevice": "story",
+      "zhGloss": "潮汐",
+      "speakLineEn": "Publish with the tide of the data lock, not hype.",
+      "speakLineZh": "跟著資料鎖定潮汐發表，不是炒作。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "anchor",
+      "inVocab": true,
+      "senseAnchor": "to be strongly connected with a particular system",
+      "roleInScript": "下錨",
+      "humorDevice": "story",
+      "zhGloss": "錨",
+      "speakLineEn": "Anchor claims to a commit hash.",
+      "speakLineZh": "把主張錨到 commit 雜湊。",
+      "related": {
+        "synonyms": "mainstay, keystone, backbone, linchpin, lynchpin, anchorman",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "shipwreck",
+      "inVocab": false,
+      "senseAnchor": "船難",
+      "roleInScript": "船難現場",
+      "humorDevice": "story",
+      "zhGloss": "船難",
+      "speakLineEn": "A methods shipwreck starts with missing logs.",
+      "speakLineZh": "方法船難始於缺失日誌。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "buoy",
+      "inVocab": true,
+      "senseAnchor": "bright-colored; a float attached by rope to the seabed to mark channels in a harbor or underwater hazards; float on the surface of water",
+      "roleInScript": "浮標燈",
+      "humorDevice": "story",
+      "zhGloss": "浮標",
+      "speakLineEn": "Use buoys: milestones that keep the project afloat.",
+      "speakLineZh": "用浮標：讓專案浮著的里程碑。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    }
+  ],
+  "reviewHooks": [
+    "mar＝海：marine/maritime/submarine/mariner/marina",
+    "maritime＝海事的"
+  ],
+  "pitfalls": [
+    "marine＝海的；marinate＝醃（無關）",
+    "submarine＝潛水艇／水下的"
+  ],
+  "lessonRefs": [
+    "lesson-root-mar-01"
+  ],
+  "status": "reviewed",
+  "priority": "C",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch05"
+  }
+}

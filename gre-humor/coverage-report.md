@@ -1,19 +1,19 @@
 # GRE Humor 覆蓋率報告
 
-> 產生時間：2026-10-19T00:13:10.698Z
+> 產生時間：2026-10-19T05:44:50.163Z
 
 ## 總覽
 
 | 指標 | 數值 |
 |------|------|
 | 詞庫 headword | 4406 |
-| 幽默庫獨特詞 | 1887 |
-| 已在詞庫內的覆蓋 | 1074 |
-| 幽默庫有、詞庫無（pending-add） | 813 |
-| 家族數 | 166 |
+| 幽默庫獨特詞 | 2131 |
+| 已在詞庫內的覆蓋 | 1139 |
+| 幽默庫有、詞庫無（pending-add） | 992 |
+| 家族數 | 187 |
 | 核心元素 | 331（A=87） |
-| 覆蓋率（對詞庫） | 24.38% |
-| 距離 4,000 獨特詞 | 2113 |
+| 覆蓋率（對詞庫） | 25.85% |
+| 距離 4,000 獨特詞 | 1869 |
 
 ## 各家族
 
@@ -35,6 +35,8 @@
 | prefix-inter-01 | reviewed | 8 | 0 | 8 |
 | prefix-mis-01 | reviewed | 12 | 12 | 0 |
 | prefix-ob-01 | reviewed | 8 | 7 | 1 |
+| prefix-pan-01 | reviewed | 12 | 5 | 7 |
+| prefix-para-01 | reviewed | 11 | 2 | 9 |
 | prefix-poly-01 | reviewed | 11 | 1 | 10 |
 | prefix-pre-01 | reviewed | 8 | 6 | 2 |
 | prefix-pro-01 | reviewed | 8 | 3 | 5 |
@@ -74,6 +76,7 @@
 | root-ject-01 | reviewed | 11 | 6 | 5 |
 | root-jud-01 | reviewed | 15 | 15 | 0 |
 | root-junct-01 | reviewed | 12 | 6 | 6 |
+| root-lat-01 | reviewed | 12 | 4 | 8 |
 | root-leg-01 | reviewed | 12 | 9 | 3 |
 | root-lev-01 | reviewed | 12 | 3 | 9 |
 | root-liber-01 | reviewed | 12 | 12 | 0 |
@@ -81,9 +84,12 @@
 | root-luc-01 | reviewed | 12 | 4 | 8 |
 | root-man-01 | reviewed | 9 | 0 | 9 |
 | root-mand-01 | reviewed | 11 | 3 | 8 |
+| root-mar-01 | reviewed | 12 | 2 | 10 |
+| root-mater-01 | reviewed | 12 | 0 | 12 |
 | root-medi-01 | reviewed | 12 | 11 | 1 |
 | root-mem-01 | reviewed | 12 | 12 | 0 |
 | root-mens-01 | reviewed | 12 | 1 | 11 |
+| root-merc-01 | reviewed | 12 | 1 | 11 |
 | root-merge-01 | reviewed | 12 | 12 | 0 |
 | root-migr-01 | reviewed | 8 | 1 | 7 |
 | root-mir-01 | reviewed | 11 | 2 | 9 |
@@ -94,13 +100,17 @@
 | root-mot-01 | reviewed | 12 | 1 | 11 |
 | root-mut-01 | reviewed | 12 | 12 | 0 |
 | root-nat-01 | reviewed | 10 | 0 | 10 |
+| root-nav-01 | reviewed | 12 | 3 | 9 |
 | root-neg-01 | reviewed | 12 | 6 | 6 |
 | root-noc-01 | reviewed | 11 | 4 | 7 |
 | root-nov-01 | reviewed | 12 | 3 | 9 |
+| root-numer-01 | reviewed | 12 | 1 | 11 |
 | root-nym-01 | reviewed | 12 | 6 | 6 |
 | root-opt-01 | reviewed | 12 | 2 | 10 |
 | root-ord-01 | reviewed | 12 | 2 | 10 |
 | root-ori-01 | reviewed | 10 | 0 | 10 |
+| root-paci-01 | reviewed | 10 | 3 | 7 |
+| root-pater-01 | reviewed | 11 | 3 | 8 |
 | root-path-01 | reviewed | 11 | 7 | 4 |
 | root-ped-01 | reviewed | 12 | 5 | 7 |
 | root-pel-01 | reviewed | 15 | 15 | 0 |
@@ -113,10 +123,12 @@
 | root-port-01 | reviewed | 15 | 15 | 0 |
 | root-pos-01 | reviewed | 15 | 15 | 0 |
 | root-pot-01 | reviewed | 12 | 3 | 9 |
+| root-prehend-01 | reviewed | 12 | 3 | 9 |
 | root-press-01 | reviewed | 12 | 2 | 10 |
 | root-prim-01 | reviewed | 12 | 1 | 11 |
 | root-priv-01 | reviewed | 12 | 12 | 0 |
 | root-prob-01 | reviewed | 12 | 11 | 1 |
+| root-propri-01 | reviewed | 12 | 2 | 10 |
 | root-pugn-01 | reviewed | 12 | 12 | 0 |
 | root-punct-01 | reviewed | 12 | 2 | 10 |
 | root-put-01 | reviewed | 12 | 5 | 7 |
@@ -129,6 +141,8 @@
 | root-rid-01 | reviewed | 12 | 12 | 0 |
 | root-rog-01 | reviewed | 11 | 9 | 2 |
 | root-rupt-01 | reviewed | 11 | 10 | 1 |
+| root-sacr-01 | reviewed | 12 | 6 | 6 |
+| root-sal-01 | reviewed | 12 | 5 | 7 |
 | root-sat-01 | reviewed | 11 | 3 | 8 |
 | root-scend-01 | reviewed | 5 | 5 | 0 |
 | root-sci-01 | reviewed | 12 | 5 | 7 |
@@ -141,6 +155,7 @@
 | root-serv-01 | reviewed | 12 | 1 | 11 |
 | root-sign-01 | reviewed | 12 | 1 | 11 |
 | root-simil-01 | reviewed | 12 | 3 | 9 |
+| root-sol-01 | reviewed | 12 | 2 | 10 |
 | root-solv-01 | reviewed | 12 | 7 | 5 |
 | root-somn-01 | reviewed | 12 | 1 | 11 |
 | root-soph-01 | reviewed | 10 | 4 | 6 |
@@ -148,6 +163,7 @@
 | root-sta-01 | reviewed | 15 | 15 | 0 |
 | root-strict-01 | reviewed | 10 | 1 | 9 |
 | root-struct-01 | reviewed | 15 | 15 | 0 |
+| root-suad-01 | reviewed | 10 | 3 | 7 |
 | root-sum-01 | reviewed | 12 | 3 | 9 |
 | root-tact-01 | reviewed | 12 | 6 | 6 |
 | root-tempor-01 | reviewed | 12 | 5 | 7 |
@@ -164,7 +180,10 @@
 | root-trud-01 | reviewed | 10 | 4 | 6 |
 | root-turb-01 | reviewed | 12 | 5 | 7 |
 | root-umbr-01 | reviewed | 12 | 1 | 11 |
+| root-urb-01 | reviewed | 12 | 1 | 11 |
 | root-vac-01 | reviewed | 12 | 2 | 10 |
+| root-vad-01 | reviewed | 10 | 1 | 9 |
+| root-vag-01 | reviewed | 12 | 6 | 6 |
 | root-val-01 | reviewed | 12 | 1 | 11 |
 | root-ven-01 | reviewed | 15 | 15 | 0 |
 | root-verb-01 | reviewed | 10 | 3 | 7 |
@@ -178,11 +197,13 @@
 | sem-begin-01 | reviewed | 12 | 11 | 1 |
 | sem-brief-01 | reviewed | 12 | 12 | 0 |
 | sem-clear-01 | reviewed | 15 | 15 | 0 |
+| sem-courage-01 | reviewed | 12 | 7 | 5 |
 | sem-flattery-01 | reviewed | 6 | 6 | 0 |
 | sem-honest-01 | reviewed | 12 | 12 | 0 |
 | sem-overt-01 | reviewed | 10 | 10 | 0 |
 | sem-praise-01 | reviewed | 12 | 12 | 0 |
 | sem-rigid-01 | reviewed | 12 | 9 | 3 |
+| sem-scarce-01 | reviewed | 12 | 5 | 7 |
 | sem-talk-01 | reviewed | 6 | 6 | 0 |
 | sem-temper-01 | reviewed | 6 | 6 | 0 |
 
@@ -261,6 +282,22 @@
 - `interweave` ← prefix-inter-01
 - `between` ← prefix-inter-01
 - `obligation` ← prefix-ob-01
+- `panoramic` ← prefix-pan-01
+- `pandemic` ← prefix-pan-01
+- `pantheon` ← prefix-pan-01
+- `blanket` ← prefix-pan-01
+- `across-the-board` ← prefix-pan-01
+- `omni` ← prefix-pan-01
+- `everywhere` ← prefix-pan-01
+- `paradox` ← prefix-para-01
+- `parallel` ← prefix-para-01
+- `paradigm` ← prefix-para-01
+- `parasite` ← prefix-para-01
+- `paragon` ← prefix-para-01
+- `paraphrase` ← prefix-para-01
+- `paranormal` ← prefix-para-01
+- `sidekick` ← prefix-para-01
+- `outlier` ← prefix-para-01
 - `polyglot` ← prefix-poly-01
 - `polygon` ← prefix-poly-01
 - `polymorphic` ← prefix-poly-01
@@ -448,6 +485,14 @@
 - `conjunct` ← root-junct-01
 - `injunctive` ← root-junct-01
 - `joined` ← root-junct-01
+- `relative` ← root-lat-01
+- `relation` ← root-lat-01
+- `relate` ← root-lat-01
+- `translate` ← root-lat-01
+- `collateral` ← root-lat-01
+- `prelate` ← root-lat-01
+- `latitudinal` ← root-lat-01
+- `sidestep` ← root-lat-01
 - `legend` ← root-leg-01
 - `dialect` ← root-leg-01
 - `collective` ← root-leg-01
@@ -487,6 +532,28 @@
 - `mandatory` ← root-mand-01
 - `commandment` ← root-mand-01
 - `requisition` ← root-mand-01
+- `marine` ← root-mar-01
+- `maritime` ← root-mar-01
+- `submarine` ← root-mar-01
+- `mariner` ← root-mar-01
+- `marina` ← root-mar-01
+- `ultramarine` ← root-mar-01
+- `aquamarine` ← root-mar-01
+- `seafaring` ← root-mar-01
+- `tide` ← root-mar-01
+- `shipwreck` ← root-mar-01
+- `maternal` ← root-mater-01
+- `maternity` ← root-mater-01
+- `matriarch` ← root-mater-01
+- `matriarchal` ← root-mater-01
+- `matron` ← root-mater-01
+- `matrimony` ← root-mater-01
+- `matrix` ← root-mater-01
+- `alma` ← root-mater-01
+- `motherlode` ← root-mater-01
+- `nurture` ← root-mater-01
+- `brood` ← root-mater-01
+- `lineage` ← root-mater-01
 - `mediterranean` ← root-medi-01
 - `measure` ← root-mens-01
 - `measurement` ← root-mens-01
@@ -499,6 +566,17 @@
 - `scale` ← root-mens-01
 - `gigantic` ← root-mens-01
 - `tiny` ← root-mens-01
+- `merchant` ← root-merc-01
+- `merchandise` ← root-merc-01
+- `mercantile` ← root-merc-01
+- `commerce` ← root-merc-01
+- `commercial` ← root-merc-01
+- `mercy` ← root-merc-01
+- `merciful` ← root-merc-01
+- `mercury` ← root-merc-01
+- `bargain` ← root-merc-01
+- `invoice` ← root-merc-01
+- `payoff` ← root-merc-01
 - `immigrant` ← root-migr-01
 - `emigrant` ← root-migr-01
 - `relocating` ← root-migr-01
@@ -547,6 +625,15 @@
 - `international` ← root-nat-01
 - `prenatal` ← root-nat-01
 - `renaissance` ← root-nat-01
+- `navy` ← root-nav-01
+- `naval` ← root-nav-01
+- `navigate` ← root-nav-01
+- `navigation` ← root-nav-01
+- `navigator` ← root-nav-01
+- `circumnavigate` ← root-nav-01
+- `astronaut` ← root-nav-01
+- `compass` ← root-nav-01
+- `flotilla` ← root-nav-01
 - `negate` ← root-neg-01
 - `negligible` ← root-neg-01
 - `negative` ← root-neg-01
@@ -569,6 +656,17 @@
 - `novitiate` ← root-nov-01
 - `nouveau` ← root-nov-01
 - `renew` ← root-nov-01
+- `numeral` ← root-numer-01
+- `numerous` ← root-numer-01
+- `enumerate` ← root-numer-01
+- `enumeration` ← root-numer-01
+- `innumerable` ← root-numer-01
+- `numerator` ← root-numer-01
+- `supernumerary` ← root-numer-01
+- `numerology` ← root-numer-01
+- `census` ← root-numer-01
+- `headcount` ← root-numer-01
+- `arithmetic` ← root-numer-01
 - `anonymous` ← root-nym-01
 - `synonym` ← root-nym-01
 - `antonym` ← root-nym-01
@@ -605,6 +703,21 @@
 - `originally` ← root-ori-01
 - `sunrise` ← root-ori-01
 - `source` ← root-ori-01
+- `pacific` ← root-paci-01
+- `pacifist` ← root-paci-01
+- `pacifism` ← root-paci-01
+- `peace` ← root-paci-01
+- `pax` ← root-paci-01
+- `armistice` ← root-paci-01
+- `ceasefire` ← root-paci-01
+- `paternal` ← root-pater-01
+- `paternity` ← root-pater-01
+- `patriarch` ← root-pater-01
+- `patriot` ← root-pater-01
+- `patriotic` ← root-pater-01
+- `patron` ← root-pater-01
+- `repatriate` ← root-pater-01
+- `sponsor` ← root-pater-01
 - `sympathy` ← root-path-01
 - `telepathy` ← root-path-01
 - `sociopath` ← root-path-01
@@ -635,6 +748,15 @@
 - `powerful` ← root-pot-01
 - `powerless` ← root-pot-01
 - `omnipotence` ← root-pot-01
+- `comprehend` ← root-prehend-01
+- `comprehensive` ← root-prehend-01
+- `apprehensive` ← root-prehend-01
+- `surprise` ← root-prehend-01
+- `enterprise` ← root-prehend-01
+- `comprise` ← root-prehend-01
+- `prize` ← root-prehend-01
+- `reprisal` ← root-prehend-01
+- `prison` ← root-prehend-01
 - `press` ← root-press-01
 - `pressure` ← root-press-01
 - `express` ← root-press-01
@@ -657,6 +779,16 @@
 - `foremost` ← root-prim-01
 - `priority` ← root-prim-01
 - `trial period` ← root-prob-01
+- `proper` ← root-propri-01
+- `improper` ← root-propri-01
+- `propriety` ← root-propri-01
+- `property` ← root-propri-01
+- `proprietor` ← root-propri-01
+- `appropriate` ← root-propri-01
+- `appropriation` ← root-propri-01
+- `ownership` ← root-propri-01
+- `belongings` ← root-propri-01
+- `etiquette` ← root-propri-01
 - `punctual` ← root-punct-01
 - `puncture` ← root-punct-01
 - `punctuate` ← root-punct-01
@@ -711,6 +843,19 @@
 - `question` ← root-rog-01
 - `ask` ← root-rog-01
 - `interrupt` ← root-rupt-01
+- `sacred` ← root-sacr-01
+- `sanctify` ← root-sacr-01
+- `sacrifice` ← root-sacr-01
+- `sacrificial` ← root-sacr-01
+- `saint` ← root-sacr-01
+- `holy` ← root-sacr-01
+- `sally` ← root-sal-01
+- `insult` ← root-sal-01
+- `assail` ← root-sal-01
+- `assault` ← root-sal-01
+- `result` ← root-sal-01
+- `consult` ← root-sal-01
+- `consultant` ← root-sal-01
 - `satisfy` ← root-sat-01
 - `satisfaction` ← root-sat-01
 - `satisfactory` ← root-sat-01
@@ -795,6 +940,16 @@
 - `facsimile` ← root-simil-01
 - `semblance` ← root-simil-01
 - `simultaneously` ← root-simil-01
+- `solo` ← root-sol-01
+- `soloist` ← root-sol-01
+- `solitary` ← root-sol-01
+- `sole` ← root-sol-01
+- `solar` ← root-sol-01
+- `parasol` ← root-sol-01
+- `alone` ← root-sol-01
+- `lonely` ← root-sol-01
+- `sunlit` ← root-sol-01
+- `spotlight` ← root-sol-01
 - `solve` ← root-solv-01
 - `dissolve` ← root-solv-01
 - `resolve` ← root-solv-01
@@ -828,6 +983,13 @@
 - `stringent` ← root-strict-01
 - `astringent` ← root-strict-01
 - `cordon` ← root-strict-01
+- `persuade` ← root-suad-01
+- `persuasion` ← root-suad-01
+- `persuasive` ← root-suad-01
+- `suave` ← root-suad-01
+- `coax` ← root-suad-01
+- `pitch` ← root-suad-01
+- `softsoap` ← root-suad-01
 - `summary` ← root-sum-01
 - `summarize` ← root-sum-01
 - `consume` ← root-sum-01
@@ -934,6 +1096,17 @@
 - `cloud` ← root-umbr-01
 - `eclipse` ← root-umbr-01
 - `cast a shadow` ← root-umbr-01
+- `urban` ← root-urb-01
+- `suburb` ← root-urb-01
+- `suburban` ← root-urb-01
+- `urbanity` ← root-urb-01
+- `exurb` ← root-urb-01
+- `interurban` ← root-urb-01
+- `civic` ← root-urb-01
+- `metropolitan` ← root-urb-01
+- `downtown` ← root-urb-01
+- `skyline` ← root-urb-01
+- `boulevard` ← root-urb-01
 - `vacant` ← root-vac-01
 - `vacancy` ← root-vac-01
 - `vacuum` ← root-vac-01
@@ -944,6 +1117,21 @@
 - `empty` ← root-vac-01
 - `blank` ← root-vac-01
 - `hollow` ← root-vac-01
+- `invade` ← root-vad-01
+- `invasion` ← root-vad-01
+- `invasive` ← root-vad-01
+- `evade` ← root-vad-01
+- `evasive` ← root-vad-01
+- `pervade` ← root-vad-01
+- `pervasive` ← root-vad-01
+- `wade` ← root-vad-01
+- `trespass` ← root-vad-01
+- `vagrant` ← root-vag-01
+- `vagrancy` ← root-vag-01
+- `vagabond` ← root-vag-01
+- `extravagant` ← root-vag-01
+- `nomadic` ← root-vag-01
+- `drift` ← root-vag-01
 - `value` ← root-val-01
 - `valuable` ← root-val-01
 - `evaluate` ← root-val-01
@@ -998,9 +1186,21 @@
 - `digest` ← root-vor-01
 - `binge` ← root-vor-01
 - `terminate` ← sem-begin-01
+- `dauntless` ← sem-courage-01
+- `plucky` ← sem-courage-01
+- `pusillanimous` ← sem-courage-01
+- `bold` ← sem-courage-01
+- `fearless` ← sem-courage-01
 - `elastic` ← sem-rigid-01
 - `flexible` ← sem-rigid-01
 - `adaptable` ← sem-rigid-01
+- `dearth` ← sem-scarce-01
+- `scarcity` ← sem-scarce-01
+- `scanty` ← sem-scarce-01
+- `meager` ← sem-scarce-01
+- `abundance` ← sem-scarce-01
+- `sparse` ← sem-scarce-01
+- `overflow` ← sem-scarce-01
 
 ## 詞庫孤兒抽樣（尚未掛家族，前 40）
 

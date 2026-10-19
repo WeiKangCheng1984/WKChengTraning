@@ -1,0 +1,97 @@
+{
+  "id": "lesson-prefix-pan-01",
+  "slug": "prefix-pan-01",
+  "season": 4,
+  "seasonTitleZh": "字首調味",
+  "seasonTitleEn": "Prefix Seasoning",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "prefix-pan-01",
+  "titleZh": "pan-｜全景萬神殿",
+  "titleEn": "Pan All-View Pantheon",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字首 pan-＝全——萬神殿要全景、萬能藥、全面混亂，還有默劇。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "panorama／panoramic 全景窗。panacea 萬能藥攤。pandemonium 全場混亂；pantomime／pandemic／pantheon 默劇、大流行、萬神殿——殿主：panoramic reporting；拒 panacea 口號。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "pan-＝全：panorama/panacea/pandemonium/pandemic/pantheon",
+        "panacea＝萬靈藥"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Cure-all; remedy for everything:",
+      "promptZh": "萬靈藥：",
+      "choices": [
+        "panacea",
+        "paragon",
+        "paucity",
+        "patron"
+      ],
+      "answer": "panacea"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Wild uproar; chaos everywhere:",
+      "promptZh": "大混亂：",
+      "choices": [
+        "pandemonium",
+        "panorama",
+        "matrimony",
+        "solace"
+      ],
+      "answer": "pandemonium"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Wide unbroken view:",
+      "promptZh": "全景：",
+      "choices": [
+        "panorama",
+        "parasite",
+        "prison",
+        "prize"
+      ],
+      "answer": "panorama"
+    }
+  ],
+  "pitfalls": [
+    "panacea＝萬能藥（常是否定用法）",
+    "pandemonium＝大混亂"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch05"
+  }
+}

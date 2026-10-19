@@ -1,0 +1,208 @@
+{
+  "id": "root-nav-01",
+  "type": "root",
+  "elementLemma": "nav",
+  "titleZh": "nav｜航海調度室",
+  "titleEn": "Nav Chart Room",
+  "hook": "字根 nav＝船——調度室管海軍、導航、繞地球一圈，還有暈船。",
+  "script": "navy／naval 艦隊編制。navigate／navigation／navigator／nautical 航海圖與舵手。circumnavigate 繞一圈；astronaut／nausea 太空人與暈船袋——調度：navigate uncertainty；別 circumnavigate 審查。",
+  "members": [
+    {
+      "headword": "navy",
+      "inVocab": false,
+      "senseAnchor": "海軍",
+      "roleInScript": "艦隊",
+      "humorDevice": "morphology",
+      "zhGloss": "海軍",
+      "speakLineEn": "Keep a navy of unit tests around the pipeline.",
+      "speakLineZh": "在管線外圍部署單元測試艦隊。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "naval",
+      "inVocab": false,
+      "senseAnchor": "海軍的",
+      "roleInScript": "海軍編制",
+      "humorDevice": "morphology",
+      "zhGloss": "海軍的",
+      "speakLineEn": "Naval discipline: commit messages with cargo lists.",
+      "speakLineZh": "海軍紀律：commit 訊息附貨物清單。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "navigate",
+      "inVocab": false,
+      "senseAnchor": "航行；導航",
+      "roleInScript": "掌舵",
+      "humorDevice": "morphology",
+      "zhGloss": "航行；導航",
+      "speakLineEn": "Navigate trade-offs explicitly in the paper.",
+      "speakLineZh": "在論文明確導航權衡。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "navigation",
+      "inVocab": false,
+      "senseAnchor": "航行；導航",
+      "roleInScript": "航圖",
+      "humorDevice": "morphology",
+      "zhGloss": "航行；導航",
+      "speakLineEn": "Provide navigation for readers through supplements.",
+      "speakLineZh": "為讀者提供補充材料航圖。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "navigator",
+      "inVocab": false,
+      "senseAnchor": "航海者；導航者",
+      "roleInScript": "舵手",
+      "humorDevice": "morphology",
+      "zhGloss": "航海者；導航者",
+      "speakLineEn": "Appoint a reproducibility navigator.",
+      "speakLineZh": "指定一位可複現舵手。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "nautical",
+      "inVocab": true,
+      "senseAnchor": "relating to or involving ships or shipping or navigation or seamen",
+      "roleInScript": "航海尺",
+      "humorDevice": "morphology",
+      "zhGloss": "航海的",
+      "speakLineEn": "Nautical charts beat oral folklore.",
+      "speakLineZh": "航海圖勝過口頭傳說。",
+      "related": {
+        "synonyms": "maritime, marine",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "circumnavigate",
+      "inVocab": false,
+      "senseAnchor": "環航；避開",
+      "roleInScript": "繞一圈",
+      "humorDevice": "morphology",
+      "zhGloss": "環航；避開",
+      "speakLineEn": "Do not circumnavigate peer review with preprints only.",
+      "speakLineZh": "別只用預印本繞開同儕審查。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "astronaut",
+      "inVocab": false,
+      "senseAnchor": "太空人",
+      "roleInScript": "太空艙",
+      "humorDevice": "story",
+      "zhGloss": "太空人",
+      "speakLineEn": "Be an astronaut of edge cases in staging.",
+      "speakLineZh": "在測試環境當邊界案例太空人。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "nausea",
+      "inVocab": true,
+      "senseAnchor": "the state that precedes vomiting; disgust so strong it makes you feel sick",
+      "roleInScript": "暈船袋",
+      "humorDevice": "story",
+      "zhGloss": "噁心",
+      "speakLineEn": "P-hacking should induce methodological nausea.",
+      "speakLineZh": "p 值黑客應引起方法噁心感。",
+      "related": {
+        "synonyms": "sickness",
+        "antonyms": "wellness"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "compass",
+      "inVocab": false,
+      "senseAnchor": "羅盤",
+      "roleInScript": "羅盤針",
+      "humorDevice": "story",
+      "zhGloss": "羅盤",
+      "speakLineEn": "Let the protocol be your compass.",
+      "speakLineZh": "讓規程當你的羅盤。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "rudder",
+      "inVocab": true,
+      "senseAnchor": "a hinged vertical airfoil mounted at the tail of an aircraft and used to make horizontal course changes; (nautical) steering mechanism consisting of a hinged vertical plate mounted at the stern of a vessel",
+      "roleInScript": "船舵",
+      "humorDevice": "story",
+      "zhGloss": "舵",
+      "speakLineEn": "Preregistration is the rudder under windy hype.",
+      "speakLineZh": "預註冊是炒作風中的舵。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "flotilla",
+      "inVocab": false,
+      "senseAnchor": "小艦隊",
+      "roleInScript": "小艦隊",
+      "humorDevice": "story",
+      "zhGloss": "小艦隊",
+      "speakLineEn": "A flotilla of robustness checks escorts the claim.",
+      "speakLineZh": "穩健檢查小艦隊護送主張。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "nav＝船：navy/navigate/navigation/nautical/circumnavigate",
+    "nausea＝噁心"
+  ],
+  "pitfalls": [
+    "naval＝海軍的；navel＝肚臍",
+    "circumnavigate＝環航／避開"
+  ],
+  "lessonRefs": [
+    "lesson-root-nav-01"
+  ],
+  "status": "reviewed",
+  "priority": "C",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch05"
+  }
+}

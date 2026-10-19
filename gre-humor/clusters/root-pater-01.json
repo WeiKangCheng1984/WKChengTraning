@@ -1,0 +1,193 @@
+{
+  "id": "root-pater-01",
+  "type": "root",
+  "elementLemma": "pater/patr",
+  "titleZh": "pater／patr｜父系贊助會",
+  "titleEn": "Pater Patron Club",
+  "hook": "字根 pater/patr＝父——贊助會管父系、愛國、贊助人，也管「 dur patronizing」。",
+  "script": "paternal／paternity／patriarch 父系大廳。patriot／patriotic 愛國啦啦隊。patron／patronage／patronize 贊助與屈尊俯就；expatriate／repatriate  expatriate 出走、送回——會長：patronize juniors 零分；patron open tools。",
+  "members": [
+    {
+      "headword": "paternal",
+      "inVocab": false,
+      "senseAnchor": "父親的",
+      "roleInScript": "父系章",
+      "humorDevice": "morphology",
+      "zhGloss": "父親的",
+      "speakLineEn": "Paternal leave is part of lab sustainability.",
+      "speakLineZh": "陪產假是實驗室永續一環。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "paternity",
+      "inVocab": false,
+      "senseAnchor": "父性；父權身份",
+      "roleInScript": "父職窗",
+      "humorDevice": "morphology",
+      "zhGloss": "父性；父權身份",
+      "speakLineEn": "Claim paternity of errors as well as wins.",
+      "speakLineZh": "錯誤與勝利都要認父職。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "patriarch",
+      "inVocab": false,
+      "senseAnchor": "家長；元老",
+      "roleInScript": "元老椅",
+      "humorDevice": "morphology",
+      "zhGloss": "家長；元老",
+      "speakLineEn": "The patriarch still submits to prereg.",
+      "speakLineZh": "元老仍服從預註冊。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "patriot",
+      "inVocab": false,
+      "senseAnchor": "愛國者",
+      "roleInScript": "啦啦隊",
+      "humorDevice": "morphology",
+      "zhGloss": "愛國者",
+      "speakLineEn": "Be a patriot of rigor, not of brands.",
+      "speakLineZh": "做嚴謹的愛國者，不是品牌的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "patriotic",
+      "inVocab": false,
+      "senseAnchor": "愛國的",
+      "roleInScript": "愛國燈",
+      "humorDevice": "morphology",
+      "zhGloss": "愛國的",
+      "speakLineEn": "Patriotic loyalty to a method can blind you.",
+      "speakLineZh": "對方法的愛國忠誠會致盲。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "patron",
+      "inVocab": false,
+      "senseAnchor": "贊助人；主顧",
+      "roleInScript": "贊助章",
+      "humorDevice": "morphology",
+      "zhGloss": "贊助人；主顧",
+      "speakLineEn": "Thank patrons without selling conclusions.",
+      "speakLineZh": "感謝贊助人但不出賣結論。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "patronage",
+      "inVocab": true,
+      "senseAnchor": "the act of providing approval and support; customers collectively",
+      "roleInScript": "恩庇網",
+      "humorDevice": "morphology",
+      "zhGloss": "贊助；恩庇",
+      "speakLineEn": "Disclose patronage that could bias design.",
+      "speakLineZh": "揭露可能偏差設計的贊助。",
+      "related": {
+        "synonyms": "backing, backup, championship, clientele, business, condescension",
+        "antonyms": "advance, front, veer"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "patronize",
+      "inVocab": true,
+      "senseAnchor": "assume sponsorship of; do one's shopping at; do business with; be a customer or client of",
+      "roleInScript": "屈尊臉",
+      "humorDevice": "morphology",
+      "zhGloss": "贊助；屈尊對待",
+      "speakLineEn": "Do not patronize readers with hand-waving.",
+      "speakLineZh": "別用含糊其辭屈尊對待讀者。",
+      "related": {
+        "synonyms": "sponsor, patronise, shop, frequent, condescend, patronage",
+        "antonyms": "boycott"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "expatriate",
+      "inVocab": true,
+      "senseAnchor": "a person who is voluntarily absent from home or country; expel from a country",
+      "roleInScript": "出走者",
+      "humorDevice": "story",
+      "zhGloss": "移居國外者",
+      "speakLineEn": "Expatriate datasets need local ethics care.",
+      "speakLineZh": "出境資料集需要在地倫理照護。",
+      "related": {
+        "synonyms": "exile, expat, deport",
+        "antonyms": "repatriate"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "repatriate",
+      "inVocab": false,
+      "senseAnchor": "遣返；送回本國",
+      "roleInScript": "送回國",
+      "humorDevice": "story",
+      "zhGloss": "遣返；送回本國",
+      "speakLineEn": "Repatriate cleaned data to a locked vault.",
+      "speakLineZh": "把清乾淨資料送回鎖定庫。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "sponsor",
+      "inVocab": false,
+      "senseAnchor": "贊助者",
+      "roleInScript": "贊助條",
+      "humorDevice": "story",
+      "zhGloss": "贊助者",
+      "speakLineEn": "Name the sponsor beside the conflict box.",
+      "speakLineZh": "在利益衝突旁寫明贊助者。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "pater/patr＝父：paternal/patriarch/patriot/patron/patronize/expatriate",
+    "patronize＝贊助／屈尊"
+  ],
+  "pitfalls": [
+    "patronize＝贊助或擺出恩賜態度（雙義）",
+    "expatriate＝移居國外者"
+  ],
+  "lessonRefs": [
+    "lesson-root-pater-01"
+  ],
+  "status": "reviewed",
+  "priority": "C",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch05"
+  }
+}

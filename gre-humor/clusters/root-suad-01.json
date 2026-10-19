@@ -1,0 +1,178 @@
+{
+  "id": "root-suad-01",
+  "type": "root",
+  "elementLemma": "suad",
+  "titleZh": "suad｜勸說廣播站",
+  "titleEn": "Suad Persuasion Radio",
+  "hook": "字根 suad＝勸——廣播站用甜嗓勸你，也用冷靜嗓勸你別衝動。",
+  "script": "persuade／persuasion／persuasive 主頻道勸進。suave 滑順主持腔。assuage 安撫聽眾情緒；convince／coax／cajole／wheedle 說服家族客串——台長：persuasive writing 可以；cajole reviewers 用資料，不是奉承。",
+  "members": [
+    {
+      "headword": "persuade",
+      "inVocab": false,
+      "senseAnchor": "說服",
+      "roleInScript": "主頻道勸",
+      "humorDevice": "morphology",
+      "zhGloss": "說服",
+      "speakLineEn": "Persuade with pre-specified analyses.",
+      "speakLineZh": "用預先指定分析來說服。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "persuasion",
+      "inVocab": false,
+      "senseAnchor": "說服；信念",
+      "roleInScript": "勸說節目",
+      "humorDevice": "morphology",
+      "zhGloss": "說服；信念",
+      "speakLineEn": "Change of persuasion needs new evidence.",
+      "speakLineZh": "改變信念需要新證據。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "persuasive",
+      "inVocab": false,
+      "senseAnchor": "有說服力的",
+      "roleInScript": "勸功力",
+      "humorDevice": "morphology",
+      "zhGloss": "有說服力的",
+      "speakLineEn": "A persuasive figure still needs uncertainty.",
+      "speakLineZh": "有說服力的圖仍需不確定性。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "suave",
+      "inVocab": false,
+      "senseAnchor": "圓滑文雅的",
+      "roleInScript": "滑順腔",
+      "humorDevice": "morphology",
+      "zhGloss": "圓滑文雅的",
+      "speakLineEn": "Suave talks cannot hide messy code.",
+      "speakLineZh": "圓滑演講藏不住混亂程式碼。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "assuage",
+      "inVocab": true,
+      "senseAnchor": "cause to be more favorably inclined; gain the good will of; satisfy (thirst)",
+      "roleInScript": "安撫鍵",
+      "humorDevice": "morphology",
+      "zhGloss": "緩和；安撫",
+      "speakLineEn": "Assuage anxiety with open logs, not spin.",
+      "speakLineZh": "用開放日誌安撫焦慮，不是話術。",
+      "related": {
+        "synonyms": "pacify, lenify, conciliate, appease, mollify, placate",
+        "antonyms": "intensify, aggravate"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "coax",
+      "inVocab": false,
+      "senseAnchor": "好言勸誘",
+      "roleInScript": "溫柔推",
+      "humorDevice": "story",
+      "zhGloss": "好言勸誘",
+      "speakLineEn": "Coax collaborators toward checklists kindly.",
+      "speakLineZh": "溫柔勸誘合作者使用清單。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "cajole",
+      "inVocab": true,
+      "senseAnchor": "to persuade with flattery or gentle urging",
+      "roleInScript": "甜言攻勢",
+      "humorDevice": "story",
+      "zhGloss": "哄騙；甜言",
+      "speakLineEn": "Do not cajole ethics boards with half-truths.",
+      "speakLineZh": "別用半真半假哄倫理委員會。",
+      "related": {
+        "synonyms": "coax, wheedle",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "wheedle",
+      "inVocab": true,
+      "senseAnchor": "influence or urge by gentle urging, caressing, or flattering",
+      "roleInScript": "撒嬌騙",
+      "humorDevice": "story",
+      "zhGloss": "用甜言誘騙",
+      "speakLineEn": "Wheedle-free grants still need rigor.",
+      "speakLineZh": "不靠撒嬌的補助仍需嚴謹。",
+      "related": {
+        "synonyms": "cajole, palaver, blarney, coax, sweet-talk, inveigle",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "pitch",
+      "inVocab": false,
+      "senseAnchor": "推銷說詞",
+      "roleInScript": "推銷稿",
+      "humorDevice": "story",
+      "zhGloss": "推銷說詞",
+      "speakLineEn": "Keep the pitch shorter than the methods.",
+      "speakLineZh": "推銷稿要比方法段短。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "softsoap",
+      "inVocab": false,
+      "senseAnchor": "灌迷湯",
+      "roleInScript": "迷湯桶",
+      "humorDevice": "story",
+      "zhGloss": "灌迷湯",
+      "speakLineEn": "Softsoap cannot repair a broken protocol.",
+      "speakLineZh": "灌迷湯修不好破掉的規程。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "suad＝勸：persuade/persuasion/persuasive/suave/assuage",
+    "assuage＝緩和"
+  ],
+  "pitfalls": [
+    "persuade＝說服；assuage＝減輕（情緒／疼痛）",
+    "suave＝圓滑文雅"
+  ],
+  "lessonRefs": [
+    "lesson-root-suad-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch05"
+  }
+}

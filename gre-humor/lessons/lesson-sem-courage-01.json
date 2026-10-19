@@ -1,0 +1,97 @@
+{
+  "id": "lesson-sem-courage-01",
+  "slug": "sem-courage-01",
+  "season": 3,
+  "seasonTitleZh": "語氣對打",
+  "seasonTitleEn": "Tone Duels",
+  "type": "duel",
+  "minutes": "12-15",
+  "clusterId": "sem-courage-01",
+  "titleZh": "勇敢 ↔ 怯懦｜勇氣擂台",
+  "titleEn": "Courage vs Cowardice Arena",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "擂台左邊 intrepid／dauntless 往前衝；右邊 craven／timorous 往後縮——記住褒貶語氣。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "勇敢隊：intrepid／dauntless／valorous／plucky／audacious 衝去公開虛無。怯懦隊：craven／timorous／pusillanimous／trepidation／timid 害怕勘誤——裁判：audacious 可以是勇敢或魯莽，看語境。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "勇敢：intrepid/dauntless/valorous/audacious",
+        "怯懦：craven/timorous/pusillanimous/trepidation"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Fearless; bold:",
+      "promptZh": "無畏：",
+      "choices": [
+        "intrepid",
+        "craven",
+        "scanty",
+        "suave"
+      ],
+      "answer": "intrepid"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Contemptibly cowardly:",
+      "promptZh": "卑怯懦弱：",
+      "choices": [
+        "craven",
+        "valorous",
+        "copious",
+        "salient"
+      ],
+      "answer": "craven"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Fear; nervous dread:",
+      "promptZh": "惶恐恐懼：",
+      "choices": [
+        "trepidation",
+        "panacea",
+        "matrix",
+        "marina"
+      ],
+      "answer": "trepidation"
+    }
+  ],
+  "pitfalls": [
+    "audacious＝大膽（可褒可貶）",
+    "pusillanimous＝卑怯的"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch05"
+  }
+}

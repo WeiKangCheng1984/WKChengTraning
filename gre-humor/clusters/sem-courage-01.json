@@ -1,0 +1,208 @@
+{
+  "id": "sem-courage-01",
+  "type": "semantic",
+  "elementLemma": "courage-vs-cowardice",
+  "titleZh": "勇敢 ↔ 怯懦｜勇氣擂台",
+  "titleEn": "Courage vs Cowardice Arena",
+  "hook": "擂台左邊 intrepid／dauntless 往前衝；右邊 craven／timorous 往後縮——記住褒貶語氣。",
+  "script": "勇敢隊：intrepid／dauntless／valorous／plucky／audacious 衝去公開虛無。怯懦隊：craven／timorous／pusillanimous／trepidation／timid 害怕勘誤——裁判：audacious 可以是勇敢或魯莽，看語境。",
+  "members": [
+    {
+      "headword": "intrepid",
+      "inVocab": true,
+      "senseAnchor": "invulnerable to fear or intimidation",
+      "roleInScript": "無畏衝鋒",
+      "humorDevice": "contrast",
+      "zhGloss": "無畏的",
+      "speakLineEn": "Intrepid reporting includes ugly limitations.",
+      "speakLineZh": "無畏報告包含難看的限制。",
+      "related": {
+        "synonyms": "audacious, brave, dauntless, fearless, hardy, unfearing",
+        "antonyms": "timid, cowardly"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "dauntless",
+      "inVocab": false,
+      "senseAnchor": "勇敢無懼的",
+      "roleInScript": "不嚇退",
+      "humorDevice": "contrast",
+      "zhGloss": "勇敢無懼的",
+      "speakLineEn": "Stay dauntless when the primary fails.",
+      "speakLineZh": "主要終點失敗時保持無懼。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "valorous",
+      "inVocab": true,
+      "senseAnchor": "having or showing valor",
+      "roleInScript": "英勇章",
+      "humorDevice": "contrast",
+      "zhGloss": "英勇的",
+      "speakLineEn": "Valorous science corrects itself in public.",
+      "speakLineZh": "英勇科學公開自我更正。",
+      "related": {
+        "synonyms": "valiant",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "plucky",
+      "inVocab": false,
+      "senseAnchor": "有勇氣的；倔強的",
+      "roleInScript": "小勇猛",
+      "humorDevice": "contrast",
+      "zhGloss": "有勇氣的；倔強的",
+      "speakLineEn": "Plucky juniors should be rewarded for flags.",
+      "speakLineZh": "倔強資淺者舉旗應被獎勵。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "audacious",
+      "inVocab": true,
+      "senseAnchor": "fearless",
+      "roleInScript": "大膽跳",
+      "humorDevice": "contrast",
+      "zhGloss": "大膽的；放肆的",
+      "speakLineEn": "Audacious claims need audacious evidence.",
+      "speakLineZh": "大膽主張需要大膽證據。",
+      "related": {
+        "synonyms": "brave, dauntless, fearless, hardy, intrepid, unfearing",
+        "antonyms": "timid, cautious"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "craven",
+      "inVocab": true,
+      "senseAnchor": "an abject coward; lacking even the rudiments of courage; abjectly fearful; ; ; - Spenser",
+      "roleInScript": "縮回去",
+      "humorDevice": "contrast",
+      "zhGloss": "懦弱的",
+      "speakLineEn": "Craven silence after an error is misconduct-adjacent.",
+      "speakLineZh": "錯誤後懦弱沉默近似不端。",
+      "related": {
+        "synonyms": "poltroon, recreant",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "timorous",
+      "inVocab": true,
+      "senseAnchor": "lacking in courage or self-confidence",
+      "roleInScript": "發抖燈",
+      "humorDevice": "contrast",
+      "zhGloss": "膽怯的",
+      "speakLineEn": "Timorous teams hide deviations.",
+      "speakLineZh": "膽怯團隊隱藏偏離。",
+      "related": {
+        "synonyms": "diffident, timid, skittish",
+        "antonyms": "bold, courageous, confident, brave"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "pusillanimous",
+      "inVocab": false,
+      "senseAnchor": "卑怯的",
+      "roleInScript": "卑怯章",
+      "humorDevice": "contrast",
+      "zhGloss": "卑怯的",
+      "speakLineEn": "Pusillanimous leadership punishes messengers.",
+      "speakLineZh": "卑怯領導懲罰報信者。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "trepidation",
+      "inVocab": true,
+      "senseAnchor": "fear",
+      "roleInScript": "惶恐錶",
+      "humorDevice": "contrast",
+      "zhGloss": "恐懼；惶恐",
+      "speakLineEn": "Trepidation before opening the envelope is healthy.",
+      "speakLineZh": "打開信封前的惶恐是健康的。",
+      "related": {
+        "synonyms": "apprehension",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "timid",
+      "inVocab": true,
+      "senseAnchor": "people who are fearful and cautious; showing fear and lack of confidence",
+      "roleInScript": "膽小鍵",
+      "humorDevice": "story",
+      "zhGloss": "膽小的",
+      "speakLineEn": "Timid abstracts that hide uncertainty mislead.",
+      "speakLineZh": "隱藏不確定的膽小摘要會誤導。",
+      "related": {
+        "synonyms": "cautious, diffident, shy, unsure, faint, fainthearted",
+        "antonyms": "bold, brave, confident"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "bold",
+      "inVocab": false,
+      "senseAnchor": "大膽的",
+      "roleInScript": "粗體膽",
+      "humorDevice": "story",
+      "zhGloss": "大膽的",
+      "speakLineEn": "Be bold about sharing code.",
+      "speakLineZh": "分享程式碼要大膽。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "fearless",
+      "inVocab": false,
+      "senseAnchor": "無所畏懼的",
+      "roleInScript": "無畏貼",
+      "humorDevice": "story",
+      "zhGloss": "無所畏懼的",
+      "speakLineEn": "Fearless transparency beats perfect vibes.",
+      "speakLineZh": "無畏透明勝過完美感覺。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "勇敢：intrepid/dauntless/valorous/audacious",
+    "怯懦：craven/timorous/pusillanimous/trepidation"
+  ],
+  "pitfalls": [
+    "audacious＝大膽（可褒可貶）",
+    "pusillanimous＝卑怯的"
+  ],
+  "lessonRefs": [
+    "lesson-sem-courage-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch05"
+  }
+}

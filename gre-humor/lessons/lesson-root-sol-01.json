@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-sol-01",
+  "slug": "root-sol-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-sol-01",
+  "titleZh": "sol｜獨奏日照廳",
+  "titleEn": "Sol Solo Sun Hall",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 sol＝獨／日——日照廳既辦獨奏，也開日照；寂寞與陽光同一個票口。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "solo／soloist／solitary／sole 獨奏席。desolate／solace 荒涼與安慰劑。solar／parasol 日照與遮陽傘——廳長：sole primary endpoint；solitary genius 神話退場。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "sol＝獨／日：solo/solitary/sole/desolate/solace/solar",
+        "desolate＝荒涼的"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Only; single and exclusive:",
+      "promptZh": "唯一的：",
+      "choices": [
+        "sole",
+        "solar",
+        "salient",
+        "suave"
+      ],
+      "answer": "sole"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Bleak and empty; forsaken:",
+      "promptZh": "荒涼淒涼：",
+      "choices": [
+        "desolate",
+        "desultory",
+        "pacific",
+        "elated"
+      ],
+      "answer": "desolate"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Comfort in sorrow:",
+      "promptZh": "安慰：",
+      "choices": [
+        "solace",
+        "assault",
+        "invasion",
+        "paucity"
+      ],
+      "answer": "solace"
+    }
+  ],
+  "pitfalls": [
+    "sole＝唯一的；soul＝靈魂",
+    "solace＝安慰"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch05"
+  }
+}

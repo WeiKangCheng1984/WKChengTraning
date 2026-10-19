@@ -1,9 +1,9 @@
 {
   "source": "gre-humor/",
   "version": "s3c-site-v1",
-  "generatedAt": "2026-10-19T00:13:10.783Z",
-  "totalClusters": 166,
-  "uniqueWords": 1887,
+  "generatedAt": "2026-10-19T05:44:50.205Z",
+  "totalClusters": 187,
+  "uniqueWords": 2131,
   "seasons": [
     {
       "id": 1,
@@ -51,6 +51,7 @@
         "root-ject-01",
         "root-jud-01",
         "root-junct-01",
+        "root-lat-01",
         "root-leg-01",
         "root-lev-01",
         "root-liber-01",
@@ -58,9 +59,12 @@
         "root-luc-01",
         "root-man-01",
         "root-mand-01",
+        "root-mar-01",
+        "root-mater-01",
         "root-medi-01",
         "root-mem-01",
         "root-mens-01",
+        "root-merc-01",
         "root-merge-01",
         "root-migr-01",
         "root-mir-01",
@@ -71,13 +75,17 @@
         "root-mot-01",
         "root-mut-01",
         "root-nat-01",
+        "root-nav-01",
         "root-neg-01",
         "root-noc-01",
         "root-nov-01",
+        "root-numer-01",
         "root-nym-01",
         "root-opt-01",
         "root-ord-01",
         "root-ori-01",
+        "root-paci-01",
+        "root-pater-01",
         "root-path-01",
         "root-ped-01",
         "root-pel-01",
@@ -90,10 +98,12 @@
         "root-port-01",
         "root-pos-01",
         "root-pot-01",
+        "root-prehend-01",
         "root-press-01",
         "root-prim-01",
         "root-priv-01",
         "root-prob-01",
+        "root-propri-01",
         "root-pugn-01",
         "root-punct-01",
         "root-put-01",
@@ -106,6 +116,8 @@
         "root-rid-01",
         "root-rog-01",
         "root-rupt-01",
+        "root-sacr-01",
+        "root-sal-01",
         "root-sat-01",
         "root-scend-01",
         "root-sci-01",
@@ -118,6 +130,7 @@
         "root-serv-01",
         "root-sign-01",
         "root-simil-01",
+        "root-sol-01",
         "root-solv-01",
         "root-somn-01",
         "root-soph-01",
@@ -125,6 +138,7 @@
         "root-sta-01",
         "root-strict-01",
         "root-struct-01",
+        "root-suad-01",
         "root-sum-01",
         "root-tact-01",
         "root-tempor-01",
@@ -141,7 +155,10 @@
         "root-trud-01",
         "root-turb-01",
         "root-umbr-01",
+        "root-urb-01",
         "root-vac-01",
+        "root-vad-01",
+        "root-vag-01",
         "root-val-01",
         "root-ven-01",
         "root-verb-01",
@@ -166,11 +183,13 @@
         "sem-begin-01",
         "sem-brief-01",
         "sem-clear-01",
+        "sem-courage-01",
         "sem-flattery-01",
         "sem-honest-01",
         "sem-overt-01",
         "sem-praise-01",
         "sem-rigid-01",
+        "sem-scarce-01",
         "sem-talk-01",
         "sem-temper-01"
       ]
@@ -1084,9 +1103,9 @@
       "id": "prefix-bene-mal-01",
       "slug": "prefix-bene-mal-01",
       "type": "prefix",
-      "typeZh": "字根劇場",
-      "typeEn": "Root",
-      "season": 2,
+      "typeZh": "字首調味",
+      "typeEn": "Prefix",
+      "season": 4,
       "priority": "A",
       "status": "reviewed",
       "titleZh": "bene↔mal｜好壞雙開關",
@@ -1296,9 +1315,9 @@
       "id": "prefix-circum-01",
       "slug": "prefix-circum-01",
       "type": "prefix",
-      "typeZh": "字根劇場",
-      "typeEn": "Root",
-      "season": 2,
+      "typeZh": "字首調味",
+      "typeEn": "Prefix",
+      "season": 4,
       "priority": "B",
       "status": "reviewed",
       "titleZh": "circum-｜環繞航線塔",
@@ -1497,9 +1516,9 @@
       "id": "prefix-con-01",
       "slug": "prefix-con-01",
       "type": "prefix",
-      "typeZh": "字根劇場",
-      "typeEn": "Root",
-      "season": 2,
+      "typeZh": "字首調味",
+      "typeEn": "Prefix",
+      "season": 4,
       "priority": "A",
       "status": "reviewed",
       "titleZh": "con-/com-｜一起拼裝廠",
@@ -1720,9 +1739,9 @@
       "id": "prefix-de-01",
       "slug": "prefix-de-01",
       "type": "prefix",
-      "typeZh": "字根劇場",
-      "typeEn": "Root",
-      "season": 2,
+      "typeZh": "字首調味",
+      "typeEn": "Prefix",
+      "season": 4,
       "priority": "A",
       "status": "reviewed",
       "titleZh": "de-｜向下拆除隊",
@@ -1943,9 +1962,9 @@
       "id": "prefix-dis-01",
       "slug": "prefix-dis-01",
       "type": "prefix",
-      "typeZh": "字根劇場",
-      "typeEn": "Root",
-      "season": 2,
+      "typeZh": "字首調味",
+      "typeEn": "Prefix",
+      "season": 4,
       "priority": "A",
       "status": "reviewed",
       "titleZh": "dis-｜拆解否定工廠",
@@ -2144,9 +2163,9 @@
       "id": "prefix-ex-01",
       "slug": "prefix-ex-01",
       "type": "prefix",
-      "typeZh": "字根劇場",
-      "typeEn": "Root",
-      "season": 2,
+      "typeZh": "字首調味",
+      "typeEn": "Prefix",
+      "season": 4,
       "priority": "A",
       "status": "reviewed",
       "titleZh": "ex-｜向外排放閘",
@@ -2367,9 +2386,9 @@
       "id": "prefix-hyper-01",
       "slug": "prefix-hyper-01",
       "type": "prefix",
-      "typeZh": "字根劇場",
-      "typeEn": "Root",
-      "season": 2,
+      "typeZh": "字首調味",
+      "typeEn": "Prefix",
+      "season": 4,
       "priority": "B",
       "status": "reviewed",
       "titleZh": "hyper-｜過度加速器",
@@ -2601,9 +2620,9 @@
       "id": "prefix-hypo-01",
       "slug": "prefix-hypo-01",
       "type": "prefix",
-      "typeZh": "字根劇場",
-      "typeEn": "Root",
-      "season": 2,
+      "typeZh": "字首調味",
+      "typeEn": "Prefix",
+      "season": 4,
       "priority": "B",
       "status": "reviewed",
       "titleZh": "hypo-｜不足低壓艙",
@@ -2813,9 +2832,9 @@
       "id": "prefix-in-01",
       "slug": "prefix-in-01",
       "type": "prefix",
-      "typeZh": "字根劇場",
-      "typeEn": "Root",
-      "season": 2,
+      "typeZh": "字首調味",
+      "typeEn": "Prefix",
+      "season": 4,
       "priority": "A",
       "status": "reviewed",
       "titleZh": "in-｜進入／否定雙門",
@@ -3047,9 +3066,9 @@
       "id": "prefix-inter-01",
       "slug": "prefix-inter-01",
       "type": "prefix",
-      "typeZh": "字根劇場",
-      "typeEn": "Root",
-      "season": 2,
+      "typeZh": "字首調味",
+      "typeEn": "Prefix",
+      "season": 4,
       "priority": "B",
       "status": "reviewed",
       "titleZh": "inter-｜之間調度室",
@@ -3237,9 +3256,9 @@
       "id": "prefix-mis-01",
       "slug": "prefix-mis-01",
       "type": "prefix",
-      "typeZh": "字根劇場",
-      "typeEn": "Root",
-      "season": 2,
+      "typeZh": "字首調味",
+      "typeEn": "Prefix",
+      "season": 4,
       "priority": "B",
       "status": "reviewed",
       "titleZh": "mis-｜搞錯工廠",
@@ -3471,9 +3490,9 @@
       "id": "prefix-ob-01",
       "slug": "prefix-ob-01",
       "type": "prefix",
-      "typeZh": "字根劇場",
-      "typeEn": "Root",
-      "season": 2,
+      "typeZh": "字首調味",
+      "typeEn": "Prefix",
+      "season": 4,
       "priority": "A",
       "status": "reviewed",
       "titleZh": "ob-｜迎面阻礙閘",
@@ -3658,12 +3677,469 @@
       "minutes": "12-15"
     },
     {
+      "id": "prefix-pan-01",
+      "slug": "prefix-pan-01",
+      "type": "prefix",
+      "typeZh": "字首調味",
+      "typeEn": "Prefix",
+      "season": 4,
+      "priority": "B",
+      "status": "reviewed",
+      "titleZh": "pan-｜全景萬神殿",
+      "titleEn": "Pan All-View Pantheon",
+      "hook": "字首 pan-＝全——萬神殿要全景、萬能藥、全面混亂，還有默劇。",
+      "script": "panorama／panoramic 全景窗。panacea 萬能藥攤。pandemonium 全場混亂；pantomime／pandemic／pantheon 默劇、大流行、萬神殿——殿主：panoramic reporting；拒 panacea 口號。",
+      "reviewHooks": [
+        "pan-＝全：panorama/panacea/pandemonium/pandemic/pantheon",
+        "panacea＝萬靈藥"
+      ],
+      "pitfalls": [
+        "panacea＝萬能藥（常是否定用法）",
+        "pandemonium＝大混亂"
+      ],
+      "members": [
+        {
+          "headword": "panorama",
+          "zhGloss": "全景；概觀",
+          "senseAnchor": "the visual percept of a region; a picture (or series of pictures) representing a continuous scene",
+          "roleInScript": "全景窗",
+          "humorDevice": "morphology",
+          "speakLineEn": "Give a panorama of limitations, not a footnote.",
+          "speakLineZh": "給限制全景，不是腳註。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "panoramic",
+          "zhGloss": "全景的",
+          "senseAnchor": "全景的",
+          "roleInScript": "全景鏡",
+          "humorDevice": "morphology",
+          "speakLineEn": "Panoramic dashboards still need version pins.",
+          "speakLineZh": "全景儀表板仍需版本釘選。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "panacea",
+          "zhGloss": "萬靈藥",
+          "senseAnchor": "a remedy for all ills or difficulties",
+          "roleInScript": "萬能藥攤",
+          "humorDevice": "morphology",
+          "speakLineEn": "There is no panacea model for every dataset.",
+          "speakLineZh": "沒有適合一切資料的萬靈藥模型。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "pandemonium",
+          "zhGloss": "大混亂",
+          "senseAnchor": "a state of extreme confusion and disorder",
+          "roleInScript": "混亂殿",
+          "humorDevice": "morphology",
+          "speakLineEn": "Unlogged changes create analytic pandemonium.",
+          "speakLineZh": "未記錄變更造成分析大混亂。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "pantomime",
+          "zhGloss": "默劇；手勢戲",
+          "senseAnchor": "a performance using gestures and body movements without words; act out without words but with gestures and bodily movements only",
+          "roleInScript": "默劇場",
+          "humorDevice": "morphology",
+          "speakLineEn": "Do not pantomime significance without numbers.",
+          "speakLineZh": "別用手勢默劇表演顯著性。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "pandemic",
+          "zhGloss": "大流行的；疫情",
+          "senseAnchor": "大流行的；疫情",
+          "roleInScript": "大流行旗",
+          "humorDevice": "morphology",
+          "speakLineEn": "Pandemic-speed science still needs brakes.",
+          "speakLineZh": "大流行速度的科學仍需要煞車。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "pantheon",
+          "zhGloss": "萬神殿；名流群",
+          "senseAnchor": "萬神殿；名流群",
+          "roleInScript": "萬神殿",
+          "humorDevice": "morphology",
+          "speakLineEn": "Do not treat celebrity labs as a pantheon beyond review.",
+          "speakLineZh": "別把明星實驗室當不可審的萬神殿。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "blanket",
+          "zhGloss": "毯子；全面的",
+          "senseAnchor": "毯子；全面的",
+          "roleInScript": "全面毯",
+          "humorDevice": "story",
+          "speakLineEn": "Avoid blanket claims across heterogeneous sites.",
+          "speakLineZh": "避免對異質站點下全面斷言。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "wholesale",
+          "zhGloss": "批發；全面的",
+          "senseAnchor": "the selling of goods to merchants; usually in large quantities for resale to consumers; sell in large quantities",
+          "roleInScript": "批發砍",
+          "humorDevice": "story",
+          "speakLineEn": "Wholesale dropping of outliers needs rules.",
+          "speakLineZh": "批發丟掉離群需要規則。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "across-the-board",
+          "zhGloss": "全面的",
+          "senseAnchor": "全面的",
+          "roleInScript": "全面板",
+          "humorDevice": "story",
+          "speakLineEn": "Across-the-board significance is a red flag.",
+          "speakLineZh": "全面顯著是紅旗。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "omni",
+          "zhGloss": "全（口語詞根）",
+          "senseAnchor": "全（口語詞根）",
+          "roleInScript": "全字貼",
+          "humorDevice": "story",
+          "speakLineEn": "Omni-claims invite omni-scrutiny.",
+          "speakLineZh": "全稱主張招來全面審視。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "everywhere",
+          "zhGloss": "到處",
+          "senseAnchor": "到處",
+          "roleInScript": "到處燈",
+          "humorDevice": "story",
+          "speakLineEn": "If bias is everywhere, say how you checked.",
+          "speakLineZh": "若偏差到處都是，說明你怎麼查。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        }
+      ],
+      "memberCount": 12,
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "sense",
+          "promptEn": "Cure-all; remedy for everything:",
+          "promptZh": "萬靈藥：",
+          "choices": [
+            "panacea",
+            "paragon",
+            "paucity",
+            "patron"
+          ],
+          "answer": "panacea"
+        },
+        {
+          "id": "q2",
+          "type": "sense",
+          "promptEn": "Wild uproar; chaos everywhere:",
+          "promptZh": "大混亂：",
+          "choices": [
+            "pandemonium",
+            "panorama",
+            "matrimony",
+            "solace"
+          ],
+          "answer": "pandemonium"
+        },
+        {
+          "id": "q3",
+          "type": "sense",
+          "promptEn": "Wide unbroken view:",
+          "promptZh": "全景：",
+          "choices": [
+            "panorama",
+            "parasite",
+            "prison",
+            "prize"
+          ],
+          "answer": "panorama"
+        }
+      ],
+      "flow": [
+        {
+          "step": 1,
+          "name": "鉤子",
+          "minutes": 0.5,
+          "content": "字首 pan-＝全——萬神殿要全景、萬能藥、全面混亂，還有默劇。"
+        },
+        {
+          "step": 2,
+          "name": "串記劇本",
+          "minutes": 2,
+          "content": "panorama／panoramic 全景窗。panacea 萬能藥攤。pandemonium 全場混亂；pantomime／pandemic／pantheon 默劇、大流行、萬神殿——殿主：panoramic reporting；拒 panacea 口號。"
+        },
+        {
+          "step": 3,
+          "name": "詞卡 round",
+          "minutes": 7,
+          "content": "義錨 → 角色 → 跟讀英／中"
+        },
+        {
+          "step": 4,
+          "name": "快測",
+          "minutes": 2,
+          "content": "quiz ×3"
+        },
+        {
+          "step": 5,
+          "name": "口令帶走",
+          "minutes": 0.5,
+          "content": [
+            "pan-＝全：panorama/panacea/pandemonium/pandemic/pantheon",
+            "panacea＝萬靈藥"
+          ]
+        }
+      ],
+      "minutes": "12-15"
+    },
+    {
+      "id": "prefix-para-01",
+      "slug": "prefix-para-01",
+      "type": "prefix",
+      "typeZh": "字首調味",
+      "typeEn": "Prefix",
+      "season": 4,
+      "priority": "B",
+      "status": "reviewed",
+      "titleZh": "para-｜旁門異常館",
+      "titleEn": "Para Side Door Hall",
+      "hook": "字首 para-＝旁／異常——旁門館收模範、悖論、寄生與改寫版。",
+      "script": "paragon 模範展櫃。paradox／parallel／paradigm 悖論、平行線、範式轉盤。parasite 寄生客；paraphrase／paramount／paranormal／parable 改寫、至上、超常、寓言——館長：paramount clarity；parasite claims 驅除。",
+      "reviewHooks": [
+        "para-＝旁／異常：paradox/parallel/paradigm/parasite/paragon/paramount",
+        "paragon＝模範"
+      ],
+      "pitfalls": [
+        "paradigm＝範式；paragon＝模範",
+        "paramount＝至上的"
+      ],
+      "members": [
+        {
+          "headword": "paradox",
+          "zhGloss": "悖論",
+          "senseAnchor": "悖論",
+          "roleInScript": "悖論鏡",
+          "humorDevice": "morphology",
+          "speakLineEn": "Report the paradox of significant yet tiny effects.",
+          "speakLineZh": "報告顯著卻微小的悖論。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "parallel",
+          "zhGloss": "平行的；類似的",
+          "senseAnchor": "平行的；類似的",
+          "roleInScript": "平行線",
+          "humorDevice": "morphology",
+          "speakLineEn": "Run a parallel blinded analysis track.",
+          "speakLineZh": "跑一條平行盲法分析軌道。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "paradigm",
+          "zhGloss": "範式；典範",
+          "senseAnchor": "範式；典範",
+          "roleInScript": "範式轉盤",
+          "humorDevice": "morphology",
+          "speakLineEn": "A paradigm shift still needs boring audits.",
+          "speakLineZh": "範式轉移仍需要無聊稽核。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "parasite",
+          "zhGloss": "寄生虫；寄生者",
+          "senseAnchor": "寄生虫；寄生者",
+          "roleInScript": "寄生客",
+          "humorDevice": "morphology",
+          "speakLineEn": "HARKing is a parasite on honest inquiry.",
+          "speakLineZh": "HARKing 是誠實探究的寄生虫。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "paragon",
+          "zhGloss": "模範；完美典型",
+          "senseAnchor": "模範；完美典型",
+          "roleInScript": "模範櫃",
+          "humorDevice": "morphology",
+          "speakLineEn": "Be a paragon of correction speed.",
+          "speakLineZh": "做勘誤速度的模範。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "paraphrase",
+          "zhGloss": "改述",
+          "senseAnchor": "改述",
+          "roleInScript": "改寫台",
+          "humorDevice": "morphology",
+          "speakLineEn": "Paraphrase claims without changing the estimand.",
+          "speakLineZh": "改述主張但不改目標量。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "paramount",
+          "zhGloss": "至上的；最重要的",
+          "senseAnchor": "having superior power and influence",
+          "roleInScript": "至上旗",
+          "humorDevice": "morphology",
+          "speakLineEn": "Transparency is paramount under uncertainty.",
+          "speakLineZh": "不確定下透明至上。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "paranormal",
+          "zhGloss": "超常的",
+          "senseAnchor": "超常的",
+          "roleInScript": "超常燈",
+          "humorDevice": "story",
+          "speakLineEn": "Treat extraordinary claims as almost paranormal.",
+          "speakLineZh": "把非凡主張當近乎超常。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "parable",
+          "zhGloss": "寓言",
+          "senseAnchor": "a short moral story (often with animal characters); (New Testament) any of the stories told by Jesus to convey his religious message",
+          "roleInScript": "寓言箱",
+          "humorDevice": "story",
+          "speakLineEn": "A methods parable: the lab that hid a null.",
+          "speakLineZh": "方法寓言：那個藏起虛無的實驗室。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "sidekick",
+          "zhGloss": "助手；配角",
+          "senseAnchor": "助手；配角",
+          "roleInScript": "配角燈",
+          "humorDevice": "story",
+          "speakLineEn": "Secondary endpoints are sidekicks, not leads.",
+          "speakLineZh": "次要終點是配角，不是主角。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "outlier",
+          "zhGloss": "離群值",
+          "senseAnchor": "離群值",
+          "roleInScript": "旁門怪人",
+          "humorDevice": "story",
+          "speakLineEn": "Label outliers; do not quietly exile them.",
+          "speakLineZh": "標註離群值；別安靜放逐。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        }
+      ],
+      "memberCount": 11,
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "sense",
+          "promptEn": "Model of excellence:",
+          "promptZh": "模範典型：",
+          "choices": [
+            "paragon",
+            "parasite",
+            "paradox",
+            "suburb"
+          ],
+          "answer": "paragon"
+        },
+        {
+          "id": "q2",
+          "type": "sense",
+          "promptEn": "Supreme; most important:",
+          "promptZh": "至上最重要：",
+          "choices": [
+            "paramount",
+            "pacific",
+            "scanty",
+            "craven"
+          ],
+          "answer": "paramount"
+        },
+        {
+          "id": "q3",
+          "type": "sense",
+          "promptEn": "Contradictory but true-seeming statement:",
+          "promptZh": "悖論：",
+          "choices": [
+            "paradox",
+            "patron",
+            "matrix",
+            "buoy"
+          ],
+          "answer": "paradox"
+        }
+      ],
+      "flow": [
+        {
+          "step": 1,
+          "name": "鉤子",
+          "minutes": 0.5,
+          "content": "字首 para-＝旁／異常——旁門館收模範、悖論、寄生與改寫版。"
+        },
+        {
+          "step": 2,
+          "name": "串記劇本",
+          "minutes": 2,
+          "content": "paragon 模範展櫃。paradox／parallel／paradigm 悖論、平行線、範式轉盤。parasite 寄生客；paraphrase／paramount／paranormal／parable 改寫、至上、超常、寓言——館長：paramount clarity；parasite claims 驅除。"
+        },
+        {
+          "step": 3,
+          "name": "詞卡 round",
+          "minutes": 7,
+          "content": "義錨 → 角色 → 跟讀英／中"
+        },
+        {
+          "step": 4,
+          "name": "快測",
+          "minutes": 2,
+          "content": "quiz ×3"
+        },
+        {
+          "step": 5,
+          "name": "口令帶走",
+          "minutes": 0.5,
+          "content": [
+            "para-＝旁／異常：paradox/parallel/paradigm/parasite/paragon/paramount",
+            "paragon＝模範"
+          ]
+        }
+      ],
+      "minutes": "12-15"
+    },
+    {
       "id": "prefix-poly-01",
       "slug": "prefix-poly-01",
       "type": "prefix",
-      "typeZh": "字根劇場",
-      "typeEn": "Root",
-      "season": 2,
+      "typeZh": "字首調味",
+      "typeEn": "Prefix",
+      "season": 4,
       "priority": "B",
       "status": "reviewed",
       "titleZh": "poly-｜多聲部錄音室",
@@ -3884,9 +4360,9 @@
       "id": "prefix-pre-01",
       "slug": "prefix-pre-01",
       "type": "prefix",
-      "typeZh": "字根劇場",
-      "typeEn": "Root",
-      "season": 2,
+      "typeZh": "字首調味",
+      "typeEn": "Prefix",
+      "season": 4,
       "priority": "A",
       "status": "reviewed",
       "titleZh": "pre-｜預先倒數計時器",
@@ -4074,9 +4550,9 @@
       "id": "prefix-pro-01",
       "slug": "prefix-pro-01",
       "type": "prefix",
-      "typeZh": "字根劇場",
-      "typeEn": "Root",
-      "season": 2,
+      "typeZh": "字首調味",
+      "typeEn": "Prefix",
+      "season": 4,
       "priority": "A",
       "status": "reviewed",
       "titleZh": "pro-｜向前推進器",
@@ -4264,9 +4740,9 @@
       "id": "prefix-sub-01",
       "slug": "prefix-sub-01",
       "type": "prefix",
-      "typeZh": "字根劇場",
-      "typeEn": "Root",
-      "season": 2,
+      "typeZh": "字首調味",
+      "typeEn": "Prefix",
+      "season": 4,
       "priority": "B",
       "status": "reviewed",
       "titleZh": "sub-｜地下工程隊",
@@ -4465,9 +4941,9 @@
       "id": "prefix-syn-01",
       "slug": "prefix-syn-01",
       "type": "prefix",
-      "typeZh": "字根劇場",
-      "typeEn": "Root",
-      "season": 2,
+      "typeZh": "字首調味",
+      "typeEn": "Prefix",
+      "season": 4,
       "priority": "A",
       "status": "reviewed",
       "titleZh": "syn-/sym-｜同步合奏廳",
@@ -12355,6 +12831,240 @@
       "minutes": "12-15"
     },
     {
+      "id": "root-lat-01",
+      "slug": "root-lat-01",
+      "type": "root",
+      "typeZh": "字根劇場",
+      "typeEn": "Root",
+      "season": 2,
+      "priority": "B",
+      "status": "reviewed",
+      "titleZh": "lat｜側邊快遞局",
+      "titleEn": "Lat Sideways Courier",
+      "hook": "字根 lat＝邊／帶——快遞局只走側門：橫向、拉開、連帶責任全包。",
+      "script": "lateral 側滑閃人；relative／relation／relate 把親戚網路連起來。dilate 把瞳孔拉開；elated 開心到飄。collate／collateral／translate 核對、抵押、翻譯——局長：lateral thinking 可以；collateral damage 不行。",
+      "reviewHooks": [
+        "lat＝邊：lateral/relative/dilate/collate/collateral",
+        "elated＝興高采烈"
+      ],
+      "pitfalls": [
+        "lateral＝側面的；literal＝字面的",
+        "collateral＝附帶／抵押"
+      ],
+      "members": [
+        {
+          "headword": "lateral",
+          "zhGloss": "側面的；橫向的",
+          "senseAnchor": "a pass to a receiver upfield from the passer; situated at or extending to the side; ; - Tennyson",
+          "roleInScript": "側滑閃人",
+          "humorDevice": "morphology",
+          "speakLineEn": "Try a lateral check, not a louder claim.",
+          "speakLineZh": "試橫向檢查，不是更大聲主張。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "relative",
+          "zhGloss": "相對的；親戚",
+          "senseAnchor": "相對的；親戚",
+          "roleInScript": "親戚網",
+          "humorDevice": "morphology",
+          "speakLineEn": "Effect sizes are relative to the baseline.",
+          "speakLineZh": "效應量相對基準而言。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "relation",
+          "zhGloss": "關係",
+          "senseAnchor": "關係",
+          "roleInScript": "連線圖",
+          "humorDevice": "morphology",
+          "speakLineEn": "State the relation you actually identified.",
+          "speakLineZh": "說清楚你真正識別的關係。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "relate",
+          "zhGloss": "關聯；敘述",
+          "senseAnchor": "關聯；敘述",
+          "roleInScript": "把線接上",
+          "humorDevice": "morphology",
+          "speakLineEn": "Relate the result to the preregistered estimand.",
+          "speakLineZh": "把結果連回預註冊目標量。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "dilate",
+          "zhGloss": "擴張；詳述",
+          "senseAnchor": "become wider; add details, as to an account or idea; clarify the meaning of and discourse in a learned way, usually in writing",
+          "roleInScript": "拉開瞳孔",
+          "humorDevice": "morphology",
+          "speakLineEn": "Do not dilate anecdotes into causal proof.",
+          "speakLineZh": "別把軼事擴成因果證明。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "elated",
+          "zhGloss": "興高采烈的",
+          "senseAnchor": "fill with high spirits; fill with optimism; exultantly proud and joyful; in high spirits",
+          "roleInScript": "開心飄",
+          "humorDevice": "morphology",
+          "speakLineEn": "Stay curious when elated by a significant p.",
+          "speakLineZh": "被顯著 p 沖昏時仍保持好奇。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "collate",
+          "zhGloss": "核對整理",
+          "senseAnchor": "compare critically; of texts; to assemble in proper sequence",
+          "roleInScript": "對表員",
+          "humorDevice": "morphology",
+          "speakLineEn": "Collate code, data, and codebook before submission.",
+          "speakLineZh": "投稿前核對程式、資料與編碼簿。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "translate",
+          "zhGloss": "翻譯；轉換",
+          "senseAnchor": "翻譯；轉換",
+          "roleInScript": "翻譯官",
+          "humorDevice": "morphology",
+          "speakLineEn": "Translate methods into plain language for readers.",
+          "speakLineZh": "把方法翻譯成讀者能懂的話。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "collateral",
+          "zhGloss": "附帶的；抵押品",
+          "senseAnchor": "附帶的；抵押品",
+          "roleInScript": "附帶傷",
+          "humorDevice": "story",
+          "speakLineEn": "Avoid collateral harm to trust when rushing.",
+          "speakLineZh": "趕工時避免傷及信任。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "prelate",
+          "zhGloss": "高級神職",
+          "senseAnchor": "高級神職",
+          "roleInScript": "側邊大佬",
+          "humorDevice": "story",
+          "speakLineEn": "Even a prelate of the field needs peer review.",
+          "speakLineZh": "領域大佬也需要同儕審查。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "latitudinal",
+          "zhGloss": "緯度的；幅度的",
+          "senseAnchor": "緯度的；幅度的",
+          "roleInScript": "緯線尺",
+          "humorDevice": "story",
+          "speakLineEn": "Report latitudinal variation across sites.",
+          "speakLineZh": "報告跨站點的幅度差異。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "sidestep",
+          "zhGloss": "側步避開",
+          "senseAnchor": "側步避開",
+          "roleInScript": "側步閃",
+          "humorDevice": "story",
+          "speakLineEn": "Do not sidestep limitations in the discussion.",
+          "speakLineZh": "討論段不要側步避開限制。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        }
+      ],
+      "memberCount": 12,
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "sense",
+          "promptEn": "Sideways; of the side:",
+          "promptZh": "側面橫向：",
+          "choices": [
+            "lateral",
+            "sacred",
+            "pacify",
+            "vagabond"
+          ],
+          "answer": "lateral"
+        },
+        {
+          "id": "q2",
+          "type": "sense",
+          "promptEn": "Joyfully excited:",
+          "promptZh": "興高采烈：",
+          "choices": [
+            "elated",
+            "evasive",
+            "scanty",
+            "urbane"
+          ],
+          "answer": "elated"
+        },
+        {
+          "id": "q3",
+          "type": "sense",
+          "promptEn": "Secondary; accompanying damage/security:",
+          "promptZh": "附帶／抵押：",
+          "choices": [
+            "collateral",
+            "salient",
+            "mercenary",
+            "solo"
+          ],
+          "answer": "collateral"
+        }
+      ],
+      "flow": [
+        {
+          "step": 1,
+          "name": "鉤子",
+          "minutes": 0.5,
+          "content": "字根 lat＝邊／帶——快遞局只走側門：橫向、拉開、連帶責任全包。"
+        },
+        {
+          "step": 2,
+          "name": "串記劇本",
+          "minutes": 2,
+          "content": "lateral 側滑閃人；relative／relation／relate 把親戚網路連起來。dilate 把瞳孔拉開；elated 開心到飄。collate／collateral／translate 核對、抵押、翻譯——局長：lateral thinking 可以；collateral damage 不行。"
+        },
+        {
+          "step": 3,
+          "name": "詞卡 round",
+          "minutes": 7,
+          "content": "義錨 → 角色 → 跟讀英／中"
+        },
+        {
+          "step": 4,
+          "name": "快測",
+          "minutes": 2,
+          "content": "quiz ×3"
+        },
+        {
+          "step": 5,
+          "name": "口令帶走",
+          "minutes": 0.5,
+          "content": [
+            "lat＝邊：lateral/relative/dilate/collate/collateral",
+            "elated＝興高采烈"
+          ]
+        }
+      ],
+      "minutes": "12-15"
+    },
+    {
       "id": "root-leg-01",
       "slug": "root-leg-01",
       "type": "root",
@@ -13938,6 +14648,474 @@
       "minutes": "12-15"
     },
     {
+      "id": "root-mar-01",
+      "slug": "root-mar-01",
+      "type": "root",
+      "typeZh": "字根劇場",
+      "typeEn": "Root",
+      "season": 2,
+      "priority": "C",
+      "status": "reviewed",
+      "titleZh": "mar｜海事風浪館",
+      "titleEn": "Mar Sea Hall",
+      "hook": "字根 mar＝海——風浪館專管海上、水手、潛水與藍色事故。",
+      "script": "marine／maritime／mariner 海上編制。submarine 潛下去偷探。marina 停泊碼頭；ultramarine／aquamarine 藍到發亮——館長：submarine peeks 禁止；maritime logs 要留。",
+      "reviewHooks": [
+        "mar＝海：marine/maritime/submarine/mariner/marina",
+        "maritime＝海事的"
+      ],
+      "pitfalls": [
+        "marine＝海的；marinate＝醃（無關）",
+        "submarine＝潛水艇／水下的"
+      ],
+      "members": [
+        {
+          "headword": "marine",
+          "zhGloss": "海的；海軍陸戰隊",
+          "senseAnchor": "海的；海軍陸戰隊",
+          "roleInScript": "海上編制",
+          "humorDevice": "morphology",
+          "speakLineEn": "Treat multi-site drift like marine currents.",
+          "speakLineZh": "把多站漂移當海流處理。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "maritime",
+          "zhGloss": "海事的；沿海的",
+          "senseAnchor": "海事的；沿海的",
+          "roleInScript": "海事法",
+          "humorDevice": "morphology",
+          "speakLineEn": "Maritime-level documentation survives storms.",
+          "speakLineZh": "海事級文件撐得過風暴。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "submarine",
+          "zhGloss": "潛水艇；水下的",
+          "senseAnchor": "潛水艇；水下的",
+          "roleInScript": "潛下去",
+          "humorDevice": "morphology",
+          "speakLineEn": "No submarine looks at unblinded outcomes.",
+          "speakLineZh": "禁止潛水偷看非盲結局。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "mariner",
+          "zhGloss": "水手",
+          "senseAnchor": "水手",
+          "roleInScript": "水手日誌",
+          "humorDevice": "morphology",
+          "speakLineEn": "Every mariner of the pipeline signs the log.",
+          "speakLineZh": "管線上每個水手都簽日誌。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "marina",
+          "zhGloss": "碼頭；船塢",
+          "senseAnchor": "碼頭；船塢",
+          "roleInScript": "停泊處",
+          "humorDevice": "morphology",
+          "speakLineEn": "Dock raw data in a read-only marina.",
+          "speakLineZh": "把原始資料停泊在唯讀碼頭。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "ultramarine",
+          "zhGloss": "深藍的",
+          "senseAnchor": "深藍的",
+          "roleInScript": "深藍漆",
+          "humorDevice": "story",
+          "speakLineEn": "Ultramarine claims need ultramarine evidence.",
+          "speakLineZh": "深藍主張需要深藍證據。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "aquamarine",
+          "zhGloss": "海藍寶石色",
+          "senseAnchor": "海藍寶石色",
+          "roleInScript": "海藍光",
+          "humorDevice": "story",
+          "speakLineEn": "Aquamarine slides still need error bars.",
+          "speakLineZh": "海藍簡報仍需誤差條。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "seafaring",
+          "zhGloss": "航海的",
+          "senseAnchor": "航海的",
+          "roleInScript": "航海癖",
+          "humorDevice": "story",
+          "speakLineEn": "Seafaring teams need shared maps of decisions.",
+          "speakLineZh": "航海團隊需要共享決策地圖。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "tide",
+          "zhGloss": "潮汐",
+          "senseAnchor": "潮汐",
+          "roleInScript": "潮汐表",
+          "humorDevice": "story",
+          "speakLineEn": "Publish with the tide of the data lock, not hype.",
+          "speakLineZh": "跟著資料鎖定潮汐發表，不是炒作。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "anchor",
+          "zhGloss": "錨",
+          "senseAnchor": "to be strongly connected with a particular system",
+          "roleInScript": "下錨",
+          "humorDevice": "story",
+          "speakLineEn": "Anchor claims to a commit hash.",
+          "speakLineZh": "把主張錨到 commit 雜湊。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "shipwreck",
+          "zhGloss": "船難",
+          "senseAnchor": "船難",
+          "roleInScript": "船難現場",
+          "humorDevice": "story",
+          "speakLineEn": "A methods shipwreck starts with missing logs.",
+          "speakLineZh": "方法船難始於缺失日誌。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "buoy",
+          "zhGloss": "浮標",
+          "senseAnchor": "bright-colored; a float attached by rope to the seabed to mark channels in a harbor or underwater hazards; float on the surface of water",
+          "roleInScript": "浮標燈",
+          "humorDevice": "story",
+          "speakLineEn": "Use buoys: milestones that keep the project afloat.",
+          "speakLineZh": "用浮標：讓專案浮著的里程碑。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        }
+      ],
+      "memberCount": 12,
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "sense",
+          "promptEn": "Of the sea; seafaring trade:",
+          "promptZh": "海事的：",
+          "choices": [
+            "maritime",
+            "maternal",
+            "mercenary",
+            "meager"
+          ],
+          "answer": "maritime"
+        },
+        {
+          "id": "q2",
+          "type": "sense",
+          "promptEn": "Underwater vessel; hidden beneath:",
+          "promptZh": "潛水／水下：",
+          "choices": [
+            "submarine",
+            "sanctuary",
+            "salient",
+            "suave"
+          ],
+          "answer": "submarine"
+        },
+        {
+          "id": "q3",
+          "type": "sense",
+          "promptEn": "Sailor:",
+          "promptZh": "水手：",
+          "choices": [
+            "mariner",
+            "matron",
+            "patron",
+            "vagabond"
+          ],
+          "answer": "mariner"
+        }
+      ],
+      "flow": [
+        {
+          "step": 1,
+          "name": "鉤子",
+          "minutes": 0.5,
+          "content": "字根 mar＝海——風浪館專管海上、水手、潛水與藍色事故。"
+        },
+        {
+          "step": 2,
+          "name": "串記劇本",
+          "minutes": 2,
+          "content": "marine／maritime／mariner 海上編制。submarine 潛下去偷探。marina 停泊碼頭；ultramarine／aquamarine 藍到發亮——館長：submarine peeks 禁止；maritime logs 要留。"
+        },
+        {
+          "step": 3,
+          "name": "詞卡 round",
+          "minutes": 7,
+          "content": "義錨 → 角色 → 跟讀英／中"
+        },
+        {
+          "step": 4,
+          "name": "快測",
+          "minutes": 2,
+          "content": "quiz ×3"
+        },
+        {
+          "step": 5,
+          "name": "口令帶走",
+          "minutes": 0.5,
+          "content": [
+            "mar＝海：marine/maritime/submarine/mariner/marina",
+            "maritime＝海事的"
+          ]
+        }
+      ],
+      "minutes": "12-15"
+    },
+    {
+      "id": "root-mater-01",
+      "slug": "root-mater-01",
+      "type": "root",
+      "typeZh": "字根劇場",
+      "typeEn": "Root",
+      "season": 2,
+      "priority": "C",
+      "status": "reviewed",
+      "titleZh": "mater／matr｜母系登記處",
+      "titleEn": "Mater Mother Registry",
+      "hook": "字根 mater/matr＝母——登記處管母系、婚姻、母校，還有矩陣媽媽。",
+      "script": "maternal／maternity／matron 母性櫃台。matriarch／matriarchal 家族女王。matrimony 結婚登記；alma mater／matrix 母校與矩陣媽媽——登記員：matrix 要可逆；matriarch 也不能免審。",
+      "reviewHooks": [
+        "mater＝母：maternal/matriarch/matrimony/matron/matrix/alma mater",
+        "matriarch＝女家長"
+      ],
+      "pitfalls": [
+        "maternal＝母親的；paternal＝父親的",
+        "alma mater＝母校"
+      ],
+      "members": [
+        {
+          "headword": "maternal",
+          "zhGloss": "母親的",
+          "senseAnchor": "母親的",
+          "roleInScript": "母性章",
+          "humorDevice": "morphology",
+          "speakLineEn": "Maternal leave policies need documented coverage.",
+          "speakLineZh": "產假政策需要文件化覆蓋。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "maternity",
+          "zhGloss": "母性；產科",
+          "senseAnchor": "母性；產科",
+          "roleInScript": "產科窗",
+          "humorDevice": "morphology",
+          "speakLineEn": "Budget maternity of a project: birth of variables.",
+          "speakLineZh": "為專案「生產」變數編預算。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "matriarch",
+          "zhGloss": "女家長",
+          "senseAnchor": "女家長",
+          "roleInScript": "家族女王",
+          "humorDevice": "morphology",
+          "speakLineEn": "Even the lab matriarch accepts corrections.",
+          "speakLineZh": "實驗室女家長也接受勘誤。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "matriarchal",
+          "zhGloss": "母系的",
+          "senseAnchor": "母系的",
+          "roleInScript": "母系制",
+          "humorDevice": "morphology",
+          "speakLineEn": "Matriarchal credit rules still need transparency.",
+          "speakLineZh": "母系功勞規則仍需透明。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "matron",
+          "zhGloss": "女監護；成熟女性",
+          "senseAnchor": "女監護；成熟女性",
+          "roleInScript": "監護人",
+          "humorDevice": "morphology",
+          "speakLineEn": "A methods matron keeps the codebook tidy.",
+          "speakLineZh": "方法監護人讓編碼簿整潔。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "matrimony",
+          "zhGloss": "婚姻",
+          "senseAnchor": "婚姻",
+          "roleInScript": "結婚登記",
+          "humorDevice": "morphology",
+          "speakLineEn": "Code matrimony: merge only with tests.",
+          "speakLineZh": "程式聯姻：有測試才合併。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "matrix",
+          "zhGloss": "矩陣；母體",
+          "senseAnchor": "矩陣；母體",
+          "roleInScript": "矩陣媽媽",
+          "humorDevice": "morphology",
+          "speakLineEn": "Show the confusion matrix, not just accuracy.",
+          "speakLineZh": "展示混淆矩陣，不只正確率。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "alma",
+          "zhGloss": "慈養的（alma mater）",
+          "senseAnchor": "慈養的（alma mater）",
+          "roleInScript": "母校前綴",
+          "humorDevice": "story",
+          "speakLineEn": "Cite your alma mater's open-science rules.",
+          "speakLineZh": "引用母校的開放科學規則。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "motherlode",
+          "zhGloss": "富礦脈",
+          "senseAnchor": "富礦脈",
+          "roleInScript": "主礦脈",
+          "humorDevice": "story",
+          "speakLineEn": "The motherlode is raw data with provenance.",
+          "speakLineZh": "富礦是帶出處的原始資料。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "nurture",
+          "zhGloss": "養育",
+          "senseAnchor": "養育",
+          "roleInScript": "養育箱",
+          "humorDevice": "story",
+          "speakLineEn": "Nurture replications like new litters.",
+          "speakLineZh": "像養幼崽一樣養育複現。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "brood",
+          "zhGloss": "一窩；憂思",
+          "senseAnchor": "一窩；憂思",
+          "roleInScript": "一窩幼崽",
+          "humorDevice": "story",
+          "speakLineEn": "A brood of related analyses needs a family tree.",
+          "speakLineZh": "一窩相關分析需要族譜。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "lineage",
+          "zhGloss": "世系",
+          "senseAnchor": "世系",
+          "roleInScript": "血統樹",
+          "humorDevice": "story",
+          "speakLineEn": "Track variable lineage across transforms.",
+          "speakLineZh": "追蹤變數跨轉換的世系。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        }
+      ],
+      "memberCount": 12,
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "sense",
+          "promptEn": "Female head of a family:",
+          "promptZh": "女家長：",
+          "choices": [
+            "matriarch",
+            "mariner",
+            "mercenary",
+            "vagabond"
+          ],
+          "answer": "matriarch"
+        },
+        {
+          "id": "q2",
+          "type": "sense",
+          "promptEn": "Marriage:",
+          "promptZh": "婚姻：",
+          "choices": [
+            "matrimony",
+            "maritime",
+            "paucity",
+            "assault"
+          ],
+          "answer": "matrimony"
+        },
+        {
+          "id": "q3",
+          "type": "sense",
+          "promptEn": "Array; mold; enclosing structure:",
+          "promptZh": "矩陣／母體：",
+          "choices": [
+            "matrix",
+            "marina",
+            "sally",
+            "suave"
+          ],
+          "answer": "matrix"
+        }
+      ],
+      "flow": [
+        {
+          "step": 1,
+          "name": "鉤子",
+          "minutes": 0.5,
+          "content": "字根 mater/matr＝母——登記處管母系、婚姻、母校，還有矩陣媽媽。"
+        },
+        {
+          "step": 2,
+          "name": "串記劇本",
+          "minutes": 2,
+          "content": "maternal／maternity／matron 母性櫃台。matriarch／matriarchal 家族女王。matrimony 結婚登記；alma mater／matrix 母校與矩陣媽媽——登記員：matrix 要可逆；matriarch 也不能免審。"
+        },
+        {
+          "step": 3,
+          "name": "詞卡 round",
+          "minutes": 7,
+          "content": "義錨 → 角色 → 跟讀英／中"
+        },
+        {
+          "step": 4,
+          "name": "快測",
+          "minutes": 2,
+          "content": "quiz ×3"
+        },
+        {
+          "step": 5,
+          "name": "口令帶走",
+          "minutes": 0.5,
+          "content": [
+            "mater＝母：maternal/matriarch/matrimony/matron/matrix/alma mater",
+            "matriarch＝女家長"
+          ]
+        }
+      ],
+      "minutes": "12-15"
+    },
+    {
       "id": "root-medi-01",
       "slug": "root-medi-01",
       "type": "root",
@@ -14634,6 +15812,240 @@
           "content": [
             "mens＝量：measure/metric/immense/commensurate",
             "commensurate＝相稱的"
+          ]
+        }
+      ],
+      "minutes": "12-15"
+    },
+    {
+      "id": "root-merc-01",
+      "slug": "root-merc-01",
+      "type": "root",
+      "typeZh": "字根劇場",
+      "typeEn": "Root",
+      "season": 2,
+      "priority": "C",
+      "status": "reviewed",
+      "titleZh": "merc｜傭兵商會",
+      "titleEn": "Merc Hire Guild",
+      "hook": "字根 merc＝商／報——商會裡有商人、商品，也有只為錢打仗的傭兵。",
+      "script": "merchant／merchandise／mercantile／commerce／commercial 買賣大廳。mercenary 只認錢的刀。mercy／merciful 法外開恩櫃；mercury 滑溜信使——會長：commercial incentives 要揭露；mercenary stats 滾出去。",
+      "reviewHooks": [
+        "merc＝商／報：merchant/merchandise/mercenary/commerce/mercy",
+        "mercenary＝唯利是圖"
+      ],
+      "pitfalls": [
+        "mercenary＝傭兵／唯利；merciful＝慈悲的",
+        "commerce＝商業"
+      ],
+      "members": [
+        {
+          "headword": "merchant",
+          "zhGloss": "商人",
+          "senseAnchor": "商人",
+          "roleInScript": "買賣櫃",
+          "humorDevice": "morphology",
+          "speakLineEn": "Be a merchant of methods, not of miracles.",
+          "speakLineZh": "做方法商人，不是奇蹟商人。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "merchandise",
+          "zhGloss": "商品",
+          "senseAnchor": "商品",
+          "roleInScript": "貨架",
+          "humorDevice": "morphology",
+          "speakLineEn": "Do not merchandise p-values as products.",
+          "speakLineZh": "別把 p 值當商品販售。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "mercantile",
+          "zhGloss": "商業的",
+          "senseAnchor": "商業的",
+          "roleInScript": "商會風",
+          "humorDevice": "morphology",
+          "speakLineEn": "Mercantile pressure can distort endpoints.",
+          "speakLineZh": "商業壓力會扭曲終點。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "commerce",
+          "zhGloss": "商業；往來",
+          "senseAnchor": "商業；往來",
+          "roleInScript": "交易廳",
+          "humorDevice": "morphology",
+          "speakLineEn": "Open science is commerce of scrutiny.",
+          "speakLineZh": "開放科學是審視的交易。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "commercial",
+          "zhGloss": "商業的；廣告",
+          "senseAnchor": "商業的；廣告",
+          "roleInScript": "廣告燈",
+          "humorDevice": "morphology",
+          "speakLineEn": "Disclose commercial ties in the paper.",
+          "speakLineZh": "在論文揭露商業關係。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "mercenary",
+          "zhGloss": "傭兵；唯利是圖的",
+          "senseAnchor": "caring only about making money",
+          "roleInScript": "只認錢刀",
+          "humorDevice": "morphology",
+          "speakLineEn": "Mercenary analytic choices chase headlines.",
+          "speakLineZh": "唯利分析選擇追逐標題。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "mercy",
+          "zhGloss": "慈悲；寬恕",
+          "senseAnchor": "慈悲；寬恕",
+          "roleInScript": "開恩櫃",
+          "humorDevice": "morphology",
+          "speakLineEn": "Show no mercy to fabricated rows.",
+          "speakLineZh": "對捏造列不開恩。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "merciful",
+          "zhGloss": "慈悲的",
+          "senseAnchor": "慈悲的",
+          "roleInScript": "慈悲章",
+          "humorDevice": "morphology",
+          "speakLineEn": "Be merciful to honest mistakes, harsh to cover-ups.",
+          "speakLineZh": "對誠實錯誤慈悲，對掩蓋嚴厲。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "mercury",
+          "zhGloss": "水銀；信使",
+          "senseAnchor": "水銀；信使",
+          "roleInScript": "滑溜信使",
+          "humorDevice": "story",
+          "speakLineEn": "Mercury-fast releases still need audits.",
+          "speakLineZh": "水銀般快速發布仍需稽核。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "bargain",
+          "zhGloss": "交易；便宜貨",
+          "senseAnchor": "交易；便宜貨",
+          "roleInScript": "砍價桌",
+          "humorDevice": "story",
+          "speakLineEn": "A bargain with bias is never cheap.",
+          "speakLineZh": "與偏差討價還價從不便宜。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "invoice",
+          "zhGloss": "發票",
+          "senseAnchor": "發票",
+          "roleInScript": "發票單",
+          "humorDevice": "story",
+          "speakLineEn": "Invoice compute costs honestly in grants.",
+          "speakLineZh": "在補助案誠實開列計算成本。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "payoff",
+          "zhGloss": "報酬；結果",
+          "senseAnchor": "報酬；結果",
+          "roleInScript": "報酬表",
+          "humorDevice": "story",
+          "speakLineEn": "State the scientific payoff before the press.",
+          "speakLineZh": "新聞前先說科學報酬。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        }
+      ],
+      "memberCount": 12,
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "sense",
+          "promptEn": "Motivated only by money:",
+          "promptZh": "唯利是圖：",
+          "choices": [
+            "mercenary",
+            "maternal",
+            "salient",
+            "intrepid"
+          ],
+          "answer": "mercenary"
+        },
+        {
+          "id": "q2",
+          "type": "sense",
+          "promptEn": "Trade; business exchange:",
+          "promptZh": "商業往來：",
+          "choices": [
+            "commerce",
+            "sanctuary",
+            "evasion",
+            "solace"
+          ],
+          "answer": "commerce"
+        },
+        {
+          "id": "q3",
+          "type": "sense",
+          "promptEn": "Compassion; leniency:",
+          "promptZh": "慈悲寬恕：",
+          "choices": [
+            "mercy",
+            "matrix",
+            "assault",
+            "paucity"
+          ],
+          "answer": "mercy"
+        }
+      ],
+      "flow": [
+        {
+          "step": 1,
+          "name": "鉤子",
+          "minutes": 0.5,
+          "content": "字根 merc＝商／報——商會裡有商人、商品，也有只為錢打仗的傭兵。"
+        },
+        {
+          "step": 2,
+          "name": "串記劇本",
+          "minutes": 2,
+          "content": "merchant／merchandise／mercantile／commerce／commercial 買賣大廳。mercenary 只認錢的刀。mercy／merciful 法外開恩櫃；mercury 滑溜信使——會長：commercial incentives 要揭露；mercenary stats 滾出去。"
+        },
+        {
+          "step": 3,
+          "name": "詞卡 round",
+          "minutes": 7,
+          "content": "義錨 → 角色 → 跟讀英／中"
+        },
+        {
+          "step": 4,
+          "name": "快測",
+          "minutes": 2,
+          "content": "quiz ×3"
+        },
+        {
+          "step": 5,
+          "name": "口令帶走",
+          "minutes": 0.5,
+          "content": [
+            "merc＝商／報：merchant/merchandise/mercenary/commerce/mercy",
+            "mercenary＝唯利是圖"
           ]
         }
       ],
@@ -16892,6 +18304,240 @@
       "minutes": "12-15"
     },
     {
+      "id": "root-nav-01",
+      "slug": "root-nav-01",
+      "type": "root",
+      "typeZh": "字根劇場",
+      "typeEn": "Root",
+      "season": 2,
+      "priority": "C",
+      "status": "reviewed",
+      "titleZh": "nav｜航海調度室",
+      "titleEn": "Nav Chart Room",
+      "hook": "字根 nav＝船——調度室管海軍、導航、繞地球一圈，還有暈船。",
+      "script": "navy／naval 艦隊編制。navigate／navigation／navigator／nautical 航海圖與舵手。circumnavigate 繞一圈；astronaut／nausea 太空人與暈船袋——調度：navigate uncertainty；別 circumnavigate 審查。",
+      "reviewHooks": [
+        "nav＝船：navy/navigate/navigation/nautical/circumnavigate",
+        "nausea＝噁心"
+      ],
+      "pitfalls": [
+        "naval＝海軍的；navel＝肚臍",
+        "circumnavigate＝環航／避開"
+      ],
+      "members": [
+        {
+          "headword": "navy",
+          "zhGloss": "海軍",
+          "senseAnchor": "海軍",
+          "roleInScript": "艦隊",
+          "humorDevice": "morphology",
+          "speakLineEn": "Keep a navy of unit tests around the pipeline.",
+          "speakLineZh": "在管線外圍部署單元測試艦隊。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "naval",
+          "zhGloss": "海軍的",
+          "senseAnchor": "海軍的",
+          "roleInScript": "海軍編制",
+          "humorDevice": "morphology",
+          "speakLineEn": "Naval discipline: commit messages with cargo lists.",
+          "speakLineZh": "海軍紀律：commit 訊息附貨物清單。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "navigate",
+          "zhGloss": "航行；導航",
+          "senseAnchor": "航行；導航",
+          "roleInScript": "掌舵",
+          "humorDevice": "morphology",
+          "speakLineEn": "Navigate trade-offs explicitly in the paper.",
+          "speakLineZh": "在論文明確導航權衡。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "navigation",
+          "zhGloss": "航行；導航",
+          "senseAnchor": "航行；導航",
+          "roleInScript": "航圖",
+          "humorDevice": "morphology",
+          "speakLineEn": "Provide navigation for readers through supplements.",
+          "speakLineZh": "為讀者提供補充材料航圖。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "navigator",
+          "zhGloss": "航海者；導航者",
+          "senseAnchor": "航海者；導航者",
+          "roleInScript": "舵手",
+          "humorDevice": "morphology",
+          "speakLineEn": "Appoint a reproducibility navigator.",
+          "speakLineZh": "指定一位可複現舵手。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "nautical",
+          "zhGloss": "航海的",
+          "senseAnchor": "relating to or involving ships or shipping or navigation or seamen",
+          "roleInScript": "航海尺",
+          "humorDevice": "morphology",
+          "speakLineEn": "Nautical charts beat oral folklore.",
+          "speakLineZh": "航海圖勝過口頭傳說。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "circumnavigate",
+          "zhGloss": "環航；避開",
+          "senseAnchor": "環航；避開",
+          "roleInScript": "繞一圈",
+          "humorDevice": "morphology",
+          "speakLineEn": "Do not circumnavigate peer review with preprints only.",
+          "speakLineZh": "別只用預印本繞開同儕審查。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "astronaut",
+          "zhGloss": "太空人",
+          "senseAnchor": "太空人",
+          "roleInScript": "太空艙",
+          "humorDevice": "story",
+          "speakLineEn": "Be an astronaut of edge cases in staging.",
+          "speakLineZh": "在測試環境當邊界案例太空人。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "nausea",
+          "zhGloss": "噁心",
+          "senseAnchor": "the state that precedes vomiting; disgust so strong it makes you feel sick",
+          "roleInScript": "暈船袋",
+          "humorDevice": "story",
+          "speakLineEn": "P-hacking should induce methodological nausea.",
+          "speakLineZh": "p 值黑客應引起方法噁心感。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "compass",
+          "zhGloss": "羅盤",
+          "senseAnchor": "羅盤",
+          "roleInScript": "羅盤針",
+          "humorDevice": "story",
+          "speakLineEn": "Let the protocol be your compass.",
+          "speakLineZh": "讓規程當你的羅盤。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "rudder",
+          "zhGloss": "舵",
+          "senseAnchor": "a hinged vertical airfoil mounted at the tail of an aircraft and used to make horizontal course changes; (nautical) steering mechanism consisting of a hinged vertical plate mounted at the stern of a vessel",
+          "roleInScript": "船舵",
+          "humorDevice": "story",
+          "speakLineEn": "Preregistration is the rudder under windy hype.",
+          "speakLineZh": "預註冊是炒作風中的舵。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "flotilla",
+          "zhGloss": "小艦隊",
+          "senseAnchor": "小艦隊",
+          "roleInScript": "小艦隊",
+          "humorDevice": "story",
+          "speakLineEn": "A flotilla of robustness checks escorts the claim.",
+          "speakLineZh": "穩健檢查小艦隊護送主張。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        }
+      ],
+      "memberCount": 12,
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "sense",
+          "promptEn": "Steer a course; find a way:",
+          "promptZh": "導航航行：",
+          "choices": [
+            "navigate",
+            "pacify",
+            "expropriate",
+            "assail"
+          ],
+          "answer": "navigate"
+        },
+        {
+          "id": "q2",
+          "type": "sense",
+          "promptEn": "Sail around; bypass:",
+          "promptZh": "環航／避開：",
+          "choices": [
+            "circumnavigate",
+            "comprehend",
+            "dilate",
+            "consecrate"
+          ],
+          "answer": "circumnavigate"
+        },
+        {
+          "id": "q3",
+          "type": "sense",
+          "promptEn": "Of ships and sailing:",
+          "promptZh": "航海的：",
+          "choices": [
+            "nautical",
+            "nuptial",
+            "natal",
+            "neural"
+          ],
+          "answer": "nautical"
+        }
+      ],
+      "flow": [
+        {
+          "step": 1,
+          "name": "鉤子",
+          "minutes": 0.5,
+          "content": "字根 nav＝船——調度室管海軍、導航、繞地球一圈，還有暈船。"
+        },
+        {
+          "step": 2,
+          "name": "串記劇本",
+          "minutes": 2,
+          "content": "navy／naval 艦隊編制。navigate／navigation／navigator／nautical 航海圖與舵手。circumnavigate 繞一圈；astronaut／nausea 太空人與暈船袋——調度：navigate uncertainty；別 circumnavigate 審查。"
+        },
+        {
+          "step": 3,
+          "name": "詞卡 round",
+          "minutes": 7,
+          "content": "義錨 → 角色 → 跟讀英／中"
+        },
+        {
+          "step": 4,
+          "name": "快測",
+          "minutes": 2,
+          "content": "quiz ×3"
+        },
+        {
+          "step": 5,
+          "name": "口令帶走",
+          "minutes": 0.5,
+          "content": [
+            "nav＝船：navy/navigate/navigation/nautical/circumnavigate",
+            "nausea＝噁心"
+          ]
+        }
+      ],
+      "minutes": "12-15"
+    },
+    {
       "id": "root-neg-01",
       "slug": "root-neg-01",
       "type": "root",
@@ -17577,6 +19223,240 @@
           "content": [
             "nov＝新：novel/novelty/innovate/renovate/novice",
             "novelty 嗜好可能排擠複現"
+          ]
+        }
+      ],
+      "minutes": "12-15"
+    },
+    {
+      "id": "root-numer-01",
+      "slug": "root-numer-01",
+      "type": "root",
+      "typeZh": "字根劇場",
+      "typeEn": "Root",
+      "season": 2,
+      "priority": "C",
+      "status": "reviewed",
+      "titleZh": "numer｜計數清算櫃",
+      "titleEn": "Numer Counting Desk",
+      "hook": "字根 numer＝數——清算櫃把數字排好，也抓「數不清」的誇大。",
+      "script": "numeral／numerator／numerous／innumerable 數字柜台。enumerate／enumeration 逐一點名。supernumerary 編制外多餘；numerology 把數字當玄學——櫃員：enumerate exclusions；拒 numerology 式解讀。",
+      "reviewHooks": [
+        "numer＝數：numeral/numerous/enumerate/innumerable/numerator",
+        "enumerate＝列舉"
+      ],
+      "pitfalls": [
+        "innumerable＝無數的；numerous＝許多的",
+        "numerator＝分子"
+      ],
+      "members": [
+        {
+          "headword": "numeral",
+          "zhGloss": "數字",
+          "senseAnchor": "數字",
+          "roleInScript": "數字牌",
+          "humorDevice": "morphology",
+          "speakLineEn": "Define the numeral coding before collection.",
+          "speakLineZh": "收集前定義數字編碼。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "numerous",
+          "zhGloss": "許多的",
+          "senseAnchor": "許多的",
+          "roleInScript": "很多櫃",
+          "humorDevice": "morphology",
+          "speakLineEn": "Numerous robustness checks beat one lucky p.",
+          "speakLineZh": "許多穩健檢查勝過一個幸運 p。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "enumerate",
+          "zhGloss": "列舉；點數",
+          "senseAnchor": "列舉；點數",
+          "roleInScript": "逐一點名",
+          "humorDevice": "morphology",
+          "speakLineEn": "Enumerate every exclusion with counts.",
+          "speakLineZh": "列舉每次排除並附計數。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "enumeration",
+          "zhGloss": "列舉；清點",
+          "senseAnchor": "列舉；清點",
+          "roleInScript": "清點表",
+          "humorDevice": "morphology",
+          "speakLineEn": "Publish the enumeration of deviations.",
+          "speakLineZh": "公開偏離的清點表。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "innumerable",
+          "zhGloss": "無數的",
+          "senseAnchor": "無數的",
+          "roleInScript": "數不清堆",
+          "humorDevice": "morphology",
+          "speakLineEn": "Innumerable post-hoc tweaks destroy credibility.",
+          "speakLineZh": "無數事後微調摧毀可信度。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "numerator",
+          "zhGloss": "分子",
+          "senseAnchor": "分子",
+          "roleInScript": "分數上方",
+          "humorDevice": "morphology",
+          "speakLineEn": "Keep the numerator definition locked.",
+          "speakLineZh": "鎖定分子定義。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "supernumerary",
+          "zhGloss": "多餘的；編制外",
+          "senseAnchor": "多餘的；編制外",
+          "roleInScript": "多餘名額",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cut supernumerary outcomes early.",
+          "speakLineZh": "及早砍掉多餘結局。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "numerology",
+          "zhGloss": "數字命理",
+          "senseAnchor": "數字命理",
+          "roleInScript": "玄學算命",
+          "humorDevice": "story",
+          "speakLineEn": "Do not practice p-value numerology.",
+          "speakLineZh": "不要搞 p 值數字命理。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "tally",
+          "zhGloss": "計數；記分",
+          "senseAnchor": "a score in baseball made by a runner touching all four bases safely; a bill for an amount due",
+          "roleInScript": "正字記分",
+          "humorDevice": "story",
+          "speakLineEn": "Tally decisions in a living protocol.",
+          "speakLineZh": "在活的規程裡記分決策。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "census",
+          "zhGloss": "普查",
+          "senseAnchor": "普查",
+          "roleInScript": "普查表",
+          "humorDevice": "story",
+          "speakLineEn": "Run a census of variables before modeling.",
+          "speakLineZh": "建模前做變數普查。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "headcount",
+          "zhGloss": "人數清點",
+          "senseAnchor": "人數清點",
+          "roleInScript": "人頭數",
+          "humorDevice": "story",
+          "speakLineEn": "Report headcount at each exclusion step.",
+          "speakLineZh": "每步排除報告人頭數。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "arithmetic",
+          "zhGloss": "算術",
+          "senseAnchor": "算術",
+          "roleInScript": "算術板",
+          "humorDevice": "story",
+          "speakLineEn": "Show the arithmetic behind composite scores.",
+          "speakLineZh": "展示複合分數背後的算術。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        }
+      ],
+      "memberCount": 12,
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "sense",
+          "promptEn": "List one by one; count off:",
+          "promptZh": "列舉點數：",
+          "choices": [
+            "enumerate",
+            "evade",
+            "exult",
+            "elate"
+          ],
+          "answer": "enumerate"
+        },
+        {
+          "id": "q2",
+          "type": "sense",
+          "promptEn": "Too many to count:",
+          "promptZh": "無數的：",
+          "choices": [
+            "innumerable",
+            "lateral",
+            "suave",
+            "craven"
+          ],
+          "answer": "innumerable"
+        },
+        {
+          "id": "q3",
+          "type": "sense",
+          "promptEn": "Extra beyond the needed number:",
+          "promptZh": "多餘編制外：",
+          "choices": [
+            "supernumerary",
+            "sanctimonious",
+            "maritime",
+            "maternal"
+          ],
+          "answer": "supernumerary"
+        }
+      ],
+      "flow": [
+        {
+          "step": 1,
+          "name": "鉤子",
+          "minutes": 0.5,
+          "content": "字根 numer＝數——清算櫃把數字排好，也抓「數不清」的誇大。"
+        },
+        {
+          "step": 2,
+          "name": "串記劇本",
+          "minutes": 2,
+          "content": "numeral／numerator／numerous／innumerable 數字柜台。enumerate／enumeration 逐一點名。supernumerary 編制外多餘；numerology 把數字當玄學——櫃員：enumerate exclusions；拒 numerology 式解讀。"
+        },
+        {
+          "step": 3,
+          "name": "詞卡 round",
+          "minutes": 7,
+          "content": "義錨 → 角色 → 跟讀英／中"
+        },
+        {
+          "step": 4,
+          "name": "快測",
+          "minutes": 2,
+          "content": "quiz ×3"
+        },
+        {
+          "step": 5,
+          "name": "口令帶走",
+          "minutes": 0.5,
+          "content": [
+            "numer＝數：numeral/numerous/enumerate/innumerable/numerator",
+            "enumerate＝列舉"
           ]
         }
       ],
@@ -18491,6 +20371,441 @@
           "content": [
             "ori＝起：origin/originate/original/orient/orientation",
             "orient＝導向"
+          ]
+        }
+      ],
+      "minutes": "12-15"
+    },
+    {
+      "id": "root-paci-01",
+      "slug": "root-paci-01",
+      "type": "root",
+      "typeZh": "字根劇場",
+      "typeEn": "Root",
+      "season": 2,
+      "priority": "C",
+      "status": "reviewed",
+      "titleZh": "paci｜和解談判桌",
+      "titleEn": "Paci Peace Table",
+      "hook": "字根 paci＝和平——談判桌把怒火按下去，簽停戰，也識破假和平。",
+      "script": "pacify／pacific／pacifist／pacifism 和解小組。peace／pax 停戰旗。truce／armistice／placid／calm 停火與平靜客串——主席：pacify conflicts with data；假 pacific 微笑不改錯，無效。",
+      "reviewHooks": [
+        "paci＝和平：pacify/pacific/pacifist/pacifism/peace",
+        "pacify＝平息"
+      ],
+      "pitfalls": [
+        "pacific＝和平的／太平洋",
+        "pacifist＝和平主義者"
+      ],
+      "members": [
+        {
+          "headword": "pacify",
+          "zhGloss": "平息；安撫",
+          "senseAnchor": "cause to be more favorably inclined; gain the good will of; fight violence and try to establish peace in (a location)",
+          "roleInScript": "按住怒火",
+          "humorDevice": "morphology",
+          "speakLineEn": "Pacify reviewer concerns with evidence.",
+          "speakLineZh": "用證據平息審稿疑慮。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "pacific",
+          "zhGloss": "和平的；平和的",
+          "senseAnchor": "和平的；平和的",
+          "roleInScript": "停戰臉",
+          "humorDevice": "morphology",
+          "speakLineEn": "Keep a pacific tone while defending methods.",
+          "speakLineZh": "捍衛方法時保持平和語氣。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "pacifist",
+          "zhGloss": "和平主義者",
+          "senseAnchor": "和平主義者",
+          "roleInScript": "反戰牌",
+          "humorDevice": "morphology",
+          "speakLineEn": "Be a pacifist toward people, a hawk toward bias.",
+          "speakLineZh": "對人和平，對偏差強硬。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "pacifism",
+          "zhGloss": "和平主義",
+          "senseAnchor": "和平主義",
+          "roleInScript": "和平綱領",
+          "humorDevice": "morphology",
+          "speakLineEn": "Methodological pacifism is not ignoring fraud.",
+          "speakLineZh": "方法和平主義不是忽視造假。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "peace",
+          "zhGloss": "和平",
+          "senseAnchor": "和平",
+          "roleInScript": "停戰旗",
+          "humorDevice": "morphology",
+          "speakLineEn": "Make peace with null results by publishing them.",
+          "speakLineZh": "用發表與虛無結果和解。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "pax",
+          "zhGloss": "和平；平安",
+          "senseAnchor": "和平；平安",
+          "roleInScript": "Pax 印章",
+          "humorDevice": "story",
+          "speakLineEn": "Declare a pax on outcome renaming midstream.",
+          "speakLineZh": "對中途改結局名稱下停戰令。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "truce",
+          "zhGloss": "休戰",
+          "senseAnchor": "a state of peace agreed to between opponents so they can discuss peace terms",
+          "roleInScript": "休戰協定",
+          "humorDevice": "story",
+          "speakLineEn": "Call a truce: freeze the analysis plan.",
+          "speakLineZh": "喊休戰：凍結分析計畫。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "armistice",
+          "zhGloss": "停戰協定",
+          "senseAnchor": "停戰協定",
+          "roleInScript": "停戰書",
+          "humorDevice": "story",
+          "speakLineEn": "Sign an armistice with endless tweaking.",
+          "speakLineZh": "與無盡微調簽停戰。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "reconcile",
+          "zhGloss": "和解；核對一致",
+          "senseAnchor": "make (one thing) compatible with (another); bring into consonance or accord",
+          "roleInScript": "對帳和解",
+          "humorDevice": "story",
+          "speakLineEn": "Reconcile codebook and code before lock.",
+          "speakLineZh": "鎖定前和解編碼簿與程式。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "ceasefire",
+          "zhGloss": "停火",
+          "senseAnchor": "停火",
+          "roleInScript": "停火線",
+          "humorDevice": "story",
+          "speakLineEn": "A ceasefire on debate needs shared numbers.",
+          "speakLineZh": "辯論停火需要共享數字。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        }
+      ],
+      "memberCount": 10,
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "sense",
+          "promptEn": "Make calm; soothe anger:",
+          "promptZh": "平息安撫：",
+          "choices": [
+            "pacify",
+            "invade",
+            "assail",
+            "exult"
+          ],
+          "answer": "pacify"
+        },
+        {
+          "id": "q2",
+          "type": "sense",
+          "promptEn": "Peaceful; tranquil:",
+          "promptZh": "和平平和：",
+          "choices": [
+            "pacific",
+            "pervasive",
+            "mercenary",
+            "desultory"
+          ],
+          "answer": "pacific"
+        },
+        {
+          "id": "q3",
+          "type": "sense",
+          "promptEn": "Person opposed to war:",
+          "promptZh": "和平主義者：",
+          "choices": [
+            "pacifist",
+            "mariner",
+            "proprietor",
+            "consultant"
+          ],
+          "answer": "pacifist"
+        }
+      ],
+      "flow": [
+        {
+          "step": 1,
+          "name": "鉤子",
+          "minutes": 0.5,
+          "content": "字根 paci＝和平——談判桌把怒火按下去，簽停戰，也識破假和平。"
+        },
+        {
+          "step": 2,
+          "name": "串記劇本",
+          "minutes": 2,
+          "content": "pacify／pacific／pacifist／pacifism 和解小組。peace／pax 停戰旗。truce／armistice／placid／calm 停火與平靜客串——主席：pacify conflicts with data；假 pacific 微笑不改錯，無效。"
+        },
+        {
+          "step": 3,
+          "name": "詞卡 round",
+          "minutes": 7,
+          "content": "義錨 → 角色 → 跟讀英／中"
+        },
+        {
+          "step": 4,
+          "name": "快測",
+          "minutes": 2,
+          "content": "quiz ×3"
+        },
+        {
+          "step": 5,
+          "name": "口令帶走",
+          "minutes": 0.5,
+          "content": [
+            "paci＝和平：pacify/pacific/pacifist/pacifism/peace",
+            "pacify＝平息"
+          ]
+        }
+      ],
+      "minutes": "12-15"
+    },
+    {
+      "id": "root-pater-01",
+      "slug": "root-pater-01",
+      "type": "root",
+      "typeZh": "字根劇場",
+      "typeEn": "Root",
+      "season": 2,
+      "priority": "C",
+      "status": "reviewed",
+      "titleZh": "pater／patr｜父系贊助會",
+      "titleEn": "Pater Patron Club",
+      "hook": "字根 pater/patr＝父——贊助會管父系、愛國、贊助人，也管「 dur patronizing」。",
+      "script": "paternal／paternity／patriarch 父系大廳。patriot／patriotic 愛國啦啦隊。patron／patronage／patronize 贊助與屈尊俯就；expatriate／repatriate  expatriate 出走、送回——會長：patronize juniors 零分；patron open tools。",
+      "reviewHooks": [
+        "pater/patr＝父：paternal/patriarch/patriot/patron/patronize/expatriate",
+        "patronize＝贊助／屈尊"
+      ],
+      "pitfalls": [
+        "patronize＝贊助或擺出恩賜態度（雙義）",
+        "expatriate＝移居國外者"
+      ],
+      "members": [
+        {
+          "headword": "paternal",
+          "zhGloss": "父親的",
+          "senseAnchor": "父親的",
+          "roleInScript": "父系章",
+          "humorDevice": "morphology",
+          "speakLineEn": "Paternal leave is part of lab sustainability.",
+          "speakLineZh": "陪產假是實驗室永續一環。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "paternity",
+          "zhGloss": "父性；父權身份",
+          "senseAnchor": "父性；父權身份",
+          "roleInScript": "父職窗",
+          "humorDevice": "morphology",
+          "speakLineEn": "Claim paternity of errors as well as wins.",
+          "speakLineZh": "錯誤與勝利都要認父職。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "patriarch",
+          "zhGloss": "家長；元老",
+          "senseAnchor": "家長；元老",
+          "roleInScript": "元老椅",
+          "humorDevice": "morphology",
+          "speakLineEn": "The patriarch still submits to prereg.",
+          "speakLineZh": "元老仍服從預註冊。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "patriot",
+          "zhGloss": "愛國者",
+          "senseAnchor": "愛國者",
+          "roleInScript": "啦啦隊",
+          "humorDevice": "morphology",
+          "speakLineEn": "Be a patriot of rigor, not of brands.",
+          "speakLineZh": "做嚴謹的愛國者，不是品牌的。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "patriotic",
+          "zhGloss": "愛國的",
+          "senseAnchor": "愛國的",
+          "roleInScript": "愛國燈",
+          "humorDevice": "morphology",
+          "speakLineEn": "Patriotic loyalty to a method can blind you.",
+          "speakLineZh": "對方法的愛國忠誠會致盲。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "patron",
+          "zhGloss": "贊助人；主顧",
+          "senseAnchor": "贊助人；主顧",
+          "roleInScript": "贊助章",
+          "humorDevice": "morphology",
+          "speakLineEn": "Thank patrons without selling conclusions.",
+          "speakLineZh": "感謝贊助人但不出賣結論。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "patronage",
+          "zhGloss": "贊助；恩庇",
+          "senseAnchor": "the act of providing approval and support; customers collectively",
+          "roleInScript": "恩庇網",
+          "humorDevice": "morphology",
+          "speakLineEn": "Disclose patronage that could bias design.",
+          "speakLineZh": "揭露可能偏差設計的贊助。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "patronize",
+          "zhGloss": "贊助；屈尊對待",
+          "senseAnchor": "assume sponsorship of; do one's shopping at; do business with; be a customer or client of",
+          "roleInScript": "屈尊臉",
+          "humorDevice": "morphology",
+          "speakLineEn": "Do not patronize readers with hand-waving.",
+          "speakLineZh": "別用含糊其辭屈尊對待讀者。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "expatriate",
+          "zhGloss": "移居國外者",
+          "senseAnchor": "a person who is voluntarily absent from home or country; expel from a country",
+          "roleInScript": "出走者",
+          "humorDevice": "story",
+          "speakLineEn": "Expatriate datasets need local ethics care.",
+          "speakLineZh": "出境資料集需要在地倫理照護。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "repatriate",
+          "zhGloss": "遣返；送回本國",
+          "senseAnchor": "遣返；送回本國",
+          "roleInScript": "送回國",
+          "humorDevice": "story",
+          "speakLineEn": "Repatriate cleaned data to a locked vault.",
+          "speakLineZh": "把清乾淨資料送回鎖定庫。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "sponsor",
+          "zhGloss": "贊助者",
+          "senseAnchor": "贊助者",
+          "roleInScript": "贊助條",
+          "humorDevice": "story",
+          "speakLineEn": "Name the sponsor beside the conflict box.",
+          "speakLineZh": "在利益衝突旁寫明贊助者。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        }
+      ],
+      "memberCount": 11,
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "sense",
+          "promptEn": "Treat condescendingly; or support as sponsor:",
+          "promptZh": "屈尊／贊助：",
+          "choices": [
+            "patronize",
+            "pacify",
+            "enumerate",
+            "navigate"
+          ],
+          "answer": "patronize"
+        },
+        {
+          "id": "q2",
+          "type": "sense",
+          "promptEn": "Male head of family; founding elder:",
+          "promptZh": "家長元老：",
+          "choices": [
+            "patriarch",
+            "matriarch",
+            "mariner",
+            "vagabond"
+          ],
+          "answer": "patriarch"
+        },
+        {
+          "id": "q3",
+          "type": "sense",
+          "promptEn": "Person living outside their native country:",
+          "promptZh": "移居國外者：",
+          "choices": [
+            "expatriate",
+            "proprietor",
+            "pacifist",
+            "numeral"
+          ],
+          "answer": "expatriate"
+        }
+      ],
+      "flow": [
+        {
+          "step": 1,
+          "name": "鉤子",
+          "minutes": 0.5,
+          "content": "字根 pater/patr＝父——贊助會管父系、愛國、贊助人，也管「 dur patronizing」。"
+        },
+        {
+          "step": 2,
+          "name": "串記劇本",
+          "minutes": 2,
+          "content": "paternal／paternity／patriarch 父系大廳。patriot／patriotic 愛國啦啦隊。patron／patronage／patronize 贊助與屈尊俯就；expatriate／repatriate  expatriate 出走、送回——會長：patronize juniors 零分；patron open tools。"
+        },
+        {
+          "step": 3,
+          "name": "詞卡 round",
+          "minutes": 7,
+          "content": "義錨 → 角色 → 跟讀英／中"
+        },
+        {
+          "step": 4,
+          "name": "快測",
+          "minutes": 2,
+          "content": "quiz ×3"
+        },
+        {
+          "step": 5,
+          "name": "口令帶走",
+          "minutes": 0.5,
+          "content": [
+            "pater/patr＝父：paternal/patriarch/patriot/patron/patronize/expatriate",
+            "patronize＝贊助／屈尊"
           ]
         }
       ],
@@ -21415,6 +23730,240 @@
       "minutes": "12-15"
     },
     {
+      "id": "root-prehend-01",
+      "slug": "root-prehend-01",
+      "type": "root",
+      "typeZh": "字根劇場",
+      "typeEn": "Root",
+      "season": 2,
+      "priority": "B",
+      "status": "reviewed",
+      "titleZh": "prehend／prise｜抓取鑑識課",
+      "titleEn": "Prehend Grab Lab",
+      "hook": "字根 prehend/prise＝抓——鑑識課專抓罪犯、抓重點、抓到驚喜。",
+      "script": "apprehend 抓住嫌犯；comprehend／comprehensive 全面抓住意思。reprehend／reprehensible 抓出來罵。surprise／enterprise／comprise／prize 驚喜、事業、包含、獎杯——教官：apprehensive 可以；reprehensible 造假抓起來。",
+      "reviewHooks": [
+        "prehend＝抓：apprehend/comprehend/reprehend/surprise/comprise",
+        "reprehensible＝應受譴責"
+      ],
+      "pitfalls": [
+        "apprehend＝逮捕／理解；comprehend＝理解",
+        "comprise＝包含（不是 composed of 的反向乱用）"
+      ],
+      "members": [
+        {
+          "headword": "apprehend",
+          "zhGloss": "逮捕；理解",
+          "senseAnchor": "to understand",
+          "roleInScript": "抓嫌犯",
+          "humorDevice": "morphology",
+          "speakLineEn": "Apprehend the confound before you celebrate.",
+          "speakLineZh": "慶祝前先抓住混淆因子。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "comprehend",
+          "zhGloss": "理解",
+          "senseAnchor": "理解",
+          "roleInScript": "抓住意思",
+          "humorDevice": "morphology",
+          "speakLineEn": "If readers cannot comprehend it, rewrite.",
+          "speakLineZh": "讀者抓不住意思就重寫。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "comprehensive",
+          "zhGloss": "全面的",
+          "senseAnchor": "全面的",
+          "roleInScript": "全抓清單",
+          "humorDevice": "morphology",
+          "speakLineEn": "A comprehensive audit beats a heroic patch.",
+          "speakLineZh": "全面稽核勝過英雄式修補。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "reprehend",
+          "zhGloss": "譴責",
+          "senseAnchor": "express strong disapproval of",
+          "roleInScript": "抓出來罵",
+          "humorDevice": "morphology",
+          "speakLineEn": "Reprehend silent outcome switching.",
+          "speakLineZh": "譴責沉默的結局替換。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "reprehensible",
+          "zhGloss": "應受譴責的",
+          "senseAnchor": "morally wrong and deserving criticism",
+          "roleInScript": "該罵標籤",
+          "humorDevice": "morphology",
+          "speakLineEn": "Fabrication is reprehensible, full stop.",
+          "speakLineZh": "捏造應受譴責，句號。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "apprehensive",
+          "zhGloss": "憂慮的",
+          "senseAnchor": "憂慮的",
+          "roleInScript": "抓心慌",
+          "humorDevice": "morphology",
+          "speakLineEn": "Be apprehensive of convenience samples.",
+          "speakLineZh": "對方便樣本保持憂慮。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "surprise",
+          "zhGloss": "驚喜；使吃驚",
+          "senseAnchor": "驚喜；使吃驚",
+          "roleInScript": "驚喜箱",
+          "humorDevice": "morphology",
+          "speakLineEn": "Preregistration reduces harmful surprise.",
+          "speakLineZh": "預註冊減少有害驚喜。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "enterprise",
+          "zhGloss": "事業；進取心",
+          "senseAnchor": "事業；進取心",
+          "roleInScript": "事業桌",
+          "humorDevice": "morphology",
+          "speakLineEn": "Treat the project as a public enterprise.",
+          "speakLineZh": "把專案當公共事業。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "comprise",
+          "zhGloss": "包含",
+          "senseAnchor": "包含",
+          "roleInScript": "整包抓住",
+          "humorDevice": "story",
+          "speakLineEn": "The sample should comprise all eligible cases.",
+          "speakLineZh": "樣本應包含所有合格個案。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "prize",
+          "zhGloss": "獎；珍視",
+          "senseAnchor": "獎；珍視",
+          "roleInScript": "獎杯",
+          "humorDevice": "story",
+          "speakLineEn": "Prize transparency over theatrical novelty.",
+          "speakLineZh": "珍視透明勝過表演式新奇。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "reprisal",
+          "zhGloss": "報復",
+          "senseAnchor": "報復",
+          "roleInScript": "反抓一擊",
+          "humorDevice": "story",
+          "speakLineEn": "Fear of reprisal kills error reporting.",
+          "speakLineZh": "怕報復會殺死錯誤回報。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "prison",
+          "zhGloss": "監獄",
+          "senseAnchor": "監獄",
+          "roleInScript": "關起來",
+          "humorDevice": "story",
+          "speakLineEn": "Do not prison inconvenient nulls in a drawer.",
+          "speakLineZh": "別把麻煩虛無關進抽屜。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        }
+      ],
+      "memberCount": 12,
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "sense",
+          "promptEn": "Deserving strong blame:",
+          "promptZh": "應受譴責：",
+          "choices": [
+            "reprehensible",
+            "lateral",
+            "pacific",
+            "numerous"
+          ],
+          "answer": "reprehensible"
+        },
+        {
+          "id": "q2",
+          "type": "sense",
+          "promptEn": "Understand fully; seize meaning:",
+          "promptZh": "全面理解：",
+          "choices": [
+            "comprehend",
+            "dilate",
+            "evade",
+            "pacify"
+          ],
+          "answer": "comprehend"
+        },
+        {
+          "id": "q3",
+          "type": "sense",
+          "promptEn": "Anxious; fearful that something is wrong:",
+          "promptZh": "憂慮不安：",
+          "choices": [
+            "apprehensive",
+            "elated",
+            "urbane",
+            "salient"
+          ],
+          "answer": "apprehensive"
+        }
+      ],
+      "flow": [
+        {
+          "step": 1,
+          "name": "鉤子",
+          "minutes": 0.5,
+          "content": "字根 prehend/prise＝抓——鑑識課專抓罪犯、抓重點、抓到驚喜。"
+        },
+        {
+          "step": 2,
+          "name": "串記劇本",
+          "minutes": 2,
+          "content": "apprehend 抓住嫌犯；comprehend／comprehensive 全面抓住意思。reprehend／reprehensible 抓出來罵。surprise／enterprise／comprise／prize 驚喜、事業、包含、獎杯——教官：apprehensive 可以；reprehensible 造假抓起來。"
+        },
+        {
+          "step": 3,
+          "name": "詞卡 round",
+          "minutes": 7,
+          "content": "義錨 → 角色 → 跟讀英／中"
+        },
+        {
+          "step": 4,
+          "name": "快測",
+          "minutes": 2,
+          "content": "quiz ×3"
+        },
+        {
+          "step": 5,
+          "name": "口令帶走",
+          "minutes": 0.5,
+          "content": [
+            "prehend＝抓：apprehend/comprehend/reprehend/surprise/comprise",
+            "reprehensible＝應受譴責"
+          ]
+        }
+      ],
+      "minutes": "12-15"
+    },
+    {
       "id": "root-press-01",
       "slug": "root-press-01",
       "type": "root",
@@ -22345,6 +24894,240 @@
           "content": [
             "prob＝試／好：probe/probity/approbation/reprobate/probation",
             "reprobate＝敗類／譴責"
+          ]
+        }
+      ],
+      "minutes": "12-15"
+    },
+    {
+      "id": "root-propri-01",
+      "slug": "root-propri-01",
+      "type": "root",
+      "typeZh": "字根劇場",
+      "typeEn": "Root",
+      "season": 2,
+      "priority": "B",
+      "status": "reviewed",
+      "titleZh": "propri｜產權禮儀社",
+      "titleEn": "Propri Etiquette Club",
+      "hook": "字根 propri＝適當／己有——禮儀社專管「這是誰的」與「這樣得體嗎」。",
+      "script": "proper／improper／propriety 得體門禁。property／proprietary／proprietor 產權與老闆章。appropriate／appropriation／expropriate 撥用、挪用、徵收——社長：appropriate methods；improper peeking 趕出門。",
+      "reviewHooks": [
+        "propri＝適當／己有：proper/property/appropriate/propriety/expropriate",
+        "proprietary＝專有的"
+      ],
+      "pitfalls": [
+        "appropriate＝適當的／撥用；expropriate＝徵收沒收",
+        "propriety＝得體"
+      ],
+      "members": [
+        {
+          "headword": "proper",
+          "zhGloss": "適當的；真正的",
+          "senseAnchor": "適當的；真正的",
+          "roleInScript": "得體證",
+          "humorDevice": "morphology",
+          "speakLineEn": "Use the proper unit of analysis.",
+          "speakLineZh": "使用適當的分析單位。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "improper",
+          "zhGloss": "不適當的",
+          "senseAnchor": "不適當的",
+          "roleInScript": "失禮鈴",
+          "humorDevice": "morphology",
+          "speakLineEn": "Improper unblinding voids the trial spirit.",
+          "speakLineZh": "不當破盲摧毀試驗精神。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "propriety",
+          "zhGloss": "得體；禮儀",
+          "senseAnchor": "得體；禮儀",
+          "roleInScript": "禮儀手冊",
+          "humorDevice": "morphology",
+          "speakLineEn": "Scientific propriety includes sharing negatives.",
+          "speakLineZh": "科學得體包含分享負結果。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "property",
+          "zhGloss": "財產；性質",
+          "senseAnchor": "財產；性質",
+          "roleInScript": "產權牌",
+          "humorDevice": "morphology",
+          "speakLineEn": "State which property of the estimator you care about.",
+          "speakLineZh": "說清你在意估計式的哪種性質。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "proprietary",
+          "zhGloss": "專有的",
+          "senseAnchor": "an unincorporated business owned by a single person who is responsible for its liabilities and entitled to its profits; protected by trademark or patent or copyright; made or produced or distributed by one having exclusive rights",
+          "roleInScript": "專有鎖",
+          "humorDevice": "morphology",
+          "speakLineEn": "Prefer open tools over proprietary black boxes.",
+          "speakLineZh": "寧可開放工具，不要專有黑箱。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "proprietor",
+          "zhGloss": "業主；老闆",
+          "senseAnchor": "業主；老闆",
+          "roleInScript": "老闆章",
+          "humorDevice": "morphology",
+          "speakLineEn": "The data proprietor still owes documentation.",
+          "speakLineZh": "資料業主仍欠文件。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "appropriate",
+          "zhGloss": "適當的；撥用",
+          "senseAnchor": "適當的；撥用",
+          "roleInScript": "撥用章",
+          "humorDevice": "morphology",
+          "speakLineEn": "Choose an appropriate loss function.",
+          "speakLineZh": "選擇適當的損失函數。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "appropriation",
+          "zhGloss": "撥款；挪用",
+          "senseAnchor": "撥款；挪用",
+          "roleInScript": "挪用以案",
+          "humorDevice": "morphology",
+          "speakLineEn": "Silent appropriation of others' code needs citation.",
+          "speakLineZh": "沉默挪用他人程式碼需引用。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "expropriate",
+          "zhGloss": "徵收；沒收",
+          "senseAnchor": "deprive of possessions",
+          "roleInScript": "徵收令",
+          "humorDevice": "story",
+          "speakLineEn": "Do not expropriate credit from juniors.",
+          "speakLineZh": "不要徵收資淺者的功勞。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "ownership",
+          "zhGloss": "所有權",
+          "senseAnchor": "所有權",
+          "roleInScript": "誰的鍋",
+          "humorDevice": "story",
+          "speakLineEn": "Clarify ownership of analysis decisions.",
+          "speakLineZh": "釐清分析決策的所有權。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "belongings",
+          "zhGloss": "財物",
+          "senseAnchor": "財物",
+          "roleInScript": "私人物品",
+          "humorDevice": "story",
+          "speakLineEn": "Keep identifiable belongings out of public dumps.",
+          "speakLineZh": "可識別個資別丟進公開垃圾桶。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "etiquette",
+          "zhGloss": "禮儀",
+          "senseAnchor": "禮儀",
+          "roleInScript": "禮儀卡",
+          "humorDevice": "story",
+          "speakLineEn": "Lab etiquette: correct the record fast.",
+          "speakLineZh": "實驗室禮儀：快速更正紀錄。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        }
+      ],
+      "memberCount": 12,
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "sense",
+          "promptEn": "Correctness of manners; decency:",
+          "promptZh": "得體禮儀：",
+          "choices": [
+            "propriety",
+            "invasion",
+            "paucity",
+            "salient"
+          ],
+          "answer": "propriety"
+        },
+        {
+          "id": "q2",
+          "type": "sense",
+          "promptEn": "Privately owned; exclusive:",
+          "promptZh": "專有的：",
+          "choices": [
+            "proprietary",
+            "lateral",
+            "craven",
+            "desolate"
+          ],
+          "answer": "proprietary"
+        },
+        {
+          "id": "q3",
+          "type": "sense",
+          "promptEn": "Take away private property by authority:",
+          "promptZh": "徵收沒收：",
+          "choices": [
+            "expropriate",
+            "comprehend",
+            "pacify",
+            "navigate"
+          ],
+          "answer": "expropriate"
+        }
+      ],
+      "flow": [
+        {
+          "step": 1,
+          "name": "鉤子",
+          "minutes": 0.5,
+          "content": "字根 propri＝適當／己有——禮儀社專管「這是誰的」與「這樣得體嗎」。"
+        },
+        {
+          "step": 2,
+          "name": "串記劇本",
+          "minutes": 2,
+          "content": "proper／improper／propriety 得體門禁。property／proprietary／proprietor 產權與老闆章。appropriate／appropriation／expropriate 撥用、挪用、徵收——社長：appropriate methods；improper peeking 趕出門。"
+        },
+        {
+          "step": 3,
+          "name": "詞卡 round",
+          "minutes": 7,
+          "content": "義錨 → 角色 → 跟讀英／中"
+        },
+        {
+          "step": 4,
+          "name": "快測",
+          "minutes": 2,
+          "content": "quiz ×3"
+        },
+        {
+          "step": 5,
+          "name": "口令帶走",
+          "minutes": 0.5,
+          "content": [
+            "propri＝適當／己有：proper/property/appropriate/propriety/expropriate",
+            "proprietary＝專有的"
           ]
         }
       ],
@@ -25115,6 +27898,474 @@
       "minutes": "12-15"
     },
     {
+      "id": "root-sacr-01",
+      "slug": "root-sacr-01",
+      "type": "root",
+      "typeZh": "字根劇場",
+      "typeEn": "Root",
+      "season": 2,
+      "priority": "B",
+      "status": "reviewed",
+      "titleZh": "sacr／sanct｜聖物保全署",
+      "titleEn": "Sacr Sanctuary Agency",
+      "hook": "字根 sacr/sanct＝聖——保全署把「不可碰」的東西貼封印，也抓假虔誠。",
+      "script": "sacred／sacrosanct 貼上聖封。sanctuary／sanctify／saint 庇護所與封聖儀式。sacrifice／sacrificial 獻祭交換；sanction／sanctimonious／consecrate 制裁、假神聖、奉獻——署長：methods 可 sacred；ego 不可 sacrosanct。",
+      "reviewHooks": [
+        "sacr/sanct＝聖：sacred/sanctuary/sacrifice/sanction/sacrosanct",
+        "sanctimonious＝假虔誠"
+      ],
+      "pitfalls": [
+        "sanction＝批准／制裁（雙義）",
+        "sacrosanct＝神聖不可侵犯"
+      ],
+      "members": [
+        {
+          "headword": "sacred",
+          "zhGloss": "神聖的",
+          "senseAnchor": "神聖的",
+          "roleInScript": "聖封貼紙",
+          "humorDevice": "morphology",
+          "speakLineEn": "Treat consent as sacred, not optional.",
+          "speakLineZh": "把同意視為神聖，不是可選。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "sacrosanct",
+          "zhGloss": "神聖不可侵犯的",
+          "senseAnchor": "most sacred or holy",
+          "roleInScript": "禁碰封印",
+          "humorDevice": "morphology",
+          "speakLineEn": "No hypothesis is sacrosanct after new evidence.",
+          "speakLineZh": "新證據後沒有假說不可碰。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "sanctuary",
+          "zhGloss": "庇護所；聖殿",
+          "senseAnchor": "a consecrated place where sacred objects are kept; a shelter from danger or hardship",
+          "roleInScript": "庇護所",
+          "humorDevice": "morphology",
+          "speakLineEn": "Make the lab a sanctuary for honest doubt.",
+          "speakLineZh": "讓實驗室成為誠實懷疑的庇護所。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "sanctify",
+          "zhGloss": "使神聖；認可",
+          "senseAnchor": "使神聖；認可",
+          "roleInScript": "封聖章",
+          "humorDevice": "morphology",
+          "speakLineEn": "Do not sanctify a pipeline just because it is old.",
+          "speakLineZh": "別因老舊就封聖一條管線。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "sacrifice",
+          "zhGloss": "犧牲；獻祭",
+          "senseAnchor": "犧牲；獻祭",
+          "roleInScript": "獻祭交換",
+          "humorDevice": "morphology",
+          "speakLineEn": "Never sacrifice blinding for speed.",
+          "speakLineZh": "永遠不要為速度犧牲盲法。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "sacrificial",
+          "zhGloss": "犧牲的",
+          "senseAnchor": "犧牲的",
+          "roleInScript": "祭品標",
+          "humorDevice": "morphology",
+          "speakLineEn": "Juniors are not sacrificial authors.",
+          "speakLineZh": "資淺者不是祭品作者。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "sanction",
+          "zhGloss": "批准；制裁",
+          "senseAnchor": "to permit officially",
+          "roleInScript": "批准／制裁章",
+          "humorDevice": "morphology",
+          "speakLineEn": "Ethics boards sanction protocols, not vibes.",
+          "speakLineZh": "倫理委員會批准規程，不是感覺。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "consecrate",
+          "zhGloss": "奉獻；使神聖",
+          "senseAnchor": "appoint to a clerical posts; give entirely to a specific person, activity, or cause",
+          "roleInScript": "奉獻儀式",
+          "humorDevice": "morphology",
+          "speakLineEn": "Consecrate time for replication, not only novelty.",
+          "speakLineZh": "把時間奉獻給複現，不只新奇。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "saint",
+          "zhGloss": "聖徒",
+          "senseAnchor": "聖徒",
+          "roleInScript": "聖人海報",
+          "humorDevice": "story",
+          "speakLineEn": "Even a methods saint needs checklists.",
+          "speakLineZh": "方法聖人仍需要清單。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "sanctimonious",
+          "zhGloss": "假虔誠的",
+          "senseAnchor": "pretending to be morally better than other people",
+          "roleInScript": "假神聖臉",
+          "humorDevice": "story",
+          "speakLineEn": "Sanctimonious slogans do not replace audits.",
+          "speakLineZh": "假虔誠口號取代不了稽核。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "holy",
+          "zhGloss": "神聖的",
+          "senseAnchor": "神聖的",
+          "roleInScript": "口語聖",
+          "humorDevice": "story",
+          "speakLineEn": "Keep a holy distance from unblinded peeks.",
+          "speakLineZh": "與非盲偷看保持神聖距離。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "taboo",
+          "zhGloss": "禁忌",
+          "senseAnchor": "a prejudice (especially in Polynesia and other South Pacific islands) that prohibits the use or mention of something because of its sacred nature; an inhibition or ban resulting from social custom or emotional aversion",
+          "roleInScript": "禁區牌",
+          "humorDevice": "story",
+          "speakLineEn": "Make outcome switching a lab taboo.",
+          "speakLineZh": "把結局替換設為實驗室禁忌。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        }
+      ],
+      "memberCount": 12,
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "sense",
+          "promptEn": "Too sacred to be criticized:",
+          "promptZh": "神聖不可侵犯：",
+          "choices": [
+            "sacrosanct",
+            "lateral",
+            "mercenary",
+            "scanty"
+          ],
+          "answer": "sacrosanct"
+        },
+        {
+          "id": "q2",
+          "type": "sense",
+          "promptEn": "Hypocritically pious:",
+          "promptZh": "假虔誠：",
+          "choices": [
+            "sanctimonious",
+            "apprehensive",
+            "pacific",
+            "urbane"
+          ],
+          "answer": "sanctimonious"
+        },
+        {
+          "id": "q3",
+          "type": "sense",
+          "promptEn": "Approve or penalize officially:",
+          "promptZh": "批准／制裁：",
+          "choices": [
+            "sanction",
+            "comprise",
+            "dilate",
+            "vagabond"
+          ],
+          "answer": "sanction"
+        }
+      ],
+      "flow": [
+        {
+          "step": 1,
+          "name": "鉤子",
+          "minutes": 0.5,
+          "content": "字根 sacr/sanct＝聖——保全署把「不可碰」的東西貼封印，也抓假虔誠。"
+        },
+        {
+          "step": 2,
+          "name": "串記劇本",
+          "minutes": 2,
+          "content": "sacred／sacrosanct 貼上聖封。sanctuary／sanctify／saint 庇護所與封聖儀式。sacrifice／sacrificial 獻祭交換；sanction／sanctimonious／consecrate 制裁、假神聖、奉獻——署長：methods 可 sacred；ego 不可 sacrosanct。"
+        },
+        {
+          "step": 3,
+          "name": "詞卡 round",
+          "minutes": 7,
+          "content": "義錨 → 角色 → 跟讀英／中"
+        },
+        {
+          "step": 4,
+          "name": "快測",
+          "minutes": 2,
+          "content": "quiz ×3"
+        },
+        {
+          "step": 5,
+          "name": "口令帶走",
+          "minutes": 0.5,
+          "content": [
+            "sacr/sanct＝聖：sacred/sanctuary/sacrifice/sanction/sacrosanct",
+            "sanctimonious＝假虔誠"
+          ]
+        }
+      ],
+      "minutes": "12-15"
+    },
+    {
+      "id": "root-sal-01",
+      "slug": "root-sal-01",
+      "type": "root",
+      "typeZh": "字根劇場",
+      "typeEn": "Root",
+      "season": 2,
+      "priority": "B",
+      "status": "reviewed",
+      "titleZh": "sal／sult｜彈跳諮詢台",
+      "titleEn": "Sal Bounce Desk",
+      "hook": "字根 sal/sult＝跳——諮詢台專管跳出重點、跳去罵人、彈回來。",
+      "script": "salient 跳出刺點；sally 衝出去一輪。insult／assail／assault 跳過來攻擊。result／consult／consultant 跳回結果與顧問；resilient／desultory／exult 彈回、跳來跳去、歡躍——台長：salient findings 要報；desultory fishing 禁。",
+      "reviewHooks": [
+        "sal/sult＝跳：salient/insult/result/consult/resilient/desultory",
+        "desultory＝雜亂跳"
+      ],
+      "pitfalls": [
+        "salient＝顯著突出；silent＝沉默",
+        "desultory＝無計劃跳來跳去"
+      ],
+      "members": [
+        {
+          "headword": "salient",
+          "zhGloss": "顯著的；突出的",
+          "senseAnchor": "(military) the part of the line of battle that projects closest to the enemy; having a quality that thrusts itself into attention",
+          "roleInScript": "刺點跳出",
+          "humorDevice": "morphology",
+          "speakLineEn": "Report the salient threat to validity first.",
+          "speakLineZh": "先報告最突出的效度威脅。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "sally",
+          "zhGloss": "突襲；俏皮話",
+          "senseAnchor": "突襲；俏皮話",
+          "roleInScript": "衝出去",
+          "humorDevice": "morphology",
+          "speakLineEn": "One exploratory sally needs a clear label.",
+          "speakLineZh": "一次探索突襲需要清楚標籤。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "insult",
+          "zhGloss": "侮辱",
+          "senseAnchor": "侮辱",
+          "roleInScript": "跳過來罵",
+          "humorDevice": "morphology",
+          "speakLineEn": "Do not insult reviewers with hidden exclusions.",
+          "speakLineZh": "別用隱藏排除侮辱審稿人。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "assail",
+          "zhGloss": "抨擊；襲擊",
+          "senseAnchor": "抨擊；襲擊",
+          "roleInScript": "跳打",
+          "humorDevice": "morphology",
+          "speakLineEn": "Assail weak designs, not people.",
+          "speakLineZh": "抨擊虛弱設計，不是抨擊人。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "assault",
+          "zhGloss": "攻擊",
+          "senseAnchor": "攻擊",
+          "roleInScript": "猛攻",
+          "humorDevice": "morphology",
+          "speakLineEn": "An assault on p-hacking starts with templates.",
+          "speakLineZh": "打擊 p 值黑客從模板開始。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "result",
+          "zhGloss": "結果",
+          "senseAnchor": "結果",
+          "roleInScript": "跳回結果",
+          "humorDevice": "morphology",
+          "speakLineEn": "Lock the result definition before looking.",
+          "speakLineZh": "看之前先鎖定結果定義。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "consult",
+          "zhGloss": "諮詢",
+          "senseAnchor": "諮詢",
+          "roleInScript": "跳去問",
+          "humorDevice": "morphology",
+          "speakLineEn": "Consult a statistician before clever tricks.",
+          "speakLineZh": "耍聰明前先諮詢統計師。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "consultant",
+          "zhGloss": "顧問",
+          "senseAnchor": "顧問",
+          "roleInScript": "顧問鈴",
+          "humorDevice": "morphology",
+          "speakLineEn": "A consultant cannot replace your prereg.",
+          "speakLineZh": "顧問取代不了你的預註冊。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "resilient",
+          "zhGloss": "有韌性的",
+          "senseAnchor": "recovering readily from adversity, depression, or the like; elastic; rebounds readily",
+          "roleInScript": "彈回來",
+          "humorDevice": "story",
+          "speakLineEn": "Build resilient pipelines with tests.",
+          "speakLineZh": "用測試打造有韌性的管線。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "resilience",
+          "zhGloss": "韌性",
+          "senseAnchor": "the physical property of a material that can return to its original shape or position after deformation that does not exceed its elastic limit; an occurrence of rebounding or springing back",
+          "roleInScript": "彈力值",
+          "humorDevice": "story",
+          "speakLineEn": "Resilience includes recovering from nulls.",
+          "speakLineZh": "韌性包含從虛無中恢復。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "desultory",
+          "zhGloss": "雜亂無章的",
+          "senseAnchor": "lacking a definite plan, purpose, or pattern",
+          "roleInScript": "跳來跳去",
+          "humorDevice": "story",
+          "speakLineEn": "Desultory analyses look like fishing.",
+          "speakLineZh": "雜亂分析看起來像淘篩。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "exult",
+          "zhGloss": "歡躍",
+          "senseAnchor": "feel extreme happiness or elation; to express great joy",
+          "roleInScript": "跳著慶祝",
+          "humorDevice": "story",
+          "speakLineEn": "Exult after replication, not after one peek.",
+          "speakLineZh": "複現後再歡躍，不是偷看後。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        }
+      ],
+      "memberCount": 12,
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "sense",
+          "promptEn": "Most noticeable; jumping out:",
+          "promptZh": "顯著突出：",
+          "choices": [
+            "salient",
+            "sacred",
+            "solitary",
+            "craven"
+          ],
+          "answer": "salient"
+        },
+        {
+          "id": "q2",
+          "type": "sense",
+          "promptEn": "Jumping about without plan:",
+          "promptZh": "雜亂跳換：",
+          "choices": [
+            "desultory",
+            "proper",
+            "marine",
+            "intrepid"
+          ],
+          "answer": "desultory"
+        },
+        {
+          "id": "q3",
+          "type": "sense",
+          "promptEn": "Able to spring back:",
+          "promptZh": "有韌性：",
+          "choices": [
+            "resilient",
+            "reprehensible",
+            "scanty",
+            "vacant"
+          ],
+          "answer": "resilient"
+        }
+      ],
+      "flow": [
+        {
+          "step": 1,
+          "name": "鉤子",
+          "minutes": 0.5,
+          "content": "字根 sal/sult＝跳——諮詢台專管跳出重點、跳去罵人、彈回來。"
+        },
+        {
+          "step": 2,
+          "name": "串記劇本",
+          "minutes": 2,
+          "content": "salient 跳出刺點；sally 衝出去一輪。insult／assail／assault 跳過來攻擊。result／consult／consultant 跳回結果與顧問；resilient／desultory／exult 彈回、跳來跳去、歡躍——台長：salient findings 要報；desultory fishing 禁。"
+        },
+        {
+          "step": 3,
+          "name": "詞卡 round",
+          "minutes": 7,
+          "content": "義錨 → 角色 → 跟讀英／中"
+        },
+        {
+          "step": 4,
+          "name": "快測",
+          "minutes": 2,
+          "content": "quiz ×3"
+        },
+        {
+          "step": 5,
+          "name": "口令帶走",
+          "minutes": 0.5,
+          "content": [
+            "sal/sult＝跳：salient/insult/result/consult/resilient/desultory",
+            "desultory＝雜亂跳"
+          ]
+        }
+      ],
+      "minutes": "12-15"
+    },
+    {
       "id": "root-sat-01",
       "slug": "root-sat-01",
       "type": "root",
@@ -27879,6 +31130,240 @@
       "minutes": "12-15"
     },
     {
+      "id": "root-sol-01",
+      "slug": "root-sol-01",
+      "type": "root",
+      "typeZh": "字根劇場",
+      "typeEn": "Root",
+      "season": 2,
+      "priority": "B",
+      "status": "reviewed",
+      "titleZh": "sol｜獨奏日照廳",
+      "titleEn": "Sol Solo Sun Hall",
+      "hook": "字根 sol＝獨／日——日照廳既辦獨奏，也開日照；寂寞與陽光同一個票口。",
+      "script": "solo／soloist／solitary／sole 獨奏席。desolate／solace 荒涼與安慰劑。solar／parasol 日照與遮陽傘——廳長：sole primary endpoint；solitary genius 神話退場。",
+      "reviewHooks": [
+        "sol＝獨／日：solo/solitary/sole/desolate/solace/solar",
+        "desolate＝荒涼的"
+      ],
+      "pitfalls": [
+        "sole＝唯一的；soul＝靈魂",
+        "solace＝安慰"
+      ],
+      "members": [
+        {
+          "headword": "solo",
+          "zhGloss": "獨奏；單獨的",
+          "senseAnchor": "獨奏；單獨的",
+          "roleInScript": "獨奏席",
+          "humorDevice": "morphology",
+          "speakLineEn": "No solo decisions on outcome swaps.",
+          "speakLineZh": "結局替換禁止獨斷。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "soloist",
+          "zhGloss": "獨奏者",
+          "senseAnchor": "獨奏者",
+          "roleInScript": "獨奏明星",
+          "humorDevice": "morphology",
+          "speakLineEn": "Even a star soloist needs an orchestra of checks.",
+          "speakLineZh": "明星獨奏也需要檢查樂團。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "solitary",
+          "zhGloss": "孤獨的；單獨的",
+          "senseAnchor": "孤獨的；單獨的",
+          "roleInScript": "獨坐椅",
+          "humorDevice": "morphology",
+          "speakLineEn": "Solitary reanalyses invite silent bias.",
+          "speakLineZh": "孤獨再分析誘發沉默偏差。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "sole",
+          "zhGloss": "唯一的；鞋底",
+          "senseAnchor": "唯一的；鞋底",
+          "roleInScript": "唯一票",
+          "humorDevice": "morphology",
+          "speakLineEn": "Name the sole primary endpoint in ink.",
+          "speakLineZh": "用墨水寫明唯一主要終點。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "desolate",
+          "zhGloss": "荒涼的；淒涼的",
+          "senseAnchor": "leave someone who needs or counts on you; leave in the lurch; reduce in population",
+          "roleInScript": "荒涼場",
+          "humorDevice": "morphology",
+          "speakLineEn": "A desolate methods section fails readers.",
+          "speakLineZh": "荒涼的方法段對不起讀者。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "solace",
+          "zhGloss": "安慰",
+          "senseAnchor": "to give comfort to",
+          "roleInScript": "安慰茶",
+          "humorDevice": "morphology",
+          "speakLineEn": "Open data is solace after a null.",
+          "speakLineZh": "開放資料是虛無之後的安慰。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "solar",
+          "zhGloss": "太陽的",
+          "senseAnchor": "太陽的",
+          "roleInScript": "日照燈",
+          "humorDevice": "morphology",
+          "speakLineEn": "Solar-clear figures beat ornate darkness.",
+          "speakLineZh": "日照般清晰的圖勝過華麗黑暗。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "parasol",
+          "zhGloss": "陽傘",
+          "senseAnchor": "陽傘",
+          "roleInScript": "遮陽傘",
+          "humorDevice": "story",
+          "speakLineEn": "Use a parasol of sensitivity analyses.",
+          "speakLineZh": "撑起敏感度分析陽傘。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "alone",
+          "zhGloss": "單獨",
+          "senseAnchor": "單獨",
+          "roleInScript": "單獨鍵",
+          "humorDevice": "story",
+          "speakLineEn": "Do not decide alone after seeing results.",
+          "speakLineZh": "看到結果後不要單獨決定。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "lonely",
+          "zhGloss": "寂寞的",
+          "senseAnchor": "寂寞的",
+          "roleInScript": "寂寞燈",
+          "humorDevice": "story",
+          "speakLineEn": "Lonely variables still need definitions.",
+          "speakLineZh": "寂寞變數仍需定義。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "sunlit",
+          "zhGloss": "陽光照射的",
+          "senseAnchor": "陽光照射的",
+          "roleInScript": "光照面",
+          "humorDevice": "story",
+          "speakLineEn": "Keep assumptions sunlit in the paper.",
+          "speakLineZh": "讓假設在論文裡被陽光照射。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "spotlight",
+          "zhGloss": "聚光燈",
+          "senseAnchor": "聚光燈",
+          "roleInScript": "聚光燈",
+          "humorDevice": "story",
+          "speakLineEn": "Spotlight limitations as brightly as wins.",
+          "speakLineZh": "限制與勝利一樣用聚光燈。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        }
+      ],
+      "memberCount": 12,
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "sense",
+          "promptEn": "Only; single and exclusive:",
+          "promptZh": "唯一的：",
+          "choices": [
+            "sole",
+            "solar",
+            "salient",
+            "suave"
+          ],
+          "answer": "sole"
+        },
+        {
+          "id": "q2",
+          "type": "sense",
+          "promptEn": "Bleak and empty; forsaken:",
+          "promptZh": "荒涼淒涼：",
+          "choices": [
+            "desolate",
+            "desultory",
+            "pacific",
+            "elated"
+          ],
+          "answer": "desolate"
+        },
+        {
+          "id": "q3",
+          "type": "sense",
+          "promptEn": "Comfort in sorrow:",
+          "promptZh": "安慰：",
+          "choices": [
+            "solace",
+            "assault",
+            "invasion",
+            "paucity"
+          ],
+          "answer": "solace"
+        }
+      ],
+      "flow": [
+        {
+          "step": 1,
+          "name": "鉤子",
+          "minutes": 0.5,
+          "content": "字根 sol＝獨／日——日照廳既辦獨奏，也開日照；寂寞與陽光同一個票口。"
+        },
+        {
+          "step": 2,
+          "name": "串記劇本",
+          "minutes": 2,
+          "content": "solo／soloist／solitary／sole 獨奏席。desolate／solace 荒涼與安慰劑。solar／parasol 日照與遮陽傘——廳長：sole primary endpoint；solitary genius 神話退場。"
+        },
+        {
+          "step": 3,
+          "name": "詞卡 round",
+          "minutes": 7,
+          "content": "義錨 → 角色 → 跟讀英／中"
+        },
+        {
+          "step": 4,
+          "name": "快測",
+          "minutes": 2,
+          "content": "quiz ×3"
+        },
+        {
+          "step": 5,
+          "name": "口令帶走",
+          "minutes": 0.5,
+          "content": [
+            "sol＝獨／日：solo/solitary/sole/desolate/solace/solar",
+            "desolate＝荒涼的"
+          ]
+        }
+      ],
+      "minutes": "12-15"
+    },
+    {
       "id": "root-solv-01",
       "slug": "root-solv-01",
       "type": "root",
@@ -29522,6 +33007,218 @@
           "content": [
             "struct＝建：construct/instruct/obstruct/structure/infrastructure",
             "obstruct＝擋；reconstruct＝重建"
+          ]
+        }
+      ],
+      "minutes": "12-15"
+    },
+    {
+      "id": "root-suad-01",
+      "slug": "root-suad-01",
+      "type": "root",
+      "typeZh": "字根劇場",
+      "typeEn": "Root",
+      "season": 2,
+      "priority": "B",
+      "status": "reviewed",
+      "titleZh": "suad｜勸說廣播站",
+      "titleEn": "Suad Persuasion Radio",
+      "hook": "字根 suad＝勸——廣播站用甜嗓勸你，也用冷靜嗓勸你別衝動。",
+      "script": "persuade／persuasion／persuasive 主頻道勸進。suave 滑順主持腔。assuage 安撫聽眾情緒；convince／coax／cajole／wheedle 說服家族客串——台長：persuasive writing 可以；cajole reviewers 用資料，不是奉承。",
+      "reviewHooks": [
+        "suad＝勸：persuade/persuasion/persuasive/suave/assuage",
+        "assuage＝緩和"
+      ],
+      "pitfalls": [
+        "persuade＝說服；assuage＝減輕（情緒／疼痛）",
+        "suave＝圓滑文雅"
+      ],
+      "members": [
+        {
+          "headword": "persuade",
+          "zhGloss": "說服",
+          "senseAnchor": "說服",
+          "roleInScript": "主頻道勸",
+          "humorDevice": "morphology",
+          "speakLineEn": "Persuade with pre-specified analyses.",
+          "speakLineZh": "用預先指定分析來說服。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "persuasion",
+          "zhGloss": "說服；信念",
+          "senseAnchor": "說服；信念",
+          "roleInScript": "勸說節目",
+          "humorDevice": "morphology",
+          "speakLineEn": "Change of persuasion needs new evidence.",
+          "speakLineZh": "改變信念需要新證據。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "persuasive",
+          "zhGloss": "有說服力的",
+          "senseAnchor": "有說服力的",
+          "roleInScript": "勸功力",
+          "humorDevice": "morphology",
+          "speakLineEn": "A persuasive figure still needs uncertainty.",
+          "speakLineZh": "有說服力的圖仍需不確定性。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "suave",
+          "zhGloss": "圓滑文雅的",
+          "senseAnchor": "圓滑文雅的",
+          "roleInScript": "滑順腔",
+          "humorDevice": "morphology",
+          "speakLineEn": "Suave talks cannot hide messy code.",
+          "speakLineZh": "圓滑演講藏不住混亂程式碼。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "assuage",
+          "zhGloss": "緩和；安撫",
+          "senseAnchor": "cause to be more favorably inclined; gain the good will of; satisfy (thirst)",
+          "roleInScript": "安撫鍵",
+          "humorDevice": "morphology",
+          "speakLineEn": "Assuage anxiety with open logs, not spin.",
+          "speakLineZh": "用開放日誌安撫焦慮，不是話術。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "coax",
+          "zhGloss": "好言勸誘",
+          "senseAnchor": "好言勸誘",
+          "roleInScript": "溫柔推",
+          "humorDevice": "story",
+          "speakLineEn": "Coax collaborators toward checklists kindly.",
+          "speakLineZh": "溫柔勸誘合作者使用清單。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "cajole",
+          "zhGloss": "哄騙；甜言",
+          "senseAnchor": "to persuade with flattery or gentle urging",
+          "roleInScript": "甜言攻勢",
+          "humorDevice": "story",
+          "speakLineEn": "Do not cajole ethics boards with half-truths.",
+          "speakLineZh": "別用半真半假哄倫理委員會。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "wheedle",
+          "zhGloss": "用甜言誘騙",
+          "senseAnchor": "influence or urge by gentle urging, caressing, or flattering",
+          "roleInScript": "撒嬌騙",
+          "humorDevice": "story",
+          "speakLineEn": "Wheedle-free grants still need rigor.",
+          "speakLineZh": "不靠撒嬌的補助仍需嚴謹。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "pitch",
+          "zhGloss": "推銷說詞",
+          "senseAnchor": "推銷說詞",
+          "roleInScript": "推銷稿",
+          "humorDevice": "story",
+          "speakLineEn": "Keep the pitch shorter than the methods.",
+          "speakLineZh": "推銷稿要比方法段短。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "softsoap",
+          "zhGloss": "灌迷湯",
+          "senseAnchor": "灌迷湯",
+          "roleInScript": "迷湯桶",
+          "humorDevice": "story",
+          "speakLineEn": "Softsoap cannot repair a broken protocol.",
+          "speakLineZh": "灌迷湯修不好破掉的規程。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        }
+      ],
+      "memberCount": 10,
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "sense",
+          "promptEn": "Win someone over by argument:",
+          "promptZh": "說服：",
+          "choices": [
+            "persuade",
+            "invade",
+            "enumerate",
+            "sacrifice"
+          ],
+          "answer": "persuade"
+        },
+        {
+          "id": "q2",
+          "type": "sense",
+          "promptEn": "Make less severe; soothe:",
+          "promptZh": "緩和安撫：",
+          "choices": [
+            "assuage",
+            "assail",
+            "exult",
+            "abdicate"
+          ],
+          "answer": "assuage"
+        },
+        {
+          "id": "q3",
+          "type": "sense",
+          "promptEn": "Smoothly charming in manner:",
+          "promptZh": "圓滑文雅：",
+          "choices": [
+            "suave",
+            "salient",
+            "desolate",
+            "craven"
+          ],
+          "answer": "suave"
+        }
+      ],
+      "flow": [
+        {
+          "step": 1,
+          "name": "鉤子",
+          "minutes": 0.5,
+          "content": "字根 suad＝勸——廣播站用甜嗓勸你，也用冷靜嗓勸你別衝動。"
+        },
+        {
+          "step": 2,
+          "name": "串記劇本",
+          "minutes": 2,
+          "content": "persuade／persuasion／persuasive 主頻道勸進。suave 滑順主持腔。assuage 安撫聽眾情緒；convince／coax／cajole／wheedle 說服家族客串——台長：persuasive writing 可以；cajole reviewers 用資料，不是奉承。"
+        },
+        {
+          "step": 3,
+          "name": "詞卡 round",
+          "minutes": 7,
+          "content": "義錨 → 角色 → 跟讀英／中"
+        },
+        {
+          "step": 4,
+          "name": "快測",
+          "minutes": 2,
+          "content": "quiz ×3"
+        },
+        {
+          "step": 5,
+          "name": "口令帶走",
+          "minutes": 0.5,
+          "content": [
+            "suad＝勸：persuade/persuasion/persuasive/suave/assuage",
+            "assuage＝緩和"
           ]
         }
       ],
@@ -33130,6 +36827,240 @@
       "minutes": "12-15"
     },
     {
+      "id": "root-urb-01",
+      "slug": "root-urb-01",
+      "type": "root",
+      "typeZh": "字根劇場",
+      "typeEn": "Root",
+      "season": 2,
+      "priority": "C",
+      "status": "reviewed",
+      "titleZh": "urb｜城市風度局",
+      "titleEn": "Urb City Manners Bureau",
+      "hook": "字根 urb＝城——風度局管都市、郊區，還有「urbane」那種都會禮貌。",
+      "script": "urban／suburb／suburban／exurb／interurban 城市圈規劃。urbane／urbanity 都會風度課——局長：urbane rebuttals 可以；suburban folklore 不能當方法。",
+      "reviewHooks": [
+        "urb＝城：urban/suburb/urbane/urbanity/suburban",
+        "urbane＝溫文都會的"
+      ],
+      "pitfalls": [
+        "urbane＝溫文爾雅；urban＝都市的",
+        "suburb＝郊區"
+      ],
+      "members": [
+        {
+          "headword": "urban",
+          "zhGloss": "都市的",
+          "senseAnchor": "都市的",
+          "roleInScript": "都市圈",
+          "humorDevice": "morphology",
+          "speakLineEn": "Urban multi-site studies need site effects.",
+          "speakLineZh": "都市多站研究需要站點效應。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "suburb",
+          "zhGloss": "郊區",
+          "senseAnchor": "郊區",
+          "roleInScript": "郊區站",
+          "humorDevice": "morphology",
+          "speakLineEn": "Do not hide exclusions in a suburb of the appendix.",
+          "speakLineZh": "別把排除藏在附錄郊區。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "suburban",
+          "zhGloss": "郊區的",
+          "senseAnchor": "郊區的",
+          "roleInScript": "郊區風",
+          "humorDevice": "morphology",
+          "speakLineEn": "Suburban convenience samples limit transport.",
+          "speakLineZh": "郊區方便樣本限制外推。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "urbane",
+          "zhGloss": "溫文都會的",
+          "senseAnchor": "showing a high degree of refinement and the assurance that comes from wide social experience",
+          "roleInScript": "風度課",
+          "humorDevice": "morphology",
+          "speakLineEn": "Urbane critique still names the error.",
+          "speakLineZh": "溫文批評仍要點名錯誤。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "urbanity",
+          "zhGloss": "都雅；禮數",
+          "senseAnchor": "都雅；禮數",
+          "roleInScript": "禮數手冊",
+          "humorDevice": "morphology",
+          "speakLineEn": "Urbanity without honesty is empty polish.",
+          "speakLineZh": "沒有誠實的都雅是空拋光。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "exurb",
+          "zhGloss": "遠郊",
+          "senseAnchor": "遠郊",
+          "roleInScript": "遠郊帶",
+          "humorDevice": "story",
+          "speakLineEn": "Exurb collaborators need shared time zones rules.",
+          "speakLineZh": "遠郊合作者需要共享時區規則。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "interurban",
+          "zhGloss": "城際的",
+          "senseAnchor": "城際的",
+          "roleInScript": "城際線",
+          "humorDevice": "story",
+          "speakLineEn": "Interurban replication networks share protocols.",
+          "speakLineZh": "城際複現網絡共享規程。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "civic",
+          "zhGloss": "市民的",
+          "senseAnchor": "市民的",
+          "roleInScript": "市民約",
+          "humorDevice": "story",
+          "speakLineEn": "Civic duty: correct the public record.",
+          "speakLineZh": "市民義務：更正公開紀錄。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "metropolitan",
+          "zhGloss": "大都市的",
+          "senseAnchor": "大都市的",
+          "roleInScript": "大都會",
+          "humorDevice": "story",
+          "speakLineEn": "Metropolitan claims need metropolitan evidence.",
+          "speakLineZh": "大都會主張需要大都會證據。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "downtown",
+          "zhGloss": "市中心",
+          "senseAnchor": "市中心",
+          "roleInScript": "市中心檔",
+          "humorDevice": "story",
+          "speakLineEn": "Keep primary results downtown, not in footnotes.",
+          "speakLineZh": "主要結果放市中心，不放腳註。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "skyline",
+          "zhGloss": "天際線",
+          "senseAnchor": "天際線",
+          "roleInScript": "天際線",
+          "humorDevice": "story",
+          "speakLineEn": "Your skyline of figures should show uncertainty.",
+          "speakLineZh": "圖表天際線應顯示不確定性。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "boulevard",
+          "zhGloss": "大道",
+          "senseAnchor": "大道",
+          "roleInScript": "林蔭道",
+          "humorDevice": "story",
+          "speakLineEn": "Make the analysis boulevard one-way and signed.",
+          "speakLineZh": "讓分析大道單向且有路標。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        }
+      ],
+      "memberCount": 12,
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "sense",
+          "promptEn": "Refined and polite in a city way:",
+          "promptZh": "溫文都會：",
+          "choices": [
+            "urbane",
+            "urban",
+            "craven",
+            "scanty"
+          ],
+          "answer": "urbane"
+        },
+        {
+          "id": "q2",
+          "type": "sense",
+          "promptEn": "Residential area outside a city:",
+          "promptZh": "郊區：",
+          "choices": [
+            "suburb",
+            "matrix",
+            "sanction",
+            "prize"
+          ],
+          "answer": "suburb"
+        },
+        {
+          "id": "q3",
+          "type": "sense",
+          "promptEn": "Polished manners; city polish:",
+          "promptZh": "都雅禮數：",
+          "choices": [
+            "urbanity",
+            "paucity",
+            "invasion",
+            "nausea"
+          ],
+          "answer": "urbanity"
+        }
+      ],
+      "flow": [
+        {
+          "step": 1,
+          "name": "鉤子",
+          "minutes": 0.5,
+          "content": "字根 urb＝城——風度局管都市、郊區，還有「urbane」那種都會禮貌。"
+        },
+        {
+          "step": 2,
+          "name": "串記劇本",
+          "minutes": 2,
+          "content": "urban／suburb／suburban／exurb／interurban 城市圈規劃。urbane／urbanity 都會風度課——局長：urbane rebuttals 可以；suburban folklore 不能當方法。"
+        },
+        {
+          "step": 3,
+          "name": "詞卡 round",
+          "minutes": 7,
+          "content": "義錨 → 角色 → 跟讀英／中"
+        },
+        {
+          "step": 4,
+          "name": "快測",
+          "minutes": 2,
+          "content": "quiz ×3"
+        },
+        {
+          "step": 5,
+          "name": "口令帶走",
+          "minutes": 0.5,
+          "content": [
+            "urb＝城：urban/suburb/urbane/urbanity/suburban",
+            "urbane＝溫文都會的"
+          ]
+        }
+      ],
+      "minutes": "12-15"
+    },
+    {
       "id": "root-vac-01",
       "slug": "root-vac-01",
       "type": "root",
@@ -33358,6 +37289,452 @@
           "content": [
             "vac＝空：vacant/vacuum/evacuate/vacation/vacuous",
             "vacuous＝空洞的"
+          ]
+        }
+      ],
+      "minutes": "12-15"
+    },
+    {
+      "id": "root-vad-01",
+      "slug": "root-vad-01",
+      "type": "root",
+      "typeZh": "字根劇場",
+      "typeEn": "Root",
+      "season": 2,
+      "priority": "B",
+      "status": "reviewed",
+      "titleZh": "vad／vas｜入侵迴避道",
+      "titleEn": "Vad Invasion Lane",
+      "hook": "字根 vad/vas＝走——這條道要嘛衝進去，要嘛滑走開，瀰漫全場。",
+      "script": "invade／invasion／invasive 衝進領地。evade／evasion／evasive 滑走閃答。pervade／pervasive 走遍每個角落；wade 涉水前進——道長：pervasive bias 要清；evasive answers 不及格。",
+      "reviewHooks": [
+        "vad＝走：invade/evade/pervade/invasive/evasive/pervasive",
+        "pervasive＝瀰漫的"
+      ],
+      "pitfalls": [
+        "evade＝逃避；invade＝入侵",
+        "pervasive＝遍布；persuasive＝有說服力"
+      ],
+      "members": [
+        {
+          "headword": "invade",
+          "zhGloss": "入侵",
+          "senseAnchor": "入侵",
+          "roleInScript": "衝進去",
+          "humorDevice": "morphology",
+          "speakLineEn": "Do not invade privacy for a convenience win.",
+          "speakLineZh": "別為方便入侵隱私。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "invasion",
+          "zhGloss": "入侵",
+          "senseAnchor": "入侵",
+          "roleInScript": "入侵警報",
+          "humorDevice": "morphology",
+          "speakLineEn": "An invasion of researcher degrees of freedom.",
+          "speakLineZh": "研究者自由度入侵警報。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "invasive",
+          "zhGloss": "侵入性的",
+          "senseAnchor": "侵入性的",
+          "roleInScript": "侵入標籤",
+          "humorDevice": "morphology",
+          "speakLineEn": "Prefer less invasive measures when possible.",
+          "speakLineZh": "可能時優先較少侵入的量測。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "evade",
+          "zhGloss": "逃避；規避",
+          "senseAnchor": "逃避；規避",
+          "roleInScript": "滑走開",
+          "humorDevice": "morphology",
+          "speakLineEn": "Do not evade preregistration with vibes.",
+          "speakLineZh": "別用感覺規避預註冊。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "evasion",
+          "zhGloss": "逃避",
+          "senseAnchor": "a statement that is not literally false but that cleverly avoids an unpleasant truth; the deliberate act of failing to pay money",
+          "roleInScript": "閃躲術",
+          "humorDevice": "morphology",
+          "speakLineEn": "Evasion in the limitations section is obvious.",
+          "speakLineZh": "限制段的閃躲很明顯。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "evasive",
+          "zhGloss": "閃爍其詞的",
+          "senseAnchor": "閃爍其詞的",
+          "roleInScript": "閃答模式",
+          "humorDevice": "morphology",
+          "speakLineEn": "Evasive replies trigger deeper review.",
+          "speakLineZh": "閃爍回覆會觸發更深審查。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "pervade",
+          "zhGloss": "瀰漫；遍布",
+          "senseAnchor": "瀰漫；遍布",
+          "roleInScript": "走遍全場",
+          "humorDevice": "morphology",
+          "speakLineEn": "Doubt should pervade extraordinary claims.",
+          "speakLineZh": "非凡主張該被懷疑瀰漫。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "pervasive",
+          "zhGloss": "遍布的",
+          "senseAnchor": "遍布的",
+          "roleInScript": "全場霧",
+          "humorDevice": "morphology",
+          "speakLineEn": "Pervasive missingness needs a plan.",
+          "speakLineZh": "遍布缺失需要計畫。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "wade",
+          "zhGloss": "涉水；吃力前進",
+          "senseAnchor": "涉水；吃力前進",
+          "roleInScript": "涉水走",
+          "humorDevice": "story",
+          "speakLineEn": "Wade through edge cases before launch.",
+          "speakLineZh": "上線前涉過邊界案例。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "trespass",
+          "zhGloss": "擅自進入",
+          "senseAnchor": "擅自進入",
+          "roleInScript": "越界牌",
+          "humorDevice": "story",
+          "speakLineEn": "Trespass into outcomes only with a plan.",
+          "speakLineZh": "只在有計畫時進入結局。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        }
+      ],
+      "memberCount": 10,
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "sense",
+          "promptEn": "Spread throughout:",
+          "promptZh": "遍布瀰漫：",
+          "choices": [
+            "pervasive",
+            "salient",
+            "proper",
+            "solo"
+          ],
+          "answer": "pervasive"
+        },
+        {
+          "id": "q2",
+          "type": "sense",
+          "promptEn": "Avoid answering directly:",
+          "promptZh": "閃爍規避：",
+          "choices": [
+            "evasive",
+            "elated",
+            "sacred",
+            "naval"
+          ],
+          "answer": "evasive"
+        },
+        {
+          "id": "q3",
+          "type": "sense",
+          "promptEn": "Enter by force; encroach:",
+          "promptZh": "入侵：",
+          "choices": [
+            "invade",
+            "persuade",
+            "collate",
+            "pacify"
+          ],
+          "answer": "invade"
+        }
+      ],
+      "flow": [
+        {
+          "step": 1,
+          "name": "鉤子",
+          "minutes": 0.5,
+          "content": "字根 vad/vas＝走——這條道要嘛衝進去，要嘛滑走開，瀰漫全場。"
+        },
+        {
+          "step": 2,
+          "name": "串記劇本",
+          "minutes": 2,
+          "content": "invade／invasion／invasive 衝進領地。evade／evasion／evasive 滑走閃答。pervade／pervasive 走遍每個角落；wade 涉水前進——道長：pervasive bias 要清；evasive answers 不及格。"
+        },
+        {
+          "step": 3,
+          "name": "詞卡 round",
+          "minutes": 7,
+          "content": "義錨 → 角色 → 跟讀英／中"
+        },
+        {
+          "step": 4,
+          "name": "快測",
+          "minutes": 2,
+          "content": "quiz ×3"
+        },
+        {
+          "step": 5,
+          "name": "口令帶走",
+          "minutes": 0.5,
+          "content": [
+            "vad＝走：invade/evade/pervade/invasive/evasive/pervasive",
+            "pervasive＝瀰漫的"
+          ]
+        }
+      ],
+      "minutes": "12-15"
+    },
+    {
+      "id": "root-vag-01",
+      "slug": "root-vag-01",
+      "type": "root",
+      "typeZh": "字根劇場",
+      "typeEn": "Root",
+      "season": 2,
+      "priority": "C",
+      "status": "reviewed",
+      "titleZh": "vag｜遊蕩迷路站",
+      "titleEn": "Vag Wander Station",
+      "hook": "字根 vag＝遊——迷路站收留遊民、揮霍旅人，也抓「話太散」的分析。",
+      "script": "vagrant／vagrancy／vagabond 遊民接待。extravagant／extravagance 揮霍旅費。divagate 離題散步；roam／ramble／meander 閒晃客串——站長：extravagant claims 要收據；divagate 可以，但要標探索。",
+      "reviewHooks": [
+        "vag＝遊：vagrant/vagabond/extravagant/extravagance/divagate",
+        "extravagant＝過度揮霍"
+      ],
+      "pitfalls": [
+        "extravagant＝過度的；extra＝額外的",
+        "vagabond＝流浪漢"
+      ],
+      "members": [
+        {
+          "headword": "vagrant",
+          "zhGloss": "流浪的；遊民",
+          "senseAnchor": "流浪的；遊民",
+          "roleInScript": "遊民牌",
+          "humorDevice": "morphology",
+          "speakLineEn": "Vagrant hypotheses need a shelter: prereg.",
+          "speakLineZh": "流浪假說需要庇護所：預註冊。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "vagrancy",
+          "zhGloss": "遊蕩；流浪罪",
+          "senseAnchor": "遊蕩；流浪罪",
+          "roleInScript": "遊蕩罪",
+          "humorDevice": "morphology",
+          "speakLineEn": "Statistical vagrancy is unplanned wandering.",
+          "speakLineZh": "統計遊蕩就是無計畫閒晃。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "vagabond",
+          "zhGloss": "流浪漢",
+          "senseAnchor": "流浪漢",
+          "roleInScript": "背包客",
+          "humorDevice": "morphology",
+          "speakLineEn": "A methods vagabond still carries a notebook.",
+          "speakLineZh": "方法流浪漢仍要帶筆記本。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "extravagant",
+          "zhGloss": "過度的；揮霍的",
+          "senseAnchor": "過度的；揮霍的",
+          "roleInScript": "揮霍旅費",
+          "humorDevice": "morphology",
+          "speakLineEn": "Extravagant claims need extravagant evidence.",
+          "speakLineZh": "過度主張需要過度證據。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "extravagance",
+          "zhGloss": "奢侈；過度",
+          "senseAnchor": "the quality of exceeding the appropriate limits of decorum or probability or truth; the trait of spending extravagantly",
+          "roleInScript": "奢侈帳單",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cut extravagance in secondary endpoints.",
+          "speakLineZh": "削減次要終點的奢侈。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "divagate",
+          "zhGloss": "離題；遊走",
+          "senseAnchor": "lose clarity or turn aside especially from the main subject of attention or course of argument in writing, thinking, or speaking",
+          "roleInScript": "離題散步",
+          "humorDevice": "morphology",
+          "speakLineEn": "Label when you divagate into exploration.",
+          "speakLineZh": "離題探索時請標註。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "roam",
+          "zhGloss": "漫遊",
+          "senseAnchor": "move about aimlessly or without any destination, often in search of food or employment",
+          "roleInScript": "漫遊鍵",
+          "humorDevice": "story",
+          "speakLineEn": "Roam the literature, then lock the question.",
+          "speakLineZh": "先漫遊文獻，再鎖定問題。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "ramble",
+          "zhGloss": "漫談；漫步",
+          "senseAnchor": "an aimless amble on a winding course; continue talking or writing in a desultory manner",
+          "roleInScript": "漫談稿",
+          "humorDevice": "story",
+          "speakLineEn": "Do not ramble past the estimand.",
+          "speakLineZh": "別漫談到目標量之外。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "meander",
+          "zhGloss": "蜿蜒；漫步",
+          "senseAnchor": "to move aimlessly without fixed direction",
+          "roleInScript": "蜿蜒河",
+          "humorDevice": "story",
+          "speakLineEn": "Meander in brainstorming, not in the final code.",
+          "speakLineZh": "腦力激盪可蜿蜒，最終程式不行。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "nomadic",
+          "zhGloss": "遊牧的",
+          "senseAnchor": "遊牧的",
+          "roleInScript": "遊牧帳",
+          "humorDevice": "story",
+          "speakLineEn": "Nomadic analysts sync to one repo nightly.",
+          "speakLineZh": "遊牧分析師每晚同步到同一 repo。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "drift",
+          "zhGloss": "漂移",
+          "senseAnchor": "漂移",
+          "roleInScript": "漂流標",
+          "humorDevice": "story",
+          "speakLineEn": "Watch for covariate drift across waves.",
+          "speakLineZh": "注意跨波次共變數漂移。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "wayward",
+          "zhGloss": "任性迷路的",
+          "senseAnchor": "following one’s own capricious inclinations",
+          "roleInScript": "任性路",
+          "humorDevice": "story",
+          "speakLineEn": "Wayward tweaks belong in a sandbox.",
+          "speakLineZh": "任性微調屬於沙盒。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        }
+      ],
+      "memberCount": 12,
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "sense",
+          "promptEn": "Excessive; spending beyond reason:",
+          "promptZh": "過度揮霍：",
+          "choices": [
+            "extravagant",
+            "pacific",
+            "salient",
+            "proper"
+          ],
+          "answer": "extravagant"
+        },
+        {
+          "id": "q2",
+          "type": "sense",
+          "promptEn": "Wander from the topic:",
+          "promptZh": "離題遊走：",
+          "choices": [
+            "divagate",
+            "navigate",
+            "pacify",
+            "collate"
+          ],
+          "answer": "divagate"
+        },
+        {
+          "id": "q3",
+          "type": "sense",
+          "promptEn": "Wandering homeless person:",
+          "promptZh": "流浪漢：",
+          "choices": [
+            "vagabond",
+            "patriarch",
+            "mariner",
+            "numerator"
+          ],
+          "answer": "vagabond"
+        }
+      ],
+      "flow": [
+        {
+          "step": 1,
+          "name": "鉤子",
+          "minutes": 0.5,
+          "content": "字根 vag＝遊——迷路站收留遊民、揮霍旅人，也抓「話太散」的分析。"
+        },
+        {
+          "step": 2,
+          "name": "串記劇本",
+          "minutes": 2,
+          "content": "vagrant／vagrancy／vagabond 遊民接待。extravagant／extravagance 揮霍旅費。divagate 離題散步；roam／ramble／meander 閒晃客串——站長：extravagant claims 要收據；divagate 可以，但要標探索。"
+        },
+        {
+          "step": 3,
+          "name": "詞卡 round",
+          "minutes": 7,
+          "content": "義錨 → 角色 → 跟讀英／中"
+        },
+        {
+          "step": 4,
+          "name": "快測",
+          "minutes": 2,
+          "content": "quiz ×3"
+        },
+        {
+          "step": 5,
+          "name": "口令帶走",
+          "minutes": 0.5,
+          "content": [
+            "vag＝遊：vagrant/vagabond/extravagant/extravagance/divagate",
+            "extravagant＝過度揮霍"
           ]
         }
       ],
@@ -36450,6 +40827,240 @@
       "minutes": "12-15"
     },
     {
+      "id": "sem-courage-01",
+      "slug": "sem-courage-01",
+      "type": "semantic",
+      "typeZh": "語氣對打",
+      "typeEn": "Semantic",
+      "season": 3,
+      "priority": "B",
+      "status": "reviewed",
+      "titleZh": "勇敢 ↔ 怯懦｜勇氣擂台",
+      "titleEn": "Courage vs Cowardice Arena",
+      "hook": "擂台左邊 intrepid／dauntless 往前衝；右邊 craven／timorous 往後縮——記住褒貶語氣。",
+      "script": "勇敢隊：intrepid／dauntless／valorous／plucky／audacious 衝去公開虛無。怯懦隊：craven／timorous／pusillanimous／trepidation／timid 害怕勘誤——裁判：audacious 可以是勇敢或魯莽，看語境。",
+      "reviewHooks": [
+        "勇敢：intrepid/dauntless/valorous/audacious",
+        "怯懦：craven/timorous/pusillanimous/trepidation"
+      ],
+      "pitfalls": [
+        "audacious＝大膽（可褒可貶）",
+        "pusillanimous＝卑怯的"
+      ],
+      "members": [
+        {
+          "headword": "intrepid",
+          "zhGloss": "無畏的",
+          "senseAnchor": "invulnerable to fear or intimidation",
+          "roleInScript": "無畏衝鋒",
+          "humorDevice": "contrast",
+          "speakLineEn": "Intrepid reporting includes ugly limitations.",
+          "speakLineZh": "無畏報告包含難看的限制。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "dauntless",
+          "zhGloss": "勇敢無懼的",
+          "senseAnchor": "勇敢無懼的",
+          "roleInScript": "不嚇退",
+          "humorDevice": "contrast",
+          "speakLineEn": "Stay dauntless when the primary fails.",
+          "speakLineZh": "主要終點失敗時保持無懼。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "valorous",
+          "zhGloss": "英勇的",
+          "senseAnchor": "having or showing valor",
+          "roleInScript": "英勇章",
+          "humorDevice": "contrast",
+          "speakLineEn": "Valorous science corrects itself in public.",
+          "speakLineZh": "英勇科學公開自我更正。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "plucky",
+          "zhGloss": "有勇氣的；倔強的",
+          "senseAnchor": "有勇氣的；倔強的",
+          "roleInScript": "小勇猛",
+          "humorDevice": "contrast",
+          "speakLineEn": "Plucky juniors should be rewarded for flags.",
+          "speakLineZh": "倔強資淺者舉旗應被獎勵。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "audacious",
+          "zhGloss": "大膽的；放肆的",
+          "senseAnchor": "fearless",
+          "roleInScript": "大膽跳",
+          "humorDevice": "contrast",
+          "speakLineEn": "Audacious claims need audacious evidence.",
+          "speakLineZh": "大膽主張需要大膽證據。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "craven",
+          "zhGloss": "懦弱的",
+          "senseAnchor": "an abject coward; lacking even the rudiments of courage; abjectly fearful; ; ; - Spenser",
+          "roleInScript": "縮回去",
+          "humorDevice": "contrast",
+          "speakLineEn": "Craven silence after an error is misconduct-adjacent.",
+          "speakLineZh": "錯誤後懦弱沉默近似不端。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "timorous",
+          "zhGloss": "膽怯的",
+          "senseAnchor": "lacking in courage or self-confidence",
+          "roleInScript": "發抖燈",
+          "humorDevice": "contrast",
+          "speakLineEn": "Timorous teams hide deviations.",
+          "speakLineZh": "膽怯團隊隱藏偏離。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "pusillanimous",
+          "zhGloss": "卑怯的",
+          "senseAnchor": "卑怯的",
+          "roleInScript": "卑怯章",
+          "humorDevice": "contrast",
+          "speakLineEn": "Pusillanimous leadership punishes messengers.",
+          "speakLineZh": "卑怯領導懲罰報信者。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "trepidation",
+          "zhGloss": "恐懼；惶恐",
+          "senseAnchor": "fear",
+          "roleInScript": "惶恐錶",
+          "humorDevice": "contrast",
+          "speakLineEn": "Trepidation before opening the envelope is healthy.",
+          "speakLineZh": "打開信封前的惶恐是健康的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "timid",
+          "zhGloss": "膽小的",
+          "senseAnchor": "people who are fearful and cautious; showing fear and lack of confidence",
+          "roleInScript": "膽小鍵",
+          "humorDevice": "story",
+          "speakLineEn": "Timid abstracts that hide uncertainty mislead.",
+          "speakLineZh": "隱藏不確定的膽小摘要會誤導。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "bold",
+          "zhGloss": "大膽的",
+          "senseAnchor": "大膽的",
+          "roleInScript": "粗體膽",
+          "humorDevice": "story",
+          "speakLineEn": "Be bold about sharing code.",
+          "speakLineZh": "分享程式碼要大膽。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "fearless",
+          "zhGloss": "無所畏懼的",
+          "senseAnchor": "無所畏懼的",
+          "roleInScript": "無畏貼",
+          "humorDevice": "story",
+          "speakLineEn": "Fearless transparency beats perfect vibes.",
+          "speakLineZh": "無畏透明勝過完美感覺。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        }
+      ],
+      "memberCount": 12,
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "sense",
+          "promptEn": "Fearless; bold:",
+          "promptZh": "無畏：",
+          "choices": [
+            "intrepid",
+            "craven",
+            "scanty",
+            "suave"
+          ],
+          "answer": "intrepid"
+        },
+        {
+          "id": "q2",
+          "type": "sense",
+          "promptEn": "Contemptibly cowardly:",
+          "promptZh": "卑怯懦弱：",
+          "choices": [
+            "craven",
+            "valorous",
+            "copious",
+            "salient"
+          ],
+          "answer": "craven"
+        },
+        {
+          "id": "q3",
+          "type": "sense",
+          "promptEn": "Fear; nervous dread:",
+          "promptZh": "惶恐恐懼：",
+          "choices": [
+            "trepidation",
+            "panacea",
+            "matrix",
+            "marina"
+          ],
+          "answer": "trepidation"
+        }
+      ],
+      "flow": [
+        {
+          "step": 1,
+          "name": "鉤子",
+          "minutes": 0.5,
+          "content": "擂台左邊 intrepid／dauntless 往前衝；右邊 craven／timorous 往後縮——記住褒貶語氣。"
+        },
+        {
+          "step": 2,
+          "name": "串記劇本",
+          "minutes": 2,
+          "content": "勇敢隊：intrepid／dauntless／valorous／plucky／audacious 衝去公開虛無。怯懦隊：craven／timorous／pusillanimous／trepidation／timid 害怕勘誤——裁判：audacious 可以是勇敢或魯莽，看語境。"
+        },
+        {
+          "step": 3,
+          "name": "詞卡 round",
+          "minutes": 7,
+          "content": "義錨 → 角色 → 跟讀英／中"
+        },
+        {
+          "step": 4,
+          "name": "快測",
+          "minutes": 2,
+          "content": "quiz ×3"
+        },
+        {
+          "step": 5,
+          "name": "口令帶走",
+          "minutes": 0.5,
+          "content": [
+            "勇敢：intrepid/dauntless/valorous/audacious",
+            "怯懦：craven/timorous/pusillanimous/trepidation"
+          ]
+        }
+      ],
+      "minutes": "12-15"
+    },
+    {
       "id": "sem-flattery-01",
       "slug": "sem-flattery-01",
       "type": "semantic",
@@ -37526,6 +42137,240 @@
           "content": [
             "僵：rigid/adamant/obdurate/intransigent",
             "柔：pliable/malleable/supple/yielding"
+          ]
+        }
+      ],
+      "minutes": "12-15"
+    },
+    {
+      "id": "sem-scarce-01",
+      "slug": "sem-scarce-01",
+      "type": "semantic",
+      "typeZh": "語氣對打",
+      "typeEn": "Semantic",
+      "season": 3,
+      "priority": "B",
+      "status": "reviewed",
+      "titleZh": "稀缺 ↔ 充裕｜倉庫對打",
+      "titleEn": "Scarce vs Abundant Warehouse Duel",
+      "hook": "一邊貨架空空（paucity/dearth），一邊貨堆到爆（plethora/copious）——倉管用對打記住語氣。",
+      "script": "稀缺隊：paucity／dearth／scarcity／scanty／meager 喊「不夠」。充裕隊：copious／plethora／myriad／abundance／surplus 喊「太多」。裁判：GRE 常考「看起來很多其實空」或「看起來少其實致命」。",
+      "reviewHooks": [
+        "稀缺：paucity/dearth/scanty/meager",
+        "充裕：copious/plethora/myriad/abundance"
+      ],
+      "pitfalls": [
+        "paucity＝缺乏；plethora＝過剩",
+        "meager＝貧瘠不足"
+      ],
+      "members": [
+        {
+          "headword": "paucity",
+          "zhGloss": "缺乏；少數",
+          "senseAnchor": "smallness of number",
+          "roleInScript": "空貨架",
+          "humorDevice": "contrast",
+          "speakLineEn": "A paucity of preregistered plans invites chaos.",
+          "speakLineZh": "預註冊計畫缺乏會引來混亂。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "dearth",
+          "zhGloss": "缺乏；飢饉",
+          "senseAnchor": "缺乏；飢饉",
+          "roleInScript": "缺貨鈴",
+          "humorDevice": "contrast",
+          "speakLineEn": "There is a dearth of shared negative results.",
+          "speakLineZh": "共享負結果極度缺乏。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "scarcity",
+          "zhGloss": "稀缺",
+          "senseAnchor": "稀缺",
+          "roleInScript": "稀缺標",
+          "humorDevice": "contrast",
+          "speakLineEn": "Scarcity of degrees of freedom is a feature.",
+          "speakLineZh": "自由度稀缺是一種特性。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "scanty",
+          "zhGloss": "不足的；吝嗇的",
+          "senseAnchor": "不足的；吝嗇的",
+          "roleInScript": "薄薄一層",
+          "humorDevice": "contrast",
+          "speakLineEn": "Scanty methods detail fails replication.",
+          "speakLineZh": "方法細節不足無法複現。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "meager",
+          "zhGloss": "貧瘠的；不足的",
+          "senseAnchor": "貧瘠的；不足的",
+          "roleInScript": "瘦弱份",
+          "humorDevice": "contrast",
+          "speakLineEn": "Meager samples need honest limits.",
+          "speakLineZh": "瘦弱樣本需要誠實界限。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "copious",
+          "zhGloss": "豐富的；大量的",
+          "senseAnchor": "large in quantity",
+          "roleInScript": "堆滿箱",
+          "humorDevice": "contrast",
+          "speakLineEn": "Copious notes beat heroic memory.",
+          "speakLineZh": "豐富筆記勝過英雄式記憶。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "plethora",
+          "zhGloss": "過剩；過多",
+          "senseAnchor": "excess",
+          "roleInScript": "爆倉堆",
+          "humorDevice": "contrast",
+          "speakLineEn": "A plethora of endpoints needs correction.",
+          "speakLineZh": "終點過剩需要校正。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "myriad",
+          "zhGloss": "無數；種種",
+          "senseAnchor": "a large indefinite number; the cardinal number that is the product of ten and one thousand",
+          "roleInScript": "萬千櫃",
+          "humorDevice": "contrast",
+          "speakLineEn": "Myriad tweaks without a plan look like fishing.",
+          "speakLineZh": "無數無計畫微調像淘篩。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "abundance",
+          "zhGloss": "充裕",
+          "senseAnchor": "充裕",
+          "roleInScript": "豐收牌",
+          "humorDevice": "contrast",
+          "speakLineEn": "Abundance of openness reduces rumor.",
+          "speakLineZh": "開放充裕減少謠言。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "surplus",
+          "zhGloss": "剩餘；過剩",
+          "senseAnchor": "a quantity much larger than is needed; more than is needed, desired, or required",
+          "roleInScript": "剩餘倉",
+          "humorDevice": "story",
+          "speakLineEn": "Surplus analyses belong in supplements.",
+          "speakLineZh": "剩餘分析屬於補充材料。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "sparse",
+          "zhGloss": "稀疏的",
+          "senseAnchor": "稀疏的",
+          "roleInScript": "稀疏架",
+          "humorDevice": "story",
+          "speakLineEn": "Sparse data still deserves a full codebook.",
+          "speakLineZh": "稀疏資料仍值得完整編碼簿。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        },
+        {
+          "headword": "overflow",
+          "zhGloss": "溢出",
+          "senseAnchor": "溢出",
+          "roleInScript": "溢出桶",
+          "humorDevice": "story",
+          "speakLineEn": "Overflow of claims needs a priority list.",
+          "speakLineZh": "主張溢出需要優先清單。",
+          "inVocab": false,
+          "vocabStatus": "pending-add"
+        }
+      ],
+      "memberCount": 12,
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "sense",
+          "promptEn": "Shortage; scarcity of supply:",
+          "promptZh": "缺乏：",
+          "choices": [
+            "paucity",
+            "plethora",
+            "panacea",
+            "paragon"
+          ],
+          "answer": "paucity"
+        },
+        {
+          "id": "q2",
+          "type": "sense",
+          "promptEn": "Excess; overabundance:",
+          "promptZh": "過剩：",
+          "choices": [
+            "plethora",
+            "dearth",
+            "scanty",
+            "meager"
+          ],
+          "answer": "plethora"
+        },
+        {
+          "id": "q3",
+          "type": "sense",
+          "promptEn": "Plentiful; abundant in quantity:",
+          "promptZh": "豐富大量：",
+          "choices": [
+            "copious",
+            "craven",
+            "desolate",
+            "lateral"
+          ],
+          "answer": "copious"
+        }
+      ],
+      "flow": [
+        {
+          "step": 1,
+          "name": "鉤子",
+          "minutes": 0.5,
+          "content": "一邊貨架空空（paucity/dearth），一邊貨堆到爆（plethora/copious）——倉管用對打記住語氣。"
+        },
+        {
+          "step": 2,
+          "name": "串記劇本",
+          "minutes": 2,
+          "content": "稀缺隊：paucity／dearth／scarcity／scanty／meager 喊「不夠」。充裕隊：copious／plethora／myriad／abundance／surplus 喊「太多」。裁判：GRE 常考「看起來很多其實空」或「看起來少其實致命」。"
+        },
+        {
+          "step": 3,
+          "name": "詞卡 round",
+          "minutes": 7,
+          "content": "義錨 → 角色 → 跟讀英／中"
+        },
+        {
+          "step": 4,
+          "name": "快測",
+          "minutes": 2,
+          "content": "quiz ×3"
+        },
+        {
+          "step": 5,
+          "name": "口令帶走",
+          "minutes": 0.5,
+          "content": [
+            "稀缺：paucity/dearth/scanty/meager",
+            "充裕：copious/plethora/myriad/abundance"
           ]
         }
       ],

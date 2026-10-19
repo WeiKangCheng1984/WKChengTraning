@@ -1,0 +1,208 @@
+{
+  "id": "root-propri-01",
+  "type": "root",
+  "elementLemma": "propri",
+  "titleZh": "propri｜產權禮儀社",
+  "titleEn": "Propri Etiquette Club",
+  "hook": "字根 propri＝適當／己有——禮儀社專管「這是誰的」與「這樣得體嗎」。",
+  "script": "proper／improper／propriety 得體門禁。property／proprietary／proprietor 產權與老闆章。appropriate／appropriation／expropriate 撥用、挪用、徵收——社長：appropriate methods；improper peeking 趕出門。",
+  "members": [
+    {
+      "headword": "proper",
+      "inVocab": false,
+      "senseAnchor": "適當的；真正的",
+      "roleInScript": "得體證",
+      "humorDevice": "morphology",
+      "zhGloss": "適當的；真正的",
+      "speakLineEn": "Use the proper unit of analysis.",
+      "speakLineZh": "使用適當的分析單位。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "improper",
+      "inVocab": false,
+      "senseAnchor": "不適當的",
+      "roleInScript": "失禮鈴",
+      "humorDevice": "morphology",
+      "zhGloss": "不適當的",
+      "speakLineEn": "Improper unblinding voids the trial spirit.",
+      "speakLineZh": "不當破盲摧毀試驗精神。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "propriety",
+      "inVocab": false,
+      "senseAnchor": "得體；禮儀",
+      "roleInScript": "禮儀手冊",
+      "humorDevice": "morphology",
+      "zhGloss": "得體；禮儀",
+      "speakLineEn": "Scientific propriety includes sharing negatives.",
+      "speakLineZh": "科學得體包含分享負結果。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "property",
+      "inVocab": false,
+      "senseAnchor": "財產；性質",
+      "roleInScript": "產權牌",
+      "humorDevice": "morphology",
+      "zhGloss": "財產；性質",
+      "speakLineEn": "State which property of the estimator you care about.",
+      "speakLineZh": "說清你在意估計式的哪種性質。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "proprietary",
+      "inVocab": true,
+      "senseAnchor": "an unincorporated business owned by a single person who is responsible for its liabilities and entitled to its profits; protected by trademark or patent or copyright; made or produced or distributed by one having exclusive rights",
+      "roleInScript": "專有鎖",
+      "humorDevice": "morphology",
+      "zhGloss": "專有的",
+      "speakLineEn": "Prefer open tools over proprietary black boxes.",
+      "speakLineZh": "寧可開放工具，不要專有黑箱。",
+      "related": {
+        "synonyms": "proprietorship",
+        "antonyms": "nonproprietary"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "proprietor",
+      "inVocab": false,
+      "senseAnchor": "業主；老闆",
+      "roleInScript": "老闆章",
+      "humorDevice": "morphology",
+      "zhGloss": "業主；老闆",
+      "speakLineEn": "The data proprietor still owes documentation.",
+      "speakLineZh": "資料業主仍欠文件。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "appropriate",
+      "inVocab": false,
+      "senseAnchor": "適當的；撥用",
+      "roleInScript": "撥用章",
+      "humorDevice": "morphology",
+      "zhGloss": "適當的；撥用",
+      "speakLineEn": "Choose an appropriate loss function.",
+      "speakLineZh": "選擇適當的損失函數。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "appropriation",
+      "inVocab": false,
+      "senseAnchor": "撥款；挪用",
+      "roleInScript": "挪用以案",
+      "humorDevice": "morphology",
+      "zhGloss": "撥款；挪用",
+      "speakLineEn": "Silent appropriation of others' code needs citation.",
+      "speakLineZh": "沉默挪用他人程式碼需引用。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "expropriate",
+      "inVocab": true,
+      "senseAnchor": "deprive of possessions",
+      "roleInScript": "徵收令",
+      "humorDevice": "story",
+      "zhGloss": "徵收；沒收",
+      "speakLineEn": "Do not expropriate credit from juniors.",
+      "speakLineZh": "不要徵收資淺者的功勞。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "ownership",
+      "inVocab": false,
+      "senseAnchor": "所有權",
+      "roleInScript": "誰的鍋",
+      "humorDevice": "story",
+      "zhGloss": "所有權",
+      "speakLineEn": "Clarify ownership of analysis decisions.",
+      "speakLineZh": "釐清分析決策的所有權。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "belongings",
+      "inVocab": false,
+      "senseAnchor": "財物",
+      "roleInScript": "私人物品",
+      "humorDevice": "story",
+      "zhGloss": "財物",
+      "speakLineEn": "Keep identifiable belongings out of public dumps.",
+      "speakLineZh": "可識別個資別丟進公開垃圾桶。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "etiquette",
+      "inVocab": false,
+      "senseAnchor": "禮儀",
+      "roleInScript": "禮儀卡",
+      "humorDevice": "story",
+      "zhGloss": "禮儀",
+      "speakLineEn": "Lab etiquette: correct the record fast.",
+      "speakLineZh": "實驗室禮儀：快速更正紀錄。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "propri＝適當／己有：proper/property/appropriate/propriety/expropriate",
+    "proprietary＝專有的"
+  ],
+  "pitfalls": [
+    "appropriate＝適當的／撥用；expropriate＝徵收沒收",
+    "propriety＝得體"
+  ],
+  "lessonRefs": [
+    "lesson-root-propri-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch05"
+  }
+}

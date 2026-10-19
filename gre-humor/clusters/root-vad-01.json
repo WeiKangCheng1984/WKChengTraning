@@ -1,0 +1,178 @@
+{
+  "id": "root-vad-01",
+  "type": "root",
+  "elementLemma": "vad/vas",
+  "titleZh": "vad／vas｜入侵迴避道",
+  "titleEn": "Vad Invasion Lane",
+  "hook": "字根 vad/vas＝走——這條道要嘛衝進去，要嘛滑走開，瀰漫全場。",
+  "script": "invade／invasion／invasive 衝進領地。evade／evasion／evasive 滑走閃答。pervade／pervasive 走遍每個角落；wade 涉水前進——道長：pervasive bias 要清；evasive answers 不及格。",
+  "members": [
+    {
+      "headword": "invade",
+      "inVocab": false,
+      "senseAnchor": "入侵",
+      "roleInScript": "衝進去",
+      "humorDevice": "morphology",
+      "zhGloss": "入侵",
+      "speakLineEn": "Do not invade privacy for a convenience win.",
+      "speakLineZh": "別為方便入侵隱私。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "invasion",
+      "inVocab": false,
+      "senseAnchor": "入侵",
+      "roleInScript": "入侵警報",
+      "humorDevice": "morphology",
+      "zhGloss": "入侵",
+      "speakLineEn": "An invasion of researcher degrees of freedom.",
+      "speakLineZh": "研究者自由度入侵警報。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "invasive",
+      "inVocab": false,
+      "senseAnchor": "侵入性的",
+      "roleInScript": "侵入標籤",
+      "humorDevice": "morphology",
+      "zhGloss": "侵入性的",
+      "speakLineEn": "Prefer less invasive measures when possible.",
+      "speakLineZh": "可能時優先較少侵入的量測。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "evade",
+      "inVocab": false,
+      "senseAnchor": "逃避；規避",
+      "roleInScript": "滑走開",
+      "humorDevice": "morphology",
+      "zhGloss": "逃避；規避",
+      "speakLineEn": "Do not evade preregistration with vibes.",
+      "speakLineZh": "別用感覺規避預註冊。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "evasion",
+      "inVocab": true,
+      "senseAnchor": "a statement that is not literally false but that cleverly avoids an unpleasant truth; the deliberate act of failing to pay money",
+      "roleInScript": "閃躲術",
+      "humorDevice": "morphology",
+      "zhGloss": "逃避",
+      "speakLineEn": "Evasion in the limitations section is obvious.",
+      "speakLineZh": "限制段的閃躲很明顯。",
+      "related": {
+        "synonyms": "equivocation, nonpayment, escape, dodging",
+        "antonyms": "payment"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "evasive",
+      "inVocab": false,
+      "senseAnchor": "閃爍其詞的",
+      "roleInScript": "閃答模式",
+      "humorDevice": "morphology",
+      "zhGloss": "閃爍其詞的",
+      "speakLineEn": "Evasive replies trigger deeper review.",
+      "speakLineZh": "閃爍回覆會觸發更深審查。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "pervade",
+      "inVocab": false,
+      "senseAnchor": "瀰漫；遍布",
+      "roleInScript": "走遍全場",
+      "humorDevice": "morphology",
+      "zhGloss": "瀰漫；遍布",
+      "speakLineEn": "Doubt should pervade extraordinary claims.",
+      "speakLineZh": "非凡主張該被懷疑瀰漫。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "pervasive",
+      "inVocab": false,
+      "senseAnchor": "遍布的",
+      "roleInScript": "全場霧",
+      "humorDevice": "morphology",
+      "zhGloss": "遍布的",
+      "speakLineEn": "Pervasive missingness needs a plan.",
+      "speakLineZh": "遍布缺失需要計畫。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "wade",
+      "inVocab": false,
+      "senseAnchor": "涉水；吃力前進",
+      "roleInScript": "涉水走",
+      "humorDevice": "story",
+      "zhGloss": "涉水；吃力前進",
+      "speakLineEn": "Wade through edge cases before launch.",
+      "speakLineZh": "上線前涉過邊界案例。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "trespass",
+      "inVocab": false,
+      "senseAnchor": "擅自進入",
+      "roleInScript": "越界牌",
+      "humorDevice": "story",
+      "zhGloss": "擅自進入",
+      "speakLineEn": "Trespass into outcomes only with a plan.",
+      "speakLineZh": "只在有計畫時進入結局。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "vad＝走：invade/evade/pervade/invasive/evasive/pervasive",
+    "pervasive＝瀰漫的"
+  ],
+  "pitfalls": [
+    "evade＝逃避；invade＝入侵",
+    "pervasive＝遍布；persuasive＝有說服力"
+  ],
+  "lessonRefs": [
+    "lesson-root-vad-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch05"
+  }
+}

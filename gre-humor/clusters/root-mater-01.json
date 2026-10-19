@@ -1,0 +1,208 @@
+{
+  "id": "root-mater-01",
+  "type": "root",
+  "elementLemma": "mater/matr",
+  "titleZh": "mater／matr｜母系登記處",
+  "titleEn": "Mater Mother Registry",
+  "hook": "字根 mater/matr＝母——登記處管母系、婚姻、母校，還有矩陣媽媽。",
+  "script": "maternal／maternity／matron 母性櫃台。matriarch／matriarchal 家族女王。matrimony 結婚登記；alma mater／matrix 母校與矩陣媽媽——登記員：matrix 要可逆；matriarch 也不能免審。",
+  "members": [
+    {
+      "headword": "maternal",
+      "inVocab": false,
+      "senseAnchor": "母親的",
+      "roleInScript": "母性章",
+      "humorDevice": "morphology",
+      "zhGloss": "母親的",
+      "speakLineEn": "Maternal leave policies need documented coverage.",
+      "speakLineZh": "產假政策需要文件化覆蓋。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "maternity",
+      "inVocab": false,
+      "senseAnchor": "母性；產科",
+      "roleInScript": "產科窗",
+      "humorDevice": "morphology",
+      "zhGloss": "母性；產科",
+      "speakLineEn": "Budget maternity of a project: birth of variables.",
+      "speakLineZh": "為專案「生產」變數編預算。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "matriarch",
+      "inVocab": false,
+      "senseAnchor": "女家長",
+      "roleInScript": "家族女王",
+      "humorDevice": "morphology",
+      "zhGloss": "女家長",
+      "speakLineEn": "Even the lab matriarch accepts corrections.",
+      "speakLineZh": "實驗室女家長也接受勘誤。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "matriarchal",
+      "inVocab": false,
+      "senseAnchor": "母系的",
+      "roleInScript": "母系制",
+      "humorDevice": "morphology",
+      "zhGloss": "母系的",
+      "speakLineEn": "Matriarchal credit rules still need transparency.",
+      "speakLineZh": "母系功勞規則仍需透明。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "matron",
+      "inVocab": false,
+      "senseAnchor": "女監護；成熟女性",
+      "roleInScript": "監護人",
+      "humorDevice": "morphology",
+      "zhGloss": "女監護；成熟女性",
+      "speakLineEn": "A methods matron keeps the codebook tidy.",
+      "speakLineZh": "方法監護人讓編碼簿整潔。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "matrimony",
+      "inVocab": false,
+      "senseAnchor": "婚姻",
+      "roleInScript": "結婚登記",
+      "humorDevice": "morphology",
+      "zhGloss": "婚姻",
+      "speakLineEn": "Code matrimony: merge only with tests.",
+      "speakLineZh": "程式聯姻：有測試才合併。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "matrix",
+      "inVocab": false,
+      "senseAnchor": "矩陣；母體",
+      "roleInScript": "矩陣媽媽",
+      "humorDevice": "morphology",
+      "zhGloss": "矩陣；母體",
+      "speakLineEn": "Show the confusion matrix, not just accuracy.",
+      "speakLineZh": "展示混淆矩陣，不只正確率。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "alma",
+      "inVocab": false,
+      "senseAnchor": "慈養的（alma mater）",
+      "roleInScript": "母校前綴",
+      "humorDevice": "story",
+      "zhGloss": "慈養的（alma mater）",
+      "speakLineEn": "Cite your alma mater's open-science rules.",
+      "speakLineZh": "引用母校的開放科學規則。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "motherlode",
+      "inVocab": false,
+      "senseAnchor": "富礦脈",
+      "roleInScript": "主礦脈",
+      "humorDevice": "story",
+      "zhGloss": "富礦脈",
+      "speakLineEn": "The motherlode is raw data with provenance.",
+      "speakLineZh": "富礦是帶出處的原始資料。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "nurture",
+      "inVocab": false,
+      "senseAnchor": "養育",
+      "roleInScript": "養育箱",
+      "humorDevice": "story",
+      "zhGloss": "養育",
+      "speakLineEn": "Nurture replications like new litters.",
+      "speakLineZh": "像養幼崽一樣養育複現。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "brood",
+      "inVocab": false,
+      "senseAnchor": "一窩；憂思",
+      "roleInScript": "一窩幼崽",
+      "humorDevice": "story",
+      "zhGloss": "一窩；憂思",
+      "speakLineEn": "A brood of related analyses needs a family tree.",
+      "speakLineZh": "一窩相關分析需要族譜。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "lineage",
+      "inVocab": false,
+      "senseAnchor": "世系",
+      "roleInScript": "血統樹",
+      "humorDevice": "story",
+      "zhGloss": "世系",
+      "speakLineEn": "Track variable lineage across transforms.",
+      "speakLineZh": "追蹤變數跨轉換的世系。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "mater＝母：maternal/matriarch/matrimony/matron/matrix/alma mater",
+    "matriarch＝女家長"
+  ],
+  "pitfalls": [
+    "maternal＝母親的；paternal＝父親的",
+    "alma mater＝母校"
+  ],
+  "lessonRefs": [
+    "lesson-root-mater-01"
+  ],
+  "status": "reviewed",
+  "priority": "C",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch05"
+  }
+}

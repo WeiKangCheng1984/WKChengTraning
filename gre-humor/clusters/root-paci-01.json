@@ -1,0 +1,178 @@
+{
+  "id": "root-paci-01",
+  "type": "root",
+  "elementLemma": "paci",
+  "titleZh": "paci｜和解談判桌",
+  "titleEn": "Paci Peace Table",
+  "hook": "字根 paci＝和平——談判桌把怒火按下去，簽停戰，也識破假和平。",
+  "script": "pacify／pacific／pacifist／pacifism 和解小組。peace／pax 停戰旗。truce／armistice／placid／calm 停火與平靜客串——主席：pacify conflicts with data；假 pacific 微笑不改錯，無效。",
+  "members": [
+    {
+      "headword": "pacify",
+      "inVocab": true,
+      "senseAnchor": "cause to be more favorably inclined; gain the good will of; fight violence and try to establish peace in (a location)",
+      "roleInScript": "按住怒火",
+      "humorDevice": "morphology",
+      "zhGloss": "平息；安撫",
+      "speakLineEn": "Pacify reviewer concerns with evidence.",
+      "speakLineZh": "用證據平息審稿疑慮。",
+      "related": {
+        "synonyms": "lenify, conciliate, assuage, appease, mollify, placate",
+        "antonyms": "provoke, agitate"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "pacific",
+      "inVocab": false,
+      "senseAnchor": "和平的；平和的",
+      "roleInScript": "停戰臉",
+      "humorDevice": "morphology",
+      "zhGloss": "和平的；平和的",
+      "speakLineEn": "Keep a pacific tone while defending methods.",
+      "speakLineZh": "捍衛方法時保持平和語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "pacifist",
+      "inVocab": false,
+      "senseAnchor": "和平主義者",
+      "roleInScript": "反戰牌",
+      "humorDevice": "morphology",
+      "zhGloss": "和平主義者",
+      "speakLineEn": "Be a pacifist toward people, a hawk toward bias.",
+      "speakLineZh": "對人和平，對偏差強硬。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "pacifism",
+      "inVocab": false,
+      "senseAnchor": "和平主義",
+      "roleInScript": "和平綱領",
+      "humorDevice": "morphology",
+      "zhGloss": "和平主義",
+      "speakLineEn": "Methodological pacifism is not ignoring fraud.",
+      "speakLineZh": "方法和平主義不是忽視造假。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "peace",
+      "inVocab": false,
+      "senseAnchor": "和平",
+      "roleInScript": "停戰旗",
+      "humorDevice": "morphology",
+      "zhGloss": "和平",
+      "speakLineEn": "Make peace with null results by publishing them.",
+      "speakLineZh": "用發表與虛無結果和解。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "pax",
+      "inVocab": false,
+      "senseAnchor": "和平；平安",
+      "roleInScript": "Pax 印章",
+      "humorDevice": "story",
+      "zhGloss": "和平；平安",
+      "speakLineEn": "Declare a pax on outcome renaming midstream.",
+      "speakLineZh": "對中途改結局名稱下停戰令。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "truce",
+      "inVocab": true,
+      "senseAnchor": "a state of peace agreed to between opponents so they can discuss peace terms",
+      "roleInScript": "休戰協定",
+      "humorDevice": "story",
+      "zhGloss": "休戰",
+      "speakLineEn": "Call a truce: freeze the analysis plan.",
+      "speakLineZh": "喊休戰：凍結分析計畫。",
+      "related": {
+        "synonyms": "armistice, cease-fire",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "armistice",
+      "inVocab": false,
+      "senseAnchor": "停戰協定",
+      "roleInScript": "停戰書",
+      "humorDevice": "story",
+      "zhGloss": "停戰協定",
+      "speakLineEn": "Sign an armistice with endless tweaking.",
+      "speakLineZh": "與無盡微調簽停戰。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "reconcile",
+      "inVocab": true,
+      "senseAnchor": "make (one thing) compatible with (another); bring into consonance or accord",
+      "roleInScript": "對帳和解",
+      "humorDevice": "story",
+      "zhGloss": "和解；核對一致",
+      "speakLineEn": "Reconcile codebook and code before lock.",
+      "speakLineZh": "鎖定前和解編碼簿與程式。",
+      "related": {
+        "synonyms": "accommodate, conciliate, harmonize, harmonise, settle, resign",
+        "antonyms": "disoblige, provoke, antagonize, float, take office"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "ceasefire",
+      "inVocab": false,
+      "senseAnchor": "停火",
+      "roleInScript": "停火線",
+      "humorDevice": "story",
+      "zhGloss": "停火",
+      "speakLineEn": "A ceasefire on debate needs shared numbers.",
+      "speakLineZh": "辯論停火需要共享數字。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "paci＝和平：pacify/pacific/pacifist/pacifism/peace",
+    "pacify＝平息"
+  ],
+  "pitfalls": [
+    "pacific＝和平的／太平洋",
+    "pacifist＝和平主義者"
+  ],
+  "lessonRefs": [
+    "lesson-root-paci-01"
+  ],
+  "status": "reviewed",
+  "priority": "C",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch05"
+  }
+}

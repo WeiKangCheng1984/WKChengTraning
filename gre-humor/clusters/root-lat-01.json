@@ -1,0 +1,208 @@
+{
+  "id": "root-lat-01",
+  "type": "root",
+  "elementLemma": "lat",
+  "titleZh": "lat｜側邊快遞局",
+  "titleEn": "Lat Sideways Courier",
+  "hook": "字根 lat＝邊／帶——快遞局只走側門：橫向、拉開、連帶責任全包。",
+  "script": "lateral 側滑閃人；relative／relation／relate 把親戚網路連起來。dilate 把瞳孔拉開；elated 開心到飄。collate／collateral／translate 核對、抵押、翻譯——局長：lateral thinking 可以；collateral damage 不行。",
+  "members": [
+    {
+      "headword": "lateral",
+      "inVocab": true,
+      "senseAnchor": "a pass to a receiver upfield from the passer; situated at or extending to the side; ; - Tennyson",
+      "roleInScript": "側滑閃人",
+      "humorDevice": "morphology",
+      "zhGloss": "側面的；橫向的",
+      "speakLineEn": "Try a lateral check, not a louder claim.",
+      "speakLineZh": "試橫向檢查，不是更大聲主張。",
+      "related": {
+        "synonyms": "sidelong",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "relative",
+      "inVocab": false,
+      "senseAnchor": "相對的；親戚",
+      "roleInScript": "親戚網",
+      "humorDevice": "morphology",
+      "zhGloss": "相對的；親戚",
+      "speakLineEn": "Effect sizes are relative to the baseline.",
+      "speakLineZh": "效應量相對基準而言。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "relation",
+      "inVocab": false,
+      "senseAnchor": "關係",
+      "roleInScript": "連線圖",
+      "humorDevice": "morphology",
+      "zhGloss": "關係",
+      "speakLineEn": "State the relation you actually identified.",
+      "speakLineZh": "說清楚你真正識別的關係。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "relate",
+      "inVocab": false,
+      "senseAnchor": "關聯；敘述",
+      "roleInScript": "把線接上",
+      "humorDevice": "morphology",
+      "zhGloss": "關聯；敘述",
+      "speakLineEn": "Relate the result to the preregistered estimand.",
+      "speakLineZh": "把結果連回預註冊目標量。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "dilate",
+      "inVocab": true,
+      "senseAnchor": "become wider; add details, as to an account or idea; clarify the meaning of and discourse in a learned way, usually in writing",
+      "roleInScript": "拉開瞳孔",
+      "humorDevice": "morphology",
+      "zhGloss": "擴張；詳述",
+      "speakLineEn": "Do not dilate anecdotes into causal proof.",
+      "speakLineZh": "別把軼事擴成因果證明。",
+      "related": {
+        "synonyms": "distend, elaborate, lucubrate, expatiate, exposit, enlarge",
+        "antonyms": "contract"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "elated",
+      "inVocab": true,
+      "senseAnchor": "fill with high spirits; fill with optimism; exultantly proud and joyful; in high spirits",
+      "roleInScript": "開心飄",
+      "humorDevice": "morphology",
+      "zhGloss": "興高采烈的",
+      "speakLineEn": "Stay curious when elated by a significant p.",
+      "speakLineZh": "被顯著 p 沖昏時仍保持好奇。",
+      "related": {
+        "synonyms": "elate, uplift, intoxicate, gleeful, joyful, jubilant",
+        "antonyms": "dejected, depress"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "collate",
+      "inVocab": true,
+      "senseAnchor": "compare critically; of texts; to assemble in proper sequence",
+      "roleInScript": "對表員",
+      "humorDevice": "morphology",
+      "zhGloss": "核對整理",
+      "speakLineEn": "Collate code, data, and codebook before submission.",
+      "speakLineZh": "投稿前核對程式、資料與編碼簿。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "translate",
+      "inVocab": false,
+      "senseAnchor": "翻譯；轉換",
+      "roleInScript": "翻譯官",
+      "humorDevice": "morphology",
+      "zhGloss": "翻譯；轉換",
+      "speakLineEn": "Translate methods into plain language for readers.",
+      "speakLineZh": "把方法翻譯成讀者能懂的話。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "collateral",
+      "inVocab": false,
+      "senseAnchor": "附帶的；抵押品",
+      "roleInScript": "附帶傷",
+      "humorDevice": "story",
+      "zhGloss": "附帶的；抵押品",
+      "speakLineEn": "Avoid collateral harm to trust when rushing.",
+      "speakLineZh": "趕工時避免傷及信任。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "prelate",
+      "inVocab": false,
+      "senseAnchor": "高級神職",
+      "roleInScript": "側邊大佬",
+      "humorDevice": "story",
+      "zhGloss": "高級神職",
+      "speakLineEn": "Even a prelate of the field needs peer review.",
+      "speakLineZh": "領域大佬也需要同儕審查。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "latitudinal",
+      "inVocab": false,
+      "senseAnchor": "緯度的；幅度的",
+      "roleInScript": "緯線尺",
+      "humorDevice": "story",
+      "zhGloss": "緯度的；幅度的",
+      "speakLineEn": "Report latitudinal variation across sites.",
+      "speakLineZh": "報告跨站點的幅度差異。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "sidestep",
+      "inVocab": false,
+      "senseAnchor": "側步避開",
+      "roleInScript": "側步閃",
+      "humorDevice": "story",
+      "zhGloss": "側步避開",
+      "speakLineEn": "Do not sidestep limitations in the discussion.",
+      "speakLineZh": "討論段不要側步避開限制。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "lat＝邊：lateral/relative/dilate/collate/collateral",
+    "elated＝興高采烈"
+  ],
+  "pitfalls": [
+    "lateral＝側面的；literal＝字面的",
+    "collateral＝附帶／抵押"
+  ],
+  "lessonRefs": [
+    "lesson-root-lat-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch05"
+  }
+}

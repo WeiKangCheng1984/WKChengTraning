@@ -1,0 +1,97 @@
+{
+  "id": "lesson-root-propri-01",
+  "slug": "root-propri-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "root-propri-01",
+  "titleZh": "propri｜產權禮儀社",
+  "titleEn": "Propri Etiquette Club",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字根 propri＝適當／己有——禮儀社專管「這是誰的」與「這樣得體嗎」。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "proper／improper／propriety 得體門禁。property／proprietary／proprietor 產權與老闆章。appropriate／appropriation／expropriate 撥用、挪用、徵收——社長：appropriate methods；improper peeking 趕出門。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "propri＝適當／己有：proper/property/appropriate/propriety/expropriate",
+        "proprietary＝專有的"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Correctness of manners; decency:",
+      "promptZh": "得體禮儀：",
+      "choices": [
+        "propriety",
+        "invasion",
+        "paucity",
+        "salient"
+      ],
+      "answer": "propriety"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Privately owned; exclusive:",
+      "promptZh": "專有的：",
+      "choices": [
+        "proprietary",
+        "lateral",
+        "craven",
+        "desolate"
+      ],
+      "answer": "proprietary"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Take away private property by authority:",
+      "promptZh": "徵收沒收：",
+      "choices": [
+        "expropriate",
+        "comprehend",
+        "pacify",
+        "navigate"
+      ],
+      "answer": "expropriate"
+    }
+  ],
+  "pitfalls": [
+    "appropriate＝適當的／撥用；expropriate＝徵收沒收",
+    "propriety＝得體"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch05"
+  }
+}

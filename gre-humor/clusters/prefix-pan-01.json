@@ -1,0 +1,208 @@
+{
+  "id": "prefix-pan-01",
+  "type": "prefix",
+  "elementLemma": "pan-",
+  "titleZh": "pan-｜全景萬神殿",
+  "titleEn": "Pan All-View Pantheon",
+  "hook": "字首 pan-＝全——萬神殿要全景、萬能藥、全面混亂，還有默劇。",
+  "script": "panorama／panoramic 全景窗。panacea 萬能藥攤。pandemonium 全場混亂；pantomime／pandemic／pantheon 默劇、大流行、萬神殿——殿主：panoramic reporting；拒 panacea 口號。",
+  "members": [
+    {
+      "headword": "panorama",
+      "inVocab": true,
+      "senseAnchor": "the visual percept of a region; a picture (or series of pictures) representing a continuous scene",
+      "roleInScript": "全景窗",
+      "humorDevice": "morphology",
+      "zhGloss": "全景；概觀",
+      "speakLineEn": "Give a panorama of limitations, not a footnote.",
+      "speakLineZh": "給限制全景，不是腳註。",
+      "related": {
+        "synonyms": "view, aspect, prospect, scene, vista, cyclorama",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "panoramic",
+      "inVocab": false,
+      "senseAnchor": "全景的",
+      "roleInScript": "全景鏡",
+      "humorDevice": "morphology",
+      "zhGloss": "全景的",
+      "speakLineEn": "Panoramic dashboards still need version pins.",
+      "speakLineZh": "全景儀表板仍需版本釘選。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "panacea",
+      "inVocab": true,
+      "senseAnchor": "a remedy for all ills or difficulties",
+      "roleInScript": "萬能藥攤",
+      "humorDevice": "morphology",
+      "zhGloss": "萬靈藥",
+      "speakLineEn": "There is no panacea model for every dataset.",
+      "speakLineZh": "沒有適合一切資料的萬靈藥模型。",
+      "related": {
+        "synonyms": "cure-all, nostrum",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "pandemonium",
+      "inVocab": true,
+      "senseAnchor": "a state of extreme confusion and disorder",
+      "roleInScript": "混亂殿",
+      "humorDevice": "morphology",
+      "zhGloss": "大混亂",
+      "speakLineEn": "Unlogged changes create analytic pandemonium.",
+      "speakLineZh": "未記錄變更造成分析大混亂。",
+      "related": {
+        "synonyms": "chaos, bedlam, topsy-turvydom, topsy-turvyness",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "pantomime",
+      "inVocab": true,
+      "senseAnchor": "a performance using gestures and body movements without words; act out without words but with gestures and bodily movements only",
+      "roleInScript": "默劇場",
+      "humorDevice": "morphology",
+      "zhGloss": "默劇；手勢戲",
+      "speakLineEn": "Do not pantomime significance without numbers.",
+      "speakLineZh": "別用手勢默劇表演顯著性。",
+      "related": {
+        "synonyms": "mime",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "pandemic",
+      "inVocab": false,
+      "senseAnchor": "大流行的；疫情",
+      "roleInScript": "大流行旗",
+      "humorDevice": "morphology",
+      "zhGloss": "大流行的；疫情",
+      "speakLineEn": "Pandemic-speed science still needs brakes.",
+      "speakLineZh": "大流行速度的科學仍需要煞車。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "pantheon",
+      "inVocab": false,
+      "senseAnchor": "萬神殿；名流群",
+      "roleInScript": "萬神殿",
+      "humorDevice": "morphology",
+      "zhGloss": "萬神殿；名流群",
+      "speakLineEn": "Do not treat celebrity labs as a pantheon beyond review.",
+      "speakLineZh": "別把明星實驗室當不可審的萬神殿。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "blanket",
+      "inVocab": false,
+      "senseAnchor": "毯子；全面的",
+      "roleInScript": "全面毯",
+      "humorDevice": "story",
+      "zhGloss": "毯子；全面的",
+      "speakLineEn": "Avoid blanket claims across heterogeneous sites.",
+      "speakLineZh": "避免對異質站點下全面斷言。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "wholesale",
+      "inVocab": true,
+      "senseAnchor": "the selling of goods to merchants; usually in large quantities for resale to consumers; sell in large quantities",
+      "roleInScript": "批發砍",
+      "humorDevice": "story",
+      "zhGloss": "批發；全面的",
+      "speakLineEn": "Wholesale dropping of outliers needs rules.",
+      "speakLineZh": "批發丟掉離群需要規則。",
+      "related": {
+        "synonyms": "sweeping",
+        "antonyms": "retail"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "across-the-board",
+      "inVocab": false,
+      "senseAnchor": "全面的",
+      "roleInScript": "全面板",
+      "humorDevice": "story",
+      "zhGloss": "全面的",
+      "speakLineEn": "Across-the-board significance is a red flag.",
+      "speakLineZh": "全面顯著是紅旗。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "omni",
+      "inVocab": false,
+      "senseAnchor": "全（口語詞根）",
+      "roleInScript": "全字貼",
+      "humorDevice": "story",
+      "zhGloss": "全（口語詞根）",
+      "speakLineEn": "Omni-claims invite omni-scrutiny.",
+      "speakLineZh": "全稱主張招來全面審視。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "everywhere",
+      "inVocab": false,
+      "senseAnchor": "到處",
+      "roleInScript": "到處燈",
+      "humorDevice": "story",
+      "zhGloss": "到處",
+      "speakLineEn": "If bias is everywhere, say how you checked.",
+      "speakLineZh": "若偏差到處都是，說明你怎麼查。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "pan-＝全：panorama/panacea/pandemonium/pandemic/pantheon",
+    "panacea＝萬靈藥"
+  ],
+  "pitfalls": [
+    "panacea＝萬能藥（常是否定用法）",
+    "pandemonium＝大混亂"
+  ],
+  "lessonRefs": [
+    "lesson-prefix-pan-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch05"
+  }
+}
