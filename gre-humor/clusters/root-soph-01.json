@@ -14,8 +14,8 @@
       "roleInScript": "狡辯智慧",
       "humorDevice": "morphology",
       "zhGloss": "詭辯",
-      "speakLineEn": "Sophistry about p-hacking fools no auditor.",
-      "speakLineZh": "關於 p 操弄的詭辯騙不了稽核。",
+      "speakLineEn": "Elegant sophistry cannot hide a missing premise.",
+      "speakLineZh": "華麗詭辯無法掩蓋缺失的前提。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -89,8 +89,8 @@
       "roleInScript": "愛智鄰居",
       "humorDevice": "story",
       "zhGloss": "哲學社",
-      "speakLineEn": "Keep a philosophy club for estimands.",
-      "speakLineZh": "為目標量開哲學社。",
+      "speakLineEn": "The philosophy club meets weekly to debate free will.",
+      "speakLineZh": "哲學社每週聚會辯論自由意志。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -104,8 +104,8 @@
       "roleInScript": "真智",
       "humorDevice": "story",
       "zhGloss": "有智慧的",
-      "speakLineEn": "Wise teams pre-register.",
-      "speakLineZh": "有智慧的團隊預註冊。",
+      "speakLineEn": "A wise editor asks for evidence before praising a claim.",
+      "speakLineZh": "有智慧的編輯會在讚美主張前先要證據。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -119,8 +119,8 @@
       "roleInScript": "小聰明",
       "humorDevice": "story",
       "zhGloss": "聰明的",
-      "speakLineEn": "Clever tricks are not identification.",
-      "speakLineZh": "小聰明不是識別。",
+      "speakLineEn": "A clever title cannot hide a thin argument.",
+      "speakLineZh": "再聰明的標題也掩蓋不了薄弱論證。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -149,8 +149,8 @@
       "roleInScript": "辯論包裝",
       "humorDevice": "story",
       "zhGloss": "修辭的",
-      "speakLineEn": "Rhetoric cannot replace robustness.",
-      "speakLineZh": "修辭不能取代穩健。",
+      "speakLineEn": "Empty rhetoric cannot replace careful reasoning.",
+      "speakLineZh": "空洞修辭取代不了謹慎推論。",
       "related": {
         "synonyms": "grandiosity, magniloquence, ornateness, grandiloquence, palaver",
         "antonyms": "plain speech"
@@ -175,6 +175,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "P2-batch02",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

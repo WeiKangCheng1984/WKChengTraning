@@ -119,8 +119,8 @@
       "roleInScript": "牽引繩",
       "humorDevice": "morphology",
       "zhGloss": "牽引",
-      "speakLineEn": "His leg was in traction for several days.",
-      "speakLineZh": "牽引。",
+      "speakLineEn": "His leg was in traction for several days after the accident.",
+      "speakLineZh": "意外後，他的腿接受了好幾天的牽引治療。",
       "related": {
         "synonyms": "grip",
         "antonyms": ""
@@ -134,8 +134,8 @@
       "roleInScript": "貶低章",
       "humorDevice": "morphology",
       "zhGloss": "貶低；貶損",
-      "speakLineEn": "Let it be no detraction from his merits to say he is plainspoken.",
-      "speakLineZh": "貶低；貶損。",
+      "speakLineEn": "Honest criticism is not the same as petty detraction.",
+      "speakLineZh": "誠實批評並不等於瑣碎貶損。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -149,8 +149,8 @@
       "roleInScript": "提取鉗",
       "humorDevice": "morphology",
       "zhGloss": "提取",
-      "speakLineEn": "A careful reader links extract to 提取, not a lookalike neighbor.",
-      "speakLineZh": "細心讀者把 extract 連到「提取」，不連形近鄰居。",
+      "speakLineEn": "Chemists extract dye from the plant roots.",
+      "speakLineZh": "化學家從植物根部提取染料。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -164,8 +164,8 @@
       "roleInScript": "契約",
       "humorDevice": "morphology",
       "zhGloss": "契約收縮",
-      "speakLineEn": "Picture the 契約: the word contract means 契約收縮.",
-      "speakLineZh": "想像「契約」：contract＝契約收縮。",
+      "speakLineEn": "Both parties signed the contract after the final revision.",
+      "speakLineZh": "雙方在最終修訂後簽署契約。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -179,8 +179,8 @@
       "roleInScript": "減號",
       "humorDevice": "morphology",
       "zhGloss": "減去",
-      "speakLineEn": "Critics argued that the policy would subtract basic protections.",
-      "speakLineZh": "批評者主張該政策會減去基本保障。",
+      "speakLineEn": "Subtract the blank reading before you report the result.",
+      "speakLineZh": "報告結果前先減去空白讀值。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -211,6 +211,10 @@
     "thickenedAt": "P4-batch01",
     "polishStage": "Q-wave2",
     "polishedAt": "2026-10-19",
-    "zhEnrichedAt": "2026-10-19"
+    "zhEnrichedAt": "2026-10-19",
+    "rootExamplesStage": "root-fix-1",
+    "rootExamplesFixedAt": "2026-10-19",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

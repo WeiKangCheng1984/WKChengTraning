@@ -14,8 +14,8 @@
       "roleInScript": "抓很緊",
       "humorDevice": "morphology",
       "zhGloss": "堅定的；執着的",
-      "speakLineEn": "Tenacious anomalies deserve another look.",
-      "speakLineZh": "頑強異常值得再看。",
+      "speakLineEn": "Her tenacious questions finally produced a clear answer.",
+      "speakLineZh": "她頑強追問，終於得到清楚答覆。",
       "related": {
         "synonyms": "pertinacious, resolve, steadfast",
         "antonyms": "yielding, irresolute, unretentive, irresoluteness"
@@ -29,8 +29,8 @@
       "roleInScript": "不伸手",
       "humorDevice": "morphology",
       "zhGloss": "自我剋制",
-      "speakLineEn": "Several members abstained from the vote.",
-      "speakLineZh": "數名成員投票棄權。",
+      "speakLineEn": "Several members abstained from the final vote.",
+      "speakLineZh": "數名成員在最終表決中棄權。",
       "related": {
         "synonyms": "forgo, refrain from",
         "antonyms": "indulge, partake, consume, claim, postdate, act"
@@ -250,6 +250,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "S3b",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

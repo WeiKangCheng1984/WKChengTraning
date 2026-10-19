@@ -89,8 +89,8 @@
       "roleInScript": "慾望衝鋒",
       "humorDevice": "morphology",
       "zhGloss": "食慾；慾望",
-      "speakLineEn": "An appetite for novelty crowds replication.",
-      "speakLineZh": "嗜新慾望排擠複現。",
+      "speakLineEn": "Hiking in cold air gave everyone a fierce appetite.",
+      "speakLineZh": "冷空氣裡健行後，大家都胃口大開。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -134,8 +134,8 @@
       "roleInScript": "衝刺賽",
       "humorDevice": "story",
       "zhGloss": "競爭",
-      "speakLineEn": "Healthy competition shares tools.",
-      "speakLineZh": "健康競爭分享工具。",
+      "speakLineEn": "The piano competition attracted students from five countries.",
+      "speakLineZh": "鋼琴比賽吸引了五個國家的學生。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -164,8 +164,8 @@
       "roleInScript": "呈請語氣",
       "humorDevice": "story",
       "zhGloss": "請願的",
-      "speakLineEn": "Keep petitionary emails specific.",
-      "speakLineZh": "請願郵件要具體。",
+      "speakLineEn": "His petitionary letter asked the council for a hearing.",
+      "speakLineZh": "他的請願信請求議會舉行聽證會。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -179,8 +179,8 @@
       "roleInScript": "衝前煞車",
       "humorDevice": "story",
       "zhGloss": "動力檢查",
-      "speakLineEn": "Run an impetus check: why rush?",
-      "speakLineZh": "做動力檢查：為何急？",
+      "speakLineEn": "Pause for an impetus check before you rush the submission.",
+      "speakLineZh": "倉促投稿前，先停下來做一次動力檢查。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "P2-batch01",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

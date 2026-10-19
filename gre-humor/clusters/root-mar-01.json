@@ -44,8 +44,8 @@
       "roleInScript": "潛下去",
       "humorDevice": "morphology",
       "zhGloss": "潛水艇；水下的",
-      "speakLineEn": "No submarine looks at unblinded outcomes.",
-      "speakLineZh": "禁止潛水偷看非盲結局。",
+      "speakLineEn": "The documentary followed a research submarine under Arctic ice.",
+      "speakLineZh": "紀錄片跟著一艘研究潛艇駛入北極冰下。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -89,8 +89,8 @@
       "roleInScript": "深藍漆",
       "humorDevice": "story",
       "zhGloss": "深藍的",
-      "speakLineEn": "Ultramarine claims need ultramarine evidence.",
-      "speakLineZh": "深藍主張需要深藍證據。",
+      "speakLineEn": "The painter mixed ultramarine for the deep sky.",
+      "speakLineZh": "畫家調出群青來畫深邃天空。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -149,8 +149,8 @@
       "roleInScript": "下錨",
       "humorDevice": "story",
       "zhGloss": "紮根於",
-      "speakLineEn": "Anchor claims to a commit hash.",
-      "speakLineZh": "把主張錨到 commit 雜湊。",
+      "speakLineEn": "The documentary tries to anchor each claim in archival film.",
+      "speakLineZh": "紀錄片試圖把每項主張都錨定在檔案影像上。",
       "related": {
         "synonyms": "mainstay, keystone, backbone, linchpin, lynchpin, anchorman",
         "antonyms": ""
@@ -205,6 +205,10 @@
     "reviewedAt": "2026-10-19",
     "stage": "P2-batch05",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootExamplesStage": "root-fix-2",
+    "rootExamplesFixedAt": "2026-10-19",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch4"
   }
 }

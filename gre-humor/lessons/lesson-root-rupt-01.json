@@ -99,6 +99,8 @@
       "reviewHooks ≥2",
       "pitfalls ≥1",
       "quiz ×3"
-    ]
+    ],
+    "rootExamplesFixedAt": "2026-10-19",
+    "rootPolishAt": "2026-10-19"
   }
 }

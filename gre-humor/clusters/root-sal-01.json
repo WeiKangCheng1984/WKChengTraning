@@ -74,8 +74,8 @@
       "roleInScript": "猛攻",
       "humorDevice": "morphology",
       "zhGloss": "攻擊",
-      "speakLineEn": "An assault on p-hacking starts with templates.",
-      "speakLineZh": "打擊 p 值黑客從模板開始。",
+      "speakLineEn": "Witnesses described a verbal assault during the debate.",
+      "speakLineZh": "證人描述辯論中發生言語攻擊。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-19",
     "stage": "P2-batch05",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish"
   }
 }

@@ -14,8 +14,8 @@
       "roleInScript": "王者氣場",
       "humorDevice": "morphology",
       "zhGloss": "帝王的；莊嚴的",
-      "speakLineEn": "Regal prose cannot hide weak n.",
-      "speakLineZh": "帝王文風藏不住弱樣本。",
+      "speakLineEn": "The queen entered with a calm, almost regal dignity.",
+      "speakLineZh": "女王入場時帶著平靜、近乎帝王般的尊嚴。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -89,8 +89,8 @@
       "roleInScript": "排班正常",
       "humorDevice": "morphology",
       "zhGloss": "規則的；定期的",
-      "speakLineEn": "Run regular audits of repositories.",
-      "speakLineZh": "定期稽核儲庫。",
+      "speakLineEn": "Regular practice improved her piano technique steadily.",
+      "speakLineZh": "規律練習讓她的鋼琴技巧穩步進步。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "P2-batch01",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

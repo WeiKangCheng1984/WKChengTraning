@@ -14,8 +14,8 @@
       "roleInScript": "把光打進去",
       "humorDevice": "morphology",
       "zhGloss": "闡明",
-      "speakLineEn": "Elucidate the identification assumptions.",
-      "speakLineZh": "闡明識別假設。",
+      "speakLineEn": "The footnote helps elucidate an otherwise obscure reference.",
+      "speakLineZh": "腳註有助闡明原本晦澀的出處。",
       "related": {
         "synonyms": "illuminate, enlighten",
         "antonyms": "obfuscate"
@@ -29,8 +29,8 @@
       "roleInScript": "透到見底",
       "humorDevice": "morphology",
       "zhGloss": "透明的",
-      "speakLineEn": "Write a pellucid abstract.",
-      "speakLineZh": "寫清澈摘要。",
+      "speakLineEn": "Her pellucid prose made the dense theory readable.",
+      "speakLineZh": "她清澈的文筆讓艱深理論變得可讀。",
       "related": {
         "synonyms": "limpid, lucent, transparent, lucid",
         "antonyms": "opaque, obscure, confused"
@@ -59,8 +59,8 @@
       "roleInScript": "大燈人物",
       "humorDevice": "morphology",
       "zhGloss": "卓越的",
-      "speakLineEn": "Do not defer to luminaries without reading methods.",
-      "speakLineZh": "別不讀方法就服從名人。",
+      "speakLineEn": "She became a luminary in early modern history.",
+      "speakLineZh": "她成為早期現代史領域的傑出人物。",
       "related": {
         "synonyms": "notable, notability",
         "antonyms": ""
@@ -90,7 +90,7 @@
       "humorDevice": "morphology",
       "zhGloss": "照明；啟發",
       "speakLineEn": "Examples illuminate abstract claims.",
-      "speakLineZh": "例子照亮抽象主張。",
+      "speakLineZh": "具體例子能照亮抽象的主張。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -104,8 +104,8 @@
       "roleInScript": "沒光",
       "humorDevice": "morphology",
       "zhGloss": "無光澤的；平庸的",
-      "speakLineEn": "Lackluster documentation slows replication.",
-      "speakLineZh": "平庸文件拖延複現。",
+      "speakLineEn": "The team’s lackluster performance disappointed the home crowd.",
+      "speakLineZh": "球隊平庸的表現讓主場觀眾失望。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -135,7 +135,7 @@
       "humorDevice": "story",
       "zhGloss": "照明；啟發",
       "speakLineEn": "Seek illumination, not applause.",
-      "speakLineZh": "追求啟發而非掌聲。",
+      "speakLineZh": "我們追求啟發，而不是掌聲。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -149,8 +149,8 @@
       "roleInScript": "清楚度",
       "humorDevice": "story",
       "zhGloss": "清晰；清醒",
-      "speakLineEn": "Lucidity beats jargon density.",
-      "speakLineZh": "清晰勝過術語密度。",
+      "speakLineEn": "Lucidity in the abstract matters more than clever jargon.",
+      "speakLineZh": "摘要的清晰度比花俏術語更重要。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -164,8 +164,8 @@
       "roleInScript": "反光",
       "humorDevice": "story",
       "zhGloss": "反光的",
-      "speakLineEn": "Relucent metaphors can distract.",
-      "speakLineZh": "反光隱喻可能分心。",
+      "speakLineEn": "The lake looked relucent under the late afternoon sun.",
+      "speakLineZh": "午後陽光下，湖面顯得反光發亮。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -179,8 +179,8 @@
       "roleInScript": "自己發光",
       "humorDevice": "story",
       "zhGloss": "冷光；發光",
-      "speakLineEn": "Claim luminescence only with mechanisms.",
-      "speakLineZh": "有機制才稱發光。",
+      "speakLineEn": "Fireflies produce a soft luminescence on warm summer nights.",
+      "speakLineZh": "螢火蟲在溫暖夏夜發出柔和的螢光。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,10 @@
     "reviewedAt": "2026-10-18",
     "stage": "P1-batch02",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootExamplesStage": "root-fix-2",
+    "rootExamplesFixedAt": "2026-10-19",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

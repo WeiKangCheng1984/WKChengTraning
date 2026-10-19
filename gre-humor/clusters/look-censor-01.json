@@ -74,8 +74,8 @@
       "roleInScript": "責備燈",
       "humorDevice": "story",
       "zhGloss": "責備",
-      "speakLineEn": "Blame processes, then fix them.",
-      "speakLineZh": "責備流程，然後修好。",
+      "speakLineEn": "It is unfair to blame the intern for a decision made by managers.",
+      "speakLineZh": "把經理做的決定怪到實習生頭上並不公平。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -104,8 +104,8 @@
       "roleInScript": "黑名單角色",
       "humorDevice": "story",
       "zhGloss": "黑名單",
-      "speakLineEn": "Blacklist fabricated datasets.",
-      "speakLineZh": "把捏造資料集列入黑名單。",
+      "speakLineEn": "Airlines may blacklist passengers who refuse to follow safety rules.",
+      "speakLineZh": "航空公司可能把拒絕遵守安全規定的旅客列入黑名單。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -119,8 +119,8 @@
       "roleInScript": "批准章",
       "humorDevice": "story",
       "zhGloss": "批准",
-      "speakLineEn": "Approve protocols before collection.",
-      "speakLineZh": "收集前批准規程。",
+      "speakLineEn": "The council must approve the budget before construction can begin.",
+      "speakLineZh": "議會必須先批准預算，工程才能開工。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -134,8 +134,8 @@
       "roleInScript": "剪輯角色",
       "humorDevice": "story",
       "zhGloss": "剪輯",
-      "speakLineEn": "Label every edit in the bay.",
-      "speakLineZh": "剪輯室每次剪輯都要標。",
+      "speakLineEn": "The film student stayed late to edit the final classroom documentary.",
+      "speakLineZh": "電影系學生熬夜剪輯課堂紀錄片的最終版本。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -160,6 +160,8 @@
     "stage": "P2-batch07",
     "polishedAt": "2026-10-19",
     "polishStage": "Q-wave3",
-    "zhEnrichedAt": "2026-10-19"
+    "zhEnrichedAt": "2026-10-19",
+    "semlookPolishAt": "2026-10-19",
+    "semlookPolishStage": "semlook-careful-polish-v1"
   }
 }

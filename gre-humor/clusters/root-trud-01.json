@@ -14,8 +14,8 @@
       "roleInScript": "硬闖",
       "humorDevice": "morphology",
       "zhGloss": "闖入",
-      "speakLineEn": "Do not intrude on blinded analysis.",
-      "speakLineZh": "不要侵入盲法分析。",
+      "speakLineEn": "Please do not intrude on private conversations in the hallway.",
+      "speakLineZh": "請不要在走廊上打擾別人的私人談話。",
       "related": {
         "synonyms": "invade",
         "antonyms": ""
@@ -104,8 +104,8 @@
       "roleInScript": "推一把",
       "humorDevice": "story",
       "zhGloss": "推力",
-      "speakLineEn": "Thrust transparency into the workflow.",
-      "speakLineZh": "把透明推進工作流。",
+      "speakLineEn": "The main thrust of the essay is a call for fairness.",
+      "speakLineZh": "這篇文章的主要要旨是呼籲公平。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -134,8 +134,8 @@
       "roleInScript": "不擋路",
       "humorDevice": "story",
       "zhGloss": "不突出的",
-      "speakLineEn": "Prefer unobtrusive watermarks.",
-      "speakLineZh": "偏好不顯眼浮水印。",
+      "speakLineEn": "The camera stayed unobtrusive so guests could speak freely.",
+      "speakLineZh": "攝影機保持不顯眼，好讓賓客暢所欲言。",
       "related": {
         "synonyms": "unnoticeable",
         "antonyms": "obtrusive"
@@ -149,8 +149,8 @@
       "roleInScript": "推銷感",
       "humorDevice": "story",
       "zhGloss": "硬推的",
-      "speakLineEn": "Pushy claims invite skepticism.",
-      "speakLineZh": "硬推主張招來懷疑。",
+      "speakLineEn": "The salesperson was pushy and ignored polite refusals.",
+      "speakLineZh": "那位銷售員很硬推，對禮貌拒絕視而不見。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -175,6 +175,8 @@
     "reviewedAt": "2026-10-19",
     "stage": "P2-batch03",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

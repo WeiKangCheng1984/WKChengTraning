@@ -29,8 +29,8 @@
       "roleInScript": "職缺／空位",
       "humorDevice": "morphology",
       "zhGloss": "空缺",
-      "speakLineEn": "A vacancy in the codebook invites miscodes.",
-      "speakLineZh": "編碼簿空缺誘發錯碼。",
+      "speakLineEn": "There is one vacancy left in the seminar.",
+      "speakLineZh": "研討班還剩一個名額空缺。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -164,8 +164,8 @@
       "roleInScript": "空白格",
       "humorDevice": "story",
       "zhGloss": "空白",
-      "speakLineEn": "A blank methods section fails review.",
-      "speakLineZh": "空白方法段審不過。",
+      "speakLineEn": "Leave the last page blank for the instructor’s comments.",
+      "speakLineZh": "最後一頁請留白，給老師寫評語。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -179,8 +179,8 @@
       "roleInScript": "空心",
       "humorDevice": "story",
       "zhGloss": "中空的",
-      "speakLineEn": "Hollow metrics inflate resumes.",
-      "speakLineZh": "空心指標灌水履歷。",
+      "speakLineEn": "The old tree was hollow inside after decades of rot.",
+      "speakLineZh": "這棵老樹因長年腐朽而內部中空。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-19",
     "stage": "P2-batch04",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch2"
   }
 }

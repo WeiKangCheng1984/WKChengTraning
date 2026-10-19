@@ -15,7 +15,7 @@
       "humorDevice": "morphology",
       "zhGloss": "結束；推斷出",
       "speakLineEn": "We conclude that the evidence is insufficient.",
-      "speakLineZh": "我們斷定證據不足。",
+      "speakLineZh": "我們斷定目前的證據仍然不足。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -74,8 +74,8 @@
       "roleInScript": "管路被堵住",
       "humorDevice": "morphology",
       "zhGloss": "阻礙；阻擋",
-      "speakLineEn": "Plaque can occlude the artery.",
-      "speakLineZh": "斑塊可能堵塞動脈。",
+      "speakLineEn": "Thick plaque can occlude a coronary artery over time.",
+      "speakLineZh": "厚重斑塊長期下來可能堵塞冠狀動脈。",
       "related": {
         "synonyms": "obstruct, obturate, impede, jam, block",
         "antonyms": "open, clear, free"
@@ -104,8 +104,8 @@
       "roleInScript": "關閉門",
       "humorDevice": "morphology",
       "zhGloss": "關閉",
-      "speakLineEn": "A careful reader links closure to 關閉, not a lookalike neighbor.",
-      "speakLineZh": "細心讀者把 closure 連到「關閉」，不連形近鄰居。",
+      "speakLineEn": "The bridge closure forced drivers onto local roads.",
+      "speakLineZh": "橋樑封閉迫使駕駛改走地方道路。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -119,8 +119,8 @@
       "roleInScript": "圍場角色",
       "humorDevice": "morphology",
       "zhGloss": "圍場",
-      "speakLineEn": "Hold the meaning steady: enclosure means 圍場.",
-      "speakLineZh": "記住考意：enclosure＝圍場。",
+      "speakLineEn": "Sheep were kept in a wooden enclosure overnight.",
+      "speakLineZh": "羊群夜間關在木製圍場裡。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -134,8 +134,8 @@
       "roleInScript": "止贖章",
       "humorDevice": "morphology",
       "zhGloss": "阻止",
-      "speakLineEn": "In the end, they chose to foreclose what they had once defended.",
-      "speakLineZh": "阻止。",
+      "speakLineEn": "Rising rates may foreclose any chance of refinancing this year.",
+      "speakLineZh": "利率上升可能使今年再融資的機會完全被堵住。",
       "related": {
         "synonyms": "prevent, forestall, preclude, forbid",
         "antonyms": "let, allow, permit"
@@ -149,8 +149,8 @@
       "roleInScript": "隱居鎖",
       "humorDevice": "morphology",
       "zhGloss": "隱居的；獨處的",
-      "speakLineEn": "Sitting under the reclusive calm of a shade tree.",
-      "speakLineZh": "隱居的；獨處的。",
+      "speakLineEn": "The reclusive novelist rarely left her mountain cottage.",
+      "speakLineZh": "那位隱居的小說家很少離開山上的小屋。",
       "related": {
         "synonyms": "recluse, withdrawn, cloistered, secluded, sequestered",
         "antonyms": "socialite, extrovert, advance, deposit, engage"
@@ -164,8 +164,8 @@
       "roleInScript": "隱居屋",
       "humorDevice": "morphology",
       "zhGloss": "隔離；隱居",
-      "speakLineEn": "A clear sense of seclusion is crucial to understanding the argument.",
-      "speakLineZh": "隔離；隱居。",
+      "speakLineEn": "She sought seclusion in a quiet cabin to finish the novel.",
+      "speakLineZh": "她到安靜小屋隱居，專心把小說寫完。",
       "related": {
         "synonyms": "privacy, privateness",
         "antonyms": ""
@@ -195,6 +195,10 @@
     "thickenedAt": "P4-batch01",
     "polishedAt": "2026-10-19",
     "polishStage": "Q-wave2",
-    "zhEnrichedAt": "2026-10-19"
+    "zhEnrichedAt": "2026-10-19",
+    "rootExamplesStage": "root-fix-1",
+    "rootExamplesFixedAt": "2026-10-19",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch2"
   }
 }

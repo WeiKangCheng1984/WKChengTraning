@@ -104,8 +104,8 @@
       "roleInScript": "合奏席",
       "humorDevice": "morphology",
       "zhGloss": "合作",
-      "speakLineEn": "Teams must cooperate on shared codebooks.",
-      "speakLineZh": "團隊必須共用編碼簿合作。",
+      "speakLineEn": "Neighboring towns agreed to cooperate on flood control.",
+      "speakLineZh": "鄰近城鎮同意在防洪上合作。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -134,8 +134,8 @@
       "roleInScript": "歌劇廳",
       "humorDevice": "story",
       "zhGloss": "歌劇",
-      "speakLineEn": "Do not turn methods into opera without scores.",
-      "speakLineZh": "別把方法變成沒有樂譜的歌劇。",
+      "speakLineEn": "They attended the opera for the first time last winter.",
+      "speakLineZh": "去年冬天他們第一次去看歌劇。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-19",
     "stage": "P2-batch06",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish"
   }
 }

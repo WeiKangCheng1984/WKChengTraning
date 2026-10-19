@@ -29,8 +29,8 @@
       "roleInScript": "會議睡著",
       "humorDevice": "morphology",
       "zhGloss": "無聊的；催眠的",
-      "speakLineEn": "Somnolent review misses swaps.",
-      "speakLineZh": "昏昏欲睡的審查錯過替換。",
+      "speakLineEn": "The somnolent heat of afternoon made everyone drowsy.",
+      "speakLineZh": "午後令人昏昏欲睡的熱氣讓大家都打瞌睡。",
       "related": {
         "synonyms": "soporific",
         "antonyms": "stimulating, invigorating"
@@ -44,8 +44,8 @@
       "roleInScript": "夢遊提交",
       "humorDevice": "morphology",
       "zhGloss": "夢遊者",
-      "speakLineEn": "Do not be a somnambulist deployer.",
-      "speakLineZh": "不要當夢遊部署者。",
+      "speakLineEn": "The somnambulist wandered into the kitchen while still asleep.",
+      "speakLineZh": "那位夢遊者還在睡夢中就走進了廚房。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -59,8 +59,8 @@
       "roleInScript": "催睡藥味",
       "humorDevice": "morphology",
       "zhGloss": "催睡的",
-      "speakLineEn": "Somniferous prose hides the estimand.",
-      "speakLineZh": "催睡文風掩蓋目標量。",
+      "speakLineEn": "The lecture’s somniferous tone put half the room to sleep.",
+      "speakLineZh": "講座催人欲睡的語氣讓半個教室睡著了。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -89,8 +89,8 @@
       "roleInScript": "沒醒",
       "humorDevice": "story",
       "zhGloss": "睡著的",
-      "speakLineEn": "Do not ship while half asleep.",
-      "speakLineZh": "半睡不要上線。",
+      "speakLineEn": "Half the audience was already asleep by the third act.",
+      "speakLineZh": "演到第三幕時，半數觀眾已經睡著了。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -119,8 +119,8 @@
       "roleInScript": "短睡",
       "humorDevice": "story",
       "zhGloss": "小睡",
-      "speakLineEn": "A nap beats a reckless push.",
-      "speakLineZh": "小睡勝過魯莽推送。",
+      "speakLineEn": "A short nap after lunch helped her finish the draft.",
+      "speakLineZh": "午餐後小睡一會兒，幫她把草稿寫完。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-19",
     "stage": "P2-batch03",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

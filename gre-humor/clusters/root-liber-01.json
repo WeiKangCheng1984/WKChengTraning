@@ -60,7 +60,7 @@
       "humorDevice": "morphology",
       "zhGloss": "吝嗇的；偏執的",
       "speakLineEn": "Illiberal gatekeeping blocks critique.",
-      "speakLineZh": "狹隘把關阻擋批評。",
+      "speakLineZh": "狹隘的把關會擋下有益的批評。",
       "related": {
         "synonyms": "intolerant",
         "antonyms": "tolerant"
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "P2-batch01",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch2"
   }
 }

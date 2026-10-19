@@ -44,8 +44,8 @@
       "roleInScript": "勒痕責難",
       "humorDevice": "morphology",
       "zhGloss": "責難；批評",
-      "speakLineEn": "Invite stricture from auditors early.",
-      "speakLineZh": "及早邀請稽核責難。",
+      "speakLineEn": "The reviewer’s stricture forced a clearer rewrite of chapter two.",
+      "speakLineZh": "審稿人的嚴厲批評迫使第二章改寫得更清楚。",
       "related": {
         "synonyms": "stenosis",
         "antonyms": ""
@@ -104,8 +104,8 @@
       "roleInScript": "綁住",
       "humorDevice": "morphology",
       "zhGloss": "約束",
-      "speakLineEn": "Constrain researcher degrees of freedom.",
-      "speakLineZh": "約束研究者自由度。",
+      "speakLineEn": "A tight budget will constrain what the festival can offer.",
+      "speakLineZh": "緊縮預算會限制音樂節能提供什麼。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -134,8 +134,8 @@
       "roleInScript": "澀味",
       "humorDevice": "story",
       "zhGloss": "收斂的；嚴苛的",
-      "speakLineEn": "An astringent review can still be fair.",
-      "speakLineZh": "嚴苛審查仍可公平。",
+      "speakLineEn": "An astringent lotion can tighten oily skin temporarily.",
+      "speakLineZh": "收斂化妝水能暫時緊緻油性肌膚。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -175,6 +175,8 @@
     "reviewedAt": "2026-10-19",
     "stage": "P2-batch04",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

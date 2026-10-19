@@ -14,8 +14,8 @@
       "roleInScript": "謊言噴",
       "humorDevice": "lookalike",
       "zhGloss": "欺騙",
-      "speakLineEn": "In the end, they chose to delude what they had once defended.",
-      "speakLineZh": "欺騙。",
+      "speakLineEn": "False headlines can delude readers into believing an easy miracle cure.",
+      "speakLineZh": "不實標題可能欺騙讀者，讓他們相信簡單的神奇療法。",
       "related": {
         "synonyms": "deceive, cozen",
         "antonyms": "undeceive"
@@ -29,8 +29,8 @@
       "roleInScript": "洪水閥",
       "humorDevice": "lookalike",
       "zhGloss": "大洪水",
-      "speakLineEn": "A clear sense of deluge is crucial to understanding the argument.",
-      "speakLineZh": "大洪水。",
+      "speakLineEn": "A sudden deluge flooded the subway stairs within minutes.",
+      "speakLineZh": "突如其來的大洪水在幾分鐘內淹沒地鐵階梯。",
       "related": {
         "synonyms": "flood, inundation, torrent, downpour, cloudburst, waterspout",
         "antonyms": "ebbtide"
@@ -44,8 +44,8 @@
       "roleInScript": "祕密閥",
       "humorDevice": "lookalike",
       "zhGloss": "泄露",
-      "speakLineEn": "In the end, they chose to divulge what they had once defended.",
-      "speakLineZh": "泄露。",
+      "speakLineEn": "Reporters refused to divulge the identity of their confidential source.",
+      "speakLineZh": "記者拒絕泄露機密消息來源的身分。",
       "related": {
         "synonyms": "unwrap, disclose, reveal, discover, expose, break",
         "antonyms": "wrap, cover, conform to, keep, make, promote, repair"
@@ -59,8 +59,8 @@
       "roleInScript": "洪水角色",
       "humorDevice": "story",
       "zhGloss": "洪水",
-      "speakLineEn": "Hold the meaning steady: flood means 洪水.",
-      "speakLineZh": "記住考意：flood＝洪水。",
+      "speakLineEn": "Sandbags lined the riverbank as the spring flood rose overnight.",
+      "speakLineZh": "春汛連夜上漲時，河岸堆起一排沙袋。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -74,8 +74,8 @@
       "roleInScript": "祕密角色",
       "humorDevice": "story",
       "zhGloss": "祕密",
-      "speakLineEn": "Critics argued that the policy would secret basic protections.",
-      "speakLineZh": "批評者主張該政策會祕密基本保障。",
+      "speakLineEn": "They kept the surprise party a secret until she walked through the door.",
+      "speakLineZh": "他們把驚喜派對當成祕密，直到她推門進來。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -89,8 +89,8 @@
       "roleInScript": "洩漏角色",
       "humorDevice": "story",
       "zhGloss": "洩漏",
-      "speakLineEn": "A careful reader links leak to 洩漏, not a lookalike neighbor.",
-      "speakLineZh": "細心讀者把 leak 連到「洩漏」，不連形近鄰居。",
+      "speakLineEn": "A roof leak stained the classroom ceiling after days of heavy rain.",
+      "speakLineZh": "連日大雨後，屋頂洩漏把教室天花板染上水漬。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -104,8 +104,8 @@
       "roleInScript": "噴嘴角色",
       "humorDevice": "story",
       "zhGloss": "噴嘴",
-      "speakLineEn": "Hold the meaning steady: nozzle means 噴嘴.",
-      "speakLineZh": "記住考意：nozzle＝噴嘴。",
+      "speakLineEn": "The firefighter adjusted the hose nozzle before aiming at the flames.",
+      "speakLineZh": "消防隊員調整水帶噴嘴後，才對準火燄射水。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -119,8 +119,8 @@
       "roleInScript": "工作室角色",
       "humorDevice": "story",
       "zhGloss": "工作室",
-      "speakLineEn": "Hold the meaning steady: studio means 工作室.",
-      "speakLineZh": "記住考意：studio＝工作室。",
+      "speakLineEn": "Art students shared a crowded studio filled with half-finished canvases.",
+      "speakLineZh": "美術系學生共用一間堆滿半成品畫布的擁擠工作室。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -134,8 +134,8 @@
       "roleInScript": "真相角色",
       "humorDevice": "story",
       "zhGloss": "真相",
-      "speakLineEn": "A careful reader links truth to 真相, not a lookalike neighbor.",
-      "speakLineZh": "細心讀者把 truth 連到「真相」，不連形近鄰居。",
+      "speakLineEn": "Witnesses finally told the truth about what happened on the bridge.",
+      "speakLineZh": "目擊者終於說出橋上事件的真相。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -149,8 +149,8 @@
       "roleInScript": "警報角色",
       "humorDevice": "story",
       "zhGloss": "警報",
-      "speakLineEn": "In the passage, alarm signals a shift toward \"警報\".",
-      "speakLineZh": "文中 alarm 標示語氣轉向「警報」。",
+      "speakLineEn": "The fire alarm pulled everyone out of the dorm into the courtyard.",
+      "speakLineZh": "火警警報把所有人從宿舍趕到中庭。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -175,6 +175,8 @@
     "stage": "P3-batch03",
     "polishedAt": "2026-10-19",
     "polishStage": "Q-wave2",
-    "zhEnrichedAt": "2026-10-19"
+    "zhEnrichedAt": "2026-10-19",
+    "semlookPolishAt": "2026-10-19",
+    "semlookPolishStage": "semlook-careful-polish-v1"
   }
 }

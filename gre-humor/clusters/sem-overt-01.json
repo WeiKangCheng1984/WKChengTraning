@@ -59,8 +59,8 @@
       "roleInScript": "偷溜",
       "humorDevice": "contrast",
       "zhGloss": "偷偷摸摸的",
-      "speakLineEn": "Surreptitious outcome switching is misconduct.",
-      "speakLineZh": "偷偷更換結局變項是不端。",
+      "speakLineEn": "A surreptitious glance at the answer key is still cheating in class.",
+      "speakLineZh": "上課偷偷摸摸瞄一眼答案卡，仍算作弊。",
       "related": {
         "synonyms": "furtive, sneak, sneaky, stealthy, clandestine, cloak-and-dagger",
         "antonyms": "overt, open"
@@ -104,8 +104,8 @@
       "roleInScript": "顯現出來",
       "humorDevice": "contrast",
       "zhGloss": "展現",
-      "speakLineEn": "Bias became manifest after stratification.",
-      "speakLineZh": "分層後偏差顯現。",
+      "speakLineEn": "Her relief became manifest when the final grades finally appeared online.",
+      "speakLineZh": "期末成績終於上網時，她的寬慰清楚展現出來。",
       "related": {
         "synonyms": "attest, certify, demonstrate, evidence, apparent, evident",
         "antonyms": "decertify, disprove"
@@ -175,6 +175,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "P1-batch01",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "semlookPolishAt": "2026-10-19",
+    "semlookPolishStage": "semlook-careful-polish-v1"
   }
 }

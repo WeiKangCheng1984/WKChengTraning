@@ -14,8 +14,8 @@
       "roleInScript": "拿尺",
       "humorDevice": "morphology",
       "zhGloss": "測量；措施",
-      "speakLineEn": "Measure what you claim.",
-      "speakLineZh": "測量你所主張的。",
+      "speakLineEn": "We measure rainfall with gauges placed across the valley.",
+      "speakLineZh": "我們用山谷各處的雨量計來測量降雨。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -44,8 +44,8 @@
       "roleInScript": "量得到",
       "humorDevice": "morphology",
       "zhGloss": "可測量的",
-      "speakLineEn": "Prefer measurable endpoints.",
-      "speakLineZh": "偏好可測量終點。",
+      "speakLineEn": "Set measurable goals before you begin the semester project.",
+      "speakLineZh": "開始學期專題前，先訂下可測量的目標。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -59,8 +59,8 @@
       "roleInScript": "指標尺",
       "humorDevice": "morphology",
       "zhGloss": "度量；指標",
-      "speakLineEn": "Declare the primary metric in advance.",
-      "speakLineZh": "事先聲明主要指標。",
+      "speakLineEn": "The metric system uses meters, liters, and kilograms.",
+      "speakLineZh": "公制使用公尺、公升與公斤。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -89,8 +89,8 @@
       "roleInScript": "尺不夠大",
       "humorDevice": "morphology",
       "zhGloss": "巨大的",
-      "speakLineEn": "Immense claims need immense checks.",
-      "speakLineZh": "巨大主張需要巨大檢查。",
+      "speakLineEn": "The library’s collection is of immense historical value.",
+      "speakLineZh": "這座圖書館的館藏具有巨大歷史價值。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -119,8 +119,8 @@
       "roleInScript": "對齊比例",
       "humorDevice": "morphology",
       "zhGloss": "同等大小的",
-      "speakLineEn": "Rewards should be commensurate with contribution.",
-      "speakLineZh": "報酬應與貢獻相稱。",
+      "speakLineEn": "Pay should be commensurate with experience and responsibility.",
+      "speakLineZh": "薪酬應與經驗及職責相稱。",
       "related": {
         "synonyms": "",
         "antonyms": "disproportionate, incommensurate"
@@ -205,6 +205,10 @@
     "reviewedAt": "2026-10-19",
     "stage": "P2-batch03",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootExamplesStage": "root-fix-2",
+    "rootExamplesFixedAt": "2026-10-19",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

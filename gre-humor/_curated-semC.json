@@ -1,0 +1,810 @@
+{
+  "accolade": {
+    "en": "Winning the campus writing prize felt like the highest accolade of her semester.",
+    "zh": "贏得校園寫作獎，對她來說像是這學期最高的榮譽肯定。"
+  },
+  "kudos": {
+    "en": "The cast earned well-deserved kudos after the sold-out opening night.",
+    "zh": "開幕夜場場爆滿後，全劇組贏得了實至名歸的讚譽。"
+  },
+  "plaudit": {
+    "en": "Every sincere plaudit from the audience made the nervous pianist smile.",
+    "zh": "觀眾每一句真誠的喝彩，都讓緊張的鋼琴家露出笑容。"
+  },
+  "commendation": {
+    "en": "The firefighter received a formal commendation for pulling the family from the smoke.",
+    "zh": "這位消防隊員因把一家人從濃煙中救出，而獲正式嘉獎。"
+  },
+  "adulate": {
+    "en": "Fans who adulate every celebrity tweet often forget to think for themselves.",
+    "zh": "對名人每則推文都一味奉承的粉絲，常常忘了獨立思考。"
+  },
+  "adulation": {
+    "en": "Constant adulation from strangers made the young star uneasy and guarded.",
+    "zh": "陌生人不斷的諂媚吹捧，讓這位年輕明星不安又防範。"
+  },
+  "flatter": {
+    "en": "He tried to flatter the judge with empty praise, but she saw through it instantly.",
+    "zh": "他試圖用空洞讚美奉承法官，但她立刻看穿了。"
+  },
+  "blandishment": {
+    "en": "No blandishment from the salesman could persuade her to buy the overpriced phone.",
+    "zh": "業務員再怎麼甜言蜜語，也說不動她去買那支超貴的手機。"
+  },
+  "truckle": {
+    "en": "She refused to truckle to the boss just to keep a dull office job.",
+    "zh": "她拒絕為了保住一份無聊的辦公室工作，而屈從討好上司。"
+  },
+  "excoriate": {
+    "en": "The columnist moved to excoriate the mayor for ignoring the flooded neighborhoods.",
+    "zh": "專欄作家嚴厲譴責市長對淹水社區視而不見。"
+  },
+  "berate": {
+    "en": "The coach began to berate the team for skipping practice before the final game.",
+    "zh": "教練因決賽前翹練而痛斥整支球隊。"
+  },
+  "upbraid": {
+    "en": "Mom would upbraid us gently whenever we left dirty dishes in the sink overnight.",
+    "zh": "只要我們把髒碗放水槽過夜，媽媽就會溫和地責備我們。"
+  },
+  "vilify": {
+    "en": "Online rumors tried to vilify the teacher before anyone checked the facts.",
+    "zh": "網路謠言在無人查證前，就試圖辱罵抹黑那位老師。"
+  },
+  "revile": {
+    "en": "Angry fans continued to revile the referee long after the final whistle blew.",
+    "zh": "終場哨響後很久，憤怒球迷仍不停辱罵那位裁判。"
+  },
+  "belittle": {
+    "en": "Please do not belittle a classmate's project just because the topic seems simple.",
+    "zh": "請不要只因題目看起來簡單，就貶低同學的專題。"
+  },
+  "decry": {
+    "en": "Local parents rose to decry the sudden cut in after-school music programs.",
+    "zh": "當地家長挺身譴責課後音樂課程突然被刪減。"
+  },
+  "chide": {
+    "en": "The librarian had to chide the group for whispering through the quiet reading hour.",
+    "zh": "管理員不得不責備那群人在安靜閱讀時段一直竊竊私語。"
+  },
+  "bouquet": {
+    "en": "She carried a modest bouquet of wildflowers into the small school auditorium.",
+    "zh": "她捧著一束樸素的野花走進小小的學校禮堂。"
+  },
+  "whip": {
+    "en": "The rider hung the unused whip on a hook beside the stable door.",
+    "zh": "騎士把沒用到的鞭子掛在馬廄門旁的鉤子上。"
+  },
+  "heckle": {
+    "en": "A few students tried to heckle the guest speaker with rude interruptions.",
+    "zh": "幾個學生用不禮貌的插話，試圖質問干擾來賓演講。"
+  },
+  "encore": {
+    "en": "The crowd shouted for an encore until the band returned with one more song.",
+    "zh": "觀眾高喊安可，直到樂團再回來加唱一首。"
+  },
+  "roast": {
+    "en": "At the charity roast, friends teased the host with jokes that never turned cruel.",
+    "zh": "在慈善吐槽大會上，朋友們用玩笑調侃主持人，卻從不刻薄傷人。"
+  },
+  "publicize": {
+    "en": "The club will publicize the blood drive on posters all across campus.",
+    "zh": "社團會用滿校園的海報，宣傳這次捐血活動。"
+  },
+  "closet": {
+    "en": "She kept the birthday gifts hidden in the hall closet until Saturday morning.",
+    "zh": "她把生日禮物藏在走廊壁櫥裡，直到週六早上才拿出來。"
+  },
+  "secluded": {
+    "en": "They rented a secluded cabin where no traffic noise could reach the porch.",
+    "zh": "他們租了一間隱居般的小屋，門廊聽不到任何車聲。"
+  },
+  "classified": {
+    "en": "Only staff with clearance may open that classified folder on the secure drive.",
+    "zh": "只有取得許可的人員，才能開啟安全硬碟上那份機密資料夾。"
+  },
+  "plaza": {
+    "en": "Street musicians filled the sunny plaza with soft guitar music at noon.",
+    "zh": "中午時，街頭樂手用輕柔吉他聲填滿陽光灑落的廣場。"
+  },
+  "booth": {
+    "en": "The radio host recorded the interview inside a soundproof booth downtown.",
+    "zh": "電台主持人在市中心一間隔音房裡錄製訪談。"
+  },
+  "folder": {
+    "en": "Please drop your signed permission slip into the blue folder on my desk.",
+    "zh": "請把簽好名的同意書放進我桌上那本藍色資料夾。"
+  },
+  "lock": {
+    "en": "He replaced the rusty lock on the garden gate before winter storms arrived.",
+    "zh": "冬季風暴來前，他先換掉花園大門上生鏽的鎖。"
+  },
+  "poster": {
+    "en": "A bright poster for the spring musical hung beside the cafeteria entrance.",
+    "zh": "春日音樂劇的鮮豔海報，掛在餐廳入口旁。"
+  },
+  "chaste": {
+    "en": "The poem kept a chaste tone, avoiding any flashy or suggestive imagery.",
+    "zh": "這首詩語氣純潔克制，避開一切華麗或挑逗的意象。"
+  },
+  "immaculate": {
+    "en": "Her notes were immaculate, with every date and source neatly underlined.",
+    "zh": "她的筆記毫無瑕疵，每個日期與出處都整齊畫線。"
+  },
+  "unsullied": {
+    "en": "He hoped his reputation would remain unsullied after the messy campus rumor.",
+    "zh": "經歷校園謠言風波後，他仍希望自己的名聲保持未受玷污。"
+  },
+  "pure": {
+    "en": "The mountain spring tasted pure and cold after the long dusty hike.",
+    "zh": "走完漫長塵土飛揚的健行後，山泉嘗起來純淨又清涼。"
+  },
+  "stainless": {
+    "en": "She kept a stainless record of honesty through four years of student government.",
+    "zh": "在四年學生自治會任內，她保持了無瑕疵的誠實紀錄。"
+  },
+  "besmirch": {
+    "en": "False posts tried to besmirch his name before the student election even began.",
+    "zh": "假貼文試圖在學生會選舉開始前就玷污他的名聲。"
+  },
+  "blemish": {
+    "en": "One late assignment should not leave a permanent blemish on an otherwise strong record.",
+    "zh": "一次遲交不該在原本優秀的成績單上留下永久污點。"
+  },
+  "defile": {
+    "en": "Dumping paint into the creek would defile the park that kids use every weekend.",
+    "zh": "把油漆倒進小溪，會污染孩子們每週末使用的公園。"
+  },
+  "sully": {
+    "en": "A single unfair accusation can sully years of careful, honest work.",
+    "zh": "一則不公指控，就能玷污多年謹慎誠實的努力。"
+  },
+  "tarnish": {
+    "en": "Humidity made the silver trophies tarnish until they looked dull gray.",
+    "zh": "濕氣讓銀獎盃失去光澤，看起來變成暗灰色。"
+  },
+  "whiterobe": {
+    "en": "The choir director handed each singer a clean whiterobe before the winter concert.",
+    "zh": "冬季音樂會前，合唱指揮發給每位歌手一件乾淨白袍。"
+  },
+  "ink": {
+    "en": "Blue ink spilled across the worksheet and stained half of the answer blanks.",
+    "zh": "藍色墨汁洒在學習單上，染髒了一半作答格。"
+  },
+  "laundry": {
+    "en": "She dropped the muddy jerseys at the corner laundry after Saturday practice.",
+    "zh": "週六練習後，她把沾泥球衣送到街角洗衣店。"
+  },
+  "spot": {
+    "en": "A coffee spot on his white shirt made him change before the oral exam.",
+    "zh": "白襯衫上的咖啡斑點，讓他在口試前不得不換衣。"
+  },
+  "bleach": {
+    "en": "Use mild bleach carefully if you want to remove the mold from the tile grout.",
+    "zh": "若要清除磁磚縫的霉斑，請小心使用溫和漂白水。"
+  },
+  "soap": {
+    "en": "She washed the paint off her hands with warm water and fragrant soap.",
+    "zh": "她用溫水和香皂把手上的顏料洗掉。"
+  },
+  "splash": {
+    "en": "Kids love to splash cold water at each other beside the outdoor fountain.",
+    "zh": "孩子們喜歡在戶外噴水池旁互相濺潑冷水。"
+  },
+  "adamant": {
+    "en": "She stayed adamant that group members must cite every source in the paper.",
+    "zh": "她堅決要求組員在報告中必須標註每一個出處。"
+  },
+  "pliable": {
+    "en": "Warm clay feels pliable in your hands before it hardens on the pottery wheel.",
+    "zh": "陶土在轉盤上變硬前，握在手裡感覺柔軟好塑形。"
+  },
+  "yielding": {
+    "en": "The foam mat was yielding underfoot, soft enough for morning stretch drills.",
+    "zh": "泡棉墊踩起來柔軟服貼，適合晨間伸展練習。"
+  },
+  "mulish": {
+    "en": "His mulish refusal to revise one paragraph cost the team an easy rewrite win.",
+    "zh": "他固執如驢、拒絕改一段文字，讓小組錯失輕鬆重寫拿分的機會。"
+  },
+  "pigheaded": {
+    "en": "Even clear photos could not shake her pigheaded belief that the rumor was true.",
+    "zh": "即使有清楚照片，也動搖不了她那頑固的謠言信念。"
+  },
+  "amenable": {
+    "en": "New volunteers proved amenable to the schedule once the coach explained the reason.",
+    "zh": "教練說明原因後，新志工變得很聽話、願意配合時間表。"
+  },
+  "pliant": {
+    "en": "Heat made the plastic strip pliant enough to bend around the model frame.",
+    "zh": "加熱後塑膠條變得柔軟，足以彎繞模型骨架。"
+  },
+  "docile": {
+    "en": "The usually lively puppy grew docile after a long walk in the park.",
+    "zh": "平常活潑的小狗，在公園長走後變得溫順安靜。"
+  },
+  "yoga": {
+    "en": "She joined a lunchtime yoga class to loosen stiff shoulders after typing all morning.",
+    "zh": "打字一整早後，她去上午休瑜珈課放鬆僵硬肩膀。"
+  },
+  "cement": {
+    "en": "Workers poured fresh cement for the new sidewalk outside the science building.",
+    "zh": "工人在科學大樓外，為新行人步道灌注新鮮水泥。"
+  },
+  "bend": {
+    "en": "You must bend the wire carefully so the circuit board connector fits without snapping.",
+    "zh": "你必須小心地彎曲線材，才能讓電路板接頭卡住又不折斷。"
+  },
+  "stubborn": {
+    "en": "The stubborn printer jammed again until someone cleared the wrinkled paper path.",
+    "zh": "那台固執的印表機又卡住，直到有人清掉皺紙紙道。"
+  },
+  "softness": {
+    "en": "The softness of the new sweater made winter mornings feel almost gentle.",
+    "zh": "新毛衣的柔軟觸感，讓冬日早晨幾乎變得溫柔。"
+  },
+  "stretch": {
+    "en": "Athletes stretch their calves before every sprint so the muscles stay loose.",
+    "zh": "選手每次衝刺前都會伸展小腿，讓肌肉保持放鬆。"
+  },
+  "brick": {
+    "en": "One loose brick near the library steps needed to be reset after the rain.",
+    "zh": "雨後圖書館台階旁有一塊鬆動的磚，需要重新嵌好。"
+  },
+  "rubber": {
+    "en": "The lab stool had a rubber foot that stopped it from sliding across the floor.",
+    "zh": "實驗凳有橡膠腳墊，能防止在地板上滑動。"
+  },
+  "hinge": {
+    "en": "Whether the grant arrives on time is the hinge of our entire spring timeline.",
+    "zh": "補助是否準時到位，是整個春季時程的關鍵。"
+  },
+  "lockdown": {
+    "en": "During the surprise lockdown drill, hallway doors stayed shut for fifteen minutes.",
+    "zh": "突襲封鎖演練期間，走廊門關閉了十五分鐘。"
+  },
+  "giveway": {
+    "en": "After a long debate, the committee offered a small giveway on the deadline rule.",
+    "zh": "長辯論後，委員會在截止期限規定上做了一點讓步。"
+  },
+  "steel": {
+    "en": "The sculpture used recycled steel beams from an old bridge downtown.",
+    "zh": "這座雕塑使用了市中心舊橋拆下的回收鋼樑。"
+  },
+  "clay": {
+    "en": "First-year art students pressed wet clay into simple bowls for the kiln.",
+    "zh": "大一美術生把濕黏土壓成簡單碗形，準備進窯。"
+  },
+  "mat": {
+    "en": "Leave your muddy shoes on the entry mat before walking into the classroom.",
+    "zh": "進教室前，請把泥鞋放在門口墊子上。"
+  },
+  "bolsterpad": {
+    "en": "She tucked a soft bolsterpad behind her back during the long bus ride home.",
+    "zh": "坐長途公車回家時，她在背後塞了一個柔軟靠墊。"
+  },
+  "donkey": {
+    "en": "A patient donkey carried picnic baskets up the short trail to the overlook.",
+    "zh": "一頭耐心的驢子，把野餐籃馱上通往觀景台的短步道。"
+  },
+  "whipcord": {
+    "en": "The old riding glove still had a thin whipcord loop sewn at the wrist.",
+    "zh": "那隻舊騎馬手套腕部，仍縫著一圈細細的鞭繩。"
+  },
+  "flex": {
+    "en": "Watch the gymnast flex her wrists slowly before she mounts the uneven bars.",
+    "zh": "看體操選手上高低槓前，慢慢屈曲手腕熱身。"
+  },
+  "rigidbar": {
+    "en": "Engineers bolted a rigidbar across the frame so the shelf would not sag.",
+    "zh": "工程師在框架上鎖上一根硬棒，避免架子下垂。"
+  },
+  "paucity": {
+    "en": "A paucity of quiet study rooms forced students into noisy cafe corners.",
+    "zh": "安靜自習室缺乏，逼得學生擠進嘈雜咖啡角落。"
+  },
+  "plethora": {
+    "en": "A plethora of club flyers covered every bulletin board by the first week.",
+    "zh": "開學第一週，佈告欄就被過量的社團傳單貼滿。"
+  },
+  "abundance": {
+    "en": "An abundance of ripe apples arrived from the orchard for the bake sale.",
+    "zh": "果園送來充裕的成熟蘋果，供應義賣烘焙攤。"
+  },
+  "sparse": {
+    "en": "Only sparse grass grew along the dry path behind the sports field.",
+    "zh": "運動場後方乾旱小徑上，只長著稀疏的草。"
+  },
+  "exiguous": {
+    "en": "Their exiguous travel budget allowed only one shared taxi to the museum.",
+    "zh": "他們稀少的旅費預算，只夠合搭一輛計程車去美術館。"
+  },
+  "paltry": {
+    "en": "The prize money looked paltry next to the hours of rehearsal students invested.",
+    "zh": "相較學生投入的排練時數，那筆獎金顯得微不足道。"
+  },
+  "puny": {
+    "en": "Compared with last year's festival, this week's turnout looked puny and thin.",
+    "zh": "和去年的嘉年華相比，這週的出席人數顯得微不足道又稀稀落落。"
+  },
+  "scant": {
+    "en": "With scant daylight left, hikers hurried down before the trail grew dark.",
+    "zh": "剩餘日光稀少，健行者趕緊下山，免得步道變暗。"
+  },
+  "scrimp": {
+    "en": "They had to scrimp on snacks all month to afford the train tickets home.",
+    "zh": "為了負擔回家火車票，他們整個月都得節省零食支出。"
+  },
+  "skimp": {
+    "en": "Do not skimp on sleep before finals if you want a clear head in the morning.",
+    "zh": "若想早上頭腦清醒，期末前別吝於睡覺、別偷減睡眠。"
+  },
+  "stint": {
+    "en": "She would not stint on kindness when a homesick roommate needed company.",
+    "zh": "室友想家需要陪伴時，她絕不吝惜善意。"
+  },
+  "anemic": {
+    "en": "The debate felt anemic until someone raised a sharp question about fairness.",
+    "zh": "辯論一直缺乏活力，直到有人提出關於公平的尖銳問題。"
+  },
+  "famine": {
+    "en": "History class studied how drought and war once led to a devastating famine.",
+    "zh": "歷史課研讀乾旱與戰爭如何曾導致毀滅性饑荒。"
+  },
+  "glut": {
+    "en": "Cheap streaming apps can glut your evenings until free time disappears.",
+    "zh": "廉價串流軟體可能讓你晚上過量刷劇，直到空閒時間消失。"
+  },
+  "surfeit": {
+    "en": "After a surfeit of dessert samples, nobody wanted another slice of cake.",
+    "zh": "試吃過量甜點後，再也沒人想再來一塊蛋糕。"
+  },
+  "opulence": {
+    "en": "The hotel lobby showed quiet opulence with marble floors and soft lighting.",
+    "zh": "飯店大廳以大理石地與柔光，展現低調的富裕氣派。"
+  },
+  "bounteous": {
+    "en": "Neighbors shared a bounteous harvest of tomatoes from the community garden.",
+    "zh": "鄰居們分享社區菜園裡慷慨豐盛的番茄收成。"
+  },
+  "exuberance": {
+    "en": "Her exuberance after the win lit up the whole locker room with laughter.",
+    "zh": "獲勝後她熱情洋溢，讓整個更衣室充滿笑聲。"
+  },
+  "lush": {
+    "en": "Rain turned the campus courtyard into a lush carpet of deep green grass.",
+    "zh": "雨水把校園中庭變成一片茂盛濃綠的草地。"
+  },
+  "rife": {
+    "en": "Rumors were rife in the hallway before the principal posted the real notice.",
+    "zh": "校長張貼正式公告前，走廊裡謠言四處充斥。"
+  },
+  "scads": {
+    "en": "There were scads of unfinished drafts piled beside her laptop last night.",
+    "zh": "昨晚她筆電旁堆著大量未完成的草稿。"
+  },
+  "superfluity": {
+    "en": "Packing for one weekend, she discarded every superfluity from her overflowing bag.",
+    "zh": "只打包一個週末，她把書包裡每樣多餘物品都拿掉。"
+  },
+  "sybaritic": {
+    "en": "A sybaritic spa weekend felt odd after months of cramped dorm life.",
+    "zh": "擠宿舍好幾個月後，一個驕奢逸樂的溫泉週末顯得格格不入。"
+  },
+  "magnanimous": {
+    "en": "The winning team was magnanimous, praising the rivals for a hard-fought match.",
+    "zh": "冠軍隊寬宏大量，稱讚對手打了一場硬仗。"
+  },
+  "ebullience": {
+    "en": "His morning ebullience made even the sleepy bus ride feel brighter.",
+    "zh": "他早上的熱情奔放，連昏沉的公車程都顯得明亮些。"
+  },
+  "mint": {
+    "en": "She spent a mint on textbooks that first September at college.",
+    "zh": "大學第一個九月，她在教科書上花了一大筆錢。"
+  },
+  "regale": {
+    "en": "Grandpa would regale us with camping stories until the fire burned low.",
+    "zh": "爺爺會用露營故事款待我們，直到營火漸漸變小。"
+  },
+  "slash": {
+    "en": "The city had to slash festival spending after tax revenue fell sharply.",
+    "zh": "稅收大幅下滑後，市府不得不大量削減節慶支出。"
+  },
+  "decimate": {
+    "en": "A sudden hailstorm can decimate a fruit orchard in a single afternoon.",
+    "zh": "一場突如其來的冰雹，可能在一個下午大量毀壞果園。"
+  },
+  "bolster": {
+    "en": "Extra practice sessions helped bolster her confidence before the oral defense.",
+    "zh": "額外練習時段幫助支撐她在口試答辯前的信心。"
+  },
+  "corroborate": {
+    "en": "Two classmates could corroborate that he was in the library during the theft.",
+    "zh": "兩位同學能證實，竊案發生時他人在圖書館。"
+  },
+  "endorse": {
+    "en": "Three professors agreed to endorse her application for the research internship.",
+    "zh": "三位教授同意認可並背書她的研究實習申請。"
+  },
+  "uphold": {
+    "en": "Student leaders vowed to uphold the honor code during every take-home exam.",
+    "zh": "學生領袖誓言在每次回家考試中維護榮譽守則。"
+  },
+  "champion": {
+    "en": "She continued to champion free tutoring for first-year students all semester.",
+    "zh": "她整學期持續擁護為大一新生提供免費課輔。"
+  },
+  "vindicate": {
+    "en": "The recovered security video helped vindicate him after weeks of unfair blame.",
+    "zh": "找回的監視錄影，在數週不公指責後幫他洗清嫌疑。"
+  },
+  "auspices": {
+    "en": "The language festival ran under the auspices of the international student office.",
+    "zh": "語言祭在國際學生辦公室的贊助保護下舉行。"
+  },
+  "espouse": {
+    "en": "Many voters still espouse the idea that public libraries deserve steady funding.",
+    "zh": "許多選民仍擁護公共圖書館應獲得穩定經費的想法。"
+  },
+  "undermine": {
+    "en": "Constant late-night gossip can undermine trust inside a small project team.",
+    "zh": "持續的深夜八卦，會暗中破壞小型專題小組內的信任。"
+  },
+  "sabotage": {
+    "en": "Someone tried to sabotage the science fair by hiding the demo power cords.",
+    "zh": "有人試圖藏起展示用電源線，蓄意破壞科學展。"
+  },
+  "subversive": {
+    "en": "The underground zine printed subversive cartoons that mocked strict dress rules.",
+    "zh": "地下刊物印出顛覆性漫畫，嘲諷嚴格服裝規定。"
+  },
+  "enervate": {
+    "en": "Humidity and late nights can enervate even a usually energetic runner.",
+    "zh": "濕氣加上熬夜，能讓平常精力充沛的跑者也變得衰弱。"
+  },
+  "attenuate": {
+    "en": "Thick curtains help attenuate street noise during early morning study hours.",
+    "zh": "厚窗簾有助於在清晨自習時段減弱街上噪音。"
+  },
+  "hamstring": {
+    "en": "Missing bus schedules can hamstring students who work evening shifts off campus.",
+    "zh": "公車時刻對不上，會阻礙需要在校外上晚班的學生。"
+  },
+  "sap": {
+    "en": "Endless group chats can sap your focus right before a difficult midterm.",
+    "zh": "沒完沒了的群組訊息，會在困難期中考前削弱你的專注力。"
+  },
+  "blight": {
+    "en": "Abandoned storefronts blight the once busy street near the old train station.",
+    "zh": "廢棄店面損害了舊火車站附近一度熱鬧的街道。"
+  },
+  "taint": {
+    "en": "One dishonest grade can taint an otherwise honest academic record forever.",
+    "zh": "一次不誠實的成績，可能永遠玷污原本誠實的學業紀錄。"
+  },
+  "tamper": {
+    "en": "Please do not tamper with the lab scales; even a tiny shift ruins measurements.",
+    "zh": "請勿擅自破壞或亂動實驗秤；再小的偏移也會毀了測量。"
+  },
+  "detriment": {
+    "en": "Skipping breakfast to the detriment of concentration is a common exam-day mistake.",
+    "zh": "為了趕時間不吃早餐而損害專注力，是考試日常見錯誤。"
+  },
+  "overthrow": {
+    "en": "In the novel, rebels plot to overthrow a king who ignores the starving villages.",
+    "zh": "小說裡，叛軍密謀推翻那位無視飢餓村落的國王。"
+  },
+  "mar": {
+    "en": "A cracked phone screen can mar an otherwise perfect graduation day photo.",
+    "zh": "破裂的手機螢幕，可能損害原本完美的畢業典禮照片。"
+  },
+  "iconoclastic": {
+    "en": "His iconoclastic essays challenged fashion rules the school had never questioned.",
+    "zh": "他那些破除傳統偶像的文章，挑戰了學校從未質疑過的時尚規範。"
+  },
+  "subvention": {
+    "en": "A small government subvention kept the community theater lights on all winter.",
+    "zh": "一筆小小的政府津貼，讓社區劇場整冬燈火不熄。"
+  },
+  "budge": {
+    "en": "The committee would not budge on the safety rule, no matter how late the request.",
+    "zh": "無論申請多晚，委員會在安全規定上就是不肯改變立場。"
+  },
+  "embody": {
+    "en": "Her calm speech seemed to embody the values the scholarship committee admired.",
+    "zh": "她沉穩的演講，似乎體現了獎學金委員會所欣賞的價值。"
+  },
+  "celerity": {
+    "en": "With surprising celerity, the volunteer team cleared the hall after the concert.",
+    "zh": "志工隊以驚人的迅速，在音樂會後清出場地。"
+  },
+  "dispatch": {
+    "en": "She handled the ticket problems with quiet dispatch and got everyone seated.",
+    "zh": "她安靜又迅速地處理票務問題，讓大家都入座。"
+  },
+  "expeditious": {
+    "en": "An expeditious reply from the registrar saved him from missing the add deadline.",
+    "zh": "註冊組迅速回覆，讓他免於錯過加選截止日。"
+  },
+  "prompt": {
+    "en": "A prompt apology after the misunderstanding calmed the whole group chat.",
+    "zh": "誤會後的即時道歉，讓整個群組聊天冷靜下來。"
+  },
+  "hasty": {
+    "en": "A hasty conclusion from one rumor can hurt someone who never got a hearing.",
+    "zh": "根據一則謠言就草率下結論，可能傷害從未被聽取的人。"
+  },
+  "fleet": {
+    "en": "The deer was fleet enough to vanish into the trees before anyone raised a camera.",
+    "zh": "那隻鹿速度夠快，在有人舉起相機前就消失進樹林。"
+  },
+  "bovine": {
+    "en": "His bovine stare during the lecture suggested he had slept through the night before.",
+    "zh": "他課堂上那遲鈍如牛的眼神，暗示前一晚幾乎沒睡。"
+  },
+  "dilatory": {
+    "en": "Dilatory replies from the landlord delayed every repair in the student apartment.",
+    "zh": "房東磨蹭的回覆，拖延了學生公寓每一次維修。"
+  },
+  "laggard": {
+    "en": "The last laggard finally caught up when the tour guide waited at the museum door.",
+    "zh": "導遊在美術館門口等候時，最後一個落後者終於趕上。"
+  },
+  "sluggish": {
+    "en": "After lunch the class felt sluggish until someone opened the windows for air.",
+    "zh": "午餐後全班感覺遲緩，直到有人開窗換氣。"
+  },
+  "dawdle": {
+    "en": "If you dawdle in the hallway, you will miss the first five minutes of chemistry.",
+    "zh": "若在走廊混日子閒晃，你會錯過化學課前五分鐘。"
+  },
+  "drawl": {
+    "en": "He tended to drawl each vowel when telling stories about his hometown summers.",
+    "zh": "講起家鄉夏天故事時，他常慢吞吞地拉長每個母音。"
+  },
+  "loiter": {
+    "en": "Security asked teens not to loiter near the station exit after midnight.",
+    "zh": "保全要求青少年午夜後不要在車站出口附近閒逛。"
+  },
+  "lightning": {
+    "en": "A flash of lightning lit the dorm courtyard during the sudden evening storm.",
+    "zh": "突如其來的晚間暴風雨中，一道閃電照亮宿舍中庭。"
+  },
+  "snail": {
+    "en": "A tiny snail left a shiny trail across the wet chalkboard eraser tray.",
+    "zh": "一隻小蝸牛在潮濕的黑板擦托盤上留下亮亮的痕跡。"
+  },
+  "package": {
+    "en": "The mailroom held a package of books that arrived too late for the reading week.",
+    "zh": "收發室扣留了一包書，可惜來得太晚趕不上閱讀週。"
+  },
+  "meeting": {
+    "en": "Our project meeting moved to the quiet room beside the library stairs.",
+    "zh": "我們的專題會議改到圖書館階梯旁的安靜房間。"
+  },
+  "turbo": {
+    "en": "The mechanic explained how a turbo forces more air into the small engine.",
+    "zh": "技師解釋渦輪如何把更多空氣壓進小型引擎。"
+  },
+  "brake": {
+    "en": "She pressed the brake gently as the school bus approached the icy corner.",
+    "zh": "校車接近結冰轉角時，她輕輕踩下煞車。"
+  },
+  "sprint": {
+    "en": "He saved one final sprint for the last fifty meters of the charity race.",
+    "zh": "慈善路跑最後五十公尺，他留下衝刺力氣衝刺。"
+  },
+  "chatty": {
+    "en": "The chatty seatmate on the train kept sharing snacks and travel tips.",
+    "zh": "火車上那位愛聊天的鄰座，一直分享零食與旅行小撇步。"
+  },
+  "prattle": {
+    "en": "Toddlers prattle happily about dinosaurs while parents wait in the clinic lobby.",
+    "zh": "幼兒在診所大廳開心閒聊恐龍，家長則在一旁等候。"
+  },
+  "evanescent": {
+    "en": "The rainbow was evanescent, fading before anyone finished taking a photo.",
+    "zh": "彩虹稍縱即逝，還沒人拍完照就消散了。"
+  },
+  "transient": {
+    "en": "Their transient joy at winning faded when the makeup exam schedule arrived.",
+    "zh": "獲勝的短暫喜悅，在補考日程公布後就淡了。"
+  },
+  "provisional": {
+    "en": "The club offered a provisional schedule until the gym renovation dates were fixed.",
+    "zh": "在體育館整修日期確定前，社團先提供臨時課表。"
+  },
+  "tentative": {
+    "en": "We made a tentative plan for Saturday, knowing rain might force a change.",
+    "zh": "我們訂了週六暫定計畫，知道下雨可能被迫改期。"
+  },
+  "fleeting": {
+    "en": "A fleeting smile crossed her face when the surprise guest walked onstage.",
+    "zh": "驚喜嘉賓走上舞台時，她臉上閃過飛逝一笑。"
+  },
+  "impromptu": {
+    "en": "An impromptu sing-along filled the bus after the power outage canceled the show.",
+    "zh": "停電取消演出後，車上臨時發起即興合唱。"
+  },
+  "makeshift": {
+    "en": "They built a makeshift desk from two crates and a borrowed plywood board.",
+    "zh": "他們用兩只木箱和一塊借來的夾板，搭出臨時湊合的書桌。"
+  },
+  "respite": {
+    "en": "A short respite under the shade gave the hikers strength for the final climb.",
+    "zh": "樹蔭下短暫休息，讓健行者有力氣完成最後爬升。"
+  },
+  "reprieve": {
+    "en": "A weekend reprieve from deadlines let her sleep without setting an alarm.",
+    "zh": "週末暫緩交件壓力，讓她能不設鬧鐘好好睡。"
+  },
+  "fad": {
+    "en": "The neon shoelace fad lasted one month and then vanished from campus fashion.",
+    "zh": "螢光鞋帶這股短暫流行只撐一個月，就從校園時尚消失。"
+  },
+  "impermanence": {
+    "en": "The exhibit explored the impermanence of sand sculptures washed away by tides.",
+    "zh": "展覽探討沙雕被潮水沖走的無常與暫時性。"
+  },
+  "abiding": {
+    "en": "She kept an abiding love for piano lessons long after childhood recitals ended.",
+    "zh": "童年鋼琴發表會結束後很久，她仍保持持久的鋼琴課熱愛。"
+  },
+  "perennial": {
+    "en": "Parking shortages are a perennial complaint at the start of every fall term.",
+    "zh": "停車位不足是每年秋季開學時的常年抱怨。"
+  },
+  "perpetuate": {
+    "en": "Repeating a false story online can perpetuate harm long after the facts appear.",
+    "zh": "在網路重複假故事，可能在真相出現後仍使傷害長存。"
+  },
+  "eternal": {
+    "en": "The mural promised eternal friendship among classmates who painted it together.",
+    "zh": "壁畫承諾一起彩繪的同學之間有永久友誼。"
+  },
+  "incessant": {
+    "en": "Incessant construction noise made afternoon naps almost impossible in the dorm.",
+    "zh": "不停的工地噪音，讓宿舍下午幾乎無法小睡。"
+  },
+  "outlast": {
+    "en": "Good habits can outlast a single exam season and shape your whole semester.",
+    "zh": "好習慣能比單一考季更持久，並形塑整個學期。"
+  },
+  "durable": {
+    "en": "These durable backpacks survive rain, bus rides, and four years of heavy books.",
+    "zh": "這些耐用背包經得起雨淋、搭車，以及四年沉重課本。"
+  },
+  "recurrent": {
+    "en": "A recurrent headache every Monday made her rethink late Sunday study marathons.",
+    "zh": "每週一再出現的頭痛，讓她重新思考週日熬夜讀書馬拉松。"
+  },
+  "sequester": {
+    "en": "Writers sometimes sequester themselves in a quiet cabin to finish a draft.",
+    "zh": "作家有時會把自己隔絕在安靜小屋，專心寫完草稿。"
+  },
+  "intermission": {
+    "en": "During intermission, the audience stretched and bought snacks in the lobby.",
+    "zh": "中場休息時，觀眾在大廳伸懶腰並買零食。"
+  },
+  "offhand": {
+    "en": "His offhand remark about the budget sounded careless, though he meant no harm.",
+    "zh": "他對預算的即興隨便評論聽來輕率，雖然他無意傷害。"
+  },
+  "rugged": {
+    "en": "The rugged hillside path demanded hiking boots instead of thin campus sneakers.",
+    "zh": "崎嶇山坡小徑需要登山靴，而不是單薄的校園球鞋。"
+  },
+  "purgatory": {
+    "en": "Waiting for delayed grades felt like a tiny academic purgatory each December.",
+    "zh": "每年十二月等延遲成績，都像短暫的學術煉獄。"
+  },
+  "calamity": {
+    "en": "The flood was a calamity that closed three schools for the entire spring.",
+    "zh": "那場洪水是大災難，讓三所學校整個春天都關閉。"
+  },
+  "cantankerous": {
+    "en": "The cantankerous neighbor complained about every basketball bounce after six.",
+    "zh": "那位脾氣差的鄰居，對六點後每一次籃球彈跳都抱怨。"
+  },
+  "testy": {
+    "en": "Lack of sleep made him testy during group work, snapping at tiny delays.",
+    "zh": "睡眠不足讓他在分組作業時易怒，對一點點延遲就發脾氣。"
+  },
+  "agreeable": {
+    "en": "An agreeable host made the awkward alumni dinner feel warm and easy.",
+    "zh": "討人喜歡的主人，讓尷尬的校友晚宴變得溫暖輕鬆。"
+  },
+  "good-natured": {
+    "en": "Her good-natured teasing never crossed the line into mean classroom jokes.",
+    "zh": "她脾氣好的調侃，從不越界變成傷人的課堂玩笑。"
+  },
+  "cranky": {
+    "en": "Toddlers get cranky when naps are skipped and snacks arrive too late.",
+    "zh": "幼兒若跳過午睡又零食來得太晚，就會變得暴躁。"
+  },
+  "cordial": {
+    "en": "The principal gave a cordial welcome to parents touring the new science wing.",
+    "zh": "校長熱誠歡迎參觀新科學樓的家長。"
+  },
+  "frugal": {
+    "en": "A frugal student cooked rice and vegetables instead of ordering delivery nightly.",
+    "zh": "節儉的學生自己煮飯菜，而不是每晚叫外送。"
+  },
+  "thrifty": {
+    "en": "Thrifty shoppers compared thrift-store jackets before buying anything new.",
+    "zh": "節約的購物者會先比較二手店外套，再決定是否買新的。"
+  },
+  "economical": {
+    "en": "Taking the tram proved more economical than driving and paying for parking.",
+    "zh": "搭電車比開車再付停車費更節省。"
+  },
+  "husband": {
+    "en": "Campers must husband drinking water carefully on the long dry ridge trail.",
+    "zh": "在漫長乾燥山脊步道上，露營者必須勤儉持家般珍惜飲用水。"
+  },
+  "profligate": {
+    "en": "His profligate spending on gadgets left him broke before rent was due.",
+    "zh": "他對電子產品揮霍無度，租金到期前就破產了。"
+  },
+  "lavish": {
+    "en": "The club threw a lavish welcome banquet that used up half the semester budget.",
+    "zh": "社團辦了一場奢華歡迎宴，花掉半個學期的預算。"
+  },
+  "spendthrift": {
+    "en": "Nobody wanted a spendthrift roommate who ordered takeout three times a day.",
+    "zh": "沒人想要一個一天點三次外送的揮霍無度室友。"
+  },
+  "wasteful": {
+    "en": "Leaving classroom lights on all night is wasteful and raises the utility bill.",
+    "zh": "教室燈整晚不關既浪費，又推高水電費。"
+  },
+  "improvident": {
+    "en": "An improvident decision to skip saving left him stranded without emergency cash.",
+    "zh": "不節儉又沒遠見地跳過存錢，讓他陷入沒有應急現金的困境。"
+  },
+  "squander": {
+    "en": "Do not squander the quiet weekend on endless scrolling when drafts still wait.",
+    "zh": "草稿還在等你時，別把安靜週末浪費在無盡滑手機上。"
+  },
+  "dissipate": {
+    "en": "He would dissipate his stipend on gadgets and then borrow money for food.",
+    "zh": "他會把津貼浪費在小裝置上，然後再借錢買吃的。"
+  },
+  "piggybank": {
+    "en": "She dropped spare coins into a ceramic piggybank labeled for summer travel.",
+    "zh": "她把零錢投進標示「暑假旅行」的陶瓷存錢筒。"
+  },
+  "shredder": {
+    "en": "Old bank statements went into the office shredder before the recycling bin.",
+    "zh": "舊銀行對帳單先丟進辦公室碎紙機，再進回收桶。"
+  },
+  "ledger": {
+    "en": "The treasurer kept a neat ledger of every ticket sale for the spring play.",
+    "zh": "財務長用整齊帳本記錄春季舞台劇每一筆售票。"
+  },
+  "coupon": {
+    "en": "A grocery coupon for pasta sauce saved enough for an extra loaf of bread.",
+    "zh": "一張義大利麵醬折扣券，省下的錢剛好多買一條麵包。"
+  },
+  "goldcoin": {
+    "en": "The museum case displayed a rare goldcoin from a nineteenth-century shipwreck.",
+    "zh": "博物館展櫃陳列一枚來自十九世紀沉船的罕見金幣。"
+  },
+  "budget": {
+    "en": "Our club budget must cover both costumes and the rental of stage lights.",
+    "zh": "我們社團預算必須同時負擔戲服與舞台燈光租金。"
+  },
+  "splurge": {
+    "en": "After months of saving, they decided to splurge on one fancy birthday dinner.",
+    "zh": "存了好幾個月後，他們決定揮霍一次、吃頓豪華生日晚餐。"
+  },
+  "savings": {
+    "en": "Her summer savings covered textbooks and still left money for weekend bus fare.",
+    "zh": "她的暑假存款夠付課本，還剩錢付週末公車費。"
+  },
+  "voidcheck": {
+    "en": "The bank teller stamped VOID on the voidcheck and handed it back for records.",
+    "zh": "銀行櫃員在廢支票上蓋上 VOID，再交還給她留存紀錄。"
+  }
+}

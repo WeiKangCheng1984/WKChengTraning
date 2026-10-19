@@ -29,8 +29,8 @@
       "roleInScript": "封存原味",
       "humorDevice": "morphology",
       "zhGloss": "保存；維持",
-      "speakLineEn": "Preserve raw files immutable.",
-      "speakLineZh": "原始檔不可變地保存。",
+      "speakLineEn": "Museums work hard to preserve fragile manuscripts.",
+      "speakLineZh": "博物館竭力保存脆弱的手稿。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -44,8 +44,8 @@
       "roleInScript": "看加油燈",
       "humorDevice": "morphology",
       "zhGloss": "觀察；遵守",
-      "speakLineEn": "Observe the preregistered plan.",
-      "speakLineZh": "遵守預註冊計畫。",
+      "speakLineEn": "Biologists observe migration patterns each spring.",
+      "speakLineZh": "生物學家每年春天觀察遷徙模式。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -59,8 +59,8 @@
       "roleInScript": "觀察紀錄",
       "humorDevice": "morphology",
       "zhGloss": "觀察；評論",
-      "speakLineEn": "An observation is not a causal claim.",
-      "speakLineZh": "觀察不是因果主張。",
+      "speakLineEn": "Careful observation revealed a small crack in the glass.",
+      "speakLineZh": "仔細觀察發現玻璃上有一道小裂縫。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -89,8 +89,8 @@
       "roleInScript": "該加幾格",
       "humorDevice": "morphology",
       "zhGloss": "應得",
-      "speakLineEn": "Null results deserve space.",
-      "speakLineZh": "虛無結果應得版面。",
+      "speakLineEn": "Careful editors deserve credit for catching the error early.",
+      "speakLineZh": "細心的編輯值得因及早抓出錯處而受肯定。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -104,8 +104,8 @@
       "roleInScript": "過度順服",
       "humorDevice": "morphology",
       "zhGloss": "順從的",
-      "speakLineEn": "Do not be subservient to fashion metrics.",
-      "speakLineZh": "不要屈從流行指標。",
+      "speakLineEn": "He refused to be subservient to every passing fashion.",
+      "speakLineZh": "他拒絕屈從每一波短暫潮流。",
       "related": {
         "synonyms": "implemental, instrumental, slavish, submissive",
         "antonyms": "vocal, domineering, assertive"
@@ -134,8 +134,8 @@
       "roleInScript": "加油服務",
       "humorDevice": "story",
       "zhGloss": "服務",
-      "speakLineEn": "Treat data service as scholarship.",
-      "speakLineZh": "把資料服務當學術。",
+      "speakLineEn": "Excellent service kept customers returning to the café.",
+      "speakLineZh": "優質服務讓顧客一再回到這間咖啡廳。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "P2-batch02",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

@@ -94,6 +94,7 @@
     "reviewedAt": "2026-10-19",
     "stage": "P2-batch04",
     "polishStage": "Q-gold",
-    "polishedAt": "2026-10-19"
+    "polishedAt": "2026-10-19",
+    "rootPolishAt": "2026-10-19"
   }
 }

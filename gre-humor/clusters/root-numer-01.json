@@ -59,8 +59,8 @@
       "roleInScript": "清點表",
       "humorDevice": "morphology",
       "zhGloss": "列舉；清點",
-      "speakLineEn": "Publish the enumeration of deviations.",
-      "speakLineZh": "公開偏離的清點表。",
+      "speakLineEn": "The census forms require careful enumeration of household members.",
+      "speakLineZh": "普查表格要求仔細清點家戶成員。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -89,8 +89,8 @@
       "roleInScript": "分數上方",
       "humorDevice": "morphology",
       "zhGloss": "分子",
-      "speakLineEn": "Keep the numerator definition locked.",
-      "speakLineZh": "鎖定分子定義。",
+      "speakLineEn": "In the fraction 3/8, three is the numerator.",
+      "speakLineZh": "在分數三分之八裡，三是分子。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -104,8 +104,8 @@
       "roleInScript": "多餘名額",
       "humorDevice": "morphology",
       "zhGloss": "多餘的；編制外",
-      "speakLineEn": "Cut supernumerary outcomes early.",
-      "speakLineZh": "及早砍掉多餘結局。",
+      "speakLineEn": "Two supernumerary actors stood ready in case of illness.",
+      "speakLineZh": "兩名額外備角演員待命，以防有人生病。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -149,8 +149,8 @@
       "roleInScript": "普查表",
       "humorDevice": "story",
       "zhGloss": "普查",
-      "speakLineEn": "Run a census of variables before modeling.",
-      "speakLineZh": "建模前做變數普查。",
+      "speakLineEn": "The national census counts every household once a decade.",
+      "speakLineZh": "全國普查每十年清點一次每一戶。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-19",
     "stage": "P2-batch05",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

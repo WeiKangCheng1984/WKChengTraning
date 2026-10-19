@@ -44,8 +44,8 @@
       "roleInScript": "硬如鑽石",
       "humorDevice": "contrast",
       "zhGloss": "堅決的；固執的",
-      "speakLineEn": "Stay adamant about data integrity.",
-      "speakLineZh": "對資料誠信要堅決。",
+      "speakLineEn": "She stayed adamant that group members must cite every source in the paper.",
+      "speakLineZh": "她堅決要求組員在報告中必須標註每一個出處。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -89,8 +89,8 @@
       "roleInScript": "可彎",
       "humorDevice": "contrast",
       "zhGloss": "柔軟的",
-      "speakLineEn": "Pliable criteria invite p-hacking.",
-      "speakLineZh": "柔韌到亂的標準誘發 p 操弄。",
+      "speakLineEn": "Warm clay feels pliable in your hands before it hardens on the pottery wheel.",
+      "speakLineZh": "陶土在轉盤上變硬前，握在手裡感覺柔軟好塑形。",
       "related": {
         "synonyms": "fictile, ductile, malleable, pliant, tensile, tractile",
         "antonyms": "rigid, inflexible"
@@ -134,8 +134,8 @@
       "roleInScript": "讓得動",
       "humorDevice": "contrast",
       "zhGloss": "柔軟的；屈服的",
-      "speakLineEn": "Yielding to evidence is a virtue.",
-      "speakLineZh": "向證據屈服是美德。",
+      "speakLineEn": "The foam mat was yielding underfoot, soft enough for morning stretch drills.",
+      "speakLineZh": "泡棉墊踩起來柔軟服貼，適合晨間伸展練習。",
       "related": {
         "synonyms": "surrender, concession, conceding, yield, give, afford",
         "antonyms": "stand, survive"
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "P1-batch02",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "semlookPolishAt": "2026-10-19",
+    "semlookPolishStage": "semlook-careful-polish-v1"
   }
 }

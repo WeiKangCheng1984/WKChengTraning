@@ -29,8 +29,8 @@
       "roleInScript": "值得入櫃",
       "humorDevice": "morphology",
       "zhGloss": "難忘的",
-      "speakLineEn": "A memorable figure still needs a caption.",
-      "speakLineZh": "難忘的圖仍需圖說。",
+      "speakLineEn": "The opening scene was so memorable that students quoted it for weeks.",
+      "speakLineZh": "開場戲太令人難忘，學生們連續幾週都在引用。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -149,8 +149,8 @@
       "roleInScript": "從櫃取出",
       "humorDevice": "story",
       "zhGloss": "記得",
-      "speakLineEn": "Remember to report exclusions.",
-      "speakLineZh": "記得報告排除。",
+      "speakLineEn": "Please remember to cite every quotation in the footnotes.",
+      "speakLineZh": "請記得在註腳中標明每一處引文。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "P2-batch01",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

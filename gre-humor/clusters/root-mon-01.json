@@ -44,8 +44,8 @@
       "roleInScript": "螢幕監看",
       "humorDevice": "morphology",
       "zhGloss": "監視；監控器",
-      "speakLineEn": "Monitor drift in coding reliability.",
-      "speakLineZh": "監視編碼信度漂移。",
+      "speakLineEn": "Nurses monitor the patient’s heart rate through the night.",
+      "speakLineZh": "護理師整夜監測病患的心率。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -74,8 +74,8 @@
       "roleInScript": "不祥預告片",
       "humorDevice": "morphology",
       "zhGloss": "預兆",
-      "speakLineEn": "A premonition of bias still needs a test.",
-      "speakLineZh": "偏差預感仍需檢驗。",
+      "speakLineEn": "She had a strange premonition that the trip would go wrong.",
+      "speakLineZh": "她有種怪異的預感：這趟旅程會出問題。",
       "related": {
         "synonyms": "foreboding, presentiment, boding, forewarning",
         "antonyms": ""
@@ -89,8 +89,8 @@
       "roleInScript": "叫到站",
       "humorDevice": "morphology",
       "zhGloss": "召集",
-      "speakLineEn": "Summon an independent auditor early.",
-      "speakLineZh": "及早召喚獨立稽核。",
+      "speakLineEn": "The king will summon the council at dawn tomorrow.",
+      "speakLineZh": "國王明天黎明將召喚議事會。",
       "related": {
         "synonyms": "summons, cite, muster, rally, mobilize, mobilise",
         "antonyms": "demobilize, demobilise"
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "P2-batch01",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

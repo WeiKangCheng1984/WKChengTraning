@@ -29,8 +29,8 @@
       "roleInScript": "終點月台",
       "humorDevice": "morphology",
       "zhGloss": "終端的；末期的",
-      "speakLineEn": "Terminal figures need readable axes.",
-      "speakLineZh": "終端圖需要可讀軸。",
+      "speakLineEn": "Passengers waited in the crowded airport terminal.",
+      "speakLineZh": "旅客在擁擠的機場航廈等候。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -44,8 +44,8 @@
       "roleInScript": "結束廣播",
       "humorDevice": "morphology",
       "zhGloss": "終止；結束",
-      "speakLineEn": "Document termination criteria.",
-      "speakLineZh": "記錄終止標準。",
+      "speakLineEn": "The contract allows early termination with thirty days’ notice.",
+      "speakLineZh": "合約允許提前三十天通知即可終止。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -74,8 +74,8 @@
       "roleInScript": "劃定邊界",
       "humorDevice": "morphology",
       "zhGloss": "決定；測定",
-      "speakLineEn": "Determine the estimand before the model.",
-      "speakLineZh": "建模前測定目標量。",
+      "speakLineEn": "Lab results will determine whether treatment should continue.",
+      "speakLineZh": "實驗結果將決定是否繼續治療。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -89,8 +89,8 @@
       "roleInScript": "極端清除",
       "humorDevice": "morphology",
       "zhGloss": "根除；消滅",
-      "speakLineEn": "Do not exterminate outliers without rules.",
-      "speakLineZh": "沒有規則不要消滅極端值。",
+      "speakLineEn": "The farmers tried to exterminate the invasive beetles.",
+      "speakLineZh": "農民試圖消滅入侵的甲蟲。",
       "related": {
         "synonyms": "annihilate, eradicate, extirpate, wipe out",
         "antonyms": ""
@@ -104,8 +104,8 @@
       "roleInScript": "站名系統",
       "humorDevice": "story",
       "zhGloss": "術語體系",
-      "speakLineEn": "Align terminology across papers.",
-      "speakLineZh": "跨論文對齊術語。",
+      "speakLineEn": "Legal terminology can confuse first-year students.",
+      "speakLineZh": "法律術語常讓一年級學生困惑。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -119,8 +119,8 @@
       "roleInScript": "最後一站",
       "humorDevice": "story",
       "zhGloss": "終點",
-      "speakLineEn": "State the terminus of follow-up.",
-      "speakLineZh": "說明追蹤終點。",
+      "speakLineEn": "The bus reaches its terminus at the central station.",
+      "speakLineZh": "公車在中央車站抵達終點站。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -164,8 +164,8 @@
       "roleInScript": "站的鐘",
       "humorDevice": "story",
       "zhGloss": "截止日期",
-      "speakLineEn": "Treat the registry deadline as sacred.",
-      "speakLineZh": "把登錄截止當神聖。",
+      "speakLineEn": "The scholarship deadline is the last Friday of March.",
+      "speakLineZh": "獎學金截止日期是三月最後一個週五。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -190,6 +190,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "P2-batch02",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

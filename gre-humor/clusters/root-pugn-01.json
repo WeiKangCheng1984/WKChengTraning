@@ -29,8 +29,8 @@
       "roleInScript": "出拳打名譽",
       "humorDevice": "morphology",
       "zhGloss": "指責",
-      "speakLineEn": "Do not impugn motives without evidence.",
-      "speakLineZh": "沒證據不要抨擊動機。",
+      "speakLineEn": "Lawyers may impugn a witness’s memory, not invent motives.",
+      "speakLineZh": "律師可以質疑證人記憶，而非捏造動機。",
       "related": {
         "synonyms": "assail, impeach",
         "antonyms": "support, endorse, defend"
@@ -44,8 +44,8 @@
       "roleInScript": "反感到離場",
       "humorDevice": "morphology",
       "zhGloss": "令人厭惡的；牴觸的",
-      "speakLineEn": "Fraud is ethically repugnant.",
-      "speakLineZh": "造假在倫理上令人厭惡。",
+      "speakLineEn": "Many readers found the villain’s cruelty morally repugnant.",
+      "speakLineZh": "許多讀者覺得反派的殘忍在道德上令人厭惡。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -134,8 +134,8 @@
       "roleInScript": "對打",
       "humorDevice": "story",
       "zhGloss": "對抗",
-      "speakLineEn": "Combat p-hacking with registration.",
-      "speakLineZh": "用註冊對抗 p 操弄。",
+      "speakLineEn": "The city launched a campaign to combat littering.",
+      "speakLineZh": "市府發起行動打擊亂丟垃圾。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "P2-batch01",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch2"
   }
 }

@@ -14,8 +14,8 @@
       "roleInScript": "掛著沒定",
       "humorDevice": "morphology",
       "zhGloss": "待決的；直到",
-      "speakLineEn": "Results are pending ethics clearance.",
-      "speakLineZh": "結果尚待倫理審查。",
+      "speakLineEn": "Her application is still pending final review.",
+      "speakLineZh": "她的申請仍在等待最終審核。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -44,8 +44,8 @@
       "roleInScript": "掛靠",
       "humorDevice": "morphology",
       "zhGloss": "依賴",
-      "speakLineEn": "Estimates depend on the exclusion restriction.",
-      "speakLineZh": "估計依賴排除限制。",
+      "speakLineEn": "Young plants depend on steady watering in dry weeks.",
+      "speakLineZh": "幼苗在乾旱週需要穩定澆水才能存活。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -74,8 +74,8 @@
       "roleInScript": "掛上去",
       "humorDevice": "morphology",
       "zhGloss": "附加",
-      "speakLineEn": "Append the codebook to the replication package.",
-      "speakLineZh": "把編碼簿附加到複現包。",
+      "speakLineEn": "Please append the table of raw data to the report.",
+      "speakLineZh": "請把原始資料表附加到報告後面。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -89,8 +89,8 @@
       "roleInScript": "掛在正文後",
       "humorDevice": "morphology",
       "zhGloss": "附錄；闌尾",
-      "speakLineEn": "Put long tables in an appendix.",
-      "speakLineZh": "長表放附錄。",
+      "speakLineEn": "Put the long raw-data tables in an appendix, not the main text.",
+      "speakLineZh": "把冗長的原始資料表放在附錄，不要塞進正文。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -149,8 +149,8 @@
       "roleInScript": "付出去的",
       "humorDevice": "morphology",
       "zhGloss": "花費；支付",
-      "speakLineEn": "Track expenditure against preregistered milestones.",
-      "speakLineZh": "依預註冊里程碑追蹤支出。",
+      "speakLineEn": "Public expenditure on libraries rose slightly this year.",
+      "speakLineZh": "今年公共圖書館支出略有上升。",
       "related": {
         "synonyms": "outgo, spending, outlay, expending, consumption",
         "antonyms": "income"
@@ -194,8 +194,8 @@
       "roleInScript": "懸在頭上迫近",
       "humorDevice": "morphology",
       "zhGloss": "即將發生的",
-      "speakLineEn": "Impending deadlines distort careful reading.",
-      "speakLineZh": "迫近截止扭曲細讀。",
+      "speakLineEn": "Dark clouds signaled an impending thunderstorm.",
+      "speakLineZh": "烏雲預示雷雨即將來臨。",
       "related": {
         "synonyms": "impend, imminent, impendent",
         "antonyms": ""
@@ -250,6 +250,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "S3b",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

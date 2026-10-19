@@ -29,8 +29,8 @@
       "roleInScript": "首要地",
       "humorDevice": "morphology",
       "zhGloss": "主要地",
-      "speakLineEn": "This paper is primarily about measurement.",
-      "speakLineZh": "本文首要關於測量。",
+      "speakLineEn": "This course is primarily about close reading of poetry.",
+      "speakLineZh": "這門課首要在於細讀詩歌。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -74,8 +74,8 @@
       "roleInScript": "首席",
       "humorDevice": "morphology",
       "zhGloss": "首位的；首相",
-      "speakLineEn": "Premier journals still retract.",
-      "speakLineZh": "一流期刊仍撤稿。",
+      "speakLineEn": "She performed at the city’s premier concert hall last night.",
+      "speakLineZh": "她昨晚在本市首屈一指的音樂廳演出。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -119,8 +119,8 @@
       "roleInScript": "入門層",
       "humorDevice": "story",
       "zhGloss": "入門書；底漆",
-      "speakLineEn": "Write a primer for new coders.",
-      "speakLineZh": "為新編碼者寫入門。",
+      "speakLineEn": "This short primer helps beginners start reading Latin poetry.",
+      "speakLineZh": "這本短篇入門書幫助初學者開始讀拉丁詩。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -134,8 +134,8 @@
       "roleInScript": "根本第一",
       "humorDevice": "story",
       "zhGloss": "原始的；初始的",
-      "speakLineEn": "Ask the primordial question: what is the estimand?",
-      "speakLineZh": "問根本問題：目標量是什麼？",
+      "speakLineEn": "Myths often describe a primordial chaos before creation.",
+      "speakLineZh": "神話常描寫創世前的原始混沌。",
       "related": {
         "synonyms": "aboriginal, primal, primeval, primaeval",
         "antonyms": "nonnative"
@@ -149,8 +149,8 @@
       "roleInScript": "第一名",
       "humorDevice": "story",
       "zhGloss": "第一",
-      "speakLineEn": "First, preregister.",
-      "speakLineZh": "第一，預註冊。",
+      "speakLineEn": "First, define your terms; then present the evidence.",
+      "speakLineZh": "首先界定術語，再提出證據。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -164,8 +164,8 @@
       "roleInScript": "最前",
       "humorDevice": "story",
       "zhGloss": "最重要的",
-      "speakLineEn": "Foremost: do not fabricate.",
-      "speakLineZh": "最重要：不要捏造。",
+      "speakLineEn": "Honesty is the foremost rule of academic writing.",
+      "speakLineZh": "誠實是學術寫作最首要的規則。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -179,8 +179,8 @@
       "roleInScript": "排隊序",
       "humorDevice": "story",
       "zhGloss": "優先順序",
-      "speakLineEn": "Make correction a priority over celebration.",
-      "speakLineZh": "勘誤優先於慶祝。",
+      "speakLineEn": "Safety remains the first priority on the construction site.",
+      "speakLineZh": "工地安全仍是第一優先事項。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-19",
     "stage": "P2-batch03",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

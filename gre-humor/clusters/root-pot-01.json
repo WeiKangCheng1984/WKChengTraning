@@ -29,8 +29,8 @@
       "roleInScript": "沒力",
       "humorDevice": "morphology",
       "zhGloss": "無力的；無效的",
-      "speakLineEn": "Unenforced policies are impotent.",
-      "speakLineZh": "不執行的政策無力。",
+      "speakLineEn": "Without funding, the committee felt impotent to help.",
+      "speakLineZh": "沒有經費，委員會覺得無力幫忙。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -44,8 +44,8 @@
       "roleInScript": "還沒爆發的力",
       "humorDevice": "morphology",
       "zhGloss": "潛力；潛在的",
-      "speakLineEn": "State the potential for harm explicitly.",
-      "speakLineZh": "明確陳述潛在傷害。",
+      "speakLineEn": "The vacant lot has potential as a community garden.",
+      "speakLineZh": "這塊空地有潛力變成社區菜園。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -59,8 +59,8 @@
       "roleInScript": "力道",
       "humorDevice": "morphology",
       "zhGloss": "效力；能力",
-      "speakLineEn": "Estimate the potency of the intervention.",
-      "speakLineZh": "估計介入效力。",
+      "speakLineEn": "Pharmacists checked the potency of the expired medicine.",
+      "speakLineZh": "藥劑師檢查了過期藥品的效力。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -179,8 +179,8 @@
       "roleInScript": "全能狀態",
       "humorDevice": "story",
       "zhGloss": "全能",
-      "speakLineEn": "Reject fantasies of methodological omnipotence.",
-      "speakLineZh": "拒絕方法全能幻想。",
+      "speakLineEn": "No tool grants writers methodological omnipotence.",
+      "speakLineZh": "沒有任何工具能賦予寫作者方法上的全能。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "P1-batch02",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

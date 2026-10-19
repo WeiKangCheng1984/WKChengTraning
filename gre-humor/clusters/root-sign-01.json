@@ -14,8 +14,8 @@
       "roleInScript": "簽名放行",
       "humorDevice": "morphology",
       "zhGloss": "簽名；標誌",
-      "speakLineEn": "Sign the conflict disclosure.",
-      "speakLineZh": "簽署利益衝突揭露。",
+      "speakLineEn": "Please sign the consent form before the interview begins.",
+      "speakLineZh": "訪談開始前請先簽署同意書。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -74,8 +74,8 @@
       "roleInScript": "指定記號",
       "humorDevice": "morphology",
       "zhGloss": "指定；命名",
-      "speakLineEn": "Designate primary outcomes in writing.",
-      "speakLineZh": "書面指定主要結局。",
+      "speakLineEn": "The mayor will designate a new park near the river.",
+      "speakLineZh": "市長將指定河岸附近一塊地作為新公園。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -104,8 +104,8 @@
       "roleInScript": "簽名離職",
       "humorDevice": "morphology",
       "zhGloss": "辭職；屈從",
-      "speakLineEn": "Resign from vanity metrics.",
-      "speakLineZh": "辭去虛榮指標。",
+      "speakLineEn": "The minister chose to resign after the budget scandal.",
+      "speakLineZh": "部長在預算醜聞後選擇辭職。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -164,8 +164,8 @@
       "roleInScript": "指示牌",
       "humorDevice": "story",
       "zhGloss": "路標",
-      "speakLineEn": "Signpost limitations early.",
-      "speakLineZh": "及早設置限制路標。",
+      "speakLineEn": "Clear headings signpost each turn in the argument.",
+      "speakLineZh": "清楚的小標題為論證的每個轉折樹立路標。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -179,8 +179,8 @@
       "roleInScript": "一起簽",
       "humorDevice": "story",
       "zhGloss": "連署",
-      "speakLineEn": "Cosign only what you verified.",
-      "speakLineZh": "只連署你驗證過的。",
+      "speakLineEn": "A parent must cosign the loan for the student applicant.",
+      "speakLineZh": "學生申請人的貸款須由家長連署。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "P2-batch02",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

@@ -29,8 +29,8 @@
       "roleInScript": "技法卡",
       "humorDevice": "morphology",
       "zhGloss": "技巧；技法",
-      "speakLineEn": "Name the estimation technique plainly.",
-      "speakLineZh": "清楚命名估計技法。",
+      "speakLineEn": "Her watercolor technique improved after summer workshops.",
+      "speakLineZh": "經過暑期工作坊，她的水彩技法進步了。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -134,8 +134,8 @@
       "roleInScript": "工具牆",
       "humorDevice": "story",
       "zhGloss": "工具鏈",
-      "speakLineEn": "Invest in tooling for reproducibility.",
-      "speakLineZh": "投資可複現工具鏈。",
+      "speakLineEn": "The factory invested in new tooling for the metal parts.",
+      "speakLineZh": "工廠為金屬零件投資了新的工模具。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -149,8 +149,8 @@
       "roleInScript": "小玩意",
       "humorDevice": "story",
       "zhGloss": "小裝置",
-      "speakLineEn": "A fancy gadget is not a design.",
-      "speakLineZh": "花俏小裝置不是設計。",
+      "speakLineEn": "A clever kitchen gadget cannot replace basic cooking skill.",
+      "speakLineZh": "再巧的廚房小裝置也取代不了基本烹飪功夫。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -190,6 +190,8 @@
     "reviewedAt": "2026-10-19",
     "stage": "P2-batch06",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

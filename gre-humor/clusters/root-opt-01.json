@@ -14,8 +14,8 @@
       "roleInScript": "鏡片菜單",
       "humorDevice": "morphology",
       "zhGloss": "選項",
-      "speakLineEn": "Keep a preregistered option for sensitivity checks.",
-      "speakLineZh": "預註冊保留敏感度檢查選項。",
+      "speakLineEn": "Students have the option to take the exam orally.",
+      "speakLineZh": "學生可選擇以口試方式應考。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "P2-batch02",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish"
   }
 }

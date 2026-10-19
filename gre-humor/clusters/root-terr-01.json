@@ -119,8 +119,8 @@
       "roleInScript": "別靠近牌",
       "humorDevice": "morphology",
       "zhGloss": "恐嚇；阻止",
-      "speakLineEn": "Sanctions can deter fabrication.",
-      "speakLineZh": "制裁能嚇阻捏造。",
+      "speakLineEn": "Visible security cameras can deter casual shoplifting.",
+      "speakLineZh": "顯眼的監視器能嚇阻隨興的順手牽羊。",
       "related": {
         "synonyms": "dissuade, inhibit, discourage",
         "antonyms": "encourage, incite, persuade"
@@ -149,8 +149,8 @@
       "roleInScript": "地外彩蛋",
       "humorDevice": "story",
       "zhGloss": "外星的",
-      "speakLineEn": "Extraordinary (even extraterrestrial) claims need evidence.",
-      "speakLineZh": "非凡（甚至外星）主張需要證據。",
+      "speakLineEn": "No confirmed extraterrestrial signal has been detected.",
+      "speakLineZh": "尚未偵測到經確認的地外訊號。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -190,6 +190,10 @@
     "reviewedAt": "2026-10-18",
     "stage": "P2-batch02",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootExamplesStage": "root-fix-2b",
+    "rootExamplesFixedAt": "2026-10-19",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch2"
   }
 }

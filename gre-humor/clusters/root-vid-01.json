@@ -164,8 +164,8 @@
       "roleInScript": "看得見的憑據",
       "humorDevice": "morphology",
       "zhGloss": "證據",
-      "speakLineEn": "Evidence outweighs eloquence.",
-      "speakLineZh": "證據重於雄辯。",
+      "speakLineEn": "Solid evidence outweighs eloquent but empty rhetoric.",
+      "speakLineZh": "扎實證據勝過再華麗卻空洞的修辭。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -250,6 +250,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "S3b",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch2"
   }
 }

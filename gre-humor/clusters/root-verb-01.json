@@ -44,8 +44,8 @@
       "roleInScript": "老話",
       "humorDevice": "morphology",
       "zhGloss": "諺語",
-      "speakLineEn": "A proverb is not a causal law.",
-      "speakLineZh": "諺語不是因果定律。",
+      "speakLineEn": "The proverb warns that haste often wastes more time later.",
+      "speakLineZh": "這句諺語警告：倉促往往日後更浪費時間。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -89,8 +89,8 @@
       "roleInScript": "字海",
       "humorDevice": "morphology",
       "zhGloss": "廢話；冗詞",
-      "speakLineEn": "Drop marketing verbiage from claims.",
-      "speakLineZh": "主張刪掉行銷冗詞。",
+      "speakLineEn": "Cut the marketing verbiage and state the facts plainly.",
+      "speakLineZh": "刪掉行銷冗詞，把事實說清楚。",
       "related": {
         "synonyms": "verbalism, wording, diction, phrasing, phraseology",
         "antonyms": ""
@@ -149,8 +149,8 @@
       "roleInScript": "不說話",
       "humorDevice": "story",
       "zhGloss": "沉默",
-      "speakLineEn": "Silence about exclusions is a red flag.",
-      "speakLineZh": "對排除沉默是紅旗。",
+      "speakLineEn": "A respectful silence followed the memorial reading.",
+      "speakLineZh": "紀念朗讀後，現場一片肅穆的沉默。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -175,6 +175,8 @@
     "reviewedAt": "2026-10-19",
     "stage": "P2-batch03",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

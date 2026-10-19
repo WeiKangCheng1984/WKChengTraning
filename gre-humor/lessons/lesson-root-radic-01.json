@@ -92,6 +92,8 @@
   "status": "reviewed",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch04"
+    "stage": "P2-batch04",
+    "rootExamplesFixedAt": "2026-10-19",
+    "rootPolishAt": "2026-10-19"
   }
 }

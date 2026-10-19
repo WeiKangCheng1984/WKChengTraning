@@ -14,8 +14,8 @@
       "roleInScript": "奇蹟燈箱",
       "humorDevice": "morphology",
       "zhGloss": "奇蹟",
-      "speakLineEn": "A single study is not a miracle.",
-      "speakLineZh": "單一研究不是奇蹟。",
+      "speakLineEn": "Surviving the crash without injury seemed like a miracle.",
+      "speakLineZh": "車禍中毫髮無傷，簡直像奇蹟。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -59,8 +59,8 @@
       "roleInScript": "欣賞反光",
       "humorDevice": "morphology",
       "zhGloss": "欽佩；欣賞",
-      "speakLineEn": "Admire careful null reporting.",
-      "speakLineZh": "欣賞謹慎的虛無報告。",
+      "speakLineEn": "I admire her patience with difficult questions in class.",
+      "speakLineZh": "我欽佩她在課堂上面對難題時的耐心。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -104,8 +104,8 @@
       "roleInScript": "左右相反像",
       "humorDevice": "story",
       "zhGloss": "鏡像",
-      "speakLineEn": "A mirror-image replication still needs local ethics.",
-      "speakLineZh": "鏡像複現仍需在地倫理。",
+      "speakLineEn": "The twin buildings form a near mirror image across the plaza.",
+      "speakLineZh": "兩棟孿生建築在廣場兩側幾乎形成鏡像。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -119,8 +119,8 @@
       "roleInScript": "驚奇",
       "humorDevice": "story",
       "zhGloss": "令人驚奇的事物",
-      "speakLineEn": "Marvel less; measure more.",
-      "speakLineZh": "少驚嘆；多測量。",
+      "speakLineEn": "Tourists stop to marvel at the cathedral’s stained glass.",
+      "speakLineZh": "遊客停下腳步，驚嘆大教堂的彩繪玻璃。",
       "related": {
         "synonyms": "miracle, wonder",
         "antonyms": ""
@@ -134,8 +134,8 @@
       "roleInScript": "想看清楚",
       "humorDevice": "story",
       "zhGloss": "驚奇；想知道",
-      "speakLineEn": "Wonder aloud about missing cells.",
-      "speakLineZh": "大聲好奇缺失格子。",
+      "speakLineEn": "Children often wonder why the sky changes color at dusk.",
+      "speakLineZh": "孩子常好奇為何黃昏時天空會變色。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -149,8 +149,8 @@
       "roleInScript": "鏡子動作",
       "humorDevice": "story",
       "zhGloss": "反映；反省",
-      "speakLineEn": "Reflect exclusions in the flowchart.",
-      "speakLineZh": "在流程圖反映排除。",
+      "speakLineEn": "Quiet walks help her reflect on difficult decisions.",
+      "speakLineZh": "安靜散步幫助她反思困難的決定。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -190,6 +190,8 @@
     "reviewedAt": "2026-10-19",
     "stage": "P2-batch03",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

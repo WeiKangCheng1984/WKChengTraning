@@ -74,8 +74,8 @@
       "roleInScript": "毒値",
       "humorDevice": "story",
       "zhGloss": "有害性",
-      "speakLineEn": "Measure the noxiousness of paywalled data.",
-      "speakLineZh": "測量付費牆資料的有害性。",
+      "speakLineEn": "Researchers measured the noxiousness of the chemical fumes.",
+      "speakLineZh": "研究人員測量化學煙霧的有害程度。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -149,8 +149,8 @@
       "roleInScript": "劇毒誘因",
       "humorDevice": "story",
       "zhGloss": "毒藥",
-      "speakLineEn": "Publication poison is silent outcome switching.",
-      "speakLineZh": "發表毒藥是沉默更換結局。",
+      "speakLineEn": "Lead paint can poison children if it flakes into dust.",
+      "speakLineZh": "鉛漆若剝落成粉塵，可能毒害孩童。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -191,6 +191,10 @@
     "stage": "P2-batch03",
     "polishStage": "Q-gold",
     "polishedAt": "2026-10-19",
-    "zhEnrichedAt": "2026-10-19"
+    "zhEnrichedAt": "2026-10-19",
+    "rootExamplesStage": "root-fix-2",
+    "rootExamplesFixedAt": "2026-10-19",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish"
   }
 }

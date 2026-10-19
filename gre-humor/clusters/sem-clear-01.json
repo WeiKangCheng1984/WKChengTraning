@@ -29,8 +29,8 @@
       "roleInScript": "寫在外面",
       "humorDevice": "contrast",
       "zhGloss": "明確的",
-      "speakLineEn": "Be explicit about missing-data rules.",
-      "speakLineZh": "缺值規則要明確。",
+      "speakLineEn": "Be explicit about which columns are missing so the cleaning script does not invent values.",
+      "speakLineZh": "請明確說明哪些欄位缺失，以免清理腳本憑空捏造數值。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -59,8 +59,8 @@
       "roleInScript": "可透視",
       "humorDevice": "contrast",
       "zhGloss": "透明的",
-      "speakLineEn": "Transparent pipelines enable audit.",
-      "speakLineZh": "透明管線可稽核。",
+      "speakLineEn": "A transparent pricing page listed every fee so shoppers were never surprised at checkout.",
+      "speakLineZh": "透明的價格頁列出每項費用，讓買家結帳時從不意外。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -119,8 +119,8 @@
       "roleInScript": "霧",
       "humorDevice": "contrast",
       "zhGloss": "含糊的",
-      "speakLineEn": "Vague hypotheses cannot fail.",
-      "speakLineZh": "含糊假說不會失敗。",
+      "speakLineEn": "Vague promises to \"fix things later\" left the tenants without a date they could trust.",
+      "speakLineZh": "含糊的「稍後會修」承諾，讓房客沒有可信的日期。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -134,8 +134,8 @@
       "roleInScript": "霧很厚",
       "humorDevice": "contrast",
       "zhGloss": "深奧難解的",
-      "speakLineEn": "Abstruse prose is not rigor.",
-      "speakLineZh": "深奧難解文筆≠嚴謹。",
+      "speakLineEn": "The abstruse footnote on page forty only confused readers who already understood the theorem.",
+      "speakLineZh": "第四十頁那則深奧難解的腳註，只讓已懂定理的讀者更糊塗。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -164,8 +164,8 @@
       "roleInScript": "沒寫在外面",
       "humorDevice": "contrast",
       "zhGloss": "隱含的",
-      "speakLineEn": "Make implicit assumptions explicit.",
-      "speakLineZh": "把隱含假設說明白。",
+      "speakLineEn": "An implicit trust in the old map nearly sent the hikers down a trail closed for rockfall.",
+      "speakLineZh": "對舊地圖的隱含信任，幾乎讓健行者走進因落石封閉的步道。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -194,8 +194,8 @@
       "roleInScript": "宇宙霧",
       "humorDevice": "story",
       "zhGloss": "星雲（比喻一團霧）",
-      "speakLineEn": "A nebula of buzzwords is not a theory.",
-      "speakLineZh": "術語星雲不是理論。",
+      "speakLineEn": "His proposal dissolved into a nebula of buzzwords that never named a measurable goal.",
+      "speakLineZh": "他的提案溶成一團星雲般的術語霧，從未點出可測量目標。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -250,6 +250,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "S3b",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "semlookPolishAt": "2026-10-19",
+    "semlookPolishStage": "semlook-careful-polish-v1"
   }
 }

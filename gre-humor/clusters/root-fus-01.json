@@ -15,7 +15,7 @@
       "humorDevice": "morphology",
       "zhGloss": "注入；灌輸",
       "speakLineEn": "Infuse humility into the discussion section.",
-      "speakLineZh": "把謙遜注入討論段。",
+      "speakLineZh": "請把謙遜注入討論段落的語氣裡。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -89,8 +89,8 @@
       "roleInScript": "不收這澆",
       "humorDevice": "morphology",
       "zhGloss": "拒絕",
-      "speakLineEn": "Refuse silent outcome switching.",
-      "speakLineZh": "拒絕沉默更換結局變項。",
+      "speakLineEn": "Editors may refuse manuscripts that lack clear methods.",
+      "speakLineZh": "編輯可能拒收缺乏清楚方法的稿件。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -165,7 +165,7 @@
       "humorDevice": "story",
       "zhGloss": "拒絕",
       "speakLineEn": "Document refusal rates in surveys.",
-      "speakLineZh": "記錄調查拒絕率。",
+      "speakLineZh": "調查中請詳細記錄拒絕受訪的比率。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -179,8 +179,8 @@
       "roleInScript": "混澆結果",
       "humorDevice": "story",
       "zhGloss": "混亂；混淆",
-      "speakLineEn": "Category confusion inflates error bars.",
-      "speakLineZh": "類別混淆膨脹誤差。",
+      "speakLineEn": "Similar names caused confusion among the new students.",
+      "speakLineZh": "名字相似讓新生之間產生混淆。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,10 @@
     "reviewedAt": "2026-10-18",
     "stage": "P1-batch02",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootExamplesStage": "root-fix-2",
+    "rootExamplesFixedAt": "2026-10-19",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch2"
   }
 }

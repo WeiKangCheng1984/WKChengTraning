@@ -44,8 +44,8 @@
       "roleInScript": "向前扔出計畫",
       "humorDevice": "morphology",
       "zhGloss": "投射；規劃；項目",
-      "speakLineEn": "Do not project motives without evidence.",
-      "speakLineZh": "沒有證據就不要投射動機。",
+      "speakLineEn": "Do not project your fears onto every quiet critic.",
+      "speakLineZh": "不要把恐懼投射到每一位安靜的批評者身上。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -135,7 +135,7 @@
       "humorDevice": "morphology",
       "zhGloss": "軌道；軌跡",
       "speakLineEn": "Career trajectory is not destiny.",
-      "speakLineZh": "職涯軌跡不是命運。",
+      "speakLineZh": "職涯軌跡並不注定最後的命運。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -191,6 +191,8 @@
     "stage": "S2",
     "note": "New A-level cluster with full lesson",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch2"
   }
 }

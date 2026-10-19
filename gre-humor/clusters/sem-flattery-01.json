@@ -104,8 +104,8 @@
       "roleInScript": "翻白眼",
       "humorDevice": "contrast",
       "zhGloss": "輕蔑的",
-      "speakLineEn": "In the passage, disdainful signals a shift toward \"輕蔑的\".",
-      "speakLineZh": "文中 disdainful 標示語氣轉向「輕蔑的」。",
+      "speakLineEn": "His disdainful glance at the homemade cake silenced the birthday song mid-chorus.",
+      "speakLineZh": "他對自製蛋糕輕蔑的一瞥，讓生日歌在副歌中途安靜。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -119,8 +119,8 @@
       "roleInScript": "叩頭",
       "humorDevice": "contrast",
       "zhGloss": "叩頭奉承",
-      "speakLineEn": "A careful reader links kowtow to 叩頭奉承, not a lookalike neighbor.",
-      "speakLineZh": "細心讀者把 kowtow 連到「叩頭奉承」，不連形近鄰居。",
+      "speakLineEn": "She refused to kowtow to the celebrity guest's last-minute demand for a private elevator.",
+      "speakLineZh": "她拒絕為了名人客人臨時要專用電梯而叩頭奉承。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -150,6 +150,8 @@
     "thickenedAt": "P4-batch01",
     "polishStage": "Q-wave2",
     "polishedAt": "2026-10-19",
-    "zhEnrichedAt": "2026-10-19"
+    "zhEnrichedAt": "2026-10-19",
+    "semlookPolishAt": "2026-10-19",
+    "semlookPolishStage": "semlook-careful-polish-v1"
   }
 }

@@ -14,8 +14,8 @@
       "roleInScript": "開跑",
       "humorDevice": "contrast",
       "zhGloss": "開始；着手",
-      "speakLineEn": "Commence analysis only after lock.",
-      "speakLineZh": "鎖定後才開始分析。",
+      "speakLineEn": "Please commence packing only after the checklist has been signed by both supervisors.",
+      "speakLineZh": "請等兩位主管都簽完檢查表後，再開始著手打包。",
       "related": {
         "synonyms": "begin, get, start",
         "antonyms": "end"
@@ -44,8 +44,8 @@
       "roleInScript": "萌芽",
       "humorDevice": "contrast",
       "zhGloss": "起始的",
-      "speakLineEn": "Catch incipient bias early.",
-      "speakLineZh": "及早抓萌芽偏差。",
+      "speakLineEn": "Nurses spotted the patient's incipient fever hours before the overnight spike arrived.",
+      "speakLineZh": "護理師在夜間高燒來臨前數小時，就察覺到病人起始的發燒跡象。",
       "related": {
         "synonyms": "inchoate",
         "antonyms": ""
@@ -74,8 +74,8 @@
       "roleInScript": "從哪來",
       "humorDevice": "contrast",
       "zhGloss": "起源；發起",
-      "speakLineEn": "Where did the claim originate?",
-      "speakLineZh": "主張起源何處？",
+      "speakLineEn": "Historians still debate whether the folk tune could originate in the coastal fishing villages.",
+      "speakLineZh": "史學家仍在爭論這首民謠是否可能起源於沿海漁村。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -164,8 +164,8 @@
       "roleInScript": "收在高峰",
       "humorDevice": "contrast",
       "zhGloss": "高潮",
-      "speakLineEn": "The project culminated in a public correction.",
-      "speakLineZh": "專案收在公開勘誤。",
+      "speakLineEn": "Months of messy rehearsals would culminate in one glittering opening night under the lights.",
+      "speakLineZh": "數月凌亂的排練，將在燈光下那個璀璨的開幕夜達到高潮。",
       "related": {
         "synonyms": "climax",
         "antonyms": ""
@@ -179,8 +179,8 @@
       "roleInScript": "沒成的終",
       "humorDevice": "contrast",
       "zhGloss": "失敗的；流產的",
-      "speakLineEn": "An abortive pilot still teaches design.",
-      "speakLineZh": "失敗試點仍教設計。",
+      "speakLineEn": "Their abortive attempt to launch the app taught them more than any successful demo could.",
+      "speakLineZh": "那次失敗流產的上線嘗試，教給他們的比任何成功演示都多。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "P1-batch02-topup",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "semlookPolishAt": "2026-10-19",
+    "semlookPolishStage": "semlook-careful-polish-v1"
   }
 }

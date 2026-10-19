@@ -119,8 +119,8 @@
       "roleInScript": "一開始",
       "humorDevice": "story",
       "zhGloss": "原先",
-      "speakLineEn": "Originally preregistered outcomes must stay primary.",
-      "speakLineZh": "原先預註冊結局須維持主要。",
+      "speakLineEn": "The building was originally designed as a warehouse.",
+      "speakLineZh": "這棟建築原本設計為倉庫。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -149,8 +149,8 @@
       "roleInScript": "升起的河",
       "humorDevice": "story",
       "zhGloss": "來源",
-      "speakLineEn": "Name every data source.",
-      "speakLineZh": "具名每個資料來源。",
+      "speakLineEn": "Always name the primary source of each statistic you quote.",
+      "speakLineZh": "引用統計數字時，務必標明原始來源。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -175,6 +175,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "P2-batch02",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch2"
   }
 }

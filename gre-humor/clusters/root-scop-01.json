@@ -44,8 +44,8 @@
       "roleInScript": "看小",
       "humorDevice": "morphology",
       "zhGloss": "顯微鏡",
-      "speakLineEn": "Put the codebook under a microscope.",
-      "speakLineZh": "把碼本放顯微鏡下。",
+      "speakLineEn": "Students examined the tissue under a microscope.",
+      "speakLineZh": "學生在顯微鏡下檢視組織。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -164,8 +164,8 @@
       "roleInScript": "縮框",
       "humorDevice": "story",
       "zhGloss": "變窄",
-      "speakLineEn": "Narrow the estimand before modeling.",
-      "speakLineZh": "建模前先縮窄目標量。",
+      "speakLineEn": "Please narrow the topic before you start drafting.",
+      "speakLineZh": "動筆前請先把題目範圍縮小。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -179,8 +179,8 @@
       "roleInScript": "往外看",
       "humorDevice": "story",
       "zhGloss": "展望",
-      "speakLineEn": "Give a sober outlook in discussion.",
-      "speakLineZh": "討論給清醒展望。",
+      "speakLineEn": "The economic outlook for next year looks cautiously hopeful.",
+      "speakLineZh": "明年的經濟展望顯得審慎樂觀。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "P2-batch02",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

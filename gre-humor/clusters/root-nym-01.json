@@ -44,8 +44,8 @@
       "roleInScript": "同義名牌",
       "humorDevice": "morphology",
       "zhGloss": "同義詞",
-      "speakLineEn": "A near synonym still shifts tone.",
-      "speakLineZh": "近義詞仍會改語氣。",
+      "speakLineEn": "“Begin” and “start” are near synonyms in everyday English.",
+      "speakLineZh": "日常英語裡，begin 與 start 幾乎是同義詞。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -119,8 +119,8 @@
       "roleInScript": "大名",
       "humorDevice": "morphology",
       "zhGloss": "有名的",
-      "speakLineEn": "Renown should not exempt anyone from audit.",
-      "speakLineZh": "名望不該豁免稽核。",
+      "speakLineEn": "The chef gained renown for simple, precise flavors.",
+      "speakLineZh": "這位主廚因味道簡單精準而享有聲名。",
       "related": {
         "synonyms": "fame, celebrity",
         "antonyms": "infamy"
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "P1-batch01",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

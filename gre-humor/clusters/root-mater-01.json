@@ -74,8 +74,8 @@
       "roleInScript": "監護人",
       "humorDevice": "morphology",
       "zhGloss": "女監護；成熟女性",
-      "speakLineEn": "A methods matron keeps the codebook tidy.",
-      "speakLineZh": "方法監護人讓編碼簿整潔。",
+      "speakLineEn": "The hospital matron supervised the night nursing staff.",
+      "speakLineZh": "醫院護理長督導夜間護理人員。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-19",
     "stage": "P2-batch05",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish"
   }
 }

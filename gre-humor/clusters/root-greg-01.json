@@ -29,8 +29,8 @@
       "roleInScript": "聚成一群",
       "humorDevice": "morphology",
       "zhGloss": "聚集",
-      "speakLineEn": "Do not let p-hackers congregate around one metric.",
-      "speakLineZh": "別讓 p 操弄者圍聚單一指標。",
+      "speakLineEn": "Tourists congregate near the fountain at dusk.",
+      "speakLineZh": "黃昏時遊客聚集在噴泉附近。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -165,7 +165,7 @@
       "humorDevice": "story",
       "zhGloss": "極其過分地",
       "speakLineEn": "The figure was egregiously cropped.",
-      "speakLineZh": "圖被過分裁切。",
+      "speakLineZh": "那張圖被過分到離譜地裁切過。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "P1-batch02",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch2"
   }
 }

@@ -89,8 +89,8 @@
       "roleInScript": "分開格",
       "humorDevice": "story",
       "zhGloss": "分開的",
-      "speakLineEn": "Keep train and test separate.",
-      "speakLineZh": "訓練與測試分開。",
+      "speakLineEn": "Teachers keep quiz papers in a separate folder from homework stacks.",
+      "speakLineZh": "老師把小考卷與作業分開放在不同資料夾。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -104,8 +104,8 @@
       "roleInScript": "小心牌",
       "humorDevice": "story",
       "zhGloss": "小心的",
-      "speakLineEn": "Be careful with unblinded interim looks.",
-      "speakLineZh": "對非盲期中查看要小心。",
+      "speakLineEn": "Be careful crossing the icy bridge after last night's freeze.",
+      "speakLineZh": "昨晚結冰後，過那座橋時要特別小心。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -119,8 +119,8 @@
       "roleInScript": "分隔櫃",
       "humorDevice": "story",
       "zhGloss": "劃分",
-      "speakLineEn": "Compartmentalize exploratory and confirmatory.",
-      "speakLineZh": "分隔探索與驗證。",
+      "speakLineEn": "She learned to compartmentalize work stress so evenings stayed peaceful.",
+      "speakLineZh": "她學會劃分工壓，好讓晚上仍能平靜度過。",
       "related": {
         "synonyms": "categorize, classify",
         "antonyms": "declassify"
@@ -149,8 +149,8 @@
       "roleInScript": "分割線",
       "humorDevice": "story",
       "zhGloss": "分割",
-      "speakLineEn": "Partition responsibilities for code review.",
-      "speakLineZh": "分割程式審查責任。",
+      "speakLineEn": "A glass partition divides the quiet reading area from the noisy cafe.",
+      "speakLineZh": "一道玻璃隔間把安靜閱讀區與嘈雜咖啡廳分割開來。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -190,6 +190,8 @@
     "reviewedAt": "2026-10-19",
     "stage": "P2-batch06",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "semlookPolishAt": "2026-10-19",
+    "semlookPolishStage": "semlook-careful-polish-v1"
   }
 }

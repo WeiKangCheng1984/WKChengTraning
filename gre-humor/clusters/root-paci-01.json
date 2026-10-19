@@ -119,8 +119,8 @@
       "roleInScript": "停戰書",
       "humorDevice": "story",
       "zhGloss": "停戰協定",
-      "speakLineEn": "Sign an armistice with endless tweaking.",
-      "speakLineZh": "與無盡微調簽停戰。",
+      "speakLineEn": "The armistice ended active fighting on the front.",
+      "speakLineZh": "停戰協議結束了前線的交戰。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -134,8 +134,8 @@
       "roleInScript": "對帳和解",
       "humorDevice": "story",
       "zhGloss": "調解；調和",
-      "speakLineEn": "Reconcile codebook and code before lock.",
-      "speakLineZh": "鎖定前和解編碼簿與程式。",
+      "speakLineEn": "They tried to reconcile the two conflicting accounts.",
+      "speakLineZh": "他們試圖調和兩種互相衝突的說法。",
       "related": {
         "synonyms": "accommodate, conciliate, harmonize, harmonise, settle, resign",
         "antonyms": "disoblige, provoke, antagonize, float, take office"
@@ -175,6 +175,8 @@
     "reviewedAt": "2026-10-19",
     "stage": "P2-batch05",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

@@ -89,8 +89,8 @@
       "roleInScript": "舉得上題",
       "humorDevice": "morphology",
       "zhGloss": "相關的",
-      "speakLineEn": "Keep only relevant covariates.",
-      "speakLineZh": "只保留相關共變項。",
+      "speakLineEn": "Cite only the sources that are relevant to your thesis.",
+      "speakLineZh": "只引用與你論題真正相關的資料。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "P1-batch02",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch2"
   }
 }

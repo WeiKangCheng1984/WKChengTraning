@@ -14,8 +14,8 @@
       "roleInScript": "擾動警報",
       "humorDevice": "morphology",
       "zhGloss": "打擾；擾亂",
-      "speakLineEn": "Do not disturb locked datasets.",
-      "speakLineZh": "不要擾亂已鎖定資料集。",
+      "speakLineEn": "Do not disturb the sleeping patient unless it is urgent.",
+      "speakLineZh": "除非緊急，否則不要打擾正在休息的病患。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -29,8 +29,8 @@
       "roleInScript": "警報內容",
       "humorDevice": "morphology",
       "zhGloss": "擾亂；騷動",
-      "speakLineEn": "A protocol disturbance needs a version bump.",
-      "speakLineZh": "規程擾亂需要升版。",
+      "speakLineEn": "A loud disturbance in the hallway interrupted the lecture.",
+      "speakLineZh": "走廊一陣喧鬧打擾打斷了講座。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -59,8 +59,8 @@
       "roleInScript": "輕輕推亂",
       "humorDevice": "morphology",
       "zhGloss": "擾亂；微擾",
-      "speakLineEn": "Perturb assumptions in sensitivity checks.",
-      "speakLineZh": "在敏感度檢查中微擾假設。",
+      "speakLineEn": "Loud construction will perturb residents during exam week.",
+      "speakLineZh": "嘈雜施工會在考試週擾亂居民。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -179,8 +179,8 @@
       "roleInScript": "反擾流",
       "humorDevice": "story",
       "zhGloss": "平靜",
-      "speakLineEn": "Keep a calm changelog voice.",
-      "speakLineZh": "變更紀錄保持平靜語氣。",
+      "speakLineEn": "Keep a calm tone even when the debate grows heated.",
+      "speakLineZh": "即使辯論升溫，也請保持平靜語氣。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "P2-batch02",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch4"
   }
 }

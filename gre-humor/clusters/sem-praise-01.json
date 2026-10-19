@@ -44,8 +44,8 @@
       "roleInScript": "正式表揚",
       "humorDevice": "contrast",
       "zhGloss": "讚揚；推薦",
-      "speakLineEn": "Commend transparent limitation sections.",
-      "speakLineZh": "表揚透明的限制段。",
+      "speakLineEn": "Teachers commend students who cite sources carefully in every essay.",
+      "speakLineZh": "老師讚揚每篇作文都仔細引註來源的學生。",
       "related": {
         "synonyms": "recommend, remember",
         "antonyms": "forget"
@@ -59,8 +59,8 @@
       "roleInScript": "拍巴掌",
       "humorDevice": "contrast",
       "zhGloss": "鼓掌讚許",
-      "speakLineEn": "Applaud corrections as courage.",
-      "speakLineZh": "把勘誤當勇氣鼓掌。",
+      "speakLineEn": "The audience rose to applaud the pianist after the final quiet chord.",
+      "speakLineZh": "最後一個安靜和弦結束後，觀眾起立鼓掌讚許鋼琴家。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -89,8 +89,8 @@
       "roleInScript": "長篇誇文",
       "humorDevice": "contrast",
       "zhGloss": "頌詞；讚頌",
-      "speakLineEn": "A panegyric abstract oversells.",
-      "speakLineZh": "頌詞式摘要過度銷售。",
+      "speakLineEn": "His panegyric for the retiring principal listed decades of quiet service.",
+      "speakLineZh": "他為退休校長寫的頌詞，列出數十年默默服務。",
       "related": {
         "synonyms": "encomium, eulogy, paean, pean, encomiastic, eulogistic",
         "antonyms": "invective, condemnation, dirge, elegy"
@@ -104,8 +104,8 @@
       "roleInScript": "正式誇文",
       "humorDevice": "contrast",
       "zhGloss": "讚美",
-      "speakLineEn": "Save encomiums for after audit.",
-      "speakLineZh": "稽核後再寫讚辭。",
+      "speakLineEn": "Save a sincere encomium for after the project survives real testing.",
+      "speakLineZh": "等專案通過真正測試後，再獻上真誠的讚美。",
       "related": {
         "synonyms": "eulogy, panegyric, paean, pean",
         "antonyms": "invective, condemnation, dirge, elegy"
@@ -119,8 +119,8 @@
       "roleInScript": "判有罪語氣",
       "humorDevice": "contrast",
       "zhGloss": "譴責",
-      "speakLineEn": "Condemn fabrication unequivocally.",
-      "speakLineZh": "毫不含糊譴責捏造。",
+      "speakLineEn": "Civic groups condemn violence and call for calm talks instead.",
+      "speakLineZh": "公民團體譴責暴力，並呼籲改以冷靜對話。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -134,8 +134,8 @@
       "roleInScript": "溫和罵",
       "humorDevice": "contrast",
       "zhGloss": "責備",
-      "speakLineEn": "Reprove sloppy logs early.",
-      "speakLineZh": "及早責備草率日誌。",
+      "speakLineEn": "Coaches reprove players who skip warm-ups and risk needless injuries.",
+      "speakLineZh": "教練責備跳過熱身、徒增受傷風險的球員。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -179,8 +179,8 @@
       "roleInScript": "暴風罵",
       "humorDevice": "contrast",
       "zhGloss": "嚴厲批評",
-      "speakLineEn": "Lambaste hype in methods clubs.",
-      "speakLineZh": "在方法讀書會痛罵炒作。",
+      "speakLineEn": "Reviewers lambaste the film for lazy writing and cardboard characters.",
+      "speakLineZh": "影評嚴厲批評這部片寫作懶散、角色扁平。",
       "related": {
         "synonyms": "denounce, castigate, vituperate",
         "antonyms": "praise, commend"
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "P2-batch01",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "semlookPolishAt": "2026-10-19",
+    "semlookPolishStage": "semlook-careful-polish-v1"
   }
 }

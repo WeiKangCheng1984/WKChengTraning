@@ -59,8 +59,8 @@
       "roleInScript": "擠出墨",
       "humorDevice": "morphology",
       "zhGloss": "表達；快遞",
-      "speakLineEn": "Express limitations in the abstract.",
-      "speakLineZh": "在摘要表達限制。",
+      "speakLineEn": "Please express your concerns clearly before the vote.",
+      "speakLineZh": "表決前請清楚表達你的疑慮。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -74,8 +74,8 @@
       "roleInScript": "墨跡",
       "humorDevice": "morphology",
       "zhGloss": "表達；表情",
-      "speakLineEn": "Keep the expression of results proportional.",
-      "speakLineZh": "結果表達要成比例。",
+      "speakLineEn": "Her expression changed when she heard the news.",
+      "speakLineZh": "聽到消息時，她的表情變了。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-19",
     "stage": "P2-batch04",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

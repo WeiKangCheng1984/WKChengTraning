@@ -14,8 +14,8 @@
       "roleInScript": "交貢品",
       "humorDevice": "morphology",
       "zhGloss": "貢獻",
-      "speakLineEn": "Contribute negative results too.",
-      "speakLineZh": "也貢獻陰性結果。",
+      "speakLineEn": "Many neighbors contribute food to the annual charity drive.",
+      "speakLineZh": "許多鄰居為年度慈善募捐貢獻食物。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -29,8 +29,8 @@
       "roleInScript": "貢品單",
       "humorDevice": "morphology",
       "zhGloss": "貢獻",
-      "speakLineEn": "State each author's contribution.",
-      "speakLineZh": "說明每位作者貢獻。",
+      "speakLineEn": "Her contribution to the project was the research design.",
+      "speakLineZh": "她對專案的貢獻是研究設計。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -59,8 +59,8 @@
       "roleInScript": "分貢",
       "humorDevice": "morphology",
       "zhGloss": "分配；分發",
-      "speakLineEn": "Distribute credit fairly.",
-      "speakLineZh": "公平分配功勞。",
+      "speakLineEn": "Volunteers will distribute flyers outside the library.",
+      "speakLineZh": "志工將在圖書館外分發傳單。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -104,8 +104,8 @@
       "roleInScript": "支流櫃",
       "humorDevice": "morphology",
       "zhGloss": "進貢的；輔助的；支流",
-      "speakLineEn": "A tributary analysis still needs disclosure.",
-      "speakLineZh": "支流分析仍需揭露。",
+      "speakLineEn": "A small tributary joins the river just below the bridge.",
+      "speakLineZh": "一條小支流在橋下匯入大河。",
       "related": {
         "synonyms": "feeder, confluent, affluent, conducive, contributing, contributive",
         "antonyms": "distributary"
@@ -164,8 +164,8 @@
       "roleInScript": "算給誰",
       "humorDevice": "story",
       "zhGloss": "歸因；署名",
-      "speakLineEn": "Fix attribution before press.",
-      "speakLineZh": "發新聞前修正署名。",
+      "speakLineEn": "Correct attribution of sources is required in every essay.",
+      "speakLineZh": "每篇論文都必須正確標示資料來源的歸屬。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -179,8 +179,8 @@
       "roleInScript": "分出去",
       "humorDevice": "story",
       "zhGloss": "分享",
-      "speakLineEn": "Share protocols as living docs.",
-      "speakLineZh": "把規程當活文件分享。",
+      "speakLineEn": "Please share your notes with classmates who missed class.",
+      "speakLineZh": "請把筆記分享給缺課的同學。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "P2-batch02",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

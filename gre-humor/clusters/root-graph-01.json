@@ -14,8 +14,8 @@
       "roleInScript": "主圖",
       "humorDevice": "morphology",
       "zhGloss": "圖表",
-      "speakLineEn": "Put the primary graph in the abstract figure.",
-      "speakLineZh": "把主圖放進摘要圖。",
+      "speakLineEn": "The bar graph shows enrollment rising over five years.",
+      "speakLineZh": "長條圖顯示五年來註冊人數持續上升。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -90,7 +90,7 @@
       "humorDevice": "morphology",
       "zhGloss": "格言警句",
       "speakLineEn": "An epigram is not a causal claim.",
-      "speakLineZh": "警句不是因果主張。",
+      "speakLineZh": "一句警句並不能當成因果主張。",
       "related": {
         "synonyms": "quip",
         "antonyms": ""
@@ -206,6 +206,8 @@
     "stage": "P2-batch04",
     "polishStage": "Q-gold",
     "polishedAt": "2026-10-19",
-    "zhEnrichedAt": "2026-10-19"
+    "zhEnrichedAt": "2026-10-19",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch2"
   }
 }

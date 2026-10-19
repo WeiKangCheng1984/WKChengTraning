@@ -14,8 +14,8 @@
       "roleInScript": "問到水落石出",
       "humorDevice": "morphology",
       "zhGloss": "質問",
-      "speakLineEn": "Interrogate the identification assumptions.",
-      "speakLineZh": "質詢識別假設。",
+      "speakLineEn": "Historians interrogate sources before trusting a single account.",
+      "speakLineZh": "歷史學家在採信單一敘事前會詰問史料。",
       "related": {
         "synonyms": "question",
         "antonyms": "answer"
@@ -134,8 +134,8 @@
       "roleInScript": "櫃臺基本款",
       "humorDevice": "story",
       "zhGloss": "問題",
-      "speakLineEn": "Question every silent default.",
-      "speakLineZh": "質問每個沉默預設。",
+      "speakLineEn": "Students should question weak evidence, not attack the author.",
+      "speakLineZh": "學生應質疑薄弱證據，而不是人身攻擊作者。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -190,6 +190,10 @@
     "reviewedAt": "2026-10-18",
     "stage": "P2-batch02",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootExamplesStage": "root-fix-2",
+    "rootExamplesFixedAt": "2026-10-19",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch2"
   }
 }

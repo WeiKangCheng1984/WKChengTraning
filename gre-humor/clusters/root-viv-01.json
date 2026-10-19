@@ -74,8 +74,8 @@
       "roleInScript": "急救回魂",
       "humorDevice": "morphology",
       "zhGloss": "復興",
-      "speakLineEn": "Revive abandoned protocols with care.",
-      "speakLineZh": "謹慎重振被棄規程。",
+      "speakLineEn": "Volunteers hope to revive the abandoned community garden.",
+      "speakLineZh": "志工希望重振被廢棄的社區菜園。",
       "related": {
         "synonyms": "resuscitate, animate, recreate, reanimate, renovate, repair",
         "antonyms": "deaden, inanimate, insentient, dishearten, break"
@@ -89,8 +89,8 @@
       "roleInScript": "要命重要",
       "humorDevice": "morphology",
       "zhGloss": "極其重要的；生命的",
-      "speakLineEn": "Vital assumptions belong up front.",
-      "speakLineZh": "要命假設放最前面。",
+      "speakLineEn": "Clean drinking water is vital to public health.",
+      "speakLineZh": "乾淨飲用水對公共衛生至關重要。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -149,8 +149,8 @@
       "roleInScript": "回魂討論",
       "humorDevice": "story",
       "zhGloss": "重啟辯論",
-      "speakLineEn": "Revive debate on estimands yearly.",
-      "speakLineZh": "每年重啟目標量辯論。",
+      "speakLineEn": "The discovery will revive debate about the author’s sources.",
+      "speakLineZh": "這項發現將重新引發關於作者史料來源的辯論。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "P2-batch02",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

@@ -59,8 +59,8 @@
       "roleInScript": "特調其實普通",
       "humorDevice": "morphology",
       "zhGloss": "普通的",
-      "speakLineEn": "Mediocre abstracts bury the contribution.",
-      "speakLineZh": "平庸摘要埋掉貢獻。",
+      "speakLineEn": "A mediocre draft can still become strong after revision.",
+      "speakLineZh": "平庸的初稿經過修改仍能變得扎實。",
       "related": {
         "synonyms": "run-of-the-mill",
         "antonyms": ""
@@ -89,8 +89,8 @@
       "roleInScript": "中档座位",
       "humorDevice": "morphology",
       "zhGloss": "中級的；中間的",
-      "speakLineEn": "Report intermediate outcomes transparently.",
-      "speakLineZh": "透明報告中間結果。",
+      "speakLineEn": "This textbook is designed for intermediate Spanish learners.",
+      "speakLineZh": "這本教科書專為中級西班牙語學習者設計。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -104,8 +104,8 @@
       "roleInScript": "傳茶托盤",
       "humorDevice": "morphology",
       "zhGloss": "媒介；中等",
-      "speakLineEn": "Choose the right medium for preregistration.",
-      "speakLineZh": "為預註冊選對媒介。",
+      "speakLineEn": "Oil paint is a slow-drying medium favored by many portraitists.",
+      "speakLineZh": "油畫顏料是許多肖像畫家喜愛的慢乾媒材。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -149,8 +149,8 @@
       "roleInScript": "傳話茶僮",
       "humorDevice": "story",
       "zhGloss": "中間人",
-      "speakLineEn": "Avoid opaque intermediaries for raw files.",
-      "speakLineZh": "原始檔避免不透明中間人。",
+      "speakLineEn": "The broker acted as an intermediary between buyer and seller.",
+      "speakLineZh": "經紀人擔任買方與賣方之間的中間人。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "P2-batch01",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

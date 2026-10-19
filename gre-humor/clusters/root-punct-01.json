@@ -14,8 +14,8 @@
       "roleInScript": "對準點",
       "humorDevice": "morphology",
       "zhGloss": "準時的",
-      "speakLineEn": "Be punctual with correction notices.",
-      "speakLineZh": "勘誤通知要準時。",
+      "speakLineEn": "Punctual guests make dinner parties easier to host.",
+      "speakLineZh": "準時的客人讓晚宴更好辦。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -74,8 +74,8 @@
       "roleInScript": "點一下強調",
       "humorDevice": "morphology",
       "zhGloss": "加標點；強調",
-      "speakLineEn": "Punctuate limitations clearly.",
-      "speakLineZh": "清楚強調限制。",
+      "speakLineEn": "Please punctuate the dialogue so readers can follow who speaks.",
+      "speakLineZh": "請把對話標點清楚，好讓讀者跟上誰在說話。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -119,8 +119,8 @@
       "roleInScript": "有尖點",
       "humorDevice": "story",
       "zhGloss": "尖銳的；指向的",
-      "speakLineEn": "Ask pointed questions about missingness.",
-      "speakLineZh": "對缺失問尖銳問題。",
+      "speakLineEn": "Her pointed question exposed a gap in the argument.",
+      "speakLineZh": "她尖銳的問題揭露了論證的缺口。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -149,8 +149,8 @@
       "roleInScript": "指定一個點",
       "humorDevice": "story",
       "zhGloss": "任命；約定",
-      "speakLineEn": "Appoint an independent data steward.",
-      "speakLineZh": "任命獨立資料管家。",
+      "speakLineEn": "The board will appoint a new director next month.",
+      "speakLineZh": "董事會下月將任命新的院長。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "P1-batch02",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

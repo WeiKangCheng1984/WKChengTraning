@@ -59,8 +59,8 @@
       "roleInScript": "高要求",
       "humorDevice": "morphology",
       "zhGloss": "苛求的",
-      "speakLineEn": "Demanding standards protect readers.",
-      "speakLineZh": "苛求標準保護讀者。",
+      "speakLineEn": "The course is demanding, but students learn a great deal.",
+      "speakLineZh": "這門課要求很高，但學生能學到很多。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -74,8 +74,8 @@
       "roleInScript": "強制令",
       "humorDevice": "morphology",
       "zhGloss": "授權；命令",
-      "speakLineEn": "Mandate open materials in the grant.",
-      "speakLineZh": "在補助案強制開放材料。",
+      "speakLineEn": "The new law will mandate seat belts for all passengers.",
+      "speakLineZh": "新法將強制所有乘客繫安全帶。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -149,8 +149,8 @@
       "roleInScript": "誡條",
       "humorDevice": "story",
       "zhGloss": "誡命",
-      "speakLineEn": "First commandment: do not peek unblinded.",
-      "speakLineZh": "第一誡：不要非盲偷看。",
+      "speakLineEn": "The first commandment of the workshop is to cite sources.",
+      "speakLineZh": "工作坊第一誡是引用出處。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -190,6 +190,8 @@
     "reviewedAt": "2026-10-19",
     "stage": "P2-batch04",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

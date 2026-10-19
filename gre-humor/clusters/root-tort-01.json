@@ -104,8 +104,8 @@
       "roleInScript": "折磨輪",
       "humorDevice": "morphology",
       "zhGloss": "折磨",
-      "speakLineEn": "In the passage, torture signals a shift toward \"折磨\".",
-      "speakLineZh": "文中 torture 標示語氣轉向「折磨」。",
+      "speakLineEn": "The novel depicts psychological torture without sensational detail.",
+      "speakLineZh": "小說描寫心理折磨，卻不流於煽情細節。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -119,8 +119,8 @@
       "roleInScript": "扭力",
       "humorDevice": "morphology",
       "zhGloss": "扭轉",
-      "speakLineEn": "Critics argued that the policy would torsion basic protections.",
-      "speakLineZh": "批評者主張該政策會扭轉基本保障。",
+      "speakLineEn": "Engineers measured the torsion in the twisted metal rod.",
+      "speakLineZh": "工程師測量扭曲金屬棒的扭轉力。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -134,8 +134,8 @@
       "roleInScript": "勒索單",
       "humorDevice": "morphology",
       "zhGloss": "勒索",
-      "speakLineEn": "Critics argued that the policy would extortion basic protections.",
-      "speakLineZh": "批評者主張該政策會勒索基本保障。",
+      "speakLineEn": "The prosecutor charged the officials with extortion.",
+      "speakLineZh": "檢察官以勒索罪起訴那些官員。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -149,8 +149,8 @@
       "roleInScript": "扭花",
       "humorDevice": "morphology",
       "zhGloss": "旱金蓮",
-      "speakLineEn": "Picture the 扭花: the word nasturtium means 旱金蓮.",
-      "speakLineZh": "想像「扭花」：nasturtium＝旱金蓮。",
+      "speakLineEn": "Orange nasturtium flowers lined the garden path.",
+      "speakLineZh": "橙紅色旱金蓮沿著花園小徑開放。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -164,8 +164,8 @@
       "roleInScript": "火炬角色",
       "humorDevice": "morphology",
       "zhGloss": "火炬",
-      "speakLineEn": "Critics argued that the policy would torch basic protections.",
-      "speakLineZh": "批評者主張該政策會火炬基本保障。",
+      "speakLineEn": "Guides carried a torch through the dark cave passage.",
+      "speakLineZh": "導遊持火炬穿過黑暗洞穴通道。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -195,6 +195,8 @@
     "thickenedAt": "P4-batch01",
     "polishStage": "Q-wave2",
     "polishedAt": "2026-10-19",
-    "zhEnrichedAt": "2026-10-19"
+    "zhEnrichedAt": "2026-10-19",
+    "rootExamplesStage": "root-fix-1",
+    "rootExamplesFixedAt": "2026-10-19"
   }
 }

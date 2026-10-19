@@ -44,8 +44,8 @@
       "roleInScript": "跟在後面",
       "humorDevice": "morphology",
       "zhGloss": "隨後的",
-      "speakLineEn": "Subsequent replications failed to confirm.",
-      "speakLineZh": "隨後複現未能確認。",
+      "speakLineEn": "Subsequent chapters explain how the treaty was enforced.",
+      "speakLineZh": "後續章節說明條約如何被執行。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -89,8 +89,8 @@
       "roleInScript": "無理追打",
       "humorDevice": "morphology",
       "zhGloss": "迫害",
-      "speakLineEn": "Do not persecute whistleblowers.",
-      "speakLineZh": "不要迫害吹哨者。",
+      "speakLineEn": "No society should persecute people for peaceful speech.",
+      "speakLineZh": "任何社會都不該因和平言論而迫害人。",
       "related": {
         "synonyms": "oppress",
         "antonyms": ""
@@ -119,8 +119,8 @@
       "roleInScript": "跟上命令執行",
       "humorDevice": "morphology",
       "zhGloss": "執行；處死",
-      "speakLineEn": "Execute the preregistered plan without silent swaps.",
-      "speakLineZh": "執行預註冊計畫、勿沉默替換。",
+      "speakLineEn": "The team will execute the plan in three careful stages.",
+      "speakLineZh": "團隊將分三個謹慎階段執行計畫。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "P1-batch01",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

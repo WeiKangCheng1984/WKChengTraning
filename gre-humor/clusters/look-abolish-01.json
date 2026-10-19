@@ -179,8 +179,8 @@
       "roleInScript": "拆遷吊球",
       "humorDevice": "story",
       "zhGloss": "拆遷球",
-      "speakLineEn": "A wrecking ball belongs to demolish, not to abominate.",
-      "speakLineZh": "拆遷球屬於 demolish，不屬於 abominate。",
+      "speakLineEn": "The crew swung the wreckingball into the abandoned warehouse at dawn.",
+      "speakLineZh": "施工隊在黎明時把拆遷球甩向那棟廢棄的倉庫。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -236,6 +236,8 @@
     "stage": "P3-batch03",
     "polishStage": "Q-gold",
     "polishedAt": "2026-10-19",
-    "zhEnrichedAt": "2026-10-19"
+    "zhEnrichedAt": "2026-10-19",
+    "semlookPolishAt": "2026-10-19",
+    "semlookPolishStage": "semlook-careful-polish-v1"
   }
 }

@@ -29,8 +29,8 @@
       "roleInScript": "吵著算不清",
       "humorDevice": "morphology",
       "zhGloss": "爭議；爭論",
-      "speakLineEn": "Document the dispute trail.",
-      "speakLineZh": "記錄爭議軌跡。",
+      "speakLineEn": "Historians still dispute the true cause of the uprising.",
+      "speakLineZh": "歷史學家至今仍爭論那場起義的真正原因。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -44,8 +44,8 @@
       "roleInScript": "聲譽櫃台",
       "humorDevice": "morphology",
       "zhGloss": "聲譽",
-      "speakLineEn": "Reputation should not exempt audits.",
-      "speakLineZh": "聲譽不該豁免稽核。",
+      "speakLineEn": "The bakery built a reputation for honest weights and prices.",
+      "speakLineZh": "這間麵包店因秤重與定價誠實而建立名聲。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -74,8 +74,8 @@
       "roleInScript": "據稱候選人",
       "humorDevice": "morphology",
       "zhGloss": "推定的",
-      "speakLineEn": "A putative mechanism needs a test.",
-      "speakLineZh": "據稱機制需要檢驗。",
+      "speakLineEn": "The putative heir suddenly appeared with old documents.",
+      "speakLineZh": "據稱的繼承人突然帶著舊文件現身。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -89,8 +89,8 @@
       "roleInScript": "代理計算員",
       "humorDevice": "morphology",
       "zhGloss": "代理人",
-      "speakLineEn": "Name a deputy data steward.",
-      "speakLineZh": "具名代理資料管家。",
+      "speakLineEn": "The mayor left the deputy in charge during the summit.",
+      "speakLineZh": "市長在高峰會期間把職權交給副手。",
       "related": {
         "synonyms": "lieutenant, surrogate",
         "antonyms": ""
@@ -149,8 +149,8 @@
       "roleInScript": "傳聞聲譽",
       "humorDevice": "story",
       "zhGloss": "名聲",
-      "speakLineEn": "Repute is not a p-value.",
-      "speakLineZh": "名氣不是 p 值。",
+      "speakLineEn": "The clinic earned a strong repute for careful diagnosis.",
+      "speakLineZh": "這間診所因診斷謹慎而贏得良好名聲。",
       "related": {
         "synonyms": "reputation, esteem",
         "antonyms": "disrepute"
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "P2-batch02",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

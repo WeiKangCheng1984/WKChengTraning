@@ -14,8 +14,8 @@
       "roleInScript": "可被選上",
       "humorDevice": "morphology",
       "zhGloss": "合格的；有資格的",
-      "speakLineEn": "Only preregistered trials were eligible for pooling.",
-      "speakLineZh": "只有預註冊試驗有資格納入合併。",
+      "speakLineEn": "Only juniors and seniors are eligible for the internship.",
+      "speakLineZh": "只有大三與大四學生有資格申請實習。",
       "related": {
         "synonyms": "",
         "antonyms": "ineligible"
@@ -135,7 +135,7 @@
       "humorDevice": "morphology",
       "zhGloss": "偏愛",
       "speakLineEn": "A predilection for novelty biases publication.",
-      "speakLineZh": "嗜新偏愛扭曲發表。",
+      "speakLineZh": "對新奇的偏愛會扭曲發表決策。",
       "related": {
         "synonyms": "penchant, proclivity",
         "antonyms": "aversion, dislike"
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "P1-batch01",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch2"
   }
 }

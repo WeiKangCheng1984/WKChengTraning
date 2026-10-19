@@ -14,8 +14,8 @@
       "roleInScript": "平水面",
       "humorDevice": "morphology",
       "zhGloss": "平靜的；溫和的；揮舞",
-      "speakLineEn": "Keep a placid tone in rebuttals.",
-      "speakLineZh": "反駁保持平靜語氣。",
+      "speakLineEn": "The placid lake mirrored the surrounding pines.",
+      "speakLineZh": "平靜的湖面映出四周的松樹。",
       "related": {
         "synonyms": "quiet, still, tranquil, smooth, unruffled, equable",
         "antonyms": "active, agitate, louden, noisy, sound, unquiet, unquietly, moving"
@@ -59,8 +59,8 @@
       "roleInScript": "自滿沙發",
       "humorDevice": "morphology",
       "zhGloss": "自滿的",
-      "speakLineEn": "Complacent labs skip audits.",
-      "speakLineZh": "自滿實驗室跳過稽核。",
+      "speakLineEn": "Complacent winners often stop practicing after early success.",
+      "speakLineZh": "自滿的贏家常在早期成功後就停止練習。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -74,8 +74,8 @@
       "roleInScript": "沙發病",
       "humorDevice": "morphology",
       "zhGloss": "自滿",
-      "speakLineEn": "Complacency about p-hacking is contagious.",
-      "speakLineZh": "對 p 操弄的自滿會傳染。",
+      "speakLineEn": "Early success can breed dangerous complacency.",
+      "speakLineZh": "早期成功可能滋生危險的自滿。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -104,8 +104,8 @@
       "roleInScript": "求情",
       "humorDevice": "story",
       "zhGloss": "懇求",
-      "speakLineEn": "A plea for urgency is not a design.",
-      "speakLineZh": "懇求急迫不是設計。",
+      "speakLineEn": "The lawyer entered a guilty plea on behalf of the client.",
+      "speakLineZh": "律師代表當事人認罪。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -164,8 +164,8 @@
       "roleInScript": "撫平",
       "humorDevice": "story",
       "zhGloss": "撫慰",
-      "speakLineEn": "Soothe anxiety with checklists.",
-      "speakLineZh": "用清單撫慰焦慮。",
+      "speakLineEn": "Soft music can soothe anxious patients before surgery.",
+      "speakLineZh": "輕柔音樂能在手術前安撫焦慮的病患。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -190,6 +190,8 @@
     "reviewedAt": "2026-10-19",
     "stage": "P2-batch04",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

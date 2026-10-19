@@ -44,8 +44,8 @@
       "roleInScript": "明文禁止寫死",
       "humorDevice": "morphology",
       "zhGloss": "禁止",
-      "speakLineEn": "The code proscribes dual submission.",
-      "speakLineZh": "規範禁止一稿兩投。",
+      "speakLineEn": "Campus rules proscribe plagiarism in every assignment.",
+      "speakLineZh": "校園規定禁止任何作業抄襲。",
       "related": {
         "synonyms": "forbid, prohibit, interdict, veto, disallow, nix",
         "antonyms": "permit, allow"
@@ -134,8 +134,8 @@
       "roleInScript": "寫到誰頭上",
       "humorDevice": "morphology",
       "zhGloss": "歸因於",
-      "speakLineEn": "Do not ascribe intent without evidence.",
-      "speakLineZh": "無證據不要歸因意圖。",
+      "speakLineEn": "Historians ascribe the decline to trade disruption, not chance.",
+      "speakLineZh": "歷史學家把衰落歸因於貿易中斷，而非偶然。",
       "related": {
         "synonyms": "impute, assign, attribute",
         "antonyms": ""
@@ -164,8 +164,8 @@
       "roleInScript": "亂寫",
       "humorDevice": "story",
       "zhGloss": "潦草的寫",
-      "speakLineEn": "Margin scribbles are not a codebook.",
-      "speakLineZh": "頁邊亂寫不是編碼簿。",
+      "speakLineEn": "She left a quick scribble in the margin of the page.",
+      "speakLineZh": "她在頁邊匆匆塗了一筆。",
       "related": {
         "synonyms": "scratch, scrawl, cacography, scrabble, doodle",
         "antonyms": ""
@@ -250,6 +250,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "S3b",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

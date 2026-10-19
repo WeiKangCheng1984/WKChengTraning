@@ -14,8 +14,8 @@
       "roleInScript": "總結小票",
       "humorDevice": "morphology",
       "zhGloss": "摘要；總結",
-      "speakLineEn": "A summary must list limitations.",
-      "speakLineZh": "摘要必須列出限制。",
+      "speakLineEn": "Write a one-page summary of the chapter for class.",
+      "speakLineZh": "為上課寫一頁該章的摘要。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -119,8 +119,8 @@
       "roleInScript": "自以為VIP",
       "humorDevice": "morphology",
       "zhGloss": "專橫的",
-      "speakLineEn": "It is presumptuous to skip preregistration.",
-      "speakLineZh": "跳過預註冊很僭越。",
+      "speakLineEn": "It felt presumptuous to correct the professor in mid-lecture.",
+      "speakLineZh": "在講座中途糾正教授，讓人覺得有點僭越。",
       "related": {
         "synonyms": "assumptive, assuming",
         "antonyms": ""
@@ -149,8 +149,8 @@
       "roleInScript": "再提款",
       "humorDevice": "story",
       "zhGloss": "繼續；履歷",
-      "speakLineEn": "Resume enrollment only after lock.",
-      "speakLineZh": "鎖定後才繼續收案。",
+      "speakLineEn": "Classes will resume after the winter break ends.",
+      "speakLineZh": "寒假結束後課程將繼續進行。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -179,8 +179,8 @@
       "roleInScript": "加總鍵",
       "humorDevice": "story",
       "zhGloss": "總和",
-      "speakLineEn": "Report the sum of exclusions.",
-      "speakLineZh": "報告排除總和。",
+      "speakLineEn": "Add the three columns and report the sum at the bottom.",
+      "speakLineZh": "把三欄加總，並在底部報告總和。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-19",
     "stage": "P2-batch03",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

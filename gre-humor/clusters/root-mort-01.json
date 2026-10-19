@@ -74,8 +74,8 @@
       "roleInScript": "快死掉",
       "humorDevice": "morphology",
       "zhGloss": "垂死的",
-      "speakLineEn": "A moribund journal still holds archives.",
-      "speakLineZh": "瀕死期刊仍有檔案。",
+      "speakLineEn": "The once-busy factory now looked moribund and half empty.",
+      "speakLineZh": "那座曾繁忙的工廠如今看起來半死不活、半空著。",
       "related": {
         "synonyms": "stagnant",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "P1-batch02",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

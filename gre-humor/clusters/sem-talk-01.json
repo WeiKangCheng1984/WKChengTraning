@@ -104,8 +104,8 @@
       "roleInScript": "話匣",
       "humorDevice": "contrast",
       "zhGloss": "愛聊天的",
-      "speakLineEn": "A careful reader links chatty to 愛聊天的, not a lookalike neighbor.",
-      "speakLineZh": "細心讀者把 chatty 連到「愛聊天的」，不連形近鄰居。",
+      "speakLineEn": "The chatty seatmate on the train kept sharing snacks and travel tips.",
+      "speakLineZh": "火車上那位愛聊天的鄰座，一直分享零食與旅行小撇步。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -119,8 +119,8 @@
       "roleInScript": "碎嘴",
       "humorDevice": "contrast",
       "zhGloss": "閒聊",
-      "speakLineEn": "Critics argued that the policy would prattle basic protections.",
-      "speakLineZh": "批評者主張該政策會閒聊基本保障。",
+      "speakLineEn": "Toddlers prattle happily about dinosaurs while parents wait in the clinic lobby.",
+      "speakLineZh": "幼兒在診所大廳開心閒聊恐龍，家長則在一旁等候。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -150,6 +150,8 @@
     "thickenedAt": "P4-batch01",
     "polishStage": "Q-wave2",
     "polishedAt": "2026-10-19",
-    "zhEnrichedAt": "2026-10-19"
+    "zhEnrichedAt": "2026-10-19",
+    "semlookPolishAt": "2026-10-19",
+    "semlookPolishStage": "semlook-careful-polish-v1"
   }
 }

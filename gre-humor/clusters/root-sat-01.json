@@ -29,8 +29,8 @@
       "roleInScript": "滿意度",
       "humorDevice": "morphology",
       "zhGloss": "滿意",
-      "speakLineEn": "Reader satisfaction tracks clarity of estimands.",
-      "speakLineZh": "讀者滿意追蹤目標量清晰度。",
+      "speakLineEn": "Customer satisfaction improved after the refund policy changed.",
+      "speakLineZh": "退費政策改變後，顧客滿意度提升。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -149,8 +149,8 @@
       "roleInScript": "資產盤",
       "humorDevice": "story",
       "zhGloss": "資產",
-      "speakLineEn": "Open code is a lab asset.",
-      "speakLineZh": "開放程式碼是實驗室資產。",
+      "speakLineEn": "Fluency in three languages is a valuable career asset.",
+      "speakLineZh": "精通三種語言是職涯上的寶貴資產。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -190,6 +190,8 @@
     "reviewedAt": "2026-10-19",
     "stage": "P2-batch04",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch2"
   }
 }

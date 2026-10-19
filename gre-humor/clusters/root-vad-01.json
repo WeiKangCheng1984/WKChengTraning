@@ -14,8 +14,8 @@
       "roleInScript": "衝進去",
       "humorDevice": "morphology",
       "zhGloss": "入侵",
-      "speakLineEn": "Do not invade privacy for a convenience win.",
-      "speakLineZh": "別為方便入侵隱私。",
+      "speakLineEn": "Weeds began to invade the neglected garden beds.",
+      "speakLineZh": "雜草開始侵入被忽略的花圃。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -119,8 +119,8 @@
       "roleInScript": "全場霧",
       "humorDevice": "morphology",
       "zhGloss": "遍布的",
-      "speakLineEn": "Pervasive missingness needs a plan.",
-      "speakLineZh": "遍布缺失需要計畫。",
+      "speakLineEn": "A pervasive smell of smoke filled the hallway.",
+      "speakLineZh": "走廊裡瀰漫著刺鼻的煙味。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -175,6 +175,8 @@
     "reviewedAt": "2026-10-19",
     "stage": "P2-batch05",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

@@ -14,8 +14,8 @@
       "roleInScript": "晴空麥",
       "humorDevice": "lookalike",
       "zhGloss": "有利的；吉祥的",
-      "speakLineEn": "An auspicious beginning for the campaign.",
-      "speakLineZh": "有利的；吉祥的。",
+      "speakLineEn": "Clear skies on opening day felt auspicious for the outdoor festival.",
+      "speakLineZh": "開幕當天晴空萬里，對戶外慶典來說顯得吉祥有利。",
       "related": {
         "synonyms": "",
         "antonyms": "inauspicious"
@@ -29,8 +29,8 @@
       "roleInScript": "順風標",
       "humorDevice": "lookalike",
       "zhGloss": "吉祥的",
-      "speakLineEn": "A propitious alignment of planets for space exploration.",
-      "speakLineZh": "吉祥的。",
+      "speakLineEn": "A propitious breeze filled the sails just as the race began.",
+      "speakLineZh": "比賽一開始，一陣吉祥的風正好鼓起船帆。",
       "related": {
         "synonyms": "auspicious au金 spi看見, favorable",
         "antonyms": "unpropitious, inauspicious, unfavorable"
@@ -44,8 +44,8 @@
       "roleInScript": "烏雲警",
       "humorDevice": "lookalike",
       "zhGloss": "凶兆的",
-      "speakLineEn": "A dead and ominous silence prevailed.",
-      "speakLineZh": "凶兆的。",
+      "speakLineEn": "Dark clouds and distant thunder created an ominous mood over the valley.",
+      "speakLineZh": "烏雲與遠方雷聲，讓山谷籠罩在凶兆的氣氛中。",
       "related": {
         "synonyms": "baleful, forbidding, menacing, minacious, minatory, sinister",
         "antonyms": "allow, permit"
@@ -59,8 +59,8 @@
       "roleInScript": "綠燈",
       "humorDevice": "lookalike",
       "zhGloss": "有利的",
-      "speakLineEn": "On the exam, favorable most nearly means a sense of \"有利的\".",
-      "speakLineZh": "有利的。",
+      "speakLineEn": "Reviewers gave the new library a favorable report on lighting and space.",
+      "speakLineZh": "評論者對新圖書館的照明與空間給予有利的評價。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -74,8 +74,8 @@
       "roleInScript": "黑貓標",
       "humorDevice": "lookalike",
       "zhGloss": "不吉利的",
-      "speakLineEn": "On the exam, inauspicious most nearly means a sense of \"不吉利的\".",
-      "speakLineZh": "不吉利的。",
+      "speakLineEn": "Losing the first match was an inauspicious start to the tournament.",
+      "speakLineZh": "輸掉第一場比賽，對這次錦標賽來說是不吉利的開局。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -89,8 +89,8 @@
       "roleInScript": "陽光角色",
       "humorDevice": "story",
       "zhGloss": "陽光",
-      "speakLineEn": "In the passage, sunshine signals a shift toward \"陽光\".",
-      "speakLineZh": "文中 sunshine 標示語氣轉向「陽光」。",
+      "speakLineEn": "Morning sunshine poured through the classroom windows after the storm.",
+      "speakLineZh": "暴風雨過後，早晨的陽光從教室窗戶灑進來。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -104,8 +104,8 @@
       "roleInScript": "麥克風角色",
       "humorDevice": "story",
       "zhGloss": "麥克風",
-      "speakLineEn": "A careful reader links mic to 麥克風, not a lookalike neighbor.",
-      "speakLineZh": "細心讀者把 mic 連到「麥克風」，不連形近鄰居。",
+      "speakLineEn": "The host tapped the mic twice before welcoming the audience on stage.",
+      "speakLineZh": "主持人輕拍兩下麥克風，才上台向觀眾致意。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -119,8 +119,8 @@
       "roleInScript": "幸運角色",
       "humorDevice": "story",
       "zhGloss": "幸運",
-      "speakLineEn": "Critics argued that the policy would lucky basic protections.",
-      "speakLineZh": "批評者主張該政策會幸運基本保障。",
+      "speakLineEn": "They felt lucky to catch the last train before the station closed.",
+      "speakLineZh": "他們趕上車站關閉前的末班車，覺得自己很幸運。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -134,8 +134,8 @@
       "roleInScript": "櫃台角色",
       "humorDevice": "story",
       "zhGloss": "櫃台",
-      "speakLineEn": "In the passage, desk signals a shift toward \"櫃台\".",
-      "speakLineZh": "文中 desk 標示語氣轉向「櫃台」。",
+      "speakLineEn": "Guests checked in at the hotel desk and received maps of the city.",
+      "speakLineZh": "旅客在飯店櫃台辦理入住，並拿到市區地圖。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -160,6 +160,8 @@
     "stage": "P3-batch03",
     "polishedAt": "2026-10-19",
     "polishStage": "Q-wave2",
-    "zhEnrichedAt": "2026-10-19"
+    "zhEnrichedAt": "2026-10-19",
+    "semlookPolishAt": "2026-10-19",
+    "semlookPolishStage": "semlook-careful-polish-v1"
   }
 }

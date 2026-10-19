@@ -209,8 +209,8 @@
       "roleInScript": "積累的憤感",
       "humorDevice": "morphology",
       "zhGloss": "怨恨",
-      "speakLineEn": "Unpaid reviewing breeds resentment.",
-      "speakLineZh": "無酬審稿滋生怨恨。",
+      "speakLineEn": "Years of unfair praise bred quiet resentment in the team.",
+      "speakLineZh": "多年不公的稱讚在團隊裡滋生沉默的怨恨。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -224,8 +224,8 @@
       "roleInScript": "感官之外",
       "humorDevice": "morphology",
       "zhGloss": "超感官的",
-      "speakLineEn": "Extrasensory claims need extraordinary tests.",
-      "speakLineZh": "超感官宣稱需要非凡檢驗。",
+      "speakLineEn": "The essay treats extrasensory claims with scientific skepticism.",
+      "speakLineZh": "文章以科學懷疑態度看待超感官主張。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -250,6 +250,10 @@
     "reviewedAt": "2026-10-18",
     "stage": "S3b",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootExamplesStage": "root-fix-2b",
+    "rootExamplesFixedAt": "2026-10-19",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

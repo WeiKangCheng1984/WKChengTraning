@@ -1,0 +1,974 @@
+{
+  "abet": {
+    "en": "By staying silent, the bystander seemed to abet the bully in the hallway.",
+    "zh": "旁觀者保持沉默，彷彿在走廊裡教唆那個霸凌者。"
+  },
+  "wreckingball": {
+    "en": "The crew swung the wreckingball into the abandoned warehouse at dawn.",
+    "zh": "施工隊在黎明時把拆遷球甩向那棟廢棄的倉庫。"
+  },
+  "dodge": {
+    "en": "She had to dodge a speeding scooter as she crossed the rainy street.",
+    "zh": "她過馬路時必須閃避一輛在雨中疾駛的機車。"
+  },
+  "slippery": {
+    "en": "The slippery salesman twisted every promise until the contract looked harmless.",
+    "zh": "那個狡猾的業務把每句承諾都扭曲到合約看似無害。"
+  },
+  "appraisal": {
+    "en": "The bank required a full appraisal before approving the mortgage on the house.",
+    "zh": "銀行在核准房貸前，要求對這棟房子做完整的評估估價。"
+  },
+  "appraiser": {
+    "en": "An independent appraiser walked through the loft and noted every cracked beam.",
+    "zh": "一位獨立估價師走遍整間閣樓，記下每根裂開的樑柱。"
+  },
+  "apprised": {
+    "en": "Once apprised of the delay, the coach rearranged the practice schedule.",
+    "zh": "教練一獲悉延誤的消息，就立刻重新安排了練習時間表。"
+  },
+  "valuation": {
+    "en": "Investors disputed the startup's valuation after its latest product flopped.",
+    "zh": "這家新創最近產品慘敗後，投資人開始質疑它的估值。"
+  },
+  "notify": {
+    "en": "Please notify the front desk if you lose your room key overnight.",
+    "zh": "若你過夜時弄丟房卡，請通知櫃檯。"
+  },
+  "assessment": {
+    "en": "The midterm assessment covered every chapter taught since September.",
+    "zh": "期中評量涵蓋自九月以來教過的每一章。"
+  },
+  "briefing": {
+    "en": "The mayor held a short briefing about the bridge repair timeline.",
+    "zh": "市長就橋樑整修時程舉行了簡短的簡報。"
+  },
+  "counter": {
+    "en": "Shoppers lined up at the pharmacy counter for their flu shots.",
+    "zh": "顧客在藥局櫃檯前排隊等候打流感疫苗。"
+  },
+  "queue": {
+    "en": "Students formed a long queue outside the cafeteria before lunch opened.",
+    "zh": "午餐開賣前，學生在餐廳外排成一條長隊。"
+  },
+  "asperity": {
+    "en": "His asperity during the meeting made the younger staff afraid to speak.",
+    "zh": "他在會議中的粗魯語氣，讓年輕同事不敢開口。"
+  },
+  "aspersion": {
+    "en": "She cast an unfair aspersion on his honesty without offering any proof.",
+    "zh": "她在毫無證據的情況下，對他的誠信加以誹謗中傷。"
+  },
+  "harsh": {
+    "en": "The desert wind felt harsh against their faces as they climbed the dune.",
+    "zh": "他們爬上沙丘時，沙漠的風打在臉上顯得又粗又烈。"
+  },
+  "slander": {
+    "en": "The newspaper paid damages after printing a clear slander about the athlete.",
+    "zh": "報紙刊登對該選手的明顯誹謗後，付出了賠償金。"
+  },
+  "rumor": {
+    "en": "A wild rumor about school closure spread through the group chat by noon.",
+    "zh": "中午前，一則學校停課的離譜謠言已在群組傳開。"
+  },
+  "tone": {
+    "en": "The teacher's calm tone helped the nervous class settle before the quiz.",
+    "zh": "老師平穩的語氣，讓緊張的班級在小考前安定下來。"
+  },
+  "ear": {
+    "en": "Cold air stung her ear as she waited for the late night bus.",
+    "zh": "她在深夜等公車時，冷風刺痛了她的耳朵。"
+  },
+  "critique": {
+    "en": "After the recital, the instructor offered a careful critique of each solo.",
+    "zh": "音樂會結束後，指導老師對每段獨奏提出仔細的批評。"
+  },
+  "gossip": {
+    "en": "Office gossip about the merger drowned out the real project updates.",
+    "zh": "辦公室關於併購的八卦，蓋過了真正的專案進度。"
+  },
+  "sharp": {
+    "en": "The chef kept a sharp knife ready beside the cutting board.",
+    "zh": "廚師在砧板上備好一把鋒利尖銳的刀。"
+  },
+  "wet": {
+    "en": "Her shoes were still wet after she walked home through the puddles.",
+    "zh": "她踩著水窪走回家後，鞋子仍是濕的。"
+  },
+  "badge": {
+    "en": "Every volunteer wore a bright badge so visitors could ask for help.",
+    "zh": "每位志工都戴著顯眼的徽章，方便遊客求助。"
+  },
+  "auspicious": {
+    "en": "Clear skies on opening day felt auspicious for the outdoor festival.",
+    "zh": "開幕當天晴空萬里，對戶外慶典來說顯得吉祥有利。"
+  },
+  "propitious": {
+    "en": "A propitious breeze filled the sails just as the race began.",
+    "zh": "比賽一開始，一陣吉祥的風正好鼓起船帆。"
+  },
+  "ominous": {
+    "en": "Dark clouds and distant thunder created an ominous mood over the valley.",
+    "zh": "烏雲與遠方雷聲，讓山谷籠罩在凶兆的氣氛中。"
+  },
+  "favorable": {
+    "en": "Reviewers gave the new library a favorable report on lighting and space.",
+    "zh": "評論者對新圖書館的照明與空間給予有利的評價。"
+  },
+  "inauspicious": {
+    "en": "Losing the first match was an inauspicious start to the tournament.",
+    "zh": "輸掉第一場比賽，對這次錦標賽來說是不吉利的開局。"
+  },
+  "sunshine": {
+    "en": "Morning sunshine poured through the classroom windows after the storm.",
+    "zh": "暴風雨過後，早晨的陽光從教室窗戶灑進來。"
+  },
+  "mic": {
+    "en": "The host tapped the mic twice before welcoming the audience on stage.",
+    "zh": "主持人輕拍兩下麥克風，才上台向觀眾致意。"
+  },
+  "lucky": {
+    "en": "They felt lucky to catch the last train before the station closed.",
+    "zh": "他們趕上車站關閉前的末班車，覺得自己很幸運。"
+  },
+  "desk": {
+    "en": "Guests checked in at the hotel desk and received maps of the city.",
+    "zh": "旅客在飯店櫃台辦理入住，並拿到市區地圖。"
+  },
+  "harmful": {
+    "en": "Too much screen time can be harmful to a child's sleep schedule.",
+    "zh": "螢幕時間過長，可能對孩子的睡眠作息有害。"
+  },
+  "unfavorable": {
+    "en": "Unfavorable weather forced the soccer final to move indoors.",
+    "zh": "不利的天氣迫使足球決賽改到室內舉行。"
+  },
+  "allergy": {
+    "en": "Her peanut allergy meant the cafeteria posted warnings on every tray.",
+    "zh": "她對花生過敏，因此餐廳在每個餐盤上都貼了警示。"
+  },
+  "setback": {
+    "en": "A sudden injury was a setback, yet the runner returned for spring races.",
+    "zh": "突如其來的傷勢是一次挫敗，但跑者仍回來參加春季賽。"
+  },
+  "banal": {
+    "en": "The movie's banal dialogue made even the chase scenes feel tired.",
+    "zh": "這部電影陳腐的對白，連追逐場面都顯得疲乏。"
+  },
+  "bane": {
+    "en": "Traffic jams remain the bane of every morning commute into the city.",
+    "zh": "塞車仍是每天早上進城通勤的禍根。"
+  },
+  "bale": {
+    "en": "Years of war brought bale to families who once farmed the quiet plain.",
+    "zh": "連年戰火把痛苦與不幸帶給曾在平靜平原耕作的家庭。"
+  },
+  "curse": {
+    "en": "In the folk tale, a jealous neighbor places a curse on the harvest.",
+    "zh": "在民間故事裡，嫉妒的鄰居對收成下了詛咒。"
+  },
+  "disaster": {
+    "en": "The flood became a national disaster within hours of the dam break.",
+    "zh": "水壩潰決後數小時內，洪水就變成全國性的災難。"
+  },
+  "yawn": {
+    "en": "A loud yawn escaped him during the long afternoon lecture.",
+    "zh": "冗長的下午講課中，他忍不住打了一個大哈欠。"
+  },
+  "root": {
+    "en": "The gardener loosened the soil around the rose's thick root.",
+    "zh": "園丁把玫瑰粗根周圍的土壤鬆開。"
+  },
+  "prop": {
+    "en": "Timber beams prop the old roof so it will not collapse in snow.",
+    "zh": "木樑支撐著舊屋頂，免得它被積雪壓垮。"
+  },
+  "shelf": {
+    "en": "She stacked the library books neatly on the middle shelf.",
+    "zh": "她把圖書館的書整齊堆在中層架子上。"
+  },
+  "boring": {
+    "en": "The two-hour presentation felt boring without a single concrete example.",
+    "zh": "兩個小時的簡報沒有任何具體例子，顯得十分無聊。"
+  },
+  "doom": {
+    "en": "Many feared the volcanic ash cloud would doom the coastal fishing season.",
+    "zh": "許多人擔心火山灰雲會註定沿海漁季的倒霉結局。"
+  },
+  "beget": {
+    "en": "Careless spending can beget debt that follows a family for years.",
+    "zh": "揮霍無度可能引發長年纏身的債務。"
+  },
+  "beset": {
+    "en": "The expedition was beset by storms and dwindling food supplies.",
+    "zh": "探險隊被暴風雨與日益減少的糧食所困擾。"
+  },
+  "cause": {
+    "en": "Investigators still debate the exact cause of the warehouse fire.",
+    "zh": "調查人員仍在爭論倉庫大火的真正原因。"
+  },
+  "arrow": {
+    "en": "A painted arrow on the floor guided visitors toward the exit.",
+    "zh": "地板上畫的箭頭引導遊客走向出口。"
+  },
+  "problem": {
+    "en": "Finding enough parking near campus remains a daily problem for students.",
+    "zh": "在校園附近找到足夠車位，仍是學生每天的問題。"
+  },
+  "blockade": {
+    "en": "Ships could not enter the harbor during the wartime naval blockade.",
+    "zh": "戰時海軍封鎖期間，船隻無法進入港口。"
+  },
+  "net": {
+    "en": "Fishermen hauled in a heavy net filled with silver mackerel.",
+    "zh": "漁民拉起裝滿銀色鯖魚的沉重漁網。"
+  },
+  "chain": {
+    "en": "The bicycle chain slipped off just as she reached the steep hill.",
+    "zh": "她騎到陡坡時，腳踏車的鏈條正好脫落。"
+  },
+  "brandish": {
+    "en": "The knight would brandish his sword to scare the bandits away.",
+    "zh": "騎士會揮舞寶劍，嚇退那些強盜。"
+  },
+  "blandish": {
+    "en": "He tried to blandish the landlord with compliments before asking for a discount.",
+    "zh": "他先用甜言蜜語奉承房東，才開口要求打折。"
+  },
+  "bristle": {
+    "en": "Teachers bristle when parents accuse them without hearing both sides.",
+    "zh": "家長未聽雙方說法就指責時，老師會生氣發怒。"
+  },
+  "brittle": {
+    "en": "The brittle ice cracked under the first skater's weight.",
+    "zh": "易碎的薄冰在第一位溜冰者踩上去時就裂開了。"
+  },
+  "flourish": {
+    "en": "With a theatrical flourish, the magician waved the silk scarf overhead.",
+    "zh": "魔術師帶著炫耀的揮舞，把絲巾舉過頭頂。"
+  },
+  "anger": {
+    "en": "His anger cooled only after he apologized for the harsh words.",
+    "zh": "他為刺耳的話道歉後，憤怒才慢慢平息。"
+  },
+  "sword": {
+    "en": "The museum displayed a rusted sword from the civil war era.",
+    "zh": "博物館展出一把內戰時期生鏽的劍。"
+  },
+  "candy": {
+    "en": "Children traded colorful candy after the Halloween parade ended.",
+    "zh": "萬聖節遊行結束後，孩子們交換五顏六色的糖果。"
+  },
+  "quill": {
+    "en": "The porcupine raised every quill when the dog came too close.",
+    "zh": "狗靠得太近時，豪豬豎起每一根刺。"
+  },
+  "compliment": {
+    "en": "A sincere compliment about her essay made the shy student smile.",
+    "zh": "一句對她作文的真誠恭維，讓害羞的學生笑了。"
+  },
+  "threat": {
+    "en": "Rising sea levels pose a serious threat to the coastal village.",
+    "zh": "海平面上升對沿海村莊構成嚴重威脅。"
+  },
+  "fur": {
+    "en": "The fox's thick fur kept it warm through the mountain winter.",
+    "zh": "狐狸濃密的毛皮讓它安然度過山中寒冬。"
+  },
+  "smile": {
+    "en": "Her warm smile greeted every customer who entered the bakery.",
+    "zh": "每位走進麵包店的顧客，都迎上她溫暖的笑容。"
+  },
+  "bumble": {
+    "en": "New volunteers often bumble through the first day of festival setup.",
+    "zh": "新志工常在節慶布置的第一天把事情搞砸。"
+  },
+  "bungle": {
+    "en": "They managed to bungle the simple handoff and lost the relay race.",
+    "zh": "他們把簡單的交接棒搞砸，因而輸掉接力賽。"
+  },
+  "stumble": {
+    "en": "He began to stumble over the rocky path after the flashlight died.",
+    "zh": "手電筒沒電後，他在崎嶇小徑上蹣跚掙扎前進。"
+  },
+  "fumble": {
+    "en": "In the dark hallway she had to fumble for the light switch.",
+    "zh": "在黑暗走廊裡，她只能笨手笨腳地摸索電燈開關。"
+  },
+  "botch": {
+    "en": "A rushed paint job can botch an otherwise careful renovation.",
+    "zh": "倉促的油漆可能把原本細心的整修拙劣完成。"
+  },
+  "flub": {
+    "en": "The actor did not flub a single line during the live broadcast.",
+    "zh": "在直播中，那位演員一句台詞都沒搞砸。"
+  },
+  "trip": {
+    "en": "A loose shoelace made him trip on the stairs before assembly.",
+    "zh": "鬆掉的鞋帶讓他在集會前絆到樓梯。"
+  },
+  "floor": {
+    "en": "Janitors mopped the gym floor after the evening basketball game.",
+    "zh": "晚間籃球賽結束後，清潔人員拖乾體育館地板。"
+  },
+  "wetfloor": {
+    "en": "A yellow sign marked the wetfloor near the lobby fountain.",
+    "zh": "大廳噴泉旁的濕地用黃色告示牌標示出來。"
+  },
+  "hands": {
+    "en": "Cold water made his hands stiff while he washed the camping dishes.",
+    "zh": "他洗露營餐具時，冷水讓雙手變得僵硬。"
+  },
+  "feet": {
+    "en": "After the hike, her feet ached from miles of uneven trail.",
+    "zh": "健行結束後，她的腳因走了數哩崎嶇步道而痠痛。"
+  },
+  "mess": {
+    "en": "The kitchen was a complete mess after the birthday cake disaster.",
+    "zh": "生日蛋糕慘案之後，廚房變成一團糟。"
+  },
+  "corridor": {
+    "en": "Footsteps echoed down the empty school corridor after the final bell.",
+    "zh": "放學鐘響後，腳步聲在空蕩的學校走廊迴盪。"
+  },
+  "cone": {
+    "en": "Workers placed an orange traffic cone beside the open manhole.",
+    "zh": "工人在打開的人孔旁放了一個橘色交通圓錐筒。"
+  },
+  "bustle": {
+    "en": "Shoppers bustle through the night market before the stalls close.",
+    "zh": "攤位收攤前，購物者在夜市裡忙碌奔走。"
+  },
+  "hustle": {
+    "en": "Couriers hustle packages across downtown during the holiday rush.",
+    "zh": "耶誕旺季時，快遞人員在市區催趕奔忙送貨。"
+  },
+  "hurtle": {
+    "en": "Debris began to hurtle down the slope after the landslide started.",
+    "zh": "山崩開始後，碎石沿著斜坡猛烈撞擊滾落。"
+  },
+  "hurdle": {
+    "en": "Clearing the final hurdle, she won the school track championship.",
+    "zh": "跨過最後一道跨欄障礙後，她贏得校內田徑冠軍。"
+  },
+  "rush": {
+    "en": "Commuters rush for the subway doors when the train arrives.",
+    "zh": "列車進站時，通勤者衝向地鐵車門。"
+  },
+  "turntable": {
+    "en": "The DJ spun a vinyl record on the club's glowing turntable.",
+    "zh": "DJ 在夜店發光的轉盤上轉動黑膠唱片。"
+  },
+  "speed": {
+    "en": "Cameras catch drivers who exceed the posted speed near schools.",
+    "zh": "測速相機會拍下在學校附近超速行駛的駕駛。"
+  },
+  "market": {
+    "en": "Fresh herbs filled every stall at the weekend farmers market.",
+    "zh": "週末農夫市集的每個攤位都擺滿新鮮香草。"
+  },
+  "dash": {
+    "en": "She had to dash across campus to reach the exam on time.",
+    "zh": "她必須飛奔穿越校園，才能準時趕到考試。"
+  },
+  "announce": {
+    "en": "The station will announce platform changes over the loudspeakers.",
+    "zh": "車站會透過廣播宣布月台變更。"
+  },
+  "lane": {
+    "en": "Each sprinter stayed in the assigned lane through the final stretch.",
+    "zh": "每位短跑選手在最後衝刺段都待在指定跑道上。"
+  },
+  "cart": {
+    "en": "A grocery cart rattled down the aisle under a tower of cereal boxes.",
+    "zh": "一輛推車載著高高一疊麥片盒，嘎嘎穿過走道。"
+  },
+  "horn": {
+    "en": "A taxi horn blared as pedestrians stepped into the crosswalk.",
+    "zh": "行人走進斑馬線時，計程車喇叭突然大響。"
+  },
+  "blame": {
+    "en": "It is unfair to blame the intern for a decision made by managers.",
+    "zh": "把經理做的決定怪到實習生頭上並不公平。"
+  },
+  "blacklist": {
+    "en": "Airlines may blacklist passengers who refuse to follow safety rules.",
+    "zh": "航空公司可能把拒絕遵守安全規定的旅客列入黑名單。"
+  },
+  "approve": {
+    "en": "The council must approve the budget before construction can begin.",
+    "zh": "議會必須先批准預算，工程才能開工。"
+  },
+  "edit": {
+    "en": "The film student stayed late to edit the final classroom documentary.",
+    "zh": "電影系學生熬夜剪輯課堂紀錄片的最終版本。"
+  },
+  "chaff": {
+    "en": "Friends like to chaff one another about old high-school nicknames.",
+    "zh": "朋友們喜歡拿高中舊綽號互相開玩笑。"
+  },
+  "chagrin": {
+    "en": "To his chagrin, the presentation slides froze in front of the class.",
+    "zh": "令他懊惱不安的是，簡報投影片在全班面前當機了。"
+  },
+  "cherubic": {
+    "en": "The toddler's cherubic face made even stern judges soften their tone.",
+    "zh": "幼兒那張嬰兒般的臉，連嚴厲的評審都語氣變軟。"
+  },
+  "chary": {
+    "en": "Investors grew chary of startups that never published clear accounts.",
+    "zh": "投資人對從不公開清楚帳目的新創變得謹慎。"
+  },
+  "tease": {
+    "en": "Older siblings often tease younger ones about forgotten homework.",
+    "zh": "兄姊常取笑弟弟妹妹忘了帶作業。"
+  },
+  "angel": {
+    "en": "In the mural, a painted angel watches over the sleeping village.",
+    "zh": "壁畫裡，一位天使俯視著沉睡的村莊。"
+  },
+  "locker": {
+    "en": "Athletes stuffed sweaty gear into the locker after practice ended.",
+    "zh": "練習結束後，選手把汗濕裝備塞進更衣室置物櫃。"
+  },
+  "joke": {
+    "en": "His clumsy joke about traffic lights finally made the tired class laugh.",
+    "zh": "他關於紅綠燈的笨拙玩笑，終於讓疲憊的班級笑了。"
+  },
+  "frown": {
+    "en": "Parents frown upon students who skip class without a real reason.",
+    "zh": "家長對無故翹課的學生表示厭惡與皺眉。"
+  },
+  "coach": {
+    "en": "The basketball coach ran drills until every player hit free throws.",
+    "zh": "籃球教練反覆操練，直到每位球員都能投進罰球。"
+  },
+  "blush": {
+    "en": "She began to blush when the teacher praised her poem aloud.",
+    "zh": "老師當眾稱讚她的詩時，她的臉紅了起來。"
+  },
+  "wink": {
+    "en": "Grandpa gave a playful wink before revealing the birthday surprise.",
+    "zh": "爺爺在揭曉生日驚喜前，俏皮地眨了一下眼。"
+  },
+  "sigh": {
+    "en": "A long sigh escaped her after she finished the last exam question.",
+    "zh": "答完最後一題考題後，她長長地嘆了一口氣。"
+  },
+  "halo": {
+    "en": "Streetlights cast a soft halo around the foggy park entrance.",
+    "zh": "路燈在霧氣瀰漫的公園入口投下柔和光環。"
+  },
+  "complaisant": {
+    "en": "The complaisant host agreed to every guest request without complaint.",
+    "zh": "那位順從的主人毫無怨言地答應每位客人的要求。"
+  },
+  "complaisance": {
+    "en": "Her endless complaisance left little time for her own projects.",
+    "zh": "她無止盡的順從殷勤，幾乎沒有時間做自己的計畫。"
+  },
+  "smug": {
+    "en": "The smug winner smirked as if the contest had never been close.",
+    "zh": "那個自命不凡的贏家壞笑著，彷彿比賽從未膠著過。"
+  },
+  "ingratiating": {
+    "en": "His ingratiating smile appeared whenever the principal entered the room.",
+    "zh": "校長一進教室，他就換上討人喜歡的奉迎笑容。"
+  },
+  "fawning": {
+    "en": "Fawning assistants surrounded the celebrity after every press event.",
+    "zh": "每次記者會後，奉承討好的助理都圍在名人身邊。"
+  },
+  "smugness": {
+    "en": "His smugness after one good quiz annoyed classmates who still struggled.",
+    "zh": "他一次小考考好就沾沾自喜，惹惱了仍在苦讀的同學。"
+  },
+  "smirk": {
+    "en": "A knowing smirk crossed her face when the rumor proved false.",
+    "zh": "謠言被證明是假的時，她臉上掠過一抹假笑。"
+  },
+  "flatterer": {
+    "en": "A practiced flatterer praised every idea the boss mentioned at lunch.",
+    "zh": "老練的諂媚者在午餐時對老闆提起的每個主意都大加讚美。"
+  },
+  "makeup": {
+    "en": "She applied light makeup before stepping onto the school stage.",
+    "zh": "踏上學校舞台前，她化了淡淡的妝。"
+  },
+  "contrite": {
+    "en": "A contrite student returned the stolen lunch money with a written apology.",
+    "zh": "那位後悔的學生歸還偷走的午餐錢，並附上書面道歉。"
+  },
+  "trite": {
+    "en": "His speech relied on trite slogans that no one found inspiring.",
+    "zh": "他的演說盡是平庸陳腐的口號，無人覺得鼓舞。"
+  },
+  "repentant": {
+    "en": "The repentant driver volunteered at the clinic after causing the crash.",
+    "zh": "那位懺悔的駕駛在肇事後到診所擔任志工。"
+  },
+  "cliche": {
+    "en": "Calling every challenge a journey has become a tired advertising cliche.",
+    "zh": "把每個挑戰都叫作旅程，已成廣告裡用濫的陳腔。"
+  },
+  "slogan": {
+    "en": "Campaign volunteers painted the new slogan across homemade banners.",
+    "zh": "競選志工把新口號漆在自製的橫幅上。"
+  },
+  "tear": {
+    "en": "A single tear rolled down her cheek when the choir began to sing.",
+    "zh": "合唱團一開唱，一滴淚就滑過她的臉頰。"
+  },
+  "sticker": {
+    "en": "Kids covered their water bottles with a bright space-themed sticker.",
+    "zh": "孩子們用鮮豔的太空主題貼紙貼滿水壺。"
+  },
+  "vending": {
+    "en": "Coins jammed the vending machine beside the science classroom.",
+    "zh": "科學教室旁的販賣機被硬幣卡住了。"
+  },
+  "guilt": {
+    "en": "Guilt kept him awake after he forgot his friend's birthday dinner.",
+    "zh": "忘記朋友的生日晚餐後，愧疚讓他徹夜難眠。"
+  },
+  "boredom": {
+    "en": "Rainy weekends often bring boredom to kids stuck indoors.",
+    "zh": "下雨的週末常讓困在室內的孩子感到無聊。"
+  },
+  "overused": {
+    "en": "That joke is so overused that even the teacher rolls her eyes.",
+    "zh": "那個玩笑已經用濫到連老師都翻白眼。"
+  },
+  "coin": {
+    "en": "Writers sometimes coin a new phrase that later enters everyday speech.",
+    "zh": "作家有時會創造新詞或短語，後來進入日常用語。"
+  },
+  "delude": {
+    "en": "False headlines can delude readers into believing an easy miracle cure.",
+    "zh": "不實標題可能欺騙讀者，讓他們相信簡單的神奇療法。"
+  },
+  "deluge": {
+    "en": "A sudden deluge flooded the subway stairs within minutes.",
+    "zh": "突如其來的大洪水在幾分鐘內淹沒地鐵階梯。"
+  },
+  "divulge": {
+    "en": "Reporters refused to divulge the identity of their confidential source.",
+    "zh": "記者拒絕泄露機密消息來源的身分。"
+  },
+  "flood": {
+    "en": "Sandbags lined the riverbank as the spring flood rose overnight.",
+    "zh": "春汛連夜上漲時，河岸堆起一排沙袋。"
+  },
+  "secret": {
+    "en": "They kept the surprise party a secret until she walked through the door.",
+    "zh": "他們把驚喜派對當成祕密，直到她推門進來。"
+  },
+  "leak": {
+    "en": "A roof leak stained the classroom ceiling after days of heavy rain.",
+    "zh": "連日大雨後，屋頂洩漏把教室天花板染上水漬。"
+  },
+  "nozzle": {
+    "en": "The firefighter adjusted the hose nozzle before aiming at the flames.",
+    "zh": "消防隊員調整水帶噴嘴後，才對準火燄射水。"
+  },
+  "studio": {
+    "en": "Art students shared a crowded studio filled with half-finished canvases.",
+    "zh": "美術系學生共用一間堆滿半成品畫布的擁擠工作室。"
+  },
+  "truth": {
+    "en": "Witnesses finally told the truth about what happened on the bridge.",
+    "zh": "目擊者終於說出橋上事件的真相。"
+  },
+  "alarm": {
+    "en": "The fire alarm pulled everyone out of the dorm into the courtyard.",
+    "zh": "火警警報把所有人從宿舍趕到中庭。"
+  },
+  "separate": {
+    "en": "Teachers keep quiz papers in a separate folder from homework stacks.",
+    "zh": "老師把小考卷與作業分開放在不同資料夾。"
+  },
+  "careful": {
+    "en": "Be careful crossing the icy bridge after last night's freeze.",
+    "zh": "昨晚結冰後，過那座橋時要特別小心。"
+  },
+  "compartmentalize": {
+    "en": "She learned to compartmentalize work stress so evenings stayed peaceful.",
+    "zh": "她學會劃分工壓，好讓晚上仍能平靜度過。"
+  },
+  "partition": {
+    "en": "A glass partition divides the quiet reading area from the noisy cafe.",
+    "zh": "一道玻璃隔間把安靜閱讀區與嘈雜咖啡廳分割開來。"
+  },
+  "epochal": {
+    "en": "Landing on the moon was an epochal moment for science and television.",
+    "zh": "登陸月球對科學與電視傳播都是劃時代的時刻。"
+  },
+  "annal": {
+    "en": "Each royal annal recorded droughts, wars, and harvests year by year.",
+    "zh": "每一部王室編年紀錄都逐年記載乾旱、戰爭與收成。"
+  },
+  "annals": {
+    "en": "Her discovery entered the annals of medicine within a single decade.",
+    "zh": "她的發現在十年內就寫進醫學編年史。"
+  },
+  "historiography": {
+    "en": "Modern historiography questions whose voices older textbooks left out.",
+    "zh": "現代史學寫作質疑舊教科書遺漏了誰的聲音。"
+  },
+  "bygone": {
+    "en": "Grandparents still tell stories from bygone summers at the lake house.",
+    "zh": "祖父母仍講述過去在湖邊小屋度過的那些夏天。"
+  },
+  "yesteryear": {
+    "en": "Fashion magazines revived the bright colors of yesteryear for spring.",
+    "zh": "時尚雜誌把往昔鮮豔的色彩帶回春裝系列。"
+  },
+  "antiquarian": {
+    "en": "An antiquarian bookshop sold maps drawn before the city had subways.",
+    "zh": "一家古文物書店出售地鐵出現前繪製的城市地圖。"
+  },
+  "periodization": {
+    "en": "Historians debate the periodization of the Renaissance across regions.",
+    "zh": "史學家爭論文藝復興在各地區應如何分期。"
+  },
+  "blackboard": {
+    "en": "Chalk dust covered the blackboard after the algebra demonstration.",
+    "zh": "代數示範結束後，黑板佈滿粉筆灰。"
+  },
+  "chalk": {
+    "en": "The teacher broke a stick of chalk while writing the homework list.",
+    "zh": "老師寫作業清單時折斷了一根粉筆。"
+  },
+  "museumcard": {
+    "en": "Students showed a museumcard at the gate for free weekend entry.",
+    "zh": "學生在門口出示博物館卡，即可免費週末入場。"
+  },
+  "yearbook": {
+    "en": "Seniors signed one another's yearbook on the final day of school.",
+    "zh": "畢業班在最後一天互相在年鑑上簽名。"
+  },
+  "scroll": {
+    "en": "The museum unrolled an ancient scroll under soft protective lights.",
+    "zh": "博物館在柔和的防護燈光下展開一卷古代卷軸。"
+  },
+  "plaque": {
+    "en": "A bronze plaque on the wall names the donors who funded the wing.",
+    "zh": "牆上的銅製牌匾刻著贊助這棟側廂的捐款人姓名。"
+  },
+  "dustybook": {
+    "en": "She pulled a dustybook from the attic and found pressed flowers inside.",
+    "zh": "她從閣樓抽出一本塵書，發現裡夾著壓乾的花。"
+  },
+  "incredulity": {
+    "en": "Incredulity filled the room when the magician claimed to read minds.",
+    "zh": "魔術師聲稱能讀心時，滿室都是不輕信的表情。"
+  },
+  "credulity": {
+    "en": "Advertisers exploit the credulity of shoppers chasing miracle diets.",
+    "zh": "廣告商利用追求神奇減肥法的購物者那份輕信。"
+  },
+  "dubiety": {
+    "en": "Dubiety lingered after the mayor offered only vague answers.",
+    "zh": "市長只給出含糊答覆後，懷疑的情緒仍揮之不去。"
+  },
+  "amazement": {
+    "en": "Tourists stared in amazement at the waterfall crashing into the gorge.",
+    "zh": "遊客驚異地盯著瀑布衝進峽谷的景象。"
+  },
+  "astonishment": {
+    "en": "Gasps of astonishment rose when the quiet student won first prize.",
+    "zh": "那位安靜的學生贏得首獎時，現場發出驚訝的抽氣聲。"
+  },
+  "stupefaction": {
+    "en": "Stupefaction froze the crowd as the statue suddenly began to move.",
+    "zh": "雕像突然開始移動時，人群驚呆得動彈不得。"
+  },
+  "wonderment": {
+    "en": "Children watched the planetarium show in quiet wonderment.",
+    "zh": "孩子們帶著安靜的驚奇觀看天文館的星象秀。"
+  },
+  "stage": {
+    "en": "Spotlights warmed the stage before the school orchestra entered.",
+    "zh": "學校管弦樂團進場前，聚光燈先照暖了舞台。"
+  },
+  "audience": {
+    "en": "The audience clapped for an encore after the final violin solo.",
+    "zh": "最後一段小提琴獨奏結束後，觀眾鼓掌要求安可。"
+  },
+  "gasp": {
+    "en": "A collective gasp filled the stadium when the ball hit the crossbar.",
+    "zh": "球撞上球門橫木時，整座球場發出倒抽氣的聲音。"
+  },
+  "eyebrow": {
+    "en": "One raised eyebrow from the librarian silenced the whispering table.",
+    "zh": "圖書館員挑起一邊眉毛，就讓竊竊私語的那桌安靜下來。"
+  },
+  "magic": {
+    "en": "Street magic drew a circle of tourists around the busy plaza.",
+    "zh": "街頭魔術在熱鬧廣場上吸引了一圈遊客。"
+  },
+  "curtaincall": {
+    "en": "Actors returned for a curtaincall as roses landed on the boards.",
+    "zh": "玫瑰砸上舞台時，演員們回來謝幕。"
+  },
+  "doubtface": {
+    "en": "His doubtface appeared the moment the witness changed the story.",
+    "zh": "證人一改口，他臉上就露出懷疑臉。"
+  },
+  "wow": {
+    "en": "Kids shouted wow when the science demo made the liquid change color.",
+    "zh": "科學示範讓液體變色時，孩子們齊聲喊哇。"
+  },
+  "ingenuity": {
+    "en": "Classroom ingenuity turned cardboard boxes into a working model bridge.",
+    "zh": "課堂上的巧思把紙箱變成一座能承重的模型橋。"
+  },
+  "naive": {
+    "en": "A naive tourist left cash on the cafe table and walked away.",
+    "zh": "一位天真的遊客把現金留在咖啡桌就走了。"
+  },
+  "resourceful": {
+    "en": "The resourceful camper built a shelter from fallen branches and tarps.",
+    "zh": "足智多謀的露營者用斷枝與防水布搭起遮蔽處。"
+  },
+  "perspective": {
+    "en": "Traveling abroad gave her a broader perspective on everyday customs.",
+    "zh": "出國旅行讓她對日常習俗有了更寬廣的視角。"
+  },
+  "viewpoint": {
+    "en": "Each panelist offered a different viewpoint on reforming school lunch.",
+    "zh": "每位與談人對改革學校午餐都提出不同觀點。"
+  },
+  "standpoint": {
+    "en": "From a parent's standpoint, shorter homework nights feel healthier.",
+    "zh": "從家長的立場觀點看，作業較少的夜晚更健康。"
+  },
+  "vantage": {
+    "en": "From a high vantage on the hill, they watched fireworks over the bay.",
+    "zh": "他們從山上有利位置俯瞰海灣上空的煙火。"
+  },
+  "foresight": {
+    "en": "City planners showed foresight by planting trees along the new avenue.",
+    "zh": "都市規劃者在新大道兩旁種樹，展現了先見。"
+  },
+  "hindsight": {
+    "en": "In hindsight, packing an umbrella would have saved the picnic.",
+    "zh": "事後看來，帶把傘就能保住那場野餐。"
+  },
+  "imminent": {
+    "en": "Sirens warned that a severe thunderstorm was imminent over the city.",
+    "zh": "警報聲警告強雷雨即將發生在城市上空。"
+  },
+  "approaching": {
+    "en": "Birds scattered as the approaching storm darkened the shoreline.",
+    "zh": "接近中的暴風雨讓海岸變暗，鳥兒四散飛走。"
+  },
+  "upcoming": {
+    "en": "Posters advertised the upcoming concert on every campus bulletin board.",
+    "zh": "每塊校園佈告欄都貼出海報宣傳即將到來的演唱會。"
+  },
+  "binoculars": {
+    "en": "Birdwatchers raised binoculars to follow the crane across the marsh.",
+    "zh": "觀鳥者舉起雙筒望遠鏡，追蹤飛越沼澤的鶴。"
+  },
+  "deck": {
+    "en": "Passengers stood on the ship's upper deck to photograph the harbor.",
+    "zh": "乘客站在船上的觀景甲板拍攝港灣景色。"
+  },
+  "lenscap": {
+    "en": "He almost missed the shot because the lenscap was still on the camera.",
+    "zh": "他差點錯過那張照片，因為鏡頭蓋還蓋在相機上。"
+  },
+  "map": {
+    "en": "Hikers unfolded a waterproof map beside the mountain trail marker.",
+    "zh": "健行者在山徑標示旁攤開防水地圖。"
+  },
+  "compass2": {
+    "en": "The scout checked compass2 before choosing which ridge to climb.",
+    "zh": "童軍在決定爬哪條山脊前，先確認羅盤2的方位。"
+  },
+  "tomorrow": {
+    "en": "The coach reminded everyone that tomorrow's game starts at dawn.",
+    "zh": "教練提醒大家，明天的比賽天一亮就開始。"
+  },
+  "anglemark": {
+    "en": "Surveyors painted an anglemark on the sidewalk before laying new pipe.",
+    "zh": "測量人員在人行道上畫好角度標記，才開始埋新管線。"
+  },
+  "respectfully": {
+    "en": "Students stood respectfully when the principal entered the auditorium.",
+    "zh": "校長走進禮堂時，學生恭敬地起立。"
+  },
+  "respectively": {
+    "en": "Alice and Ben scored ninety and eighty-five respectively on the quiz.",
+    "zh": "愛麗絲與班在小考中分別得到九十分與八十五分。"
+  },
+  "respectful": {
+    "en": "A respectful silence fell as veterans walked onto the field.",
+    "zh": "退伍軍人走進球場時，現場響起恭敬的沉默。"
+  },
+  "respective": {
+    "en": "Players returned to their respective lockers after the final whistle.",
+    "zh": "終場哨響後，球員各自回到自己的置物櫃。"
+  },
+  "disrespectful": {
+    "en": "Talking through a memorial service is widely seen as disrespectful.",
+    "zh": "在追思會中交談被普遍視為不敬。"
+  },
+  "irrespective": {
+    "en": "The rule applies to all students irrespective of club membership.",
+    "zh": "這條規定適用於所有學生，不考慮是否加入社團。"
+  },
+  "respectability": {
+    "en": "The family prized respectability and kept scandals out of the papers.",
+    "zh": "那家人重視體面，不讓醜聞登上報紙。"
+  },
+  "esteem": {
+    "en": "Colleagues held her in high esteem for mentoring every new hire.",
+    "zh": "同事因她輔導每位新人而對她十分尊重。"
+  },
+  "bowtie": {
+    "en": "He adjusted his bowtie twice before stepping up to the podium.",
+    "zh": "走上講台前，他調整了兩次領結。"
+  },
+  "nametag": {
+    "en": "Every conference guest wore a nametag printed with school and city.",
+    "zh": "每位與會來賓都戴著印有學校與城市的名牌。"
+  },
+  "queue2": {
+    "en": "Volunteers opened a second queue2 for guests with reserved tickets.",
+    "zh": "志工為持預約票的來賓另開一條排隊2動線。"
+  },
+  "handshake2": {
+    "en": "Diplomats practiced handshake2 before cameras entered the hall.",
+    "zh": "攝影機進場前，外交官先演練握手2的動作。"
+  },
+  "seating": {
+    "en": "The usher checked the seating chart before guiding families to rows.",
+    "zh": "帶位員先核對座位表，才引導家庭入座。"
+  },
+  "salute": {
+    "en": "Soldiers raised a sharp salute as the flag rose over the parade ground.",
+    "zh": "國旗在閱兵場升起時，士兵行了標準敬禮。"
+  },
+  "title": {
+    "en": "Her official title on the door read Director of Student Affairs.",
+    "zh": "門上的正式頭銜寫著學生事務主任。"
+  },
+  "orderlist": {
+    "en": "Kitchen staff followed the orderlist taped beside the prep counter.",
+    "zh": "廚房人員依照貼在備料台旁的順序列表作業。"
+  },
+  "sensual": {
+    "en": "The novel's sensual descriptions of summer nights drew mixed reviews.",
+    "zh": "小說對夏夜感官情慾的描寫，引來褒貶不一的評論。"
+  },
+  "sensuous": {
+    "en": "Listeners enjoyed the sensuous warmth of cello notes in the chapel.",
+    "zh": "聽眾沉浸在教堂裡大提琴音符愉悅感官的溫暖中。"
+  },
+  "sensuousness": {
+    "en": "Critics praised the painting's sensuousness of color and soft light.",
+    "zh": "評論家稱讚這幅畫在色彩與柔光上的感官美。"
+  },
+  "carnal": {
+    "en": "Medieval sermons warned against carnal temptation at carnival feasts.",
+    "zh": "中世紀講道警告人們在嘉年華盛宴中提防肉慾誘惑。"
+  },
+  "voluptuous": {
+    "en": "The palace gardens offered a voluptuous display of flowers and fountains.",
+    "zh": "宮殿花園以花卉與噴泉展現奢侈逸樂的景象。"
+  },
+  "epicurean": {
+    "en": "An epicurean dinner paired rare cheeses with local mountain honey.",
+    "zh": "一頓享樂美食晚餐把罕見起司與在地山蜜搭配上桌。"
+  },
+  "aesthete": {
+    "en": "As an aesthete, he arranged every vase for perfect visual balance.",
+    "zh": "身為唯美主義者，他把每個花瓶都擺到視覺完美平衡。"
+  },
+  "palpable": {
+    "en": "Tension in the courtroom was palpable before the verdict was read.",
+    "zh": "宣判前，法庭裡的緊張氣氛感覺得到。"
+  },
+  "kitchen": {
+    "en": "Soup simmered on the stove while the kitchen filled with garlic scent.",
+    "zh": "湯在爐上慢燉，廚房裡瀰漫著大蒜香氣。"
+  },
+  "gallery": {
+    "en": "Visitors whispered as they wandered through the quiet art gallery.",
+    "zh": "遊客壓低聲音，漫步在安靜的畫廊裡。"
+  },
+  "perfume": {
+    "en": "A light perfume of jasmine drifted from the open shop doorway.",
+    "zh": "一抹淡淡的茉莉香水味從敞開的店門飄出。"
+  },
+  "brush": {
+    "en": "She cleaned her paint brush carefully before switching to blue tones.",
+    "zh": "她仔細清洗畫筆後，才換成藍色調繼續畫。"
+  },
+  "menu": {
+    "en": "The cafe printed a seasonal menu featuring roasted squash soup.",
+    "zh": "咖啡店印出季節菜單，主打烤南瓜湯。"
+  },
+  "canvas": {
+    "en": "Wet oil paint still glistened on the large studio canvas.",
+    "zh": "工作室裡大幅畫布上的油畫顏料仍閃著濕潤光澤。"
+  },
+  "spice": {
+    "en": "Vendors sold cinnamon and other spice in small paper packets.",
+    "zh": "攤販把肉桂和其他香料裝在小紙袋裡販售。"
+  },
+  "frame": {
+    "en": "They chose a dark wooden frame for the family portrait.",
+    "zh": "他們為全家福選了一個深色木製畫框。"
+  },
+  "venality": {
+    "en": "Investigators exposed the venality that had infected the customs office.",
+    "zh": "調查人員揭發已侵蝕海關辦公室的貪腐。"
+  },
+  "bribery": {
+    "en": "The contractor was charged with bribery after cash changed hands.",
+    "zh": "現金易手後，承包商因賄賂遭到起訴。"
+  },
+  "forgivable": {
+    "en": "Arriving five minutes late seemed forgivable after the subway stalled.",
+    "zh": "地鐵故障後遲到五分鐘，顯得可以原諒。"
+  },
+  "excusable": {
+    "en": "Missing one rehearsal was excusable once her fever was confirmed.",
+    "zh": "確認發燒後，缺席一次排練變得可諒解。"
+  },
+  "kickback": {
+    "en": "The audit found a kickback hidden inside inflated equipment invoices.",
+    "zh": "審計在灌水的設備發票裡找出一筆回扣。"
+  },
+  "graft": {
+    "en": "Newspapers blasted the mayor over years of quiet political graft.",
+    "zh": "報紙抨擊市長多年隱密的政治貪污。"
+  },
+  "pardonable": {
+    "en": "A single careless typo felt pardonable in such a long report.",
+    "zh": "在這麼長的報告裡，一個疏忽的錯字顯得可赦免。"
+  },
+  "payola": {
+    "en": "Radio hosts lost jobs after the payola scandal broke nationwide.",
+    "zh": "全國封口賄賂醜聞爆發後，電台主持人紛紛丟職。"
+  },
+  "corruptibility": {
+    "en": "Watchdogs tested the corruptibility of officials with fake bribe offers.",
+    "zh": "監督團體用假賄賂測試官員的可腐化程度。"
+  },
+  "courtroom": {
+    "en": "Cameras were banned from the courtroom during the sensitive trial.",
+    "zh": "這場敏感審判期間，法庭內禁止攝影。"
+  },
+  "gavel": {
+    "en": "The judge struck the gavel to quiet the noisy spectators.",
+    "zh": "法官敲下小木槌，喝止嘈雜的旁聽群眾。"
+  },
+  "ticket": {
+    "en": "She paid the parking ticket before the late fee doubled the fine.",
+    "zh": "她在滯納金把罰款加倍前，先繳清停車罰單。"
+  }
+}

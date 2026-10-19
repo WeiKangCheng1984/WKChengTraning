@@ -104,8 +104,8 @@
       "roleInScript": "長程箭",
       "humorDevice": "story",
       "zhGloss": "長程的",
-      "speakLineEn": "Long-range claims need long-range data.",
-      "speakLineZh": "長程主張需要長程資料。",
+      "speakLineEn": "Long-range forecasts remain uncertain beyond two weeks.",
+      "speakLineZh": "超過兩週的長期預報仍不確定。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -119,8 +119,8 @@
       "roleInScript": "天線杆",
       "humorDevice": "story",
       "zhGloss": "天線",
-      "speakLineEn": "Point the antenna at disconfirming evidence.",
-      "speakLineZh": "天線指向否證證據。",
+      "speakLineEn": "They adjusted the antenna until the radio signal cleared.",
+      "speakLineZh": "他們調整天線，直到廣播訊號變清楚。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -160,6 +160,10 @@
     "reviewedAt": "2026-10-19",
     "stage": "P2-batch06",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootExamplesStage": "root-fix-2",
+    "rootExamplesFixedAt": "2026-10-19",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

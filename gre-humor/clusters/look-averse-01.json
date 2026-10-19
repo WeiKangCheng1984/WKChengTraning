@@ -89,8 +89,8 @@
       "roleInScript": "有害標",
       "humorDevice": "story",
       "zhGloss": "有害的；有毒的",
-      "speakLineEn": "Harmful incentives distort reporting.",
-      "speakLineZh": "有害誘因扭曲報告。",
+      "speakLineEn": "Too much screen time can be harmful to a child's sleep schedule.",
+      "speakLineZh": "螢幕時間過長，可能對孩子的睡眠作息有害。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -104,8 +104,8 @@
       "roleInScript": "不利牌",
       "humorDevice": "story",
       "zhGloss": "不利的",
-      "speakLineEn": "Unfavorable nulls still get published.",
-      "speakLineZh": "不利虛無仍要發表。",
+      "speakLineEn": "Unfavorable weather forced the soccer final to move indoors.",
+      "speakLineZh": "不利的天氣迫使足球決賽改到室內舉行。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -134,8 +134,8 @@
       "roleInScript": "過敏貼",
       "humorDevice": "story",
       "zhGloss": "過敏",
-      "speakLineEn": "Develop an allergy to fabricated rows.",
-      "speakLineZh": "對捏造列產生過敏。",
+      "speakLineEn": "Her peanut allergy meant the cafeteria posted warnings on every tray.",
+      "speakLineZh": "她對花生過敏，因此餐廳在每個餐盤上都貼了警示。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -149,8 +149,8 @@
       "roleInScript": "挫敗燈",
       "humorDevice": "story",
       "zhGloss": "挫敗",
-      "speakLineEn": "A setback is data, not shame.",
-      "speakLineZh": "挫敗是資料，不是恥辱。",
+      "speakLineEn": "A sudden injury was a setback, yet the runner returned for spring races.",
+      "speakLineZh": "突如其來的傷勢是一次挫敗，但跑者仍回來參加春季賽。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-19",
     "stage": "P2-batch07",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "semlookPolishAt": "2026-10-19",
+    "semlookPolishStage": "semlook-careful-polish-v1"
   }
 }

@@ -89,8 +89,8 @@
       "roleInScript": "上升梯",
       "humorDevice": "morphology",
       "zhGloss": "上升",
-      "speakLineEn": "Picture the 上升梯: the word ascent means 上升.",
-      "speakLineZh": "想像「上升梯」：ascent＝上升。",
+      "speakLineEn": "The ascent to the summit took six hours in deep snow.",
+      "speakLineZh": "在深雪中登頂花了六小時。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -104,8 +104,8 @@
       "roleInScript": "下降梯",
       "humorDevice": "morphology",
       "zhGloss": "下降",
-      "speakLineEn": "Picture the 下降梯: the word descent means 下降.",
-      "speakLineZh": "想像「下降梯」：descent＝下降。",
+      "speakLineEn": "The plane began its descent toward the coastal airport.",
+      "speakLineZh": "飛機開始向海岸機場下降。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -119,8 +119,8 @@
       "roleInScript": "後代牌",
       "humorDevice": "morphology",
       "zhGloss": "後代",
-      "speakLineEn": "A careful reader links descendant to 後代, not a lookalike neighbor.",
-      "speakLineZh": "細心讀者把 descendant 連到「後代」，不連形近鄰居。",
+      "speakLineEn": "She is a descendant of the town’s first schoolteachers.",
+      "speakLineZh": "她是鎮上最早一批教師的後代。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -134,8 +134,8 @@
       "roleInScript": "俯視鏡",
       "humorDevice": "morphology",
       "zhGloss": "居高臨下的",
-      "speakLineEn": "Consider this case: treat someone in a condescending manner.",
-      "speakLineZh": "居高臨下的。",
+      "speakLineEn": "His condescending tone made the younger staff reluctant to speak.",
+      "speakLineZh": "他居高臨下的語氣讓年輕同事不敢發言。",
       "related": {
         "synonyms": "patronizing",
         "antonyms": "boycott"
@@ -149,8 +149,8 @@
       "roleInScript": "升級鍵",
       "humorDevice": "morphology",
       "zhGloss": "升級；擴大",
-      "speakLineEn": "The Allies escalated the bombing.",
-      "speakLineZh": "升級，擴大。",
+      "speakLineEn": "Diplomats tried hard not to escalate the border dispute.",
+      "speakLineZh": "外交官竭力避免讓邊境爭端升級。",
       "related": {
         "synonyms": "aggrandize, amplify, augment, boost, wax",
         "antonyms": "de-escalate, understate, wane"
@@ -164,8 +164,8 @@
       "roleInScript": "升天梯",
       "humorDevice": "morphology",
       "zhGloss": "升天上升",
-      "speakLineEn": "In the passage, ascension signals a shift toward \"升天上升\".",
-      "speakLineZh": "文中 ascension 標示語氣轉向「升天上升」。",
+      "speakLineEn": "The team’s sudden ascension in the rankings surprised fans.",
+      "speakLineZh": "球隊排名突然上升，球迷都感意外。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -195,6 +195,10 @@
     "thickenedAt": "P4-batch01",
     "polishedAt": "2026-10-19",
     "polishStage": "Q-wave2",
-    "zhEnrichedAt": "2026-10-19"
+    "zhEnrichedAt": "2026-10-19",
+    "rootExamplesStage": "root-fix-1",
+    "rootExamplesFixedAt": "2026-10-19",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

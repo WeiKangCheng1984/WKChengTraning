@@ -14,8 +14,8 @@
       "roleInScript": "拉直線",
       "humorDevice": "morphology",
       "zhGloss": "正確的；改正",
-      "speakLineEn": "Correct the record publicly.",
-      "speakLineZh": "公開改正紀錄。",
+      "speakLineEn": "The newspaper issued a note to correct yesterday’s error.",
+      "speakLineZh": "報紙刊出更正啟事，改正昨日錯誤。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -29,8 +29,8 @@
       "roleInScript": "用尺弄直",
       "humorDevice": "morphology",
       "zhGloss": "矯正",
-      "speakLineEn": "Rectify the codebook before round two.",
-      "speakLineZh": "第二輪前矯正碼本。",
+      "speakLineEn": "The printer agreed to rectify the error in the next edition.",
+      "speakLineZh": "印刷廠同意在下一版改正錯誤。",
       "related": {
         "synonyms": "refine, reform, reclaim, regenerate, remediate, remedy",
         "antonyms": "falsify"
@@ -44,8 +44,8 @@
       "roleInScript": "品德直線",
       "humorDevice": "morphology",
       "zhGloss": "正直",
-      "speakLineEn": "Rectitude matters more than cleverness.",
-      "speakLineZh": "正直比聰明重要。",
+      "speakLineEn": "Colleagues trusted her because of her known rectitude.",
+      "speakLineZh": "同事因她素來正直而信任她。",
       "related": {
         "synonyms": "uprightness",
         "antonyms": ""
@@ -74,8 +74,8 @@
       "roleInScript": "直線指路",
       "humorDevice": "morphology",
       "zhGloss": "直接的；指導",
-      "speakLineEn": "Give direct answers about missingness.",
-      "speakLineZh": "對缺失給直接答案。",
+      "speakLineEn": "Please give a direct answer instead of changing the subject.",
+      "speakLineZh": "請直接回答，不要轉移話題。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -134,8 +134,8 @@
       "roleInScript": "拉直結果",
       "humorDevice": "story",
       "zhGloss": "勘誤；改正",
-      "speakLineEn": "A timely correction is scholarship.",
-      "speakLineZh": "及時勘誤是學術。",
+      "speakLineEn": "The magazine printed a correction on the next page.",
+      "speakLineZh": "雜誌在下一頁刊出更正。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -164,8 +164,8 @@
       "roleInScript": "直尺動作",
       "humorDevice": "story",
       "zhGloss": "弄直",
-      "speakLineEn": "Straighten authorship order early.",
-      "speakLineZh": "及早弄直作者序。",
+      "speakLineEn": "He paused to straighten the picture on the wall.",
+      "speakLineZh": "他停下腳步，把牆上的畫扶正。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -179,8 +179,8 @@
       "roleInScript": "站直",
       "humorDevice": "story",
       "zhGloss": "正直的；直立的",
-      "speakLineEn": "Stay upright when incentives bend.",
-      "speakLineZh": "誘因彎曲時仍站直。",
+      "speakLineEn": "Keep the fragile vase upright during the move.",
+      "speakLineZh": "搬運時請把易碎花瓶保持直立。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "P2-batch01",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

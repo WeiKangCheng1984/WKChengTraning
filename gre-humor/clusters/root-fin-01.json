@@ -14,8 +14,8 @@
       "roleInScript": "終線",
       "humorDevice": "morphology",
       "zhGloss": "最終的",
-      "speakLineEn": "Final analyses should match the preregistered set.",
-      "speakLineZh": "最終分析應對齊預註冊集合。",
+      "speakLineEn": "The final chapter summarizes the main findings.",
+      "speakLineZh": "最後一章總結主要發現。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -89,8 +89,8 @@
       "roleInScript": "把界修細",
       "humorDevice": "morphology",
       "zhGloss": "精煉；改進",
-      "speakLineEn": "Refine the codebook after pilot disagreements.",
-      "speakLineZh": "試點分歧後精煉編碼簿。",
+      "speakLineEn": "Editors asked her to refine the opening argument.",
+      "speakLineZh": "編輯請她精煉開頭論點。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -104,8 +104,8 @@
       "roleInScript": "關在界內",
       "humorDevice": "morphology",
       "zhGloss": "限制；禁閉",
-      "speakLineEn": "Confine exploratory plots to a sandbox.",
-      "speakLineZh": "探索圖關在沙盒內。",
+      "speakLineEn": "Please confine your comments to the topic on the agenda.",
+      "speakLineZh": "請把發言限制在議程上的主題範圍內。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -164,8 +164,8 @@
       "roleInScript": "一錘定界",
       "humorDevice": "morphology",
       "zhGloss": "決定性的；權威的",
-      "speakLineEn": "No single study is definitive.",
-      "speakLineZh": "沒有單一研究具決定性。",
+      "speakLineEn": "No single study offers a definitive answer to the question.",
+      "speakLineZh": "沒有單一研究能對這個問題給出決定性答案。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -195,7 +195,7 @@
       "humorDevice": "morphology",
       "zhGloss": "終結性；定局",
       "speakLineEn": "Treat editorial finality as provisional.",
-      "speakLineZh": "把編輯定局當暫定。",
+      "speakLineZh": "請把編輯的「定局」仍視為暫定結論。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -210,7 +210,7 @@
       "humorDevice": "morphology",
       "zhGloss": "精煉；改進",
       "speakLineEn": "Each refinement should be logged.",
-      "speakLineZh": "每次精煉應記錄。",
+      "speakLineZh": "每一次精煉都應寫進修改紀錄。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -250,6 +250,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "S3b",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch2"
   }
 }

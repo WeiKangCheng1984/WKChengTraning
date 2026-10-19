@@ -14,8 +14,8 @@
       "roleInScript": "新玩意",
       "humorDevice": "morphology",
       "zhGloss": "新的；小說",
-      "speakLineEn": "A novel measure needs validation.",
-      "speakLineZh": "新測量需要驗證。",
+      "speakLineEn": "She published her first novel before she turned thirty.",
+      "speakLineZh": "她未滿三十就出版了第一本小說。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -29,8 +29,8 @@
       "roleInScript": "新奇感",
       "humorDevice": "morphology",
       "zhGloss": "新奇",
-      "speakLineEn": "Novelty bias crowds out replication.",
-      "speakLineZh": "新奇偏差排擠複現。",
+      "speakLineEn": "The novelty of the gadget wore off after a week of use.",
+      "speakLineZh": "用了一週後，這件小裝置的新鮮感就消退了。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -179,8 +179,8 @@
       "roleInScript": "再新一輪",
       "humorDevice": "story",
       "zhGloss": "復興；恢復",
-      "speakLineEn": "License renewal triggered an audit.",
-      "speakLineZh": "授權更新觸發稽核。",
+      "speakLineEn": "Library card renewal takes only a few minutes online.",
+      "speakLineZh": "線上辦理借書證續期只要幾分鐘。",
       "related": {
         "synonyms": "reclamation, rehabilitation, refilling, replenishment, replacement",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "P1-batch02",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

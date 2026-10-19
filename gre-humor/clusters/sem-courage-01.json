@@ -74,8 +74,8 @@
       "roleInScript": "大膽跳",
       "humorDevice": "contrast",
       "zhGloss": "大膽的",
-      "speakLineEn": "Audacious claims need audacious evidence.",
-      "speakLineZh": "大膽主張需要大膽證據。",
+      "speakLineEn": "Pitching a free public library inside the mall was an audacious idea that somehow won funding.",
+      "speakLineZh": "在購物中心設免費公共圖書館是大膽的構想，居然還拿到經費。",
       "related": {
         "synonyms": "brave, dauntless, fearless, hardy, intrepid, unfearing",
         "antonyms": "timid, cautious"
@@ -104,8 +104,8 @@
       "roleInScript": "發抖燈",
       "humorDevice": "contrast",
       "zhGloss": "膽小的",
-      "speakLineEn": "Timorous teams hide deviations.",
-      "speakLineZh": "膽怯團隊隱藏偏離。",
+      "speakLineEn": "A timorous knock at the office door barely rose above the hum of the copy machine.",
+      "speakLineZh": "辦公室門上一記膽小的敲門聲，幾乎蓋不過影印機的嗡嗡。",
       "related": {
         "synonyms": "diffident, timid, skittish",
         "antonyms": "bold, courageous, confident, brave"
@@ -164,8 +164,8 @@
       "roleInScript": "粗體膽",
       "humorDevice": "story",
       "zhGloss": "大膽的",
-      "speakLineEn": "Be bold about sharing code.",
-      "speakLineZh": "分享程式碼要大膽。",
+      "speakLineEn": "Wear a bold color on stage so the back row can still spot you under the harsh lights.",
+      "speakLineZh": "上台穿大膽顏色，好讓後排在刺眼燈光下仍能看見你。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-19",
     "stage": "P2-batch05",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "semlookPolishAt": "2026-10-19",
+    "semlookPolishStage": "semlook-careful-polish-v1"
   }
 }

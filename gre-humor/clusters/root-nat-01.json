@@ -44,8 +44,8 @@
       "roleInScript": "本質",
       "humorDevice": "morphology",
       "zhGloss": "自然；本質",
-      "speakLineEn": "State the nature of the estimand clearly.",
-      "speakLineZh": "清楚陳述目標量本質。",
+      "speakLineEn": "The nature of the dispute was financial, not personal.",
+      "speakLineZh": "爭議的本質是財務問題，而非私人恩怨。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -59,8 +59,8 @@
       "roleInScript": "自然產",
       "humorDevice": "morphology",
       "zhGloss": "自然的",
-      "speakLineEn": "Natural experiments still need assumptions.",
-      "speakLineZh": "自然實驗仍需假設。",
+      "speakLineEn": "It felt natural to switch to Chinese with her grandparents.",
+      "speakLineZh": "跟祖父母改說中文，感覺很自然。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -119,8 +119,8 @@
       "roleInScript": "跨國標",
       "humorDevice": "morphology",
       "zhGloss": "國際的",
-      "speakLineEn": "International teams still share one codebook.",
-      "speakLineZh": "國際團隊仍共用一本編碼簿。",
+      "speakLineEn": "An international conference will open in Geneva next month.",
+      "speakLineZh": "一場國際會議下月將在日內瓦揭幕。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -175,6 +175,8 @@
     "reviewedAt": "2026-10-19",
     "stage": "P2-batch04",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

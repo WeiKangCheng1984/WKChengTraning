@@ -179,8 +179,8 @@
       "roleInScript": "對撞而來",
       "humorDevice": "morphology",
       "zhGloss": "違反；抵觸",
-      "speakLineEn": "Hidden exclusions contravene the protocol.",
-      "speakLineZh": "隱匿排除抵觸協議。",
+      "speakLineEn": "Hidden side deals contravene the spirit of the agreement.",
+      "speakLineZh": "暗中另訂協議抵觸契約精神。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -209,8 +209,8 @@
       "roleInScript": "防止體系",
       "humorDevice": "morphology",
       "zhGloss": "預防",
-      "speakLineEn": "Prevention claims need absolute risk context.",
-      "speakLineZh": "預防宣稱需要絕對風險脈絡。",
+      "speakLineEn": "Prevention of infection starts with clean water and hygiene.",
+      "speakLineZh": "預防感染從乾淨飲水與衛生習慣開始。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -250,6 +250,10 @@
     "reviewedAt": "2026-10-18",
     "stage": "S3b",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootExamplesStage": "root-fix-2b",
+    "rootExamplesFixedAt": "2026-10-19",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

@@ -119,8 +119,8 @@
       "roleInScript": "a + bet 教唆下注",
       "humorDevice": "phonetic",
       "zhGloss": "教唆；煽動；協助（做壞事）",
-      "speakLineEn": "Silence can abet wrongdoing.",
-      "speakLineZh": "沉默可能協助不法行為。",
+      "speakLineEn": "By staying silent, the bystander seemed to abet the bully in the hallway.",
+      "speakLineZh": "旁觀者保持沉默，彷彿在走廊裡教唆那個霸凌者。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -148,6 +148,8 @@
     "reviewedAt": "2026-10-18",
     "note": "Stage-1 promote: aligned with tract lesson template",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "semlookPolishAt": "2026-10-19",
+    "semlookPolishStage": "semlook-careful-polish-v1"
   }
 }

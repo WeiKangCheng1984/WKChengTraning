@@ -44,8 +44,8 @@
       "roleInScript": "對齊多櫃",
       "humorDevice": "morphology",
       "zhGloss": "協調；座標",
-      "speakLineEn": "Coordinate coding across raters.",
-      "speakLineZh": "跨評分者協調編碼。",
+      "speakLineEn": "Volunteers will coordinate donations at the shelter.",
+      "speakLineZh": "志工將在收容所協調捐贈物資。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -89,8 +89,8 @@
       "roleInScript": "告示牌",
       "humorDevice": "morphology",
       "zhGloss": "條例；法令",
-      "speakLineEn": "Follow the campus data ordinance.",
-      "speakLineZh": "遵守校園資料條例。",
+      "speakLineEn": "A city ordinance bans loud music after ten at night.",
+      "speakLineZh": "市政條例禁止晚上十點後大聲播放音樂。",
       "related": {
         "synonyms": "regulation, ordination",
         "antonyms": ""
@@ -104,8 +104,8 @@
       "roleInScript": "正式蓋章",
       "humorDevice": "morphology",
       "zhGloss": "任命；規定",
-      "speakLineEn": "Do not ordain a metric without validation.",
-      "speakLineZh": "未驗證不要正式規定指標。",
+      "speakLineEn": "The council will not ordain a new rule without public comment.",
+      "speakLineZh": "沒有公開意見前，議會不會制定新規則。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -164,8 +164,8 @@
       "roleInScript": "超普通",
       "humorDevice": "story",
       "zhGloss": "非凡的",
-      "speakLineEn": "Extraordinary claims need extraordinary evidence.",
-      "speakLineZh": "非凡主張需要非凡證據。",
+      "speakLineEn": "She showed extraordinary patience with struggling students.",
+      "speakLineZh": "她對學習困難的學生展現非凡耐心。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -179,8 +179,8 @@
       "roleInScript": "排好隊",
       "humorDevice": "story",
       "zhGloss": "有秩序的",
-      "speakLineEn": "Keep an orderly changelog.",
-      "speakLineZh": "保持有秩序的變更紀錄。",
+      "speakLineEn": "Keep an orderly stack of drafts so revisions stay clear.",
+      "speakLineZh": "把草稿整齊疊放，修訂才一目了然。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,10 @@
     "reviewedAt": "2026-10-18",
     "stage": "P2-batch02",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootExamplesStage": "root-fix-2",
+    "rootExamplesFixedAt": "2026-10-19",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

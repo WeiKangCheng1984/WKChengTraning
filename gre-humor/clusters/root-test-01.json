@@ -74,8 +74,8 @@
       "roleInScript": "抗議比賽",
       "humorDevice": "morphology",
       "zhGloss": "爭辯；競賽",
-      "speakLineEn": "Contest shaky causal leaps.",
-      "speakLineZh": "爭辯不穩的因果跳躍。",
+      "speakLineEn": "Lawyers will contest the will in probate court next month.",
+      "speakLineZh": "律師下月將在遺囑認證法庭爭辯這份遺囑。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -104,8 +104,8 @@
       "roleInScript": "厭惡拒證",
       "humorDevice": "morphology",
       "zhGloss": "譴責",
-      "speakLineEn": "Detest fraud, not honest nulls.",
-      "speakLineZh": "厭惡造假，不是誠實虛無。",
+      "speakLineEn": "She came to detest gossip that ruined innocent reputations.",
+      "speakLineZh": "她逐漸厭惡那種毀人清白名聲的閒話。",
       "related": {
         "synonyms": "hate",
         "antonyms": "love"
@@ -149,8 +149,8 @@
       "roleInScript": "見證文件",
       "humorDevice": "story",
       "zhGloss": "證明書",
-      "speakLineEn": "Keep attestation of consent versions.",
-      "speakLineZh": "保留同意版本證明。",
+      "speakLineEn": "An attestation from the registrar confirmed her enrollment.",
+      "speakLineZh": "註冊組出具的證明確認了她的在籍身分。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -164,8 +164,8 @@
       "roleInScript": "大聲聲明",
       "humorDevice": "story",
       "zhGloss": "斷言；抗議",
-      "speakLineEn": "Protestations of purity need audits.",
-      "speakLineZh": "純潔斷言需要稽核。",
+      "speakLineEn": "Despite his protestation of innocence, doubts remained.",
+      "speakLineZh": "儘管他堅稱清白，疑慮仍在。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -179,8 +179,8 @@
       "roleInScript": "在場的人",
       "humorDevice": "story",
       "zhGloss": "證人",
-      "speakLineEn": "Be a witness to protocol changes.",
-      "speakLineZh": "做規程變更的證人。",
+      "speakLineEn": "A passerby became a witness to the quiet accident.",
+      "speakLineZh": "一位路人成了這起安靜車禍的證人。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "P2-batch02",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

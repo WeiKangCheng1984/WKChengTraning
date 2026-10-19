@@ -92,6 +92,7 @@
   "status": "reviewed",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P3-batch01"
+    "stage": "P3-batch01",
+    "semlookPolishAt": "2026-10-19"
   }
 }

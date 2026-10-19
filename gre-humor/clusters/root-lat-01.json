@@ -59,8 +59,8 @@
       "roleInScript": "把線接上",
       "humorDevice": "morphology",
       "zhGloss": "關聯；敘述",
-      "speakLineEn": "Relate the result to the preregistered estimand.",
-      "speakLineZh": "把結果連回預註冊目標量。",
+      "speakLineEn": "Can you relate this episode to the novel’s theme?",
+      "speakLineZh": "你能把這段情節與小說主題連結起來嗎？",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -104,8 +104,8 @@
       "roleInScript": "對表員",
       "humorDevice": "morphology",
       "zhGloss": "對應；對照",
-      "speakLineEn": "Collate code, data, and codebook before submission.",
-      "speakLineZh": "投稿前核對程式、資料與編碼簿。",
+      "speakLineEn": "Please collate the pages before binding the report.",
+      "speakLineZh": "裝訂報告前請先整理頁次。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-19",
     "stage": "P2-batch05",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish"
   }
 }

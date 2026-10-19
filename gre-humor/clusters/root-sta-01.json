@@ -89,8 +89,8 @@
       "roleInScript": "站開停手",
       "humorDevice": "morphology",
       "zhGloss": "停止；斷念",
-      "speakLineEn": "Desist from harvesting outcomes mid-stream.",
-      "speakLineZh": "停止中途收割結果。",
+      "speakLineEn": "The court ordered the company to desist from false ads.",
+      "speakLineZh": "法院命令該公司停止不實廣告。",
       "related": {
         "synonyms": "abstain, refrain",
         "antonyms": "consume"
@@ -209,8 +209,8 @@
       "roleInScript": "站立的尺度",
       "humorDevice": "morphology",
       "zhGloss": "標準",
-      "speakLineEn": "Adopt reporting standards early.",
-      "speakLineZh": "及早採用報告標準。",
+      "speakLineEn": "Safety standard checks are required before every flight.",
+      "speakLineZh": "每次起飛前都須通過安全標準檢查。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -250,6 +250,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "S3b",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

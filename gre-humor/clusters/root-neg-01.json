@@ -74,8 +74,8 @@
       "roleInScript": "小到可否掉不計",
       "humorDevice": "morphology",
       "zhGloss": "可忽略的",
-      "speakLineEn": "The bias was negligible under sensitivity checks.",
-      "speakLineZh": "敏感度檢查下偏差可忽略。",
+      "speakLineEn": "The difference in scores was negligible after rounding.",
+      "speakLineZh": "四捨五入後，分數差距幾乎可忽略。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "P1-batch01",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch4"
   }
 }

@@ -149,8 +149,8 @@
       "roleInScript": "假誓言",
       "humorDevice": "morphology",
       "zhGloss": "僞證",
-      "speakLineEn": "Fabrication is the perjury of science.",
-      "speakLineZh": "造假是科學的偽證。",
+      "speakLineEn": "The witness was charged with perjury after changing her story.",
+      "speakLineZh": "證人改口後，被控偽證罪。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -250,6 +250,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "S3b",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch2"
   }
 }

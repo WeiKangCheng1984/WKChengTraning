@@ -90,7 +90,7 @@
       "humorDevice": "morphology",
       "zhGloss": "感情；影響",
       "speakLineEn": "Incentives affect what gets measured.",
-      "speakLineZh": "誘因影響測什麼。",
+      "speakLineZh": "誘因會影響人們實際去測量什麼。",
       "related": {
         "synonyms": "impact, touch, involve, regard, feign, sham",
         "antonyms": "obviate, disesteem, disrespect, inattentiveness"
@@ -165,7 +165,7 @@
       "humorDevice": "morphology",
       "zhGloss": "熟練的",
       "speakLineEn": "Proficient coding still needs code review.",
-      "speakLineZh": "熟練寫碼仍需審查。",
+      "speakLineZh": "即使寫碼熟練，仍需要他人審查。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -210,7 +210,7 @@
       "humorDevice": "morphology",
       "zhGloss": "促進；使容易",
       "speakLineEn": "Templates facilitate consistent reporting.",
-      "speakLineZh": "模板促進一致報告。",
+      "speakLineZh": "範本能促進報告格式前後一致。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -250,6 +250,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "S3b",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch2"
   }
 }

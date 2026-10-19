@@ -14,8 +14,8 @@
       "roleInScript": "巧妙本事",
       "humorDevice": "lookalike",
       "zhGloss": "巧思；機智",
-      "speakLineEn": "Methodological ingenuity still needs ethics.",
-      "speakLineZh": "方法巧思仍需倫理。",
+      "speakLineEn": "Classroom ingenuity turned cardboard boxes into a working model bridge.",
+      "speakLineZh": "課堂上的巧思把紙箱變成一座能承重的模型橋。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -44,8 +44,8 @@
       "roleInScript": "單純鄰居",
       "humorDevice": "contrast",
       "zhGloss": "天真純樸的",
-      "speakLineEn": "A naive model ignored clustering.",
-      "speakLineZh": "天真模型忽略叢集。",
+      "speakLineEn": "A naive tourist left cash on the cafe table and walked away.",
+      "speakLineZh": "一位天真的遊客把現金留在咖啡桌就走了。",
       "related": {
         "synonyms": "artless, guileless, ingenuous, innocent",
         "antonyms": "sophisticated, worldly, artful, disingenuous, guilty"
@@ -104,8 +104,8 @@
       "roleInScript": "巧妙近親",
       "humorDevice": "contrast",
       "zhGloss": "足智多謀的",
-      "speakLineEn": "Resourceful debugging is not p-hacking.",
-      "speakLineZh": "足智除錯不是 p 操弄。",
+      "speakLineEn": "The resourceful camper built a shelter from fallen branches and tarps.",
+      "speakLineZh": "足智多謀的露營者用斷枝與防水布搭起遮蔽處。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -160,6 +160,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "P1-batch01",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "semlookPolishAt": "2026-10-19",
+    "semlookPolishStage": "semlook-careful-polish-v1"
   }
 }

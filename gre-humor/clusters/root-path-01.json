@@ -134,8 +134,8 @@
       "roleInScript": "遠距感覺（多比喻）",
       "humorDevice": "story",
       "zhGloss": "心靈感應",
-      "speakLineEn": "Good editors are not telepathic; mark your claims.",
-      "speakLineZh": "好編輯不是心靈感應——請標明你的主張。",
+      "speakLineEn": "Claims of telepathy remain unsupported by rigorous tests.",
+      "speakLineZh": "關於心靈感應的主張仍缺乏嚴謹檢測支持。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -191,6 +191,8 @@
     "stage": "S2",
     "note": "New A-level cluster with full lesson",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish"
   }
 }

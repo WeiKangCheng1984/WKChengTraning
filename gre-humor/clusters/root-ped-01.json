@@ -29,8 +29,8 @@
       "roleInScript": "腳步加速放行",
       "humorDevice": "morphology",
       "zhGloss": "加速；催辦",
-      "speakLineEn": "Expedite corrections, not hype.",
-      "speakLineZh": "加速勘誤，不是炒作。",
+      "speakLineEn": "The clerk promised to expedite the passport renewal.",
+      "speakLineZh": "辦事員答應加速辦理護照換發。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -59,8 +59,8 @@
       "roleInScript": "絆腳石",
       "humorDevice": "morphology",
       "zhGloss": "障礙；口吃（語障）",
-      "speakLineEn": "Missing consent is an impediment to publish.",
-      "speakLineZh": "缺同意是發表障礙。",
+      "speakLineEn": "Poor lighting was an impediment to careful reading.",
+      "speakLineZh": "燈光不足是細讀的障礙。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "P2-batch02",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

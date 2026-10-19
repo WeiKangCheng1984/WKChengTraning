@@ -89,8 +89,8 @@
       "roleInScript": "離得遠",
       "humorDevice": "morphology",
       "zhGloss": "遙遠的；遠端的",
-      "speakLineEn": "Remote sensing still needs ground truth.",
-      "speakLineZh": "遙感仍需地面實況。",
+      "speakLineEn": "They spent summer in a remote village without cell service.",
+      "speakLineZh": "他們在一個沒有手機訊號的偏遠村莊度過夏天。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "P1-batch01",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

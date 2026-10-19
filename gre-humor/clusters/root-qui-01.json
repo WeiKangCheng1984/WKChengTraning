@@ -74,8 +74,8 @@
       "roleInScript": "平靜度",
       "humorDevice": "morphology",
       "zhGloss": "寧靜",
-      "speakLineEn": "Tranquility is not the same as rigor.",
-      "speakLineZh": "平靜不等於嚴謹。",
+      "speakLineEn": "She valued the tranquility of early morning walks.",
+      "speakLineZh": "她珍惜清晨散步時的平靜。",
       "related": {
         "synonyms": "repose, quiet, placidity, serenity, tranquillity, quietness",
         "antonyms": "active, agitate, louden, noisy, sound, unquiet, unquietly"
@@ -89,8 +89,8 @@
       "roleInScript": "點頭默許",
       "humorDevice": "morphology",
       "zhGloss": "默認；同意",
-      "speakLineEn": "Do not acquiesce to outcome switching.",
-      "speakLineZh": "不要默許結局更換。",
+      "speakLineEn": "He would not acquiesce to a plan that ignored safety.",
+      "speakLineZh": "他不會默許一個忽略安全的計畫。",
       "related": {
         "synonyms": "assent, accede",
         "antonyms": "resist, oppose, dissent"
@@ -149,8 +149,8 @@
       "roleInScript": "靜音鍵",
       "humorDevice": "story",
       "zhGloss": "靜音；啞",
-      "speakLineEn": "Mute hype words in the title.",
-      "speakLineZh": "標題靜音炒作詞。",
+      "speakLineEn": "Please mute your microphone when you are not speaking.",
+      "speakLineZh": "不發言時請把麥克風靜音。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -164,8 +164,8 @@
       "roleInScript": "噓",
       "humorDevice": "story",
       "zhGloss": "安靜",
-      "speakLineEn": "Hush culture blocks whistleblowers.",
-      "speakLineZh": "噓聲文化阻擋吹哨。",
+      "speakLineEn": "A sudden hush fell over the crowd before the speech.",
+      "speakLineZh": "演講開始前，人群突然安靜下來。",
       "related": {
         "synonyms": "stillness, still, quieten, silence, quiet, quiesce",
         "antonyms": "louden"
@@ -190,6 +190,8 @@
     "reviewedAt": "2026-10-19",
     "stage": "P2-batch04",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

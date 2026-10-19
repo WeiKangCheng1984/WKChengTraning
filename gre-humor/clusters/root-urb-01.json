@@ -134,8 +134,8 @@
       "roleInScript": "大都會",
       "humorDevice": "story",
       "zhGloss": "大都市的",
-      "speakLineEn": "Metropolitan claims need metropolitan evidence.",
-      "speakLineZh": "大都會主張需要大都會證據。",
+      "speakLineEn": "Metropolitan traffic often delays morning deliveries.",
+      "speakLineZh": "大都市交通常延誤早上配送。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-19",
     "stage": "P2-batch05",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootExamplesStage": "root-fix-2",
+    "rootExamplesFixedAt": "2026-10-19"
   }
 }

@@ -14,8 +14,8 @@
       "roleInScript": "空貨架",
       "humorDevice": "contrast",
       "zhGloss": "缺乏",
-      "speakLineEn": "A paucity of preregistered plans invites chaos.",
-      "speakLineZh": "預註冊計畫缺乏會引來混亂。",
+      "speakLineEn": "A paucity of quiet study rooms forced students into noisy cafe corners.",
+      "speakLineZh": "安靜自習室缺乏，逼得學生擠進嘈雜咖啡角落。",
       "related": {
         "synonyms": "dearth",
         "antonyms": "abundance, plenty"
@@ -104,8 +104,8 @@
       "roleInScript": "爆倉堆",
       "humorDevice": "contrast",
       "zhGloss": "過量",
-      "speakLineEn": "A plethora of endpoints needs correction.",
-      "speakLineZh": "終點過剩需要校正。",
+      "speakLineEn": "A plethora of club flyers covered every bulletin board by the first week.",
+      "speakLineZh": "開學第一週，佈告欄就被過量的社團傳單貼滿。",
       "related": {
         "synonyms": "surfeit",
         "antonyms": "dearth, scarcity"
@@ -134,8 +134,8 @@
       "roleInScript": "豐收牌",
       "humorDevice": "contrast",
       "zhGloss": "充裕",
-      "speakLineEn": "Abundance of openness reduces rumor.",
-      "speakLineZh": "開放充裕減少謠言。",
+      "speakLineEn": "An abundance of ripe apples arrived from the orchard for the bake sale.",
+      "speakLineZh": "果園送來充裕的成熟蘋果，供應義賣烘焙攤。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -164,8 +164,8 @@
       "roleInScript": "稀疏架",
       "humorDevice": "story",
       "zhGloss": "稀疏的",
-      "speakLineEn": "Sparse data still deserves a full codebook.",
-      "speakLineZh": "稀疏資料仍值得完整編碼簿。",
+      "speakLineEn": "Only sparse grass grew along the dry path behind the sports field.",
+      "speakLineZh": "運動場後方乾旱小徑上，只長著稀疏的草。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-19",
     "stage": "P2-batch05",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "semlookPolishAt": "2026-10-19",
+    "semlookPolishStage": "semlook-careful-polish-v1"
   }
 }

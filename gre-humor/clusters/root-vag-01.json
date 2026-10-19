@@ -59,8 +59,8 @@
       "roleInScript": "揮霍旅費",
       "humorDevice": "morphology",
       "zhGloss": "過度的；揮霍的",
-      "speakLineEn": "Extravagant claims need extravagant evidence.",
-      "speakLineZh": "過度主張需要過度證據。",
+      "speakLineEn": "The budget rejected extravagant decorations for the ceremony.",
+      "speakLineZh": "預算否決了典禮上過於奢華的裝飾。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -89,8 +89,8 @@
       "roleInScript": "離題散步",
       "humorDevice": "morphology",
       "zhGloss": "離題；偏離",
-      "speakLineEn": "Label when you divagate into exploration.",
-      "speakLineZh": "離題探索時請標註。",
+      "speakLineEn": "Do not divagate into side stories during the oral exam.",
+      "speakLineZh": "口試時不要離題講到旁支故事。",
       "related": {
         "synonyms": "digress, stray, wander",
         "antonyms": ""
@@ -119,8 +119,8 @@
       "roleInScript": "漫談稿",
       "humorDevice": "story",
       "zhGloss": "漫步",
-      "speakLineEn": "Do not ramble past the estimand.",
-      "speakLineZh": "別漫談到目標量之外。",
+      "speakLineEn": "Do not ramble; keep each paragraph on one claim.",
+      "speakLineZh": "不要東拉西扯；每段只談一個主張。",
       "related": {
         "synonyms": "meander, jog, roll, wander, swan, stray",
         "antonyms": "unwind"
@@ -179,8 +179,8 @@
       "roleInScript": "任性路",
       "humorDevice": "story",
       "zhGloss": "不聽話的；任性的",
-      "speakLineEn": "Wayward tweaks belong in a sandbox.",
-      "speakLineZh": "任性微調屬於沙盒。",
+      "speakLineEn": "A wayward spark from the campfire nearly started a brush fire.",
+      "speakLineZh": "營火飛出的一顆任性火花，幾乎引發草木火。",
       "related": {
         "synonyms": "errant, intractable, rebellious, recalcitrant, refractory, unruly",
         "antonyms": "manageable, tractable, compliant, obedient"
@@ -205,6 +205,10 @@
     "reviewedAt": "2026-10-19",
     "stage": "P2-batch05",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootExamplesStage": "root-fix-2",
+    "rootExamplesFixedAt": "2026-10-19",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

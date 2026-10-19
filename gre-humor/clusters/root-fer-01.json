@@ -14,8 +14,8 @@
       "roleInScript": "轉送到另一條帶",
       "humorDevice": "morphology",
       "zhGloss": "轉移；調動",
-      "speakLineEn": "Do not transfer blame without tracing the cause.",
-      "speakLineZh": "未追因就不要轉移責難。",
+      "speakLineEn": "Please transfer the files to the shared archive tonight.",
+      "speakLineZh": "請今晚把檔案轉移到共用典藏區。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -225,7 +225,7 @@
       "humorDevice": "story",
       "zhGloss": "圓周；周邊",
       "speakLineEn": "Stay within the circumference of the defined construct.",
-      "speakLineZh": "停留在構念圓周內。",
+      "speakLineZh": "請停留在已界定構念的圓周範圍內。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -250,6 +250,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "S3b",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch2"
   }
 }

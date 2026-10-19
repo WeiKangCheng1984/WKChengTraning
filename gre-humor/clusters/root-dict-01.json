@@ -90,7 +90,7 @@
       "humorDevice": "morphology",
       "zhGloss": "格言",
       "speakLineEn": "A famous dictum is not a citation.",
-      "speakLineZh": "名言不是引用。",
+      "speakLineZh": "一句名言並不能取代正式引用。",
       "related": {
         "synonyms": "pronouncement, say-so",
         "antonyms": ""
@@ -179,8 +179,8 @@
       "roleInScript": "宣告獻給",
       "humorDevice": "morphology",
       "zhGloss": "奉獻；致力於",
-      "speakLineEn": "Dedicate a section to negative controls.",
-      "speakLineZh": "專節獻給負控制。",
+      "speakLineEn": "They will dedicate the new wing of the library next spring.",
+      "speakLineZh": "他們將在明年春天為圖書館新翼舉行落成典禮。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -250,6 +250,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "S3b",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch2"
   }
 }

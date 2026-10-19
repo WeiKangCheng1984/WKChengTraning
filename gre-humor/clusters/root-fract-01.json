@@ -45,7 +45,7 @@
       "humorDevice": "morphology",
       "zhGloss": "骨折；裂縫",
       "speakLineEn": "A fracture in the protocol must be logged.",
-      "speakLineZh": "規程裂縫必須記錄。",
+      "speakLineZh": "規程上的裂縫必須立刻記錄下來。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -89,8 +89,8 @@
       "roleInScript": "易碎玻璃",
       "humorDevice": "morphology",
       "zhGloss": "易碎的；脆弱的",
-      "speakLineEn": "Fragile findings need replication.",
-      "speakLineZh": "易碎發現需要複現。",
+      "speakLineEn": "Handle the fragile porcelain with both hands.",
+      "speakLineZh": "請用雙手輕拿這些易碎的瓷器。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -105,7 +105,7 @@
       "humorDevice": "morphology",
       "zhGloss": "脆弱的",
       "speakLineEn": "A frail identification strategy collapses.",
-      "speakLineZh": "虛弱識別策略會塌。",
+      "speakLineZh": "虛弱的識別策略一碰就會崩塌。",
       "related": {
         "synonyms": "fallible, imperfect, weak, delicate, fragile",
         "antonyms": "robust"
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-19",
     "stage": "P2-batch04",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch2"
   }
 }

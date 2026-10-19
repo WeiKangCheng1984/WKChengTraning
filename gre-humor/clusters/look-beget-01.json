@@ -14,8 +14,8 @@
       "roleInScript": "因果門",
       "humorDevice": "lookalike",
       "zhGloss": "引發；導致",
-      "speakLineEn": "They had to poverty begets debt.",
-      "speakLineZh": "引發，導致。",
+      "speakLineEn": "Careless spending can beget debt that follows a family for years.",
+      "speakLineZh": "揮霍無度可能引發長年纏身的債務。",
       "related": {
         "synonyms": "engender, generate, yield, bring about",
         "antonyms": "destroy, extinguish, stand, survive, take away"
@@ -29,8 +29,8 @@
       "roleInScript": "包圍錐",
       "humorDevice": "lookalike",
       "zhGloss": "困擾；鑲嵌",
-      "speakLineEn": "The zebra was beset by leopards.",
-      "speakLineZh": "困擾；鑲嵌。",
+      "speakLineEn": "The expedition was beset by storms and dwindling food supplies.",
+      "speakLineZh": "探險隊被暴風雨與日益減少的糧食所困擾。",
       "related": {
         "synonyms": "harass, hassle, harry, chivy, chivvy, chevy",
         "antonyms": ""
@@ -44,8 +44,8 @@
       "roleInScript": "原因角色",
       "humorDevice": "story",
       "zhGloss": "原因",
-      "speakLineEn": "In the passage, cause signals a shift toward \"原因\".",
-      "speakLineZh": "文中 cause 標示語氣轉向「原因」。",
+      "speakLineEn": "Investigators still debate the exact cause of the warehouse fire.",
+      "speakLineZh": "調查人員仍在爭論倉庫大火的真正原因。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -59,8 +59,8 @@
       "roleInScript": "箭頭角色",
       "humorDevice": "story",
       "zhGloss": "箭頭",
-      "speakLineEn": "In the passage, arrow signals a shift toward \"箭頭\".",
-      "speakLineZh": "文中 arrow 標示語氣轉向「箭頭」。",
+      "speakLineEn": "A painted arrow on the floor guided visitors toward the exit.",
+      "speakLineZh": "地板上畫的箭頭引導遊客走向出口。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -74,8 +74,8 @@
       "roleInScript": "問題角色",
       "humorDevice": "story",
       "zhGloss": "問題",
-      "speakLineEn": "In the passage, problem signals a shift toward \"問題\".",
-      "speakLineZh": "文中 problem 標示語氣轉向「問題」。",
+      "speakLineEn": "Finding enough parking near campus remains a daily problem for students.",
+      "speakLineZh": "在校園附近找到足夠車位，仍是學生每天的問題。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -89,8 +89,8 @@
       "roleInScript": "封鎖角色",
       "humorDevice": "story",
       "zhGloss": "封鎖",
-      "speakLineEn": "A clear sense of blockade is crucial to understanding the argument.",
-      "speakLineZh": "封鎖。",
+      "speakLineEn": "Ships could not enter the harbor during the wartime naval blockade.",
+      "speakLineZh": "戰時海軍封鎖期間，船隻無法進入港口。",
       "related": {
         "synonyms": "encirclement, obstruct, block, hinder, stymie, stymy",
         "antonyms": "free, remember, unblock, unfreeze, unstuff, assist, facilitate"
@@ -104,8 +104,8 @@
       "roleInScript": "網角色",
       "humorDevice": "story",
       "zhGloss": "網",
-      "speakLineEn": "In the passage, net signals a shift toward \"網\".",
-      "speakLineZh": "文中 net 標示語氣轉向「網」。",
+      "speakLineEn": "Fishermen hauled in a heavy net filled with silver mackerel.",
+      "speakLineZh": "漁民拉起裝滿銀色鯖魚的沉重漁網。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -119,8 +119,8 @@
       "roleInScript": "鏈角色",
       "humorDevice": "story",
       "zhGloss": "鏈",
-      "speakLineEn": "In the passage, chain signals a shift toward \"鏈\".",
-      "speakLineZh": "文中 chain 標示語氣轉向「鏈」。",
+      "speakLineEn": "The bicycle chain slipped off just as she reached the steep hill.",
+      "speakLineZh": "她騎到陡坡時，腳踏車的鏈條正好脫落。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -145,6 +145,8 @@
     "stage": "P3-batch03",
     "polishedAt": "2026-10-19",
     "polishStage": "Q-wave2",
-    "zhEnrichedAt": "2026-10-19"
+    "zhEnrichedAt": "2026-10-19",
+    "semlookPolishAt": "2026-10-19",
+    "semlookPolishStage": "semlook-careful-polish-v1"
   }
 }

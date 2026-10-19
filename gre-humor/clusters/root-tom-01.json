@@ -29,8 +29,8 @@
       "roleInScript": "切不動",
       "humorDevice": "morphology",
       "zhGloss": "原子的；不可再分的",
-      "speakLineEn": "Atomic commits help audits.",
-      "speakLineZh": "原子化提交幫助稽核。",
+      "speakLineEn": "Each atomic claim in the brief should stand on its own.",
+      "speakLineZh": "訴狀裡每一個不可再拆的主張都應能獨立成立。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -44,8 +44,8 @@
       "roleInScript": "結構圖",
       "humorDevice": "morphology",
       "zhGloss": "解剖；結構",
-      "speakLineEn": "Show the anatomy of the pipeline.",
-      "speakLineZh": "展示管線解剖結構。",
+      "speakLineEn": "Medical students study anatomy with detailed charts.",
+      "speakLineZh": "醫學生用詳圖學習解剖學。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -89,8 +89,8 @@
       "roleInScript": "一刀兩半",
       "humorDevice": "morphology",
       "zhGloss": "對立；矛盾",
-      "speakLineEn": "Avoid false dichotomies of 'significant or nothing'.",
-      "speakLineZh": "避免『顯著或什麼都不是』的假二分。",
+      "speakLineEn": "The essay rejects a false dichotomy between art and science.",
+      "speakLineZh": "文章拒絕藝術與科學的錯誤二分法。",
       "related": {
         "synonyms": "favorable",
         "antonyms": "unfavorable"
@@ -104,8 +104,8 @@
       "roleInScript": "剖錯",
       "humorDevice": "story",
       "zhGloss": "錯誤解剖",
-      "speakLineEn": "Do an anatomy of error after retraction.",
-      "speakLineZh": "撤稿後做錯誤解剖。",
+      "speakLineEn": "After the mistake, they wrote a calm anatomy of error.",
+      "speakLineZh": "出錯後，他們寫下一份冷靜的錯誤解剖。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -164,8 +164,8 @@
       "roleInScript": "細剖",
       "humorDevice": "story",
       "zhGloss": "分解",
-      "speakLineEn": "Dissect the identification assumptions.",
-      "speakLineZh": "細剖識別假設。",
+      "speakLineEn": "In class we dissect the poem line by line.",
+      "speakLineZh": "課堂上我們逐行剖析這首詩。",
       "related": {
         "synonyms": "analyze, analyse",
         "antonyms": "synthesize"
@@ -205,6 +205,10 @@
     "reviewedAt": "2026-10-19",
     "stage": "P2-batch03",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootExamplesStage": "root-fix-2",
+    "rootExamplesFixedAt": "2026-10-19",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

@@ -74,8 +74,8 @@
       "roleInScript": "多機同拍",
       "humorDevice": "morphology",
       "zhGloss": "同時的",
-      "speakLineEn": "Avoid simultaneous unblinded peeks.",
-      "speakLineZh": "避免同時非盲偷看。",
+      "speakLineEn": "Two simultaneous alarms made the evacuation confusing.",
+      "speakLineZh": "兩道同時響起的警報讓疏散變得混亂。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -149,8 +149,8 @@
       "roleInScript": "看起來像",
       "humorDevice": "story",
       "zhGloss": "相似外表",
-      "speakLineEn": "A semblance of rigor is still fog.",
-      "speakLineZh": "嚴謹的外表仍是霧。",
+      "speakLineEn": "After the storm, only a semblance of the pier remained.",
+      "speakLineZh": "暴風雨後，碼頭只剩一點殘餘的模樣。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -164,8 +164,8 @@
       "roleInScript": "超像真",
       "humorDevice": "story",
       "zhGloss": "寫實主義；真",
-      "speakLineEn": "Verisimilitude in examples helps teaching.",
-      "speakLineZh": "例子逼真有助教學。",
+      "speakLineEn": "Historical detail gave the novel convincing verisimilitude.",
+      "speakLineZh": "歷史細節讓這本小說有令人信服的逼真感。",
       "related": {
         "synonyms": "authenticity, realism",
         "antonyms": "unreality"
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-19",
     "stage": "P2-batch03",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

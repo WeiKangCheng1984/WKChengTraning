@@ -29,8 +29,8 @@
       "roleInScript": "從內部破爛",
       "humorDevice": "morphology",
       "zhGloss": "腐敗的；使敗壞",
-      "speakLineEn": "Corrupt incentives distort measurement.",
-      "speakLineZh": "腐敗誘因扭曲測量。",
+      "speakLineEn": "Corrupt officials siphoned money from public contracts.",
+      "speakLineZh": "腐敗官員從公共標案中掏空金錢。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -59,8 +59,8 @@
       "roleInScript": "從裂口噴出",
       "humorDevice": "morphology",
       "zhGloss": "爆發；噴發",
-      "speakLineEn": "Controversy erupted after the leak.",
-      "speakLineZh": "洩漏後爭議爆發。",
+      "speakLineEn": "Laughter erupted in the hall after the witty remark.",
+      "speakLineZh": "那句俏皮話後，大廳爆發出笑聲。",
       "related": {
         "synonyms": "irrupt, flare, ignite, combust, conflagrate, belch",
         "antonyms": "extinguish"
@@ -164,8 +164,8 @@
       "roleInScript": "專門製造破裂的",
       "humorDevice": "morphology",
       "zhGloss": "破壞性的；顛覆式的",
-      "speakLineEn": "Disruptive claims need stronger evidence, not louder ads.",
-      "speakLineZh": "顛覆式宣稱需要更強證據，而非更大聲廣告。",
+      "speakLineEn": "A disruptive innovation can displace older tools overnight.",
+      "speakLineZh": "顛覆性創新可能一夜之間取代舊工具。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -191,6 +191,10 @@
     "stage": "S2",
     "note": "New A-level cluster with full lesson",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootExamplesStage": "root-fix-2",
+    "rootExamplesFixedAt": "2026-10-19",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

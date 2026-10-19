@@ -14,8 +14,8 @@
       "roleInScript": "大傘",
       "humorDevice": "morphology",
       "zhGloss": "傘；總括",
-      "speakLineEn": "An 'umbrella term' still needs definition.",
-      "speakLineZh": "總括詞仍需定義。",
+      "speakLineEn": "Bring an umbrella; the forecast calls for afternoon showers.",
+      "speakLineZh": "帶把傘；預報說午後有陣雨。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -59,8 +59,8 @@
       "roleInScript": "投下輪廓影",
       "humorDevice": "morphology",
       "zhGloss": "預示；勾勒",
-      "speakLineEn": "Adumbrate the design in the abstract.",
-      "speakLineZh": "在摘要勾勒設計。",
+      "speakLineEn": "The preface briefly adumbrates the book’s central theme.",
+      "speakLineZh": "序言簡要勾勒全書的中心主題。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -104,8 +104,8 @@
       "roleInScript": "遮光",
       "humorDevice": "story",
       "zhGloss": "陰影；色度",
-      "speakLineEn": "Shade uncertainty on the plot.",
-      "speakLineZh": "在圖上為不確定遮光。",
+      "speakLineEn": "We sat in the shade of the oak while waiting for the bus.",
+      "speakLineZh": "等公車時，我們坐在橡樹的樹蔭下。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -134,8 +134,8 @@
       "roleInScript": "輪廓影",
       "humorDevice": "story",
       "zhGloss": "剪影",
-      "speakLineEn": "Give a silhouette of the causal graph early.",
-      "speakLineZh": "及早給因果圖剪影。",
+      "speakLineEn": "At dusk, the bridge became a dark silhouette against the sky.",
+      "speakLineZh": "黃昏時，橋樑在天空襯托下成了一道深色剪影。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -149,8 +149,8 @@
       "roleInScript": "遮住",
       "humorDevice": "story",
       "zhGloss": "雲；陰影",
-      "speakLineEn": "Clouds of jargon hide weak n.",
-      "speakLineZh": "行話雲遮住弱樣本。",
+      "speakLineEn": "A sudden cloud of dust rose behind the fleeing horses.",
+      "speakLineZh": "逃竄的馬群後方突然揚起一團塵雲。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-19",
     "stage": "P2-batch03",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

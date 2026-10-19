@@ -59,8 +59,8 @@
       "roleInScript": "動手腳行為",
       "humorDevice": "morphology",
       "zhGloss": "操縱",
-      "speakLineEn": "Outcome manipulation is misconduct.",
-      "speakLineZh": "結局操縱是不端。",
+      "speakLineEn": "The scandal involved clear manipulation of financial records.",
+      "speakLineZh": "這樁醜聞涉及明顯操弄財務紀錄。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -134,8 +134,8 @@
       "roleInScript": "親手做的",
       "humorDevice": "story",
       "zhGloss": "手工的",
-      "speakLineEn": "Handmade figures still need axis labels.",
-      "speakLineZh": "手工圖仍需軸標籤。",
+      "speakLineEn": "She sold handmade pottery at the weekend market.",
+      "speakLineZh": "她在週末市集販售手工陶器。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -160,6 +160,8 @@
     "reviewedAt": "2026-10-19",
     "stage": "P2-batch04",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

@@ -14,8 +14,8 @@
       "roleInScript": "浪潮",
       "humorDevice": "morphology",
       "zhGloss": "巨浪；洶湧",
-      "speakLineEn": "A surge in p-hacking follows vague plans.",
-      "speakLineZh": "計畫含糊後 p 黑客會湧現。",
+      "speakLineEn": "A sudden surge in demand emptied the shelves.",
+      "speakLineZh": "需求突然激增，貨架被清空。",
       "related": {
         "synonyms": "rush, spate, upsurge, billow, heave, soar",
         "antonyms": "ebb"
@@ -29,8 +29,8 @@
       "roleInScript": "上升箭",
       "humorDevice": "morphology",
       "zhGloss": "激增",
-      "speakLineEn": "An upsurge of interest is not evidence.",
-      "speakLineZh": "興趣急升不是證據。",
+      "speakLineEn": "An upsurge in tourism filled every hotel downtown.",
+      "speakLineZh": "觀光急升讓市區每家旅館都客滿。",
       "related": {
         "synonyms": "boom, spike",
         "antonyms": ""
@@ -134,8 +134,8 @@
       "roleInScript": "上升梯",
       "humorDevice": "story",
       "zhGloss": "上升",
-      "speakLineEn": "A rise in citations is not validity.",
-      "speakLineZh": "引用上升不是效度。",
+      "speakLineEn": "A sharp rise in tuition worried many families.",
+      "speakLineZh": "學費驟升讓許多家庭憂心。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-19",
     "stage": "P2-batch06",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

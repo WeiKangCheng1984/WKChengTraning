@@ -14,8 +14,8 @@
       "roleInScript": "探針進場",
       "humorDevice": "morphology",
       "zhGloss": "/",
-      "speakLineEn": "Probe the missingness mechanism.",
-      "speakLineZh": "探查缺失機制。",
+      "speakLineEn": "Scientists will probe the ocean floor with remote sensors.",
+      "speakLineZh": "科學家將用遙測感測器探查海床。",
       "related": {
         "synonyms": "delve, inquire, investigate",
         "antonyms": ""
@@ -104,8 +104,8 @@
       "roleInScript": "法庭機率板",
       "humorDevice": "story",
       "zhGloss": "機率",
-      "speakLineEn": "State probability models explicitly.",
-      "speakLineZh": "明確陳述機率模型。",
+      "speakLineEn": "The forecast gave a high probability of afternoon rain.",
+      "speakLineZh": "天氣預報顯示午後有高機率降雨。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -149,8 +149,8 @@
       "roleInScript": "反對票",
       "humorDevice": "story",
       "zhGloss": "不贊成",
-      "speakLineEn": "Disapprove hype in cover letters.",
-      "speakLineZh": "反對投稿信炒作。",
+      "speakLineEn": "Parents may disapprove of late-night parties during finals week.",
+      "speakLineZh": "家長可能不贊成期末週開深夜派對。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -164,8 +164,8 @@
       "roleInScript": "試探動作",
       "humorDevice": "story",
       "zhGloss": "試驗",
-      "speakLineEn": "Test preregistered hypotheses first.",
-      "speakLineZh": "先檢驗預註冊假說。",
+      "speakLineEn": "The chemist will test each sample for purity.",
+      "speakLineZh": "化學家將檢測每份樣本的純度。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "P2-batch01",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

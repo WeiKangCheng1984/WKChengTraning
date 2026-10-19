@@ -29,8 +29,8 @@
       "roleInScript": "反方對打",
       "humorDevice": "morphology",
       "zhGloss": "對立的",
-      "speakLineEn": "Report the antithesis finding honestly.",
-      "speakLineZh": "誠實報告對立發現。",
+      "speakLineEn": "Chaos is the antithesis of careful planning.",
+      "speakLineZh": "混亂是謹慎規劃的對立面。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -59,8 +59,8 @@
       "roleInScript": "待驗命題",
       "humorDevice": "morphology",
       "zhGloss": "假說",
-      "speakLineEn": "Preregister the hypothesis, not the punchline.",
-      "speakLineZh": "預註冊假說，不是笑點。",
+      "speakLineEn": "The hypothesis predicted a sharp drop in error rates.",
+      "speakLineZh": "該假說預測錯誤率會大幅下降。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -104,8 +104,8 @@
       "roleInScript": "假如對打",
       "humorDevice": "story",
       "zhGloss": "假設的",
-      "speakLineEn": "Keep hypotheticals labeled as such.",
-      "speakLineZh": "假設情境要標清楚。",
+      "speakLineEn": "Consider a hypothetical case before applying the rule.",
+      "speakLineZh": "套用規則前，先想一個假設情境。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -134,8 +134,8 @@
       "roleInScript": "放上假說",
       "humorDevice": "story",
       "zhGloss": "提出假說",
-      "speakLineEn": "Hypothesize before you peek.",
-      "speakLineZh": "偷看前先提出假說。",
+      "speakLineEn": "Before collecting data, hypothesize what pattern you expect.",
+      "speakLineZh": "蒐集資料前，先提出你預期會看到的模式假說。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -149,8 +149,8 @@
       "roleInScript": "長命題",
       "humorDevice": "story",
       "zhGloss": "學位論文",
-      "speakLineEn": "A dissertation needs open materials.",
-      "speakLineZh": "學位論文需要開放材料。",
+      "speakLineEn": "She defended her dissertation after five years of research.",
+      "speakLineZh": "經過五年研究，她通過了博士論文答辯。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -164,8 +164,8 @@
       "roleInScript": "對打卡",
       "humorDevice": "story",
       "zhGloss": "反論題",
-      "speakLineEn": "Write the counterthesis in the discussion.",
-      "speakLineZh": "在討論寫反論題。",
+      "speakLineEn": "Present a fair counterthesis before you reject it.",
+      "speakLineZh": "在駁斥前，先公平陳述反論題。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -190,6 +190,8 @@
     "reviewedAt": "2026-10-19",
     "stage": "P2-batch03",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

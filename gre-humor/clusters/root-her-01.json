@@ -14,8 +14,8 @@
       "roleInScript": "黏住規則",
       "humorDevice": "morphology",
       "zhGloss": "遵守；黏附",
-      "speakLineEn": "Adhere to the preregistered plan.",
-      "speakLineZh": "遵守預註冊計畫。",
+      "speakLineEn": "Students must adhere to the citation rules in the handbook.",
+      "speakLineZh": "學生必須遵守手冊中的引用規則。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -29,8 +29,8 @@
       "roleInScript": "黏膠",
       "humorDevice": "morphology",
       "zhGloss": "黏著的；膠帶",
-      "speakLineEn": "An adhesive label marked blinded samples.",
-      "speakLineZh": "黏標標記盲樣。",
+      "speakLineEn": "Use adhesive tape to seal the package before mailing it.",
+      "speakLineZh": "寄出前請用膠帶把包裹封好。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -44,8 +44,8 @@
       "roleInScript": "黏成一條理",
       "humorDevice": "morphology",
       "zhGloss": "連貫的；一致的",
-      "speakLineEn": "Keep the causal story coherent.",
-      "speakLineZh": "讓因果故事連貫。",
+      "speakLineEn": "Keep your causal story coherent from claim to evidence.",
+      "speakLineZh": "從主張到證據，都要讓因果敘事前後連貫。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -105,7 +105,7 @@
       "humorDevice": "morphology",
       "zhGloss": "猶豫的",
       "speakLineEn": "Hesitant leadership delays corrections.",
-      "speakLineZh": "猶豫領導拖延勘誤。",
+      "speakLineZh": "猶豫不決的領導會拖延必要勘誤。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -149,8 +149,8 @@
       "roleInScript": "黏著程度",
       "humorDevice": "story",
       "zhGloss": "依從；黏附",
-      "speakLineEn": "Measure adherence to the intervention.",
-      "speakLineZh": "測量介入依從度。",
+      "speakLineEn": "Strict adherence to the schedule kept the festival on time.",
+      "speakLineZh": "嚴格遵守時程，讓音樂節準時進行。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -165,7 +165,7 @@
       "humorDevice": "story",
       "zhGloss": "連貫性",
       "speakLineEn": "Check coherence across sections.",
-      "speakLineZh": "檢查各節連貫性。",
+      "speakLineZh": "請檢查各章節之間的連貫性。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "P1-batch02",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch2"
   }
 }

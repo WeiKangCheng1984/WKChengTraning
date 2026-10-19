@@ -149,8 +149,8 @@
       "roleInScript": "藏真意",
       "humorDevice": "contrast",
       "zhGloss": "掩蓋；掩飾；假裝",
-      "speakLineEn": "Do not dissemble about conflicting interests.",
-      "speakLineZh": "不要掩飾利益衝突。",
+      "speakLineEn": "Please do not dissemble about the conflicting interests in this deal.",
+      "speakLineZh": "請不要掩蓋這筆交易中互相衝突的利益關係。",
       "related": {
         "synonyms": "feign, sham, pretend, affect, cloak, mask",
         "antonyms": "unmask"
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "P1-batch01",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "semlookPolishAt": "2026-10-19",
+    "semlookPolishStage": "semlook-careful-polish-v1"
   }
 }

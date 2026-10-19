@@ -29,8 +29,8 @@
       "roleInScript": "整盤吞",
       "humorDevice": "morphology",
       "zhGloss": "吞食；狼吞虎嚥；也可指如饑似渴地讀",
-      "speakLineEn": "Do not devour only abstracts.",
-      "speakLineZh": "不要只吞摘要。",
+      "speakLineEn": "He would devour detective novels on every long train ride.",
+      "speakLineZh": "每次長途火車上，他都會狼吞虎嚥地讀推理小說。",
       "related": {
         "synonyms": "down, consume, guttle, raven, pig",
         "antonyms": "up, upward, upwardly, upwards, abstain"
@@ -89,8 +89,8 @@
       "roleInScript": "吃進去的渦",
       "humorDevice": "morphology",
       "zhGloss": "漩渦",
-      "speakLineEn": "Avoid the vortex of endless metrics.",
-      "speakLineZh": "避開無盡指標漩渦。",
+      "speakLineEn": "Leaves spun in a small vortex near the storm drain.",
+      "speakLineZh": "落葉在排水口附近形成小小漩渦旋轉。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -190,6 +190,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "P2-batch02",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

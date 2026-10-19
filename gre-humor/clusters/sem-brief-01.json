@@ -14,8 +14,8 @@
       "roleInScript": "短而準",
       "humorDevice": "contrast",
       "zhGloss": "簡潔的",
-      "speakLineEn": "Write a succinct limitations list.",
-      "speakLineZh": "寫簡潔限制清單。",
+      "speakLineEn": "Please leave a succinct note on the whiteboard so the next shift knows what failed overnight.",
+      "speakLineZh": "請在白板上留下簡潔的註記，讓下一班知道夜間何處出了問題。",
       "related": {
         "synonyms": "compendious, compact, summary",
         "antonyms": "verbose, wordy"
@@ -29,8 +29,8 @@
       "roleInScript": "短到俐落",
       "humorDevice": "contrast",
       "zhGloss": "簡潔的",
-      "speakLineEn": "A terse rebuttal can still be fair.",
-      "speakLineZh": "簡短反駁仍可公平。",
+      "speakLineEn": "His terse reply of \"already fixed\" ended the long chain of anxious midnight emails.",
+      "speakLineZh": "他簡潔回覆「已經修好」，結束了一長串焦慮的午夜郵件。",
       "related": {
         "synonyms": "crisp, curt, laconic",
         "antonyms": "verbose, wordy"
@@ -59,8 +59,8 @@
       "roleInScript": "短到冷",
       "humorDevice": "contrast",
       "zhGloss": "言詞簡略；直接（以至顯得粗魯）的",
-      "speakLineEn": "Curt emails escalate conflict.",
-      "speakLineZh": "簡慢郵件升級衝突。",
+      "speakLineEn": "A curt \"busy\" from the desk clerk made the waiting passengers exchange uneasy glances.",
+      "speakLineZh": "櫃檯人員言詞簡略的一句「很忙」，讓候機乘客互投不安目光。",
       "related": {
         "synonyms": "abrupt, bluff, terse",
         "antonyms": ""
@@ -74,8 +74,8 @@
       "roleInScript": "壓實",
       "humorDevice": "contrast",
       "zhGloss": "緊湊的；結實的",
-      "speakLineEn": "Keep the model statement compact.",
-      "speakLineZh": "模型陳述保持緊密。",
+      "speakLineEn": "She packed a compact overnight bag that somehow held boots, a laptop, and two novels.",
+      "speakLineZh": "她塞好一個緊湊結實的過夜包，居然裝下靴子、筆電與兩本小說。",
       "related": {
         "synonyms": "covenant, concordat, pack, bundle, wad, compress",
         "antonyms": "decompress, loose"
@@ -104,8 +104,8 @@
       "roleInScript": "不囉唆",
       "humorDevice": "contrast",
       "zhGloss": "簡明的",
-      "speakLineEn": "Be concise without deleting assumptions.",
-      "speakLineZh": "簡明但不要刪假設。",
+      "speakLineEn": "Keep the lab abstract concise, but never delete the assumptions that shaped the method.",
+      "speakLineZh": "實驗摘要要簡明，但絕不要刪掉塑造方法的那些假設。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "P1-batch02",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "semlookPolishAt": "2026-10-19",
+    "semlookPolishStage": "semlook-careful-polish-v1"
   }
 }

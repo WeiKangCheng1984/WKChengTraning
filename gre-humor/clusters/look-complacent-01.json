@@ -14,8 +14,8 @@
       "roleInScript": "討好臉",
       "humorDevice": "lookalike",
       "zhGloss": "順從的",
-      "speakLineEn": "GRE tip: complaisant ~ 討好順從; keep the tone straight.",
-      "speakLineZh": "GRE 提示：complaisant 約「討好順從」——抓住語氣。",
+      "speakLineEn": "The complaisant host agreed to every guest request without complaint.",
+      "speakLineZh": "那位順從的主人毫無怨言地答應每位客人的要求。",
       "related": {
         "synonyms": "obliging",
         "antonyms": "disoblige"
@@ -29,8 +29,8 @@
       "roleInScript": "殷勤",
       "humorDevice": "lookalike",
       "zhGloss": "順從",
-      "speakLineEn": "GRE tip: complaisance ~ 殷勤討好; keep the tone straight.",
-      "speakLineZh": "GRE 提示：complaisance 約「殷勤討好」——抓住語氣。",
+      "speakLineEn": "Her endless complaisance left little time for her own projects.",
+      "speakLineZh": "她無止盡的順從殷勤，幾乎沒有時間做自己的計畫。",
       "related": {
         "synonyms": "compliance, compliancy, obligingness, deference",
         "antonyms": "noncompliance, nonconformity"
@@ -44,8 +44,8 @@
       "roleInScript": "自鳴得意角色",
       "humorDevice": "story",
       "zhGloss": "自命不凡的人",
-      "speakLineEn": "GRE tip: smug ~ 自鳴得意; keep the tone straight.",
-      "speakLineZh": "GRE 提示：smug 約「自鳴得意」——抓住語氣。",
+      "speakLineEn": "The smug winner smirked as if the contest had never been close.",
+      "speakLineZh": "那個自命不凡的贏家壞笑著，彷彿比賽從未膠著過。",
       "related": {
         "synonyms": "self-satisfied",
         "antonyms": ""
@@ -59,8 +59,8 @@
       "roleInScript": "討好",
       "humorDevice": "story",
       "zhGloss": "討人喜歡的；奉迎的",
-      "speakLineEn": "GRE tip: ingratiating ~ 討好的; keep the tone straight.",
-      "speakLineZh": "GRE 提示：ingratiating 約「討好的」——抓住語氣。",
+      "speakLineEn": "His ingratiating smile appeared whenever the principal entered the room.",
+      "speakLineZh": "校長一進教室，他就換上討人喜歡的奉迎笑容。",
       "related": {
         "synonyms": "ingratiate, insinuating, ingratiatory",
         "antonyms": ""
@@ -74,8 +74,8 @@
       "roleInScript": "奉承角色",
       "humorDevice": "story",
       "zhGloss": "奉承；甜言討好",
-      "speakLineEn": "GRE tip: fawning ~ 奉承; keep the tone straight.",
-      "speakLineZh": "GRE 提示：fawning 約「奉承」——抓住語氣。",
+      "speakLineEn": "Fawning assistants surrounded the celebrity after every press event.",
+      "speakLineZh": "每次記者會後，奉承討好的助理都圍在名人身邊。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -89,8 +89,8 @@
       "roleInScript": "沾沾自喜角色",
       "humorDevice": "story",
       "zhGloss": "沾沾自喜",
-      "speakLineEn": "GRE tip: smugness ~ 沾沾自喜; keep the tone straight.",
-      "speakLineZh": "GRE 提示：smugness 約「沾沾自喜」——抓住語氣。",
+      "speakLineEn": "His smugness after one good quiz annoyed classmates who still struggled.",
+      "speakLineZh": "他一次小考考好就沾沾自喜，惹惱了仍在苦讀的同學。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -104,8 +104,8 @@
       "roleInScript": "坏笑角色",
       "humorDevice": "story",
       "zhGloss": "假笑",
-      "speakLineEn": "GRE tip: smirk ~ 坏笑; keep the tone straight.",
-      "speakLineZh": "GRE 提示：smirk 約「坏笑」——抓住語氣。",
+      "speakLineEn": "A knowing smirk crossed her face when the rumor proved false.",
+      "speakLineZh": "謠言被證明是假的時，她臉上掠過一抹假笑。",
       "related": {
         "synonyms": "simper",
         "antonyms": ""
@@ -119,8 +119,8 @@
       "roleInScript": "諂媚者角色",
       "humorDevice": "story",
       "zhGloss": "諂媚者",
-      "speakLineEn": "GRE tip: flatterer ~ 諂媚者; keep the tone straight.",
-      "speakLineZh": "GRE 提示：flatterer 約「諂媚者」——抓住語氣。",
+      "speakLineEn": "A practiced flatterer praised every idea the boss mentioned at lunch.",
+      "speakLineZh": "老練的諂媚者在午餐時對老闆提起的每個主意都大加讚美。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -134,8 +134,8 @@
       "roleInScript": "化妝角色",
       "humorDevice": "story",
       "zhGloss": "化妝",
-      "speakLineEn": "GRE tip: makeup ~ 化妝; keep the tone straight.",
-      "speakLineZh": "GRE 提示：makeup 約「化妝」——抓住語氣。",
+      "speakLineEn": "She applied light makeup before stepping onto the school stage.",
+      "speakLineZh": "踏上學校舞台前，她化了淡淡的妝。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -160,6 +160,8 @@
     "stage": "P3-batch01",
     "polishedAt": "2026-10-19",
     "polishStage": "Q-wave3",
-    "zhEnrichedAt": "2026-10-19"
+    "zhEnrichedAt": "2026-10-19",
+    "semlookPolishAt": "2026-10-19",
+    "semlookPolishStage": "semlook-careful-polish-v1"
   }
 }

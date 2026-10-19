@@ -14,8 +14,8 @@
       "roleInScript": "放上桌",
       "humorDevice": "morphology",
       "zhGloss": "提議",
-      "speakLineEn": "We propose a preregistered analysis plan.",
-      "speakLineZh": "我們提議預註冊分析計畫。",
+      "speakLineEn": "The committee will propose three reforms tomorrow.",
+      "speakLineZh": "委員會明天將提出三項改革。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -179,8 +179,8 @@
       "roleInScript": "久放之處",
       "humorDevice": "story",
       "zhGloss": "儲庫",
-      "speakLineEn": "A public repository reduces private hoarding of data.",
-      "speakLineZh": "公開儲庫減少私藏。",
+      "speakLineEn": "The library is a quiet repository of rare maps.",
+      "speakLineZh": "這座圖書館是珍稀地圖的安靜典藏庫。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -194,8 +194,8 @@
       "roleInScript": "討論桌上的句子",
       "humorDevice": "morphology",
       "zhGloss": "提議",
-      "speakLineEn": "State the proposition before you defend it.",
-      "speakLineZh": "先陳述命題再辯護。",
+      "speakLineEn": "State your main proposition in one clear sentence.",
+      "speakLineZh": "用一句清楚的話陳述你的主要命題。",
       "related": {
         "synonyms": "suggestion, proffer, proposal",
         "antonyms": ""
@@ -250,6 +250,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "S3b",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

@@ -29,8 +29,8 @@
       "roleInScript": "伸拳爭辯",
       "humorDevice": "morphology",
       "zhGloss": "競爭",
-      "speakLineEn": "Authors contend that bias is bounded.",
-      "speakLineZh": "作者主張偏差有界。",
+      "speakLineEn": "Historians contend that trade, not chance, drove the boom.",
+      "speakLineZh": "歷史學家主張是貿易而非偶然推動了那次繁榮。",
       "related": {
         "synonyms": "postulate, argue, debate, fence, contest, repugn",
         "antonyms": "obviate"
@@ -119,8 +119,8 @@
       "roleInScript": "把注意伸過去",
       "humorDevice": "morphology",
       "zhGloss": "出席；注意",
-      "speakLineEn": "Attend to missingness patterns early.",
-      "speakLineZh": "及早注意缺失模式。",
+      "speakLineEn": "Please attend the meeting on Friday afternoon.",
+      "speakLineZh": "請出席週五下午的會議。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "P1-batch01",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

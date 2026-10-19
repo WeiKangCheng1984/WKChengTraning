@@ -44,8 +44,8 @@
       "roleInScript": "上秤",
       "humorDevice": "morphology",
       "zhGloss": "評估",
-      "speakLineEn": "Evaluate robustness, not vibes.",
-      "speakLineZh": "評估穩健，不是感覺。",
+      "speakLineEn": "Teachers evaluate essays on clarity, evidence, and structure.",
+      "speakLineZh": "老師依清晰度、證據與結構來評估作文。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -59,8 +59,8 @@
       "roleInScript": "秤重報告",
       "humorDevice": "morphology",
       "zhGloss": "評估",
-      "speakLineEn": "External evaluation beats self-praise.",
-      "speakLineZh": "外部評估勝過自誇。",
+      "speakLineEn": "Course evaluation forms are collected on the last day.",
+      "speakLineZh": "課程評鑑表在最後一天收回。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -74,8 +74,8 @@
       "roleInScript": "認證通過",
       "humorDevice": "morphology",
       "zhGloss": "有效的",
-      "speakLineEn": "A valid test needs a clear estimand.",
-      "speakLineZh": "有效檢定需要清楚目標量。",
+      "speakLineEn": "A valid passport is required for international travel.",
+      "speakLineZh": "國際旅行需要有效護照。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -119,8 +119,8 @@
       "roleInScript": "勇敢組",
       "humorDevice": "morphology",
       "zhGloss": "英勇的",
-      "speakLineEn": "Valiant reporting includes limitations.",
-      "speakLineZh": "勇敢報告包含限制。",
+      "speakLineEn": "Firefighters made a valiant effort to save the old barn.",
+      "speakLineZh": "消防隊員勇敢奮力搶救那座舊穀倉。",
       "related": {
         "synonyms": "valorous",
         "antonyms": ""
@@ -164,8 +164,8 @@
       "roleInScript": "勝出",
       "humorDevice": "story",
       "zhGloss": "勝過；盛行",
-      "speakLineEn": "Evidence should prevail over hierarchy.",
-      "speakLineZh": "證據應勝過層級。",
+      "speakLineEn": "In the end, patience and evidence will prevail.",
+      "speakLineZh": "最終，耐心與證據會佔上風。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -179,8 +179,8 @@
       "roleInScript": "認證失敗",
       "humorDevice": "story",
       "zhGloss": "無效的",
-      "speakLineEn": "Unblinded peeks make tests invalid.",
-      "speakLineZh": "非盲偷看使檢定無效。",
+      "speakLineEn": "An expired ticket is invalid for boarding the train.",
+      "speakLineZh": "過期車票無法搭乘火車，屬無效票。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-19",
     "stage": "P2-batch04",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch4"
   }
 }

@@ -44,8 +44,8 @@
       "roleInScript": "拔雜草",
       "humorDevice": "morphology",
       "zhGloss": "根除",
-      "speakLineEn": "Eradicate silent outcome switching.",
-      "speakLineZh": "根除沉默結局更換。",
+      "speakLineEn": "The campaign aims to eradicate measles through vaccination.",
+      "speakLineZh": "該行動希望透過疫苗接種根除麻疹。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -74,8 +74,8 @@
       "roleInScript": "根部",
       "humorDevice": "morphology",
       "zhGloss": "字根；基數",
-      "speakLineEn": "Treat the estimand as the radix of claims.",
-      "speakLineZh": "把目標量當主張的根。",
+      "speakLineEn": "In mathematics, the radix of a number system is its base.",
+      "speakLineZh": "在數學裡，記數系統的基數即其進位底。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -134,8 +134,8 @@
       "roleInScript": "扎根度",
       "humorDevice": "story",
       "zhGloss": "生根性",
-      "speakLineEn": "Rootedness in methods beats charisma.",
-      "speakLineZh": "方法扎根勝過魅力。",
+      "speakLineEn": "Her rootedness in local history shaped every chapter.",
+      "speakLineZh": "她對地方史的扎根感塑造了每一章。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -164,8 +164,8 @@
       "roleInScript": "拔起人",
       "humorDevice": "story",
       "zhGloss": "連根拔起",
-      "speakLineEn": "Deracinate cargo-cult statistics.",
-      "speakLineZh": "連根拔起盲從統計。",
+      "speakLineEn": "War can deracinate families from their ancestral villages.",
+      "speakLineZh": "戰爭可能把家庭從祖居村莊連根拔起。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,10 @@
     "reviewedAt": "2026-10-19",
     "stage": "P2-batch04",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootExamplesStage": "root-fix-2",
+    "rootExamplesFixedAt": "2026-10-19",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

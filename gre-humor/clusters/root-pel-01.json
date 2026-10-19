@@ -74,8 +74,8 @@
       "roleInScript": "向前推",
       "humorDevice": "morphology",
       "zhGloss": "驅使；激勵",
-      "speakLineEn": "Clear stakes propel careful reading.",
-      "speakLineZh": "清楚利害推進細讀。",
+      "speakLineEn": "Strong winds can propel a sailboat across the bay.",
+      "speakLineZh": "強風能推動帆船橫渡海灣。",
       "related": {
         "synonyms": "impel, motivate, actuate, move, prompt, incite",
         "antonyms": "refrain, rest, stand still, stay, stay in place"
@@ -209,8 +209,8 @@
       "roleInScript": "推開的力",
       "humorDevice": "morphology",
       "zhGloss": "抗拒；排斥",
-      "speakLineEn": "Mutual repulsion between camps blocks synthesis.",
-      "speakLineZh": "陣營互斥阻礙綜整。",
+      "speakLineEn": "She felt an instant repulsion toward the spoiled food.",
+      "speakLineZh": "她對腐壞食物立刻感到強烈排斥。",
       "related": {
         "synonyms": "repugnance, revulsion, horror, standoff",
         "antonyms": "attraction"
@@ -224,8 +224,8 @@
       "roleInScript": "不得不推",
       "humorDevice": "morphology",
       "zhGloss": "強迫",
-      "speakLineEn": "Under compulsion, consent is compromised.",
-      "speakLineZh": "強迫下同意已打折。",
+      "speakLineEn": "Under compulsion, he signed a contract he later regretted.",
+      "speakLineZh": "在強迫之下，他簽下後來後悔的合約。",
       "related": {
         "synonyms": "obsession, coercion",
         "antonyms": ""
@@ -250,6 +250,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "S3b",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

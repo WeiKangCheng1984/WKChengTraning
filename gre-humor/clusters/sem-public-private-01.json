@@ -14,8 +14,8 @@
       "roleInScript": "海報車",
       "humorDevice": "contrast",
       "zhGloss": "宣傳",
-      "speakLineEn": "On the exam, publicize most nearly means a sense of \"宣傳\".",
-      "speakLineZh": "宣傳。",
+      "speakLineEn": "The club will publicize the blood drive on posters all across campus.",
+      "speakLineZh": "社團會用滿校園的海報，宣傳這次捐血活動。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -29,8 +29,8 @@
       "roleInScript": "壁櫥密",
       "humorDevice": "contrast",
       "zhGloss": "壁櫥；祕密的",
-      "speakLineEn": "A clear sense of closet is crucial to understanding the argument.",
-      "speakLineZh": "壁櫥；祕密的。",
+      "speakLineEn": "She kept the birthday gifts hidden in the hall closet until Saturday morning.",
+      "speakLineZh": "她把生日禮物藏在走廊壁櫥裡，直到週六早上才拿出來。",
       "related": {
         "synonyms": "cupboard, W.C., loo, wardrobe, press",
         "antonyms": ""
@@ -44,8 +44,8 @@
       "roleInScript": "深山屋",
       "humorDevice": "contrast",
       "zhGloss": "隱居的",
-      "speakLineEn": "On the exam, secluded most nearly means a sense of \"隱居的\".",
-      "speakLineZh": "隱居的。",
+      "speakLineEn": "They rented a secluded cabin where no traffic noise could reach the porch.",
+      "speakLineZh": "他們租了一間隱居般的小屋，門廊聽不到任何車聲。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -59,8 +59,8 @@
       "roleInScript": "紅戳",
       "humorDevice": "contrast",
       "zhGloss": "機密分級的",
-      "speakLineEn": "On the exam, classified most nearly means a sense of \"機密分級的\".",
-      "speakLineZh": "機密分級的。",
+      "speakLineEn": "Only staff with clearance may open that classified folder on the secure drive.",
+      "speakLineZh": "只有取得許可的人員，才能開啟安全硬碟上那份機密資料夾。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -74,8 +74,8 @@
       "roleInScript": "廣場角色",
       "humorDevice": "story",
       "zhGloss": "廣場",
-      "speakLineEn": "A good plaza should have a movie house.",
-      "speakLineZh": "廣場。",
+      "speakLineEn": "Street musicians filled the sunny plaza with soft guitar music at noon.",
+      "speakLineZh": "中午時，街頭樂手用輕柔吉他聲填滿陽光灑落的廣場。",
       "related": {
         "synonyms": "place, piazza, mall, center",
         "antonyms": "divest, left, right"
@@ -89,8 +89,8 @@
       "roleInScript": "隔音房角色",
       "humorDevice": "story",
       "zhGloss": "隔音房",
-      "speakLineEn": "Hold the meaning steady: booth means 隔音房.",
-      "speakLineZh": "記住考意：booth＝隔音房。",
+      "speakLineEn": "The radio host recorded the interview inside a soundproof booth downtown.",
+      "speakLineZh": "電台主持人在市中心一間隔音房裡錄製訪談。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -104,8 +104,8 @@
       "roleInScript": "資料夾角色",
       "humorDevice": "story",
       "zhGloss": "資料夾",
-      "speakLineEn": "Hold the meaning steady: folder means 資料夾.",
-      "speakLineZh": "記住考意：folder＝資料夾。",
+      "speakLineEn": "Please drop your signed permission slip into the blue folder on my desk.",
+      "speakLineZh": "請把簽好名的同意書放進我桌上那本藍色資料夾。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -119,8 +119,8 @@
       "roleInScript": "鎖角色",
       "humorDevice": "story",
       "zhGloss": "鎖",
-      "speakLineEn": "A careful reader links lock to 鎖, not a lookalike neighbor.",
-      "speakLineZh": "細心讀者把 lock 連到「鎖」，不連形近鄰居。",
+      "speakLineEn": "He replaced the rusty lock on the garden gate before winter storms arrived.",
+      "speakLineZh": "冬季風暴來前，他先換掉花園大門上生鏽的鎖。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -134,8 +134,8 @@
       "roleInScript": "海報角色",
       "humorDevice": "story",
       "zhGloss": "海報",
-      "speakLineEn": "A careful reader links poster to 海報, not a lookalike neighbor.",
-      "speakLineZh": "細心讀者把 poster 連到「海報」，不連形近鄰居。",
+      "speakLineEn": "A bright poster for the spring musical hung beside the cafeteria entrance.",
+      "speakLineZh": "春日音樂劇的鮮豔海報，掛在餐廳入口旁。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -160,6 +160,8 @@
     "stage": "P3-batch03",
     "polishedAt": "2026-10-19",
     "polishStage": "Q-wave2",
-    "zhEnrichedAt": "2026-10-19"
+    "zhEnrichedAt": "2026-10-19",
+    "semlookPolishAt": "2026-10-19",
+    "semlookPolishStage": "semlook-careful-polish-v1"
   }
 }

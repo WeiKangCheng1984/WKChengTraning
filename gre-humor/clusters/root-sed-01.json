@@ -74,8 +74,8 @@
       "roleInScript": "坐下開會一次",
       "humorDevice": "morphology",
       "zhGloss": "會期；時段",
-      "speakLineEn": "Each coding session used a blinded codebook.",
-      "speakLineZh": "每次編碼時段使用盲法碼本。",
+      "speakLineEn": "The morning session ended with three short presentations.",
+      "speakLineZh": "上午場次以三場短報告作結。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -179,8 +179,8 @@
       "roleInScript": "坐著不放的狀態",
       "humorDevice": "morphology",
       "zhGloss": "執念",
-      "speakLineEn": "An obsession with novelty crowds out replication.",
-      "speakLineZh": "嗜新執念排擠複現。",
+      "speakLineEn": "His obsession with punctuality amused and annoyed colleagues.",
+      "speakLineZh": "他對守時的執念既讓同事覺得好笑，也覺得煩。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "P1-batch01",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch2"
   }
 }

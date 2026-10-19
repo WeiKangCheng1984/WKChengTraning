@@ -104,8 +104,8 @@
       "roleInScript": "閃避步",
       "humorDevice": "story",
       "zhGloss": "閃避；躲开",
-      "speakLineEn": "Do not dodge requests for code.",
-      "speakLineZh": "不要閃避程式碼請求。",
+      "speakLineEn": "She had to dodge a speeding scooter as she crossed the rainy street.",
+      "speakLineZh": "她過馬路時必須閃避一輛在雨中疾駛的機車。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -119,8 +119,8 @@
       "roleInScript": "滑溜地",
       "humorDevice": "story",
       "zhGloss": "狡猾的",
-      "speakLineEn": "Slippery endpoints invite fishing.",
-      "speakLineZh": "滑溜終點誘發淘篩。",
+      "speakLineEn": "The slippery salesman twisted every promise until the contract looked harmless.",
+      "speakLineZh": "那個狡猾的業務把每句承諾都扭曲到合約看似無害。",
       "related": {
         "synonyms": "slippy, tricky",
         "antonyms": "nonslippery"
@@ -160,6 +160,8 @@
     "reviewedAt": "2026-10-19",
     "stage": "P2-batch06",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "semlookPolishAt": "2026-10-19",
+    "semlookPolishStage": "semlook-careful-polish-v1"
   }
 }

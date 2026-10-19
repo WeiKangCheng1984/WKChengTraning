@@ -134,8 +134,8 @@
       "roleInScript": "暈船袋",
       "humorDevice": "story",
       "zhGloss": "噁心；厭惡",
-      "speakLineEn": "P-hacking should induce methodological nausea.",
-      "speakLineZh": "p 值黑客應引起方法噁心感。",
+      "speakLineEn": "Motion sickness often begins with mild nausea.",
+      "speakLineZh": "暈動症常由輕微噁心開始。",
       "related": {
         "synonyms": "sickness",
         "antonyms": "wellness"
@@ -149,8 +149,8 @@
       "roleInScript": "羅盤針",
       "humorDevice": "story",
       "zhGloss": "羅盤",
-      "speakLineEn": "Let the protocol be your compass.",
-      "speakLineZh": "讓規程當你的羅盤。",
+      "speakLineEn": "Hikers checked the compass before entering the fog.",
+      "speakLineZh": "登山者進入濃霧前先檢查羅盤。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-19",
     "stage": "P2-batch05",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

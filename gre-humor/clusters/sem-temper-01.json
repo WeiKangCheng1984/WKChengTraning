@@ -104,8 +104,8 @@
       "roleInScript": "刺蝟翁",
       "humorDevice": "contrast",
       "zhGloss": "脾氣差的",
-      "speakLineEn": "A cantankerous and venomous-tongued old lady.",
-      "speakLineZh": "脾氣差的。",
+      "speakLineEn": "The cantankerous neighbor complained about every basketball bounce after six.",
+      "speakLineZh": "那位脾氣差的鄰居，對六點後每一次籃球彈跳都抱怨。",
       "related": {
         "synonyms": "bloody-minded, crotchety, ornery",
         "antonyms": ""
@@ -119,8 +119,8 @@
       "roleInScript": "點火就着",
       "humorDevice": "contrast",
       "zhGloss": "易怒的；暴躁的",
-      "speakLineEn": "Consider this case: get testy in one’s old age.",
-      "speakLineZh": "易怒的，暴躁的。",
+      "speakLineEn": "Lack of sleep made him testy during group work, snapping at tiny delays.",
+      "speakLineZh": "睡眠不足讓他在分組作業時易怒，對一點點延遲就發脾氣。",
       "related": {
         "synonyms": "choleric, irascible, irritable",
         "antonyms": "calm, placid"
@@ -134,8 +134,8 @@
       "roleInScript": "春風臉",
       "humorDevice": "contrast",
       "zhGloss": "討人喜歡的",
-      "speakLineEn": "Picture the 春風臉: the word agreeable means 討人喜歡的.",
-      "speakLineZh": "想像「春風臉」：agreeable＝討人喜歡的。",
+      "speakLineEn": "An agreeable host made the awkward alumni dinner feel warm and easy.",
+      "speakLineZh": "討人喜歡的主人，讓尷尬的校友晚宴變得溫暖輕鬆。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -149,8 +149,8 @@
       "roleInScript": "好脾氣",
       "humorDevice": "contrast",
       "zhGloss": "脾氣好的",
-      "speakLineEn": "In the passage, good-natured signals a shift toward \"脾氣好的\".",
-      "speakLineZh": "文中 good-natured 標示語氣轉向「脾氣好的」。",
+      "speakLineEn": "Her good-natured teasing never crossed the line into mean classroom jokes.",
+      "speakLineZh": "她脾氣好的調侃，從不越界變成傷人的課堂玩笑。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -164,8 +164,8 @@
       "roleInScript": "曲柄怒",
       "humorDevice": "contrast",
       "zhGloss": "暴躁的",
-      "speakLineEn": "The critic noted her cranky approach to the evidence.",
-      "speakLineZh": "暴躁的。",
+      "speakLineEn": "Toddlers get cranky when naps are skipped and snacks arrive too late.",
+      "speakLineZh": "幼兒若跳過午睡又零食來得太晚，就會變得暴躁。",
       "related": {
         "synonyms": "crank, tender, tippy, fractious, irritable, nettlesome",
         "antonyms": "tough, agreeable, docile"
@@ -179,8 +179,8 @@
       "roleInScript": "熱茶",
       "humorDevice": "contrast",
       "zhGloss": "熱誠的",
-      "speakLineEn": "Picture the 熱茶: the word cordial means 熱誠的.",
-      "speakLineZh": "想像「熱茶」：cordial＝熱誠的。",
+      "speakLineEn": "The principal gave a cordial welcome to parents touring the new science wing.",
+      "speakLineZh": "校長熱誠歡迎參觀新科學樓的家長。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -209,6 +209,8 @@
     "thickenedAt": "P4-batch01",
     "polishedAt": "2026-10-19",
     "polishStage": "Q-wave2",
-    "zhEnrichedAt": "2026-10-19"
+    "zhEnrichedAt": "2026-10-19",
+    "semlookPolishAt": "2026-10-19",
+    "semlookPolishStage": "semlook-careful-polish-v1"
   }
 }

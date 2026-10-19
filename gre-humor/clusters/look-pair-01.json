@@ -164,8 +164,8 @@
       "roleInScript": "看的角度",
       "humorDevice": "lookalike",
       "zhGloss": "視角；觀點",
-      "speakLineEn": "State the theoretical perspective up front.",
-      "speakLineZh": "先說理論視角。",
+      "speakLineEn": "Traveling abroad gave her a broader perspective on everyday customs.",
+      "speakLineZh": "出國旅行讓她對日常習俗有了更寬廣的視角。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -265,6 +265,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "S3b",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "semlookPolishAt": "2026-10-19",
+    "semlookPolishStage": "semlook-careful-polish-v1"
   }
 }

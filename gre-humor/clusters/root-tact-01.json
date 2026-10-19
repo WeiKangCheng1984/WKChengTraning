@@ -29,8 +29,8 @@
       "roleInScript": "有觸感",
       "humorDevice": "morphology",
       "zhGloss": "圓通的",
-      "speakLineEn": "Tactful emails still attach checklists.",
-      "speakLineZh": "圓通郵件仍附清單。",
+      "speakLineEn": "A tactful reminder helped without embarrassing anyone.",
+      "speakLineZh": "一句圓通的提醒既幫了忙，又不讓人難堪。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -89,8 +89,8 @@
       "roleInScript": "摸得到",
       "humorDevice": "morphology",
       "zhGloss": "可感知的",
-      "speakLineEn": "Give tangible deliverables: code and codebook.",
-      "speakLineZh": "給具體交付：程式碼與編碼簿。",
+      "speakLineEn": "The reforms produced tangible improvements in air quality.",
+      "speakLineZh": "改革帶來空氣品質的具體改善。",
       "related": {
         "synonyms": "palpable, perceptible, discernable",
         "antonyms": "impalpable, intangible, imperceptible, indiscernible"
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-19",
     "stage": "P2-batch04",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch3"
   }
 }

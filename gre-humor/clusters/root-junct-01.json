@@ -29,8 +29,8 @@
       "roleInScript": "關鍵接點",
       "humorDevice": "morphology",
       "zhGloss": "連接處；關鍵點",
-      "speakLineEn": "This juncture calls for a registered report.",
-      "speakLineZh": "此刻需要註冊報告。",
+      "speakLineEn": "At this critical juncture, the board postponed the vote.",
+      "speakLineZh": "在這個關鍵時刻，董事會決定延後表決。",
       "related": {
         "synonyms": "occasion, crossroads, articulation, join, joint, junction",
         "antonyms": "disjoin, separate"
@@ -44,8 +44,8 @@
       "roleInScript": "合在一起",
       "humorDevice": "morphology",
       "zhGloss": "結合；連詞",
-      "speakLineEn": "In conjunction with sensitivity checks, re-estimate.",
-      "speakLineZh": "結合敏感度檢查再估計。",
+      "speakLineEn": "Use “and” as a conjunction to join two independent clauses.",
+      "speakLineZh": "用 and 當連詞，連接兩個獨立子句。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "P1-batch02",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rootPolishAt": "2026-10-19",
+    "rootPolishStage": "root-careful-polish-batch4"
   }
 }
