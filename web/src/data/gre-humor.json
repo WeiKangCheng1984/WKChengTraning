@@ -1,7 +1,7 @@
 {
   "source": "gre-humor/",
   "version": "s3c-site-v1",
-  "generatedAt": "2026-10-19T05:44:50.205Z",
+  "generatedAt": "2026-10-19T05:45:59.201Z",
   "totalClusters": 187,
   "uniqueWords": 2131,
   "seasons": [
@@ -192,6 +192,32 @@
         "sem-scarce-01",
         "sem-talk-01",
         "sem-temper-01"
+      ]
+    },
+    {
+      "id": 4,
+      "titleZh": "字首調味",
+      "titleEn": "Prefix Seasoning",
+      "lessons": [
+        "prefix-bene-mal-01",
+        "prefix-circum-01",
+        "prefix-con-01",
+        "prefix-de-01",
+        "prefix-dis-01",
+        "prefix-ex-01",
+        "prefix-hyper-01",
+        "prefix-hypo-01",
+        "prefix-in-01",
+        "prefix-inter-01",
+        "prefix-mis-01",
+        "prefix-ob-01",
+        "prefix-pan-01",
+        "prefix-para-01",
+        "prefix-poly-01",
+        "prefix-pre-01",
+        "prefix-pro-01",
+        "prefix-sub-01",
+        "prefix-syn-01"
       ]
     }
   ],
