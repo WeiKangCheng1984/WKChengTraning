@@ -1,0 +1,407 @@
+{
+  "id": "sem-rigid-flexible-02",
+  "type": "semantic",
+  "elementLemma": "rigid-vs-flexible",
+  "titleZh": "僵硬 ↔ 柔韌｜水泥柱 vs 瑜珈墊",
+  "titleEn": "Rigid vs Flexible Studio",
+  "hook": "水泥柱（inexorable/mulish）對瑜珈墊（pliant/docile/amenable）——性格柔韌度對打。",
+  "script": "僵硬隊：inexorable／mulish／pigheaded 不彎。柔韌隊：amenable／pliant／docile 能折——教練：inexorable about integrity；pliant on tooling。",
+  "members": [
+    {
+      "headword": "inexorable",
+      "inVocab": true,
+      "senseAnchor": "not to be stopped",
+      "roleInScript": "水泥柱",
+      "humorDevice": "contrast",
+      "zhGloss": "不可動搖",
+      "speakLineEn": "Cue the 水泥柱: inexorable walks on and the gag sticks.",
+      "speakLineZh": "請「水泥柱」出場：inexorable 一上場梗就黏住——不可動搖。",
+      "related": {
+        "synonyms": "grim, relentless, stern, unappeasable, unforgiving, unrelenting",
+        "antonyms": "flexible, yielding"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "mulish",
+      "inVocab": true,
+      "senseAnchor": "固執如驢",
+      "roleInScript": "驢固執",
+      "humorDevice": "contrast",
+      "zhGloss": "固執如驢",
+      "speakLineEn": "Cue the 驢固執: mulish walks on and the gag sticks.",
+      "speakLineZh": "請「驢固執」出場：mulish 一上場梗就黏住——固執如驢。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "pigheaded",
+      "inVocab": true,
+      "senseAnchor": "頑固",
+      "roleInScript": "豬頭頑",
+      "humorDevice": "contrast",
+      "zhGloss": "頑固",
+      "speakLineEn": "Cue the 豬頭頑: pigheaded walks on and the gag sticks.",
+      "speakLineZh": "請「豬頭頑」出場：pigheaded 一上場梗就黏住——頑固。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "amenable",
+      "inVocab": true,
+      "senseAnchor": "readily brought to yield, submit, or cooperate",
+      "roleInScript": "可勸",
+      "humorDevice": "contrast",
+      "zhGloss": "順從可勸",
+      "speakLineEn": "Cue the 可勸: amenable walks on and the gag sticks.",
+      "speakLineZh": "請「可勸」出場：amenable 一上場梗就黏住——順從可勸。",
+      "related": {
+        "synonyms": "compliant, docile, submissive, subservient, tractable",
+        "antonyms": "defiant, rebellious, obstinate, stubborn, domineering, assertive, intractable"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "pliant",
+      "inVocab": true,
+      "senseAnchor": "capable of being influenced or formed; capable of being shaped or bent or drawn out",
+      "roleInScript": "柔順墊",
+      "humorDevice": "contrast",
+      "zhGloss": "柔順",
+      "speakLineEn": "Cue the 柔順墊: pliant walks on and the gag sticks.",
+      "speakLineZh": "請「柔順墊」出場：pliant 一上場梗就黏住——柔順。",
+      "related": {
+        "synonyms": "plastic, ductile, malleable, pliable, tensile, tractile",
+        "antonyms": "rigid, inflexible"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "docile",
+      "inVocab": true,
+      "senseAnchor": "willing to be taught or led or supervised or directed; ready and willing to be taught",
+      "roleInScript": "溫馴羊",
+      "humorDevice": "contrast",
+      "zhGloss": "溫馴",
+      "speakLineEn": "Cue the 溫馴羊: docile walks on and the gag sticks.",
+      "speakLineZh": "請「溫馴羊」出場：docile 一上場梗就黏住——溫馴。",
+      "related": {
+        "synonyms": "teachable, gentle",
+        "antonyms": "obstinate, rebellious, stubborn"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "yoga",
+      "inVocab": false,
+      "senseAnchor": "瑜珈",
+      "roleInScript": "瑜珈",
+      "humorDevice": "story",
+      "zhGloss": "瑜珈",
+      "speakLineEn": "Cue the 瑜珈: yoga walks on and the gag sticks.",
+      "speakLineZh": "請「瑜珈」出場：yoga 一上場梗就黏住——瑜珈。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "cement",
+      "inVocab": false,
+      "senseAnchor": "水泥",
+      "roleInScript": "水泥",
+      "humorDevice": "story",
+      "zhGloss": "水泥",
+      "speakLineEn": "Cue the 水泥: cement walks on and the gag sticks.",
+      "speakLineZh": "請「水泥」出場：cement 一上場梗就黏住——水泥。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "bend",
+      "inVocab": true,
+      "senseAnchor": "彎曲",
+      "roleInScript": "彎曲",
+      "humorDevice": "story",
+      "zhGloss": "彎曲",
+      "speakLineEn": "Cue the 彎曲: bend walks on and the gag sticks.",
+      "speakLineZh": "請「彎曲」出場：bend 一上場梗就黏住——彎曲。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "stubborn",
+      "inVocab": true,
+      "senseAnchor": "固執",
+      "roleInScript": "固執",
+      "humorDevice": "story",
+      "zhGloss": "固執",
+      "speakLineEn": "Cue the 固執: stubborn walks on and the gag sticks.",
+      "speakLineZh": "請「固執」出場：stubborn 一上場梗就黏住——固執。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "softness",
+      "inVocab": false,
+      "senseAnchor": "柔軟",
+      "roleInScript": "柔軟",
+      "humorDevice": "story",
+      "zhGloss": "柔軟",
+      "speakLineEn": "Cue the 柔軟: softness walks on and the gag sticks.",
+      "speakLineZh": "請「柔軟」出場：softness 一上場梗就黏住——柔軟。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "stretch",
+      "inVocab": true,
+      "senseAnchor": "伸展",
+      "roleInScript": "伸展",
+      "humorDevice": "story",
+      "zhGloss": "伸展",
+      "speakLineEn": "Cue the 伸展: stretch walks on and the gag sticks.",
+      "speakLineZh": "請「伸展」出場：stretch 一上場梗就黏住——伸展。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "brick",
+      "inVocab": true,
+      "senseAnchor": "磚",
+      "roleInScript": "磚",
+      "humorDevice": "story",
+      "zhGloss": "磚",
+      "speakLineEn": "Cue the 磚: brick walks on and the gag sticks.",
+      "speakLineZh": "請「磚」出場：brick 一上場梗就黏住——磚。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "rubber",
+      "inVocab": true,
+      "senseAnchor": "橡膠",
+      "roleInScript": "橡膠",
+      "humorDevice": "story",
+      "zhGloss": "橡膠",
+      "speakLineEn": "Cue the 橡膠: rubber walks on and the gag sticks.",
+      "speakLineZh": "請「橡膠」出場：rubber 一上場梗就黏住——橡膠。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "hinge",
+      "inVocab": true,
+      "senseAnchor": "a joint that holds two parts together so that one can swing relative to the other; a circumstance upon which subsequent events depend",
+      "roleInScript": "鉸鏈",
+      "humorDevice": "story",
+      "zhGloss": "鉸鏈",
+      "speakLineEn": "Cue the 鉸鏈: hinge walks on and the gag sticks.",
+      "speakLineZh": "請「鉸鏈」出場：hinge 一上場梗就黏住——鉸鏈。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "lockdown",
+      "inVocab": true,
+      "senseAnchor": "封鎖",
+      "roleInScript": "封鎖",
+      "humorDevice": "story",
+      "zhGloss": "封鎖",
+      "speakLineEn": "Cue the 封鎖: lockdown walks on and the gag sticks.",
+      "speakLineZh": "請「封鎖」出場：lockdown 一上場梗就黏住——封鎖。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "giveway",
+      "inVocab": true,
+      "senseAnchor": "讓步",
+      "roleInScript": "讓步",
+      "humorDevice": "story",
+      "zhGloss": "讓步",
+      "speakLineEn": "Cue the 讓步: giveway walks on and the gag sticks.",
+      "speakLineZh": "請「讓步」出場：giveway 一上場梗就黏住——讓步。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "steel",
+      "inVocab": true,
+      "senseAnchor": "鋼",
+      "roleInScript": "鋼",
+      "humorDevice": "story",
+      "zhGloss": "鋼",
+      "speakLineEn": "Cue the 鋼: steel walks on and the gag sticks.",
+      "speakLineZh": "請「鋼」出場：steel 一上場梗就黏住——鋼。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "clay",
+      "inVocab": true,
+      "senseAnchor": "黏土",
+      "roleInScript": "黏土",
+      "humorDevice": "story",
+      "zhGloss": "黏土",
+      "speakLineEn": "Cue the 黏土: clay walks on and the gag sticks.",
+      "speakLineZh": "請「黏土」出場：clay 一上場梗就黏住——黏土。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "mat",
+      "inVocab": false,
+      "senseAnchor": "墊子",
+      "roleInScript": "墊子",
+      "humorDevice": "story",
+      "zhGloss": "墊子",
+      "speakLineEn": "Cue the 墊子: mat walks on and the gag sticks.",
+      "speakLineZh": "請「墊子」出場：mat 一上場梗就黏住——墊子。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "bolsterpad",
+      "inVocab": true,
+      "senseAnchor": "靠墊",
+      "roleInScript": "靠墊",
+      "humorDevice": "story",
+      "zhGloss": "靠墊",
+      "speakLineEn": "Cue the 靠墊: bolsterpad walks on and the gag sticks.",
+      "speakLineZh": "請「靠墊」出場：bolsterpad 一上場梗就黏住——靠墊。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "donkey",
+      "inVocab": true,
+      "senseAnchor": "驢",
+      "roleInScript": "驢",
+      "humorDevice": "story",
+      "zhGloss": "驢",
+      "speakLineEn": "Cue the 驢: donkey walks on and the gag sticks.",
+      "speakLineZh": "請「驢」出場：donkey 一上場梗就黏住——驢。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "whipcord",
+      "inVocab": true,
+      "senseAnchor": "鞭繩",
+      "roleInScript": "鞭繩",
+      "humorDevice": "story",
+      "zhGloss": "鞭繩",
+      "speakLineEn": "Cue the 鞭繩: whipcord walks on and the gag sticks.",
+      "speakLineZh": "請「鞭繩」出場：whipcord 一上場梗就黏住——鞭繩。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "flex",
+      "inVocab": true,
+      "senseAnchor": "屈曲",
+      "roleInScript": "屈曲",
+      "humorDevice": "story",
+      "zhGloss": "屈曲",
+      "speakLineEn": "Cue the 屈曲: flex walks on and the gag sticks.",
+      "speakLineZh": "請「屈曲」出場：flex 一上場梗就黏住——屈曲。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "rigidbar",
+      "inVocab": true,
+      "senseAnchor": "硬棒",
+      "roleInScript": "硬棒",
+      "humorDevice": "story",
+      "zhGloss": "硬棒",
+      "speakLineEn": "Cue the 硬棒: rigidbar walks on and the gag sticks.",
+      "speakLineZh": "請「硬棒」出場：rigidbar 一上場梗就黏住——硬棒。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    }
+  ],
+  "reviewHooks": [
+    "僵硬：inexorable/mulish/pigheaded",
+    "柔韌：amenable/pliant/docile"
+  ],
+  "pitfalls": [
+    "inexorable＝不可動搖",
+    "pliant＝柔順"
+  ],
+  "lessonRefs": [
+    "lesson-sem-rigid-flexible-02"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch02"
+  }
+}

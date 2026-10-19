@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "censorship",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "審查制度",
       "roleInScript": "審查剪",
       "humorDevice": "lookalike",
@@ -20,7 +20,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "censorious",
@@ -39,7 +39,7 @@
     },
     {
       "headword": "uncensored",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "未經審查的",
       "roleInScript": "未剪帶",
       "humorDevice": "lookalike",
@@ -50,11 +50,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "redact",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "遮蓋刪改",
       "roleInScript": "遮蓋帶",
       "humorDevice": "story",
@@ -65,7 +65,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "blame",
@@ -80,11 +80,12 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "scissors",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "剪刀",
       "roleInScript": "剪刀",
       "humorDevice": "story",
@@ -95,11 +96,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "blacklist",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "黑名單",
       "roleInScript": "黑名單",
       "humorDevice": "story",
@@ -110,11 +111,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "approve",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "批准",
       "roleInScript": "批准章",
       "humorDevice": "story",
@@ -125,11 +126,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "edit",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "剪輯",
       "roleInScript": "剪輯",
       "humorDevice": "story",
@@ -140,7 +141,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     }
   ],
   "reviewHooks": [

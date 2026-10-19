@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "imply",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "暗示；意味著",
       "roleInScript": "說者丟線索",
       "humorDevice": "lookalike",
@@ -20,8 +20,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "averse",

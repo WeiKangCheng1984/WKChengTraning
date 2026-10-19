@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "multifaceted",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "多面向的",
       "roleInScript": "多面鏡",
       "humorDevice": "morphology",
@@ -20,7 +20,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "multiplicity",
@@ -39,7 +39,7 @@
     },
     {
       "headword": "multiply",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "倍增；繁殖",
       "roleInScript": "倍增機",
       "humorDevice": "morphology",
@@ -50,11 +50,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "multiplex",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "多元的；多工的",
       "roleInScript": "多工棚",
       "humorDevice": "morphology",
@@ -65,11 +65,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "multicultural",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "多元文化的",
       "roleInScript": "多文化旗",
       "humorDevice": "morphology",
@@ -80,11 +80,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "multilingual",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "多語的",
       "roleInScript": "多語麥",
       "humorDevice": "morphology",
@@ -95,11 +95,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "multipartite",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "多方的；多部分的",
       "roleInScript": "多方桌",
       "humorDevice": "story",
@@ -110,11 +110,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "many-sided",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "多邊的",
       "roleInScript": "多邊牌",
       "humorDevice": "story",
@@ -125,11 +125,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "variety",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "多樣性",
       "roleInScript": "多樣攤",
       "humorDevice": "story",
@@ -140,11 +140,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "bundle",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "捆；束",
       "roleInScript": "捆束",
       "humorDevice": "story",
@@ -155,7 +155,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     }
   ],
   "reviewHooks": [

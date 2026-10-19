@@ -20,8 +20,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "pending-add"
     },
     {
       "headword": "territory",
@@ -36,12 +35,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "pending-add"
     },
     {
       "headword": "terrestrial",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "of or relating to or inhabiting the land as opposed to the sea or air; of or relating to or characteristic of the planet Earth or its inhabitants; - L.C.Eiseley",
       "roleInScript": "陸生",
       "humorDevice": "morphology",
@@ -52,8 +50,7 @@
         "synonyms": "tellurian, telluric, terrene, planetary, mundane, sublunar",
         "antonyms": "amphibious, aquatic"
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "terrace",
@@ -68,8 +65,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "pending-add"
     },
     {
       "headword": "terror",
@@ -84,8 +80,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "pending-add"
     },
     {
       "headword": "terrible",
@@ -100,8 +95,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "pending-add"
     },
     {
       "headword": "terrify",
@@ -116,8 +110,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "pending-add"
     },
     {
       "headword": "deter",
@@ -136,7 +129,7 @@
     },
     {
       "headword": "terrorize",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "coerce by violence or with threats; fill with terror; frighten greatly",
       "roleInScript": "用怕統治",
       "humorDevice": "story",
@@ -147,8 +140,7 @@
         "synonyms": "terrorise, terrify",
         "antonyms": ""
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "extraterrestrial",
@@ -163,12 +155,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "pending-add"
     },
     {
       "headword": "territorial",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "nonprofessional soldier member of a territorial military unit; a territorial military unit",
       "roleInScript": "護地盤",
       "humorDevice": "story",
@@ -179,8 +170,7 @@
         "synonyms": "",
         "antonyms": "extraterritorial, nonterritorial"
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "in-vocab"
     }
   ],
   "reviewHooks": [

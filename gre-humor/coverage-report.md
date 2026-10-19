@@ -1,19 +1,19 @@
 # GRE Humor 覆蓋率報告
 
-> 產生時間：2026-10-19T06:06:46.066Z
+> 產生時間：2026-10-19T06:16:48.304Z
 
 ## 總覽
 
 | 指標 | 數值 |
 |------|------|
-| 詞庫 headword | 4672 |
-| 幽默庫獨特詞 | 2713 |
-| 已在詞庫內的覆蓋 | 1627 |
-| 幽默庫有、詞庫無（pending-add） | 1086 |
-| 家族數 | 232 |
+| 詞庫 headword | 4990 |
+| 幽默庫獨特詞 | 2997 |
+| 已在詞庫內的覆蓋 | 1999 |
+| 幽默庫有、詞庫無（pending-add） | 998 |
+| 家族數 | 247 |
 | 核心元素 | 331（A=87） |
-| 覆蓋率（對詞庫） | 34.82% |
-| 距離 4,000 獨特詞 | 1287 |
+| 覆蓋率（對詞庫） | 40.06% |
+| 距離 4,000 獨特詞 | 1003 |
 
 ## 各家族
 
@@ -21,15 +21,20 @@
 |----|------|------|----------|---------|
 | look-a-01 | reviewed | 8 | 8 | 0 |
 | look-allude-01 | reviewed | 9 | 5 | 4 |
-| look-appraise-01 | reviewed | 9 | 0 | 9 |
-| look-averse-01 | reviewed | 12 | 1 | 11 |
-| look-censor-01 | reviewed | 9 | 1 | 8 |
+| look-appraise-01 | reviewed | 9 | 5 | 4 |
+| look-averse-01 | reviewed | 12 | 11 | 1 |
+| look-censor-01 | reviewed | 9 | 8 | 1 |
 | look-complacent-01 | reviewed | 9 | 5 | 4 |
 | look-discrete-01 | reviewed | 11 | 6 | 5 |
 | look-emigrate-01 | reviewed | 12 | 2 | 10 |
+| look-historic-01 | reviewed | 15 | 15 | 0 |
+| look-incredible-01 | reviewed | 15 | 12 | 3 |
 | look-ingenious-01 | reviewed | 9 | 5 | 4 |
 | look-pair-01 | reviewed | 16 | 16 | 0 |
-| look-venal-01 | reviewed | 12 | 1 | 11 |
+| look-perspective-01 | reviewed | 15 | 13 | 2 |
+| look-respect-01 | reviewed | 16 | 16 | 0 |
+| look-sensual-01 | reviewed | 16 | 16 | 0 |
+| look-venal-01 | reviewed | 12 | 12 | 0 |
 | prefix-ab-01 | reviewed | 12 | 7 | 5 |
 | prefix-ambi-01 | reviewed | 12 | 5 | 7 |
 | prefix-ante-01 | reviewed | 11 | 7 | 4 |
@@ -42,30 +47,31 @@
 | prefix-dis-01 | reviewed | 9 | 8 | 1 |
 | prefix-epi-01 | reviewed | 12 | 7 | 5 |
 | prefix-ex-01 | reviewed | 11 | 9 | 2 |
-| prefix-fore-01 | reviewed | 11 | 0 | 11 |
+| prefix-fore-01 | reviewed | 11 | 10 | 1 |
 | prefix-hyper-01 | reviewed | 12 | 1 | 11 |
 | prefix-hypo-01 | reviewed | 10 | 1 | 9 |
 | prefix-in-01 | reviewed | 12 | 6 | 6 |
 | prefix-inter-01 | reviewed | 8 | 0 | 8 |
 | prefix-meta-01 | reviewed | 11 | 0 | 11 |
 | prefix-mis-01 | reviewed | 12 | 12 | 0 |
-| prefix-multi-01 | reviewed | 10 | 1 | 9 |
+| prefix-multi-01 | reviewed | 10 | 10 | 0 |
 | prefix-neo-01 | reviewed | 11 | 8 | 3 |
-| prefix-non-01 | reviewed | 10 | 4 | 6 |
+| prefix-non-01 | reviewed | 10 | 8 | 2 |
 | prefix-ob-01 | reviewed | 8 | 7 | 1 |
-| prefix-omni-01 | reviewed | 9 | 1 | 8 |
-| prefix-out-01 | reviewed | 12 | 2 | 10 |
+| prefix-omni-01 | reviewed | 9 | 8 | 1 |
+| prefix-out-01 | reviewed | 12 | 12 | 0 |
 | prefix-pan-01 | reviewed | 12 | 12 | 0 |
 | prefix-para-01 | reviewed | 11 | 11 | 0 |
-| prefix-peri-01 | reviewed | 10 | 2 | 8 |
+| prefix-peri-01 | reviewed | 10 | 9 | 1 |
 | prefix-poly-01 | reviewed | 11 | 1 | 10 |
 | prefix-pre-01 | reviewed | 8 | 6 | 2 |
 | prefix-pro-01 | reviewed | 8 | 3 | 5 |
 | prefix-sub-01 | reviewed | 9 | 1 | 8 |
 | prefix-super-01 | reviewed | 12 | 8 | 4 |
 | prefix-syn-01 | reviewed | 12 | 1 | 11 |
-| prefix-ultra-01 | reviewed | 8 | 0 | 8 |
-| prefix-with-01 | reviewed | 9 | 1 | 8 |
+| prefix-ultra-01 | reviewed | 8 | 7 | 1 |
+| prefix-with-01 | reviewed | 9 | 7 | 2 |
+| rhyme-acious-01 | reviewed | 16 | 16 | 0 |
 | rhyme-ain-01 | reviewed | 14 | 14 | 0 |
 | rhyme-ant-01 | reviewed | 5 | 5 | 0 |
 | rhyme-archy-01 | reviewed | 12 | 11 | 1 |
@@ -73,15 +79,18 @@
 | rhyme-claim-01 | reviewed | 11 | 6 | 5 |
 | rhyme-eak-01 | reviewed | 6 | 5 | 1 |
 | rhyme-edge-01 | reviewed | 5 | 5 | 0 |
-| rhyme-escent-01 | reviewed | 12 | 6 | 6 |
-| rhyme-logy-01 | reviewed | 11 | 0 | 11 |
-| rhyme-ory-01 | reviewed | 9 | 1 | 8 |
+| rhyme-escent-01 | reviewed | 12 | 12 | 0 |
+| rhyme-ire-01 | reviewed | 15 | 3 | 12 |
+| rhyme-logy-01 | reviewed | 11 | 10 | 1 |
+| rhyme-oid-01 | reviewed | 16 | 10 | 6 |
+| rhyme-ory-01 | reviewed | 9 | 9 | 0 |
 | rhyme-ound-01 | reviewed | 12 | 8 | 4 |
 | rhyme-our-01 | reviewed | 5 | 3 | 2 |
 | rhyme-sist-01 | reviewed | 10 | 0 | 10 |
 | rhyme-spir-01 | reviewed | 12 | 3 | 9 |
 | rhyme-ster-01 | reviewed | 12 | 0 | 12 |
 | rhyme-ude-01 | reviewed | 11 | 5 | 6 |
+| rhyme-ule-01 | reviewed | 16 | 14 | 2 |
 | rhyme-vise-01 | reviewed | 9 | 1 | 8 |
 | root-cap-01 | reviewed | 15 | 15 | 0 |
 | root-ced-01 | reviewed | 11 | 7 | 4 |
@@ -233,21 +242,27 @@
 | root-vol-01 | reviewed | 12 | 3 | 9 |
 | root-vor-01 | reviewed | 11 | 3 | 8 |
 | sem-begin-01 | reviewed | 12 | 11 | 1 |
+| sem-begin-end-02 | reviewed | 23 | 19 | 4 |
+| sem-brave-coward-02 | reviewed | 25 | 25 | 0 |
 | sem-brief-01 | reviewed | 12 | 12 | 0 |
 | sem-certain-doubt-01 | reviewed | 25 | 22 | 3 |
 | sem-clear-01 | reviewed | 15 | 15 | 0 |
+| sem-clear-obscure-02 | reviewed | 24 | 22 | 2 |
 | sem-courage-01 | reviewed | 12 | 12 | 0 |
 | sem-flattery-01 | reviewed | 6 | 6 | 0 |
 | sem-honest-01 | reviewed | 12 | 12 | 0 |
+| sem-honest-deceit-02 | reviewed | 23 | 19 | 4 |
 | sem-humble-vain-01 | reviewed | 25 | 25 | 0 |
-| sem-obj-bias-01 | reviewed | 20 | 14 | 6 |
-| sem-order-chaos-01 | reviewed | 25 | 21 | 4 |
+| sem-obj-bias-01 | reviewed | 20 | 20 | 0 |
+| sem-order-chaos-01 | reviewed | 25 | 25 | 0 |
 | sem-overt-01 | reviewed | 10 | 10 | 0 |
 | sem-praise-01 | reviewed | 12 | 12 | 0 |
+| sem-praise-criticize-01 | reviewed | 24 | 23 | 1 |
 | sem-rigid-01 | reviewed | 12 | 9 | 3 |
+| sem-rigid-flexible-02 | reviewed | 25 | 21 | 4 |
 | sem-scarce-01 | reviewed | 12 | 12 | 0 |
 | sem-scarce-abundant-02 | reviewed | 25 | 25 | 0 |
-| sem-support-undermine-01 | reviewed | 25 | 24 | 1 |
+| sem-support-undermine-01 | reviewed | 25 | 25 | 0 |
 | sem-talk-01 | reviewed | 6 | 6 | 0 |
 | sem-temp-perm-01 | reviewed | 25 | 23 | 2 |
 | sem-temper-01 | reviewed | 6 | 6 | 0 |
@@ -258,34 +273,12 @@
 - `escape` ← look-allude-01
 - `dodge` ← look-allude-01
 - `maze` ← look-allude-01
-- `appraisal` ← look-appraise-01
-- `appraiser` ← look-appraise-01
-- `apprised` ← look-appraise-01
 - `valuation` ← look-appraise-01
 - `notify` ← look-appraise-01
 - `assessment` ← look-appraise-01
 - `briefing` ← look-appraise-01
-- `counter` ← look-appraise-01
-- `queue` ← look-appraise-01
-- `adversity` ← look-averse-01
-- `adversary` ← look-averse-01
-- `adversely` ← look-averse-01
-- `dislike` ← look-averse-01
-- `harmful` ← look-averse-01
-- `unfavorable` ← look-averse-01
-- `opponent` ← look-averse-01
 - `allergy` ← look-averse-01
-- `setback` ← look-averse-01
-- `clinic` ← look-averse-01
-- `ward` ← look-averse-01
-- `censorship` ← look-censor-01
-- `uncensored` ← look-censor-01
-- `redact` ← look-censor-01
 - `blame` ← look-censor-01
-- `scissors` ← look-censor-01
-- `blacklist` ← look-censor-01
-- `approve` ← look-censor-01
-- `edit` ← look-censor-01
 - `fawning` ← look-complacent-01
 - `smugness` ← look-complacent-01
 - `flatterer` ← look-complacent-01
@@ -305,21 +298,15 @@
 - `in-migration` ← look-emigrate-01
 - `out-migration` ← look-emigrate-01
 - `remigration` ← look-emigrate-01
+- `amazement` ← look-incredible-01
+- `stage` ← look-incredible-01
+- `wow` ← look-incredible-01
 - `ingenuity` ← look-ingenious-01
 - `resourceful` ← look-ingenious-01
 - `simpleminded` ← look-ingenious-01
 - `sophisticated` ← look-ingenious-01
-- `venality` ← look-venal-01
-- `bribery` ← look-venal-01
-- `forgivable` ← look-venal-01
-- `excusable` ← look-venal-01
-- `kickback` ← look-venal-01
-- `graft` ← look-venal-01
-- `pardonable` ← look-venal-01
-- `payola` ← look-venal-01
-- `corruptibility` ← look-venal-01
-- `courtroom` ← look-venal-01
-- `ticket` ← look-venal-01
+- `map` ← look-perspective-01
+- `anglemark` ← look-perspective-01
 - `abnormal` ← prefix-ab-01
 - `abort` ← prefix-ab-01
 - `abstract` ← prefix-ab-01
@@ -376,17 +363,7 @@
 - `afterword` ← prefix-epi-01
 - `exalt` ← prefix-ex-01
 - `externalize` ← prefix-ex-01
-- `forecast` ← prefix-fore-01
-- `foresee` ← prefix-fore-01
-- `foretell` ← prefix-fore-01
-- `foreshadow` ← prefix-fore-01
-- `forewarn` ← prefix-fore-01
-- `foreboding` ← prefix-fore-01
-- `forefather` ← prefix-fore-01
-- `preview` ← prefix-fore-01
-- `early-warning` ← prefix-fore-01
 - `ahead` ← prefix-fore-01
-- `omen` ← prefix-fore-01
 - `hyperactive` ← prefix-hyper-01
 - `hypersensitive` ← prefix-hyper-01
 - `hyperlink` ← prefix-hyper-01
@@ -432,51 +409,14 @@
 - `self-ref` ← prefix-meta-01
 - `layer` ← prefix-meta-01
 - `label` ← prefix-meta-01
-- `multifaceted` ← prefix-multi-01
-- `multiply` ← prefix-multi-01
-- `multiplex` ← prefix-multi-01
-- `multicultural` ← prefix-multi-01
-- `multilingual` ← prefix-multi-01
-- `multipartite` ← prefix-multi-01
-- `many-sided` ← prefix-multi-01
-- `variety` ← prefix-multi-01
-- `bundle` ← prefix-multi-01
 - `newbie` ← prefix-neo-01
 - `freshman` ← prefix-neo-01
 - `reboot` ← prefix-neo-01
-- `nonplussed` ← prefix-non-01
-- `nonpartisan` ← prefix-non-01
-- `nonsectarian` ← prefix-non-01
 - `not-so` ← prefix-non-01
 - `absence` ← prefix-non-01
-- `neutral` ← prefix-non-01
 - `obligation` ← prefix-ob-01
-- `omnibus` ← prefix-omni-01
-- `omnidirectional` ← prefix-omni-01
-- `omnifarious` ← prefix-omni-01
-- `omnirange` ← prefix-omni-01
 - `all-seeing` ← prefix-omni-01
-- `universal` ← prefix-omni-01
-- `total` ← prefix-omni-01
-- `panoptic` ← prefix-omni-01
-- `outrageous` ← prefix-out-01
-- `outmoded` ← prefix-out-01
-- `outspoken` ← prefix-out-01
-- `outwit` ← prefix-out-01
-- `outskirts` ← prefix-out-01
-- `outburst` ← prefix-out-01
-- `outcast` ← prefix-out-01
-- `outer` ← prefix-out-01
-- `outdo` ← prefix-out-01
-- `outlier-ward` ← prefix-out-01
-- `periphery` ← prefix-peri-01
-- `period` ← prefix-peri-01
-- `periodic` ← prefix-peri-01
-- `perihelion` ← prefix-peri-01
-- `perinatal` ← prefix-peri-01
-- `periphrasis` ← prefix-peri-01
 - `rim` ← prefix-peri-01
-- `loop` ← prefix-peri-01
 - `polyglot` ← prefix-poly-01
 - `polygon` ← prefix-poly-01
 - `polymorphic` ← prefix-poly-01
@@ -517,22 +457,9 @@
 - `synapse` ← prefix-syn-01
 - `synonymy` ← prefix-syn-01
 - `synchronousness` ← prefix-syn-01
-- `ultraviolet` ← prefix-ultra-01
-- `ultramodern` ← prefix-ultra-01
-- `ultralight` ← prefix-ultra-01
-- `ultrafine` ← prefix-ultra-01
-- `ultraconservative` ← prefix-ultra-01
-- `beyond` ← prefix-ultra-01
-- `hyper` ← prefix-ultra-01
 - `max` ← prefix-ultra-01
-- `withhold` ← prefix-with-01
-- `withdrawn` ← prefix-with-01
-- `wither` ← prefix-with-01
-- `without` ← prefix-with-01
-- `hold-back` ← prefix-with-01
 - `dry-up` ← prefix-with-01
 - `against` ← prefix-with-01
-- `gate` ← prefix-with-01
 - `crown` ← rhyme-archy-01
 - `shout` ← rhyme-claim-01
 - `bulletin` ← rhyme-claim-01
@@ -540,31 +467,25 @@
 - `announcement` ← rhyme-claim-01
 - `outcry` ← rhyme-claim-01
 - `sneak` ← rhyme-eak-01
-- `effervescent` ← rhyme-escent-01
-- `luminescent` ← rhyme-escent-01
-- `glow` ← rhyme-escent-01
-- `fading` ← rhyme-escent-01
-- `becoming` ← rhyme-escent-01
-- `twilight` ← rhyme-escent-01
+- `umpire` ← rhyme-ire-01
+- `spire` ← rhyme-ire-01
+- `mire` ← rhyme-ire-01
+- `enquire` ← rhyme-ire-01
+- `entire` ← rhyme-ire-01
+- `whistle` ← rhyme-ire-01
+- `boots` ← rhyme-ire-01
+- `tower` ← rhyme-ire-01
+- `mudsplash` ← rhyme-ire-01
+- `tux` ← rhyme-ire-01
+- `stopwatch` ← rhyme-ire-01
+- `puddle` ← rhyme-ire-01
 - `apology` ← rhyme-logy-01
-- `mythology` ← rhyme-logy-01
-- `theology` ← rhyme-logy-01
-- `psychology` ← rhyme-logy-01
-- `ecology` ← rhyme-logy-01
-- `geology` ← rhyme-logy-01
-- `trilogy` ← rhyme-logy-01
-- `catalog` ← rhyme-logy-01
-- `school` ← rhyme-logy-01
-- `curriculum` ← rhyme-logy-01
-- `museum` ← rhyme-logy-01
-- `laboratory` ← rhyme-ory-01
-- `observatory` ← rhyme-ory-01
-- `dormitory` ← rhyme-ory-01
-- `transitory` ← rhyme-ory-01
-- `predatory` ← rhyme-ory-01
-- `place` ← rhyme-ory-01
-- `archive` ← rhyme-ory-01
-- `street` ← rhyme-ory-01
+- `android` ← rhyme-oid-01
+- `asteroid` ← rhyme-oid-01
+- `humanoid` ← rhyme-oid-01
+- `tabloid` ← rhyme-oid-01
+- `cabinet` ← rhyme-oid-01
+- `egg` ← rhyme-oid-01
 - `compound` ← rhyme-ound-01
 - `rebound` ← rhyme-ound-01
 - `surround` ← rhyme-ound-01
@@ -608,6 +529,8 @@
 - `gratitude` ← rhyme-ude-01
 - `altitude` ← rhyme-ude-01
 - `attitude` ← rhyme-ude-01
+- `molecule` ← rhyme-ule-01
+- `module` ← rhyme-ule-01
 - `advise` ← rhyme-vise-01
 - `advice` ← rhyme-vise-01
 - `advisor` ← rhyme-vise-01
@@ -1321,29 +1244,33 @@
 - `digest` ← root-vor-01
 - `binge` ← root-vor-01
 - `terminate` ← sem-begin-01
+- `curtain` ← sem-begin-end-02
+- `starter` ← sem-begin-end-02
+- `gun` ← sem-begin-end-02
+- `bow` ← sem-begin-end-02
 - `categorical` ← sem-certain-doubt-01
 - `decisive` ← sem-certain-doubt-01
 - `waver` ← sem-certain-doubt-01
-- `impartial` ← sem-obj-bias-01
-- `slanted` ← sem-obj-bias-01
-- `biased` ← sem-obj-bias-01
-- `partial` ← sem-obj-bias-01
-- `evenhanded` ← sem-obj-bias-01
-- `detached` ← sem-obj-bias-01
-- `methodical` ← sem-order-chaos-01
-- `systematic` ← sem-order-chaos-01
-- `disciplined` ← sem-order-chaos-01
-- `tidy` ← sem-order-chaos-01
+- `fog` ← sem-clear-obscure-02
+- `mud` ← sem-clear-obscure-02
+- `sly` ← sem-honest-deceit-02
+- `fib` ← sem-honest-deceit-02
+- `lie` ← sem-honest-deceit-02
+- `vow` ← sem-honest-deceit-02
+- `whip` ← sem-praise-criticize-01
 - `elastic` ← sem-rigid-01
 - `flexible` ← sem-rigid-01
 - `adaptable` ← sem-rigid-01
-- `undermine` ← sem-support-undermine-01
+- `yoga` ← sem-rigid-flexible-02
+- `cement` ← sem-rigid-flexible-02
+- `softness` ← sem-rigid-flexible-02
+- `mat` ← sem-rigid-flexible-02
 - `fleeting` ← sem-temp-perm-01
 - `durable` ← sem-temp-perm-01
 
 ## 詞庫孤兒抽樣（尚未掛家族，前 40）
 
-`abandon` · `abash` · `abhorrent` · `abjudicate` · `abolish` · `abominate` · `aboveboard` · `absolute` · `abstemious` · `abstention` · `abstentious` · `abstinent` · `acarpous` · `accent` · `accentuate` · `accessory` · `accolade` · `accomplished` · `accost` · `accountability` · `accrete` · `accrue` · `accure` · `acerbity` · `acquisitive` · `acquit` · `acrid` · `acrobat` · `acuity` · `acumen` · `ad` · `adduce` · `adherent` · `adjourn` · `adroit` · `adulate` · `adulterate` · `adventitious` · `advert` · `aerate`
+`abandon` · `abash` · `abhorrent` · `abjudicate` · `abolish` · `abominate` · `absolute` · `abstemious` · `abstention` · `abstentious` · `abstinent` · `acarpous` · `accent` · `accentuate` · `accessory` · `accomplished` · `accost` · `accountability` · `accrete` · `accrue` · `accure` · `acerbity` · `acquisitive` · `acquit` · `acrid` · `acrobat` · `acuity` · `acumen` · `ad` · `adduce` · `adherent` · `adjourn` · `adroit` · `adulterate` · `adventitious` · `advert` · `aerate` · `aerial` · `affected` · `affective`
 
 ## 下一步建議（自動）
 

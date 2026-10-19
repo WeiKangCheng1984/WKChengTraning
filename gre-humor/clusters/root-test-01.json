@@ -20,12 +20,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "pending-add"
     },
     {
       "headword": "testimony",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "a solemn statement made under oath; an assertion offering firsthand authentication of a fact",
       "roleInScript": "證詞本",
       "humorDevice": "morphology",
@@ -36,8 +35,7 @@
         "synonyms": "testimonial",
         "antonyms": ""
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "testimonial",
@@ -52,8 +50,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "pending-add"
     },
     {
       "headword": "attest",
@@ -83,8 +80,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "pending-add"
     },
     {
       "headword": "protest",
@@ -99,8 +95,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "pending-add"
     },
     {
       "headword": "detest",
@@ -130,8 +125,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "pending-add"
     },
     {
       "headword": "contestant",
@@ -146,8 +140,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "pending-add"
     },
     {
       "headword": "attestation",
@@ -162,8 +155,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "pending-add"
     },
     {
       "headword": "protestation",
@@ -178,8 +170,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "pending-add"
     },
     {
       "headword": "witness",
@@ -194,8 +185,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "pending-add"
     }
   ],
   "reviewHooks": [

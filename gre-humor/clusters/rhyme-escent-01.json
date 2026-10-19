@@ -54,7 +54,7 @@
     },
     {
       "headword": "effervescent",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "冒泡的；活潑的",
       "roleInScript": "冒泡杯",
       "humorDevice": "morphology",
@@ -65,7 +65,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "convalescent",
@@ -84,7 +84,7 @@
     },
     {
       "headword": "luminescent",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "發光的",
       "roleInScript": "發光壁",
       "humorDevice": "morphology",
@@ -95,7 +95,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "incandescent",
@@ -129,7 +129,7 @@
     },
     {
       "headword": "glow",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "發光",
       "roleInScript": "發光點",
       "humorDevice": "story",
@@ -140,11 +140,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "fading",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "褪色中",
       "roleInScript": "褪色",
       "humorDevice": "story",
@@ -155,11 +155,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "becoming",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "逐漸變成",
       "roleInScript": "漸變箭",
       "humorDevice": "story",
@@ -170,11 +170,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "twilight",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "暮光",
       "roleInScript": "暮光帶",
       "humorDevice": "story",
@@ -185,7 +185,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     }
   ],
   "reviewHooks": [

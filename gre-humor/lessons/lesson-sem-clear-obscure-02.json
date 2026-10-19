@@ -1,0 +1,97 @@
+{
+  "id": "lesson-sem-clear-obscure-02",
+  "slug": "sem-clear-obscure-02",
+  "season": 3,
+  "seasonTitleZh": "語氣對打",
+  "seasonTitleEn": "Tone Duels",
+  "type": "duel",
+  "minutes": "12-15",
+  "clusterId": "sem-clear-obscure-02",
+  "titleZh": "清晰 ↔ 晦澀｜玻璃窗 vs 霧玻璃",
+  "titleEn": "Clear vs Obscure Window",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "擦亮玻璃（limpid/crystalline）對霧玻璃（murky/cryptic/esoteric）——看得清才考得過。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "清晰隊：limpid／crystalline 透光。晦澀隊：nebulous／murky／cryptic／esoteric 噴霧——清潔工：limpid estimand；cryptic methods 不及格。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "清晰：limpid/crystalline",
+        "晦澀：nebulous/murky/cryptic/esoteric"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Clear like water:",
+      "promptZh": "清澈：",
+      "choices": [
+        "limpid",
+        "murky",
+        "repository",
+        "neon"
+      ],
+      "answer": "limpid"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Known to few; abstruse:",
+      "promptZh": "艱深小眾：",
+      "choices": [
+        "esoteric",
+        "crystalline",
+        "forecast",
+        "sole"
+      ],
+      "answer": "esoteric"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Mysteriously obscure:",
+      "promptZh": "隱晦難解：",
+      "choices": [
+        "cryptic",
+        "limpid",
+        "omnibus",
+        "scanty"
+      ],
+      "answer": "cryptic"
+    }
+  ],
+  "pitfalls": [
+    "limpid＝清澈",
+    "esoteric＝艱深僅少數人懂"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch02"
+  }
+}

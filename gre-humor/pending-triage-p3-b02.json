@@ -1,0 +1,2122 @@
+{
+  "stage": "P3-pending-b02",
+  "at": "2026-10-19T06:16:30.254Z",
+  "pendingBefore": 405,
+  "addedToGreJson": [
+    {
+      "en": "adulation",
+      "clusterId": "sem-praise-criticize-01",
+      "zh": "諂媚"
+    },
+    {
+      "en": "adversary",
+      "clusterId": "look-averse-01",
+      "zh": "對手"
+    },
+    {
+      "en": "adversely",
+      "clusterId": "look-averse-01",
+      "zh": "不利地"
+    },
+    {
+      "en": "adversity",
+      "clusterId": "look-averse-01",
+      "zh": "逆境"
+    },
+    {
+      "en": "aesthete",
+      "clusterId": "look-sensual-01",
+      "zh": "唯美主義者"
+    },
+    {
+      "en": "alibi",
+      "clusterId": "sem-honest-deceit-02",
+      "zh": "不在場證明"
+    },
+    {
+      "en": "alkaloid",
+      "clusterId": "rhyme-oid-01",
+      "zh": "生物鹼"
+    },
+    {
+      "en": "animalcule",
+      "clusterId": "rhyme-ule-01",
+      "zh": "微生物"
+    },
+    {
+      "en": "annal",
+      "clusterId": "look-historic-01",
+      "zh": "編年紀錄"
+    },
+    {
+      "en": "annals",
+      "clusterId": "look-historic-01",
+      "zh": "編年史"
+    },
+    {
+      "en": "antiquarian",
+      "clusterId": "look-historic-01",
+      "zh": "古文物的"
+    },
+    {
+      "en": "appraisal",
+      "clusterId": "look-appraise-01",
+      "zh": "評估估價"
+    },
+    {
+      "en": "appraiser",
+      "clusterId": "look-appraise-01",
+      "zh": "估價師"
+    },
+    {
+      "en": "apprised",
+      "clusterId": "look-appraise-01",
+      "zh": "獲悉"
+    },
+    {
+      "en": "approaching",
+      "clusterId": "look-perspective-01",
+      "zh": "接近中"
+    },
+    {
+      "en": "approve",
+      "clusterId": "look-censor-01",
+      "zh": "批准"
+    },
+    {
+      "en": "archive",
+      "clusterId": "rhyme-ory-01",
+      "zh": "檔案庫"
+    },
+    {
+      "en": "armor",
+      "clusterId": "sem-brave-coward-02",
+      "zh": "盔甲"
+    },
+    {
+      "en": "astonishment",
+      "clusterId": "look-incredible-01",
+      "zh": "驚訝"
+    },
+    {
+      "en": "audience",
+      "clusterId": "look-incredible-01",
+      "zh": "觀眾"
+    },
+    {
+      "en": "backbone",
+      "clusterId": "sem-brave-coward-02",
+      "zh": "脊梁"
+    },
+    {
+      "en": "becoming",
+      "clusterId": "rhyme-escent-01",
+      "zh": "逐漸變成"
+    },
+    {
+      "en": "bend",
+      "clusterId": "sem-rigid-flexible-02",
+      "zh": "彎曲"
+    },
+    {
+      "en": "beyond",
+      "clusterId": "prefix-ultra-01",
+      "zh": "超越"
+    },
+    {
+      "en": "biased",
+      "clusterId": "sem-obj-bias-01",
+      "zh": "有偏"
+    },
+    {
+      "en": "bigpocket",
+      "clusterId": "rhyme-acious-01",
+      "zh": "大口袋"
+    },
+    {
+      "en": "binoculars",
+      "clusterId": "look-perspective-01",
+      "zh": "雙筒望遠鏡"
+    },
+    {
+      "en": "birth",
+      "clusterId": "sem-begin-end-02",
+      "zh": "誕生"
+    },
+    {
+      "en": "blackboard",
+      "clusterId": "look-historic-01",
+      "zh": "黑板"
+    },
+    {
+      "en": "blacklist",
+      "clusterId": "look-censor-01",
+      "zh": "黑名單"
+    },
+    {
+      "en": "bolsterpad",
+      "clusterId": "sem-rigid-flexible-02",
+      "zh": "靠墊"
+    },
+    {
+      "en": "bowtie",
+      "clusterId": "look-respect-01",
+      "zh": "領結鞠躬"
+    },
+    {
+      "en": "bribery",
+      "clusterId": "look-venal-01",
+      "zh": "賄賂"
+    },
+    {
+      "en": "brick",
+      "clusterId": "sem-rigid-flexible-02",
+      "zh": "磚"
+    },
+    {
+      "en": "brush",
+      "clusterId": "look-sensual-01",
+      "zh": "畫筆"
+    },
+    {
+      "en": "bundle",
+      "clusterId": "prefix-multi-01",
+      "zh": "捆；束"
+    },
+    {
+      "en": "bygone",
+      "clusterId": "look-historic-01",
+      "zh": "過去的"
+    },
+    {
+      "en": "camera",
+      "clusterId": "sem-honest-deceit-02",
+      "zh": "鏡頭監視"
+    },
+    {
+      "en": "canvas",
+      "clusterId": "look-sensual-01",
+      "zh": "畫布"
+    },
+    {
+      "en": "carnal",
+      "clusterId": "look-sensual-01",
+      "zh": "肉慾的"
+    },
+    {
+      "en": "catalog",
+      "clusterId": "rhyme-logy-01",
+      "zh": "目錄"
+    },
+    {
+      "en": "celluloid",
+      "clusterId": "rhyme-oid-01",
+      "zh": "賽璐珞／電影膠"
+    },
+    {
+      "en": "censorship",
+      "clusterId": "look-censor-01",
+      "zh": "審查制度"
+    },
+    {
+      "en": "chalk",
+      "clusterId": "look-historic-01",
+      "zh": "粉筆"
+    },
+    {
+      "en": "charge",
+      "clusterId": "sem-brave-coward-02",
+      "zh": "衝鋒"
+    },
+    {
+      "en": "chickenhearted",
+      "clusterId": "sem-brave-coward-02",
+      "zh": "膽小如雞"
+    },
+    {
+      "en": "clay",
+      "clusterId": "sem-rigid-flexible-02",
+      "zh": "黏土"
+    },
+    {
+      "en": "clinic",
+      "clusterId": "look-averse-01",
+      "zh": "診所"
+    },
+    {
+      "en": "closing",
+      "clusterId": "sem-begin-end-02",
+      "zh": "關閉"
+    },
+    {
+      "en": "cloudy",
+      "clusterId": "sem-clear-obscure-02",
+      "zh": "混濁不清"
+    },
+    {
+      "en": "commendation",
+      "clusterId": "sem-praise-criticize-01",
+      "zh": "嘉獎"
+    },
+    {
+      "en": "compass2",
+      "clusterId": "look-perspective-01",
+      "zh": "羅盤2"
+    },
+    {
+      "en": "corruptibility",
+      "clusterId": "look-venal-01",
+      "zh": "可腐化"
+    },
+    {
+      "en": "counter",
+      "clusterId": "look-appraise-01",
+      "zh": "櫃檯"
+    },
+    {
+      "en": "courtroom",
+      "clusterId": "look-venal-01",
+      "zh": "法庭"
+    },
+    {
+      "en": "credulity",
+      "clusterId": "look-incredible-01",
+      "zh": "輕信"
+    },
+    {
+      "en": "crystalline",
+      "clusterId": "sem-clear-obscure-02",
+      "zh": "晶瑩明晰"
+    },
+    {
+      "en": "curriculum",
+      "clusterId": "rhyme-logy-01",
+      "zh": "課程"
+    },
+    {
+      "en": "curtaincall",
+      "clusterId": "look-incredible-01",
+      "zh": "謝幕"
+    },
+    {
+      "en": "dancefloor",
+      "clusterId": "rhyme-acious-01",
+      "zh": "舞池"
+    },
+    {
+      "en": "dastardly",
+      "clusterId": "sem-brave-coward-02",
+      "zh": "卑鄙怯懦"
+    },
+    {
+      "en": "daunt",
+      "clusterId": "sem-brave-coward-02",
+      "zh": "嚇倒"
+    },
+    {
+      "en": "dawn",
+      "clusterId": "sem-begin-end-02",
+      "zh": "黎明"
+    },
+    {
+      "en": "deck",
+      "clusterId": "look-perspective-01",
+      "zh": "觀景甲板"
+    },
+    {
+      "en": "decode",
+      "clusterId": "sem-clear-obscure-02",
+      "zh": "解碼"
+    },
+    {
+      "en": "decry",
+      "clusterId": "sem-praise-criticize-01",
+      "zh": "譴責抨擊"
+    },
+    {
+      "en": "defog",
+      "clusterId": "sem-clear-obscure-02",
+      "zh": "除霧"
+    },
+    {
+      "en": "denouement",
+      "clusterId": "sem-begin-end-02",
+      "zh": "結局收場"
+    },
+    {
+      "en": "detached",
+      "clusterId": "sem-obj-bias-01",
+      "zh": "超然"
+    },
+    {
+      "en": "disciplined",
+      "clusterId": "sem-order-chaos-01",
+      "zh": "有紀律"
+    },
+    {
+      "en": "dislike",
+      "clusterId": "look-averse-01",
+      "zh": "不喜歡"
+    },
+    {
+      "en": "disrespectful",
+      "clusterId": "look-respect-01",
+      "zh": "不敬的"
+    },
+    {
+      "en": "donkey",
+      "clusterId": "sem-rigid-flexible-02",
+      "zh": "驢"
+    },
+    {
+      "en": "dormitory",
+      "clusterId": "rhyme-ory-01",
+      "zh": "宿舍"
+    },
+    {
+      "en": "doubtface",
+      "clusterId": "look-incredible-01",
+      "zh": "懷疑臉"
+    },
+    {
+      "en": "doughty",
+      "clusterId": "sem-brave-coward-02",
+      "zh": "勇敢堅毅"
+    },
+    {
+      "en": "dubiety",
+      "clusterId": "look-incredible-01",
+      "zh": "懷疑"
+    },
+    {
+      "en": "dusk",
+      "clusterId": "sem-begin-end-02",
+      "zh": "黃昏"
+    },
+    {
+      "en": "dustybook",
+      "clusterId": "look-historic-01",
+      "zh": "塵書"
+    },
+    {
+      "en": "early-warning",
+      "clusterId": "prefix-fore-01",
+      "zh": "預警"
+    },
+    {
+      "en": "ecology",
+      "clusterId": "rhyme-logy-01",
+      "zh": "生態學"
+    },
+    {
+      "en": "edit",
+      "clusterId": "look-censor-01",
+      "zh": "剪輯"
+    },
+    {
+      "en": "effervescent",
+      "clusterId": "rhyme-escent-01",
+      "zh": "冒泡的；活潑的"
+    },
+    {
+      "en": "embark",
+      "clusterId": "sem-begin-end-02",
+      "zh": "啟程著手"
+    },
+    {
+      "en": "encore",
+      "clusterId": "sem-praise-criticize-01",
+      "zh": "安可"
+    },
+    {
+      "en": "epicurean",
+      "clusterId": "look-sensual-01",
+      "zh": "享樂美食的"
+    },
+    {
+      "en": "epilogue2",
+      "clusterId": "sem-begin-end-02",
+      "zh": "後記2"
+    },
+    {
+      "en": "epochal",
+      "clusterId": "look-historic-01",
+      "zh": "劃時代的"
+    },
+    {
+      "en": "esteem",
+      "clusterId": "look-respect-01",
+      "zh": "尊重"
+    },
+    {
+      "en": "evenhanded",
+      "clusterId": "sem-obj-bias-01",
+      "zh": "公平"
+    },
+    {
+      "en": "excusable",
+      "clusterId": "look-venal-01",
+      "zh": "可諒解"
+    },
+    {
+      "en": "exitlamp",
+      "clusterId": "sem-begin-end-02",
+      "zh": "出口燈"
+    },
+    {
+      "en": "eyebrow",
+      "clusterId": "look-incredible-01",
+      "zh": "挑眉"
+    },
+    {
+      "en": "factoid",
+      "clusterId": "rhyme-oid-01",
+      "zh": "似是而非事實"
+    },
+    {
+      "en": "fading",
+      "clusterId": "rhyme-escent-01",
+      "zh": "褪色中"
+    },
+    {
+      "en": "fainthearted",
+      "clusterId": "sem-brave-coward-02",
+      "zh": "懦弱"
+    },
+    {
+      "en": "fallacious",
+      "clusterId": "rhyme-acious-01",
+      "zh": "謬誤的"
+    },
+    {
+      "en": "flashlight",
+      "clusterId": "sem-clear-obscure-02",
+      "zh": "手電筒"
+    },
+    {
+      "en": "flatter",
+      "clusterId": "sem-praise-criticize-01",
+      "zh": "奉承"
+    },
+    {
+      "en": "flex",
+      "clusterId": "sem-rigid-flexible-02",
+      "zh": "屈曲"
+    },
+    {
+      "en": "foreboding",
+      "clusterId": "prefix-fore-01",
+      "zh": "不祥預感"
+    },
+    {
+      "en": "forecast",
+      "clusterId": "prefix-fore-01",
+      "zh": "預報；預測"
+    },
+    {
+      "en": "forefather",
+      "clusterId": "prefix-fore-01",
+      "zh": "先祖"
+    },
+    {
+      "en": "foresee",
+      "clusterId": "prefix-fore-01",
+      "zh": "預見"
+    },
+    {
+      "en": "foreshadow",
+      "clusterId": "prefix-fore-01",
+      "zh": "預示"
+    },
+    {
+      "en": "foresight",
+      "clusterId": "look-perspective-01",
+      "zh": "先見"
+    },
+    {
+      "en": "foretell",
+      "clusterId": "prefix-fore-01",
+      "zh": "預言"
+    },
+    {
+      "en": "forewarn",
+      "clusterId": "prefix-fore-01",
+      "zh": "預先警告"
+    },
+    {
+      "en": "forgivable",
+      "clusterId": "look-venal-01",
+      "zh": "可原諒"
+    },
+    {
+      "en": "frame",
+      "clusterId": "look-sensual-01",
+      "zh": "畫框"
+    },
+    {
+      "en": "frank",
+      "clusterId": "sem-honest-deceit-02",
+      "zh": "坦率"
+    },
+    {
+      "en": "gallery",
+      "clusterId": "look-sensual-01",
+      "zh": "畫廊"
+    },
+    {
+      "en": "gasp",
+      "clusterId": "look-incredible-01",
+      "zh": "倒抽氣"
+    },
+    {
+      "en": "gate",
+      "clusterId": "prefix-with-01",
+      "zh": "閘門"
+    },
+    {
+      "en": "geology",
+      "clusterId": "rhyme-logy-01",
+      "zh": "地質學"
+    },
+    {
+      "en": "giveway",
+      "clusterId": "sem-rigid-flexible-02",
+      "zh": "讓步"
+    },
+    {
+      "en": "glassbox",
+      "clusterId": "sem-honest-deceit-02",
+      "zh": "玻璃箱"
+    },
+    {
+      "en": "globule",
+      "clusterId": "rhyme-ule-01",
+      "zh": "小球"
+    },
+    {
+      "en": "glow",
+      "clusterId": "rhyme-escent-01",
+      "zh": "發光"
+    },
+    {
+      "en": "graft",
+      "clusterId": "look-venal-01",
+      "zh": "貪污"
+    },
+    {
+      "en": "gutsy",
+      "clusterId": "sem-brave-coward-02",
+      "zh": "有膽的"
+    },
+    {
+      "en": "handshake",
+      "clusterId": "sem-honest-deceit-02",
+      "zh": "握手"
+    },
+    {
+      "en": "handshake2",
+      "clusterId": "look-respect-01",
+      "zh": "握手2"
+    },
+    {
+      "en": "harmful",
+      "clusterId": "look-averse-01",
+      "zh": "有害的"
+    },
+    {
+      "en": "haze",
+      "clusterId": "sem-clear-obscure-02",
+      "zh": "薄霧"
+    },
+    {
+      "en": "headline",
+      "clusterId": "rhyme-oid-01",
+      "zh": "標題黨"
+    },
+    {
+      "en": "historiography",
+      "clusterId": "look-historic-01",
+      "zh": "史學寫作"
+    },
+    {
+      "en": "hold-back",
+      "clusterId": "prefix-with-01",
+      "zh": "扣住"
+    },
+    {
+      "en": "hyper",
+      "clusterId": "prefix-ultra-01",
+      "zh": "過度（口語）"
+    },
+    {
+      "en": "impartial",
+      "clusterId": "sem-obj-bias-01",
+      "zh": "不偏不倚"
+    },
+    {
+      "en": "incredulity",
+      "clusterId": "look-incredible-01",
+      "zh": "不輕信"
+    },
+    {
+      "en": "initiate",
+      "clusterId": "sem-begin-end-02",
+      "zh": "發起"
+    },
+    {
+      "en": "irrespective",
+      "clusterId": "look-respect-01",
+      "zh": "不考慮…的"
+    },
+    {
+      "en": "kickback",
+      "clusterId": "look-venal-01",
+      "zh": "回扣"
+    },
+    {
+      "en": "kickoff",
+      "clusterId": "sem-begin-end-02",
+      "zh": "開球"
+    },
+    {
+      "en": "kitchen",
+      "clusterId": "look-sensual-01",
+      "zh": "廚房"
+    },
+    {
+      "en": "knees",
+      "clusterId": "sem-brave-coward-02",
+      "zh": "膝蓋發軟"
+    },
+    {
+      "en": "labelgun",
+      "clusterId": "rhyme-oid-01",
+      "zh": "標籤槍"
+    },
+    {
+      "en": "laboratory",
+      "clusterId": "rhyme-ory-01",
+      "zh": "實驗室"
+    },
+    {
+      "en": "lantern",
+      "clusterId": "sem-clear-obscure-02",
+      "zh": "燈籠"
+    },
+    {
+      "en": "lenscap",
+      "clusterId": "look-perspective-01",
+      "zh": "鏡頭蓋"
+    },
+    {
+      "en": "letterblock",
+      "clusterId": "rhyme-ule-01",
+      "zh": "字母積木"
+    },
+    {
+      "en": "liarhat",
+      "clusterId": "rhyme-acious-01",
+      "zh": "騙子帽"
+    },
+    {
+      "en": "lionhearted",
+      "clusterId": "sem-brave-coward-02",
+      "zh": "獅心"
+    },
+    {
+      "en": "lockdown",
+      "clusterId": "sem-rigid-flexible-02",
+      "zh": "封鎖"
+    },
+    {
+      "en": "loop",
+      "clusterId": "prefix-peri-01",
+      "zh": "迴圈"
+    },
+    {
+      "en": "luminescent",
+      "clusterId": "rhyme-escent-01",
+      "zh": "發光的"
+    },
+    {
+      "en": "magic",
+      "clusterId": "look-incredible-01",
+      "zh": "魔術"
+    },
+    {
+      "en": "magnifier",
+      "clusterId": "rhyme-ule-01",
+      "zh": "放大鏡"
+    },
+    {
+      "en": "majuscule",
+      "clusterId": "rhyme-ule-01",
+      "zh": "大寫字母"
+    },
+    {
+      "en": "many-sided",
+      "clusterId": "prefix-multi-01",
+      "zh": "多邊的"
+    },
+    {
+      "en": "maskoff",
+      "clusterId": "sem-honest-deceit-02",
+      "zh": "摘面具"
+    },
+    {
+      "en": "medal",
+      "clusterId": "sem-brave-coward-02",
+      "zh": "勳章"
+    },
+    {
+      "en": "menu",
+      "clusterId": "look-sensual-01",
+      "zh": "菜單"
+    },
+    {
+      "en": "meteor",
+      "clusterId": "rhyme-oid-01",
+      "zh": "流星"
+    },
+    {
+      "en": "methodical",
+      "clusterId": "sem-order-chaos-01",
+      "zh": "有條理"
+    },
+    {
+      "en": "mettlesome",
+      "clusterId": "sem-brave-coward-02",
+      "zh": "驍勇的"
+    },
+    {
+      "en": "mist",
+      "clusterId": "sem-clear-obscure-02",
+      "zh": "mist霧"
+    },
+    {
+      "en": "mulish",
+      "clusterId": "sem-rigid-flexible-02",
+      "zh": "固執如驢"
+    },
+    {
+      "en": "multicultural",
+      "clusterId": "prefix-multi-01",
+      "zh": "多元文化的"
+    },
+    {
+      "en": "multifaceted",
+      "clusterId": "prefix-multi-01",
+      "zh": "多面向的"
+    },
+    {
+      "en": "multilingual",
+      "clusterId": "prefix-multi-01",
+      "zh": "多語的"
+    },
+    {
+      "en": "multipartite",
+      "clusterId": "prefix-multi-01",
+      "zh": "多方的；多部分的"
+    },
+    {
+      "en": "multiplex",
+      "clusterId": "prefix-multi-01",
+      "zh": "多元的；多工的"
+    },
+    {
+      "en": "multiply",
+      "clusterId": "prefix-multi-01",
+      "zh": "倍增；繁殖"
+    },
+    {
+      "en": "museum",
+      "clusterId": "rhyme-logy-01",
+      "zh": "博物館"
+    },
+    {
+      "en": "museumcard",
+      "clusterId": "look-historic-01",
+      "zh": "博物館卡"
+    },
+    {
+      "en": "mythology",
+      "clusterId": "rhyme-logy-01",
+      "zh": "神話迷思"
+    },
+    {
+      "en": "namebadge",
+      "clusterId": "rhyme-acious-01",
+      "zh": "胸牌"
+    },
+    {
+      "en": "nametag",
+      "clusterId": "look-respect-01",
+      "zh": "名牌"
+    },
+    {
+      "en": "nascence",
+      "clusterId": "sem-begin-end-02",
+      "zh": "誕生初期"
+    },
+    {
+      "en": "neutral",
+      "clusterId": "prefix-non-01",
+      "zh": "中立的"
+    },
+    {
+      "en": "nodule",
+      "clusterId": "rhyme-ule-01",
+      "zh": "結節"
+    },
+    {
+      "en": "nonpartisan",
+      "clusterId": "prefix-non-01",
+      "zh": "無黨派的"
+    },
+    {
+      "en": "nonplussed",
+      "clusterId": "prefix-non-01",
+      "zh": "困惑的；不知所措"
+    },
+    {
+      "en": "nonsectarian",
+      "clusterId": "prefix-non-01",
+      "zh": "無宗派的"
+    },
+    {
+      "en": "observatory",
+      "clusterId": "rhyme-ory-01",
+      "zh": "觀察所"
+    },
+    {
+      "en": "omen",
+      "clusterId": "prefix-fore-01",
+      "zh": "預兆"
+    },
+    {
+      "en": "omnibus",
+      "clusterId": "prefix-omni-01",
+      "zh": "綜合的；一攬子"
+    },
+    {
+      "en": "omnidirectional",
+      "clusterId": "prefix-omni-01",
+      "zh": "全向的"
+    },
+    {
+      "en": "omnifarious",
+      "clusterId": "prefix-omni-01",
+      "zh": "各式各樣的"
+    },
+    {
+      "en": "omnirange",
+      "clusterId": "prefix-omni-01",
+      "zh": "全距導航"
+    },
+    {
+      "en": "opaque-glass",
+      "clusterId": "sem-clear-obscure-02",
+      "zh": "霧玻璃"
+    },
+    {
+      "en": "opensource",
+      "clusterId": "sem-honest-deceit-02",
+      "zh": "開源心"
+    },
+    {
+      "en": "opponent",
+      "clusterId": "look-averse-01",
+      "zh": "對手"
+    },
+    {
+      "en": "orderlist",
+      "clusterId": "look-respect-01",
+      "zh": "順序列表"
+    },
+    {
+      "en": "outburst",
+      "clusterId": "prefix-out-01",
+      "zh": "爆發"
+    },
+    {
+      "en": "outcast",
+      "clusterId": "prefix-out-01",
+      "zh": "被排斥者"
+    },
+    {
+      "en": "outdo",
+      "clusterId": "prefix-out-01",
+      "zh": "勝過"
+    },
+    {
+      "en": "outer",
+      "clusterId": "prefix-out-01",
+      "zh": "外部的"
+    },
+    {
+      "en": "outlier-ward",
+      "clusterId": "prefix-out-01",
+      "zh": "朝離群"
+    },
+    {
+      "en": "outmoded",
+      "clusterId": "prefix-out-01",
+      "zh": "過時的"
+    },
+    {
+      "en": "outrageous",
+      "clusterId": "prefix-out-01",
+      "zh": "離譜的；暴行的"
+    },
+    {
+      "en": "outskirts",
+      "clusterId": "prefix-out-01",
+      "zh": "郊區；外圍"
+    },
+    {
+      "en": "outspoken",
+      "clusterId": "prefix-out-01",
+      "zh": "直言的"
+    },
+    {
+      "en": "outwit",
+      "clusterId": "prefix-out-01",
+      "zh": "以智取勝"
+    },
+    {
+      "en": "ovoid",
+      "clusterId": "rhyme-oid-01",
+      "zh": "卵形的"
+    },
+    {
+      "en": "panoptic",
+      "clusterId": "prefix-omni-01",
+      "zh": "全景監視的"
+    },
+    {
+      "en": "pardonable",
+      "clusterId": "look-venal-01",
+      "zh": "可赦免"
+    },
+    {
+      "en": "partial",
+      "clusterId": "sem-obj-bias-01",
+      "zh": "偏袒"
+    },
+    {
+      "en": "partyhat",
+      "clusterId": "rhyme-acious-01",
+      "zh": "派對帽"
+    },
+    {
+      "en": "payola",
+      "clusterId": "look-venal-01",
+      "zh": "封口賄賂"
+    },
+    {
+      "en": "perfume",
+      "clusterId": "look-sensual-01",
+      "zh": "香水"
+    },
+    {
+      "en": "perihelion",
+      "clusterId": "prefix-peri-01",
+      "zh": "近日點"
+    },
+    {
+      "en": "perinatal",
+      "clusterId": "prefix-peri-01",
+      "zh": "圍產期的"
+    },
+    {
+      "en": "period",
+      "clusterId": "prefix-peri-01",
+      "zh": "時期；句點"
+    },
+    {
+      "en": "periodic",
+      "clusterId": "prefix-peri-01",
+      "zh": "週期性的"
+    },
+    {
+      "en": "periodization",
+      "clusterId": "look-historic-01",
+      "zh": "分期"
+    },
+    {
+      "en": "periphery",
+      "clusterId": "prefix-peri-01",
+      "zh": "外圍；邊緣"
+    },
+    {
+      "en": "periphrasis",
+      "clusterId": "prefix-peri-01",
+      "zh": "迂迴說法"
+    },
+    {
+      "en": "pigheaded",
+      "clusterId": "sem-rigid-flexible-02",
+      "zh": "頑固"
+    },
+    {
+      "en": "pill",
+      "clusterId": "rhyme-ule-01",
+      "zh": "藥丸"
+    },
+    {
+      "en": "place",
+      "clusterId": "rhyme-ory-01",
+      "zh": "場所"
+    },
+    {
+      "en": "plaque",
+      "clusterId": "look-historic-01",
+      "zh": "牌匾"
+    },
+    {
+      "en": "playlist",
+      "clusterId": "rhyme-acious-01",
+      "zh": "歌單"
+    },
+    {
+      "en": "pluck",
+      "clusterId": "sem-brave-coward-02",
+      "zh": "勇氣"
+    },
+    {
+      "en": "pokerface",
+      "clusterId": "sem-honest-deceit-02",
+      "zh": "撲克臉"
+    },
+    {
+      "en": "polish",
+      "clusterId": "sem-clear-obscure-02",
+      "zh": "擦亮"
+    },
+    {
+      "en": "poltroon",
+      "clusterId": "sem-brave-coward-02",
+      "zh": "懦夫"
+    },
+    {
+      "en": "predatory",
+      "clusterId": "rhyme-ory-01",
+      "zh": "掠食的"
+    },
+    {
+      "en": "preview",
+      "clusterId": "prefix-fore-01",
+      "zh": "預覽"
+    },
+    {
+      "en": "psychology",
+      "clusterId": "rhyme-logy-01",
+      "zh": "心理學"
+    },
+    {
+      "en": "queue",
+      "clusterId": "look-appraise-01",
+      "zh": "排隊"
+    },
+    {
+      "en": "queue2",
+      "clusterId": "look-respect-01",
+      "zh": "排隊2"
+    },
+    {
+      "en": "quiver",
+      "clusterId": "sem-brave-coward-02",
+      "zh": "顫抖"
+    },
+    {
+      "en": "receipt2",
+      "clusterId": "sem-honest-deceit-02",
+      "zh": "收據2"
+    },
+    {
+      "en": "recreant",
+      "clusterId": "sem-brave-coward-02",
+      "zh": "怯懦背信"
+    },
+    {
+      "en": "redact",
+      "clusterId": "look-censor-01",
+      "zh": "遮蓋刪改"
+    },
+    {
+      "en": "respectability",
+      "clusterId": "look-respect-01",
+      "zh": "體面"
+    },
+    {
+      "en": "respectful",
+      "clusterId": "look-respect-01",
+      "zh": "恭敬的"
+    },
+    {
+      "en": "respectfully",
+      "clusterId": "look-respect-01",
+      "zh": "恭敬地"
+    },
+    {
+      "en": "respective",
+      "clusterId": "look-respect-01",
+      "zh": "各自的"
+    },
+    {
+      "en": "respectively",
+      "clusterId": "look-respect-01",
+      "zh": "分別地"
+    },
+    {
+      "en": "retreat",
+      "clusterId": "sem-brave-coward-02",
+      "zh": "撤退"
+    },
+    {
+      "en": "revile",
+      "clusterId": "sem-praise-criticize-01",
+      "zh": "辱罵"
+    },
+    {
+      "en": "ribbon",
+      "clusterId": "sem-begin-end-02",
+      "zh": "剪綵"
+    },
+    {
+      "en": "rigidbar",
+      "clusterId": "sem-rigid-flexible-02",
+      "zh": "硬棒"
+    },
+    {
+      "en": "roar",
+      "clusterId": "sem-brave-coward-02",
+      "zh": "咆哮"
+    },
+    {
+      "en": "roast",
+      "clusterId": "sem-praise-criticize-01",
+      "zh": "吐槽大會"
+    },
+    {
+      "en": "robot",
+      "clusterId": "rhyme-oid-01",
+      "zh": "機器人2"
+    },
+    {
+      "en": "rubber",
+      "clusterId": "sem-rigid-flexible-02",
+      "zh": "橡膠"
+    },
+    {
+      "en": "salute",
+      "clusterId": "look-respect-01",
+      "zh": "敬禮"
+    },
+    {
+      "en": "school",
+      "clusterId": "rhyme-logy-01",
+      "zh": "學派"
+    },
+    {
+      "en": "scissors",
+      "clusterId": "look-censor-01",
+      "zh": "剪刀"
+    },
+    {
+      "en": "scroll",
+      "clusterId": "look-historic-01",
+      "zh": "卷軸"
+    },
+    {
+      "en": "seal",
+      "clusterId": "sem-honest-deceit-02",
+      "zh": "封條"
+    },
+    {
+      "en": "seating",
+      "clusterId": "look-respect-01",
+      "zh": "座位表"
+    },
+    {
+      "en": "sensual",
+      "clusterId": "look-sensual-01",
+      "zh": "感官情慾的"
+    },
+    {
+      "en": "sensuousness",
+      "clusterId": "look-sensual-01",
+      "zh": "感官美"
+    },
+    {
+      "en": "setback",
+      "clusterId": "look-averse-01",
+      "zh": "挫敗"
+    },
+    {
+      "en": "sharpeye",
+      "clusterId": "rhyme-acious-01",
+      "zh": "銳眼"
+    },
+    {
+      "en": "shell",
+      "clusterId": "sem-brave-coward-02",
+      "zh": "殼"
+    },
+    {
+      "en": "shine",
+      "clusterId": "sem-clear-obscure-02",
+      "zh": "照亮"
+    },
+    {
+      "en": "slanted",
+      "clusterId": "sem-obj-bias-01",
+      "zh": "有偏向"
+    },
+    {
+      "en": "smokebomb",
+      "clusterId": "sem-honest-deceit-02",
+      "zh": "煙霧彈"
+    },
+    {
+      "en": "sparkle",
+      "clusterId": "sem-clear-obscure-02",
+      "zh": "閃亮"
+    },
+    {
+      "en": "speaker",
+      "clusterId": "rhyme-acious-01",
+      "zh": "音箱"
+    },
+    {
+      "en": "spheroid",
+      "clusterId": "rhyme-oid-01",
+      "zh": "球狀體"
+    },
+    {
+      "en": "spice",
+      "clusterId": "look-sensual-01",
+      "zh": "香料"
+    },
+    {
+      "en": "spineless",
+      "clusterId": "sem-brave-coward-02",
+      "zh": "沒骨氣"
+    },
+    {
+      "en": "spotlight2",
+      "clusterId": "sem-honest-deceit-02",
+      "zh": "聚光燈2"
+    },
+    {
+      "en": "stall",
+      "clusterId": "rhyme-ule-01",
+      "zh": "攤位"
+    },
+    {
+      "en": "standpoint",
+      "clusterId": "look-perspective-01",
+      "zh": "立場觀點"
+    },
+    {
+      "en": "steel",
+      "clusterId": "sem-rigid-flexible-02",
+      "zh": "鋼"
+    },
+    {
+      "en": "street",
+      "clusterId": "rhyme-ory-01",
+      "zh": "街道"
+    },
+    {
+      "en": "stretch",
+      "clusterId": "sem-rigid-flexible-02",
+      "zh": "伸展"
+    },
+    {
+      "en": "stubborn",
+      "clusterId": "sem-rigid-flexible-02",
+      "zh": "固執"
+    },
+    {
+      "en": "stupefaction",
+      "clusterId": "look-incredible-01",
+      "zh": "驚呆"
+    },
+    {
+      "en": "systematic",
+      "clusterId": "sem-order-chaos-01",
+      "zh": "系統的"
+    },
+    {
+      "en": "theology",
+      "clusterId": "rhyme-logy-01",
+      "zh": "神學"
+    },
+    {
+      "en": "ticket",
+      "clusterId": "look-venal-01",
+      "zh": "罰單"
+    },
+    {
+      "en": "tidy",
+      "clusterId": "sem-order-chaos-01",
+      "zh": "整齊"
+    },
+    {
+      "en": "tinyshop",
+      "clusterId": "rhyme-ule-01",
+      "zh": "小店"
+    },
+    {
+      "en": "title",
+      "clusterId": "look-respect-01",
+      "zh": "頭銜"
+    },
+    {
+      "en": "tombstone",
+      "clusterId": "sem-begin-end-02",
+      "zh": "墓碑結案"
+    },
+    {
+      "en": "tomorrow",
+      "clusterId": "look-perspective-01",
+      "zh": "明天"
+    },
+    {
+      "en": "total",
+      "clusterId": "prefix-omni-01",
+      "zh": "總體的"
+    },
+    {
+      "en": "transitory",
+      "clusterId": "rhyme-ory-01",
+      "zh": "短暫的"
+    },
+    {
+      "en": "trapdoor",
+      "clusterId": "sem-honest-deceit-02",
+      "zh": "暗門"
+    },
+    {
+      "en": "trilogy",
+      "clusterId": "rhyme-logy-01",
+      "zh": "三部曲"
+    },
+    {
+      "en": "truckle",
+      "clusterId": "sem-praise-criticize-01",
+      "zh": "屈從討好"
+    },
+    {
+      "en": "trumpet",
+      "clusterId": "sem-brave-coward-02",
+      "zh": "號角"
+    },
+    {
+      "en": "truthserum",
+      "clusterId": "sem-honest-deceit-02",
+      "zh": "吐實"
+    },
+    {
+      "en": "truthserum2",
+      "clusterId": "rhyme-acious-01",
+      "zh": "吐實2"
+    },
+    {
+      "en": "twilight",
+      "clusterId": "rhyme-escent-01",
+      "zh": "暮光"
+    },
+    {
+      "en": "typhoid",
+      "clusterId": "rhyme-oid-01",
+      "zh": "傷寒"
+    },
+    {
+      "en": "ultraconservative",
+      "clusterId": "prefix-ultra-01",
+      "zh": "極端保守的"
+    },
+    {
+      "en": "ultrafine",
+      "clusterId": "prefix-ultra-01",
+      "zh": "超細的"
+    },
+    {
+      "en": "ultralight",
+      "clusterId": "prefix-ultra-01",
+      "zh": "超輕的"
+    },
+    {
+      "en": "ultramodern",
+      "clusterId": "prefix-ultra-01",
+      "zh": "超現代的"
+    },
+    {
+      "en": "ultraviolet",
+      "clusterId": "prefix-ultra-01",
+      "zh": "紫外線的"
+    },
+    {
+      "en": "uncensored",
+      "clusterId": "look-censor-01",
+      "zh": "未經審查的"
+    },
+    {
+      "en": "undaunted",
+      "clusterId": "sem-brave-coward-02",
+      "zh": "不氣餒"
+    },
+    {
+      "en": "undermine",
+      "clusterId": "sem-support-undermine-01",
+      "zh": "暗中破壞"
+    },
+    {
+      "en": "unfavorable",
+      "clusterId": "look-averse-01",
+      "zh": "不利的"
+    },
+    {
+      "en": "universal",
+      "clusterId": "prefix-omni-01",
+      "zh": "普遍的"
+    },
+    {
+      "en": "upcoming",
+      "clusterId": "look-perspective-01",
+      "zh": "即將到來"
+    },
+    {
+      "en": "vantage",
+      "clusterId": "look-perspective-01",
+      "zh": "有利位置"
+    },
+    {
+      "en": "variety",
+      "clusterId": "prefix-multi-01",
+      "zh": "多樣性"
+    },
+    {
+      "en": "venality",
+      "clusterId": "look-venal-01",
+      "zh": "貪腐"
+    },
+    {
+      "en": "vestibule",
+      "clusterId": "rhyme-ule-01",
+      "zh": "前廳"
+    },
+    {
+      "en": "viewpoint",
+      "clusterId": "look-perspective-01",
+      "zh": "觀點"
+    },
+    {
+      "en": "ward",
+      "clusterId": "look-averse-01",
+      "zh": "病房"
+    },
+    {
+      "en": "whipcord",
+      "clusterId": "sem-rigid-flexible-02",
+      "zh": "鞭繩"
+    },
+    {
+      "en": "whisper2",
+      "clusterId": "sem-honest-deceit-02",
+      "zh": "低語2"
+    },
+    {
+      "en": "whiteflag",
+      "clusterId": "sem-brave-coward-02",
+      "zh": "白旗"
+    },
+    {
+      "en": "windex",
+      "clusterId": "sem-clear-obscure-02",
+      "zh": "玻璃水"
+    },
+    {
+      "en": "windowpane",
+      "clusterId": "sem-clear-obscure-02",
+      "zh": "窗玻璃"
+    },
+    {
+      "en": "windup",
+      "clusterId": "sem-begin-end-02",
+      "zh": "收尾"
+    },
+    {
+      "en": "wiseowl",
+      "clusterId": "rhyme-acious-01",
+      "zh": "智慧貓頭鷹"
+    },
+    {
+      "en": "withdrawn",
+      "clusterId": "prefix-with-01",
+      "zh": "撤回的；內向的"
+    },
+    {
+      "en": "wither",
+      "clusterId": "prefix-with-01",
+      "zh": "枯萎；萎縮"
+    },
+    {
+      "en": "withhold",
+      "clusterId": "prefix-with-01",
+      "zh": "扣留；拒絕給予"
+    },
+    {
+      "en": "without",
+      "clusterId": "prefix-with-01",
+      "zh": "沒有"
+    },
+    {
+      "en": "wonderment",
+      "clusterId": "look-incredible-01",
+      "zh": "驚奇"
+    },
+    {
+      "en": "wrap",
+      "clusterId": "sem-begin-end-02",
+      "zh": "收工"
+    },
+    {
+      "en": "yearbook",
+      "clusterId": "look-historic-01",
+      "zh": "年鑑"
+    },
+    {
+      "en": "yesteryear",
+      "clusterId": "look-historic-01",
+      "zh": "往昔"
+    }
+  ],
+  "deferred": [
+    {
+      "en": "aboutness",
+      "clusterId": "prefix-meta-01",
+      "zh": "關於性",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "absence",
+      "clusterId": "prefix-non-01",
+      "zh": "缺席",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "against",
+      "clusterId": "prefix-with-01",
+      "zh": "反對",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "ahead",
+      "clusterId": "prefix-fore-01",
+      "zh": "事先",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "all-seeing",
+      "clusterId": "prefix-omni-01",
+      "zh": "全視的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "allergy",
+      "clusterId": "look-averse-01",
+      "zh": "過敏",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "amazement",
+      "clusterId": "look-incredible-01",
+      "zh": "驚異",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "android",
+      "clusterId": "rhyme-oid-01",
+      "zh": "機器人",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "anglemark",
+      "clusterId": "look-perspective-01",
+      "zh": "角度標記",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "apology",
+      "clusterId": "rhyme-logy-01",
+      "zh": "道歉",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "assessment",
+      "clusterId": "look-appraise-01",
+      "zh": "評量",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "asteroid",
+      "clusterId": "rhyme-oid-01",
+      "zh": "小行星",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "blame",
+      "clusterId": "look-censor-01",
+      "zh": "責備",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "boots",
+      "clusterId": "rhyme-ire-01",
+      "zh": "雨靴",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "bow",
+      "clusterId": "sem-begin-end-02",
+      "zh": "鞠躬謝幕",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "briefing",
+      "clusterId": "look-appraise-01",
+      "zh": "簡報",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "cabinet",
+      "clusterId": "rhyme-oid-01",
+      "zh": "標本櫃",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "cast",
+      "clusterId": "rhyme-ster-01",
+      "zh": "陣容",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "categorical",
+      "clusterId": "sem-certain-doubt-01",
+      "zh": "斷然絕對",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "cement",
+      "clusterId": "sem-rigid-flexible-02",
+      "zh": "水泥",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "costume",
+      "clusterId": "rhyme-ster-01",
+      "zh": "戲服",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "curtain",
+      "clusterId": "sem-begin-end-02",
+      "zh": "幕",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "decisive",
+      "clusterId": "sem-certain-doubt-01",
+      "zh": "決定性",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "dry-up",
+      "clusterId": "prefix-with-01",
+      "zh": "乾涸",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "durable",
+      "clusterId": "sem-temp-perm-01",
+      "zh": "耐用",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "egg",
+      "clusterId": "rhyme-oid-01",
+      "zh": "蛋",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "enquire",
+      "clusterId": "rhyme-ire-01",
+      "zh": "詢問",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "entire",
+      "clusterId": "rhyme-ire-01",
+      "zh": "整個的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "fawning",
+      "clusterId": "look-complacent-01",
+      "zh": "奉承",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "fib",
+      "clusterId": "sem-honest-deceit-02",
+      "zh": "小謊",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "flatterer",
+      "clusterId": "look-complacent-01",
+      "zh": "諂媚者",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "fleeting",
+      "clusterId": "sem-temp-perm-01",
+      "zh": "飛逝",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "fog",
+      "clusterId": "sem-clear-obscure-02",
+      "zh": "霧",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "gangster",
+      "clusterId": "rhyme-ster-01",
+      "zh": "幫派成員",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "gun",
+      "clusterId": "sem-begin-end-02",
+      "zh": "發令",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "humanoid",
+      "clusterId": "rhyme-oid-01",
+      "zh": "類人的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "label",
+      "clusterId": "prefix-meta-01",
+      "zh": "標籤",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "layer",
+      "clusterId": "prefix-meta-01",
+      "zh": "層",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "lie",
+      "clusterId": "sem-honest-deceit-02",
+      "zh": "謊言",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "makeup",
+      "clusterId": "look-complacent-01",
+      "zh": "化妝",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "map",
+      "clusterId": "look-perspective-01",
+      "zh": "地圖",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "mask",
+      "clusterId": "rhyme-ster-01",
+      "zh": "面具",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "mat",
+      "clusterId": "sem-rigid-flexible-02",
+      "zh": "墊子",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "max",
+      "clusterId": "prefix-ultra-01",
+      "zh": "最大",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "metacognition",
+      "clusterId": "prefix-meta-01",
+      "zh": "後設認知",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "metadata",
+      "clusterId": "prefix-meta-01",
+      "zh": "後設資料",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "metalanguage",
+      "clusterId": "prefix-meta-01",
+      "zh": "後設語言",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "metaphor",
+      "clusterId": "prefix-meta-01",
+      "zh": "隱喻",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "metaphorical",
+      "clusterId": "prefix-meta-01",
+      "zh": "隱喻的",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "metaphysics",
+      "clusterId": "prefix-meta-01",
+      "zh": "形上學",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "metastasis",
+      "clusterId": "prefix-meta-01",
+      "zh": "轉移；擴散",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "mire",
+      "clusterId": "rhyme-ire-01",
+      "zh": "泥沼",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "module",
+      "clusterId": "rhyme-ule-01",
+      "zh": "模組",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "molecule",
+      "clusterId": "rhyme-ule-01",
+      "zh": "分子",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "mud",
+      "clusterId": "sem-clear-obscure-02",
+      "zh": "泥",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "mudsplash",
+      "clusterId": "rhyme-ire-01",
+      "zh": "泥漿",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "not-so",
+      "clusterId": "prefix-non-01",
+      "zh": "並非如此",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "notify",
+      "clusterId": "look-appraise-01",
+      "zh": "通知",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "persona",
+      "clusterId": "rhyme-ster-01",
+      "zh": "人設",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "prankster",
+      "clusterId": "rhyme-ster-01",
+      "zh": "惡作劇者",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "puddle",
+      "clusterId": "rhyme-ire-01",
+      "zh": "水坑",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "punster",
+      "clusterId": "rhyme-ster-01",
+      "zh": "雙關愛好者",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "rhymester",
+      "clusterId": "rhyme-ster-01",
+      "zh": "押韻匠",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "rim",
+      "clusterId": "prefix-peri-01",
+      "zh": "邊緣",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "role",
+      "clusterId": "rhyme-ster-01",
+      "zh": "角色",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "self-ref",
+      "clusterId": "prefix-meta-01",
+      "zh": "自我指涉",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "sly",
+      "clusterId": "sem-honest-deceit-02",
+      "zh": "狡猾",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "smugness",
+      "clusterId": "look-complacent-01",
+      "zh": "沾沾自喜",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "softness",
+      "clusterId": "sem-rigid-flexible-02",
+      "zh": "柔軟",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "spire",
+      "clusterId": "rhyme-ire-01",
+      "zh": "尖塔",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "stage",
+      "clusterId": "look-incredible-01",
+      "zh": "舞台",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "starter",
+      "clusterId": "sem-begin-end-02",
+      "zh": "起跑器",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "stopwatch",
+      "clusterId": "rhyme-ire-01",
+      "zh": "秒錶",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "tabloid",
+      "clusterId": "rhyme-oid-01",
+      "zh": "小報",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "teamster",
+      "clusterId": "rhyme-ster-01",
+      "zh": "司機；隊員",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "tower",
+      "clusterId": "rhyme-ire-01",
+      "zh": "塔",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "trickster",
+      "clusterId": "rhyme-ster-01",
+      "zh": "搗蛋騙子",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "tux",
+      "clusterId": "rhyme-ire-01",
+      "zh": "禮服2",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "umpire",
+      "clusterId": "rhyme-ire-01",
+      "zh": "裁判",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "valuation",
+      "clusterId": "look-appraise-01",
+      "zh": "估值",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "vow",
+      "clusterId": "sem-honest-deceit-02",
+      "zh": "誓言",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "waver",
+      "clusterId": "sem-certain-doubt-01",
+      "zh": "動搖",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "whip",
+      "clusterId": "sem-praise-criticize-01",
+      "zh": "鞭",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "whistle",
+      "clusterId": "rhyme-ire-01",
+      "zh": "哨音",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "wow",
+      "clusterId": "look-incredible-01",
+      "zh": "哇",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "yoga",
+      "clusterId": "sem-rigid-flexible-02",
+      "zh": "瑜珈",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "youngster",
+      "clusterId": "rhyme-ster-01",
+      "zh": "年輕人",
+      "reason": "basic-multiword-or-specialty"
+    }
+  ],
+  "greTotalAfter": 4990
+}

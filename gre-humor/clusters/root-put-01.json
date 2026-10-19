@@ -20,8 +20,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "pending-add"
     },
     {
       "headword": "dispute",
@@ -36,8 +35,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "pending-add"
     },
     {
       "headword": "reputation",
@@ -52,8 +50,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "pending-add"
     },
     {
       "headword": "impute",
@@ -87,7 +84,7 @@
     },
     {
       "headword": "deputy",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "someone authorized to exercise the powers of sheriff in emergencies; an assistant with power to act when his superior is absent",
       "roleInScript": "代理計算員",
       "humorDevice": "morphology",
@@ -98,8 +95,7 @@
         "synonyms": "lieutenant, surrogate",
         "antonyms": ""
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "computer",
@@ -114,8 +110,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "pending-add"
     },
     {
       "headword": "computation",
@@ -130,8 +125,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "pending-add"
     },
     {
       "headword": "disreputable",
@@ -150,7 +144,7 @@
     },
     {
       "headword": "repute",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "the state of being held in high esteem and honor; look on as or consider",
       "roleInScript": "傳聞聲譽",
       "humorDevice": "story",
@@ -161,8 +155,7 @@
         "synonyms": "reputation, esteem",
         "antonyms": "disrepute"
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "count",
@@ -177,8 +170,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "pending-add"
     },
     {
       "headword": "accountable",
@@ -193,8 +185,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "pending-add"
     }
   ],
   "reviewHooks": [

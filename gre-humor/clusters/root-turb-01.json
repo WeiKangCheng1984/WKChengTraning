@@ -20,8 +20,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "pending-add"
     },
     {
       "headword": "disturbance",
@@ -36,12 +35,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "pending-add"
     },
     {
       "headword": "turbulent",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "marked by sudden or violent disturbance",
       "roleInScript": "氣流亂",
       "humorDevice": "morphology",
@@ -52,8 +50,7 @@
         "synonyms": "tempestuous, tumultuous",
         "antonyms": ""
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "perturb",
@@ -113,8 +110,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "pending-add"
     },
     {
       "headword": "perturbation",
@@ -129,8 +125,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "pending-add"
     },
     {
       "headword": "disturbing",
@@ -145,12 +140,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "pending-add"
     },
     {
       "headword": "stir",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "a prominent or sensational but short-lived news event; emotional agitation and excitement",
       "roleInScript": "攪一下",
       "humorDevice": "story",
@@ -161,8 +155,7 @@
         "synonyms": "splash, bustle, hustle, flurry, ado, fuss",
         "antonyms": ""
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "agitate",
@@ -177,8 +170,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "pending-add"
     },
     {
       "headword": "calm",
@@ -193,8 +185,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "pending-add"
     }
   ],
   "reviewHooks": [

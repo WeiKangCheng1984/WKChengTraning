@@ -80,8 +80,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "pending-add"
     },
     {
       "headword": "escape",
@@ -96,8 +95,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "pending-add"
     },
     {
       "headword": "dodge",
@@ -112,12 +110,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "pending-add"
     },
     {
       "headword": "slippery",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "causing or tending to cause things to slip or slide; not to be trusted; - James Agee",
       "roleInScript": "滑溜地",
       "humorDevice": "story",
@@ -128,8 +125,7 @@
         "synonyms": "slippy, tricky",
         "antonyms": "nonslippery"
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "maze",
@@ -144,8 +140,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "pending-add"
     }
   ],
   "reviewHooks": [

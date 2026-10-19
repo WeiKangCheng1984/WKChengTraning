@@ -1,0 +1,267 @@
+{
+  "id": "look-sensual-01",
+  "type": "lookalike",
+  "elementLemma": "sensual-sensuous",
+  "titleZh": "sensual ↔ sensuous｜感官廚房 vs 美感畫廊",
+  "titleEn": "Sensual vs Sensuous Gallery",
+  "hook": "sensual 偏身體欲望廚房；sensuous 偏美感觸感畫廊——氣味相似、菜單不同。",
+  "script": "sensual／sensuous／carnal／voluptuous／epicurean／aesthete／palpable——導覽：GRE 常考語氣差；别把藝術寫成慾望。",
+  "members": [
+    {
+      "headword": "sensual",
+      "inVocab": true,
+      "senseAnchor": "感官情慾的",
+      "roleInScript": "廚房香",
+      "humorDevice": "lookalike",
+      "zhGloss": "感官情慾的",
+      "speakLineEn": "Cue the 廚房香: sensual walks on and the gag sticks.",
+      "speakLineZh": "請「廚房香」出場：sensual 一上場梗就黏住——感官情慾的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "sensuous",
+      "inVocab": true,
+      "senseAnchor": "giving pleasure to your senses",
+      "roleInScript": "畫廊觸",
+      "humorDevice": "lookalike",
+      "zhGloss": "美感感官的",
+      "speakLineEn": "Cue the 畫廊觸: sensuous walks on and the gag sticks.",
+      "speakLineZh": "請「畫廊觸」出場：sensuous 一上場梗就黏住——美感感官的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "sensuousness",
+      "inVocab": true,
+      "senseAnchor": "感官美",
+      "roleInScript": "感官美",
+      "humorDevice": "lookalike",
+      "zhGloss": "感官美",
+      "speakLineEn": "Cue the 感官美: sensuousness walks on and the gag sticks.",
+      "speakLineZh": "請「感官美」出場：sensuousness 一上場梗就黏住——感官美。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "carnal",
+      "inVocab": true,
+      "senseAnchor": "肉慾的",
+      "roleInScript": "肉慾",
+      "humorDevice": "lookalike",
+      "zhGloss": "肉慾的",
+      "speakLineEn": "Cue the 肉慾: carnal walks on and the gag sticks.",
+      "speakLineZh": "請「肉慾」出場：carnal 一上場梗就黏住——肉慾的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "voluptuous",
+      "inVocab": true,
+      "senseAnchor": "having strong sexual appeal; (of a woman's body) having a large bosom and pleasing curves",
+      "roleInScript": "驕奢",
+      "humorDevice": "lookalike",
+      "zhGloss": "驕奢淫逸／曲線",
+      "speakLineEn": "Cue the 驕奢: voluptuous walks on and the gag sticks.",
+      "speakLineZh": "請「驕奢」出場：voluptuous 一上場梗就黏住——驕奢淫逸／曲線。",
+      "related": {
+        "synonyms": "juicy, luscious, red-hot, toothsome, bosomy, busty",
+        "antonyms": "juiceless, unpalatable"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "epicurean",
+      "inVocab": true,
+      "senseAnchor": "享樂美食的",
+      "roleInScript": "美食",
+      "humorDevice": "lookalike",
+      "zhGloss": "享樂美食的",
+      "speakLineEn": "Cue the 美食: epicurean walks on and the gag sticks.",
+      "speakLineZh": "請「美食」出場：epicurean 一上場梗就黏住——享樂美食的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "aesthete",
+      "inVocab": true,
+      "senseAnchor": "唯美主義者",
+      "roleInScript": "唯美",
+      "humorDevice": "lookalike",
+      "zhGloss": "唯美主義者",
+      "speakLineEn": "Cue the 唯美: aesthete walks on and the gag sticks.",
+      "speakLineZh": "請「唯美」出場：aesthete 一上場梗就黏住——唯美主義者。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "palpable",
+      "inVocab": true,
+      "senseAnchor": "obvious and easily noticed",
+      "roleInScript": "可觸",
+      "humorDevice": "lookalike",
+      "zhGloss": "可觸知的",
+      "speakLineEn": "Cue the 可觸: palpable walks on and the gag sticks.",
+      "speakLineZh": "請「可觸」出場：palpable 一上場梗就黏住——可觸知的。",
+      "related": {
+        "synonyms": "sensible, perceptible, discernable",
+        "antonyms": "impalpable, insensible, unreasonable, imperceptible, indiscernible"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "kitchen",
+      "inVocab": true,
+      "senseAnchor": "廚房",
+      "roleInScript": "廚房",
+      "humorDevice": "story",
+      "zhGloss": "廚房",
+      "speakLineEn": "Cue the 廚房: kitchen walks on and the gag sticks.",
+      "speakLineZh": "請「廚房」出場：kitchen 一上場梗就黏住——廚房。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "gallery",
+      "inVocab": true,
+      "senseAnchor": "畫廊",
+      "roleInScript": "畫廊",
+      "humorDevice": "story",
+      "zhGloss": "畫廊",
+      "speakLineEn": "Cue the 畫廊: gallery walks on and the gag sticks.",
+      "speakLineZh": "請「畫廊」出場：gallery 一上場梗就黏住——畫廊。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "perfume",
+      "inVocab": true,
+      "senseAnchor": "香水",
+      "roleInScript": "香水",
+      "humorDevice": "story",
+      "zhGloss": "香水",
+      "speakLineEn": "Cue the 香水: perfume walks on and the gag sticks.",
+      "speakLineZh": "請「香水」出場：perfume 一上場梗就黏住——香水。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "brush",
+      "inVocab": true,
+      "senseAnchor": "畫筆",
+      "roleInScript": "畫筆",
+      "humorDevice": "story",
+      "zhGloss": "畫筆",
+      "speakLineEn": "Cue the 畫筆: brush walks on and the gag sticks.",
+      "speakLineZh": "請「畫筆」出場：brush 一上場梗就黏住——畫筆。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "menu",
+      "inVocab": true,
+      "senseAnchor": "菜單",
+      "roleInScript": "菜單",
+      "humorDevice": "story",
+      "zhGloss": "菜單",
+      "speakLineEn": "Cue the 菜單: menu walks on and the gag sticks.",
+      "speakLineZh": "請「菜單」出場：menu 一上場梗就黏住——菜單。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "canvas",
+      "inVocab": true,
+      "senseAnchor": "畫布",
+      "roleInScript": "畫布",
+      "humorDevice": "story",
+      "zhGloss": "畫布",
+      "speakLineEn": "Cue the 畫布: canvas walks on and the gag sticks.",
+      "speakLineZh": "請「畫布」出場：canvas 一上場梗就黏住——畫布。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "spice",
+      "inVocab": true,
+      "senseAnchor": "香料",
+      "roleInScript": "香料",
+      "humorDevice": "story",
+      "zhGloss": "香料",
+      "speakLineEn": "Cue the 香料: spice walks on and the gag sticks.",
+      "speakLineZh": "請「香料」出場：spice 一上場梗就黏住——香料。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "frame",
+      "inVocab": true,
+      "senseAnchor": "畫框",
+      "roleInScript": "畫框",
+      "humorDevice": "story",
+      "zhGloss": "畫框",
+      "speakLineEn": "Cue the 畫框: frame walks on and the gag sticks.",
+      "speakLineZh": "請「畫框」出場：frame 一上場梗就黏住——畫框。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    }
+  ],
+  "reviewHooks": [
+    "sensual＝感官情慾",
+    "sensuous＝美感感官"
+  ],
+  "pitfalls": [
+    "sensual≠sensuous（語氣）"
+  ],
+  "lessonRefs": [
+    "lesson-look-sensual-01"
+  ],
+  "status": "reviewed",
+  "priority": "C",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch02"
+  }
+}

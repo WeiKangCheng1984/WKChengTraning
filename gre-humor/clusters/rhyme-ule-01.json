@@ -1,0 +1,269 @@
+{
+  "id": "rhyme-ule-01",
+  "type": "rhyme",
+  "elementLemma": "-ule/-icle",
+  "titleZh": "-ule｜迷你粒子市集",
+  "titleEn": "Ule Mini Bazaar",
+  "hook": "字尾 -ule＝小東西——市集攤位全是迷你版。",
+  "script": "molecule／globule／granule／nodule 小粒攤。capsule／module 膠囊模組；minuscule／majuscule 小寫大寫——攤主：minuscule sample 要誠實；module locks。",
+  "members": [
+    {
+      "headword": "molecule",
+      "inVocab": false,
+      "senseAnchor": "分子",
+      "roleInScript": "分子攤",
+      "humorDevice": "morphology",
+      "zhGloss": "分子",
+      "speakLineEn": "Cue the 分子攤: molecule walks on and the gag sticks.",
+      "speakLineZh": "請「分子攤」出場：molecule 一上場梗就黏住——分子。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "globule",
+      "inVocab": true,
+      "senseAnchor": "小球",
+      "roleInScript": "小球",
+      "humorDevice": "morphology",
+      "zhGloss": "小球",
+      "speakLineEn": "Cue the 小球: globule walks on and the gag sticks.",
+      "speakLineZh": "請「小球」出場：globule 一上場梗就黏住——小球。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "capsule",
+      "inVocab": true,
+      "senseAnchor": "extremely brief",
+      "roleInScript": "膠囊",
+      "humorDevice": "morphology",
+      "zhGloss": "膠囊",
+      "speakLineEn": "Cue the 膠囊: capsule walks on and the gag sticks.",
+      "speakLineZh": "請「膠囊」出場：capsule 一上場梗就黏住——膠囊。",
+      "related": {
+        "synonyms": "pithy, concise, terse, succinct, laconic",
+        "antonyms": "verbose, prolix, wordy"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "module",
+      "inVocab": false,
+      "senseAnchor": "模組",
+      "roleInScript": "模組",
+      "humorDevice": "morphology",
+      "zhGloss": "模組",
+      "speakLineEn": "Cue the 模組: module walks on and the gag sticks.",
+      "speakLineZh": "請「模組」出場：module 一上場梗就黏住——模組。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "granule",
+      "inVocab": true,
+      "senseAnchor": "a tiny grain",
+      "roleInScript": "顆粒",
+      "humorDevice": "morphology",
+      "zhGloss": "顆粒",
+      "speakLineEn": "Cue the 顆粒: granule walks on and the gag sticks.",
+      "speakLineZh": "請「顆粒」出場：granule 一上場梗就黏住——顆粒。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "nodule",
+      "inVocab": true,
+      "senseAnchor": "結節",
+      "roleInScript": "結節",
+      "humorDevice": "morphology",
+      "zhGloss": "結節",
+      "speakLineEn": "Cue the 結節: nodule walks on and the gag sticks.",
+      "speakLineZh": "請「結節」出場：nodule 一上場梗就黏住——結節。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "minuscule",
+      "inVocab": true,
+      "senseAnchor": "extremely small",
+      "roleInScript": "極小",
+      "humorDevice": "morphology",
+      "zhGloss": "極小的",
+      "speakLineEn": "Cue the 極小: minuscule walks on and the gag sticks.",
+      "speakLineZh": "請「極小」出場：minuscule 一上場梗就黏住——極小的。",
+      "related": {
+        "synonyms": "diminutive",
+        "antonyms": "majuscule, uppercase"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "majuscule",
+      "inVocab": true,
+      "senseAnchor": "大寫字母",
+      "roleInScript": "大寫",
+      "humorDevice": "morphology",
+      "zhGloss": "大寫字母",
+      "speakLineEn": "Cue the 大寫: majuscule walks on and the gag sticks.",
+      "speakLineZh": "請「大寫」出場：majuscule 一上場梗就黏住——大寫字母。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "animalcule",
+      "inVocab": true,
+      "senseAnchor": "微生物",
+      "roleInScript": "微生物",
+      "humorDevice": "morphology",
+      "zhGloss": "微生物",
+      "speakLineEn": "Cue the 微生物: animalcule walks on and the gag sticks.",
+      "speakLineZh": "請「微生物」出場：animalcule 一上場梗就黏住——微生物。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "vestibule",
+      "inVocab": true,
+      "senseAnchor": "前廳",
+      "roleInScript": "前廳",
+      "humorDevice": "morphology",
+      "zhGloss": "前廳",
+      "speakLineEn": "Cue the 前廳: vestibule walks on and the gag sticks.",
+      "speakLineZh": "請「前廳」出場：vestibule 一上場梗就黏住——前廳。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "bazaar",
+      "inVocab": true,
+      "senseAnchor": "a shop where a variety of goods are sold; a street of small shops (especially in Orient)",
+      "roleInScript": "市集",
+      "humorDevice": "story",
+      "zhGloss": "市集",
+      "speakLineEn": "Cue the 市集: bazaar walks on and the gag sticks.",
+      "speakLineZh": "請「市集」出場：bazaar 一上場梗就黏住——市集。",
+      "related": {
+        "synonyms": "bazar, fair",
+        "antonyms": "foul, unfair, unfairly"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "tinyshop",
+      "inVocab": true,
+      "senseAnchor": "小店",
+      "roleInScript": "小店",
+      "humorDevice": "story",
+      "zhGloss": "小店",
+      "speakLineEn": "Cue the 小店: tinyshop walks on and the gag sticks.",
+      "speakLineZh": "請「小店」出場：tinyshop 一上場梗就黏住——小店。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "magnifier",
+      "inVocab": true,
+      "senseAnchor": "放大鏡",
+      "roleInScript": "放大鏡",
+      "humorDevice": "story",
+      "zhGloss": "放大鏡",
+      "speakLineEn": "Cue the 放大鏡: magnifier walks on and the gag sticks.",
+      "speakLineZh": "請「放大鏡」出場：magnifier 一上場梗就黏住——放大鏡。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "pill",
+      "inVocab": true,
+      "senseAnchor": "藥丸",
+      "roleInScript": "藥丸",
+      "humorDevice": "story",
+      "zhGloss": "藥丸",
+      "speakLineEn": "Cue the 藥丸: pill walks on and the gag sticks.",
+      "speakLineZh": "請「藥丸」出場：pill 一上場梗就黏住——藥丸。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "letterblock",
+      "inVocab": true,
+      "senseAnchor": "字母積木",
+      "roleInScript": "積木",
+      "humorDevice": "story",
+      "zhGloss": "字母積木",
+      "speakLineEn": "Cue the 積木: letterblock walks on and the gag sticks.",
+      "speakLineZh": "請「積木」出場：letterblock 一上場梗就黏住——字母積木。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "stall",
+      "inVocab": true,
+      "senseAnchor": "攤位",
+      "roleInScript": "攤位",
+      "humorDevice": "story",
+      "zhGloss": "攤位",
+      "speakLineEn": "Cue the 攤位: stall walks on and the gag sticks.",
+      "speakLineZh": "請「攤位」出場：stall 一上場梗就黏住——攤位。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    }
+  ],
+  "reviewHooks": [
+    "-ule：molecule/globule/granule/capsule/minuscule/majuscule",
+    "minuscule＝極小"
+  ],
+  "pitfalls": [
+    "minuscule＝極小；majuscule＝大寫字母"
+  ],
+  "lessonRefs": [
+    "lesson-rhyme-ule-01"
+  ],
+  "status": "reviewed",
+  "priority": "C",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch02"
+  }
+}

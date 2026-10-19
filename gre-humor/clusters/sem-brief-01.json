@@ -174,7 +174,7 @@
     },
     {
       "headword": "long-winded",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "using or containing too many words",
       "roleInScript": "風很長",
       "humorDevice": "contrast",
@@ -185,8 +185,7 @@
         "synonyms": "tedious, verbose, windy, wordy",
         "antonyms": "concise, succinct"
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "in-vocab"
     }
   ],
   "reviewHooks": [

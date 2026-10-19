@@ -1,0 +1,97 @@
+{
+  "id": "lesson-rhyme-oid-01",
+  "slug": "rhyme-oid-01",
+  "season": 1,
+  "seasonTitleZh": "押韻派對",
+  "seasonTitleEn": "Rhyme Party",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "rhyme-oid-01",
+  "titleZh": "-oid｜形似物標本櫃",
+  "titleEn": "Oid Lookalike Cabinet",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字尾 -oid＝長得像——標本櫃裡都是「像某物的東西」。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "asteroid／android／humanoid 太空與人形。tabloid／factoid 小報與似是而非事實；spheroid／ovoid 球卵形——管理員：factoid≠fact；humanoid claims 要證據。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "-oid：asteroid/android/humanoid/tabloid/factoid/spheroid",
+        "factoid＝似是而非的小事"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Unverified trivial claim:",
+      "promptZh": "似是而非小事：",
+      "choices": [
+        "factoid",
+        "asteroid",
+        "repository",
+        "neon"
+      ],
+      "answer": "factoid"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Sensational small newspaper:",
+      "promptZh": "小報：",
+      "choices": [
+        "tabloid",
+        "sagacious",
+        "forecast",
+        "sole"
+      ],
+      "answer": "tabloid"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Human-like:",
+      "promptZh": "類人：",
+      "choices": [
+        "humanoid",
+        "fallacious",
+        "omnibus",
+        "scanty"
+      ],
+      "answer": "humanoid"
+    }
+  ],
+  "pitfalls": [
+    "factoid≠verified fact",
+    "tabloid＝小報"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch02"
+  }
+}

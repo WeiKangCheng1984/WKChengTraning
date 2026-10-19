@@ -1,0 +1,268 @@
+{
+  "id": "rhyme-acious-01",
+  "type": "rhyme",
+  "elementLemma": "-acious/-aceous",
+  "titleZh": "-acious｜性格尾音派對",
+  "titleEn": "Acious Trait Party",
+  "hook": "字尾 -acious＝很有某種脾氣——派對上每人胸牌都是一種性格。",
+  "script": "fallacious 謬誤舞。capacious 超大口袋。sagacious／perspicacious 聰慧燈；veracious／mendacious 誠實對說謊；——DJ：sagacious design；fallacious causality。",
+  "members": [
+    {
+      "headword": "fallacious",
+      "inVocab": true,
+      "senseAnchor": "謬誤的",
+      "roleInScript": "謬誤舞",
+      "humorDevice": "morphology",
+      "zhGloss": "謬誤的",
+      "speakLineEn": "Cue the 謬誤舞: fallacious walks on and the gag sticks.",
+      "speakLineZh": "請「謬誤舞」出場：fallacious 一上場梗就黏住——謬誤的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "capacious",
+      "inVocab": true,
+      "senseAnchor": "large in capacity",
+      "roleInScript": "大口袋",
+      "humorDevice": "morphology",
+      "zhGloss": "寬敞的",
+      "speakLineEn": "Cue the 大口袋: capacious walks on and the gag sticks.",
+      "speakLineZh": "請「大口袋」出場：capacious 一上場梗就黏住——寬敞的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "sagacious",
+      "inVocab": true,
+      "senseAnchor": "wise and intelligent",
+      "roleInScript": "聰慧燈",
+      "humorDevice": "morphology",
+      "zhGloss": "聰慧的",
+      "speakLineEn": "Cue the 聰慧燈: sagacious walks on and the gag sticks.",
+      "speakLineZh": "請「聰慧燈」出場：sagacious 一上場梗就黏住——聰慧的。",
+      "related": {
+        "synonyms": "discerning, insightful, prudent",
+        "antonyms": "foolish, naive, undiscerning, reckless, imprudent"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "veracious",
+      "inVocab": true,
+      "senseAnchor": "telling the truth",
+      "roleInScript": "誠實章",
+      "humorDevice": "morphology",
+      "zhGloss": "誠實的",
+      "speakLineEn": "Cue the 誠實章: veracious walks on and the gag sticks.",
+      "speakLineZh": "請「誠實章」出場：veracious 一上場梗就黏住——誠實的。",
+      "related": {
+        "synonyms": "right",
+        "antonyms": "center, falsify, improperly, incorrect, incorrectly, left, wrong, wrongfulness"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "mendacious",
+      "inVocab": true,
+      "senseAnchor": "given to lying; intentionally untrue",
+      "roleInScript": "說謊鼻",
+      "humorDevice": "morphology",
+      "zhGloss": "說謊的",
+      "speakLineEn": "Cue the 說謊鼻: mendacious walks on and the gag sticks.",
+      "speakLineZh": "請「說謊鼻」出場：mendacious 一上場梗就黏住——說謊的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": "truthful, honest"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "perspicacious",
+      "inVocab": true,
+      "senseAnchor": "having or showing penetrating mental discernment",
+      "roleInScript": "敏銳鏡",
+      "humorDevice": "morphology",
+      "zhGloss": "敏銳的",
+      "speakLineEn": "Cue the 敏銳鏡: perspicacious walks on and the gag sticks.",
+      "speakLineZh": "請「敏銳鏡」出場：perspicacious 一上場梗就黏住——敏銳的。",
+      "related": {
+        "synonyms": "astute, shrewd, keen, discerning",
+        "antonyms": "naive, obtuse, undiscerning"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "namebadge",
+      "inVocab": true,
+      "senseAnchor": "胸牌",
+      "roleInScript": "胸牌",
+      "humorDevice": "story",
+      "zhGloss": "胸牌",
+      "speakLineEn": "Cue the 胸牌: namebadge walks on and the gag sticks.",
+      "speakLineZh": "請「胸牌」出場：namebadge 一上場梗就黏住——胸牌。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "dancefloor",
+      "inVocab": true,
+      "senseAnchor": "舞池",
+      "roleInScript": "舞池",
+      "humorDevice": "story",
+      "zhGloss": "舞池",
+      "speakLineEn": "Cue the 舞池: dancefloor walks on and the gag sticks.",
+      "speakLineZh": "請「舞池」出場：dancefloor 一上場梗就黏住——舞池。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "speaker",
+      "inVocab": true,
+      "senseAnchor": "音箱",
+      "roleInScript": "音箱",
+      "humorDevice": "story",
+      "zhGloss": "音箱",
+      "speakLineEn": "Cue the 音箱: speaker walks on and the gag sticks.",
+      "speakLineZh": "請「音箱」出場：speaker 一上場梗就黏住——音箱。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "truthserum2",
+      "inVocab": true,
+      "senseAnchor": "吐實2",
+      "roleInScript": "吐實",
+      "humorDevice": "story",
+      "zhGloss": "吐實2",
+      "speakLineEn": "Cue the 吐實: truthserum2 walks on and the gag sticks.",
+      "speakLineZh": "請「吐實」出場：truthserum2 一上場梗就黏住——吐實2。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "liarhat",
+      "inVocab": true,
+      "senseAnchor": "騙子帽",
+      "roleInScript": "騙子帽",
+      "humorDevice": "story",
+      "zhGloss": "騙子帽",
+      "speakLineEn": "Cue the 騙子帽: liarhat walks on and the gag sticks.",
+      "speakLineZh": "請「騙子帽」出場：liarhat 一上場梗就黏住——騙子帽。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "wiseowl",
+      "inVocab": true,
+      "senseAnchor": "智慧貓頭鷹",
+      "roleInScript": "貓頭鷹",
+      "humorDevice": "story",
+      "zhGloss": "智慧貓頭鷹",
+      "speakLineEn": "Cue the 貓頭鷹: wiseowl walks on and the gag sticks.",
+      "speakLineZh": "請「貓頭鷹」出場：wiseowl 一上場梗就黏住——智慧貓頭鷹。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "bigpocket",
+      "inVocab": true,
+      "senseAnchor": "大口袋",
+      "roleInScript": "口袋",
+      "humorDevice": "story",
+      "zhGloss": "大口袋",
+      "speakLineEn": "Cue the 口袋: bigpocket walks on and the gag sticks.",
+      "speakLineZh": "請「口袋」出場：bigpocket 一上場梗就黏住——大口袋。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "sharpeye",
+      "inVocab": true,
+      "senseAnchor": "銳眼",
+      "roleInScript": "銳眼",
+      "humorDevice": "story",
+      "zhGloss": "銳眼",
+      "speakLineEn": "Cue the 銳眼: sharpeye walks on and the gag sticks.",
+      "speakLineZh": "請「銳眼」出場：sharpeye 一上場梗就黏住——銳眼。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "partyhat",
+      "inVocab": true,
+      "senseAnchor": "派對帽",
+      "roleInScript": "派對帽",
+      "humorDevice": "story",
+      "zhGloss": "派對帽",
+      "speakLineEn": "Cue the 派對帽: partyhat walks on and the gag sticks.",
+      "speakLineZh": "請「派對帽」出場：partyhat 一上場梗就黏住——派對帽。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "playlist",
+      "inVocab": true,
+      "senseAnchor": "歌單",
+      "roleInScript": "歌單",
+      "humorDevice": "story",
+      "zhGloss": "歌單",
+      "speakLineEn": "Cue the 歌單: playlist walks on and the gag sticks.",
+      "speakLineZh": "請「歌單」出場：playlist 一上場梗就黏住——歌單。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    }
+  ],
+  "reviewHooks": [
+    "-acious：fallacious/capacious/sagacious/veracious/mendacious/perspicacious",
+    "mendacious＝說謊的"
+  ],
+  "pitfalls": [
+    "veracious＝誠實；mendacious＝虛假",
+    "perspicacious＝敏銳"
+  ],
+  "lessonRefs": [
+    "lesson-rhyme-acious-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch02"
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "id": "look-incredible-01",
+  "type": "lookalike",
+  "elementLemma": "incredible-incredulous",
+  "titleZh": "incredible ↔ incredulous｜奇蹟舞台 vs 不信觀眾席",
+  "titleEn": "Incredible vs Incredulous Theater",
+  "hook": "舞台奇蹟 incredible；觀眾一臉不信 incredulous——別把觀眾表情當奇蹟。",
+  "script": "練 incredulity／credulity／amazement／stupefaction——售票員：incredible claim；incredulous peer review。",
+  "members": [
+    {
+      "headword": "incredulity",
+      "inVocab": true,
+      "senseAnchor": "不輕信",
+      "roleInScript": "不信臉",
+      "humorDevice": "lookalike",
+      "zhGloss": "不輕信",
+      "speakLineEn": "Cue the 不信臉: incredulity walks on and the gag sticks.",
+      "speakLineZh": "請「不信臉」出場：incredulity 一上場梗就黏住——不輕信。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "credulity",
+      "inVocab": true,
+      "senseAnchor": "輕信",
+      "roleInScript": "輕信坑",
+      "humorDevice": "lookalike",
+      "zhGloss": "輕信",
+      "speakLineEn": "Cue the 輕信坑: credulity walks on and the gag sticks.",
+      "speakLineZh": "請「輕信坑」出場：credulity 一上場梗就黏住——輕信。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "dubiety",
+      "inVocab": true,
+      "senseAnchor": "懷疑",
+      "roleInScript": "懷疑雲",
+      "humorDevice": "lookalike",
+      "zhGloss": "懷疑",
+      "speakLineEn": "Cue the 懷疑雲: dubiety walks on and the gag sticks.",
+      "speakLineZh": "請「懷疑雲」出場：dubiety 一上場梗就黏住——懷疑。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "amazement",
+      "inVocab": false,
+      "senseAnchor": "驚異",
+      "roleInScript": "驚異",
+      "humorDevice": "lookalike",
+      "zhGloss": "驚異",
+      "speakLineEn": "Cue the 驚異: amazement walks on and the gag sticks.",
+      "speakLineZh": "請「驚異」出場：amazement 一上場梗就黏住——驚異。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "astonishment",
+      "inVocab": true,
+      "senseAnchor": "驚訝",
+      "roleInScript": "驚訝",
+      "humorDevice": "lookalike",
+      "zhGloss": "驚訝",
+      "speakLineEn": "Cue the 驚訝: astonishment walks on and the gag sticks.",
+      "speakLineZh": "請「驚訝」出場：astonishment 一上場梗就黏住——驚訝。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "stupefaction",
+      "inVocab": true,
+      "senseAnchor": "驚呆",
+      "roleInScript": "驚呆",
+      "humorDevice": "lookalike",
+      "zhGloss": "驚呆",
+      "speakLineEn": "Cue the 驚呆: stupefaction walks on and the gag sticks.",
+      "speakLineZh": "請「驚呆」出場：stupefaction 一上場梗就黏住——驚呆。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "wonderment",
+      "inVocab": true,
+      "senseAnchor": "驚奇",
+      "roleInScript": "驚奇",
+      "humorDevice": "lookalike",
+      "zhGloss": "驚奇",
+      "speakLineEn": "Cue the 驚奇: wonderment walks on and the gag sticks.",
+      "speakLineZh": "請「驚奇」出場：wonderment 一上場梗就黏住——驚奇。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "stage",
+      "inVocab": false,
+      "senseAnchor": "舞台",
+      "roleInScript": "舞台",
+      "humorDevice": "story",
+      "zhGloss": "舞台",
+      "speakLineEn": "Cue the 舞台: stage walks on and the gag sticks.",
+      "speakLineZh": "請「舞台」出場：stage 一上場梗就黏住——舞台。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "audience",
+      "inVocab": true,
+      "senseAnchor": "觀眾",
+      "roleInScript": "觀眾",
+      "humorDevice": "story",
+      "zhGloss": "觀眾",
+      "speakLineEn": "Cue the 觀眾: audience walks on and the gag sticks.",
+      "speakLineZh": "請「觀眾」出場：audience 一上場梗就黏住——觀眾。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "gasp",
+      "inVocab": true,
+      "senseAnchor": "倒抽氣",
+      "roleInScript": "倒抽氣",
+      "humorDevice": "story",
+      "zhGloss": "倒抽氣",
+      "speakLineEn": "Cue the 倒抽氣: gasp walks on and the gag sticks.",
+      "speakLineZh": "請「倒抽氣」出場：gasp 一上場梗就黏住——倒抽氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "eyebrow",
+      "inVocab": true,
+      "senseAnchor": "挑眉",
+      "roleInScript": "挑眉",
+      "humorDevice": "story",
+      "zhGloss": "挑眉",
+      "speakLineEn": "Cue the 挑眉: eyebrow walks on and the gag sticks.",
+      "speakLineZh": "請「挑眉」出場：eyebrow 一上場梗就黏住——挑眉。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "magic",
+      "inVocab": true,
+      "senseAnchor": "魔術",
+      "roleInScript": "魔術",
+      "humorDevice": "story",
+      "zhGloss": "魔術",
+      "speakLineEn": "Cue the 魔術: magic walks on and the gag sticks.",
+      "speakLineZh": "請「魔術」出場：magic 一上場梗就黏住——魔術。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "curtaincall",
+      "inVocab": true,
+      "senseAnchor": "謝幕",
+      "roleInScript": "謝幕",
+      "humorDevice": "story",
+      "zhGloss": "謝幕",
+      "speakLineEn": "Cue the 謝幕: curtaincall walks on and the gag sticks.",
+      "speakLineZh": "請「謝幕」出場：curtaincall 一上場梗就黏住——謝幕。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "doubtface",
+      "inVocab": true,
+      "senseAnchor": "懷疑臉",
+      "roleInScript": "懷疑臉",
+      "humorDevice": "story",
+      "zhGloss": "懷疑臉",
+      "speakLineEn": "Cue the 懷疑臉: doubtface walks on and the gag sticks.",
+      "speakLineZh": "請「懷疑臉」出場：doubtface 一上場梗就黏住——懷疑臉。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "wow",
+      "inVocab": false,
+      "senseAnchor": "哇",
+      "roleInScript": "哇",
+      "humorDevice": "story",
+      "zhGloss": "哇",
+      "speakLineEn": "Cue the 哇: wow walks on and the gag sticks.",
+      "speakLineZh": "請「哇」出場：wow 一上場梗就黏住——哇。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "incredible＝難以置信（事）",
+    "incredulous＝不肯信（人）"
+  ],
+  "pitfalls": [
+    "incredible 修飾事；incredulous 修飾人"
+  ],
+  "lessonRefs": [
+    "lesson-look-incredible-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch02"
+  }
+}

@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "methodical",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "有條理",
       "roleInScript": "條理尺",
       "humorDevice": "contrast",
@@ -20,11 +20,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "systematic",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "系統的",
       "roleInScript": "系統格",
       "humorDevice": "contrast",
@@ -35,11 +35,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "disciplined",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "有紀律",
       "roleInScript": "紀律鼓",
       "humorDevice": "contrast",
@@ -50,11 +50,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "tidy",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "整齊",
       "roleInScript": "整齊櫃",
       "humorDevice": "contrast",
@@ -65,7 +65,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "ratiocination",

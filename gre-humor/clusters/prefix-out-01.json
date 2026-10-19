@@ -24,7 +24,7 @@
     },
     {
       "headword": "outrageous",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "離譜的；暴行的",
       "roleInScript": "離譜旗",
       "humorDevice": "morphology",
@@ -35,11 +35,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "outmoded",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "過時的",
       "roleInScript": "過時道具",
       "humorDevice": "morphology",
@@ -50,11 +50,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "outspoken",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "直言的",
       "roleInScript": "直言麥",
       "humorDevice": "morphology",
@@ -65,7 +65,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "outstrip",
@@ -84,7 +84,7 @@
     },
     {
       "headword": "outwit",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "以智取勝",
       "roleInScript": "智取牌",
       "humorDevice": "morphology",
@@ -95,11 +95,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "outskirts",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "郊區；外圍",
       "roleInScript": "外圍區",
       "humorDevice": "story",
@@ -110,11 +110,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "outburst",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "爆發",
       "roleInScript": "爆發點",
       "humorDevice": "story",
@@ -125,11 +125,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "outcast",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "被排斥者",
       "roleInScript": "被排除",
       "humorDevice": "story",
@@ -140,11 +140,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "outer",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "外部的",
       "roleInScript": "外圈",
       "humorDevice": "story",
@@ -155,11 +155,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "outdo",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "勝過",
       "roleInScript": "勝過鍵",
       "humorDevice": "story",
@@ -170,11 +170,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "outlier-ward",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "朝離群",
       "roleInScript": "離群方向",
       "humorDevice": "story",
@@ -185,7 +185,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     }
   ],
   "reviewHooks": [

@@ -1,0 +1,97 @@
+{
+  "id": "lesson-sem-praise-criticize-01",
+  "slug": "sem-praise-criticize-01",
+  "season": 3,
+  "seasonTitleZh": "語氣對打",
+  "seasonTitleEn": "Tone Duels",
+  "type": "duel",
+  "minutes": "12-15",
+  "clusterId": "sem-praise-criticize-01",
+  "titleZh": "吹捧 ↔ 抨擊｜紅毯對鞭刑台",
+  "titleEn": "Praise vs Criticize Red Carpet",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "紅毯灑花（accolade/kudos）對鞭刑台（excoriate/berate）——語氣一秒分邊。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "吹捧隊：accolade／kudos／plaudit／adulation／blandishment 灑花。抨擊隊：excoriate／berate／vilify／decry／belittle 揮鞭——司儀：plaudit for open nulls；excoriate fabrication。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "吹捧：accolade/kudos/plaudit/adulation",
+        "抨擊：excoriate/berate/vilify/decry"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Painfully criticize:",
+      "promptZh": "痛斥：",
+      "choices": [
+        "excoriate",
+        "kudos",
+        "repository",
+        "neon"
+      ],
+      "answer": "excoriate"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Praise; honor:",
+      "promptZh": "榮譽讚揚：",
+      "choices": [
+        "accolade",
+        "berate",
+        "forecast",
+        "sole"
+      ],
+      "answer": "accolade"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Excessive flattery:",
+      "promptZh": "諂媚吹捧：",
+      "choices": [
+        "adulation",
+        "decry",
+        "omnibus",
+        "scanty"
+      ],
+      "answer": "adulation"
+    }
+  ],
+  "pitfalls": [
+    "excoriate＝痛斥",
+    "adulation＝諂媚吹捧"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch02"
+  }
+}

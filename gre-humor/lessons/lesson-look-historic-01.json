@@ -1,0 +1,96 @@
+{
+  "id": "lesson-look-historic-01",
+  "slug": "look-historic-01",
+  "season": 3,
+  "seasonTitleZh": "語氣對打",
+  "seasonTitleEn": "Tone Duels",
+  "type": "duel",
+  "minutes": "12-15",
+  "clusterId": "look-historic-01",
+  "titleZh": "historic ↔ historical｜史冊大事／歷史課教室",
+  "titleEn": "Historic vs Historical Classroom",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "史冊大事燈 historic，歷史課本 historical——兩塊黑板別寫反。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "本館用 epochal／annals／bygone／antiquarian 把「史冊感」與「歷史課感」練熟——老師：epochal prereg；annals of corrections。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "historic＝有歷史意義",
+        "historical＝與歷史有關"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Era-defining:",
+      "promptZh": "劃時代：",
+      "choices": [
+        "epochal",
+        "murky",
+        "repository",
+        "neon"
+      ],
+      "answer": "epochal"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Yearly historical records:",
+      "promptZh": "編年史：",
+      "choices": [
+        "annals",
+        "sly",
+        "forecast",
+        "sole"
+      ],
+      "answer": "annals"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Of bygone times:",
+      "promptZh": "往昔：",
+      "choices": [
+        "yesteryear",
+        "embark",
+        "omnibus",
+        "scanty"
+      ],
+      "answer": "yesteryear"
+    }
+  ],
+  "pitfalls": [
+    "historic≠historical"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch02"
+  }
+}

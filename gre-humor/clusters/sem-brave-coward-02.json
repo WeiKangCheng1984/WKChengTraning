@@ -1,0 +1,403 @@
+{
+  "id": "sem-brave-coward-02",
+  "type": "semantic",
+  "elementLemma": "courage-vs-cowardice",
+  "titleZh": "勇敢 ↔ 怯懦｜獅子心 vs 軟腳蝦續集",
+  "titleEn": "Brave vs Coward 2",
+  "hook": "獅子心（doughty/undaunted）對軟腳蝦（poltroon/spineless）——勇氣擂台第二場。",
+  "script": "勇敢隊：undaunted／doughty／mettlesome／lionhearted 衝陣。怯懦隊：poltroon／recreant／dastardly／spineless／fainthearted 縮殼——裁判：undaunted reporting；poltroon silence after error。",
+  "members": [
+    {
+      "headword": "daunt",
+      "inVocab": true,
+      "senseAnchor": "嚇倒",
+      "roleInScript": "嚇倒臉",
+      "humorDevice": "contrast",
+      "zhGloss": "嚇倒",
+      "speakLineEn": "Cue the 嚇倒臉: daunt walks on and the gag sticks.",
+      "speakLineZh": "請「嚇倒臉」出場：daunt 一上場梗就黏住——嚇倒。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "undaunted",
+      "inVocab": true,
+      "senseAnchor": "不氣餒",
+      "roleInScript": "不氣餒盔",
+      "humorDevice": "contrast",
+      "zhGloss": "不氣餒",
+      "speakLineEn": "Cue the 不氣餒盔: undaunted walks on and the gag sticks.",
+      "speakLineZh": "請「不氣餒盔」出場：undaunted 一上場梗就黏住——不氣餒。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "pluck",
+      "inVocab": true,
+      "senseAnchor": "勇氣",
+      "roleInScript": "勇氣羽",
+      "humorDevice": "contrast",
+      "zhGloss": "勇氣",
+      "speakLineEn": "Cue the 勇氣羽: pluck walks on and the gag sticks.",
+      "speakLineZh": "請「勇氣羽」出場：pluck 一上場梗就黏住——勇氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "gutsy",
+      "inVocab": true,
+      "senseAnchor": "有膽的",
+      "roleInScript": "有膽",
+      "humorDevice": "contrast",
+      "zhGloss": "有膽的",
+      "speakLineEn": "Cue the 有膽: gutsy walks on and the gag sticks.",
+      "speakLineZh": "請「有膽」出場：gutsy 一上場梗就黏住——有膽的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "mettlesome",
+      "inVocab": true,
+      "senseAnchor": "驍勇的",
+      "roleInScript": "驍勇",
+      "humorDevice": "contrast",
+      "zhGloss": "驍勇的",
+      "speakLineEn": "Cue the 驍勇: mettlesome walks on and the gag sticks.",
+      "speakLineZh": "請「驍勇」出場：mettlesome 一上場梗就黏住——驍勇的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "doughty",
+      "inVocab": true,
+      "senseAnchor": "勇敢堅毅",
+      "roleInScript": "堅毅盾",
+      "humorDevice": "contrast",
+      "zhGloss": "勇敢堅毅",
+      "speakLineEn": "Cue the 堅毅盾: doughty walks on and the gag sticks.",
+      "speakLineZh": "請「堅毅盾」出場：doughty 一上場梗就黏住——勇敢堅毅。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "stouthearted",
+      "inVocab": true,
+      "senseAnchor": "used especially of persons",
+      "roleInScript": "剛勇",
+      "humorDevice": "contrast",
+      "zhGloss": "剛勇",
+      "speakLineEn": "Cue the 剛勇: stouthearted walks on and the gag sticks.",
+      "speakLineZh": "請「剛勇」出場：stouthearted 一上場梗就黏住——剛勇。",
+      "related": {
+        "synonyms": "stalwart",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "lionhearted",
+      "inVocab": true,
+      "senseAnchor": "獅心",
+      "roleInScript": "獅心",
+      "humorDevice": "contrast",
+      "zhGloss": "獅心",
+      "speakLineEn": "Cue the 獅心: lionhearted walks on and the gag sticks.",
+      "speakLineZh": "請「獅心」出場：lionhearted 一上場梗就黏住——獅心。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "poltroon",
+      "inVocab": true,
+      "senseAnchor": "懦夫",
+      "roleInScript": "懦夫蝦",
+      "humorDevice": "contrast",
+      "zhGloss": "懦夫",
+      "speakLineEn": "Cue the 懦夫蝦: poltroon walks on and the gag sticks.",
+      "speakLineZh": "請「懦夫蝦」出場：poltroon 一上場梗就黏住——懦夫。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "recreant",
+      "inVocab": true,
+      "senseAnchor": "怯懦背信",
+      "roleInScript": "背信",
+      "humorDevice": "contrast",
+      "zhGloss": "怯懦背信",
+      "speakLineEn": "Cue the 背信: recreant walks on and the gag sticks.",
+      "speakLineZh": "請「背信」出場：recreant 一上場梗就黏住——怯懦背信。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "dastardly",
+      "inVocab": true,
+      "senseAnchor": "卑鄙怯懦",
+      "roleInScript": "卑鄙",
+      "humorDevice": "contrast",
+      "zhGloss": "卑鄙怯懦",
+      "speakLineEn": "Cue the 卑鄙: dastardly walks on and the gag sticks.",
+      "speakLineZh": "請「卑鄙」出場：dastardly 一上場梗就黏住——卑鄙怯懦。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "chickenhearted",
+      "inVocab": true,
+      "senseAnchor": "膽小如雞",
+      "roleInScript": "雞心",
+      "humorDevice": "contrast",
+      "zhGloss": "膽小如雞",
+      "speakLineEn": "Cue the 雞心: chickenhearted walks on and the gag sticks.",
+      "speakLineZh": "請「雞心」出場：chickenhearted 一上場梗就黏住——膽小如雞。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "fainthearted",
+      "inVocab": true,
+      "senseAnchor": "懦弱",
+      "roleInScript": "懦弱燈",
+      "humorDevice": "contrast",
+      "zhGloss": "懦弱",
+      "speakLineEn": "Cue the 懦弱燈: fainthearted walks on and the gag sticks.",
+      "speakLineZh": "請「懦弱燈」出場：fainthearted 一上場梗就黏住——懦弱。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "spineless",
+      "inVocab": true,
+      "senseAnchor": "沒骨氣",
+      "roleInScript": "軟骨",
+      "humorDevice": "contrast",
+      "zhGloss": "沒骨氣",
+      "speakLineEn": "Cue the 軟骨: spineless walks on and the gag sticks.",
+      "speakLineZh": "請「軟骨」出場：spineless 一上場梗就黏住——沒骨氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "roar",
+      "inVocab": true,
+      "senseAnchor": "咆哮",
+      "roleInScript": "獅吼",
+      "humorDevice": "story",
+      "zhGloss": "咆哮",
+      "speakLineEn": "Cue the 獅吼: roar walks on and the gag sticks.",
+      "speakLineZh": "請「獅吼」出場：roar 一上場梗就黏住——咆哮。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "shell",
+      "inVocab": true,
+      "senseAnchor": "殼",
+      "roleInScript": "縮殼",
+      "humorDevice": "story",
+      "zhGloss": "殼",
+      "speakLineEn": "Cue the 縮殼: shell walks on and the gag sticks.",
+      "speakLineZh": "請「縮殼」出場：shell 一上場梗就黏住——殼。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "medal",
+      "inVocab": true,
+      "senseAnchor": "勳章",
+      "roleInScript": "勳章",
+      "humorDevice": "story",
+      "zhGloss": "勳章",
+      "speakLineEn": "Cue the 勳章: medal walks on and the gag sticks.",
+      "speakLineZh": "請「勳章」出場：medal 一上場梗就黏住——勳章。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "whiteflag",
+      "inVocab": true,
+      "senseAnchor": "白旗",
+      "roleInScript": "白旗",
+      "humorDevice": "story",
+      "zhGloss": "白旗",
+      "speakLineEn": "Cue the 白旗: whiteflag walks on and the gag sticks.",
+      "speakLineZh": "請「白旗」出場：whiteflag 一上場梗就黏住——白旗。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "charge",
+      "inVocab": true,
+      "senseAnchor": "衝鋒",
+      "roleInScript": "衝鋒",
+      "humorDevice": "story",
+      "zhGloss": "衝鋒",
+      "speakLineEn": "Cue the 衝鋒: charge walks on and the gag sticks.",
+      "speakLineZh": "請「衝鋒」出場：charge 一上場梗就黏住——衝鋒。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "retreat",
+      "inVocab": true,
+      "senseAnchor": "撤退",
+      "roleInScript": "撤退",
+      "humorDevice": "story",
+      "zhGloss": "撤退",
+      "speakLineEn": "Cue the 撤退: retreat walks on and the gag sticks.",
+      "speakLineZh": "請「撤退」出場：retreat 一上場梗就黏住——撤退。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "armor",
+      "inVocab": true,
+      "senseAnchor": "盔甲",
+      "roleInScript": "盔甲",
+      "humorDevice": "story",
+      "zhGloss": "盔甲",
+      "speakLineEn": "Cue the 盔甲: armor walks on and the gag sticks.",
+      "speakLineZh": "請「盔甲」出場：armor 一上場梗就黏住——盔甲。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "quiver",
+      "inVocab": true,
+      "senseAnchor": "顫抖",
+      "roleInScript": "顫抖",
+      "humorDevice": "story",
+      "zhGloss": "顫抖",
+      "speakLineEn": "Cue the 顫抖: quiver walks on and the gag sticks.",
+      "speakLineZh": "請「顫抖」出場：quiver 一上場梗就黏住——顫抖。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "backbone",
+      "inVocab": true,
+      "senseAnchor": "脊梁",
+      "roleInScript": "脊梁",
+      "humorDevice": "story",
+      "zhGloss": "脊梁",
+      "speakLineEn": "Cue the 脊梁: backbone walks on and the gag sticks.",
+      "speakLineZh": "請「脊梁」出場：backbone 一上場梗就黏住——脊梁。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "knees",
+      "inVocab": true,
+      "senseAnchor": "膝蓋發軟",
+      "roleInScript": "軟膝",
+      "humorDevice": "story",
+      "zhGloss": "膝蓋發軟",
+      "speakLineEn": "Cue the 軟膝: knees walks on and the gag sticks.",
+      "speakLineZh": "請「軟膝」出場：knees 一上場梗就黏住——膝蓋發軟。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "trumpet",
+      "inVocab": true,
+      "senseAnchor": "號角",
+      "roleInScript": "號角",
+      "humorDevice": "story",
+      "zhGloss": "號角",
+      "speakLineEn": "Cue the 號角: trumpet walks on and the gag sticks.",
+      "speakLineZh": "請「號角」出場：trumpet 一上場梗就黏住——號角。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    }
+  ],
+  "reviewHooks": [
+    "勇敢：undaunted/doughty/mettlesome/lionhearted",
+    "怯懦：poltroon/spineless/dastardly"
+  ],
+  "pitfalls": [
+    "poltroon＝懦夫",
+    "undaunted＝不氣餒"
+  ],
+  "lessonRefs": [
+    "lesson-sem-brave-coward-02"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch02"
+  }
+}

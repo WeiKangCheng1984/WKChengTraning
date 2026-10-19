@@ -24,7 +24,7 @@
     },
     {
       "headword": "periphery",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "外圍；邊緣",
       "roleInScript": "邊緣圈",
       "humorDevice": "morphology",
@@ -35,11 +35,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "period",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "時期；句點",
       "roleInScript": "週期鐘",
       "humorDevice": "morphology",
@@ -50,11 +50,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "periodic",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "週期性的",
       "roleInScript": "週期燈",
       "humorDevice": "morphology",
@@ -65,7 +65,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "peripatetic",
@@ -84,7 +84,7 @@
     },
     {
       "headword": "perihelion",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "近日點",
       "roleInScript": "近日點",
       "humorDevice": "story",
@@ -95,11 +95,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "perinatal",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "圍產期的",
       "roleInScript": "圍產窗",
       "humorDevice": "story",
@@ -110,11 +110,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "periphrasis",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "迂迴說法",
       "roleInScript": "繞圈話",
       "humorDevice": "morphology",
@@ -125,7 +125,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "rim",
@@ -140,11 +140,12 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "loop",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "迴圈",
       "roleInScript": "迴圈道",
       "humorDevice": "story",
@@ -155,7 +156,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     }
   ],
   "reviewHooks": [

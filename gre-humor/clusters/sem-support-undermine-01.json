@@ -129,7 +129,7 @@
     },
     {
       "headword": "undermine",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "暗中破壞",
       "roleInScript": "挖牆腳",
       "humorDevice": "contrast",
@@ -140,7 +140,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "sabotage",

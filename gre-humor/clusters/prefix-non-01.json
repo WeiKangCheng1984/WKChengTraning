@@ -54,7 +54,7 @@
     },
     {
       "headword": "nonplussed",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "困惑的；不知所措",
       "roleInScript": "愣住臉",
       "humorDevice": "morphology",
@@ -65,7 +65,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "noncommittal",
@@ -84,7 +84,7 @@
     },
     {
       "headword": "nonpartisan",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "無黨派的",
       "roleInScript": "不站隊",
       "humorDevice": "morphology",
@@ -95,11 +95,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "nonsectarian",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "無宗派的",
       "roleInScript": "無宗派",
       "humorDevice": "story",
@@ -110,7 +110,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "not-so",
@@ -125,7 +125,8 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "absence",
@@ -140,11 +141,12 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "neutral",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "中立的",
       "roleInScript": "中立旗",
       "humorDevice": "story",
@@ -155,7 +157,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     }
   ],
   "reviewHooks": [

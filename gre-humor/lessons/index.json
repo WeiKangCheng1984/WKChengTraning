@@ -1,7 +1,18 @@
 {
-  "version": "v0.9-p2b07-p3b01",
-  "total": 232,
+  "version": "v0.9-p3-batch02",
+  "total": 247,
   "lessons": [
+    {
+      "id": "lesson-rhyme-acious-01",
+      "slug": "rhyme-acious-01",
+      "season": 1,
+      "seasonTitleZh": "押韻派對",
+      "titleZh": "-acious｜性格尾音派對",
+      "clusterId": "rhyme-acious-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 16
+    },
     {
       "id": "lesson-rhyme-ain-01",
       "slug": "rhyme-ain-01",
@@ -91,6 +102,17 @@
       "memberCount": 12
     },
     {
+      "id": "lesson-rhyme-ire-01",
+      "slug": "rhyme-ire-01",
+      "season": 1,
+      "seasonTitleZh": "押韻派對",
+      "titleZh": "-ire｜泥沼哨塔派對",
+      "clusterId": "rhyme-ire-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 15
+    },
+    {
       "id": "lesson-rhyme-logy-01",
       "slug": "rhyme-logy-01",
       "season": 1,
@@ -100,6 +122,17 @@
       "type": "family",
       "status": "reviewed",
       "memberCount": 11
+    },
+    {
+      "id": "lesson-rhyme-oid-01",
+      "slug": "rhyme-oid-01",
+      "season": 1,
+      "seasonTitleZh": "押韻派對",
+      "titleZh": "-oid｜形似物標本櫃",
+      "clusterId": "rhyme-oid-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 16
     },
     {
       "id": "lesson-rhyme-ory-01",
@@ -177,6 +210,17 @@
       "type": "family",
       "status": "reviewed",
       "memberCount": 11
+    },
+    {
+      "id": "lesson-rhyme-ule-01",
+      "slug": "rhyme-ule-01",
+      "season": 1,
+      "seasonTitleZh": "押韻派對",
+      "titleZh": "-ule｜迷你粒子市集",
+      "clusterId": "rhyme-ule-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 16
     },
     {
       "id": "lesson-rhyme-vise-01",
@@ -1917,6 +1961,28 @@
       "memberCount": 12
     },
     {
+      "id": "lesson-look-historic-01",
+      "slug": "look-historic-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "historic ↔ historical｜史冊大事／歷史課教室",
+      "clusterId": "look-historic-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 15
+    },
+    {
+      "id": "lesson-look-incredible-01",
+      "slug": "look-incredible-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "incredible ↔ incredulous｜奇蹟舞台 vs 不信觀眾席",
+      "clusterId": "look-incredible-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 15
+    },
+    {
       "id": "lesson-look-ingenious-01",
       "slug": "look-ingenious-01",
       "season": 3,
@@ -1934,6 +2000,39 @@
       "seasonTitleZh": "語氣對打",
       "titleZh": "形近／易混對決包",
       "clusterId": "look-pair-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 16
+    },
+    {
+      "id": "lesson-look-perspective-01",
+      "slug": "look-perspective-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "perspective ↔ prospective｜視角／預期觀景台",
+      "clusterId": "look-perspective-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 15
+    },
+    {
+      "id": "lesson-look-respect-01",
+      "slug": "look-respect-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "respectfully ↔ respectively｜敬禮台 vs 分號櫃台",
+      "clusterId": "look-respect-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 16
+    },
+    {
+      "id": "lesson-look-sensual-01",
+      "slug": "look-sensual-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "sensual ↔ sensuous｜感官廚房 vs 美感畫廊",
+      "clusterId": "look-sensual-01",
       "type": "duel",
       "status": "reviewed",
       "memberCount": 16
@@ -1959,6 +2058,28 @@
       "type": "duel",
       "status": "reviewed",
       "memberCount": 12
+    },
+    {
+      "id": "lesson-sem-begin-end-02",
+      "slug": "sem-begin-end-02",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "開始 ↔ 結束｜發令槍 vs 落幕燈",
+      "clusterId": "sem-begin-end-02",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 23
+    },
+    {
+      "id": "lesson-sem-brave-coward-02",
+      "slug": "sem-brave-coward-02",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "勇敢 ↔ 怯懦｜獅子心 vs 軟腳蝦續集",
+      "clusterId": "sem-brave-coward-02",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 25
     },
     {
       "id": "lesson-sem-brief-01",
@@ -1994,6 +2115,17 @@
       "memberCount": 15
     },
     {
+      "id": "lesson-sem-clear-obscure-02",
+      "slug": "sem-clear-obscure-02",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "清晰 ↔ 晦澀｜玻璃窗 vs 霧玻璃",
+      "clusterId": "sem-clear-obscure-02",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 24
+    },
+    {
       "id": "lesson-sem-courage-01",
       "slug": "sem-courage-01",
       "season": 3,
@@ -2025,6 +2157,17 @@
       "type": "duel",
       "status": "reviewed",
       "memberCount": 12
+    },
+    {
+      "id": "lesson-sem-honest-deceit-02",
+      "slug": "sem-honest-deceit-02",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "誠實 ↔ 欺瞞｜玻璃心 vs 煙霧彈",
+      "clusterId": "sem-honest-deceit-02",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 23
     },
     {
       "id": "lesson-sem-humble-vain-01",
@@ -2082,6 +2225,17 @@
       "memberCount": 12
     },
     {
+      "id": "lesson-sem-praise-criticize-01",
+      "slug": "sem-praise-criticize-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "吹捧 ↔ 抨擊｜紅毯對鞭刑台",
+      "clusterId": "sem-praise-criticize-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 24
+    },
+    {
       "id": "lesson-sem-rigid-01",
       "slug": "sem-rigid-01",
       "season": 3,
@@ -2091,6 +2245,17 @@
       "type": "duel",
       "status": "reviewed",
       "memberCount": 12
+    },
+    {
+      "id": "lesson-sem-rigid-flexible-02",
+      "slug": "sem-rigid-flexible-02",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "僵硬 ↔ 柔韌｜水泥柱 vs 瑜珈墊",
+      "clusterId": "sem-rigid-flexible-02",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 25
     },
     {
       "id": "lesson-sem-scarce-01",

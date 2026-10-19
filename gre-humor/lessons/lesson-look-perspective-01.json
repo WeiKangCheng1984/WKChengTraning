@@ -1,0 +1,96 @@
+{
+  "id": "lesson-look-perspective-01",
+  "slug": "look-perspective-01",
+  "season": 3,
+  "seasonTitleZh": "語氣對打",
+  "seasonTitleEn": "Tone Duels",
+  "type": "duel",
+  "minutes": "12-15",
+  "clusterId": "look-perspective-01",
+  "titleZh": "perspective ↔ prospective｜視角／預期觀景台",
+  "titleEn": "Perspective vs Prospective Deck",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "視角窗 standpoint／vantage；未來鏡 imminent／upcoming——兩具望遠鏡。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "perspective＝角度看事情；prospective＝未來將發生——導遊：statistical standpoint；imminent data lock。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "perspective＝視角",
+        "prospective＝預期未來"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Point of view:",
+      "promptZh": "觀點立場：",
+      "choices": [
+        "standpoint",
+        "imminent",
+        "trilogy",
+        "neon"
+      ],
+      "answer": "standpoint"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "About to happen:",
+      "promptZh": "即將發生：",
+      "choices": [
+        "imminent",
+        "hindsight",
+        "forecast",
+        "sole"
+      ],
+      "answer": "imminent"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Advantageous viewing place:",
+      "promptZh": "有利位置：",
+      "choices": [
+        "vantage",
+        "sly",
+        "omnibus",
+        "scanty"
+      ],
+      "answer": "vantage"
+    }
+  ],
+  "pitfalls": [
+    "perspective≠prospective"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch02"
+  }
+}

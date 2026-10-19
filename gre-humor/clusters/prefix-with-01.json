@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "withhold",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "扣留；拒絕給予",
       "roleInScript": "扣住鎖",
       "humorDevice": "morphology",
@@ -20,7 +20,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "withstand",
@@ -39,7 +39,7 @@
     },
     {
       "headword": "withdrawn",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "撤回的；內向的",
       "roleInScript": "撤回臉",
       "humorDevice": "morphology",
@@ -50,11 +50,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "wither",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "枯萎；萎縮",
       "roleInScript": "枯萎葉",
       "humorDevice": "morphology",
@@ -65,11 +65,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "without",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "沒有",
       "roleInScript": "沒有牌",
       "humorDevice": "morphology",
@@ -80,11 +80,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "hold-back",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "扣住",
       "roleInScript": "扣住鍵",
       "humorDevice": "story",
@@ -95,7 +95,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "dry-up",
@@ -110,7 +110,8 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "against",
@@ -125,11 +126,12 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "gate",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "閘門",
       "roleInScript": "閘門",
       "humorDevice": "story",
@@ -140,7 +142,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     }
   ],
   "reviewHooks": [

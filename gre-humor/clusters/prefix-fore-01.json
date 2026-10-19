@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "forecast",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "預報；預測",
       "roleInScript": "預報板",
       "humorDevice": "morphology",
@@ -20,11 +20,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "foresee",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "預見",
       "roleInScript": "望遠鏡",
       "humorDevice": "morphology",
@@ -35,11 +35,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "foretell",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "預言",
       "roleInScript": "預言筒",
       "humorDevice": "morphology",
@@ -50,11 +50,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "foreshadow",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "預示",
       "roleInScript": "預示影",
       "humorDevice": "morphology",
@@ -65,11 +65,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "forewarn",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "預先警告",
       "roleInScript": "預警鈴",
       "humorDevice": "morphology",
@@ -80,11 +80,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "foreboding",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "不祥預感",
       "roleInScript": "不祥雲",
       "humorDevice": "morphology",
@@ -95,11 +95,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "forefather",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "先祖",
       "roleInScript": "先祖牆",
       "humorDevice": "story",
@@ -110,11 +110,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "preview",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "預覽",
       "roleInScript": "預覽窗",
       "humorDevice": "story",
@@ -125,11 +125,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "early-warning",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "預警",
       "roleInScript": "預警系統",
       "humorDevice": "story",
@@ -140,7 +140,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "ahead",
@@ -155,11 +155,12 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "omen",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "預兆",
       "roleInScript": "預兆燈",
       "humorDevice": "story",
@@ -170,7 +171,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     }
   ],
   "reviewHooks": [

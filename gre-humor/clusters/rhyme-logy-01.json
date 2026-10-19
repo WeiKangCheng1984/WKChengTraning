@@ -20,11 +20,12 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "mythology",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "神話迷思",
       "roleInScript": "神話廊",
       "humorDevice": "morphology",
@@ -35,11 +36,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "theology",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "神學",
       "roleInScript": "神學閣",
       "humorDevice": "morphology",
@@ -50,11 +51,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "psychology",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "心理學",
       "roleInScript": "心理廊",
       "humorDevice": "morphology",
@@ -65,11 +66,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "ecology",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "生態學",
       "roleInScript": "生態廊",
       "humorDevice": "morphology",
@@ -80,11 +81,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "geology",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "地質學",
       "roleInScript": "地質廊",
       "humorDevice": "morphology",
@@ -95,11 +96,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "trilogy",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "三部曲",
       "roleInScript": "三部曲",
       "humorDevice": "morphology",
@@ -110,11 +111,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "catalog",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "目錄",
       "roleInScript": "目錄櫃",
       "humorDevice": "story",
@@ -125,11 +126,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "school",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "學派",
       "roleInScript": "學派旗",
       "humorDevice": "story",
@@ -140,11 +141,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "curriculum",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "課程",
       "roleInScript": "課程表",
       "humorDevice": "story",
@@ -155,11 +156,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "museum",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "博物館",
       "roleInScript": "博物館",
       "humorDevice": "story",
@@ -170,7 +171,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     }
   ],
   "reviewHooks": [

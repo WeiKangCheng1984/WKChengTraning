@@ -24,7 +24,7 @@
     },
     {
       "headword": "omnibus",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "綜合的；一攬子",
       "roleInScript": "一網打盡",
       "humorDevice": "morphology",
@@ -35,11 +35,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "omnidirectional",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "全向的",
       "roleInScript": "全向麥",
       "humorDevice": "morphology",
@@ -50,11 +50,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "omnifarious",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "各式各樣的",
       "roleInScript": "各式櫃",
       "humorDevice": "story",
@@ -65,11 +65,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "omnirange",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "全距導航",
       "roleInScript": "全距儀",
       "humorDevice": "story",
@@ -80,7 +80,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "all-seeing",
@@ -95,11 +95,12 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "universal",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "普遍的",
       "roleInScript": "普遍旗",
       "humorDevice": "story",
@@ -110,11 +111,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "total",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "總體的",
       "roleInScript": "總體匣",
       "humorDevice": "story",
@@ -125,11 +126,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "panoptic",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "全景監視的",
       "roleInScript": "全景塔",
       "humorDevice": "story",
@@ -140,7 +141,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     }
   ],
   "reviewHooks": [

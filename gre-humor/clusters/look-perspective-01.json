@@ -1,0 +1,254 @@
+{
+  "id": "look-perspective-01",
+  "type": "lookalike",
+  "elementLemma": "perspective-prospective",
+  "titleZh": "perspective ↔ prospective｜視角／預期觀景台",
+  "titleEn": "Perspective vs Prospective Deck",
+  "hook": "視角窗 standpoint／vantage；未來鏡 imminent／upcoming——兩具望遠鏡。",
+  "script": "perspective＝角度看事情；prospective＝未來將發生——導遊：statistical standpoint；imminent data lock。",
+  "members": [
+    {
+      "headword": "viewpoint",
+      "inVocab": true,
+      "senseAnchor": "觀點",
+      "roleInScript": "觀點窗",
+      "humorDevice": "lookalike",
+      "zhGloss": "觀點",
+      "speakLineEn": "Cue the 觀點窗: viewpoint walks on and the gag sticks.",
+      "speakLineZh": "請「觀點窗」出場：viewpoint 一上場梗就黏住——觀點。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "standpoint",
+      "inVocab": true,
+      "senseAnchor": "立場觀點",
+      "roleInScript": "立場",
+      "humorDevice": "lookalike",
+      "zhGloss": "立場觀點",
+      "speakLineEn": "Cue the 立場: standpoint walks on and the gag sticks.",
+      "speakLineZh": "請「立場」出場：standpoint 一上場梗就黏住——立場觀點。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "vantage",
+      "inVocab": true,
+      "senseAnchor": "有利位置",
+      "roleInScript": "瞭望",
+      "humorDevice": "lookalike",
+      "zhGloss": "有利位置",
+      "speakLineEn": "Cue the 瞭望: vantage walks on and the gag sticks.",
+      "speakLineZh": "請「瞭望」出場：vantage 一上場梗就黏住——有利位置。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "foresight",
+      "inVocab": true,
+      "senseAnchor": "先見",
+      "roleInScript": "先見",
+      "humorDevice": "lookalike",
+      "zhGloss": "先見",
+      "speakLineEn": "Cue the 先見: foresight walks on and the gag sticks.",
+      "speakLineZh": "請「先見」出場：foresight 一上場梗就黏住——先見。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "hindsight",
+      "inVocab": true,
+      "senseAnchor": "the ability to understand something after it has happened",
+      "roleInScript": "後見",
+      "humorDevice": "lookalike",
+      "zhGloss": "後見之明",
+      "speakLineEn": "Cue the 後見: hindsight walks on and the gag sticks.",
+      "speakLineZh": "請「後見」出場：hindsight 一上場梗就黏住——後見之明。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "imminent",
+      "inVocab": true,
+      "senseAnchor": "almost certain to happen very soon",
+      "roleInScript": "即將來",
+      "humorDevice": "lookalike",
+      "zhGloss": "即將發生",
+      "speakLineEn": "Cue the 即將來: imminent walks on and the gag sticks.",
+      "speakLineZh": "請「即將來」出場：imminent 一上場梗就黏住——即將發生。",
+      "related": {
+        "synonyms": "impending, approaching",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "approaching",
+      "inVocab": true,
+      "senseAnchor": "接近中",
+      "roleInScript": "接近",
+      "humorDevice": "lookalike",
+      "zhGloss": "接近中",
+      "speakLineEn": "Cue the 接近: approaching walks on and the gag sticks.",
+      "speakLineZh": "請「接近」出場：approaching 一上場梗就黏住——接近中。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "upcoming",
+      "inVocab": true,
+      "senseAnchor": "即將到來",
+      "roleInScript": "即將到",
+      "humorDevice": "lookalike",
+      "zhGloss": "即將到來",
+      "speakLineEn": "Cue the 即將到: upcoming walks on and the gag sticks.",
+      "speakLineZh": "請「即將到」出場：upcoming 一上場梗就黏住——即將到來。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "binoculars",
+      "inVocab": true,
+      "senseAnchor": "雙筒望遠鏡",
+      "roleInScript": "雙筒",
+      "humorDevice": "story",
+      "zhGloss": "雙筒望遠鏡",
+      "speakLineEn": "Cue the 雙筒: binoculars walks on and the gag sticks.",
+      "speakLineZh": "請「雙筒」出場：binoculars 一上場梗就黏住——雙筒望遠鏡。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "deck",
+      "inVocab": true,
+      "senseAnchor": "觀景甲板",
+      "roleInScript": "甲板",
+      "humorDevice": "story",
+      "zhGloss": "觀景甲板",
+      "speakLineEn": "Cue the 甲板: deck walks on and the gag sticks.",
+      "speakLineZh": "請「甲板」出場：deck 一上場梗就黏住——觀景甲板。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "lenscap",
+      "inVocab": true,
+      "senseAnchor": "鏡頭蓋",
+      "roleInScript": "鏡頭蓋",
+      "humorDevice": "story",
+      "zhGloss": "鏡頭蓋",
+      "speakLineEn": "Cue the 鏡頭蓋: lenscap walks on and the gag sticks.",
+      "speakLineZh": "請「鏡頭蓋」出場：lenscap 一上場梗就黏住——鏡頭蓋。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "map",
+      "inVocab": false,
+      "senseAnchor": "地圖",
+      "roleInScript": "地圖",
+      "humorDevice": "story",
+      "zhGloss": "地圖",
+      "speakLineEn": "Cue the 地圖: map walks on and the gag sticks.",
+      "speakLineZh": "請「地圖」出場：map 一上場梗就黏住——地圖。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "compass2",
+      "inVocab": true,
+      "senseAnchor": "羅盤2",
+      "roleInScript": "羅盤",
+      "humorDevice": "story",
+      "zhGloss": "羅盤2",
+      "speakLineEn": "Cue the 羅盤: compass2 walks on and the gag sticks.",
+      "speakLineZh": "請「羅盤」出場：compass2 一上場梗就黏住——羅盤2。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "tomorrow",
+      "inVocab": true,
+      "senseAnchor": "明天",
+      "roleInScript": "明天",
+      "humorDevice": "story",
+      "zhGloss": "明天",
+      "speakLineEn": "Cue the 明天: tomorrow walks on and the gag sticks.",
+      "speakLineZh": "請「明天」出場：tomorrow 一上場梗就黏住——明天。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "anglemark",
+      "inVocab": false,
+      "senseAnchor": "角度標記",
+      "roleInScript": "角度",
+      "humorDevice": "story",
+      "zhGloss": "角度標記",
+      "speakLineEn": "Cue the 角度: anglemark walks on and the gag sticks.",
+      "speakLineZh": "請「角度」出場：anglemark 一上場梗就黏住——角度標記。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "perspective＝視角",
+    "prospective＝預期未來"
+  ],
+  "pitfalls": [
+    "perspective≠prospective"
+  ],
+  "lessonRefs": [
+    "lesson-look-perspective-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch02"
+  }
+}

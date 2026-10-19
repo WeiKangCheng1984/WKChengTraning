@@ -24,7 +24,7 @@
     },
     {
       "headword": "impartial",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "不偏不倚",
       "roleInScript": "不偏秤",
       "humorDevice": "contrast",
@@ -35,7 +35,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "aloof",
@@ -189,7 +189,7 @@
     },
     {
       "headword": "slanted",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "有偏向",
       "roleInScript": "斜面",
       "humorDevice": "contrast",
@@ -200,11 +200,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "biased",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "有偏",
       "roleInScript": "有偏針",
       "humorDevice": "contrast",
@@ -215,11 +215,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "partial",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "偏袒",
       "roleInScript": "偏袒",
       "humorDevice": "contrast",
@@ -230,11 +230,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "evenhanded",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "公平",
       "roleInScript": "公平手",
       "humorDevice": "story",
@@ -245,11 +245,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "detached",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "超然",
       "roleInScript": "超然椅",
       "humorDevice": "story",
@@ -260,7 +260,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "liquidate",

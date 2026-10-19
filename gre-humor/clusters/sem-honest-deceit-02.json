@@ -1,0 +1,377 @@
+{
+  "id": "sem-honest-deceit-02",
+  "type": "semantic",
+  "elementLemma": "honest-vs-deceit",
+  "titleZh": "誠實 ↔ 欺瞞｜玻璃心 vs 煙霧彈",
+  "titleEn": "Honest vs Deceit Smoke",
+  "hook": "坦白話筒（frank/aboveboard）對煙霧彈（duplicitous/underhanded/sly）。",
+  "script": "誠實隊：frank／artless／aboveboard。欺瞞隊：duplicitous／underhanded／sly——主持人：aboveboard peeks＝沒有偷看；underhanded swaps 零分。",
+  "members": [
+    {
+      "headword": "frank",
+      "inVocab": true,
+      "senseAnchor": "坦率",
+      "roleInScript": "坦率麥",
+      "humorDevice": "contrast",
+      "zhGloss": "坦率",
+      "speakLineEn": "Cue the 坦率麥: frank walks on and the gag sticks.",
+      "speakLineZh": "請「坦率麥」出場：frank 一上場梗就黏住——坦率。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "artless",
+      "inVocab": true,
+      "senseAnchor": "characterized by an inability to mask your feelings; not devious; simple and natural; without cunning or deceit",
+      "roleInScript": "無偽",
+      "humorDevice": "contrast",
+      "zhGloss": "樸實無偽",
+      "speakLineEn": "Cue the 無偽: artless walks on and the gag sticks.",
+      "speakLineZh": "請「無偽」出場：artless 一上場梗就黏住——樸實無偽。",
+      "related": {
+        "synonyms": "ingenuous, uncultivated, uncultured",
+        "antonyms": "artful, disingenuous"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "aboveboard",
+      "inVocab": true,
+      "senseAnchor": "open, honest and legal",
+      "roleInScript": "正大桌",
+      "humorDevice": "contrast",
+      "zhGloss": "光明正大",
+      "speakLineEn": "Cue the 正大桌: aboveboard walks on and the gag sticks.",
+      "speakLineZh": "請「正大桌」出場：aboveboard 一上場梗就黏住——光明正大。",
+      "related": {
+        "synonyms": "straightforward, honestly",
+        "antonyms": "dishonestly"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "duplicitous",
+      "inVocab": true,
+      "senseAnchor": "marked by deliberate deceptiveness especially by pretending one set of feelings and acting under the influence of another; - Israel Zangwill; ; - W.M.Thackeray",
+      "roleInScript": "雙面",
+      "humorDevice": "contrast",
+      "zhGloss": "口是心非",
+      "speakLineEn": "Cue the 雙面: duplicitous walks on and the gag sticks.",
+      "speakLineZh": "請「雙面」出場：duplicitous 一上場梗就黏住——口是心非。",
+      "related": {
+        "synonyms": "ambidextrous, deceitful, double-dealing, Janus-faced, two-faced, double-faced",
+        "antonyms": "honest, candid"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "underhanded",
+      "inVocab": true,
+      "senseAnchor": "marked by deception; with hand brought forward and up from below shoulder level",
+      "roleInScript": "暗手下",
+      "humorDevice": "contrast",
+      "zhGloss": "卑鄙暗中",
+      "speakLineEn": "Cue the 暗手下: underhanded walks on and the gag sticks.",
+      "speakLineZh": "請「暗手下」出場：underhanded 一上場梗就黏住——卑鄙暗中。",
+      "related": {
+        "synonyms": "sneaky, underhand, underarm",
+        "antonyms": "overhand"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "sly",
+      "inVocab": false,
+      "senseAnchor": "狡猾",
+      "roleInScript": "狡猾狐",
+      "humorDevice": "contrast",
+      "zhGloss": "狡猾",
+      "speakLineEn": "Cue the 狡猾狐: sly walks on and the gag sticks.",
+      "speakLineZh": "請「狡猾狐」出場：sly 一上場梗就黏住——狡猾。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "truthserum",
+      "inVocab": true,
+      "senseAnchor": "吐實",
+      "roleInScript": "吐實",
+      "humorDevice": "story",
+      "zhGloss": "吐實",
+      "speakLineEn": "Cue the 吐實: truthserum walks on and the gag sticks.",
+      "speakLineZh": "請「吐實」出場：truthserum 一上場梗就黏住——吐實。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "smokebomb",
+      "inVocab": true,
+      "senseAnchor": "煙霧彈",
+      "roleInScript": "煙霧彈",
+      "humorDevice": "story",
+      "zhGloss": "煙霧彈",
+      "speakLineEn": "Cue the 煙霧彈: smokebomb walks on and the gag sticks.",
+      "speakLineZh": "請「煙霧彈」出場：smokebomb 一上場梗就黏住——煙霧彈。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "handshake",
+      "inVocab": true,
+      "senseAnchor": "握手",
+      "roleInScript": "握手",
+      "humorDevice": "story",
+      "zhGloss": "握手",
+      "speakLineEn": "Cue the 握手: handshake walks on and the gag sticks.",
+      "speakLineZh": "請「握手」出場：handshake 一上場梗就黏住——握手。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "pokerface",
+      "inVocab": true,
+      "senseAnchor": "撲克臉",
+      "roleInScript": "撲克臉",
+      "humorDevice": "story",
+      "zhGloss": "撲克臉",
+      "speakLineEn": "Cue the 撲克臉: pokerface walks on and the gag sticks.",
+      "speakLineZh": "請「撲克臉」出場：pokerface 一上場梗就黏住——撲克臉。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "opensource",
+      "inVocab": true,
+      "senseAnchor": "開源心",
+      "roleInScript": "開源",
+      "humorDevice": "story",
+      "zhGloss": "開源心",
+      "speakLineEn": "Cue the 開源: opensource walks on and the gag sticks.",
+      "speakLineZh": "請「開源」出場：opensource 一上場梗就黏住——開源心。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "trapdoor",
+      "inVocab": true,
+      "senseAnchor": "暗門",
+      "roleInScript": "暗門",
+      "humorDevice": "story",
+      "zhGloss": "暗門",
+      "speakLineEn": "Cue the 暗門: trapdoor walks on and the gag sticks.",
+      "speakLineZh": "請「暗門」出場：trapdoor 一上場梗就黏住——暗門。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "fib",
+      "inVocab": false,
+      "senseAnchor": "小謊",
+      "roleInScript": "小謊",
+      "humorDevice": "story",
+      "zhGloss": "小謊",
+      "speakLineEn": "Cue the 小謊: fib walks on and the gag sticks.",
+      "speakLineZh": "請「小謊」出場：fib 一上場梗就黏住——小謊。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "maskoff",
+      "inVocab": true,
+      "senseAnchor": "摘面具",
+      "roleInScript": "摘面具",
+      "humorDevice": "story",
+      "zhGloss": "摘面具",
+      "speakLineEn": "Cue the 摘面具: maskoff walks on and the gag sticks.",
+      "speakLineZh": "請「摘面具」出場：maskoff 一上場梗就黏住——摘面具。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "spotlight2",
+      "inVocab": true,
+      "senseAnchor": "聚光燈2",
+      "roleInScript": "聚光",
+      "humorDevice": "story",
+      "zhGloss": "聚光燈2",
+      "speakLineEn": "Cue the 聚光: spotlight2 walks on and the gag sticks.",
+      "speakLineZh": "請「聚光」出場：spotlight2 一上場梗就黏住——聚光燈2。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "receipt2",
+      "inVocab": true,
+      "senseAnchor": "收據2",
+      "roleInScript": "收據",
+      "humorDevice": "story",
+      "zhGloss": "收據2",
+      "speakLineEn": "Cue the 收據: receipt2 walks on and the gag sticks.",
+      "speakLineZh": "請「收據」出場：receipt2 一上場梗就黏住——收據2。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "lie",
+      "inVocab": false,
+      "senseAnchor": "謊言",
+      "roleInScript": "謊言",
+      "humorDevice": "story",
+      "zhGloss": "謊言",
+      "speakLineEn": "Cue the 謊言: lie walks on and the gag sticks.",
+      "speakLineZh": "請「謊言」出場：lie 一上場梗就黏住——謊言。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "vow",
+      "inVocab": false,
+      "senseAnchor": "誓言",
+      "roleInScript": "誓言",
+      "humorDevice": "story",
+      "zhGloss": "誓言",
+      "speakLineEn": "Cue the 誓言: vow walks on and the gag sticks.",
+      "speakLineZh": "請「誓言」出場：vow 一上場梗就黏住——誓言。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "whisper2",
+      "inVocab": true,
+      "senseAnchor": "低語2",
+      "roleInScript": "低語",
+      "humorDevice": "story",
+      "zhGloss": "低語2",
+      "speakLineEn": "Cue the 低語: whisper2 walks on and the gag sticks.",
+      "speakLineZh": "請「低語」出場：whisper2 一上場梗就黏住——低語2。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "camera",
+      "inVocab": true,
+      "senseAnchor": "鏡頭監視",
+      "roleInScript": "鏡頭",
+      "humorDevice": "story",
+      "zhGloss": "鏡頭監視",
+      "speakLineEn": "Cue the 鏡頭: camera walks on and the gag sticks.",
+      "speakLineZh": "請「鏡頭」出場：camera 一上場梗就黏住——鏡頭監視。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "alibi",
+      "inVocab": true,
+      "senseAnchor": "不在場證明",
+      "roleInScript": "不在場",
+      "humorDevice": "story",
+      "zhGloss": "不在場證明",
+      "speakLineEn": "Cue the 不在場: alibi walks on and the gag sticks.",
+      "speakLineZh": "請「不在場」出場：alibi 一上場梗就黏住——不在場證明。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "seal",
+      "inVocab": true,
+      "senseAnchor": "封條",
+      "roleInScript": "封條",
+      "humorDevice": "story",
+      "zhGloss": "封條",
+      "speakLineEn": "Cue the 封條: seal walks on and the gag sticks.",
+      "speakLineZh": "請「封條」出場：seal 一上場梗就黏住——封條。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "glassbox",
+      "inVocab": true,
+      "senseAnchor": "玻璃箱",
+      "roleInScript": "玻璃箱",
+      "humorDevice": "story",
+      "zhGloss": "玻璃箱",
+      "speakLineEn": "Cue the 玻璃箱: glassbox walks on and the gag sticks.",
+      "speakLineZh": "請「玻璃箱」出場：glassbox 一上場梗就黏住——玻璃箱。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    }
+  ],
+  "reviewHooks": [
+    "誠實：frank/artless/aboveboard",
+    "欺瞞：duplicitous/underhanded/sly"
+  ],
+  "pitfalls": [
+    "aboveboard＝光明正大",
+    "duplicitous＝口是心非"
+  ],
+  "lessonRefs": [
+    "lesson-sem-honest-deceit-02"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch02"
+  }
+}

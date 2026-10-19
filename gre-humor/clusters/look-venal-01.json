@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "venality",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "貪腐",
       "roleInScript": "貪腐標",
       "humorDevice": "lookalike",
@@ -20,11 +20,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "bribery",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "賄賂",
       "roleInScript": "賄賂",
       "humorDevice": "story",
@@ -35,11 +35,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "forgivable",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "可原諒",
       "roleInScript": "可恕",
       "humorDevice": "story",
@@ -50,11 +50,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "excusable",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "可諒解",
       "roleInScript": "可諒",
       "humorDevice": "story",
@@ -65,11 +65,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "kickback",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "回扣",
       "roleInScript": "回扣",
       "humorDevice": "story",
@@ -80,11 +80,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "graft",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "貪污",
       "roleInScript": "貪污",
       "humorDevice": "story",
@@ -95,11 +95,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "pardonable",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "可赦免",
       "roleInScript": "可赦",
       "humorDevice": "story",
@@ -110,11 +110,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "payola",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "封口賄賂",
       "roleInScript": "封口費",
       "humorDevice": "story",
@@ -125,11 +125,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "corruptibility",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "可腐化",
       "roleInScript": "可腐化",
       "humorDevice": "story",
@@ -140,11 +140,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "courtroom",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "法庭",
       "roleInScript": "法庭",
       "humorDevice": "story",
@@ -155,7 +155,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "gavel",
@@ -174,7 +174,7 @@
     },
     {
       "headword": "ticket",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "罰單",
       "roleInScript": "罰單",
       "humorDevice": "story",
@@ -185,7 +185,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     }
   ],
   "reviewHooks": [

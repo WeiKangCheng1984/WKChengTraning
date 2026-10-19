@@ -1,0 +1,252 @@
+{
+  "id": "look-historic-01",
+  "type": "lookalike",
+  "elementLemma": "historic-historical",
+  "titleZh": "historic ↔ historical｜史冊大事／歷史課教室",
+  "titleEn": "Historic vs Historical Classroom",
+  "hook": "史冊大事燈 historic，歷史課本 historical——兩塊黑板別寫反。",
+  "script": "本館用 epochal／annals／bygone／antiquarian 把「史冊感」與「歷史課感」練熟——老師：epochal prereg；annals of corrections。",
+  "members": [
+    {
+      "headword": "epochal",
+      "inVocab": true,
+      "senseAnchor": "劃時代的",
+      "roleInScript": "紀元燈",
+      "humorDevice": "lookalike",
+      "zhGloss": "劃時代的",
+      "speakLineEn": "Cue the 紀元燈: epochal walks on and the gag sticks.",
+      "speakLineZh": "請「紀元燈」出場：epochal 一上場梗就黏住——劃時代的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "annal",
+      "inVocab": true,
+      "senseAnchor": "編年紀錄",
+      "roleInScript": "編年",
+      "humorDevice": "lookalike",
+      "zhGloss": "編年紀錄",
+      "speakLineEn": "Cue the 編年: annal walks on and the gag sticks.",
+      "speakLineZh": "請「編年」出場：annal 一上場梗就黏住——編年紀錄。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "annals",
+      "inVocab": true,
+      "senseAnchor": "編年史",
+      "roleInScript": "史冊",
+      "humorDevice": "lookalike",
+      "zhGloss": "編年史",
+      "speakLineEn": "Cue the 史冊: annals walks on and the gag sticks.",
+      "speakLineZh": "請「史冊」出場：annals 一上場梗就黏住——編年史。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "historiography",
+      "inVocab": true,
+      "senseAnchor": "史學寫作",
+      "roleInScript": "史學",
+      "humorDevice": "lookalike",
+      "zhGloss": "史學寫作",
+      "speakLineEn": "Cue the 史學: historiography walks on and the gag sticks.",
+      "speakLineZh": "請「史學」出場：historiography 一上場梗就黏住——史學寫作。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "bygone",
+      "inVocab": true,
+      "senseAnchor": "過去的",
+      "roleInScript": "過去",
+      "humorDevice": "lookalike",
+      "zhGloss": "過去的",
+      "speakLineEn": "Cue the 過去: bygone walks on and the gag sticks.",
+      "speakLineZh": "請「過去」出場：bygone 一上場梗就黏住——過去的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "yesteryear",
+      "inVocab": true,
+      "senseAnchor": "往昔",
+      "roleInScript": "往昔",
+      "humorDevice": "lookalike",
+      "zhGloss": "往昔",
+      "speakLineEn": "Cue the 往昔: yesteryear walks on and the gag sticks.",
+      "speakLineZh": "請「往昔」出場：yesteryear 一上場梗就黏住——往昔。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "antiquarian",
+      "inVocab": true,
+      "senseAnchor": "古文物的",
+      "roleInScript": "古物",
+      "humorDevice": "lookalike",
+      "zhGloss": "古文物的",
+      "speakLineEn": "Cue the 古物: antiquarian walks on and the gag sticks.",
+      "speakLineZh": "請「古物」出場：antiquarian 一上場梗就黏住——古文物的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "periodization",
+      "inVocab": true,
+      "senseAnchor": "分期",
+      "roleInScript": "分期",
+      "humorDevice": "lookalike",
+      "zhGloss": "分期",
+      "speakLineEn": "Cue the 分期: periodization walks on and the gag sticks.",
+      "speakLineZh": "請「分期」出場：periodization 一上場梗就黏住——分期。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "blackboard",
+      "inVocab": true,
+      "senseAnchor": "黑板",
+      "roleInScript": "黑板",
+      "humorDevice": "story",
+      "zhGloss": "黑板",
+      "speakLineEn": "Cue the 黑板: blackboard walks on and the gag sticks.",
+      "speakLineZh": "請「黑板」出場：blackboard 一上場梗就黏住——黑板。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "chalk",
+      "inVocab": true,
+      "senseAnchor": "粉筆",
+      "roleInScript": "粉筆",
+      "humorDevice": "story",
+      "zhGloss": "粉筆",
+      "speakLineEn": "Cue the 粉筆: chalk walks on and the gag sticks.",
+      "speakLineZh": "請「粉筆」出場：chalk 一上場梗就黏住——粉筆。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "museumcard",
+      "inVocab": true,
+      "senseAnchor": "博物館卡",
+      "roleInScript": "博物卡",
+      "humorDevice": "story",
+      "zhGloss": "博物館卡",
+      "speakLineEn": "Cue the 博物卡: museumcard walks on and the gag sticks.",
+      "speakLineZh": "請「博物卡」出場：museumcard 一上場梗就黏住——博物館卡。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "yearbook",
+      "inVocab": true,
+      "senseAnchor": "年鑑",
+      "roleInScript": "年鑑",
+      "humorDevice": "story",
+      "zhGloss": "年鑑",
+      "speakLineEn": "Cue the 年鑑: yearbook walks on and the gag sticks.",
+      "speakLineZh": "請「年鑑」出場：yearbook 一上場梗就黏住——年鑑。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "scroll",
+      "inVocab": true,
+      "senseAnchor": "卷軸",
+      "roleInScript": "卷軸",
+      "humorDevice": "story",
+      "zhGloss": "卷軸",
+      "speakLineEn": "Cue the 卷軸: scroll walks on and the gag sticks.",
+      "speakLineZh": "請「卷軸」出場：scroll 一上場梗就黏住——卷軸。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "plaque",
+      "inVocab": true,
+      "senseAnchor": "牌匾",
+      "roleInScript": "牌匾",
+      "humorDevice": "story",
+      "zhGloss": "牌匾",
+      "speakLineEn": "Cue the 牌匾: plaque walks on and the gag sticks.",
+      "speakLineZh": "請「牌匾」出場：plaque 一上場梗就黏住——牌匾。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    },
+    {
+      "headword": "dustybook",
+      "inVocab": true,
+      "senseAnchor": "塵書",
+      "roleInScript": "塵書",
+      "humorDevice": "story",
+      "zhGloss": "塵書",
+      "speakLineEn": "Cue the 塵書: dustybook walks on and the gag sticks.",
+      "speakLineZh": "請「塵書」出場：dustybook 一上場梗就黏住——塵書。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p3-pending-b02"
+    }
+  ],
+  "reviewHooks": [
+    "historic＝有歷史意義",
+    "historical＝與歷史有關"
+  ],
+  "pitfalls": [
+    "historic≠historical"
+  ],
+  "lessonRefs": [
+    "lesson-look-historic-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch02"
+  }
+}

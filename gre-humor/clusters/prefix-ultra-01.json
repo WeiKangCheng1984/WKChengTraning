@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "ultraviolet",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "紫外線的",
       "roleInScript": "紫外燈",
       "humorDevice": "morphology",
@@ -20,11 +20,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "ultramodern",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "超現代的",
       "roleInScript": "超現代",
       "humorDevice": "morphology",
@@ -35,11 +35,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "ultralight",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "超輕的",
       "roleInScript": "超輕",
       "humorDevice": "morphology",
@@ -50,11 +50,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "ultrafine",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "超細的",
       "roleInScript": "超細",
       "humorDevice": "morphology",
@@ -65,11 +65,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "ultraconservative",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "極端保守的",
       "roleInScript": "極端保守",
       "humorDevice": "morphology",
@@ -80,11 +80,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "beyond",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "超越",
       "roleInScript": "超越線",
       "humorDevice": "story",
@@ -95,11 +95,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "hyper",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "過度（口語）",
       "roleInScript": "過度貼",
       "humorDevice": "story",
@@ -110,7 +110,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "max",
@@ -125,7 +125,8 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     }
   ],
   "reviewHooks": [

@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "interrogate",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "transmit (a signal) for setting off an appropriate response, as in telecommunication; pose a series of questions to",
       "roleInScript": "問到水落石出",
       "humorDevice": "morphology",
@@ -20,8 +20,7 @@
         "synonyms": "question",
         "antonyms": "answer"
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "arrogance",
@@ -100,7 +99,7 @@
     },
     {
       "headword": "interrogation",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "a sentence of inquiry that asks for a reply; a transmission that will trigger an answering transmission from a transponder",
       "roleInScript": "質詢過程",
       "humorDevice": "story",
@@ -111,12 +110,11 @@
         "synonyms": "question, interrogative, examination, interrogatory, inquiry, enquiry",
         "antonyms": "answer"
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "surrogate",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "someone who takes the place of another person; a person appointed to represent or act on behalf of others",
       "roleInScript": "代問的人",
       "humorDevice": "story",
@@ -127,8 +125,7 @@
         "synonyms": "alternate, replacement, deputy, foster",
         "antonyms": "opposite"
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "question",
@@ -143,12 +140,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "pending-add"
     },
     {
       "headword": "pry",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "a heavy iron lever with one end forged into a wedge; to move or force, especially in an effort to get something open; :",
       "roleInScript": "硬問",
       "humorDevice": "story",
@@ -159,8 +155,7 @@
         "synonyms": "crowbar, prise, prize, lever, jimmy, intrude",
         "antonyms": "disesteem, disrespect"
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "in-vocab"
     },
     {
       "headword": "ask",
@@ -175,8 +170,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "deferred-basic-or-specialty",
-      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+      "vocabStatus": "pending-add"
     }
   ],
   "reviewHooks": [

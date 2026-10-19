@@ -9,7 +9,7 @@
   "members": [
     {
       "headword": "appraisal",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "評估估價",
       "roleInScript": "估價單",
       "humorDevice": "lookalike",
@@ -20,11 +20,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "appraiser",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "估價師",
       "roleInScript": "估價師",
       "humorDevice": "lookalike",
@@ -35,11 +35,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "apprised",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "獲悉",
       "roleInScript": "獲悉",
       "humorDevice": "lookalike",
@@ -50,7 +50,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "valuation",
@@ -65,7 +65,8 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "notify",
@@ -80,7 +81,8 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "assessment",
@@ -95,7 +97,8 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "briefing",
@@ -110,11 +113,12 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "counter",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "櫃檯",
       "roleInScript": "櫃檯",
       "humorDevice": "story",
@@ -125,11 +129,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "queue",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "排隊",
       "roleInScript": "排隊",
       "humorDevice": "story",
@@ -140,7 +144,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     }
   ],
   "reviewHooks": [

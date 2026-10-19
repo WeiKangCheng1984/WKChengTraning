@@ -24,7 +24,7 @@
     },
     {
       "headword": "adversity",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "逆境",
       "roleInScript": "逆境床",
       "humorDevice": "lookalike",
@@ -35,11 +35,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "adversary",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "對手",
       "roleInScript": "對手椅",
       "humorDevice": "lookalike",
@@ -50,11 +50,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "adversely",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "不利地",
       "roleInScript": "不利針",
       "humorDevice": "lookalike",
@@ -65,11 +65,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "dislike",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "不喜歡",
       "roleInScript": "不喜歡鈴",
       "humorDevice": "story",
@@ -80,11 +80,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "harmful",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "有害的",
       "roleInScript": "有害標",
       "humorDevice": "story",
@@ -95,11 +95,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "unfavorable",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "不利的",
       "roleInScript": "不利牌",
       "humorDevice": "story",
@@ -110,11 +110,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "opponent",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "對手",
       "roleInScript": "對手牌",
       "humorDevice": "story",
@@ -125,7 +125,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "allergy",
@@ -140,11 +140,12 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
     },
     {
       "headword": "setback",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "挫敗",
       "roleInScript": "挫敗燈",
       "humorDevice": "story",
@@ -155,11 +156,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "clinic",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "診所",
       "roleInScript": "診所",
       "humorDevice": "story",
@@ -170,11 +171,11 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     },
     {
       "headword": "ward",
-      "inVocab": false,
+      "inVocab": true,
       "senseAnchor": "病房",
       "roleInScript": "病房",
       "humorDevice": "story",
@@ -185,7 +186,7 @@
         "synonyms": "",
         "antonyms": ""
       },
-      "vocabStatus": "pending-add"
+      "vocabStatus": "synced-p3-pending-b02"
     }
   ],
   "reviewHooks": [
