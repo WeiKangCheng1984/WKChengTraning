@@ -10,10 +10,10 @@
     {
       "headword": "invoke",
       "inVocab": true,
-      "senseAnchor": "summon into action or bring into existence, often as if by magic; cite as an authority; resort to",
+      "senseAnchor": "祈求；懇求",
       "roleInScript": "呼叫權威",
       "humorDevice": "morphology",
-      "zhGloss": "援引；祈求；啟用",
+      "zhGloss": "祈求；懇求",
       "speakLineEn": "The brief invokes precedent from earlier rulings.",
       "speakLineZh": "訴狀援引了先前裁定作為先例。",
       "related": {
@@ -40,10 +40,10 @@
     {
       "headword": "convoke",
       "inVocab": true,
-      "senseAnchor": "call together",
+      "senseAnchor": "召集；場面：把人召來",
       "roleInScript": "把人召來",
       "humorDevice": "morphology",
-      "zhGloss": "召集（會議）",
+      "zhGloss": "召集",
       "speakLineEn": "Leaders convoked an emergency panel.",
       "speakLineZh": "領導人召集了緊急小組。",
       "related": {
@@ -55,10 +55,10 @@
     {
       "headword": "avocation",
       "inVocab": true,
-      "senseAnchor": "an auxiliary activity",
+      "senseAnchor": "副業；業餘愛好",
       "roleInScript": "把你從正職叫走的嗜好",
       "humorDevice": "story",
-      "zhGloss": "副業；嗜好（呼叫你離開正職的事）",
+      "zhGloss": "副業；業餘愛好",
       "speakLineEn": "Poetry remained his avocation, not his livelihood.",
       "speakLineZh": "詩仍是他的副業嗜好，不是生計。",
       "related": {
@@ -70,7 +70,7 @@
     {
       "headword": "vocabulary",
       "inVocab": false,
-      "senseAnchor": "詞彙",
+      "senseAnchor": "詞彙；場面：可呼叫的詞庫",
       "roleInScript": "可呼叫的詞庫",
       "humorDevice": "story",
       "zhGloss": "詞彙",
@@ -115,10 +115,10 @@
     {
       "headword": "univocal",
       "inVocab": true,
-      "senseAnchor": "clearly expressed",
+      "senseAnchor": "含義明確的；單義的",
       "roleInScript": "只有一種叫聲",
       "humorDevice": "morphology",
-      "zhGloss": "單義的；明確的",
+      "zhGloss": "含義明確的",
       "speakLineEn": "The statute is rarely univocal in application.",
       "speakLineZh": "法條在適用上很少是單義明確的。",
       "related": {
@@ -145,10 +145,10 @@
     {
       "headword": "vociferous",
       "inVocab": true,
-      "senseAnchor": "expressing opinions loudly",
+      "senseAnchor": "喧囂的；大聲喊叫的",
       "roleInScript": "超大聲呼叫",
       "humorDevice": "morphology",
-      "zhGloss": "喊叫的；喧嘩的",
+      "zhGloss": "喧囂的；大聲喊叫的",
       "speakLineEn": "Vociferous objections filled the hearing.",
       "speakLineZh": "喧嘩反對聲充滿聽證會。",
       "related": {
@@ -160,10 +160,10 @@
     {
       "headword": "irrevocable",
       "inVocab": true,
-      "senseAnchor": "incapable of being retracted or revoked; - Shakespeare",
+      "senseAnchor": "無法撤回的；不可撤銷的",
       "roleInScript": "叫聲收不回去",
       "humorDevice": "morphology",
-      "zhGloss": "不可撤銷的",
+      "zhGloss": "無法撤回的",
       "speakLineEn": "The resignation was framed as irrevocable.",
       "speakLineZh": "辭呈被定性為不可撤銷。",
       "related": {
@@ -189,6 +189,8 @@
   "qualityGate": {
     "reviewedAt": "2026-10-18",
     "stage": "S2",
-    "note": "New A-level cluster with full lesson"
+    "note": "New A-level cluster with full lesson",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

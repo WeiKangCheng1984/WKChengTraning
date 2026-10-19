@@ -10,12 +10,12 @@
     {
       "headword": "umpire",
       "inVocab": false,
-      "senseAnchor": "裁判",
+      "senseAnchor": "裁判；場面：哨子",
       "roleInScript": "哨子",
       "humorDevice": "morphology",
       "zhGloss": "裁判",
-      "speakLineEn": "Cue the 哨子: umpire walks on and the gag sticks.",
-      "speakLineZh": "請「哨子」出場：umpire 一上場梗就黏住——裁判。",
+      "speakLineEn": "Critics argued that the policy would umpire basic protections.",
+      "speakLineZh": "批評者主張該政策會裁判基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -26,11 +26,11 @@
       "headword": "spire",
       "inVocab": false,
       "senseAnchor": "尖塔",
-      "roleInScript": "尖塔",
+      "roleInScript": "尖塔角色",
       "humorDevice": "morphology",
       "zhGloss": "尖塔",
-      "speakLineEn": "Cue the 尖塔: spire walks on and the gag sticks.",
-      "speakLineZh": "請「尖塔」出場：spire 一上場梗就黏住——尖塔。",
+      "speakLineEn": "A careful reader links spire to 尖塔, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 spire 連到「尖塔」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -41,11 +41,11 @@
       "headword": "mire",
       "inVocab": false,
       "senseAnchor": "泥沼",
-      "roleInScript": "泥沼",
+      "roleInScript": "泥沼角色",
       "humorDevice": "morphology",
       "zhGloss": "泥沼",
-      "speakLineEn": "Cue the 泥沼: mire walks on and the gag sticks.",
-      "speakLineZh": "請「泥沼」出場：mire 一上場梗就黏住——泥沼。",
+      "speakLineEn": "A careful reader links mire to 泥沼, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 mire 連到「泥沼」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -55,12 +55,12 @@
     {
       "headword": "quagmire",
       "inVocab": true,
-      "senseAnchor": "a soft wet area of low-lying land that sinks underfoot",
+      "senseAnchor": "沼澤；場面：大泥沼",
       "roleInScript": "大泥沼",
       "humorDevice": "morphology",
-      "zhGloss": "沼澤困境",
-      "speakLineEn": "Cue the 大泥沼: quagmire walks on and the gag sticks.",
-      "speakLineZh": "請「大泥沼」出場：quagmire 一上場梗就黏住——沼澤困境。",
+      "zhGloss": "沼澤",
+      "speakLineEn": "A clear sense of quagmire is crucial to understanding the argument.",
+      "speakLineZh": "沼澤。",
       "related": {
         "synonyms": "mire, quag, morass, slack",
         "antonyms": ""
@@ -71,11 +71,11 @@
       "headword": "enquire",
       "inVocab": false,
       "senseAnchor": "詢問",
-      "roleInScript": "詢問",
+      "roleInScript": "詢問角色",
       "humorDevice": "morphology",
       "zhGloss": "詢問",
-      "speakLineEn": "Cue the 詢問: enquire walks on and the gag sticks.",
-      "speakLineZh": "請「詢問」出場：enquire 一上場梗就黏住——詢問。",
+      "speakLineEn": "In the passage, enquire signals a shift toward \"詢問\".",
+      "speakLineZh": "文中 enquire 標示語氣轉向「詢問」。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -89,8 +89,8 @@
       "roleInScript": "整個",
       "humorDevice": "morphology",
       "zhGloss": "整個的",
-      "speakLineEn": "Cue the 整個: entire walks on and the gag sticks.",
-      "speakLineZh": "請「整個」出場：entire 一上場梗就黏住——整個的。",
+      "speakLineEn": "A careful reader links entire to 整個的, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 entire 連到「整個的」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -100,12 +100,12 @@
     {
       "headword": "attire",
       "inVocab": true,
-      "senseAnchor": "clothing of a distinctive style or for a particular occasion; put on special clothes to appear particularly appealing and attractive",
+      "senseAnchor": "着裝；盛裝",
       "roleInScript": "禮服",
       "humorDevice": "morphology",
-      "zhGloss": "服裝",
-      "speakLineEn": "Cue the 禮服: attire walks on and the gag sticks.",
-      "speakLineZh": "請「禮服」出場：attire 一上場梗就黏住——服裝。",
+      "zhGloss": "着裝；盛裝",
+      "speakLineEn": "In the passage, attire signals a shift toward \"服裝\".",
+      "speakLineZh": "文中 attire 標示語氣轉向「服裝」。",
       "related": {
         "synonyms": "garb, dress, overdress, prink",
         "antonyms": "dress down, underdress"
@@ -116,11 +116,11 @@
       "headword": "whistle",
       "inVocab": false,
       "senseAnchor": "哨音",
-      "roleInScript": "哨音",
+      "roleInScript": "哨音角色",
       "humorDevice": "story",
       "zhGloss": "哨音",
-      "speakLineEn": "Cue the 哨音: whistle walks on and the gag sticks.",
-      "speakLineZh": "請「哨音」出場：whistle 一上場梗就黏住——哨音。",
+      "speakLineEn": "Hold the meaning steady: whistle means 哨音.",
+      "speakLineZh": "記住考意：whistle＝哨音。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -131,11 +131,11 @@
       "headword": "boots",
       "inVocab": false,
       "senseAnchor": "雨靴",
-      "roleInScript": "雨靴",
+      "roleInScript": "雨靴角色",
       "humorDevice": "story",
       "zhGloss": "雨靴",
-      "speakLineEn": "Cue the 雨靴: boots walks on and the gag sticks.",
-      "speakLineZh": "請「雨靴」出場：boots 一上場梗就黏住——雨靴。",
+      "speakLineEn": "In the passage, boots signals a shift toward \"雨靴\".",
+      "speakLineZh": "文中 boots 標示語氣轉向「雨靴」。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -146,11 +146,11 @@
       "headword": "tower",
       "inVocab": false,
       "senseAnchor": "塔",
-      "roleInScript": "塔",
+      "roleInScript": "塔角色",
       "humorDevice": "story",
       "zhGloss": "塔",
-      "speakLineEn": "Cue the 塔: tower walks on and the gag sticks.",
-      "speakLineZh": "請「塔」出場：tower 一上場梗就黏住——塔。",
+      "speakLineEn": "In the passage, tower signals a shift toward \"塔\".",
+      "speakLineZh": "文中 tower 標示語氣轉向「塔」。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -161,11 +161,11 @@
       "headword": "mudsplash",
       "inVocab": false,
       "senseAnchor": "泥漿",
-      "roleInScript": "泥漿",
+      "roleInScript": "泥漿角色",
       "humorDevice": "story",
       "zhGloss": "泥漿",
-      "speakLineEn": "Cue the 泥漿: mudsplash walks on and the gag sticks.",
-      "speakLineZh": "請「泥漿」出場：mudsplash 一上場梗就黏住——泥漿。",
+      "speakLineEn": "A careful reader links mudsplash to 泥漿, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 mudsplash 連到「泥漿」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -175,12 +175,12 @@
     {
       "headword": "tux",
       "inVocab": false,
-      "senseAnchor": "禮服2",
+      "senseAnchor": "禮服2；場面：禮服",
       "roleInScript": "禮服",
       "humorDevice": "story",
       "zhGloss": "禮服2",
-      "speakLineEn": "Cue the 禮服: tux walks on and the gag sticks.",
-      "speakLineZh": "請「禮服」出場：tux 一上場梗就黏住——禮服2。",
+      "speakLineEn": "A careful reader links tux to 禮服2, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 tux 連到「禮服2」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -191,11 +191,11 @@
       "headword": "stopwatch",
       "inVocab": false,
       "senseAnchor": "秒錶",
-      "roleInScript": "秒錶",
+      "roleInScript": "秒錶角色",
       "humorDevice": "story",
       "zhGloss": "秒錶",
-      "speakLineEn": "Cue the 秒錶: stopwatch walks on and the gag sticks.",
-      "speakLineZh": "請「秒錶」出場：stopwatch 一上場梗就黏住——秒錶。",
+      "speakLineEn": "In the passage, stopwatch signals a shift toward \"秒錶\".",
+      "speakLineZh": "文中 stopwatch 標示語氣轉向「秒錶」。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,12 +205,12 @@
     {
       "headword": "flag",
       "inVocab": true,
-      "senseAnchor": "to become unsteady, feeble, or spiritless",
-      "roleInScript": "旗",
+      "senseAnchor": "變得衰弱；旗",
+      "roleInScript": "旗角色",
       "humorDevice": "story",
-      "zhGloss": "旗",
-      "speakLineEn": "Cue the 旗: flag walks on and the gag sticks.",
-      "speakLineZh": "請「旗」出場：flag 一上場梗就黏住——旗。",
+      "zhGloss": "變得衰弱",
+      "speakLineEn": "Flag this file so that I can recognize it immediately.",
+      "speakLineZh": "變得衰弱。",
       "related": {
         "synonyms": "decay, languish, fade, wilt",
         "antonyms": ""
@@ -221,11 +221,11 @@
       "headword": "puddle",
       "inVocab": false,
       "senseAnchor": "水坑",
-      "roleInScript": "水坑",
+      "roleInScript": "水坑角色",
       "humorDevice": "story",
       "zhGloss": "水坑",
-      "speakLineEn": "Cue the 水坑: puddle walks on and the gag sticks.",
-      "speakLineZh": "請「水坑」出場：puddle 一上場梗就黏住——水坑。",
+      "speakLineEn": "Hold the meaning steady: puddle means 水坑.",
+      "speakLineZh": "記住考意：puddle＝水坑。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -247,6 +247,9 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P3-batch02"
+    "stage": "P3-batch02",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave2",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

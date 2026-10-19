@@ -25,7 +25,7 @@
     {
       "headword": "manually",
       "inVocab": false,
-      "senseAnchor": "手動地",
+      "senseAnchor": "手動地；場面：親手做",
       "roleInScript": "親手做",
       "humorDevice": "morphology",
       "zhGloss": "手動地",
@@ -55,7 +55,7 @@
     {
       "headword": "manipulation",
       "inVocab": false,
-      "senseAnchor": "操縱",
+      "senseAnchor": "操縱；場面：動手腳行為",
       "roleInScript": "動手腳行為",
       "humorDevice": "morphology",
       "zhGloss": "操縱",
@@ -70,7 +70,7 @@
     {
       "headword": "manage",
       "inVocab": false,
-      "senseAnchor": "管理",
+      "senseAnchor": "管理；場面：指揮手",
       "roleInScript": "指揮手",
       "humorDevice": "morphology",
       "zhGloss": "管理",
@@ -85,7 +85,7 @@
     {
       "headword": "manager",
       "inVocab": false,
-      "senseAnchor": "經理",
+      "senseAnchor": "經理；場面：指揮的人",
       "roleInScript": "指揮的人",
       "humorDevice": "morphology",
       "zhGloss": "經理",
@@ -100,7 +100,7 @@
     {
       "headword": "management",
       "inVocab": false,
-      "senseAnchor": "管理",
+      "senseAnchor": "管理；場面：指揮系統",
       "roleInScript": "指揮系統",
       "humorDevice": "morphology",
       "zhGloss": "管理",
@@ -130,7 +130,7 @@
     {
       "headword": "handmade",
       "inVocab": false,
-      "senseAnchor": "手工的",
+      "senseAnchor": "手工的；場面：親手做的",
       "roleInScript": "親手做的",
       "humorDevice": "story",
       "zhGloss": "手工的",
@@ -158,6 +158,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch04"
+    "stage": "P2-batch04",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

@@ -20,7 +20,7 @@
       "step": 2,
       "name": "串記劇本",
       "minutes": 2,
-      "content": "bulge＝鼓起。tumble＝跌倒混亂。grumble＝抱怨。boggle＝猶豫吃驚。口令：鼓包寫「別踩」，抱怨寫「去服務台」。"
+      "content": "bulge＝鼓起。tumble＝跌倒混亂。grumble＝抱怨。boggle＝猶豫吃驚。口令：鼓包寫「別踩」，抱怨寫「去服務台」。形近對決：先分清語意軸，再對號入座。登場：bulge（鼓包）、tumble（翻滾）、grumble（咕噥）、protuberance（凸起）、bump（凸塊）、complaint（投訴）。"
     },
     {
       "step": 3,
@@ -91,6 +91,8 @@
   "status": "reviewed",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P4-batch01"
+    "stage": "P4-batch01",
+    "polishStage": "Q-wave2",
+    "polishedAt": "2026-10-19"
   }
 }

@@ -5,7 +5,7 @@
   "titleZh": "-ant / -ent｜螞蟻動態人物系列",
   "titleEn": "ANT Uprising",
   "hook": "ANT（螞蟻）大暴走——英勇蟻對暴君怒吼。",
-  "script": "一隻 gallant 英勇小蟻，對著 tyrant 暴君開始 rant 怒吼；牠的觀點有 slant 偏斜，事後又 repent 後悔自己太衝。",
+  "script": "一隻 gallant 英勇小蟻，對著 tyrant 暴君開始 rant 怒吼；牠的觀點有 slant 偏斜，事後又 repent 後悔自己太衝。串記：同一世界觀裡，每個詞都有固定動作位。登場：gallant（英勇小蟻）、rant（對暴君怒吼）、slant（偏斜觀點）、repent（後悔太衝）、tyrant（暴君）、defiant（反抗蟻）。",
   "members": [
     {
       "headword": "gallant",
@@ -25,10 +25,10 @@
     {
       "headword": "rant",
       "inVocab": true,
-      "senseAnchor": "a loud bombastic declamation expressed with strong emotion; pompous or pretentious talk or writing",
+      "senseAnchor": "咆哮；場面：對暴君怒吼",
       "roleInScript": "對暴君怒吼",
       "humorDevice": "story",
-      "zhGloss": "怒吼；咆哮；慷慨激昂的演說",
+      "zhGloss": "咆哮",
       "speakLineEn": "The columnist’s rant obscured the actual data.",
       "speakLineZh": "專欄的咆哮掩蓋了實際數據。",
       "related": {
@@ -40,10 +40,10 @@
     {
       "headword": "slant",
       "inVocab": true,
-      "senseAnchor": "a biased way of looking at or presenting something; degree of deviation from a horizontal plane",
+      "senseAnchor": "傾斜的；場面：偏斜觀點",
       "roleInScript": "偏斜觀點",
       "humorDevice": "story",
-      "zhGloss": "傾斜；偏見；傾向",
+      "zhGloss": "傾斜的",
       "speakLineEn": "The coverage had a clear political slant.",
       "speakLineZh": "報導帶有明顯政治傾向。",
       "related": {
@@ -55,7 +55,7 @@
     {
       "headword": "repent",
       "inVocab": true,
-      "senseAnchor": "turn away from sin or do penitence; feel remorse for; feel sorry for; be contrite about",
+      "senseAnchor": "後悔；懺悔",
       "roleInScript": "後悔太衝",
       "humorDevice": "story",
       "zhGloss": "後悔；懺悔",
@@ -70,10 +70,10 @@
     {
       "headword": "tyrant",
       "inVocab": true,
-      "senseAnchor": "a ruler who exercises absolute power oppressively or brutally",
+      "senseAnchor": "暴君；專制者",
       "roleInScript": "暴君",
       "humorDevice": "story",
-      "zhGloss": "暴君；專制者",
+      "zhGloss": "暴君",
       "speakLineEn": "The essay frames the editor as an intellectual tyrant.",
       "speakLineZh": "文章把編輯刻畫成智識暴君。",
       "related": {
@@ -85,12 +85,12 @@
     {
       "headword": "defiant",
       "inVocab": true,
-      "senseAnchor": "boldly resisting authority or an opposing force",
+      "senseAnchor": "蔑視的；違抗的",
       "roleInScript": "反抗蟻",
       "humorDevice": "morphology",
-      "zhGloss": "反抗的",
-      "speakLineEn": "Cue the 反抗蟻: defiant walks on and the gag sticks.",
-      "speakLineZh": "請「反抗蟻」出場：defiant 一上場梗就黏住——反抗的。",
+      "zhGloss": "蔑視的；違抗的",
+      "speakLineEn": "Brought up to be aggressive and defiant.",
+      "speakLineZh": "蔑視的；違抗的。",
       "related": {
         "synonyms": "noncompliant",
         "antonyms": "compliant"
@@ -100,12 +100,12 @@
     {
       "headword": "buoyant",
       "inVocab": false,
-      "senseAnchor": "輕快的",
+      "senseAnchor": "輕快的；場面：浮力蟻",
       "roleInScript": "浮力蟻",
       "humorDevice": "morphology",
       "zhGloss": "輕快的",
-      "speakLineEn": "Cue the 浮力蟻: buoyant walks on and the gag sticks.",
-      "speakLineZh": "請「浮力蟻」出場：buoyant 一上場梗就黏住——輕快的。",
+      "speakLineEn": "Picture the 浮力蟻: the word buoyant means 輕快的.",
+      "speakLineZh": "想像「浮力蟻」：buoyant＝輕快的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -115,12 +115,12 @@
     {
       "headword": "constant",
       "inVocab": false,
-      "senseAnchor": "不變的",
+      "senseAnchor": "不變的；場面：恆定蟻",
       "roleInScript": "恆定蟻",
       "humorDevice": "morphology",
       "zhGloss": "不變的",
-      "speakLineEn": "Cue the 恆定蟻: constant walks on and the gag sticks.",
-      "speakLineZh": "請「恆定蟻」出場：constant 一上場梗就黏住——不變的。",
+      "speakLineEn": "Critics argued that the policy would constant basic protections.",
+      "speakLineZh": "批評者主張該政策會不變的基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -130,12 +130,12 @@
     {
       "headword": "vibrant",
       "inVocab": false,
-      "senseAnchor": "活力的",
+      "senseAnchor": "活力的；場面：震動蟻",
       "roleInScript": "震動蟻",
       "humorDevice": "morphology",
       "zhGloss": "活力的",
-      "speakLineEn": "Cue the 震動蟻: vibrant walks on and the gag sticks.",
-      "speakLineZh": "請「震動蟻」出場：vibrant 一上場梗就黏住——活力的。",
+      "speakLineEn": "Critics argued that the policy would vibrant basic protections.",
+      "speakLineZh": "批評者主張該政策會活力的基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -162,6 +162,9 @@
   "qualityGate": {
     "reviewedAt": "2026-10-18",
     "note": "Stage-1 promote: aligned with tract lesson template",
-    "thickenedAt": "P4-batch01"
+    "thickenedAt": "P4-batch01",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave2",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

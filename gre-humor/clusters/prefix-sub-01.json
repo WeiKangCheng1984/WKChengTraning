@@ -55,10 +55,10 @@
     {
       "headword": "subdue",
       "inVocab": true,
-      "senseAnchor": "put down by force or intimidation; to put down by force or authority",
+      "senseAnchor": "征服；場面：壓下去",
       "roleInScript": "壓下去",
       "humorDevice": "morphology",
-      "zhGloss": "征服；壓制",
+      "zhGloss": "征服",
       "speakLineEn": "Subdue hype with preregistration.",
       "speakLineZh": "用預註冊壓制炒作。",
       "related": {
@@ -70,7 +70,7 @@
     {
       "headword": "subtotal",
       "inVocab": false,
-      "senseAnchor": "小計",
+      "senseAnchor": "小計；場面：底下加總",
       "roleInScript": "底下加總",
       "humorDevice": "story",
       "zhGloss": "小計",
@@ -85,7 +85,7 @@
     {
       "headword": "subway",
       "inVocab": false,
-      "senseAnchor": "地鐵",
+      "senseAnchor": "地鐵；場面：地下通道",
       "roleInScript": "地下通道",
       "humorDevice": "story",
       "zhGloss": "地鐵",
@@ -130,7 +130,7 @@
     {
       "headword": "underling",
       "inVocab": false,
-      "senseAnchor": "下屬",
+      "senseAnchor": "下屬；場面：底下的人",
       "roleInScript": "底下的人",
       "humorDevice": "story",
       "zhGloss": "下屬",
@@ -158,6 +158,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch03"
+    "stage": "P2-batch03",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

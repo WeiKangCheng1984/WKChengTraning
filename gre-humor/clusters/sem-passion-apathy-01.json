@@ -10,12 +10,12 @@
     {
       "headword": "ardent",
       "inVocab": true,
-      "senseAnchor": "characterized by intense emotion; characterized by strong enthusiasm",
+      "senseAnchor": "熱心的；熱情的",
       "roleInScript": "火山心",
       "humorDevice": "contrast",
-      "zhGloss": "熱心的",
-      "speakLineEn": "Cue the 火山心: ardent walks on and the gag sticks.",
-      "speakLineZh": "請「火山心」出場：ardent 一上場梗就黏住——熱心的。",
+      "zhGloss": "熱心的；熱情的",
+      "speakLineEn": "From rank to rank she darts her ardent eyes.",
+      "speakLineZh": "熱心的；熱情的。",
       "related": {
         "synonyms": "fervent, fervid, fiery, impassioned, perfervid, torrid",
         "antonyms": ""
@@ -25,12 +25,12 @@
     {
       "headword": "ardor",
       "inVocab": true,
-      "senseAnchor": "a feeling of strong eagerness (usually in favor of a person or cause); intense feeling of love",
+      "senseAnchor": "狂熱；場面：火山熔岩",
       "roleInScript": "火山熔岩",
       "humorDevice": "contrast",
       "zhGloss": "狂熱",
-      "speakLineEn": "Cue the 火山熔岩: ardor walks on and the gag sticks.",
-      "speakLineZh": "請「火山熔岩」出場：ardor 一上場梗就黏住——狂熱。",
+      "speakLineEn": "They were imbued with a revolutionary ardor.",
+      "speakLineZh": "例句對齊：狂熱。",
       "related": {
         "synonyms": "ardour, elan, zeal, fervor, fervour, fervency",
         "antonyms": "apathy, indifference"
@@ -40,12 +40,12 @@
     {
       "headword": "fervid",
       "inVocab": true,
-      "senseAnchor": "狂熱的",
+      "senseAnchor": "狂熱的；場面：高溫噴口",
       "roleInScript": "高溫噴口",
       "humorDevice": "contrast",
       "zhGloss": "狂熱的",
-      "speakLineEn": "Cue the 高溫噴口: fervid walks on and the gag sticks.",
-      "speakLineZh": "請「高溫噴口」出場：fervid 一上場梗就黏住——狂熱的。",
+      "speakLineEn": "On the exam, fervid most nearly means a sense of \"狂熱的\".",
+      "speakLineZh": "狂熱的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -55,12 +55,12 @@
     {
       "headword": "zealous",
       "inVocab": true,
-      "senseAnchor": "showing great energy and enthusiasm",
+      "senseAnchor": "熱情的；場面：傳單火山",
       "roleInScript": "傳單火山",
       "humorDevice": "contrast",
-      "zhGloss": "熱衷的",
-      "speakLineEn": "Cue the 傳單火山: zealous walks on and the gag sticks.",
-      "speakLineZh": "請「傳單火山」出場：zealous 一上場梗就黏住——熱衷的。",
+      "zhGloss": "熱情的",
+      "speakLineEn": "It was a zealous political activist.",
+      "speakLineZh": "例句對齊：熱衷的。",
       "related": {
         "synonyms": "impassioned, fervent, fiery",
         "antonyms": "apathetic, indifferent"
@@ -70,12 +70,12 @@
     {
       "headword": "impassioned",
       "inVocab": true,
-      "senseAnchor": "characterized by intense emotion",
+      "senseAnchor": "充滿激情的",
       "roleInScript": "激情麥",
       "humorDevice": "contrast",
       "zhGloss": "充滿激情的",
-      "speakLineEn": "Cue the 激情麥: impassioned walks on and the gag sticks.",
-      "speakLineZh": "請「激情麥」出場：impassioned 一上場梗就黏住——充滿激情的。",
+      "speakLineEn": "An impassioned appeal.",
+      "speakLineZh": "充滿激情的。",
       "related": {
         "synonyms": "ardent, fervent, fervid, fiery, perfervid, torrid",
         "antonyms": ""
@@ -85,12 +85,12 @@
     {
       "headword": "ebullient",
       "inVocab": true,
-      "senseAnchor": "lively and enthusiastic",
+      "senseAnchor": "熱情奔放的；興高采烈的",
       "roleInScript": "沸騰壺",
       "humorDevice": "contrast",
-      "zhGloss": "興高采烈的",
-      "speakLineEn": "Cue the 沸騰壺: ebullient walks on and the gag sticks.",
-      "speakLineZh": "請「沸騰壺」出場：ebullient 一上場梗就黏住——興高采烈的。",
+      "zhGloss": "熱情奔放的",
+      "speakLineEn": "Consider this case: ebullient performers.",
+      "speakLineZh": "熱情奔放的。",
       "related": {
         "synonyms": "effervescent, exuberant",
         "antonyms": "apathetic, listless, noneffervescent, still, restrained, subdued"
@@ -100,12 +100,12 @@
     {
       "headword": "apathetic",
       "inVocab": true,
-      "senseAnchor": "showing little or no emotion or animation; marked by a lack of interest",
+      "senseAnchor": "冷漠的；場面：冰箱貼",
       "roleInScript": "冰箱貼",
       "humorDevice": "contrast",
       "zhGloss": "冷漠的",
-      "speakLineEn": "Cue the 冰箱貼: apathetic walks on and the gag sticks.",
-      "speakLineZh": "請「冰箱貼」出場：apathetic 一上場梗就黏住——冷漠的。",
+      "speakLineEn": "A woman who became active rather than apathetic as she grew older.",
+      "speakLineZh": "例句對齊：冷漠的。",
       "related": {
         "synonyms": "indifferent",
         "antonyms": "concerned, caring"
@@ -115,12 +115,12 @@
     {
       "headword": "callous",
       "inVocab": true,
-      "senseAnchor": "make insensitive or callous; deaden feelings or morals; emotionally hardened",
+      "senseAnchor": "冷漠的；場面：厚繭心",
       "roleInScript": "厚繭心",
       "humorDevice": "contrast",
-      "zhGloss": "硬心腸的",
-      "speakLineEn": "Cue the 厚繭心: callous walks on and the gag sticks.",
-      "speakLineZh": "請「厚繭心」出場：callous 一上場梗就黏住——硬心腸的。",
+      "zhGloss": "冷漠的",
+      "speakLineEn": "A callous indifference to suffering.",
+      "speakLineZh": "例句對齊：硬心腸的。",
       "related": {
         "synonyms": "cauterize, cauterise, indurate, pachydermatous, calloused, thickened",
         "antonyms": "soften, thin"
@@ -130,12 +130,12 @@
     {
       "headword": "stolid",
       "inVocab": true,
-      "senseAnchor": "having or revealing little emotion or sensibility; not easily aroused or excited; ; - Nordhoff & Hall; -Virginia Woolf",
+      "senseAnchor": "遲鈍的；冷漠的",
       "roleInScript": "木雕像",
       "humorDevice": "contrast",
-      "zhGloss": "木然的",
-      "speakLineEn": "Cue the 木雕像: stolid walks on and the gag sticks.",
-      "speakLineZh": "請「木雕像」出場：stolid 一上場梗就黏住——木然的。",
+      "zhGloss": "遲鈍的；冷漠的",
+      "speakLineEn": "A silent stolid creature who took it all as a matter of course.",
+      "speakLineZh": "遲鈍的；冷漠的。",
       "related": {
         "synonyms": "impassive",
         "antonyms": "emotional, excitable"
@@ -145,12 +145,12 @@
     {
       "headword": "phlegmatic",
       "inVocab": true,
-      "senseAnchor": "unemotional and calm",
+      "senseAnchor": "冷漠的；場面：濃痰冷靜",
       "roleInScript": "濃痰冷靜",
       "humorDevice": "contrast",
-      "zhGloss": "冷靜遲鈍的",
-      "speakLineEn": "Cue the 濃痰冷靜: phlegmatic walks on and the gag sticks.",
-      "speakLineZh": "請「濃痰冷靜」出場：phlegmatic 一上場梗就黏住——冷靜遲鈍的。",
+      "zhGloss": "冷漠的",
+      "speakLineEn": "A phlegmatic...and certainly undemonstrative man.",
+      "speakLineZh": "例句對齊：冷靜遲鈍的。",
       "related": {
         "synonyms": "apathetic, impassible, insouciant, nonchalant",
         "antonyms": "excitable, emotional, anxious, concerned"
@@ -164,8 +164,8 @@
       "roleInScript": "溫吞水",
       "humorDevice": "contrast",
       "zhGloss": "不冷不熱的",
-      "speakLineEn": "Cue the 溫吞水: lukewarm walks on and the gag sticks.",
-      "speakLineZh": "請「溫吞水」出場：lukewarm 一上場梗就黏住——不冷不熱的。",
+      "speakLineEn": "On the exam, lukewarm most nearly means a sense of \"不冷不熱的\".",
+      "speakLineZh": "不冷不熱的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -175,12 +175,12 @@
     {
       "headword": "halfhearted",
       "inVocab": true,
-      "senseAnchor": "lacking interest",
+      "senseAnchor": "不熱心的；不認真的",
       "roleInScript": "半電量",
       "humorDevice": "contrast",
-      "zhGloss": "半心半意的",
-      "speakLineEn": "Cue the 半電量: halfhearted walks on and the gag sticks.",
-      "speakLineZh": "請「半電量」出場：halfhearted 一上場梗就黏住——半心半意的。",
+      "zhGloss": "不熱心的；不認真的",
+      "speakLineEn": "A halfhearted effort.",
+      "speakLineZh": "不熱心的，不認真的。",
       "related": {
         "synonyms": "lukewarm, tepid",
         "antonyms": ""
@@ -191,11 +191,11 @@
       "headword": "thermometer",
       "inVocab": false,
       "senseAnchor": "溫度計",
-      "roleInScript": "溫度計",
+      "roleInScript": "溫度計角色",
       "humorDevice": "story",
       "zhGloss": "溫度計",
-      "speakLineEn": "Cue the 溫度計: thermometer walks on and the gag sticks.",
-      "speakLineZh": "請「溫度計」出場：thermometer 一上場梗就黏住——溫度計。",
+      "speakLineEn": "Hold the meaning steady: thermometer means 溫度計.",
+      "speakLineZh": "記住考意：thermometer＝溫度計。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -206,11 +206,11 @@
       "headword": "lava",
       "inVocab": false,
       "senseAnchor": "熔岩",
-      "roleInScript": "熔岩",
+      "roleInScript": "熔岩角色",
       "humorDevice": "story",
       "zhGloss": "熔岩",
-      "speakLineEn": "Cue the 熔岩: lava walks on and the gag sticks.",
-      "speakLineZh": "請「熔岩」出場：lava 一上場梗就黏住——熔岩。",
+      "speakLineEn": "Critics argued that the policy would lava basic protections.",
+      "speakLineZh": "批評者主張該政策會熔岩基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -221,11 +221,11 @@
       "headword": "icecube",
       "inVocab": false,
       "senseAnchor": "冰塊",
-      "roleInScript": "冰塊",
+      "roleInScript": "冰塊角色",
       "humorDevice": "story",
       "zhGloss": "冰塊",
-      "speakLineEn": "Cue the 冰塊: icecube walks on and the gag sticks.",
-      "speakLineZh": "請「冰塊」出場：icecube 一上場梗就黏住——冰塊。",
+      "speakLineEn": "Critics argued that the policy would icecube basic protections.",
+      "speakLineZh": "批評者主張該政策會冰塊基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -236,11 +236,11 @@
       "headword": "shrug",
       "inVocab": false,
       "senseAnchor": "聳肩",
-      "roleInScript": "聳肩",
+      "roleInScript": "聳肩角色",
       "humorDevice": "story",
       "zhGloss": "聳肩",
-      "speakLineEn": "Cue the 聳肩: shrug walks on and the gag sticks.",
-      "speakLineZh": "請「聳肩」出場：shrug 一上場梗就黏住——聳肩。",
+      "speakLineEn": "A careful reader links shrug to 聳肩, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 shrug 連到「聳肩」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -251,11 +251,11 @@
       "headword": "volcano",
       "inVocab": false,
       "senseAnchor": "火山",
-      "roleInScript": "火山",
+      "roleInScript": "火山角色",
       "humorDevice": "story",
       "zhGloss": "火山",
-      "speakLineEn": "Cue the 火山: volcano walks on and the gag sticks.",
-      "speakLineZh": "請「火山」出場：volcano 一上場梗就黏住——火山。",
+      "speakLineEn": "Hold the meaning steady: volcano means 火山.",
+      "speakLineZh": "記住考意：volcano＝火山。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -266,11 +266,11 @@
       "headword": "freezer",
       "inVocab": false,
       "senseAnchor": "冷凍庫",
-      "roleInScript": "冷凍庫",
+      "roleInScript": "冷凍庫角色",
       "humorDevice": "story",
       "zhGloss": "冷凍庫",
-      "speakLineEn": "Cue the 冷凍庫: freezer walks on and the gag sticks.",
-      "speakLineZh": "請「冷凍庫」出場：freezer 一上場梗就黏住——冷凍庫。",
+      "speakLineEn": "In the passage, freezer signals a shift toward \"冷凍庫\".",
+      "speakLineZh": "文中 freezer 標示語氣轉向「冷凍庫」。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -281,11 +281,11 @@
       "headword": "spark",
       "inVocab": false,
       "senseAnchor": "火花",
-      "roleInScript": "火花",
+      "roleInScript": "火花角色",
       "humorDevice": "story",
       "zhGloss": "火花",
-      "speakLineEn": "Cue the 火花: spark walks on and the gag sticks.",
-      "speakLineZh": "請「火花」出場：spark 一上場梗就黏住——火花。",
+      "speakLineEn": "In the passage, spark signals a shift toward \"火花\".",
+      "speakLineZh": "文中 spark 標示語氣轉向「火花」。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -296,11 +296,11 @@
       "headword": "frost",
       "inVocab": false,
       "senseAnchor": "霜",
-      "roleInScript": "霜",
+      "roleInScript": "霜角色",
       "humorDevice": "story",
       "zhGloss": "霜",
-      "speakLineEn": "Cue the 霜: frost walks on and the gag sticks.",
-      "speakLineZh": "請「霜」出場：frost 一上場梗就黏住——霜。",
+      "speakLineEn": "Critics argued that the policy would frost basic protections.",
+      "speakLineZh": "批評者主張該政策會霜基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -311,11 +311,11 @@
       "headword": "fever",
       "inVocab": false,
       "senseAnchor": "發燒",
-      "roleInScript": "發燒",
+      "roleInScript": "發燒角色",
       "humorDevice": "story",
       "zhGloss": "發燒",
-      "speakLineEn": "Cue the 發燒: fever walks on and the gag sticks.",
-      "speakLineZh": "請「發燒」出場：fever 一上場梗就黏住——發燒。",
+      "speakLineEn": "Critics argued that the policy would fever basic protections.",
+      "speakLineZh": "批評者主張該政策會發燒基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -326,11 +326,11 @@
       "headword": "chill",
       "inVocab": false,
       "senseAnchor": "涼快",
-      "roleInScript": "涼快",
+      "roleInScript": "涼快角色",
       "humorDevice": "story",
       "zhGloss": "涼快",
-      "speakLineEn": "Cue the 涼快: chill walks on and the gag sticks.",
-      "speakLineZh": "請「涼快」出場：chill 一上場梗就黏住——涼快。",
+      "speakLineEn": "Critics argued that the policy would chill basic protections.",
+      "speakLineZh": "批評者主張該政策會涼快基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -352,6 +352,9 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P3-batch03"
+    "stage": "P3-batch03",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave1",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

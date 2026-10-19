@@ -10,10 +10,10 @@
     {
       "headword": "eligible",
       "inVocab": true,
-      "senseAnchor": "qualified for or allowed or worthy of being chosen",
+      "senseAnchor": "合格的；有資格的",
       "roleInScript": "可被選上",
       "humorDevice": "morphology",
-      "zhGloss": "有資格的",
+      "zhGloss": "合格的；有資格的",
       "speakLineEn": "Only preregistered trials were eligible for pooling.",
       "speakLineZh": "只有預註冊試驗有資格納入合併。",
       "related": {
@@ -40,10 +40,10 @@
     {
       "headword": "negligence",
       "inVocab": true,
-      "senseAnchor": "failure to act with the prudence that a reasonable person would exercise under the same circumstances; the trait of neglecting responsibilities and lacking concern",
+      "senseAnchor": "疏忽；場面：該注意卻沒選注意",
       "roleInScript": "該注意卻沒選注意",
       "humorDevice": "morphology",
-      "zhGloss": "疏忽；過失",
+      "zhGloss": "疏忽",
       "speakLineEn": "Negligence in consent forms invites sanctions.",
       "speakLineZh": "知情同意疏忽招致處罰。",
       "related": {
@@ -55,10 +55,10 @@
     {
       "headword": "relegate",
       "inVocab": true,
-      "senseAnchor": "to give someone a lower or less important position than before",
+      "senseAnchor": "使降級；場面：選去次等席",
       "roleInScript": "選去次等席",
       "humorDevice": "morphology",
-      "zhGloss": "貶謫；降級",
+      "zhGloss": "使降級",
       "speakLineEn": "Do not relegate ethics to an appendix.",
       "speakLineZh": "不要把倫理貶到附錄。",
       "related": {
@@ -115,10 +115,10 @@
     {
       "headword": "eclectic",
       "inVocab": true,
-      "senseAnchor": "composed of elements drawn from various sources",
+      "senseAnchor": "混合的；場面：精選雜拼",
       "roleInScript": "精選雜拼",
       "humorDevice": "morphology",
-      "zhGloss": "兼收並蓄的",
+      "zhGloss": "混合的",
       "speakLineEn": "An eclectic toolkit still needs coherence.",
       "speakLineZh": "兼收並蓄工具箱仍需一貫性。",
       "related": {
@@ -130,10 +130,10 @@
     {
       "headword": "predilection",
       "inVocab": true,
-      "senseAnchor": "preference",
+      "senseAnchor": "偏愛；場面：偏好先選",
       "roleInScript": "偏好先選",
       "humorDevice": "morphology",
-      "zhGloss": "偏愛；嗜好",
+      "zhGloss": "偏愛",
       "speakLineEn": "A predilection for novelty biases publication.",
       "speakLineZh": "嗜新偏愛扭曲發表。",
       "related": {
@@ -145,10 +145,10 @@
     {
       "headword": "sacrilege",
       "inVocab": true,
-      "senseAnchor": "blasphemous behavior; the act of depriving something of its sacred character",
+      "senseAnchor": "褻瀆；場面：對聖物誤選不敬",
       "roleInScript": "對聖物誤選不敬",
       "humorDevice": "morphology",
-      "zhGloss": "褻瀆神聖",
+      "zhGloss": "褻瀆",
       "speakLineEn": "Treating raw data casually feels like methodological sacrilege.",
       "speakLineZh": "隨意對待原始資料像方法論褻瀆。",
       "related": {
@@ -160,7 +160,7 @@
     {
       "headword": "legislature",
       "inVocab": true,
-      "senseAnchor": "persons who make or amend or repeal laws",
+      "senseAnchor": "立法機關",
       "roleInScript": "制定法條的選民堂",
       "humorDevice": "story",
       "zhGloss": "立法機關",
@@ -203,6 +203,8 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P1-batch01"
+    "stage": "P1-batch01",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

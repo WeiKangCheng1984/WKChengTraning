@@ -14,8 +14,8 @@
       "roleInScript": "紀元燈",
       "humorDevice": "lookalike",
       "zhGloss": "劃時代的",
-      "speakLineEn": "Cue the 紀元燈: epochal walks on and the gag sticks.",
-      "speakLineZh": "請「紀元燈」出場：epochal 一上場梗就黏住——劃時代的。",
+      "speakLineEn": "On the exam, epochal most nearly means a sense of \"劃時代的\".",
+      "speakLineZh": "劃時代的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -29,8 +29,8 @@
       "roleInScript": "編年",
       "humorDevice": "lookalike",
       "zhGloss": "編年紀錄",
-      "speakLineEn": "Cue the 編年: annal walks on and the gag sticks.",
-      "speakLineZh": "請「編年」出場：annal 一上場梗就黏住——編年紀錄。",
+      "speakLineEn": "On the exam, annal most nearly means a sense of \"編年紀錄\".",
+      "speakLineZh": "編年紀錄。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -40,12 +40,12 @@
     {
       "headword": "annals",
       "inVocab": true,
-      "senseAnchor": "編年史",
+      "senseAnchor": "編年史；場面：史冊",
       "roleInScript": "史冊",
       "humorDevice": "lookalike",
       "zhGloss": "編年史",
-      "speakLineEn": "Cue the 史冊: annals walks on and the gag sticks.",
-      "speakLineZh": "請「史冊」出場：annals 一上場梗就黏住——編年史。",
+      "speakLineEn": "On the exam, annals most nearly means a sense of \"編年史\".",
+      "speakLineZh": "編年史。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -59,8 +59,8 @@
       "roleInScript": "史學",
       "humorDevice": "lookalike",
       "zhGloss": "史學寫作",
-      "speakLineEn": "Cue the 史學: historiography walks on and the gag sticks.",
-      "speakLineZh": "請「史學」出場：historiography 一上場梗就黏住——史學寫作。",
+      "speakLineEn": "On the exam, historiography most nearly means a sense of \"史學寫作\".",
+      "speakLineZh": "史學寫作。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -74,8 +74,8 @@
       "roleInScript": "過去",
       "humorDevice": "lookalike",
       "zhGloss": "過去的",
-      "speakLineEn": "Cue the 過去: bygone walks on and the gag sticks.",
-      "speakLineZh": "請「過去」出場：bygone 一上場梗就黏住——過去的。",
+      "speakLineEn": "On the exam, bygone most nearly means a sense of \"過去的\".",
+      "speakLineZh": "過去的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -86,11 +86,11 @@
       "headword": "yesteryear",
       "inVocab": true,
       "senseAnchor": "往昔",
-      "roleInScript": "往昔",
+      "roleInScript": "往昔角色",
       "humorDevice": "lookalike",
       "zhGloss": "往昔",
-      "speakLineEn": "Cue the 往昔: yesteryear walks on and the gag sticks.",
-      "speakLineZh": "請「往昔」出場：yesteryear 一上場梗就黏住——往昔。",
+      "speakLineEn": "On the exam, yesteryear most nearly means a sense of \"往昔\".",
+      "speakLineZh": "往昔。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -104,8 +104,8 @@
       "roleInScript": "古物",
       "humorDevice": "lookalike",
       "zhGloss": "古文物的",
-      "speakLineEn": "Cue the 古物: antiquarian walks on and the gag sticks.",
-      "speakLineZh": "請「古物」出場：antiquarian 一上場梗就黏住——古文物的。",
+      "speakLineEn": "On the exam, antiquarian most nearly means a sense of \"古文物的\".",
+      "speakLineZh": "古文物的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -116,11 +116,11 @@
       "headword": "periodization",
       "inVocab": true,
       "senseAnchor": "分期",
-      "roleInScript": "分期",
+      "roleInScript": "分期角色",
       "humorDevice": "lookalike",
       "zhGloss": "分期",
-      "speakLineEn": "Cue the 分期: periodization walks on and the gag sticks.",
-      "speakLineZh": "請「分期」出場：periodization 一上場梗就黏住——分期。",
+      "speakLineEn": "On the exam, periodization most nearly means a sense of \"分期\".",
+      "speakLineZh": "分期。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -131,11 +131,11 @@
       "headword": "blackboard",
       "inVocab": true,
       "senseAnchor": "黑板",
-      "roleInScript": "黑板",
+      "roleInScript": "黑板角色",
       "humorDevice": "story",
       "zhGloss": "黑板",
-      "speakLineEn": "Cue the 黑板: blackboard walks on and the gag sticks.",
-      "speakLineZh": "請「黑板」出場：blackboard 一上場梗就黏住——黑板。",
+      "speakLineEn": "On the exam, blackboard most nearly means a sense of \"黑板\".",
+      "speakLineZh": "黑板。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -146,11 +146,11 @@
       "headword": "chalk",
       "inVocab": true,
       "senseAnchor": "粉筆",
-      "roleInScript": "粉筆",
+      "roleInScript": "粉筆角色",
       "humorDevice": "story",
       "zhGloss": "粉筆",
-      "speakLineEn": "Cue the 粉筆: chalk walks on and the gag sticks.",
-      "speakLineZh": "請「粉筆」出場：chalk 一上場梗就黏住——粉筆。",
+      "speakLineEn": "On the exam, chalk most nearly means a sense of \"粉筆\".",
+      "speakLineZh": "粉筆。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -164,8 +164,8 @@
       "roleInScript": "博物卡",
       "humorDevice": "story",
       "zhGloss": "博物館卡",
-      "speakLineEn": "Cue the 博物卡: museumcard walks on and the gag sticks.",
-      "speakLineZh": "請「博物卡」出場：museumcard 一上場梗就黏住——博物館卡。",
+      "speakLineEn": "On the exam, museumcard most nearly means a sense of \"博物館卡\".",
+      "speakLineZh": "博物館卡。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -176,11 +176,11 @@
       "headword": "yearbook",
       "inVocab": true,
       "senseAnchor": "年鑑",
-      "roleInScript": "年鑑",
+      "roleInScript": "年鑑角色",
       "humorDevice": "story",
       "zhGloss": "年鑑",
-      "speakLineEn": "Cue the 年鑑: yearbook walks on and the gag sticks.",
-      "speakLineZh": "請「年鑑」出場：yearbook 一上場梗就黏住——年鑑。",
+      "speakLineEn": "On the exam, yearbook most nearly means a sense of \"年鑑\".",
+      "speakLineZh": "年鑑。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -191,11 +191,11 @@
       "headword": "scroll",
       "inVocab": true,
       "senseAnchor": "卷軸",
-      "roleInScript": "卷軸",
+      "roleInScript": "卷軸角色",
       "humorDevice": "story",
       "zhGloss": "卷軸",
-      "speakLineEn": "Cue the 卷軸: scroll walks on and the gag sticks.",
-      "speakLineZh": "請「卷軸」出場：scroll 一上場梗就黏住——卷軸。",
+      "speakLineEn": "On the exam, scroll most nearly means a sense of \"卷軸\".",
+      "speakLineZh": "卷軸。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -206,11 +206,11 @@
       "headword": "plaque",
       "inVocab": true,
       "senseAnchor": "牌匾",
-      "roleInScript": "牌匾",
+      "roleInScript": "牌匾角色",
       "humorDevice": "story",
       "zhGloss": "牌匾",
-      "speakLineEn": "Cue the 牌匾: plaque walks on and the gag sticks.",
-      "speakLineZh": "請「牌匾」出場：plaque 一上場梗就黏住——牌匾。",
+      "speakLineEn": "On the exam, plaque most nearly means a sense of \"牌匾\".",
+      "speakLineZh": "牌匾。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -221,11 +221,11 @@
       "headword": "dustybook",
       "inVocab": true,
       "senseAnchor": "塵書",
-      "roleInScript": "塵書",
+      "roleInScript": "塵書角色",
       "humorDevice": "story",
       "zhGloss": "塵書",
-      "speakLineEn": "Cue the 塵書: dustybook walks on and the gag sticks.",
-      "speakLineZh": "請「塵書」出場：dustybook 一上場梗就黏住——塵書。",
+      "speakLineEn": "On the exam, dustybook most nearly means a sense of \"塵書\".",
+      "speakLineZh": "塵書。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -247,6 +247,9 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P3-batch02"
+    "stage": "P3-batch02",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave1",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

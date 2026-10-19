@@ -20,7 +20,7 @@
       "step": 2,
       "name": "串記劇本",
       "minutes": 2,
-      "content": "左邊 choleric、irascible、peevish——點火就爆；右邊 affable、genial、amiable——誰來都好說話。"
+      "content": "左邊 choleric、irascible、peevish——點火就爆；右邊 affable、genial、amiable——誰來都好說話。語義對打：兩邊語氣相反，考試選「褒貶／強弱」對的那側。登場：choleric（熱可樂炸彈）、irascible（點火就著）、peevish（碎碎念易怒）、affable（好說話笑臉）、genial（溫暖氣場）、amiable（好相處）。"
     },
     {
       "step": 3,
@@ -97,6 +97,8 @@
       "reviewHooks ≥2",
       "pitfalls ≥1",
       "quiz ×3 sense-accurate"
-    ]
+    ],
+    "polishStage": "Q-wave2",
+    "polishedAt": "2026-10-19"
   }
 }

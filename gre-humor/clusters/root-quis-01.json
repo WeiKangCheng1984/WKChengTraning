@@ -10,10 +10,10 @@
     {
       "headword": "inquisitive",
       "inVocab": true,
-      "senseAnchor": "improperly curious about the affairs of others",
+      "senseAnchor": "過分好奇的；好問的",
       "roleInScript": "愛追問",
       "humorDevice": "morphology",
-      "zhGloss": "好問的；好奇的",
+      "zhGloss": "過分好奇的",
       "speakLineEn": "Inquisitive reviewers catch silent exclusions.",
       "speakLineZh": "好問審稿人抓到沉默排除。",
       "related": {
@@ -25,10 +25,10 @@
     {
       "headword": "requisite",
       "inVocab": true,
-      "senseAnchor": "anything indispensable; necessary for relief or supply",
+      "senseAnchor": "必需品；場面：必要索取",
       "roleInScript": "必要索取",
       "humorDevice": "morphology",
-      "zhGloss": "必要的；必需品",
+      "zhGloss": "必需品",
       "speakLineEn": "Statistical power is a requisite, not a luxury.",
       "speakLineZh": "檢定力是必需，不是奢侈。",
       "related": {
@@ -40,10 +40,10 @@
     {
       "headword": "perquisite",
       "inVocab": true,
-      "senseAnchor": "an incidental benefit awarded for certain types of employment (especially if it is regarded as a right); a right reserved exclusively by a particular person or group (especially a hereditary or official right)",
+      "senseAnchor": "額外津貼；特權",
       "roleInScript": "額外求得",
       "humorDevice": "morphology",
-      "zhGloss": "額外津貼；特權",
+      "zhGloss": "額外津貼",
       "speakLineEn": "Travel funds should not become a hidden perquisite.",
       "speakLineZh": "差旅費不該變隱藏津貼。",
       "related": {
@@ -160,7 +160,7 @@
     {
       "headword": "request",
       "inVocab": false,
-      "senseAnchor": "請求",
+      "senseAnchor": "請求；場面：提出要求",
       "roleInScript": "提出要求",
       "humorDevice": "story",
       "zhGloss": "請求",
@@ -203,6 +203,8 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P1-batch01"
+    "stage": "P1-batch01",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

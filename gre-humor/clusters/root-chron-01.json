@@ -70,7 +70,7 @@
     {
       "headword": "synchronize",
       "inVocab": false,
-      "senseAnchor": "使同步",
+      "senseAnchor": "使同步；場面：對齊時鐘",
       "roleInScript": "對齊時鐘",
       "humorDevice": "morphology",
       "zhGloss": "使同步",
@@ -85,7 +85,7 @@
     {
       "headword": "synchronous",
       "inVocab": false,
-      "senseAnchor": "同步的",
+      "senseAnchor": "同步的；場面：同拍",
       "roleInScript": "同拍",
       "humorDevice": "morphology",
       "zhGloss": "同步的",
@@ -115,7 +115,7 @@
     {
       "headword": "diachronic",
       "inVocab": true,
-      "senseAnchor": "歷時的",
+      "senseAnchor": "歷時的；場面：跨時間看",
       "roleInScript": "跨時間看",
       "humorDevice": "morphology",
       "zhGloss": "歷時的",
@@ -175,7 +175,7 @@
     {
       "headword": "out-of-sync",
       "inVocab": false,
-      "senseAnchor": "不同步",
+      "senseAnchor": "不同步；場面：對不齊",
       "roleInScript": "對不齊",
       "humorDevice": "morphology",
       "zhGloss": "不同步",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P1-batch02-topup"
+    "stage": "P1-batch02-topup",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

@@ -10,10 +10,10 @@
     {
       "headword": "assent",
       "inVocab": true,
-      "senseAnchor": "agreement with a statement or proposal to do something; to agree or express agreement",
+      "senseAnchor": "同意；場面：點頭那方",
       "roleInScript": "點頭那方",
       "humorDevice": "lookalike",
-      "zhGloss": "同意；贊成",
+      "zhGloss": "同意",
       "speakLineEn": "The panel gave quiet assent to the amendment.",
       "speakLineZh": "小組默默同意該修正。",
       "related": {
@@ -25,10 +25,10 @@
     {
       "headword": "dissent",
       "inVocab": true,
-      "senseAnchor": "(law) the difference of one judge's opinion from that of the majority; a difference of opinion",
+      "senseAnchor": "反對；不同意",
       "roleInScript": "舉手反對那方",
       "humorDevice": "lookalike",
-      "zhGloss": "異議；不同意",
+      "zhGloss": "反對；不同意",
       "speakLineEn": "One justice wrote a sharp dissent.",
       "speakLineZh": "一位大法官寫下犀利異議。",
       "related": {
@@ -40,7 +40,7 @@
     {
       "headword": "accede",
       "inVocab": true,
-      "senseAnchor": "同意；加入；繼承",
+      "senseAnchor": "同意；加入",
       "roleInScript": "同意入局",
       "humorDevice": "lookalike",
       "zhGloss": "同意；加入；繼承",
@@ -55,10 +55,10 @@
     {
       "headword": "concede",
       "inVocab": true,
-      "senseAnchor": "to admit unwillingly",
+      "senseAnchor": "(不得不)承認；讓步",
       "roleInScript": "不得不讓",
       "humorDevice": "lookalike",
-      "zhGloss": "承認；讓步",
+      "zhGloss": "(不得不)承認；讓步",
       "speakLineEn": "Even critics concede the study’s rigor.",
       "speakLineZh": "連批評者也承認該研究嚴謹。",
       "related": {
@@ -85,10 +85,10 @@
     {
       "headword": "ascetic",
       "inVocab": true,
-      "senseAnchor": "living without any physical pleasures",
+      "senseAnchor": "節制的；場面：愛踩梯修道",
       "roleInScript": "愛踩梯修道",
       "humorDevice": "phonetic",
-      "zhGloss": "苦行的；禁慾的",
+      "zhGloss": "節制的",
       "speakLineEn": "An ascetic lifestyle rejected every luxury.",
       "speakLineZh": "苦行生活方式拒絕一切奢侈。",
       "related": {
@@ -100,10 +100,10 @@
     {
       "headword": "abate",
       "inVocab": true,
-      "senseAnchor": "make less active or intense; become less in amount or intensity",
+      "senseAnchor": "減輕；場面：風雨變小",
       "roleInScript": "風雨變小",
       "humorDevice": "lookalike",
-      "zhGloss": "減輕；減弱",
+      "zhGloss": "減輕",
       "speakLineEn": "Once the noise abated, analysis resumed.",
       "speakLineZh": "噪音減弱後，分析才繼續。",
       "related": {
@@ -115,7 +115,7 @@
     {
       "headword": "abet",
       "inVocab": true,
-      "senseAnchor": "教唆；煽動；協助（做壞事）",
+      "senseAnchor": "教唆；煽動",
       "roleInScript": "a + bet 教唆下注",
       "humorDevice": "phonetic",
       "zhGloss": "教唆；煽動；協助（做壞事）",
@@ -146,6 +146,8 @@
   ],
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "note": "Stage-1 promote: aligned with tract lesson template"
+    "note": "Stage-1 promote: aligned with tract lesson template",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

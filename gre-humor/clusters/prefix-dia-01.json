@@ -10,7 +10,7 @@
     {
       "headword": "dialogue",
       "inVocab": false,
-      "senseAnchor": "對話",
+      "senseAnchor": "對話；場面：對談床",
       "roleInScript": "對談床",
       "humorDevice": "morphology",
       "zhGloss": "對話",
@@ -55,7 +55,7 @@
     {
       "headword": "diagnose",
       "inVocab": true,
-      "senseAnchor": "診斷",
+      "senseAnchor": "診斷；場面：聽診器",
       "roleInScript": "聽診器",
       "humorDevice": "morphology",
       "zhGloss": "診斷",
@@ -188,6 +188,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch06"
+    "stage": "P2-batch06",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

@@ -10,10 +10,10 @@
     {
       "headword": "amorphous",
       "inVocab": true,
-      "senseAnchor": "having no definite form",
+      "senseAnchor": "無固定形狀的；無定形的",
       "roleInScript": "還沒定妝",
       "humorDevice": "morphology",
-      "zhGloss": "無定形的",
+      "zhGloss": "無固定形狀的",
       "speakLineEn": "An amorphous hypothesis cannot be tested.",
       "speakLineZh": "無定形假說無法檢驗。",
       "related": {
@@ -70,7 +70,7 @@
     {
       "headword": "polymorphous",
       "inVocab": true,
-      "senseAnchor": "多形的",
+      "senseAnchor": "多形的；場面：多套戲服",
       "roleInScript": "多套戲服",
       "humorDevice": "morphology",
       "zhGloss": "多形的",
@@ -130,7 +130,7 @@
     {
       "headword": "morphing",
       "inVocab": true,
-      "senseAnchor": "變形中",
+      "senseAnchor": "變形中；場面：直播變臉",
       "roleInScript": "直播變臉",
       "humorDevice": "story",
       "zhGloss": "變形中",
@@ -145,7 +145,7 @@
     {
       "headword": "shapeless",
       "inVocab": true,
-      "senseAnchor": "無形的",
+      "senseAnchor": "無形的；場面：沒輪廓",
       "roleInScript": "沒輪廓",
       "humorDevice": "story",
       "zhGloss": "無形的",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P2-batch01"
+    "stage": "P2-batch01",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

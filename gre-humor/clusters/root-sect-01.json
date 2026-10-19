@@ -40,7 +40,7 @@
     {
       "headword": "insect",
       "inVocab": false,
-      "senseAnchor": "昆蟲",
+      "senseAnchor": "昆蟲；場面：小切蟲",
       "roleInScript": "小切蟲",
       "humorDevice": "story",
       "zhGloss": "昆蟲",
@@ -55,7 +55,7 @@
     {
       "headword": "intersect",
       "inVocab": false,
-      "senseAnchor": "相交",
+      "senseAnchor": "相交；場面：切線交",
       "roleInScript": "切線交",
       "humorDevice": "morphology",
       "zhGloss": "相交",
@@ -85,7 +85,7 @@
     {
       "headword": "bisect",
       "inVocab": false,
-      "senseAnchor": "對切",
+      "senseAnchor": "對切；場面：切成兩半",
       "roleInScript": "切成兩半",
       "humorDevice": "morphology",
       "zhGloss": "對切",
@@ -115,7 +115,7 @@
     {
       "headword": "transect",
       "inVocab": false,
-      "senseAnchor": "橫切線",
+      "senseAnchor": "橫切線；場面：橫切",
       "roleInScript": "橫切",
       "humorDevice": "story",
       "zhGloss": "橫切線",
@@ -130,7 +130,7 @@
     {
       "headword": "cutaway",
       "inVocab": false,
-      "senseAnchor": "剖面圖",
+      "senseAnchor": "剖面圖；場面：剖視",
       "roleInScript": "剖視",
       "humorDevice": "story",
       "zhGloss": "剖面圖",
@@ -145,7 +145,7 @@
     {
       "headword": "segment",
       "inVocab": false,
-      "senseAnchor": "區段",
+      "senseAnchor": "區段；場面：切片段",
       "roleInScript": "切片段",
       "humorDevice": "story",
       "zhGloss": "區段",
@@ -173,6 +173,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch04"
+    "stage": "P2-batch04",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

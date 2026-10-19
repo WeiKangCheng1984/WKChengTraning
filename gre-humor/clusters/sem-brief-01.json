@@ -10,7 +10,7 @@
     {
       "headword": "succinct",
       "inVocab": true,
-      "senseAnchor": "briefly giving the gist of something",
+      "senseAnchor": "簡潔的；場面：短而準",
       "roleInScript": "短而準",
       "humorDevice": "contrast",
       "zhGloss": "簡潔的",
@@ -25,10 +25,10 @@
     {
       "headword": "terse",
       "inVocab": true,
-      "senseAnchor": "brief and to the point; effectively cut short",
+      "senseAnchor": "簡潔的；場面：短到俐落",
       "roleInScript": "短到俐落",
       "humorDevice": "contrast",
-      "zhGloss": "簡短的；簡慢的",
+      "zhGloss": "簡潔的",
       "speakLineEn": "A terse rebuttal can still be fair.",
       "speakLineZh": "簡短反駁仍可公平。",
       "related": {
@@ -40,10 +40,10 @@
     {
       "headword": "pithy",
       "inVocab": true,
-      "senseAnchor": "forceful and brief",
+      "senseAnchor": "簡潔的；場面：有髓短句",
       "roleInScript": "有髓短句",
       "humorDevice": "contrast",
-      "zhGloss": "精煉的；簡潔有力的",
+      "zhGloss": "簡潔的",
       "speakLineEn": "A pithy takeaway beats a paragraph of haze.",
       "speakLineZh": "精煉重點勝過一段霧。",
       "related": {
@@ -55,10 +55,10 @@
     {
       "headword": "curt",
       "inVocab": true,
-      "senseAnchor": "direct, brief, and potentially rude",
+      "senseAnchor": "言詞簡略；直接（以至顯得粗魯）的",
       "roleInScript": "短到冷",
       "humorDevice": "contrast",
-      "zhGloss": "簡慢的；簡短的",
+      "zhGloss": "言詞簡略；直接（以至顯得粗魯）的",
       "speakLineEn": "Curt emails escalate conflict.",
       "speakLineZh": "簡慢郵件升級衝突。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "compact",
       "inVocab": true,
-      "senseAnchor": "a small cosmetics case with a mirror; to be carried in a woman's purse; a signed written agreement between two or more parties (nations) to perform some action",
+      "senseAnchor": "緊湊的；結實的",
       "roleInScript": "壓實",
       "humorDevice": "contrast",
-      "zhGloss": "緊密的；簡潔的",
+      "zhGloss": "緊湊的；結實的",
       "speakLineEn": "Keep the model statement compact.",
       "speakLineZh": "模型陳述保持緊密。",
       "related": {
@@ -100,7 +100,7 @@
     {
       "headword": "concise",
       "inVocab": true,
-      "senseAnchor": "簡明的",
+      "senseAnchor": "簡明的；場面：不囉唆",
       "roleInScript": "不囉唆",
       "humorDevice": "contrast",
       "zhGloss": "簡明的",
@@ -115,10 +115,10 @@
     {
       "headword": "prolix",
       "inVocab": true,
-      "senseAnchor": "tediously prolonged or tending to speak or write at great length",
+      "senseAnchor": "冗長的；延長",
       "roleInScript": "又長又散",
       "humorDevice": "contrast",
-      "zhGloss": "冗長的",
+      "zhGloss": "冗長的；延長；拖延",
       "speakLineEn": "Prolix methods hide the actual procedure.",
       "speakLineZh": "冗長方法掩蓋實際程序。",
       "related": {
@@ -130,10 +130,10 @@
     {
       "headword": "wordy",
       "inVocab": true,
-      "senseAnchor": "using or containing too many words",
+      "senseAnchor": "冗長的；乏味的",
       "roleInScript": "字太多",
       "humorDevice": "contrast",
-      "zhGloss": "囉唆的",
+      "zhGloss": "冗長的；乏味的",
       "speakLineEn": "Wordy intros delay the research question.",
       "speakLineZh": "囉唆導論拖延研究問題。",
       "related": {
@@ -145,10 +145,10 @@
     {
       "headword": "voluble",
       "inVocab": true,
-      "senseAnchor": "marked by a ready flow of speech",
+      "senseAnchor": "健談的；場面：話流不停",
       "roleInScript": "話流不停",
       "humorDevice": "contrast",
-      "zhGloss": "健談的；喋喋不休的",
+      "zhGloss": "健談的",
       "speakLineEn": "Voluble presenters still need a slide of limits.",
       "speakLineZh": "健談講者仍需一頁限制。",
       "related": {
@@ -175,7 +175,7 @@
     {
       "headword": "long-winded",
       "inVocab": true,
-      "senseAnchor": "using or containing too many words",
+      "senseAnchor": "冗長的；場面：風很長",
       "roleInScript": "風很長",
       "humorDevice": "contrast",
       "zhGloss": "冗長的",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P1-batch02"
+    "stage": "P1-batch02",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

@@ -55,10 +55,10 @@
     {
       "headword": "urbane",
       "inVocab": true,
-      "senseAnchor": "showing a high degree of refinement and the assurance that comes from wide social experience",
+      "senseAnchor": "彬彬有禮的；溫文都會的",
       "roleInScript": "風度課",
       "humorDevice": "morphology",
-      "zhGloss": "溫文都會的",
+      "zhGloss": "彬彬有禮的",
       "speakLineEn": "Urbane critique still names the error.",
       "speakLineZh": "溫文批評仍要點名錯誤。",
       "related": {
@@ -175,7 +175,7 @@
     {
       "headword": "boulevard",
       "inVocab": true,
-      "senseAnchor": "大道",
+      "senseAnchor": "大道；場面：林蔭道",
       "roleInScript": "林蔭道",
       "humorDevice": "story",
       "zhGloss": "大道",
@@ -203,6 +203,8 @@
   "priority": "C",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch05"
+    "stage": "P2-batch05",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

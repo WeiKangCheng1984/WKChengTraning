@@ -10,10 +10,10 @@
     {
       "headword": "epidemic",
       "inVocab": true,
-      "senseAnchor": "a widespread outbreak of an infectious disease; many people are infected at the same time; (especially of medicine) of disease or anything resembling a disease; attacking or affecting many individuals in a community or a population simultaneously",
+      "senseAnchor": "傳染性的；流行病",
       "roleInScript": "疫情旗",
       "humorDevice": "morphology",
-      "zhGloss": "流行病；流行的",
+      "zhGloss": "傳染性的",
       "speakLineEn": "An epidemic of silent forks needs quarantine.",
       "speakLineZh": "沉默分叉流行需要隔離。",
       "related": {
@@ -25,7 +25,7 @@
     {
       "headword": "epidermis",
       "inVocab": true,
-      "senseAnchor": "the outer layer of the skin covering the exterior body surface of vertebrates",
+      "senseAnchor": "表皮",
       "roleInScript": "表皮層",
       "humorDevice": "morphology",
       "zhGloss": "表皮",
@@ -55,10 +55,10 @@
     {
       "headword": "epilogue",
       "inVocab": true,
-      "senseAnchor": "a short speech (often in verse) addressed directly to the audience by an actor at the end of a play; a short passage added at the end of a literary work",
+      "senseAnchor": "尾聲；場面：後記頁",
       "roleInScript": "後記頁",
       "humorDevice": "morphology",
-      "zhGloss": "結語；後記",
+      "zhGloss": "尾聲",
       "speakLineEn": "Put corrections in an epilogue, not a rumor.",
       "speakLineZh": "勘誤放後記，不是謠言。",
       "related": {
@@ -70,7 +70,7 @@
     {
       "headword": "epitaph",
       "inVocab": true,
-      "senseAnchor": "墓誌銘",
+      "senseAnchor": "墓誌銘；場面：墓誌碑",
       "roleInScript": "墓誌碑",
       "humorDevice": "morphology",
       "zhGloss": "墓誌銘",
@@ -85,10 +85,10 @@
     {
       "headword": "epithet",
       "inVocab": true,
-      "senseAnchor": "a defamatory or abusive word or phrase; descriptive word or phrase",
+      "senseAnchor": "綽號；場面：稱號貼",
       "roleInScript": "稱號貼",
       "humorDevice": "morphology",
-      "zhGloss": "稱號；修飾語",
+      "zhGloss": "綽號",
       "speakLineEn": "An epithet is not an operational definition.",
       "speakLineZh": "稱號不是操作性定義。",
       "related": {
@@ -100,7 +100,7 @@
     {
       "headword": "ephemeral",
       "inVocab": true,
-      "senseAnchor": "短暫的",
+      "senseAnchor": "短暫的；場面：泡沫燈",
       "roleInScript": "泡沫燈",
       "humorDevice": "morphology",
       "zhGloss": "短暫的",
@@ -130,7 +130,7 @@
     {
       "headword": "overlay",
       "inVocab": false,
-      "senseAnchor": "覆蓋層",
+      "senseAnchor": "覆蓋層；場面：覆蓋膜",
       "roleInScript": "覆蓋膜",
       "humorDevice": "story",
       "zhGloss": "覆蓋層",
@@ -203,6 +203,8 @@
   "priority": "C",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch06"
+    "stage": "P2-batch06",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

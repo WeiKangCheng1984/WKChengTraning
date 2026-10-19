@@ -25,7 +25,7 @@
     {
       "headword": "soloist",
       "inVocab": true,
-      "senseAnchor": "獨奏者",
+      "senseAnchor": "獨奏者；場面：獨奏明星",
       "roleInScript": "獨奏明星",
       "humorDevice": "morphology",
       "zhGloss": "獨奏者",
@@ -70,10 +70,10 @@
     {
       "headword": "desolate",
       "inVocab": true,
-      "senseAnchor": "leave someone who needs or counts on you; leave in the lurch; reduce in population",
+      "senseAnchor": "荒涼的；淒涼的",
       "roleInScript": "荒涼場",
       "humorDevice": "morphology",
-      "zhGloss": "荒涼的；淒涼的",
+      "zhGloss": "荒涼的",
       "speakLineEn": "A desolate methods section fails readers.",
       "speakLineZh": "荒涼的方法段對不起讀者。",
       "related": {
@@ -85,10 +85,10 @@
     {
       "headword": "solace",
       "inVocab": true,
-      "senseAnchor": "to give comfort to",
+      "senseAnchor": "/n. 安慰",
       "roleInScript": "安慰茶",
       "humorDevice": "morphology",
-      "zhGloss": "安慰",
+      "zhGloss": "/n. 安慰",
       "speakLineEn": "Open data is solace after a null.",
       "speakLineZh": "開放資料是虛無之後的安慰。",
       "related": {
@@ -100,7 +100,7 @@
     {
       "headword": "solar",
       "inVocab": true,
-      "senseAnchor": "太陽的",
+      "senseAnchor": "太陽的；場面：日照燈",
       "roleInScript": "日照燈",
       "humorDevice": "morphology",
       "zhGloss": "太陽的",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch05"
+    "stage": "P2-batch05",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

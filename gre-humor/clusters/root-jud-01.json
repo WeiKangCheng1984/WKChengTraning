@@ -25,10 +25,10 @@
     {
       "headword": "judicial",
       "inVocab": true,
-      "senseAnchor": "decreed by or proceeding from a court of justice; belonging or appropriate to the office of a judge",
+      "senseAnchor": "判決的；場面：法庭那套",
       "roleInScript": "法庭那套",
       "humorDevice": "morphology",
-      "zhGloss": "司法的",
+      "zhGloss": "判決的",
       "speakLineEn": "Keep a judicial separation between exploration and confirmation.",
       "speakLineZh": "探索與確認保持司法式分離。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "adjudicate",
       "inVocab": true,
-      "senseAnchor": "to hear and settle a case, dispute or conflict",
+      "senseAnchor": "裁決；判定",
       "roleInScript": "正式判",
       "humorDevice": "morphology",
-      "zhGloss": "裁決",
+      "zhGloss": "裁決；判定",
       "speakLineEn": "Let a precommitted rule adjudicate borderline cases.",
       "speakLineZh": "用預先承諾規則裁決邊界案例。",
       "related": {
@@ -85,7 +85,7 @@
     {
       "headword": "jury",
       "inVocab": true,
-      "senseAnchor": "陪審團",
+      "senseAnchor": "陪審團；場面：一群判的人",
       "roleInScript": "一群判的人",
       "humorDevice": "story",
       "zhGloss": "陪審團",
@@ -130,7 +130,7 @@
     {
       "headword": "injustice",
       "inVocab": true,
-      "senseAnchor": "不義",
+      "senseAnchor": "不義；場面：錯判的結構",
       "roleInScript": "錯判的結構",
       "humorDevice": "morphology",
       "zhGloss": "不義",
@@ -145,10 +145,10 @@
     {
       "headword": "perjury",
       "inVocab": true,
-      "senseAnchor": "criminal offense of making false statements under oath",
+      "senseAnchor": "僞證；場面：假誓言",
       "roleInScript": "假誓言",
       "humorDevice": "morphology",
-      "zhGloss": "偽證",
+      "zhGloss": "僞證",
       "speakLineEn": "Fabrication is the perjury of science.",
       "speakLineZh": "造假是科學的偽證。",
       "related": {
@@ -160,7 +160,7 @@
     {
       "headword": "injury",
       "inVocab": true,
-      "senseAnchor": "傷害",
+      "senseAnchor": "傷害；場面：被判痛的結果",
       "roleInScript": "被判痛的結果",
       "humorDevice": "morphology",
       "zhGloss": "傷害",
@@ -248,6 +248,8 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "S3b"
+    "stage": "S3b",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

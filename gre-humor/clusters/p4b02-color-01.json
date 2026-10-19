@@ -14,8 +14,8 @@
       "roleInScript": "螢光嚇",
       "humorDevice": "contrast",
       "zhGloss": "豔俗駭人的",
-      "speakLineEn": "Cue the 螢光嚇: lurid walks on and the gag sticks.",
-      "speakLineZh": "請「螢光嚇」出場：lurid 一上場梗就黏住——豔俗駭人的。",
+      "speakLineEn": "On the exam, lurid most nearly means a sense of \"豔俗駭人的\".",
+      "speakLineZh": "豔俗駭人的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -25,12 +25,12 @@
     {
       "headword": "florid",
       "inVocab": true,
-      "senseAnchor": "elaborately or excessively ornamented; inclined to a healthy reddish color often associated with outdoor life",
+      "senseAnchor": "華麗的；紅潤的",
       "roleInScript": "紅潤筆",
       "humorDevice": "contrast",
-      "zhGloss": "紅潤華麗的",
-      "speakLineEn": "Cue the 紅潤筆: florid walks on and the gag sticks.",
-      "speakLineZh": "請「紅潤筆」出場：florid 一上場梗就黏住——紅潤華麗的。",
+      "zhGloss": "華麗的；紅潤的",
+      "speakLineEn": "The senator's florid speech.",
+      "speakLineZh": "華麗的；紅潤的。",
       "related": {
         "synonyms": "aureate, flamboyant, rubicund, ruddy, sanguine",
         "antonyms": "plain, austere"
@@ -40,12 +40,12 @@
     {
       "headword": "wan",
       "inVocab": true,
-      "senseAnchor": "a computer network that spans a wider area than does a local area network; become pale and sickly",
+      "senseAnchor": "蒼白的；病態的",
       "roleInScript": "乏力白",
       "humorDevice": "contrast",
-      "zhGloss": "蒼白的",
-      "speakLineEn": "Cue the 乏力白: wan walks on and the gag sticks.",
-      "speakLineZh": "請「乏力白」出場：wan 一上場梗就黏住——蒼白的。",
+      "zhGloss": "蒼白的；病態的",
+      "speakLineEn": "Her wan face suddenly flushed.",
+      "speakLineZh": "蒼白的；病態的。",
       "related": {
         "synonyms": "pale, pallid, sick",
         "antonyms": "keep down, well"
@@ -59,8 +59,8 @@
       "roleInScript": "青筋",
       "humorDevice": "contrast",
       "zhGloss": "青紫怒的",
-      "speakLineEn": "Cue the 青筋: livid walks on and the gag sticks.",
-      "speakLineZh": "請「青筋」出場：livid 一上場梗就黏住——青紫怒的。",
+      "speakLineEn": "On the exam, livid most nearly means a sense of \"青紫怒的\".",
+      "speakLineZh": "青紫怒的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -70,12 +70,12 @@
     {
       "headword": "ruddy",
       "inVocab": true,
-      "senseAnchor": "inclined to a healthy reddish color often associated with outdoor life; of a color at the end of the color spectrum (next to orange); resembling the color of blood or cherries or tomatoes or rubies",
+      "senseAnchor": "面色紅潤的",
       "roleInScript": "蘋果臉",
       "humorDevice": "contrast",
-      "zhGloss": "紅潤的",
-      "speakLineEn": "Cue the 蘋果臉: ruddy walks on and the gag sticks.",
-      "speakLineZh": "請「蘋果臉」出場：ruddy 一上場梗就黏住——紅潤的。",
+      "zhGloss": "面色紅潤的",
+      "speakLineEn": "A ruddy complexion.",
+      "speakLineZh": "面色紅潤的。",
       "related": {
         "synonyms": "rubicund, florid, sanguine, red, reddish, blood-red",
         "antonyms": "plain, austere, gain"
@@ -85,12 +85,12 @@
     {
       "headword": "ashen",
       "inVocab": true,
-      "senseAnchor": "灰白的",
+      "senseAnchor": "灰白的；場面：灰燼臉",
       "roleInScript": "灰燼臉",
       "humorDevice": "contrast",
       "zhGloss": "灰白的",
-      "speakLineEn": "Cue the 灰燼臉: ashen walks on and the gag sticks.",
-      "speakLineZh": "請「灰燼臉」出場：ashen 一上場梗就黏住——灰白的。",
+      "speakLineEn": "On the exam, ashen most nearly means a sense of \"灰白的\".",
+      "speakLineZh": "灰白的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -100,12 +100,12 @@
     {
       "headword": "drab",
       "inVocab": true,
-      "senseAnchor": "a dull greyish to yellowish or light olive brown; lacking in liveliness or charm or surprise",
+      "senseAnchor": "單調的；乏味的",
       "roleInScript": "灰布",
       "humorDevice": "contrast",
-      "zhGloss": "單調的",
-      "speakLineEn": "Cue the 灰布: drab walks on and the gag sticks.",
-      "speakLineZh": "請「灰布」出場：drab 一上場梗就黏住——單調的。",
+      "zhGloss": "單調的；乏味的",
+      "speakLineEn": "Life was drab compared with the more exciting life style overseas.",
+      "speakLineZh": "單調的；乏味的。",
       "related": {
         "synonyms": "dreary, sober, somber, sombre, olive-drab, blue",
         "antonyms": "intoxicated, playful"
@@ -116,11 +116,11 @@
       "headword": "palette",
       "inVocab": false,
       "senseAnchor": "調色盤",
-      "roleInScript": "調色盤",
+      "roleInScript": "調色盤角色",
       "humorDevice": "story",
       "zhGloss": "調色盤",
-      "speakLineEn": "Cue the 調色盤: palette walks on and the gag sticks.",
-      "speakLineZh": "請「調色盤」出場：palette 一上場梗就黏住——調色盤。",
+      "speakLineEn": "In the passage, palette signals a shift toward \"調色盤\".",
+      "speakLineZh": "文中 palette 標示語氣轉向「調色盤」。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -132,11 +132,11 @@
       "headword": "audit",
       "inVocab": false,
       "senseAnchor": "稽核",
-      "roleInScript": "稽核",
+      "roleInScript": "稽核角色",
       "humorDevice": "story",
       "zhGloss": "稽核",
-      "speakLineEn": "Cue the 稽核: audit walks on and the gag sticks.",
-      "speakLineZh": "請「稽核」出場：audit 一上場梗就黏住——稽核。",
+      "speakLineEn": "A careful reader links audit to 稽核, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 audit 連到「稽核」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -148,11 +148,11 @@
       "headword": "swatch",
       "inVocab": false,
       "senseAnchor": "色卡",
-      "roleInScript": "色卡",
+      "roleInScript": "色卡角色",
       "humorDevice": "story",
       "zhGloss": "色卡",
-      "speakLineEn": "Cue the 色卡: swatch walks on and the gag sticks.",
-      "speakLineZh": "請「色卡」出場：swatch 一上場梗就黏住——色卡。",
+      "speakLineEn": "Critics argued that the policy would swatch basic protections.",
+      "speakLineZh": "批評者主張該政策會色卡基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -175,6 +175,9 @@
   "priority": "C",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P4-batch02"
+    "stage": "P4-batch02",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave2",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

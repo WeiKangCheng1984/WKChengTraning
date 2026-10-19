@@ -10,7 +10,7 @@
     {
       "headword": "propose",
       "inVocab": true,
-      "senseAnchor": "提議",
+      "senseAnchor": "提議；場面：放上桌",
       "roleInScript": "放上桌",
       "humorDevice": "morphology",
       "zhGloss": "提議",
@@ -25,7 +25,7 @@
     {
       "headword": "impose",
       "inVocab": true,
-      "senseAnchor": "強加",
+      "senseAnchor": "強加；場面：硬放上去",
       "roleInScript": "硬放上去",
       "humorDevice": "morphology",
       "zhGloss": "強加",
@@ -70,7 +70,7 @@
     {
       "headword": "expose",
       "inVocab": true,
-      "senseAnchor": "揭露",
+      "senseAnchor": "揭露；場面：揭開來放",
       "roleInScript": "揭開來放",
       "humorDevice": "morphology",
       "zhGloss": "揭露",
@@ -85,7 +85,7 @@
     {
       "headword": "oppose",
       "inVocab": true,
-      "senseAnchor": "反對",
+      "senseAnchor": "反對；場面：放在對面",
       "roleInScript": "放在對面",
       "humorDevice": "morphology",
       "zhGloss": "反對",
@@ -100,7 +100,7 @@
     {
       "headword": "postpone",
       "inVocab": true,
-      "senseAnchor": "延期",
+      "senseAnchor": "延期；場面：往後放",
       "roleInScript": "往後放",
       "humorDevice": "morphology",
       "zhGloss": "延期",
@@ -160,10 +160,10 @@
     {
       "headword": "juxtapose",
       "inVocab": true,
-      "senseAnchor": "to put things together",
+      "senseAnchor": "並列放置；並置",
       "roleInScript": "並排放",
       "humorDevice": "morphology",
-      "zhGloss": "並列；並置",
+      "zhGloss": "並列放置",
       "speakLineEn": "Juxtapose the two models to show the gap.",
       "speakLineZh": "並置兩模型以顯示差距。",
       "related": {
@@ -175,7 +175,7 @@
     {
       "headword": "repository",
       "inVocab": true,
-      "senseAnchor": "儲庫",
+      "senseAnchor": "儲庫；場面：久放之處",
       "roleInScript": "久放之處",
       "humorDevice": "story",
       "zhGloss": "儲庫",
@@ -190,10 +190,10 @@
     {
       "headword": "proposition",
       "inVocab": true,
-      "senseAnchor": "(logic) a statement that affirms or denies something and is either true or false; a proposal offered for acceptance or rejection",
+      "senseAnchor": "提議；場面：討論桌上的句子",
       "roleInScript": "討論桌上的句子",
       "humorDevice": "morphology",
-      "zhGloss": "命題；提議",
+      "zhGloss": "提議",
       "speakLineEn": "State the proposition before you defend it.",
       "speakLineZh": "先陳述命題再辯護。",
       "related": {
@@ -205,10 +205,10 @@
     {
       "headword": "superimpose",
       "inVocab": true,
-      "senseAnchor": "place on top of",
+      "senseAnchor": "疊加；重疊",
       "roleInScript": "放在上面一層",
       "humorDevice": "morphology",
-      "zhGloss": "疊加",
+      "zhGloss": "疊加；重疊",
       "speakLineEn": "Do not superimpose ideology on measurement choices.",
       "speakLineZh": "不要把意識形態疊加在測量上。",
       "related": {
@@ -248,6 +248,8 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "S3b"
+    "stage": "S3b",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

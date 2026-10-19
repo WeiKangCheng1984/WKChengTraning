@@ -40,10 +40,10 @@
     {
       "headword": "abscond",
       "inVocab": true,
-      "senseAnchor": "run away; usually includes taking something or somebody along",
+      "senseAnchor": "潛逃；偷偷離開",
       "roleInScript": "溜走門",
       "humorDevice": "morphology",
-      "zhGloss": "潛逃；溜走",
+      "zhGloss": "潛逃；偷偷離開",
       "speakLineEn": "Do not abscond with unshared materials.",
       "speakLineZh": "別帶著未分享材料溜走。",
       "related": {
@@ -55,10 +55,10 @@
     {
       "headword": "abdicate",
       "inVocab": true,
-      "senseAnchor": "give up, such as power, as of monarchs and emperors, or duties and obligations",
+      "senseAnchor": "放棄；場面：退位章",
       "roleInScript": "退位章",
       "humorDevice": "morphology",
-      "zhGloss": "退位；放棄職責",
+      "zhGloss": "放棄",
       "speakLineEn": "Leaders must not abdicate audit duty.",
       "speakLineZh": "領導不可放棄稽核職責。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "abjure",
       "inVocab": true,
-      "senseAnchor": "formally reject or disavow a formerly held belief, usually under pressure",
+      "senseAnchor": "發誓放棄；抵制",
       "roleInScript": "棄權誓",
       "humorDevice": "morphology",
-      "zhGloss": "宣誓放棄",
+      "zhGloss": "發誓放棄；抵制；撤回",
       "speakLineEn": "Abjure outcome switching in writing.",
       "speakLineZh": "書面宣誓放棄結局替換。",
       "related": {
@@ -85,10 +85,10 @@
     {
       "headword": "abhor",
       "inVocab": true,
-      "senseAnchor": "憎惡",
+      "senseAnchor": "憎惡；強烈厭惡",
       "roleInScript": "厭惡鈴",
       "humorDevice": "morphology",
-      "zhGloss": "憎惡",
+      "zhGloss": "憎惡；強烈厭惡",
       "speakLineEn": "Abhor silent deletion of outliers.",
       "speakLineZh": "憎惡沉默刪除離群值。",
       "related": {
@@ -130,10 +130,10 @@
     {
       "headword": "abeyance",
       "inVocab": true,
-      "senseAnchor": "temporary inactivity",
+      "senseAnchor": "暫停；場面：暫擱架",
       "roleInScript": "暫擱架",
       "humorDevice": "story",
-      "zhGloss": "暫緩；擱置",
+      "zhGloss": "暫停",
       "speakLineEn": "Hold disputed claims in abeyance.",
       "speakLineZh": "爭議主張先暫擱。",
       "related": {
@@ -203,6 +203,8 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch06"
+    "stage": "P2-batch06",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

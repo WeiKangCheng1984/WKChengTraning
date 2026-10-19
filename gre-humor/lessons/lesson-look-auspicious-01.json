@@ -20,7 +20,7 @@
       "step": 2,
       "name": "串記劇本",
       "minutes": 2,
-      "content": "auspicious＝吉利的。propitious＝有利／適合的。ominous＝兇兆的。口令：晴空寫開工，烏雲寫快跑。"
+      "content": "auspicious＝吉利的。propitious＝有利／適合的。ominous＝兇兆的。口令：晴空寫開工，烏雲寫快跑。形近對決：先分清語意軸，再對號入座。登場：auspicious（晴空麥）、propitious（順風標）、ominous（烏雲警）、favorable（綠燈）、inauspicious（黑貓標）、sunshine（陽光）。"
     },
     {
       "step": 3,
@@ -91,6 +91,8 @@
   "status": "reviewed",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P3-batch03"
+    "stage": "P3-batch03",
+    "polishStage": "Q-wave2",
+    "polishedAt": "2026-10-19"
   }
 }

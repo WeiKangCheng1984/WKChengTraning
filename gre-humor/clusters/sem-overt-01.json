@@ -25,10 +25,10 @@
     {
       "headword": "covert",
       "inVocab": true,
-      "senseAnchor": "a flock of coots; a covering that serves to conceal or shelter something",
+      "senseAnchor": "隱蔽的；祕密的",
       "roleInScript": "藏起來",
       "humorDevice": "contrast",
-      "zhGloss": "隱蔽的",
+      "zhGloss": "隱蔽的；祕密的",
       "speakLineEn": "Covert multiple testing inflates false positives.",
       "speakLineZh": "隱蔽多重檢定膨脹偽陽性。",
       "related": {
@@ -40,10 +40,10 @@
     {
       "headword": "clandestine",
       "inVocab": true,
-      "senseAnchor": "done or kept secret",
+      "senseAnchor": "祕密的；場面：地下作業",
       "roleInScript": "地下作業",
       "humorDevice": "contrast",
-      "zhGloss": "祕密的；暗中的",
+      "zhGloss": "祕密的",
       "speakLineEn": "Clandestine data edits should be impossible.",
       "speakLineZh": "暗中改資料應不可能。",
       "related": {
@@ -55,7 +55,7 @@
     {
       "headword": "surreptitious",
       "inVocab": true,
-      "senseAnchor": "marked by quiet and caution and secrecy; taking pains to avoid being observed; conducted with or marked by hidden aims or methods",
+      "senseAnchor": "偷偷摸摸的",
       "roleInScript": "偷溜",
       "humorDevice": "contrast",
       "zhGloss": "偷偷摸摸的",
@@ -70,10 +70,10 @@
     {
       "headword": "furtive",
       "inVocab": true,
-      "senseAnchor": "marked by quiet and caution and secrecy; taking pains to avoid being observed; secret and sly or sordid; ; - A.L.Guerard",
+      "senseAnchor": "偷偷摸摸的；鬼祟的",
       "roleInScript": "賊兮兮",
       "humorDevice": "contrast",
-      "zhGloss": "鬼祟的",
+      "zhGloss": "偷偷摸摸的",
       "speakLineEn": "Furtive glances at interim results bias stopping.",
       "speakLineZh": "鬼祟偷看期中結果扭曲停損。",
       "related": {
@@ -85,7 +85,7 @@
     {
       "headword": "patent",
       "inVocab": true,
-      "senseAnchor": "a document granting an inventor sole rights to an invention; an official document granting a right or privilege",
+      "senseAnchor": "明顯的；專利",
       "roleInScript": "擺明可見",
       "humorDevice": "contrast",
       "zhGloss": "明顯的；專利",
@@ -100,10 +100,10 @@
     {
       "headword": "manifest",
       "inVocab": true,
-      "senseAnchor": "a customs document listing the contents put on a ship or plane; provide evidence for; stand as proof of; show by one's behavior, attitude, or external attributes",
+      "senseAnchor": "展現；場面：顯現出來",
       "roleInScript": "顯現出來",
       "humorDevice": "contrast",
-      "zhGloss": "明顯的；顯示",
+      "zhGloss": "展現",
       "speakLineEn": "Bias became manifest after stratification.",
       "speakLineZh": "分層後偏差顯現。",
       "related": {
@@ -115,10 +115,10 @@
     {
       "headword": "latent",
       "inVocab": true,
-      "senseAnchor": "present but hidden",
+      "senseAnchor": "潛在的；場面：還沒浮出",
       "roleInScript": "還沒浮出",
       "humorDevice": "contrast",
-      "zhGloss": "潛在的；潛伏的",
+      "zhGloss": "潛在的",
       "speakLineEn": "Latent classes need strong identification.",
       "speakLineZh": "潛在類別需要強識別。",
       "related": {
@@ -130,10 +130,10 @@
     {
       "headword": "occult",
       "inVocab": true,
-      "senseAnchor": "supernatural forces and events and beings collectively; supernatural practices and techniques",
+      "senseAnchor": "神祕的；場面：隱而不見",
       "roleInScript": "隱而不見",
       "humorDevice": "contrast",
-      "zhGloss": "隱秘的；超自然的",
+      "zhGloss": "神祕的",
       "speakLineEn": "Do not treat statistical noise as occult wisdom.",
       "speakLineZh": "不要把統計噪音當隱秘智慧。",
       "related": {
@@ -145,10 +145,10 @@
     {
       "headword": "stealth",
       "inVocab": true,
-      "senseAnchor": "avoiding detection by moving carefully",
+      "senseAnchor": "祕密行動；隱密行動",
       "roleInScript": "悄悄進場",
       "humorDevice": "contrast",
-      "zhGloss": "隱密行動；隱身",
+      "zhGloss": "祕密行動",
       "speakLineEn": "Stealth revisions without changelogs erode trust.",
       "speakLineZh": "無變更紀錄的隱密修訂侵蝕信任。",
       "related": {
@@ -173,6 +173,8 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P1-batch01"
+    "stage": "P1-batch01",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

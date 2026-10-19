@@ -10,7 +10,7 @@
     {
       "headword": "humility",
       "inVocab": true,
-      "senseAnchor": "a disposition to be humble; a lack of false pride; a humble feeling",
+      "senseAnchor": "謙遜",
       "roleInScript": "謙遜帽",
       "humorDevice": "contrast",
       "zhGloss": "謙遜",
@@ -25,10 +25,10 @@
     {
       "headword": "meek",
       "inVocab": true,
-      "senseAnchor": "humble in spirit or manner; suggesting retiring mildness or even cowed submissiveness; very docile; ; - Langston Hughes",
+      "senseAnchor": "溫順謙和",
       "roleInScript": "溫順帽",
       "humorDevice": "contrast",
-      "zhGloss": "溫順謙和",
+      "zhGloss": "溫順的",
       "speakLineEn": "GRE tip: meek ~ 溫順謙和; keep the tone straight.",
       "speakLineZh": "GRE 提示：meek 約「溫順謙和」——抓住語氣。",
       "related": {
@@ -40,10 +40,10 @@
     {
       "headword": "demure",
       "inVocab": true,
-      "senseAnchor": "affectedly modest or shy especially in a playful or provocative way",
+      "senseAnchor": "端莊的；場面：矜持帽",
       "roleInScript": "矜持帽",
       "humorDevice": "contrast",
-      "zhGloss": "端莊矜持",
+      "zhGloss": "端莊的",
       "speakLineEn": "GRE tip: demure ~ 端莊矜持; keep the tone straight.",
       "speakLineZh": "GRE 提示：demure 約「端莊矜持」——抓住語氣。",
       "related": {
@@ -55,10 +55,10 @@
     {
       "headword": "unassuming",
       "inVocab": true,
-      "senseAnchor": "modest",
+      "senseAnchor": "謙遜的；場面：不裝腔",
       "roleInScript": "不裝腔",
       "humorDevice": "contrast",
-      "zhGloss": "不裝腔",
+      "zhGloss": "謙遜的",
       "speakLineEn": "GRE tip: unassuming ~ 不裝腔; keep the tone straight.",
       "speakLineZh": "GRE 提示：unassuming 約「不裝腔」——抓住語氣。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "unpretentious",
       "inVocab": true,
-      "senseAnchor": "lacking pretension or affectation; not ostentatious",
+      "senseAnchor": "謙遜的；場面：不做作",
       "roleInScript": "不做作",
       "humorDevice": "contrast",
-      "zhGloss": "不做作",
+      "zhGloss": "謙遜的",
       "speakLineEn": "GRE tip: unpretentious ~ 不做作; keep the tone straight.",
       "speakLineZh": "GRE 提示：unpretentious 約「不做作」——抓住語氣。",
       "related": {
@@ -85,10 +85,10 @@
     {
       "headword": "modest",
       "inVocab": true,
-      "senseAnchor": "marked by simplicity; having a humble opinion of yourself; not large but sufficient in size or amount",
+      "senseAnchor": "適中的；不太多的",
       "roleInScript": "謙虛燈",
       "humorDevice": "contrast",
-      "zhGloss": "謙虛",
+      "zhGloss": "適中的；不太多的；謙遜的",
       "speakLineEn": "GRE tip: modest ~ 謙虛; keep the tone straight.",
       "speakLineZh": "GRE 提示：modest 約「謙虛」——抓住語氣。",
       "related": {
@@ -100,10 +100,10 @@
     {
       "headword": "understated",
       "inVocab": true,
-      "senseAnchor": "represent as less significant or important; exhibiting restrained good taste",
+      "senseAnchor": "低調的；樸素的",
       "roleInScript": "低調燈",
       "humorDevice": "contrast",
-      "zhGloss": "低調",
+      "zhGloss": "低調的；樸素的；輕描淡寫的",
       "speakLineEn": "GRE tip: understated ~ 低調; keep the tone straight.",
       "speakLineZh": "GRE 提示：understated 約「低調」——抓住語氣。",
       "related": {
@@ -115,10 +115,10 @@
     {
       "headword": "coy",
       "inVocab": true,
-      "senseAnchor": "tending to avoid people and social situations",
+      "senseAnchor": "害羞的；內向的",
       "roleInScript": "羞怯",
       "humorDevice": "contrast",
-      "zhGloss": "羞怯／扭捏",
+      "zhGloss": "害羞的；內向的",
       "speakLineEn": "GRE tip: coy ~ 羞怯／扭捏; keep the tone straight.",
       "speakLineZh": "GRE 提示：coy 約「羞怯／扭捏」——抓住語氣。",
       "related": {
@@ -130,10 +130,10 @@
     {
       "headword": "haughty",
       "inVocab": true,
-      "senseAnchor": "having or showing arrogant superiority to and disdain of those one views as unworthy; ; ; ; ; ; ; - W.L.Shirer",
+      "senseAnchor": "自大的；高傲的",
       "roleInScript": "傲慢鼻",
       "humorDevice": "contrast",
-      "zhGloss": "傲慢",
+      "zhGloss": "自大的；高傲的",
       "speakLineEn": "GRE tip: haughty ~ 傲慢; keep the tone straight.",
       "speakLineZh": "GRE 提示：haughty 約「傲慢」——抓住語氣。",
       "related": {
@@ -145,10 +145,10 @@
     {
       "headword": "hubris",
       "inVocab": true,
-      "senseAnchor": "overbearing pride or presumption",
+      "senseAnchor": "高傲；自大",
       "roleInScript": "自負塔",
       "humorDevice": "contrast",
-      "zhGloss": "傲慢自負",
+      "zhGloss": "高傲；自大",
       "speakLineEn": "GRE tip: hubris ~ 傲慢自負; keep the tone straight.",
       "speakLineZh": "GRE 提示：hubris 約「傲慢自負」——抓住語氣。",
       "related": {
@@ -160,10 +160,10 @@
     {
       "headword": "pompous",
       "inVocab": true,
-      "senseAnchor": "puffed up with vanity; ; ; ; - Newsweek; characterized by pomp and ceremony and stately display",
+      "senseAnchor": "誇耀的；場面：浮誇袍",
       "roleInScript": "浮誇袍",
       "humorDevice": "contrast",
-      "zhGloss": "浮誇",
+      "zhGloss": "誇耀的",
       "speakLineEn": "GRE tip: pompous ~ 浮誇; keep the tone straight.",
       "speakLineZh": "GRE 提示：pompous 約「浮誇」——抓住語氣。",
       "related": {
@@ -175,10 +175,10 @@
     {
       "headword": "pretentious",
       "inVocab": true,
-      "senseAnchor": "making claim to or creating an appearance of (often undeserved) importance or distinction; intended to attract notice and impress others",
+      "senseAnchor": "誇耀的；場面：矯飾燈",
       "roleInScript": "矯飾燈",
       "humorDevice": "contrast",
-      "zhGloss": "矯飾",
+      "zhGloss": "誇耀的",
       "speakLineEn": "GRE tip: pretentious ~ 矯飾; keep the tone straight.",
       "speakLineZh": "GRE 提示：pretentious 約「矯飾」——抓住語氣。",
       "related": {
@@ -190,10 +190,10 @@
     {
       "headword": "ostentatious",
       "inVocab": true,
-      "senseAnchor": "intended to attract notice and impress others; (of a display) tawdry or vulgar",
+      "senseAnchor": "炫耀的；自大的",
       "roleInScript": "炫耀燈",
       "humorDevice": "contrast",
-      "zhGloss": "炫耀",
+      "zhGloss": "炫耀的；自大的",
       "speakLineEn": "GRE tip: ostentatious ~ 炫耀; keep the tone straight.",
       "speakLineZh": "GRE 提示：ostentatious 約「炫耀」——抓住語氣。",
       "related": {
@@ -205,10 +205,10 @@
     {
       "headword": "overbearing",
       "inVocab": true,
-      "senseAnchor": "overcome; bear too much",
+      "senseAnchor": "專橫的；傲慢的",
       "roleInScript": "專橫錘",
       "humorDevice": "contrast",
-      "zhGloss": "專橫",
+      "zhGloss": "專橫的；傲慢的",
       "speakLineEn": "GRE tip: overbearing ~ 專橫; keep the tone straight.",
       "speakLineZh": "GRE 提示：overbearing 約「專橫」——抓住語氣。",
       "related": {
@@ -220,10 +220,10 @@
     {
       "headword": "grandiose",
       "inVocab": true,
-      "senseAnchor": "seeming very impressive but not practical",
+      "senseAnchor": "浮誇的；華而不實的",
       "roleInScript": "誇大殿",
       "humorDevice": "contrast",
-      "zhGloss": "誇大",
+      "zhGloss": "浮誇的；華而不實的",
       "speakLineEn": "GRE tip: grandiose ~ 誇大; keep the tone straight.",
       "speakLineZh": "GRE 提示：grandiose 約「誇大」——抓住語氣。",
       "related": {
@@ -235,10 +235,10 @@
     {
       "headword": "bombast",
       "inVocab": true,
-      "senseAnchor": "pompous or pretentious talk or writing",
+      "senseAnchor": "吹噓；誇大其詞",
       "roleInScript": "空話筒",
       "humorDevice": "contrast",
-      "zhGloss": "高調空話",
+      "zhGloss": "吹噓；誇大其詞",
       "speakLineEn": "GRE tip: bombast ~ 高調空話; keep the tone straight.",
       "speakLineZh": "GRE 提示：bombast 約「高調空話」——抓住語氣。",
       "related": {
@@ -250,10 +250,10 @@
     {
       "headword": "effrontery",
       "inVocab": true,
-      "senseAnchor": "audacious (even arrogant) behavior that you have no right to",
+      "senseAnchor": "厚顏無恥",
       "roleInScript": "厚顏盾",
       "humorDevice": "contrast",
-      "zhGloss": "厚顏",
+      "zhGloss": "厚顏無恥",
       "speakLineEn": "GRE tip: effrontery ~ 厚顏; keep the tone straight.",
       "speakLineZh": "GRE 提示：effrontery 約「厚顏」——抓住語氣。",
       "related": {
@@ -265,10 +265,10 @@
     {
       "headword": "showy",
       "inVocab": true,
-      "senseAnchor": "marked by ostentation but often tasteless; displaying brilliance and virtuosity",
+      "senseAnchor": "炫耀的；顯眼的",
       "roleInScript": "炫目牌",
       "humorDevice": "contrast",
-      "zhGloss": "炫目",
+      "zhGloss": "炫耀的；顯眼的",
       "speakLineEn": "GRE tip: showy ~ 炫目; keep the tone straight.",
       "speakLineZh": "GRE 提示：showy 約「炫目」——抓住語氣。",
       "related": {
@@ -280,10 +280,10 @@
     {
       "headword": "bluster",
       "inVocab": true,
-      "senseAnchor": "to speak in a loudly arrogant or bullying manner",
+      "senseAnchor": "咆哮；狂妄自大地說",
       "roleInScript": "唬人風",
       "humorDevice": "contrast",
-      "zhGloss": "咆哮唬人",
+      "zhGloss": "咆哮；狂妄自大地說",
       "speakLineEn": "GRE tip: bluster ~ 咆哮唬人; keep the tone straight.",
       "speakLineZh": "GRE 提示：bluster 約「咆哮唬人」——抓住語氣。",
       "related": {
@@ -295,10 +295,10 @@
     {
       "headword": "prig",
       "inVocab": true,
-      "senseAnchor": "a person regarded as arrogant and annoying",
+      "senseAnchor": "自認清高的；偽君子",
       "roleInScript": "偽君子",
       "humorDevice": "contrast",
-      "zhGloss": "偽君子",
+      "zhGloss": "自認清高的",
       "speakLineEn": "GRE tip: prig ~ 偽君子; keep the tone straight.",
       "speakLineZh": "GRE 提示：prig 約「偽君子」——抓住語氣。",
       "related": {
@@ -310,10 +310,10 @@
     {
       "headword": "overweening",
       "inVocab": true,
-      "senseAnchor": "showing too much confidence or pride",
+      "senseAnchor": "過度自負",
       "roleInScript": "過度自負",
       "humorDevice": "contrast",
-      "zhGloss": "過度自負",
+      "zhGloss": "自負的",
       "speakLineEn": "GRE tip: overweening ~ 過度自負; keep the tone straight.",
       "speakLineZh": "GRE 提示：overweening 約「過度自負」——抓住語氣。",
       "related": {
@@ -325,10 +325,10 @@
     {
       "headword": "sententious",
       "inVocab": true,
-      "senseAnchor": "abounding in or given to pompous or aphoristic moralizing; - Kathleen Barnes; concise and full of meaning; ; - Hervey Allen",
+      "senseAnchor": "精幹的；簡潔的",
       "roleInScript": "說教腔",
       "humorDevice": "contrast",
-      "zhGloss": "好說教",
+      "zhGloss": "精幹的；簡潔的",
       "speakLineEn": "GRE tip: sententious ~ 好說教; keep the tone straight.",
       "speakLineZh": "GRE 提示：sententious 約「好說教」——抓住語氣。",
       "related": {
@@ -340,10 +340,10 @@
     {
       "headword": "orotund",
       "inVocab": true,
-      "senseAnchor": "ostentatiously lofty in style; (of sounds) full and rich",
+      "senseAnchor": "誇張的；做作的",
       "roleInScript": "做作腔",
       "humorDevice": "story",
-      "zhGloss": "做作洪亮",
+      "zhGloss": "誇張的；做作的",
       "speakLineEn": "GRE tip: orotund ~ 做作洪亮; keep the tone straight.",
       "speakLineZh": "GRE 提示：orotund 約「做作洪亮」——抓住語氣。",
       "related": {
@@ -355,10 +355,10 @@
     {
       "headword": "abase",
       "inVocab": true,
-      "senseAnchor": "cause to feel shame; hurt the pride of",
+      "senseAnchor": "降低；場面：貶低階",
       "roleInScript": "貶低階",
       "humorDevice": "story",
-      "zhGloss": "貶低",
+      "zhGloss": "降低",
       "speakLineEn": "GRE tip: abase ~ 貶低; keep the tone straight.",
       "speakLineZh": "GRE 提示：abase 約「貶低」——抓住語氣。",
       "related": {
@@ -370,7 +370,7 @@
     {
       "headword": "supplicate",
       "inVocab": true,
-      "senseAnchor": "ask humbly (for something); make a humble, earnest petition",
+      "senseAnchor": "懇求",
       "roleInScript": "懇求膝",
       "humorDevice": "story",
       "zhGloss": "懇求",
@@ -397,6 +397,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P3-batch01"
+    "stage": "P3-batch01",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

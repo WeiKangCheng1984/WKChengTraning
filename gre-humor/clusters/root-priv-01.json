@@ -10,7 +10,7 @@
     {
       "headword": "private",
       "inVocab": true,
-      "senseAnchor": "私人的",
+      "senseAnchor": "私人的；場面：鎖進金庫",
       "roleInScript": "鎖進金庫",
       "humorDevice": "morphology",
       "zhGloss": "私人的",
@@ -25,7 +25,7 @@
     {
       "headword": "privacy",
       "inVocab": true,
-      "senseAnchor": "隱私",
+      "senseAnchor": "隱私；場面：金庫門禁",
       "roleInScript": "金庫門禁",
       "humorDevice": "morphology",
       "zhGloss": "隱私",
@@ -40,7 +40,7 @@
     {
       "headword": "deprive",
       "inVocab": true,
-      "senseAnchor": "take away possessions from someone; keep from having, keeping, or obtaining",
+      "senseAnchor": "剝奪；場面：拿走鑰匙",
       "roleInScript": "拿走鑰匙",
       "humorDevice": "morphology",
       "zhGloss": "剝奪",
@@ -55,10 +55,10 @@
     {
       "headword": "privation",
       "inVocab": true,
-      "senseAnchor": "a state of extreme poverty; act of depriving someone of food or money or rights",
+      "senseAnchor": "缺乏；場面：被剝到空",
       "roleInScript": "被剝到空",
       "humorDevice": "morphology",
-      "zhGloss": "匱乏；剝奪",
+      "zhGloss": "缺乏",
       "speakLineEn": "Privation of tooling hits poorer labs hardest.",
       "speakLineZh": "工具匱乏最傷較窮實驗室。",
       "related": {
@@ -70,7 +70,7 @@
     {
       "headword": "privilege",
       "inVocab": true,
-      "senseAnchor": "特權",
+      "senseAnchor": "特權；場面：特殊鑰匙",
       "roleInScript": "特殊鑰匙",
       "humorDevice": "morphology",
       "zhGloss": "特權",
@@ -100,7 +100,7 @@
     {
       "headword": "privatization",
       "inVocab": true,
-      "senseAnchor": "私有化",
+      "senseAnchor": "私有化；場面：公變私",
       "roleInScript": "公變私",
       "humorDevice": "story",
       "zhGloss": "私有化",
@@ -115,7 +115,7 @@
     {
       "headword": "underprivileged",
       "inVocab": true,
-      "senseAnchor": "弱勢的",
+      "senseAnchor": "弱勢的；場面：少鑰匙的人",
       "roleInScript": "少鑰匙的人",
       "humorDevice": "story",
       "zhGloss": "弱勢的",
@@ -130,7 +130,7 @@
     {
       "headword": "privately",
       "inVocab": true,
-      "senseAnchor": "私下地",
+      "senseAnchor": "私下地；場面：金庫內談",
       "roleInScript": "金庫內談",
       "humorDevice": "story",
       "zhGloss": "私下地",
@@ -145,7 +145,7 @@
     {
       "headword": "secrecy",
       "inVocab": true,
-      "senseAnchor": "機密",
+      "senseAnchor": "機密；場面：金庫氣氛",
       "roleInScript": "金庫氣氛",
       "humorDevice": "story",
       "zhGloss": "機密",
@@ -160,7 +160,7 @@
     {
       "headword": "confidential",
       "inVocab": true,
-      "senseAnchor": "機密的",
+      "senseAnchor": "機密的；場面：密封袋",
       "roleInScript": "密封袋",
       "humorDevice": "story",
       "zhGloss": "機密的",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P2-batch01"
+    "stage": "P2-batch01",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

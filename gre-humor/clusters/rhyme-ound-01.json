@@ -25,7 +25,7 @@
     {
       "headword": "confound",
       "inVocab": true,
-      "senseAnchor": "be confusing or perplexing to; cause to be unable to think clearly; mistake one thing for another",
+      "senseAnchor": "混淆；挫敗",
       "roleInScript": "攪混懵掉",
       "humorDevice": "phonetic",
       "zhGloss": "混淆；挫敗",
@@ -40,10 +40,10 @@
     {
       "headword": "expound",
       "inVocab": true,
-      "senseAnchor": "add details, as to an account or idea; clarify the meaning of and discourse in a learned way, usually in writing; state",
+      "senseAnchor": "詳述；場面：展開講",
       "roleInScript": "展開講",
       "humorDevice": "phonetic",
-      "zhGloss": "闡述；詳細說明",
+      "zhGloss": "詳述",
       "speakLineEn": "Expound the identification strategy in plain English.",
       "speakLineZh": "用白話闡述識別策略。",
       "related": {
@@ -55,10 +55,10 @@
     {
       "headword": "impound",
       "inVocab": true,
-      "senseAnchor": "take temporary possession of as a security, by legal authority; place or shut up in a pound",
+      "senseAnchor": "限制；場面：封存扣住",
       "roleInScript": "封存扣住",
       "humorDevice": "phonetic",
-      "zhGloss": "扣押；沒收",
+      "zhGloss": "限制",
       "speakLineEn": "Impound contested datasets until audit ends.",
       "speakLineZh": "稽核結束前扣押爭議資料集。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "resound",
       "inVocab": true,
-      "senseAnchor": "ring or echo with sound; emit a noise",
+      "senseAnchor": "迴響；場面：回聲震場",
       "roleInScript": "回聲震場",
       "humorDevice": "phonetic",
-      "zhGloss": "回響；馳名",
+      "zhGloss": "迴響",
       "speakLineEn": "The critique will resound across methods blogs.",
       "speakLineZh": "批評會在方法部落格回響。",
       "related": {
@@ -85,7 +85,7 @@
     {
       "headword": "astound",
       "inVocab": true,
-      "senseAnchor": "使震驚",
+      "senseAnchor": "使震驚；場面：震場",
       "roleInScript": "震場",
       "humorDevice": "phonetic",
       "zhGloss": "使震驚",
@@ -100,7 +100,7 @@
     {
       "headword": "compound",
       "inVocab": false,
-      "senseAnchor": "複合；加重；化合物",
+      "senseAnchor": "複合；加重",
       "roleInScript": "疊加變重",
       "humorDevice": "phonetic",
       "zhGloss": "複合；加重；化合物",
@@ -115,7 +115,7 @@
     {
       "headword": "rebound",
       "inVocab": false,
-      "senseAnchor": "反彈",
+      "senseAnchor": "反彈；場面：彈回來",
       "roleInScript": "彈回來",
       "humorDevice": "phonetic",
       "zhGloss": "反彈",
@@ -130,7 +130,7 @@
     {
       "headword": "surround",
       "inVocab": false,
-      "senseAnchor": "包圍",
+      "senseAnchor": "包圍；場面：團團圍住",
       "roleInScript": "團團圍住",
       "humorDevice": "phonetic",
       "zhGloss": "包圍",
@@ -145,7 +145,7 @@
     {
       "headword": "abound",
       "inVocab": true,
-      "senseAnchor": "to exist in very large numbers",
+      "senseAnchor": "大量存在；充滿",
       "roleInScript": "到處都是",
       "humorDevice": "phonetic",
       "zhGloss": "大量存在；充滿",
@@ -160,7 +160,7 @@
     {
       "headword": "unbounded",
       "inVocab": true,
-      "senseAnchor": "無界的",
+      "senseAnchor": "無界的；場面：沒圍欄",
       "roleInScript": "沒圍欄",
       "humorDevice": "story",
       "zhGloss": "無界的",
@@ -203,6 +203,8 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P1-batch01"
+    "stage": "P1-batch01",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

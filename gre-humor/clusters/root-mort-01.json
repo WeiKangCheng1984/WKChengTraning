@@ -25,7 +25,7 @@
     {
       "headword": "immortal",
       "inVocab": false,
-      "senseAnchor": "不朽的",
+      "senseAnchor": "不朽的；場面：不死",
       "roleInScript": "不死",
       "humorDevice": "morphology",
       "zhGloss": "不朽的",
@@ -40,10 +40,10 @@
     {
       "headword": "mortality",
       "inVocab": true,
-      "senseAnchor": "the quality or state of being mortal; the ratio of deaths in an area to the population of that area; expressed per 1000 per year",
+      "senseAnchor": "死亡率；必死性",
       "roleInScript": "死亡度量",
       "humorDevice": "morphology",
-      "zhGloss": "死亡率；必死性",
+      "zhGloss": "死亡",
       "speakLineEn": "Report mortality with risk intervals.",
       "speakLineZh": "報告死亡率請帶風險區間。",
       "related": {
@@ -55,10 +55,10 @@
     {
       "headword": "mortify",
       "inVocab": true,
-      "senseAnchor": "practice self-denial of one's body and appetites; hold within limits and control",
+      "senseAnchor": "抑制；苦修",
       "roleInScript": "羞到想死",
       "humorDevice": "morphology",
-      "zhGloss": "使羞愧；抑制",
+      "zhGloss": "抑制；苦修",
       "speakLineEn": "Errors should mortify ego, not hide.",
       "speakLineZh": "錯誤應讓自我羞愧，而非隱藏。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "moribund",
       "inVocab": true,
-      "senseAnchor": "not growing or changing; without force or vitality; being on the point of death; breathing your last",
+      "senseAnchor": "垂死的；場面：快死掉",
       "roleInScript": "快死掉",
       "humorDevice": "morphology",
-      "zhGloss": "瀕死的；即將廢止的",
+      "zhGloss": "垂死的",
       "speakLineEn": "A moribund journal still holds archives.",
       "speakLineZh": "瀕死期刊仍有檔案。",
       "related": {
@@ -85,10 +85,10 @@
     {
       "headword": "mortgage",
       "inVocab": true,
-      "senseAnchor": "a conditional conveyance of property as security for the repayment of a loan; put up as security or collateral",
+      "senseAnchor": "抵押；場面：押未來",
       "roleInScript": "押未來",
       "humorDevice": "morphology",
-      "zhGloss": "抵押；按揭",
+      "zhGloss": "抵押",
       "speakLineEn": "Do not mortgage rigor for speed.",
       "speakLineZh": "不要為速度抵押嚴謹。",
       "related": {
@@ -130,7 +130,7 @@
     {
       "headword": "immortality",
       "inVocab": false,
-      "senseAnchor": "不朽",
+      "senseAnchor": "不朽；場面：不死狀態",
       "roleInScript": "不死狀態",
       "humorDevice": "story",
       "zhGloss": "不朽",
@@ -175,7 +175,7 @@
     {
       "headword": "rigor mortis",
       "inVocab": false,
-      "senseAnchor": "屍僵",
+      "senseAnchor": "屍僵；場面：死後僵硬",
       "roleInScript": "死後僵硬",
       "humorDevice": "story",
       "zhGloss": "屍僵",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P1-batch02"
+    "stage": "P1-batch02",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

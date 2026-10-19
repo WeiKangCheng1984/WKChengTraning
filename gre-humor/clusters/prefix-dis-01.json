@@ -10,10 +10,10 @@
     {
       "headword": "disperse",
       "inVocab": true,
-      "senseAnchor": "distribute loosely; to cause to separate and go in different directions",
+      "senseAnchor": "分散的；場面：打散",
       "roleInScript": "打散",
       "humorDevice": "morphology",
-      "zhGloss": "散佈；解散",
+      "zhGloss": "分散的",
       "speakLineEn": "Disperse rumors with a public correction log.",
       "speakLineZh": "用公開勘誤日誌打散謠言。",
       "related": {
@@ -25,10 +25,10 @@
     {
       "headword": "dismantle",
       "inVocab": true,
-      "senseAnchor": "tear down so as to make flat with the ground; take apart into its constituent pieces",
+      "senseAnchor": "分離；拆卸",
       "roleInScript": "拆掉結構",
       "humorDevice": "morphology",
-      "zhGloss": "拆除；拆解",
+      "zhGloss": "分離；拆卸",
       "speakLineEn": "Dismantle incentives that reward only positives.",
       "speakLineZh": "拆掉只獎勵陽性的誘因。",
       "related": {
@@ -40,10 +40,10 @@
     {
       "headword": "disparage",
       "inVocab": true,
-      "senseAnchor": "express a negative opinion of",
+      "senseAnchor": "貶低；抨擊",
       "roleInScript": "拆台貶低",
       "humorDevice": "morphology",
-      "zhGloss": "貶低；誹謗",
+      "zhGloss": "貶低；抨擊",
       "speakLineEn": "Do not disparage fields you have not read.",
       "speakLineZh": "不要貶低你沒讀過的領域。",
       "related": {
@@ -55,7 +55,7 @@
     {
       "headword": "dissuade",
       "inVocab": true,
-      "senseAnchor": "turn away from by persuasion",
+      "senseAnchor": "勸阻；場面：拆掉念頭",
       "roleInScript": "拆掉念頭",
       "humorDevice": "morphology",
       "zhGloss": "勸阻",
@@ -85,10 +85,10 @@
     {
       "headword": "discord",
       "inVocab": true,
-      "senseAnchor": "lack of agreement or harmony",
+      "senseAnchor": "意見不一致；不和",
       "roleInScript": "拆和諧",
       "humorDevice": "morphology",
-      "zhGloss": "不和；不一致",
+      "zhGloss": "意見不一致",
       "speakLineEn": "Discord between prereg and paper needs explanation.",
       "speakLineZh": "預註冊與論文不一致需解釋。",
       "related": {
@@ -115,10 +115,10 @@
     {
       "headword": "disavow",
       "inVocab": true,
-      "senseAnchor": "refuse to acknowledge; disclaim knowledge of; responsibility for, or association with",
+      "senseAnchor": "否認；拒絕承認",
       "roleInScript": "切割否認",
       "humorDevice": "morphology",
-      "zhGloss": "否認；拒絕承認",
+      "zhGloss": "否認",
       "speakLineEn": "Authors must disavow forged figures publicly.",
       "speakLineZh": "作者必須公開否認偽造圖。",
       "related": {
@@ -130,7 +130,7 @@
     {
       "headword": "disclose",
       "inVocab": true,
-      "senseAnchor": "make known to the public information that was previously known only to a few people or that was meant to be kept a secret; disclose to view as by removing a cover",
+      "senseAnchor": "揭露；場面：打開不藏",
       "roleInScript": "打開不藏",
       "humorDevice": "story",
       "zhGloss": "揭露",
@@ -158,6 +158,8 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P1-batch01"
+    "stage": "P1-batch01",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

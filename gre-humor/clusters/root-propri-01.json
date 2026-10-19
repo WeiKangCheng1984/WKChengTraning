@@ -70,10 +70,10 @@
     {
       "headword": "proprietary",
       "inVocab": true,
-      "senseAnchor": "an unincorporated business owned by a single person who is responsible for its liabilities and entitled to its profits; protected by trademark or patent or copyright; made or produced or distributed by one having exclusive rights",
+      "senseAnchor": "私有的；場面：專有鎖",
       "roleInScript": "專有鎖",
       "humorDevice": "morphology",
-      "zhGloss": "專有的",
+      "zhGloss": "私有的",
       "speakLineEn": "Prefer open tools over proprietary black boxes.",
       "speakLineZh": "寧可開放工具，不要專有黑箱。",
       "related": {
@@ -130,10 +130,10 @@
     {
       "headword": "expropriate",
       "inVocab": true,
-      "senseAnchor": "deprive of possessions",
+      "senseAnchor": "沒收；充公",
       "roleInScript": "徵收令",
       "humorDevice": "story",
-      "zhGloss": "徵收；沒收",
+      "zhGloss": "沒收；充公",
       "speakLineEn": "Do not expropriate credit from juniors.",
       "speakLineZh": "不要徵收資淺者的功勞。",
       "related": {
@@ -145,7 +145,7 @@
     {
       "headword": "ownership",
       "inVocab": true,
-      "senseAnchor": "所有權",
+      "senseAnchor": "所有權；場面：誰的鍋",
       "roleInScript": "誰的鍋",
       "humorDevice": "story",
       "zhGloss": "所有權",
@@ -160,7 +160,7 @@
     {
       "headword": "belongings",
       "inVocab": true,
-      "senseAnchor": "財物",
+      "senseAnchor": "財物；場面：私人物品",
       "roleInScript": "私人物品",
       "humorDevice": "story",
       "zhGloss": "財物",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch05"
+    "stage": "P2-batch05",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

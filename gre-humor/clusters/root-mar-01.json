@@ -10,10 +10,10 @@
     {
       "headword": "marine",
       "inVocab": true,
-      "senseAnchor": "海的；海軍陸戰隊",
+      "senseAnchor": "海軍陸戰隊",
       "roleInScript": "海上編制",
       "humorDevice": "morphology",
-      "zhGloss": "海的；海軍陸戰隊",
+      "zhGloss": "海軍陸戰隊",
       "speakLineEn": "Treat multi-site drift like marine currents.",
       "speakLineZh": "把多站漂移當海流處理。",
       "related": {
@@ -145,10 +145,10 @@
     {
       "headword": "anchor",
       "inVocab": true,
-      "senseAnchor": "to be strongly connected with a particular system",
+      "senseAnchor": "紮根於；場面：下錨",
       "roleInScript": "下錨",
       "humorDevice": "story",
-      "zhGloss": "錨",
+      "zhGloss": "紮根於",
       "speakLineEn": "Anchor claims to a commit hash.",
       "speakLineZh": "把主張錨到 commit 雜湊。",
       "related": {
@@ -175,10 +175,10 @@
     {
       "headword": "buoy",
       "inVocab": true,
-      "senseAnchor": "bright-colored; a float attached by rope to the seabed to mark channels in a harbor or underwater hazards; float on the surface of water",
+      "senseAnchor": "振奮；場面：浮標燈",
       "roleInScript": "浮標燈",
       "humorDevice": "story",
-      "zhGloss": "浮標",
+      "zhGloss": "振奮",
       "speakLineEn": "Use buoys: milestones that keep the project afloat.",
       "speakLineZh": "用浮標：讓專案浮著的里程碑。",
       "related": {
@@ -203,6 +203,8 @@
   "priority": "C",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch05"
+    "stage": "P2-batch05",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

@@ -10,10 +10,10 @@
     {
       "headword": "paucity",
       "inVocab": true,
-      "senseAnchor": "smallness of number",
+      "senseAnchor": "缺乏；場面：空貨架",
       "roleInScript": "空貨架",
       "humorDevice": "contrast",
-      "zhGloss": "缺乏；少數",
+      "zhGloss": "缺乏",
       "speakLineEn": "A paucity of preregistered plans invites chaos.",
       "speakLineZh": "預註冊計畫缺乏會引來混亂。",
       "related": {
@@ -85,10 +85,10 @@
     {
       "headword": "copious",
       "inVocab": true,
-      "senseAnchor": "large in quantity",
+      "senseAnchor": "大量的；場面：堆滿箱",
       "roleInScript": "堆滿箱",
       "humorDevice": "contrast",
-      "zhGloss": "豐富的；大量的",
+      "zhGloss": "大量的",
       "speakLineEn": "Copious notes beat heroic memory.",
       "speakLineZh": "豐富筆記勝過英雄式記憶。",
       "related": {
@@ -100,10 +100,10 @@
     {
       "headword": "plethora",
       "inVocab": true,
-      "senseAnchor": "excess",
+      "senseAnchor": "過量；場面：爆倉堆",
       "roleInScript": "爆倉堆",
       "humorDevice": "contrast",
-      "zhGloss": "過剩；過多",
+      "zhGloss": "過量",
       "speakLineEn": "A plethora of endpoints needs correction.",
       "speakLineZh": "終點過剩需要校正。",
       "related": {
@@ -115,10 +115,10 @@
     {
       "headword": "myriad",
       "inVocab": true,
-      "senseAnchor": "a large indefinite number; the cardinal number that is the product of ten and one thousand",
+      "senseAnchor": "無限的；場面：萬千櫃",
       "roleInScript": "萬千櫃",
       "humorDevice": "contrast",
-      "zhGloss": "無數；種種",
+      "zhGloss": "無限的",
       "speakLineEn": "Myriad tweaks without a plan look like fishing.",
       "speakLineZh": "無數無計畫微調像淘篩。",
       "related": {
@@ -130,7 +130,7 @@
     {
       "headword": "abundance",
       "inVocab": true,
-      "senseAnchor": "充裕",
+      "senseAnchor": "充裕；場面：豐收牌",
       "roleInScript": "豐收牌",
       "humorDevice": "contrast",
       "zhGloss": "充裕",
@@ -145,10 +145,10 @@
     {
       "headword": "surplus",
       "inVocab": true,
-      "senseAnchor": "a quantity much larger than is needed; more than is needed, desired, or required",
+      "senseAnchor": "過剩的；場面：剩餘倉",
       "roleInScript": "剩餘倉",
       "humorDevice": "story",
-      "zhGloss": "剩餘；過剩",
+      "zhGloss": "過剩的",
       "speakLineEn": "Surplus analyses belong in supplements.",
       "speakLineZh": "剩餘分析屬於補充材料。",
       "related": {
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch05"
+    "stage": "P2-batch05",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

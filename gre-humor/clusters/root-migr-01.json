@@ -55,10 +55,10 @@
     {
       "headword": "exodus",
       "inVocab": true,
-      "senseAnchor": "a journey by a large group to escape from a hostile environment; the second book of the Old Testament: tells of the departure of the Israelites out of slavery in Egypt led by Moses; God gave them the Ten Commandments and the rest of Mosaic law on Mount Sinai during the Exodus",
+      "senseAnchor": "大批離去；大批離開",
       "roleInScript": "大出走",
       "humorDevice": "story",
-      "zhGloss": "大批離開",
+      "zhGloss": "大批離去",
       "speakLineEn": "An exodus of staff risks lost documentation.",
       "speakLineZh": "人員大出走有文件遺失風險。",
       "related": {
@@ -70,7 +70,7 @@
     {
       "headword": "nomad",
       "inVocab": false,
-      "senseAnchor": "遊牧者",
+      "senseAnchor": "遊牧者；場面：遊牧帳",
       "roleInScript": "遊牧帳",
       "humorDevice": "story",
       "zhGloss": "遊牧者",
@@ -143,6 +143,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch04"
+    "stage": "P2-batch04",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

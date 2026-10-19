@@ -10,7 +10,7 @@
     {
       "headword": "temporary",
       "inVocab": false,
-      "senseAnchor": "暫時的",
+      "senseAnchor": "暫時的；場面：臨時通行證",
       "roleInScript": "臨時通行證",
       "humorDevice": "morphology",
       "zhGloss": "暫時的",
@@ -40,7 +40,7 @@
     {
       "headword": "extemporaneous",
       "inVocab": true,
-      "senseAnchor": "即興的",
+      "senseAnchor": "即興的；場面：沒預寫發言",
       "roleInScript": "沒預寫發言",
       "humorDevice": "morphology",
       "zhGloss": "即興的",
@@ -55,10 +55,10 @@
     {
       "headword": "temporize",
       "inVocab": true,
-      "senseAnchor": "draw out a discussion or process in order to gain time",
+      "senseAnchor": "行動躲閃以爭取時間；延長",
       "roleInScript": "拖時間和稀泥",
       "humorDevice": "morphology",
-      "zhGloss": "拖延觀望；妥協拖延",
+      "zhGloss": "行動躲閃以爭取時間；延長；拖延",
       "speakLineEn": "Do not temporize on correcting the record.",
       "speakLineZh": "勘誤紀錄不要拖延觀望。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "temporal",
       "inVocab": true,
-      "senseAnchor": "the semantic role of the noun phrase that designates the time of the state or action denoted by the verb; not eternal; - F.D.Roosevelt",
+      "senseAnchor": "世俗的；場面：時間軸",
       "roleInScript": "時間軸",
       "humorDevice": "morphology",
-      "zhGloss": "時間的；世俗的",
+      "zhGloss": "世俗的",
       "speakLineEn": "Clarify temporal order for causality.",
       "speakLineZh": "釐清時間順序以談因果。",
       "related": {
@@ -85,10 +85,10 @@
     {
       "headword": "tempo",
       "inVocab": true,
-      "senseAnchor": "(music) the speed at which a composition is to be played; the rate of some repeating event",
+      "senseAnchor": "速度；拍子",
       "roleInScript": "拍子",
       "humorDevice": "story",
-      "zhGloss": "速度；節奏",
+      "zhGloss": "速度；拍子",
       "speakLineEn": "Slow the tempo of claims to match evidence.",
       "speakLineZh": "把主張節奏降到匹配證據。",
       "related": {
@@ -115,7 +115,7 @@
     {
       "headword": "timeline",
       "inVocab": false,
-      "senseAnchor": "時間線",
+      "senseAnchor": "時間線；場面：調度表",
       "roleInScript": "調度表",
       "humorDevice": "story",
       "zhGloss": "時間線",
@@ -130,7 +130,7 @@
     {
       "headword": "meantime",
       "inVocab": false,
-      "senseAnchor": "其間",
+      "senseAnchor": "其間；場面：暫時空窗",
       "roleInScript": "暫時空窗",
       "humorDevice": "story",
       "zhGloss": "其間",
@@ -145,10 +145,10 @@
     {
       "headword": "timely",
       "inVocab": true,
-      "senseAnchor": "appropriate to the times or the occasion",
+      "senseAnchor": "合乎時宜的；及時的",
       "roleInScript": "合時",
       "humorDevice": "story",
-      "zhGloss": "及時的",
+      "zhGloss": "合乎時宜的",
       "speakLineEn": "Timely corrections beat perfect silence.",
       "speakLineZh": "及時勘誤勝過完美沉默。",
       "related": {
@@ -175,7 +175,7 @@
     {
       "headword": "temporarily",
       "inVocab": false,
-      "senseAnchor": "暫時地",
+      "senseAnchor": "暫時地；場面：臨時地",
       "roleInScript": "臨時地",
       "humorDevice": "story",
       "zhGloss": "暫時地",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P2-batch02"
+    "stage": "P2-batch02",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

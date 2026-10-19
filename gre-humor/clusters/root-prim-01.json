@@ -25,7 +25,7 @@
     {
       "headword": "primarily",
       "inVocab": false,
-      "senseAnchor": "主要地",
+      "senseAnchor": "主要地；場面：首要地",
       "roleInScript": "首要地",
       "humorDevice": "morphology",
       "zhGloss": "主要地",
@@ -40,7 +40,7 @@
     {
       "headword": "prime",
       "inVocab": false,
-      "senseAnchor": "主要的；質數；最佳",
+      "senseAnchor": "主要的；質數",
       "roleInScript": "最佳檔",
       "humorDevice": "morphology",
       "zhGloss": "主要的；質數；最佳",
@@ -130,10 +130,10 @@
     {
       "headword": "primordial",
       "inVocab": true,
-      "senseAnchor": "having existed from the beginning; in an earliest or original stage or state",
+      "senseAnchor": "原始的；初始的",
       "roleInScript": "根本第一",
       "humorDevice": "story",
-      "zhGloss": "原始的；根本的",
+      "zhGloss": "原始的；初始的",
       "speakLineEn": "Ask the primordial question: what is the estimand?",
       "speakLineZh": "問根本問題：目標量是什麼？",
       "related": {
@@ -203,6 +203,8 @@
   "priority": "C",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch03"
+    "stage": "P2-batch03",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

@@ -10,7 +10,7 @@
     {
       "headword": "pugnacious",
       "inVocab": true,
-      "senseAnchor": "having a quarrelsome or combative nature",
+      "senseAnchor": "好鬥的；場面：一上台就想打",
       "roleInScript": "一上台就想打",
       "humorDevice": "morphology",
       "zhGloss": "好鬥的",
@@ -25,10 +25,10 @@
     {
       "headword": "impugn",
       "inVocab": true,
-      "senseAnchor": "to attack, to blame",
+      "senseAnchor": "指責；場面：出拳打名譽",
       "roleInScript": "出拳打名譽",
       "humorDevice": "morphology",
-      "zhGloss": "質疑；抨擊",
+      "zhGloss": "指責",
       "speakLineEn": "Do not impugn motives without evidence.",
       "speakLineZh": "沒證據不要抨擊動機。",
       "related": {
@@ -55,7 +55,7 @@
     {
       "headword": "pugilist",
       "inVocab": true,
-      "senseAnchor": "拳擊手",
+      "senseAnchor": "拳擊手；場面：職業拳手",
       "roleInScript": "職業拳手",
       "humorDevice": "morphology",
       "zhGloss": "拳擊手",
@@ -100,7 +100,7 @@
     {
       "headword": "pugnacity",
       "inVocab": true,
-      "senseAnchor": "好鬥性",
+      "senseAnchor": "好鬥性；場面：想打的氣質",
       "roleInScript": "想打的氣質",
       "humorDevice": "story",
       "zhGloss": "好鬥性",
@@ -115,7 +115,7 @@
     {
       "headword": "fight",
       "inVocab": true,
-      "senseAnchor": "戰鬥",
+      "senseAnchor": "戰鬥；場面：擂台動作",
       "roleInScript": "擂台動作",
       "humorDevice": "story",
       "zhGloss": "戰鬥",
@@ -130,7 +130,7 @@
     {
       "headword": "combat",
       "inVocab": true,
-      "senseAnchor": "對抗",
+      "senseAnchor": "對抗；場面：對打",
       "roleInScript": "對打",
       "humorDevice": "story",
       "zhGloss": "對抗",
@@ -145,7 +145,7 @@
     {
       "headword": "belligerent",
       "inVocab": true,
-      "senseAnchor": "someone who fights (or is fighting); characteristic of an enemy or one eager to fight",
+      "senseAnchor": "好戰的；場面：好鬥鄰居",
       "roleInScript": "好鬥鄰居",
       "humorDevice": "story",
       "zhGloss": "好戰的",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P2-batch01"
+    "stage": "P2-batch01",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

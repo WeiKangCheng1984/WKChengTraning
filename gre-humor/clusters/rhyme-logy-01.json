@@ -55,7 +55,7 @@
     {
       "headword": "psychology",
       "inVocab": true,
-      "senseAnchor": "心理學",
+      "senseAnchor": "心理學；場面：心理廊",
       "roleInScript": "心理廊",
       "humorDevice": "morphology",
       "zhGloss": "心理學",
@@ -70,7 +70,7 @@
     {
       "headword": "ecology",
       "inVocab": true,
-      "senseAnchor": "生態學",
+      "senseAnchor": "生態學；場面：生態廊",
       "roleInScript": "生態廊",
       "humorDevice": "morphology",
       "zhGloss": "生態學",
@@ -85,7 +85,7 @@
     {
       "headword": "geology",
       "inVocab": true,
-      "senseAnchor": "地質學",
+      "senseAnchor": "地質學；場面：地質廊",
       "roleInScript": "地質廊",
       "humorDevice": "morphology",
       "zhGloss": "地質學",
@@ -187,6 +187,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch07"
+    "stage": "P2-batch07",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

@@ -25,10 +25,10 @@
     {
       "headword": "profuse",
       "inVocab": true,
-      "senseAnchor": "produced or growing in extreme abundance",
+      "senseAnchor": "充足的；豐富的",
       "roleInScript": "澆太多",
       "humorDevice": "morphology",
-      "zhGloss": "大量的；過多的",
+      "zhGloss": "充足的；豐富的",
       "speakLineEn": "Profuse acknowledgments cannot replace methods detail.",
       "speakLineZh": "大量誌謝不能取代方法細節。",
       "related": {
@@ -40,10 +40,10 @@
     {
       "headword": "effusive",
       "inVocab": true,
-      "senseAnchor": "excessive in emotional expression",
+      "senseAnchor": "充滿感情的；感情洋溢的",
       "roleInScript": "傾瀉感情",
       "humorDevice": "morphology",
-      "zhGloss": "感情洋溢的",
+      "zhGloss": "充滿感情的",
       "speakLineEn": "Effusive praise in reviews can hide critique.",
       "speakLineZh": "洋溢讚美可能掩蓋批評。",
       "related": {
@@ -70,7 +70,7 @@
     {
       "headword": "confuse",
       "inVocab": false,
-      "senseAnchor": "使混淆",
+      "senseAnchor": "使混淆；場面：混澆糊掉",
       "roleInScript": "混澆糊掉",
       "humorDevice": "morphology",
       "zhGloss": "使混淆",
@@ -85,7 +85,7 @@
     {
       "headword": "refuse",
       "inVocab": false,
-      "senseAnchor": "拒絕",
+      "senseAnchor": "拒絕；場面：不收這澆",
       "roleInScript": "不收這澆",
       "humorDevice": "morphology",
       "zhGloss": "拒絕",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P1-batch02"
+    "stage": "P1-batch02",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

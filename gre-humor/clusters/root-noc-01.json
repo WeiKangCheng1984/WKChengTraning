@@ -25,7 +25,7 @@
     {
       "headword": "innocuous",
       "inVocab": true,
-      "senseAnchor": "harmless",
+      "senseAnchor": "無害的；無冒犯的",
       "roleInScript": "驗過的無害",
       "humorDevice": "morphology",
       "zhGloss": "無害的；無冒犯的",
@@ -40,10 +40,10 @@
     {
       "headword": "noxious",
       "inVocab": true,
-      "senseAnchor": "causing intense displeasure, disgust, or resentment",
+      "senseAnchor": "產生強烈厭惡的；令人厭惡的",
       "roleInScript": "毒氣警報",
       "humorDevice": "morphology",
-      "zhGloss": "有害的；有毒的",
+      "zhGloss": "產生強烈厭惡的；令人厭惡的；惹人反感的",
       "speakLineEn": "Noxious incentives reward flashy false positives.",
       "speakLineZh": "有害誘因獎勵炫目假陽性。",
       "related": {
@@ -70,7 +70,7 @@
     {
       "headword": "noxiousness",
       "inVocab": false,
-      "senseAnchor": "有害性",
+      "senseAnchor": "有害性；場面：毒値",
       "roleInScript": "毒値",
       "humorDevice": "story",
       "zhGloss": "有害性",
@@ -85,10 +85,10 @@
     {
       "headword": "harmless",
       "inVocab": false,
-      "senseAnchor": "無害的",
+      "senseAnchor": "無害的；無冒犯的",
       "roleInScript": "無害近親",
       "humorDevice": "story",
-      "zhGloss": "無害的",
+      "zhGloss": "無害的；無冒犯的",
       "speakLineEn": "Harmless metaphors can still mislead.",
       "speakLineZh": "無害隱喻仍可能誤導。",
       "related": {
@@ -100,7 +100,7 @@
     {
       "headword": "toxic",
       "inVocab": false,
-      "senseAnchor": "有毒的",
+      "senseAnchor": "有毒的；場面：毒標籤",
       "roleInScript": "毒標籤",
       "humorDevice": "story",
       "zhGloss": "有毒的",
@@ -115,7 +115,7 @@
     {
       "headword": "nuisance",
       "inVocab": false,
-      "senseAnchor": "滋擾",
+      "senseAnchor": "滋擾；場面：小害蟲",
       "roleInScript": "小害蟲",
       "humorDevice": "story",
       "zhGloss": "滋擾",
@@ -130,7 +130,7 @@
     {
       "headword": "contaminate",
       "inVocab": true,
-      "senseAnchor": "make impure; make radioactive by adding radioactive material",
+      "senseAnchor": "污染；場面：弄髒樣本",
       "roleInScript": "弄髒樣本",
       "humorDevice": "story",
       "zhGloss": "污染",
@@ -145,7 +145,7 @@
     {
       "headword": "poison",
       "inVocab": false,
-      "senseAnchor": "毒藥",
+      "senseAnchor": "毒藥；場面：劇毒誘因",
       "roleInScript": "劇毒誘因",
       "humorDevice": "story",
       "zhGloss": "毒藥",
@@ -160,10 +160,10 @@
     {
       "headword": "antidote",
       "inVocab": true,
-      "senseAnchor": "a remedy that stops or controls the effects of a poison",
+      "senseAnchor": "解藥；解毒劑",
       "roleInScript": "解藥",
       "humorDevice": "story",
-      "zhGloss": "解毒劑",
+      "zhGloss": "解藥",
       "speakLineEn": "Preregistration is an antidote to fishing.",
       "speakLineZh": "預註冊是淘篩解毒劑。",
       "related": {
@@ -188,6 +188,9 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch03"
+    "stage": "P2-batch03",
+    "polishStage": "Q-gold",
+    "polishedAt": "2026-10-19",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

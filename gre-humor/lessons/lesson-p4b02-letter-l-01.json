@@ -20,7 +20,7 @@
       "step": 2,
       "name": "串記劇本",
       "minutes": 2,
-      "content": "labile/labortious/lacerate/lachrymose 先登台，其餘 orphan 接龍。清倉晚會續攤：同字母檢票，義核才是身份證。"
+      "content": "labile/labortious/lacerate/lachrymose 先登台，其餘 orphan 接龍。清倉晚會續攤：同字母檢票，義核才是身份證。串記：同一世界觀裡，每個詞都有固定動作位。登場：labile（L席-不穩定的）、labortious（L席-勤勉的）、lacerate（L席-傷害；撕）、lachrymose（L席-悲哀的；）、lachymose（L席-愛哭的；）、lactic（L席-乳的）。"
     },
     {
       "step": 3,
@@ -91,6 +91,8 @@
   "status": "reviewed",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P4-batch02"
+    "stage": "P4-batch02",
+    "polishStage": "Q-wave2",
+    "polishedAt": "2026-10-19"
   }
 }

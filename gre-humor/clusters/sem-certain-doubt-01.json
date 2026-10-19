@@ -10,10 +10,10 @@
     {
       "headword": "aplomb",
       "inVocab": true,
-      "senseAnchor": "great coolness and composure under strain",
+      "senseAnchor": "垂直；場面：沉著帽",
       "roleInScript": "沉著帽",
       "humorDevice": "contrast",
-      "zhGloss": "沉著自信",
+      "zhGloss": "垂直",
       "speakLineEn": "GRE tip: aplomb ~ 沉著自信; keep the tone straight.",
       "speakLineZh": "GRE 提示：aplomb 約「沉著自信」——抓住語氣。",
       "related": {
@@ -25,10 +25,10 @@
     {
       "headword": "poise",
       "inVocab": true,
-      "senseAnchor": "a cgs unit of dynamic viscosity equal to one dyne-second per square centimeter; the viscosity of a fluid in which a force of one dyne per square centimeter maintains a velocity of 1 centimeter per second; a state of being balanced in a stable equilibrium",
+      "senseAnchor": "鎮定；平衡",
       "roleInScript": "泰然",
       "humorDevice": "contrast",
-      "zhGloss": "泰然",
+      "zhGloss": "鎮定；平衡",
       "speakLineEn": "GRE tip: poise ~ 泰然; keep the tone straight.",
       "speakLineZh": "GRE 提示：poise 約「泰然」——抓住語氣。",
       "related": {
@@ -40,10 +40,10 @@
     {
       "headword": "clinch",
       "inVocab": true,
-      "senseAnchor": "(boxing) the act of one boxer holding onto the other to avoid being hit and to rest momentarily; a small slip noose made with seizing",
+      "senseAnchor": "確定；敲定",
       "roleInScript": "鎖定鉗",
       "humorDevice": "contrast",
-      "zhGloss": "確定咬死",
+      "zhGloss": "確定；敲定",
       "speakLineEn": "GRE tip: clinch ~ 確定咬死; keep the tone straight.",
       "speakLineZh": "GRE 提示：clinch 約「確定咬死」——抓住語氣。",
       "related": {
@@ -55,10 +55,10 @@
     {
       "headword": "unequivocal",
       "inVocab": true,
-      "senseAnchor": "admitting of no doubt or misunderstanding; having only one meaning or interpretation and leading to only one conclusion; clearly defined or formulated; - R.B.Taney",
+      "senseAnchor": "清晰的；明確的",
       "roleInScript": "不含糊",
       "humorDevice": "contrast",
-      "zhGloss": "毫不含糊",
+      "zhGloss": "清晰的；明確的",
       "speakLineEn": "GRE tip: unequivocal ~ 毫不含糊; keep the tone straight.",
       "speakLineZh": "GRE 提示：unequivocal 約「毫不含糊」——抓住語氣。",
       "related": {
@@ -85,7 +85,7 @@
     {
       "headword": "decisive",
       "inVocab": false,
-      "senseAnchor": "決定性",
+      "senseAnchor": "決定性；場面：決定箭",
       "roleInScript": "決定箭",
       "humorDevice": "contrast",
       "zhGloss": "決定性",
@@ -100,10 +100,10 @@
     {
       "headword": "indubitable",
       "inVocab": true,
-      "senseAnchor": "too obvious to be doubted",
+      "senseAnchor": "毋庸置疑的；無可懷疑",
       "roleInScript": "無可疑",
       "humorDevice": "contrast",
-      "zhGloss": "無可懷疑",
+      "zhGloss": "毋庸置疑的",
       "speakLineEn": "GRE tip: indubitable ~ 無可懷疑; keep the tone straight.",
       "speakLineZh": "GRE 提示：indubitable 約「無可懷疑」——抓住語氣。",
       "related": {
@@ -115,10 +115,10 @@
     {
       "headword": "enunciate",
       "inVocab": true,
-      "senseAnchor": "speak, pronounce, or utter in a certain way; express or state clearly",
+      "senseAnchor": "發音；闡述",
       "roleInScript": "闡明麥",
       "humorDevice": "contrast",
-      "zhGloss": "清晰闡明",
+      "zhGloss": "發音；闡述",
       "speakLineEn": "GRE tip: enunciate ~ 清晰闡明; keep the tone straight.",
       "speakLineZh": "GRE 提示：enunciate 約「清晰闡明」——抓住語氣。",
       "related": {
@@ -130,7 +130,7 @@
     {
       "headword": "skeptical",
       "inVocab": true,
-      "senseAnchor": "denying or questioning the tenets of especially a religion; marked by or given to doubt",
+      "senseAnchor": "懷疑的",
       "roleInScript": "懷疑鏡",
       "humorDevice": "contrast",
       "zhGloss": "懷疑的",
@@ -145,10 +145,10 @@
     {
       "headword": "leery",
       "inVocab": true,
-      "senseAnchor": "openly distrustful and unwilling to confide",
+      "senseAnchor": "懷疑的；場面：猜疑眼",
       "roleInScript": "猜疑眼",
       "humorDevice": "contrast",
-      "zhGloss": "猜疑",
+      "zhGloss": "懷疑的",
       "speakLineEn": "GRE tip: leery ~ 猜疑; keep the tone straight.",
       "speakLineZh": "GRE 提示：leery 約「猜疑」——抓住語氣。",
       "related": {
@@ -160,10 +160,10 @@
     {
       "headword": "tenuous",
       "inVocab": true,
-      "senseAnchor": "weak, uncertain",
+      "senseAnchor": "脆弱的；站不住腳的",
       "roleInScript": "脆弱線",
       "humorDevice": "contrast",
-      "zhGloss": "脆弱牽強",
+      "zhGloss": "脆弱的；站不住腳的",
       "speakLineEn": "GRE tip: tenuous ~ 脆弱牽強; keep the tone straight.",
       "speakLineZh": "GRE 提示：tenuous 約「脆弱牽強」——抓住語氣。",
       "related": {
@@ -175,7 +175,7 @@
     {
       "headword": "incertitude",
       "inVocab": true,
-      "senseAnchor": "the state of being unsure of something",
+      "senseAnchor": "不確定",
       "roleInScript": "不確定霧",
       "humorDevice": "contrast",
       "zhGloss": "不確定",
@@ -190,10 +190,10 @@
     {
       "headword": "quandary",
       "inVocab": true,
-      "senseAnchor": "a situation from which extrication is difficult especially an unpleasant or trying one; state of uncertainty or perplexity especially as requiring a choice between equally unfavorable options",
+      "senseAnchor": "困窘；場面：兩難岔",
       "roleInScript": "兩難岔",
       "humorDevice": "contrast",
-      "zhGloss": "進退兩難",
+      "zhGloss": "困窘",
       "speakLineEn": "GRE tip: quandary ~ 進退兩難; keep the tone straight.",
       "speakLineZh": "GRE 提示：quandary 約「進退兩難」——抓住語氣。",
       "related": {
@@ -205,10 +205,10 @@
     {
       "headword": "dither",
       "inVocab": true,
-      "senseAnchor": "an excited state of agitation; act nervously; be undecided; be uncertain",
+      "senseAnchor": "猶豫不決",
       "roleInScript": "猶豫步",
       "humorDevice": "contrast",
-      "zhGloss": "猶豫",
+      "zhGloss": "猶豫不決",
       "speakLineEn": "GRE tip: dither ~ 猶豫; keep the tone straight.",
       "speakLineZh": "GRE 提示：dither 約「猶豫」——抓住語氣。",
       "related": {
@@ -220,10 +220,10 @@
     {
       "headword": "falter",
       "inVocab": true,
-      "senseAnchor": "the act of pausing uncertainly; be unsure or weak",
+      "senseAnchor": "蹣跚；猶豫",
       "roleInScript": "躊躇",
       "humorDevice": "contrast",
-      "zhGloss": "躊躇",
+      "zhGloss": "蹣跚；猶豫",
       "speakLineEn": "GRE tip: falter ~ 躊躇; keep the tone straight.",
       "speakLineZh": "GRE 提示：falter 約「躊躇」——抓住語氣。",
       "related": {
@@ -235,10 +235,10 @@
     {
       "headword": "far-fetched",
       "inVocab": true,
-      "senseAnchor": "not likely to be true",
+      "senseAnchor": "牽強的；不可信的",
       "roleInScript": "牽強橋",
       "humorDevice": "contrast",
-      "zhGloss": "牽強",
+      "zhGloss": "牽強的；不可信的",
       "speakLineEn": "GRE tip: far-fetched ~ 牽強; keep the tone straight.",
       "speakLineZh": "GRE 提示：far-fetched 約「牽強」——抓住語氣。",
       "related": {
@@ -250,10 +250,10 @@
     {
       "headword": "inconclusive",
       "inVocab": true,
-      "senseAnchor": "not showing that something is certainly true",
+      "senseAnchor": "沒有定論的；無定論",
       "roleInScript": "無定論",
       "humorDevice": "contrast",
-      "zhGloss": "無定論",
+      "zhGloss": "沒有定論的",
       "speakLineEn": "GRE tip: inconclusive ~ 無定論; keep the tone straight.",
       "speakLineZh": "GRE 提示：inconclusive 約「無定論」——抓住語氣。",
       "related": {
@@ -265,10 +265,10 @@
     {
       "headword": "precarious",
       "inVocab": true,
-      "senseAnchor": "dangerously lacking in security",
+      "senseAnchor": "危險的；不確定的",
       "roleInScript": "不穩橋",
       "humorDevice": "contrast",
-      "zhGloss": "不穩",
+      "zhGloss": "危險的；不確定的",
       "speakLineEn": "GRE tip: precarious ~ 不穩; keep the tone straight.",
       "speakLineZh": "GRE 提示：precarious 約「不穩」——抓住語氣。",
       "related": {
@@ -295,10 +295,10 @@
     {
       "headword": "caveat",
       "inVocab": true,
-      "senseAnchor": "a warning against certain acts; (law) a formal notice filed with a court or officer to suspend a proceeding until filer is given a hearing",
+      "senseAnchor": "告誡；場面：但書牌",
       "roleInScript": "但書牌",
       "humorDevice": "story",
-      "zhGloss": "但書",
+      "zhGloss": "告誡",
       "speakLineEn": "GRE tip: caveat ~ 但書; keep the tone straight.",
       "speakLineZh": "GRE 提示：caveat 約「但書」——抓住語氣。",
       "related": {
@@ -310,10 +310,10 @@
     {
       "headword": "agnostic",
       "inVocab": true,
-      "senseAnchor": "someone who is doubtful or noncommittal about something; a person who claims that they cannot have true knowledge about the existence of God (but does not deny that God might exist)",
+      "senseAnchor": "不可知論的",
       "roleInScript": "不可知",
       "humorDevice": "story",
-      "zhGloss": "不可知",
+      "zhGloss": "不可知論的",
       "speakLineEn": "GRE tip: agnostic ~ 不可知; keep the tone straight.",
       "speakLineZh": "GRE 提示：agnostic 約「不可知」——抓住語氣。",
       "related": {
@@ -325,10 +325,10 @@
     {
       "headword": "boggle",
       "inVocab": true,
-      "senseAnchor": "startle with amazement or fear; hesitate when confronted with a problem, or when in doubt or fear",
+      "senseAnchor": "猶豫；場面：驚呆",
       "roleInScript": "驚呆",
       "humorDevice": "story",
-      "zhGloss": "驚呆猶豫",
+      "zhGloss": "猶豫",
       "speakLineEn": "GRE tip: boggle ~ 驚呆猶豫; keep the tone straight.",
       "speakLineZh": "GRE 提示：boggle 約「驚呆猶豫」——抓住語氣。",
       "related": {
@@ -340,10 +340,10 @@
     {
       "headword": "stagger",
       "inVocab": true,
-      "senseAnchor": "to show uncertainty about the right course of action",
+      "senseAnchor": "猶豫不決；踉蹌震驚",
       "roleInScript": "踉蹌",
       "humorDevice": "story",
-      "zhGloss": "踉蹌震驚",
+      "zhGloss": "猶豫不決",
       "speakLineEn": "GRE tip: stagger ~ 踉蹌震驚; keep the tone straight.",
       "speakLineZh": "GRE 提示：stagger 約「踉蹌震驚」——抓住語氣。",
       "related": {
@@ -355,10 +355,10 @@
     {
       "headword": "tarry",
       "inVocab": true,
-      "senseAnchor": "be about; leave slowly and hesitantly",
+      "senseAnchor": "等候；逗留",
       "roleInScript": "耽擱",
       "humorDevice": "story",
-      "zhGloss": "耽擱",
+      "zhGloss": "等候；逗留",
       "speakLineEn": "GRE tip: tarry ~ 耽擱; keep the tone straight.",
       "speakLineZh": "GRE 提示：tarry 約「耽擱」——抓住語氣。",
       "related": {
@@ -370,7 +370,7 @@
     {
       "headword": "suspicion",
       "inVocab": true,
-      "senseAnchor": "an impression that something might be the case; doubt about someone's honesty",
+      "senseAnchor": "懷疑",
       "roleInScript": "懷疑雲",
       "humorDevice": "story",
       "zhGloss": "懷疑",
@@ -398,6 +398,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P3-batch01"
+    "stage": "P3-batch01",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

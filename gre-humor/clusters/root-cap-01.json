@@ -25,7 +25,7 @@
     {
       "headword": "intercept",
       "inVocab": true,
-      "senseAnchor": "攔截",
+      "senseAnchor": "攔截；場面：中途截走",
       "roleInScript": "中途截走",
       "humorDevice": "morphology",
       "zhGloss": "攔截",
@@ -40,10 +40,10 @@
     {
       "headword": "susceptible",
       "inVocab": true,
-      "senseAnchor": "being in a situation where one is likely to meet with harm",
+      "senseAnchor": "容易受傷害的；易受影響的",
       "roleInScript": "易被抓住",
       "humorDevice": "morphology",
-      "zhGloss": "易受影響的",
+      "zhGloss": "容易受傷害的",
       "speakLineEn": "Young fields are susceptible to hype cycles.",
       "speakLineZh": "年輕領域易受炒作週期影響。",
       "related": {
@@ -70,7 +70,7 @@
     {
       "headword": "receive",
       "inVocab": true,
-      "senseAnchor": "收到",
+      "senseAnchor": "收到；場面：接下來",
       "roleInScript": "接下來",
       "humorDevice": "story",
       "zhGloss": "收到",
@@ -85,7 +85,7 @@
     {
       "headword": "accept",
       "inVocab": true,
-      "senseAnchor": "接受",
+      "senseAnchor": "接受；場面：收下",
       "roleInScript": "收下",
       "humorDevice": "morphology",
       "zhGloss": "接受",
@@ -115,7 +115,7 @@
     {
       "headword": "concept",
       "inVocab": true,
-      "senseAnchor": "概念",
+      "senseAnchor": "概念；場面：一起抓住的想法",
       "roleInScript": "一起抓住的想法",
       "humorDevice": "morphology",
       "zhGloss": "概念",
@@ -145,7 +145,7 @@
     {
       "headword": "participate",
       "inVocab": true,
-      "senseAnchor": "參與",
+      "senseAnchor": "參與；場面：分一份去抓",
       "roleInScript": "分一份去抓",
       "humorDevice": "morphology",
       "zhGloss": "參與",
@@ -205,7 +205,7 @@
     {
       "headword": "recipient",
       "inVocab": true,
-      "senseAnchor": "接受者",
+      "senseAnchor": "接受者；場面：被遞到的人",
       "roleInScript": "被遞到的人",
       "humorDevice": "morphology",
       "zhGloss": "接受者",
@@ -220,7 +220,7 @@
     {
       "headword": "emancipate",
       "inVocab": true,
-      "senseAnchor": "解放",
+      "senseAnchor": "解放；場面：解開被抓住的鎖",
       "roleInScript": "解開被抓住的鎖",
       "humorDevice": "morphology",
       "zhGloss": "解放",
@@ -248,6 +248,8 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "S3b"
+    "stage": "S3b",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

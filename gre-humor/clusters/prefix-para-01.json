@@ -85,7 +85,7 @@
     {
       "headword": "paraphrase",
       "inVocab": true,
-      "senseAnchor": "改述",
+      "senseAnchor": "改述；場面：改寫台",
       "roleInScript": "改寫台",
       "humorDevice": "morphology",
       "zhGloss": "改述",
@@ -100,10 +100,10 @@
     {
       "headword": "paramount",
       "inVocab": true,
-      "senseAnchor": "having superior power and influence",
+      "senseAnchor": "相當的；場面：至上旗",
       "roleInScript": "至上旗",
       "humorDevice": "morphology",
-      "zhGloss": "至上的；最重要的",
+      "zhGloss": "相當的",
       "speakLineEn": "Transparency is paramount under uncertainty.",
       "speakLineZh": "不確定下透明至上。",
       "related": {
@@ -130,10 +130,10 @@
     {
       "headword": "parable",
       "inVocab": true,
-      "senseAnchor": "a short moral story (often with animal characters); (New Testament) any of the stories told by Jesus to convey his religious message",
+      "senseAnchor": "寓言的",
       "roleInScript": "寓言箱",
       "humorDevice": "story",
-      "zhGloss": "寓言",
+      "zhGloss": "寓言的",
       "speakLineEn": "A methods parable: the lab that hid a null.",
       "speakLineZh": "方法寓言：那個藏起虛無的實驗室。",
       "related": {
@@ -160,7 +160,7 @@
     {
       "headword": "outlier",
       "inVocab": true,
-      "senseAnchor": "離群值",
+      "senseAnchor": "離群值；場面：旁門怪人",
       "roleInScript": "旁門怪人",
       "humorDevice": "story",
       "zhGloss": "離群值",
@@ -188,6 +188,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch05"
+    "stage": "P2-batch05",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

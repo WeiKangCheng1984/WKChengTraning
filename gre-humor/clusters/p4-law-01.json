@@ -10,12 +10,12 @@
     {
       "headword": "acquit",
       "inVocab": true,
-      "senseAnchor": "pronounce not guilty of criminal charges; behave in a certain manner",
+      "senseAnchor": "無罪釋放；宣判無罪",
       "roleInScript": "釋放章",
       "humorDevice": "contrast",
-      "zhGloss": "宣判無罪",
-      "speakLineEn": "Cue the 釋放章: acquit walks on and the gag sticks.",
-      "speakLineZh": "請「釋放章」出場：acquit 一上場梗就黏住——宣判無罪。",
+      "zhGloss": "無罪釋放",
+      "speakLineEn": "In the end, they chose to acquit what they had once defended.",
+      "speakLineZh": "無罪釋放。",
       "related": {
         "synonyms": "assoil, clear, discharge, exonerate, exculpate, behave",
         "antonyms": "convict"
@@ -25,12 +25,12 @@
     {
       "headword": "atone",
       "inVocab": true,
-      "senseAnchor": "make amends for; turn away from sin or do penitence",
+      "senseAnchor": "贖罪；彌補",
       "roleInScript": "贖罪箱",
       "humorDevice": "contrast",
-      "zhGloss": "贖罪",
-      "speakLineEn": "Cue the 贖罪箱: atone walks on and the gag sticks.",
-      "speakLineZh": "請「贖罪箱」出場：atone 一上場梗就黏住——贖罪。",
+      "zhGloss": "贖罪；彌補",
+      "speakLineEn": "In the end, they chose to atone what they had once defended.",
+      "speakLineZh": "贖罪；彌補。",
       "related": {
         "synonyms": "expiate, aby, abye, repent",
         "antonyms": ""
@@ -40,12 +40,12 @@
     {
       "headword": "chasten",
       "inVocab": true,
-      "senseAnchor": "censure severely; restrain",
+      "senseAnchor": "懲罰；場面：戒尺",
       "roleInScript": "戒尺",
       "humorDevice": "contrast",
-      "zhGloss": "懲戒磨煉",
-      "speakLineEn": "Cue the 戒尺: chasten walks on and the gag sticks.",
-      "speakLineZh": "請「戒尺」出場：chasten 一上場梗就黏住——懲戒磨煉。",
+      "zhGloss": "懲罰",
+      "speakLineEn": "In the end, they chose to chasten what they had once defended.",
+      "speakLineZh": "懲罰。",
       "related": {
         "synonyms": "chastise, castigate, objurgate, correct, moderate, temper",
         "antonyms": "falsify, incorrect, wrong, immoderate"
@@ -55,12 +55,12 @@
     {
       "headword": "arson",
       "inVocab": true,
-      "senseAnchor": "malicious burning to destroy property",
+      "senseAnchor": "縱火罪；場面：火柴盒",
       "roleInScript": "火柴盒",
       "humorDevice": "contrast",
-      "zhGloss": "縱火",
-      "speakLineEn": "Cue the 火柴盒: arson walks on and the gag sticks.",
-      "speakLineZh": "請「火柴盒」出場：arson 一上場梗就黏住——縱火。",
+      "zhGloss": "縱火罪",
+      "speakLineEn": "The British term for arson is fire-raising.",
+      "speakLineZh": "縱火罪。",
       "related": {
         "synonyms": "incendiarism, fire-raising",
         "antonyms": ""
@@ -70,12 +70,12 @@
     {
       "headword": "assoil",
       "inVocab": true,
-      "senseAnchor": "pronounce not guilty of criminal charges",
+      "senseAnchor": "赦免；無罪",
       "roleInScript": "赦免紙",
       "humorDevice": "contrast",
-      "zhGloss": "赦免",
-      "speakLineEn": "Cue the 赦免紙: assoil walks on and the gag sticks.",
-      "speakLineZh": "請「赦免紙」出場：assoil 一上場梗就黏住——赦免。",
+      "zhGloss": "赦免；無罪",
+      "speakLineEn": "In the end, they chose to assoil what they had once defended.",
+      "speakLineZh": "赦免；無罪。",
       "related": {
         "synonyms": "acquit, clear, discharge, exonerate, exculpate",
         "antonyms": "convict"
@@ -85,12 +85,12 @@
     {
       "headword": "canvass",
       "inVocab": true,
-      "senseAnchor": "the setting for a narrative or fictional or dramatic account; an inquiry into public opinion conducted by interviewing a random sample of people",
+      "senseAnchor": "審查；徹底檢查",
       "roleInScript": "傳單車",
       "humorDevice": "contrast",
-      "zhGloss": "遊說拉票",
-      "speakLineEn": "Cue the 傳單車: canvass walks on and the gag sticks.",
-      "speakLineZh": "請「傳單車」出場：canvass 一上場梗就黏住——遊說拉票。",
+      "zhGloss": "審查；徹底檢查",
+      "speakLineEn": "She canvassed the walls of her living room so as to conceal the ugly cracks.",
+      "speakLineZh": "審查；徹底檢查。",
       "related": {
         "synonyms": "canvas, poll, sail, sheet",
         "antonyms": ""
@@ -100,12 +100,12 @@
     {
       "headword": "pardon",
       "inVocab": true,
-      "senseAnchor": "赦免",
+      "senseAnchor": "赦免；場面：特赦令",
       "roleInScript": "特赦令",
       "humorDevice": "contrast",
       "zhGloss": "赦免",
-      "speakLineEn": "Cue the 特赦令: pardon walks on and the gag sticks.",
-      "speakLineZh": "請「特赦令」出場：pardon 一上場梗就黏住——赦免。",
+      "speakLineEn": "On the exam, pardon most nearly means a sense of \"赦免\".",
+      "speakLineZh": "赦免。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -115,12 +115,12 @@
     {
       "headword": "litigate",
       "inVocab": true,
-      "senseAnchor": "訴訟",
+      "senseAnchor": "訴訟；場面：官司櫃",
       "roleInScript": "官司櫃",
       "humorDevice": "contrast",
       "zhGloss": "訴訟",
-      "speakLineEn": "Cue the 官司櫃: litigate walks on and the gag sticks.",
-      "speakLineZh": "請「官司櫃」出場：litigate 一上場梗就黏住——訴訟。",
+      "speakLineEn": "On the exam, litigate most nearly means a sense of \"訴訟\".",
+      "speakLineZh": "訴訟。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -131,11 +131,11 @@
       "headword": "match",
       "inVocab": false,
       "senseAnchor": "火柴",
-      "roleInScript": "火柴",
+      "roleInScript": "火柴角色",
       "humorDevice": "story",
       "zhGloss": "火柴",
-      "speakLineEn": "Cue the 火柴: match walks on and the gag sticks.",
-      "speakLineZh": "請「火柴」出場：match 一上場梗就黏住——火柴。",
+      "speakLineEn": "In the passage, match signals a shift toward \"火柴\".",
+      "speakLineZh": "文中 match 標示語氣轉向「火柴」。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -147,11 +147,11 @@
       "headword": "robe",
       "inVocab": false,
       "senseAnchor": "法袍",
-      "roleInScript": "法袍",
+      "roleInScript": "法袍角色",
       "humorDevice": "story",
       "zhGloss": "法袍",
-      "speakLineEn": "Cue the 法袍: robe walks on and the gag sticks.",
-      "speakLineZh": "請「法袍」出場：robe 一上場梗就黏住——法袍。",
+      "speakLineEn": "Critics argued that the policy would robe basic protections.",
+      "speakLineZh": "批評者主張該政策會法袍基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -174,6 +174,9 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P4-batch01"
+    "stage": "P4-batch01",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave2",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

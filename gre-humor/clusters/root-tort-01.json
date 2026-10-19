@@ -10,10 +10,10 @@
     {
       "headword": "distort",
       "inVocab": true,
-      "senseAnchor": "to change something so that it is no longer true or accurate",
+      "senseAnchor": "曲解；扭曲",
       "roleInScript": "把真相扭變形",
       "humorDevice": "morphology",
-      "zhGloss": "扭曲；曲解",
+      "zhGloss": "曲解；扭曲",
       "speakLineEn": "Selective quotation can distort an author’s position.",
       "speakLineZh": "選擇性引述會扭曲作者立場。",
       "related": {
@@ -25,10 +25,10 @@
     {
       "headword": "extort",
       "inVocab": true,
-      "senseAnchor": "obtain through intimidation; obtain by coercion or intimidation",
+      "senseAnchor": "勒索；敲詐",
       "roleInScript": "把錢扭出來",
       "humorDevice": "morphology",
-      "zhGloss": "敲詐；勒索",
+      "zhGloss": "勒索；敲詐；脅迫強取",
       "speakLineEn": "The regime extorted confessions through threat.",
       "speakLineZh": "政權以威脅勒索口供。",
       "related": {
@@ -40,10 +40,10 @@
     {
       "headword": "retort",
       "inVocab": true,
-      "senseAnchor": "a quick reply to a question or remark (especially a witty or critical one); a vessel where substances are distilled or decomposed by heat",
+      "senseAnchor": "反駁；報復",
       "roleInScript": "把話扭回去",
       "humorDevice": "morphology",
-      "zhGloss": "反駁；反擊",
+      "zhGloss": "反駁；報復",
       "speakLineEn": "She retorted that the critique ignored the data.",
       "speakLineZh": "她反駁說批評忽略了數據。",
       "related": {
@@ -55,10 +55,10 @@
     {
       "headword": "tortuous",
       "inVocab": true,
-      "senseAnchor": "highly complex or intricate and occasionally devious; ; ; ; ; ; ; ; - Sir Walter Scott; marked by repeated turns and bends",
+      "senseAnchor": "蜿蜒的；曲折的",
       "roleInScript": "扭來扭去的路／論理",
       "humorDevice": "morphology",
-      "zhGloss": "曲折的；彎彎繞繞的",
+      "zhGloss": "蜿蜒的",
       "speakLineEn": "The tortuous reasoning lost the audience.",
       "speakLineZh": "彎彎繞繞的推理讓聽眾掉線。",
       "related": {
@@ -104,8 +104,8 @@
       "roleInScript": "折磨輪",
       "humorDevice": "morphology",
       "zhGloss": "折磨",
-      "speakLineEn": "Cue the 折磨輪: torture walks on and the gag sticks.",
-      "speakLineZh": "請「折磨輪」出場：torture 一上場梗就黏住——折磨。",
+      "speakLineEn": "In the passage, torture signals a shift toward \"折磨\".",
+      "speakLineZh": "文中 torture 標示語氣轉向「折磨」。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -115,12 +115,12 @@
     {
       "headword": "torsion",
       "inVocab": false,
-      "senseAnchor": "扭轉",
+      "senseAnchor": "扭轉；場面：扭力",
       "roleInScript": "扭力",
       "humorDevice": "morphology",
       "zhGloss": "扭轉",
-      "speakLineEn": "Cue the 扭力: torsion walks on and the gag sticks.",
-      "speakLineZh": "請「扭力」出場：torsion 一上場梗就黏住——扭轉。",
+      "speakLineEn": "Critics argued that the policy would torsion basic protections.",
+      "speakLineZh": "批評者主張該政策會扭轉基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -134,8 +134,8 @@
       "roleInScript": "勒索單",
       "humorDevice": "morphology",
       "zhGloss": "勒索",
-      "speakLineEn": "Cue the 勒索單: extortion walks on and the gag sticks.",
-      "speakLineZh": "請「勒索單」出場：extortion 一上場梗就黏住——勒索。",
+      "speakLineEn": "Critics argued that the policy would extortion basic protections.",
+      "speakLineZh": "批評者主張該政策會勒索基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -145,12 +145,12 @@
     {
       "headword": "nasturtium",
       "inVocab": false,
-      "senseAnchor": "旱金蓮",
+      "senseAnchor": "旱金蓮；場面：扭花",
       "roleInScript": "扭花",
       "humorDevice": "morphology",
       "zhGloss": "旱金蓮",
-      "speakLineEn": "Cue the 扭花: nasturtium walks on and the gag sticks.",
-      "speakLineZh": "請「扭花」出場：nasturtium 一上場梗就黏住——旱金蓮。",
+      "speakLineEn": "Picture the 扭花: the word nasturtium means 旱金蓮.",
+      "speakLineZh": "想像「扭花」：nasturtium＝旱金蓮。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -161,11 +161,11 @@
       "headword": "torch",
       "inVocab": false,
       "senseAnchor": "火炬",
-      "roleInScript": "火炬",
+      "roleInScript": "火炬角色",
       "humorDevice": "morphology",
       "zhGloss": "火炬",
-      "speakLineEn": "Cue the 火炬: torch walks on and the gag sticks.",
-      "speakLineZh": "請「火炬」出場：torch 一上場梗就黏住——火炬。",
+      "speakLineEn": "Critics argued that the policy would torch basic protections.",
+      "speakLineZh": "批評者主張該政策會火炬基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -192,6 +192,9 @@
   "qualityGate": {
     "reviewedAt": "2026-10-18",
     "note": "Stage-1 promote: aligned with tract lesson template",
-    "thickenedAt": "P4-batch01"
+    "thickenedAt": "P4-batch01",
+    "polishStage": "Q-wave2",
+    "polishedAt": "2026-10-19",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

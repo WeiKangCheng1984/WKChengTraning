@@ -85,7 +85,7 @@
     {
       "headword": "populous",
       "inVocab": true,
-      "senseAnchor": "densely populated",
+      "senseAnchor": "人口稠密的",
       "roleInScript": "擁擠區",
       "humorDevice": "morphology",
       "zhGloss": "人口稠密的",
@@ -115,10 +115,10 @@
     {
       "headword": "populist",
       "inVocab": true,
-      "senseAnchor": "民粹的；民粹主義者",
+      "senseAnchor": "民粹主義者",
       "roleInScript": "民粹喇叭",
       "humorDevice": "morphology",
-      "zhGloss": "民粹的；民粹主義者",
+      "zhGloss": "民粹主義者",
       "speakLineEn": "Populist certainty is not statistical certainty.",
       "speakLineZh": "民粹確定不是統計確定。",
       "related": {
@@ -188,6 +188,8 @@
   "priority": "C",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch06"
+    "stage": "P2-batch06",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

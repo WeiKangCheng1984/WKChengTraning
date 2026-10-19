@@ -10,7 +10,7 @@
     {
       "headword": "motive",
       "inVocab": false,
-      "senseAnchor": "動機",
+      "senseAnchor": "動機；場面：為何而動",
       "roleInScript": "為何而動",
       "humorDevice": "morphology",
       "zhGloss": "動機",
@@ -40,7 +40,7 @@
     {
       "headword": "emotion",
       "inVocab": false,
-      "senseAnchor": "情緒",
+      "senseAnchor": "情緒；場面：心被帶動",
       "roleInScript": "心被帶動",
       "humorDevice": "story",
       "zhGloss": "情緒",
@@ -70,7 +70,7 @@
     {
       "headword": "demote",
       "inVocab": false,
-      "senseAnchor": "降級",
+      "senseAnchor": "降級；場面：往下挪",
       "roleInScript": "往下挪",
       "humorDevice": "morphology",
       "zhGloss": "降級",
@@ -130,10 +130,10 @@
     {
       "headword": "motile",
       "inVocab": true,
-      "senseAnchor": "one whose prevailing mental imagery takes the form of inner feelings of action; (of spores or microorganisms) capable of movement",
+      "senseAnchor": "能動的；場面：自己會動",
       "roleInScript": "自己會動",
       "humorDevice": "morphology",
-      "zhGloss": "能運動的",
+      "zhGloss": "能動的",
       "speakLineEn": "Motile cells complicate fixed imaging.",
       "speakLineZh": "能動細胞讓固定成像變複雜。",
       "related": {
@@ -175,7 +175,7 @@
     {
       "headword": "momentous",
       "inVocab": false,
-      "senseAnchor": "重大的",
+      "senseAnchor": "重大的；場面：一動影響大",
       "roleInScript": "一動影響大",
       "humorDevice": "morphology",
       "zhGloss": "重大的",
@@ -203,6 +203,8 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P1-batch01"
+    "stage": "P1-batch01",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

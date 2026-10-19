@@ -10,10 +10,10 @@
     {
       "headword": "facile",
       "inVocab": true,
-      "senseAnchor": "arrived at without due care or effort; lacking depth; performing adroitly and without effort",
+      "senseAnchor": "膚淺的；場面：太好做",
       "roleInScript": "太好做",
       "humorDevice": "morphology",
-      "zhGloss": "輕易的；膚淺的",
+      "zhGloss": "膚淺的",
       "speakLineEn": "A facile explanation ignores conflicting cases.",
       "speakLineZh": "膚淺解釋忽略衝突案例。",
       "related": {
@@ -40,10 +40,10 @@
     {
       "headword": "malefactor",
       "inVocab": true,
-      "senseAnchor": "someone who has committed a crime or has been legally convicted of a crime",
+      "senseAnchor": "罪犯；場面：做壞事的人",
       "roleInScript": "做壞事的人",
       "humorDevice": "morphology",
-      "zhGloss": "作惡者",
+      "zhGloss": "罪犯",
       "speakLineEn": "Do not cast critics as malefactors for asking methods questions.",
       "speakLineZh": "別因方法提問就把批評者當惡人。",
       "related": {
@@ -85,10 +85,10 @@
     {
       "headword": "affect",
       "inVocab": true,
-      "senseAnchor": "the conscious subjective aspect of feeling or emotion; have an effect upon",
+      "senseAnchor": "感情；影響",
       "roleInScript": "去做作用",
       "humorDevice": "morphology",
-      "zhGloss": "影響；感動",
+      "zhGloss": "感情；影響",
       "speakLineEn": "Incentives affect what gets measured.",
       "speakLineZh": "誘因影響測什麼。",
       "related": {
@@ -100,7 +100,7 @@
     {
       "headword": "effect",
       "inVocab": true,
-      "senseAnchor": "結果；效應；使發生",
+      "senseAnchor": "結果；效應",
       "roleInScript": "做出的結果",
       "humorDevice": "morphology",
       "zhGloss": "結果；效應；使發生",
@@ -115,10 +115,10 @@
     {
       "headword": "defect",
       "inVocab": true,
-      "senseAnchor": "an imperfection in a bodily system; a failing or deficiency",
+      "senseAnchor": "缺點；不足",
       "roleInScript": "做得有缺口",
       "humorDevice": "morphology",
-      "zhGloss": "缺陷",
+      "zhGloss": "缺點；不足",
       "speakLineEn": "A sampling defect can mimic a treatment effect.",
       "speakLineZh": "抽樣缺陷可能模仿處理效應。",
       "related": {
@@ -160,7 +160,7 @@
     {
       "headword": "proficient",
       "inVocab": true,
-      "senseAnchor": "熟練的",
+      "senseAnchor": "熟練的；場面：做得熟",
       "roleInScript": "做得熟",
       "humorDevice": "morphology",
       "zhGloss": "熟練的",
@@ -175,7 +175,7 @@
     {
       "headword": "sufficient",
       "inVocab": true,
-      "senseAnchor": "足夠的",
+      "senseAnchor": "足夠的；場面：做得夠",
       "roleInScript": "做得夠",
       "humorDevice": "morphology",
       "zhGloss": "足夠的",
@@ -248,6 +248,8 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "S3b"
+    "stage": "S3b",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

@@ -10,7 +10,7 @@
     {
       "headword": "memoir",
       "inVocab": true,
-      "senseAnchor": "回憶錄",
+      "senseAnchor": "回憶錄；場面：記憶影集",
       "roleInScript": "記憶影集",
       "humorDevice": "morphology",
       "zhGloss": "回憶錄",
@@ -25,7 +25,7 @@
     {
       "headword": "memorable",
       "inVocab": true,
-      "senseAnchor": "難忘的",
+      "senseAnchor": "難忘的；場面：值得入櫃",
       "roleInScript": "值得入櫃",
       "humorDevice": "morphology",
       "zhGloss": "難忘的",
@@ -55,7 +55,7 @@
     {
       "headword": "memento",
       "inVocab": true,
-      "senseAnchor": "紀念品",
+      "senseAnchor": "紀念品；場面：小吊飾",
       "roleInScript": "小吊飾",
       "humorDevice": "morphology",
       "zhGloss": "紀念品",
@@ -70,10 +70,10 @@
     {
       "headword": "immemorial",
       "inVocab": true,
-      "senseAnchor": "long past; beyond the limits of memory or tradition or recorded history",
+      "senseAnchor": "古老的；場面：久到沒起點",
       "roleInScript": "久到沒起點",
       "humorDevice": "morphology",
-      "zhGloss": "遠古的；無法追憶的",
+      "zhGloss": "古老的",
       "speakLineEn": "From time immemorial, labs hoarded notebooks—stop.",
       "speakLineZh": "自古以來實驗室囤筆記本——該停。",
       "related": {
@@ -100,7 +100,7 @@
     {
       "headword": "memorandum",
       "inVocab": true,
-      "senseAnchor": "備忘錄",
+      "senseAnchor": "備忘錄；場面：辦公室紙條",
       "roleInScript": "辦公室紙條",
       "humorDevice": "morphology",
       "zhGloss": "備忘錄",
@@ -145,7 +145,7 @@
     {
       "headword": "remember",
       "inVocab": true,
-      "senseAnchor": "記得",
+      "senseAnchor": "記得；場面：從櫃取出",
       "roleInScript": "從櫃取出",
       "humorDevice": "story",
       "zhGloss": "記得",
@@ -160,7 +160,7 @@
     {
       "headword": "memory",
       "inVocab": true,
-      "senseAnchor": "記憶",
+      "senseAnchor": "記憶；場面：櫃的容量",
       "roleInScript": "櫃的容量",
       "humorDevice": "story",
       "zhGloss": "記憶",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P2-batch01"
+    "stage": "P2-batch01",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

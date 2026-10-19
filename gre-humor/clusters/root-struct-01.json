@@ -40,7 +40,7 @@
     {
       "headword": "destroy",
       "inVocab": true,
-      "senseAnchor": "毀滅",
+      "senseAnchor": "毀滅；場面：拆掉",
       "roleInScript": "拆掉",
       "humorDevice": "morphology",
       "zhGloss": "毀滅",
@@ -55,7 +55,7 @@
     {
       "headword": "obstruct",
       "inVocab": true,
-      "senseAnchor": "阻礙",
+      "senseAnchor": "阻礙；場面：擋住工地",
       "roleInScript": "擋住工地",
       "humorDevice": "morphology",
       "zhGloss": "阻礙",
@@ -70,7 +70,7 @@
     {
       "headword": "structure",
       "inVocab": true,
-      "senseAnchor": "結構",
+      "senseAnchor": "結構；場面：骨架",
       "roleInScript": "骨架",
       "humorDevice": "morphology",
       "zhGloss": "結構",
@@ -100,7 +100,7 @@
     {
       "headword": "reconstruct",
       "inVocab": true,
-      "senseAnchor": "重建",
+      "senseAnchor": "重建；場面：再蓋一次",
       "roleInScript": "再蓋一次",
       "humorDevice": "morphology",
       "zhGloss": "重建",
@@ -175,7 +175,7 @@
     {
       "headword": "superstructure",
       "inVocab": true,
-      "senseAnchor": "structure consisting of the part of a ship above the main deck",
+      "senseAnchor": "上層建築",
       "roleInScript": "底座上的樓",
       "humorDevice": "story",
       "zhGloss": "上層建築",
@@ -205,7 +205,7 @@
     {
       "headword": "obstruction",
       "inVocab": true,
-      "senseAnchor": "障礙",
+      "senseAnchor": "障礙；場面：阻擋物",
       "roleInScript": "阻擋物",
       "humorDevice": "morphology",
       "zhGloss": "障礙",
@@ -248,6 +248,8 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "S3b"
+    "stage": "S3b",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

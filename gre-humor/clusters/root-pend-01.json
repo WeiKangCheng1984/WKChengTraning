@@ -40,7 +40,7 @@
     {
       "headword": "depend",
       "inVocab": true,
-      "senseAnchor": "依賴",
+      "senseAnchor": "依賴；場面：掛靠",
       "roleInScript": "掛靠",
       "humorDevice": "morphology",
       "zhGloss": "依賴",
@@ -55,7 +55,7 @@
     {
       "headword": "independent",
       "inVocab": true,
-      "senseAnchor": "獨立的",
+      "senseAnchor": "獨立的；場面：不掛靠",
       "roleInScript": "不掛靠",
       "humorDevice": "morphology",
       "zhGloss": "獨立的",
@@ -70,7 +70,7 @@
     {
       "headword": "append",
       "inVocab": true,
-      "senseAnchor": "附加",
+      "senseAnchor": "附加；場面：掛上去",
       "roleInScript": "掛上去",
       "humorDevice": "morphology",
       "zhGloss": "附加",
@@ -100,7 +100,7 @@
     {
       "headword": "compensate",
       "inVocab": true,
-      "senseAnchor": "補償",
+      "senseAnchor": "補償；場面：秤平",
       "roleInScript": "秤平",
       "humorDevice": "morphology",
       "zhGloss": "補償",
@@ -115,10 +115,10 @@
     {
       "headword": "dispense",
       "inVocab": true,
-      "senseAnchor": "administer or bestow, as in small portions; grant a dispensation; grant an exemption",
+      "senseAnchor": "分發；分配",
       "roleInScript": "分發／免用",
       "humorDevice": "morphology",
-      "zhGloss": "分配；免除",
+      "zhGloss": "分發",
       "speakLineEn": "We can dispense with decorative citations.",
       "speakLineZh": "我們可以免除裝飾性引用。",
       "related": {
@@ -130,10 +130,10 @@
     {
       "headword": "pensive",
       "inVocab": true,
-      "senseAnchor": "thinking deeply about something that worries you",
+      "senseAnchor": "沉思的；憂傷的",
       "roleInScript": "臉掛著思緒",
       "humorDevice": "morphology",
-      "zhGloss": "沉思的",
+      "zhGloss": "沉思的；憂傷的",
       "speakLineEn": "A pensive tone is fine; vagueness is not.",
       "speakLineZh": "沉思語氣可以；含糊不行。",
       "related": {
@@ -145,10 +145,10 @@
     {
       "headword": "expenditure",
       "inVocab": true,
-      "senseAnchor": "money paid out; an amount spent; the act of spending money for goods or services",
+      "senseAnchor": "花費；支付",
       "roleInScript": "付出去的",
       "humorDevice": "morphology",
-      "zhGloss": "支出",
+      "zhGloss": "花費；支付",
       "speakLineEn": "Track expenditure against preregistered milestones.",
       "speakLineZh": "依預註冊里程碑追蹤支出。",
       "related": {
@@ -160,7 +160,7 @@
     {
       "headword": "pension",
       "inVocab": true,
-      "senseAnchor": "退休金",
+      "senseAnchor": "退休金；場面：晚年掛帳",
       "roleInScript": "晚年掛帳",
       "humorDevice": "story",
       "zhGloss": "退休金",
@@ -175,7 +175,7 @@
     {
       "headword": "perpendicular",
       "inVocab": true,
-      "senseAnchor": "a straight line at right angles to another line; a Gothic style in 14th and 15th century England; characterized by vertical lines and a four-centered (Tudor) arch and fan vaulting",
+      "senseAnchor": "垂直的；場面：掛成直角",
       "roleInScript": "掛成直角",
       "humorDevice": "morphology",
       "zhGloss": "垂直的",
@@ -190,7 +190,7 @@
     {
       "headword": "impending",
       "inVocab": true,
-      "senseAnchor": "be imminent or about to happen; close in time; about to occur",
+      "senseAnchor": "即將發生的",
       "roleInScript": "懸在頭上迫近",
       "humorDevice": "morphology",
       "zhGloss": "即將發生的",
@@ -220,7 +220,7 @@
     {
       "headword": "propensity",
       "inVocab": true,
-      "senseAnchor": "傾向",
+      "senseAnchor": "傾向；場面：懸向某一邊",
       "roleInScript": "懸向某一邊",
       "humorDevice": "morphology",
       "zhGloss": "傾向",
@@ -248,6 +248,8 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "S3b"
+    "stage": "S3b",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

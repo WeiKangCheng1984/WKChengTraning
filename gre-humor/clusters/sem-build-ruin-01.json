@@ -14,8 +14,8 @@
       "roleInScript": "工廠章",
       "humorDevice": "contrast",
       "zhGloss": "製造／捏造",
-      "speakLineEn": "Cue the 工廠章: fabricate walks on and the gag sticks.",
-      "speakLineZh": "請「工廠章」出場：fabricate 一上場梗就黏住——製造／捏造。",
+      "speakLineEn": "On the exam, fabricate most nearly means a sense of \"製造／捏造\".",
+      "speakLineZh": "製造／捏造。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -25,12 +25,12 @@
     {
       "headword": "forge",
       "inVocab": true,
-      "senseAnchor": "鍛造",
+      "senseAnchor": "鍛造；場面：鐵砧",
       "roleInScript": "鐵砧",
       "humorDevice": "contrast",
       "zhGloss": "鍛造",
-      "speakLineEn": "Cue the 鐵砧: forge walks on and the gag sticks.",
-      "speakLineZh": "請「鐵砧」出場：forge 一上場梗就黏住——鍛造。",
+      "speakLineEn": "On the exam, forge most nearly means a sense of \"鍛造\".",
+      "speakLineZh": "鍛造。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -40,12 +40,12 @@
     {
       "headword": "assemble",
       "inVocab": true,
-      "senseAnchor": "組裝",
+      "senseAnchor": "組裝；場面：零件盒",
       "roleInScript": "零件盒",
       "humorDevice": "contrast",
       "zhGloss": "組裝",
-      "speakLineEn": "Cue the 零件盒: assemble walks on and the gag sticks.",
-      "speakLineZh": "請「零件盒」出場：assemble 一上場梗就黏住——組裝。",
+      "speakLineEn": "On the exam, assemble most nearly means a sense of \"組裝\".",
+      "speakLineZh": "組裝。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -55,12 +55,12 @@
     {
       "headword": "raze",
       "inVocab": true,
-      "senseAnchor": "tear down so as to make flat with the ground",
+      "senseAnchor": "粉碎；摧毀",
       "roleInScript": "推土機",
       "humorDevice": "contrast",
-      "zhGloss": "夷平",
-      "speakLineEn": "Cue the 推土機: raze walks on and the gag sticks.",
-      "speakLineZh": "請「推土機」出場：raze 一上場梗就黏住——夷平。",
+      "zhGloss": "粉碎；摧毀",
+      "speakLineEn": "In the end, they chose to raze what they had once defended.",
+      "speakLineZh": "粉碎；摧毀。",
       "related": {
         "synonyms": "level, rase, dismantle",
         "antonyms": "raise"
@@ -70,12 +70,12 @@
     {
       "headword": "ruin",
       "inVocab": true,
-      "senseAnchor": "毀滅",
+      "senseAnchor": "毀滅；場面：廢墟標",
       "roleInScript": "廢墟標",
       "humorDevice": "contrast",
       "zhGloss": "毀滅",
-      "speakLineEn": "Cue the 廢墟標: ruin walks on and the gag sticks.",
-      "speakLineZh": "請「廢墟標」出場：ruin 一上場梗就黏住——毀滅。",
+      "speakLineEn": "On the exam, ruin most nearly means a sense of \"毀滅\".",
+      "speakLineZh": "毀滅。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -85,12 +85,12 @@
     {
       "headword": "devastate",
       "inVocab": true,
-      "senseAnchor": "摧毀",
+      "senseAnchor": "摧毀；場面：災後圖",
       "roleInScript": "災後圖",
       "humorDevice": "contrast",
       "zhGloss": "摧毀",
-      "speakLineEn": "Cue the 災後圖: devastate walks on and the gag sticks.",
-      "speakLineZh": "請「災後圖」出場：devastate 一上場梗就黏住——摧毀。",
+      "speakLineEn": "On the exam, devastate most nearly means a sense of \"摧毀\".",
+      "speakLineZh": "摧毀。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -101,11 +101,11 @@
       "headword": "scaffold",
       "inVocab": false,
       "senseAnchor": "鷹架",
-      "roleInScript": "鷹架",
+      "roleInScript": "鷹架角色",
       "humorDevice": "story",
       "zhGloss": "鷹架",
-      "speakLineEn": "Cue the 鷹架: scaffold walks on and the gag sticks.",
-      "speakLineZh": "請「鷹架」出場：scaffold 一上場梗就黏住——鷹架。",
+      "speakLineEn": "Hold the meaning steady: scaffold means 鷹架.",
+      "speakLineZh": "記住考意：scaffold＝鷹架。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -116,11 +116,11 @@
       "headword": "crane",
       "inVocab": false,
       "senseAnchor": "吊車",
-      "roleInScript": "吊車",
+      "roleInScript": "吊車角色",
       "humorDevice": "story",
       "zhGloss": "吊車",
-      "speakLineEn": "Cue the 吊車: crane walks on and the gag sticks.",
-      "speakLineZh": "請「吊車」出場：crane 一上場梗就黏住——吊車。",
+      "speakLineEn": "In the passage, crane signals a shift toward \"吊車\".",
+      "speakLineZh": "文中 crane 標示語氣轉向「吊車」。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -131,11 +131,11 @@
       "headword": "helmet",
       "inVocab": false,
       "senseAnchor": "安全帽",
-      "roleInScript": "安全帽",
+      "roleInScript": "安全帽角色",
       "humorDevice": "story",
       "zhGloss": "安全帽",
-      "speakLineEn": "Cue the 安全帽: helmet walks on and the gag sticks.",
-      "speakLineZh": "請「安全帽」出場：helmet 一上場梗就黏住——安全帽。",
+      "speakLineEn": "A careful reader links helmet to 安全帽, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 helmet 連到「安全帽」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -146,11 +146,11 @@
       "headword": "calendar",
       "inVocab": false,
       "senseAnchor": "日曆",
-      "roleInScript": "日曆",
+      "roleInScript": "日曆角色",
       "humorDevice": "story",
       "zhGloss": "日曆",
-      "speakLineEn": "Cue the 日曆: calendar walks on and the gag sticks.",
-      "speakLineZh": "請「日曆」出場：calendar 一上場梗就黏住——日曆。",
+      "speakLineEn": "Hold the meaning steady: calendar means 日曆.",
+      "speakLineZh": "記住考意：calendar＝日曆。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -161,11 +161,11 @@
       "headword": "hardhat",
       "inVocab": false,
       "senseAnchor": "工地帽",
-      "roleInScript": "工地帽",
+      "roleInScript": "工地帽角色",
       "humorDevice": "story",
       "zhGloss": "工地帽",
-      "speakLineEn": "Cue the 工地帽: hardhat walks on and the gag sticks.",
-      "speakLineZh": "請「工地帽」出場：hardhat 一上場梗就黏住——工地帽。",
+      "speakLineEn": "Critics argued that the policy would hardhat basic protections.",
+      "speakLineZh": "批評者主張該政策會工地帽基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -187,6 +187,9 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P3-batch03"
+    "stage": "P3-batch03",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave2",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

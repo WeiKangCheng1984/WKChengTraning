@@ -10,12 +10,12 @@
     {
       "headword": "celerity",
       "inVocab": true,
-      "senseAnchor": "a rate that is rapid",
+      "senseAnchor": "迅速；樂意",
       "roleInScript": "閃電單",
       "humorDevice": "contrast",
-      "zhGloss": "迅速",
-      "speakLineEn": "Cue the 閃電單: celerity walks on and the gag sticks.",
-      "speakLineZh": "請「閃電單」出場：celerity 一上場梗就黏住——迅速。",
+      "zhGloss": "迅速；樂意",
+      "speakLineEn": "A clear sense of celerity is crucial to understanding the argument.",
+      "speakLineZh": "迅速；樂意。",
       "related": {
         "synonyms": "quickness, rapidity, rapidness, speediness",
         "antonyms": ""
@@ -25,12 +25,12 @@
     {
       "headword": "dispatch",
       "inVocab": true,
-      "senseAnchor": "promptness and efficiency in performance or transmission",
+      "senseAnchor": "快；迅速",
       "roleInScript": "快遞槍",
       "humorDevice": "contrast",
-      "zhGloss": "迅速處理",
-      "speakLineEn": "Cue the 快遞槍: dispatch walks on and the gag sticks.",
-      "speakLineZh": "請「快遞槍」出場：dispatch 一上場梗就黏住——迅速處理。",
+      "zhGloss": "快；迅速",
+      "speakLineEn": "The traitor was dispatched by the conspirators.",
+      "speakLineZh": "快，迅速。",
       "related": {
         "synonyms": "alacrity, swiftness, expedition",
         "antonyms": ""
@@ -40,12 +40,12 @@
     {
       "headword": "expeditious",
       "inVocab": true,
-      "senseAnchor": "marked by speed and efficiency",
+      "senseAnchor": "明智的；迅速的",
       "roleInScript": "加速靴",
       "humorDevice": "contrast",
-      "zhGloss": "迅速的",
-      "speakLineEn": "Cue the 加速靴: expeditious walks on and the gag sticks.",
-      "speakLineZh": "請「加速靴」出場：expeditious 一上場梗就黏住——迅速的。",
+      "zhGloss": "明智的；迅速的",
+      "speakLineEn": "The critic noted her expeditious approach to the evidence.",
+      "speakLineZh": "明智的；迅速的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -55,12 +55,12 @@
     {
       "headword": "prompt",
       "inVocab": true,
-      "senseAnchor": "即時的",
+      "senseAnchor": "即時的；場面：準點鈴",
       "roleInScript": "準點鈴",
       "humorDevice": "contrast",
       "zhGloss": "即時的",
-      "speakLineEn": "Cue the 準點鈴: prompt walks on and the gag sticks.",
-      "speakLineZh": "請「準點鈴」出場：prompt 一上場梗就黏住——即時的。",
+      "speakLineEn": "On the exam, prompt most nearly means a sense of \"即時的\".",
+      "speakLineZh": "即時的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -70,12 +70,12 @@
     {
       "headword": "hasty",
       "inVocab": true,
-      "senseAnchor": "excessively quick; done with very great haste and without due deliberation; - Shakespeare; - Arthur Geddes",
+      "senseAnchor": "草率的；場面：衝太快",
       "roleInScript": "衝太快",
       "humorDevice": "contrast",
-      "zhGloss": "倉促的",
-      "speakLineEn": "Cue the 衝太快: hasty walks on and the gag sticks.",
-      "speakLineZh": "請「衝太快」出場：hasty 一上場梗就黏住——倉促的。",
+      "zhGloss": "草率的",
+      "speakLineEn": "Hasty makeshifts take the place of planning.",
+      "speakLineZh": "例句對齊：倉促的。",
       "related": {
         "synonyms": "headlong, overhasty, precipitate, precipitant, precipitous",
         "antonyms": "gradual, gentle"
@@ -85,12 +85,12 @@
     {
       "headword": "fleet",
       "inVocab": true,
-      "senseAnchor": "快速的",
+      "senseAnchor": "快速的；場面：飛毛腿",
       "roleInScript": "飛毛腿",
       "humorDevice": "contrast",
       "zhGloss": "快速的",
-      "speakLineEn": "Cue the 飛毛腿: fleet walks on and the gag sticks.",
-      "speakLineZh": "請「飛毛腿」出場：fleet 一上場梗就黏住——快速的。",
+      "speakLineEn": "On the exam, fleet most nearly means a sense of \"快速的\".",
+      "speakLineZh": "快速的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -100,12 +100,12 @@
     {
       "headword": "bovine",
       "inVocab": true,
-      "senseAnchor": "any of various members of the genus Bos; of or relating to or belonging to the genus Bos (cattle)",
+      "senseAnchor": "牛的；遲鈍的",
       "roleInScript": "牛開會",
       "humorDevice": "contrast",
-      "zhGloss": "遲鈍如牛的",
-      "speakLineEn": "Cue the 牛開會: bovine walks on and the gag sticks.",
-      "speakLineZh": "請「牛開會」出場：bovine 一上場梗就黏住——遲鈍如牛的。",
+      "zhGloss": "牛的；遲鈍的",
+      "speakLineEn": "Showed a bovine apathy.",
+      "speakLineZh": "牛的；遲鈍的。",
       "related": {
         "synonyms": "bovid",
         "antonyms": ""
@@ -115,12 +115,12 @@
     {
       "headword": "dilatory",
       "inVocab": true,
-      "senseAnchor": "causing delay",
+      "senseAnchor": "磨蹭的；場面：拖字訣",
       "roleInScript": "拖字訣",
       "humorDevice": "contrast",
-      "zhGloss": "拖延的",
-      "speakLineEn": "Cue the 拖字訣: dilatory walks on and the gag sticks.",
-      "speakLineZh": "請「拖字訣」出場：dilatory 一上場梗就黏住——拖延的。",
+      "zhGloss": "磨蹭的",
+      "speakLineEn": "Consider this case: dilatory tactics.",
+      "speakLineZh": "例句對齊：拖延的。",
       "related": {
         "synonyms": "sluggish, procrastinating, tardy, laggard",
         "antonyms": "prompt, punctual"
@@ -130,12 +130,12 @@
     {
       "headword": "laggard",
       "inVocab": true,
-      "senseAnchor": "落後者",
+      "senseAnchor": "落後者；場面：最後一名",
       "roleInScript": "最後一名",
       "humorDevice": "contrast",
       "zhGloss": "落後者",
-      "speakLineEn": "Cue the 最後一名: laggard walks on and the gag sticks.",
-      "speakLineZh": "請「最後一名」出場：laggard 一上場梗就黏住——落後者。",
+      "speakLineEn": "On the exam, laggard most nearly means a sense of \"落後者\".",
+      "speakLineZh": "落後者。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -145,12 +145,12 @@
     {
       "headword": "lethargic",
       "inVocab": true,
-      "senseAnchor": "lack of energy",
+      "senseAnchor": "無精打採的；懶洋洋的",
       "roleInScript": "低電量",
       "humorDevice": "contrast",
-      "zhGloss": "無精打采的",
-      "speakLineEn": "Cue the 低電量: lethargic walks on and the gag sticks.",
-      "speakLineZh": "請「低電量」出場：lethargic 一上場梗就黏住——無精打采的。",
+      "zhGloss": "無精打採的；懶洋洋的",
+      "speakLineEn": "Bullfrogs became lethargic with the first cold nights.",
+      "speakLineZh": "無精打採的，懶洋洋的。",
       "related": {
         "synonyms": "inert, somnolent, indolent",
         "antonyms": "energetic, vivacious, active, dynamic, industrious, diligent"
@@ -160,12 +160,12 @@
     {
       "headword": "sluggish",
       "inVocab": true,
-      "senseAnchor": "slow",
+      "senseAnchor": "緩慢的；場面：黏液爬",
       "roleInScript": "黏液爬",
       "humorDevice": "contrast",
-      "zhGloss": "遲緩的",
-      "speakLineEn": "Cue the 黏液爬: sluggish walks on and the gag sticks.",
-      "speakLineZh": "請「黏液爬」出場：sluggish 一上場梗就黏住——遲緩的。",
+      "zhGloss": "緩慢的",
+      "speakLineEn": "A sluggish stream.",
+      "speakLineZh": "例句對齊：遲緩的。",
       "related": {
         "synonyms": "tardy, dilatory",
         "antonyms": "prompt, punctual"
@@ -175,12 +175,12 @@
     {
       "headword": "dawdle",
       "inVocab": true,
-      "senseAnchor": "take one's time; proceed slowly; waste time",
+      "senseAnchor": "混日子；偷懶",
       "roleInScript": "磨蹭鞋",
       "humorDevice": "contrast",
-      "zhGloss": "磨蹭",
-      "speakLineEn": "Cue the 磨蹭鞋: dawdle walks on and the gag sticks.",
-      "speakLineZh": "請「磨蹭鞋」出場：dawdle 一上場梗就黏住——磨蹭。",
+      "zhGloss": "混日子；偷懶",
+      "speakLineEn": "In the end, they chose to dawdle what they had once defended.",
+      "speakLineZh": "混日子；偷懶。",
       "related": {
         "synonyms": "linger, dally, lag",
         "antonyms": "rush"
@@ -190,12 +190,12 @@
     {
       "headword": "drawl",
       "inVocab": true,
-      "senseAnchor": "a slow speech pattern with prolonged vowels; lengthen and slow down or draw out",
+      "senseAnchor": "慢吞吞地說；延長",
       "roleInScript": "拖長音",
       "humorDevice": "contrast",
-      "zhGloss": "慢吞吞說",
-      "speakLineEn": "Cue the 拖長音: drawl walks on and the gag sticks.",
-      "speakLineZh": "請「拖長音」出場：drawl 一上場梗就黏住——慢吞吞說。",
+      "zhGloss": "慢吞吞地說；延長；拖延",
+      "speakLineEn": "Drawl one's vowels.",
+      "speakLineZh": "慢吞吞地說。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,12 +205,12 @@
     {
       "headword": "loiter",
       "inVocab": true,
-      "senseAnchor": "be about",
+      "senseAnchor": "閒逛；虛度時光",
       "roleInScript": "街角磨",
       "humorDevice": "contrast",
-      "zhGloss": "徘徊閒晃",
-      "speakLineEn": "Cue the 街角磨: loiter walks on and the gag sticks.",
-      "speakLineZh": "請「街角磨」出場：loiter 一上場梗就黏住——徘徊閒晃。",
+      "zhGloss": "閒逛；虛度時光",
+      "speakLineEn": "The high school students like to loiter in the Central Square.",
+      "speakLineZh": "閒逛；虛度時光。",
       "related": {
         "synonyms": "lounge, footle, lollygag, loaf, lallygag, tarry",
         "antonyms": ""
@@ -221,11 +221,11 @@
       "headword": "lightning",
       "inVocab": false,
       "senseAnchor": "閃電",
-      "roleInScript": "閃電",
+      "roleInScript": "閃電角色",
       "humorDevice": "story",
       "zhGloss": "閃電",
-      "speakLineEn": "Cue the 閃電: lightning walks on and the gag sticks.",
-      "speakLineZh": "請「閃電」出場：lightning 一上場梗就黏住——閃電。",
+      "speakLineEn": "Hold the meaning steady: lightning means 閃電.",
+      "speakLineZh": "記住考意：lightning＝閃電。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -236,11 +236,11 @@
       "headword": "snail",
       "inVocab": false,
       "senseAnchor": "蝸牛",
-      "roleInScript": "蝸牛",
+      "roleInScript": "蝸牛角色",
       "humorDevice": "story",
       "zhGloss": "蝸牛",
-      "speakLineEn": "Cue the 蝸牛: snail walks on and the gag sticks.",
-      "speakLineZh": "請「蝸牛」出場：snail 一上場梗就黏住——蝸牛。",
+      "speakLineEn": "In the passage, snail signals a shift toward \"蝸牛\".",
+      "speakLineZh": "文中 snail 標示語氣轉向「蝸牛」。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -251,11 +251,11 @@
       "headword": "package",
       "inVocab": false,
       "senseAnchor": "包裹",
-      "roleInScript": "包裹",
+      "roleInScript": "包裹角色",
       "humorDevice": "story",
       "zhGloss": "包裹",
-      "speakLineEn": "Cue the 包裹: package walks on and the gag sticks.",
-      "speakLineZh": "請「包裹」出場：package 一上場梗就黏住——包裹。",
+      "speakLineEn": "Hold the meaning steady: package means 包裹.",
+      "speakLineZh": "記住考意：package＝包裹。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -266,11 +266,11 @@
       "headword": "meeting",
       "inVocab": false,
       "senseAnchor": "會議",
-      "roleInScript": "會議",
+      "roleInScript": "會議角色",
       "humorDevice": "story",
       "zhGloss": "會議",
-      "speakLineEn": "Cue the 會議: meeting walks on and the gag sticks.",
-      "speakLineZh": "請「會議」出場：meeting 一上場梗就黏住——會議。",
+      "speakLineEn": "A careful reader links meeting to 會議, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 meeting 連到「會議」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -281,11 +281,11 @@
       "headword": "turbo",
       "inVocab": false,
       "senseAnchor": "渦輪",
-      "roleInScript": "渦輪",
+      "roleInScript": "渦輪角色",
       "humorDevice": "story",
       "zhGloss": "渦輪",
-      "speakLineEn": "Cue the 渦輪: turbo walks on and the gag sticks.",
-      "speakLineZh": "請「渦輪」出場：turbo 一上場梗就黏住——渦輪。",
+      "speakLineEn": "Hold the meaning steady: turbo means 渦輪.",
+      "speakLineZh": "記住考意：turbo＝渦輪。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -296,11 +296,11 @@
       "headword": "brake",
       "inVocab": false,
       "senseAnchor": "煞車",
-      "roleInScript": "煞車",
+      "roleInScript": "煞車角色",
       "humorDevice": "story",
       "zhGloss": "煞車",
-      "speakLineEn": "Cue the 煞車: brake walks on and the gag sticks.",
-      "speakLineZh": "請「煞車」出場：brake 一上場梗就黏住——煞車。",
+      "speakLineEn": "A careful reader links brake to 煞車, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 brake 連到「煞車」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -310,12 +310,12 @@
     {
       "headword": "sprint",
       "inVocab": true,
-      "senseAnchor": "a quick run; run very fast, usually for a short distance",
-      "roleInScript": "衝刺",
+      "senseAnchor": "衝刺",
+      "roleInScript": "衝刺角色",
       "humorDevice": "story",
       "zhGloss": "衝刺",
-      "speakLineEn": "Cue the 衝刺: sprint walks on and the gag sticks.",
-      "speakLineZh": "請「衝刺」出場：sprint 一上場梗就黏住——衝刺。",
+      "speakLineEn": "A clear sense of sprint is crucial to understanding the argument.",
+      "speakLineZh": "例句對齊：衝刺。",
       "related": {
         "synonyms": "dash",
         "antonyms": ""
@@ -337,6 +337,9 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P3-batch03"
+    "stage": "P3-batch03",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave1",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

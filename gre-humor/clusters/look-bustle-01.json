@@ -5,17 +5,17 @@
   "titleZh": "bustle／hustle／hurtle｜匆忙轉盤",
   "titleEn": "Bustle Turntable",
   "hook": "bustle 是忙亂熱鬧，hustle 是催趕奔忙，hurtle 是猛衝——轉盤三格：熱鬧、催趕、飛射。",
-  "script": "bustle＝喧鬧忙亂。hustle＝匆忙／催促。hurtle＝猛衝飛撞。廣播：熱鬧≠催你快跑≠被彈射出去；先認速度與意圖。",
+  "script": "bustle＝喧鬧忙亂。hustle＝匆忙／催促。hurtle＝猛衝飛撞。廣播：熱鬧≠催你快跑≠被彈射出去；先認速度與意圖。形近對決：先分清語意軸，再對號入座。登場：bustle（熱鬧格）、hustle（催趕格）、hurtle（飛射格）、hurdle（欄架）、rush（衝）、turntable（轉盤）。",
   "members": [
     {
       "headword": "bustle",
       "inVocab": true,
-      "senseAnchor": "a rapid active commotion; a framework worn at the back below the waist for giving fullness to a woman's skirt",
+      "senseAnchor": "忙碌；匆忙",
       "roleInScript": "熱鬧格",
       "humorDevice": "lookalike",
-      "zhGloss": "忙亂",
-      "speakLineEn": "Cue the 熱鬧格: bustle walks on and the gag sticks.",
-      "speakLineZh": "請「熱鬧格」出場：bustle 一上場梗就黏住——忙亂。",
+      "zhGloss": "忙碌；匆忙",
+      "speakLineEn": "The cheerleaders bustled about excitingly before their performance.",
+      "speakLineZh": "忙碌；匆忙。",
       "related": {
         "synonyms": "hustle, flurry, ado, fuss, stir",
         "antonyms": ""
@@ -29,8 +29,8 @@
       "roleInScript": "催趕格",
       "humorDevice": "lookalike",
       "zhGloss": "催趕奔忙",
-      "speakLineEn": "Cue the 催趕格: hustle walks on and the gag sticks.",
-      "speakLineZh": "請「催趕格」出場：hustle 一上場梗就黏住——催趕奔忙。",
+      "speakLineEn": "On the exam, hustle most nearly means a sense of \"催趕奔忙\".",
+      "speakLineZh": "催趕奔忙。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -40,12 +40,12 @@
     {
       "headword": "hurtle",
       "inVocab": true,
-      "senseAnchor": "move with or as if with a rushing sound; make a thrusting forward movement",
+      "senseAnchor": "碰撞；場面：飛射格",
       "roleInScript": "飛射格",
       "humorDevice": "lookalike",
-      "zhGloss": "猛衝",
-      "speakLineEn": "Cue the 飛射格: hurtle walks on and the gag sticks.",
-      "speakLineZh": "請「飛射格」出場：hurtle 一上場梗就黏住——猛衝。",
+      "zhGloss": "碰撞",
+      "speakLineEn": "The cars hurtled by.",
+      "speakLineZh": "碰撞。",
       "related": {
         "synonyms": "lunge, hurl, thrust, cast",
         "antonyms": "keep down"
@@ -59,8 +59,8 @@
       "roleInScript": "欄架",
       "humorDevice": "lookalike",
       "zhGloss": "跨欄障礙",
-      "speakLineEn": "Cue the 欄架: hurdle walks on and the gag sticks.",
-      "speakLineZh": "請「欄架」出場：hurdle 一上場梗就黏住——跨欄障礙。",
+      "speakLineEn": "On the exam, hurdle most nearly means a sense of \"跨欄障礙\".",
+      "speakLineZh": "跨欄障礙。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -71,11 +71,11 @@
       "headword": "rush",
       "inVocab": false,
       "senseAnchor": "衝",
-      "roleInScript": "衝",
+      "roleInScript": "衝角色",
       "humorDevice": "story",
       "zhGloss": "衝",
-      "speakLineEn": "Cue the 衝: rush walks on and the gag sticks.",
-      "speakLineZh": "請「衝」出場：rush 一上場梗就黏住——衝。",
+      "speakLineEn": "Critics argued that the policy would rush basic protections.",
+      "speakLineZh": "批評者主張該政策會衝基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -86,11 +86,11 @@
       "headword": "turntable",
       "inVocab": false,
       "senseAnchor": "轉盤",
-      "roleInScript": "轉盤",
+      "roleInScript": "轉盤角色",
       "humorDevice": "story",
       "zhGloss": "轉盤",
-      "speakLineEn": "Cue the 轉盤: turntable walks on and the gag sticks.",
-      "speakLineZh": "請「轉盤」出場：turntable 一上場梗就黏住——轉盤。",
+      "speakLineEn": "A careful reader links turntable to 轉盤, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 turntable 連到「轉盤」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -101,11 +101,11 @@
       "headword": "speed",
       "inVocab": false,
       "senseAnchor": "速度",
-      "roleInScript": "速度",
+      "roleInScript": "速度角色",
       "humorDevice": "story",
       "zhGloss": "速度",
-      "speakLineEn": "Cue the 速度: speed walks on and the gag sticks.",
-      "speakLineZh": "請「速度」出場：speed 一上場梗就黏住——速度。",
+      "speakLineEn": "A careful reader links speed to 速度, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 speed 連到「速度」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -116,11 +116,11 @@
       "headword": "market",
       "inVocab": false,
       "senseAnchor": "市集",
-      "roleInScript": "市集",
+      "roleInScript": "市集角色",
       "humorDevice": "story",
       "zhGloss": "市集",
-      "speakLineEn": "Cue the 市集: market walks on and the gag sticks.",
-      "speakLineZh": "請「市集」出場：market 一上場梗就黏住——市集。",
+      "speakLineEn": "Critics argued that the policy would market basic protections.",
+      "speakLineZh": "批評者主張該政策會市集基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -131,11 +131,11 @@
       "headword": "dash",
       "inVocab": false,
       "senseAnchor": "飛奔",
-      "roleInScript": "飛奔",
+      "roleInScript": "飛奔角色",
       "humorDevice": "story",
       "zhGloss": "飛奔",
-      "speakLineEn": "Cue the 飛奔: dash walks on and the gag sticks.",
-      "speakLineZh": "請「飛奔」出場：dash 一上場梗就黏住——飛奔。",
+      "speakLineEn": "Hold the meaning steady: dash means 飛奔.",
+      "speakLineZh": "記住考意：dash＝飛奔。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -146,11 +146,11 @@
       "headword": "announce",
       "inVocab": false,
       "senseAnchor": "廣播",
-      "roleInScript": "廣播",
+      "roleInScript": "廣播角色",
       "humorDevice": "story",
       "zhGloss": "廣播",
-      "speakLineEn": "Cue the 廣播: announce walks on and the gag sticks.",
-      "speakLineZh": "請「廣播」出場：announce 一上場梗就黏住——廣播。",
+      "speakLineEn": "A careful reader links announce to 廣播, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 announce 連到「廣播」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -161,11 +161,11 @@
       "headword": "lane",
       "inVocab": false,
       "senseAnchor": "跑道",
-      "roleInScript": "跑道",
+      "roleInScript": "跑道角色",
       "humorDevice": "story",
       "zhGloss": "跑道",
-      "speakLineEn": "Cue the 跑道: lane walks on and the gag sticks.",
-      "speakLineZh": "請「跑道」出場：lane 一上場梗就黏住——跑道。",
+      "speakLineEn": "Critics argued that the policy would lane basic protections.",
+      "speakLineZh": "批評者主張該政策會跑道基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -176,11 +176,11 @@
       "headword": "cart",
       "inVocab": false,
       "senseAnchor": "推車",
-      "roleInScript": "推車",
+      "roleInScript": "推車角色",
       "humorDevice": "story",
       "zhGloss": "推車",
-      "speakLineEn": "Cue the 推車: cart walks on and the gag sticks.",
-      "speakLineZh": "請「推車」出場：cart 一上場梗就黏住——推車。",
+      "speakLineEn": "Critics argued that the policy would cart basic protections.",
+      "speakLineZh": "批評者主張該政策會推車基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -191,11 +191,11 @@
       "headword": "horn",
       "inVocab": false,
       "senseAnchor": "喇叭",
-      "roleInScript": "喇叭",
+      "roleInScript": "喇叭角色",
       "humorDevice": "story",
       "zhGloss": "喇叭",
-      "speakLineEn": "Cue the 喇叭: horn walks on and the gag sticks.",
-      "speakLineZh": "請「喇叭」出場：horn 一上場梗就黏住——喇叭。",
+      "speakLineEn": "A careful reader links horn to 喇叭, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 horn 連到「喇叭」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -217,6 +217,9 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P3-batch03"
+    "stage": "P3-batch03",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave2",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

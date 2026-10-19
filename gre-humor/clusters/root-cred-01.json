@@ -10,7 +10,7 @@
     {
       "headword": "credible",
       "inVocab": true,
-      "senseAnchor": "可信的",
+      "senseAnchor": "可信的；場面：櫃台收得下的說法",
       "roleInScript": "櫃台收得下的說法",
       "humorDevice": "morphology",
       "zhGloss": "可信的",
@@ -25,10 +25,10 @@
     {
       "headword": "credulous",
       "inVocab": true,
-      "senseAnchor": "too ready to believe things and therefore easy to trick",
+      "senseAnchor": "輕信的；易受騙的",
       "roleInScript": "什麼都蓋章相信",
       "humorDevice": "morphology",
-      "zhGloss": "輕信的",
+      "zhGloss": "輕信的；易受騙的",
       "speakLineEn": "Credulous readers amplify weak studies.",
       "speakLineZh": "輕信的讀者會放大薄弱研究。",
       "related": {
@@ -70,7 +70,7 @@
     {
       "headword": "credit",
       "inVocab": false,
-      "senseAnchor": "信用；讚譽；學分",
+      "senseAnchor": "信用；讚譽",
       "roleInScript": "信用額度",
       "humorDevice": "morphology",
       "zhGloss": "信用；讚譽；學分",
@@ -100,7 +100,7 @@
     {
       "headword": "credo",
       "inVocab": true,
-      "senseAnchor": "any system of principles or beliefs",
+      "senseAnchor": "信條",
       "roleInScript": "櫃台背後的信仰海報",
       "humorDevice": "morphology",
       "zhGloss": "信條",
@@ -145,7 +145,7 @@
     {
       "headword": "credibility",
       "inVocab": true,
-      "senseAnchor": "可信度",
+      "senseAnchor": "可信度；場面：信用分數",
       "roleInScript": "信用分數",
       "humorDevice": "morphology",
       "zhGloss": "可信度",
@@ -189,6 +189,8 @@
   "qualityGate": {
     "reviewedAt": "2026-10-18",
     "stage": "S2",
-    "note": "New A-level cluster with full lesson"
+    "note": "New A-level cluster with full lesson",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

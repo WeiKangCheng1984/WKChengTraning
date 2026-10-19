@@ -10,7 +10,7 @@
     {
       "headword": "candid",
       "inVocab": true,
-      "senseAnchor": "坦率的",
+      "senseAnchor": "坦率的；場面：直言不諱",
       "roleInScript": "直言不諱",
       "humorDevice": "contrast",
       "zhGloss": "坦率的",
@@ -40,7 +40,7 @@
     {
       "headword": "sincere",
       "inVocab": true,
-      "senseAnchor": "真誠的",
+      "senseAnchor": "真誠的；場面：不裝",
       "roleInScript": "不裝",
       "humorDevice": "contrast",
       "zhGloss": "真誠的",
@@ -55,7 +55,7 @@
     {
       "headword": "veracity",
       "inVocab": true,
-      "senseAnchor": "unwillingness to tell lies",
+      "senseAnchor": "真實性",
       "roleInScript": "真假度量",
       "humorDevice": "contrast",
       "zhGloss": "真實性",
@@ -70,7 +70,7 @@
     {
       "headword": "guile",
       "inVocab": true,
-      "senseAnchor": "狡詐",
+      "senseAnchor": "狡詐；場面：心機牌",
       "roleInScript": "心機牌",
       "humorDevice": "contrast",
       "zhGloss": "狡詐",
@@ -100,10 +100,10 @@
     {
       "headword": "deceit",
       "inVocab": true,
-      "senseAnchor": "the quality of being fraudulent; a misleading falsehood",
+      "senseAnchor": "欺騙；謊言",
       "roleInScript": "騙術",
       "humorDevice": "contrast",
-      "zhGloss": "欺騙",
+      "zhGloss": "欺騙；謊言",
       "speakLineEn": "Statistical deceit often hides in silent exclusions.",
       "speakLineZh": "統計欺騙常藏在沉默排除。",
       "related": {
@@ -130,10 +130,10 @@
     {
       "headword": "artifice",
       "inVocab": true,
-      "senseAnchor": "a deceptive maneuver (especially to avoid capture)",
+      "senseAnchor": "詭計；場面：手法牌",
       "roleInScript": "手法牌",
       "humorDevice": "contrast",
-      "zhGloss": "伎倆；巧計",
+      "zhGloss": "詭計",
       "speakLineEn": "Rhetorical artifice cannot replace identification.",
       "speakLineZh": "修辭伎倆不能取代識別策略。",
       "related": {
@@ -145,10 +145,10 @@
     {
       "headword": "dissemble",
       "inVocab": true,
-      "senseAnchor": "make believe with the intent to deceive; hide under a false appearance",
+      "senseAnchor": "掩蓋；掩飾",
       "roleInScript": "藏真意",
       "humorDevice": "contrast",
-      "zhGloss": "掩飾；裝樣子",
+      "zhGloss": "掩蓋；掩飾；假裝",
       "speakLineEn": "Do not dissemble about conflicting interests.",
       "speakLineZh": "不要掩飾利益衝突。",
       "related": {
@@ -160,10 +160,10 @@
     {
       "headword": "feign",
       "inVocab": true,
-      "senseAnchor": "to give a false appearance of",
+      "senseAnchor": "假裝；佯裝",
       "roleInScript": "假裝",
       "humorDevice": "contrast",
-      "zhGloss": "佯裝",
+      "zhGloss": "假裝",
       "speakLineEn": "Feign ignorance and you train bad incentives.",
       "speakLineZh": "佯裝無知會訓練壞誘因。",
       "related": {
@@ -203,6 +203,8 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P1-batch01"
+    "stage": "P1-batch01",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

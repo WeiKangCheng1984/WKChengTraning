@@ -10,7 +10,7 @@
     {
       "headword": "fluent",
       "inVocab": false,
-      "senseAnchor": "流利的",
+      "senseAnchor": "流利的；場面：流得順",
       "roleInScript": "流得順",
       "humorDevice": "morphology",
       "zhGloss": "流利的",
@@ -25,7 +25,7 @@
     {
       "headword": "affluent",
       "inVocab": false,
-      "senseAnchor": "富裕的",
+      "senseAnchor": "富裕的；場面：財流進來",
       "roleInScript": "財流進來",
       "humorDevice": "morphology",
       "zhGloss": "富裕的",
@@ -55,10 +55,10 @@
     {
       "headword": "flux",
       "inVocab": true,
-      "senseAnchor": "the rate of flow of energy or particles across a given surface; a flow or discharge",
+      "senseAnchor": "匯聚；場面：一直在流",
       "roleInScript": "一直在流",
       "humorDevice": "morphology",
-      "zhGloss": "流動；變動",
+      "zhGloss": "匯聚",
       "speakLineEn": "Methods are in flux; document versions.",
       "speakLineZh": "方法在變動中，請記錄版本。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "influx",
       "inVocab": true,
-      "senseAnchor": "the process of flowing in",
+      "senseAnchor": "匯聚；場面：大量流入",
       "roleInScript": "大量流入",
       "humorDevice": "morphology",
-      "zhGloss": "湧入",
+      "zhGloss": "匯聚",
       "speakLineEn": "An influx of datasets needs curation labor.",
       "speakLineZh": "資料集湧入需要策展人力。",
       "related": {
@@ -85,7 +85,7 @@
     {
       "headword": "fluctuate",
       "inVocab": true,
-      "senseAnchor": "to change a lot in a regular way",
+      "senseAnchor": "波動；場面：上下流",
       "roleInScript": "上下流",
       "humorDevice": "morphology",
       "zhGloss": "波動",
@@ -100,7 +100,7 @@
     {
       "headword": "superfluous",
       "inVocab": true,
-      "senseAnchor": "exceeding what is sufficient or necessary",
+      "senseAnchor": "多餘的；場面：流過頭",
       "roleInScript": "流過頭",
       "humorDevice": "morphology",
       "zhGloss": "多餘的",
@@ -115,10 +115,10 @@
     {
       "headword": "mellifluous",
       "inVocab": true,
-      "senseAnchor": "pleasing to the ear",
+      "senseAnchor": "流暢的；聲音甜美的",
       "roleInScript": "蜜物流暢",
       "humorDevice": "morphology",
-      "zhGloss": "聲音甜美的",
+      "zhGloss": "流暢的",
       "speakLineEn": "Mellifluous prose can hide weak identification.",
       "speakLineZh": "甜美文風可能掩蓋弱識別。",
       "related": {
@@ -160,7 +160,7 @@
     {
       "headword": "influence",
       "inVocab": false,
-      "senseAnchor": "影響",
+      "senseAnchor": "影響；場面：流入作用",
       "roleInScript": "流入作用",
       "humorDevice": "story",
       "zhGloss": "影響",
@@ -175,7 +175,7 @@
     {
       "headword": "reflux",
       "inVocab": false,
-      "senseAnchor": "回流",
+      "senseAnchor": "回流；場面：流回來",
       "roleInScript": "流回來",
       "humorDevice": "story",
       "zhGloss": "回流",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P1-batch02"
+    "stage": "P1-batch02",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

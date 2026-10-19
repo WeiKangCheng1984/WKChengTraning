@@ -10,12 +10,12 @@
     {
       "headword": "acumen",
       "inVocab": true,
-      "senseAnchor": "the ability to make good judgements and quick decisions",
+      "senseAnchor": "敏銳；洞察力",
       "roleInScript": "手術刀",
       "humorDevice": "contrast",
-      "zhGloss": "洞察力",
-      "speakLineEn": "Cue the 手術刀: acumen walks on and the gag sticks.",
-      "speakLineZh": "請「手術刀」出場：acumen 一上場梗就黏住——洞察力。",
+      "zhGloss": "敏銳；洞察力",
+      "speakLineEn": "In academic English, writers may refer to the business acumen.",
+      "speakLineZh": "敏銳，洞察力。",
       "related": {
         "synonyms": "shrewdness",
         "antonyms": ""
@@ -25,12 +25,12 @@
     {
       "headword": "acuity",
       "inVocab": true,
-      "senseAnchor": "sharpness of vision; the visual ability to resolve fine detail (usually measured by a Snellen chart); a quick and penetrating intelligence",
+      "senseAnchor": "敏銳；場面：對焦環",
       "roleInScript": "對焦環",
       "humorDevice": "contrast",
       "zhGloss": "敏銳",
-      "speakLineEn": "Cue the 對焦環: acuity walks on and the gag sticks.",
-      "speakLineZh": "請「對焦環」出場：acuity 一上場梗就黏住——敏銳。",
+      "speakLineEn": "A clear sense of acuity is crucial to understanding the argument.",
+      "speakLineZh": "例句對齊：敏銳。",
       "related": {
         "synonyms": "sharp-sightedness, acuteness, sharpness, keenness",
         "antonyms": "obtuseness, dullness, indistinctness, softness"
@@ -40,12 +40,12 @@
     {
       "headword": "adroit",
       "inVocab": true,
-      "senseAnchor": "quick or skillful or adept in action or thought",
+      "senseAnchor": "敏捷的；靈巧的",
       "roleInScript": "巧手",
       "humorDevice": "contrast",
-      "zhGloss": "靈巧敏捷的",
-      "speakLineEn": "Cue the 巧手: adroit walks on and the gag sticks.",
-      "speakLineZh": "請「巧手」出場：adroit 一上場梗就黏住——靈巧敏捷的。",
+      "zhGloss": "敏捷的；靈巧的",
+      "speakLineEn": "His adroit replies to hecklers won him many followers.",
+      "speakLineZh": "敏捷的；靈巧的。",
       "related": {
         "synonyms": "",
         "antonyms": "maladroit"
@@ -55,12 +55,12 @@
     {
       "headword": "astute",
       "inVocab": true,
-      "senseAnchor": "notice and understand clearly",
+      "senseAnchor": "精明的；場面：鷹眼",
       "roleInScript": "鷹眼",
       "humorDevice": "contrast",
       "zhGloss": "精明的",
-      "speakLineEn": "Cue the 鷹眼: astute walks on and the gag sticks.",
-      "speakLineZh": "請「鷹眼」出場：astute 一上場梗就黏住——精明的。",
+      "speakLineEn": "An astute tenant always reads the small print in a lease.",
+      "speakLineZh": "例句對齊：精明的。",
       "related": {
         "synonyms": "shrewd, canny, savvy",
         "antonyms": "naive, obtuse"
@@ -70,12 +70,12 @@
     {
       "headword": "shrewd",
       "inVocab": true,
-      "senseAnchor": "marked by practical hardheaded intelligence; used of persons",
+      "senseAnchor": "精明的；場面：算盤精",
       "roleInScript": "算盤精",
       "humorDevice": "contrast",
       "zhGloss": "精明的",
-      "speakLineEn": "Cue the 算盤精: shrewd walks on and the gag sticks.",
-      "speakLineZh": "請「算盤精」出場：shrewd 一上場梗就黏住——精明的。",
+      "speakLineEn": "He was too shrewd to go along with them on a road that could lead only to their overthrow.",
+      "speakLineZh": "例句對齊：精明的。",
       "related": {
         "synonyms": "astute, sharp, calculating, calculative, conniving, scheming",
         "antonyms": "naive, obtuse, dull, flat, natural"
@@ -85,12 +85,12 @@
     {
       "headword": "asinine",
       "inVocab": true,
-      "senseAnchor": "devoid of intelligence",
+      "senseAnchor": "愚蠢的；驢的",
       "roleInScript": "驢口罩",
       "humorDevice": "contrast",
-      "zhGloss": "愚蠢的",
-      "speakLineEn": "Cue the 驢口罩: asinine walks on and the gag sticks.",
-      "speakLineZh": "請「驢口罩」出場：asinine 一上場梗就黏住——愚蠢的。",
+      "zhGloss": "愚蠢的；驢的",
+      "speakLineEn": "The critic noted her asinine approach to the evidence.",
+      "speakLineZh": "愚蠢的；驢的。",
       "related": {
         "synonyms": "fatuous, inane, mindless, vacuous",
         "antonyms": "meaningful, sensible, mindful"
@@ -100,12 +100,12 @@
     {
       "headword": "crass",
       "inVocab": true,
-      "senseAnchor": "so crude and unrefined as to be lacking in discrimination and sensibility",
+      "senseAnchor": "粗俗愚鈍的",
       "roleInScript": "橡皮槌",
       "humorDevice": "contrast",
       "zhGloss": "粗俗愚鈍的",
-      "speakLineEn": "Cue the 橡皮槌: crass walks on and the gag sticks.",
-      "speakLineZh": "請「橡皮槌」出場：crass 一上場梗就黏住——粗俗愚鈍的。",
+      "speakLineEn": "It was an act of crass stupidity.",
+      "speakLineZh": "粗俗愚鈍的。",
       "related": {
         "synonyms": "vulgar, coarse, crude",
         "antonyms": "fine, refined"
@@ -115,12 +115,12 @@
     {
       "headword": "obtuse",
       "inVocab": true,
-      "senseAnchor": "slow to understand things",
+      "senseAnchor": "愚鈍的；場面：鈍角帽",
       "roleInScript": "鈍角帽",
       "humorDevice": "contrast",
-      "zhGloss": "遲鈍的",
-      "speakLineEn": "Cue the 鈍角帽: obtuse walks on and the gag sticks.",
-      "speakLineZh": "請「鈍角帽」出場：obtuse 一上場梗就黏住——遲鈍的。",
+      "zhGloss": "愚鈍的",
+      "speakLineEn": "He was either normally stupid or being deliberately obtuse.",
+      "speakLineZh": "例句對齊：遲鈍的。",
       "related": {
         "synonyms": "fatuous, vacuous",
         "antonyms": "acute"
@@ -130,12 +130,12 @@
     {
       "headword": "dense",
       "inVocab": true,
-      "senseAnchor": "difficult to understand",
+      "senseAnchor": "難以理解的；愚鈍的",
       "roleInScript": "水泥腦",
       "humorDevice": "contrast",
-      "zhGloss": "愚鈍的",
-      "speakLineEn": "Cue the 水泥腦: dense walks on and the gag sticks.",
-      "speakLineZh": "請「水泥腦」出場：dense 一上場梗就黏住——愚鈍的。",
+      "zhGloss": "難以理解的",
+      "speakLineEn": "So dense he never understands anything I say to him.",
+      "speakLineZh": "難以理解的。",
       "related": {
         "synonyms": "abstruse, elusive, esoteric, inaccessible, arcane",
         "antonyms": "obvious, accessible, commonplace, exoteric"
@@ -145,12 +145,12 @@
     {
       "headword": "dull",
       "inVocab": true,
-      "senseAnchor": "遲鈍的",
+      "senseAnchor": "遲鈍的；場面：鈍刀",
       "roleInScript": "鈍刀",
       "humorDevice": "contrast",
       "zhGloss": "遲鈍的",
-      "speakLineEn": "Cue the 鈍刀: dull walks on and the gag sticks.",
-      "speakLineZh": "請「鈍刀」出場：dull 一上場梗就黏住——遲鈍的。",
+      "speakLineEn": "On the exam, dull most nearly means a sense of \"遲鈍的\".",
+      "speakLineZh": "遲鈍的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -160,12 +160,12 @@
     {
       "headword": "fatuous",
       "inVocab": true,
-      "senseAnchor": "devoid of intelligence",
+      "senseAnchor": "愚笨的；場面：傻笑瓶",
       "roleInScript": "傻笑瓶",
       "humorDevice": "contrast",
-      "zhGloss": "愚昧的",
-      "speakLineEn": "Cue the 傻笑瓶: fatuous walks on and the gag sticks.",
-      "speakLineZh": "請「傻笑瓶」出場：fatuous 一上場梗就黏住——愚昧的。",
+      "zhGloss": "愚笨的",
+      "speakLineEn": "The critic noted her fatuous approach to the evidence.",
+      "speakLineZh": "例句對齊：愚昧的。",
       "related": {
         "synonyms": "asinine, inane, mindless, vacuous",
         "antonyms": "meaningful, sensible, mindful"
@@ -175,12 +175,12 @@
     {
       "headword": "inept",
       "inVocab": true,
-      "senseAnchor": "not elegant or graceful in expression; generally incompetent and ineffectual",
+      "senseAnchor": "不適當的；笨拙的",
       "roleInScript": "反手控",
       "humorDevice": "contrast",
-      "zhGloss": "笨拙的",
-      "speakLineEn": "Cue the 反手控: inept walks on and the gag sticks.",
-      "speakLineZh": "請「反手控」出場：inept 一上場梗就黏住——笨拙的。",
+      "zhGloss": "不適當的",
+      "speakLineEn": "If the rumor is true, can anything be more inept than to repeat it now?",
+      "speakLineZh": "不適當的。",
       "related": {
         "synonyms": "awkward, clumsy, cumbersome, inapt, ill-chosen, feckless",
         "antonyms": "graceful"
@@ -191,11 +191,11 @@
       "headword": "mallet",
       "inVocab": false,
       "senseAnchor": "槌子",
-      "roleInScript": "槌子",
+      "roleInScript": "槌子角色",
       "humorDevice": "story",
       "zhGloss": "槌子",
-      "speakLineEn": "Cue the 槌子: mallet walks on and the gag sticks.",
-      "speakLineZh": "請「槌子」出場：mallet 一上場梗就黏住——槌子。",
+      "speakLineEn": "In the passage, mallet signals a shift toward \"槌子\".",
+      "speakLineZh": "文中 mallet 標示語氣轉向「槌子」。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -206,11 +206,11 @@
       "headword": "lens",
       "inVocab": false,
       "senseAnchor": "鏡頭",
-      "roleInScript": "鏡頭",
+      "roleInScript": "鏡頭角色",
       "humorDevice": "story",
       "zhGloss": "鏡頭",
-      "speakLineEn": "Cue the 鏡頭: lens walks on and the gag sticks.",
-      "speakLineZh": "請「鏡頭」出場：lens 一上場梗就黏住——鏡頭。",
+      "speakLineEn": "Hold the meaning steady: lens means 鏡頭.",
+      "speakLineZh": "記住考意：lens＝鏡頭。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -221,11 +221,11 @@
       "headword": "focus",
       "inVocab": false,
       "senseAnchor": "對焦",
-      "roleInScript": "對焦",
+      "roleInScript": "對焦角色",
       "humorDevice": "story",
       "zhGloss": "對焦",
-      "speakLineEn": "Cue the 對焦: focus walks on and the gag sticks.",
-      "speakLineZh": "請「對焦」出場：focus 一上場梗就黏住——對焦。",
+      "speakLineEn": "Critics argued that the policy would focus basic protections.",
+      "speakLineZh": "批評者主張該政策會對焦基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -236,11 +236,11 @@
       "headword": "wit",
       "inVocab": false,
       "senseAnchor": "機智",
-      "roleInScript": "機智",
+      "roleInScript": "機智角色",
       "humorDevice": "story",
       "zhGloss": "機智",
-      "speakLineEn": "Cue the 機智: wit walks on and the gag sticks.",
-      "speakLineZh": "請「機智」出場：wit 一上場梗就黏住——機智。",
+      "speakLineEn": "Hold the meaning steady: wit means 機智.",
+      "speakLineZh": "記住考意：wit＝機智。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -251,11 +251,11 @@
       "headword": "fogbrain",
       "inVocab": false,
       "senseAnchor": "霧腦",
-      "roleInScript": "霧腦",
+      "roleInScript": "霧腦角色",
       "humorDevice": "story",
       "zhGloss": "霧腦",
-      "speakLineEn": "Cue the 霧腦: fogbrain walks on and the gag sticks.",
-      "speakLineZh": "請「霧腦」出場：fogbrain 一上場梗就黏住——霧腦。",
+      "speakLineEn": "Critics argued that the policy would fogbrain basic protections.",
+      "speakLineZh": "批評者主張該政策會霧腦基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -266,11 +266,11 @@
       "headword": "edge",
       "inVocab": false,
       "senseAnchor": "刃",
-      "roleInScript": "刃",
+      "roleInScript": "刃角色",
       "humorDevice": "story",
       "zhGloss": "刃",
-      "speakLineEn": "Cue the 刃: edge walks on and the gag sticks.",
-      "speakLineZh": "請「刃」出場：edge 一上場梗就黏住——刃。",
+      "speakLineEn": "In the passage, edge signals a shift toward \"刃\".",
+      "speakLineZh": "文中 edge 標示語氣轉向「刃」。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -281,11 +281,11 @@
       "headword": "bluntedge",
       "inVocab": false,
       "senseAnchor": "鈍刃",
-      "roleInScript": "鈍刃",
+      "roleInScript": "鈍刃角色",
       "humorDevice": "story",
       "zhGloss": "鈍刃",
-      "speakLineEn": "Cue the 鈍刃: bluntedge walks on and the gag sticks.",
-      "speakLineZh": "請「鈍刃」出場：bluntedge 一上場梗就黏住——鈍刃。",
+      "speakLineEn": "Hold the meaning steady: bluntedge means 鈍刃.",
+      "speakLineZh": "記住考意：bluntedge＝鈍刃。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -307,6 +307,9 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P3-batch03"
+    "stage": "P3-batch03",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave1",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

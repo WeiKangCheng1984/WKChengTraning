@@ -5,17 +5,17 @@
   "titleZh": "orphan F｜F道具箱",
   "titleEn": "Orphan F",
   "hook": "差集 F 專場開在F道具箱——名牌用中文，防止走失。",
-  "script": "fabric/facetious/factiousness/faint 先登台，其餘 orphan 接龍。清倉晚會續攤：同字母檢票，義核才是身份證。",
+  "script": "fabric/facetious/factiousness/faint 先登台，其餘 orphan 接龍。清倉晚會續攤：同字母檢票，義核才是身份證。串記：同一世界觀裡，每個詞都有固定動作位。登場：fabric（F席-組織）、facetious（F席-膚淺的）、factiousness（F席-派系的；）、faint（F席-昏迷）、fallibility（F席-不可靠性）、fallow（F席-adj.）。",
   "members": [
     {
       "headword": "fabric",
       "inVocab": true,
-      "senseAnchor": "artifact made by weaving or felting or knitting or crocheting natural or synthetic fibers; the underlying structure",
+      "senseAnchor": "組織",
       "roleInScript": "F席-組織",
       "humorDevice": "morphology",
       "zhGloss": "組織",
-      "speakLineEn": "Cue the F席-組織: fabric walks on and the gag sticks.",
-      "speakLineZh": "請「F席-組織」出場：fabric 一上場梗就黏住——組織。",
+      "speakLineEn": "The fabric in the curtains was light and semitransparent.",
+      "speakLineZh": "組織。",
       "related": {
         "synonyms": "cloth, material, textile, framework",
         "antonyms": "immaterial, incorporeal, insubstantial"
@@ -25,12 +25,12 @@
     {
       "headword": "facetious",
       "inVocab": true,
-      "senseAnchor": "cleverly amusing in tone",
+      "senseAnchor": "膚淺的",
       "roleInScript": "F席-膚淺的",
       "humorDevice": "morphology",
       "zhGloss": "膚淺的",
-      "speakLineEn": "Cue the F席-膚淺的: facetious walks on and the gag sticks.",
-      "speakLineZh": "請「F席-膚淺的」出場：facetious 一上場梗就黏住——膚淺的。",
+      "speakLineEn": "Facetious remarks.",
+      "speakLineZh": "膚淺的。",
       "related": {
         "synonyms": "bantering, tongue-in-cheek",
         "antonyms": ""
@@ -40,12 +40,12 @@
     {
       "headword": "factiousness",
       "inVocab": true,
-      "senseAnchor": "a GRE-level vocabulary item meaning closely related to its core sense in academic English",
+      "senseAnchor": "派系的；黨派的",
       "roleInScript": "F席-派系的；",
       "humorDevice": "morphology",
       "zhGloss": "派系的；黨派的",
-      "speakLineEn": "Cue the F席-派系的；: factiousness walks on and the gag sticks.",
-      "speakLineZh": "請「F席-派系的；」出場：factiousness 一上場梗就黏住——派系的；黨派的。",
+      "speakLineEn": "A clear sense of factiousness is crucial to understanding the argument.",
+      "speakLineZh": "派系的；黨派的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -55,12 +55,12 @@
     {
       "headword": "faint",
       "inVocab": true,
-      "senseAnchor": "a spontaneous loss of consciousness caused by insufficient blood to the brain; pass out from weakness, physical or emotional distress due to a loss of blood supply to the brain",
+      "senseAnchor": "昏迷",
       "roleInScript": "F席-昏迷",
       "humorDevice": "morphology",
       "zhGloss": "昏迷",
-      "speakLineEn": "Cue the F席-昏迷: faint walks on and the gag sticks.",
-      "speakLineZh": "請「F席-昏迷」出場：faint 一上場梗就黏住——昏迷。",
+      "speakLineEn": "A faint clue to the origin of the mystery.",
+      "speakLineZh": "昏迷。",
       "related": {
         "synonyms": "swoon, syncope, deliquium, conk, weak, dim",
         "antonyms": "be born, strong, focus, undimmed"
@@ -70,12 +70,12 @@
     {
       "headword": "fallibility",
       "inVocab": true,
-      "senseAnchor": "the likelihood of making errors",
+      "senseAnchor": "不可靠性；出錯性",
       "roleInScript": "F席-不可靠性",
       "humorDevice": "morphology",
       "zhGloss": "不可靠性；出錯性",
-      "speakLineEn": "Cue the F席-不可靠性: fallibility walks on and the gag sticks.",
-      "speakLineZh": "請「F席-不可靠性」出場：fallibility 一上場梗就黏住——不可靠性；出錯性。",
+      "speakLineEn": "A clear sense of fallibility is crucial to understanding the argument.",
+      "speakLineZh": "不可靠性；出錯性。",
       "related": {
         "synonyms": "",
         "antonyms": "infallibility"
@@ -85,12 +85,12 @@
     {
       "headword": "fallow",
       "inVocab": true,
-      "senseAnchor": "not being in a state of use, activity, or employment",
+      "senseAnchor": "閒置的",
       "roleInScript": "F席-adj.",
       "humorDevice": "morphology",
-      "zhGloss": "adj. 閒置的",
-      "speakLineEn": "Cue the F席-adj.: fallow walks on and the gag sticks.",
-      "speakLineZh": "請「F席-adj.」出場：fallow 一上場梗就黏住——adj. 閒置的。",
+      "zhGloss": "閒置的",
+      "speakLineEn": "A fallow gold market.",
+      "speakLineZh": "閒置的。",
       "related": {
         "synonyms": "dormant, vacant, idle",
         "antonyms": "active, awakened, busy, run, work"
@@ -100,12 +100,12 @@
     {
       "headword": "faminie",
       "inVocab": true,
-      "senseAnchor": "a GRE-level vocabulary item meaning closely related to its core sense in academic English",
+      "senseAnchor": "女性的",
       "roleInScript": "F席-女性的",
       "humorDevice": "morphology",
       "zhGloss": "女性的",
-      "speakLineEn": "Cue the F席-女性的: faminie walks on and the gag sticks.",
-      "speakLineZh": "請「F席-女性的」出場：faminie 一上場梗就黏住——女性的。",
+      "speakLineEn": "A clear sense of faminie is crucial to understanding the argument.",
+      "speakLineZh": "女性的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -115,12 +115,12 @@
     {
       "headword": "famish",
       "inVocab": true,
-      "senseAnchor": "be hungry; go without food; deprive of food",
+      "senseAnchor": "捱餓",
       "roleInScript": "F席-捱餓",
       "humorDevice": "morphology",
       "zhGloss": "捱餓",
-      "speakLineEn": "Cue the F席-捱餓: famish walks on and the gag sticks.",
-      "speakLineZh": "請「F席-捱餓」出場：famish 一上場梗就黏住——捱餓。",
+      "speakLineEn": "Many famished in the countryside during the drought.",
+      "speakLineZh": "捱餓。",
       "related": {
         "synonyms": "starve, hunger",
         "antonyms": "be full, feed"
@@ -130,12 +130,12 @@
     {
       "headword": "fastidious",
       "inVocab": true,
-      "senseAnchor": "possessing or displaying careful, meticulous attention to detail",
+      "senseAnchor": "挑剔的；極仔細的",
       "roleInScript": "F席-adj.",
       "humorDevice": "morphology",
-      "zhGloss": "adj. 挑剔的，極仔細的",
-      "speakLineEn": "Cue the F席-adj.: fastidious walks on and the gag sticks.",
-      "speakLineZh": "請「F席-adj.」出場：fastidious 一上場梗就黏住——adj. 挑剔的，極仔細的。",
+      "zhGloss": "挑剔的；極仔細的",
+      "speakLineEn": "Fastidious about personal cleanliness.",
+      "speakLineZh": "挑剔的，極仔細的。",
       "related": {
         "synonyms": "demanding, exacting",
         "antonyms": "careless, sloppy, unfastidious, obviate, undemanding"
@@ -145,12 +145,12 @@
     {
       "headword": "fathom",
       "inVocab": true,
-      "senseAnchor": "a linear unit of measurement (equal to 6 feet) for water depth; (mining) a unit of volume (equal to 6 cubic feet) used in measuring bodies of ore",
+      "senseAnchor": "理解",
       "roleInScript": "F席-理解",
       "humorDevice": "morphology",
       "zhGloss": "理解",
-      "speakLineEn": "Cue the F席-理解: fathom walks on and the gag sticks.",
-      "speakLineZh": "請「F席-理解」出場：fathom 一上場梗就黏住——理解。",
+      "speakLineEn": "A clear sense of fathom is crucial to understanding the argument.",
+      "speakLineZh": "理解。",
       "related": {
         "synonyms": "fthm, penetrate, bottom, sound",
         "antonyms": "side, top, devoice, silence, unsound"
@@ -160,12 +160,12 @@
     {
       "headword": "fatidic",
       "inVocab": true,
-      "senseAnchor": "a GRE-level vocabulary item meaning closely related to its core sense in academic English",
+      "senseAnchor": "預言的",
       "roleInScript": "F席-預言的",
       "humorDevice": "morphology",
       "zhGloss": "預言的",
-      "speakLineEn": "Cue the F席-預言的: fatidic walks on and the gag sticks.",
-      "speakLineZh": "請「F席-預言的」出場：fatidic 一上場梗就黏住——預言的。",
+      "speakLineEn": "A clear sense of fatidic is crucial to understanding the argument.",
+      "speakLineZh": "預言的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -175,12 +175,12 @@
     {
       "headword": "fatigue",
       "inVocab": true,
-      "senseAnchor": "a feeling of being extremely tired",
+      "senseAnchor": "疲憊；場面：F席-n. 疲",
       "roleInScript": "F席-n. 疲",
       "humorDevice": "morphology",
-      "zhGloss": "n. 疲憊",
-      "speakLineEn": "Cue the F席-n. 疲: fatigue walks on and the gag sticks.",
-      "speakLineZh": "請「F席-n. 疲」出場：fatigue 一上場梗就黏住——n. 疲憊。",
+      "zhGloss": "疲憊",
+      "speakLineEn": "Growing fatigue was apparent from the decline in the execution of their athletic skills.",
+      "speakLineZh": "疲憊。",
       "related": {
         "synonyms": "exhaustion, weariness",
         "antonyms": "refresh"
@@ -190,12 +190,12 @@
     {
       "headword": "fatuity",
       "inVocab": true,
-      "senseAnchor": "a ludicrous folly",
+      "senseAnchor": "昏庸",
       "roleInScript": "F席-昏庸",
       "humorDevice": "morphology",
       "zhGloss": "昏庸",
-      "speakLineEn": "Cue the F席-昏庸: fatuity walks on and the gag sticks.",
-      "speakLineZh": "請「F席-昏庸」出場：fatuity 一上場梗就黏住——昏庸。",
+      "speakLineEn": "A clear sense of fatuity is crucial to understanding the argument.",
+      "speakLineZh": "昏庸。",
       "related": {
         "synonyms": "absurdity, fatuousness, silliness",
         "antonyms": ""
@@ -205,12 +205,12 @@
     {
       "headword": "fealty",
       "inVocab": true,
-      "senseAnchor": "loyalty",
+      "senseAnchor": "忠誠；場面：F席-n. 忠",
       "roleInScript": "F席-n. 忠",
       "humorDevice": "morphology",
-      "zhGloss": "n. 忠誠",
-      "speakLineEn": "Cue the F席-n. 忠: fealty walks on and the gag sticks.",
-      "speakLineZh": "請「F席-n. 忠」出場：fealty 一上場梗就黏住——n. 忠誠。",
+      "zhGloss": "忠誠",
+      "speakLineEn": "In academic English, writers may refer to the vow fealty to the king.",
+      "speakLineZh": "忠誠。",
       "related": {
         "synonyms": "adhesion, allegiance, fidelity",
         "antonyms": "infidelity, unfaithfulness"
@@ -232,6 +232,9 @@
   "priority": "C",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P4-batch02"
+    "stage": "P4-batch02",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave2",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

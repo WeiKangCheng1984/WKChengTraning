@@ -10,7 +10,7 @@
     {
       "headword": "omnipresent",
       "inVocab": true,
-      "senseAnchor": "being present everywhere at once",
+      "senseAnchor": "無所不在的",
       "roleInScript": "到處標",
       "humorDevice": "morphology",
       "zhGloss": "無所不在的",
@@ -158,6 +158,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch07"
+    "stage": "P2-batch07",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

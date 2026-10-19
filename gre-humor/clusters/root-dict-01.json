@@ -10,7 +10,7 @@
     {
       "headword": "dictate",
       "inVocab": true,
-      "senseAnchor": "口述；命令；決定",
+      "senseAnchor": "口述；命令",
       "roleInScript": "說了就算",
       "humorDevice": "morphology",
       "zhGloss": "口述；命令；決定",
@@ -25,7 +25,7 @@
     {
       "headword": "predict",
       "inVocab": true,
-      "senseAnchor": "預測",
+      "senseAnchor": "預測；場面：預先說",
       "roleInScript": "預先說",
       "humorDevice": "morphology",
       "zhGloss": "預測",
@@ -70,7 +70,7 @@
     {
       "headword": "dictionary",
       "inVocab": true,
-      "senseAnchor": "詞典",
+      "senseAnchor": "詞典；場面：標準說法本",
       "roleInScript": "標準說法本",
       "humorDevice": "story",
       "zhGloss": "詞典",
@@ -85,10 +85,10 @@
     {
       "headword": "dictum",
       "inVocab": true,
-      "senseAnchor": "an authoritative declaration; an opinion voiced by a judge on a point of law not directly bearing on the case in question and therefore not binding",
+      "senseAnchor": "格言；場面：權威一句話",
       "roleInScript": "權威一句話",
       "humorDevice": "morphology",
-      "zhGloss": "正式聲明；格言式意見",
+      "zhGloss": "格言",
       "speakLineEn": "A famous dictum is not a citation.",
       "speakLineZh": "名言不是引用。",
       "related": {
@@ -115,10 +115,10 @@
     {
       "headword": "indict",
       "inVocab": true,
-      "senseAnchor": "to officially charge someone",
+      "senseAnchor": "控告；起訴",
       "roleInScript": "正式指控之說",
       "humorDevice": "morphology",
-      "zhGloss": "起訴；控告",
+      "zhGloss": "控告；起訴",
       "speakLineEn": "Do not indict a field for one bad paper.",
       "speakLineZh": "不要因一篇爛文起訴整個領域。",
       "related": {
@@ -130,7 +130,7 @@
     {
       "headword": "benediction",
       "inVocab": true,
-      "senseAnchor": "祝福",
+      "senseAnchor": "祝福；場面：好話說出口",
       "roleInScript": "好話說出口",
       "humorDevice": "story",
       "zhGloss": "祝福",
@@ -145,7 +145,7 @@
     {
       "headword": "malediction",
       "inVocab": true,
-      "senseAnchor": "the act of calling down a curse that invokes evil (and usually serves as an insult)",
+      "senseAnchor": "詛咒；場面：壞話咒語",
       "roleInScript": "壞話咒語",
       "humorDevice": "morphology",
       "zhGloss": "詛咒",
@@ -160,10 +160,10 @@
     {
       "headword": "jurisdiction",
       "inVocab": true,
-      "senseAnchor": "(law) the right and power to interpret and apply the law; in law; the territory within which power can be exercised",
+      "senseAnchor": "判決；場面：能說了算的範圍",
       "roleInScript": "能說了算的範圍",
       "humorDevice": "morphology",
-      "zhGloss": "管轄權",
+      "zhGloss": "判決",
       "speakLineEn": "Clarify statistical jurisdiction of each analysis.",
       "speakLineZh": "釐清各分析的統計管轄。",
       "related": {
@@ -205,7 +205,7 @@
     {
       "headword": "contradiction",
       "inVocab": true,
-      "senseAnchor": "矛盾",
+      "senseAnchor": "矛盾；場面：反說的狀態",
       "roleInScript": "反說的狀態",
       "humorDevice": "morphology",
       "zhGloss": "矛盾",
@@ -220,7 +220,7 @@
     {
       "headword": "dictatorial",
       "inVocab": true,
-      "senseAnchor": "獨裁的",
+      "senseAnchor": "獨裁的；場面：一人說了算",
       "roleInScript": "一人說了算",
       "humorDevice": "morphology",
       "zhGloss": "獨裁的",
@@ -248,6 +248,8 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "S3b"
+    "stage": "S3b",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

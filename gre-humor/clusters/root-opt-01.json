@@ -10,7 +10,7 @@
     {
       "headword": "option",
       "inVocab": false,
-      "senseAnchor": "選項",
+      "senseAnchor": "選項；場面：鏡片菜單",
       "roleInScript": "鏡片菜單",
       "humorDevice": "morphology",
       "zhGloss": "選項",
@@ -25,7 +25,7 @@
     {
       "headword": "optional",
       "inVocab": false,
-      "senseAnchor": "可選的",
+      "senseAnchor": "可選的；場面：選配",
       "roleInScript": "選配",
       "humorDevice": "morphology",
       "zhGloss": "可選的",
@@ -70,7 +70,7 @@
     {
       "headword": "optimum",
       "inVocab": false,
-      "senseAnchor": "最適點",
+      "senseAnchor": "最適點；場面：最佳焦距",
       "roleInScript": "最佳焦距",
       "humorDevice": "morphology",
       "zhGloss": "最適點",
@@ -100,10 +100,10 @@
     {
       "headword": "synopsis",
       "inVocab": true,
-      "senseAnchor": "a brief outline",
+      "senseAnchor": "摘要；場面：總覽鏡",
       "roleInScript": "總覽鏡",
       "humorDevice": "morphology",
-      "zhGloss": "摘要；梗概",
+      "zhGloss": "摘要",
       "speakLineEn": "Write a honest synopsis, not a trailer.",
       "speakLineZh": "寫誠實梗概，不是預告片。",
       "related": {
@@ -130,7 +130,7 @@
     {
       "headword": "optimize",
       "inVocab": false,
-      "senseAnchor": "最適化",
+      "senseAnchor": "最適化；場面：調到最佳",
       "roleInScript": "調到最佳",
       "humorDevice": "story",
       "zhGloss": "最適化",
@@ -145,7 +145,7 @@
     {
       "headword": "optometrist",
       "inVocab": false,
-      "senseAnchor": "驗光師",
+      "senseAnchor": "驗光師；場面：調鏡的人",
       "roleInScript": "調鏡的人",
       "humorDevice": "story",
       "zhGloss": "驗光師",
@@ -175,7 +175,7 @@
     {
       "headword": "optimal",
       "inVocab": false,
-      "senseAnchor": "最佳的",
+      "senseAnchor": "最佳的；場面：對焦完成",
       "roleInScript": "對焦完成",
       "humorDevice": "story",
       "zhGloss": "最佳的",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P2-batch02"
+    "stage": "P2-batch02",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

@@ -10,10 +10,10 @@
     {
       "headword": "potent",
       "inVocab": true,
-      "senseAnchor": "powerful and effective",
+      "senseAnchor": "有強效的；強有力的",
       "roleInScript": "有力",
       "humorDevice": "morphology",
-      "zhGloss": "強有力的；強效的",
+      "zhGloss": "有強效的",
       "speakLineEn": "A potent design still needs honest reporting.",
       "speakLineZh": "強效設計仍需誠實報告。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "omnipotent",
       "inVocab": true,
-      "senseAnchor": "having unlimited power",
+      "senseAnchor": "無所不能的；全能的",
       "roleInScript": "什麼都能",
       "humorDevice": "morphology",
-      "zhGloss": "全能的",
+      "zhGloss": "無所不能的",
       "speakLineEn": "No statistician is omnipotent across designs.",
       "speakLineZh": "沒有統計學家跨設計全能。",
       "related": {
@@ -85,10 +85,10 @@
     {
       "headword": "potentate",
       "inVocab": true,
-      "senseAnchor": "a ruler who is unconstrained by law",
+      "senseAnchor": "統治者；場面：握力的人",
       "roleInScript": "握力的人",
       "humorDevice": "morphology",
-      "zhGloss": "統治者；掌權者",
+      "zhGloss": "統治者",
       "speakLineEn": "Do not let a single potentate gatekeep methods.",
       "speakLineZh": "別讓單一掌權者把關方法。",
       "related": {
@@ -115,7 +115,7 @@
     {
       "headword": "potentiality",
       "inVocab": false,
-      "senseAnchor": "潛能",
+      "senseAnchor": "潛能；場面：可能之力",
       "roleInScript": "可能之力",
       "humorDevice": "story",
       "zhGloss": "潛能",
@@ -130,7 +130,7 @@
     {
       "headword": "empower",
       "inVocab": false,
-      "senseAnchor": "賦權",
+      "senseAnchor": "賦權；場面：給力",
       "roleInScript": "給力",
       "humorDevice": "story",
       "zhGloss": "賦權",
@@ -145,7 +145,7 @@
     {
       "headword": "powerful",
       "inVocab": false,
-      "senseAnchor": "強大的",
+      "senseAnchor": "強大的；場面：力大",
       "roleInScript": "力大",
       "humorDevice": "story",
       "zhGloss": "強大的",
@@ -160,7 +160,7 @@
     {
       "headword": "powerless",
       "inVocab": false,
-      "senseAnchor": "無力的",
+      "senseAnchor": "無力的；場面：沒權力",
       "roleInScript": "沒權力",
       "humorDevice": "story",
       "zhGloss": "無力的",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P1-batch02"
+    "stage": "P1-batch02",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

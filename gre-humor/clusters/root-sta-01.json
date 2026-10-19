@@ -25,7 +25,7 @@
     {
       "headword": "statue",
       "inVocab": true,
-      "senseAnchor": "雕像",
+      "senseAnchor": "雕像；場面：站著的石人",
       "roleInScript": "站著的石人",
       "humorDevice": "story",
       "zhGloss": "雕像",
@@ -70,7 +70,7 @@
     {
       "headword": "substitute",
       "inVocab": true,
-      "senseAnchor": "代替",
+      "senseAnchor": "代替；場面：替代站上",
       "roleInScript": "替代站上",
       "humorDevice": "morphology",
       "zhGloss": "代替",
@@ -85,10 +85,10 @@
     {
       "headword": "desist",
       "inVocab": true,
-      "senseAnchor": "choose not to consume",
+      "senseAnchor": "停止；斷念",
       "roleInScript": "站開停手",
       "humorDevice": "morphology",
-      "zhGloss": "停止",
+      "zhGloss": "停止；斷念",
       "speakLineEn": "Desist from harvesting outcomes mid-stream.",
       "speakLineZh": "停止中途收割結果。",
       "related": {
@@ -115,7 +115,7 @@
     {
       "headword": "resist",
       "inVocab": true,
-      "senseAnchor": "抵抗",
+      "senseAnchor": "抵抗；場面：站著對抗",
       "roleInScript": "站著對抗",
       "humorDevice": "morphology",
       "zhGloss": "抵抗",
@@ -130,7 +130,7 @@
     {
       "headword": "stable",
       "inVocab": true,
-      "senseAnchor": "穩定的",
+      "senseAnchor": "穩定的；場面：站得穩",
       "roleInScript": "站得穩",
       "humorDevice": "morphology",
       "zhGloss": "穩定的",
@@ -145,7 +145,7 @@
     {
       "headword": "stability",
       "inVocab": true,
-      "senseAnchor": "穩定性",
+      "senseAnchor": "穩定性；場面：穩的程度",
       "roleInScript": "穩的程度",
       "humorDevice": "morphology",
       "zhGloss": "穩定性",
@@ -190,7 +190,7 @@
     {
       "headword": "obstacle",
       "inVocab": true,
-      "senseAnchor": "障礙",
+      "senseAnchor": "障礙；場面：擋路的東西",
       "roleInScript": "擋路的東西",
       "humorDevice": "morphology",
       "zhGloss": "障礙",
@@ -205,7 +205,7 @@
     {
       "headword": "standard",
       "inVocab": true,
-      "senseAnchor": "標準",
+      "senseAnchor": "標準；場面：站立的尺度",
       "roleInScript": "站立的尺度",
       "humorDevice": "morphology",
       "zhGloss": "標準",
@@ -220,7 +220,7 @@
     {
       "headword": "statute",
       "inVocab": true,
-      "senseAnchor": "成文法",
+      "senseAnchor": "成文法；場面：寫成站穩的法",
       "roleInScript": "寫成站穩的法",
       "humorDevice": "lookalike",
       "zhGloss": "成文法",
@@ -248,6 +248,8 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "S3b"
+    "stage": "S3b",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

@@ -10,12 +10,12 @@
     {
       "headword": "jabber",
       "inVocab": true,
-      "senseAnchor": "rapid and indistinct speech; talk in a noisy, excited, or declamatory manner",
+      "senseAnchor": "快而不清楚的說",
       "roleInScript": "J席-快而不清",
       "humorDevice": "morphology",
       "zhGloss": "快而不清楚的說",
-      "speakLineEn": "Cue the J席-快而不清: jabber walks on and the gag sticks.",
-      "speakLineZh": "請「J席-快而不清」出場：jabber 一上場梗就黏住——快而不清楚的說。",
+      "speakLineEn": "A clear sense of jabber is crucial to understanding the argument.",
+      "speakLineZh": "快而不清楚的說。",
       "related": {
         "synonyms": "jabbering, gabble, rant, spout, rave",
         "antonyms": ""
@@ -25,12 +25,12 @@
     {
       "headword": "jaded",
       "inVocab": true,
-      "senseAnchor": "bored",
+      "senseAnchor": "厭倦的",
       "roleInScript": "J席-adj.",
       "humorDevice": "morphology",
-      "zhGloss": "adj. 厭倦的",
-      "speakLineEn": "Cue the J席-adj.: jaded walks on and the gag sticks.",
-      "speakLineZh": "請「J席-adj.」出場：jaded 一上場梗就黏住——adj. 厭倦的。",
+      "zhGloss": "厭倦的",
+      "speakLineEn": "My father's words had left me jaded and depressed.",
+      "speakLineZh": "厭倦的。",
       "related": {
         "synonyms": "tire, pall, weary, fatigue, jade, wear",
         "antonyms": "refresh"
@@ -40,12 +40,12 @@
     {
       "headword": "jargon",
       "inVocab": true,
-      "senseAnchor": "a characteristic language of a particular group (as among thieves); a colorless (or pale yellow or smoky) variety of zircon",
+      "senseAnchor": "術語；行話",
       "roleInScript": "J席-術語；行",
       "humorDevice": "morphology",
       "zhGloss": "術語；行話",
-      "speakLineEn": "Cue the J席-術語；行: jargon walks on and the gag sticks.",
-      "speakLineZh": "請「J席-術語；行」出場：jargon 一上場梗就黏住——術語；行話。",
+      "speakLineEn": "A clear sense of jargon is crucial to understanding the argument.",
+      "speakLineZh": "術語；行話。",
       "related": {
         "synonyms": "slang, cant, lingo, argot, patois, vernacular",
         "antonyms": "plain language"
@@ -55,12 +55,12 @@
     {
       "headword": "jaunty",
       "inVocab": true,
-      "senseAnchor": "marked by up-to-dateness in dress and manners; having a cheerful, lively, and self-confident air; - Frances G. Patton; - H.M.Reynolds",
+      "senseAnchor": "快樂的",
       "roleInScript": "J席-快樂的",
       "humorDevice": "morphology",
       "zhGloss": "快樂的",
-      "speakLineEn": "Cue the J席-快樂的: jaunty walks on and the gag sticks.",
-      "speakLineZh": "請「J席-快樂的」出場：jaunty 一上場梗就黏住——快樂的。",
+      "speakLineEn": "Walked with a jaunty step.",
+      "speakLineZh": "快樂的。",
       "related": {
         "synonyms": "dapper, dashing, natty, raffish, rakish, spiffy",
         "antonyms": ""
@@ -70,12 +70,12 @@
     {
       "headword": "jejune",
       "inVocab": true,
-      "senseAnchor": "boring",
+      "senseAnchor": "無聊的",
       "roleInScript": "J席-adj.",
       "humorDevice": "morphology",
-      "zhGloss": "adj. 無聊的",
-      "speakLineEn": "Cue the J席-adj.: jejune walks on and the gag sticks.",
-      "speakLineZh": "請「J席-adj.」出場：jejune 一上場梗就黏住——adj. 無聊的。",
+      "zhGloss": "無聊的",
+      "speakLineEn": "The jejune diets of the very poor.",
+      "speakLineZh": "無聊的。",
       "related": {
         "synonyms": "dull, monotonous, tedious, vapid, insipid",
         "antonyms": "bright, lively, sharp, sharpen, stimulating, flavorful, exciting"
@@ -85,12 +85,12 @@
     {
       "headword": "jingoism",
       "inVocab": true,
-      "senseAnchor": "an appeal intended to arouse patriotic emotions; fanatical patriotism",
+      "senseAnchor": "侵略主義",
       "roleInScript": "J席-侵略主義",
       "humorDevice": "morphology",
       "zhGloss": "侵略主義",
-      "speakLineEn": "Cue the J席-侵略主義: jingoism walks on and the gag sticks.",
-      "speakLineZh": "請「J席-侵略主義」出場：jingoism 一上場梗就黏住——侵略主義。",
+      "speakLineEn": "A clear sense of jingoism is crucial to understanding the argument.",
+      "speakLineZh": "侵略主義。",
       "related": {
         "synonyms": "chauvinism, superpatriotism, ultranationalism",
         "antonyms": ""
@@ -100,12 +100,12 @@
     {
       "headword": "jocular",
       "inVocab": true,
-      "senseAnchor": "characterized by jokes and good humor; with humor",
+      "senseAnchor": "歡樂的",
       "roleInScript": "J席-歡樂的",
       "humorDevice": "morphology",
       "zhGloss": "歡樂的",
-      "speakLineEn": "Cue the J席-歡樂的: jocular walks on and the gag sticks.",
-      "speakLineZh": "請「J席-歡樂的」出場：jocular 一上場梗就黏住——歡樂的。",
+      "speakLineEn": "His jocular explanation made the complex idea easier to follow.",
+      "speakLineZh": "歡樂的。",
       "related": {
         "synonyms": "jesting, jocose, joking, jocosely",
         "antonyms": ""
@@ -115,12 +115,12 @@
     {
       "headword": "jocund",
       "inVocab": true,
-      "senseAnchor": "full of or showing high-spirited merriment; ; - Wordsworth",
+      "senseAnchor": "快活的；高興的",
       "roleInScript": "J席-快活的；",
       "humorDevice": "morphology",
       "zhGloss": "快活的；高興的",
-      "speakLineEn": "Cue the J席-快活的；: jocund walks on and the gag sticks.",
-      "speakLineZh": "請「J席-快活的；」出場：jocund 一上場梗就黏住——快活的；高興的。",
+      "speakLineEn": "A poet could not but be gay, in such a jocund company.",
+      "speakLineZh": "快活的；高興的。",
       "related": {
         "synonyms": "gay, jolly, jovial, merry, mirthful",
         "antonyms": "immoderately, unreasonably, morose, gloomy"
@@ -130,12 +130,12 @@
     {
       "headword": "jolting",
       "inVocab": true,
-      "senseAnchor": "move or cause to move with a sudden jerky motion; disturb (someone's) composure",
+      "senseAnchor": "令人震驚的",
       "roleInScript": "J席-令人震驚",
       "humorDevice": "morphology",
       "zhGloss": "令人震驚的",
-      "speakLineEn": "Cue the J席-令人震驚: jolting walks on and the gag sticks.",
-      "speakLineZh": "請「J席-令人震驚」出場：jolting 一上場梗就黏住——令人震驚的。",
+      "speakLineEn": "In the end, they chose to jolting what they had once defended.",
+      "speakLineZh": "令人震驚的。",
       "related": {
         "synonyms": "jolt, jar, rough, rocky, bumpy, jolty",
         "antonyms": "smooth"
@@ -145,12 +145,12 @@
     {
       "headword": "jovial",
       "inVocab": true,
-      "senseAnchor": "full of or showing high-spirited merriment; ; - Wordsworth",
+      "senseAnchor": "快樂的",
       "roleInScript": "J席-快樂的",
       "humorDevice": "morphology",
       "zhGloss": "快樂的",
-      "speakLineEn": "Cue the J席-快樂的: jovial walks on and the gag sticks.",
-      "speakLineZh": "請「J席-快樂的」出場：jovial 一上場梗就黏住——快樂的。",
+      "speakLineEn": "A jovial old gentleman.",
+      "speakLineZh": "快樂的。",
       "related": {
         "synonyms": "gay, jocund, jolly, merry, mirthful",
         "antonyms": "morose, gloomy"
@@ -160,12 +160,12 @@
     {
       "headword": "jubilation",
       "inVocab": true,
-      "senseAnchor": "a feeling of extreme joy; a joyful occasion for special festivities to mark some happy event",
+      "senseAnchor": "歡樂的",
       "roleInScript": "J席-歡樂的",
       "humorDevice": "morphology",
       "zhGloss": "歡樂的",
-      "speakLineEn": "Cue the J席-歡樂的: jubilation walks on and the gag sticks.",
-      "speakLineZh": "請「J席-歡樂的」出場：jubilation 一上場梗就黏住——歡樂的。",
+      "speakLineEn": "A clear sense of jubilation is crucial to understanding the argument.",
+      "speakLineZh": "歡樂的。",
       "related": {
         "synonyms": "exultation, jubilance, jubilancy, celebration, rejoicing",
         "antonyms": ""
@@ -175,12 +175,12 @@
     {
       "headword": "juggernaut",
       "inVocab": true,
-      "senseAnchor": "a massive inexorable force that seems to crush everything in its way; an avatar of Vishnu",
+      "senseAnchor": "無法抗拒的力量",
       "roleInScript": "J席-無法抗拒",
       "humorDevice": "morphology",
       "zhGloss": "無法抗拒的力量",
-      "speakLineEn": "Cue the J席-無法抗拒: juggernaut walks on and the gag sticks.",
-      "speakLineZh": "請「J席-無法抗拒」出場：juggernaut 一上場梗就黏住——無法抗拒的力量。",
+      "speakLineEn": "A clear sense of juggernaut is crucial to understanding the argument.",
+      "speakLineZh": "無法抗拒的力量。",
       "related": {
         "synonyms": "steamroller, Jagannath, Jagannatha, Jagganath",
         "antonyms": ""
@@ -190,12 +190,12 @@
     {
       "headword": "jumble",
       "inVocab": true,
-      "senseAnchor": "a confused multitude of things; small flat ring-shaped cake or cookie",
+      "senseAnchor": "混雜",
       "roleInScript": "J席-混雜",
       "humorDevice": "morphology",
       "zhGloss": "混雜",
-      "speakLineEn": "Cue the J席-混雜: jumble walks on and the gag sticks.",
-      "speakLineZh": "請「J席-混雜」出場：jumble 一上場梗就黏住——混雜。",
+      "speakLineEn": "His words jumbled.",
+      "speakLineZh": "混雜。",
       "related": {
         "synonyms": "clutter, muddle, fuddle, welter, smother, jumbal",
         "antonyms": "unclutter"
@@ -205,12 +205,12 @@
     {
       "headword": "juvenile",
       "inVocab": true,
-      "senseAnchor": "a young person, not fully developed; of or relating to or characteristic of or appropriate for children or young people",
+      "senseAnchor": "青少年的；幼稚的",
       "roleInScript": "J席-青少年的",
       "humorDevice": "morphology",
       "zhGloss": "青少年的；幼稚的",
-      "speakLineEn": "Cue the J席-青少年的: juvenile walks on and the gag sticks.",
-      "speakLineZh": "請「J席-青少年的」出場：juvenile 一上場梗就黏住——青少年的；幼稚的。",
+      "speakLineEn": "Their behavior was juvenile.",
+      "speakLineZh": "青少年的；幼稚的。",
       "related": {
         "synonyms": "adolescent, jejune, puerile",
         "antonyms": "adult"
@@ -232,6 +232,9 @@
   "priority": "C",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P4-batch01"
+    "stage": "P4-batch01",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave2",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

@@ -10,7 +10,7 @@
     {
       "headword": "seminar",
       "inVocab": true,
-      "senseAnchor": "研討會",
+      "senseAnchor": "研討會；場面：溫室課",
       "roleInScript": "溫室課",
       "humorDevice": "morphology",
       "zhGloss": "研討會",
@@ -40,10 +40,10 @@
     {
       "headword": "seminal",
       "inVocab": true,
-      "senseAnchor": "creative and important",
+      "senseAnchor": "具有開創性的；種子的",
       "roleInScript": "種子級",
       "humorDevice": "morphology",
-      "zhGloss": "開創性的；種子的",
+      "zhGloss": "具有開創性的",
       "speakLineEn": "Call a paper seminal only after replication.",
       "speakLineZh": "複現後才稱論文開創。",
       "related": {
@@ -55,10 +55,10 @@
     {
       "headword": "disseminate",
       "inVocab": true,
-      "senseAnchor": "cause to become widely known",
+      "senseAnchor": "播散；傳播",
       "roleInScript": "撒種機",
       "humorDevice": "morphology",
-      "zhGloss": "散播；傳播",
+      "zhGloss": "播散；傳播",
       "speakLineEn": "Disseminate protocols with the preprint.",
       "speakLineZh": "與預印本一起散播規程。",
       "related": {
@@ -70,7 +70,7 @@
     {
       "headword": "dissemination",
       "inVocab": true,
-      "senseAnchor": "散播",
+      "senseAnchor": "散播；場面：撒種紀錄",
       "roleInScript": "撒種紀錄",
       "humorDevice": "morphology",
       "zhGloss": "散播",
@@ -160,10 +160,10 @@
     {
       "headword": "scatter",
       "inVocab": true,
-      "senseAnchor": "a haphazard distribution in all directions; the act of scattering",
+      "senseAnchor": "分散；場面：撒布圖",
       "roleInScript": "撒布圖",
       "humorDevice": "story",
-      "zhGloss": "撒布",
+      "zhGloss": "分散",
       "speakLineEn": "Scatterplots beat adjective storms.",
       "speakLineZh": "散佈圖勝過形容詞風暴。",
       "related": {
@@ -203,6 +203,8 @@
   "priority": "C",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch06"
+    "stage": "P2-batch06",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

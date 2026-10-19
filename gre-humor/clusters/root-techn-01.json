@@ -130,7 +130,7 @@
     {
       "headword": "tooling",
       "inVocab": false,
-      "senseAnchor": "工具鏈",
+      "senseAnchor": "工具鏈；場面：工具牆",
       "roleInScript": "工具牆",
       "humorDevice": "story",
       "zhGloss": "工具鏈",
@@ -145,7 +145,7 @@
     {
       "headword": "gadget",
       "inVocab": false,
-      "senseAnchor": "小裝置",
+      "senseAnchor": "小裝置；場面：小玩意",
       "roleInScript": "小玩意",
       "humorDevice": "story",
       "zhGloss": "小裝置",
@@ -188,6 +188,8 @@
   "priority": "C",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch06"
+    "stage": "P2-batch06",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

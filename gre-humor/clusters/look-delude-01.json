@@ -5,17 +5,17 @@
   "titleZh": "delude／deluge／divulge｜水與謊工作室",
   "titleEn": "Delude Studio",
   "hook": "delude 是騙你，deluge 是淹你，divulge 是洩漏——工作室三個噴嘴：謊言、洪水、祕密。",
-  "script": "delude＝欺騙。deluge＝洪水／大量湧來。divulge＝洩露。保全：別被騙、別被淹、別爆料。",
+  "script": "delude＝欺騙。deluge＝洪水／大量湧來。divulge＝洩露。保全：別被騙、別被淹、別爆料。形近對決：先分清語意軸，再對號入座。登場：delude（謊言噴）、deluge（洪水閥）、divulge（祕密閥）、flood（洪水）、secret（祕密）、leak（洩漏）。",
   "members": [
     {
       "headword": "delude",
       "inVocab": true,
-      "senseAnchor": "be false to; be dishonest with",
+      "senseAnchor": "欺騙；場面：謊言噴",
       "roleInScript": "謊言噴",
       "humorDevice": "lookalike",
       "zhGloss": "欺騙",
-      "speakLineEn": "Cue the 謊言噴: delude walks on and the gag sticks.",
-      "speakLineZh": "請「謊言噴」出場：delude 一上場梗就黏住——欺騙。",
+      "speakLineEn": "In the end, they chose to delude what they had once defended.",
+      "speakLineZh": "欺騙。",
       "related": {
         "synonyms": "deceive, cozen",
         "antonyms": "undeceive"
@@ -25,12 +25,12 @@
     {
       "headword": "deluge",
       "inVocab": true,
-      "senseAnchor": "an overwhelming number or amount; a heavy rain",
+      "senseAnchor": "大洪水；場面：洪水閥",
       "roleInScript": "洪水閥",
       "humorDevice": "lookalike",
-      "zhGloss": "洪水氾濫",
-      "speakLineEn": "Cue the 洪水閥: deluge walks on and the gag sticks.",
-      "speakLineZh": "請「洪水閥」出場：deluge 一上場梗就黏住——洪水氾濫。",
+      "zhGloss": "大洪水",
+      "speakLineEn": "A clear sense of deluge is crucial to understanding the argument.",
+      "speakLineZh": "大洪水。",
       "related": {
         "synonyms": "flood, inundation, torrent, downpour, cloudburst, waterspout",
         "antonyms": "ebbtide"
@@ -40,12 +40,12 @@
     {
       "headword": "divulge",
       "inVocab": true,
-      "senseAnchor": "make known to the public information that was previously known only to a few people or that was meant to be kept a secret",
+      "senseAnchor": "泄露；場面：祕密閥",
       "roleInScript": "祕密閥",
       "humorDevice": "lookalike",
-      "zhGloss": "洩露",
-      "speakLineEn": "Cue the 祕密閥: divulge walks on and the gag sticks.",
-      "speakLineZh": "請「祕密閥」出場：divulge 一上場梗就黏住——洩露。",
+      "zhGloss": "泄露",
+      "speakLineEn": "In the end, they chose to divulge what they had once defended.",
+      "speakLineZh": "泄露。",
       "related": {
         "synonyms": "unwrap, disclose, reveal, discover, expose, break",
         "antonyms": "wrap, cover, conform to, keep, make, promote, repair"
@@ -56,11 +56,11 @@
       "headword": "flood",
       "inVocab": false,
       "senseAnchor": "洪水",
-      "roleInScript": "洪水",
+      "roleInScript": "洪水角色",
       "humorDevice": "story",
       "zhGloss": "洪水",
-      "speakLineEn": "Cue the 洪水: flood walks on and the gag sticks.",
-      "speakLineZh": "請「洪水」出場：flood 一上場梗就黏住——洪水。",
+      "speakLineEn": "Hold the meaning steady: flood means 洪水.",
+      "speakLineZh": "記住考意：flood＝洪水。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -71,11 +71,11 @@
       "headword": "secret",
       "inVocab": false,
       "senseAnchor": "祕密",
-      "roleInScript": "祕密",
+      "roleInScript": "祕密角色",
       "humorDevice": "story",
       "zhGloss": "祕密",
-      "speakLineEn": "Cue the 祕密: secret walks on and the gag sticks.",
-      "speakLineZh": "請「祕密」出場：secret 一上場梗就黏住——祕密。",
+      "speakLineEn": "Critics argued that the policy would secret basic protections.",
+      "speakLineZh": "批評者主張該政策會祕密基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -86,11 +86,11 @@
       "headword": "leak",
       "inVocab": false,
       "senseAnchor": "洩漏",
-      "roleInScript": "洩漏",
+      "roleInScript": "洩漏角色",
       "humorDevice": "story",
       "zhGloss": "洩漏",
-      "speakLineEn": "Cue the 洩漏: leak walks on and the gag sticks.",
-      "speakLineZh": "請「洩漏」出場：leak 一上場梗就黏住——洩漏。",
+      "speakLineEn": "A careful reader links leak to 洩漏, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 leak 連到「洩漏」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -101,11 +101,11 @@
       "headword": "nozzle",
       "inVocab": false,
       "senseAnchor": "噴嘴",
-      "roleInScript": "噴嘴",
+      "roleInScript": "噴嘴角色",
       "humorDevice": "story",
       "zhGloss": "噴嘴",
-      "speakLineEn": "Cue the 噴嘴: nozzle walks on and the gag sticks.",
-      "speakLineZh": "請「噴嘴」出場：nozzle 一上場梗就黏住——噴嘴。",
+      "speakLineEn": "Hold the meaning steady: nozzle means 噴嘴.",
+      "speakLineZh": "記住考意：nozzle＝噴嘴。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -116,11 +116,11 @@
       "headword": "studio",
       "inVocab": false,
       "senseAnchor": "工作室",
-      "roleInScript": "工作室",
+      "roleInScript": "工作室角色",
       "humorDevice": "story",
       "zhGloss": "工作室",
-      "speakLineEn": "Cue the 工作室: studio walks on and the gag sticks.",
-      "speakLineZh": "請「工作室」出場：studio 一上場梗就黏住——工作室。",
+      "speakLineEn": "Hold the meaning steady: studio means 工作室.",
+      "speakLineZh": "記住考意：studio＝工作室。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -131,11 +131,11 @@
       "headword": "truth",
       "inVocab": false,
       "senseAnchor": "真相",
-      "roleInScript": "真相",
+      "roleInScript": "真相角色",
       "humorDevice": "story",
       "zhGloss": "真相",
-      "speakLineEn": "Cue the 真相: truth walks on and the gag sticks.",
-      "speakLineZh": "請「真相」出場：truth 一上場梗就黏住——真相。",
+      "speakLineEn": "A careful reader links truth to 真相, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 truth 連到「真相」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -146,11 +146,11 @@
       "headword": "alarm",
       "inVocab": false,
       "senseAnchor": "警報",
-      "roleInScript": "警報",
+      "roleInScript": "警報角色",
       "humorDevice": "story",
       "zhGloss": "警報",
-      "speakLineEn": "Cue the 警報: alarm walks on and the gag sticks.",
-      "speakLineZh": "請「警報」出場：alarm 一上場梗就黏住——警報。",
+      "speakLineEn": "In the passage, alarm signals a shift toward \"警報\".",
+      "speakLineZh": "文中 alarm 標示語氣轉向「警報」。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -172,6 +172,9 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P3-batch03"
+    "stage": "P3-batch03",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave2",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

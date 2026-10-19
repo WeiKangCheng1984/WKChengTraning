@@ -10,12 +10,12 @@
     {
       "headword": "cogitate",
       "inVocab": true,
-      "senseAnchor": "consider carefully and deeply; reflect upon; turn over in one's mind; use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments",
+      "senseAnchor": "沉思；場面：托腮",
       "roleInScript": "托腮",
       "humorDevice": "contrast",
       "zhGloss": "沉思",
-      "speakLineEn": "Cue the 托腮: cogitate walks on and the gag sticks.",
-      "speakLineZh": "請「托腮」出場：cogitate 一上場梗就黏住——沉思。",
+      "speakLineEn": "In the end, they chose to cogitate what they had once defended.",
+      "speakLineZh": "沉思。",
       "related": {
         "synonyms": "think, cerebrate",
         "antonyms": "forget"
@@ -25,12 +25,12 @@
     {
       "headword": "excogitate",
       "inVocab": true,
-      "senseAnchor": "come up with (an idea, plan, explanation, theory, or principle) after a mental effort; reflect deeply on a subject",
+      "senseAnchor": "認真思考；想出",
       "roleInScript": "靈感燈泡",
       "humorDevice": "contrast",
-      "zhGloss": "想出",
-      "speakLineEn": "Cue the 靈感燈泡: excogitate walks on and the gag sticks.",
-      "speakLineZh": "請「靈感燈泡」出場：excogitate 一上場梗就黏住——想出。",
+      "zhGloss": "認真思考",
+      "speakLineEn": "The scientist must stop to observe and start to excogitate.",
+      "speakLineZh": "認真思考。",
       "related": {
         "synonyms": "invent, contrive, devise, formulate, forge, meditate",
         "antonyms": ""
@@ -40,12 +40,12 @@
     {
       "headword": "envisage",
       "inVocab": true,
-      "senseAnchor": "form a mental image of something that is not present or that is not the case",
+      "senseAnchor": "設想；場面：藍圖脑",
       "roleInScript": "藍圖脑",
       "humorDevice": "contrast",
       "zhGloss": "設想",
-      "speakLineEn": "Cue the 藍圖脑: envisage walks on and the gag sticks.",
-      "speakLineZh": "請「藍圖脑」出場：envisage 一上場梗就黏住——設想。",
+      "speakLineEn": "In the end, they chose to envisage what they had once defended.",
+      "speakLineZh": "設想。",
       "related": {
         "synonyms": "imagine, ideate",
         "antonyms": ""
@@ -55,12 +55,12 @@
     {
       "headword": "chimera",
       "inVocab": true,
-      "senseAnchor": "an impossible idea or hope",
+      "senseAnchor": "幻想；場面：想像獸",
       "roleInScript": "想像獸",
       "humorDevice": "contrast",
       "zhGloss": "幻想",
-      "speakLineEn": "Cue the 想像獸: chimera walks on and the gag sticks.",
-      "speakLineZh": "請「想像獸」出場：chimera 一上場梗就黏住——幻想。",
+      "speakLineEn": "In academic English, writers may refer to the religious unity remains as much a chimera as ever.",
+      "speakLineZh": "幻想。",
       "related": {
         "synonyms": "fantasy, delusion, hallucination, illusion",
         "antonyms": ""
@@ -70,12 +70,12 @@
     {
       "headword": "conjure",
       "inVocab": true,
-      "senseAnchor": "to form a mental picture of",
+      "senseAnchor": "在腦海中浮現；想起",
       "roleInScript": "魔術手",
       "humorDevice": "contrast",
-      "zhGloss": "想起變出",
-      "speakLineEn": "Cue the 魔術手: conjure walks on and the gag sticks.",
-      "speakLineZh": "請「魔術手」出場：conjure 一上場梗就黏住——想起變出。",
+      "zhGloss": "在腦海中浮現；想起",
+      "speakLineEn": "He conjured wild birds in the air.",
+      "speakLineZh": "在腦海中浮現，想起。",
       "related": {
         "synonyms": "image, envisage",
         "antonyms": ""
@@ -85,12 +85,12 @@
     {
       "headword": "deliberate",
       "inVocab": true,
-      "senseAnchor": "decide on as a result of careful thought",
+      "senseAnchor": "/v. 深思熟慮的；／v. 深思熟慮的",
       "roleInScript": "慢思考",
       "humorDevice": "contrast",
-      "zhGloss": "深思熟慮的",
-      "speakLineEn": "Cue the 慢思考: deliberate walks on and the gag sticks.",
-      "speakLineZh": "請「慢思考」出場：deliberate 一上場梗就黏住——深思熟慮的。",
+      "zhGloss": "/v. 深思熟慮的",
+      "speakLineEn": "With all deliberate speed.",
+      "speakLineZh": "深思熟慮的。",
       "related": {
         "synonyms": "ponderable, measured, thoughtful",
         "antonyms": "imponderable, heedless, thoughtless"
@@ -100,12 +100,12 @@
     {
       "headword": "cogitant",
       "inVocab": true,
-      "senseAnchor": "a GRE-level vocabulary item meaning closely related to its core sense in academic English",
+      "senseAnchor": "深思熟慮的；沉思的",
       "roleInScript": "沉思帽",
       "humorDevice": "contrast",
-      "zhGloss": "沉思的",
-      "speakLineEn": "Cue the 沉思帽: cogitant walks on and the gag sticks.",
-      "speakLineZh": "請「沉思帽」出場：cogitant 一上場梗就黏住——沉思的。",
+      "zhGloss": "深思熟慮的",
+      "speakLineEn": "A clear sense of cogitant is crucial to understanding the argument.",
+      "speakLineZh": "深思熟慮的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -119,8 +119,8 @@
       "roleInScript": "反芻杯",
       "humorDevice": "contrast",
       "zhGloss": "反芻思考",
-      "speakLineEn": "Cue the 反芻杯: rumination walks on and the gag sticks.",
-      "speakLineZh": "請「反芻杯」出場：rumination 一上場梗就黏住——反芻思考。",
+      "speakLineEn": "On the exam, rumination most nearly means a sense of \"反芻思考\".",
+      "speakLineZh": "反芻思考。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -130,12 +130,12 @@
     {
       "headword": "muse",
       "inVocab": true,
-      "senseAnchor": "in ancient Greek mythology any of 9 daughters of Zeus and Mnemosyne; protector of an art or science; the source of an artist's inspiration",
+      "senseAnchor": "沉思；場面：望窗想",
       "roleInScript": "望窗想",
       "humorDevice": "contrast",
-      "zhGloss": "冥想",
-      "speakLineEn": "Cue the 望窗想: muse walks on and the gag sticks.",
-      "speakLineZh": "請「望窗想」出場：muse 一上場梗就黏住——冥想。",
+      "zhGloss": "沉思",
+      "speakLineEn": "Euterpe was his muse.",
+      "speakLineZh": "沉思。",
       "related": {
         "synonyms": "meditate, ponder, excogitate, contemplate, reflect, mull",
         "antonyms": ""
@@ -145,12 +145,12 @@
     {
       "headword": "speculate",
       "inVocab": true,
-      "senseAnchor": "make guesses about something",
+      "senseAnchor": "推測；場面：假設牌",
       "roleInScript": "假設牌",
       "humorDevice": "contrast",
       "zhGloss": "推測",
-      "speakLineEn": "Cue the 假設牌: speculate walks on and the gag sticks.",
-      "speakLineZh": "請「假設牌」出場：speculate 一上場梗就黏住——推測。",
+      "speakLineEn": "Speculate appears here: I bought this house not because I want to live in it but to sell it later at a good price, so I am speculating.",
+      "speakLineZh": "推測。",
       "related": {
         "synonyms": "conjecture",
         "antonyms": ""
@@ -160,12 +160,12 @@
     {
       "headword": "introspection",
       "inVocab": true,
-      "senseAnchor": "the process of examining your own thoughts or feelings",
+      "senseAnchor": "自我反省；內省",
       "roleInScript": "鏡子想",
       "humorDevice": "contrast",
-      "zhGloss": "內省",
-      "speakLineEn": "Cue the 鏡子想: introspection walks on and the gag sticks.",
-      "speakLineZh": "請「鏡子想」出場：introspection 一上場梗就黏住——內省。",
+      "zhGloss": "自我反省",
+      "speakLineEn": "The debate focused on a moment of quiet introspection.",
+      "speakLineZh": "自我反省。",
       "related": {
         "synonyms": "self-contemplation, self-examination",
         "antonyms": ""
@@ -176,11 +176,11 @@
       "headword": "whiteboard",
       "inVocab": false,
       "senseAnchor": "白板",
-      "roleInScript": "白板",
+      "roleInScript": "白板角色",
       "humorDevice": "story",
       "zhGloss": "白板",
-      "speakLineEn": "Cue the 白板: whiteboard walks on and the gag sticks.",
-      "speakLineZh": "請「白板」出場：whiteboard 一上場梗就黏住——白板。",
+      "speakLineEn": "In the passage, whiteboard signals a shift toward \"白板\".",
+      "speakLineZh": "文中 whiteboard 標示語氣轉向「白板」。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -192,11 +192,11 @@
       "headword": "lab",
       "inVocab": false,
       "senseAnchor": "實驗室",
-      "roleInScript": "實驗室",
+      "roleInScript": "實驗室角色",
       "humorDevice": "story",
       "zhGloss": "實驗室",
-      "speakLineEn": "Cue the 實驗室: lab walks on and the gag sticks.",
-      "speakLineZh": "請「實驗室」出場：lab 一上場梗就黏住——實驗室。",
+      "speakLineEn": "In the passage, lab signals a shift toward \"實驗室\".",
+      "speakLineZh": "文中 lab 標示語氣轉向「實驗室」。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -208,11 +208,11 @@
       "headword": "monster",
       "inVocab": false,
       "senseAnchor": "怪獸",
-      "roleInScript": "怪獸",
+      "roleInScript": "怪獸角色",
       "humorDevice": "story",
       "zhGloss": "怪獸",
-      "speakLineEn": "Cue the 怪獸: monster walks on and the gag sticks.",
-      "speakLineZh": "請「怪獸」出場：monster 一上場梗就黏住——怪獸。",
+      "speakLineEn": "Hold the meaning steady: monster means 怪獸.",
+      "speakLineZh": "記住考意：monster＝怪獸。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -224,11 +224,11 @@
       "headword": "bulb",
       "inVocab": false,
       "senseAnchor": "燈泡",
-      "roleInScript": "燈泡",
+      "roleInScript": "燈泡角色",
       "humorDevice": "story",
       "zhGloss": "燈泡",
-      "speakLineEn": "Cue the 燈泡: bulb walks on and the gag sticks.",
-      "speakLineZh": "請「燈泡」出場：bulb 一上場梗就黏住——燈泡。",
+      "speakLineEn": "In the passage, bulb signals a shift toward \"燈泡\".",
+      "speakLineZh": "文中 bulb 標示語氣轉向「燈泡」。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -251,6 +251,9 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P4-batch01"
+    "stage": "P4-batch01",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave2",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

@@ -10,10 +10,10 @@
     {
       "headword": "panorama",
       "inVocab": true,
-      "senseAnchor": "the visual percept of a region; a picture (or series of pictures) representing a continuous scene",
+      "senseAnchor": "全景；概觀",
       "roleInScript": "全景窗",
       "humorDevice": "morphology",
-      "zhGloss": "全景；概觀",
+      "zhGloss": "全景",
       "speakLineEn": "Give a panorama of limitations, not a footnote.",
       "speakLineZh": "給限制全景，不是腳註。",
       "related": {
@@ -40,7 +40,7 @@
     {
       "headword": "panacea",
       "inVocab": true,
-      "senseAnchor": "a remedy for all ills or difficulties",
+      "senseAnchor": "萬靈藥；場面：萬能藥攤",
       "roleInScript": "萬能藥攤",
       "humorDevice": "morphology",
       "zhGloss": "萬靈藥",
@@ -55,10 +55,10 @@
     {
       "headword": "pandemonium",
       "inVocab": true,
-      "senseAnchor": "a state of extreme confusion and disorder",
+      "senseAnchor": "大混亂",
       "roleInScript": "混亂殿",
       "humorDevice": "morphology",
-      "zhGloss": "大混亂",
+      "zhGloss": "混亂",
       "speakLineEn": "Unlogged changes create analytic pandemonium.",
       "speakLineZh": "未記錄變更造成分析大混亂。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "pantomime",
       "inVocab": true,
-      "senseAnchor": "a performance using gestures and body movements without words; act out without words but with gestures and bodily movements only",
+      "senseAnchor": "啞劇；場面：默劇場",
       "roleInScript": "默劇場",
       "humorDevice": "morphology",
-      "zhGloss": "默劇；手勢戲",
+      "zhGloss": "啞劇",
       "speakLineEn": "Do not pantomime significance without numbers.",
       "speakLineZh": "別用手勢默劇表演顯著性。",
       "related": {
@@ -130,10 +130,10 @@
     {
       "headword": "wholesale",
       "inVocab": true,
-      "senseAnchor": "the selling of goods to merchants; usually in large quantities for resale to consumers; sell in large quantities",
+      "senseAnchor": "批發的；全面的",
       "roleInScript": "批發砍",
       "humorDevice": "story",
-      "zhGloss": "批發；全面的",
+      "zhGloss": "批發的",
       "speakLineEn": "Wholesale dropping of outliers needs rules.",
       "speakLineZh": "批發丟掉離群需要規則。",
       "related": {
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch05"
+    "stage": "P2-batch05",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

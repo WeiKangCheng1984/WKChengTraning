@@ -14,8 +14,8 @@
       "roleInScript": "坦率麥",
       "humorDevice": "contrast",
       "zhGloss": "坦率",
-      "speakLineEn": "Cue the 坦率麥: frank walks on and the gag sticks.",
-      "speakLineZh": "請「坦率麥」出場：frank 一上場梗就黏住——坦率。",
+      "speakLineEn": "On the exam, frank most nearly means a sense of \"坦率\".",
+      "speakLineZh": "坦率。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -25,12 +25,12 @@
     {
       "headword": "artless",
       "inVocab": true,
-      "senseAnchor": "characterized by an inability to mask your feelings; not devious; simple and natural; without cunning or deceit",
+      "senseAnchor": "淳樸的；自然的",
       "roleInScript": "無偽",
       "humorDevice": "contrast",
-      "zhGloss": "樸實無偽",
-      "speakLineEn": "Cue the 無偽: artless walks on and the gag sticks.",
-      "speakLineZh": "請「無偽」出場：artless 一上場梗就黏住——樸實無偽。",
+      "zhGloss": "淳樸的；自然的",
+      "speakLineEn": "An artless translation.",
+      "speakLineZh": "淳樸的；自然的。",
       "related": {
         "synonyms": "ingenuous, uncultivated, uncultured",
         "antonyms": "artful, disingenuous"
@@ -40,12 +40,12 @@
     {
       "headword": "aboveboard",
       "inVocab": true,
-      "senseAnchor": "open, honest and legal",
+      "senseAnchor": "光明正大的",
       "roleInScript": "正大桌",
       "humorDevice": "contrast",
-      "zhGloss": "光明正大",
-      "speakLineEn": "Cue the 正大桌: aboveboard walks on and the gag sticks.",
-      "speakLineZh": "請「正大桌」出場：aboveboard 一上場梗就黏住——光明正大。",
+      "zhGloss": "光明正大的",
+      "speakLineEn": "Was known for dealing aboveboard in everything.",
+      "speakLineZh": "光明正大的。",
       "related": {
         "synonyms": "straightforward, honestly",
         "antonyms": "dishonestly"
@@ -55,12 +55,12 @@
     {
       "headword": "duplicitous",
       "inVocab": true,
-      "senseAnchor": "marked by deliberate deceptiveness especially by pretending one set of feelings and acting under the influence of another; - Israel Zangwill; ; - W.M.Thackeray",
+      "senseAnchor": "欺騙的；兩面派的",
       "roleInScript": "雙面",
       "humorDevice": "contrast",
-      "zhGloss": "口是心非",
-      "speakLineEn": "Cue the 雙面: duplicitous walks on and the gag sticks.",
-      "speakLineZh": "請「雙面」出場：duplicitous 一上場梗就黏住——口是心非。",
+      "zhGloss": "欺騙的；兩面派的",
+      "speakLineEn": "The critic noted her duplicitous approach to the evidence.",
+      "speakLineZh": "欺騙的；兩面派的。",
       "related": {
         "synonyms": "ambidextrous, deceitful, double-dealing, Janus-faced, two-faced, double-faced",
         "antonyms": "honest, candid"
@@ -70,12 +70,12 @@
     {
       "headword": "underhanded",
       "inVocab": true,
-      "senseAnchor": "marked by deception; with hand brought forward and up from below shoulder level",
+      "senseAnchor": "神祕的；狡詐的",
       "roleInScript": "暗手下",
       "humorDevice": "contrast",
-      "zhGloss": "卑鄙暗中",
-      "speakLineEn": "Cue the 暗手下: underhanded walks on and the gag sticks.",
-      "speakLineZh": "請「暗手下」出場：underhanded 一上場梗就黏住——卑鄙暗中。",
+      "zhGloss": "神祕的；狡詐的",
+      "speakLineEn": "The critic noted her underhanded approach to the evidence.",
+      "speakLineZh": "神祕的；狡詐的。",
       "related": {
         "synonyms": "sneaky, underhand, underarm",
         "antonyms": "overhand"
@@ -89,8 +89,8 @@
       "roleInScript": "狡猾狐",
       "humorDevice": "contrast",
       "zhGloss": "狡猾",
-      "speakLineEn": "Cue the 狡猾狐: sly walks on and the gag sticks.",
-      "speakLineZh": "請「狡猾狐」出場：sly 一上場梗就黏住——狡猾。",
+      "speakLineEn": "Critics argued that the policy would sly basic protections.",
+      "speakLineZh": "批評者主張該政策會狡猾基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -101,11 +101,11 @@
       "headword": "truthserum",
       "inVocab": true,
       "senseAnchor": "吐實",
-      "roleInScript": "吐實",
+      "roleInScript": "吐實角色",
       "humorDevice": "story",
       "zhGloss": "吐實",
-      "speakLineEn": "Cue the 吐實: truthserum walks on and the gag sticks.",
-      "speakLineZh": "請「吐實」出場：truthserum 一上場梗就黏住——吐實。",
+      "speakLineEn": "On the exam, truthserum most nearly means a sense of \"吐實\".",
+      "speakLineZh": "吐實。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -116,11 +116,11 @@
       "headword": "smokebomb",
       "inVocab": true,
       "senseAnchor": "煙霧彈",
-      "roleInScript": "煙霧彈",
+      "roleInScript": "煙霧彈角色",
       "humorDevice": "story",
       "zhGloss": "煙霧彈",
-      "speakLineEn": "Cue the 煙霧彈: smokebomb walks on and the gag sticks.",
-      "speakLineZh": "請「煙霧彈」出場：smokebomb 一上場梗就黏住——煙霧彈。",
+      "speakLineEn": "On the exam, smokebomb most nearly means a sense of \"煙霧彈\".",
+      "speakLineZh": "煙霧彈。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -131,11 +131,11 @@
       "headword": "handshake",
       "inVocab": true,
       "senseAnchor": "握手",
-      "roleInScript": "握手",
+      "roleInScript": "握手角色",
       "humorDevice": "story",
       "zhGloss": "握手",
-      "speakLineEn": "Cue the 握手: handshake walks on and the gag sticks.",
-      "speakLineZh": "請「握手」出場：handshake 一上場梗就黏住——握手。",
+      "speakLineEn": "On the exam, handshake most nearly means a sense of \"握手\".",
+      "speakLineZh": "握手。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -146,11 +146,11 @@
       "headword": "pokerface",
       "inVocab": true,
       "senseAnchor": "撲克臉",
-      "roleInScript": "撲克臉",
+      "roleInScript": "撲克臉角色",
       "humorDevice": "story",
       "zhGloss": "撲克臉",
-      "speakLineEn": "Cue the 撲克臉: pokerface walks on and the gag sticks.",
-      "speakLineZh": "請「撲克臉」出場：pokerface 一上場梗就黏住——撲克臉。",
+      "speakLineEn": "On the exam, pokerface most nearly means a sense of \"撲克臉\".",
+      "speakLineZh": "撲克臉。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -160,12 +160,12 @@
     {
       "headword": "opensource",
       "inVocab": true,
-      "senseAnchor": "開源心",
+      "senseAnchor": "開源心；場面：開源",
       "roleInScript": "開源",
       "humorDevice": "story",
       "zhGloss": "開源心",
-      "speakLineEn": "Cue the 開源: opensource walks on and the gag sticks.",
-      "speakLineZh": "請「開源」出場：opensource 一上場梗就黏住——開源心。",
+      "speakLineEn": "On the exam, opensource most nearly means a sense of \"開源心\".",
+      "speakLineZh": "開源心。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -176,11 +176,11 @@
       "headword": "trapdoor",
       "inVocab": true,
       "senseAnchor": "暗門",
-      "roleInScript": "暗門",
+      "roleInScript": "暗門角色",
       "humorDevice": "story",
       "zhGloss": "暗門",
-      "speakLineEn": "Cue the 暗門: trapdoor walks on and the gag sticks.",
-      "speakLineZh": "請「暗門」出場：trapdoor 一上場梗就黏住——暗門。",
+      "speakLineEn": "On the exam, trapdoor most nearly means a sense of \"暗門\".",
+      "speakLineZh": "暗門。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -191,11 +191,11 @@
       "headword": "fib",
       "inVocab": false,
       "senseAnchor": "小謊",
-      "roleInScript": "小謊",
+      "roleInScript": "小謊角色",
       "humorDevice": "story",
       "zhGloss": "小謊",
-      "speakLineEn": "Cue the 小謊: fib walks on and the gag sticks.",
-      "speakLineZh": "請「小謊」出場：fib 一上場梗就黏住——小謊。",
+      "speakLineEn": "A careful reader links fib to 小謊, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 fib 連到「小謊」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -206,11 +206,11 @@
       "headword": "maskoff",
       "inVocab": true,
       "senseAnchor": "摘面具",
-      "roleInScript": "摘面具",
+      "roleInScript": "摘面具角色",
       "humorDevice": "story",
       "zhGloss": "摘面具",
-      "speakLineEn": "Cue the 摘面具: maskoff walks on and the gag sticks.",
-      "speakLineZh": "請「摘面具」出場：maskoff 一上場梗就黏住——摘面具。",
+      "speakLineEn": "On the exam, maskoff most nearly means a sense of \"摘面具\".",
+      "speakLineZh": "摘面具。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -224,8 +224,8 @@
       "roleInScript": "聚光",
       "humorDevice": "story",
       "zhGloss": "聚光燈2",
-      "speakLineEn": "Cue the 聚光: spotlight2 walks on and the gag sticks.",
-      "speakLineZh": "請「聚光」出場：spotlight2 一上場梗就黏住——聚光燈2。",
+      "speakLineEn": "On the exam, spotlight2 most nearly means a sense of \"聚光燈2\".",
+      "speakLineZh": "聚光燈2。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -235,12 +235,12 @@
     {
       "headword": "receipt2",
       "inVocab": true,
-      "senseAnchor": "收據2",
+      "senseAnchor": "收據2；場面：收據",
       "roleInScript": "收據",
       "humorDevice": "story",
       "zhGloss": "收據2",
-      "speakLineEn": "Cue the 收據: receipt2 walks on and the gag sticks.",
-      "speakLineZh": "請「收據」出場：receipt2 一上場梗就黏住——收據2。",
+      "speakLineEn": "On the exam, receipt2 most nearly means a sense of \"收據2\".",
+      "speakLineZh": "收據2。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -251,11 +251,11 @@
       "headword": "lie",
       "inVocab": false,
       "senseAnchor": "謊言",
-      "roleInScript": "謊言",
+      "roleInScript": "謊言角色",
       "humorDevice": "story",
       "zhGloss": "謊言",
-      "speakLineEn": "Cue the 謊言: lie walks on and the gag sticks.",
-      "speakLineZh": "請「謊言」出場：lie 一上場梗就黏住——謊言。",
+      "speakLineEn": "Critics argued that the policy would lie basic protections.",
+      "speakLineZh": "批評者主張該政策會謊言基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -266,11 +266,11 @@
       "headword": "vow",
       "inVocab": false,
       "senseAnchor": "誓言",
-      "roleInScript": "誓言",
+      "roleInScript": "誓言角色",
       "humorDevice": "story",
       "zhGloss": "誓言",
-      "speakLineEn": "Cue the 誓言: vow walks on and the gag sticks.",
-      "speakLineZh": "請「誓言」出場：vow 一上場梗就黏住——誓言。",
+      "speakLineEn": "Hold the meaning steady: vow means 誓言.",
+      "speakLineZh": "記住考意：vow＝誓言。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -280,12 +280,12 @@
     {
       "headword": "whisper2",
       "inVocab": true,
-      "senseAnchor": "低語2",
+      "senseAnchor": "低語2；場面：低語",
       "roleInScript": "低語",
       "humorDevice": "story",
       "zhGloss": "低語2",
-      "speakLineEn": "Cue the 低語: whisper2 walks on and the gag sticks.",
-      "speakLineZh": "請「低語」出場：whisper2 一上場梗就黏住——低語2。",
+      "speakLineEn": "On the exam, whisper2 most nearly means a sense of \"低語2\".",
+      "speakLineZh": "低語2。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -299,8 +299,8 @@
       "roleInScript": "鏡頭",
       "humorDevice": "story",
       "zhGloss": "鏡頭監視",
-      "speakLineEn": "Cue the 鏡頭: camera walks on and the gag sticks.",
-      "speakLineZh": "請「鏡頭」出場：camera 一上場梗就黏住——鏡頭監視。",
+      "speakLineEn": "On the exam, camera most nearly means a sense of \"鏡頭監視\".",
+      "speakLineZh": "鏡頭監視。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -314,8 +314,8 @@
       "roleInScript": "不在場",
       "humorDevice": "story",
       "zhGloss": "不在場證明",
-      "speakLineEn": "Cue the 不在場: alibi walks on and the gag sticks.",
-      "speakLineZh": "請「不在場」出場：alibi 一上場梗就黏住——不在場證明。",
+      "speakLineEn": "On the exam, alibi most nearly means a sense of \"不在場證明\".",
+      "speakLineZh": "不在場證明。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -326,11 +326,11 @@
       "headword": "seal",
       "inVocab": true,
       "senseAnchor": "封條",
-      "roleInScript": "封條",
+      "roleInScript": "封條角色",
       "humorDevice": "story",
       "zhGloss": "封條",
-      "speakLineEn": "Cue the 封條: seal walks on and the gag sticks.",
-      "speakLineZh": "請「封條」出場：seal 一上場梗就黏住——封條。",
+      "speakLineEn": "On the exam, seal most nearly means a sense of \"封條\".",
+      "speakLineZh": "封條。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -341,11 +341,11 @@
       "headword": "glassbox",
       "inVocab": true,
       "senseAnchor": "玻璃箱",
-      "roleInScript": "玻璃箱",
+      "roleInScript": "玻璃箱角色",
       "humorDevice": "story",
       "zhGloss": "玻璃箱",
-      "speakLineEn": "Cue the 玻璃箱: glassbox walks on and the gag sticks.",
-      "speakLineZh": "請「玻璃箱」出場：glassbox 一上場梗就黏住——玻璃箱。",
+      "speakLineEn": "On the exam, glassbox most nearly means a sense of \"玻璃箱\".",
+      "speakLineZh": "玻璃箱。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -368,6 +368,9 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P3-batch02"
+    "stage": "P3-batch02",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave1",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

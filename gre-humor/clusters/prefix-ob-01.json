@@ -10,10 +10,10 @@
     {
       "headword": "obtrusive",
       "inVocab": true,
-      "senseAnchor": "noticeable in an unpleasant way",
+      "senseAnchor": "突兀的；辣眼睛的",
       "roleInScript": "擋在眼前",
       "humorDevice": "morphology",
-      "zhGloss": "突出礙眼的；強加的",
+      "zhGloss": "突兀的；辣眼睛的",
       "speakLineEn": "Watermarks should not be obtrusive on figures.",
       "speakLineZh": "浮水印不該在圖上礙眼。",
       "related": {
@@ -25,10 +25,10 @@
     {
       "headword": "obliterate",
       "inVocab": true,
-      "senseAnchor": "to remove from existence",
+      "senseAnchor": "消除；場面：迎面抹掉",
       "roleInScript": "迎面抹掉",
       "humorDevice": "morphology",
-      "zhGloss": "塗抹；消滅",
+      "zhGloss": "消除",
       "speakLineEn": "Do not obliterate raw logs after analysis.",
       "speakLineZh": "分析後不要抹掉原始日誌。",
       "related": {
@@ -40,10 +40,10 @@
     {
       "headword": "obligatory",
       "inVocab": true,
-      "senseAnchor": "morally or legally constraining or binding; required by obligation or compulsion or convention",
+      "senseAnchor": "強迫的；義務的",
       "roleInScript": "擋路必過",
       "humorDevice": "morphology",
-      "zhGloss": "義務的；必須的",
+      "zhGloss": "強迫的；義務的",
       "speakLineEn": "Conflict disclosure is obligatory.",
       "speakLineZh": "利益衝突揭露是義務。",
       "related": {
@@ -55,10 +55,10 @@
     {
       "headword": "oblique",
       "inVocab": true,
-      "senseAnchor": "any grammatical case other than the nominative; a diagonally arranged abdominal muscle on either side of the torso",
+      "senseAnchor": "傾斜的；場面：斜著迎",
       "roleInScript": "斜著迎",
       "humorDevice": "morphology",
-      "zhGloss": "斜的；間接的",
+      "zhGloss": "傾斜的",
       "speakLineEn": "Oblique criticism still needs examples.",
       "speakLineZh": "間接批評仍需例子。",
       "related": {
@@ -70,7 +70,7 @@
     {
       "headword": "obstinate",
       "inVocab": true,
-      "senseAnchor": "refusing to change your opinions",
+      "senseAnchor": "固執的；場面：硬擋不讓",
       "roleInScript": "硬擋不讓",
       "humorDevice": "morphology",
       "zhGloss": "固執的",
@@ -85,10 +85,10 @@
     {
       "headword": "obviate",
       "inVocab": true,
-      "senseAnchor": "to prevent or avoid",
+      "senseAnchor": "避免；排除",
       "roleInScript": "先把障礙搬走",
       "humorDevice": "morphology",
-      "zhGloss": "排除；使不必要",
+      "zhGloss": "避免；排除",
       "speakLineEn": "Checklists obviate some recurring errors.",
       "speakLineZh": "檢核表排除部分反覆錯誤。",
       "related": {
@@ -100,10 +100,10 @@
     {
       "headword": "obnoxious",
       "inVocab": true,
-      "senseAnchor": "causing disapproval or protest",
+      "senseAnchor": "討厭的；場面：擋臉惹人厭",
       "roleInScript": "擋臉惹人厭",
       "humorDevice": "morphology",
-      "zhGloss": "討厭的；可憎的",
+      "zhGloss": "討厭的",
       "speakLineEn": "Obnoxious tone sinks valid critique.",
       "speakLineZh": "討厭語氣毁掉有效批評。",
       "related": {
@@ -115,7 +115,7 @@
     {
       "headword": "obligation",
       "inVocab": false,
-      "senseAnchor": "義務",
+      "senseAnchor": "義務；場面：必須扛",
       "roleInScript": "必須扛",
       "humorDevice": "story",
       "zhGloss": "義務",
@@ -143,6 +143,8 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P1-batch02"
+    "stage": "P1-batch02",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

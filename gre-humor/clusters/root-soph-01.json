@@ -10,7 +10,7 @@
     {
       "headword": "sophistry",
       "inVocab": true,
-      "senseAnchor": "詭辯",
+      "senseAnchor": "詭辯；場面：狡辯智慧",
       "roleInScript": "狡辯智慧",
       "humorDevice": "morphology",
       "zhGloss": "詭辯",
@@ -25,7 +25,7 @@
     {
       "headword": "sophist",
       "inVocab": true,
-      "senseAnchor": "any of a group of Greek philosophers and teachers in the 5th century BC who speculated on a wide range of subjects; someone whose reasoning is subtle and often specious",
+      "senseAnchor": "詭辯家；場面：職業狡辯",
       "roleInScript": "職業狡辯",
       "humorDevice": "morphology",
       "zhGloss": "詭辯家",
@@ -85,7 +85,7 @@
     {
       "headword": "philosophy club",
       "inVocab": false,
-      "senseAnchor": "哲學社",
+      "senseAnchor": "哲學社；場面：愛智鄰居",
       "roleInScript": "愛智鄰居",
       "humorDevice": "story",
       "zhGloss": "哲學社",
@@ -130,10 +130,10 @@
     {
       "headword": "fallacy",
       "inVocab": true,
-      "senseAnchor": "a wrong belief",
+      "senseAnchor": "錯誤；謬論",
       "roleInScript": "辯論犯規",
       "humorDevice": "story",
-      "zhGloss": "謬誤",
+      "zhGloss": "錯誤；謬論",
       "speakLineEn": "Name the fallacy in the causal leap.",
       "speakLineZh": "點名因果跳躍的謬誤。",
       "related": {
@@ -145,10 +145,10 @@
     {
       "headword": "rhetoric",
       "inVocab": true,
-      "senseAnchor": "using language effectively to please or persuade; high-flown style; excessive use of verbal ornamentation",
+      "senseAnchor": "修辭的；場面：辯論包裝",
       "roleInScript": "辯論包裝",
       "humorDevice": "story",
-      "zhGloss": "修辭",
+      "zhGloss": "修辭的",
       "speakLineEn": "Rhetoric cannot replace robustness.",
       "speakLineZh": "修辭不能取代穩健。",
       "related": {
@@ -173,6 +173,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P2-batch02"
+    "stage": "P2-batch02",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

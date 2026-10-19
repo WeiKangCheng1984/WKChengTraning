@@ -40,7 +40,7 @@
     {
       "headword": "sense",
       "inVocab": true,
-      "senseAnchor": "感官；意義；道理",
+      "senseAnchor": "感官；意義",
       "roleInScript": "感覺／意義",
       "humorDevice": "story",
       "zhGloss": "感官；意義；道理",
@@ -70,7 +70,7 @@
     {
       "headword": "sensitive",
       "inVocab": true,
-      "senseAnchor": "敏感的",
+      "senseAnchor": "敏感的；場面：易感",
       "roleInScript": "易感",
       "humorDevice": "morphology",
       "zhGloss": "敏感的",
@@ -100,10 +100,10 @@
     {
       "headword": "resent",
       "inVocab": true,
-      "senseAnchor": "feel bitter or indignant about; wish ill or allow unwillingly",
+      "senseAnchor": "怨恨；場面：越想越氣的感",
       "roleInScript": "越想越氣的感",
       "humorDevice": "morphology",
-      "zhGloss": "憤恨",
+      "zhGloss": "怨恨",
       "speakLineEn": "Teams resent uncredited labor on shared datasets.",
       "speakLineZh": "團隊憤恨共享資料上未記名勞動。",
       "related": {
@@ -115,7 +115,7 @@
     {
       "headword": "presentiment",
       "inVocab": true,
-      "senseAnchor": "a feeling of evil to come",
+      "senseAnchor": "預感；場面：事先感到",
       "roleInScript": "事先感到",
       "humorDevice": "morphology",
       "zhGloss": "預感",
@@ -130,7 +130,7 @@
     {
       "headword": "sentinel",
       "inVocab": true,
-      "senseAnchor": "a person employed to keep watch for some anticipated event",
+      "senseAnchor": "哨兵；場面：警戒感受者",
       "roleInScript": "警戒感受者",
       "humorDevice": "story",
       "zhGloss": "哨兵",
@@ -145,7 +145,7 @@
     {
       "headword": "consensus",
       "inVocab": true,
-      "senseAnchor": "共識",
+      "senseAnchor": "共識；場面：共同感到一致",
       "roleInScript": "共同感到一致",
       "humorDevice": "morphology",
       "zhGloss": "共識",
@@ -160,10 +160,10 @@
     {
       "headword": "sensational",
       "inVocab": true,
-      "senseAnchor": "intended to interest, excite, or shock people",
+      "senseAnchor": "聳人聽聞的；大新聞的",
       "roleInScript": "過度刺激感覺",
       "humorDevice": "morphology",
-      "zhGloss": "聳動的",
+      "zhGloss": "聳人聽聞的；大新聞的",
       "speakLineEn": "Sensational abstracts travel farther than careful ones.",
       "speakLineZh": "聳動摘要比謹慎摘要傳更遠。",
       "related": {
@@ -175,7 +175,7 @@
     {
       "headword": "nonsense",
       "inVocab": true,
-      "senseAnchor": "胡說",
+      "senseAnchor": "胡說；場面：無意義感覺",
       "roleInScript": "無意義感覺",
       "humorDevice": "story",
       "zhGloss": "胡說",
@@ -205,7 +205,7 @@
     {
       "headword": "resentment",
       "inVocab": true,
-      "senseAnchor": "怨恨",
+      "senseAnchor": "怨恨；場面：積累的憤感",
       "roleInScript": "積累的憤感",
       "humorDevice": "morphology",
       "zhGloss": "怨恨",
@@ -248,6 +248,8 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "S3b"
+    "stage": "S3b",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

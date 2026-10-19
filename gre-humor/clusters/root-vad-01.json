@@ -10,7 +10,7 @@
     {
       "headword": "invade",
       "inVocab": true,
-      "senseAnchor": "入侵",
+      "senseAnchor": "入侵；場面：衝進去",
       "roleInScript": "衝進去",
       "humorDevice": "morphology",
       "zhGloss": "入侵",
@@ -70,10 +70,10 @@
     {
       "headword": "evasion",
       "inVocab": true,
-      "senseAnchor": "a statement that is not literally false but that cleverly avoids an unpleasant truth; the deliberate act of failing to pay money",
+      "senseAnchor": "躲避；藉口",
       "roleInScript": "閃躲術",
       "humorDevice": "morphology",
-      "zhGloss": "逃避",
+      "zhGloss": "躲避；藉口",
       "speakLineEn": "Evasion in the limitations section is obvious.",
       "speakLineZh": "限制段的閃躲很明顯。",
       "related": {
@@ -115,7 +115,7 @@
     {
       "headword": "pervasive",
       "inVocab": true,
-      "senseAnchor": "遍布的",
+      "senseAnchor": "遍布的；場面：全場霧",
       "roleInScript": "全場霧",
       "humorDevice": "morphology",
       "zhGloss": "遍布的",
@@ -173,6 +173,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch05"
+    "stage": "P2-batch05",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

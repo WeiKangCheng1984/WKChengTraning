@@ -10,7 +10,7 @@
     {
       "headword": "rapacious",
       "inVocab": true,
-      "senseAnchor": "living by preying on other animals especially by catching living prey; excessively greedy and grasping",
+      "senseAnchor": "貪婪的；場面：搶奪嘴",
       "roleInScript": "搶奪嘴",
       "humorDevice": "morphology",
       "zhGloss": "貪婪的",
@@ -25,7 +25,7 @@
     {
       "headword": "rapacity",
       "inVocab": false,
-      "senseAnchor": "貪婪",
+      "senseAnchor": "貪婪；場面：搶奪慾",
       "roleInScript": "搶奪慾",
       "humorDevice": "morphology",
       "zhGloss": "貪婪",
@@ -40,10 +40,10 @@
     {
       "headword": "rapt",
       "inVocab": true,
-      "senseAnchor": "feeling great rapture or delight",
+      "senseAnchor": "全神貫注的",
       "roleInScript": "被奪走眼",
       "humorDevice": "morphology",
-      "zhGloss": "全神貫注的",
+      "zhGloss": "全神貫注",
       "speakLineEn": "Stay rapt on the protocol, not the press.",
       "speakLineZh": "全神貫注規程，不是新聞。",
       "related": {
@@ -55,7 +55,7 @@
     {
       "headword": "rapture",
       "inVocab": false,
-      "senseAnchor": "狂喜",
+      "senseAnchor": "狂喜；場面：奪魂喜",
       "roleInScript": "奪魂喜",
       "humorDevice": "morphology",
       "zhGloss": "狂喜",
@@ -70,7 +70,7 @@
     {
       "headword": "enrapture",
       "inVocab": true,
-      "senseAnchor": "hold spellbound",
+      "senseAnchor": "使狂喜；場面：搶走心",
       "roleInScript": "搶走心",
       "humorDevice": "morphology",
       "zhGloss": "使狂喜",
@@ -85,7 +85,7 @@
     {
       "headword": "ravage",
       "inVocab": false,
-      "senseAnchor": "蹂躪",
+      "senseAnchor": "蹂躪；場面：毀壞掃",
       "roleInScript": "毀壞掃",
       "humorDevice": "morphology",
       "zhGloss": "蹂躪",
@@ -115,10 +115,10 @@
     {
       "headword": "ravishing",
       "inVocab": true,
-      "senseAnchor": "force (someone) to have sex against their will; hold spellbound",
+      "senseAnchor": "迷人的；場面：奪目",
       "roleInScript": "奪目",
       "humorDevice": "morphology",
-      "zhGloss": "令人著迷的",
+      "zhGloss": "迷人的",
       "speakLineEn": "A ravishing narrative is not identification.",
       "speakLineZh": "奪目敘事不是識別策略。",
       "related": {
@@ -130,7 +130,7 @@
     {
       "headword": "usurp",
       "inVocab": false,
-      "senseAnchor": "篡奪",
+      "senseAnchor": "篡奪；場面：搶位",
       "roleInScript": "搶位",
       "humorDevice": "story",
       "zhGloss": "篡奪",
@@ -145,10 +145,10 @@
     {
       "headword": "plunder",
       "inVocab": true,
-      "senseAnchor": "goods or money obtained illegally; take illegally; of intellectual property",
+      "senseAnchor": "劫掠；掠奪",
       "roleInScript": "搶庫",
       "humorDevice": "story",
-      "zhGloss": "掠奪",
+      "zhGloss": "劫掠；掠奪",
       "speakLineEn": "Plunder of shared data without credit is theft.",
       "speakLineZh": "無署名掠奪共享資料是竊。",
       "related": {
@@ -188,6 +188,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch04"
+    "stage": "P2-batch04",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

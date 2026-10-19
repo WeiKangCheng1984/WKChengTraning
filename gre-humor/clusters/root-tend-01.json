@@ -25,10 +25,10 @@
     {
       "headword": "contend",
       "inVocab": true,
-      "senseAnchor": "maintain or assert; have an argument about something",
+      "senseAnchor": "競爭；場面：伸拳爭辯",
       "roleInScript": "伸拳爭辯",
       "humorDevice": "morphology",
-      "zhGloss": "競爭；主張",
+      "zhGloss": "競爭",
       "speakLineEn": "Authors contend that bias is bounded.",
       "speakLineZh": "作者主張偏差有界。",
       "related": {
@@ -40,10 +40,10 @@
     {
       "headword": "distend",
       "inVocab": true,
-      "senseAnchor": "become wider; cause to expand as it by internal pressure",
+      "senseAnchor": "膨脹；場面：脹開",
       "roleInScript": "脹開",
       "humorDevice": "morphology",
-      "zhGloss": "膨脹；腫脹",
+      "zhGloss": "膨脹",
       "speakLineEn": "Hype can distend expectations beyond evidence.",
       "speakLineZh": "炒作會把期望脹到超過證據。",
       "related": {
@@ -85,7 +85,7 @@
     {
       "headword": "intense",
       "inVocab": false,
-      "senseAnchor": "強烈的",
+      "senseAnchor": "強烈的；場面：拉滿強度",
       "roleInScript": "拉滿強度",
       "humorDevice": "morphology",
       "zhGloss": "強烈的",
@@ -100,10 +100,10 @@
     {
       "headword": "ostensible",
       "inVocab": true,
-      "senseAnchor": "appearing as such but not necessarily so; represented or appearing as such; pretended",
+      "senseAnchor": "表面的；假裝的",
       "roleInScript": "伸出來給看的理由",
       "humorDevice": "morphology",
-      "zhGloss": "表面上的",
+      "zhGloss": "表面的；假裝的",
       "speakLineEn": "The ostensible reason masked a funding conflict.",
       "speakLineZh": "表面理由掩蓋資助利益衝突。",
       "related": {
@@ -130,7 +130,7 @@
     {
       "headword": "pretend",
       "inVocab": false,
-      "senseAnchor": "假裝",
+      "senseAnchor": "假裝；場面：伸一套假動作",
       "roleInScript": "伸一套假動作",
       "humorDevice": "story",
       "zhGloss": "假裝",
@@ -145,7 +145,7 @@
     {
       "headword": "extensive",
       "inVocab": false,
-      "senseAnchor": "廣泛的",
+      "senseAnchor": "廣泛的；場面：伸很廣",
       "roleInScript": "伸很廣",
       "humorDevice": "morphology",
       "zhGloss": "廣泛的",
@@ -160,7 +160,7 @@
     {
       "headword": "tendency",
       "inVocab": false,
-      "senseAnchor": "傾向",
+      "senseAnchor": "傾向；場面：往哪邊伸",
       "roleInScript": "往哪邊伸",
       "humorDevice": "morphology",
       "zhGloss": "傾向",
@@ -203,6 +203,8 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P1-batch01"
+    "stage": "P1-batch01",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

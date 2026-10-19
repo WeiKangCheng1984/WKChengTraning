@@ -10,10 +10,10 @@
     {
       "headword": "impetuous",
       "inVocab": true,
-      "senseAnchor": "characterized by undue haste and lack of thought or deliberation; ; ; ; ; (`brainish' is archaic); marked by violent force",
+      "senseAnchor": "魯莽的；衝動的",
       "roleInScript": "腳比腦快",
       "humorDevice": "morphology",
-      "zhGloss": "衝動的",
+      "zhGloss": "魯莽的；衝動的",
       "speakLineEn": "Impetuous claims skip robustness.",
       "speakLineZh": "衝動主張跳過穩健檢查。",
       "related": {
@@ -25,7 +25,7 @@
     {
       "headword": "impetus",
       "inVocab": true,
-      "senseAnchor": "動力；契機；動量",
+      "senseAnchor": "動力；契機",
       "roleInScript": "衝量",
       "humorDevice": "morphology",
       "zhGloss": "動力；契機；動量",
@@ -55,7 +55,7 @@
     {
       "headword": "compete",
       "inVocab": true,
-      "senseAnchor": "競爭",
+      "senseAnchor": "競爭；場面：互相衝第一",
       "roleInScript": "互相衝第一",
       "humorDevice": "morphology",
       "zhGloss": "競爭",
@@ -70,7 +70,7 @@
     {
       "headword": "centripetal",
       "inVocab": true,
-      "senseAnchor": "tending to move toward a center; tending to unify",
+      "senseAnchor": "向心的；場面：往中心衝",
       "roleInScript": "往中心衝",
       "humorDevice": "morphology",
       "zhGloss": "向心的",
@@ -100,10 +100,10 @@
     {
       "headword": "perpetual",
       "inVocab": true,
-      "senseAnchor": "continuing forever",
+      "senseAnchor": "永恆的；場面：衝個不停",
       "roleInScript": "衝個不停",
       "humorDevice": "morphology",
-      "zhGloss": "永久的；不斷的",
+      "zhGloss": "永恆的",
       "speakLineEn": "Perpetual revision without release helps no one.",
       "speakLineZh": "永不發布的永久修改幫不了人。",
       "related": {
@@ -115,10 +115,10 @@
     {
       "headword": "petulant",
       "inVocab": true,
-      "senseAnchor": "easily irritated or annoyed",
+      "senseAnchor": "易怒的；暴躁的",
       "roleInScript": "衝完耍脾氣",
       "humorDevice": "morphology",
-      "zhGloss": "暴躁任性的",
+      "zhGloss": "易怒的；暴躁的",
       "speakLineEn": "Petulant replies to reviewers backfire.",
       "speakLineZh": "對審稿人暴躁回覆會反噬。",
       "related": {
@@ -130,7 +130,7 @@
     {
       "headword": "competition",
       "inVocab": true,
-      "senseAnchor": "競爭",
+      "senseAnchor": "競爭；場面：衝刺賽",
       "roleInScript": "衝刺賽",
       "humorDevice": "story",
       "zhGloss": "競爭",
@@ -145,7 +145,7 @@
     {
       "headword": "repeat",
       "inVocab": true,
-      "senseAnchor": "重複",
+      "senseAnchor": "重複；場面：一再衝",
       "roleInScript": "一再衝",
       "humorDevice": "story",
       "zhGloss": "重複",
@@ -160,7 +160,7 @@
     {
       "headword": "petitionary",
       "inVocab": true,
-      "senseAnchor": "請願的",
+      "senseAnchor": "請願的；場面：呈請語氣",
       "roleInScript": "呈請語氣",
       "humorDevice": "story",
       "zhGloss": "請願的",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P2-batch01"
+    "stage": "P2-batch01",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

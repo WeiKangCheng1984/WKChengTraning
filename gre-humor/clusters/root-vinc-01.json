@@ -10,7 +10,7 @@
     {
       "headword": "victor",
       "inVocab": false,
-      "senseAnchor": "勝利者",
+      "senseAnchor": "勝利者；場面：勝者",
       "roleInScript": "勝者",
       "humorDevice": "morphology",
       "zhGloss": "勝利者",
@@ -25,7 +25,7 @@
     {
       "headword": "victory",
       "inVocab": false,
-      "senseAnchor": "勝利",
+      "senseAnchor": "勝利；場面：勝局",
       "roleInScript": "勝局",
       "humorDevice": "morphology",
       "zhGloss": "勝利",
@@ -40,10 +40,10 @@
     {
       "headword": "convict",
       "inVocab": true,
-      "senseAnchor": "a person serving a sentence in a jail or prison; a person who has been convicted of a criminal offense",
+      "senseAnchor": "證明有罪；定罪",
       "roleInScript": "定罪勝過辯護",
       "humorDevice": "morphology",
-      "zhGloss": "定罪；囚犯",
+      "zhGloss": "證明有罪",
       "speakLineEn": "You cannot convict a theory on one noisy study.",
       "speakLineZh": "不能靠一項嘈雜研究給理論定罪。",
       "related": {
@@ -55,7 +55,7 @@
     {
       "headword": "evict",
       "inVocab": true,
-      "senseAnchor": "expel or eject without recourse to legal process; expel from one's property or force to move out by a legal process",
+      "senseAnchor": "驅逐；場面：趕出",
       "roleInScript": "趕出",
       "humorDevice": "morphology",
       "zhGloss": "驅逐",
@@ -100,10 +100,10 @@
     {
       "headword": "vanquish",
       "inVocab": true,
-      "senseAnchor": "to defeat in a conflict or contest",
+      "senseAnchor": "打敗；征服",
       "roleInScript": "徹底打垮",
       "humorDevice": "morphology",
-      "zhGloss": "征服；擊敗",
+      "zhGloss": "打敗；征服",
       "speakLineEn": "New evidence can vanquish a fashionable model.",
       "speakLineZh": "新證據能打垮流行模型。",
       "related": {
@@ -115,10 +115,10 @@
     {
       "headword": "provincial",
       "inVocab": true,
-      "senseAnchor": "(Roman Catholic Church) an official in charge of an ecclesiastical province acting under the superior general of a religious order; a country person",
+      "senseAnchor": "狹隘的；場面：小地方視野",
       "roleInScript": "小地方視野",
       "humorDevice": "morphology",
-      "zhGloss": "眼界狹窄的；地方的",
+      "zhGloss": "狹隘的",
       "speakLineEn": "A provincial reading misses cross-cultural tests.",
       "speakLineZh": "狹窄解讀錯過跨文化檢驗。",
       "related": {
@@ -130,10 +130,10 @@
     {
       "headword": "eviction",
       "inVocab": false,
-      "senseAnchor": "驅逐；驅逐令",
+      "senseAnchor": "驅逐令；場面：趕出程序",
       "roleInScript": "趕出程序",
       "humorDevice": "morphology",
-      "zhGloss": "驅逐；驅逐令",
+      "zhGloss": "驅逐令",
       "speakLineEn": "Variable eviction needs pre-specified rules.",
       "speakLineZh": "變項驅逐需要預先規則。",
       "related": {
@@ -145,10 +145,10 @@
     {
       "headword": "conviction",
       "inVocab": true,
-      "senseAnchor": "an unshakable belief in something without need for proof or evidence; (criminal law) a final judgment of guilty in a criminal case and the punishment that is imposed",
+      "senseAnchor": "深信不疑；信念",
       "roleInScript": "堅信／判定有罪",
       "humorDevice": "morphology",
-      "zhGloss": "信念；定罪",
+      "zhGloss": "深信不疑",
       "speakLineEn": "Write with conviction, revise with doubt.",
       "speakLineZh": "寫作帶信念，修改帶懷疑。",
       "related": {
@@ -160,7 +160,7 @@
     {
       "headword": "victorious",
       "inVocab": false,
-      "senseAnchor": "勝利的",
+      "senseAnchor": "勝利的；場面：得勝的",
       "roleInScript": "得勝的",
       "humorDevice": "story",
       "zhGloss": "勝利的",
@@ -175,7 +175,7 @@
     {
       "headword": "conviction rate",
       "inVocab": false,
-      "senseAnchor": "定罪率",
+      "senseAnchor": "定罪率；場面：勝訴統計",
       "roleInScript": "勝訴統計",
       "humorDevice": "story",
       "zhGloss": "定罪率",
@@ -203,6 +203,8 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P1-batch01"
+    "stage": "P1-batch01",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

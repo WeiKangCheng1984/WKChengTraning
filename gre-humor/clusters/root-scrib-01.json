@@ -10,7 +10,7 @@
     {
       "headword": "describe",
       "inVocab": true,
-      "senseAnchor": "描述",
+      "senseAnchor": "描述；場面：描寫出來",
       "roleInScript": "描寫出來",
       "humorDevice": "morphology",
       "zhGloss": "描述",
@@ -40,10 +40,10 @@
     {
       "headword": "proscribe",
       "inVocab": true,
-      "senseAnchor": "command against",
+      "senseAnchor": "禁止；排斥",
       "roleInScript": "明文禁止寫死",
       "humorDevice": "morphology",
-      "zhGloss": "禁止；排斥",
+      "zhGloss": "禁止",
       "speakLineEn": "The code proscribes dual submission.",
       "speakLineZh": "規範禁止一稿兩投。",
       "related": {
@@ -55,10 +55,10 @@
     {
       "headword": "prescribe",
       "inVocab": true,
-      "senseAnchor": "say what medicine or treatment a sick person should have",
+      "senseAnchor": "開藥方；場面：寫成規定",
       "roleInScript": "寫成規定",
       "humorDevice": "morphology",
-      "zhGloss": "規定；開處方",
+      "zhGloss": "開藥方",
       "speakLineEn": "Guidelines prescribe reporting confidence intervals.",
       "speakLineZh": "指引規定報告信賴區間。",
       "related": {
@@ -85,7 +85,7 @@
     {
       "headword": "manuscript",
       "inVocab": true,
-      "senseAnchor": "手稿",
+      "senseAnchor": "手稿；場面：手寫／稿件",
       "roleInScript": "手寫／稿件",
       "humorDevice": "morphology",
       "zhGloss": "手稿",
@@ -115,10 +115,10 @@
     {
       "headword": "transcribe",
       "inVocab": true,
-      "senseAnchor": "write out from speech, notes, etc.; rewrite in a different script",
+      "senseAnchor": "謄寫；場面：轉寫到另一媒介",
       "roleInScript": "轉寫到另一媒介",
       "humorDevice": "morphology",
-      "zhGloss": "謄寫；轉寫",
+      "zhGloss": "謄寫",
       "speakLineEn": "Transcribe interviews with speaker labels.",
       "speakLineZh": "訪談轉寫請標說話者。",
       "related": {
@@ -130,10 +130,10 @@
     {
       "headword": "ascribe",
       "inVocab": true,
-      "senseAnchor": "attribute or credit to",
+      "senseAnchor": "歸因於；場面：寫到誰頭上",
       "roleInScript": "寫到誰頭上",
       "humorDevice": "morphology",
-      "zhGloss": "歸因",
+      "zhGloss": "歸因於",
       "speakLineEn": "Do not ascribe intent without evidence.",
       "speakLineZh": "無證據不要歸因意圖。",
       "related": {
@@ -145,10 +145,10 @@
     {
       "headword": "circumscribe",
       "inVocab": true,
-      "senseAnchor": "to limit narrowly",
+      "senseAnchor": "限制；劃界",
       "roleInScript": "畫圈限制",
       "humorDevice": "morphology",
-      "zhGloss": "限制；劃界",
+      "zhGloss": "限制",
       "speakLineEn": "Budget rules circumscribe feasible designs.",
       "speakLineZh": "預算規則限制可行設計。",
       "related": {
@@ -160,10 +160,10 @@
     {
       "headword": "scribble",
       "inVocab": true,
-      "senseAnchor": "poor handwriting; an aimless drawing",
+      "senseAnchor": "潦草的寫；潦草書寫",
       "roleInScript": "亂寫",
       "humorDevice": "story",
-      "zhGloss": "潦草書寫",
+      "zhGloss": "潦草的寫",
       "speakLineEn": "Margin scribbles are not a codebook.",
       "speakLineZh": "頁邊亂寫不是編碼簿。",
       "related": {
@@ -175,10 +175,10 @@
     {
       "headword": "conscript",
       "inVocab": true,
-      "senseAnchor": "someone who is drafted into military service; enroll into service compulsorily",
+      "senseAnchor": "徵兵；場面：寫入名單強徵",
       "roleInScript": "寫入名單強徵",
       "humorDevice": "morphology",
-      "zhGloss": "徵召",
+      "zhGloss": "徵兵",
       "speakLineEn": "Do not conscript unrelated citations for decoration.",
       "speakLineZh": "不要強徵無關引用當裝飾。",
       "related": {
@@ -220,7 +220,7 @@
     {
       "headword": "superscript",
       "inVocab": true,
-      "senseAnchor": "上標",
+      "senseAnchor": "上標；場面：寫在上面的小字",
       "roleInScript": "寫在上面的小字",
       "humorDevice": "story",
       "zhGloss": "上標",
@@ -248,6 +248,8 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "S3b"
+    "stage": "S3b",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

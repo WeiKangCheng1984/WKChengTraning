@@ -25,7 +25,7 @@
     {
       "headword": "polygon",
       "inVocab": false,
-      "senseAnchor": "多邊形",
+      "senseAnchor": "多邊形；場面：多邊舞台",
       "roleInScript": "多邊舞台",
       "humorDevice": "morphology",
       "zhGloss": "多邊形",
@@ -70,10 +70,10 @@
     {
       "headword": "polymath",
       "inVocab": true,
-      "senseAnchor": "a person who knows a lot about different subjects",
+      "senseAnchor": "博學的人；博學者",
       "roleInScript": "多才軌",
       "humorDevice": "morphology",
-      "zhGloss": "博學者",
+      "zhGloss": "博學的人",
       "speakLineEn": "Even a polymath needs a checklist.",
       "speakLineZh": "即使博學者也需要清單。",
       "related": {
@@ -100,7 +100,7 @@
     {
       "headword": "polymer",
       "inVocab": false,
-      "senseAnchor": "聚合物",
+      "senseAnchor": "聚合物；場面：多單體",
       "roleInScript": "多單體",
       "humorDevice": "story",
       "zhGloss": "聚合物",
@@ -115,7 +115,7 @@
     {
       "headword": "multimedia",
       "inVocab": false,
-      "senseAnchor": "多媒體",
+      "senseAnchor": "多媒體；場面：多媒介",
       "roleInScript": "多媒介",
       "humorDevice": "story",
       "zhGloss": "多媒體",
@@ -188,6 +188,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch04"
+    "stage": "P2-batch04",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

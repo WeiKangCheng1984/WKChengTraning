@@ -10,12 +10,12 @@
     {
       "headword": "quack",
       "inVocab": true,
-      "senseAnchor": "an untrained person who pretends to be a physician and who dispenses medical advice; the harsh sound of a duck",
+      "senseAnchor": "庸醫",
       "roleInScript": "Q席-庸醫",
       "humorDevice": "morphology",
       "zhGloss": "庸醫",
-      "speakLineEn": "Cue the Q席-庸醫: quack walks on and the gag sticks.",
-      "speakLineZh": "請「Q席-庸醫」出場：quack 一上場梗就黏住——庸醫。",
+      "speakLineEn": "The ducks quacked.",
+      "speakLineZh": "庸醫。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -25,12 +25,12 @@
     {
       "headword": "quaff",
       "inVocab": true,
-      "senseAnchor": "to drink (a beverage) heartily",
+      "senseAnchor": "大口地喝",
       "roleInScript": "Q席-v. 大",
       "humorDevice": "morphology",
-      "zhGloss": "v. 大口地喝",
-      "speakLineEn": "Cue the Q席-v. 大: quaff walks on and the gag sticks.",
-      "speakLineZh": "請「Q席-v. 大」出場：quaff 一上場梗就黏住——v. 大口地喝。",
+      "zhGloss": "大口地喝",
+      "speakLineEn": "They had to he stopped at a bar and quaffed a few beers.",
+      "speakLineZh": "大口地喝。",
       "related": {
         "synonyms": "guzzle, swill",
         "antonyms": ""
@@ -40,12 +40,12 @@
     {
       "headword": "quail",
       "inVocab": true,
-      "senseAnchor": "flesh of quail; suitable for roasting or broiling if young; otherwise must be braised; small gallinaceous game birds",
+      "senseAnchor": "畏縮",
       "roleInScript": "Q席-畏縮",
       "humorDevice": "morphology",
       "zhGloss": "畏縮",
-      "speakLineEn": "Cue the Q席-畏縮: quail walks on and the gag sticks.",
-      "speakLineZh": "請「Q席-畏縮」出場：quail 一上場梗就黏住——畏縮。",
+      "speakLineEn": "A clear sense of quail is crucial to understanding the argument.",
+      "speakLineZh": "畏縮。",
       "related": {
         "synonyms": "flinch, squinch, funk, cringe, shrink, wince",
         "antonyms": "expand, stretch"
@@ -55,12 +55,12 @@
     {
       "headword": "quaint",
       "inVocab": true,
-      "senseAnchor": "strange in an interesting or pleasing way; very strange or unusual; odd or even incongruous in character or appearance; - Bill Beatty; - Sir Walter Scott",
+      "senseAnchor": "離奇的",
       "roleInScript": "Q席-離奇的",
       "humorDevice": "morphology",
       "zhGloss": "離奇的",
-      "speakLineEn": "Cue the Q席-離奇的: quaint walks on and the gag sticks.",
-      "speakLineZh": "請「Q席-離奇的」出場：quaint 一上場梗就黏住——離奇的。",
+      "speakLineEn": "The head terminating in the quaint duck bill which gives the animal its vernacular name.",
+      "speakLineZh": "離奇的。",
       "related": {
         "synonyms": "old-time",
         "antonyms": ""
@@ -70,12 +70,12 @@
     {
       "headword": "qualify",
       "inVocab": true,
-      "senseAnchor": "to limit the meaning of",
+      "senseAnchor": "限制；給予資格",
       "roleInScript": "Q席-限制；給",
       "humorDevice": "morphology",
       "zhGloss": "限制；給予資格",
-      "speakLineEn": "Cue the Q席-限制；給: qualify walks on and the gag sticks.",
-      "speakLineZh": "請「Q席-限制；給」出場：qualify 一上場梗就黏住——限制；給予資格。",
+      "speakLineEn": "Qualify appears here: They nurses were qualified to administer the injections.",
+      "speakLineZh": "限制；給予資格。",
       "related": {
         "synonyms": "restrict, dispose, stipulate, condition, specify, characterize",
         "antonyms": "disqualify"
@@ -85,12 +85,12 @@
     {
       "headword": "qualm",
       "inVocab": true,
-      "senseAnchor": "uneasiness about the fitness of an action; a mild state of nausea",
+      "senseAnchor": "疑慮；不安",
       "roleInScript": "Q席-疑慮，不",
       "humorDevice": "morphology",
-      "zhGloss": "疑慮，不安",
-      "speakLineEn": "Cue the Q席-疑慮，不: qualm walks on and the gag sticks.",
-      "speakLineZh": "請「Q席-疑慮，不」出場：qualm 一上場梗就黏住——疑慮，不安。",
+      "zhGloss": "疑慮；不安",
+      "speakLineEn": "A clear sense of qualm is crucial to understanding the argument.",
+      "speakLineZh": "疑慮，不安。",
       "related": {
         "synonyms": "scruple, misgiving, queasiness, squeamishness",
         "antonyms": ""
@@ -100,12 +100,12 @@
     {
       "headword": "quarantine",
       "inVocab": true,
-      "senseAnchor": "enforced isolation of patients suffering from a contagious disease in order to prevent the spread of disease; isolation to prevent the spread of infectious disease",
+      "senseAnchor": "隔離",
       "roleInScript": "Q席-隔離",
       "humorDevice": "morphology",
       "zhGloss": "隔離",
-      "speakLineEn": "Cue the Q席-隔離: quarantine walks on and the gag sticks.",
-      "speakLineZh": "請「Q席-隔離」出場：quarantine 一上場梗就黏住——隔離。",
+      "speakLineEn": "My dog was quarantined before he could live in England.",
+      "speakLineZh": "隔離。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -115,12 +115,12 @@
     {
       "headword": "quash",
       "inVocab": true,
-      "senseAnchor": "put down by force or intimidation; declare invalid",
+      "senseAnchor": "鎮壓；勒索",
       "roleInScript": "Q席-鎮壓",
       "humorDevice": "morphology",
       "zhGloss": "鎮壓",
-      "speakLineEn": "Cue the Q席-鎮壓: quash walks on and the gag sticks.",
-      "speakLineZh": "請「Q席-鎮壓」出場：quash 一上場梗就黏住——鎮壓。",
+      "speakLineEn": "The government quashes any attempt of an uprising.",
+      "speakLineZh": "鎮壓。",
       "related": {
         "synonyms": "repress, subdue, subjugate, reduce, invalidate, annul",
         "antonyms": "validate"
@@ -130,12 +130,12 @@
     {
       "headword": "queer",
       "inVocab": true,
-      "senseAnchor": "offensive term for an openly homosexual man; hinder or prevent (the efforts, plans, or desires) of",
+      "senseAnchor": "奇怪的",
       "roleInScript": "Q席-奇怪的",
       "humorDevice": "morphology",
       "zhGloss": "奇怪的",
-      "speakLineEn": "Cue the Q席-奇怪的: queer walks on and the gag sticks.",
-      "speakLineZh": "請「Q席-奇怪的」出場：queer 一上場梗就黏住——奇怪的。",
+      "speakLineEn": "Something definitely queer about this town.",
+      "speakLineZh": "奇怪的。",
       "related": {
         "synonyms": "fagot, faggot, fag, fairy, nance, pansy",
         "antonyms": "refresh"
@@ -145,12 +145,12 @@
     {
       "headword": "quell",
       "inVocab": true,
-      "senseAnchor": "to put down forcibly",
+      "senseAnchor": "壓制；場面：Q席-v. 壓",
       "roleInScript": "Q席-v. 壓",
       "humorDevice": "morphology",
-      "zhGloss": "v. 壓制",
-      "speakLineEn": "Cue the Q席-v. 壓: quell walks on and the gag sticks.",
-      "speakLineZh": "請「Q席-v. 壓」出場：quell 一上場梗就黏住——v. 壓制。",
+      "zhGloss": "壓制",
+      "speakLineEn": "In the passage, quell signals a shift toward \"v. 壓制\".",
+      "speakLineZh": "文中 quell 標示語氣轉向「v. 壓制」。",
       "related": {
         "synonyms": "quash, repress, squash, suppress",
         "antonyms": "validate, express, release"
@@ -160,12 +160,12 @@
     {
       "headword": "quench",
       "inVocab": true,
-      "senseAnchor": "satisfy (thirst); put out, as of fires, flames, or lights",
+      "senseAnchor": "熄滅",
       "roleInScript": "Q席-熄滅",
       "humorDevice": "morphology",
       "zhGloss": "熄滅",
-      "speakLineEn": "Cue the Q席-熄滅: quench walks on and the gag sticks.",
-      "speakLineZh": "請「Q席-熄滅」出場：quench 一上場梗就黏住——熄滅。",
+      "speakLineEn": "The cold water quenched his thirst.",
+      "speakLineZh": "熄滅。",
       "related": {
         "synonyms": "slake, allay, assuage, extinguish, squelch, quell",
         "antonyms": "ignite"
@@ -175,12 +175,12 @@
     {
       "headword": "quibble",
       "inVocab": true,
-      "senseAnchor": "to find fault or criticize for petty reasons",
+      "senseAnchor": "挑剔；吹毛求疵",
       "roleInScript": "Q席-v. 挑",
       "humorDevice": "morphology",
-      "zhGloss": "v. 挑剔，吹毛求疵",
-      "speakLineEn": "Cue the Q席-v. 挑: quibble walks on and the gag sticks.",
-      "speakLineZh": "請「Q席-v. 挑」出場：quibble 一上場梗就黏住——v. 挑剔，吹毛求疵。",
+      "zhGloss": "挑剔；吹毛求疵",
+      "speakLineEn": "Let's not quibble over pennies.",
+      "speakLineZh": "挑剔，吹毛求疵。",
       "related": {
         "synonyms": "carp, cavil, fuss",
         "antonyms": ""
@@ -190,12 +190,12 @@
     {
       "headword": "quintessential",
       "inVocab": true,
-      "senseAnchor": "representing the most typical example",
+      "senseAnchor": "典範的",
       "roleInScript": "Q席-adj.",
       "humorDevice": "morphology",
-      "zhGloss": "adj. 典範的",
-      "speakLineEn": "Cue the Q席-adj.: quintessential walks on and the gag sticks.",
-      "speakLineZh": "請「Q席-adj.」出場：quintessential 一上場梗就黏住——adj. 典範的。",
+      "zhGloss": "典範的",
+      "speakLineEn": "It was a quintessential New Yorker.",
+      "speakLineZh": "典範的。",
       "related": {
         "synonyms": "typical, paragon, paradim",
         "antonyms": "atypical"
@@ -205,12 +205,12 @@
     {
       "headword": "quirk",
       "inVocab": true,
-      "senseAnchor": "a strange attitude or habit; a narrow groove beside a beading",
+      "senseAnchor": "怪癖",
       "roleInScript": "Q席-怪癖",
       "humorDevice": "morphology",
       "zhGloss": "怪癖",
-      "speakLineEn": "Cue the Q席-怪癖: quirk walks on and the gag sticks.",
-      "speakLineZh": "請「Q席-怪癖」出場：quirk 一上場梗就黏住——怪癖。",
+      "speakLineEn": "She quirked her head in a peculiar way.",
+      "speakLineZh": "怪癖。",
       "related": {
         "synonyms": "oddity, queerness, quirkiness, crotchet",
         "antonyms": ""
@@ -232,6 +232,9 @@
   "priority": "C",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P4-batch01"
+    "stage": "P4-batch01",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave2",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

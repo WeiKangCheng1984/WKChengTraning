@@ -10,7 +10,7 @@
     {
       "headword": "strict",
       "inVocab": false,
-      "senseAnchor": "嚴格的",
+      "senseAnchor": "嚴格的；場面：勒緊",
       "roleInScript": "勒緊",
       "humorDevice": "morphology",
       "zhGloss": "嚴格的",
@@ -25,7 +25,7 @@
     {
       "headword": "strictly",
       "inVocab": false,
-      "senseAnchor": "嚴格地",
+      "senseAnchor": "嚴格地；場面：勒緊副詞",
       "roleInScript": "勒緊副詞",
       "humorDevice": "morphology",
       "zhGloss": "嚴格地",
@@ -40,10 +40,10 @@
     {
       "headword": "stricture",
       "inVocab": true,
-      "senseAnchor": "abnormal narrowing of a bodily canal or passageway; severe criticism",
+      "senseAnchor": "責難；批評",
       "roleInScript": "勒痕責難",
       "humorDevice": "morphology",
-      "zhGloss": "責難；狹窄",
+      "zhGloss": "責難；批評",
       "speakLineEn": "Invite stricture from auditors early.",
       "speakLineZh": "及早邀請稽核責難。",
       "related": {
@@ -55,7 +55,7 @@
     {
       "headword": "restrict",
       "inVocab": false,
-      "senseAnchor": "限制",
+      "senseAnchor": "限制；場面：設限",
       "roleInScript": "設限",
       "humorDevice": "morphology",
       "zhGloss": "限制",
@@ -100,7 +100,7 @@
     {
       "headword": "constrain",
       "inVocab": false,
-      "senseAnchor": "約束",
+      "senseAnchor": "約束；場面：綁住",
       "roleInScript": "綁住",
       "humorDevice": "morphology",
       "zhGloss": "約束",
@@ -115,7 +115,7 @@
     {
       "headword": "stringent",
       "inVocab": false,
-      "senseAnchor": "嚴厲的",
+      "senseAnchor": "嚴厲的；場面：超緊規",
       "roleInScript": "超緊規",
       "humorDevice": "morphology",
       "zhGloss": "嚴厲的",
@@ -145,7 +145,7 @@
     {
       "headword": "cordon",
       "inVocab": false,
-      "senseAnchor": "封鎖線",
+      "senseAnchor": "封鎖線；場面：繩圈",
       "roleInScript": "繩圈",
       "humorDevice": "story",
       "zhGloss": "封鎖線",
@@ -173,6 +173,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch04"
+    "stage": "P2-batch04",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

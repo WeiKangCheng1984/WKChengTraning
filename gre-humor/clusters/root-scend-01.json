@@ -40,10 +40,10 @@
     {
       "headword": "transcend",
       "inVocab": true,
-      "senseAnchor": "be greater in scope or size than some standard; be superior or better than some standard",
+      "senseAnchor": "超越；戰勝",
       "roleInScript": "爬出階層之外",
       "humorDevice": "morphology",
-      "zhGloss": "超越",
+      "zhGloss": "超越；戰勝",
       "speakLineEn": "Great art can transcend its historical moment.",
       "speakLineZh": "偉大藝術能超越其歷史時刻。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "crescendo",
       "inVocab": true,
-      "senseAnchor": "(music) a gradual increase in loudness; grow louder",
+      "senseAnchor": "聲音漸強；高潮漸起",
       "roleInScript": "聲音／情緒往上爬",
       "humorDevice": "story",
-      "zhGloss": "漸強；高潮漸起",
+      "zhGloss": "聲音漸強",
       "speakLineEn": "Criticism rose to a crescendo before the vote.",
       "speakLineZh": "投票前批評聲浪漸強至高潮。",
       "related": {
@@ -89,8 +89,8 @@
       "roleInScript": "上升梯",
       "humorDevice": "morphology",
       "zhGloss": "上升",
-      "speakLineEn": "Cue the 上升梯: ascent walks on and the gag sticks.",
-      "speakLineZh": "請「上升梯」出場：ascent 一上場梗就黏住——上升。",
+      "speakLineEn": "Picture the 上升梯: the word ascent means 上升.",
+      "speakLineZh": "想像「上升梯」：ascent＝上升。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -104,8 +104,8 @@
       "roleInScript": "下降梯",
       "humorDevice": "morphology",
       "zhGloss": "下降",
-      "speakLineEn": "Cue the 下降梯: descent walks on and the gag sticks.",
-      "speakLineZh": "請「下降梯」出場：descent 一上場梗就黏住——下降。",
+      "speakLineEn": "Picture the 下降梯: the word descent means 下降.",
+      "speakLineZh": "想像「下降梯」：descent＝下降。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -119,8 +119,8 @@
       "roleInScript": "後代牌",
       "humorDevice": "morphology",
       "zhGloss": "後代",
-      "speakLineEn": "Cue the 後代牌: descendant walks on and the gag sticks.",
-      "speakLineZh": "請「後代牌」出場：descendant 一上場梗就黏住——後代。",
+      "speakLineEn": "A careful reader links descendant to 後代, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 descendant 連到「後代」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -130,12 +130,12 @@
     {
       "headword": "condescending",
       "inVocab": true,
-      "senseAnchor": "displaying a superior attitude",
+      "senseAnchor": "居高臨下的；屈尊的",
       "roleInScript": "俯視鏡",
       "humorDevice": "morphology",
-      "zhGloss": "屈尊的",
-      "speakLineEn": "Cue the 俯視鏡: condescending walks on and the gag sticks.",
-      "speakLineZh": "請「俯視鏡」出場：condescending 一上場梗就黏住——屈尊的。",
+      "zhGloss": "居高臨下的",
+      "speakLineEn": "Consider this case: treat someone in a condescending manner.",
+      "speakLineZh": "居高臨下的。",
       "related": {
         "synonyms": "patronizing",
         "antonyms": "boycott"
@@ -145,12 +145,12 @@
     {
       "headword": "escalate",
       "inVocab": true,
-      "senseAnchor": "to increase in extent, amount or scope",
+      "senseAnchor": "升級；擴大",
       "roleInScript": "升級鍵",
       "humorDevice": "morphology",
-      "zhGloss": "升級",
-      "speakLineEn": "Cue the 升級鍵: escalate walks on and the gag sticks.",
-      "speakLineZh": "請「升級鍵」出場：escalate 一上場梗就黏住——升級。",
+      "zhGloss": "升級；擴大",
+      "speakLineEn": "The Allies escalated the bombing.",
+      "speakLineZh": "升級，擴大。",
       "related": {
         "synonyms": "aggrandize, amplify, augment, boost, wax",
         "antonyms": "de-escalate, understate, wane"
@@ -164,8 +164,8 @@
       "roleInScript": "升天梯",
       "humorDevice": "morphology",
       "zhGloss": "升天上升",
-      "speakLineEn": "Cue the 升天梯: ascension walks on and the gag sticks.",
-      "speakLineZh": "請「升天梯」出場：ascension 一上場梗就黏住——升天上升。",
+      "speakLineEn": "In the passage, ascension signals a shift toward \"升天上升\".",
+      "speakLineZh": "文中 ascension 標示語氣轉向「升天上升」。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -192,6 +192,9 @@
   "qualityGate": {
     "reviewedAt": "2026-10-18",
     "note": "Stage-1 promote: aligned with tract lesson template",
-    "thickenedAt": "P4-batch01"
+    "thickenedAt": "P4-batch01",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave2",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

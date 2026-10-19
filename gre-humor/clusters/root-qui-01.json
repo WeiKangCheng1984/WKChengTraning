@@ -10,7 +10,7 @@
     {
       "headword": "quiet",
       "inVocab": false,
-      "senseAnchor": "安靜的",
+      "senseAnchor": "安靜的；場面：靜音",
       "roleInScript": "靜音",
       "humorDevice": "morphology",
       "zhGloss": "安靜的",
@@ -25,7 +25,7 @@
     {
       "headword": "quietly",
       "inVocab": false,
-      "senseAnchor": "安靜地",
+      "senseAnchor": "安靜地；場面：靜靜地",
       "roleInScript": "靜靜地",
       "humorDevice": "morphology",
       "zhGloss": "安靜地",
@@ -40,7 +40,7 @@
     {
       "headword": "quietude",
       "inVocab": false,
-      "senseAnchor": "寧靜",
+      "senseAnchor": "寧靜；場面：靜室",
       "roleInScript": "靜室",
       "humorDevice": "morphology",
       "zhGloss": "寧靜",
@@ -55,10 +55,10 @@
     {
       "headword": "tranquil",
       "inVocab": true,
-      "senseAnchor": "(of a body of water) free from disturbance by heavy waves; not agitated; without losing self-possession",
+      "senseAnchor": "寧靜的；安靜的",
       "roleInScript": "平靜畫面",
       "humorDevice": "morphology",
-      "zhGloss": "平靜的",
+      "zhGloss": "寧靜的；安靜的；揮舞",
       "speakLineEn": "Tranquil dashboards can hide missingness.",
       "speakLineZh": "平靜儀表板可能藏缺失。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "tranquility",
       "inVocab": true,
-      "senseAnchor": "a disposition free from stress or emotion; an untroubled state; free from disturbances",
+      "senseAnchor": "寧靜；場面：平靜度",
       "roleInScript": "平靜度",
       "humorDevice": "morphology",
-      "zhGloss": "平靜",
+      "zhGloss": "寧靜",
       "speakLineEn": "Tranquility is not the same as rigor.",
       "speakLineZh": "平靜不等於嚴謹。",
       "related": {
@@ -85,10 +85,10 @@
     {
       "headword": "acquiesce",
       "inVocab": true,
-      "senseAnchor": "to agree or express agreement",
+      "senseAnchor": "默認；同意",
       "roleInScript": "點頭默許",
       "humorDevice": "morphology",
-      "zhGloss": "默許",
+      "zhGloss": "默認；同意",
       "speakLineEn": "Do not acquiesce to outcome switching.",
       "speakLineZh": "不要默許結局更換。",
       "related": {
@@ -100,7 +100,7 @@
     {
       "headword": "acquiescent",
       "inVocab": false,
-      "senseAnchor": "默許的",
+      "senseAnchor": "默許的；場面：好說話",
       "roleInScript": "好說話",
       "humorDevice": "morphology",
       "zhGloss": "默許的",
@@ -115,7 +115,7 @@
     {
       "headword": "requiem",
       "inVocab": false,
-      "senseAnchor": "安魂曲",
+      "senseAnchor": "安魂曲；場面：安息曲",
       "roleInScript": "安息曲",
       "humorDevice": "story",
       "zhGloss": "安魂曲",
@@ -160,10 +160,10 @@
     {
       "headword": "hush",
       "inVocab": true,
-      "senseAnchor": "(poetic) tranquil silence; become quiet or still; fall silent",
+      "senseAnchor": "安靜；場面：噓",
       "roleInScript": "噓",
       "humorDevice": "story",
-      "zhGloss": "肅靜",
+      "zhGloss": "安靜",
       "speakLineEn": "Hush culture blocks whistleblowers.",
       "speakLineZh": "噓聲文化阻擋吹哨。",
       "related": {
@@ -188,6 +188,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch04"
+    "stage": "P2-batch04",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

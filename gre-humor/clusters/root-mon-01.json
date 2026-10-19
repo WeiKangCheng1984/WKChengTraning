@@ -10,10 +10,10 @@
     {
       "headword": "admonish",
       "inVocab": true,
-      "senseAnchor": "admonish or counsel in terms of someone's behavior; warn strongly; put on guard",
+      "senseAnchor": "勸誡；告誡",
       "roleInScript": "廣播訓誡",
       "humorDevice": "morphology",
-      "zhGloss": "告誡；警告",
+      "zhGloss": "勸誡；告誡",
       "speakLineEn": "Admonish silent exclusions in review.",
       "speakLineZh": "在審查中告誡沉默排除。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "premonition",
       "inVocab": true,
-      "senseAnchor": "a feeling of evil to come; an early warning about a future event",
+      "senseAnchor": "預兆；場面：不祥預告片",
       "roleInScript": "不祥預告片",
       "humorDevice": "morphology",
-      "zhGloss": "預感；預兆",
+      "zhGloss": "預兆",
       "speakLineEn": "A premonition of bias still needs a test.",
       "speakLineZh": "偏差預感仍需檢驗。",
       "related": {
@@ -85,10 +85,10 @@
     {
       "headword": "summon",
       "inVocab": true,
-      "senseAnchor": "call in an official matter, such as to attend court; ask to come",
+      "senseAnchor": "召集；場面：叫到站",
       "roleInScript": "叫到站",
       "humorDevice": "morphology",
-      "zhGloss": "召喚；傳喚",
+      "zhGloss": "召集",
       "speakLineEn": "Summon an independent auditor early.",
       "speakLineZh": "及早召喚獨立稽核。",
       "related": {
@@ -100,7 +100,7 @@
     {
       "headword": "monument",
       "inVocab": true,
-      "senseAnchor": "紀念碑",
+      "senseAnchor": "紀念碑；場面：石頭警告",
       "roleInScript": "石頭警告",
       "humorDevice": "morphology",
       "zhGloss": "紀念碑",
@@ -115,10 +115,10 @@
     {
       "headword": "monumental",
       "inVocab": true,
-      "senseAnchor": "relating or belonging to or serving as a monument; of outstanding significance",
+      "senseAnchor": "紀唸的；不朽的",
       "roleInScript": "超大警告",
       "humorDevice": "story",
-      "zhGloss": "巨大的；紀念碑式的",
+      "zhGloss": "紀唸的；不朽的",
       "speakLineEn": "A monumental error needs a monumental fix.",
       "speakLineZh": "巨大錯誤需要巨大修復。",
       "related": {
@@ -145,7 +145,7 @@
     {
       "headword": "warning",
       "inVocab": true,
-      "senseAnchor": "警告",
+      "senseAnchor": "警告；場面：廣播詞",
       "roleInScript": "廣播詞",
       "humorDevice": "story",
       "zhGloss": "警告",
@@ -160,7 +160,7 @@
     {
       "headword": "reminder",
       "inVocab": true,
-      "senseAnchor": "提醒",
+      "senseAnchor": "提醒；場面：小廣播",
       "roleInScript": "小廣播",
       "humorDevice": "story",
       "zhGloss": "提醒",
@@ -175,7 +175,7 @@
     {
       "headword": "watchdog",
       "inVocab": true,
-      "senseAnchor": "監察者",
+      "senseAnchor": "監察者；場面：站外狗",
       "roleInScript": "站外狗",
       "humorDevice": "story",
       "zhGloss": "監察者",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P2-batch01"
+    "stage": "P2-batch01",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

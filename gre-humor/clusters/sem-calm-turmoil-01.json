@@ -10,12 +10,12 @@
     {
       "headword": "halcyon",
       "inVocab": true,
-      "senseAnchor": "peaceful and happy",
+      "senseAnchor": "平靜的；場面：鏡面湖",
       "roleInScript": "鏡面湖",
       "humorDevice": "contrast",
-      "zhGloss": "平靜美好的",
-      "speakLineEn": "Cue the 鏡面湖: halcyon walks on and the gag sticks.",
-      "speakLineZh": "請「鏡面湖」出場：halcyon 一上場梗就黏住——平靜美好的。",
+      "zhGloss": "平靜的",
+      "speakLineEn": "The halcyon days of the clipper trade.",
+      "speakLineZh": "平靜的。",
       "related": {
         "synonyms": "serene, tranquil",
         "antonyms": "agitated, turbulent"
@@ -25,12 +25,12 @@
     {
       "headword": "equanimity",
       "inVocab": true,
-      "senseAnchor": "calmness of mind",
+      "senseAnchor": "鎮靜；佛系",
       "roleInScript": "佛系椅",
       "humorDevice": "contrast",
-      "zhGloss": "沉著鎮定",
-      "speakLineEn": "Cue the 佛系椅: equanimity walks on and the gag sticks.",
-      "speakLineZh": "請「佛系椅」出場：equanimity 一上場梗就黏住——沉著鎮定。",
+      "zhGloss": "鎮靜；佛系",
+      "speakLineEn": "He accepted their problems with composure and she with equanimity.",
+      "speakLineZh": "鎮靜, 佛系。",
       "related": {
         "synonyms": "tranquility, aplomb",
         "antonyms": "agitation, anxiety, discomposure"
@@ -40,12 +40,12 @@
     {
       "headword": "serene",
       "inVocab": true,
-      "senseAnchor": "not agitated; without losing self-possession; completely clear and fine",
+      "senseAnchor": "寧靜的；場面：無風港",
       "roleInScript": "無風港",
       "humorDevice": "contrast",
       "zhGloss": "寧靜的",
-      "speakLineEn": "Cue the 無風港: serene walks on and the gag sticks.",
-      "speakLineZh": "請「無風港」出場：serene 一上場梗就黏住——寧靜的。",
+      "speakLineEn": "He remained serene in the midst of turbulence.",
+      "speakLineZh": "寧靜的。",
       "related": {
         "synonyms": "calm, unagitated, tranquil",
         "antonyms": "agitated, turbulent"
@@ -55,12 +55,12 @@
     {
       "headword": "composed",
       "inVocab": true,
-      "senseAnchor": "鎮靜的",
+      "senseAnchor": "鎮靜的；場面：整理領",
       "roleInScript": "整理領",
       "humorDevice": "contrast",
       "zhGloss": "鎮靜的",
-      "speakLineEn": "Cue the 整理領: composed walks on and the gag sticks.",
-      "speakLineZh": "請「整理領」出場：composed 一上場梗就黏住——鎮靜的。",
+      "speakLineEn": "On the exam, composed most nearly means a sense of \"鎮靜的\".",
+      "speakLineZh": "鎮靜的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -70,12 +70,12 @@
     {
       "headword": "blatant",
       "inVocab": true,
-      "senseAnchor": "without any attempt at concealment; completely obvious; conspicuously and offensively loud; given to vehement outcry",
+      "senseAnchor": "厚顏無恥的；炫耀的",
       "roleInScript": "擴音器",
       "humorDevice": "contrast",
-      "zhGloss": "喧嚷刺眼的",
-      "speakLineEn": "Cue the 擴音器: blatant walks on and the gag sticks.",
-      "speakLineZh": "請「擴音器」出場：blatant 一上場梗就黏住——喧嚷刺眼的。",
+      "zhGloss": "厚顏無恥的；炫耀的；喧鬧的",
+      "speakLineEn": "Blatant disregard of the law.",
+      "speakLineZh": "厚顏無恥的；炫耀的；喧鬧的。",
       "related": {
         "synonyms": "blazing, conspicuous, clamant, clamorous, strident, vociferous",
         "antonyms": "subtle, concealed"
@@ -85,12 +85,12 @@
     {
       "headword": "fray",
       "inVocab": true,
-      "senseAnchor": "a noisy fight; wear away by rubbing",
+      "senseAnchor": "爭吵；場面：碼頭架",
       "roleInScript": "碼頭架",
       "humorDevice": "contrast",
-      "zhGloss": "爭吵爭執",
-      "speakLineEn": "Cue the 碼頭架: fray walks on and the gag sticks.",
-      "speakLineZh": "請「碼頭架」出場：fray 一上場梗就黏住——爭吵爭執。",
+      "zhGloss": "爭吵",
+      "speakLineEn": "The friction frayed the sleeve.",
+      "speakLineZh": "爭吵。",
       "related": {
         "synonyms": "affray, disturbance, ruffle, frazzle, rub, fret",
         "antonyms": ""
@@ -100,12 +100,12 @@
     {
       "headword": "tempestuous",
       "inVocab": true,
-      "senseAnchor": "characterized by violent emotions or behavior; (of the elements) as if showing violent anger",
+      "senseAnchor": "突然且劇烈的變化；狂暴的",
       "roleInScript": "暴風夜",
       "humorDevice": "contrast",
-      "zhGloss": "狂暴的",
-      "speakLineEn": "Cue the 暴風夜: tempestuous walks on and the gag sticks.",
-      "speakLineZh": "請「暴風夜」出場：tempestuous 一上場梗就黏住——狂暴的。",
+      "zhGloss": "突然且劇烈的變化",
+      "speakLineEn": "The critic noted her tempestuous approach to the evidence.",
+      "speakLineZh": "突然且劇烈的變化。",
       "related": {
         "synonyms": "stormy, angry, furious, raging, wild",
         "antonyms": "calm, unangry, tame"
@@ -116,11 +116,11 @@
       "headword": "lake",
       "inVocab": false,
       "senseAnchor": "湖",
-      "roleInScript": "湖",
+      "roleInScript": "湖角色",
       "humorDevice": "story",
       "zhGloss": "湖",
-      "speakLineEn": "Cue the 湖: lake walks on and the gag sticks.",
-      "speakLineZh": "請「湖」出場：lake 一上場梗就黏住——湖。",
+      "speakLineEn": "A careful reader links lake to 湖, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 lake 連到「湖」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -131,11 +131,11 @@
       "headword": "storm",
       "inVocab": false,
       "senseAnchor": "暴風",
-      "roleInScript": "暴風",
+      "roleInScript": "暴風角色",
       "humorDevice": "story",
       "zhGloss": "暴風",
-      "speakLineEn": "Cue the 暴風: storm walks on and the gag sticks.",
-      "speakLineZh": "請「暴風」出場：storm 一上場梗就黏住——暴風。",
+      "speakLineEn": "In the passage, storm signals a shift toward \"暴風\".",
+      "speakLineZh": "文中 storm 標示語氣轉向「暴風」。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -146,11 +146,11 @@
       "headword": "lifebuoy",
       "inVocab": false,
       "senseAnchor": "救生圈",
-      "roleInScript": "救生圈",
+      "roleInScript": "救生圈角色",
       "humorDevice": "story",
       "zhGloss": "救生圈",
-      "speakLineEn": "Cue the 救生圈: lifebuoy walks on and the gag sticks.",
-      "speakLineZh": "請「救生圈」出場：lifebuoy 一上場梗就黏住——救生圈。",
+      "speakLineEn": "In the passage, lifebuoy signals a shift toward \"救生圈\".",
+      "speakLineZh": "文中 lifebuoy 標示語氣轉向「救生圈」。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -161,11 +161,11 @@
       "headword": "wharf",
       "inVocab": false,
       "senseAnchor": "碼頭",
-      "roleInScript": "碼頭",
+      "roleInScript": "碼頭角色",
       "humorDevice": "story",
       "zhGloss": "碼頭",
-      "speakLineEn": "Cue the 碼頭: wharf walks on and the gag sticks.",
-      "speakLineZh": "請「碼頭」出場：wharf 一上場梗就黏住——碼頭。",
+      "speakLineEn": "Critics argued that the policy would wharf basic protections.",
+      "speakLineZh": "批評者主張該政策會碼頭基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -176,11 +176,11 @@
       "headword": "teacup",
       "inVocab": false,
       "senseAnchor": "茶杯",
-      "roleInScript": "茶杯",
+      "roleInScript": "茶杯角色",
       "humorDevice": "story",
       "zhGloss": "茶杯",
-      "speakLineEn": "Cue the 茶杯: teacup walks on and the gag sticks.",
-      "speakLineZh": "請「茶杯」出場：teacup 一上場梗就黏住——茶杯。",
+      "speakLineEn": "Hold the meaning steady: teacup means 茶杯.",
+      "speakLineZh": "記住考意：teacup＝茶杯。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -191,11 +191,11 @@
       "headword": "ripple",
       "inVocab": false,
       "senseAnchor": "漣漪",
-      "roleInScript": "漣漪",
+      "roleInScript": "漣漪角色",
       "humorDevice": "story",
       "zhGloss": "漣漪",
-      "speakLineEn": "Cue the 漣漪: ripple walks on and the gag sticks.",
-      "speakLineZh": "請「漣漪」出場：ripple 一上場梗就黏住——漣漪。",
+      "speakLineEn": "Critics argued that the policy would ripple basic protections.",
+      "speakLineZh": "批評者主張該政策會漣漪基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -206,11 +206,11 @@
       "headword": "siren",
       "inVocab": false,
       "senseAnchor": "警報",
-      "roleInScript": "警報",
+      "roleInScript": "警報角色",
       "humorDevice": "story",
       "zhGloss": "警報",
-      "speakLineEn": "Cue the 警報: siren walks on and the gag sticks.",
-      "speakLineZh": "請「警報」出場：siren 一上場梗就黏住——警報。",
+      "speakLineEn": "In the passage, siren signals a shift toward \"警報\".",
+      "speakLineZh": "文中 siren 標示語氣轉向「警報」。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -221,11 +221,11 @@
       "headword": "pillow",
       "inVocab": false,
       "senseAnchor": "枕頭",
-      "roleInScript": "枕頭",
+      "roleInScript": "枕頭角色",
       "humorDevice": "story",
       "zhGloss": "枕頭",
-      "speakLineEn": "Cue the 枕頭: pillow walks on and the gag sticks.",
-      "speakLineZh": "請「枕頭」出場：pillow 一上場梗就黏住——枕頭。",
+      "speakLineEn": "A careful reader links pillow to 枕頭, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 pillow 連到「枕頭」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -247,6 +247,9 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P3-batch03"
+    "stage": "P3-batch03",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave2",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

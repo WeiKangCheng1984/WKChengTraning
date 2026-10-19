@@ -25,7 +25,7 @@
     {
       "headword": "radically",
       "inVocab": false,
-      "senseAnchor": "根本地",
+      "senseAnchor": "根本地；場面：連根副詞",
       "roleInScript": "連根副詞",
       "humorDevice": "morphology",
       "zhGloss": "根本地",
@@ -40,7 +40,7 @@
     {
       "headword": "eradicate",
       "inVocab": false,
-      "senseAnchor": "根除",
+      "senseAnchor": "根除；場面：拔雜草",
       "roleInScript": "拔雜草",
       "humorDevice": "morphology",
       "zhGloss": "根除",
@@ -130,7 +130,7 @@
     {
       "headword": "rootedness",
       "inVocab": false,
-      "senseAnchor": "生根性",
+      "senseAnchor": "生根性；場面：扎根度",
       "roleInScript": "扎根度",
       "humorDevice": "story",
       "zhGloss": "生根性",
@@ -175,7 +175,7 @@
     {
       "headword": "irradiate",
       "inVocab": false,
-      "senseAnchor": "照射",
+      "senseAnchor": "照射；場面：光灑根",
       "roleInScript": "光灑根",
       "humorDevice": "story",
       "zhGloss": "照射",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch04"
+    "stage": "P2-batch04",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

@@ -20,7 +20,7 @@
       "step": 2,
       "name": "串記劇本",
       "minutes": 2,
-      "content": "contrite＝悔恨的。trite＝陳腐老套。店員提醒：道歉要真情，文案別用過期標語；眼淚鈕按下去才算數，口號鈕按下去只會被噓。"
+      "content": "contrite＝悔恨的。trite＝陳腐老套。店員提醒：道歉要真情，文案別用過期標語；眼淚鈕按下去才算數，口號鈕按下去只會被噓。形近對決：先分清語意軸，再對號入座。登場：contrite（眼淚鈕）、trite（過期標語）、repentant（懺悔帽）、cliche（陳腔）、slogan（口號）、tear（淚）。"
     },
     {
       "step": 3,
@@ -91,6 +91,8 @@
   "status": "reviewed",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P3-batch03"
+    "stage": "P3-batch03",
+    "polishStage": "Q-wave2",
+    "polishedAt": "2026-10-19"
   }
 }

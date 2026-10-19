@@ -10,7 +10,7 @@
     {
       "headword": "merchant",
       "inVocab": true,
-      "senseAnchor": "商人",
+      "senseAnchor": "商人；場面：買賣櫃",
       "roleInScript": "買賣櫃",
       "humorDevice": "morphology",
       "zhGloss": "商人",
@@ -25,7 +25,7 @@
     {
       "headword": "merchandise",
       "inVocab": true,
-      "senseAnchor": "商品",
+      "senseAnchor": "商品；場面：貨架",
       "roleInScript": "貨架",
       "humorDevice": "morphology",
       "zhGloss": "商品",
@@ -40,7 +40,7 @@
     {
       "headword": "mercantile",
       "inVocab": true,
-      "senseAnchor": "商業的",
+      "senseAnchor": "商業的；場面：商會風",
       "roleInScript": "商會風",
       "humorDevice": "morphology",
       "zhGloss": "商業的",
@@ -85,10 +85,10 @@
     {
       "headword": "mercenary",
       "inVocab": true,
-      "senseAnchor": "caring only about making money",
+      "senseAnchor": "唯利是圖的；傭兵",
       "roleInScript": "只認錢刀",
       "humorDevice": "morphology",
-      "zhGloss": "傭兵；唯利是圖的",
+      "zhGloss": "唯利是圖的",
       "speakLineEn": "Mercenary analytic choices chase headlines.",
       "speakLineZh": "唯利分析選擇追逐標題。",
       "related": {
@@ -203,6 +203,8 @@
   "priority": "C",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch05"
+    "stage": "P2-batch05",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

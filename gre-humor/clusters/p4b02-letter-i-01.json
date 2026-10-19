@@ -10,12 +10,12 @@
     {
       "headword": "icicle",
       "inVocab": true,
-      "senseAnchor": "ice resembling a pendent spear, formed by the freezing of dripping water",
+      "senseAnchor": "冰柱",
       "roleInScript": "I席-冰柱",
       "humorDevice": "morphology",
       "zhGloss": "冰柱",
-      "speakLineEn": "Cue the I席-冰柱: icicle walks on and the gag sticks.",
-      "speakLineZh": "請「I席-冰柱」出場：icicle 一上場梗就黏住——冰柱。",
+      "speakLineEn": "A clear sense of icicle is crucial to understanding the argument.",
+      "speakLineZh": "冰柱。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -25,12 +25,12 @@
     {
       "headword": "idiomatic",
       "inVocab": true,
-      "senseAnchor": "of or relating to or conforming to idiom",
+      "senseAnchor": "通俗的；慣用的",
       "roleInScript": "I席-通俗的；",
       "humorDevice": "morphology",
       "zhGloss": "通俗的；慣用的",
-      "speakLineEn": "Cue the I席-通俗的；: idiomatic walks on and the gag sticks.",
-      "speakLineZh": "請「I席-通俗的；」出場：idiomatic 一上場梗就黏住——通俗的；慣用的。",
+      "speakLineEn": "Idiomatic English.",
+      "speakLineZh": "通俗的；慣用的。",
       "related": {
         "synonyms": "idiomatical",
         "antonyms": ""
@@ -40,12 +40,12 @@
     {
       "headword": "idiosyncracy",
       "inVocab": true,
-      "senseAnchor": "a GRE-level vocabulary item meaning closely related to its core sense in academic English",
+      "senseAnchor": "特質",
       "roleInScript": "I席-特質",
       "humorDevice": "morphology",
       "zhGloss": "特質",
-      "speakLineEn": "Cue the I席-特質: idiosyncracy walks on and the gag sticks.",
-      "speakLineZh": "請「I席-特質」出場：idiosyncracy 一上場梗就黏住——特質。",
+      "speakLineEn": "A clear sense of idiosyncracy is crucial to understanding the argument.",
+      "speakLineZh": "特質。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -55,12 +55,12 @@
     {
       "headword": "idiosyncratic",
       "inVocab": true,
-      "senseAnchor": "odd or peculiar",
+      "senseAnchor": "獨特的；場面：I席-n. 獨",
       "roleInScript": "I席-n. 獨",
       "humorDevice": "morphology",
-      "zhGloss": "n. 獨特的",
-      "speakLineEn": "Cue the I席-n. 獨: idiosyncratic walks on and the gag sticks.",
-      "speakLineZh": "請「I席-n. 獨」出場：idiosyncratic 一上場梗就黏住——n. 獨特的。",
+      "zhGloss": "獨特的",
+      "speakLineEn": "Michelangelo's highly idiosyncratic style of painting.",
+      "speakLineZh": "獨特的。",
       "related": {
         "synonyms": "distinctive, atypical, iconoclastic",
         "antonyms": "typical"
@@ -70,12 +70,12 @@
     {
       "headword": "idyllic",
       "inVocab": true,
-      "senseAnchor": "excellent and delightful in all respects; suggestive of an idyll; charmingly simple and serene",
+      "senseAnchor": "田園詩的",
       "roleInScript": "I席-田園詩的",
       "humorDevice": "morphology",
       "zhGloss": "田園詩的",
-      "speakLineEn": "Cue the I席-田園詩的: idyllic walks on and the gag sticks.",
-      "speakLineZh": "請「I席-田園詩的」出場：idyllic 一上場梗就黏住——田園詩的。",
+      "speakLineEn": "An idyllic spot for a picnic.",
+      "speakLineZh": "田園詩的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -85,12 +85,12 @@
     {
       "headword": "ignoble",
       "inVocab": true,
-      "senseAnchor": "completely lacking nobility in character or quality or purpose; ; - Oliver Wendell Holmes, Jr.; not of the nobility",
+      "senseAnchor": "可鄙的；卑鄙的",
       "roleInScript": "I席-可鄙的；",
       "humorDevice": "morphology",
       "zhGloss": "可鄙的；卑鄙的",
-      "speakLineEn": "Cue the I席-可鄙的；: ignoble walks on and the gag sticks.",
-      "speakLineZh": "請「I席-可鄙的；」出場：ignoble 一上場梗就黏住——可鄙的；卑鄙的。",
+      "speakLineEn": "I think it a less evil that some criminals should escape than that the government should play an ignoble part.",
+      "speakLineZh": "可鄙的；卑鄙的。",
       "related": {
         "synonyms": "ungentle, untitled",
         "antonyms": "noble"
@@ -100,12 +100,12 @@
     {
       "headword": "ignominious",
       "inVocab": true,
-      "senseAnchor": "(used of conduct or character) deserving or bringing disgrace or shame; - Rachel Carson",
+      "senseAnchor": "可鄙的；可恥的",
       "roleInScript": "I席-可鄙的；",
       "humorDevice": "morphology",
       "zhGloss": "可鄙的；可恥的",
-      "speakLineEn": "Cue the I席-可鄙的；: ignominious walks on and the gag sticks.",
-      "speakLineZh": "請「I席-可鄙的；」出場：ignominious 一上場梗就黏住——可鄙的；可恥的。",
+      "speakLineEn": "An ignominious retreat.",
+      "speakLineZh": "可鄙的；可恥的。",
       "related": {
         "synonyms": "black, disgraceful, inglorious, opprobrious, shameful",
         "antonyms": "white, whiten, glorious"
@@ -115,12 +115,12 @@
     {
       "headword": "illicit",
       "inVocab": true,
-      "senseAnchor": "contrary to accepted morality (especially sexual morality) or convention; contrary to or forbidden by law",
+      "senseAnchor": "違法",
       "roleInScript": "I席-違法",
       "humorDevice": "morphology",
       "zhGloss": "違法",
-      "speakLineEn": "Cue the I席-違法: illicit walks on and the gag sticks.",
-      "speakLineZh": "請「I席-違法」出場：illicit 一上場梗就黏住——違法。",
+      "speakLineEn": "An illicit association with his secretary.",
+      "speakLineZh": "違法。",
       "related": {
         "synonyms": "illegitimate, outlaw, outlawed, unlawful",
         "antonyms": "licit"
@@ -130,12 +130,12 @@
     {
       "headword": "illuminati",
       "inVocab": true,
-      "senseAnchor": "a GRE-level vocabulary item meaning closely related to its core sense in academic English",
+      "senseAnchor": "智者",
       "roleInScript": "I席-智者",
       "humorDevice": "morphology",
       "zhGloss": "智者",
-      "speakLineEn": "Cue the I席-智者: illuminati walks on and the gag sticks.",
-      "speakLineZh": "請「I席-智者」出場：illuminati 一上場梗就黏住——智者。",
+      "speakLineEn": "A clear sense of illuminati is crucial to understanding the argument.",
+      "speakLineZh": "智者。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -145,12 +145,12 @@
     {
       "headword": "illusive",
       "inVocab": true,
-      "senseAnchor": "based on or having the nature of an illusion",
+      "senseAnchor": "錯覺的",
       "roleInScript": "I席-錯覺的",
       "humorDevice": "morphology",
       "zhGloss": "錯覺的",
-      "speakLineEn": "Cue the I席-錯覺的: illusive walks on and the gag sticks.",
-      "speakLineZh": "請「I席-錯覺的」出場：illusive 一上場梗就黏住——錯覺的。",
+      "speakLineEn": "Illusive hopes of finding a better job.",
+      "speakLineZh": "錯覺的。",
       "related": {
         "synonyms": "illusory",
         "antonyms": ""
@@ -160,12 +160,12 @@
     {
       "headword": "imbecile",
       "inVocab": true,
-      "senseAnchor": "a person of subnormal intelligence; having a mental age of three to seven years",
+      "senseAnchor": "愚蠢的人",
       "roleInScript": "I席-愚蠢的人",
       "humorDevice": "morphology",
       "zhGloss": "愚蠢的人",
-      "speakLineEn": "Cue the I席-愚蠢的人: imbecile walks on and the gag sticks.",
-      "speakLineZh": "請「I席-愚蠢的人」出場：imbecile 一上場梗就黏住——愚蠢的人。",
+      "speakLineEn": "No one wanted to be labeled a imbecile in that debate.",
+      "speakLineZh": "愚蠢的人。",
       "related": {
         "synonyms": "idiot, cretin, moron, changeling, half-wit, retard",
         "antonyms": "accelerate"
@@ -175,12 +175,12 @@
     {
       "headword": "imbibe",
       "inVocab": true,
-      "senseAnchor": "to take in (something liquid) through small openings",
+      "senseAnchor": "喝水；攝取水分",
       "roleInScript": "I席-v. 喝",
       "humorDevice": "morphology",
-      "zhGloss": "v. 喝水，攝取水分",
-      "speakLineEn": "Cue the I席-v. 喝: imbibe walks on and the gag sticks.",
-      "speakLineZh": "請「I席-v. 喝」出場：imbibe 一上場梗就黏住——v. 喝水，攝取水分。",
+      "zhGloss": "喝水；攝取水分",
+      "speakLineEn": "Imbibe ethical principles.",
+      "speakLineZh": "喝水，攝取水分。",
       "related": {
         "synonyms": "sip",
         "antonyms": ""
@@ -190,12 +190,12 @@
     {
       "headword": "imbroglio",
       "inVocab": true,
-      "senseAnchor": "an intricate and confusing interpersonal or political situation; a very embarrassing misunderstanding",
+      "senseAnchor": "紛亂",
       "roleInScript": "I席-紛亂",
       "humorDevice": "morphology",
       "zhGloss": "紛亂",
-      "speakLineEn": "Cue the I席-紛亂: imbroglio walks on and the gag sticks.",
-      "speakLineZh": "請「I席-紛亂」出場：imbroglio 一上場梗就黏住——紛亂。",
+      "speakLineEn": "No one wanted to be labeled a imbroglio in that debate.",
+      "speakLineZh": "紛亂。",
       "related": {
         "synonyms": "embroilment",
         "antonyms": ""
@@ -205,12 +205,12 @@
     {
       "headword": "imbue",
       "inVocab": true,
-      "senseAnchor": "spread or diffuse through; fill, soak, or imbue totally",
+      "senseAnchor": "染色",
       "roleInScript": "I席-染色",
       "humorDevice": "morphology",
       "zhGloss": "染色",
-      "speakLineEn": "Cue the I席-染色: imbue walks on and the gag sticks.",
-      "speakLineZh": "請「I席-染色」出場：imbue 一上場梗就黏住——染色。",
+      "speakLineEn": "In the end, they chose to imbue what they had once defended.",
+      "speakLineZh": "染色。",
       "related": {
         "synonyms": "permeate, pervade, penetrate, interpenetrate, diffuse, riddle",
         "antonyms": "concentrated, focused, hard"
@@ -232,6 +232,9 @@
   "priority": "C",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P4-batch02"
+    "stage": "P4-batch02",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave2",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

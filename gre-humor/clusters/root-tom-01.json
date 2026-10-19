@@ -10,7 +10,7 @@
     {
       "headword": "atom",
       "inVocab": false,
-      "senseAnchor": "原子",
+      "senseAnchor": "原子；場面：切到最小",
       "roleInScript": "切到最小",
       "humorDevice": "morphology",
       "zhGloss": "原子",
@@ -55,7 +55,7 @@
     {
       "headword": "tome",
       "inVocab": false,
-      "senseAnchor": "巨冊",
+      "senseAnchor": "巨冊；場面：百科磚",
       "roleInScript": "百科磚",
       "humorDevice": "morphology",
       "zhGloss": "巨冊",
@@ -70,10 +70,10 @@
     {
       "headword": "epitome",
       "inVocab": true,
-      "senseAnchor": "a standard or typical example; a brief abstract (as of an article or book)",
+      "senseAnchor": "概括；摘要",
       "roleInScript": "典型切片",
       "humorDevice": "morphology",
-      "zhGloss": "典型；縮影",
+      "zhGloss": "概括；摘要",
       "speakLineEn": "That lab is the epitome of open sharing.",
       "speakLineZh": "那實驗室是開放共享的典型。",
       "related": {
@@ -85,10 +85,10 @@
     {
       "headword": "dichotomy",
       "inVocab": true,
-      "senseAnchor": "an opposition between two things",
+      "senseAnchor": "對立；矛盾",
       "roleInScript": "一刀兩半",
       "humorDevice": "morphology",
-      "zhGloss": "二分法",
+      "zhGloss": "對立；矛盾",
       "speakLineEn": "Avoid false dichotomies of 'significant or nothing'.",
       "speakLineZh": "避免『顯著或什麼都不是』的假二分。",
       "related": {
@@ -115,7 +115,7 @@
     {
       "headword": "cut",
       "inVocab": false,
-      "senseAnchor": "切",
+      "senseAnchor": "切；場面：下刀",
       "roleInScript": "下刀",
       "humorDevice": "story",
       "zhGloss": "切",
@@ -130,7 +130,7 @@
     {
       "headword": "slice",
       "inVocab": false,
-      "senseAnchor": "切片",
+      "senseAnchor": "切片；場面：切一片",
       "roleInScript": "切一片",
       "humorDevice": "story",
       "zhGloss": "切片",
@@ -160,10 +160,10 @@
     {
       "headword": "dissect",
       "inVocab": true,
-      "senseAnchor": "cut open or cut apart; make a mathematical, chemical, or grammatical analysis of; break down into components or essential features",
+      "senseAnchor": "分解；場面：細剖",
       "roleInScript": "細剖",
       "humorDevice": "story",
-      "zhGloss": "解剖分析",
+      "zhGloss": "分解",
       "speakLineEn": "Dissect the identification assumptions.",
       "speakLineZh": "細剖識別假設。",
       "related": {
@@ -175,7 +175,7 @@
     {
       "headword": "binary",
       "inVocab": false,
-      "senseAnchor": "二元的",
+      "senseAnchor": "二元的；場面：兩刀口",
       "roleInScript": "兩刀口",
       "humorDevice": "story",
       "zhGloss": "二元的",
@@ -203,6 +203,8 @@
   "priority": "C",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch03"
+    "stage": "P2-batch03",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

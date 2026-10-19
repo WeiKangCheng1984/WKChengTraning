@@ -40,10 +40,10 @@
     {
       "headword": "pressing",
       "inVocab": true,
-      "senseAnchor": "the act of pressing; the exertion of pressure; a metal or plastic part that is made by a mechanical press",
+      "senseAnchor": "緊迫的；場面：急壓單",
       "roleInScript": "急壓單",
       "humorDevice": "morphology",
-      "zhGloss": "急迫的",
+      "zhGloss": "緊迫的",
       "speakLineEn": "A pressing question still needs a design.",
       "speakLineZh": "急迫問題仍需要設計。",
       "related": {
@@ -115,7 +115,7 @@
     {
       "headword": "impression",
       "inVocab": false,
-      "senseAnchor": "印象",
+      "senseAnchor": "印象；場面：印痕",
       "roleInScript": "印痕",
       "humorDevice": "morphology",
       "zhGloss": "印象",
@@ -145,10 +145,10 @@
     {
       "headword": "oppress",
       "inVocab": true,
-      "senseAnchor": "come down on or keep down by unjust use of one's authority; cause to suffer",
+      "senseAnchor": "鎮壓；壓迫",
       "roleInScript": "往下壓人",
       "humorDevice": "story",
-      "zhGloss": "壓迫",
+      "zhGloss": "鎮壓；壓迫",
       "speakLineEn": "Do not oppress dissent in lab meetings.",
       "speakLineZh": "實驗室會議不要壓迫異議。",
       "related": {
@@ -160,7 +160,7 @@
     {
       "headword": "repress",
       "inVocab": false,
-      "senseAnchor": "壓抑",
+      "senseAnchor": "壓抑；場面：壓回去",
       "roleInScript": "壓回去",
       "humorDevice": "story",
       "zhGloss": "壓抑",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch04"
+    "stage": "P2-batch04",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

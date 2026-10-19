@@ -25,10 +25,10 @@
     {
       "headword": "misapprehension",
       "inVocab": true,
-      "senseAnchor": "an understanding of something that is not correct",
+      "senseAnchor": "誤解；場面：整廠誤會",
       "roleInScript": "整廠誤會",
       "humorDevice": "morphology",
-      "zhGloss": "誤會；誤解",
+      "zhGloss": "誤解",
       "speakLineEn": "Clear the misapprehension that p equals truth.",
       "speakLineZh": "澄清 p 等於真理的誤會。",
       "related": {
@@ -85,7 +85,7 @@
     {
       "headword": "misanthrope",
       "inVocab": true,
-      "senseAnchor": "厭世者",
+      "senseAnchor": "厭世者；場面：厭世品管",
       "roleInScript": "厭世品管",
       "humorDevice": "morphology",
       "zhGloss": "厭世者",
@@ -115,7 +115,7 @@
     {
       "headword": "mislead",
       "inVocab": true,
-      "senseAnchor": "誤導",
+      "senseAnchor": "誤導；場面：指標路牌錯",
       "roleInScript": "指標路牌錯",
       "humorDevice": "story",
       "zhGloss": "誤導",
@@ -130,7 +130,7 @@
     {
       "headword": "mistake",
       "inVocab": true,
-      "senseAnchor": "錯誤",
+      "senseAnchor": "錯誤；場面：工廠出品",
       "roleInScript": "工廠出品",
       "humorDevice": "story",
       "zhGloss": "錯誤",
@@ -145,7 +145,7 @@
     {
       "headword": "misread",
       "inVocab": true,
-      "senseAnchor": "誤讀",
+      "senseAnchor": "誤讀；場面：看錯儀表",
       "roleInScript": "看錯儀表",
       "humorDevice": "story",
       "zhGloss": "誤讀",
@@ -160,7 +160,7 @@
     {
       "headword": "miscount",
       "inVocab": true,
-      "senseAnchor": "數錯",
+      "senseAnchor": "數錯；場面：計數翻車",
       "roleInScript": "計數翻車",
       "humorDevice": "story",
       "zhGloss": "數錯",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P2-batch01"
+    "stage": "P2-batch01",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

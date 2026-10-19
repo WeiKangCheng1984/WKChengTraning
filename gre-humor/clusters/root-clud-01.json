@@ -40,10 +40,10 @@
     {
       "headword": "preclude",
       "inVocab": true,
-      "senseAnchor": "to make impossible, as by action taken in advance",
+      "senseAnchor": "阻止；場面：預先把門鎖上",
       "roleInScript": "預先把門鎖上",
       "humorDevice": "morphology",
-      "zhGloss": "預先阻止；使不可能",
+      "zhGloss": "阻止",
       "speakLineEn": "Budget limits preclude a full replication study.",
       "speakLineZh": "預算限制使完整重製研究不可行。",
       "related": {
@@ -55,10 +55,10 @@
     {
       "headword": "seclude",
       "inVocab": true,
-      "senseAnchor": "remove from contact with others",
+      "senseAnchor": "獨居的；獨處的",
       "roleInScript": "把自己鎖進小房間",
       "humorDevice": "morphology",
-      "zhGloss": "使隔絕；隱居",
+      "zhGloss": "獨居的；獨處的",
       "speakLineEn": "The writer secluded herself to finish the draft.",
       "speakLineZh": "作者隔絕自己以完成草稿。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "occlude",
       "inVocab": true,
-      "senseAnchor": "block passage through",
+      "senseAnchor": "阻礙；阻擋",
       "roleInScript": "管路被堵住",
       "humorDevice": "morphology",
-      "zhGloss": "堵塞；閉塞",
+      "zhGloss": "阻礙；阻擋",
       "speakLineEn": "Plaque can occlude the artery.",
       "speakLineZh": "斑塊可能堵塞動脈。",
       "related": {
@@ -104,8 +104,8 @@
       "roleInScript": "關閉門",
       "humorDevice": "morphology",
       "zhGloss": "關閉",
-      "speakLineEn": "Cue the 關閉門: closure walks on and the gag sticks.",
-      "speakLineZh": "請「關閉門」出場：closure 一上場梗就黏住——關閉。",
+      "speakLineEn": "A careful reader links closure to 關閉, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 closure 連到「關閉」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -116,11 +116,11 @@
       "headword": "enclosure",
       "inVocab": false,
       "senseAnchor": "圍場",
-      "roleInScript": "圍場",
+      "roleInScript": "圍場角色",
       "humorDevice": "morphology",
       "zhGloss": "圍場",
-      "speakLineEn": "Cue the 圍場: enclosure walks on and the gag sticks.",
-      "speakLineZh": "請「圍場」出場：enclosure 一上場梗就黏住——圍場。",
+      "speakLineEn": "Hold the meaning steady: enclosure means 圍場.",
+      "speakLineZh": "記住考意：enclosure＝圍場。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -130,12 +130,12 @@
     {
       "headword": "foreclose",
       "inVocab": true,
-      "senseAnchor": "keep from happening or arising; make impossible; subject to foreclosing procedures; take away the right of mortgagors to redeem their mortgage",
+      "senseAnchor": "阻止；場面：止贖章",
       "roleInScript": "止贖章",
       "humorDevice": "morphology",
-      "zhGloss": "止贖關閉",
-      "speakLineEn": "Cue the 止贖章: foreclose walks on and the gag sticks.",
-      "speakLineZh": "請「止贖章」出場：foreclose 一上場梗就黏住——止贖關閉。",
+      "zhGloss": "阻止",
+      "speakLineEn": "In the end, they chose to foreclose what they had once defended.",
+      "speakLineZh": "阻止。",
       "related": {
         "synonyms": "prevent, forestall, preclude, forbid",
         "antonyms": "let, allow, permit"
@@ -145,12 +145,12 @@
     {
       "headword": "reclusive",
       "inVocab": true,
-      "senseAnchor": "withdrawn from society; seeking solitude; providing privacy or seclusion",
+      "senseAnchor": "隱居的；獨處的",
       "roleInScript": "隱居鎖",
       "humorDevice": "morphology",
-      "zhGloss": "隱居的",
-      "speakLineEn": "Cue the 隱居鎖: reclusive walks on and the gag sticks.",
-      "speakLineZh": "請「隱居鎖」出場：reclusive 一上場梗就黏住——隱居的。",
+      "zhGloss": "隱居的；獨處的",
+      "speakLineEn": "Sitting under the reclusive calm of a shade tree.",
+      "speakLineZh": "隱居的；獨處的。",
       "related": {
         "synonyms": "recluse, withdrawn, cloistered, secluded, sequestered",
         "antonyms": "socialite, extrovert, advance, deposit, engage"
@@ -160,12 +160,12 @@
     {
       "headword": "seclusion",
       "inVocab": true,
-      "senseAnchor": "the quality of being secluded from the presence or view of others; the act of secluding yourself from others",
+      "senseAnchor": "隔離；隱居",
       "roleInScript": "隱居屋",
       "humorDevice": "morphology",
-      "zhGloss": "隱居",
-      "speakLineEn": "Cue the 隱居屋: seclusion walks on and the gag sticks.",
-      "speakLineZh": "請「隱居屋」出場：seclusion 一上場梗就黏住——隱居。",
+      "zhGloss": "隔離；隱居",
+      "speakLineEn": "A clear sense of seclusion is crucial to understanding the argument.",
+      "speakLineZh": "隔離；隱居。",
       "related": {
         "synonyms": "privacy, privateness",
         "antonyms": ""
@@ -192,6 +192,9 @@
   "qualityGate": {
     "reviewedAt": "2026-10-18",
     "note": "Stage-1 promote: aligned with tract lesson template",
-    "thickenedAt": "P4-batch01"
+    "thickenedAt": "P4-batch01",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave2",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

@@ -10,10 +10,10 @@
     {
       "headword": "debase",
       "inVocab": true,
-      "senseAnchor": "corrupt morally or by intemperance or sensuality; lower in value by increasing the base-metal content",
+      "senseAnchor": "貶低；貶損",
       "roleInScript": "往下貶質",
       "humorDevice": "morphology",
-      "zhGloss": "貶低；使變劣",
+      "zhGloss": "貶低；貶損",
       "speakLineEn": "Do not debase peer review into scoreboard theater.",
       "speakLineZh": "別把同儕審查貶成計分秀。",
       "related": {
@@ -25,10 +25,10 @@
     {
       "headword": "deplete",
       "inVocab": true,
-      "senseAnchor": "reduce by a large amount",
+      "senseAnchor": "耗盡；場面：抽光",
       "roleInScript": "抽光",
       "humorDevice": "morphology",
-      "zhGloss": "耗盡；用盡",
+      "zhGloss": "耗盡",
       "speakLineEn": "Underpowered designs deplete trust.",
       "speakLineZh": "低檢定力設計耗盡信任。",
       "related": {
@@ -40,10 +40,10 @@
     {
       "headword": "deride",
       "inVocab": true,
-      "senseAnchor": "treat or speak of with contempt",
+      "senseAnchor": "嘲笑；場面：往下笑人",
       "roleInScript": "往下笑人",
       "humorDevice": "morphology",
-      "zhGloss": "嘲笑；嘲弄",
+      "zhGloss": "嘲笑",
       "speakLineEn": "Deride ideas, not people—then still check the math.",
       "speakLineZh": "嘲弄想法而非人身——但仍核對數學。",
       "related": {
@@ -55,10 +55,10 @@
     {
       "headword": "desecrate",
       "inVocab": true,
-      "senseAnchor": "violate the sacred character of a place or language; remove the consecration from a person or an object",
+      "senseAnchor": "玷污；褻瀆",
       "roleInScript": "玷污神聖",
       "humorDevice": "morphology",
-      "zhGloss": "褻瀆",
+      "zhGloss": "玷污；褻瀆",
       "speakLineEn": "Desecrate open science by gaming badges.",
       "speakLineZh": "用刷徽章褻瀆開放科學。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "deflect",
       "inVocab": true,
-      "senseAnchor": "prevent the occurrence of; prevent from happening; turn from a straight course, fixed direction, or line of interest",
+      "senseAnchor": "偏離；場面：打歪",
       "roleInScript": "打歪",
       "humorDevice": "morphology",
-      "zhGloss": "偏轉；轉移",
+      "zhGloss": "偏離",
       "speakLineEn": "Do not deflect critique with credentials.",
       "speakLineZh": "不要用資歷轉移批評。",
       "related": {
@@ -85,10 +85,10 @@
     {
       "headword": "despondent",
       "inVocab": true,
-      "senseAnchor": "without or almost without hope",
+      "senseAnchor": "低迷的；場面：情緒向下",
       "roleInScript": "情緒向下",
       "humorDevice": "morphology",
-      "zhGloss": "沮喪的",
+      "zhGloss": "低迷的",
       "speakLineEn": "A despondent team still owes accurate logs.",
       "speakLineZh": "沮喪團隊仍欠準確日誌。",
       "related": {
@@ -100,10 +100,10 @@
     {
       "headword": "debunk",
       "inVocab": true,
-      "senseAnchor": "to reveal the true nature of",
+      "senseAnchor": "揭穿真相；拆穿",
       "roleInScript": "拆假",
       "humorDevice": "morphology",
-      "zhGloss": "揭穿；拆穿",
+      "zhGloss": "揭穿真相",
       "speakLineEn": "Debunk myths with registered replications.",
       "speakLineZh": "用註冊複現揭穿迷思。",
       "related": {
@@ -115,10 +115,10 @@
     {
       "headword": "defame",
       "inVocab": true,
-      "senseAnchor": "charge falsely or with malicious intent; attack the good name and reputation of someone",
+      "senseAnchor": "誹謗；中傷",
       "roleInScript": "往下抹名",
       "humorDevice": "morphology",
-      "zhGloss": "誹謗",
+      "zhGloss": "誹謗；中傷",
       "speakLineEn": "Do not defame whistleblowers.",
       "speakLineZh": "不要誹謗吹哨者。",
       "related": {
@@ -160,7 +160,7 @@
     {
       "headword": "devalue",
       "inVocab": false,
-      "senseAnchor": "貶值",
+      "senseAnchor": "貶值；場面：降低價值",
       "roleInScript": "降低價值",
       "humorDevice": "story",
       "zhGloss": "貶值",
@@ -188,6 +188,8 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P1-batch02"
+    "stage": "P1-batch02",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

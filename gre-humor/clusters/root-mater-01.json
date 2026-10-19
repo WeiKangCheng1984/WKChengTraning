@@ -10,7 +10,7 @@
     {
       "headword": "maternal",
       "inVocab": true,
-      "senseAnchor": "母親的",
+      "senseAnchor": "母親的；場面：母性章",
       "roleInScript": "母性章",
       "humorDevice": "morphology",
       "zhGloss": "母親的",
@@ -40,7 +40,7 @@
     {
       "headword": "matriarch",
       "inVocab": true,
-      "senseAnchor": "女家長",
+      "senseAnchor": "女家長；場面：家族女王",
       "roleInScript": "家族女王",
       "humorDevice": "morphology",
       "zhGloss": "女家長",
@@ -85,7 +85,7 @@
     {
       "headword": "matrimony",
       "inVocab": true,
-      "senseAnchor": "婚姻",
+      "senseAnchor": "婚姻；場面：結婚登記",
       "roleInScript": "結婚登記",
       "humorDevice": "morphology",
       "zhGloss": "婚姻",
@@ -130,7 +130,7 @@
     {
       "headword": "motherlode",
       "inVocab": true,
-      "senseAnchor": "富礦脈",
+      "senseAnchor": "富礦脈；場面：主礦脈",
       "roleInScript": "主礦脈",
       "humorDevice": "story",
       "zhGloss": "富礦脈",
@@ -175,7 +175,7 @@
     {
       "headword": "lineage",
       "inVocab": true,
-      "senseAnchor": "世系",
+      "senseAnchor": "世系；場面：血統樹",
       "roleInScript": "血統樹",
       "humorDevice": "story",
       "zhGloss": "世系",
@@ -203,6 +203,8 @@
   "priority": "C",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch05"
+    "stage": "P2-batch05",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

@@ -5,15 +5,15 @@
   "titleZh": "沉默寡言 ↔ 長舌婦",
   "titleEn": "Taciturn vs. Garrulous",
   "hook": "一邊痛到倒吸涼氣說不出話，一邊嘎嚕嚕叫不停。",
-  "script": "會議室左排 taciturn、reticent、laconic——能不說就不說；右排 loquacious、garrulous、verbose——停不下來。",
+  "script": "會議室左排 taciturn、reticent、laconic——能不說就不說；右排 loquacious、garrulous、verbose——停不下來。語義對打：兩邊語氣相反，考試選「褒貶／強弱」對的那側。登場：taciturn（倒吸涼氣派）、reticent（有話留半句）、laconic（短到像密碼）、loquacious（話匣子）、garrulous（嘎嚕嚕老母雞）、verbose（字數膨脹）。",
   "members": [
     {
       "headword": "taciturn",
       "inVocab": true,
-      "senseAnchor": "habitually reserved and uncommunicative",
+      "senseAnchor": "沉默的；場面：倒吸涼氣派",
       "roleInScript": "倒吸涼氣派",
       "humorDevice": "phonetic",
-      "zhGloss": "沉默寡言的",
+      "zhGloss": "沉默的",
       "speakLineEn": "The taciturn witness answered in monosyllables.",
       "speakLineZh": "沉默的證人只用單音節回答。",
       "related": {
@@ -25,10 +25,10 @@
     {
       "headword": "reticent",
       "inVocab": true,
-      "senseAnchor": "inclined to be silent or uncommunicative in speech",
+      "senseAnchor": "沉默不語的；話少的",
       "roleInScript": "有話留半句",
       "humorDevice": "contrast",
-      "zhGloss": "不輕易透露的；緘默的",
+      "zhGloss": "沉默不語的；話少的",
       "speakLineEn": "She remained reticent about her funding sources.",
       "speakLineZh": "她對資金來源仍不輕易透露。",
       "related": {
@@ -40,10 +40,10 @@
     {
       "headword": "laconic",
       "inVocab": true,
-      "senseAnchor": "using a minimum of words",
+      "senseAnchor": "簡短的；場面：短到像密碼",
       "roleInScript": "短到像密碼",
       "humorDevice": "contrast",
-      "zhGloss": "言簡意賅的",
+      "zhGloss": "簡短的",
       "speakLineEn": "His laconic reply ended the discussion.",
       "speakLineZh": "他言簡意賅的回覆結束了討論。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "garrulous",
       "inVocab": true,
-      "senseAnchor": "talkative",
+      "senseAnchor": "話多的；場面：嘎嚕嚕老母雞",
       "roleInScript": "嘎嚕嚕老母雞",
       "humorDevice": "phonetic",
-      "zhGloss": "喋喋不休的",
+      "zhGloss": "話多的",
       "speakLineEn": "The garrulous memoir digresses endlessly.",
       "speakLineZh": "這本喋喋不休的回憶錄沒完没了地離題。",
       "related": {
@@ -85,10 +85,10 @@
     {
       "headword": "verbose",
       "inVocab": true,
-      "senseAnchor": "using or containing too many words",
+      "senseAnchor": "冗長的；乏味的",
       "roleInScript": "字數膨脹",
       "humorDevice": "contrast",
-      "zhGloss": "冗長的；囉唆的",
+      "zhGloss": "冗長的；乏味的",
       "speakLineEn": "Cut verbose transitions; keep the claim sharp.",
       "speakLineZh": "刪掉冗長過渡，讓論點保持鋒利。",
       "related": {
@@ -104,8 +104,8 @@
       "roleInScript": "話匣",
       "humorDevice": "contrast",
       "zhGloss": "愛聊天的",
-      "speakLineEn": "Cue the 話匣: chatty walks on and the gag sticks.",
-      "speakLineZh": "請「話匣」出場：chatty 一上場梗就黏住——愛聊天的。",
+      "speakLineEn": "A careful reader links chatty to 愛聊天的, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 chatty 連到「愛聊天的」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -115,12 +115,12 @@
     {
       "headword": "prattle",
       "inVocab": false,
-      "senseAnchor": "閒聊",
+      "senseAnchor": "閒聊；場面：碎嘴",
       "roleInScript": "碎嘴",
       "humorDevice": "contrast",
       "zhGloss": "閒聊",
-      "speakLineEn": "Cue the 碎嘴: prattle walks on and the gag sticks.",
-      "speakLineZh": "請「碎嘴」出場：prattle 一上場梗就黏住——閒聊。",
+      "speakLineEn": "Critics argued that the policy would prattle basic protections.",
+      "speakLineZh": "批評者主張該政策會閒聊基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -147,6 +147,9 @@
   "qualityGate": {
     "reviewedAt": "2026-10-18",
     "note": "Stage-1 promote: aligned with tract lesson template",
-    "thickenedAt": "P4-batch01"
+    "thickenedAt": "P4-batch01",
+    "polishStage": "Q-wave2",
+    "polishedAt": "2026-10-19",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

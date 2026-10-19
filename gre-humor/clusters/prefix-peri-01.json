@@ -10,10 +10,10 @@
     {
       "headword": "peripheral",
       "inVocab": true,
-      "senseAnchor": "not important",
+      "senseAnchor": "不重要的；外圍的",
       "roleInScript": "外圍帶",
       "humorDevice": "morphology",
-      "zhGloss": "外圍的；次要的",
+      "zhGloss": "不重要的",
       "speakLineEn": "Keep peripheral endpoints labeled secondary.",
       "speakLineZh": "外圍終點標為次要。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "peripatetic",
       "inVocab": true,
-      "senseAnchor": "walking about",
+      "senseAnchor": "漫遊的；場面：邊走邊聊",
       "roleInScript": "邊走邊聊",
       "humorDevice": "morphology",
-      "zhGloss": "巡遊的；走著討論的",
+      "zhGloss": "漫遊的",
       "speakLineEn": "Peripatetic collaborators still need a repo.",
       "speakLineZh": "巡遊合作者仍需要 repo。",
       "related": {
@@ -173,6 +173,8 @@
   "priority": "C",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch07"
+    "stage": "P2-batch07",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

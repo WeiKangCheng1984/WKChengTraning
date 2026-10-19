@@ -10,12 +10,12 @@
     {
       "headword": "publicize",
       "inVocab": true,
-      "senseAnchor": "宣傳",
+      "senseAnchor": "宣傳；場面：海報車",
       "roleInScript": "海報車",
       "humorDevice": "contrast",
       "zhGloss": "宣傳",
-      "speakLineEn": "Cue the 海報車: publicize walks on and the gag sticks.",
-      "speakLineZh": "請「海報車」出場：publicize 一上場梗就黏住——宣傳。",
+      "speakLineEn": "On the exam, publicize most nearly means a sense of \"宣傳\".",
+      "speakLineZh": "宣傳。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -25,12 +25,12 @@
     {
       "headword": "closet",
       "inVocab": true,
-      "senseAnchor": "a small room (or recess) or cabinet used for storage space; a toilet in Britain",
+      "senseAnchor": "壁櫥；祕密的",
       "roleInScript": "壁櫥密",
       "humorDevice": "contrast",
-      "zhGloss": "祕密的",
-      "speakLineEn": "Cue the 壁櫥密: closet walks on and the gag sticks.",
-      "speakLineZh": "請「壁櫥密」出場：closet 一上場梗就黏住——祕密的。",
+      "zhGloss": "壁櫥；祕密的",
+      "speakLineEn": "A clear sense of closet is crucial to understanding the argument.",
+      "speakLineZh": "壁櫥；祕密的。",
       "related": {
         "synonyms": "cupboard, W.C., loo, wardrobe, press",
         "antonyms": ""
@@ -40,12 +40,12 @@
     {
       "headword": "secluded",
       "inVocab": true,
-      "senseAnchor": "隱居的",
+      "senseAnchor": "隱居的；場面：深山屋",
       "roleInScript": "深山屋",
       "humorDevice": "contrast",
       "zhGloss": "隱居的",
-      "speakLineEn": "Cue the 深山屋: secluded walks on and the gag sticks.",
-      "speakLineZh": "請「深山屋」出場：secluded 一上場梗就黏住——隱居的。",
+      "speakLineEn": "On the exam, secluded most nearly means a sense of \"隱居的\".",
+      "speakLineZh": "隱居的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -59,8 +59,8 @@
       "roleInScript": "紅戳",
       "humorDevice": "contrast",
       "zhGloss": "機密分級的",
-      "speakLineEn": "Cue the 紅戳: classified walks on and the gag sticks.",
-      "speakLineZh": "請「紅戳」出場：classified 一上場梗就黏住——機密分級的。",
+      "speakLineEn": "On the exam, classified most nearly means a sense of \"機密分級的\".",
+      "speakLineZh": "機密分級的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -70,12 +70,12 @@
     {
       "headword": "plaza",
       "inVocab": true,
-      "senseAnchor": "a public square with room for pedestrians; mercantile establishment consisting of a carefully landscaped complex of shops representing leading merchandisers; usually includes restaurants and a convenient parking area; a modern version of the traditional marketplace",
-      "roleInScript": "廣場",
+      "senseAnchor": "廣場",
+      "roleInScript": "廣場角色",
       "humorDevice": "story",
       "zhGloss": "廣場",
-      "speakLineEn": "Cue the 廣場: plaza walks on and the gag sticks.",
-      "speakLineZh": "請「廣場」出場：plaza 一上場梗就黏住——廣場。",
+      "speakLineEn": "A good plaza should have a movie house.",
+      "speakLineZh": "廣場。",
       "related": {
         "synonyms": "place, piazza, mall, center",
         "antonyms": "divest, left, right"
@@ -86,11 +86,11 @@
       "headword": "booth",
       "inVocab": false,
       "senseAnchor": "隔音房",
-      "roleInScript": "隔音房",
+      "roleInScript": "隔音房角色",
       "humorDevice": "story",
       "zhGloss": "隔音房",
-      "speakLineEn": "Cue the 隔音房: booth walks on and the gag sticks.",
-      "speakLineZh": "請「隔音房」出場：booth 一上場梗就黏住——隔音房。",
+      "speakLineEn": "Hold the meaning steady: booth means 隔音房.",
+      "speakLineZh": "記住考意：booth＝隔音房。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -101,11 +101,11 @@
       "headword": "folder",
       "inVocab": false,
       "senseAnchor": "資料夾",
-      "roleInScript": "資料夾",
+      "roleInScript": "資料夾角色",
       "humorDevice": "story",
       "zhGloss": "資料夾",
-      "speakLineEn": "Cue the 資料夾: folder walks on and the gag sticks.",
-      "speakLineZh": "請「資料夾」出場：folder 一上場梗就黏住——資料夾。",
+      "speakLineEn": "Hold the meaning steady: folder means 資料夾.",
+      "speakLineZh": "記住考意：folder＝資料夾。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -116,11 +116,11 @@
       "headword": "lock",
       "inVocab": false,
       "senseAnchor": "鎖",
-      "roleInScript": "鎖",
+      "roleInScript": "鎖角色",
       "humorDevice": "story",
       "zhGloss": "鎖",
-      "speakLineEn": "Cue the 鎖: lock walks on and the gag sticks.",
-      "speakLineZh": "請「鎖」出場：lock 一上場梗就黏住——鎖。",
+      "speakLineEn": "A careful reader links lock to 鎖, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 lock 連到「鎖」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -131,11 +131,11 @@
       "headword": "poster",
       "inVocab": false,
       "senseAnchor": "海報",
-      "roleInScript": "海報",
+      "roleInScript": "海報角色",
       "humorDevice": "story",
       "zhGloss": "海報",
-      "speakLineEn": "Cue the 海報: poster walks on and the gag sticks.",
-      "speakLineZh": "請「海報」出場：poster 一上場梗就黏住——海報。",
+      "speakLineEn": "A careful reader links poster to 海報, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 poster 連到「海報」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -157,6 +157,9 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P3-batch03"
+    "stage": "P3-batch03",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave2",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

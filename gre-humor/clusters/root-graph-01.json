@@ -10,10 +10,10 @@
     {
       "headword": "graph",
       "inVocab": false,
-      "senseAnchor": "圖；圖表",
+      "senseAnchor": "圖表；場面：主圖",
       "roleInScript": "主圖",
       "humorDevice": "morphology",
-      "zhGloss": "圖；圖表",
+      "zhGloss": "圖表",
       "speakLineEn": "Put the primary graph in the abstract figure.",
       "speakLineZh": "把主圖放進摘要圖。",
       "related": {
@@ -55,7 +55,7 @@
     {
       "headword": "telegram",
       "inVocab": false,
-      "senseAnchor": "電報",
+      "senseAnchor": "電報；場面：急報短訊",
       "roleInScript": "急報短訊",
       "humorDevice": "morphology",
       "zhGloss": "電報",
@@ -70,7 +70,7 @@
     {
       "headword": "grammar",
       "inVocab": false,
-      "senseAnchor": "文法",
+      "senseAnchor": "文法；場面：句法墨水",
       "roleInScript": "句法墨水",
       "humorDevice": "morphology",
       "zhGloss": "文法",
@@ -85,10 +85,10 @@
     {
       "headword": "epigram",
       "inVocab": true,
-      "senseAnchor": "a witty saying",
+      "senseAnchor": "格言警句；雋語",
       "roleInScript": "一句刺",
       "humorDevice": "morphology",
-      "zhGloss": "警句；雋語",
+      "zhGloss": "格言警句",
       "speakLineEn": "An epigram is not a causal claim.",
       "speakLineZh": "警句不是因果主張。",
       "related": {
@@ -115,7 +115,7 @@
     {
       "headword": "biography",
       "inVocab": false,
-      "senseAnchor": "傳記",
+      "senseAnchor": "傳記；場面：人生圖寫",
       "roleInScript": "人生圖寫",
       "humorDevice": "story",
       "zhGloss": "傳記",
@@ -130,7 +130,7 @@
     {
       "headword": "paragraph",
       "inVocab": false,
-      "senseAnchor": "段落",
+      "senseAnchor": "段落；場面：段寫單位",
       "roleInScript": "段寫單位",
       "humorDevice": "story",
       "zhGloss": "段落",
@@ -160,7 +160,7 @@
     {
       "headword": "graphite",
       "inVocab": false,
-      "senseAnchor": "石墨",
+      "senseAnchor": "石墨；場面：畫線粉",
       "roleInScript": "畫線粉",
       "humorDevice": "story",
       "zhGloss": "石墨",
@@ -175,7 +175,7 @@
     {
       "headword": "cartography",
       "inVocab": false,
-      "senseAnchor": "製圖學",
+      "senseAnchor": "製圖學；場面：地圖寫法",
       "roleInScript": "地圖寫法",
       "humorDevice": "story",
       "zhGloss": "製圖學",
@@ -203,6 +203,9 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch04"
+    "stage": "P2-batch04",
+    "polishStage": "Q-gold",
+    "polishedAt": "2026-10-19",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

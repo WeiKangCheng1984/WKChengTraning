@@ -10,7 +10,7 @@
     {
       "headword": "sacred",
       "inVocab": true,
-      "senseAnchor": "神聖的",
+      "senseAnchor": "神聖的；場面：聖封貼紙",
       "roleInScript": "聖封貼紙",
       "humorDevice": "morphology",
       "zhGloss": "神聖的",
@@ -25,10 +25,10 @@
     {
       "headword": "sacrosanct",
       "inVocab": true,
-      "senseAnchor": "most sacred or holy",
+      "senseAnchor": "極爲神聖的；神聖不可侵犯的",
       "roleInScript": "禁碰封印",
       "humorDevice": "morphology",
-      "zhGloss": "神聖不可侵犯的",
+      "zhGloss": "極爲神聖的",
       "speakLineEn": "No hypothesis is sacrosanct after new evidence.",
       "speakLineZh": "新證據後沒有假說不可碰。",
       "related": {
@@ -40,10 +40,10 @@
     {
       "headword": "sanctuary",
       "inVocab": true,
-      "senseAnchor": "a consecrated place where sacred objects are kept; a shelter from danger or hardship",
+      "senseAnchor": "避難所；聖所",
       "roleInScript": "庇護所",
       "humorDevice": "morphology",
-      "zhGloss": "庇護所；聖殿",
+      "zhGloss": "避難所；聖所",
       "speakLineEn": "Make the lab a sanctuary for honest doubt.",
       "speakLineZh": "讓實驗室成為誠實懷疑的庇護所。",
       "related": {
@@ -85,7 +85,7 @@
     {
       "headword": "sacrificial",
       "inVocab": true,
-      "senseAnchor": "犧牲的",
+      "senseAnchor": "犧牲的；場面：祭品標",
       "roleInScript": "祭品標",
       "humorDevice": "morphology",
       "zhGloss": "犧牲的",
@@ -100,10 +100,10 @@
     {
       "headword": "sanction",
       "inVocab": true,
-      "senseAnchor": "to permit officially",
+      "senseAnchor": "批准；同意",
       "roleInScript": "批准／制裁章",
       "humorDevice": "morphology",
-      "zhGloss": "批准；制裁",
+      "zhGloss": "批准；同意",
       "speakLineEn": "Ethics boards sanction protocols, not vibes.",
       "speakLineZh": "倫理委員會批准規程，不是感覺。",
       "related": {
@@ -115,10 +115,10 @@
     {
       "headword": "consecrate",
       "inVocab": true,
-      "senseAnchor": "appoint to a clerical posts; give entirely to a specific person, activity, or cause",
+      "senseAnchor": "奉獻；使神聖",
       "roleInScript": "奉獻儀式",
       "humorDevice": "morphology",
-      "zhGloss": "奉獻；使神聖",
+      "zhGloss": "奉獻",
       "speakLineEn": "Consecrate time for replication, not only novelty.",
       "speakLineZh": "把時間奉獻給複現，不只新奇。",
       "related": {
@@ -130,7 +130,7 @@
     {
       "headword": "saint",
       "inVocab": true,
-      "senseAnchor": "聖徒",
+      "senseAnchor": "聖徒；場面：聖人海報",
       "roleInScript": "聖人海報",
       "humorDevice": "story",
       "zhGloss": "聖徒",
@@ -145,10 +145,10 @@
     {
       "headword": "sanctimonious",
       "inVocab": true,
-      "senseAnchor": "pretending to be morally better than other people",
+      "senseAnchor": "假裝有道德的；假虔誠的",
       "roleInScript": "假神聖臉",
       "humorDevice": "story",
-      "zhGloss": "假虔誠的",
+      "zhGloss": "假裝有道德的",
       "speakLineEn": "Sanctimonious slogans do not replace audits.",
       "speakLineZh": "假虔誠口號取代不了稽核。",
       "related": {
@@ -160,7 +160,7 @@
     {
       "headword": "holy",
       "inVocab": true,
-      "senseAnchor": "神聖的",
+      "senseAnchor": "神聖的；場面：口語聖",
       "roleInScript": "口語聖",
       "humorDevice": "story",
       "zhGloss": "神聖的",
@@ -175,10 +175,10 @@
     {
       "headword": "taboo",
       "inVocab": true,
-      "senseAnchor": "a prejudice (especially in Polynesia and other South Pacific islands) that prohibits the use or mention of something because of its sacred nature; an inhibition or ban resulting from social custom or emotional aversion",
+      "senseAnchor": "禁忌；禁止",
       "roleInScript": "禁區牌",
       "humorDevice": "story",
-      "zhGloss": "禁忌",
+      "zhGloss": "禁忌；禁止",
       "speakLineEn": "Make outcome switching a lab taboo.",
       "speakLineZh": "把結局替換設為實驗室禁忌。",
       "related": {
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch05"
+    "stage": "P2-batch05",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

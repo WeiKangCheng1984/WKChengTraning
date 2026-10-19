@@ -40,10 +40,10 @@
     {
       "headword": "volition",
       "inVocab": true,
-      "senseAnchor": "the capability of conscious choice and decision and intention; - George Meredith; the act of making a choice",
+      "senseAnchor": "意志；場面：操縱桿",
       "roleInScript": "操縱桿",
       "humorDevice": "morphology",
-      "zhGloss": "意志；決意",
+      "zhGloss": "意志",
       "speakLineEn": "Fraud is a choice of volition, not accident.",
       "speakLineZh": "造假是意志選擇不是意外。",
       "related": {
@@ -55,10 +55,10 @@
     {
       "headword": "volatile",
       "inVocab": true,
-      "senseAnchor": "a volatile substance; a substance that changes readily from solid or liquid to a vapor; evaporating readily at normal temperatures and pressures",
+      "senseAnchor": "不穩定的；易揮發的",
       "roleInScript": "易飛走",
       "humorDevice": "morphology",
-      "zhGloss": "易變的；易揮發的",
+      "zhGloss": "不穩定的；易揮發的",
       "speakLineEn": "Volatile metrics need version pins.",
       "speakLineZh": "易變指標需要版本釘死。",
       "related": {
@@ -85,7 +85,7 @@
     {
       "headword": "volume",
       "inVocab": false,
-      "senseAnchor": "音量；冊；體積",
+      "senseAnchor": "音量；冊",
       "roleInScript": "音量飛高",
       "humorDevice": "morphology",
       "zhGloss": "音量；冊；體積",
@@ -100,10 +100,10 @@
     {
       "headword": "involuntary",
       "inVocab": true,
-      "senseAnchor": "not subject to the control of the will; ; ; ; - John F.Kennedy; controlled by the autonomic nervous system; without conscious control",
+      "senseAnchor": "無意識的；自然而然地",
       "roleInScript": "被推進機艙",
       "humorDevice": "story",
-      "zhGloss": "非自願的",
+      "zhGloss": "無意識的；自然而然地",
       "speakLineEn": "Involuntary data reuse needs fresh consent.",
       "speakLineZh": "非自願資料再利用需新同意。",
       "related": {
@@ -115,7 +115,7 @@
     {
       "headword": "volatility",
       "inVocab": false,
-      "senseAnchor": "波動性",
+      "senseAnchor": "波動性；場面：飛走程度",
       "roleInScript": "飛走程度",
       "humorDevice": "story",
       "zhGloss": "波動性",
@@ -145,7 +145,7 @@
     {
       "headword": "willpower",
       "inVocab": false,
-      "senseAnchor": "意志力",
+      "senseAnchor": "意志力；場面：願的力",
       "roleInScript": "願的力",
       "humorDevice": "story",
       "zhGloss": "意志力",
@@ -160,7 +160,7 @@
     {
       "headword": "willing",
       "inVocab": false,
-      "senseAnchor": "願意的",
+      "senseAnchor": "願意的；場面：肯飛",
       "roleInScript": "肯飛",
       "humorDevice": "story",
       "zhGloss": "願意的",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch03"
+    "stage": "P2-batch03",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

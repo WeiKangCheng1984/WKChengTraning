@@ -70,7 +70,7 @@
     {
       "headword": "admiration",
       "inVocab": false,
-      "senseAnchor": "欽佩",
+      "senseAnchor": "欽佩；場面：欣賞値",
       "roleInScript": "欣賞値",
       "humorDevice": "morphology",
       "zhGloss": "欽佩",
@@ -85,10 +85,10 @@
     {
       "headword": "mirage",
       "inVocab": true,
-      "senseAnchor": "an optical illusion in which atmospheric refraction by a layer of hot air distorts or inverts reflections of distant objects; something illusory and unattainable",
+      "senseAnchor": "海市蜃樓；幻想",
       "roleInScript": "沙漠假水",
       "humorDevice": "morphology",
-      "zhGloss": "海市蜃樓；幻景",
+      "zhGloss": "海市蜃樓；幻想",
       "speakLineEn": "A mirage of certainty fades under audit.",
       "speakLineZh": "確定性的海市蜃樓在稽核下消散。",
       "related": {
@@ -100,7 +100,7 @@
     {
       "headword": "mirror image",
       "inVocab": false,
-      "senseAnchor": "鏡像",
+      "senseAnchor": "鏡像；場面：左右相反像",
       "roleInScript": "左右相反像",
       "humorDevice": "story",
       "zhGloss": "鏡像",
@@ -115,10 +115,10 @@
     {
       "headword": "marvel",
       "inVocab": true,
-      "senseAnchor": "one that evokes surprise, admiration or wonder",
+      "senseAnchor": "令人驚奇的事物；驚嘆",
       "roleInScript": "驚奇",
       "humorDevice": "story",
-      "zhGloss": "驚嘆",
+      "zhGloss": "令人驚奇的事物",
       "speakLineEn": "Marvel less; measure more.",
       "speakLineZh": "少驚嘆；多測量。",
       "related": {
@@ -160,7 +160,7 @@
     {
       "headword": "illusion",
       "inVocab": false,
-      "senseAnchor": "錯覺",
+      "senseAnchor": "錯覺；場面：假像",
       "roleInScript": "假像",
       "humorDevice": "story",
       "zhGloss": "錯覺",
@@ -188,6 +188,8 @@
   "priority": "C",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch03"
+    "stage": "P2-batch03",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

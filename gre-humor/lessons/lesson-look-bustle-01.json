@@ -20,7 +20,7 @@
       "step": 2,
       "name": "串記劇本",
       "minutes": 2,
-      "content": "bustle＝喧鬧忙亂。hustle＝匆忙／催促。hurtle＝猛衝飛撞。廣播：熱鬧≠催你快跑≠被彈射出去；先認速度與意圖。"
+      "content": "bustle＝喧鬧忙亂。hustle＝匆忙／催促。hurtle＝猛衝飛撞。廣播：熱鬧≠催你快跑≠被彈射出去；先認速度與意圖。形近對決：先分清語意軸，再對號入座。登場：bustle（熱鬧格）、hustle（催趕格）、hurtle（飛射格）、hurdle（欄架）、rush（衝）、turntable（轉盤）。"
     },
     {
       "step": 3,
@@ -91,6 +91,8 @@
   "status": "reviewed",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P3-batch03"
+    "stage": "P3-batch03",
+    "polishStage": "Q-wave2",
+    "polishedAt": "2026-10-19"
   }
 }

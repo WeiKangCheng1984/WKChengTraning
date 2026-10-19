@@ -10,10 +10,10 @@
     {
       "headword": "alleviate",
       "inVocab": true,
-      "senseAnchor": "provide physical relief, as from pain; make easier",
+      "senseAnchor": "緩解；場面：把重物舉輕一點",
       "roleInScript": "把重物舉輕一點",
       "humorDevice": "morphology",
-      "zhGloss": "減輕；緩和",
+      "zhGloss": "緩解",
       "speakLineEn": "Better measures alleviate some bias, not all.",
       "speakLineZh": "更好測量減輕部分偏差，非全部。",
       "related": {
@@ -40,10 +40,10 @@
     {
       "headword": "levity",
       "inVocab": true,
-      "senseAnchor": "feeling an inappropriate lack of seriousness; a manner lacking seriousness",
+      "senseAnchor": "輕浮；多變",
       "roleInScript": "太輕了",
       "humorDevice": "morphology",
-      "zhGloss": "輕浮；不嚴肅",
+      "zhGloss": "輕浮；多變；不穩定",
       "speakLineEn": "Levity about fraud norms is dangerous.",
       "speakLineZh": "對造假規範輕浮很危險。",
       "related": {
@@ -55,10 +55,10 @@
     {
       "headword": "levy",
       "inVocab": true,
-      "senseAnchor": "a charge imposed and collected; the act of drafting into military service",
+      "senseAnchor": "徵稅；場面：抽起來",
       "roleInScript": "抽起來",
       "humorDevice": "morphology",
-      "zhGloss": "徵收；課稅",
+      "zhGloss": "徵稅",
       "speakLineEn": "Levy a cost on undisclosed exclusions.",
       "speakLineZh": "對未揭露排除課以成本。",
       "related": {
@@ -85,7 +85,7 @@
     {
       "headword": "relevant",
       "inVocab": false,
-      "senseAnchor": "相關的",
+      "senseAnchor": "相關的；場面：舉得上題",
       "roleInScript": "舉得上題",
       "humorDevice": "morphology",
       "zhGloss": "相關的",
@@ -130,7 +130,7 @@
     {
       "headword": "lever",
       "inVocab": false,
-      "senseAnchor": "槓桿",
+      "senseAnchor": "槓桿；場面：撬棍",
       "roleInScript": "撬棍",
       "humorDevice": "story",
       "zhGloss": "槓桿",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P1-batch02"
+    "stage": "P1-batch02",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

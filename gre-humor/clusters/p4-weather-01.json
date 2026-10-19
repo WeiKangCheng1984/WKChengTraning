@@ -11,11 +11,11 @@
       "headword": "drizzle",
       "inVocab": true,
       "senseAnchor": "毛毛雨",
-      "roleInScript": "毛毛雨",
+      "roleInScript": "毛毛雨角色",
       "humorDevice": "contrast",
       "zhGloss": "毛毛雨",
-      "speakLineEn": "Cue the 毛毛雨: drizzle walks on and the gag sticks.",
-      "speakLineZh": "請「毛毛雨」出場：drizzle 一上場梗就黏住——毛毛雨。",
+      "speakLineEn": "On the exam, drizzle most nearly means a sense of \"毛毛雨\".",
+      "speakLineZh": "毛毛雨。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -25,12 +25,12 @@
     {
       "headword": "sleet",
       "inVocab": true,
-      "senseAnchor": "雨夾雪",
+      "senseAnchor": "雨夾雪；場面：冰粒",
       "roleInScript": "冰粒",
       "humorDevice": "contrast",
       "zhGloss": "雨夾雪",
-      "speakLineEn": "Cue the 冰粒: sleet walks on and the gag sticks.",
-      "speakLineZh": "請「冰粒」出場：sleet 一上場梗就黏住——雨夾雪。",
+      "speakLineEn": "On the exam, sleet most nearly means a sense of \"雨夾雪\".",
+      "speakLineZh": "雨夾雪。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -44,8 +44,8 @@
       "roleInScript": "一陣風",
       "humorDevice": "contrast",
       "zhGloss": "陣風",
-      "speakLineEn": "Cue the 一陣風: gust walks on and the gag sticks.",
-      "speakLineZh": "請「一陣風」出場：gust 一上場梗就黏住——陣風。",
+      "speakLineEn": "On the exam, gust most nearly means a sense of \"陣風\".",
+      "speakLineZh": "陣風。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -59,8 +59,8 @@
       "roleInScript": "悶熱棚",
       "humorDevice": "contrast",
       "zhGloss": "悶熱",
-      "speakLineEn": "Cue the 悶熱棚: swelter walks on and the gag sticks.",
-      "speakLineZh": "請「悶熱棚」出場：swelter 一上場梗就黏住——悶熱。",
+      "speakLineEn": "On the exam, swelter most nearly means a sense of \"悶熱\".",
+      "speakLineZh": "悶熱。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -70,12 +70,12 @@
     {
       "headword": "humid",
       "inVocab": true,
-      "senseAnchor": "潮濕的",
+      "senseAnchor": "潮濕的；場面：濕氣",
       "roleInScript": "濕氣",
       "humorDevice": "contrast",
       "zhGloss": "潮濕的",
-      "speakLineEn": "Cue the 濕氣: humid walks on and the gag sticks.",
-      "speakLineZh": "請「濕氣」出場：humid 一上場梗就黏住——潮濕的。",
+      "speakLineEn": "On the exam, humid most nearly means a sense of \"潮濕的\".",
+      "speakLineZh": "潮濕的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -85,12 +85,12 @@
     {
       "headword": "balmy",
       "inVocab": true,
-      "senseAnchor": "和煦的",
+      "senseAnchor": "和煦的；場面：溫柔風",
       "roleInScript": "溫柔風",
       "humorDevice": "contrast",
       "zhGloss": "和煦的",
-      "speakLineEn": "Cue the 溫柔風: balmy walks on and the gag sticks.",
-      "speakLineZh": "請「溫柔風」出場：balmy 一上場梗就黏住——和煦的。",
+      "speakLineEn": "On the exam, balmy most nearly means a sense of \"和煦的\".",
+      "speakLineZh": "和煦的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -100,12 +100,12 @@
     {
       "headword": "overcast",
       "inVocab": true,
-      "senseAnchor": "the state of the sky when it is covered by clouds; gloomy semidarkness caused by cloud cover",
+      "senseAnchor": "陰暗的；遮蔽",
       "roleInScript": "陰天幕",
       "humorDevice": "contrast",
-      "zhGloss": "陰的",
-      "speakLineEn": "Cue the 陰天幕: overcast walks on and the gag sticks.",
-      "speakLineZh": "請「陰天幕」出場：overcast 一上場梗就黏住——陰的。",
+      "zhGloss": "陰暗的；遮蔽",
+      "speakLineEn": "Fall weather often overcasts our beaches.",
+      "speakLineZh": "陰暗的；遮蔽。",
       "related": {
         "synonyms": "cloudiness, overcasting, cloud, cloud-covered, clouded, sunless",
         "antonyms": "clear up"
@@ -115,12 +115,12 @@
     {
       "headword": "parched",
       "inVocab": true,
-      "senseAnchor": "乾透的",
+      "senseAnchor": "乾透的；場面：乾裂",
       "roleInScript": "乾裂",
       "humorDevice": "contrast",
       "zhGloss": "乾透的",
-      "speakLineEn": "Cue the 乾裂: parched walks on and the gag sticks.",
-      "speakLineZh": "請「乾裂」出場：parched 一上場梗就黏住——乾透的。",
+      "speakLineEn": "On the exam, parched most nearly means a sense of \"乾透的\".",
+      "speakLineZh": "乾透的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -130,12 +130,12 @@
     {
       "headword": "muggy",
       "inVocab": true,
-      "senseAnchor": "hot or warm and humid",
+      "senseAnchor": "潮溼的；悶熱的",
       "roleInScript": "黏空氣",
       "humorDevice": "contrast",
-      "zhGloss": "悶濕的",
-      "speakLineEn": "Cue the 黏空氣: muggy walks on and the gag sticks.",
-      "speakLineZh": "請「黏空氣」出場：muggy 一上場梗就黏住——悶濕的。",
+      "zhGloss": "潮溼的；悶熱的",
+      "speakLineEn": "In the passage, muggy signals a shift toward \"悶濕的\".",
+      "speakLineZh": "文中 muggy 標示語氣轉向「悶濕的」。",
       "related": {
         "synonyms": "steamy, sticky",
         "antonyms": ""
@@ -145,12 +145,12 @@
     {
       "headword": "brisk",
       "inVocab": true,
-      "senseAnchor": "become brisk; quick and energetic",
+      "senseAnchor": "活潑的；場面：涼風",
       "roleInScript": "涼風",
       "humorDevice": "contrast",
-      "zhGloss": "清爽的",
-      "speakLineEn": "Cue the 涼風: brisk walks on and the gag sticks.",
-      "speakLineZh": "請「涼風」出場：brisk 一上場梗就黏住——清爽的。",
+      "zhGloss": "活潑的",
+      "speakLineEn": "A brisk walk in the park.",
+      "speakLineZh": "活潑的。",
       "related": {
         "synonyms": "brisken, alert, lively, merry, rattling, snappy",
         "antonyms": "unalert, dull"
@@ -161,11 +161,11 @@
       "headword": "shed",
       "inVocab": false,
       "senseAnchor": "道具棚",
-      "roleInScript": "道具棚",
+      "roleInScript": "道具棚角色",
       "humorDevice": "story",
       "zhGloss": "道具棚",
-      "speakLineEn": "Cue the 道具棚: shed walks on and the gag sticks.",
-      "speakLineZh": "請「道具棚」出場：shed 一上場梗就黏住——道具棚。",
+      "speakLineEn": "Critics argued that the policy would shed basic protections.",
+      "speakLineZh": "批評者主張該政策會道具棚基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -177,11 +177,11 @@
       "headword": "fan",
       "inVocab": false,
       "senseAnchor": "風扇",
-      "roleInScript": "風扇",
+      "roleInScript": "風扇角色",
       "humorDevice": "story",
       "zhGloss": "風扇",
-      "speakLineEn": "Cue the 風扇: fan walks on and the gag sticks.",
-      "speakLineZh": "請「風扇」出場：fan 一上場梗就黏住——風扇。",
+      "speakLineEn": "A careful reader links fan to 風扇, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 fan 連到「風扇」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -193,11 +193,11 @@
       "headword": "boot",
       "inVocab": false,
       "senseAnchor": "雨靴",
-      "roleInScript": "雨靴",
+      "roleInScript": "雨靴角色",
       "humorDevice": "story",
       "zhGloss": "雨靴",
-      "speakLineEn": "Cue the 雨靴: boot walks on and the gag sticks.",
-      "speakLineZh": "請「雨靴」出場：boot 一上場梗就黏住——雨靴。",
+      "speakLineEn": "Hold the meaning steady: boot means 雨靴.",
+      "speakLineZh": "記住考意：boot＝雨靴。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -209,11 +209,11 @@
       "headword": "towel",
       "inVocab": false,
       "senseAnchor": "毛巾",
-      "roleInScript": "毛巾",
+      "roleInScript": "毛巾角色",
       "humorDevice": "story",
       "zhGloss": "毛巾",
-      "speakLineEn": "Cue the 毛巾: towel walks on and the gag sticks.",
-      "speakLineZh": "請「毛巾」出場：towel 一上場梗就黏住——毛巾。",
+      "speakLineEn": "A careful reader links towel to 毛巾, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 towel 連到「毛巾」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -236,6 +236,9 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P4-batch01"
+    "stage": "P4-batch01",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave2",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

@@ -14,8 +14,8 @@
       "roleInScript": "發令槍",
       "humorDevice": "contrast",
       "zhGloss": "啟程著手",
-      "speakLineEn": "Cue the 發令槍: embark walks on and the gag sticks.",
-      "speakLineZh": "請「發令槍」出場：embark 一上場梗就黏住——啟程著手。",
+      "speakLineEn": "On the exam, embark most nearly means a sense of \"啟程著手\".",
+      "speakLineZh": "啟程著手。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -29,8 +29,8 @@
       "roleInScript": "發起鍵",
       "humorDevice": "contrast",
       "zhGloss": "發起",
-      "speakLineEn": "Cue the 發起鍵: initiate walks on and the gag sticks.",
-      "speakLineZh": "請「發起鍵」出場：initiate 一上場梗就黏住——發起。",
+      "speakLineEn": "On the exam, initiate most nearly means a sense of \"發起\".",
+      "speakLineZh": "發起。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -44,8 +44,8 @@
       "roleInScript": "初生",
       "humorDevice": "contrast",
       "zhGloss": "誕生初期",
-      "speakLineEn": "Cue the 初生: nascence walks on and the gag sticks.",
-      "speakLineZh": "請「初生」出場：nascence 一上場梗就黏住——誕生初期。",
+      "speakLineEn": "On the exam, nascence most nearly means a sense of \"誕生初期\".",
+      "speakLineZh": "誕生初期。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -55,12 +55,12 @@
     {
       "headword": "outset",
       "inVocab": true,
-      "senseAnchor": "the time at which something is supposed to begin",
+      "senseAnchor": "開端；場面：起點線",
       "roleInScript": "起點線",
       "humorDevice": "contrast",
-      "zhGloss": "一開始",
-      "speakLineEn": "Cue the 起點線: outset walks on and the gag sticks.",
-      "speakLineZh": "請「起點線」出場：outset 一上場梗就黏住——一開始。",
+      "zhGloss": "開端",
+      "speakLineEn": "A clear sense of outset is crucial to understanding the argument.",
+      "speakLineZh": "例句對齊：一開始。",
       "related": {
         "synonyms": "beginning, commencement, first, get-go, start, kickoff",
         "antonyms": "end, middle"
@@ -70,12 +70,12 @@
     {
       "headword": "culmination",
       "inVocab": true,
-      "senseAnchor": "the highest point or end of something",
+      "senseAnchor": "最終的頂峯；頂點高潮",
       "roleInScript": "高潮燈",
       "humorDevice": "contrast",
-      "zhGloss": "頂點高潮",
-      "speakLineEn": "Cue the 高潮燈: culmination walks on and the gag sticks.",
-      "speakLineZh": "請「高潮燈」出場：culmination 一上場梗就黏住——頂點高潮。",
+      "zhGloss": "最終的頂峯",
+      "speakLineEn": "Their achievements stand as a culmination of centuries of development.",
+      "speakLineZh": "最終的頂峯。",
       "related": {
         "synonyms": "conclusion",
         "antonyms": "beginning"
@@ -89,8 +89,8 @@
       "roleInScript": "落幕",
       "humorDevice": "contrast",
       "zhGloss": "結局收場",
-      "speakLineEn": "Cue the 落幕: denouement walks on and the gag sticks.",
-      "speakLineZh": "請「落幕」出場：denouement 一上場梗就黏住——結局收場。",
+      "speakLineEn": "On the exam, denouement most nearly means a sense of \"結局收場\".",
+      "speakLineZh": "結局收場。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -100,12 +100,12 @@
     {
       "headword": "expire",
       "inVocab": true,
-      "senseAnchor": "lose validity; pass from physical life and lose all bodily attributes and functions necessary to sustain life",
+      "senseAnchor": "到期終止",
       "roleInScript": "到期章",
       "humorDevice": "contrast",
-      "zhGloss": "到期終止",
-      "speakLineEn": "Cue the 到期章: expire walks on and the gag sticks.",
-      "speakLineZh": "請「到期章」出場：expire 一上場梗就黏住——到期終止。",
+      "zhGloss": "到期",
+      "speakLineEn": "My passports expired last month.",
+      "speakLineZh": "例句對齊：到期終止。",
       "related": {
         "synonyms": "die, decease, perish, go, exit, pass",
         "antonyms": "be born, inhale"
@@ -116,11 +116,11 @@
       "headword": "windup",
       "inVocab": true,
       "senseAnchor": "收尾",
-      "roleInScript": "收尾",
+      "roleInScript": "收尾角色",
       "humorDevice": "contrast",
       "zhGloss": "收尾",
-      "speakLineEn": "Cue the 收尾: windup walks on and the gag sticks.",
-      "speakLineZh": "請「收尾」出場：windup 一上場梗就黏住——收尾。",
+      "speakLineEn": "On the exam, windup most nearly means a sense of \"收尾\".",
+      "speakLineZh": "收尾。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -131,11 +131,11 @@
       "headword": "curtain",
       "inVocab": false,
       "senseAnchor": "幕",
-      "roleInScript": "幕",
+      "roleInScript": "幕角色",
       "humorDevice": "story",
       "zhGloss": "幕",
-      "speakLineEn": "Cue the 幕: curtain walks on and the gag sticks.",
-      "speakLineZh": "請「幕」出場：curtain 一上場梗就黏住——幕。",
+      "speakLineEn": "Hold the meaning steady: curtain means 幕.",
+      "speakLineZh": "記住考意：curtain＝幕。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -145,12 +145,12 @@
     {
       "headword": "starter",
       "inVocab": false,
-      "senseAnchor": "起跑器",
+      "senseAnchor": "起跑器；場面：起跑",
       "roleInScript": "起跑",
       "humorDevice": "story",
       "zhGloss": "起跑器",
-      "speakLineEn": "Cue the 起跑: starter walks on and the gag sticks.",
-      "speakLineZh": "請「起跑」出場：starter 一上場梗就黏住——起跑器。",
+      "speakLineEn": "In the passage, starter signals a shift toward \"起跑器\".",
+      "speakLineZh": "文中 starter 標示語氣轉向「起跑器」。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -160,12 +160,12 @@
     {
       "headword": "epilogue2",
       "inVocab": true,
-      "senseAnchor": "後記2",
+      "senseAnchor": "後記2；場面：後記",
       "roleInScript": "後記",
       "humorDevice": "story",
       "zhGloss": "後記2",
-      "speakLineEn": "Cue the 後記: epilogue2 walks on and the gag sticks.",
-      "speakLineZh": "請「後記」出場：epilogue2 一上場梗就黏住——後記2。",
+      "speakLineEn": "On the exam, epilogue2 most nearly means a sense of \"後記2\".",
+      "speakLineZh": "後記2。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -176,11 +176,11 @@
       "headword": "gun",
       "inVocab": false,
       "senseAnchor": "發令",
-      "roleInScript": "發令",
+      "roleInScript": "發令角色",
       "humorDevice": "story",
       "zhGloss": "發令",
-      "speakLineEn": "Cue the 發令: gun walks on and the gag sticks.",
-      "speakLineZh": "請「發令」出場：gun 一上場梗就黏住——發令。",
+      "speakLineEn": "Critics argued that the policy would gun basic protections.",
+      "speakLineZh": "批評者主張該政策會發令基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -194,8 +194,8 @@
       "roleInScript": "謝幕",
       "humorDevice": "story",
       "zhGloss": "鞠躬謝幕",
-      "speakLineEn": "Cue the 謝幕: bow walks on and the gag sticks.",
-      "speakLineZh": "請「謝幕」出場：bow 一上場梗就黏住——鞠躬謝幕。",
+      "speakLineEn": "Picture the 謝幕: the word bow means 鞠躬謝幕.",
+      "speakLineZh": "想像「謝幕」：bow＝鞠躬謝幕。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,12 +205,12 @@
     {
       "headword": "overture",
       "inVocab": true,
-      "senseAnchor": "orchestral music played at the beginning of an opera or oratorio; something that serves as a preceding event or introduces what follows",
-      "roleInScript": "序曲",
+      "senseAnchor": "前言；前奏",
+      "roleInScript": "序曲角色",
       "humorDevice": "story",
-      "zhGloss": "序曲",
-      "speakLineEn": "Cue the 序曲: overture walks on and the gag sticks.",
-      "speakLineZh": "請「序曲」出場：overture 一上場梗就黏住——序曲。",
+      "zhGloss": "前言；前奏",
+      "speakLineEn": "Drinks were the overture to dinner.",
+      "speakLineZh": "前言；前奏。",
       "related": {
         "synonyms": "preliminary, prelude, advance, approach, feeler",
         "antonyms": "back, demote, fall back, recede, regress, retreat"
@@ -221,11 +221,11 @@
       "headword": "closing",
       "inVocab": true,
       "senseAnchor": "關閉",
-      "roleInScript": "關閉",
+      "roleInScript": "關閉角色",
       "humorDevice": "story",
       "zhGloss": "關閉",
-      "speakLineEn": "Cue the 關閉: closing walks on and the gag sticks.",
-      "speakLineZh": "請「關閉」出場：closing 一上場梗就黏住——關閉。",
+      "speakLineEn": "On the exam, closing most nearly means a sense of \"關閉\".",
+      "speakLineZh": "關閉。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -236,11 +236,11 @@
       "headword": "kickoff",
       "inVocab": true,
       "senseAnchor": "開球",
-      "roleInScript": "開球",
+      "roleInScript": "開球角色",
       "humorDevice": "story",
       "zhGloss": "開球",
-      "speakLineEn": "Cue the 開球: kickoff walks on and the gag sticks.",
-      "speakLineZh": "請「開球」出場：kickoff 一上場梗就黏住——開球。",
+      "speakLineEn": "On the exam, kickoff most nearly means a sense of \"開球\".",
+      "speakLineZh": "開球。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -251,11 +251,11 @@
       "headword": "wrap",
       "inVocab": true,
       "senseAnchor": "收工",
-      "roleInScript": "收工",
+      "roleInScript": "收工角色",
       "humorDevice": "story",
       "zhGloss": "收工",
-      "speakLineEn": "Cue the 收工: wrap walks on and the gag sticks.",
-      "speakLineZh": "請「收工」出場：wrap 一上場梗就黏住——收工。",
+      "speakLineEn": "On the exam, wrap most nearly means a sense of \"收工\".",
+      "speakLineZh": "收工。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -266,11 +266,11 @@
       "headword": "dawn",
       "inVocab": true,
       "senseAnchor": "黎明",
-      "roleInScript": "黎明",
+      "roleInScript": "黎明角色",
       "humorDevice": "story",
       "zhGloss": "黎明",
-      "speakLineEn": "Cue the 黎明: dawn walks on and the gag sticks.",
-      "speakLineZh": "請「黎明」出場：dawn 一上場梗就黏住——黎明。",
+      "speakLineEn": "On the exam, dawn most nearly means a sense of \"黎明\".",
+      "speakLineZh": "黎明。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -281,11 +281,11 @@
       "headword": "dusk",
       "inVocab": true,
       "senseAnchor": "黃昏",
-      "roleInScript": "黃昏",
+      "roleInScript": "黃昏角色",
       "humorDevice": "story",
       "zhGloss": "黃昏",
-      "speakLineEn": "Cue the 黃昏: dusk walks on and the gag sticks.",
-      "speakLineZh": "請「黃昏」出場：dusk 一上場梗就黏住——黃昏。",
+      "speakLineEn": "On the exam, dusk most nearly means a sense of \"黃昏\".",
+      "speakLineZh": "黃昏。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -296,11 +296,11 @@
       "headword": "ribbon",
       "inVocab": true,
       "senseAnchor": "剪綵",
-      "roleInScript": "剪綵",
+      "roleInScript": "剪綵角色",
       "humorDevice": "story",
       "zhGloss": "剪綵",
-      "speakLineEn": "Cue the 剪綵: ribbon walks on and the gag sticks.",
-      "speakLineZh": "請「剪綵」出場：ribbon 一上場梗就黏住——剪綵。",
+      "speakLineEn": "On the exam, ribbon most nearly means a sense of \"剪綵\".",
+      "speakLineZh": "剪綵。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -311,11 +311,11 @@
       "headword": "exitlamp",
       "inVocab": true,
       "senseAnchor": "出口燈",
-      "roleInScript": "出口燈",
+      "roleInScript": "出口燈角色",
       "humorDevice": "story",
       "zhGloss": "出口燈",
-      "speakLineEn": "Cue the 出口燈: exitlamp walks on and the gag sticks.",
-      "speakLineZh": "請「出口燈」出場：exitlamp 一上場梗就黏住——出口燈。",
+      "speakLineEn": "On the exam, exitlamp most nearly means a sense of \"出口燈\".",
+      "speakLineZh": "出口燈。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -326,11 +326,11 @@
       "headword": "birth",
       "inVocab": true,
       "senseAnchor": "誕生",
-      "roleInScript": "誕生",
+      "roleInScript": "誕生角色",
       "humorDevice": "story",
       "zhGloss": "誕生",
-      "speakLineEn": "Cue the 誕生: birth walks on and the gag sticks.",
-      "speakLineZh": "請「誕生」出場：birth 一上場梗就黏住——誕生。",
+      "speakLineEn": "On the exam, birth most nearly means a sense of \"誕生\".",
+      "speakLineZh": "誕生。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -344,8 +344,8 @@
       "roleInScript": "墓碑",
       "humorDevice": "story",
       "zhGloss": "墓碑結案",
-      "speakLineEn": "Cue the 墓碑: tombstone walks on and the gag sticks.",
-      "speakLineZh": "請「墓碑」出場：tombstone 一上場梗就黏住——墓碑結案。",
+      "speakLineEn": "On the exam, tombstone most nearly means a sense of \"墓碑結案\".",
+      "speakLineZh": "墓碑結案。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -368,6 +368,9 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P3-batch02"
+    "stage": "P3-batch02",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave1",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

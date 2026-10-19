@@ -25,7 +25,7 @@
     {
       "headword": "operation",
       "inVocab": false,
-      "senseAnchor": "操作；行動；手術",
+      "senseAnchor": "操作；行動",
       "roleInScript": "作業單",
       "humorDevice": "morphology",
       "zhGloss": "操作；行動；手術",
@@ -70,7 +70,7 @@
     {
       "headword": "inoperative",
       "inVocab": true,
-      "senseAnchor": "失效的",
+      "senseAnchor": "失效的；場面：故障燈",
       "roleInScript": "故障燈",
       "humorDevice": "morphology",
       "zhGloss": "失效的",
@@ -100,7 +100,7 @@
     {
       "headword": "cooperate",
       "inVocab": false,
-      "senseAnchor": "合作",
+      "senseAnchor": "合作；場面：合奏席",
       "roleInScript": "合奏席",
       "humorDevice": "morphology",
       "zhGloss": "合作",
@@ -115,7 +115,7 @@
     {
       "headword": "cooperation",
       "inVocab": false,
-      "senseAnchor": "合作",
+      "senseAnchor": "合作；場面：合奏契約",
       "roleInScript": "合奏契約",
       "humorDevice": "morphology",
       "zhGloss": "合作",
@@ -203,6 +203,8 @@
   "priority": "C",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch06"
+    "stage": "P2-batch06",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

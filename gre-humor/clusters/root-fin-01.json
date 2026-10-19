@@ -10,7 +10,7 @@
     {
       "headword": "final",
       "inVocab": true,
-      "senseAnchor": "最終的",
+      "senseAnchor": "最終的；場面：終線",
       "roleInScript": "終線",
       "humorDevice": "morphology",
       "zhGloss": "最終的",
@@ -25,7 +25,7 @@
     {
       "headword": "finish",
       "inVocab": true,
-      "senseAnchor": "完成",
+      "senseAnchor": "完成；場面：跑到終點",
       "roleInScript": "跑到終點",
       "humorDevice": "story",
       "zhGloss": "完成",
@@ -40,7 +40,7 @@
     {
       "headword": "finite",
       "inVocab": true,
-      "senseAnchor": "有限的",
+      "senseAnchor": "有限的；場面：有邊界",
       "roleInScript": "有邊界",
       "humorDevice": "morphology",
       "zhGloss": "有限的",
@@ -55,7 +55,7 @@
     {
       "headword": "infinite",
       "inVocab": true,
-      "senseAnchor": "無限的",
+      "senseAnchor": "無限的；場面：無邊界",
       "roleInScript": "無邊界",
       "humorDevice": "morphology",
       "zhGloss": "無限的",
@@ -70,7 +70,7 @@
     {
       "headword": "define",
       "inVocab": true,
-      "senseAnchor": "定義",
+      "senseAnchor": "定義；場面：劃界",
       "roleInScript": "劃界",
       "humorDevice": "morphology",
       "zhGloss": "定義",
@@ -115,10 +115,10 @@
     {
       "headword": "affinity",
       "inVocab": true,
-      "senseAnchor": "a habitual attraction to some activity or thing",
+      "senseAnchor": "喜歡；傾向",
       "roleInScript": "界線靠近",
       "humorDevice": "morphology",
-      "zhGloss": "親近；親和",
+      "zhGloss": "喜歡；傾向",
       "speakLineEn": "Affinity for a theory can bias coding.",
       "speakLineZh": "對理論的親近感會偏差編碼。",
       "related": {
@@ -145,10 +145,10 @@
     {
       "headword": "finale",
       "inVocab": true,
-      "senseAnchor": "the closing part, scene, or number",
+      "senseAnchor": "終場；結局",
       "roleInScript": "最後一幕",
       "humorDevice": "story",
-      "zhGloss": "終章",
+      "zhGloss": "終場；結局",
       "speakLineEn": "The finale should restate limits, not hype.",
       "speakLineZh": "終章應重申限制，而非炒作。",
       "related": {
@@ -248,6 +248,8 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "S3b"
+    "stage": "S3b",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

@@ -25,10 +25,10 @@
     {
       "headword": "cacophony",
       "inVocab": true,
-      "senseAnchor": "a loud harsh or strident noise; loud confusing disagreeable sounds",
+      "senseAnchor": "尖聲刺耳的；刺耳嘈雜",
       "roleInScript": "災難演唱會",
       "humorDevice": "morphology",
-      "zhGloss": "刺耳嘈雜",
+      "zhGloss": "尖聲刺耳的",
       "speakLineEn": "A cacophony of metrics confuses readers.",
       "speakLineZh": "指標刺耳嘈雜迷惑讀者。",
       "related": {
@@ -55,10 +55,10 @@
     {
       "headword": "phonetic",
       "inVocab": true,
-      "senseAnchor": "of or relating to speech sounds; of or relating to the scientific study of speech sounds",
+      "senseAnchor": "聲音的；場面：按發音標記",
       "roleInScript": "按發音標記",
       "humorDevice": "morphology",
-      "zhGloss": "語音的；語音學的",
+      "zhGloss": "聲音的",
       "speakLineEn": "Provide phonetic guides for hard headwords.",
       "speakLineZh": "難詞提供語音指引。",
       "related": {
@@ -85,7 +85,7 @@
     {
       "headword": "phonology",
       "inVocab": true,
-      "senseAnchor": "音韻學",
+      "senseAnchor": "音韻學；場面：語音規則本",
       "roleInScript": "語音規則本",
       "humorDevice": "morphology",
       "zhGloss": "音韻學",
@@ -100,7 +100,7 @@
     {
       "headword": "megaphone",
       "inVocab": true,
-      "senseAnchor": "擴音器",
+      "senseAnchor": "擴音器；場面：放大喊",
       "roleInScript": "放大喊",
       "humorDevice": "story",
       "zhGloss": "擴音器",
@@ -115,7 +115,7 @@
     {
       "headword": "microphone",
       "inVocab": true,
-      "senseAnchor": "麥克風",
+      "senseAnchor": "麥克風；場面：接收聲",
       "roleInScript": "接收聲",
       "humorDevice": "story",
       "zhGloss": "麥克風",
@@ -130,7 +130,7 @@
     {
       "headword": "telephone",
       "inVocab": true,
-      "senseAnchor": "電話",
+      "senseAnchor": "電話；場面：遠傳聲",
       "roleInScript": "遠傳聲",
       "humorDevice": "story",
       "zhGloss": "電話",
@@ -160,7 +160,7 @@
     {
       "headword": "phonic",
       "inVocab": true,
-      "senseAnchor": "聲音的",
+      "senseAnchor": "聲音的；場面：聲線開關",
       "roleInScript": "聲線開關",
       "humorDevice": "story",
       "zhGloss": "聲音的",
@@ -175,7 +175,7 @@
     {
       "headword": "cacophonous",
       "inVocab": true,
-      "senseAnchor": "刺耳的",
+      "senseAnchor": "刺耳的；場面：吵到爆",
       "roleInScript": "吵到爆",
       "humorDevice": "story",
       "zhGloss": "刺耳的",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P2-batch01"
+    "stage": "P2-batch01",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

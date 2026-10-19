@@ -10,12 +10,12 @@
     {
       "headword": "predicament",
       "inVocab": true,
-      "senseAnchor": "a difficult situation",
+      "senseAnchor": "困境；場面：叫號單",
       "roleInScript": "叫號單",
       "humorDevice": "morphology",
       "zhGloss": "困境",
-      "speakLineEn": "Cue the 叫號單: predicament walks on and the gag sticks.",
-      "speakLineZh": "請「叫號單」出場：predicament 一上場梗就黏住——困境。",
+      "speakLineEn": "Finds himself in a most awkward predicament.",
+      "speakLineZh": "困境。",
       "related": {
         "synonyms": "dilemma, plight, quandary, starit",
         "antonyms": ""
@@ -25,12 +25,12 @@
     {
       "headword": "emolument",
       "inVocab": true,
-      "senseAnchor": "compensation received by virtue of holding an office or having employment (usually in the form of wages or fees)",
+      "senseAnchor": "薪水；報酬",
       "roleInScript": "薪水袋",
       "humorDevice": "morphology",
-      "zhGloss": "報酬",
-      "speakLineEn": "Cue the 薪水袋: emolument walks on and the gag sticks.",
-      "speakLineZh": "請「薪水袋」出場：emolument 一上場梗就黏住——報酬。",
+      "zhGloss": "薪水；報酬",
+      "speakLineEn": "A clause in the U.S. constitution prevents sitting legislators from receiving emoluments from their own votes.",
+      "speakLineZh": "薪水；報酬。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -40,12 +40,12 @@
     {
       "headword": "retrenchment",
       "inVocab": true,
-      "senseAnchor": "entrenchment consisting of an additional interior fortification to prolong the defense; the reduction of expenditures in order to become financially stable",
+      "senseAnchor": "節省；刪除",
       "roleInScript": "剪刀標",
       "humorDevice": "morphology",
-      "zhGloss": "緊縮裁減",
-      "speakLineEn": "Cue the 剪刀標: retrenchment walks on and the gag sticks.",
-      "speakLineZh": "請「剪刀標」出場：retrenchment 一上場梗就黏住——緊縮裁減。",
+      "zhGloss": "節省；刪除；延長",
+      "speakLineEn": "A clear sense of retrenchment is crucial to understanding the argument.",
+      "speakLineZh": "節省；刪除。",
       "related": {
         "synonyms": "curtailment, downsizing",
         "antonyms": ""
@@ -55,12 +55,12 @@
     {
       "headword": "discernment",
       "inVocab": true,
-      "senseAnchor": "the cognitive condition of someone who understands; delicate discrimination (especially of aesthetic values)",
+      "senseAnchor": "洞察力；場面：眼鏡櫃",
       "roleInScript": "眼鏡櫃",
       "humorDevice": "morphology",
       "zhGloss": "洞察力",
-      "speakLineEn": "Cue the 眼鏡櫃: discernment walks on and the gag sticks.",
-      "speakLineZh": "請「眼鏡櫃」出場：discernment 一上場梗就黏住——洞察力。",
+      "speakLineEn": "A man of discernment.",
+      "speakLineZh": "洞察力。",
       "related": {
         "synonyms": "understanding, apprehension, savvy, taste, appreciation, perceptiveness",
         "antonyms": "depreciation, unperceptiveness"
@@ -70,12 +70,12 @@
     {
       "headword": "commencement",
       "inVocab": true,
-      "senseAnchor": "a beginning",
+      "senseAnchor": "開始；場面：起跑槍",
       "roleInScript": "起跑槍",
       "humorDevice": "morphology",
       "zhGloss": "開始",
-      "speakLineEn": "Cue the 起跑槍: commencement walks on and the gag sticks.",
-      "speakLineZh": "請「起跑槍」出場：commencement 一上場梗就黏住——開始。",
+      "speakLineEn": "In academic English, writers may refer to the at the commencement of the conference.",
+      "speakLineZh": "開始。",
       "related": {
         "synonyms": "onset, genesis, inception",
         "antonyms": "end, finish, middle"
@@ -85,12 +85,12 @@
     {
       "headword": "clement",
       "inVocab": true,
-      "senseAnchor": "(of weather or climate) physically mild; (used of persons or behavior) inclined to show mercy",
+      "senseAnchor": "溫和的；場面：溫柔風",
       "roleInScript": "溫柔風",
       "humorDevice": "morphology",
       "zhGloss": "溫和的",
-      "speakLineEn": "Cue the 溫柔風: clement walks on and the gag sticks.",
-      "speakLineZh": "請「溫柔風」出場：clement 一上場梗就黏住——溫和的。",
+      "speakLineEn": "A more clement judge reduced the sentence.",
+      "speakLineZh": "溫和的。",
       "related": {
         "synonyms": "",
         "antonyms": "inclement"
@@ -100,12 +100,12 @@
     {
       "headword": "inclement",
       "inVocab": true,
-      "senseAnchor": "lacking mildness",
+      "senseAnchor": "（天氣等）惡劣的",
       "roleInScript": "雨傘架",
       "humorDevice": "morphology",
-      "zhGloss": "惡劣的",
-      "speakLineEn": "Cue the 雨傘架: inclement walks on and the gag sticks.",
-      "speakLineZh": "請「雨傘架」出場：inclement 一上場梗就黏住——惡劣的。",
+      "zhGloss": "（天氣等）惡劣的",
+      "speakLineEn": "The harsh sentence of an inclement judge.",
+      "speakLineZh": "（天氣等。",
       "related": {
         "synonyms": "harsh, severe, tempestuous",
         "antonyms": "clement, fine"
@@ -115,12 +115,12 @@
     {
       "headword": "figment",
       "inVocab": true,
-      "senseAnchor": "a contrived or fantastic idea",
+      "senseAnchor": "虛構的事物",
       "roleInScript": "想像泡",
       "humorDevice": "morphology",
-      "zhGloss": "虛構",
-      "speakLineEn": "Cue the 想像泡: figment walks on and the gag sticks.",
-      "speakLineZh": "請「想像泡」出場：figment 一上場梗就黏住——虛構。",
+      "zhGloss": "虛構的事物",
+      "speakLineEn": "A figment of the imagination.",
+      "speakLineZh": "虛構的事物。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -130,12 +130,12 @@
     {
       "headword": "procurement",
       "inVocab": true,
-      "senseAnchor": "the act of getting possession of something",
+      "senseAnchor": "獲得；獲取",
       "roleInScript": "採購單",
       "humorDevice": "morphology",
-      "zhGloss": "採購取得",
-      "speakLineEn": "Cue the 採購單: procurement walks on and the gag sticks.",
-      "speakLineZh": "請「採購單」出場：procurement 一上場梗就黏住——採購取得。",
+      "zhGloss": "獲得；獲取",
+      "speakLineEn": "He was responsible for the procurement of materials and supplies.",
+      "speakLineZh": "獲得；獲取。",
       "related": {
         "synonyms": "procurance, procural",
         "antonyms": ""
@@ -145,12 +145,12 @@
     {
       "headword": "rapprochement",
       "inVocab": true,
-      "senseAnchor": "establishment of or state of having cordial relations",
+      "senseAnchor": "和睦；友好",
       "roleInScript": "握手台",
       "humorDevice": "morphology",
-      "zhGloss": "和解修好",
-      "speakLineEn": "Cue the 握手台: rapprochement walks on and the gag sticks.",
-      "speakLineZh": "請「握手台」出場：rapprochement 一上場梗就黏住——和解修好。",
+      "zhGloss": "和睦；友好",
+      "speakLineEn": "The debate focused on an era of rapprochement between China and Russia.",
+      "speakLineZh": "和睦，友好。",
       "related": {
         "synonyms": "rapport",
         "antonyms": ""
@@ -160,12 +160,12 @@
     {
       "headword": "muniment",
       "inVocab": true,
-      "senseAnchor": "a GRE-level vocabulary item meaning closely related to its core sense in academic English",
+      "senseAnchor": "契據；場面：證件夾",
       "roleInScript": "證件夾",
       "humorDevice": "morphology",
-      "zhGloss": "權利證件",
-      "speakLineEn": "Cue the 證件夾: muniment walks on and the gag sticks.",
-      "speakLineZh": "請「證件夾」出場：muniment 一上場梗就黏住——權利證件。",
+      "zhGloss": "契據",
+      "speakLineEn": "A clear sense of muniment is crucial to understanding the argument.",
+      "speakLineZh": "契據。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -175,12 +175,12 @@
     {
       "headword": "ointment",
       "inVocab": true,
-      "senseAnchor": "semisolid preparation (usually containing a medicine) applied externally as a remedy or for soothing an irritation; toiletry consisting of any of various substances in the form of a thick liquid that have a soothing and moisturizing effect when applied to the skin",
+      "senseAnchor": "膏油；場面：藥膏",
       "roleInScript": "藥膏",
       "humorDevice": "morphology",
-      "zhGloss": "軟膏",
-      "speakLineEn": "Cue the 藥膏: ointment walks on and the gag sticks.",
-      "speakLineZh": "請「藥膏」出場：ointment 一上場梗就黏住——軟膏。",
+      "zhGloss": "膏油",
+      "speakLineEn": "A clear sense of ointment is crucial to understanding the argument.",
+      "speakLineZh": "膏油。",
       "related": {
         "synonyms": "unction, unguent, balm, salve, cream, emollient",
         "antonyms": ""
@@ -191,11 +191,11 @@
       "headword": "salary",
       "inVocab": false,
       "senseAnchor": "薪水",
-      "roleInScript": "薪水",
+      "roleInScript": "薪水角色",
       "humorDevice": "story",
       "zhGloss": "薪水",
-      "speakLineEn": "Cue the 薪水: salary walks on and the gag sticks.",
-      "speakLineZh": "請「薪水」出場：salary 一上場梗就黏住——薪水。",
+      "speakLineEn": "Hold the meaning steady: salary means 薪水.",
+      "speakLineZh": "記住考意：salary＝薪水。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -217,6 +217,9 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P3-batch03"
+    "stage": "P3-batch03",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave2",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

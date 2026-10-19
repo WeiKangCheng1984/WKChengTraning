@@ -10,7 +10,7 @@
     {
       "headword": "laud",
       "inVocab": true,
-      "senseAnchor": "讚美",
+      "senseAnchor": "讚美；場面：頒獎話筒",
       "roleInScript": "頒獎話筒",
       "humorDevice": "contrast",
       "zhGloss": "讚美",
@@ -40,10 +40,10 @@
     {
       "headword": "commend",
       "inVocab": true,
-      "senseAnchor": "express approval of; present as worthy of regard, kindness, or confidence",
+      "senseAnchor": "讚揚；推薦",
       "roleInScript": "正式表揚",
       "humorDevice": "contrast",
-      "zhGloss": "推薦；稱讚",
+      "zhGloss": "讚揚；推薦",
       "speakLineEn": "Commend transparent limitation sections.",
       "speakLineZh": "表揚透明的限制段。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "eulogize",
       "inVocab": true,
-      "senseAnchor": "praise formally and eloquently",
+      "senseAnchor": "讚揚；場面：悼詞式誇",
       "roleInScript": "悼詞式誇",
       "humorDevice": "contrast",
-      "zhGloss": "頌揚",
+      "zhGloss": "讚揚",
       "speakLineEn": "Do not eulogize a living theory past its data.",
       "speakLineZh": "不要把活理論頌揚超過資料。",
       "related": {
@@ -85,10 +85,10 @@
     {
       "headword": "panegyric",
       "inVocab": true,
-      "senseAnchor": "a formal expression of praise; formally expressing praise",
+      "senseAnchor": "頌詞；讚頌",
       "roleInScript": "長篇誇文",
       "humorDevice": "contrast",
-      "zhGloss": "頌詞",
+      "zhGloss": "頌詞；讚頌",
       "speakLineEn": "A panegyric abstract oversells.",
       "speakLineZh": "頌詞式摘要過度銷售。",
       "related": {
@@ -100,10 +100,10 @@
     {
       "headword": "encomium",
       "inVocab": true,
-      "senseAnchor": "a formal expression of praise",
+      "senseAnchor": "讚美；場面：正式誇文",
       "roleInScript": "正式誇文",
       "humorDevice": "contrast",
-      "zhGloss": "讚辭",
+      "zhGloss": "讚美",
       "speakLineEn": "Save encomiums for after audit.",
       "speakLineZh": "稽核後再寫讚辭。",
       "related": {
@@ -115,7 +115,7 @@
     {
       "headword": "condemn",
       "inVocab": true,
-      "senseAnchor": "譴責",
+      "senseAnchor": "譴責；場面：判有罪語氣",
       "roleInScript": "判有罪語氣",
       "humorDevice": "contrast",
       "zhGloss": "譴責",
@@ -130,7 +130,7 @@
     {
       "headword": "reprove",
       "inVocab": true,
-      "senseAnchor": "責備",
+      "senseAnchor": "責備；場面：溫和罵",
       "roleInScript": "溫和罵",
       "humorDevice": "contrast",
       "zhGloss": "責備",
@@ -145,10 +145,10 @@
     {
       "headword": "rebuke",
       "inVocab": true,
-      "senseAnchor": "an act or expression of criticism and censure; censure severely or angrily",
+      "senseAnchor": "譴責；斥責",
       "roleInScript": "較重罵",
       "humorDevice": "contrast",
-      "zhGloss": "斥責",
+      "zhGloss": "譴責；斥責",
       "speakLineEn": "A public rebuke needs due process.",
       "speakLineZh": "公開斥責需要正當程序。",
       "related": {
@@ -160,10 +160,10 @@
     {
       "headword": "castigate",
       "inVocab": true,
-      "senseAnchor": "censure severely; inflict severe punishment on",
+      "senseAnchor": "譴責；場面：重訓",
       "roleInScript": "重訓",
       "humorDevice": "contrast",
-      "zhGloss": "嚴厲譴責",
+      "zhGloss": "譴責",
       "speakLineEn": "Castigate incentives, then fix them.",
       "speakLineZh": "嚴厲譴責誘因，然後修好。",
       "related": {
@@ -175,10 +175,10 @@
     {
       "headword": "lambaste",
       "inVocab": true,
-      "senseAnchor": "to scold sharply",
+      "senseAnchor": "嚴厲批評；痛罵",
       "roleInScript": "暴風罵",
       "humorDevice": "contrast",
-      "zhGloss": "痛罵",
+      "zhGloss": "嚴厲批評",
       "speakLineEn": "Lambaste hype in methods clubs.",
       "speakLineZh": "在方法讀書會痛罵炒作。",
       "related": {
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P2-batch01"
+    "stage": "P2-batch01",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

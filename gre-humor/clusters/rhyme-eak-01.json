@@ -25,10 +25,10 @@
     {
       "headword": "bleak",
       "inVocab": true,
-      "senseAnchor": "offering little or no hope; ; ; - J.M.Synge; providing no shelter or sustenance",
+      "senseAnchor": "淒涼的；冷清的",
       "roleInScript": "淒涼廢墟",
       "humorDevice": "story",
-      "zhGloss": "荒涼的；黯淡的",
+      "zhGloss": "淒涼的；冷清的",
       "speakLineEn": "Prospects for reform look bleak.",
       "speakLineZh": "改革前景看起來黯淡。",
       "related": {
@@ -55,10 +55,10 @@
     {
       "headword": "streak",
       "inVocab": true,
-      "senseAnchor": "an unbroken series of events; a distinctive characteristic",
+      "senseAnchor": "加條紋；場面：焦痕／連勝連敗",
       "roleInScript": "焦痕／連勝連敗",
       "humorDevice": "story",
-      "zhGloss": "條紋；一陣子；疾馳",
+      "zhGloss": "加條紋",
       "speakLineEn": "A losing streak can bias risk judgments.",
       "speakLineZh": "連敗可能扭曲風險判斷。",
       "related": {
@@ -85,10 +85,10 @@
     {
       "headword": "revoke",
       "inVocab": true,
-      "senseAnchor": "the mistake of not following suit when able to do so; fail to follow suit when able and required to do so",
+      "senseAnchor": "撤回；撤銷",
       "roleInScript": "撤銷權限",
       "humorDevice": "story",
-      "zhGloss": "撤銷；廢止",
+      "zhGloss": "撤回；撤銷",
       "speakLineEn": "The board revoked the temporary exemption.",
       "speakLineZh": "董事會撤銷了臨時豁免。",
       "related": {
@@ -100,12 +100,12 @@
     {
       "headword": "creak",
       "inVocab": false,
-      "senseAnchor": "嘎吱響",
+      "senseAnchor": "嘎吱響；場面：地板叫",
       "roleInScript": "地板叫",
       "humorDevice": "morphology",
       "zhGloss": "嘎吱響",
-      "speakLineEn": "Cue the 地板叫: creak walks on and the gag sticks.",
-      "speakLineZh": "請「地板叫」出場：creak 一上場梗就黏住——嘎吱響。",
+      "speakLineEn": "Critics argued that the policy would creak basic protections.",
+      "speakLineZh": "批評者主張該政策會嘎吱響基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -115,12 +115,12 @@
     {
       "headword": "speak",
       "inVocab": false,
-      "senseAnchor": "說",
+      "senseAnchor": "說；場面：發言",
       "roleInScript": "發言",
       "humorDevice": "morphology",
       "zhGloss": "說",
-      "speakLineEn": "Cue the 發言: speak walks on and the gag sticks.",
-      "speakLineZh": "請「發言」出場：speak 一上場梗就黏住——說。",
+      "speakLineEn": "Picture the 發言: the word speak means 說.",
+      "speakLineZh": "想像「發言」：speak＝說。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -134,8 +134,8 @@
       "roleInScript": "微調鈕",
       "humorDevice": "morphology",
       "zhGloss": "微調",
-      "speakLineEn": "Cue the 微調鈕: tweak walks on and the gag sticks.",
-      "speakLineZh": "請「微調鈕」出場：tweak 一上場梗就黏住——微調。",
+      "speakLineEn": "Critics argued that the policy would tweak basic protections.",
+      "speakLineZh": "批評者主張該政策會微調基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -149,8 +149,8 @@
       "roleInScript": "訂製牌",
       "humorDevice": "morphology",
       "zhGloss": "訂製的",
-      "speakLineEn": "Cue the 訂製牌: bespoke walks on and the gag sticks.",
-      "speakLineZh": "請「訂製牌」出場：bespoke 一上場梗就黏住——訂製的。",
+      "speakLineEn": "A careful reader links bespoke to 訂製的, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 bespoke 連到「訂製的」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -161,11 +161,11 @@
       "headword": "awoke",
       "inVocab": false,
       "senseAnchor": "醒來",
-      "roleInScript": "醒來",
+      "roleInScript": "醒來角色",
       "humorDevice": "morphology",
       "zhGloss": "醒來",
-      "speakLineEn": "Cue the 醒來: awoke walks on and the gag sticks.",
-      "speakLineZh": "請「醒來」出場：awoke 一上場梗就黏住——醒來。",
+      "speakLineEn": "A careful reader links awoke to 醒來, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 awoke 連到「醒來」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -176,11 +176,11 @@
       "headword": "smoke",
       "inVocab": false,
       "senseAnchor": "煙",
-      "roleInScript": "煙",
+      "roleInScript": "煙角色",
       "humorDevice": "morphology",
       "zhGloss": "煙",
-      "speakLineEn": "Cue the 煙: smoke walks on and the gag sticks.",
-      "speakLineZh": "請「煙」出場：smoke 一上場梗就黏住——煙。",
+      "speakLineEn": "A careful reader links smoke to 煙, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 smoke 連到「煙」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -207,6 +207,9 @@
   "qualityGate": {
     "reviewedAt": "2026-10-18",
     "note": "Stage-1 promote: aligned with tract lesson template",
-    "thickenedAt": "P4-batch01"
+    "thickenedAt": "P4-batch01",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave2",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

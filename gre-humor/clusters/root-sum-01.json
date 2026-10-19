@@ -55,7 +55,7 @@
     {
       "headword": "consumer",
       "inVocab": false,
-      "senseAnchor": "消費者",
+      "senseAnchor": "消費者；場面：刷卡的人",
       "roleInScript": "刷卡的人",
       "humorDevice": "morphology",
       "zhGloss": "消費者",
@@ -85,10 +85,10 @@
     {
       "headword": "assume",
       "inVocab": true,
-      "senseAnchor": "take on oneself",
+      "senseAnchor": "承擔；場面：先假定",
       "roleInScript": "先假定",
       "humorDevice": "morphology",
-      "zhGloss": "假定；承擔",
+      "zhGloss": "承擔",
       "speakLineEn": "State what you assume about missingness.",
       "speakLineZh": "說明你對缺失的假定。",
       "related": {
@@ -100,7 +100,7 @@
     {
       "headword": "assumption",
       "inVocab": false,
-      "senseAnchor": "假設",
+      "senseAnchor": "假設；場面：密碼前提",
       "roleInScript": "密碼前提",
       "humorDevice": "morphology",
       "zhGloss": "假設",
@@ -115,10 +115,10 @@
     {
       "headword": "presumptuous",
       "inVocab": true,
-      "senseAnchor": "excessively forward",
+      "senseAnchor": "專橫的；場面：自以為VIP",
       "roleInScript": "自以為VIP",
       "humorDevice": "morphology",
-      "zhGloss": "僭越的；自負的",
+      "zhGloss": "專橫的",
       "speakLineEn": "It is presumptuous to skip preregistration.",
       "speakLineZh": "跳過預註冊很僭越。",
       "related": {
@@ -130,10 +130,10 @@
     {
       "headword": "sumptuous",
       "inVocab": true,
-      "senseAnchor": "rich and superior in quality",
+      "senseAnchor": "奢侈的；場面：豪華帳單",
       "roleInScript": "豪華帳單",
       "humorDevice": "story",
-      "zhGloss": "奢華的",
+      "zhGloss": "奢侈的",
       "speakLineEn": "Sumptuous prose cannot buy identification.",
       "speakLineZh": "奢華文風買不到識別。",
       "related": {
@@ -175,7 +175,7 @@
     {
       "headword": "sum",
       "inVocab": false,
-      "senseAnchor": "總和",
+      "senseAnchor": "總和；場面：加總鍵",
       "roleInScript": "加總鍵",
       "humorDevice": "story",
       "zhGloss": "總和",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch03"
+    "stage": "P2-batch03",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

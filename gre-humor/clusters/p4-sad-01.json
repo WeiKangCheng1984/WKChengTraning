@@ -10,12 +10,12 @@
     {
       "headword": "bemoan",
       "inVocab": true,
-      "senseAnchor": "to feel sorry or dissatisfied about",
+      "senseAnchor": "哀悼；抱怨",
       "roleInScript": "長嘆",
       "humorDevice": "contrast",
-      "zhGloss": "哀嘆",
-      "speakLineEn": "Cue the 長嘆: bemoan walks on and the gag sticks.",
-      "speakLineZh": "請「長嘆」出場：bemoan 一上場梗就黏住——哀嘆。",
+      "zhGloss": "哀悼；抱怨",
+      "speakLineEn": "In that case, they had to bemoan the lack of sports facilities.",
+      "speakLineZh": "哀悼，抱怨。",
       "related": {
         "synonyms": "lament, deplore",
         "antonyms": "celebrate, rejoice"
@@ -25,12 +25,12 @@
     {
       "headword": "deplore",
       "inVocab": true,
-      "senseAnchor": "express strong disapproval of; regret strongly",
+      "senseAnchor": "哀悼；譴責",
       "roleInScript": "搖頭嘆",
       "humorDevice": "contrast",
-      "zhGloss": "悲嘆譴責",
-      "speakLineEn": "Cue the 搖頭嘆: deplore walks on and the gag sticks.",
-      "speakLineZh": "請「搖頭嘆」出場：deplore 一上場梗就黏住——悲嘆譴責。",
+      "zhGloss": "哀悼；譴責",
+      "speakLineEn": "We deplore the government's treatment of political prisoners.",
+      "speakLineZh": "哀悼；譴責。",
       "related": {
         "synonyms": "lament, bewail, bemoan",
         "antonyms": "celebrate, rejoice"
@@ -40,12 +40,12 @@
     {
       "headword": "aggrieve",
       "inVocab": true,
-      "senseAnchor": "infringe on the rights of; cause to feel sorrow",
+      "senseAnchor": "悲痛；場面：傷心事",
       "roleInScript": "傷心事",
       "humorDevice": "contrast",
-      "zhGloss": "使悲痛",
-      "speakLineEn": "Cue the 傷心事: aggrieve walks on and the gag sticks.",
-      "speakLineZh": "請「傷心事」出場：aggrieve 一上場梗就黏住——使悲痛。",
+      "zhGloss": "悲痛",
+      "speakLineEn": "In the end, they chose to aggrieve what they had once defended.",
+      "speakLineZh": "悲痛。",
       "related": {
         "synonyms": "grieve",
         "antonyms": ""
@@ -55,12 +55,12 @@
     {
       "headword": "condole",
       "inVocab": true,
-      "senseAnchor": "express one's sympathetic grief, on the occasion of someone's death",
+      "senseAnchor": "同情；哀悼",
       "roleInScript": "拍肩",
       "humorDevice": "contrast",
-      "zhGloss": "慰問",
-      "speakLineEn": "Cue the 拍肩: condole walks on and the gag sticks.",
-      "speakLineZh": "請「拍肩」出場：condole 一上場梗就黏住——慰問。",
+      "zhGloss": "同情；哀悼",
+      "speakLineEn": "You must condole the widow.",
+      "speakLineZh": "同情；哀悼。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -70,12 +70,12 @@
     {
       "headword": "careworn",
       "inVocab": true,
-      "senseAnchor": "showing the wearing effects of overwork or care or suffering; ; ; ; - Charles Dickens",
+      "senseAnchor": "憂心忡忡的；憔悴的",
       "roleInScript": "疲憊臉",
       "humorDevice": "contrast",
-      "zhGloss": "憔悴的",
-      "speakLineEn": "Cue the 疲憊臉: careworn walks on and the gag sticks.",
-      "speakLineZh": "請「疲憊臉」出場：careworn 一上場梗就黏住——憔悴的。",
+      "zhGloss": "憂心忡忡的",
+      "speakLineEn": "Looking careworn as she bent over her mending.",
+      "speakLineZh": "憂心忡忡的。",
       "related": {
         "synonyms": "drawn, haggard, raddled, worn",
         "antonyms": "deposit, push, repel, new, refresh"
@@ -85,12 +85,12 @@
     {
       "headword": "calumny",
       "inVocab": true,
-      "senseAnchor": "a false accusation of an offense or a malicious misrepresentation of someone's words or actions; an abusive attack on a person's character or good name",
+      "senseAnchor": "誹謗；中傷",
       "roleInScript": "髒話紙",
       "humorDevice": "contrast",
-      "zhGloss": "誹謗",
-      "speakLineEn": "Cue the 髒話紙: calumny walks on and the gag sticks.",
-      "speakLineZh": "請「髒話紙」出場：calumny 一上場梗就黏住——誹謗。",
+      "zhGloss": "誹謗；中傷；扭曲",
+      "speakLineEn": "No one wanted to be labeled a calumny in that debate.",
+      "speakLineZh": "誹謗；中傷。",
       "related": {
         "synonyms": "defamation, calumniation, obloquy, traducement, aspersion, slander",
         "antonyms": ""
@@ -100,12 +100,12 @@
     {
       "headword": "calumniate",
       "inVocab": true,
-      "senseAnchor": "charge falsely or with malicious intent; attack the good name and reputation of someone",
+      "senseAnchor": "誹謗；中傷",
       "roleInScript": "造謠筆",
       "humorDevice": "contrast",
-      "zhGloss": "誹謗",
-      "speakLineEn": "Cue the 造謠筆: calumniate walks on and the gag sticks.",
-      "speakLineZh": "請「造謠筆」出場：calumniate 一上場梗就黏住——誹謗。",
+      "zhGloss": "誹謗；中傷",
+      "speakLineEn": "Opponents continued to calumniate the proposal in public.",
+      "speakLineZh": "誹謗；中傷。",
       "related": {
         "synonyms": "defame, slander, smirch, asperse, denigrate, smear",
         "antonyms": ""
@@ -115,12 +115,12 @@
     {
       "headword": "lament",
       "inVocab": true,
-      "senseAnchor": "to express sadness or regret",
+      "senseAnchor": "爲……哀悼",
       "roleInScript": "輓歌",
       "humorDevice": "contrast",
-      "zhGloss": "哀悼",
-      "speakLineEn": "Cue the 輓歌: lament walks on and the gag sticks.",
-      "speakLineZh": "請「輓歌」出場：lament 一上場梗就黏住——哀悼。",
+      "zhGloss": "爲……哀悼",
+      "speakLineEn": "Their pitiful laments could be heard throughout the ward.",
+      "speakLineZh": "爲……哀悼。",
       "related": {
         "synonyms": "bemoan",
         "antonyms": "celebrate, rejoice"
@@ -130,12 +130,12 @@
     {
       "headword": "wistful",
       "inVocab": true,
-      "senseAnchor": "showing pensive sadness",
+      "senseAnchor": "渴望的；思念的",
       "roleInScript": "望窗",
       "humorDevice": "contrast",
-      "zhGloss": "惆悵的",
-      "speakLineEn": "Cue the 望窗: wistful walks on and the gag sticks.",
-      "speakLineZh": "請「望窗」出場：wistful 一上場梗就黏住——惆悵的。",
+      "zhGloss": "渴望的；思念的",
+      "speakLineEn": "The sensitive and wistful response of a poet to the gentler phases of beauty.",
+      "speakLineZh": "渴望的；思念的。",
       "related": {
         "synonyms": "pensive",
         "antonyms": ""
@@ -145,12 +145,12 @@
     {
       "headword": "forlorn",
       "inVocab": true,
-      "senseAnchor": "marked by or showing hopelessness",
+      "senseAnchor": "孤獨的；場面：空站台",
       "roleInScript": "空站台",
       "humorDevice": "contrast",
-      "zhGloss": "孤苦的",
-      "speakLineEn": "Cue the 空站台: forlorn walks on and the gag sticks.",
-      "speakLineZh": "請「空站台」出場：forlorn 一上場梗就黏住——孤苦的。",
+      "zhGloss": "孤獨的",
+      "speakLineEn": "The last forlorn attempt.",
+      "speakLineZh": "孤獨的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -160,12 +160,12 @@
     {
       "headword": "melancholy",
       "inVocab": true,
-      "senseAnchor": "a feeling of thoughtful sadness; a constitutional tendency to be gloomy and depressed",
+      "senseAnchor": "憂鬱的；場面：藍調",
       "roleInScript": "藍調",
       "humorDevice": "contrast",
-      "zhGloss": "憂鬱",
-      "speakLineEn": "Cue the 藍調: melancholy walks on and the gag sticks.",
-      "speakLineZh": "請「藍調」出場：melancholy 一上場梗就黏住——憂鬱。",
+      "zhGloss": "憂鬱的",
+      "speakLineEn": "We acquainted him with the melancholy truth.",
+      "speakLineZh": "憂鬱的。",
       "related": {
         "synonyms": "melancholic, somber, sombre",
         "antonyms": ""
@@ -176,11 +176,11 @@
       "headword": "handkerchief",
       "inVocab": false,
       "senseAnchor": "手帕",
-      "roleInScript": "手帕",
+      "roleInScript": "手帕角色",
       "humorDevice": "story",
       "zhGloss": "手帕",
-      "speakLineEn": "Cue the 手帕: handkerchief walks on and the gag sticks.",
-      "speakLineZh": "請「手帕」出場：handkerchief 一上場梗就黏住——手帕。",
+      "speakLineEn": "Critics argued that the policy would handkerchief basic protections.",
+      "speakLineZh": "批評者主張該政策會手帕基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -203,6 +203,9 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P4-batch01"
+    "stage": "P4-batch01",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave2",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

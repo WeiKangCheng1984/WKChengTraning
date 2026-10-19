@@ -5,17 +5,17 @@
   "titleZh": "bulge／delude 續攤｜鼓起工作室",
   "titleEn": "Bulge Studio",
   "hook": "P4 續攤：bulge 鼓起，旁边還有 tumble／stumble 家族殘黨——工作室地板貼「小心鼓包與跌倒」。",
-  "script": "bulge＝鼓起。tumble＝跌倒混亂。grumble＝抱怨。boggle＝猶豫吃驚。口令：鼓包寫「別踩」，抱怨寫「去服務台」。",
+  "script": "bulge＝鼓起。tumble＝跌倒混亂。grumble＝抱怨。boggle＝猶豫吃驚。口令：鼓包寫「別踩」，抱怨寫「去服務台」。形近對決：先分清語意軸，再對號入座。登場：bulge（鼓包）、tumble（翻滾）、grumble（咕噥）、protuberance（凸起）、bump（凸塊）、complaint（投訴）。",
   "members": [
     {
       "headword": "bulge",
       "inVocab": true,
-      "senseAnchor": "something that bulges out or is protuberant or projects from its surroundings; swell or protrude outwards",
+      "senseAnchor": "凸起；場面：鼓包",
       "roleInScript": "鼓包",
       "humorDevice": "lookalike",
-      "zhGloss": "鼓起",
-      "speakLineEn": "Cue the 鼓包: bulge walks on and the gag sticks.",
-      "speakLineZh": "請「鼓包」出場：bulge 一上場梗就黏住——鼓起。",
+      "zhGloss": "凸起",
+      "speakLineEn": "The gun in his pocket made an obvious bulge.",
+      "speakLineZh": "凸起。",
       "related": {
         "synonyms": "bump, hump, swelling, gibbosity, gibbousness, jut",
         "antonyms": "promote"
@@ -29,8 +29,8 @@
       "roleInScript": "翻滾",
       "humorDevice": "lookalike",
       "zhGloss": "跌倒混亂",
-      "speakLineEn": "Cue the 翻滾: tumble walks on and the gag sticks.",
-      "speakLineZh": "請「翻滾」出場：tumble 一上場梗就黏住——跌倒混亂。",
+      "speakLineEn": "On the exam, tumble most nearly means a sense of \"跌倒混亂\".",
+      "speakLineZh": "跌倒混亂。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -40,12 +40,12 @@
     {
       "headword": "grumble",
       "inVocab": true,
-      "senseAnchor": "抱怨",
+      "senseAnchor": "抱怨；場面：咕噥",
       "roleInScript": "咕噥",
       "humorDevice": "lookalike",
       "zhGloss": "抱怨",
-      "speakLineEn": "Cue the 咕噥: grumble walks on and the gag sticks.",
-      "speakLineZh": "請「咕噥」出場：grumble 一上場梗就黏住——抱怨。",
+      "speakLineEn": "On the exam, grumble most nearly means a sense of \"抱怨\".",
+      "speakLineZh": "抱怨。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -55,12 +55,12 @@
     {
       "headword": "protuberance",
       "inVocab": true,
-      "senseAnchor": "隆起",
+      "senseAnchor": "隆起；場面：凸起",
       "roleInScript": "凸起",
       "humorDevice": "lookalike",
       "zhGloss": "隆起",
-      "speakLineEn": "Cue the 凸起: protuberance walks on and the gag sticks.",
-      "speakLineZh": "請「凸起」出場：protuberance 一上場梗就黏住——隆起。",
+      "speakLineEn": "On the exam, protuberance most nearly means a sense of \"隆起\".",
+      "speakLineZh": "隆起。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -71,11 +71,11 @@
       "headword": "bump",
       "inVocab": false,
       "senseAnchor": "凸塊",
-      "roleInScript": "凸塊",
+      "roleInScript": "凸塊角色",
       "humorDevice": "story",
       "zhGloss": "凸塊",
-      "speakLineEn": "Cue the 凸塊: bump walks on and the gag sticks.",
-      "speakLineZh": "請「凸塊」出場：bump 一上場梗就黏住——凸塊。",
+      "speakLineEn": "Hold the meaning steady: bump means 凸塊.",
+      "speakLineZh": "記住考意：bump＝凸塊。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -86,12 +86,12 @@
     {
       "headword": "complaint",
       "inVocab": true,
-      "senseAnchor": "illness",
-      "roleInScript": "投訴",
+      "senseAnchor": "疾病；投訴",
+      "roleInScript": "投訴角色",
       "humorDevice": "story",
-      "zhGloss": "投訴",
-      "speakLineEn": "Cue the 投訴: complaint walks on and the gag sticks.",
-      "speakLineZh": "請「投訴」出場：complaint 一上場梗就黏住——投訴。",
+      "zhGloss": "疾病",
+      "speakLineEn": "The debate focused on a skin complaint.",
+      "speakLineZh": "疾病。",
       "related": {
         "synonyms": "ailment, malady, condition",
         "antonyms": "wellness"
@@ -102,11 +102,11 @@
       "headword": "tape",
       "inVocab": false,
       "senseAnchor": "膠帶",
-      "roleInScript": "膠帶",
+      "roleInScript": "膠帶角色",
       "humorDevice": "story",
       "zhGloss": "膠帶",
-      "speakLineEn": "Cue the 膠帶: tape walks on and the gag sticks.",
-      "speakLineZh": "請「膠帶」出場：tape 一上場梗就黏住——膠帶。",
+      "speakLineEn": "Hold the meaning steady: tape means 膠帶.",
+      "speakLineZh": "記住考意：tape＝膠帶。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -118,11 +118,11 @@
       "headword": "knee",
       "inVocab": false,
       "senseAnchor": "膝蓋",
-      "roleInScript": "膝蓋",
+      "roleInScript": "膝蓋角色",
       "humorDevice": "story",
       "zhGloss": "膝蓋",
-      "speakLineEn": "Cue the 膝蓋: knee walks on and the gag sticks.",
-      "speakLineZh": "請「膝蓋」出場：knee 一上場梗就黏住——膝蓋。",
+      "speakLineEn": "A careful reader links knee to 膝蓋, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 knee 連到「膝蓋」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -134,11 +134,11 @@
       "headword": "caution",
       "inVocab": false,
       "senseAnchor": "小心",
-      "roleInScript": "小心",
+      "roleInScript": "小心角色",
       "humorDevice": "story",
       "zhGloss": "小心",
-      "speakLineEn": "Cue the 小心: caution walks on and the gag sticks.",
-      "speakLineZh": "請「小心」出場：caution 一上場梗就黏住——小心。",
+      "speakLineEn": "A careful reader links caution to 小心, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 caution 連到「小心」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -161,6 +161,9 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P4-batch01"
+    "stage": "P4-batch01",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave2",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

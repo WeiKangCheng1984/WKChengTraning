@@ -20,7 +20,7 @@
       "step": 2,
       "name": "串記劇本",
       "minutes": 2,
-      "content": "一隻 gallant 英勇小蟻，對著 tyrant 暴君開始 rant 怒吼；牠的觀點有 slant 偏斜，事後又 repent 後悔自己太衝。"
+      "content": "一隻 gallant 英勇小蟻，對著 tyrant 暴君開始 rant 怒吼；牠的觀點有 slant 偏斜，事後又 repent 後悔自己太衝。串記：同一世界觀裡，每個詞都有固定動作位。登場：gallant（英勇小蟻）、rant（對暴君怒吼）、slant（偏斜觀點）、repent（後悔太衝）、tyrant（暴君）、defiant（反抗蟻）。"
     },
     {
       "step": 3,
@@ -98,6 +98,8 @@
       "reviewHooks ≥2",
       "pitfalls ≥1",
       "quiz ×3 sense-accurate"
-    ]
+    ],
+    "polishStage": "Q-wave2",
+    "polishedAt": "2026-10-19"
   }
 }

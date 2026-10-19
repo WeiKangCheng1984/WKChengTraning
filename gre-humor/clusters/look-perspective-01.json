@@ -14,8 +14,8 @@
       "roleInScript": "觀點窗",
       "humorDevice": "lookalike",
       "zhGloss": "觀點",
-      "speakLineEn": "Cue the 觀點窗: viewpoint walks on and the gag sticks.",
-      "speakLineZh": "請「觀點窗」出場：viewpoint 一上場梗就黏住——觀點。",
+      "speakLineEn": "On the exam, viewpoint most nearly means a sense of \"觀點\".",
+      "speakLineZh": "觀點。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -29,8 +29,8 @@
       "roleInScript": "立場",
       "humorDevice": "lookalike",
       "zhGloss": "立場觀點",
-      "speakLineEn": "Cue the 立場: standpoint walks on and the gag sticks.",
-      "speakLineZh": "請「立場」出場：standpoint 一上場梗就黏住——立場觀點。",
+      "speakLineEn": "On the exam, standpoint most nearly means a sense of \"立場觀點\".",
+      "speakLineZh": "立場觀點。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -44,8 +44,8 @@
       "roleInScript": "瞭望",
       "humorDevice": "lookalike",
       "zhGloss": "有利位置",
-      "speakLineEn": "Cue the 瞭望: vantage walks on and the gag sticks.",
-      "speakLineZh": "請「瞭望」出場：vantage 一上場梗就黏住——有利位置。",
+      "speakLineEn": "On the exam, vantage most nearly means a sense of \"有利位置\".",
+      "speakLineZh": "有利位置。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -56,11 +56,11 @@
       "headword": "foresight",
       "inVocab": true,
       "senseAnchor": "先見",
-      "roleInScript": "先見",
+      "roleInScript": "先見角色",
       "humorDevice": "lookalike",
       "zhGloss": "先見",
-      "speakLineEn": "Cue the 先見: foresight walks on and the gag sticks.",
-      "speakLineZh": "請「先見」出場：foresight 一上場梗就黏住——先見。",
+      "speakLineEn": "On the exam, foresight most nearly means a sense of \"先見\".",
+      "speakLineZh": "先見。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -70,12 +70,12 @@
     {
       "headword": "hindsight",
       "inVocab": true,
-      "senseAnchor": "the ability to understand something after it has happened",
+      "senseAnchor": "事後聰明；後見之明",
       "roleInScript": "後見",
       "humorDevice": "lookalike",
-      "zhGloss": "後見之明",
-      "speakLineEn": "Cue the 後見: hindsight walks on and the gag sticks.",
-      "speakLineZh": "請「後見」出場：hindsight 一上場梗就黏住——後見之明。",
+      "zhGloss": "事後聰明",
+      "speakLineEn": "Hindsight is always better than foresight.",
+      "speakLineZh": "事後聰明。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -85,12 +85,12 @@
     {
       "headword": "imminent",
       "inVocab": true,
-      "senseAnchor": "almost certain to happen very soon",
+      "senseAnchor": "即將發生的",
       "roleInScript": "即將來",
       "humorDevice": "lookalike",
-      "zhGloss": "即將發生",
-      "speakLineEn": "Cue the 即將來: imminent walks on and the gag sticks.",
-      "speakLineZh": "請「即將來」出場：imminent 一上場梗就黏住——即將發生。",
+      "zhGloss": "即將發生的",
+      "speakLineEn": "In imminent danger.",
+      "speakLineZh": "即將發生的。",
       "related": {
         "synonyms": "impending, approaching",
         "antonyms": ""
@@ -100,12 +100,12 @@
     {
       "headword": "approaching",
       "inVocab": true,
-      "senseAnchor": "接近中",
+      "senseAnchor": "接近中；場面：接近",
       "roleInScript": "接近",
       "humorDevice": "lookalike",
       "zhGloss": "接近中",
-      "speakLineEn": "Cue the 接近: approaching walks on and the gag sticks.",
-      "speakLineZh": "請「接近」出場：approaching 一上場梗就黏住——接近中。",
+      "speakLineEn": "On the exam, approaching most nearly means a sense of \"接近中\".",
+      "speakLineZh": "接近中。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -119,8 +119,8 @@
       "roleInScript": "即將到",
       "humorDevice": "lookalike",
       "zhGloss": "即將到來",
-      "speakLineEn": "Cue the 即將到: upcoming walks on and the gag sticks.",
-      "speakLineZh": "請「即將到」出場：upcoming 一上場梗就黏住——即將到來。",
+      "speakLineEn": "On the exam, upcoming most nearly means a sense of \"即將到來\".",
+      "speakLineZh": "即將到來。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -134,8 +134,8 @@
       "roleInScript": "雙筒",
       "humorDevice": "story",
       "zhGloss": "雙筒望遠鏡",
-      "speakLineEn": "Cue the 雙筒: binoculars walks on and the gag sticks.",
-      "speakLineZh": "請「雙筒」出場：binoculars 一上場梗就黏住——雙筒望遠鏡。",
+      "speakLineEn": "On the exam, binoculars most nearly means a sense of \"雙筒望遠鏡\".",
+      "speakLineZh": "雙筒望遠鏡。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -149,8 +149,8 @@
       "roleInScript": "甲板",
       "humorDevice": "story",
       "zhGloss": "觀景甲板",
-      "speakLineEn": "Cue the 甲板: deck walks on and the gag sticks.",
-      "speakLineZh": "請「甲板」出場：deck 一上場梗就黏住——觀景甲板。",
+      "speakLineEn": "On the exam, deck most nearly means a sense of \"觀景甲板\".",
+      "speakLineZh": "觀景甲板。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -161,11 +161,11 @@
       "headword": "lenscap",
       "inVocab": true,
       "senseAnchor": "鏡頭蓋",
-      "roleInScript": "鏡頭蓋",
+      "roleInScript": "鏡頭蓋角色",
       "humorDevice": "story",
       "zhGloss": "鏡頭蓋",
-      "speakLineEn": "Cue the 鏡頭蓋: lenscap walks on and the gag sticks.",
-      "speakLineZh": "請「鏡頭蓋」出場：lenscap 一上場梗就黏住——鏡頭蓋。",
+      "speakLineEn": "On the exam, lenscap most nearly means a sense of \"鏡頭蓋\".",
+      "speakLineZh": "鏡頭蓋。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -176,11 +176,11 @@
       "headword": "map",
       "inVocab": false,
       "senseAnchor": "地圖",
-      "roleInScript": "地圖",
+      "roleInScript": "地圖角色",
       "humorDevice": "story",
       "zhGloss": "地圖",
-      "speakLineEn": "Cue the 地圖: map walks on and the gag sticks.",
-      "speakLineZh": "請「地圖」出場：map 一上場梗就黏住——地圖。",
+      "speakLineEn": "Critics argued that the policy would map basic protections.",
+      "speakLineZh": "批評者主張該政策會地圖基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -190,12 +190,12 @@
     {
       "headword": "compass2",
       "inVocab": true,
-      "senseAnchor": "羅盤2",
+      "senseAnchor": "羅盤2；場面：羅盤",
       "roleInScript": "羅盤",
       "humorDevice": "story",
       "zhGloss": "羅盤2",
-      "speakLineEn": "Cue the 羅盤: compass2 walks on and the gag sticks.",
-      "speakLineZh": "請「羅盤」出場：compass2 一上場梗就黏住——羅盤2。",
+      "speakLineEn": "On the exam, compass2 most nearly means a sense of \"羅盤2\".",
+      "speakLineZh": "羅盤2。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -206,11 +206,11 @@
       "headword": "tomorrow",
       "inVocab": true,
       "senseAnchor": "明天",
-      "roleInScript": "明天",
+      "roleInScript": "明天角色",
       "humorDevice": "story",
       "zhGloss": "明天",
-      "speakLineEn": "Cue the 明天: tomorrow walks on and the gag sticks.",
-      "speakLineZh": "請「明天」出場：tomorrow 一上場梗就黏住——明天。",
+      "speakLineEn": "On the exam, tomorrow most nearly means a sense of \"明天\".",
+      "speakLineZh": "明天。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -224,8 +224,8 @@
       "roleInScript": "角度",
       "humorDevice": "story",
       "zhGloss": "角度標記",
-      "speakLineEn": "Cue the 角度: anglemark walks on and the gag sticks.",
-      "speakLineZh": "請「角度」出場：anglemark 一上場梗就黏住——角度標記。",
+      "speakLineEn": "Critics argued that the policy would anglemark basic protections.",
+      "speakLineZh": "批評者主張該政策會角度標記基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -247,6 +247,9 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P3-batch02"
+    "stage": "P3-batch02",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave2",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

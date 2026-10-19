@@ -25,10 +25,10 @@
     {
       "headword": "ambivalent",
       "inVocab": true,
-      "senseAnchor": "having a mixture of opposing feelings",
+      "senseAnchor": "矛盾的；場面：左右拉",
       "roleInScript": "左右拉",
       "humorDevice": "morphology",
-      "zhGloss": "矛盾情感的",
+      "zhGloss": "矛盾的",
       "speakLineEn": "Be ambivalent about flashy but fragile findings.",
       "speakLineZh": "對花俏卻易碎發現保持矛盾情感。",
       "related": {
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch06"
+    "stage": "P2-batch06",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

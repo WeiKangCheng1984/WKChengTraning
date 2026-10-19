@@ -10,10 +10,10 @@
     {
       "headword": "aversion",
       "inVocab": true,
-      "senseAnchor": "a feeling of intense dislike; the act of turning yourself (or your gaze) away",
+      "senseAnchor": "厭惡；強烈反感",
       "roleInScript": "厭惡感",
       "humorDevice": "lookalike",
-      "zhGloss": "厭惡",
+      "zhGloss": "厭惡；強烈反感",
       "speakLineEn": "Keep an aversion to silent outcome swaps.",
       "speakLineZh": "對沉默結局替換保持厭惡。",
       "related": {
@@ -55,7 +55,7 @@
     {
       "headword": "adversely",
       "inVocab": true,
-      "senseAnchor": "不利地",
+      "senseAnchor": "不利地；場面：不利針",
       "roleInScript": "不利針",
       "humorDevice": "lookalike",
       "zhGloss": "不利地",
@@ -85,10 +85,10 @@
     {
       "headword": "harmful",
       "inVocab": true,
-      "senseAnchor": "有害的",
+      "senseAnchor": "有害的；有毒的",
       "roleInScript": "有害標",
       "humorDevice": "story",
-      "zhGloss": "有害的",
+      "zhGloss": "有害的；有毒的",
       "speakLineEn": "Harmful incentives distort reporting.",
       "speakLineZh": "有害誘因扭曲報告。",
       "related": {
@@ -203,6 +203,8 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch07"
+    "stage": "P2-batch07",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

@@ -10,10 +10,10 @@
     {
       "headword": "bolster",
       "inVocab": true,
-      "senseAnchor": "a structural part designed to provide support or bearing",
+      "senseAnchor": "/v. 支持；／v. 支持",
       "roleInScript": "加固柱",
       "humorDevice": "contrast",
-      "zhGloss": "加固支持",
+      "zhGloss": "/v. 支持",
       "speakLineEn": "GRE tip: bolster ~ 加固支持; keep the tone straight.",
       "speakLineZh": "GRE 提示：bolster 約「加固支持」——抓住語氣。",
       "related": {
@@ -25,7 +25,7 @@
     {
       "headword": "corroborate",
       "inVocab": true,
-      "senseAnchor": "provide evidence to support something",
+      "senseAnchor": "證實",
       "roleInScript": "證實章",
       "humorDevice": "contrast",
       "zhGloss": "證實",
@@ -40,10 +40,10 @@
     {
       "headword": "endorse",
       "inVocab": true,
-      "senseAnchor": "be behind; approve of; give support or one's approval to",
+      "senseAnchor": "認可；場面：背書章",
       "roleInScript": "背書章",
       "humorDevice": "contrast",
-      "zhGloss": "背書",
+      "zhGloss": "認可",
       "speakLineEn": "GRE tip: endorse ~ 背書; keep the tone straight.",
       "speakLineZh": "GRE 提示：endorse 約「背書」——抓住語氣。",
       "related": {
@@ -55,10 +55,10 @@
     {
       "headword": "uphold",
       "inVocab": true,
-      "senseAnchor": "keep or maintain in unaltered condition; cause to remain or last; stand up for; stick up for; of causes, principles, or ideals",
+      "senseAnchor": "支持；場面：維護盾",
       "roleInScript": "維護盾",
       "humorDevice": "contrast",
-      "zhGloss": "維護",
+      "zhGloss": "支持",
       "speakLineEn": "GRE tip: uphold ~ 維護; keep the tone straight.",
       "speakLineZh": "GRE 提示：uphold 約「維護」——抓住語氣。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "champion",
       "inVocab": true,
-      "senseAnchor": "to support",
+      "senseAnchor": "支持；場面：擁護旗",
       "roleInScript": "擁護旗",
       "humorDevice": "contrast",
-      "zhGloss": "擁護",
+      "zhGloss": "支持",
       "speakLineEn": "GRE tip: champion ~ 擁護; keep the tone straight.",
       "speakLineZh": "GRE 提示：champion 約「擁護」——抓住語氣。",
       "related": {
@@ -85,10 +85,10 @@
     {
       "headword": "vindicate",
       "inVocab": true,
-      "senseAnchor": "show to be right by providing justification or proof; maintain, uphold, or defend",
+      "senseAnchor": "證明無罪；維護",
       "roleInScript": "洗白鈴",
       "humorDevice": "contrast",
-      "zhGloss": "洗清／證明",
+      "zhGloss": "證明無罪；維護",
       "speakLineEn": "GRE tip: vindicate ~ 洗清／證明; keep the tone straight.",
       "speakLineZh": "GRE 提示：vindicate 約「洗清／證明」——抓住語氣。",
       "related": {
@@ -100,10 +100,10 @@
     {
       "headword": "auspices",
       "inVocab": true,
-      "senseAnchor": "kindly endorsement and guidance; (ancient Rome) a religious official who interpreted omens to guide public policy",
+      "senseAnchor": "贊助；保護",
       "roleInScript": "庇護傘",
       "humorDevice": "contrast",
-      "zhGloss": "庇護贊助",
+      "zhGloss": "贊助；保護",
       "speakLineEn": "GRE tip: auspices ~ 庇護贊助; keep the tone straight.",
       "speakLineZh": "GRE 提示：auspices 約「庇護贊助」——抓住語氣。",
       "related": {
@@ -115,10 +115,10 @@
     {
       "headword": "espouse",
       "inVocab": true,
-      "senseAnchor": "to take up and support as a cause",
+      "senseAnchor": "支持；擁護",
       "roleInScript": "信奉燈",
       "humorDevice": "contrast",
-      "zhGloss": "信奉支持",
+      "zhGloss": "支持；擁護",
       "speakLineEn": "GRE tip: espouse ~ 信奉支持; keep the tone straight.",
       "speakLineZh": "GRE 提示：espouse 約「信奉支持」——抓住語氣。",
       "related": {
@@ -145,7 +145,7 @@
     {
       "headword": "sabotage",
       "inVocab": true,
-      "senseAnchor": "to damage or destroy deliberately",
+      "senseAnchor": "蓄意破壞",
       "roleInScript": "破壞鉗",
       "humorDevice": "contrast",
       "zhGloss": "蓄意破壞",
@@ -160,10 +160,10 @@
     {
       "headword": "subversive",
       "inVocab": true,
-      "senseAnchor": "a radical supporter of political or social revolution; in opposition to a civil authority or government",
+      "senseAnchor": "顛覆的；破壞性的",
       "roleInScript": "顛覆釘",
       "humorDevice": "contrast",
-      "zhGloss": "顛覆的",
+      "zhGloss": "顛覆的；破壞性的",
       "speakLineEn": "GRE tip: subversive ~ 顛覆的; keep the tone straight.",
       "speakLineZh": "GRE 提示：subversive 約「顛覆的」——抓住語氣。",
       "related": {
@@ -175,7 +175,7 @@
     {
       "headword": "enervate",
       "inVocab": true,
-      "senseAnchor": "weaken mentally or morally; disturb the composure of",
+      "senseAnchor": "使衰弱；場面：抽力管",
       "roleInScript": "抽力管",
       "humorDevice": "contrast",
       "zhGloss": "使衰弱",
@@ -190,10 +190,10 @@
     {
       "headword": "attenuate",
       "inVocab": true,
-      "senseAnchor": "to lessen",
+      "senseAnchor": "減弱；稀薄的",
       "roleInScript": "減弱桿",
       "humorDevice": "contrast",
-      "zhGloss": "減弱",
+      "zhGloss": "減弱；稀薄的",
       "speakLineEn": "GRE tip: attenuate ~ 減弱; keep the tone straight.",
       "speakLineZh": "GRE 提示：attenuate 約「減弱」——抓住語氣。",
       "related": {
@@ -205,10 +205,10 @@
     {
       "headword": "hamstring",
       "inVocab": true,
-      "senseAnchor": "to make ineffective",
+      "senseAnchor": "阻礙；場面：割腱剪",
       "roleInScript": "割腱剪",
       "humorDevice": "contrast",
-      "zhGloss": "使癱瘓",
+      "zhGloss": "阻礙",
       "speakLineEn": "GRE tip: hamstring ~ 使癱瘓; keep the tone straight.",
       "speakLineZh": "GRE 提示：hamstring 約「使癱瘓」——抓住語氣。",
       "related": {
@@ -220,10 +220,10 @@
     {
       "headword": "sap",
       "inVocab": true,
-      "senseAnchor": "active strength of body or mind",
+      "senseAnchor": "削弱 n. 健康；活力",
       "roleInScript": "挖汁",
       "humorDevice": "contrast",
-      "zhGloss": "削弱",
+      "zhGloss": "削弱 n. 健康；活力",
       "speakLineEn": "GRE tip: sap ~ 削弱; keep the tone straight.",
       "speakLineZh": "GRE 提示：sap 約「削弱」——抓住語氣。",
       "related": {
@@ -235,10 +235,10 @@
     {
       "headword": "blight",
       "inVocab": true,
-      "senseAnchor": "to impair the quality or effect of",
+      "senseAnchor": "損害；場面：枯病",
       "roleInScript": "枯病",
       "humorDevice": "contrast",
-      "zhGloss": "摧殘",
+      "zhGloss": "損害",
       "speakLineEn": "GRE tip: blight ~ 摧殘; keep the tone straight.",
       "speakLineZh": "GRE 提示：blight 約「摧殘」——抓住語氣。",
       "related": {
@@ -250,10 +250,10 @@
     {
       "headword": "taint",
       "inVocab": true,
-      "senseAnchor": "to damage or spoil the quality of",
+      "senseAnchor": "玷污；破壞",
       "roleInScript": "污點",
       "humorDevice": "contrast",
-      "zhGloss": "玷污",
+      "zhGloss": "玷污；破壞",
       "speakLineEn": "GRE tip: taint ~ 玷污; keep the tone straight.",
       "speakLineZh": "GRE 提示：taint 約「玷污」——抓住語氣。",
       "related": {
@@ -265,10 +265,10 @@
     {
       "headword": "tamper",
       "inVocab": true,
-      "senseAnchor": "a tool for tamping (e.g., for tamping tobacco into a pipe bowl or a charge into a drill hole etc.); play around with or alter or falsify, usually secretively or dishonestly",
+      "senseAnchor": "破壞；摧毀",
       "roleInScript": "篡改手",
       "humorDevice": "contrast",
-      "zhGloss": "篡改",
+      "zhGloss": "破壞；摧毀",
       "speakLineEn": "GRE tip: tamper ~ 篡改; keep the tone straight.",
       "speakLineZh": "GRE 提示：tamper 約「篡改」——抓住語氣。",
       "related": {
@@ -280,10 +280,10 @@
     {
       "headword": "detriment",
       "inVocab": true,
-      "senseAnchor": "a damage or loss",
+      "senseAnchor": "損害；破壞",
       "roleInScript": "損害牌",
       "humorDevice": "contrast",
-      "zhGloss": "損害",
+      "zhGloss": "損害；破壞",
       "speakLineEn": "GRE tip: detriment ~ 損害; keep the tone straight.",
       "speakLineZh": "GRE 提示：detriment 約「損害」——抓住語氣。",
       "related": {
@@ -295,7 +295,7 @@
     {
       "headword": "overthrow",
       "inVocab": true,
-      "senseAnchor": "the termination of a ruler or institution (especially by force); the act of disturbing the mind or body",
+      "senseAnchor": "推翻",
       "roleInScript": "推翻錘",
       "humorDevice": "contrast",
       "zhGloss": "推翻",
@@ -310,10 +310,10 @@
     {
       "headword": "mar",
       "inVocab": true,
-      "senseAnchor": "the month following February and preceding April; a mark or flaw that spoils the appearance of something (especially on a person's body)",
+      "senseAnchor": "損害；場面：損傷刮",
       "roleInScript": "損傷刮",
       "humorDevice": "contrast",
-      "zhGloss": "損傷",
+      "zhGloss": "損害",
       "speakLineEn": "GRE tip: mar ~ 損傷; keep the tone straight.",
       "speakLineZh": "GRE 提示：mar 約「損傷」——抓住語氣。",
       "related": {
@@ -325,10 +325,10 @@
     {
       "headword": "iconoclastic",
       "inVocab": true,
-      "senseAnchor": "characterized by attack on established beliefs or institutions; destructive of images used in religious worship; said of religions, such as Islam, in which the representation of living things is prohibited",
+      "senseAnchor": "破壞傳統的；破壞偶像的",
       "roleInScript": "破偶像",
       "humorDevice": "story",
-      "zhGloss": "破除偶像",
+      "zhGloss": "破壞傳統的；破壞偶像的",
       "speakLineEn": "GRE tip: iconoclastic ~ 破除偶像; keep the tone straight.",
       "speakLineZh": "GRE 提示：iconoclastic 約「破除偶像」——抓住語氣。",
       "related": {
@@ -340,10 +340,10 @@
     {
       "headword": "subvention",
       "inVocab": true,
-      "senseAnchor": "grant of financial aid as from a government to an educational institution; the act or process of providing aid or help of any sort",
+      "senseAnchor": "津貼；場面：補助金",
       "roleInScript": "補助金",
       "humorDevice": "story",
-      "zhGloss": "補助金",
+      "zhGloss": "津貼",
       "speakLineEn": "GRE tip: subvention ~ 補助金; keep the tone straight.",
       "speakLineZh": "GRE 提示：subvention 約「補助金」——抓住語氣。",
       "related": {
@@ -355,10 +355,10 @@
     {
       "headword": "budge",
       "inVocab": true,
-      "senseAnchor": "United States tennis player who in 1938 was the first to win the Australian and French and English and United States singles championship in the same year (1915-2000); move very slightly",
+      "senseAnchor": "改變立場；推動／讓步",
       "roleInScript": "推動",
       "humorDevice": "story",
-      "zhGloss": "推動／讓步",
+      "zhGloss": "改變立場",
       "speakLineEn": "GRE tip: budge ~ 推動／讓步; keep the tone straight.",
       "speakLineZh": "GRE 提示：budge 約「推動／讓步」——抓住語氣。",
       "related": {
@@ -370,7 +370,7 @@
     {
       "headword": "embody",
       "inVocab": true,
-      "senseAnchor": "represent in bodily form; represent, as of a character on stage",
+      "senseAnchor": "體現",
       "roleInScript": "體現",
       "humorDevice": "story",
       "zhGloss": "體現",
@@ -398,6 +398,8 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P3-batch01"
+    "stage": "P3-batch01",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

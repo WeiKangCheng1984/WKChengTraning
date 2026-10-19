@@ -55,10 +55,10 @@
     {
       "headword": "concoct",
       "inVocab": true,
-      "senseAnchor": "to invent a story to deceive people",
+      "senseAnchor": "編造；場面：調配配方",
       "roleInScript": "調配配方",
       "humorDevice": "morphology",
-      "zhGloss": "調製；捏造",
+      "zhGloss": "編造",
       "speakLineEn": "Do not concoct post-hoc stories.",
       "speakLineZh": "不要事後捏造故事。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "condone",
       "inVocab": true,
-      "senseAnchor": "to accept and allow something wrong",
+      "senseAnchor": "寬恕；場面：劣件過關",
       "roleInScript": "劣件過關",
       "humorDevice": "morphology",
-      "zhGloss": "寬恕；默許",
+      "zhGloss": "寬恕",
       "speakLineEn": "Never condone fabricated figures.",
       "speakLineZh": "永不默許偽造圖。",
       "related": {
@@ -85,10 +85,10 @@
     {
       "headword": "concord",
       "inVocab": true,
-      "senseAnchor": "capital of the state of New Hampshire; located in south central New Hampshire on the Merrimack river; a harmonious state of things in general and of their properties (as of colors and sounds); congruity of parts with one another and with the whole",
+      "senseAnchor": "一致；和諧",
       "roleInScript": "和諧出廠",
       "humorDevice": "morphology",
-      "zhGloss": "和諧；一致",
+      "zhGloss": "一致；和諧",
       "speakLineEn": "Seek concord between prereg and paper.",
       "speakLineZh": "尋求預註冊與論文一致。",
       "related": {
@@ -100,7 +100,7 @@
     {
       "headword": "combine",
       "inVocab": false,
-      "senseAnchor": "結合",
+      "senseAnchor": "結合；場面：拼在一起",
       "roleInScript": "拼在一起",
       "humorDevice": "story",
       "zhGloss": "結合",
@@ -115,7 +115,7 @@
     {
       "headword": "companion",
       "inVocab": false,
-      "senseAnchor": "同伴",
+      "senseAnchor": "同伴；場面：一起的人",
       "roleInScript": "一起的人",
       "humorDevice": "story",
       "zhGloss": "同伴",
@@ -145,7 +145,7 @@
     {
       "headword": "compress",
       "inVocab": false,
-      "senseAnchor": "壓縮",
+      "senseAnchor": "壓縮；場面：壓緊",
       "roleInScript": "壓緊",
       "humorDevice": "story",
       "zhGloss": "壓縮",
@@ -160,7 +160,7 @@
     {
       "headword": "committee",
       "inVocab": false,
-      "senseAnchor": "委員會",
+      "senseAnchor": "委員會；場面：一起開會",
       "roleInScript": "一起開會",
       "humorDevice": "story",
       "zhGloss": "委員會",
@@ -188,6 +188,8 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P2-batch02"
+    "stage": "P2-batch02",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

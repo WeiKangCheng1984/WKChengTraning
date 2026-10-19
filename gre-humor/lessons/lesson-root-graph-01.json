@@ -92,6 +92,8 @@
   "status": "reviewed",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch04"
+    "stage": "P2-batch04",
+    "polishStage": "Q-gold",
+    "polishedAt": "2026-10-19"
   }
 }

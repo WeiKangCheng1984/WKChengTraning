@@ -14,8 +14,8 @@
       "roleInScript": "嫩芽爆",
       "humorDevice": "contrast",
       "zhGloss": "迅速成長",
-      "speakLineEn": "Cue the 嫩芽爆: burgeon walks on and the gag sticks.",
-      "speakLineZh": "請「嫩芽爆」出場：burgeon 一上場梗就黏住——迅速成長。",
+      "speakLineEn": "On the exam, burgeon most nearly means a sense of \"迅速成長\".",
+      "speakLineZh": "迅速成長。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -25,12 +25,12 @@
     {
       "headword": "augment",
       "inVocab": true,
-      "senseAnchor": "增加",
+      "senseAnchor": "增加；場面：加厚",
       "roleInScript": "加厚",
       "humorDevice": "contrast",
       "zhGloss": "增加",
-      "speakLineEn": "Cue the 加厚: augment walks on and the gag sticks.",
-      "speakLineZh": "請「加厚」出場：augment 一上場梗就黏住——增加。",
+      "speakLineEn": "On the exam, augment most nearly means a sense of \"增加\".",
+      "speakLineZh": "增加。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -40,12 +40,12 @@
     {
       "headword": "wax",
       "inVocab": false,
-      "senseAnchor": "增強",
+      "senseAnchor": "增強；場面：月盈",
       "roleInScript": "月盈",
       "humorDevice": "contrast",
       "zhGloss": "增強",
-      "speakLineEn": "Cue the 月盈: wax walks on and the gag sticks.",
-      "speakLineZh": "請「月盈」出場：wax 一上場梗就黏住——增強。",
+      "speakLineEn": "Picture the 月盈: the word wax means 增強.",
+      "speakLineZh": "想像「月盈」：wax＝增強。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -60,8 +60,8 @@
       "roleInScript": "傘菌長",
       "humorDevice": "contrast",
       "zhGloss": "迅速發展",
-      "speakLineEn": "Cue the 傘菌長: mushroom walks on and the gag sticks.",
-      "speakLineZh": "請「傘菌長」出場：mushroom 一上場梗就黏住——迅速發展。",
+      "speakLineEn": "On the exam, mushroom most nearly means a sense of \"迅速發展\".",
+      "speakLineZh": "迅速發展。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -71,12 +71,12 @@
     {
       "headword": "amplify",
       "inVocab": true,
-      "senseAnchor": "放大",
+      "senseAnchor": "放大；場面：擴音",
       "roleInScript": "擴音",
       "humorDevice": "contrast",
       "zhGloss": "放大",
-      "speakLineEn": "Cue the 擴音: amplify walks on and the gag sticks.",
-      "speakLineZh": "請「擴音」出場：amplify 一上場梗就黏住——放大。",
+      "speakLineEn": "On the exam, amplify most nearly means a sense of \"放大\".",
+      "speakLineZh": "放大。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -86,12 +86,12 @@
     {
       "headword": "expand",
       "inVocab": true,
-      "senseAnchor": "擴張",
+      "senseAnchor": "擴張；場面：膨脹",
       "roleInScript": "膨脹",
       "humorDevice": "contrast",
       "zhGloss": "擴張",
-      "speakLineEn": "Cue the 膨脹: expand walks on and the gag sticks.",
-      "speakLineZh": "請「膨脹」出場：expand 一上場梗就黏住——擴張。",
+      "speakLineEn": "On the exam, expand most nearly means a sense of \"擴張\".",
+      "speakLineZh": "擴張。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -102,11 +102,11 @@
       "headword": "greenhouse",
       "inVocab": false,
       "senseAnchor": "溫室",
-      "roleInScript": "溫室",
+      "roleInScript": "溫室角色",
       "humorDevice": "story",
       "zhGloss": "溫室",
-      "speakLineEn": "Cue the 溫室: greenhouse walks on and the gag sticks.",
-      "speakLineZh": "請「溫室」出場：greenhouse 一上場梗就黏住——溫室。",
+      "speakLineEn": "A careful reader links greenhouse to 溫室, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 greenhouse 連到「溫室」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -118,11 +118,11 @@
       "headword": "shears",
       "inVocab": false,
       "senseAnchor": "剪刀",
-      "roleInScript": "剪刀",
+      "roleInScript": "剪刀角色",
       "humorDevice": "story",
       "zhGloss": "剪刀",
-      "speakLineEn": "Cue the 剪刀: shears walks on and the gag sticks.",
-      "speakLineZh": "請「剪刀」出場：shears 一上場梗就黏住——剪刀。",
+      "speakLineEn": "Hold the meaning steady: shears means 剪刀.",
+      "speakLineZh": "記住考意：shears＝剪刀。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -133,12 +133,12 @@
     {
       "headword": "sprout",
       "inVocab": true,
-      "senseAnchor": "any new growth of a plant such as a new branch or a bud; a newly grown bud (especially from a germinating seed)",
-      "roleInScript": "芽",
+      "senseAnchor": "發芽",
+      "roleInScript": "芽角色",
       "humorDevice": "story",
-      "zhGloss": "芽",
-      "speakLineEn": "Cue the 芽: sprout walks on and the gag sticks.",
-      "speakLineZh": "請「芽」出場：sprout 一上場梗就黏住——芽。",
+      "zhGloss": "發芽",
+      "speakLineEn": "The plant sprouted early this year.",
+      "speakLineZh": "發芽。",
       "related": {
         "synonyms": "shoot, spud, germinate, pullulate, bourgeon, stock",
         "antonyms": ""
@@ -148,12 +148,12 @@
     {
       "headword": "soil",
       "inVocab": true,
-      "senseAnchor": "the state of being covered with unclean things; the part of the earth's surface consisting of humus and disintegrated rock",
-      "roleInScript": "土壤",
+      "senseAnchor": "污染；玷污",
+      "roleInScript": "土壤角色",
       "humorDevice": "story",
-      "zhGloss": "土壤",
-      "speakLineEn": "Cue the 土壤: soil walks on and the gag sticks.",
-      "speakLineZh": "請「土壤」出場：soil 一上場梗就黏住——土壤。",
+      "zhGloss": "污染；玷污",
+      "speakLineEn": "Don't soil your clothes when you play outside!",
+      "speakLineZh": "污染；玷污。",
       "related": {
         "synonyms": "dirt, filth, grime, stain, grease, grunge",
         "antonyms": "clean"
@@ -164,11 +164,11 @@
       "headword": "hose",
       "inVocab": false,
       "senseAnchor": "水管",
-      "roleInScript": "水管",
+      "roleInScript": "水管角色",
       "humorDevice": "story",
       "zhGloss": "水管",
-      "speakLineEn": "Cue the 水管: hose walks on and the gag sticks.",
-      "speakLineZh": "請「水管」出場：hose 一上場梗就黏住——水管。",
+      "speakLineEn": "In the passage, hose signals a shift toward \"水管\".",
+      "speakLineZh": "文中 hose 標示語氣轉向「水管」。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -191,6 +191,9 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P4-batch02"
+    "stage": "P4-batch02",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave2",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

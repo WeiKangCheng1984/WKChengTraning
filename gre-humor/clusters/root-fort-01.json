@@ -25,10 +25,10 @@
     {
       "headword": "fortitude",
       "inVocab": true,
-      "senseAnchor": "strength of mind that enables one to endure adversity with courage",
+      "senseAnchor": "堅韌；場面：內在強",
       "roleInScript": "內在強",
       "humorDevice": "morphology",
-      "zhGloss": "堅忍；剛毅",
+      "zhGloss": "堅韌",
       "speakLineEn": "Replication work takes quiet fortitude.",
       "speakLineZh": "複現工作需要安靜的剛毅。",
       "related": {
@@ -40,10 +40,10 @@
     {
       "headword": "fortuitous",
       "inVocab": true,
-      "senseAnchor": "happening by chance",
+      "senseAnchor": "意外的；幸運的",
       "roleInScript": "碰巧變強運",
       "humorDevice": "morphology",
-      "zhGloss": "偶然的",
+      "zhGloss": "意外的；幸運的",
       "speakLineEn": "A fortuitous sample is not a design.",
       "speakLineZh": "偶然樣本不是設計。",
       "related": {
@@ -55,10 +55,10 @@
     {
       "headword": "forte",
       "inVocab": true,
-      "senseAnchor": "an asset of special worth or utility; (music) loud",
+      "senseAnchor": "長處；場面：最擅長的力",
       "roleInScript": "最擅長的力",
       "humorDevice": "morphology",
-      "zhGloss": "強項；專長",
+      "zhGloss": "長處",
       "speakLineEn": "Transparency is this lab's forte.",
       "speakLineZh": "透明是這實驗室的強項。",
       "related": {
@@ -130,7 +130,7 @@
     {
       "headword": "forceful",
       "inVocab": false,
-      "senseAnchor": "有力的",
+      "senseAnchor": "有力的；場面：用力推",
       "roleInScript": "用力推",
       "humorDevice": "story",
       "zhGloss": "有力的",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P1-batch02"
+    "stage": "P1-batch02",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

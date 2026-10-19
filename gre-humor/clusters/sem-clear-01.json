@@ -25,7 +25,7 @@
     {
       "headword": "explicit",
       "inVocab": true,
-      "senseAnchor": "明確的",
+      "senseAnchor": "明確的；場面：寫在外面",
       "roleInScript": "寫在外面",
       "humorDevice": "contrast",
       "zhGloss": "明確的",
@@ -40,10 +40,10 @@
     {
       "headword": "perspicuous",
       "inVocab": true,
-      "senseAnchor": "(of language) transparently clear; easily understandable; ; ; - Robert Burton",
+      "senseAnchor": "清晰的；場面：透亮",
       "roleInScript": "透亮",
       "humorDevice": "contrast",
-      "zhGloss": "明白易懂的",
+      "zhGloss": "清晰的",
       "speakLineEn": "Prefer perspicuous diagrams over ornament.",
       "speakLineZh": "寧可明白圖，不要裝飾。",
       "related": {
@@ -55,7 +55,7 @@
     {
       "headword": "transparent",
       "inVocab": true,
-      "senseAnchor": "透明的",
+      "senseAnchor": "透明的；場面：可透視",
       "roleInScript": "可透視",
       "humorDevice": "contrast",
       "zhGloss": "透明的",
@@ -100,7 +100,7 @@
     {
       "headword": "ambiguous",
       "inVocab": true,
-      "senseAnchor": "模稜的",
+      "senseAnchor": "模稜的；場面：兩種影子",
       "roleInScript": "兩種影子",
       "humorDevice": "contrast",
       "zhGloss": "模稜的",
@@ -115,7 +115,7 @@
     {
       "headword": "vague",
       "inVocab": true,
-      "senseAnchor": "含糊的",
+      "senseAnchor": "含糊的；場面：霧",
       "roleInScript": "霧",
       "humorDevice": "contrast",
       "zhGloss": "含糊的",
@@ -145,10 +145,10 @@
     {
       "headword": "recondite",
       "inVocab": true,
-      "senseAnchor": "difficult to penetrate; incomprehensible to one of ordinary understanding or knowledge",
+      "senseAnchor": "深奧的；晦澀難懂的",
       "roleInScript": "藏很深",
       "humorDevice": "contrast",
-      "zhGloss": "深奧的；隱僻的",
+      "zhGloss": "深奧的；晦澀難懂的",
       "speakLineEn": "Recondite citations should still be findable.",
       "speakLineZh": "隱僻引用仍應可找到。",
       "related": {
@@ -160,7 +160,7 @@
     {
       "headword": "implicit",
       "inVocab": true,
-      "senseAnchor": "隱含的",
+      "senseAnchor": "隱含的；場面：沒寫在外面",
       "roleInScript": "沒寫在外面",
       "humorDevice": "contrast",
       "zhGloss": "隱含的",
@@ -175,7 +175,7 @@
     {
       "headword": "clarity",
       "inVocab": true,
-      "senseAnchor": "free from obscurity and easy to understand; the comprehensibility of clear expression; the quality of clear water",
+      "senseAnchor": "清晰；場面：清的名詞",
       "roleInScript": "清的名詞",
       "humorDevice": "contrast",
       "zhGloss": "清晰",
@@ -220,7 +220,7 @@
     {
       "headword": "muddy",
       "inVocab": true,
-      "senseAnchor": "混濁的",
+      "senseAnchor": "混濁的；場面：泥水",
       "roleInScript": "泥水",
       "humorDevice": "contrast",
       "zhGloss": "混濁的",
@@ -248,6 +248,8 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "S3b"
+    "stage": "S3b",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

@@ -5,17 +5,17 @@
   "titleZh": "orphan L｜L轉盤",
   "titleEn": "Orphan L",
   "hook": "差集 L 專場開在L轉盤——名牌用中文，防止走失。",
-  "script": "labile/labortious/lacerate/lachrymose 先登台，其餘 orphan 接龍。清倉晚會續攤：同字母檢票，義核才是身份證。",
+  "script": "labile/labortious/lacerate/lachrymose 先登台，其餘 orphan 接龍。清倉晚會續攤：同字母檢票，義核才是身份證。串記：同一世界觀裡，每個詞都有固定動作位。登場：labile（L席-不穩定的）、labortious（L席-勤勉的）、lacerate（L席-傷害；撕）、lachrymose（L席-悲哀的；）、lachymose（L席-愛哭的；）、lactic（L席-乳的）。",
   "members": [
     {
       "headword": "labile",
       "inVocab": true,
-      "senseAnchor": "(chemistry, physics, biology) readily undergoing change or breakdown; liable to change",
+      "senseAnchor": "不穩定的；易變的",
       "roleInScript": "L席-不穩定的",
       "humorDevice": "morphology",
       "zhGloss": "不穩定的；易變的",
-      "speakLineEn": "Cue the L席-不穩定的: labile walks on and the gag sticks.",
-      "speakLineZh": "請「L席-不穩定的」出場：labile 一上場梗就黏住——不穩定的；易變的。",
+      "speakLineEn": "An emotionally labile person.",
+      "speakLineZh": "不穩定的；易變的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -25,12 +25,12 @@
     {
       "headword": "labortious",
       "inVocab": true,
-      "senseAnchor": "a GRE-level vocabulary item meaning closely related to its core sense in academic English",
+      "senseAnchor": "勤勉的",
       "roleInScript": "L席-勤勉的",
       "humorDevice": "morphology",
       "zhGloss": "勤勉的",
-      "speakLineEn": "Cue the L席-勤勉的: labortious walks on and the gag sticks.",
-      "speakLineZh": "請「L席-勤勉的」出場：labortious 一上場梗就黏住——勤勉的。",
+      "speakLineEn": "A clear sense of labortious is crucial to understanding the argument.",
+      "speakLineZh": "勤勉的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -40,12 +40,12 @@
     {
       "headword": "lacerate",
       "inVocab": true,
-      "senseAnchor": "cut or tear irregularly; deeply hurt the feelings of; distress",
+      "senseAnchor": "傷害；撕裂",
       "roleInScript": "L席-傷害；撕",
       "humorDevice": "morphology",
       "zhGloss": "傷害；撕裂",
-      "speakLineEn": "Cue the L席-傷害；撕: lacerate walks on and the gag sticks.",
-      "speakLineZh": "請「L席-傷害；撕」出場：lacerate 一上場梗就黏住——傷害；撕裂。",
+      "speakLineEn": "Lacerate appears here: His lacerating remarks.",
+      "speakLineZh": "傷害；撕裂。",
       "related": {
         "synonyms": "lacerated, mangled, torn",
         "antonyms": ""
@@ -55,12 +55,12 @@
     {
       "headword": "lachrymose",
       "inVocab": true,
-      "senseAnchor": "showing sorrow",
+      "senseAnchor": "悲哀的；愛哭的",
       "roleInScript": "L席-悲哀的；",
       "humorDevice": "morphology",
       "zhGloss": "悲哀的；愛哭的",
-      "speakLineEn": "Cue the L席-悲哀的；: lachrymose walks on and the gag sticks.",
-      "speakLineZh": "請「L席-悲哀的；」出場：lachrymose 一上場梗就黏住——悲哀的；愛哭的。",
+      "speakLineEn": "The critic noted her lachrymose approach to the evidence.",
+      "speakLineZh": "悲哀的；愛哭的。",
       "related": {
         "synonyms": "dolorous, dolourous, tearful, weeping",
         "antonyms": "tearless, laugh"
@@ -70,12 +70,12 @@
     {
       "headword": "lachymose",
       "inVocab": true,
-      "senseAnchor": "a GRE-level vocabulary item meaning closely related to its core sense in academic English",
+      "senseAnchor": "愛哭的；悲哀的",
       "roleInScript": "L席-愛哭的；",
       "humorDevice": "morphology",
       "zhGloss": "愛哭的；悲哀的",
-      "speakLineEn": "Cue the L席-愛哭的；: lachymose walks on and the gag sticks.",
-      "speakLineZh": "請「L席-愛哭的；」出場：lachymose 一上場梗就黏住——愛哭的；悲哀的。",
+      "speakLineEn": "A clear sense of lachymose is crucial to understanding the argument.",
+      "speakLineZh": "愛哭的；悲哀的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -85,12 +85,12 @@
     {
       "headword": "lactic",
       "inVocab": true,
-      "senseAnchor": "of or relating to or obtained from milk (especially sour milk or whey)",
+      "senseAnchor": "乳的",
       "roleInScript": "L席-乳的",
       "humorDevice": "morphology",
       "zhGloss": "乳的",
-      "speakLineEn": "Cue the L席-乳的: lactic walks on and the gag sticks.",
-      "speakLineZh": "請「L席-乳的」出場：lactic 一上場梗就黏住——乳的。",
+      "speakLineEn": "Lactic fermentation.",
+      "speakLineZh": "乳的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -100,12 +100,12 @@
     {
       "headword": "lamentable",
       "inVocab": true,
-      "senseAnchor": "bad; unfortunate",
+      "senseAnchor": "可悲的；悲痛的",
       "roleInScript": "L席-可悲的；",
       "humorDevice": "morphology",
       "zhGloss": "可悲的；悲痛的",
-      "speakLineEn": "Cue the L席-可悲的；: lamentable walks on and the gag sticks.",
-      "speakLineZh": "請「L席-可悲的；」出場：lamentable 一上場梗就黏住——可悲的；悲痛的。",
+      "speakLineEn": "A lamentable decision.",
+      "speakLineZh": "可悲的；悲痛的。",
       "related": {
         "synonyms": "deplorable, distressing, pitiful, sad, sorry",
         "antonyms": "glad, unregretful"
@@ -115,12 +115,12 @@
     {
       "headword": "lampoon",
       "inVocab": true,
-      "senseAnchor": "a composition that imitates or misrepresents somebody's style, usually in a humorous way; ridicule with satire",
+      "senseAnchor": "公開諷刺；扭曲",
       "roleInScript": "L席-公開諷刺",
       "humorDevice": "morphology",
-      "zhGloss": "公開諷刺",
-      "speakLineEn": "Cue the L席-公開諷刺: lampoon walks on and the gag sticks.",
-      "speakLineZh": "請「L席-公開諷刺」出場：lampoon 一上場梗就黏住——公開諷刺。",
+      "zhGloss": "公開諷刺；扭曲；曲解",
+      "speakLineEn": "A clear sense of lampoon is crucial to understanding the argument.",
+      "speakLineZh": "公開諷刺。",
       "related": {
         "synonyms": "parody, spoof, sendup, mockery, takeoff, burlesque",
         "antonyms": ""
@@ -130,12 +130,12 @@
     {
       "headword": "languid",
       "inVocab": true,
-      "senseAnchor": "lacking spirit or liveliness",
+      "senseAnchor": "憔悴的；衰弱的",
       "roleInScript": "L席-憔悴的；",
       "humorDevice": "morphology",
       "zhGloss": "憔悴的；衰弱的",
-      "speakLineEn": "Cue the L席-憔悴的；: languid walks on and the gag sticks.",
-      "speakLineZh": "請「L席-憔悴的；」出場：languid 一上場梗就黏住——憔悴的；衰弱的。",
+      "speakLineEn": "A languid wave of the hand.",
+      "speakLineZh": "憔悴的；衰弱的。",
       "related": {
         "synonyms": "dreamy, lackadaisical, languorous",
         "antonyms": ""
@@ -145,12 +145,12 @@
     {
       "headword": "languish",
       "inVocab": true,
-      "senseAnchor": "to become weak or unsuccessful",
+      "senseAnchor": "變得衰弱",
       "roleInScript": "L席-v. 變",
       "humorDevice": "morphology",
-      "zhGloss": "v. 變得衰弱",
-      "speakLineEn": "Cue the L席-v. 變: languish walks on and the gag sticks.",
-      "speakLineZh": "請「L席-v. 變」出場：languish 一上場梗就黏住——v. 變得衰弱。",
+      "zhGloss": "變得衰弱",
+      "speakLineEn": "The prisoner has be languishing for years in the dungeon.",
+      "speakLineZh": "變得衰弱。",
       "related": {
         "synonyms": "fade, flag, wither",
         "antonyms": ""
@@ -160,12 +160,12 @@
     {
       "headword": "languor",
       "inVocab": true,
-      "senseAnchor": "a relaxed comfortable feeling; a feeling of lack of interest or energy",
+      "senseAnchor": "衰弱；懶惰",
       "roleInScript": "L席-衰弱；懶",
       "humorDevice": "morphology",
       "zhGloss": "衰弱；懶惰",
-      "speakLineEn": "Cue the L席-衰弱；懶: languor walks on and the gag sticks.",
-      "speakLineZh": "請「L席-衰弱；懶」出場：languor 一上場梗就黏住——衰弱；懶惰。",
+      "speakLineEn": "A clear sense of languor is crucial to understanding the argument.",
+      "speakLineZh": "衰弱；懶惰。",
       "related": {
         "synonyms": "dreaminess, lassitude, listlessness, lethargy, sluggishness, phlegm",
         "antonyms": ""
@@ -175,12 +175,12 @@
     {
       "headword": "lapse",
       "inVocab": true,
-      "senseAnchor": "an unintentional departure from truth or accuracy",
+      "senseAnchor": "失誤；場面：L席-n. 失",
       "roleInScript": "L席-n. 失",
       "humorDevice": "morphology",
-      "zhGloss": "n. 失誤",
-      "speakLineEn": "Cue the L席-n. 失: lapse walks on and the gag sticks.",
-      "speakLineZh": "請「L席-n. 失」出場：lapse 一上場梗就黏住——n. 失誤。",
+      "zhGloss": "失誤",
+      "speakLineEn": "A lapse of three weeks between letters.",
+      "speakLineZh": "失誤。",
       "related": {
         "synonyms": "blunder, gaffe, oversight, slip",
         "antonyms": ""
@@ -190,12 +190,12 @@
     {
       "headword": "largess",
       "inVocab": true,
-      "senseAnchor": "a gift or money given (as for service or out of benevolence); usually given ostentatiously; liberality in bestowing gifts; extremely liberal and generous of spirit",
+      "senseAnchor": "贈送；饋贈",
       "roleInScript": "L席-贈送；饋",
       "humorDevice": "morphology",
       "zhGloss": "贈送；饋贈",
-      "speakLineEn": "Cue the L席-贈送；饋: largess walks on and the gag sticks.",
-      "speakLineZh": "請「L席-贈送；饋」出場：largess 一上場梗就黏住——贈送；饋贈。",
+      "speakLineEn": "A clear sense of largess is crucial to understanding the argument.",
+      "speakLineZh": "贈送；饋贈。",
       "related": {
         "synonyms": "largesse, munificence, magnanimity, openhandedness",
         "antonyms": ""
@@ -205,12 +205,12 @@
     {
       "headword": "lassitude",
       "inVocab": true,
-      "senseAnchor": "a state of comatose torpor (as found in sleeping sickness); a feeling of lack of interest or energy",
+      "senseAnchor": "無精打採；疲乏",
       "roleInScript": "L席-無精打採",
       "humorDevice": "morphology",
       "zhGloss": "無精打採；疲乏",
-      "speakLineEn": "Cue the L席-無精打採: lassitude walks on and the gag sticks.",
-      "speakLineZh": "請「L席-無精打採」出場：lassitude 一上場梗就黏住——無精打採；疲乏。",
+      "speakLineEn": "A clear sense of lassitude is crucial to understanding the argument.",
+      "speakLineZh": "無精打採；疲乏。",
       "related": {
         "synonyms": "lethargy, sluggishness, languor, listlessness, inanition, slackness",
         "antonyms": ""
@@ -232,6 +232,9 @@
   "priority": "C",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P4-batch02"
+    "stage": "P4-batch02",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave2",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

@@ -25,7 +25,7 @@
     {
       "headword": "commander",
       "inVocab": false,
-      "senseAnchor": "指揮官",
+      "senseAnchor": "指揮官；場面：下令人",
       "roleInScript": "下令人",
       "humorDevice": "morphology",
       "zhGloss": "指揮官",
@@ -55,7 +55,7 @@
     {
       "headword": "demanding",
       "inVocab": false,
-      "senseAnchor": "苛求的",
+      "senseAnchor": "苛求的；場面：高要求",
       "roleInScript": "高要求",
       "humorDevice": "morphology",
       "zhGloss": "苛求的",
@@ -85,7 +85,7 @@
     {
       "headword": "mandatory",
       "inVocab": false,
-      "senseAnchor": "強制的",
+      "senseAnchor": "強制的；場面：必做的",
       "roleInScript": "必做的",
       "humorDevice": "morphology",
       "zhGloss": "強制的",
@@ -100,10 +100,10 @@
     {
       "headword": "countermand",
       "inVocab": true,
-      "senseAnchor": "a contrary command cancelling or reversing a previous command; cancel officially",
+      "senseAnchor": "撤銷；場面：撤前令",
       "roleInScript": "撤前令",
       "humorDevice": "morphology",
-      "zhGloss": "撤銷命令",
+      "zhGloss": "撤銷",
       "speakLineEn": "Countermand any post-hoc outcome swap.",
       "speakLineZh": "撤銷任何事後結局替換。",
       "related": {
@@ -115,10 +115,10 @@
     {
       "headword": "remand",
       "inVocab": true,
-      "senseAnchor": "the act of sending an accused person back into custody to await trial (or the continuation of the trial); refer (a matter or legal case) to another committee or authority or court for decision",
+      "senseAnchor": "送回；場面：發回重審",
       "roleInScript": "發回重審",
       "humorDevice": "story",
-      "zhGloss": "還押；發回",
+      "zhGloss": "送回",
       "speakLineEn": "Remand shaky claims to reanalysis.",
       "speakLineZh": "把不穩主張發回重分析。",
       "related": {
@@ -130,10 +130,10 @@
     {
       "headword": "reprimand",
       "inVocab": true,
-      "senseAnchor": "an act or expression of criticism and censure; rebuke formally",
+      "senseAnchor": "譴責；訓斥",
       "roleInScript": "訓令",
       "humorDevice": "story",
-      "zhGloss": "訓斥",
+      "zhGloss": "譴責；訓斥",
       "speakLineEn": "A public reprimand is worse than a quiet fix.",
       "speakLineZh": "公開訓斥不如安靜修好。",
       "related": {
@@ -145,7 +145,7 @@
     {
       "headword": "commandment",
       "inVocab": false,
-      "senseAnchor": "誡命",
+      "senseAnchor": "誡命；場面：誡條",
       "roleInScript": "誡條",
       "humorDevice": "story",
       "zhGloss": "誡命",
@@ -188,6 +188,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch04"
+    "stage": "P2-batch04",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

@@ -25,7 +25,7 @@
     {
       "headword": "sour",
       "inVocab": false,
-      "senseAnchor": "變酸；變壞；不高興的",
+      "senseAnchor": "變酸；變壞",
       "roleInScript": "空氣變酸、氣氛變糟",
       "humorDevice": "story",
       "zhGloss": "變酸；變壞；不高興的",
@@ -40,10 +40,10 @@
     {
       "headword": "scour",
       "inVocab": true,
-      "senseAnchor": "a place that is scoured (especially by running water); examine minutely",
+      "senseAnchor": "沖刷；場面：刷地板／翻箱搜查",
       "roleInScript": "刷地板／翻箱搜查",
       "humorDevice": "story",
-      "zhGloss": "徹底刷洗；徹底搜查",
+      "zhGloss": "沖刷",
       "speakLineEn": "Investigators scoured the records for inconsistencies.",
       "speakLineZh": "調查人員徹底翻查紀錄找矛盾。",
       "related": {
@@ -55,10 +55,10 @@
     {
       "headword": "dour",
       "inVocab": true,
-      "senseAnchor": "stubbornly unyielding; ; ; ; - T.S.Eliot; harshly uninviting or formidable in manner or appearance; ; ; ; - J.M.Barrie",
+      "senseAnchor": "嚴厲的；陰沉的",
       "roleInScript": "臭臉老爸",
       "humorDevice": "story",
-      "zhGloss": "嚴厲冷酷的；陰鬱的",
+      "zhGloss": "嚴厲的；陰沉的",
       "speakLineEn": "His dour expression never softened during negotiations.",
       "speakLineZh": "談判時他那張冷酷臉始終沒鬆過。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "mourn",
       "inVocab": true,
-      "senseAnchor": "feel sadness; observe the customs of mourning after the death of a loved one",
+      "senseAnchor": "哀悼；感到悲痛",
       "roleInScript": "哀悼歡樂已死",
       "humorDevice": "story",
-      "zhGloss": "哀悼；感到悲痛",
+      "zhGloss": "哀悼",
       "speakLineEn": "Critics mourned the decline of careful argumentation.",
       "speakLineZh": "評論者哀悼嚴謹論證的衰落。",
       "related": {
@@ -89,8 +89,8 @@
       "roleInScript": "麵粉袋",
       "humorDevice": "morphology",
       "zhGloss": "麵粉",
-      "speakLineEn": "Cue the 麵粉袋: flour walks on and the gag sticks.",
-      "speakLineZh": "請「麵粉袋」出場：flour 一上場梗就黏住——麵粉。",
+      "speakLineEn": "Picture the 麵粉袋: the word flour means 麵粉.",
+      "speakLineZh": "想像「麵粉袋」：flour＝麵粉。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -104,8 +104,8 @@
       "roleInScript": "輪廓線",
       "humorDevice": "morphology",
       "zhGloss": "輪廓",
-      "speakLineEn": "Cue the 輪廓線: contour walks on and the gag sticks.",
-      "speakLineZh": "請「輪廓線」出場：contour 一上場梗就黏住——輪廓。",
+      "speakLineEn": "Picture the 輪廓線: the word contour means 輪廓.",
+      "speakLineZh": "想像「輪廓線」：contour＝輪廓。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -116,11 +116,11 @@
       "headword": "vapour",
       "inVocab": false,
       "senseAnchor": "蒸汽",
-      "roleInScript": "蒸汽",
+      "roleInScript": "蒸汽角色",
       "humorDevice": "morphology",
       "zhGloss": "蒸汽",
-      "speakLineEn": "Cue the 蒸汽: vapour walks on and the gag sticks.",
-      "speakLineZh": "請「蒸汽」出場：vapour 一上場梗就黏住——蒸汽。",
+      "speakLineEn": "In the passage, vapour signals a shift toward \"蒸汽\".",
+      "speakLineZh": "文中 vapour 標示語氣轉向「蒸汽」。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -131,11 +131,11 @@
       "headword": "harbour",
       "inVocab": false,
       "senseAnchor": "港口",
-      "roleInScript": "港口",
+      "roleInScript": "港口角色",
       "humorDevice": "morphology",
       "zhGloss": "港口",
-      "speakLineEn": "Cue the 港口: harbour walks on and the gag sticks.",
-      "speakLineZh": "請「港口」出場：harbour 一上場梗就黏住——港口。",
+      "speakLineEn": "A careful reader links harbour to 港口, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 harbour 連到「港口」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -162,6 +162,9 @@
   "qualityGate": {
     "reviewedAt": "2026-10-18",
     "note": "Stage-1 promote: aligned with tract lesson template",
-    "thickenedAt": "P4-batch01"
+    "thickenedAt": "P4-batch01",
+    "polishStage": "Q-wave2",
+    "polishedAt": "2026-10-19",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

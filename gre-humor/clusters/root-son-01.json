@@ -25,10 +25,10 @@
     {
       "headword": "sonorous",
       "inVocab": true,
-      "senseAnchor": "full and loud and deep",
+      "senseAnchor": "響亮的；場面：洪亮麥",
       "roleInScript": "洪亮麥",
       "humorDevice": "morphology",
-      "zhGloss": "洪亮的",
+      "zhGloss": "響亮的",
       "speakLineEn": "Sonorous abstracts still need numbers.",
       "speakLineZh": "洪亮摘要仍需要數字。",
       "related": {
@@ -40,10 +40,10 @@
     {
       "headword": "resonate",
       "inVocab": true,
-      "senseAnchor": "共鳴；引起共鳴",
+      "senseAnchor": "引起共鳴",
       "roleInScript": "共鳴牆",
       "humorDevice": "morphology",
-      "zhGloss": "共鳴；引起共鳴",
+      "zhGloss": "引起共鳴",
       "speakLineEn": "Let limitations resonate as loudly as wins.",
       "speakLineZh": "讓限制與勝利一樣共鳴。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "resonant",
       "inVocab": true,
-      "senseAnchor": "characterized by resonance; serving to bring to mind; - Wilder Hobson",
+      "senseAnchor": "響亮的；場面：共鳴標",
       "roleInScript": "共鳴標",
       "humorDevice": "morphology",
-      "zhGloss": "共鳴的",
+      "zhGloss": "響亮的",
       "speakLineEn": "Resonant stories need boring audits.",
       "speakLineZh": "共鳴故事需要無聊稽核。",
       "related": {
@@ -203,6 +203,8 @@
   "priority": "C",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch06"
+    "stage": "P2-batch06",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

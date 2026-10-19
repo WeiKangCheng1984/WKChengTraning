@@ -10,7 +10,7 @@
     {
       "headword": "contribute",
       "inVocab": false,
-      "senseAnchor": "貢獻",
+      "senseAnchor": "貢獻；場面：交貢品",
       "roleInScript": "交貢品",
       "humorDevice": "morphology",
       "zhGloss": "貢獻",
@@ -25,7 +25,7 @@
     {
       "headword": "contribution",
       "inVocab": false,
-      "senseAnchor": "貢獻",
+      "senseAnchor": "貢獻；場面：貢品單",
       "roleInScript": "貢品單",
       "humorDevice": "morphology",
       "zhGloss": "貢獻",
@@ -40,7 +40,7 @@
     {
       "headword": "contributor",
       "inVocab": false,
-      "senseAnchor": "貢獻者",
+      "senseAnchor": "貢獻者；場面：交貢的人",
       "roleInScript": "交貢的人",
       "humorDevice": "morphology",
       "zhGloss": "貢獻者",
@@ -85,10 +85,10 @@
     {
       "headword": "tribute",
       "inVocab": true,
-      "senseAnchor": "something to show respect and admiration",
+      "senseAnchor": "頌詞；讚揚",
       "roleInScript": "致敬貢",
       "humorDevice": "morphology",
-      "zhGloss": "致敬；貢品",
+      "zhGloss": "頌詞；讚揚",
       "speakLineEn": "Pay tribute to prior null replications.",
       "speakLineZh": "向先前虛無複現致敬。",
       "related": {
@@ -100,10 +100,10 @@
     {
       "headword": "tributary",
       "inVocab": true,
-      "senseAnchor": "a branch that flows into the main stream; (of a stream) flowing into a larger stream",
+      "senseAnchor": "進貢的；輔助的",
       "roleInScript": "支流櫃",
       "humorDevice": "morphology",
-      "zhGloss": "支流；進貢的",
+      "zhGloss": "進貢的；輔助的；支流",
       "speakLineEn": "A tributary analysis still needs disclosure.",
       "speakLineZh": "支流分析仍需揭露。",
       "related": {
@@ -130,10 +130,10 @@
     {
       "headword": "tribulation",
       "inVocab": true,
-      "senseAnchor": "unhappiness, pain or suffering",
+      "senseAnchor": "痛苦；悲傷",
       "roleInScript": "苦難關",
       "humorDevice": "story",
-      "zhGloss": "苦難；考驗",
+      "zhGloss": "痛苦；悲傷；折磨",
       "speakLineEn": "Peer review tribulation is not an excuse for opacity.",
       "speakLineZh": "同儕審查苦難不是不透明的藉口。",
       "related": {
@@ -145,7 +145,7 @@
     {
       "headword": "redistribute",
       "inVocab": false,
-      "senseAnchor": "再分配",
+      "senseAnchor": "再分配；場面：重分貢",
       "roleInScript": "重分貢",
       "humorDevice": "story",
       "zhGloss": "再分配",
@@ -175,7 +175,7 @@
     {
       "headword": "share",
       "inVocab": false,
-      "senseAnchor": "分享",
+      "senseAnchor": "分享；場面：分出去",
       "roleInScript": "分出去",
       "humorDevice": "story",
       "zhGloss": "分享",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P2-batch02"
+    "stage": "P2-batch02",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

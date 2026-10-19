@@ -70,10 +70,10 @@
     {
       "headword": "intercede",
       "inVocab": true,
-      "senseAnchor": "act between parties with a view to reconciling differences",
+      "senseAnchor": "調解；說情",
       "roleInScript": "走到中間幫人求情",
       "humorDevice": "morphology",
-      "zhGloss": "調停；說情介入",
+      "zhGloss": "調解；說情",
       "speakLineEn": "A mediator interceded before talks collapsed.",
       "speakLineZh": "調停者在談判崩盤前介入說情。",
       "related": {
@@ -189,6 +189,8 @@
   "qualityGate": {
     "reviewedAt": "2026-10-18",
     "stage": "S2",
-    "note": "New A-level cluster with full lesson"
+    "note": "New A-level cluster with full lesson",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

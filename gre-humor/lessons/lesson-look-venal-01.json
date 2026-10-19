@@ -20,7 +20,7 @@
       "step": 2,
       "name": "串記劇本",
       "minutes": 2,
-      "content": "venality 對 forgivable／excusable——法官：venal misconduct；venial typos。"
+      "content": "venality 對 forgivable／excusable——法官：venal misconduct；venial typos。形近對決：先分清語意軸，再對號入座。登場：venality（貪腐標）、bribery（賄賂）、forgivable（可恕）、excusable（可諒）、kickback（回扣）、graft（貪污）。"
     },
     {
       "step": 3,
@@ -91,6 +91,8 @@
   "status": "reviewed",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P3-batch01"
+    "stage": "P3-batch01",
+    "polishStage": "Q-wave3",
+    "polishedAt": "2026-10-19"
   }
 }

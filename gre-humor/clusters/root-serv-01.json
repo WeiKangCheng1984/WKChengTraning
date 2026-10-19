@@ -85,7 +85,7 @@
     {
       "headword": "deserve",
       "inVocab": false,
-      "senseAnchor": "應得",
+      "senseAnchor": "應得；場面：該加幾格",
       "roleInScript": "該加幾格",
       "humorDevice": "morphology",
       "zhGloss": "應得",
@@ -100,10 +100,10 @@
     {
       "headword": "subservient",
       "inVocab": true,
-      "senseAnchor": "compliant and obedient to authority; -G. B. Shaw; serving or acting as a means or aid",
+      "senseAnchor": "順從的；場面：過度順服",
       "roleInScript": "過度順服",
       "humorDevice": "morphology",
-      "zhGloss": "屈從的；輔助的",
+      "zhGloss": "順從的",
       "speakLineEn": "Do not be subservient to fashion metrics.",
       "speakLineZh": "不要屈從流行指標。",
       "related": {
@@ -175,7 +175,7 @@
     {
       "headword": "server",
       "inVocab": false,
-      "senseAnchor": "伺服器",
+      "senseAnchor": "伺服器；場面：站的機器",
       "roleInScript": "站的機器",
       "humorDevice": "story",
       "zhGloss": "伺服器",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P2-batch02"
+    "stage": "P2-batch02",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

@@ -20,7 +20,7 @@
       "step": 2,
       "name": "串記劇本",
       "minutes": 2,
-      "content": "delude＝欺騙。deluge＝洪水／大量湧來。divulge＝洩露。保全：別被騙、別被淹、別爆料。"
+      "content": "delude＝欺騙。deluge＝洪水／大量湧來。divulge＝洩露。保全：別被騙、別被淹、別爆料。形近對決：先分清語意軸，再對號入座。登場：delude（謊言噴）、deluge（洪水閥）、divulge（祕密閥）、flood（洪水）、secret（祕密）、leak（洩漏）。"
     },
     {
       "step": 3,
@@ -91,6 +91,8 @@
   "status": "reviewed",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P3-batch03"
+    "stage": "P3-batch03",
+    "polishStage": "Q-wave2",
+    "polishedAt": "2026-10-19"
   }
 }

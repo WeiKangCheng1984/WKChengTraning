@@ -40,7 +40,7 @@
     {
       "headword": "innovate",
       "inVocab": false,
-      "senseAnchor": "創新",
+      "senseAnchor": "創新；場面：做出新",
       "roleInScript": "做出新",
       "humorDevice": "morphology",
       "zhGloss": "創新",
@@ -55,7 +55,7 @@
     {
       "headword": "innovation",
       "inVocab": false,
-      "senseAnchor": "創新",
+      "senseAnchor": "創新；場面：新成果",
       "roleInScript": "新成果",
       "humorDevice": "morphology",
       "zhGloss": "創新",
@@ -70,10 +70,10 @@
     {
       "headword": "renovate",
       "inVocab": true,
-      "senseAnchor": "restore to a previous or better condition; make brighter and prettier",
+      "senseAnchor": "翻新；場面：把舊變新",
       "roleInScript": "把舊變新",
       "humorDevice": "morphology",
-      "zhGloss": "翻新；修復",
+      "zhGloss": "翻新",
       "speakLineEn": "Renovate legacy code before scaling.",
       "speakLineZh": "擴張前先翻新舊程式碼。",
       "related": {
@@ -85,7 +85,7 @@
     {
       "headword": "novice",
       "inVocab": true,
-      "senseAnchor": "freshman, beginner",
+      "senseAnchor": "新手；場面：新人",
       "roleInScript": "新人",
       "humorDevice": "morphology",
       "zhGloss": "新手",
@@ -100,7 +100,7 @@
     {
       "headword": "innovative",
       "inVocab": false,
-      "senseAnchor": "創新的",
+      "senseAnchor": "創新的；場面：有新意的",
       "roleInScript": "有新意的",
       "humorDevice": "morphology",
       "zhGloss": "創新的",
@@ -115,7 +115,7 @@
     {
       "headword": "nova",
       "inVocab": false,
-      "senseAnchor": "新星",
+      "senseAnchor": "新星；場面：突然亮",
       "roleInScript": "突然亮",
       "humorDevice": "story",
       "zhGloss": "新星",
@@ -130,7 +130,7 @@
     {
       "headword": "novitiate",
       "inVocab": false,
-      "senseAnchor": "見習期",
+      "senseAnchor": "見習期；場面：新手期",
       "roleInScript": "新手期",
       "humorDevice": "story",
       "zhGloss": "見習期",
@@ -175,10 +175,10 @@
     {
       "headword": "renewal",
       "inVocab": true,
-      "senseAnchor": "the conversion of wasteland into land suitable for use of habitation or cultivation; the act of renewing",
+      "senseAnchor": "復興；恢復",
       "roleInScript": "再新一輪",
       "humorDevice": "story",
-      "zhGloss": "更新",
+      "zhGloss": "復興；恢復",
       "speakLineEn": "License renewal triggered an audit.",
       "speakLineZh": "授權更新觸發稽核。",
       "related": {
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P1-batch02"
+    "stage": "P1-batch02",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

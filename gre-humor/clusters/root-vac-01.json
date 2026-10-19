@@ -10,10 +10,10 @@
     {
       "headword": "vacant",
       "inVocab": false,
-      "senseAnchor": "空的；空缺的",
+      "senseAnchor": "空缺的；場面：空位子",
       "roleInScript": "空位子",
       "humorDevice": "morphology",
-      "zhGloss": "空的；空缺的",
+      "zhGloss": "空缺的",
       "speakLineEn": "Mark vacant cells as missing, not zero.",
       "speakLineZh": "空格標缺失，不要當零。",
       "related": {
@@ -25,7 +25,7 @@
     {
       "headword": "vacancy",
       "inVocab": false,
-      "senseAnchor": "空缺",
+      "senseAnchor": "空缺；場面：職缺／空位",
       "roleInScript": "職缺／空位",
       "humorDevice": "morphology",
       "zhGloss": "空缺",
@@ -55,10 +55,10 @@
     {
       "headword": "evacuate",
       "inVocab": true,
-      "senseAnchor": "move out of an unsafe location into safety; empty completely",
+      "senseAnchor": "撤離；疏散",
       "roleInScript": "清場",
       "humorDevice": "morphology",
-      "zhGloss": "撤離",
+      "zhGloss": "撤離；疏散",
       "speakLineEn": "Evacuate secrets from public repos.",
       "speakLineZh": "把秘密從公開 repo 撤離。",
       "related": {
@@ -85,7 +85,7 @@
     {
       "headword": "vacation",
       "inVocab": false,
-      "senseAnchor": "假期",
+      "senseAnchor": "假期；場面：放假",
       "roleInScript": "放假",
       "humorDevice": "morphology",
       "zhGloss": "假期",
@@ -115,7 +115,7 @@
     {
       "headword": "vacuous",
       "inVocab": true,
-      "senseAnchor": "devoid of intelligence; devoid of significance or point",
+      "senseAnchor": "空洞的；場面：空話",
       "roleInScript": "空話",
       "humorDevice": "morphology",
       "zhGloss": "空洞的",
@@ -175,7 +175,7 @@
     {
       "headword": "hollow",
       "inVocab": false,
-      "senseAnchor": "中空的",
+      "senseAnchor": "中空的；場面：空心",
       "roleInScript": "空心",
       "humorDevice": "story",
       "zhGloss": "中空的",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch04"
+    "stage": "P2-batch04",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

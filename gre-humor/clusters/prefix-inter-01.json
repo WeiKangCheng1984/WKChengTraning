@@ -100,7 +100,7 @@
     {
       "headword": "interweave",
       "inVocab": false,
-      "senseAnchor": "交織",
+      "senseAnchor": "交織；場面：織在一起",
       "roleInScript": "織在一起",
       "humorDevice": "story",
       "zhGloss": "交織",
@@ -143,6 +143,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch04"
+    "stage": "P2-batch04",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

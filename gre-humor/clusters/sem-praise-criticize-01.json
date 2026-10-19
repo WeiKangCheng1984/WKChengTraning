@@ -10,12 +10,12 @@
     {
       "headword": "accolade",
       "inVocab": true,
-      "senseAnchor": "award, an expression of approval",
+      "senseAnchor": "讚賞；榮譽",
       "roleInScript": "紅毯花",
       "humorDevice": "contrast",
-      "zhGloss": "榮譽讚揚",
-      "speakLineEn": "Cue the 紅毯花: accolade walks on and the gag sticks.",
-      "speakLineZh": "請「紅毯花」出場：accolade 一上場梗就黏住——榮譽讚揚。",
+      "zhGloss": "讚賞；榮譽",
+      "speakLineEn": "In academic English, writers may refer to the Grammy Award, the highest accolade in the music business.",
+      "speakLineZh": "讚賞，榮譽。",
       "related": {
         "synonyms": "award, honor, honour, laurels",
         "antonyms": "dishonor, disrespect"
@@ -25,12 +25,12 @@
     {
       "headword": "kudos",
       "inVocab": true,
-      "senseAnchor": "an expression of approval and commendation",
+      "senseAnchor": "名譽；場面：稱讚紙",
       "roleInScript": "稱讚紙",
       "humorDevice": "contrast",
-      "zhGloss": "榮譽稱讚",
-      "speakLineEn": "Cue the 稱讚紙: kudos walks on and the gag sticks.",
-      "speakLineZh": "請「稱讚紙」出場：kudos 一上場梗就黏住——榮譽稱讚。",
+      "zhGloss": "名譽",
+      "speakLineEn": "A clear sense of kudos is crucial to understanding the argument.",
+      "speakLineZh": "例句對齊：榮譽稱讚。",
       "related": {
         "synonyms": "praise, congratulations, extolment",
         "antonyms": "criticize"
@@ -40,12 +40,12 @@
     {
       "headword": "plaudit",
       "inVocab": true,
-      "senseAnchor": "enthusiastic approval",
+      "senseAnchor": "稱讚；喝彩",
       "roleInScript": "喝采牌",
       "humorDevice": "contrast",
-      "zhGloss": "喝采",
-      "speakLineEn": "Cue the 喝采牌: plaudit walks on and the gag sticks.",
-      "speakLineZh": "請「喝采牌」出場：plaudit 一上場梗就黏住——喝采。",
+      "zhGloss": "稱讚；喝彩",
+      "speakLineEn": "He acknowledged the plaudits of the crowd.",
+      "speakLineZh": "稱讚；喝彩。",
       "related": {
         "synonyms": "acclaim, acclamation, plaudits, eclat",
         "antonyms": "criticize, denounce, boo"
@@ -59,8 +59,8 @@
       "roleInScript": "嘉獎狀",
       "humorDevice": "contrast",
       "zhGloss": "嘉獎",
-      "speakLineEn": "Cue the 嘉獎狀: commendation walks on and the gag sticks.",
-      "speakLineZh": "請「嘉獎狀」出場：commendation 一上場梗就黏住——嘉獎。",
+      "speakLineEn": "On the exam, commendation most nearly means a sense of \"嘉獎\".",
+      "speakLineZh": "嘉獎。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -70,12 +70,12 @@
     {
       "headword": "adulate",
       "inVocab": true,
-      "senseAnchor": "flatter in an obsequious manner",
+      "senseAnchor": "吹噓；奉承",
       "roleInScript": "諂媚燈",
       "humorDevice": "contrast",
-      "zhGloss": "諂媚吹捧",
-      "speakLineEn": "Cue the 諂媚燈: adulate walks on and the gag sticks.",
-      "speakLineZh": "請「諂媚燈」出場：adulate 一上場梗就黏住——諂媚吹捧。",
+      "zhGloss": "吹噓；奉承；諂媚",
+      "speakLineEn": "In the end, they chose to adulate what they had once defended.",
+      "speakLineZh": "吹噓；奉承。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -89,8 +89,8 @@
       "roleInScript": "諂媚霧",
       "humorDevice": "contrast",
       "zhGloss": "諂媚",
-      "speakLineEn": "Cue the 諂媚霧: adulation walks on and the gag sticks.",
-      "speakLineZh": "請「諂媚霧」出場：adulation 一上場梗就黏住——諂媚。",
+      "speakLineEn": "On the exam, adulation most nearly means a sense of \"諂媚\".",
+      "speakLineZh": "諂媚。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -100,12 +100,12 @@
     {
       "headword": "flatter",
       "inVocab": true,
-      "senseAnchor": "奉承",
+      "senseAnchor": "奉承；甜言討好",
       "roleInScript": "奉承扇",
       "humorDevice": "contrast",
-      "zhGloss": "奉承",
-      "speakLineEn": "Cue the 奉承扇: flatter walks on and the gag sticks.",
-      "speakLineZh": "請「奉承扇」出場：flatter 一上場梗就黏住——奉承。",
+      "zhGloss": "奉承；甜言討好",
+      "speakLineEn": "On the exam, flatter most nearly means a sense of \"奉承\".",
+      "speakLineZh": "奉承。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -115,12 +115,12 @@
     {
       "headword": "blandishment",
       "inVocab": true,
-      "senseAnchor": "flattery intended to persuade; the act of urging by means of teasing or flattery",
+      "senseAnchor": "甜言蜜語；奉承",
       "roleInScript": "甜言",
       "humorDevice": "contrast",
-      "zhGloss": "甜言蜜語",
-      "speakLineEn": "Cue the 甜言: blandishment walks on and the gag sticks.",
-      "speakLineZh": "請「甜言」出場：blandishment 一上場梗就黏住——甜言蜜語。",
+      "zhGloss": "甜言蜜語；奉承；諂媚",
+      "speakLineEn": "A clear sense of blandishment is crucial to understanding the argument.",
+      "speakLineZh": "甜言蜜語；奉承。",
       "related": {
         "synonyms": "cajolery, palaver, wheedling",
         "antonyms": ""
@@ -134,8 +134,8 @@
       "roleInScript": "屈從膝",
       "humorDevice": "contrast",
       "zhGloss": "屈從討好",
-      "speakLineEn": "Cue the 屈從膝: truckle walks on and the gag sticks.",
-      "speakLineZh": "請「屈從膝」出場：truckle 一上場梗就黏住——屈從討好。",
+      "speakLineEn": "On the exam, truckle most nearly means a sense of \"屈從討好\".",
+      "speakLineZh": "屈從討好。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -145,12 +145,12 @@
     {
       "headword": "excoriate",
       "inVocab": true,
-      "senseAnchor": "express strong disapproval of; tear or wear off the skin or make sore by abrading",
+      "senseAnchor": "嚴厲的責難；痛斥",
       "roleInScript": "痛斥鞭",
       "humorDevice": "contrast",
-      "zhGloss": "痛斥",
-      "speakLineEn": "Cue the 痛斥鞭: excoriate walks on and the gag sticks.",
-      "speakLineZh": "請「痛斥鞭」出場：excoriate 一上場梗就黏住——痛斥。",
+      "zhGloss": "嚴厲的責難",
+      "speakLineEn": "In the end, they chose to excoriate what they had once defended.",
+      "speakLineZh": "嚴厲的責難。",
       "related": {
         "synonyms": "condemn, reprobate, decry, objurgate, chafe",
         "antonyms": "approbate"
@@ -160,12 +160,12 @@
     {
       "headword": "berate",
       "inVocab": true,
-      "senseAnchor": "censure severely or angrily",
+      "senseAnchor": "嚴厲批評；痛打",
       "roleInScript": "嚴斥錘",
       "humorDevice": "contrast",
-      "zhGloss": "嚴斥",
-      "speakLineEn": "Cue the 嚴斥錘: berate walks on and the gag sticks.",
-      "speakLineZh": "請「嚴斥錘」出場：berate 一上場梗就黏住——嚴斥。",
+      "zhGloss": "嚴厲批評；痛打",
+      "speakLineEn": "In the end, they chose to berate what they had once defended.",
+      "speakLineZh": "嚴厲批評；痛打。",
       "related": {
         "synonyms": "rebuke, rag, trounce, reproof, lecture, reprimand",
         "antonyms": ""
@@ -175,12 +175,12 @@
     {
       "headword": "upbraid",
       "inVocab": true,
-      "senseAnchor": "express criticism towards",
+      "senseAnchor": "責備；場面：責罵鐘",
       "roleInScript": "責罵鐘",
       "humorDevice": "contrast",
-      "zhGloss": "責罵",
-      "speakLineEn": "Cue the 責罵鐘: upbraid walks on and the gag sticks.",
-      "speakLineZh": "請「責罵鐘」出場：upbraid 一上場梗就黏住——責罵。",
+      "zhGloss": "責備",
+      "speakLineEn": "In the end, they chose to upbraid what they had once defended.",
+      "speakLineZh": "例句對齊：責罵。",
       "related": {
         "synonyms": "reproach",
         "antonyms": "praise, commend"
@@ -190,12 +190,12 @@
     {
       "headword": "vilify",
       "inVocab": true,
-      "senseAnchor": "to say or write bad things about someone",
+      "senseAnchor": "辱罵；場面：污衊桶",
       "roleInScript": "污衊桶",
       "humorDevice": "contrast",
-      "zhGloss": "污衊",
-      "speakLineEn": "Cue the 污衊桶: vilify walks on and the gag sticks.",
-      "speakLineZh": "請「污衊桶」出場：vilify 一上場梗就黏住——污衊。",
+      "zhGloss": "辱罵",
+      "speakLineEn": "Vilify appears here: The Nazi propaganda vilified the Jews.",
+      "speakLineZh": "例句對齊：污衊。",
       "related": {
         "synonyms": "calumniate, malign, slander, pillory, slur",
         "antonyms": "praise, extol, benign, focus"
@@ -209,8 +209,8 @@
       "roleInScript": "辱罵筒",
       "humorDevice": "contrast",
       "zhGloss": "辱罵",
-      "speakLineEn": "Cue the 辱罵筒: revile walks on and the gag sticks.",
-      "speakLineZh": "請「辱罵筒」出場：revile 一上場梗就黏住——辱罵。",
+      "speakLineEn": "On the exam, revile most nearly means a sense of \"辱罵\".",
+      "speakLineZh": "辱罵。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -220,12 +220,12 @@
     {
       "headword": "belittle",
       "inVocab": true,
-      "senseAnchor": "cause to seem less serious; play down; express a negative opinion of",
+      "senseAnchor": "輕視；貶低",
       "roleInScript": "贬低尺",
       "humorDevice": "contrast",
-      "zhGloss": "贬低",
-      "speakLineEn": "Cue the 贬低尺: belittle walks on and the gag sticks.",
-      "speakLineZh": "請「贬低尺」出場：belittle 一上場梗就黏住——贬低。",
+      "zhGloss": "輕視；貶低",
+      "speakLineEn": "Don't belittle your colleagues.",
+      "speakLineZh": "輕視；貶低。",
       "related": {
         "synonyms": "minimize, denigrate, derogate, disparage, diminish",
         "antonyms": "flatter"
@@ -239,8 +239,8 @@
       "roleInScript": "譴責旗",
       "humorDevice": "contrast",
       "zhGloss": "譴責抨擊",
-      "speakLineEn": "Cue the 譴責旗: decry walks on and the gag sticks.",
-      "speakLineZh": "請「譴責旗」出場：decry 一上場梗就黏住——譴責抨擊。",
+      "speakLineEn": "On the exam, decry most nearly means a sense of \"譴責抨擊\".",
+      "speakLineZh": "譴責抨擊。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -250,12 +250,12 @@
     {
       "headword": "deprecate",
       "inVocab": true,
-      "senseAnchor": "to express scornfully one’s low opinion of",
+      "senseAnchor": "反對貶低",
       "roleInScript": "貶低籤",
       "humorDevice": "contrast",
-      "zhGloss": "反對貶低",
-      "speakLineEn": "Cue the 貶低籤: deprecate walks on and the gag sticks.",
-      "speakLineZh": "請「貶低籤」出場：deprecate 一上場梗就黏住——反對貶低。",
+      "zhGloss": "貶低",
+      "speakLineEn": "The teacher should not deprecate his student's efforts.",
+      "speakLineZh": "例句對齊：反對貶低。",
       "related": {
         "synonyms": "belittle, detract, disparage",
         "antonyms": "flatter, praise, commend"
@@ -265,12 +265,12 @@
     {
       "headword": "chide",
       "inVocab": true,
-      "senseAnchor": "censure severely or angrily",
+      "senseAnchor": "責備；場面：嗔責針",
       "roleInScript": "嗔責針",
       "humorDevice": "contrast",
-      "zhGloss": "嗔責",
-      "speakLineEn": "Cue the 嗔責針: chide walks on and the gag sticks.",
-      "speakLineZh": "請「嗔責針」出場：chide 一上場梗就黏住——嗔責。",
+      "zhGloss": "責備",
+      "speakLineEn": "In the end, they chose to chide what they had once defended.",
+      "speakLineZh": "例句對齊：嗔責。",
       "related": {
         "synonyms": "rebuke, rag, trounce, reproof, lecture, reprimand",
         "antonyms": ""
@@ -280,12 +280,12 @@
     {
       "headword": "rail",
       "inVocab": true,
-      "senseAnchor": "to revile or scold in harsh, insolent, or abusive language",
+      "senseAnchor": "怒罵；猛烈抨擊",
       "roleInScript": "痛罵軌",
       "humorDevice": "contrast",
-      "zhGloss": "痛罵抨擊",
-      "speakLineEn": "Cue the 痛罵軌: rail walks on and the gag sticks.",
-      "speakLineZh": "請「痛罵軌」出場：rail 一上場梗就黏住——痛罵抨擊。",
+      "zhGloss": "怒罵；猛烈抨擊",
+      "speakLineEn": "Rail off the crowds from the Presidential palace. （i.",
+      "speakLineZh": "i. 怒罵，猛烈抨擊.",
       "related": {
         "synonyms": "castigate, chastise, lambaste, upbraid",
         "antonyms": "praise, commend"
@@ -295,12 +295,12 @@
     {
       "headword": "bouquet",
       "inVocab": true,
-      "senseAnchor": "an arrangement of flowers that is usually given as a present; a pleasingly sweet olfactory property",
-      "roleInScript": "花束",
+      "senseAnchor": "花束",
+      "roleInScript": "花束角色",
       "humorDevice": "story",
       "zhGloss": "花束",
-      "speakLineEn": "Cue the 花束: bouquet walks on and the gag sticks.",
-      "speakLineZh": "請「花束」出場：bouquet 一上場梗就黏住——花束。",
+      "speakLineEn": "A clear sense of bouquet is crucial to understanding the argument.",
+      "speakLineZh": "例句對齊：花束。",
       "related": {
         "synonyms": "corsage, posy, nosegay, fragrance, fragrancy, redolence",
         "antonyms": ""
@@ -311,11 +311,11 @@
       "headword": "whip",
       "inVocab": false,
       "senseAnchor": "鞭",
-      "roleInScript": "鞭",
+      "roleInScript": "鞭角色",
       "humorDevice": "story",
       "zhGloss": "鞭",
-      "speakLineEn": "Cue the 鞭: whip walks on and the gag sticks.",
-      "speakLineZh": "請「鞭」出場：whip 一上場梗就黏住——鞭。",
+      "speakLineEn": "Critics argued that the policy would whip basic protections.",
+      "speakLineZh": "批評者主張該政策會鞭基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -325,12 +325,12 @@
     {
       "headword": "heckle",
       "inVocab": true,
-      "senseAnchor": "a comb for separating flax fibers; comb with a heckle",
+      "senseAnchor": "譴責；質問",
       "roleInScript": "起鬨",
       "humorDevice": "story",
-      "zhGloss": "詰難起鬨",
-      "speakLineEn": "Cue the 起鬨: heckle walks on and the gag sticks.",
-      "speakLineZh": "請「起鬨」出場：heckle 一上場梗就黏住——詰難起鬨。",
+      "zhGloss": "譴責；質問",
+      "speakLineEn": "Heckle hemp or flax.",
+      "speakLineZh": "譴責；質問。",
       "related": {
         "synonyms": "hatchel, hackle",
         "antonyms": ""
@@ -341,11 +341,11 @@
       "headword": "encore",
       "inVocab": true,
       "senseAnchor": "安可",
-      "roleInScript": "安可",
+      "roleInScript": "安可角色",
       "humorDevice": "story",
       "zhGloss": "安可",
-      "speakLineEn": "Cue the 安可: encore walks on and the gag sticks.",
-      "speakLineZh": "請「安可」出場：encore 一上場梗就黏住——安可。",
+      "speakLineEn": "On the exam, encore most nearly means a sense of \"安可\".",
+      "speakLineZh": "安可。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -359,8 +359,8 @@
       "roleInScript": "吐槽",
       "humorDevice": "story",
       "zhGloss": "吐槽大會",
-      "speakLineEn": "Cue the 吐槽: roast walks on and the gag sticks.",
-      "speakLineZh": "請「吐槽」出場：roast 一上場梗就黏住——吐槽大會。",
+      "speakLineEn": "On the exam, roast most nearly means a sense of \"吐槽大會\".",
+      "speakLineZh": "吐槽大會。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -383,6 +383,9 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P3-batch02"
+    "stage": "P3-batch02",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave1",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

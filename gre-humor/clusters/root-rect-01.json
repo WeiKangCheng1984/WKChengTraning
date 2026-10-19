@@ -25,10 +25,10 @@
     {
       "headword": "rectify",
       "inVocab": true,
-      "senseAnchor": "math: determine the length of; reduce to a fine, unmixed, or pure state; separate from extraneous matter or cleanse from impurities",
+      "senseAnchor": "矯正；場面：用尺弄直",
       "roleInScript": "用尺弄直",
       "humorDevice": "morphology",
-      "zhGloss": "矯正；改正",
+      "zhGloss": "矯正",
       "speakLineEn": "Rectify the codebook before round two.",
       "speakLineZh": "第二輪前矯正碼本。",
       "related": {
@@ -40,10 +40,10 @@
     {
       "headword": "rectitude",
       "inVocab": true,
-      "senseAnchor": "righteousness as a consequence of being honorable and honest",
+      "senseAnchor": "正直；場面：品德直線",
       "roleInScript": "品德直線",
       "humorDevice": "morphology",
-      "zhGloss": "正直；廉正",
+      "zhGloss": "正直",
       "speakLineEn": "Rectitude matters more than cleverness.",
       "speakLineZh": "正直比聰明重要。",
       "related": {
@@ -85,7 +85,7 @@
     {
       "headword": "indirect",
       "inVocab": true,
-      "senseAnchor": "間接的",
+      "senseAnchor": "間接的；場面：轉彎指路",
       "roleInScript": "轉彎指路",
       "humorDevice": "morphology",
       "zhGloss": "間接的",
@@ -115,7 +115,7 @@
     {
       "headword": "rectangle",
       "inVocab": true,
-      "senseAnchor": "矩形",
+      "senseAnchor": "矩形；場面：直角邊框",
       "roleInScript": "直角邊框",
       "humorDevice": "story",
       "zhGloss": "矩形",
@@ -160,7 +160,7 @@
     {
       "headword": "straighten",
       "inVocab": true,
-      "senseAnchor": "弄直",
+      "senseAnchor": "弄直；場面：直尺動作",
       "roleInScript": "直尺動作",
       "humorDevice": "story",
       "zhGloss": "弄直",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P2-batch01"
+    "stage": "P2-batch01",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

@@ -55,10 +55,10 @@
     {
       "headword": "confer",
       "inVocab": true,
-      "senseAnchor": "have a conference in order to talk something over; present",
+      "senseAnchor": "授予；場面：湊一起搬意見",
       "roleInScript": "湊一起搬意見",
       "humorDevice": "morphology",
-      "zhGloss": "商議；授予",
+      "zhGloss": "授予",
       "speakLineEn": "The panel will confer before announcing rankings.",
       "speakLineZh": "小組將在宣布排名前商議。",
       "related": {
@@ -85,7 +85,7 @@
     {
       "headword": "refer",
       "inVocab": true,
-      "senseAnchor": "提及；轉介；參考",
+      "senseAnchor": "提及；轉介",
       "roleInScript": "把問題搬去別處",
       "humorDevice": "morphology",
       "zhGloss": "提及；轉介；參考",
@@ -115,10 +115,10 @@
     {
       "headword": "proffer",
       "inVocab": true,
-      "senseAnchor": "a proposal offered for acceptance or rejection; present for acceptance or rejection",
+      "senseAnchor": "提供；場面：更正式地遞",
       "roleInScript": "更正式地遞",
       "humorDevice": "morphology",
-      "zhGloss": "正式提出；遞上",
+      "zhGloss": "提供",
       "speakLineEn": "Counsel proffered an alternative reading of the clause.",
       "speakLineZh": "律師正式提出另一種解讀。",
       "related": {
@@ -145,10 +145,10 @@
     {
       "headword": "proliferate",
       "inVocab": true,
-      "senseAnchor": "grow rapidly",
+      "senseAnchor": "快速增加；激增",
       "roleInScript": "大量搬出來",
       "humorDevice": "morphology",
-      "zhGloss": "激增；擴散",
+      "zhGloss": "快速增加",
       "speakLineEn": "Metrics proliferate when incentives reward counting.",
       "speakLineZh": "誘因獎勵計數時指標激增。",
       "related": {
@@ -205,7 +205,7 @@
     {
       "headword": "referendum",
       "inVocab": true,
-      "senseAnchor": "公投",
+      "senseAnchor": "公投；場面：把決定搬回給眾人",
       "roleInScript": "把決定搬回給眾人",
       "humorDevice": "story",
       "zhGloss": "公投",
@@ -248,6 +248,8 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "S3b"
+    "stage": "S3b",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

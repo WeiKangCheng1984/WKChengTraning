@@ -85,10 +85,10 @@
     {
       "headword": "fragile",
       "inVocab": false,
-      "senseAnchor": "易碎的",
+      "senseAnchor": "易碎的；脆弱的",
       "roleInScript": "易碎玻璃",
       "humorDevice": "morphology",
-      "zhGloss": "易碎的",
+      "zhGloss": "易碎的；脆弱的",
       "speakLineEn": "Fragile findings need replication.",
       "speakLineZh": "易碎發現需要複現。",
       "related": {
@@ -100,10 +100,10 @@
     {
       "headword": "frail",
       "inVocab": true,
-      "senseAnchor": "the weight of a frail (basket) full of raisins or figs; between 50 and 75 pounds; a basket for holding dried fruit (especially raisins or figs)",
+      "senseAnchor": "脆弱的；場面：虛弱架",
       "roleInScript": "虛弱架",
       "humorDevice": "morphology",
-      "zhGloss": "虛弱的",
+      "zhGloss": "脆弱的",
       "speakLineEn": "A frail identification strategy collapses.",
       "speakLineZh": "虛弱識別策略會塌。",
       "related": {
@@ -115,7 +115,7 @@
     {
       "headword": "refract",
       "inVocab": false,
-      "senseAnchor": "折射",
+      "senseAnchor": "折射；場面：折光",
       "roleInScript": "折光",
       "humorDevice": "morphology",
       "zhGloss": "折射",
@@ -130,10 +130,10 @@
     {
       "headword": "infraction",
       "inVocab": true,
-      "senseAnchor": "a crime less serious than a felony",
+      "senseAnchor": "違背；場面：規則碎裂",
       "roleInScript": "規則碎裂",
       "humorDevice": "story",
-      "zhGloss": "違規",
+      "zhGloss": "違背",
       "speakLineEn": "An infraction of blinding rules voids trust.",
       "speakLineZh": "違反盲法規則摧毀信任。",
       "related": {
@@ -145,7 +145,7 @@
     {
       "headword": "diffraction",
       "inVocab": false,
-      "senseAnchor": "繞射",
+      "senseAnchor": "繞射；場面：光繞彎",
       "roleInScript": "光繞彎",
       "humorDevice": "story",
       "zhGloss": "繞射",
@@ -160,10 +160,10 @@
     {
       "headword": "shatter",
       "inVocab": true,
-      "senseAnchor": "break into many pieces; damage or destroy",
+      "senseAnchor": "播散；場面：打碎",
       "roleInScript": "打碎",
       "humorDevice": "story",
-      "zhGloss": "粉碎",
+      "zhGloss": "播散",
       "speakLineEn": "One silent fork can shatter credibility.",
       "speakLineZh": "一次沉默分叉可粉碎可信度。",
       "related": {
@@ -175,7 +175,7 @@
     {
       "headword": "shard",
       "inVocab": false,
-      "senseAnchor": "碎片",
+      "senseAnchor": "碎片；場面：玻璃渣",
       "roleInScript": "玻璃渣",
       "humorDevice": "story",
       "zhGloss": "碎片",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch04"
+    "stage": "P2-batch04",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

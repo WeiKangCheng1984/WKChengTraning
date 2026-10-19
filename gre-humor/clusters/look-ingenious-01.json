@@ -25,7 +25,7 @@
     {
       "headword": "disingenuous",
       "inVocab": true,
-      "senseAnchor": "not honest",
+      "senseAnchor": "不真誠的；假惺惺的",
       "roleInScript": "裝天真",
       "humorDevice": "lookalike",
       "zhGloss": "不真誠的；假惺惺的",
@@ -40,10 +40,10 @@
     {
       "headword": "naive",
       "inVocab": true,
-      "senseAnchor": "lacking worldly experience and understanding, simple and guileless",
+      "senseAnchor": "天真純樸的；幼稚的",
       "roleInScript": "單純鄰居",
       "humorDevice": "contrast",
-      "zhGloss": "天真的；幼稚的",
+      "zhGloss": "天真純樸的",
       "speakLineEn": "A naive model ignored clustering.",
       "speakLineZh": "天真模型忽略叢集。",
       "related": {
@@ -55,10 +55,10 @@
     {
       "headword": "artful",
       "inVocab": true,
-      "senseAnchor": "not straightforward or candid; giving a false appearance of frankness; - David Cannadine; marked by skill in achieving a desired end especially with cunning or craft",
+      "senseAnchor": "做作的；場面：巧中帶滑",
       "roleInScript": "巧中帶滑",
       "humorDevice": "contrast",
-      "zhGloss": "狡猾巧妙的",
+      "zhGloss": "做作的",
       "speakLineEn": "Artful wording can mislead without lying.",
       "speakLineZh": "狡猾措辭可不說謊卻誤導。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "guileless",
       "inVocab": true,
-      "senseAnchor": "free of deceit",
+      "senseAnchor": "真摯的；場面：無心機",
       "roleInScript": "無心機",
       "humorDevice": "contrast",
-      "zhGloss": "坦率無詭計的",
+      "zhGloss": "真摯的",
       "speakLineEn": "Guileless reporting lists all deviations.",
       "speakLineZh": "無心機報告列出全部偏離。",
       "related": {
@@ -85,10 +85,10 @@
     {
       "headword": "crafty",
       "inVocab": true,
-      "senseAnchor": "marked by skill in deception",
+      "senseAnchor": "狡猾的；靈巧的",
       "roleInScript": "心機鄰居",
       "humorDevice": "contrast",
-      "zhGloss": "狡猾的",
+      "zhGloss": "狡猾的；靈巧的",
       "speakLineEn": "Crafty selective quoting distorts reviews.",
       "speakLineZh": "狡猾選擇性引用扭曲評論。",
       "related": {
@@ -158,6 +158,8 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P1-batch01"
+    "stage": "P1-batch01",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

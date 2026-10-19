@@ -10,12 +10,12 @@
     {
       "headword": "circumlocution",
       "inVocab": true,
-      "senseAnchor": "the use of unnecessarily wordy and indirect language",
+      "senseAnchor": "繞圈子說話；迂迴說法",
       "roleInScript": "繞圈麥",
       "humorDevice": "contrast",
-      "zhGloss": "迂迴說法",
-      "speakLineEn": "Cue the 繞圈麥: circumlocution walks on and the gag sticks.",
-      "speakLineZh": "請「繞圈麥」出場：circumlocution 一上場梗就黏住——迂迴說法。",
+      "zhGloss": "繞圈子說話",
+      "speakLineEn": "The debate focused on the other son of your parents’ is a circumlocution for your brother.",
+      "speakLineZh": "繞圈子說話。",
       "related": {
         "synonyms": "periphrasis, ambage",
         "antonyms": ""
@@ -25,12 +25,12 @@
     {
       "headword": "blunt",
       "inVocab": true,
-      "senseAnchor": "make less intense; make numb or insensitive",
+      "senseAnchor": "鈍的；直言不諱的",
       "roleInScript": "直球麥",
       "humorDevice": "contrast",
-      "zhGloss": "直言不諱的",
-      "speakLineEn": "Cue the 直球麥: blunt walks on and the gag sticks.",
-      "speakLineZh": "請「直球麥」出場：blunt 一上場梗就黏住——直言不諱的。",
+      "zhGloss": "鈍的；直言不諱的",
+      "speakLineEn": "Blunt talking and straight shooting.",
+      "speakLineZh": "鈍的；直言不諱的。",
       "related": {
         "synonyms": "numb, benumb, dull, deaden, candid, forthright",
         "antonyms": "enliven, sharpen"
@@ -40,12 +40,12 @@
     {
       "headword": "cagey",
       "inVocab": true,
-      "senseAnchor": "not wanting to give information",
+      "senseAnchor": "不願意說的；守口如瓶的",
       "roleInScript": "保密鍵",
       "humorDevice": "contrast",
-      "zhGloss": "守口如瓶的",
-      "speakLineEn": "Cue the 保密鍵: cagey walks on and the gag sticks.",
-      "speakLineZh": "請「保密鍵」出場：cagey 一上場梗就黏住——守口如瓶的。",
+      "zhGloss": "不願意說的",
+      "speakLineEn": "A cagey avoidance of a definite answer.",
+      "speakLineZh": "不願意說的。",
       "related": {
         "synonyms": "cagy, canny, clever, chary",
         "antonyms": ""
@@ -55,12 +55,12 @@
     {
       "headword": "discourse",
       "inVocab": true,
-      "senseAnchor": "extended verbal expression in speech or writing; an address of a religious nature (usually delivered during a church service)",
+      "senseAnchor": "演講；場面：長講稿",
       "roleInScript": "長講稿",
       "humorDevice": "contrast",
-      "zhGloss": "論述談話",
-      "speakLineEn": "Cue the 長講稿: discourse walks on and the gag sticks.",
-      "speakLineZh": "請「長講稿」出場：discourse 一上場梗就黏住——論述談話。",
+      "zhGloss": "演講",
+      "speakLineEn": "A clear sense of discourse is crucial to understanding the argument.",
+      "speakLineZh": "演講。",
       "related": {
         "synonyms": "sermon, preaching, discussion, treatment, discuss, converse",
         "antonyms": ""
@@ -70,12 +70,12 @@
     {
       "headword": "drone",
       "inVocab": true,
-      "senseAnchor": "stingless male bee in a colony of social bees (especially honeybees) whose sole function is to mate with the queen; an unchanging intonation",
+      "senseAnchor": "混日子；低沉的說",
       "roleInScript": "嗡嗡聲",
       "humorDevice": "contrast",
-      "zhGloss": "低沉嘮叨",
-      "speakLineEn": "Cue the 嗡嗡聲: drone walks on and the gag sticks.",
-      "speakLineZh": "請「嗡嗡聲」出場：drone 一上場梗就黏住——低沉嘮叨。",
+      "zhGloss": "混日子；低沉的說",
+      "speakLineEn": "Drone appears here: The harmonium was droning on.",
+      "speakLineZh": "混日子；低沉的說。",
       "related": {
         "synonyms": "monotone, droning, dawdler, laggard, lagger, trailer",
         "antonyms": "nonmonotonic"
@@ -85,12 +85,12 @@
     {
       "headword": "articulate",
       "inVocab": true,
-      "senseAnchor": "express ideas or feelings clearly in words",
+      "senseAnchor": "清楚地表達；表達清晰的",
       "roleInScript": "咬字清",
       "humorDevice": "contrast",
-      "zhGloss": "表達清晰的",
-      "speakLineEn": "Cue the 咬字清: articulate walks on and the gag sticks.",
-      "speakLineZh": "請「咬字清」出場：articulate 一上場梗就黏住——表達清晰的。",
+      "zhGloss": "清楚地表達",
+      "speakLineEn": "An articulate orator.",
+      "speakLineZh": "清楚地表達。",
       "related": {
         "synonyms": "enunciate",
         "antonyms": "inarticulate, mute, unarticulated"
@@ -100,12 +100,12 @@
     {
       "headword": "mumble",
       "inVocab": true,
-      "senseAnchor": "a soft indistinct utterance; talk indistinctly; usually in a low voice",
+      "senseAnchor": "含糊地說；含糊說",
       "roleInScript": "口罩音",
       "humorDevice": "contrast",
-      "zhGloss": "含糊說",
-      "speakLineEn": "Cue the 口罩音: mumble walks on and the gag sticks.",
-      "speakLineZh": "請「口罩音」出場：mumble 一上場梗就黏住——含糊說。",
+      "zhGloss": "含糊地說",
+      "speakLineEn": "The old man had no teeth left and mumbled his food.",
+      "speakLineZh": "含糊地說。",
       "related": {
         "synonyms": "mutter, maunder, mussitate, gum",
         "antonyms": ""
@@ -115,12 +115,12 @@
     {
       "headword": "banter",
       "inVocab": true,
-      "senseAnchor": "light teasing repartee; be silly or tease one another",
+      "senseAnchor": "打趣；場面：玩笑球",
       "roleInScript": "玩笑球",
       "humorDevice": "contrast",
       "zhGloss": "打趣",
-      "speakLineEn": "Cue the 玩笑球: banter walks on and the gag sticks.",
-      "speakLineZh": "請「玩笑球」出場：banter 一上場梗就黏住——打趣。",
+      "speakLineEn": "A clear sense of banter is crucial to understanding the argument.",
+      "speakLineZh": "打趣。",
       "related": {
         "synonyms": "raillery, give-and-take, backchat, kid, chaff, jolly",
         "antonyms": "parent, immoderately, unreasonably"
@@ -131,11 +131,11 @@
       "headword": "globe",
       "inVocab": false,
       "senseAnchor": "地球儀",
-      "roleInScript": "地球儀",
+      "roleInScript": "地球儀角色",
       "humorDevice": "story",
       "zhGloss": "地球儀",
-      "speakLineEn": "Cue the 地球儀: globe walks on and the gag sticks.",
-      "speakLineZh": "請「地球儀」出場：globe 一上場梗就黏住——地球儀。",
+      "speakLineEn": "In the passage, globe signals a shift toward \"地球儀\".",
+      "speakLineZh": "文中 globe 標示語氣轉向「地球儀」。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -158,6 +158,9 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P4-batch01"
+    "stage": "P4-batch01",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave2",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

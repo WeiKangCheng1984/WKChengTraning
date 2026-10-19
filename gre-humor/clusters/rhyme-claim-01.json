@@ -10,10 +10,10 @@
     {
       "headword": "exclaim",
       "inVocab": true,
-      "senseAnchor": "utter aloud; often with surprise, horror, or joy; state or announce",
+      "senseAnchor": "驚呼；大聲說",
       "roleInScript": "驚呼鈴",
       "humorDevice": "morphology",
-      "zhGloss": "驚呼；大聲說",
+      "zhGloss": "驚呼",
       "speakLineEn": "Exclaim caveats in the highlight box.",
       "speakLineZh": "在亮點框驚呼但書。",
       "related": {
@@ -40,10 +40,10 @@
     {
       "headword": "declaim",
       "inVocab": true,
-      "senseAnchor": "recite in elocution; speak against in an impassioned manner",
+      "senseAnchor": "演講；場面：演說台",
       "roleInScript": "演說台",
       "humorDevice": "morphology",
-      "zhGloss": "慷慨激昂地演說",
+      "zhGloss": "演講",
       "speakLineEn": "Do not declaim causality from correlations.",
       "speakLineZh": "別從相關慷慨激昂演說因果。",
       "related": {
@@ -188,6 +188,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch06"
+    "stage": "P2-batch06",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

@@ -40,7 +40,7 @@
     {
       "headword": "project",
       "inVocab": false,
-      "senseAnchor": "投射；規劃；項目",
+      "senseAnchor": "投射；規劃",
       "roleInScript": "向前扔出計畫",
       "humorDevice": "morphology",
       "zhGloss": "投射；規劃；項目",
@@ -85,7 +85,7 @@
     {
       "headword": "subject",
       "inVocab": false,
-      "senseAnchor": "主題；臣民；使遭受",
+      "senseAnchor": "主題；臣民",
       "roleInScript": "被扔在權威之下",
       "humorDevice": "morphology",
       "zhGloss": "主題；臣民；使遭受",
@@ -100,7 +100,7 @@
     {
       "headword": "object",
       "inVocab": false,
-      "senseAnchor": "反對；物體；目標",
+      "senseAnchor": "反對；物體",
       "roleInScript": "扔出異議",
       "humorDevice": "morphology",
       "zhGloss": "反對；物體；目標",
@@ -115,10 +115,10 @@
     {
       "headword": "abject",
       "inVocab": true,
-      "senseAnchor": "of the most contemptible kind; most unfortunate or miserable",
+      "senseAnchor": "淒涼的；可憐的",
       "roleInScript": "被扔到最低處",
       "humorDevice": "morphology",
-      "zhGloss": "悲慘的；下流的；徹底的（貶）",
+      "zhGloss": "淒涼的；可憐的",
       "speakLineEn": "Abject failure forced a redesign of the study.",
       "speakLineZh": "徹底慘敗迫使研究重新設計。",
       "related": {
@@ -160,7 +160,7 @@
     {
       "headword": "projectile",
       "inVocab": true,
-      "senseAnchor": "拋射物",
+      "senseAnchor": "拋射物；場面：被扔出去的東西",
       "roleInScript": "被扔出去的東西",
       "humorDevice": "story",
       "zhGloss": "拋射物",
@@ -189,6 +189,8 @@
   "qualityGate": {
     "reviewedAt": "2026-10-18",
     "stage": "S2",
-    "note": "New A-level cluster with full lesson"
+    "note": "New A-level cluster with full lesson",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

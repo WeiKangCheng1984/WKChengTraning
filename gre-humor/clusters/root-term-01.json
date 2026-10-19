@@ -10,7 +10,7 @@
     {
       "headword": "term",
       "inVocab": false,
-      "senseAnchor": "術語；期限；學期",
+      "senseAnchor": "術語；期限",
       "roleInScript": "站名牌",
       "humorDevice": "morphology",
       "zhGloss": "術語；期限；學期",
@@ -55,10 +55,10 @@
     {
       "headword": "interminable",
       "inVocab": true,
-      "senseAnchor": "tiresomely long; seemingly without end",
+      "senseAnchor": "無盡的；場面：永不到站",
       "roleInScript": "永不到站",
       "humorDevice": "morphology",
-      "zhGloss": "無盡的；冗長的",
+      "zhGloss": "無盡的",
       "speakLineEn": "Interminable methods hide the procedure.",
       "speakLineZh": "無盡方法段掩蓋程序。",
       "related": {
@@ -85,10 +85,10 @@
     {
       "headword": "exterminate",
       "inVocab": true,
-      "senseAnchor": "to get rid of completely usually by killing off",
+      "senseAnchor": "根除；消滅",
       "roleInScript": "極端清除",
       "humorDevice": "morphology",
-      "zhGloss": "消滅",
+      "zhGloss": "根除；消滅",
       "speakLineEn": "Do not exterminate outliers without rules.",
       "speakLineZh": "沒有規則不要消滅極端值。",
       "related": {
@@ -115,7 +115,7 @@
     {
       "headword": "terminus",
       "inVocab": false,
-      "senseAnchor": "終點",
+      "senseAnchor": "終點；場面：最後一站",
       "roleInScript": "最後一站",
       "humorDevice": "story",
       "zhGloss": "終點",
@@ -188,6 +188,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P2-batch02"
+    "stage": "P2-batch02",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

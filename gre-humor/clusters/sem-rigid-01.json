@@ -55,10 +55,10 @@
     {
       "headword": "obdurate",
       "inVocab": true,
-      "senseAnchor": "stubbornly persistent in wrongdoing; showing unfeeling resistance to tender feelings",
+      "senseAnchor": "頑固的；場面：硬心腸",
       "roleInScript": "硬心腸",
       "humorDevice": "contrast",
-      "zhGloss": "執迷不悟的",
+      "zhGloss": "頑固的",
       "speakLineEn": "Obdurate refusal to share blocks science.",
       "speakLineZh": "執迷拒共享阻擋科學。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "intransigent",
       "inVocab": true,
-      "senseAnchor": "impervious to pleas, persuasion, requests, reason; ; - W.Churchill",
+      "senseAnchor": "不妥協的；固執的",
       "roleInScript": "談不攏",
       "humorDevice": "contrast",
-      "zhGloss": "不妥協的",
+      "zhGloss": "不妥協的；固執的",
       "speakLineEn": "Intransigent positions stall consortia.",
       "speakLineZh": "不妥協立場拖延聯盟。",
       "related": {
@@ -85,10 +85,10 @@
     {
       "headword": "pliable",
       "inVocab": true,
-      "senseAnchor": "susceptible to being led or directed; capable of being shaped or bent or drawn out",
+      "senseAnchor": "柔軟的；場面：可彎",
       "roleInScript": "可彎",
       "humorDevice": "contrast",
-      "zhGloss": "柔韌的；易受影響的",
+      "zhGloss": "柔軟的",
       "speakLineEn": "Pliable criteria invite p-hacking.",
       "speakLineZh": "柔韌到亂的標準誘發 p 操弄。",
       "related": {
@@ -100,10 +100,10 @@
     {
       "headword": "malleable",
       "inVocab": true,
-      "senseAnchor": "capable of being easily changed",
+      "senseAnchor": "可塑的；易受影響的",
       "roleInScript": "可锤打成形",
       "humorDevice": "contrast",
-      "zhGloss": "可塑的",
+      "zhGloss": "可塑的；易受影響的",
       "speakLineEn": "Constructs are malleable—define them.",
       "speakLineZh": "構念可塑——請定義。",
       "related": {
@@ -115,10 +115,10 @@
     {
       "headword": "supple",
       "inVocab": true,
-      "senseAnchor": "readily bent",
+      "senseAnchor": "易彎曲的；柔軟的",
       "roleInScript": "柔而有力",
       "humorDevice": "contrast",
-      "zhGloss": "柔軟的；靈活的",
+      "zhGloss": "易彎曲的；柔軟的",
       "speakLineEn": "Supple designs adapt without cheating.",
       "speakLineZh": "靈活設計能適應而不作弊。",
       "related": {
@@ -130,10 +130,10 @@
     {
       "headword": "yielding",
       "inVocab": true,
-      "senseAnchor": "a verbal act of admitting defeat; the act of conceding or yielding",
+      "senseAnchor": "柔軟的；屈服的",
       "roleInScript": "讓得動",
       "humorDevice": "contrast",
-      "zhGloss": "屈服的；柔軟的",
+      "zhGloss": "柔軟的；屈服的",
       "speakLineEn": "Yielding to evidence is a virtue.",
       "speakLineZh": "向證據屈服是美德。",
       "related": {
@@ -160,7 +160,7 @@
     {
       "headword": "flexible",
       "inVocab": false,
-      "senseAnchor": "靈活的",
+      "senseAnchor": "靈活的；場面：可調整",
       "roleInScript": "可調整",
       "humorDevice": "contrast",
       "zhGloss": "靈活的",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P1-batch02"
+    "stage": "P1-batch02",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

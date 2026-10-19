@@ -10,10 +10,10 @@
     {
       "headword": "elucidate",
       "inVocab": true,
-      "senseAnchor": "to make clear especially by explanation or analysis",
+      "senseAnchor": "闡明；場面：把光打進去",
       "roleInScript": "把光打進去",
       "humorDevice": "morphology",
-      "zhGloss": "闡明；說明",
+      "zhGloss": "闡明",
       "speakLineEn": "Elucidate the identification assumptions.",
       "speakLineZh": "闡明識別假設。",
       "related": {
@@ -25,10 +25,10 @@
     {
       "headword": "pellucid",
       "inVocab": true,
-      "senseAnchor": "admitting the passage of light",
+      "senseAnchor": "透明的；場面：透到見底",
       "roleInScript": "透到見底",
       "humorDevice": "morphology",
-      "zhGloss": "清澈的；清晰的",
+      "zhGloss": "透明的",
       "speakLineEn": "Write a pellucid abstract.",
       "speakLineZh": "寫清澈摘要。",
       "related": {
@@ -40,7 +40,7 @@
     {
       "headword": "translucent",
       "inVocab": true,
-      "senseAnchor": "allowing light to pass through diffusely",
+      "senseAnchor": "半透明的",
       "roleInScript": "透一點光",
       "humorDevice": "morphology",
       "zhGloss": "半透明的",
@@ -55,10 +55,10 @@
     {
       "headword": "luminary",
       "inVocab": true,
-      "senseAnchor": "a celebrity who is an inspiration to others",
+      "senseAnchor": "卓越的；場面：大燈人物",
       "roleInScript": "大燈人物",
       "humorDevice": "morphology",
-      "zhGloss": "名人；發光體",
+      "zhGloss": "卓越的",
       "speakLineEn": "Do not defer to luminaries without reading methods.",
       "speakLineZh": "別不讀方法就服從名人。",
       "related": {
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P1-batch02"
+    "stage": "P1-batch02",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

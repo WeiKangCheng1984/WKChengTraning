@@ -10,7 +10,7 @@
     {
       "headword": "punctual",
       "inVocab": false,
-      "senseAnchor": "準時的",
+      "senseAnchor": "準時的；場面：對準點",
       "roleInScript": "對準點",
       "humorDevice": "morphology",
       "zhGloss": "準時的",
@@ -40,7 +40,7 @@
     {
       "headword": "punctilious",
       "inVocab": true,
-      "senseAnchor": "extremely careful",
+      "senseAnchor": "一絲不苟的",
       "roleInScript": "對點超認真",
       "humorDevice": "morphology",
       "zhGloss": "一絲不苟的",
@@ -55,10 +55,10 @@
     {
       "headword": "compunction",
       "inVocab": true,
-      "senseAnchor": "a feeling of guilt or regret",
+      "senseAnchor": "內疚；場面：良心被刺",
       "roleInScript": "良心被刺",
       "humorDevice": "morphology",
-      "zhGloss": "內疚；良心不安",
+      "zhGloss": "內疚",
       "speakLineEn": "Feel compunction about quiet exclusions.",
       "speakLineZh": "對沉默排除感到內疚。",
       "related": {
@@ -100,7 +100,7 @@
     {
       "headword": "acupuncture",
       "inVocab": false,
-      "senseAnchor": "針灸",
+      "senseAnchor": "針灸；場面：針刺療法",
       "roleInScript": "針刺療法",
       "humorDevice": "story",
       "zhGloss": "針灸",
@@ -160,7 +160,7 @@
     {
       "headword": "disappoint",
       "inVocab": false,
-      "senseAnchor": "使失望",
+      "senseAnchor": "使失望；場面：點期待落空",
       "roleInScript": "點期待落空",
       "humorDevice": "story",
       "zhGloss": "使失望",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P1-batch02"
+    "stage": "P1-batch02",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

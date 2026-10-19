@@ -40,10 +40,10 @@
     {
       "headword": "regime",
       "inVocab": true,
-      "senseAnchor": "lawful control",
+      "senseAnchor": "（政治上的）統治；政權",
       "roleInScript": "統治體制",
       "humorDevice": "morphology",
-      "zhGloss": "政權；體制；養生制",
+      "zhGloss": "（政治上的）統治",
       "speakLineEn": "A data-sharing regime needs enforcement.",
       "speakLineZh": "資料共享體制需要執行。",
       "related": {
@@ -55,10 +55,10 @@
     {
       "headword": "regicide",
       "inVocab": true,
-      "senseAnchor": "弒君；弒君者",
+      "senseAnchor": "弒君者",
       "roleInScript": "砍王位",
       "humorDevice": "morphology",
-      "zhGloss": "弒君；弒君者",
+      "zhGloss": "弒君者",
       "speakLineEn": "Methodological 'regicide' of sacred cows needs evidence.",
       "speakLineZh": "對聖牛的方法弒君需要證據。",
       "related": {
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P2-batch01"
+    "stage": "P2-batch01",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

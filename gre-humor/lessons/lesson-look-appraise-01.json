@@ -91,6 +91,8 @@
   "status": "reviewed",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P3-batch01"
+    "stage": "P3-batch01",
+    "polishStage": "Q-wave3",
+    "polishedAt": "2026-10-19"
   }
 }

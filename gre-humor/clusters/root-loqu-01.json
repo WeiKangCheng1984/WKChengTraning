@@ -25,10 +25,10 @@
     {
       "headword": "colloquial",
       "inVocab": true,
-      "senseAnchor": "characteristic of informal spoken language or conversation",
+      "senseAnchor": "口頭的；場面：巷口腔",
       "roleInScript": "巷口腔",
       "humorDevice": "morphology",
-      "zhGloss": "口語的；通俗的",
+      "zhGloss": "口頭的",
       "speakLineEn": "Colloquial tone can undercut formal claims.",
       "speakLineZh": "口語語氣可能削弱正式主張。",
       "related": {
@@ -40,10 +40,10 @@
     {
       "headword": "soliloquy",
       "inVocab": true,
-      "senseAnchor": "speech you make to yourself; a (usually long) dramatic speech intended to give the illusion of unspoken reflections",
+      "senseAnchor": "自言自語；獨白",
       "roleInScript": "自己對自己說",
       "humorDevice": "morphology",
-      "zhGloss": "獨白",
+      "zhGloss": "自言自語",
       "speakLineEn": "The chapter reads like a soliloquy, not a dialogue with critics.",
       "speakLineZh": "這章讀起來像獨白，而非與批評者對話。",
       "related": {
@@ -85,7 +85,7 @@
     {
       "headword": "analogy",
       "inVocab": true,
-      "senseAnchor": "類比",
+      "senseAnchor": "類比；場面：用相似物來說",
       "roleInScript": "用相似物來說",
       "humorDevice": "morphology",
       "zhGloss": "類比",
@@ -100,10 +100,10 @@
     {
       "headword": "eulogy",
       "inVocab": true,
-      "senseAnchor": "a formal expression of praise for someone who has died recently; a formal expression of praise",
+      "senseAnchor": "頌詞；場面：說好話送別",
       "roleInScript": "說好話送別",
       "humorDevice": "morphology",
-      "zhGloss": "頌詞；悼詞（稱頌）",
+      "zhGloss": "頌詞",
       "speakLineEn": "The eulogy praised method as much as results.",
       "speakLineZh": "頌詞對方法與結果同樣稱許。",
       "related": {
@@ -145,10 +145,10 @@
     {
       "headword": "elocution",
       "inVocab": true,
-      "senseAnchor": "an expert manner of speaking involving control of voice and gesture",
+      "senseAnchor": "演講術；場面：怎麼把話說出口",
       "roleInScript": "怎麼把話說出口",
       "humorDevice": "morphology",
-      "zhGloss": "演說術；發音法",
+      "zhGloss": "演講術",
       "speakLineEn": "Elocution cannot rescue a hollow argument.",
       "speakLineZh": "演說技巧救不了空洞論證。",
       "related": {
@@ -189,6 +189,8 @@
   "qualityGate": {
     "reviewedAt": "2026-10-18",
     "stage": "S2",
-    "note": "New A-level cluster with full lesson"
+    "note": "New A-level cluster with full lesson",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

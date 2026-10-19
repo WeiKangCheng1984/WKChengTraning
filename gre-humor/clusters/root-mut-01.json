@@ -40,7 +40,7 @@
     {
       "headword": "mutable",
       "inVocab": true,
-      "senseAnchor": "可變的",
+      "senseAnchor": "可變的；場面：還改得動",
       "roleInScript": "還改得動",
       "humorDevice": "morphology",
       "zhGloss": "可變的",
@@ -55,7 +55,7 @@
     {
       "headword": "commute",
       "inVocab": true,
-      "senseAnchor": "通勤；減刑；互換",
+      "senseAnchor": "通勤；減刑",
       "roleInScript": "交換路線",
       "humorDevice": "morphology",
       "zhGloss": "通勤；減刑；互換",
@@ -70,7 +70,7 @@
     {
       "headword": "mutual",
       "inVocab": true,
-      "senseAnchor": "相互的",
+      "senseAnchor": "相互的；場面：互相交換",
       "roleInScript": "互相交換",
       "humorDevice": "morphology",
       "zhGloss": "相互的",
@@ -85,10 +85,10 @@
     {
       "headword": "transmute",
       "inVocab": true,
-      "senseAnchor": "change in outward structure or looks; change or alter in form, appearance, or nature",
+      "senseAnchor": "變形；變質",
       "roleInScript": "煉金變質",
       "humorDevice": "morphology",
-      "zhGloss": "使質變；煉成",
+      "zhGloss": "變形；變質",
       "speakLineEn": "Hype cannot transmute correlation into causation.",
       "speakLineZh": "炒作不能把相關煉成因果。",
       "related": {
@@ -115,7 +115,7 @@
     {
       "headword": "mutability",
       "inVocab": true,
-      "senseAnchor": "可變性",
+      "senseAnchor": "可變性；場面：可變程度",
       "roleInScript": "可變程度",
       "humorDevice": "story",
       "zhGloss": "可變性",
@@ -130,7 +130,7 @@
     {
       "headword": "commutativity",
       "inVocab": true,
-      "senseAnchor": "交換律",
+      "senseAnchor": "交換律；場面：誰先誰後一樣",
       "roleInScript": "誰先誰後一樣",
       "humorDevice": "story",
       "zhGloss": "交換律",
@@ -160,7 +160,7 @@
     {
       "headword": "exchange",
       "inVocab": true,
-      "senseAnchor": "交換",
+      "senseAnchor": "交換；場面：櫃台動作",
       "roleInScript": "櫃台動作",
       "humorDevice": "story",
       "zhGloss": "交換",
@@ -175,7 +175,7 @@
     {
       "headword": "interchange",
       "inVocab": true,
-      "senseAnchor": "互換",
+      "senseAnchor": "互換；場面：對調",
       "roleInScript": "對調",
       "humorDevice": "story",
       "zhGloss": "互換",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P2-batch01"
+    "stage": "P2-batch01",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

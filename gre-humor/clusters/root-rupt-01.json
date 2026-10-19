@@ -55,10 +55,10 @@
     {
       "headword": "erupt",
       "inVocab": true,
-      "senseAnchor": "start abruptly; erupt or intensify suddenly",
+      "senseAnchor": "爆發；噴發",
       "roleInScript": "從裂口噴出",
       "humorDevice": "morphology",
-      "zhGloss": "爆發；噴出",
+      "zhGloss": "爆發；噴發",
       "speakLineEn": "Controversy erupted after the leak.",
       "speakLineZh": "洩漏後爭議爆發。",
       "related": {
@@ -85,10 +85,10 @@
     {
       "headword": "rupture",
       "inVocab": true,
-      "senseAnchor": "state of being torn or burst open; a personal or social separation (as between opposing factions)",
+      "senseAnchor": "破裂；場面：裂縫本體",
       "roleInScript": "裂縫本體",
       "humorDevice": "morphology",
-      "zhGloss": "破裂；裂口",
+      "zhGloss": "破裂",
       "speakLineEn": "A rupture between method and claim is fatal.",
       "speakLineZh": "方法與主張之間的裂口是致命的。",
       "related": {
@@ -100,7 +100,7 @@
     {
       "headword": "interrupt",
       "inVocab": false,
-      "senseAnchor": "打斷",
+      "senseAnchor": "打斷；場面：从中間弄破話流",
       "roleInScript": "从中間弄破話流",
       "humorDevice": "morphology",
       "zhGloss": "打斷",
@@ -189,6 +189,8 @@
   "qualityGate": {
     "reviewedAt": "2026-10-18",
     "stage": "S2",
-    "note": "New A-level cluster with full lesson"
+    "note": "New A-level cluster with full lesson",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

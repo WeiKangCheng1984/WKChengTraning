@@ -10,12 +10,12 @@
     {
       "headword": "disgruntled",
       "inVocab": true,
-      "senseAnchor": "put into a bad mood or into bad humour; in a state of sulky dissatisfaction",
+      "senseAnchor": "發怒；場面：抱怨單",
       "roleInScript": "抱怨單",
       "humorDevice": "contrast",
-      "zhGloss": "不滿的",
-      "speakLineEn": "Cue the 抱怨單: disgruntled walks on and the gag sticks.",
-      "speakLineZh": "請「抱怨單」出場：disgruntled 一上場梗就黏住——不滿的。",
+      "zhGloss": "發怒",
+      "speakLineEn": "The employees were disgruntled by their bad working conditions.",
+      "speakLineZh": "發怒。",
       "related": {
         "synonyms": "disgruntle, dissatisfied",
         "antonyms": "satisfy"
@@ -25,12 +25,12 @@
     {
       "headword": "exasperate",
       "inVocab": true,
-      "senseAnchor": "to excite anger",
+      "senseAnchor": "激怒；場面：火上油",
       "roleInScript": "火上油",
       "humorDevice": "contrast",
       "zhGloss": "激怒",
-      "speakLineEn": "Cue the 火上油: exasperate walks on and the gag sticks.",
-      "speakLineZh": "請「火上油」出場：exasperate 一上場梗就黏住——激怒。",
+      "speakLineEn": "In that case, they had to exasperated by the flight delay.",
+      "speakLineZh": "激怒。",
       "related": {
         "synonyms": "vex, nettle, incense",
         "antonyms": "better, reassure"
@@ -40,12 +40,12 @@
     {
       "headword": "fractious",
       "inVocab": true,
-      "senseAnchor": "stubbornly resistant to authority or control; easily irritated or annoyed",
+      "senseAnchor": "易怒的；難駕馭的",
       "roleInScript": "躁動椅",
       "humorDevice": "contrast",
-      "zhGloss": "易怒的",
-      "speakLineEn": "Cue the 躁動椅: fractious walks on and the gag sticks.",
-      "speakLineZh": "請「躁動椅」出場：fractious 一上場梗就黏住——易怒的。",
+      "zhGloss": "易怒的；難駕馭的；棘手的",
+      "speakLineEn": "Rockets were much too fractious to be tested near thickly populated areas.",
+      "speakLineZh": "易怒的。",
       "related": {
         "synonyms": "refractory, recalcitrant, cranky, irritable, nettlesome, peevish",
         "antonyms": "agreeable, docile"
@@ -55,12 +55,12 @@
     {
       "headword": "glower",
       "inVocab": true,
-      "senseAnchor": "an angry stare; look at with a fixed gaze",
+      "senseAnchor": "怒目而視；怒視",
       "roleInScript": "怒視線",
       "humorDevice": "contrast",
-      "zhGloss": "怒視",
-      "speakLineEn": "Cue the 怒視線: glower walks on and the gag sticks.",
-      "speakLineZh": "請「怒視線」出場：glower 一上場梗就黏住——怒視。",
+      "zhGloss": "怒目而視",
+      "speakLineEn": "A clear sense of glower is crucial to understanding the argument.",
+      "speakLineZh": "怒目而視。",
       "related": {
         "synonyms": "glare, frown, lour, lower",
         "antonyms": "high, raise"
@@ -70,12 +70,12 @@
     {
       "headword": "furor",
       "inVocab": true,
-      "senseAnchor": "an interest followed with exaggerated zeal; a sudden outburst (as of protest)",
+      "senseAnchor": "激怒；場面：暴走潮",
       "roleInScript": "暴走潮",
       "humorDevice": "contrast",
-      "zhGloss": "狂熱憤怒",
-      "speakLineEn": "Cue the 暴走潮: furor walks on and the gag sticks.",
-      "speakLineZh": "請「暴走潮」出場：furor 一上場梗就黏住——狂熱憤怒。",
+      "zhGloss": "激怒",
+      "speakLineEn": "A clear sense of furor is crucial to understanding the argument.",
+      "speakLineZh": "激怒。",
       "related": {
         "synonyms": "fad, craze, furore, cult, rage",
         "antonyms": ""
@@ -85,12 +85,12 @@
     {
       "headword": "gripe",
       "inVocab": true,
-      "senseAnchor": "informal terms for objecting; complain",
+      "senseAnchor": "發牢騷；惹怒",
       "roleInScript": "碎念麥",
       "humorDevice": "contrast",
-      "zhGloss": "抱怨",
-      "speakLineEn": "Cue the 碎念麥: gripe walks on and the gag sticks.",
-      "speakLineZh": "請「碎念麥」出場：gripe 一上場梗就黏住——抱怨。",
+      "zhGloss": "發牢騷；惹怒",
+      "speakLineEn": "I have a gripe about the service here.",
+      "speakLineZh": "發牢騷；惹怒。",
       "related": {
         "synonyms": "kick, beef, bitch, squawk, grouse, crab",
         "antonyms": "cheer"
@@ -100,12 +100,12 @@
     {
       "headword": "crabbed",
       "inVocab": true,
-      "senseAnchor": "direct (an aircraft) into a crosswind; scurry sideways like a crab",
+      "senseAnchor": "易怒的；暴躁的",
       "roleInScript": "酸臉",
       "humorDevice": "contrast",
-      "zhGloss": "乖戾的",
-      "speakLineEn": "Cue the 酸臉: crabbed walks on and the gag sticks.",
-      "speakLineZh": "請「酸臉」出場：crabbed 一上場梗就黏住——乖戾的。",
+      "zhGloss": "易怒的；暴躁的",
+      "speakLineEn": "In the end, they chose to crabbed what they had once defended.",
+      "speakLineZh": "易怒的；暴躁的。",
       "related": {
         "synonyms": "crab, gripe, bitch, grouse, beef, squawk",
         "antonyms": ""
@@ -115,12 +115,12 @@
     {
       "headword": "irate",
       "inVocab": true,
-      "senseAnchor": "憤怒的",
+      "senseAnchor": "憤怒的；場面：紅耳",
       "roleInScript": "紅耳",
       "humorDevice": "contrast",
       "zhGloss": "憤怒的",
-      "speakLineEn": "Cue the 紅耳: irate walks on and the gag sticks.",
-      "speakLineZh": "請「紅耳」出場：irate 一上場梗就黏住——憤怒的。",
+      "speakLineEn": "On the exam, irate most nearly means a sense of \"憤怒的\".",
+      "speakLineZh": "憤怒的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -130,12 +130,12 @@
     {
       "headword": "indignant",
       "inVocab": true,
-      "senseAnchor": "angry because you feel unfairly treated",
+      "senseAnchor": "憤慨的；場面：正氣怒",
       "roleInScript": "正氣怒",
       "humorDevice": "contrast",
       "zhGloss": "憤慨的",
-      "speakLineEn": "Cue the 正氣怒: indignant walks on and the gag sticks.",
-      "speakLineZh": "請「正氣怒」出場：indignant 一上場梗就黏住——憤慨的。",
+      "speakLineEn": "An indignant denial.",
+      "speakLineZh": "憤慨的。",
       "related": {
         "synonyms": "enraged, incensed, infuriated",
         "antonyms": ""
@@ -145,12 +145,12 @@
     {
       "headword": "seethe",
       "inVocab": true,
-      "senseAnchor": "be noisy with activity; be in an agitated emotional state",
+      "senseAnchor": "沸騰；激動",
       "roleInScript": "沸騰壺",
       "humorDevice": "contrast",
-      "zhGloss": "怒火中燒",
-      "speakLineEn": "Cue the 沸騰壺: seethe walks on and the gag sticks.",
-      "speakLineZh": "請「沸騰壺」出場：seethe 一上場梗就黏住——怒火中燒。",
+      "zhGloss": "沸騰；激動",
+      "speakLineEn": "Seethe appears here: The customer was seething with anger.",
+      "speakLineZh": "沸騰；激動。",
       "related": {
         "synonyms": "hum, buzz, boil, roll",
         "antonyms": "freeze, unwind"
@@ -160,12 +160,12 @@
     {
       "headword": "tantrum",
       "inVocab": true,
-      "senseAnchor": "發脾氣",
+      "senseAnchor": "發脾氣；場面：地板滾",
       "roleInScript": "地板滾",
       "humorDevice": "contrast",
       "zhGloss": "發脾氣",
-      "speakLineEn": "Cue the 地板滾: tantrum walks on and the gag sticks.",
-      "speakLineZh": "請「地板滾」出場：tantrum 一上場梗就黏住——發脾氣。",
+      "speakLineEn": "On the exam, tantrum most nearly means a sense of \"發脾氣\".",
+      "speakLineZh": "發脾氣。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -187,6 +187,9 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P4-batch01"
+    "stage": "P4-batch01",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave2",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

@@ -25,7 +25,7 @@
     {
       "headword": "numerous",
       "inVocab": true,
-      "senseAnchor": "許多的",
+      "senseAnchor": "許多的；場面：很多櫃",
       "roleInScript": "很多櫃",
       "humorDevice": "morphology",
       "zhGloss": "許多的",
@@ -70,7 +70,7 @@
     {
       "headword": "innumerable",
       "inVocab": true,
-      "senseAnchor": "無數的",
+      "senseAnchor": "無數的；場面：數不清堆",
       "roleInScript": "數不清堆",
       "humorDevice": "morphology",
       "zhGloss": "無數的",
@@ -85,7 +85,7 @@
     {
       "headword": "numerator",
       "inVocab": true,
-      "senseAnchor": "分子",
+      "senseAnchor": "分子；場面：分數上方",
       "roleInScript": "分數上方",
       "humorDevice": "morphology",
       "zhGloss": "分子",
@@ -130,10 +130,10 @@
     {
       "headword": "tally",
       "inVocab": true,
-      "senseAnchor": "a score in baseball made by a runner touching all four bases safely; a bill for an amount due",
+      "senseAnchor": "吻合；符合",
       "roleInScript": "正字記分",
       "humorDevice": "story",
-      "zhGloss": "計數；記分",
+      "zhGloss": "吻合；符合",
       "speakLineEn": "Tally decisions in a living protocol.",
       "speakLineZh": "在活的規程裡記分決策。",
       "related": {
@@ -203,6 +203,8 @@
   "priority": "C",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch05"
+    "stage": "P2-batch05",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

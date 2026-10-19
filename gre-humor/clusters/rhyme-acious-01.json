@@ -14,8 +14,8 @@
       "roleInScript": "謬誤舞",
       "humorDevice": "morphology",
       "zhGloss": "謬誤的",
-      "speakLineEn": "Cue the 謬誤舞: fallacious walks on and the gag sticks.",
-      "speakLineZh": "請「謬誤舞」出場：fallacious 一上場梗就黏住——謬誤的。",
+      "speakLineEn": "On the exam, fallacious most nearly means a sense of \"謬誤的\".",
+      "speakLineZh": "謬誤的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -25,12 +25,12 @@
     {
       "headword": "capacious",
       "inVocab": true,
-      "senseAnchor": "large in capacity",
+      "senseAnchor": "空間大的；寬敞的",
       "roleInScript": "大口袋",
       "humorDevice": "morphology",
-      "zhGloss": "寬敞的",
-      "speakLineEn": "Cue the 大口袋: capacious walks on and the gag sticks.",
-      "speakLineZh": "請「大口袋」出場：capacious 一上場梗就黏住——寬敞的。",
+      "zhGloss": "空間大的",
+      "speakLineEn": "She carried a capacious bag.",
+      "speakLineZh": "空間大的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -40,12 +40,12 @@
     {
       "headword": "sagacious",
       "inVocab": true,
-      "senseAnchor": "wise and intelligent",
+      "senseAnchor": "睿智的；場面：聰慧燈",
       "roleInScript": "聰慧燈",
       "humorDevice": "morphology",
-      "zhGloss": "聰慧的",
-      "speakLineEn": "Cue the 聰慧燈: sagacious walks on and the gag sticks.",
-      "speakLineZh": "請「聰慧燈」出場：sagacious 一上場梗就黏住——聰慧的。",
+      "zhGloss": "睿智的",
+      "speakLineEn": "Observant and thoughtful, he was given to asking sagacious questions.",
+      "speakLineZh": "例句對齊：聰慧的。",
       "related": {
         "synonyms": "discerning, insightful, prudent",
         "antonyms": "foolish, naive, undiscerning, reckless, imprudent"
@@ -55,12 +55,12 @@
     {
       "headword": "veracious",
       "inVocab": true,
-      "senseAnchor": "telling the truth",
+      "senseAnchor": "誠實的",
       "roleInScript": "誠實章",
       "humorDevice": "morphology",
       "zhGloss": "誠實的",
-      "speakLineEn": "Cue the 誠實章: veracious walks on and the gag sticks.",
-      "speakLineZh": "請「誠實章」出場：veracious 一上場梗就黏住——誠實的。",
+      "speakLineEn": "A veracious witness.",
+      "speakLineZh": "例句對齊：誠實的。",
       "related": {
         "synonyms": "right",
         "antonyms": "center, falsify, improperly, incorrect, incorrectly, left, wrong, wrongfulness"
@@ -70,12 +70,12 @@
     {
       "headword": "mendacious",
       "inVocab": true,
-      "senseAnchor": "given to lying; intentionally untrue",
+      "senseAnchor": "謊言的；虛僞的",
       "roleInScript": "說謊鼻",
       "humorDevice": "morphology",
-      "zhGloss": "說謊的",
-      "speakLineEn": "Cue the 說謊鼻: mendacious walks on and the gag sticks.",
-      "speakLineZh": "請「說謊鼻」出場：mendacious 一上場梗就黏住——說謊的。",
+      "zhGloss": "謊言的；虛僞的",
+      "speakLineEn": "A mendacious statement.",
+      "speakLineZh": "謊言的；虛僞的。",
       "related": {
         "synonyms": "",
         "antonyms": "truthful, honest"
@@ -85,12 +85,12 @@
     {
       "headword": "perspicacious",
       "inVocab": true,
-      "senseAnchor": "having or showing penetrating mental discernment",
+      "senseAnchor": "極敏銳的；有洞察力的",
       "roleInScript": "敏銳鏡",
       "humorDevice": "morphology",
-      "zhGloss": "敏銳的",
-      "speakLineEn": "Cue the 敏銳鏡: perspicacious walks on and the gag sticks.",
-      "speakLineZh": "請「敏銳鏡」出場：perspicacious 一上場梗就黏住——敏銳的。",
+      "zhGloss": "極敏銳的；有洞察力的",
+      "speakLineEn": "Much too perspicacious to be taken in by such a spurious argument.",
+      "speakLineZh": "極敏銳的，有洞察力的。",
       "related": {
         "synonyms": "astute, shrewd, keen, discerning",
         "antonyms": "naive, obtuse, undiscerning"
@@ -101,11 +101,11 @@
       "headword": "namebadge",
       "inVocab": true,
       "senseAnchor": "胸牌",
-      "roleInScript": "胸牌",
+      "roleInScript": "胸牌角色",
       "humorDevice": "story",
       "zhGloss": "胸牌",
-      "speakLineEn": "Cue the 胸牌: namebadge walks on and the gag sticks.",
-      "speakLineZh": "請「胸牌」出場：namebadge 一上場梗就黏住——胸牌。",
+      "speakLineEn": "On the exam, namebadge most nearly means a sense of \"胸牌\".",
+      "speakLineZh": "胸牌。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -116,11 +116,11 @@
       "headword": "dancefloor",
       "inVocab": true,
       "senseAnchor": "舞池",
-      "roleInScript": "舞池",
+      "roleInScript": "舞池角色",
       "humorDevice": "story",
       "zhGloss": "舞池",
-      "speakLineEn": "Cue the 舞池: dancefloor walks on and the gag sticks.",
-      "speakLineZh": "請「舞池」出場：dancefloor 一上場梗就黏住——舞池。",
+      "speakLineEn": "On the exam, dancefloor most nearly means a sense of \"舞池\".",
+      "speakLineZh": "舞池。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -131,11 +131,11 @@
       "headword": "speaker",
       "inVocab": true,
       "senseAnchor": "音箱",
-      "roleInScript": "音箱",
+      "roleInScript": "音箱角色",
       "humorDevice": "story",
       "zhGloss": "音箱",
-      "speakLineEn": "Cue the 音箱: speaker walks on and the gag sticks.",
-      "speakLineZh": "請「音箱」出場：speaker 一上場梗就黏住——音箱。",
+      "speakLineEn": "On the exam, speaker most nearly means a sense of \"音箱\".",
+      "speakLineZh": "音箱。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -145,12 +145,12 @@
     {
       "headword": "truthserum2",
       "inVocab": true,
-      "senseAnchor": "吐實2",
+      "senseAnchor": "吐實2；場面：吐實",
       "roleInScript": "吐實",
       "humorDevice": "story",
       "zhGloss": "吐實2",
-      "speakLineEn": "Cue the 吐實: truthserum2 walks on and the gag sticks.",
-      "speakLineZh": "請「吐實」出場：truthserum2 一上場梗就黏住——吐實2。",
+      "speakLineEn": "On the exam, truthserum2 most nearly means a sense of \"吐實2\".",
+      "speakLineZh": "吐實2。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -161,11 +161,11 @@
       "headword": "liarhat",
       "inVocab": true,
       "senseAnchor": "騙子帽",
-      "roleInScript": "騙子帽",
+      "roleInScript": "騙子帽角色",
       "humorDevice": "story",
       "zhGloss": "騙子帽",
-      "speakLineEn": "Cue the 騙子帽: liarhat walks on and the gag sticks.",
-      "speakLineZh": "請「騙子帽」出場：liarhat 一上場梗就黏住——騙子帽。",
+      "speakLineEn": "On the exam, liarhat most nearly means a sense of \"騙子帽\".",
+      "speakLineZh": "騙子帽。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -179,8 +179,8 @@
       "roleInScript": "貓頭鷹",
       "humorDevice": "story",
       "zhGloss": "智慧貓頭鷹",
-      "speakLineEn": "Cue the 貓頭鷹: wiseowl walks on and the gag sticks.",
-      "speakLineZh": "請「貓頭鷹」出場：wiseowl 一上場梗就黏住——智慧貓頭鷹。",
+      "speakLineEn": "On the exam, wiseowl most nearly means a sense of \"智慧貓頭鷹\".",
+      "speakLineZh": "智慧貓頭鷹。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -190,12 +190,12 @@
     {
       "headword": "bigpocket",
       "inVocab": true,
-      "senseAnchor": "大口袋",
+      "senseAnchor": "大口袋；場面：口袋",
       "roleInScript": "口袋",
       "humorDevice": "story",
       "zhGloss": "大口袋",
-      "speakLineEn": "Cue the 口袋: bigpocket walks on and the gag sticks.",
-      "speakLineZh": "請「口袋」出場：bigpocket 一上場梗就黏住——大口袋。",
+      "speakLineEn": "On the exam, bigpocket most nearly means a sense of \"大口袋\".",
+      "speakLineZh": "大口袋。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -206,11 +206,11 @@
       "headword": "sharpeye",
       "inVocab": true,
       "senseAnchor": "銳眼",
-      "roleInScript": "銳眼",
+      "roleInScript": "銳眼角色",
       "humorDevice": "story",
       "zhGloss": "銳眼",
-      "speakLineEn": "Cue the 銳眼: sharpeye walks on and the gag sticks.",
-      "speakLineZh": "請「銳眼」出場：sharpeye 一上場梗就黏住——銳眼。",
+      "speakLineEn": "On the exam, sharpeye most nearly means a sense of \"銳眼\".",
+      "speakLineZh": "銳眼。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -221,11 +221,11 @@
       "headword": "partyhat",
       "inVocab": true,
       "senseAnchor": "派對帽",
-      "roleInScript": "派對帽",
+      "roleInScript": "派對帽角色",
       "humorDevice": "story",
       "zhGloss": "派對帽",
-      "speakLineEn": "Cue the 派對帽: partyhat walks on and the gag sticks.",
-      "speakLineZh": "請「派對帽」出場：partyhat 一上場梗就黏住——派對帽。",
+      "speakLineEn": "On the exam, partyhat most nearly means a sense of \"派對帽\".",
+      "speakLineZh": "派對帽。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -236,11 +236,11 @@
       "headword": "playlist",
       "inVocab": true,
       "senseAnchor": "歌單",
-      "roleInScript": "歌單",
+      "roleInScript": "歌單角色",
       "humorDevice": "story",
       "zhGloss": "歌單",
-      "speakLineEn": "Cue the 歌單: playlist walks on and the gag sticks.",
-      "speakLineZh": "請「歌單」出場：playlist 一上場梗就黏住——歌單。",
+      "speakLineEn": "On the exam, playlist most nearly means a sense of \"歌單\".",
+      "speakLineZh": "歌單。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -263,6 +263,9 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P3-batch02"
+    "stage": "P3-batch02",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave1",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

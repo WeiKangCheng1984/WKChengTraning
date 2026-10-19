@@ -10,7 +10,7 @@
     {
       "headword": "television",
       "inVocab": false,
-      "senseAnchor": "電視",
+      "senseAnchor": "電視；場面：遠距螢幕",
       "roleInScript": "遠距螢幕",
       "humorDevice": "morphology",
       "zhGloss": "電視",
@@ -85,10 +85,10 @@
     {
       "headword": "distant",
       "inVocab": true,
-      "senseAnchor": "separated in space or coming from or going to a distance; far apart in relevance or relationship or kinship",
+      "senseAnchor": "疏遠的；場面：遠距尺",
       "roleInScript": "遠距尺",
       "humorDevice": "story",
-      "zhGloss": "遠的",
+      "zhGloss": "疏遠的",
       "speakLineEn": "Distant effects need stronger identification.",
       "speakLineZh": "遠距效應需要更強識別。",
       "related": {
@@ -158,6 +158,8 @@
   "priority": "C",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch06"
+    "stage": "P2-batch06",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

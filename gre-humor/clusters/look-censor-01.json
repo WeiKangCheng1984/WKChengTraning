@@ -25,10 +25,10 @@
     {
       "headword": "censorious",
       "inVocab": true,
-      "senseAnchor": "criticizing and expressing disapproval",
+      "senseAnchor": "愛挑剔的；苛刻的",
       "roleInScript": "挑剔剪",
       "humorDevice": "lookalike",
-      "zhGloss": "愛挑剔譴責的",
+      "zhGloss": "愛挑剔的；苛刻的",
       "speakLineEn": "Be precise, not merely censorious.",
       "speakLineZh": "要精準，不要只是挑剔。",
       "related": {
@@ -86,7 +86,7 @@
       "headword": "scissors",
       "inVocab": true,
       "senseAnchor": "剪刀",
-      "roleInScript": "剪刀",
+      "roleInScript": "剪刀角色",
       "humorDevice": "story",
       "zhGloss": "剪刀",
       "speakLineEn": "Two scissors: privacy vs honesty.",
@@ -101,7 +101,7 @@
       "headword": "blacklist",
       "inVocab": true,
       "senseAnchor": "黑名單",
-      "roleInScript": "黑名單",
+      "roleInScript": "黑名單角色",
       "humorDevice": "story",
       "zhGloss": "黑名單",
       "speakLineEn": "Blacklist fabricated datasets.",
@@ -131,7 +131,7 @@
       "headword": "edit",
       "inVocab": true,
       "senseAnchor": "剪輯",
-      "roleInScript": "剪輯",
+      "roleInScript": "剪輯角色",
       "humorDevice": "story",
       "zhGloss": "剪輯",
       "speakLineEn": "Label every edit in the bay.",
@@ -157,6 +157,9 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch07"
+    "stage": "P2-batch07",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave3",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

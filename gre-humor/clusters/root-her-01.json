@@ -55,10 +55,10 @@
     {
       "headword": "cohesive",
       "inVocab": true,
-      "senseAnchor": "causing cohesion; cohering or tending to cohere; well integrated",
+      "senseAnchor": "內聚的；場面：黏成一團",
       "roleInScript": "黏成一團",
       "humorDevice": "morphology",
-      "zhGloss": "有凝聚力的",
+      "zhGloss": "內聚的",
       "speakLineEn": "A cohesive team still needs dissent channels.",
       "speakLineZh": "有凝聚力的團隊仍需異議通道。",
       "related": {
@@ -70,7 +70,7 @@
     {
       "headword": "inherent",
       "inVocab": true,
-      "senseAnchor": "existing as an essential constituent or characteristic; in the nature of something though not readily apparent",
+      "senseAnchor": "固有的；內在的",
       "roleInScript": "天生黏在本質",
       "humorDevice": "morphology",
       "zhGloss": "固有的；內在的",
@@ -85,7 +85,7 @@
     {
       "headword": "hesitate",
       "inVocab": false,
-      "senseAnchor": "猶豫",
+      "senseAnchor": "猶豫；場面：不黏定",
       "roleInScript": "不黏定",
       "humorDevice": "morphology",
       "zhGloss": "猶豫",
@@ -100,7 +100,7 @@
     {
       "headword": "hesitant",
       "inVocab": false,
-      "senseAnchor": "猶豫的",
+      "senseAnchor": "猶豫的；場面：黏不定",
       "roleInScript": "黏不定",
       "humorDevice": "morphology",
       "zhGloss": "猶豫的",
@@ -130,7 +130,7 @@
     {
       "headword": "hesitation",
       "inVocab": false,
-      "senseAnchor": "猶豫",
+      "senseAnchor": "猶豫；場面：停一下",
       "roleInScript": "停一下",
       "humorDevice": "story",
       "zhGloss": "猶豫",
@@ -160,7 +160,7 @@
     {
       "headword": "coherence",
       "inVocab": false,
-      "senseAnchor": "連貫性",
+      "senseAnchor": "連貫性；場面：黏合理度",
       "roleInScript": "黏合理度",
       "humorDevice": "story",
       "zhGloss": "連貫性",
@@ -175,7 +175,7 @@
     {
       "headword": "inherence",
       "inVocab": true,
-      "senseAnchor": "內在性",
+      "senseAnchor": "內在性；場面：固有存在",
       "roleInScript": "固有存在",
       "humorDevice": "story",
       "zhGloss": "內在性",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P1-batch02"
+    "stage": "P1-batch02",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

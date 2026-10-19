@@ -40,10 +40,10 @@
     {
       "headword": "elusive",
       "inVocab": true,
-      "senseAnchor": "hard to capture",
+      "senseAnchor": "難以捕捉的；難捉摸的",
       "roleInScript": "溜走霧",
       "humorDevice": "lookalike",
-      "zhGloss": "難捉摸的；躲避的",
+      "zhGloss": "難以捕捉的",
       "speakLineEn": "Causal effects are often elusive without design.",
       "speakLineZh": "沒有設計時因果效應常難捉摸。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "hint",
       "inVocab": false,
-      "senseAnchor": "提示",
+      "senseAnchor": "提示；暗示",
       "roleInScript": "提示釘",
       "humorDevice": "story",
-      "zhGloss": "提示",
+      "zhGloss": "提示；暗示",
       "speakLineEn": "A hint in discussion is not a primary claim.",
       "speakLineZh": "討論裡的提示不是主要主張。",
       "related": {
@@ -85,10 +85,10 @@
     {
       "headword": "escape",
       "inVocab": false,
-      "senseAnchor": "逃脫",
+      "senseAnchor": "逃脫；躲避",
       "roleInScript": "逃脫口",
       "humorDevice": "story",
-      "zhGloss": "逃脫",
+      "zhGloss": "逃脫；躲避",
       "speakLineEn": "Bugs escape when tests are thin.",
       "speakLineZh": "測試薄弱時 bug 會逃脫。",
       "related": {
@@ -100,10 +100,10 @@
     {
       "headword": "dodge",
       "inVocab": false,
-      "senseAnchor": "閃避",
+      "senseAnchor": "閃避；躲开",
       "roleInScript": "閃避步",
       "humorDevice": "story",
-      "zhGloss": "閃避",
+      "zhGloss": "閃避；躲开",
       "speakLineEn": "Do not dodge requests for code.",
       "speakLineZh": "不要閃避程式碼請求。",
       "related": {
@@ -115,10 +115,10 @@
     {
       "headword": "slippery",
       "inVocab": true,
-      "senseAnchor": "causing or tending to cause things to slip or slide; not to be trusted; - James Agee",
+      "senseAnchor": "狡猾的；場面：滑溜地",
       "roleInScript": "滑溜地",
       "humorDevice": "story",
-      "zhGloss": "滑溜的",
+      "zhGloss": "狡猾的",
       "speakLineEn": "Slippery endpoints invite fishing.",
       "speakLineZh": "滑溜終點誘發淘篩。",
       "related": {
@@ -158,6 +158,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch06"
+    "stage": "P2-batch06",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

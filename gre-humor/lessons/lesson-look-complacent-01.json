@@ -20,7 +20,7 @@
       "step": 2,
       "name": "串記劇本",
       "minutes": 2,
-      "content": "complaisant／complaisance；自滿道具 smug／fawning。"
+      "content": "complaisant／complaisance；自滿道具 smug／fawning。形近對決：先分清語意軸，再對號入座。登場：complaisant（討好臉）、complaisance（殷勤）、smug（自鳴得意）、ingratiating（討好）、fawning（奉承）、smugness（沾沾自喜）。"
     },
     {
       "step": 3,
@@ -91,6 +91,8 @@
   "status": "reviewed",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P3-batch01"
+    "stage": "P3-batch01",
+    "polishStage": "Q-wave3",
+    "polishedAt": "2026-10-19"
   }
 }

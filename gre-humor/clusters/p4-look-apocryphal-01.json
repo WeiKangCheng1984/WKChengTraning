@@ -10,12 +10,12 @@
     {
       "headword": "apocryphal",
       "inVocab": true,
-      "senseAnchor": "well-known but probably not true",
+      "senseAnchor": "假的；偽的不可信",
       "roleInScript": "假新聞燈",
       "humorDevice": "lookalike",
-      "zhGloss": "偽的不可信",
-      "speakLineEn": "Cue the 假新聞燈: apocryphal walks on and the gag sticks.",
-      "speakLineZh": "請「假新聞燈」出場：apocryphal 一上場梗就黏住——偽的不可信。",
+      "zhGloss": "假的",
+      "speakLineEn": "The debate focused on an apocryphal story.",
+      "speakLineZh": "假的。",
       "related": {
         "synonyms": "spurious, unauthentic, bogus, feigned, counterfeit",
         "antonyms": "genuine, authentic"
@@ -25,12 +25,12 @@
     {
       "headword": "apoplectic",
       "inVocab": true,
-      "senseAnchor": "大怒的",
+      "senseAnchor": "大怒的；場面：血壓燈",
       "roleInScript": "血壓燈",
       "humorDevice": "lookalike",
       "zhGloss": "大怒的",
-      "speakLineEn": "Cue the 血壓燈: apoplectic walks on and the gag sticks.",
-      "speakLineZh": "請「血壓燈」出場：apoplectic 一上場梗就黏住——大怒的。",
+      "speakLineEn": "On the exam, apoplectic most nearly means a sense of \"大怒的\".",
+      "speakLineZh": "大怒的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -40,12 +40,12 @@
     {
       "headword": "prophetic",
       "inVocab": true,
-      "senseAnchor": "correctly saying what will happen in the future",
+      "senseAnchor": "預言的",
       "roleInScript": "預言麥",
       "humorDevice": "lookalike",
       "zhGloss": "預言的",
-      "speakLineEn": "Cue the 預言麥: prophetic walks on and the gag sticks.",
-      "speakLineZh": "請「預言麥」出場：prophetic 一上場梗就黏住——預言的。",
+      "speakLineEn": "Words that proved prophetic.",
+      "speakLineZh": "預言的。",
       "related": {
         "synonyms": "predictive, prescient",
         "antonyms": "unprophetic"
@@ -55,12 +55,12 @@
     {
       "headword": "prophylactic",
       "inVocab": true,
-      "senseAnchor": "tending to prevent disease",
+      "senseAnchor": "預防性的",
       "roleInScript": "預防針",
       "humorDevice": "lookalike",
-      "zhGloss": "預防的",
-      "speakLineEn": "Cue the 預防針: prophylactic walks on and the gag sticks.",
-      "speakLineZh": "請「預防針」出場：prophylactic 一上場梗就黏住——預防的。",
+      "zhGloss": "預防性的",
+      "speakLineEn": "The swastika...a very ancient prophylactic symbol occurring among all peoples.",
+      "speakLineZh": "預防性的。",
       "related": {
         "synonyms": "preventive",
         "antonyms": "permissive"
@@ -70,12 +70,12 @@
     {
       "headword": "spurious",
       "inVocab": true,
-      "senseAnchor": "lacking authenticity or validity in essence or origin",
+      "senseAnchor": "假的；僞造的",
       "roleInScript": "假章",
       "humorDevice": "lookalike",
-      "zhGloss": "偽造的",
-      "speakLineEn": "Cue the 假章: spurious walks on and the gag sticks.",
-      "speakLineZh": "請「假章」出場：spurious 一上場梗就黏住——偽造的。",
+      "zhGloss": "假的；僞造的",
+      "speakLineEn": "The dominions of both rulers passed away to their spurious or doubtful offspring.",
+      "speakLineZh": "假的，僞造的。",
       "related": {
         "synonyms": "apocryphal, bogus, counterfeit, forged, phony, specious",
         "antonyms": "genuine, authentic, valid"
@@ -85,12 +85,12 @@
     {
       "headword": "furious",
       "inVocab": true,
-      "senseAnchor": "狂怒的",
+      "senseAnchor": "狂怒的；場面：怒火",
       "roleInScript": "怒火",
       "humorDevice": "lookalike",
       "zhGloss": "狂怒的",
-      "speakLineEn": "Cue the 怒火: furious walks on and the gag sticks.",
-      "speakLineZh": "請「怒火」出場：furious 一上場梗就黏住——狂怒的。",
+      "speakLineEn": "On the exam, furious most nearly means a sense of \"狂怒的\".",
+      "speakLineZh": "狂怒的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -101,11 +101,11 @@
       "headword": "editor",
       "inVocab": false,
       "senseAnchor": "編輯",
-      "roleInScript": "編輯",
+      "roleInScript": "編輯角色",
       "humorDevice": "story",
       "zhGloss": "編輯",
-      "speakLineEn": "Cue the 編輯: editor walks on and the gag sticks.",
-      "speakLineZh": "請「編輯」出場：editor 一上場梗就黏住——編輯。",
+      "speakLineEn": "A careful reader links editor to 編輯, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 editor 連到「編輯」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -117,11 +117,11 @@
       "headword": "bloodpressure",
       "inVocab": false,
       "senseAnchor": "血壓",
-      "roleInScript": "血壓",
+      "roleInScript": "血壓角色",
       "humorDevice": "story",
       "zhGloss": "血壓",
-      "speakLineEn": "Cue the 血壓: bloodpressure walks on and the gag sticks.",
-      "speakLineZh": "請「血壓」出場：bloodpressure 一上場梗就黏住——血壓。",
+      "speakLineEn": "In the passage, bloodpressure signals a shift toward \"血壓\".",
+      "speakLineZh": "文中 bloodpressure 標示語氣轉向「血壓」。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -133,11 +133,11 @@
       "headword": "water",
       "inVocab": false,
       "senseAnchor": "水",
-      "roleInScript": "水",
+      "roleInScript": "水角色",
       "humorDevice": "story",
       "zhGloss": "水",
-      "speakLineEn": "Cue the 水: water walks on and the gag sticks.",
-      "speakLineZh": "請「水」出場：water 一上場梗就黏住——水。",
+      "speakLineEn": "A careful reader links water to 水, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 water 連到「水」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -149,11 +149,11 @@
       "headword": "factcheck",
       "inVocab": false,
       "senseAnchor": "查核",
-      "roleInScript": "查核",
+      "roleInScript": "查核角色",
       "humorDevice": "story",
       "zhGloss": "查核",
-      "speakLineEn": "Cue the 查核: factcheck walks on and the gag sticks.",
-      "speakLineZh": "請「查核」出場：factcheck 一上場梗就黏住——查核。",
+      "speakLineEn": "Critics argued that the policy would factcheck basic protections.",
+      "speakLineZh": "批評者主張該政策會查核基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -165,11 +165,11 @@
       "headword": "alert",
       "inVocab": false,
       "senseAnchor": "警報",
-      "roleInScript": "警報",
+      "roleInScript": "警報角色",
       "humorDevice": "story",
       "zhGloss": "警報",
-      "speakLineEn": "Cue the 警報: alert walks on and the gag sticks.",
-      "speakLineZh": "請「警報」出場：alert 一上場梗就黏住——警報。",
+      "speakLineEn": "Critics argued that the policy would alert basic protections.",
+      "speakLineZh": "批評者主張該政策會警報基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -181,11 +181,11 @@
       "headword": "myth",
       "inVocab": false,
       "senseAnchor": "迷思",
-      "roleInScript": "迷思",
+      "roleInScript": "迷思角色",
       "humorDevice": "story",
       "zhGloss": "迷思",
-      "speakLineEn": "Cue the 迷思: myth walks on and the gag sticks.",
-      "speakLineZh": "請「迷思」出場：myth 一上場梗就黏住——迷思。",
+      "speakLineEn": "Critics argued that the policy would myth basic protections.",
+      "speakLineZh": "批評者主張該政策會迷思基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -208,6 +208,9 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P4-batch01"
+    "stage": "P4-batch01",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave2",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

@@ -55,7 +55,7 @@
     {
       "headword": "assign",
       "inVocab": false,
-      "senseAnchor": "指派",
+      "senseAnchor": "指派；場面：派崗位",
       "roleInScript": "派崗位",
       "humorDevice": "morphology",
       "zhGloss": "指派",
@@ -85,7 +85,7 @@
     {
       "headword": "design",
       "inVocab": false,
-      "senseAnchor": "設計",
+      "senseAnchor": "設計；場面：藍圖",
       "roleInScript": "藍圖",
       "humorDevice": "morphology",
       "zhGloss": "設計",
@@ -130,10 +130,10 @@
     {
       "headword": "consign",
       "inVocab": true,
-      "senseAnchor": "commit forever; commit irrevocably; give over to another for care or safekeeping",
+      "senseAnchor": "委託；託運",
       "roleInScript": "託運記號",
       "humorDevice": "story",
-      "zhGloss": "託運；交付",
+      "zhGloss": "委託；託運",
       "speakLineEn": "Do not consign ethics to an afterthought.",
       "speakLineZh": "不要把倫理託付給事後想法。",
       "related": {
@@ -160,7 +160,7 @@
     {
       "headword": "signpost",
       "inVocab": false,
-      "senseAnchor": "路標",
+      "senseAnchor": "路標；場面：指示牌",
       "roleInScript": "指示牌",
       "humorDevice": "story",
       "zhGloss": "路標",
@@ -175,7 +175,7 @@
     {
       "headword": "cosign",
       "inVocab": false,
-      "senseAnchor": "連署",
+      "senseAnchor": "連署；場面：一起簽",
       "roleInScript": "一起簽",
       "humorDevice": "story",
       "zhGloss": "連署",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P2-batch02"
+    "stage": "P2-batch02",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

@@ -55,7 +55,7 @@
     {
       "headword": "survivor",
       "inVocab": false,
-      "senseAnchor": "倖存者",
+      "senseAnchor": "倖存者；場面：過關的人",
       "roleInScript": "過關的人",
       "humorDevice": "morphology",
       "zhGloss": "倖存者",
@@ -70,10 +70,10 @@
     {
       "headword": "revive",
       "inVocab": true,
-      "senseAnchor": "cause to regain consciousness; give new life or energy to",
+      "senseAnchor": "復興；場面：急救回魂",
       "roleInScript": "急救回魂",
       "humorDevice": "morphology",
-      "zhGloss": "復活；重振",
+      "zhGloss": "復興",
       "speakLineEn": "Revive abandoned protocols with care.",
       "speakLineZh": "謹慎重振被棄規程。",
       "related": {
@@ -100,10 +100,10 @@
     {
       "headword": "vitality",
       "inVocab": true,
-      "senseAnchor": "an energetic style; a healthy capacity for vigorous activity",
+      "senseAnchor": "活力；重要性",
       "roleInScript": "能量條",
       "humorDevice": "morphology",
-      "zhGloss": "活力",
+      "zhGloss": "活力；重要性",
       "speakLineEn": "Open critique keeps a field's vitality.",
       "speakLineZh": "開放批評保持領域活力。",
       "related": {
@@ -115,10 +115,10 @@
     {
       "headword": "vivacious",
       "inVocab": true,
-      "senseAnchor": "vigorous and animated",
+      "senseAnchor": "生動的；場面：活潑店員",
       "roleInScript": "活潑店員",
       "humorDevice": "morphology",
-      "zhGloss": "活潑的",
+      "zhGloss": "生動的",
       "speakLineEn": "Vivacious talks still need sober slides.",
       "speakLineZh": "活潑演講仍需清醒投影片。",
       "related": {
@@ -130,7 +130,7 @@
     {
       "headword": "vitamin",
       "inVocab": false,
-      "senseAnchor": "維生素",
+      "senseAnchor": "維生素；場面：活字梗",
       "roleInScript": "活字梗",
       "humorDevice": "story",
       "zhGloss": "維生素",
@@ -160,7 +160,7 @@
     {
       "headword": "alive",
       "inVocab": false,
-      "senseAnchor": "活的",
+      "senseAnchor": "活的；場面：還在跳",
       "roleInScript": "還在跳",
       "humorDevice": "story",
       "zhGloss": "活的",
@@ -175,7 +175,7 @@
     {
       "headword": "lifeline",
       "inVocab": false,
-      "senseAnchor": "生命線",
+      "senseAnchor": "生命線；場面：維生繩",
       "roleInScript": "維生繩",
       "humorDevice": "story",
       "zhGloss": "生命線",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P2-batch02"
+    "stage": "P2-batch02",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

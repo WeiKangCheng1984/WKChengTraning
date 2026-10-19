@@ -5,12 +5,12 @@
   "titleZh": "脾氣暴躁 ↔ 和藹可親",
   "titleEn": "Choleric vs. Affable",
   "hook": "熱可樂一開就炸，對面卻始終春風笑。",
-  "script": "左邊 choleric、irascible、peevish——點火就爆；右邊 affable、genial、amiable——誰來都好說話。",
+  "script": "左邊 choleric、irascible、peevish——點火就爆；右邊 affable、genial、amiable——誰來都好說話。語義對打：兩邊語氣相反，考試選「褒貶／強弱」對的那側。登場：choleric（熱可樂炸彈）、irascible（點火就著）、peevish（碎碎念易怒）、affable（好說話笑臉）、genial（溫暖氣場）、amiable（好相處）。",
   "members": [
     {
       "headword": "choleric",
       "inVocab": true,
-      "senseAnchor": "easily moved to anger; - H.G.Wells; quickly aroused to anger",
+      "senseAnchor": "易怒的；場面：熱可樂炸彈",
       "roleInScript": "熱可樂炸彈",
       "humorDevice": "phonetic",
       "zhGloss": "易怒的",
@@ -25,10 +25,10 @@
     {
       "headword": "irascible",
       "inVocab": true,
-      "senseAnchor": "becoming angry easily",
+      "senseAnchor": "易怒的；場面：點火就著",
       "roleInScript": "點火就著",
       "humorDevice": "contrast",
-      "zhGloss": "暴躁易怒的",
+      "zhGloss": "易怒的",
       "speakLineEn": "The irascible professor dismissed soft questions.",
       "speakLineZh": "暴躁教授直接打發軟問題。",
       "related": {
@@ -40,10 +40,10 @@
     {
       "headword": "peevish",
       "inVocab": true,
-      "senseAnchor": "easily irritated or annoyed",
+      "senseAnchor": "易怒的；壞脾氣的",
       "roleInScript": "碎碎念易怒",
       "humorDevice": "contrast",
-      "zhGloss": "易怒的；壞脾氣的",
+      "zhGloss": "易怒的",
       "speakLineEn": "Peevish objections rarely improve the draft.",
       "speakLineZh": "壞脾氣的反對很少能改好草稿。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "genial",
       "inVocab": true,
-      "senseAnchor": "diffusing warmth and friendliness; of or relating to the chin or median part of the lower jaw",
+      "senseAnchor": "溫和的；場面：溫暖氣場",
       "roleInScript": "溫暖氣場",
       "humorDevice": "contrast",
-      "zhGloss": "友善溫和的",
+      "zhGloss": "溫和的",
       "speakLineEn": "His genial tone disarmed hostile reviewers.",
       "speakLineZh": "他溫和的語氣化解了敵意審稿人。",
       "related": {
@@ -100,12 +100,12 @@
     {
       "headword": "cantankerous",
       "inVocab": true,
-      "senseAnchor": "stubbornly obstructive and unwilling to cooperate; - Spectator; having a difficult and contrary disposition; - Dorothy Sayers",
+      "senseAnchor": "脾氣差的；難駕馭的",
       "roleInScript": "刺蝟翁",
       "humorDevice": "contrast",
-      "zhGloss": "難相處的",
-      "speakLineEn": "Cue the 刺蝟翁: cantankerous walks on and the gag sticks.",
-      "speakLineZh": "請「刺蝟翁」出場：cantankerous 一上場梗就黏住——難相處的。",
+      "zhGloss": "脾氣差的",
+      "speakLineEn": "A cantankerous and venomous-tongued old lady.",
+      "speakLineZh": "脾氣差的。",
       "related": {
         "synonyms": "bloody-minded, crotchety, ornery",
         "antonyms": ""
@@ -115,12 +115,12 @@
     {
       "headword": "testy",
       "inVocab": true,
-      "senseAnchor": "easily annoyed",
+      "senseAnchor": "易怒的；暴躁的",
       "roleInScript": "點火就着",
       "humorDevice": "contrast",
-      "zhGloss": "易怒的",
-      "speakLineEn": "Cue the 點火就着: testy walks on and the gag sticks.",
-      "speakLineZh": "請「點火就着」出場：testy 一上場梗就黏住——易怒的。",
+      "zhGloss": "易怒的；暴躁的",
+      "speakLineEn": "Consider this case: get testy in one’s old age.",
+      "speakLineZh": "易怒的，暴躁的。",
       "related": {
         "synonyms": "choleric, irascible, irritable",
         "antonyms": "calm, placid"
@@ -134,8 +134,8 @@
       "roleInScript": "春風臉",
       "humorDevice": "contrast",
       "zhGloss": "討人喜歡的",
-      "speakLineEn": "Cue the 春風臉: agreeable walks on and the gag sticks.",
-      "speakLineZh": "請「春風臉」出場：agreeable 一上場梗就黏住——討人喜歡的。",
+      "speakLineEn": "Picture the 春風臉: the word agreeable means 討人喜歡的.",
+      "speakLineZh": "想像「春風臉」：agreeable＝討人喜歡的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -149,8 +149,8 @@
       "roleInScript": "好脾氣",
       "humorDevice": "contrast",
       "zhGloss": "脾氣好的",
-      "speakLineEn": "Cue the 好脾氣: good-natured walks on and the gag sticks.",
-      "speakLineZh": "請「好脾氣」出場：good-natured 一上場梗就黏住——脾氣好的。",
+      "speakLineEn": "In the passage, good-natured signals a shift toward \"脾氣好的\".",
+      "speakLineZh": "文中 good-natured 標示語氣轉向「脾氣好的」。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -160,12 +160,12 @@
     {
       "headword": "cranky",
       "inVocab": true,
-      "senseAnchor": "(used of boats) inclined to heel over easily under sail; easily irritated or annoyed",
+      "senseAnchor": "暴躁的；場面：曲柄怒",
       "roleInScript": "曲柄怒",
       "humorDevice": "contrast",
       "zhGloss": "暴躁的",
-      "speakLineEn": "Cue the 曲柄怒: cranky walks on and the gag sticks.",
-      "speakLineZh": "請「曲柄怒」出場：cranky 一上場梗就黏住——暴躁的。",
+      "speakLineEn": "The critic noted her cranky approach to the evidence.",
+      "speakLineZh": "暴躁的。",
       "related": {
         "synonyms": "crank, tender, tippy, fractious, irritable, nettlesome",
         "antonyms": "tough, agreeable, docile"
@@ -175,12 +175,12 @@
     {
       "headword": "cordial",
       "inVocab": false,
-      "senseAnchor": "熱誠的",
+      "senseAnchor": "熱誠的；場面：熱茶",
       "roleInScript": "熱茶",
       "humorDevice": "contrast",
       "zhGloss": "熱誠的",
-      "speakLineEn": "Cue the 熱茶: cordial walks on and the gag sticks.",
-      "speakLineZh": "請「熱茶」出場：cordial 一上場梗就黏住——熱誠的。",
+      "speakLineEn": "Picture the 熱茶: the word cordial means 熱誠的.",
+      "speakLineZh": "想像「熱茶」：cordial＝熱誠的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -206,6 +206,9 @@
   "qualityGate": {
     "reviewedAt": "2026-10-18",
     "note": "Stage-1 promote: aligned with tract lesson template",
-    "thickenedAt": "P4-batch01"
+    "thickenedAt": "P4-batch01",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave2",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

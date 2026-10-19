@@ -40,10 +40,10 @@
     {
       "headword": "conspire",
       "inVocab": true,
-      "senseAnchor": "to plan together secretly to commit an illegal or wrongful act",
+      "senseAnchor": "祕謀串通；密謀",
       "roleInScript": "一起暗中換氣",
       "humorDevice": "phonetic",
-      "zhGloss": "密謀；共同導致",
+      "zhGloss": "祕謀串通",
       "speakLineEn": "Incentives can conspire against sharing.",
       "speakLineZh": "誘因可能共同不利共享。",
       "related": {
@@ -55,10 +55,10 @@
     {
       "headword": "transpire",
       "inVocab": true,
-      "senseAnchor": "pass through the tissue or substance or its pores or interstices, as of gas; exude water vapor",
+      "senseAnchor": "發生；場面：氣透出來",
       "roleInScript": "氣透出來",
       "humorDevice": "phonetic",
-      "zhGloss": "發生；透露",
+      "zhGloss": "發生",
       "speakLineEn": "What transpired in the lab meeting must be logged.",
       "speakLineZh": "實驗室會議發生何事必須記錄。",
       "related": {
@@ -70,7 +70,7 @@
     {
       "headword": "perspire",
       "inVocab": false,
-      "senseAnchor": "出汗",
+      "senseAnchor": "出汗；場面：汗氣出來",
       "roleInScript": "汗氣出來",
       "humorDevice": "phonetic",
       "zhGloss": "出汗",
@@ -85,7 +85,7 @@
     {
       "headword": "respire",
       "inVocab": false,
-      "senseAnchor": "呼吸",
+      "senseAnchor": "呼吸；場面：換氣",
       "roleInScript": "換氣",
       "humorDevice": "phonetic",
       "zhGloss": "呼吸",
@@ -145,7 +145,7 @@
     {
       "headword": "conspiracy",
       "inVocab": true,
-      "senseAnchor": "陰謀",
+      "senseAnchor": "陰謀；場面：密謀團",
       "roleInScript": "密謀團",
       "humorDevice": "story",
       "zhGloss": "陰謀",
@@ -160,7 +160,7 @@
     {
       "headword": "inspiration",
       "inVocab": false,
-      "senseAnchor": "靈感",
+      "senseAnchor": "靈感；場面：吸進的氣",
       "roleInScript": "吸進的氣",
       "humorDevice": "story",
       "zhGloss": "靈感",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P1-batch02"
+    "stage": "P1-batch02",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

@@ -70,7 +70,7 @@
     {
       "headword": "retrospect",
       "inVocab": true,
-      "senseAnchor": "回顧",
+      "senseAnchor": "回顧；場面：往回看",
       "roleInScript": "往回看",
       "humorDevice": "morphology",
       "zhGloss": "回顧",
@@ -85,7 +85,7 @@
     {
       "headword": "prospect",
       "inVocab": true,
-      "senseAnchor": "前景；預期；探勘",
+      "senseAnchor": "前景；預期",
       "roleInScript": "往前看",
       "humorDevice": "morphology",
       "zhGloss": "前景；預期；探勘",
@@ -100,10 +100,10 @@
     {
       "headword": "despicable",
       "inVocab": true,
-      "senseAnchor": "morally reprehensible",
+      "senseAnchor": "可鄙的；下流的",
       "roleInScript": "不屑一看",
       "humorDevice": "morphology",
-      "zhGloss": "可鄙的",
+      "zhGloss": "可鄙的；下流的",
       "speakLineEn": "Despicable tactics undermine public trust.",
       "speakLineZh": "可鄙手段破壞公眾信任。",
       "related": {
@@ -130,7 +130,7 @@
     {
       "headword": "spectator",
       "inVocab": true,
-      "senseAnchor": "旁觀者",
+      "senseAnchor": "旁觀者；場面：只看不演",
       "roleInScript": "只看不演",
       "humorDevice": "morphology",
       "zhGloss": "旁觀者",
@@ -189,6 +189,8 @@
   "qualityGate": {
     "reviewedAt": "2026-10-18",
     "stage": "S2",
-    "note": "New A-level cluster with full lesson"
+    "note": "New A-level cluster with full lesson",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

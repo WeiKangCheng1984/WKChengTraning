@@ -10,12 +10,12 @@
     {
       "headword": "traipse",
       "inVocab": true,
-      "senseAnchor": "walk or tramp about",
+      "senseAnchor": "疲憊的走；疲憊行走",
       "roleInScript": "拖步",
       "humorDevice": "contrast",
-      "zhGloss": "疲憊行走",
-      "speakLineEn": "Cue the 拖步: traipse walks on and the gag sticks.",
-      "speakLineZh": "請「拖步」出場：traipse 一上場梗就黏住——疲憊行走。",
+      "zhGloss": "疲憊的走",
+      "speakLineEn": "In the end, they chose to traipse what they had once defended.",
+      "speakLineZh": "疲憊的走。",
       "related": {
         "synonyms": "shlep",
         "antonyms": ""
@@ -25,12 +25,12 @@
     {
       "headword": "scamper",
       "inVocab": true,
-      "senseAnchor": "蹦跳跑",
+      "senseAnchor": "蹦跳跑；場面：小跑",
       "roleInScript": "小跑",
       "humorDevice": "contrast",
       "zhGloss": "蹦跳跑",
-      "speakLineEn": "Cue the 小跑: scamper walks on and the gag sticks.",
-      "speakLineZh": "請「小跑」出場：scamper 一上場梗就黏住——蹦跳跑。",
+      "speakLineEn": "On the exam, scamper most nearly means a sense of \"蹦跳跑\".",
+      "speakLineZh": "蹦跳跑。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -40,12 +40,12 @@
     {
       "headword": "lumber",
       "inVocab": true,
-      "senseAnchor": "the wood of trees cut and prepared for use as building material; an implement used in baseball by the batter",
+      "senseAnchor": "木頭；緩慢行動",
       "roleInScript": "笨重步",
       "humorDevice": "contrast",
-      "zhGloss": "笨重走",
-      "speakLineEn": "Cue the 笨重步: lumber walks on and the gag sticks.",
-      "speakLineZh": "請「笨重步」出場：lumber 一上場梗就黏住——笨重走。",
+      "zhGloss": "木頭；緩慢行動",
+      "speakLineEn": "The heavy man lumbered across the room.",
+      "speakLineZh": "木頭；緩慢行動。",
       "related": {
         "synonyms": "timber, pound, log",
         "antonyms": ""
@@ -55,12 +55,12 @@
     {
       "headword": "saunter",
       "inVocab": true,
-      "senseAnchor": "a careless leisurely gait; a leisurely walk (usually in some public place)",
+      "senseAnchor": "散步；場面：溜達",
       "roleInScript": "溜達",
       "humorDevice": "contrast",
-      "zhGloss": "閒逛",
-      "speakLineEn": "Cue the 溜達: saunter walks on and the gag sticks.",
-      "speakLineZh": "請「溜達」出場：saunter 一上場梗就黏住——閒逛。",
+      "zhGloss": "散步",
+      "speakLineEn": "He walked with a kind of saunter as if he hadn't a care in the world.",
+      "speakLineZh": "散步。",
       "related": {
         "synonyms": "amble, promenade, stroll, perambulation",
         "antonyms": ""
@@ -70,12 +70,12 @@
     {
       "headword": "trudge",
       "inVocab": true,
-      "senseAnchor": "跋涉",
+      "senseAnchor": "跋涉；場面：沉重步",
       "roleInScript": "沉重步",
       "humorDevice": "contrast",
       "zhGloss": "跋涉",
-      "speakLineEn": "Cue the 沉重步: trudge walks on and the gag sticks.",
-      "speakLineZh": "請「沉重步」出場：trudge 一上場梗就黏住——跋涉。",
+      "speakLineEn": "On the exam, trudge most nearly means a sense of \"跋涉\".",
+      "speakLineZh": "跋涉。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -85,12 +85,12 @@
     {
       "headword": "amble",
       "inVocab": true,
-      "senseAnchor": "緩行",
+      "senseAnchor": "緩行；場面：慢步",
       "roleInScript": "慢步",
       "humorDevice": "contrast",
       "zhGloss": "緩行",
-      "speakLineEn": "Cue the 慢步: amble walks on and the gag sticks.",
-      "speakLineZh": "請「慢步」出場：amble 一上場梗就黏住——緩行。",
+      "speakLineEn": "On the exam, amble most nearly means a sense of \"緩行\".",
+      "speakLineZh": "緩行。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -100,12 +100,12 @@
     {
       "headword": "stride",
       "inVocab": true,
-      "senseAnchor": "大步走",
+      "senseAnchor": "大步走；場面：大步",
       "roleInScript": "大步",
       "humorDevice": "contrast",
       "zhGloss": "大步走",
-      "speakLineEn": "Cue the 大步: stride walks on and the gag sticks.",
-      "speakLineZh": "請「大步」出場：stride 一上場梗就黏住——大步走。",
+      "speakLineEn": "On the exam, stride most nearly means a sense of \"大步走\".",
+      "speakLineZh": "大步走。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -115,12 +115,12 @@
     {
       "headword": "skulk",
       "inVocab": true,
-      "senseAnchor": "潛行",
+      "senseAnchor": "潛行；場面：鬼祟走",
       "roleInScript": "鬼祟走",
       "humorDevice": "contrast",
       "zhGloss": "潛行",
-      "speakLineEn": "Cue the 鬼祟走: skulk walks on and the gag sticks.",
-      "speakLineZh": "請「鬼祟走」出場：skulk 一上場梗就黏住——潛行。",
+      "speakLineEn": "On the exam, skulk most nearly means a sense of \"潛行\".",
+      "speakLineZh": "潛行。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -130,12 +130,12 @@
     {
       "headword": "prowl",
       "inVocab": true,
-      "senseAnchor": "the act of prowling (walking about in a stealthy manner); move about in or as if in a predatory manner",
+      "senseAnchor": "潛行；場面：巡游",
       "roleInScript": "巡游",
       "humorDevice": "contrast",
-      "zhGloss": "徘徊覓食",
-      "speakLineEn": "Cue the 巡游: prowl walks on and the gag sticks.",
-      "speakLineZh": "請「巡游」出場：prowl 一上場梗就黏住——徘徊覓食。",
+      "zhGloss": "潛行",
+      "speakLineEn": "The suspicious stranger prowls the streets of the town.",
+      "speakLineZh": "潛行。",
       "related": {
         "synonyms": "lurch",
         "antonyms": ""
@@ -146,11 +146,11 @@
       "headword": "station",
       "inVocab": false,
       "senseAnchor": "轉運站",
-      "roleInScript": "轉運站",
+      "roleInScript": "轉運站角色",
       "humorDevice": "story",
       "zhGloss": "轉運站",
-      "speakLineEn": "Cue the 轉運站: station walks on and the gag sticks.",
-      "speakLineZh": "請「轉運站」出場：station 一上場梗就黏住——轉運站。",
+      "speakLineEn": "Critics argued that the policy would station basic protections.",
+      "speakLineZh": "批評者主張該政策會轉運站基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -162,11 +162,11 @@
       "headword": "bench",
       "inVocab": false,
       "senseAnchor": "長椅",
-      "roleInScript": "長椅",
+      "roleInScript": "長椅角色",
       "humorDevice": "story",
       "zhGloss": "長椅",
-      "speakLineEn": "Cue the 長椅: bench walks on and the gag sticks.",
-      "speakLineZh": "請「長椅」出場：bench 一上場梗就黏住——長椅。",
+      "speakLineEn": "Critics argued that the policy would bench basic protections.",
+      "speakLineZh": "批評者主張該政策會長椅基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -189,6 +189,9 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P4-batch01"
+    "stage": "P4-batch01",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave2",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

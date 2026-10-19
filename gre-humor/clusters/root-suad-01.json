@@ -10,7 +10,7 @@
     {
       "headword": "persuade",
       "inVocab": true,
-      "senseAnchor": "說服",
+      "senseAnchor": "說服；場面：主頻道勸",
       "roleInScript": "主頻道勸",
       "humorDevice": "morphology",
       "zhGloss": "說服",
@@ -70,10 +70,10 @@
     {
       "headword": "assuage",
       "inVocab": true,
-      "senseAnchor": "cause to be more favorably inclined; gain the good will of; satisfy (thirst)",
+      "senseAnchor": "平息；緩和",
       "roleInScript": "安撫鍵",
       "humorDevice": "morphology",
-      "zhGloss": "緩和；安撫",
+      "zhGloss": "平息；緩和",
       "speakLineEn": "Assuage anxiety with open logs, not spin.",
       "speakLineZh": "用開放日誌安撫焦慮，不是話術。",
       "related": {
@@ -100,10 +100,10 @@
     {
       "headword": "cajole",
       "inVocab": true,
-      "senseAnchor": "to persuade with flattery or gentle urging",
+      "senseAnchor": "哄騙；諂媚",
       "roleInScript": "甜言攻勢",
       "humorDevice": "story",
-      "zhGloss": "哄騙；甜言",
+      "zhGloss": "哄騙；諂媚；奉承討好",
       "speakLineEn": "Do not cajole ethics boards with half-truths.",
       "speakLineZh": "別用半真半假哄倫理委員會。",
       "related": {
@@ -115,10 +115,10 @@
     {
       "headword": "wheedle",
       "inVocab": true,
-      "senseAnchor": "influence or urge by gentle urging, caressing, or flattering",
+      "senseAnchor": "哄騙；誘惑",
       "roleInScript": "撒嬌騙",
       "humorDevice": "story",
-      "zhGloss": "用甜言誘騙",
+      "zhGloss": "哄騙；誘惑；諂媚",
       "speakLineEn": "Wheedle-free grants still need rigor.",
       "speakLineZh": "不靠撒嬌的補助仍需嚴謹。",
       "related": {
@@ -145,7 +145,7 @@
     {
       "headword": "softsoap",
       "inVocab": true,
-      "senseAnchor": "灌迷湯",
+      "senseAnchor": "灌迷湯；場面：迷湯桶",
       "roleInScript": "迷湯桶",
       "humorDevice": "story",
       "zhGloss": "灌迷湯",
@@ -173,6 +173,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch05"
+    "stage": "P2-batch05",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

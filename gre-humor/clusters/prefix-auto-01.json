@@ -55,7 +55,7 @@
     {
       "headword": "autocrat",
       "inVocab": true,
-      "senseAnchor": "a cruel and oppressive dictator",
+      "senseAnchor": "獨裁者；場面：獨裁鈕",
       "roleInScript": "獨裁鈕",
       "humorDevice": "morphology",
       "zhGloss": "獨裁者",
@@ -85,7 +85,7 @@
     {
       "headword": "automobile",
       "inVocab": false,
-      "senseAnchor": "汽車",
+      "senseAnchor": "汽車；場面：載具",
       "roleInScript": "載具",
       "humorDevice": "morphology",
       "zhGloss": "汽車",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch06"
+    "stage": "P2-batch06",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

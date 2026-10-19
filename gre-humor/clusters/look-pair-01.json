@@ -40,10 +40,10 @@
     {
       "headword": "discrete",
       "inVocab": true,
-      "senseAnchor": "not continuous",
+      "senseAnchor": "離散的；不連續的",
       "roleInScript": "分開的點",
       "humorDevice": "lookalike",
-      "zhGloss": "分離的；離散的",
+      "zhGloss": "離散的；不連續的",
       "speakLineEn": "Use discrete categories only if theoretically clean.",
       "speakLineZh": "唯有理論乾淨才用離散類別。",
       "related": {
@@ -55,10 +55,10 @@
     {
       "headword": "discreet",
       "inVocab": true,
-      "senseAnchor": "marked by prudence or modesty and wise self-restraint; unobtrusively perceptive and sympathetic",
+      "senseAnchor": "謹慎的；場面：小心不張揚",
       "roleInScript": "小心不張揚",
       "humorDevice": "lookalike",
-      "zhGloss": "謹慎的；不張揚的",
+      "zhGloss": "謹慎的",
       "speakLineEn": "Be discreet with identifiable qualitative excerpts.",
       "speakLineZh": "可識別質性摘錄要謹慎。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "censor",
       "inVocab": true,
-      "senseAnchor": "someone who censures or condemns; a person who is authorized to read publications or correspondence or to watch theatrical performances and suppress in whole or in part anything considered obscene or politically unacceptable",
+      "senseAnchor": "審查；場面：擋內容",
       "roleInScript": "擋內容",
       "humorDevice": "lookalike",
-      "zhGloss": "審查；刪改",
+      "zhGloss": "審查",
       "speakLineEn": "Do not censor inconvenient robustness failures.",
       "speakLineZh": "不要審查掉不便的穩健失敗。",
       "related": {
@@ -85,10 +85,10 @@
     {
       "headword": "censure",
       "inVocab": true,
-      "senseAnchor": "strong criticism",
+      "senseAnchor": "嚴厲批評；譴責",
       "roleInScript": "罵／正式非難",
       "humorDevice": "lookalike",
-      "zhGloss": "譴責",
+      "zhGloss": "嚴厲批評",
       "speakLineEn": "Public censure should follow due process.",
       "speakLineZh": "公開譴責應經正當程序。",
       "related": {
@@ -100,10 +100,10 @@
     {
       "headword": "appraise",
       "inVocab": true,
-      "senseAnchor": "evaluate or estimate the nature, quality, ability, extent, or significance of; consider in a comprehensive way",
+      "senseAnchor": "稱讚；場面：估價值",
       "roleInScript": "估價值",
       "humorDevice": "lookalike",
-      "zhGloss": "評估；估價",
+      "zhGloss": "稱讚",
       "speakLineEn": "Appraise study quality with a rubric, not vibes.",
       "speakLineZh": "用量表評估研究品質，不要靠感覺。",
       "related": {
@@ -115,7 +115,7 @@
     {
       "headword": "apprise",
       "inVocab": true,
-      "senseAnchor": "inform (somebody) of something; make aware of",
+      "senseAnchor": "通知；場面：告知",
       "roleInScript": "告知",
       "humorDevice": "lookalike",
       "zhGloss": "通知",
@@ -130,10 +130,10 @@
     {
       "headword": "allude",
       "inVocab": true,
-      "senseAnchor": "make a more or less disguised reference to",
+      "senseAnchor": "間接提到；暗示",
       "roleInScript": "側面提到",
       "humorDevice": "lookalike",
-      "zhGloss": "暗指",
+      "zhGloss": "間接提到；暗示",
       "speakLineEn": "Allude to related work without dumping twenty names.",
       "speakLineZh": "暗指相關研究，不要傾倒二十人名。",
       "related": {
@@ -145,10 +145,10 @@
     {
       "headword": "elude",
       "inVocab": true,
-      "senseAnchor": "escape, either physically or mentally; be incomprehensible to; escape understanding by",
+      "senseAnchor": "無法得到的；躲避",
       "roleInScript": "躲過",
       "humorDevice": "lookalike",
-      "zhGloss": "躲避；使不懂",
+      "zhGloss": "無法得到的",
       "speakLineEn": "A clear write-up should not elude non-specialists entirely.",
       "speakLineZh": "清楚寫作不該完全讓非專家看不懂。",
       "related": {
@@ -205,10 +205,10 @@
     {
       "headword": "historical",
       "inVocab": true,
-      "senseAnchor": "歷史的；有關歷史的",
+      "senseAnchor": "有關歷史的",
       "roleInScript": "歷史相關",
       "humorDevice": "lookalike",
-      "zhGloss": "歷史的；有關歷史的",
+      "zhGloss": "有關歷史的",
       "speakLineEn": "Provide historical context for the measure.",
       "speakLineZh": "為測量提供歷史脈絡。",
       "related": {
@@ -220,10 +220,10 @@
     {
       "headword": "venal",
       "inVocab": true,
-      "senseAnchor": "open to corrupt influence and especially bribery",
+      "senseAnchor": "貪污受賄的；貪贓的",
       "roleInScript": "可收買",
       "humorDevice": "lookalike",
-      "zhGloss": "貪贓的",
+      "zhGloss": "貪污受賄的",
       "speakLineEn": "Venal incentives corrupt peer review.",
       "speakLineZh": "貪贓誘因腐化同儕審查。",
       "related": {
@@ -235,10 +235,10 @@
     {
       "headword": "venial",
       "inVocab": true,
-      "senseAnchor": "warranting only temporal punishment; easily excused or forgiven",
+      "senseAnchor": "輕微的；可原諒的",
       "roleInScript": "可原諒小錯",
       "humorDevice": "lookalike",
-      "zhGloss": "可恕的（小過）",
+      "zhGloss": "輕微的；可原諒的",
       "speakLineEn": "A venial typo is not research misconduct.",
       "speakLineZh": "可恕的打字錯誤不是研究不端。",
       "related": {
@@ -263,6 +263,8 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "S3b"
+    "stage": "S3b",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

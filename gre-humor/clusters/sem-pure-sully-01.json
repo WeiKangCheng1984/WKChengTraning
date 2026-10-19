@@ -10,12 +10,12 @@
     {
       "headword": "chaste",
       "inVocab": true,
-      "senseAnchor": "morally pure (especially not having experienced sexual intercourse); pure and simple in design or style",
+      "senseAnchor": "純潔的；場面：白袍",
       "roleInScript": "白袍",
       "humorDevice": "contrast",
       "zhGloss": "純潔的",
-      "speakLineEn": "Cue the 白袍: chaste walks on and the gag sticks.",
-      "speakLineZh": "請「白袍」出場：chaste 一上場梗就黏住——純潔的。",
+      "speakLineEn": "A chaste border of conventionalized flowers.",
+      "speakLineZh": "例句對齊：純潔的。",
       "related": {
         "synonyms": "",
         "antonyms": "unchaste"
@@ -25,12 +25,12 @@
     {
       "headword": "pristine",
       "inVocab": true,
-      "senseAnchor": "completely free from dirt or contamination; immaculately clean and unused",
+      "senseAnchor": "純潔的；場面：未拆膜",
       "roleInScript": "未拆膜",
       "humorDevice": "contrast",
-      "zhGloss": "嶄新潔淨的",
-      "speakLineEn": "Cue the 未拆膜: pristine walks on and the gag sticks.",
-      "speakLineZh": "請「未拆膜」出場：pristine 一上場梗就黏住——嶄新潔淨的。",
+      "zhGloss": "純潔的",
+      "speakLineEn": "Handed her his pristine white handkerchief.",
+      "speakLineZh": "例句對齊：嶄新潔淨的。",
       "related": {
         "synonyms": "",
         "antonyms": "spoiled, tainted"
@@ -40,12 +40,12 @@
     {
       "headword": "immaculate",
       "inVocab": true,
-      "senseAnchor": "completely neat and clean; free from stain or blemish",
+      "senseAnchor": "無暇的；場面：無塵室",
       "roleInScript": "無塵室",
       "humorDevice": "contrast",
-      "zhGloss": "無瑕的",
-      "speakLineEn": "Cue the 無塵室: immaculate walks on and the gag sticks.",
-      "speakLineZh": "請「無塵室」出場：immaculate 一上場梗就黏住——無瑕的。",
+      "zhGloss": "無暇的",
+      "speakLineEn": "Timing and technique were immaculate.",
+      "speakLineZh": "例句對齊：無瑕的。",
       "related": {
         "synonyms": "speckless, spick-and-span, spic-and-span, spic, spick, spotless",
         "antonyms": ""
@@ -59,8 +59,8 @@
       "roleInScript": "雪白牆",
       "humorDevice": "contrast",
       "zhGloss": "未玷污的",
-      "speakLineEn": "Cue the 雪白牆: unsullied walks on and the gag sticks.",
-      "speakLineZh": "請「雪白牆」出場：unsullied 一上場梗就黏住——未玷污的。",
+      "speakLineEn": "On the exam, unsullied most nearly means a sense of \"未玷污的\".",
+      "speakLineZh": "未玷污的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -70,12 +70,12 @@
     {
       "headword": "pure",
       "inVocab": true,
-      "senseAnchor": "純淨的",
+      "senseAnchor": "純淨的；場面：蒸餾水",
       "roleInScript": "蒸餾水",
       "humorDevice": "contrast",
       "zhGloss": "純淨的",
-      "speakLineEn": "Cue the 蒸餾水: pure walks on and the gag sticks.",
-      "speakLineZh": "請「蒸餾水」出場：pure 一上場梗就黏住——純淨的。",
+      "speakLineEn": "On the exam, pure most nearly means a sense of \"純淨的\".",
+      "speakLineZh": "純淨的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -89,8 +89,8 @@
       "roleInScript": "不鏽銘",
       "humorDevice": "contrast",
       "zhGloss": "無瑕疵的",
-      "speakLineEn": "Cue the 不鏽銘: stainless walks on and the gag sticks.",
-      "speakLineZh": "請「不鏽銘」出場：stainless 一上場梗就黏住——無瑕疵的。",
+      "speakLineEn": "On the exam, stainless most nearly means a sense of \"無瑕疵的\".",
+      "speakLineZh": "無瑕疵的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -100,12 +100,12 @@
     {
       "headword": "besmirch",
       "inVocab": true,
-      "senseAnchor": "charge falsely or with malicious intent; attack the good name and reputation of someone; smear so as to make dirty or stained",
+      "senseAnchor": "弄髒；玷污",
       "roleInScript": "墨汁甩",
       "humorDevice": "contrast",
-      "zhGloss": "玷污",
-      "speakLineEn": "Cue the 墨汁甩: besmirch walks on and the gag sticks.",
-      "speakLineZh": "請「墨汁甩」出場：besmirch 一上場梗就黏住——玷污。",
+      "zhGloss": "弄髒；玷污；誹謗",
+      "speakLineEn": "Opponents continued to besmirch the proposal in public.",
+      "speakLineZh": "弄髒；玷污；誹謗。",
       "related": {
         "synonyms": "defame, slander, smirch, asperse, denigrate, calumniate",
         "antonyms": ""
@@ -115,12 +115,12 @@
     {
       "headword": "blemish",
       "inVocab": true,
-      "senseAnchor": "a mark or flaw that spoils the appearance of something (especially on a person's body); mar or spoil the appearance of",
+      "senseAnchor": "污點；損害",
       "roleInScript": "痣貼紙",
       "humorDevice": "contrast",
-      "zhGloss": "污點",
-      "speakLineEn": "Cue the 痣貼紙: blemish walks on and the gag sticks.",
-      "speakLineZh": "請「痣貼紙」出場：blemish 一上場梗就黏住——污點。",
+      "zhGloss": "污點；損害",
+      "speakLineEn": "Her face was blemished.",
+      "speakLineZh": "污點；損害。",
       "related": {
         "synonyms": "defect, mar, deface, disfigure, spot, flaw",
         "antonyms": ""
@@ -130,12 +130,12 @@
     {
       "headword": "defile",
       "inVocab": true,
-      "senseAnchor": "a narrow pass (especially one between mountains); place under suspicion or cast doubt upon",
+      "senseAnchor": "損傷；污染",
       "roleInScript": "踩泥靴",
       "humorDevice": "contrast",
-      "zhGloss": "玷污褻瀆",
-      "speakLineEn": "Cue the 踩泥靴: defile walks on and the gag sticks.",
-      "speakLineZh": "請「踩泥靴」出場：defile 一上場梗就黏住——玷污褻瀆。",
+      "zhGloss": "損傷；污染",
+      "speakLineEn": "The townspeople defiled the river by emptying raw sewage into it.",
+      "speakLineZh": "損傷；污染。",
       "related": {
         "synonyms": "gorge, sully, corrupt, taint, cloud, tarnish",
         "antonyms": "incorrupt, straight, disinfect, clear up"
@@ -145,12 +145,12 @@
     {
       "headword": "sully",
       "inVocab": true,
-      "senseAnchor": "United States painter (born in England) of portraits and historical scenes (1783-1872); French statesman (1560-1641)",
+      "senseAnchor": "玷污；丟臉",
       "roleInScript": "灰手印",
       "humorDevice": "contrast",
-      "zhGloss": "弄髒",
-      "speakLineEn": "Cue the 灰手印: sully walks on and the gag sticks.",
-      "speakLineZh": "請「灰手印」出場：sully 一上場梗就黏住——弄髒。",
+      "zhGloss": "玷污；丟臉",
+      "speakLineEn": "Sully appears here: Her reputation was sullied after the affair with a married man.",
+      "speakLineZh": "玷污；丟臉。",
       "related": {
         "synonyms": "defile, corrupt, taint, cloud, tarnish, stain",
         "antonyms": "incorrupt, straight, disinfect, clear up"
@@ -160,12 +160,12 @@
     {
       "headword": "tarnish",
       "inVocab": true,
-      "senseAnchor": "discoloration of metal surface caused by oxidation; make dirty or spotty, as by exposure to air; also used metaphorically",
+      "senseAnchor": "失去光澤；使失色",
       "roleInScript": "氧化層",
       "humorDevice": "contrast",
-      "zhGloss": "使失色",
-      "speakLineEn": "Cue the 氧化層: tarnish walks on and the gag sticks.",
-      "speakLineZh": "請「氧化層」出場：tarnish 一上場梗就黏住——使失色。",
+      "zhGloss": "失去光澤",
+      "speakLineEn": "The silver was tarnished by the long exposure to the air.",
+      "speakLineZh": "失去光澤。",
       "related": {
         "synonyms": "stain, maculate, sully, defile",
         "antonyms": ""
@@ -176,11 +176,11 @@
       "headword": "whiterobe",
       "inVocab": false,
       "senseAnchor": "白袍",
-      "roleInScript": "白袍",
+      "roleInScript": "白袍角色",
       "humorDevice": "story",
       "zhGloss": "白袍",
-      "speakLineEn": "Cue the 白袍: whiterobe walks on and the gag sticks.",
-      "speakLineZh": "請「白袍」出場：whiterobe 一上場梗就黏住——白袍。",
+      "speakLineEn": "A careful reader links whiterobe to 白袍, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 whiterobe 連到「白袍」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -191,11 +191,11 @@
       "headword": "ink",
       "inVocab": false,
       "senseAnchor": "墨汁",
-      "roleInScript": "墨汁",
+      "roleInScript": "墨汁角色",
       "humorDevice": "story",
       "zhGloss": "墨汁",
-      "speakLineEn": "Cue the 墨汁: ink walks on and the gag sticks.",
-      "speakLineZh": "請「墨汁」出場：ink 一上場梗就黏住——墨汁。",
+      "speakLineEn": "Hold the meaning steady: ink means 墨汁.",
+      "speakLineZh": "記住考意：ink＝墨汁。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -206,11 +206,11 @@
       "headword": "laundry",
       "inVocab": false,
       "senseAnchor": "洗衣店",
-      "roleInScript": "洗衣店",
+      "roleInScript": "洗衣店角色",
       "humorDevice": "story",
       "zhGloss": "洗衣店",
-      "speakLineEn": "Cue the 洗衣店: laundry walks on and the gag sticks.",
-      "speakLineZh": "請「洗衣店」出場：laundry 一上場梗就黏住——洗衣店。",
+      "speakLineEn": "A careful reader links laundry to 洗衣店, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 laundry 連到「洗衣店」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -221,11 +221,11 @@
       "headword": "spot",
       "inVocab": false,
       "senseAnchor": "斑點",
-      "roleInScript": "斑點",
+      "roleInScript": "斑點角色",
       "humorDevice": "story",
       "zhGloss": "斑點",
-      "speakLineEn": "Cue the 斑點: spot walks on and the gag sticks.",
-      "speakLineZh": "請「斑點」出場：spot 一上場梗就黏住——斑點。",
+      "speakLineEn": "Hold the meaning steady: spot means 斑點.",
+      "speakLineZh": "記住考意：spot＝斑點。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -236,11 +236,11 @@
       "headword": "bleach",
       "inVocab": false,
       "senseAnchor": "漂白",
-      "roleInScript": "漂白",
+      "roleInScript": "漂白角色",
       "humorDevice": "story",
       "zhGloss": "漂白",
-      "speakLineEn": "Cue the 漂白: bleach walks on and the gag sticks.",
-      "speakLineZh": "請「漂白」出場：bleach 一上場梗就黏住——漂白。",
+      "speakLineEn": "In the passage, bleach signals a shift toward \"漂白\".",
+      "speakLineZh": "文中 bleach 標示語氣轉向「漂白」。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -251,11 +251,11 @@
       "headword": "soap",
       "inVocab": false,
       "senseAnchor": "肥皂",
-      "roleInScript": "肥皂",
+      "roleInScript": "肥皂角色",
       "humorDevice": "story",
       "zhGloss": "肥皂",
-      "speakLineEn": "Cue the 肥皂: soap walks on and the gag sticks.",
-      "speakLineZh": "請「肥皂」出場：soap 一上場梗就黏住——肥皂。",
+      "speakLineEn": "A careful reader links soap to 肥皂, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 soap 連到「肥皂」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -266,11 +266,11 @@
       "headword": "splash",
       "inVocab": false,
       "senseAnchor": "濺潑",
-      "roleInScript": "濺潑",
+      "roleInScript": "濺潑角色",
       "humorDevice": "story",
       "zhGloss": "濺潑",
-      "speakLineEn": "Cue the 濺潑: splash walks on and the gag sticks.",
-      "speakLineZh": "請「濺潑」出場：splash 一上場梗就黏住——濺潑。",
+      "speakLineEn": "In the passage, splash signals a shift toward \"濺潑\".",
+      "speakLineZh": "文中 splash 標示語氣轉向「濺潑」。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -292,6 +292,9 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P3-batch03"
+    "stage": "P3-batch03",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave1",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

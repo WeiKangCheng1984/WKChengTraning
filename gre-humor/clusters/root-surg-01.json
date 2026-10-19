@@ -10,10 +10,10 @@
     {
       "headword": "surge",
       "inVocab": true,
-      "senseAnchor": "a sudden forceful flow; a sudden or abrupt strong increase",
+      "senseAnchor": "巨浪；洶湧",
       "roleInScript": "浪潮",
       "humorDevice": "morphology",
-      "zhGloss": "湧現；急升",
+      "zhGloss": "巨浪；洶湧",
       "speakLineEn": "A surge in p-hacking follows vague plans.",
       "speakLineZh": "計畫含糊後 p 黑客會湧現。",
       "related": {
@@ -25,10 +25,10 @@
     {
       "headword": "upsurge",
       "inVocab": true,
-      "senseAnchor": "a rapid or sudden increase",
+      "senseAnchor": "激增；場面：上升箭",
       "roleInScript": "上升箭",
       "humorDevice": "morphology",
-      "zhGloss": "急劇上升",
+      "zhGloss": "激增",
       "speakLineEn": "An upsurge of interest is not evidence.",
       "speakLineZh": "興趣急升不是證據。",
       "related": {
@@ -55,10 +55,10 @@
     {
       "headword": "resurgence",
       "inVocab": true,
-      "senseAnchor": "the reappearance of something common in the past",
+      "senseAnchor": "復興；場面：再起曲線",
       "roleInScript": "再起曲線",
       "humorDevice": "morphology",
-      "zhGloss": "再起；復甦",
+      "zhGloss": "復興",
       "speakLineEn": "Watch for resurgence of dropped outliers.",
       "speakLineZh": "注意被丟掉離群值的再起。",
       "related": {
@@ -160,7 +160,7 @@
     {
       "headword": "scalpel",
       "inVocab": false,
-      "senseAnchor": "手術刀",
+      "senseAnchor": "手術刀；場面：小刀",
       "roleInScript": "小刀",
       "humorDevice": "story",
       "zhGloss": "手術刀",
@@ -203,6 +203,8 @@
   "priority": "C",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch06"
+    "stage": "P2-batch06",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

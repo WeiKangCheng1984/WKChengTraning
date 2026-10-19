@@ -10,7 +10,7 @@
     {
       "headword": "satisfy",
       "inVocab": false,
-      "senseAnchor": "使滿足",
+      "senseAnchor": "使滿足；場面：滿意上菜",
       "roleInScript": "滿意上菜",
       "humorDevice": "morphology",
       "zhGloss": "使滿足",
@@ -55,10 +55,10 @@
     {
       "headword": "sate",
       "inVocab": true,
-      "senseAnchor": "fill to satisfaction",
+      "senseAnchor": "滿足的；場面：吃飽",
       "roleInScript": "吃飽",
       "humorDevice": "morphology",
-      "zhGloss": "使飽足",
+      "zhGloss": "滿足的",
       "speakLineEn": "Sate curiosity with exploratory labels.",
       "speakLineZh": "用探索標籤滿足好奇。",
       "related": {
@@ -85,10 +85,10 @@
     {
       "headword": "satiated",
       "inVocab": true,
-      "senseAnchor": "fill to satisfaction; overeat or eat immodestly; make a pig of oneself",
+      "senseAnchor": "滿足的；場面：已飽",
       "roleInScript": "已飽",
       "humorDevice": "morphology",
-      "zhGloss": "吃飽的",
+      "zhGloss": "滿足的",
       "speakLineEn": "A satiated alpha leaves nothing for confirmation.",
       "speakLineZh": "α 吃飽就沒剩確認額度。",
       "related": {
@@ -100,10 +100,10 @@
     {
       "headword": "saturate",
       "inVocab": true,
-      "senseAnchor": "to wet thoroughly with liquid",
+      "senseAnchor": "使飽和；浸透",
       "roleInScript": "倒滿醬",
       "humorDevice": "morphology",
-      "zhGloss": "使飽和",
+      "zhGloss": "使飽和；浸透",
       "speakLineEn": "Do not saturate the abstract with hype.",
       "speakLineZh": "不要用炒作使摘要飽和。",
       "related": {
@@ -130,7 +130,7 @@
     {
       "headword": "saturated",
       "inVocab": false,
-      "senseAnchor": "飽和的",
+      "senseAnchor": "飽和的；場面：已滿醬",
       "roleInScript": "已滿醬",
       "humorDevice": "morphology",
       "zhGloss": "飽和的",
@@ -160,7 +160,7 @@
     {
       "headword": "enough",
       "inVocab": false,
-      "senseAnchor": "足夠",
+      "senseAnchor": "足夠；場面：夠了",
       "roleInScript": "夠了",
       "humorDevice": "story",
       "zhGloss": "足夠",
@@ -188,6 +188,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch04"
+    "stage": "P2-batch04",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

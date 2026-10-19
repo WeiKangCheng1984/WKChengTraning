@@ -10,12 +10,12 @@
     {
       "headword": "abandon",
       "inVocab": true,
-      "senseAnchor": "to withdraw from often in the face of danger or encroachment",
+      "senseAnchor": "放棄；場面：席-v. 放",
       "roleInScript": "席-v. 放",
       "humorDevice": "morphology",
-      "zhGloss": "v. 放棄",
-      "speakLineEn": "Cue the 席-v. 放: abandon walks on and the gag sticks.",
-      "speakLineZh": "請「席-v. 放」出場：abandon 一上場梗就黏住——v. 放棄。",
+      "zhGloss": "放棄",
+      "speakLineEn": "He abandoned the thought of asking for her hand in marriage.",
+      "speakLineZh": "例句對齊：v. 放棄.",
       "related": {
         "synonyms": "forsake, forgo, jettison",
         "antonyms": "claim, postdate, retain, keep"
@@ -25,12 +25,12 @@
     {
       "headword": "abjudicate",
       "inVocab": true,
-      "senseAnchor": "a GRE-level vocabulary item meaning closely related to its core sense in academic English",
+      "senseAnchor": "裁定；判決",
       "roleInScript": "席-裁定；判",
       "humorDevice": "morphology",
       "zhGloss": "裁定；判決",
-      "speakLineEn": "Cue the 席-裁定；判: abjudicate walks on and the gag sticks.",
-      "speakLineZh": "請「席-裁定；判」出場：abjudicate 一上場梗就黏住——裁定；判決。",
+      "speakLineEn": "A clear sense of abjudicate is crucial to understanding the argument.",
+      "speakLineZh": "裁定；判決。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -40,12 +40,12 @@
     {
       "headword": "absolute",
       "inVocab": true,
-      "senseAnchor": "something that is conceived or that exists independently and not in relation to other things; something that does not depend on anything else and is beyond human control; something that is not relative; perfect or complete or pure",
+      "senseAnchor": "絕對的/獨裁的；絕對的／獨裁的",
       "roleInScript": "席-絕對的/",
       "humorDevice": "morphology",
       "zhGloss": "絕對的/獨裁的",
-      "speakLineEn": "Cue the 席-絕對的/: absolute walks on and the gag sticks.",
-      "speakLineZh": "請「席-絕對的/」出場：absolute 一上場梗就黏住——絕對的/獨裁的。",
+      "speakLineEn": "An absolute guarantee to respect the nation's authority.",
+      "speakLineZh": "絕對的/獨裁的。",
       "related": {
         "synonyms": "downright, out-and-out, rank, right-down, sheer, infrangible",
         "antonyms": "relative"
@@ -55,12 +55,12 @@
     {
       "headword": "abstemious",
       "inVocab": true,
-      "senseAnchor": "not eating or drinking too much",
+      "senseAnchor": "有節制的",
       "roleInScript": "席-adj.",
       "humorDevice": "morphology",
-      "zhGloss": "adj. 有節制的",
-      "speakLineEn": "Cue the 席-adj.: abstemious walks on and the gag sticks.",
-      "speakLineZh": "請「席-adj.」出場：abstemious 一上場梗就黏住——adj. 有節制的。",
+      "zhGloss": "有節制的",
+      "speakLineEn": "The pleasures of the table, never of much consequence to one naturally abstemious.",
+      "speakLineZh": "有節制的。",
       "related": {
         "synonyms": "moderate, austere",
         "antonyms": "gluttonous, immoderate, luxurious, indulgent"
@@ -70,12 +70,12 @@
     {
       "headword": "abstention",
       "inVocab": true,
-      "senseAnchor": "the trait of abstaining (especially from alcohol)",
+      "senseAnchor": "剋制的；節制的",
       "roleInScript": "席-剋制的；",
       "humorDevice": "morphology",
       "zhGloss": "剋制的；節制的",
-      "speakLineEn": "Cue the 席-剋制的；: abstention walks on and the gag sticks.",
-      "speakLineZh": "請「席-剋制的；」出場：abstention 一上場梗就黏住——剋制的；節制的。",
+      "speakLineEn": "A clear sense of abstention is crucial to understanding the argument.",
+      "speakLineZh": "剋制的；節制的。",
       "related": {
         "synonyms": "abstinence",
         "antonyms": ""
@@ -85,12 +85,12 @@
     {
       "headword": "abstentious",
       "inVocab": true,
-      "senseAnchor": "self-restraining; not indulging an appetite especially for food or drink",
+      "senseAnchor": "有節制的；剋制的",
       "roleInScript": "席-有節制的",
       "humorDevice": "morphology",
       "zhGloss": "有節制的；剋制的",
-      "speakLineEn": "Cue the 席-有節制的: abstentious walks on and the gag sticks.",
-      "speakLineZh": "請「席-有節制的」出場：abstentious 一上場梗就黏住——有節制的；剋制的。",
+      "speakLineEn": "The critic noted her abstentious approach to the evidence.",
+      "speakLineZh": "有節制的；剋制的。",
       "related": {
         "synonyms": "abstinent",
         "antonyms": "drinker"
@@ -100,12 +100,12 @@
     {
       "headword": "abstinent",
       "inVocab": true,
-      "senseAnchor": "a person who refrains from drinking intoxicating beverages; self-restraining; not indulging an appetite especially for food or drink",
+      "senseAnchor": "剋制的；禁慾的",
       "roleInScript": "席-剋制的；",
       "humorDevice": "morphology",
       "zhGloss": "剋制的；禁慾的",
-      "speakLineEn": "Cue the 席-剋制的；: abstinent walks on and the gag sticks.",
-      "speakLineZh": "請「席-剋制的；」出場：abstinent 一上場梗就黏住——剋制的；禁慾的。",
+      "speakLineEn": "Not totally abstinent but abstemious.",
+      "speakLineZh": "剋制的；禁慾的。",
       "related": {
         "synonyms": "abstainer, nondrinker, abstentious",
         "antonyms": "drinker"
@@ -115,12 +115,12 @@
     {
       "headword": "acarpous",
       "inVocab": true,
-      "senseAnchor": "producing no fruit",
+      "senseAnchor": "無果實的",
       "roleInScript": "席-無果實的",
       "humorDevice": "morphology",
       "zhGloss": "無果實的",
-      "speakLineEn": "Cue the 席-無果實的: acarpous walks on and the gag sticks.",
-      "speakLineZh": "請「席-無果實的」出場：acarpous 一上場梗就黏住——無果實的。",
+      "speakLineEn": "The critic noted her acarpous approach to the evidence.",
+      "speakLineZh": "無果實的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -130,12 +130,12 @@
     {
       "headword": "accent",
       "inVocab": true,
-      "senseAnchor": "to emphasize",
+      "senseAnchor": "強調；場面：席-v. 強",
       "roleInScript": "席-v. 強",
       "humorDevice": "morphology",
-      "zhGloss": "v. 強調",
-      "speakLineEn": "Cue the 席-v. 強: accent walks on and the gag sticks.",
-      "speakLineZh": "請「席-v. 強」出場：accent 一上場梗就黏住——v. 強調。",
+      "zhGloss": "強調",
+      "speakLineEn": "The room was decorated in shades of grey with distinctive red accents.",
+      "speakLineZh": "例句對齊：v. 強調.",
       "related": {
         "synonyms": "accentuate, foreground, highlight",
         "antonyms": "background, play down"
@@ -145,12 +145,12 @@
     {
       "headword": "accentuate",
       "inVocab": true,
-      "senseAnchor": "to make more noticeable",
+      "senseAnchor": "強調；場面：席-v. 強",
       "roleInScript": "席-v. 強",
       "humorDevice": "morphology",
-      "zhGloss": "v. 強調",
-      "speakLineEn": "Cue the 席-v. 強: accentuate walks on and the gag sticks.",
-      "speakLineZh": "請「席-v. 強」出場：accentuate 一上場梗就黏住——v. 強調。",
+      "zhGloss": "強調",
+      "speakLineEn": "In that case, they had to accentuate the importance of communication skills.",
+      "speakLineZh": "例句對齊：v. 強調.",
       "related": {
         "synonyms": "emphasize, highlight, foreground",
         "antonyms": "background, play down"
@@ -160,12 +160,12 @@
     {
       "headword": "accessory",
       "inVocab": true,
-      "senseAnchor": "clothing that is worn or carried, but not part of your main clothing; a supplementary component that improves capability",
+      "senseAnchor": "輔助的",
       "roleInScript": "席-輔助的",
       "humorDevice": "morphology",
       "zhGloss": "輔助的",
-      "speakLineEn": "Cue the 席-輔助的: accessory walks on and the gag sticks.",
-      "speakLineZh": "請「席-輔助的」出場：accessory 一上場梗就黏住——輔助的。",
+      "speakLineEn": "He was charged with being accessory to the crime.",
+      "speakLineZh": "例句對齊：輔助的。",
       "related": {
         "synonyms": "accoutrement, accouterment, appurtenance, supplement, add-on, accessary",
         "antonyms": ""
@@ -175,12 +175,12 @@
     {
       "headword": "accomplished",
       "inVocab": true,
-      "senseAnchor": "put in effect; to gain with effort",
+      "senseAnchor": "完成的；熟練的",
       "roleInScript": "席-完成的；",
       "humorDevice": "morphology",
       "zhGloss": "完成的；熟練的",
-      "speakLineEn": "Cue the 席-完成的；: accomplished walks on and the gag sticks.",
-      "speakLineZh": "請「席-完成的；」出場：accomplished 一上場梗就黏住——完成的；熟練的。",
+      "speakLineEn": "That smoking causes health problems is an accomplished fact.",
+      "speakLineZh": "完成的；熟練的。",
       "related": {
         "synonyms": "accomplish, execute, action, fulfill, fulfil, achieve",
         "antonyms": "inaction, inactiveness, inactivity, fall short of"
@@ -190,12 +190,12 @@
     {
       "headword": "accost",
       "inVocab": true,
-      "senseAnchor": "speak to someone; approach with an offer of sexual favors",
+      "senseAnchor": "挑釁式搭訕",
       "roleInScript": "席-挑釁式搭",
       "humorDevice": "morphology",
       "zhGloss": "挑釁式搭訕",
-      "speakLineEn": "Cue the 席-挑釁式搭: accost walks on and the gag sticks.",
-      "speakLineZh": "請「席-挑釁式搭」出場：accost 一上場梗就黏住——挑釁式搭訕。",
+      "speakLineEn": "In the end, they chose to accost what they had once defended.",
+      "speakLineZh": "挑釁式搭訕。",
       "related": {
         "synonyms": "address, hook, solicit",
         "antonyms": "undercharge, unhook"
@@ -205,12 +205,12 @@
     {
       "headword": "accrete",
       "inVocab": true,
-      "senseAnchor": "to grow or increase gradually",
+      "senseAnchor": "逐漸增長",
       "roleInScript": "席-v. 逐",
       "humorDevice": "morphology",
-      "zhGloss": "v. 逐漸增長",
-      "speakLineEn": "Cue the 席-v. 逐: accrete walks on and the gag sticks.",
-      "speakLineZh": "請「席-v. 逐」出場：accrete 一上場梗就黏住——v. 逐漸增長。",
+      "zhGloss": "逐漸增長",
+      "speakLineEn": "The story accreted emotion.",
+      "speakLineZh": "逐漸增長。",
       "related": {
         "synonyms": "accumulate, build up",
         "antonyms": ""
@@ -220,12 +220,12 @@
     {
       "headword": "accrue",
       "inVocab": true,
-      "senseAnchor": "grow by addition; come into the possession of",
+      "senseAnchor": "積累",
       "roleInScript": "席-積累",
       "humorDevice": "morphology",
       "zhGloss": "積累",
-      "speakLineEn": "Cue the 席-積累: accrue walks on and the gag sticks.",
-      "speakLineZh": "請「席-積累」出場：accrue 一上場梗就黏住——積累。",
+      "speakLineEn": "The house accrued to the oldest son.",
+      "speakLineZh": "例句對齊：積累。",
       "related": {
         "synonyms": "fall",
         "antonyms": "ascend, ascent, increase, rise"
@@ -235,12 +235,12 @@
     {
       "headword": "accure",
       "inVocab": true,
-      "senseAnchor": "a GRE-level vocabulary item meaning closely related to its core sense in academic English",
+      "senseAnchor": "增加",
       "roleInScript": "席-增加",
       "humorDevice": "morphology",
       "zhGloss": "增加",
-      "speakLineEn": "Cue the 席-增加: accure walks on and the gag sticks.",
-      "speakLineZh": "請「席-增加」出場：accure 一上場梗就黏住——增加。",
+      "speakLineEn": "A clear sense of accure is crucial to understanding the argument.",
+      "speakLineZh": "例句對齊：增加。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -262,6 +262,9 @@
   "priority": "C",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P4-batch01"
+    "stage": "P4-batch01",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave1",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

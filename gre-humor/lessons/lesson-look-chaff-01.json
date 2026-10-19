@@ -20,7 +20,7 @@
       "step": 2,
       "name": "串記劇本",
       "minutes": 2,
-      "content": "chaff＝打趣。chagrin＝懊惱失望。cherubic＝天使般天真。教練：開玩笑別笑得失控，懊惱別寫成天使臉，三個詞共用 ch- 開頭但情緒完全不同。"
+      "content": "chaff＝打趣。chagrin＝懊惱失望。cherubic＝天使般天真。教練：開玩笑別笑得失控，懊惱別寫成天使臉，三個詞共用 ch- 開頭但情緒完全不同。形近對決：先分清語意軸，再對號入座。登場：chaff（玩笑鏡）、chagrin（懊惱鏡）、cherubic（無辜鏡）、chary（小心帽）、tease（逗弄）、angel（天使）。"
     },
     {
       "step": 3,
@@ -91,6 +91,8 @@
   "status": "reviewed",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P3-batch03"
+    "stage": "P3-batch03",
+    "polishStage": "Q-wave2",
+    "polishedAt": "2026-10-19"
   }
 }

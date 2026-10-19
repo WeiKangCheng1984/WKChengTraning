@@ -40,7 +40,7 @@
     {
       "headword": "advisor",
       "inVocab": false,
-      "senseAnchor": "顧問",
+      "senseAnchor": "顧問；場面：遠見人",
       "roleInScript": "遠見人",
       "humorDevice": "phonetic",
       "zhGloss": "顧問",
@@ -55,7 +55,7 @@
     {
       "headword": "revision",
       "inVocab": false,
-      "senseAnchor": "修訂版",
+      "senseAnchor": "修訂版；場面：再看版本",
       "roleInScript": "再看版本",
       "humorDevice": "phonetic",
       "zhGloss": "修訂版",
@@ -100,10 +100,10 @@
     {
       "headword": "vicious",
       "inVocab": true,
-      "senseAnchor": "(of persons or their actions) able or disposed to inflict pain or suffering; having the nature of vice",
+      "senseAnchor": "惡毒的；場面：惡性循環",
       "roleInScript": "惡性循環",
       "humorDevice": "phonetic",
-      "zhGloss": "惡性的；惡意的",
+      "zhGloss": "惡毒的",
       "speakLineEn": "Vicious cycles of secrecy block science.",
       "speakLineZh": "保密惡性循環阻擋科學。",
       "related": {
@@ -130,7 +130,7 @@
     {
       "headword": "envision",
       "inVocab": false,
-      "senseAnchor": "設想",
+      "senseAnchor": "設想；場面：看見未來",
       "roleInScript": "看見未來",
       "humorDevice": "story",
       "zhGloss": "設想",
@@ -158,6 +158,9 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch03"
+    "stage": "P2-batch03",
+    "polishStage": "Q-gold",
+    "polishedAt": "2026-10-19",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

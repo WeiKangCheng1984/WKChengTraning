@@ -20,7 +20,7 @@
       "step": 2,
       "name": "串記劇本",
       "minutes": 2,
-      "content": "asperity＝嚴厲／粗暴。aspersion＝誹謗中傷（cast aspersions）。護士提醒：語氣刺≠名聲髒。"
+      "content": "asperity＝嚴厲／粗暴。aspersion＝誹謗中傷（cast aspersions）。護士提醒：語氣刺≠名聲髒。形近對決：先分清語意軸，再對號入座。登場：asperity（刺耳針）、aspersion（髒水桶）、harsh（刺耳）、slander（誹謗）、rumor（謠言）、tone（語氣）。"
     },
     {
       "step": 3,
@@ -91,6 +91,8 @@
   "status": "reviewed",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P3-batch03"
+    "stage": "P3-batch03",
+    "polishStage": "Q-wave2",
+    "polishedAt": "2026-10-19"
   }
 }

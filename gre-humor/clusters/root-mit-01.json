@@ -25,7 +25,7 @@
     {
       "headword": "dismiss",
       "inVocab": true,
-      "senseAnchor": "解雇；打發；不予考慮",
+      "senseAnchor": "解雇；打發",
       "roleInScript": "把人／想法送走",
       "humorDevice": "morphology",
       "zhGloss": "解雇；打發；不予考慮",
@@ -40,10 +40,10 @@
     {
       "headword": "remiss",
       "inVocab": true,
-      "senseAnchor": "careless",
+      "senseAnchor": "疏忽的；不留心的",
       "roleInScript": "該送沒送到",
       "humorDevice": "morphology",
-      "zhGloss": "疏忽的；怠慢的",
+      "zhGloss": "疏忽的；不留心的",
       "speakLineEn": "It would be remiss to ignore conflicting studies.",
       "speakLineZh": "忽略互相衝突的研究會是疏忽。",
       "related": {
@@ -55,10 +55,10 @@
     {
       "headword": "emissary",
       "inVocab": true,
-      "senseAnchor": "someone sent on a mission to represent the interests of someone else",
+      "senseAnchor": "密使；場面：被送出去的人",
       "roleInScript": "被送出去的人",
       "humorDevice": "morphology",
-      "zhGloss": "使者；密使",
+      "zhGloss": "密使",
       "speakLineEn": "An emissary carried the compromise proposal.",
       "speakLineZh": "一名密使帶著妥協方案。",
       "related": {
@@ -100,10 +100,10 @@
     {
       "headword": "intermittent",
       "inVocab": true,
-      "senseAnchor": "coming and going at intervals, not continuous",
+      "senseAnchor": "斷斷續續的；間歇的",
       "roleInScript": "送一下停一下",
       "humorDevice": "morphology",
-      "zhGloss": "間歇的；斷續的",
+      "zhGloss": "斷斷續續的",
       "speakLineEn": "Intermittent funding stalled the longitudinal design.",
       "speakLineZh": "斷續經費讓縱貫設計停擺。",
       "related": {
@@ -130,10 +130,10 @@
     {
       "headword": "missive",
       "inVocab": true,
-      "senseAnchor": "a written message addressed to a person or organization",
+      "senseAnchor": "信函；場面：送出的信件",
       "roleInScript": "送出的信件",
       "humorDevice": "morphology",
-      "zhGloss": "公文；書信",
+      "zhGloss": "信函",
       "speakLineEn": "A terse missive ended the collaboration.",
       "speakLineZh": "一封簡短書信結束了合作。",
       "related": {
@@ -189,6 +189,8 @@
   "qualityGate": {
     "reviewedAt": "2026-10-18",
     "stage": "S2",
-    "note": "New A-level cluster with full lesson"
+    "note": "New A-level cluster with full lesson",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

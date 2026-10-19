@@ -10,12 +10,12 @@
     {
       "headword": "impecunious",
       "inVocab": true,
-      "senseAnchor": "lacking money, poor",
+      "senseAnchor": "貧窮的；場面：空錢包",
       "roleInScript": "空錢包",
       "humorDevice": "contrast",
       "zhGloss": "貧窮的",
-      "speakLineEn": "Cue the 空錢包: impecunious walks on and the gag sticks.",
-      "speakLineZh": "請「空錢包」出場：impecunious 一上場梗就黏住——貧窮的。",
+      "speakLineEn": "It was an impecunious family.",
+      "speakLineZh": "貧窮的。",
       "related": {
         "synonyms": "impoverished, indigent",
         "antonyms": "enrich"
@@ -25,12 +25,12 @@
     {
       "headword": "indigence",
       "inVocab": true,
-      "senseAnchor": "a state of extreme poverty or destitution",
+      "senseAnchor": "貧窮的；場面：破口袋",
       "roleInScript": "破口袋",
       "humorDevice": "contrast",
-      "zhGloss": "貧苦",
-      "speakLineEn": "Cue the 破口袋: indigence walks on and the gag sticks.",
-      "speakLineZh": "請「破口袋」出場：indigence 一上場梗就黏住——貧苦。",
+      "zhGloss": "貧窮的",
+      "speakLineEn": "Their indigence appalled him.",
+      "speakLineZh": "貧窮的。",
       "related": {
         "synonyms": "need, penury, pauperism, pauperization",
         "antonyms": "obviate, wealth, affluence"
@@ -40,12 +40,12 @@
     {
       "headword": "destitution",
       "inVocab": true,
-      "senseAnchor": "a state without friends or money or prospects",
+      "senseAnchor": "貧窮；場面：空屋",
       "roleInScript": "空屋",
       "humorDevice": "contrast",
-      "zhGloss": "赤貧",
-      "speakLineEn": "Cue the 空屋: destitution walks on and the gag sticks.",
-      "speakLineZh": "請「空屋」出場：destitution 一上場梗就黏住——赤貧。",
+      "zhGloss": "貧窮",
+      "speakLineEn": "A clear sense of destitution is crucial to understanding the argument.",
+      "speakLineZh": "貧窮。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -55,12 +55,12 @@
     {
       "headword": "impoverish",
       "inVocab": true,
-      "senseAnchor": "make poor; take away",
+      "senseAnchor": "使貧窮；場面：抽存款",
       "roleInScript": "抽存款",
       "humorDevice": "contrast",
       "zhGloss": "使貧窮",
-      "speakLineEn": "Cue the 抽存款: impoverish walks on and the gag sticks.",
-      "speakLineZh": "請「抽存款」出場：impoverish 一上場梗就黏住——使貧窮。",
+      "speakLineEn": "In the end, they chose to impoverish what they had once defended.",
+      "speakLineZh": "使貧窮。",
       "related": {
         "synonyms": "deprive",
         "antonyms": "enrich"
@@ -70,12 +70,12 @@
     {
       "headword": "fiscal",
       "inVocab": true,
-      "senseAnchor": "involving financial matters",
+      "senseAnchor": "國庫的；財政的",
       "roleInScript": "預算表",
       "humorDevice": "contrast",
-      "zhGloss": "財政的",
-      "speakLineEn": "Cue the 預算表: fiscal walks on and the gag sticks.",
-      "speakLineZh": "請「預算表」出場：fiscal 一上場梗就黏住——財政的。",
+      "zhGloss": "國庫的；財政的",
+      "speakLineEn": "Fiscal responsibility.",
+      "speakLineZh": "國庫的；財政的。",
       "related": {
         "synonyms": "financial",
         "antonyms": "nonfinancial"
@@ -85,12 +85,12 @@
     {
       "headword": "monetary",
       "inVocab": true,
-      "senseAnchor": "relating to or involving money",
+      "senseAnchor": "金錢的；場面：銅板堆",
       "roleInScript": "銅板堆",
       "humorDevice": "contrast",
-      "zhGloss": "貨幣的",
-      "speakLineEn": "Cue the 銅板堆: monetary walks on and the gag sticks.",
-      "speakLineZh": "請「銅板堆」出場：monetary 一上場梗就黏住——貨幣的。",
+      "zhGloss": "金錢的",
+      "speakLineEn": "A careful reader links monetary to 貨幣的, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 monetary 連到「貨幣的」，不連形近鄰居。",
       "related": {
         "synonyms": "pecuniary",
         "antonyms": ""
@@ -100,12 +100,12 @@
     {
       "headword": "default",
       "inVocab": true,
-      "senseAnchor": "loss due to not showing up; act of failing to meet a financial obligation",
+      "senseAnchor": "拖欠（債務）",
       "roleInScript": "紅字債",
       "humorDevice": "contrast",
-      "zhGloss": "違約拖欠",
-      "speakLineEn": "Cue the 紅字債: default walks on and the gag sticks.",
-      "speakLineZh": "請「紅字債」出場：default 一上場梗就黏住——違約拖欠。",
+      "zhGloss": "拖欠（債務）",
+      "speakLineEn": "He lost the game by default.",
+      "speakLineZh": "拖欠（債務。",
       "related": {
         "synonyms": "nonpayment, nonremittal",
         "antonyms": "pay up, payment"
@@ -119,8 +119,8 @@
       "roleInScript": "破產章",
       "humorDevice": "contrast",
       "zhGloss": "無力償債的",
-      "speakLineEn": "Cue the 破產章: insolvent walks on and the gag sticks.",
-      "speakLineZh": "請「破產章」出場：insolvent 一上場梗就黏住——無力償債的。",
+      "speakLineEn": "On the exam, insolvent most nearly means a sense of \"無力償債的\".",
+      "speakLineZh": "無力償債的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -130,12 +130,12 @@
     {
       "headword": "parsimonious",
       "inVocab": true,
-      "senseAnchor": "excessively unwilling to spend",
+      "senseAnchor": "吝嗇的；場面：小氣鎖",
       "roleInScript": "小氣鎖",
       "humorDevice": "contrast",
       "zhGloss": "吝嗇的",
-      "speakLineEn": "Cue the 小氣鎖: parsimonious walks on and the gag sticks.",
-      "speakLineZh": "請「小氣鎖」出場：parsimonious 一上場梗就黏住——吝嗇的。",
+      "speakLineEn": "Parsimonious thrift relieved by few generous impulses.",
+      "speakLineZh": "吝嗇的。",
       "related": {
         "synonyms": "penurious",
         "antonyms": "generous, lavish"
@@ -145,12 +145,12 @@
     {
       "headword": "munificent",
       "inVocab": true,
-      "senseAnchor": "very generous",
+      "senseAnchor": "慷慨的；場面：灑金幣",
       "roleInScript": "灑金幣",
       "humorDevice": "contrast",
       "zhGloss": "慷慨的",
-      "speakLineEn": "Cue the 灑金幣: munificent walks on and the gag sticks.",
-      "speakLineZh": "請「灑金幣」出場：munificent 一上場梗就黏住——慷慨的。",
+      "speakLineEn": "His father gave him a half-dollar and his mother a quarter and he thought them munificent.",
+      "speakLineZh": "慷慨的。",
       "related": {
         "synonyms": "lavish, overgenerous, too-generous, unsparing, unstinted, unstinting",
         "antonyms": "stingy, miserly"
@@ -161,11 +161,11 @@
       "headword": "wallet",
       "inVocab": false,
       "senseAnchor": "錢包",
-      "roleInScript": "錢包",
+      "roleInScript": "錢包角色",
       "humorDevice": "story",
       "zhGloss": "錢包",
-      "speakLineEn": "Cue the 錢包: wallet walks on and the gag sticks.",
-      "speakLineZh": "請「錢包」出場：wallet 一上場梗就黏住——錢包。",
+      "speakLineEn": "A careful reader links wallet to 錢包, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 wallet 連到「錢包」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -188,6 +188,9 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P4-batch01"
+    "stage": "P4-batch01",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave2",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

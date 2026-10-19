@@ -20,7 +20,7 @@
       "step": 2,
       "name": "串記劇本",
       "minutes": 2,
-      "content": "wane／dwindle 縮小。atrophy 萎縮。abridge 刪節。curtail 縮減。taper 逐漸變細。口令：行李寫「精簡」，別把意義也壓扁。"
+      "content": "wane／dwindle 縮小。atrophy 萎縮。abridge 刪節。curtail 縮減。taper 逐漸變細。口令：行李寫「精簡」，別把意義也壓扁。語義對打：兩邊語氣相反，考試選「褒貶／強弱」對的那側。登場：wane（月虧）、dwindle（漏沙）、atrophy（萎縮標）、abridge（縮寫剪）、curtail（剪票）、taper（錐形）。"
     },
     {
       "step": 3,
@@ -91,6 +91,8 @@
   "status": "reviewed",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P4-batch02"
+    "stage": "P4-batch02",
+    "polishStage": "Q-wave2",
+    "polishedAt": "2026-10-19"
   }
 }

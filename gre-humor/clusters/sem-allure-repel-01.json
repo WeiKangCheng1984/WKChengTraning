@@ -10,12 +10,12 @@
     {
       "headword": "alluring",
       "inVocab": true,
-      "senseAnchor": "dispose or incline or entice to; highly attractive and able to arouse hope or desire",
+      "senseAnchor": "誘惑的；場面：自拍燈",
       "roleInScript": "自拍燈",
       "humorDevice": "contrast",
-      "zhGloss": "誘人的",
-      "speakLineEn": "Cue the 自拍燈: alluring walks on and the gag sticks.",
-      "speakLineZh": "請「自拍燈」出場：alluring 一上場梗就黏住——誘人的。",
+      "zhGloss": "誘惑的",
+      "speakLineEn": "An alluring prospect.",
+      "speakLineZh": "例句對齊：誘人的。",
       "related": {
         "synonyms": "tempt, allure, beguiling, enticing, tempting",
         "antonyms": ""
@@ -25,12 +25,12 @@
     {
       "headword": "charisma",
       "inVocab": true,
-      "senseAnchor": "a special magnetic charm or appeal",
+      "senseAnchor": "魅力；吸引力",
       "roleInScript": "磁鐵臉",
       "humorDevice": "contrast",
-      "zhGloss": "魅力",
-      "speakLineEn": "Cue the 磁鐵臉: charisma walks on and the gag sticks.",
-      "speakLineZh": "請「磁鐵臉」出場：charisma 一上場梗就黏住——魅力。",
+      "zhGloss": "魅力；吸引力",
+      "speakLineEn": "The debate focused on a movie star with unique charisma.",
+      "speakLineZh": "魅力，吸引力。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -40,12 +40,12 @@
     {
       "headword": "beguiling",
       "inVocab": true,
-      "senseAnchor": "迷人的",
+      "senseAnchor": "迷人的；場面：甜言釣",
       "roleInScript": "甜言釣",
       "humorDevice": "contrast",
       "zhGloss": "迷人的",
-      "speakLineEn": "Cue the 甜言釣: beguiling walks on and the gag sticks.",
-      "speakLineZh": "請「甜言釣」出場：beguiling 一上場梗就黏住——迷人的。",
+      "speakLineEn": "On the exam, beguiling most nearly means a sense of \"迷人的\".",
+      "speakLineZh": "迷人的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -55,12 +55,12 @@
     {
       "headword": "captivating",
       "inVocab": true,
-      "senseAnchor": "迷人的",
+      "senseAnchor": "迷人的；場面：吸睛燈",
       "roleInScript": "吸睛燈",
       "humorDevice": "contrast",
       "zhGloss": "迷人的",
-      "speakLineEn": "Cue the 吸睛燈: captivating walks on and the gag sticks.",
-      "speakLineZh": "請「吸睛燈」出場：captivating 一上場梗就黏住——迷人的。",
+      "speakLineEn": "On the exam, captivating most nearly means a sense of \"迷人的\".",
+      "speakLineZh": "迷人的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -70,12 +70,12 @@
     {
       "headword": "enchanting",
       "inVocab": true,
-      "senseAnchor": "attractive",
+      "senseAnchor": "迷人的；場面：咒語燈",
       "roleInScript": "咒語燈",
       "humorDevice": "contrast",
-      "zhGloss": "令人著迷的",
-      "speakLineEn": "Cue the 咒語燈: enchanting walks on and the gag sticks.",
-      "speakLineZh": "請「咒語燈」出場：enchanting 一上場梗就黏住——令人著迷的。",
+      "zhGloss": "迷人的",
+      "speakLineEn": "In the passage, enchanting signals a shift toward \"令人著迷的\".",
+      "speakLineZh": "文中 enchanting 標示語氣轉向「令人著迷的」。",
       "related": {
         "synonyms": "captivating, prepossessing",
         "antonyms": "disenchant"
@@ -89,8 +89,8 @@
       "roleInScript": "磁條",
       "humorDevice": "contrast",
       "zhGloss": "有吸引力的",
-      "speakLineEn": "Cue the 磁條: magnetic walks on and the gag sticks.",
-      "speakLineZh": "請「磁條」出場：magnetic 一上場梗就黏住——有吸引力的。",
+      "speakLineEn": "On the exam, magnetic most nearly means a sense of \"有吸引力的\".",
+      "speakLineZh": "有吸引力的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -100,12 +100,12 @@
     {
       "headword": "abhorrent",
       "inVocab": true,
-      "senseAnchor": "offensive to the mind",
+      "senseAnchor": "厭惡的；場面：蟑螂貼",
       "roleInScript": "蟑螂貼",
       "humorDevice": "contrast",
-      "zhGloss": "令人厭惡的",
-      "speakLineEn": "Cue the 蟑螂貼: abhorrent walks on and the gag sticks.",
-      "speakLineZh": "請「蟑螂貼」出場：abhorrent 一上場梗就黏住——令人厭惡的。",
+      "zhGloss": "厭惡的",
+      "speakLineEn": "An abhorrent deed.",
+      "speakLineZh": "例句對齊：令人厭惡的。",
       "related": {
         "synonyms": "detestable, obscene, repugnant, repulsive",
         "antonyms": "attractive"
@@ -115,12 +115,12 @@
     {
       "headword": "anathema",
       "inVocab": true,
-      "senseAnchor": "something or someone that is hated",
+      "senseAnchor": "令人討厭的人或事；厭惡對象",
       "roleInScript": "禁語牌",
       "humorDevice": "contrast",
-      "zhGloss": "厭惡對象",
-      "speakLineEn": "Cue the 禁語牌: anathema walks on and the gag sticks.",
-      "speakLineZh": "請「禁語牌」出場：anathema 一上場梗就黏住——厭惡對象。",
+      "zhGloss": "令人討厭的人或事",
+      "speakLineEn": "He is an anathema to me.",
+      "speakLineZh": "令人討厭的人或事。",
       "related": {
         "synonyms": "detestation, antipathy, abhorrence",
         "antonyms": "affinity, sympathy"
@@ -130,12 +130,12 @@
     {
       "headword": "loathsome",
       "inVocab": true,
-      "senseAnchor": "可憎的",
+      "senseAnchor": "可憎的；場面：噁心蓋",
       "roleInScript": "噁心蓋",
       "humorDevice": "contrast",
       "zhGloss": "可憎的",
-      "speakLineEn": "Cue the 噁心蓋: loathsome walks on and the gag sticks.",
-      "speakLineZh": "請「噁心蓋」出場：loathsome 一上場梗就黏住——可憎的。",
+      "speakLineEn": "On the exam, loathsome most nearly means a sense of \"可憎的\".",
+      "speakLineZh": "可憎的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -145,12 +145,12 @@
     {
       "headword": "odious",
       "inVocab": true,
-      "senseAnchor": "unequivocally detestable; ; ; ; - Edmund Burke",
+      "senseAnchor": "可憎的；令人討厭的",
       "roleInScript": "臭名牌",
       "humorDevice": "contrast",
-      "zhGloss": "可惡的",
-      "speakLineEn": "Cue the 臭名牌: odious walks on and the gag sticks.",
-      "speakLineZh": "請「臭名牌」出場：odious 一上場梗就黏住——可惡的。",
+      "zhGloss": "可憎的；令人討厭的",
+      "speakLineEn": "Consequences odious to those you govern.",
+      "speakLineZh": "可憎的；令人討厭的。",
       "related": {
         "synonyms": "abominable, detestable, execrable",
         "antonyms": ""
@@ -164,8 +164,8 @@
       "roleInScript": "翻胃鍵",
       "humorDevice": "contrast",
       "zhGloss": "令人反感的",
-      "speakLineEn": "Cue the 翻胃鍵: revolting walks on and the gag sticks.",
-      "speakLineZh": "請「翻胃鍵」出場：revolting 一上場梗就黏住——令人反感的。",
+      "speakLineEn": "On the exam, revolting most nearly means a sense of \"令人反感的\".",
+      "speakLineZh": "令人反感的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -179,8 +179,8 @@
       "roleInScript": "倒胃口",
       "humorDevice": "contrast",
       "zhGloss": "倒胃口的",
-      "speakLineEn": "Cue the 倒胃口: off-putting walks on and the gag sticks.",
-      "speakLineZh": "請「倒胃口」出場：off-putting 一上場梗就黏住——倒胃口的。",
+      "speakLineEn": "A careful reader links off-putting to 倒胃口的, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 off-putting 連到「倒胃口的」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -194,8 +194,8 @@
       "roleInScript": "怪味",
       "humorDevice": "contrast",
       "zhGloss": "令人反感的",
-      "speakLineEn": "Cue the 怪味: distasteful walks on and the gag sticks.",
-      "speakLineZh": "請「怪味」出場：distasteful 一上場梗就黏住——令人反感的。",
+      "speakLineEn": "On the exam, distasteful most nearly means a sense of \"令人反感的\".",
+      "speakLineZh": "令人反感的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -206,11 +206,11 @@
       "headword": "magnet",
       "inVocab": false,
       "senseAnchor": "磁鐵",
-      "roleInScript": "磁鐵",
+      "roleInScript": "磁鐵角色",
       "humorDevice": "story",
       "zhGloss": "磁鐵",
-      "speakLineEn": "Cue the 磁鐵: magnet walks on and the gag sticks.",
-      "speakLineZh": "請「磁鐵」出場：magnet 一上場梗就黏住——磁鐵。",
+      "speakLineEn": "Hold the meaning steady: magnet means 磁鐵.",
+      "speakLineZh": "記住考意：magnet＝磁鐵。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -221,11 +221,11 @@
       "headword": "roachsticker",
       "inVocab": false,
       "senseAnchor": "蟑螂貼",
-      "roleInScript": "蟑螂貼",
+      "roleInScript": "蟑螂貼角色",
       "humorDevice": "story",
       "zhGloss": "蟑螂貼",
-      "speakLineEn": "Cue the 蟑螂貼: roachsticker walks on and the gag sticks.",
-      "speakLineZh": "請「蟑螂貼」出場：roachsticker 一上場梗就黏住——蟑螂貼。",
+      "speakLineEn": "Critics argued that the policy would roachsticker basic protections.",
+      "speakLineZh": "批評者主張該政策會蟑螂貼基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -236,11 +236,11 @@
       "headword": "boundary",
       "inVocab": false,
       "senseAnchor": "警戒線",
-      "roleInScript": "警戒線",
+      "roleInScript": "警戒線角色",
       "humorDevice": "story",
       "zhGloss": "警戒線",
-      "speakLineEn": "Cue the 警戒線: boundary walks on and the gag sticks.",
-      "speakLineZh": "請「警戒線」出場：boundary 一上場梗就黏住——警戒線。",
+      "speakLineEn": "Hold the meaning steady: boundary means 警戒線.",
+      "speakLineZh": "記住考意：boundary＝警戒線。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -251,11 +251,11 @@
       "headword": "stink",
       "inVocab": false,
       "senseAnchor": "臭味",
-      "roleInScript": "臭味",
+      "roleInScript": "臭味角色",
       "humorDevice": "story",
       "zhGloss": "臭味",
-      "speakLineEn": "Cue the 臭味: stink walks on and the gag sticks.",
-      "speakLineZh": "請「臭味」出場：stink 一上場梗就黏住——臭味。",
+      "speakLineEn": "In the passage, stink signals a shift toward \"臭味\".",
+      "speakLineZh": "文中 stink 標示語氣轉向「臭味」。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -266,11 +266,11 @@
       "headword": "selfie",
       "inVocab": false,
       "senseAnchor": "自拍",
-      "roleInScript": "自拍",
+      "roleInScript": "自拍角色",
       "humorDevice": "story",
       "zhGloss": "自拍",
-      "speakLineEn": "Cue the 自拍: selfie walks on and the gag sticks.",
-      "speakLineZh": "請「自拍」出場：selfie 一上場梗就黏住——自拍。",
+      "speakLineEn": "Critics argued that the policy would selfie basic protections.",
+      "speakLineZh": "批評者主張該政策會自拍基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -281,11 +281,11 @@
       "headword": "charm",
       "inVocab": false,
       "senseAnchor": "魅力符",
-      "roleInScript": "魅力符",
+      "roleInScript": "魅力符角色",
       "humorDevice": "story",
       "zhGloss": "魅力符",
-      "speakLineEn": "Cue the 魅力符: charm walks on and the gag sticks.",
-      "speakLineZh": "請「魅力符」出場：charm 一上場梗就黏住——魅力符。",
+      "speakLineEn": "A careful reader links charm to 魅力符, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 charm 連到「魅力符」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -296,11 +296,11 @@
       "headword": "yuck",
       "inVocab": false,
       "senseAnchor": "噁",
-      "roleInScript": "噁",
+      "roleInScript": "噁角色",
       "humorDevice": "story",
       "zhGloss": "噁",
-      "speakLineEn": "Cue the 噁: yuck walks on and the gag sticks.",
-      "speakLineZh": "請「噁」出場：yuck 一上場梗就黏住——噁。",
+      "speakLineEn": "Critics argued that the policy would yuck basic protections.",
+      "speakLineZh": "批評者主張該政策會噁基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -322,6 +322,9 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P3-batch03"
+    "stage": "P3-batch03",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave1",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

@@ -10,10 +10,10 @@
     {
       "headword": "nonchalant",
       "inVocab": true,
-      "senseAnchor": "marked by blithe unconcern",
+      "senseAnchor": "冷漠的；場面：酷臉",
       "roleInScript": "酷臉",
       "humorDevice": "morphology",
-      "zhGloss": "漠不關心的；冷靜的",
+      "zhGloss": "冷漠的",
       "speakLineEn": "Do not be nonchalant about consent.",
       "speakLineZh": "對同意書別漠不關心。",
       "related": {
@@ -25,10 +25,10 @@
     {
       "headword": "nonentity",
       "inVocab": true,
-      "senseAnchor": "a person or thing of little significance",
+      "senseAnchor": "無足輕重的人／事",
       "roleInScript": "小人物",
       "humorDevice": "morphology",
-      "zhGloss": "無足輕重的人／事",
+      "zhGloss": "無足輕重的人",
       "speakLineEn": "Treat nulls as evidence, not nonentities.",
       "speakLineZh": "把虛無當證據，不是小角色。",
       "related": {
@@ -40,10 +40,10 @@
     {
       "headword": "nonplus",
       "inVocab": true,
-      "senseAnchor": "be a mystery or bewildering to",
+      "senseAnchor": "困惑；場面：愣住鍵",
       "roleInScript": "愣住鍵",
       "humorDevice": "morphology",
-      "zhGloss": "使困惑",
+      "zhGloss": "困惑",
       "speakLineEn": "Unexpected missingness can nonplus a team.",
       "speakLineZh": "意外缺失會讓團隊愣住。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "noncommittal",
       "inVocab": true,
-      "senseAnchor": "refusing to bind oneself to a particular course of action or view or the like",
+      "senseAnchor": "態度不明確的；含糊的",
       "roleInScript": "不表態",
       "humorDevice": "morphology",
-      "zhGloss": "含糊的；不表態的",
+      "zhGloss": "態度不明確的",
       "speakLineEn": "Avoid noncommittal endpoint definitions.",
       "speakLineZh": "避免含糊的終點定義。",
       "related": {
@@ -173,6 +173,8 @@
   "priority": "C",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch07"
+    "stage": "P2-batch07",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

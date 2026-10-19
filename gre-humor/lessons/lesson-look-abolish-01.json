@@ -14,13 +14,13 @@
       "step": 1,
       "name": "鉤子",
       "minutes": 0.5,
-      "content": "三個按鈕：abolish 廢法、abominate 厭惡、demolish 拆樓——按錯會變成「我很討厭這棟合法建築並拆了它」。"
+      "content": "診所三鈕：廢法、厭惡、拆樓——按錯就變成「我很討厭這棟合法建築並拆了它」。"
     },
     {
       "step": 2,
       "name": "串記劇本",
       "minutes": 2,
-      "content": "abolish＝廢除制度。abominate＝強烈厭惡。demolish＝拆毀建築。診所標語：恨≠拆≠廢，三位一體但不是同一個動作。"
+      "content": "前台先問對象：碰到法律按 abolish（廢除制度）；碰到情緒按 abominate（強烈厭惡）；碰到磚牆才輪到 demolish（拆毀建築）。abolition／abolitionist 在遊行；hate／loathing 是心情，不是工程；wreck／rubble／wreckingball 是拆後現場——標語：恨≠拆≠廢。"
     },
     {
       "step": 3,
@@ -39,7 +39,7 @@
       "name": "口令帶走",
       "minutes": 0.5,
       "content": [
-        "abolish＝廢除；abominate＝厭惡；demolish＝拆毀",
+        "abolish＝廢法；abominate＝厭惡；demolish＝拆樓",
         "先分對象：法／感／樓"
       ]
     }
@@ -86,11 +86,14 @@
     }
   ],
   "pitfalls": [
-    "不要把 abominate 當 demolish 用"
+    "不要把 abominate（厭惡）當 demolish（拆毀）用",
+    "abolish 的對象是制度／法律，不是磚牆"
   ],
   "status": "reviewed",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P3-batch03"
+    "stage": "P3-batch03",
+    "polishStage": "Q-gold",
+    "polishedAt": "2026-10-19"
   }
 }

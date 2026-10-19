@@ -4,18 +4,18 @@
   "elementLemma": "abolish-abominate-demolish",
   "titleZh": "abolish／abominate／demolish｜廢除診所",
   "titleEn": "Abolish Clinic",
-  "hook": "三個按鈕：abolish 廢法、abominate 厭惡、demolish 拆樓——按錯會變成「我很討厭這棟合法建築並拆了它」。",
-  "script": "abolish＝廢除制度。abominate＝強烈厭惡。demolish＝拆毀建築。診所標語：恨≠拆≠廢，三位一體但不是同一個動作。",
+  "hook": "診所三鈕：廢法、厭惡、拆樓——按錯就變成「我很討厭這棟合法建築並拆了它」。",
+  "script": "前台先問對象：碰到法律按 abolish（廢除制度）；碰到情緒按 abominate（強烈厭惡）；碰到磚牆才輪到 demolish（拆毀建築）。abolition／abolitionist 在遊行；hate／loathing 是心情，不是工程；wreck／rubble／wreckingball 是拆後現場——標語：恨≠拆≠廢。",
   "members": [
     {
       "headword": "abolish",
       "inVocab": true,
-      "senseAnchor": "do away with",
+      "senseAnchor": "廢除；廢止（制度／法令）",
       "roleInScript": "廢法鈕",
       "humorDevice": "lookalike",
-      "zhGloss": "廢除",
-      "speakLineEn": "Cue the 廢法鈕: abolish walks on and the gag sticks.",
-      "speakLineZh": "請「廢法鈕」出場：abolish 一上場梗就黏住——廢除。",
+      "zhGloss": "廢除；廢止（制度／法令）",
+      "speakLineEn": "Slavery was abolished in the mid-19th century in America and in Russia.",
+      "speakLineZh": "美國與俄國於十九世紀中葉廢除了奴隸制。",
       "related": {
         "synonyms": "",
         "antonyms": "establish, institute"
@@ -25,12 +25,12 @@
     {
       "headword": "abominate",
       "inVocab": true,
-      "senseAnchor": "to hate or loathe intensely",
+      "senseAnchor": "強烈厭惡；強烈反感",
       "roleInScript": "厭惡臉",
       "humorDevice": "lookalike",
-      "zhGloss": "厭惡",
-      "speakLineEn": "Cue the 厭惡臉: abominate walks on and the gag sticks.",
-      "speakLineZh": "請「厭惡臉」出場：abominate 一上場梗就黏住——厭惡。",
+      "zhGloss": "強烈厭惡；強烈反感；憎惡",
+      "speakLineEn": "She abominated cruelty even when it was dressed as tradition.",
+      "speakLineZh": "即使殘酷被包裝成傳統，她仍強烈厭惡。",
       "related": {
         "synonyms": "abhor, detest, execrate, loathe",
         "antonyms": "love"
@@ -40,12 +40,12 @@
     {
       "headword": "demolish",
       "inVocab": true,
-      "senseAnchor": "destroy completely; humiliate or depress completely",
+      "senseAnchor": "破壞；徹底摧毀",
       "roleInScript": "拆樓錘",
       "humorDevice": "lookalike",
-      "zhGloss": "拆毀",
-      "speakLineEn": "Cue the 拆樓錘: demolish walks on and the gag sticks.",
-      "speakLineZh": "請「拆樓錘」出場：demolish 一上場梗就黏住——拆毀。",
+      "zhGloss": "破壞；徹底摧毀；拆毀（建築或比喻擊垮）",
+      "speakLineEn": "The city voted to demolish the abandoned warehouse before rebuilding.",
+      "speakLineZh": "市議會決議先拆毀廢棄倉庫再重建。",
       "related": {
         "synonyms": "pulverize, pulverise, crush, smash, destroy",
         "antonyms": ""
@@ -55,12 +55,12 @@
     {
       "headword": "abolition",
       "inVocab": true,
-      "senseAnchor": "廢除",
+      "senseAnchor": "廢除；廢止（制度／法令）",
       "roleInScript": "廢除令",
       "humorDevice": "lookalike",
-      "zhGloss": "廢除",
-      "speakLineEn": "Cue the 廢除令: abolition walks on and the gag sticks.",
-      "speakLineZh": "請「廢除令」出場：abolition 一上場梗就黏住——廢除。",
+      "zhGloss": "廢除；廢止（制度／法令）",
+      "speakLineEn": "Abolition of the fee did not abolish the underlying shortage.",
+      "speakLineZh": "廢除費用並沒有消除底層短缺。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -70,12 +70,12 @@
     {
       "headword": "abolitionist",
       "inVocab": true,
-      "senseAnchor": "廢除論者",
+      "senseAnchor": "廢除論者；主張廢止某制度者",
       "roleInScript": "遊行牌",
       "humorDevice": "lookalike",
-      "zhGloss": "廢除論者",
-      "speakLineEn": "Cue the 遊行牌: abolitionist walks on and the gag sticks.",
-      "speakLineZh": "請「遊行牌」出場：abolitionist 一上場梗就黏住——廢除論者。",
+      "zhGloss": "廢除論者；主張廢止某制度者",
+      "speakLineEn": "The abolitionist framed the debate as a moral, not merely legal, question.",
+      "speakLineZh": "廢除論者把辯論框成道德問題，而不只是法律問題。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -85,12 +85,12 @@
     {
       "headword": "hate",
       "inVocab": false,
-      "senseAnchor": "恨",
-      "roleInScript": "恨",
+      "senseAnchor": "憎恨（情緒）",
+      "roleInScript": "恨意貼紙",
       "humorDevice": "story",
-      "zhGloss": "恨",
-      "speakLineEn": "Cue the 恨: hate walks on and the gag sticks.",
-      "speakLineZh": "請「恨」出場：hate 一上場梗就黏住——恨。",
+      "zhGloss": "憎恨（情緒）",
+      "speakLineEn": "Hate is a feeling; demolish is an action against a building.",
+      "speakLineZh": "恨是情緒；demolish 是對建築的動作。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -100,12 +100,12 @@
     {
       "headword": "wreck",
       "inVocab": false,
-      "senseAnchor": "殘骸",
-      "roleInScript": "殘骸",
+      "senseAnchor": "殘骸；毀壞後的殘餘",
+      "roleInScript": "殘骸堆",
       "humorDevice": "story",
-      "zhGloss": "殘骸",
-      "speakLineEn": "Cue the 殘骸: wreck walks on and the gag sticks.",
-      "speakLineZh": "請「殘骸」出場：wreck 一上場梗就黏住——殘骸。",
+      "zhGloss": "殘骸；毀壞後的殘餘",
+      "speakLineEn": "After the fire, only a wreck of the archive remained.",
+      "speakLineZh": "火災後檔案室只剩殘骸。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -115,12 +115,12 @@
     {
       "headword": "law",
       "inVocab": false,
-      "senseAnchor": "法律",
-      "roleInScript": "法律",
+      "senseAnchor": "法律；法令（常作廢除對象）",
+      "roleInScript": "法條櫃",
       "humorDevice": "story",
-      "zhGloss": "法律",
-      "speakLineEn": "Cue the 法律: law walks on and the gag sticks.",
-      "speakLineZh": "請「法律」出場：law 一上場梗就黏住——法律。",
+      "zhGloss": "法律；法令（常作廢除對象）",
+      "speakLineEn": "Abolish targets a law or practice, not a concrete wall.",
+      "speakLineZh": "abolish 對準法律或慣例，不是水泥牆。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -130,12 +130,12 @@
     {
       "headword": "building",
       "inVocab": false,
-      "senseAnchor": "建築",
-      "roleInScript": "建築",
+      "senseAnchor": "建築；樓宇（常作拆毀對象）",
+      "roleInScript": "待拆樓",
       "humorDevice": "story",
-      "zhGloss": "建築",
-      "speakLineEn": "Cue the 建築: building walks on and the gag sticks.",
-      "speakLineZh": "請「建築」出場：building 一上場梗就黏住——建築。",
+      "zhGloss": "建築；樓宇（常作拆毀對象）",
+      "speakLineEn": "If the object is a building, reach for demolish, not abominate.",
+      "speakLineZh": "若對象是建築，該用 demolish，不是 abominate。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -145,12 +145,12 @@
     {
       "headword": "button",
       "inVocab": false,
-      "senseAnchor": "按鈕",
-      "roleInScript": "按鈕",
+      "senseAnchor": "按鈕；操作鍵",
+      "roleInScript": "三色按鈕",
       "humorDevice": "story",
-      "zhGloss": "按鈕",
-      "speakLineEn": "Cue the 按鈕: button walks on and the gag sticks.",
-      "speakLineZh": "請「按鈕」出場：button 一上場梗就黏住——按鈕。",
+      "zhGloss": "按鈕；操作鍵",
+      "speakLineEn": "Choose the clinic button that matches object and intent.",
+      "speakLineZh": "選與對象和意圖相符的診所按鈕。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -160,12 +160,12 @@
     {
       "headword": "signage",
       "inVocab": false,
-      "senseAnchor": "招牌",
-      "roleInScript": "招牌",
+      "senseAnchor": "招牌；標示牌",
+      "roleInScript": "診所招牌",
       "humorDevice": "story",
-      "zhGloss": "招牌",
-      "speakLineEn": "Cue the 招牌: signage walks on and the gag sticks.",
-      "speakLineZh": "請「招牌」出場：signage 一上場梗就黏住——招牌。",
+      "zhGloss": "招牌；標示牌",
+      "speakLineEn": "Clear signage keeps hate, law, and rubble in separate lanes.",
+      "speakLineZh": "清楚招牌讓恨、法、瓦礫各走各道。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -175,12 +175,12 @@
     {
       "headword": "wreckingball",
       "inVocab": false,
-      "senseAnchor": "拆遷球",
-      "roleInScript": "拆遷球",
+      "senseAnchor": "拆遷球；場面：拆遷吊球",
+      "roleInScript": "拆遷吊球",
       "humorDevice": "story",
       "zhGloss": "拆遷球",
-      "speakLineEn": "Cue the 拆遷球: wreckingball walks on and the gag sticks.",
-      "speakLineZh": "請「拆遷球」出場：wreckingball 一上場梗就黏住——拆遷球。",
+      "speakLineEn": "A wrecking ball belongs to demolish, not to abominate.",
+      "speakLineZh": "拆遷球屬於 demolish，不屬於 abominate。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -190,12 +190,12 @@
     {
       "headword": "loathing",
       "inVocab": false,
-      "senseAnchor": "憎惡",
-      "roleInScript": "憎惡",
+      "senseAnchor": "憎惡；強烈厭惡",
+      "roleInScript": "憎惡溫度計",
       "humorDevice": "story",
-      "zhGloss": "憎惡",
-      "speakLineEn": "Cue the 憎惡: loathing walks on and the gag sticks.",
-      "speakLineZh": "請「憎惡」出場：loathing 一上場梗就黏住——憎惡。",
+      "zhGloss": "憎惡；強烈厭惡",
+      "speakLineEn": "Loathing can be intense without authorizing demolition.",
+      "speakLineZh": "憎惡可以很強烈，但不授權拆樓。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,12 +205,12 @@
     {
       "headword": "rubble",
       "inVocab": false,
-      "senseAnchor": "瓦礫",
-      "roleInScript": "瓦礫",
+      "senseAnchor": "瓦礫；碎石殘塊",
+      "roleInScript": "瓦礫堆",
       "humorDevice": "story",
-      "zhGloss": "瓦礫",
-      "speakLineEn": "Cue the 瓦礫: rubble walks on and the gag sticks.",
-      "speakLineZh": "請「瓦礫」出場：rubble 一上場梗就黏住——瓦礫。",
+      "zhGloss": "瓦礫；碎石殘塊",
+      "speakLineEn": "Rubble is what remains after someone chose demolish.",
+      "speakLineZh": "瓦礫是有人按下 demolish 之後留下的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -219,11 +219,12 @@
     }
   ],
   "reviewHooks": [
-    "abolish＝廢除；abominate＝厭惡；demolish＝拆毀",
+    "abolish＝廢法；abominate＝厭惡；demolish＝拆樓",
     "先分對象：法／感／樓"
   ],
   "pitfalls": [
-    "不要把 abominate 當 demolish 用"
+    "不要把 abominate（厭惡）當 demolish（拆毀）用",
+    "abolish 的對象是制度／法律，不是磚牆"
   ],
   "lessonRefs": [
     "lesson-look-abolish-01"
@@ -232,6 +233,9 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P3-batch03"
+    "stage": "P3-batch03",
+    "polishStage": "Q-gold",
+    "polishedAt": "2026-10-19",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

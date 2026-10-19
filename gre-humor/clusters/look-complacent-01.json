@@ -5,15 +5,15 @@
   "titleZh": "complacent ↔ complaisant｜自滿／討好化妝間",
   "titleEn": "Complacent vs Complaisant Vanity",
   "hook": "自滿臉對討好臉——化妝間兩面鏡。",
-  "script": "complaisant／complaisance；自滿道具 smug／fawning。",
+  "script": "complaisant／complaisance；自滿道具 smug／fawning。形近對決：先分清語意軸，再對號入座。登場：complaisant（討好臉）、complaisance（殷勤）、smug（自鳴得意）、ingratiating（討好）、fawning（奉承）、smugness（沾沾自喜）。",
   "members": [
     {
       "headword": "complaisant",
       "inVocab": true,
-      "senseAnchor": "showing a cheerful willingness to do favors for others",
+      "senseAnchor": "順從的；場面：討好臉",
       "roleInScript": "討好臉",
       "humorDevice": "lookalike",
-      "zhGloss": "討好順從",
+      "zhGloss": "順從的",
       "speakLineEn": "GRE tip: complaisant ~ 討好順從; keep the tone straight.",
       "speakLineZh": "GRE 提示：complaisant 約「討好順從」——抓住語氣。",
       "related": {
@@ -25,10 +25,10 @@
     {
       "headword": "complaisance",
       "inVocab": true,
-      "senseAnchor": "a disposition or tendency to yield to the will of others",
+      "senseAnchor": "順從；場面：殷勤",
       "roleInScript": "殷勤",
       "humorDevice": "lookalike",
-      "zhGloss": "殷勤討好",
+      "zhGloss": "順從",
       "speakLineEn": "GRE tip: complaisance ~ 殷勤討好; keep the tone straight.",
       "speakLineZh": "GRE 提示：complaisance 約「殷勤討好」——抓住語氣。",
       "related": {
@@ -40,10 +40,10 @@
     {
       "headword": "smug",
       "inVocab": true,
-      "senseAnchor": "marked by excessive complacency or self-satisfaction",
-      "roleInScript": "自鳴得意",
+      "senseAnchor": "自命不凡的人；自鳴得意",
+      "roleInScript": "自鳴得意角色",
       "humorDevice": "story",
-      "zhGloss": "自鳴得意",
+      "zhGloss": "自命不凡的人",
       "speakLineEn": "GRE tip: smug ~ 自鳴得意; keep the tone straight.",
       "speakLineZh": "GRE 提示：smug 約「自鳴得意」——抓住語氣。",
       "related": {
@@ -55,10 +55,10 @@
     {
       "headword": "ingratiating",
       "inVocab": true,
-      "senseAnchor": "gain favor with somebody by deliberate efforts; capable of winning favor",
+      "senseAnchor": "討人喜歡的；奉迎的",
       "roleInScript": "討好",
       "humorDevice": "story",
-      "zhGloss": "討好的",
+      "zhGloss": "討人喜歡的；奉迎的",
       "speakLineEn": "GRE tip: ingratiating ~ 討好的; keep the tone straight.",
       "speakLineZh": "GRE 提示：ingratiating 約「討好的」——抓住語氣。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "fawning",
       "inVocab": false,
-      "senseAnchor": "奉承",
-      "roleInScript": "奉承",
+      "senseAnchor": "奉承；甜言討好",
+      "roleInScript": "奉承角色",
       "humorDevice": "story",
-      "zhGloss": "奉承",
+      "zhGloss": "奉承；甜言討好",
       "speakLineEn": "GRE tip: fawning ~ 奉承; keep the tone straight.",
       "speakLineZh": "GRE 提示：fawning 約「奉承」——抓住語氣。",
       "related": {
@@ -86,7 +86,7 @@
       "headword": "smugness",
       "inVocab": false,
       "senseAnchor": "沾沾自喜",
-      "roleInScript": "沾沾自喜",
+      "roleInScript": "沾沾自喜角色",
       "humorDevice": "story",
       "zhGloss": "沾沾自喜",
       "speakLineEn": "GRE tip: smugness ~ 沾沾自喜; keep the tone straight.",
@@ -100,10 +100,10 @@
     {
       "headword": "smirk",
       "inVocab": true,
-      "senseAnchor": "a smile expressing smugness or scorn instead of pleasure; smile affectedly or derisively",
-      "roleInScript": "坏笑",
+      "senseAnchor": "假笑；坏笑",
+      "roleInScript": "坏笑角色",
       "humorDevice": "story",
-      "zhGloss": "坏笑",
+      "zhGloss": "假笑",
       "speakLineEn": "GRE tip: smirk ~ 坏笑; keep the tone straight.",
       "speakLineZh": "GRE 提示：smirk 約「坏笑」——抓住語氣。",
       "related": {
@@ -116,7 +116,7 @@
       "headword": "flatterer",
       "inVocab": false,
       "senseAnchor": "諂媚者",
-      "roleInScript": "諂媚者",
+      "roleInScript": "諂媚者角色",
       "humorDevice": "story",
       "zhGloss": "諂媚者",
       "speakLineEn": "GRE tip: flatterer ~ 諂媚者; keep the tone straight.",
@@ -131,7 +131,7 @@
       "headword": "makeup",
       "inVocab": false,
       "senseAnchor": "化妝",
-      "roleInScript": "化妝",
+      "roleInScript": "化妝角色",
       "humorDevice": "story",
       "zhGloss": "化妝",
       "speakLineEn": "GRE tip: makeup ~ 化妝; keep the tone straight.",
@@ -157,6 +157,9 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P3-batch01"
+    "stage": "P3-batch01",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave3",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

@@ -20,7 +20,7 @@
       "step": 2,
       "name": "串記劇本",
       "minutes": 2,
-      "content": "acerbity/acquisitive/acrobat/adduce 先入籃。清倉廣播：這不是亂打折，是差集點名；每個詞報到時大聲念釋義，防止魚目混珠。"
+      "content": "acerbity/acquisitive/acrobat/adduce 先入籃。清倉廣播：這不是亂打折，是差集點名；每個詞報到時大聲念釋義，防止魚目混珠。串記：同一世界觀裡，每個詞都有固定動作位。登場：acerbity（席-尖酸刻薄）、acquisitive（席-貪婪的）、acrobat（席-特技演員）、adduce（席-舉出；引）、adherent（席-連貫的；）、adjourn（席-延期）。"
     },
     {
       "step": 3,
@@ -91,6 +91,8 @@
   "status": "reviewed",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P4-batch01"
+    "stage": "P4-batch01",
+    "polishStage": "Q-wave2",
+    "polishedAt": "2026-10-19"
   }
 }

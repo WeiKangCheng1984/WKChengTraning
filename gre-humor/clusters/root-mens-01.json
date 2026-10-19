@@ -25,7 +25,7 @@
     {
       "headword": "measurement",
       "inVocab": false,
-      "senseAnchor": "測量",
+      "senseAnchor": "測量；場面：量測過程",
       "roleInScript": "量測過程",
       "humorDevice": "morphology",
       "zhGloss": "測量",
@@ -85,7 +85,7 @@
     {
       "headword": "immense",
       "inVocab": false,
-      "senseAnchor": "巨大的",
+      "senseAnchor": "巨大的；場面：尺不夠大",
       "roleInScript": "尺不夠大",
       "humorDevice": "morphology",
       "zhGloss": "巨大的",
@@ -115,10 +115,10 @@
     {
       "headword": "commensurate",
       "inVocab": true,
-      "senseAnchor": "corresponding in size or degree or extent",
+      "senseAnchor": "同等大小的；相稱的",
       "roleInScript": "對齊比例",
       "humorDevice": "morphology",
-      "zhGloss": "相稱的；成比例的",
+      "zhGloss": "同等大小的",
       "speakLineEn": "Rewards should be commensurate with contribution.",
       "speakLineZh": "報酬應與貢獻相稱。",
       "related": {
@@ -130,7 +130,7 @@
     {
       "headword": "dimension",
       "inVocab": false,
-      "senseAnchor": "維度",
+      "senseAnchor": "維度；場面：量的方向",
       "roleInScript": "量的方向",
       "humorDevice": "story",
       "zhGloss": "維度",
@@ -145,7 +145,7 @@
     {
       "headword": "scale",
       "inVocab": false,
-      "senseAnchor": "尺度",
+      "senseAnchor": "尺度；場面：量尺",
       "roleInScript": "量尺",
       "humorDevice": "story",
       "zhGloss": "尺度",
@@ -175,7 +175,7 @@
     {
       "headword": "tiny",
       "inVocab": false,
-      "senseAnchor": "微小的",
+      "senseAnchor": "微小的；場面：小到難量",
       "roleInScript": "小到難量",
       "humorDevice": "story",
       "zhGloss": "微小的",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch03"
+    "stage": "P2-batch03",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

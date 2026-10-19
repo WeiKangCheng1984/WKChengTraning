@@ -10,10 +10,10 @@
     {
       "headword": "pledge",
       "inVocab": true,
-      "senseAnchor": "a deposit of personal property as security for a debt; someone accepted for membership but not yet fully admitted to the group",
+      "senseAnchor": "保證；場面：崖邊發誓",
       "roleInScript": "崖邊發誓",
       "humorDevice": "story",
-      "zhGloss": "保證；誓言；質押",
+      "zhGloss": "保證",
       "speakLineEn": "She pledged to uphold the committee’s standards.",
       "speakLineZh": "她誓言維護委員會標準。",
       "related": {
@@ -40,10 +40,10 @@
     {
       "headword": "hedge",
       "inVocab": true,
-      "senseAnchor": "to avoid giving a direct answer",
+      "senseAnchor": "避免正面回答；樹籬",
       "roleInScript": "邊緣的保護籬",
       "humorDevice": "story",
-      "zhGloss": "樹籬；避險；防範；閃爍其詞",
+      "zhGloss": "避免正面回答",
       "speakLineEn": "Investors hedged against currency swings.",
       "speakLineZh": "投資人針對匯率波動做避險。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "badger",
       "inVocab": true,
-      "senseAnchor": "a native or resident of Wisconsin; sturdy carnivorous burrowing mammal with strong claws; widely distributed in the northern hemisphere",
+      "senseAnchor": "騷擾；煩擾",
       "roleInScript": "邊緣獾纠缠",
       "humorDevice": "story",
-      "zhGloss": "獾；纠缠不休",
+      "zhGloss": "騷擾；煩擾",
       "speakLineEn": "Stop badgering the witness with the same question.",
       "speakLineZh": "別用同一問題纠缠證人。",
       "related": {
@@ -86,11 +86,11 @@
       "headword": "wedge",
       "inVocab": false,
       "senseAnchor": "楔子",
-      "roleInScript": "楔子",
+      "roleInScript": "楔子角色",
       "humorDevice": "morphology",
       "zhGloss": "楔子",
-      "speakLineEn": "Cue the 楔子: wedge walks on and the gag sticks.",
-      "speakLineZh": "請「楔子」出場：wedge 一上場梗就黏住——楔子。",
+      "speakLineEn": "Critics argued that the policy would wedge basic protections.",
+      "speakLineZh": "批評者主張該政策會楔子基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -104,8 +104,8 @@
       "roleInScript": "疏浚鏟",
       "humorDevice": "morphology",
       "zhGloss": "疏浚",
-      "speakLineEn": "Cue the 疏浚鏟: dredge walks on and the gag sticks.",
-      "speakLineZh": "請「疏浚鏟」出場：dredge 一上場梗就黏住——疏浚。",
+      "speakLineEn": "In the passage, dredge signals a shift toward \"疏浚\".",
+      "speakLineZh": "文中 dredge 標示語氣轉向「疏浚」。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -119,8 +119,8 @@
       "roleInScript": "承認章",
       "humorDevice": "morphology",
       "zhGloss": "承認",
-      "speakLineEn": "Cue the 承認章: acknowledge walks on and the gag sticks.",
-      "speakLineZh": "請「承認章」出場：acknowledge 一上場梗就黏住——承認。",
+      "speakLineEn": "Critics argued that the policy would acknowledge basic protections.",
+      "speakLineZh": "批評者主張該政策會承認基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -134,8 +134,8 @@
       "roleInScript": "知識盒",
       "humorDevice": "morphology",
       "zhGloss": "知識",
-      "speakLineEn": "Cue the 知識盒: knowledge walks on and the gag sticks.",
-      "speakLineZh": "請「知識盒」出場：knowledge 一上場梗就黏住——知識。",
+      "speakLineEn": "Picture the 知識盒: the word knowledge means 知識.",
+      "speakLineZh": "想像「知識盒」：knowledge＝知識。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -162,6 +162,9 @@
   "qualityGate": {
     "reviewedAt": "2026-10-18",
     "note": "Stage-1 promote: aligned with tract lesson template",
-    "thickenedAt": "P4-batch01"
+    "thickenedAt": "P4-batch01",
+    "polishStage": "Q-wave2",
+    "polishedAt": "2026-10-19",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

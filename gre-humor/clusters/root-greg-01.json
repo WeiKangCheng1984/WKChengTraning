@@ -10,10 +10,10 @@
     {
       "headword": "gregarious",
       "inVocab": true,
-      "senseAnchor": "likely to seek or enjoy the company of others",
+      "senseAnchor": "愛社交的；合群的",
       "roleInScript": "愛待在群裡",
       "humorDevice": "morphology",
-      "zhGloss": "合群的",
+      "zhGloss": "愛社交的",
       "speakLineEn": "Gregarious networking still needs quiet writing time.",
       "speakLineZh": "合群交際仍需安靜寫作時間。",
       "related": {
@@ -25,7 +25,7 @@
     {
       "headword": "congregate",
       "inVocab": false,
-      "senseAnchor": "聚集",
+      "senseAnchor": "聚集；場面：聚成一群",
       "roleInScript": "聚成一群",
       "humorDevice": "morphology",
       "zhGloss": "聚集",
@@ -40,10 +40,10 @@
     {
       "headword": "segregate",
       "inVocab": true,
-      "senseAnchor": "someone who is or has been segregated; separate by race or religion; practice a policy of racial segregation",
+      "senseAnchor": "隔離的；隔絕的",
       "roleInScript": "拆群隔離",
       "humorDevice": "morphology",
-      "zhGloss": "隔離；分開",
+      "zhGloss": "隔離的；隔絕的",
       "speakLineEn": "Segregate exploratory from confirmatory analyses.",
       "speakLineZh": "把探索與驗證分析隔離。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "egregious",
       "inVocab": true,
-      "senseAnchor": "conspicuously and outrageously bad or reprehensible",
+      "senseAnchor": "臭名昭著的；過分的",
       "roleInScript": "壞到出群",
       "humorDevice": "morphology",
-      "zhGloss": "極壞的；過分的",
+      "zhGloss": "臭名昭著的；過分的",
       "speakLineEn": "Egregious selective reporting invites sanctions.",
       "speakLineZh": "過分選擇性報告招致處罰。",
       "related": {
@@ -115,7 +115,7 @@
     {
       "headword": "aggregative",
       "inVocab": false,
-      "senseAnchor": "聚合的",
+      "senseAnchor": "聚合的；場面：往總量靠",
       "roleInScript": "往總量靠",
       "humorDevice": "story",
       "zhGloss": "聚合的",
@@ -175,10 +175,10 @@
     {
       "headword": "gregariousness",
       "inVocab": true,
-      "senseAnchor": "the quality of being gregarious--having a dislike of being alone",
+      "senseAnchor": "羣居；場面：愛群特質",
       "roleInScript": "愛群特質",
       "humorDevice": "story",
-      "zhGloss": "合群性",
+      "zhGloss": "羣居",
       "speakLineEn": "Gregariousness ≠ scientific rigor.",
       "speakLineZh": "合群性不等於科學嚴謹。",
       "related": {
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P1-batch02"
+    "stage": "P1-batch02",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

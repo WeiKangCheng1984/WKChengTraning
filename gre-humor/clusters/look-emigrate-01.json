@@ -10,10 +10,10 @@
     {
       "headword": "emigrate",
       "inVocab": true,
-      "senseAnchor": "leave one's country of residence for a new one",
+      "senseAnchor": "移居國外；移出",
       "roleInScript": "離開本國",
       "humorDevice": "lookalike",
-      "zhGloss": "移出；僑居國外",
+      "zhGloss": "移居國外",
       "speakLineEn": "Researchers may emigrate when labs lose funding.",
       "speakLineZh": "實驗室失資時研究者可能移出。",
       "related": {
@@ -25,10 +25,10 @@
     {
       "headword": "immigrate",
       "inVocab": true,
-      "senseAnchor": "migrate to a new environment; introduce or send as immigrants",
+      "senseAnchor": "移居國內；移入",
       "roleInScript": "進入他國",
       "humorDevice": "lookalike",
-      "zhGloss": "移入",
+      "zhGloss": "移居國內",
       "speakLineEn": "Talent may immigrate toward open-science hubs.",
       "speakLineZh": "人才可能移入開放科學樞紐。",
       "related": {
@@ -85,7 +85,7 @@
     {
       "headword": "migratory",
       "inVocab": false,
-      "senseAnchor": "遷徙的",
+      "senseAnchor": "遷徙的；場面：習慣遷移的",
       "roleInScript": "習慣遷移的",
       "humorDevice": "lookalike",
       "zhGloss": "遷徙的",
@@ -115,7 +115,7 @@
     {
       "headword": "emigration",
       "inVocab": false,
-      "senseAnchor": "移出",
+      "senseAnchor": "移出；場面：離開側",
       "roleInScript": "離開側",
       "humorDevice": "lookalike",
       "zhGloss": "移出",
@@ -203,6 +203,8 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P1-batch01"
+    "stage": "P1-batch01",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

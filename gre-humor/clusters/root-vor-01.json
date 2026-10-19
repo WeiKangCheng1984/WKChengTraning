@@ -10,10 +10,10 @@
     {
       "headword": "voracious",
       "inVocab": true,
-      "senseAnchor": "having a huge appetite",
+      "senseAnchor": "貪喫的；貪婪的",
       "roleInScript": "食欲怪獸",
       "humorDevice": "morphology",
-      "zhGloss": "貪婪的；如饑似渴的",
+      "zhGloss": "貪喫的；貪婪的",
       "speakLineEn": "Be voracious for primary sources.",
       "speakLineZh": "對一手來源如饑似渴。",
       "related": {
@@ -25,10 +25,10 @@
     {
       "headword": "devour",
       "inVocab": true,
-      "senseAnchor": "destroy completely; enjoy avidly",
+      "senseAnchor": "吞食；狼吞虎嚥",
       "roleInScript": "整盤吞",
       "humorDevice": "morphology",
-      "zhGloss": "吞食；貪婪閱讀",
+      "zhGloss": "吞食；狼吞虎嚥；也可指如饑似渴地讀",
       "speakLineEn": "Do not devour only abstracts.",
       "speakLineZh": "不要只吞摘要。",
       "related": {
@@ -85,7 +85,7 @@
     {
       "headword": "vortex",
       "inVocab": false,
-      "senseAnchor": "漩渦",
+      "senseAnchor": "漩渦；場面：吃進去的渦",
       "roleInScript": "吃進去的渦",
       "humorDevice": "morphology",
       "zhGloss": "漩渦",
@@ -100,7 +100,7 @@
     {
       "headword": "devouring",
       "inVocab": false,
-      "senseAnchor": "吞食中",
+      "senseAnchor": "吞食中；場面：狂吞",
       "roleInScript": "狂吞",
       "humorDevice": "story",
       "zhGloss": "吞食中",
@@ -130,10 +130,10 @@
     {
       "headword": "glutton",
       "inVocab": true,
-      "senseAnchor": "a person who is devoted to eating and drinking to excess; musteline mammal of northern Eurasia",
+      "senseAnchor": "貪喫的；場面：吃太多",
       "roleInScript": "吃太多",
       "humorDevice": "story",
-      "zhGloss": "暴食者",
+      "zhGloss": "貪喫的",
       "speakLineEn": "Do not be a glutton for covariates.",
       "speakLineZh": "不要當共變項暴食者。",
       "related": {
@@ -145,7 +145,7 @@
     {
       "headword": "digest",
       "inVocab": false,
-      "senseAnchor": "消化",
+      "senseAnchor": "消化；場面：慢慢吃",
       "roleInScript": "慢慢吃",
       "humorDevice": "story",
       "zhGloss": "消化",
@@ -160,7 +160,7 @@
     {
       "headword": "binge",
       "inVocab": false,
-      "senseAnchor": "狂吃",
+      "senseAnchor": "狂吃；場面：一次吃爆",
       "roleInScript": "一次吃爆",
       "humorDevice": "story",
       "zhGloss": "狂吃",
@@ -188,6 +188,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P2-batch02"
+    "stage": "P2-batch02",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

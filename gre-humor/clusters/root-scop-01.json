@@ -25,7 +25,7 @@
     {
       "headword": "telescope",
       "inVocab": false,
-      "senseAnchor": "望遠鏡",
+      "senseAnchor": "望遠鏡；場面：看遠",
       "roleInScript": "看遠",
       "humorDevice": "morphology",
       "zhGloss": "望遠鏡",
@@ -40,7 +40,7 @@
     {
       "headword": "microscope",
       "inVocab": false,
-      "senseAnchor": "顯微鏡",
+      "senseAnchor": "顯微鏡；場面：看小",
       "roleInScript": "看小",
       "humorDevice": "morphology",
       "zhGloss": "顯微鏡",
@@ -55,7 +55,7 @@
     {
       "headword": "periscope",
       "inVocab": false,
-      "senseAnchor": "潛望鏡",
+      "senseAnchor": "潛望鏡；場面：抬頭偷看",
       "roleInScript": "抬頭偷看",
       "humorDevice": "morphology",
       "zhGloss": "潛望鏡",
@@ -100,7 +100,7 @@
     {
       "headword": "kaleidoscope",
       "inVocab": false,
-      "senseAnchor": "萬花筒",
+      "senseAnchor": "萬花筒；場面：碎鏡看",
       "roleInScript": "碎鏡看",
       "humorDevice": "story",
       "zhGloss": "萬花筒",
@@ -115,7 +115,7 @@
     {
       "headword": "endoscope",
       "inVocab": false,
-      "senseAnchor": "內視鏡",
+      "senseAnchor": "內視鏡；場面：往裡看",
       "roleInScript": "往裡看",
       "humorDevice": "story",
       "zhGloss": "內視鏡",
@@ -160,7 +160,7 @@
     {
       "headword": "narrow",
       "inVocab": false,
-      "senseAnchor": "變窄",
+      "senseAnchor": "變窄；場面：縮框",
       "roleInScript": "縮框",
       "humorDevice": "story",
       "zhGloss": "變窄",
@@ -175,7 +175,7 @@
     {
       "headword": "outlook",
       "inVocab": false,
-      "senseAnchor": "展望",
+      "senseAnchor": "展望；場面：往外看",
       "roleInScript": "往外看",
       "humorDevice": "story",
       "zhGloss": "展望",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P2-batch02"
+    "stage": "P2-batch02",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

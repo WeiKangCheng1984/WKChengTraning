@@ -5,17 +5,17 @@
   "titleZh": "orphan 混裝｜B區清倉籃",
   "titleEn": "p4-mix-b-01",
   "hook": "orphan 混裝｜B區清倉籃：把還在主庫晃蕩的 orphan 裝進籃子，標籤要用中文義核。",
-  "script": "acerbity/acquisitive/acrobat/adduce 先入籃。清倉廣播：這不是亂打折，是差集點名；每個詞報到時大聲念釋義，防止魚目混珠。",
+  "script": "acerbity/acquisitive/acrobat/adduce 先入籃。清倉廣播：這不是亂打折，是差集點名；每個詞報到時大聲念釋義，防止魚目混珠。串記：同一世界觀裡，每個詞都有固定動作位。登場：acerbity（席-尖酸刻薄）、acquisitive（席-貪婪的）、acrobat（席-特技演員）、adduce（席-舉出；引）、adherent（席-連貫的；）、adjourn（席-延期）。",
   "members": [
     {
       "headword": "acerbity",
       "inVocab": true,
-      "senseAnchor": "a sharp bitterness; a sharp sour taste",
+      "senseAnchor": "尖酸刻薄",
       "roleInScript": "席-尖酸刻薄",
       "humorDevice": "morphology",
       "zhGloss": "尖酸刻薄",
-      "speakLineEn": "Cue the 席-尖酸刻薄: acerbity walks on and the gag sticks.",
-      "speakLineZh": "請「席-尖酸刻薄」出場：acerbity 一上場梗就黏住——尖酸刻薄。",
+      "speakLineEn": "A clear sense of acerbity is crucial to understanding the argument.",
+      "speakLineZh": "尖酸刻薄。",
       "related": {
         "synonyms": "tartness, bitterness, acrimony, jaundice, thorniness",
         "antonyms": ""
@@ -25,12 +25,12 @@
     {
       "headword": "acquisitive",
       "inVocab": true,
-      "senseAnchor": "eager to acquire and possess things especially material possessions or ideas",
+      "senseAnchor": "貪婪的",
       "roleInScript": "席-貪婪的",
       "humorDevice": "morphology",
       "zhGloss": "貪婪的",
-      "speakLineEn": "Cue the 席-貪婪的: acquisitive walks on and the gag sticks.",
-      "speakLineZh": "請「席-貪婪的」出場：acquisitive 一上場梗就黏住——貪婪的。",
+      "speakLineEn": "An acquisitive society in which the craving for material things seems never satisfied.",
+      "speakLineZh": "貪婪的。",
       "related": {
         "synonyms": "",
         "antonyms": "unacquisitive"
@@ -40,12 +40,12 @@
     {
       "headword": "acrobat",
       "inVocab": true,
-      "senseAnchor": "an athlete who performs acts requiring skill and agility and coordination",
+      "senseAnchor": "特技演員",
       "roleInScript": "席-特技演員",
       "humorDevice": "morphology",
       "zhGloss": "特技演員",
-      "speakLineEn": "Cue the 席-特技演員: acrobat walks on and the gag sticks.",
-      "speakLineZh": "請「席-特技演員」出場：acrobat 一上場梗就黏住——特技演員。",
+      "speakLineEn": "A clear sense of acrobat is crucial to understanding the argument.",
+      "speakLineZh": "特技演員。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -55,12 +55,12 @@
     {
       "headword": "adduce",
       "inVocab": true,
-      "senseAnchor": "advance evidence for",
+      "senseAnchor": "舉出；引證",
       "roleInScript": "席-舉出；引",
       "humorDevice": "morphology",
       "zhGloss": "舉出；引證",
-      "speakLineEn": "Cue the 席-舉出；引: adduce walks on and the gag sticks.",
-      "speakLineZh": "請「席-舉出；引」出場：adduce 一上場梗就黏住——舉出；引證。",
+      "speakLineEn": "In the end, they chose to adduce what they had once defended.",
+      "speakLineZh": "舉出；引證。",
       "related": {
         "synonyms": "abduce, cite",
         "antonyms": ""
@@ -70,12 +70,12 @@
     {
       "headword": "adherent",
       "inVocab": true,
-      "senseAnchor": "someone who believes and helps to spread the doctrine of another; sticking fast",
+      "senseAnchor": "連貫的；一致的",
       "roleInScript": "席-連貫的；",
       "humorDevice": "morphology",
       "zhGloss": "連貫的；一致的",
-      "speakLineEn": "Cue the 席-連貫的；: adherent walks on and the gag sticks.",
-      "speakLineZh": "請「席-連貫的；」出場：adherent 一上場梗就黏住——連貫的；一致的。",
+      "speakLineEn": "No one wanted to be labeled a adherent in that debate.",
+      "speakLineZh": "連貫的；一致的。",
       "related": {
         "synonyms": "disciple",
         "antonyms": ""
@@ -85,12 +85,12 @@
     {
       "headword": "adjourn",
       "inVocab": true,
-      "senseAnchor": "close at the end of a session; break from a meeting or gathering",
+      "senseAnchor": "延期",
       "roleInScript": "席-延期",
       "humorDevice": "morphology",
       "zhGloss": "延期",
-      "speakLineEn": "Cue the 席-延期: adjourn walks on and the gag sticks.",
-      "speakLineZh": "請「席-延期」出場：adjourn 一上場梗就黏住——延期。",
+      "speakLineEn": "We adjourned for lunch.",
+      "speakLineZh": "延期。",
       "related": {
         "synonyms": "recess, withdraw, retire",
         "antonyms": "advance, deposit, engage, get up, turn out"
@@ -100,12 +100,12 @@
     {
       "headword": "adulterate",
       "inVocab": true,
-      "senseAnchor": "to make something impure or weaker",
+      "senseAnchor": "摻雜；場面：席-v. 摻",
       "roleInScript": "席-v. 摻",
       "humorDevice": "morphology",
-      "zhGloss": "v. 摻雜",
-      "speakLineEn": "Cue the 席-v. 摻: adulterate walks on and the gag sticks.",
-      "speakLineZh": "請「席-v. 摻」出場：adulterate 一上場梗就黏住——v. 摻雜。",
+      "zhGloss": "摻雜",
+      "speakLineEn": "Adulterate liquor.",
+      "speakLineZh": "摻雜。",
       "related": {
         "synonyms": "alloy, contaminate",
         "antonyms": "decontaminate"
@@ -115,12 +115,12 @@
     {
       "headword": "adventitious",
       "inVocab": true,
-      "senseAnchor": "associated by chance and not an integral part; - Frederick W. Robertson",
+      "senseAnchor": "外來的；偶然的",
       "roleInScript": "席-外來的；",
       "humorDevice": "morphology",
       "zhGloss": "外來的；偶然的",
-      "speakLineEn": "Cue the 席-外來的；: adventitious walks on and the gag sticks.",
-      "speakLineZh": "請「席-外來的；」出場：adventitious 一上場梗就黏住——外來的；偶然的。",
+      "speakLineEn": "They had to decide whether his misconduct was adventitious or the result of a flaw in his character.",
+      "speakLineZh": "外來的；偶然的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -130,12 +130,12 @@
     {
       "headword": "advert",
       "inVocab": true,
-      "senseAnchor": "a public promotion of some product or service; give heed (to)",
+      "senseAnchor": "留意；注意",
       "roleInScript": "席-留意；注",
       "humorDevice": "morphology",
       "zhGloss": "留意；注意",
-      "speakLineEn": "Cue the 席-留意；注: advert walks on and the gag sticks.",
-      "speakLineZh": "請「席-留意；注」出場：advert 一上場梗就黏住——留意；注意。",
+      "speakLineEn": "A clear sense of advert is crucial to understanding the argument.",
+      "speakLineZh": "留意；注意。",
       "related": {
         "synonyms": "ad, advertisement, advertizement, advertising, advertizing, attend",
         "antonyms": "miss"
@@ -145,12 +145,12 @@
     {
       "headword": "aerate",
       "inVocab": true,
-      "senseAnchor": "expose to fresh air; aerate (sewage) so as to favor the growth of organisms that decompose organic matter",
+      "senseAnchor": "充氣",
       "roleInScript": "席-充氣",
       "humorDevice": "morphology",
       "zhGloss": "充氣",
-      "speakLineEn": "Cue the 席-充氣: aerate walks on and the gag sticks.",
-      "speakLineZh": "請「席-充氣」出場：aerate 一上場梗就黏住——充氣。",
+      "speakLineEn": "Aerate your old sneakers.",
+      "speakLineZh": "充氣。",
       "related": {
         "synonyms": "air, activate, oxygenate, oxygenize, oxygenise",
         "antonyms": "inactivate"
@@ -160,12 +160,12 @@
     {
       "headword": "aerial",
       "inVocab": true,
-      "senseAnchor": "a pass to a receiver downfield from the passer; an electrical device that sends or receives radio or television signals",
+      "senseAnchor": "空中的",
       "roleInScript": "席-空中的",
       "humorDevice": "morphology",
       "zhGloss": "空中的",
-      "speakLineEn": "Cue the 席-空中的: aerial walks on and the gag sticks.",
-      "speakLineZh": "請「席-空中的」出場：aerial 一上場梗就黏住——空中的。",
+      "speakLineEn": "Small aerial creatures such as butterflies.",
+      "speakLineZh": "空中的。",
       "related": {
         "synonyms": "antenna, aeriform, airy, aery, ethereal",
         "antonyms": ""
@@ -175,12 +175,12 @@
     {
       "headword": "affected",
       "inVocab": true,
-      "senseAnchor": "have an effect upon; act physically on; have an effect upon",
+      "senseAnchor": "做作的；不自然的",
       "roleInScript": "席-做作的；",
       "humorDevice": "morphology",
       "zhGloss": "做作的；不自然的",
-      "speakLineEn": "Cue the 席-做作的；: affected walks on and the gag sticks.",
-      "speakLineZh": "請「席-做作的；」出場：affected 一上場梗就黏住——做作的；不自然的。",
+      "speakLineEn": "In the end, they chose to affected what they had once defended.",
+      "speakLineZh": "做作的；不自然的。",
       "related": {
         "synonyms": "affect, impact, touch, involve, regard, feign",
         "antonyms": "unaffected, unmoved"
@@ -190,12 +190,12 @@
     {
       "headword": "affective",
       "inVocab": true,
-      "senseAnchor": "characterized by emotion",
+      "senseAnchor": "感情的",
       "roleInScript": "席-感情的",
       "humorDevice": "morphology",
       "zhGloss": "感情的",
-      "speakLineEn": "Cue the 席-感情的: affective walks on and the gag sticks.",
-      "speakLineZh": "請「席-感情的」出場：affective 一上場梗就黏住——感情的。",
+      "speakLineEn": "The critic noted her affective approach to the evidence.",
+      "speakLineZh": "感情的。",
       "related": {
         "synonyms": "affectional, emotive",
         "antonyms": ""
@@ -205,12 +205,12 @@
     {
       "headword": "affiliation",
       "inVocab": true,
-      "senseAnchor": "a social or business relationship; the act of becoming formally connected or joined",
+      "senseAnchor": "隸屬",
       "roleInScript": "席-隸屬",
       "humorDevice": "morphology",
       "zhGloss": "隸屬",
-      "speakLineEn": "Cue the 席-隸屬: affiliation walks on and the gag sticks.",
-      "speakLineZh": "請「席-隸屬」出場：affiliation 一上場梗就黏住——隸屬。",
+      "speakLineEn": "Welcomed the affiliation of the research center with the university.",
+      "speakLineZh": "隸屬。",
       "related": {
         "synonyms": "association, tie, tie-up",
         "antonyms": "disassociation, disconnect, untie"
@@ -220,12 +220,12 @@
     {
       "headword": "affliction",
       "inVocab": true,
-      "senseAnchor": "a state of great suffering and distress due to adversity; a condition of suffering or distress due to ill health",
+      "senseAnchor": "折磨；苦難",
       "roleInScript": "席-折磨；苦",
       "humorDevice": "morphology",
       "zhGloss": "折磨；苦難",
-      "speakLineEn": "Cue the 席-折磨；苦: affliction walks on and the gag sticks.",
-      "speakLineZh": "請「席-折磨；苦」出場：affliction 一上場梗就黏住——折磨；苦難。",
+      "speakLineEn": "A clear sense of affliction is crucial to understanding the argument.",
+      "speakLineZh": "折磨；苦難。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -235,12 +235,12 @@
     {
       "headword": "affront",
       "inVocab": true,
-      "senseAnchor": "a deliberately offensive act or something producing the effect of deliberate disrespect; treat, mention, or speak to rudely",
+      "senseAnchor": "羞辱；侮辱",
       "roleInScript": "席-羞辱；侮",
       "humorDevice": "morphology",
       "zhGloss": "羞辱；侮辱",
-      "speakLineEn": "Cue the 席-羞辱；侮: affront walks on and the gag sticks.",
-      "speakLineZh": "請「席-羞辱；侮」出場：affront 一上場梗就黏住——羞辱；侮辱。",
+      "speakLineEn": "A clear sense of affront is crucial to understanding the argument.",
+      "speakLineZh": "羞辱；侮辱。",
       "related": {
         "synonyms": "insult, diss",
         "antonyms": ""
@@ -262,6 +262,9 @@
   "priority": "C",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P4-batch01"
+    "stage": "P4-batch01",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave2",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

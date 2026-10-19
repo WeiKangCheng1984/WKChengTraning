@@ -25,10 +25,10 @@
     {
       "headword": "juncture",
       "inVocab": true,
-      "senseAnchor": "an event that occurs at a critical time; a crisis situation or point in time when a critical decision must be made",
+      "senseAnchor": "連接處；關鍵點",
       "roleInScript": "關鍵接點",
       "humorDevice": "morphology",
-      "zhGloss": "時刻；接點",
+      "zhGloss": "連接處；關鍵點",
       "speakLineEn": "This juncture calls for a registered report.",
       "speakLineZh": "此刻需要註冊報告。",
       "related": {
@@ -85,10 +85,10 @@
     {
       "headword": "adjunct",
       "inVocab": true,
-      "senseAnchor": "something joined or added to another thing but not essentially a part of it",
+      "senseAnchor": "附屬物；場面：附加接上",
       "roleInScript": "附加接上",
       "humorDevice": "morphology",
-      "zhGloss": "附屬物；助理",
+      "zhGloss": "附屬物",
       "speakLineEn": "Treat a blog post as an adjunct, not primary evidence.",
       "speakLineZh": "部落格當附屬非主要證據。",
       "related": {
@@ -100,10 +100,10 @@
     {
       "headword": "subjugate",
       "inVocab": true,
-      "senseAnchor": "put down by force or intimidation; make subservient; force to submit or subdue",
+      "senseAnchor": "征服；場面：壓接統治",
       "roleInScript": "壓接統治",
       "humorDevice": "morphology",
-      "zhGloss": "征服；使屈服",
+      "zhGloss": "征服",
       "speakLineEn": "Do not subjugate methods to marketing.",
       "speakLineZh": "不要讓方法屈服於行銷。",
       "related": {
@@ -145,7 +145,7 @@
     {
       "headword": "joined",
       "inVocab": false,
-      "senseAnchor": "已連接",
+      "senseAnchor": "已連接；場面：接好了",
       "roleInScript": "接好了",
       "humorDevice": "story",
       "zhGloss": "已連接",
@@ -160,10 +160,10 @@
     {
       "headword": "rejoin",
       "inVocab": true,
-      "senseAnchor": "join again; answer back",
+      "senseAnchor": "回答；場面：重新接回",
       "roleInScript": "重新接回",
       "humorDevice": "story",
-      "zhGloss": "再加入；回答",
+      "zhGloss": "回答",
       "speakLineEn": "Rejoin the consortium after fixing leaks.",
       "speakLineZh": "修補洩漏後再加入聯盟。",
       "related": {
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P1-batch02"
+    "stage": "P1-batch02",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

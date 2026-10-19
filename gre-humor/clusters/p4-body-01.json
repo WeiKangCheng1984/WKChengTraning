@@ -10,12 +10,12 @@
     {
       "headword": "corporeal",
       "inVocab": true,
-      "senseAnchor": "having material or physical form or substance;  - Benjamin Jowett; affecting or characteristic of the body as opposed to the mind or spirit",
+      "senseAnchor": "肉體的",
       "roleInScript": "肉體標",
       "humorDevice": "contrast",
       "zhGloss": "肉體的",
-      "speakLineEn": "Cue the 肉體標: corporeal walks on and the gag sticks.",
-      "speakLineZh": "請「肉體標」出場：corporeal 一上場梗就黏住——肉體的。",
+      "speakLineEn": "That which is created is of necessity corporeal and visible and tangible.",
+      "speakLineZh": "肉體的。",
       "related": {
         "synonyms": "material, bodily, corporal, somatic",
         "antonyms": "incorporeal"
@@ -25,12 +25,12 @@
     {
       "headword": "marrow",
       "inVocab": true,
-      "senseAnchor": "the fatty network of connective tissue that fills the cavities of bones; any of various squash plants grown for their elongated fruit with smooth dark green skin and whitish flesh",
+      "senseAnchor": "精華骨髓",
       "roleInScript": "骨髓杯",
       "humorDevice": "contrast",
-      "zhGloss": "精華骨髓",
-      "speakLineEn": "Cue the 骨髓杯: marrow walks on and the gag sticks.",
-      "speakLineZh": "請「骨髓杯」出場：marrow 一上場梗就黏住——精華骨髓。",
+      "zhGloss": "骨髓",
+      "speakLineEn": "A clear sense of marrow is crucial to understanding the argument.",
+      "speakLineZh": "骨髓。",
       "related": {
         "synonyms": "kernel, substance, core, center, centre, essence",
         "antonyms": "left, right"
@@ -40,12 +40,12 @@
     {
       "headword": "morbid",
       "inVocab": true,
-      "senseAnchor": "suggesting an unhealthy mental state; suggesting the horror of death and decay",
+      "senseAnchor": "病態的；場面：黑趣味",
       "roleInScript": "黑趣味",
       "humorDevice": "contrast",
       "zhGloss": "病態的",
-      "speakLineEn": "Cue the 黑趣味: morbid walks on and the gag sticks.",
-      "speakLineZh": "請「黑趣味」出場：morbid 一上場梗就黏住——病態的。",
+      "speakLineEn": "Morbid interest in death.",
+      "speakLineZh": "病態的。",
       "related": {
         "synonyms": "ghoulish, diseased, pathologic, pathological",
         "antonyms": ""
@@ -55,12 +55,12 @@
     {
       "headword": "malinger",
       "inVocab": true,
-      "senseAnchor": "avoid responsibilities and duties, e.g., by pretending to be ill",
+      "senseAnchor": "裝病（以逃避職責）",
       "roleInScript": "假病假",
       "humorDevice": "contrast",
-      "zhGloss": "裝病",
-      "speakLineEn": "Cue the 假病假: malinger walks on and the gag sticks.",
-      "speakLineZh": "請「假病假」出場：malinger 一上場梗就黏住——裝病。",
+      "zhGloss": "裝病（以逃避職責）",
+      "speakLineEn": "In the end, they chose to malinger what they had once defended.",
+      "speakLineZh": "裝病（以逃避職責。",
       "related": {
         "synonyms": "skulk",
         "antonyms": ""
@@ -70,12 +70,12 @@
     {
       "headword": "bedraggled",
       "inVocab": true,
-      "senseAnchor": "make wet and dirty, as from rain; limp and soiled as if dragged in the mud",
+      "senseAnchor": "弄髒的；全身泥污的",
       "roleInScript": "落湯雞",
       "humorDevice": "contrast",
-      "zhGloss": "邋遢濕髒的",
-      "speakLineEn": "Cue the 落湯雞: bedraggled walks on and the gag sticks.",
-      "speakLineZh": "請「落湯雞」出場：bedraggled 一上場梗就黏住——邋遢濕髒的。",
+      "zhGloss": "弄髒的；全身泥污的",
+      "speakLineEn": "A street of bedraggled tenements.",
+      "speakLineZh": "弄髒的；全身泥污的。",
       "related": {
         "synonyms": "bedraggle, draggle, draggled, broken-down, derelict, dilapidated",
         "antonyms": ""
@@ -85,12 +85,12 @@
     {
       "headword": "carrion",
       "inVocab": true,
-      "senseAnchor": "the dead and rotting body of an animal; unfit for human food",
+      "senseAnchor": "腐肉",
       "roleInScript": "腐肉標",
       "humorDevice": "contrast",
       "zhGloss": "腐肉",
-      "speakLineEn": "Cue the 腐肉標: carrion walks on and the gag sticks.",
-      "speakLineZh": "請「腐肉標」出場：carrion 一上場梗就黏住——腐肉。",
+      "speakLineEn": "A clear sense of carrion is crucial to understanding the argument.",
+      "speakLineZh": "腐肉。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -100,12 +100,12 @@
     {
       "headword": "demean",
       "inVocab": true,
-      "senseAnchor": "reduce in worth or character, usually verbally",
+      "senseAnchor": "自貶身份；貶低",
       "roleInScript": "貶低章",
       "humorDevice": "contrast",
-      "zhGloss": "貶低",
-      "speakLineEn": "Cue the 貶低章: demean walks on and the gag sticks.",
-      "speakLineZh": "請「貶低章」出場：demean 一上場梗就黏住——貶低。",
+      "zhGloss": "自貶身份",
+      "speakLineEn": "After midnight, the noise began to demean.",
+      "speakLineZh": "自貶身份。",
       "related": {
         "synonyms": "degrade, disgrace",
         "antonyms": "aggrade, honor"
@@ -115,12 +115,12 @@
     {
       "headword": "gaunt",
       "inVocab": true,
-      "senseAnchor": "very thin especially from disease or hunger or cold",
+      "senseAnchor": "憔悴的；場面：瘦削",
       "roleInScript": "瘦削",
       "humorDevice": "contrast",
       "zhGloss": "憔悴的",
-      "speakLineEn": "Cue the 瘦削: gaunt walks on and the gag sticks.",
-      "speakLineZh": "請「瘦削」出場：gaunt 一上場梗就黏住——憔悴的。",
+      "speakLineEn": "A nightmare population of gaunt men and skeletal boys.",
+      "speakLineZh": "憔悴的。",
       "related": {
         "synonyms": "bony, cadaverous, emaciated, haggard, pinched, skeletal",
         "antonyms": "boneless"
@@ -130,12 +130,12 @@
     {
       "headword": "hale",
       "inVocab": true,
-      "senseAnchor": "a soldier of the American Revolution who was hanged as a spy by the British; his last words were supposed to have been `I only regret that I have but one life to give for my country' (1755-1776); United States astronomer who discovered that sunspots are associated with strong magnetic fields (1868-1938)",
+      "senseAnchor": "健康的；精神矍鑠的",
       "roleInScript": "紅光臉",
       "humorDevice": "contrast",
-      "zhGloss": "健壯的",
-      "speakLineEn": "Cue the 紅光臉: hale walks on and the gag sticks.",
-      "speakLineZh": "請「紅光臉」出場：hale 一上場梗就黏住——健壯的。",
+      "zhGloss": "健康的；精神矍鑠的",
+      "speakLineEn": "Picture the 紅光臉: the word hale means 健壯的.",
+      "speakLineZh": "想像「紅光臉」：hale＝健壯的。",
       "related": {
         "synonyms": "coerce, squeeze, pressure, force, haul, cart",
         "antonyms": "persuade, coax, pull, push"
@@ -149,8 +149,8 @@
       "roleInScript": "蠟黃",
       "humorDevice": "contrast",
       "zhGloss": "病黃色的",
-      "speakLineEn": "Cue the 蠟黃: sallow walks on and the gag sticks.",
-      "speakLineZh": "請「蠟黃」出場：sallow 一上場梗就黏住——病黃色的。",
+      "speakLineEn": "On the exam, sallow most nearly means a sense of \"病黃色的\".",
+      "speakLineZh": "病黃色的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -160,12 +160,12 @@
     {
       "headword": "pallid",
       "inVocab": true,
-      "senseAnchor": "abnormally deficient in color as suggesting physical or emotional distress; (of light) lacking in intensity or brightness; dim or feeble",
+      "senseAnchor": "蒼白的；無血色的",
       "roleInScript": "白紙臉",
       "humorDevice": "contrast",
-      "zhGloss": "蒼白的",
-      "speakLineEn": "Cue the 白紙臉: pallid walks on and the gag sticks.",
-      "speakLineZh": "請「白紙臉」出場：pallid 一上場梗就黏住——蒼白的。",
+      "zhGloss": "蒼白的；無血色的",
+      "speakLineEn": "The pallid face of the invalid.",
+      "speakLineZh": "蒼白的；無血色的。",
       "related": {
         "synonyms": "pale, wan, sick",
         "antonyms": "keep down, well"
@@ -175,12 +175,12 @@
     {
       "headword": "robust",
       "inVocab": true,
-      "senseAnchor": "強健的",
+      "senseAnchor": "強健的；場面：杠鈴",
       "roleInScript": "杠鈴",
       "humorDevice": "contrast",
       "zhGloss": "強健的",
-      "speakLineEn": "Cue the 杠鈴: robust walks on and the gag sticks.",
-      "speakLineZh": "請「杠鈴」出場：robust 一上場梗就黏住——強健的。",
+      "speakLineEn": "On the exam, robust most nearly means a sense of \"強健的\".",
+      "speakLineZh": "強健的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -191,11 +191,11 @@
       "headword": "chart",
       "inVocab": false,
       "senseAnchor": "圖表",
-      "roleInScript": "圖表",
+      "roleInScript": "圖表角色",
       "humorDevice": "story",
       "zhGloss": "圖表",
-      "speakLineEn": "Cue the 圖表: chart walks on and the gag sticks.",
-      "speakLineZh": "請「圖表」出場：chart 一上場梗就黏住——圖表。",
+      "speakLineEn": "Hold the meaning steady: chart means 圖表.",
+      "speakLineZh": "記住考意：chart＝圖表。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -218,6 +218,9 @@
   "priority": "C",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P4-batch01"
+    "stage": "P4-batch01",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave2",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

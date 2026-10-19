@@ -10,7 +10,7 @@
     {
       "headword": "science",
       "inVocab": false,
-      "senseAnchor": "科學",
+      "senseAnchor": "科學；場面：系統之知",
       "roleInScript": "系統之知",
       "humorDevice": "story",
       "zhGloss": "科學",
@@ -40,7 +40,7 @@
     {
       "headword": "conscience",
       "inVocab": true,
-      "senseAnchor": "良心",
+      "senseAnchor": "良心；場面：道德之知",
       "roleInScript": "道德之知",
       "humorDevice": "morphology",
       "zhGloss": "良心",
@@ -55,10 +55,10 @@
     {
       "headword": "omniscient",
       "inVocab": true,
-      "senseAnchor": "possessed of universal or complete knowledge",
+      "senseAnchor": "無所不知的；全知的",
       "roleInScript": "什麼都知",
       "humorDevice": "morphology",
-      "zhGloss": "全知的",
+      "zhGloss": "無所不知的",
       "speakLineEn": "No reviewer is omniscient across fields.",
       "speakLineZh": "沒有審稿人跨領域全知。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "prescient",
       "inVocab": true,
-      "senseAnchor": "able to know what will happen in the future",
+      "senseAnchor": "有先見之明的",
       "roleInScript": "預先知道",
       "humorDevice": "morphology",
-      "zhGloss": "有先見的",
+      "zhGloss": "有先見之明的",
       "speakLineEn": "Her prescient warning about overfitting aged well.",
       "speakLineZh": "她對過度擬合的先見經得起時間。",
       "related": {
@@ -85,7 +85,7 @@
     {
       "headword": "nescience",
       "inVocab": false,
-      "senseAnchor": "無知",
+      "senseAnchor": "無知；場面：不知狀態",
       "roleInScript": "不知狀態",
       "humorDevice": "morphology",
       "zhGloss": "無知",
@@ -115,10 +115,10 @@
     {
       "headword": "unconscionable",
       "inVocab": true,
-      "senseAnchor": "lacking a conscience; greatly exceeding bounds of reason or moderation",
+      "senseAnchor": "過度的；不合理的",
       "roleInScript": "違背良心",
       "humorDevice": "morphology",
-      "zhGloss": "良心難安的；過分的",
+      "zhGloss": "過度的；不合理的",
       "speakLineEn": "Withholding adverse results is unconscionable.",
       "speakLineZh": "隱瞞不良結果良心難安。",
       "related": {
@@ -203,6 +203,8 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P1-batch01"
+    "stage": "P1-batch01",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

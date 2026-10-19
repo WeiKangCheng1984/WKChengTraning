@@ -5,15 +5,15 @@
   "titleZh": "稀缺 ↔ 充裕｜空貨架超市續集",
   "titleEn": "Scarce vs Abundant Mart 2",
   "hook": "空貨架對爆倉堆——GRE 量感語氣續集。",
-  "script": "稀缺：exiguous／paltry／scant／puny；充裕：glut／surfeit／opulence／rife／scads。",
+  "script": "稀缺：exiguous／paltry／scant／puny；充裕：glut／surfeit／opulence／rife／scads。語義對打：兩邊語氣相反，考試選「褒貶／強弱」對的那側。登場：exiguous（稀少）、paltry（微不足道）、puny（弱小）、scant（不足）、scrimp（吝嗇）、skimp（吝給）。",
   "members": [
     {
       "headword": "exiguous",
       "inVocab": true,
-      "senseAnchor": "extremely scanty",
-      "roleInScript": "稀少",
+      "senseAnchor": "稀少的；細小的",
+      "roleInScript": "稀少角色",
       "humorDevice": "contrast",
-      "zhGloss": "稀少",
+      "zhGloss": "稀少的；細小的",
       "speakLineEn": "GRE tip: exiguous ~ 稀少; keep the tone straight.",
       "speakLineZh": "GRE 提示：exiguous 約「稀少」——抓住語氣。",
       "related": {
@@ -25,10 +25,10 @@
     {
       "headword": "paltry",
       "inVocab": true,
-      "senseAnchor": "very small and insignificant",
-      "roleInScript": "微不足道",
+      "senseAnchor": "少量的；不重要的",
+      "roleInScript": "微不足道角色",
       "humorDevice": "contrast",
-      "zhGloss": "微不足道",
+      "zhGloss": "少量的；不重要的",
       "speakLineEn": "GRE tip: paltry ~ 微不足道; keep the tone straight.",
       "speakLineZh": "GRE 提示：paltry 約「微不足道」——抓住語氣。",
       "related": {
@@ -40,10 +40,10 @@
     {
       "headword": "puny",
       "inVocab": true,
-      "senseAnchor": "inferior in strength or significance; (used especially of persons) of inferior size",
-      "roleInScript": "弱小",
+      "senseAnchor": "微不足道的；弱小",
+      "roleInScript": "弱小角色",
       "humorDevice": "contrast",
-      "zhGloss": "弱小",
+      "zhGloss": "微不足道的",
       "speakLineEn": "GRE tip: puny ~ 弱小; keep the tone straight.",
       "speakLineZh": "GRE 提示：puny 約「弱小」——抓住語氣。",
       "related": {
@@ -55,10 +55,10 @@
     {
       "headword": "scant",
       "inVocab": true,
-      "senseAnchor": "work hastily or carelessly; deal with inadequately and superficially; limit in quality or quantity",
-      "roleInScript": "不足",
+      "senseAnchor": "少量；缺乏",
+      "roleInScript": "不足角色",
       "humorDevice": "contrast",
-      "zhGloss": "不足",
+      "zhGloss": "少量；缺乏",
       "speakLineEn": "GRE tip: scant ~ 不足; keep the tone straight.",
       "speakLineZh": "GRE 提示：scant 約「不足」——抓住語氣。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "scrimp",
       "inVocab": true,
-      "senseAnchor": "subsist on a meager allowance",
+      "senseAnchor": "節省；場面：吝嗇",
       "roleInScript": "吝嗇",
       "humorDevice": "contrast",
-      "zhGloss": "吝嗇節省",
+      "zhGloss": "節省",
       "speakLineEn": "GRE tip: scrimp ~ 吝嗇節省; keep the tone straight.",
       "speakLineZh": "GRE 提示：scrimp 約「吝嗇節省」——抓住語氣。",
       "related": {
@@ -85,10 +85,10 @@
     {
       "headword": "skimp",
       "inVocab": true,
-      "senseAnchor": "work hastily or carelessly; deal with inadequately and superficially; limit in quality or quantity",
+      "senseAnchor": "節儉的；場面：吝給",
       "roleInScript": "吝給",
       "humorDevice": "contrast",
-      "zhGloss": "吝於給",
+      "zhGloss": "節儉的",
       "speakLineEn": "GRE tip: skimp ~ 吝於給; keep the tone straight.",
       "speakLineZh": "GRE 提示：skimp 約「吝於給」——抓住語氣。",
       "related": {
@@ -100,10 +100,10 @@
     {
       "headword": "stint",
       "inVocab": true,
-      "senseAnchor": "an unbroken period of time during which you do something; smallest American sandpiper",
-      "roleInScript": "吝惜",
+      "senseAnchor": "吝嗇的；吝惜",
+      "roleInScript": "吝惜角色",
       "humorDevice": "contrast",
-      "zhGloss": "吝惜",
+      "zhGloss": "吝嗇的",
       "speakLineEn": "GRE tip: stint ~ 吝惜; keep the tone straight.",
       "speakLineZh": "GRE 提示：stint 約「吝惜」——抓住語氣。",
       "related": {
@@ -115,10 +115,10 @@
     {
       "headword": "anemic",
       "inVocab": true,
-      "senseAnchor": "lacking vigor or energy; relating to anemia or suffering from anemia",
+      "senseAnchor": "缺乏活力的；乏力貧血",
       "roleInScript": "乏力",
       "humorDevice": "contrast",
-      "zhGloss": "乏力貧血",
+      "zhGloss": "缺乏活力的",
       "speakLineEn": "GRE tip: anemic ~ 乏力貧血; keep the tone straight.",
       "speakLineZh": "GRE 提示：anemic 約「乏力貧血」——抓住語氣。",
       "related": {
@@ -130,10 +130,10 @@
     {
       "headword": "famine",
       "inVocab": true,
-      "senseAnchor": "an acute insufficiency; a severe shortage of food (as through crop failure) resulting in violent hunger and starvation and death",
-      "roleInScript": "饑荒",
+      "senseAnchor": "女性化的；饑荒",
+      "roleInScript": "饑荒角色",
       "humorDevice": "contrast",
-      "zhGloss": "饑荒",
+      "zhGloss": "女性化的",
       "speakLineEn": "GRE tip: famine ~ 饑荒; keep the tone straight.",
       "speakLineZh": "GRE 提示：famine 約「饑荒」——抓住語氣。",
       "related": {
@@ -145,10 +145,10 @@
     {
       "headword": "glut",
       "inVocab": true,
-      "senseAnchor": "to fill beyond capacity, especially with food",
+      "senseAnchor": "使過量；場面：過剩堆",
       "roleInScript": "過剩堆",
       "humorDevice": "contrast",
-      "zhGloss": "過剩",
+      "zhGloss": "使過量",
       "speakLineEn": "GRE tip: glut ~ 過剩; keep the tone straight.",
       "speakLineZh": "GRE 提示：glut 約「過剩」——抓住語氣。",
       "related": {
@@ -160,8 +160,8 @@
     {
       "headword": "surfeit",
       "inVocab": true,
-      "senseAnchor": "the state of being more than full; the quality of being so overabundant that prices fall",
-      "roleInScript": "過量",
+      "senseAnchor": "過量",
+      "roleInScript": "過量角色",
       "humorDevice": "contrast",
       "zhGloss": "過量",
       "speakLineEn": "GRE tip: surfeit ~ 過量; keep the tone straight.",
@@ -175,10 +175,10 @@
     {
       "headword": "opulence",
       "inVocab": true,
-      "senseAnchor": "wealth as evidenced by sumptuous living",
+      "senseAnchor": "富裕；豐富",
       "roleInScript": "豪華",
       "humorDevice": "contrast",
-      "zhGloss": "富裕豪華",
+      "zhGloss": "富裕；豐富",
       "speakLineEn": "GRE tip: opulence ~ 富裕豪華; keep the tone straight.",
       "speakLineZh": "GRE 提示：opulence 約「富裕豪華」——抓住語氣。",
       "related": {
@@ -190,10 +190,10 @@
     {
       "headword": "bounteous",
       "inVocab": true,
-      "senseAnchor": "given or giving freely",
+      "senseAnchor": "慷慨豐富",
       "roleInScript": "慷慨",
       "humorDevice": "contrast",
-      "zhGloss": "慷慨豐富",
+      "zhGloss": "慷慨的",
       "speakLineEn": "GRE tip: bounteous ~ 慷慨豐富; keep the tone straight.",
       "speakLineZh": "GRE 提示：bounteous 約「慷慨豐富」——抓住語氣。",
       "related": {
@@ -205,10 +205,10 @@
     {
       "headword": "exuberance",
       "inVocab": true,
-      "senseAnchor": "joyful enthusiasm; overflowing with eager enjoyment or approval",
-      "roleInScript": "充溢",
+      "senseAnchor": "熱情洋溢的；充溢",
+      "roleInScript": "充溢角色",
       "humorDevice": "contrast",
-      "zhGloss": "充溢",
+      "zhGloss": "熱情洋溢的",
       "speakLineEn": "GRE tip: exuberance ~ 充溢; keep the tone straight.",
       "speakLineZh": "GRE 提示：exuberance 約「充溢」——抓住語氣。",
       "related": {
@@ -220,10 +220,10 @@
     {
       "headword": "lush",
       "inVocab": true,
-      "senseAnchor": "producing abundantly",
-      "roleInScript": "茂盛",
+      "senseAnchor": "多產的；茂盛",
+      "roleInScript": "茂盛角色",
       "humorDevice": "contrast",
-      "zhGloss": "茂盛",
+      "zhGloss": "多產的",
       "speakLineEn": "GRE tip: lush ~ 茂盛; keep the tone straight.",
       "speakLineZh": "GRE 提示：lush 約「茂盛」——抓住語氣。",
       "related": {
@@ -235,10 +235,10 @@
     {
       "headword": "rife",
       "inVocab": true,
-      "senseAnchor": "most frequent or common; excessively abundant",
-      "roleInScript": "充斥",
+      "senseAnchor": "充滿的；流行的",
+      "roleInScript": "充斥角色",
       "humorDevice": "contrast",
-      "zhGloss": "充斥",
+      "zhGloss": "充滿的；流行的",
       "speakLineEn": "GRE tip: rife ~ 充斥; keep the tone straight.",
       "speakLineZh": "GRE 提示：rife 約「充斥」——抓住語氣。",
       "related": {
@@ -250,10 +250,10 @@
     {
       "headword": "scads",
       "inVocab": true,
-      "senseAnchor": "a large number or amount; any of a number of fishes of the family Carangidae",
-      "roleInScript": "大量",
+      "senseAnchor": "大量的",
+      "roleInScript": "大量角色",
       "humorDevice": "contrast",
-      "zhGloss": "大量",
+      "zhGloss": "大量的",
       "speakLineEn": "GRE tip: scads ~ 大量; keep the tone straight.",
       "speakLineZh": "GRE 提示：scads 約「大量」——抓住語氣。",
       "related": {
@@ -265,10 +265,10 @@
     {
       "headword": "superfluity",
       "inVocab": true,
-      "senseAnchor": "extreme excess",
-      "roleInScript": "多餘",
+      "senseAnchor": "過剩；奢侈品",
+      "roleInScript": "多餘角色",
       "humorDevice": "contrast",
-      "zhGloss": "多餘",
+      "zhGloss": "過剩；奢侈品",
       "speakLineEn": "GRE tip: superfluity ~ 多餘; keep the tone straight.",
       "speakLineZh": "GRE 提示：superfluity 約「多餘」——抓住語氣。",
       "related": {
@@ -280,10 +280,10 @@
     {
       "headword": "sybaritic",
       "inVocab": true,
-      "senseAnchor": "displaying luxury and furnishing gratification to the senses",
+      "senseAnchor": "驕奢淫逸的；奢侈逸樂",
       "roleInScript": "逸樂",
       "humorDevice": "contrast",
-      "zhGloss": "奢侈逸樂",
+      "zhGloss": "驕奢淫逸的",
       "speakLineEn": "GRE tip: sybaritic ~ 奢侈逸樂; keep the tone straight.",
       "speakLineZh": "GRE 提示：sybaritic 約「奢侈逸樂」——抓住語氣。",
       "related": {
@@ -295,10 +295,10 @@
     {
       "headword": "magnanimous",
       "inVocab": true,
-      "senseAnchor": "generous and forgiving",
-      "roleInScript": "寬宏",
+      "senseAnchor": "寬宏大量的",
+      "roleInScript": "寬宏角色",
       "humorDevice": "contrast",
-      "zhGloss": "寬宏",
+      "zhGloss": "寬宏大量的",
       "speakLineEn": "GRE tip: magnanimous ~ 寬宏; keep the tone straight.",
       "speakLineZh": "GRE 提示：magnanimous 約「寬宏」——抓住語氣。",
       "related": {
@@ -310,10 +310,10 @@
     {
       "headword": "ebullience",
       "inVocab": true,
-      "senseAnchor": "overflowing with eager enjoyment or approval",
-      "roleInScript": "奔放",
+      "senseAnchor": "熱情奔放的",
+      "roleInScript": "奔放角色",
       "humorDevice": "contrast",
-      "zhGloss": "奔放",
+      "zhGloss": "熱情奔放的",
       "speakLineEn": "GRE tip: ebullience ~ 奔放; keep the tone straight.",
       "speakLineZh": "GRE 提示：ebullience 約「奔放」——抓住語氣。",
       "related": {
@@ -325,10 +325,10 @@
     {
       "headword": "mint",
       "inVocab": true,
-      "senseAnchor": "(often followed by `of') a large number or amount or extent; any north temperate plant of the genus Mentha with aromatic leaves and small mauve flowers",
-      "roleInScript": "巨額",
+      "senseAnchor": "大量；造幣廠",
+      "roleInScript": "巨額角色",
       "humorDevice": "story",
-      "zhGloss": "巨額",
+      "zhGloss": "大量；造幣廠",
       "speakLineEn": "GRE tip: mint ~ 巨額; keep the tone straight.",
       "speakLineZh": "GRE 提示：mint 約「巨額」——抓住語氣。",
       "related": {
@@ -340,10 +340,10 @@
     {
       "headword": "regale",
       "inVocab": true,
-      "senseAnchor": "provide with choice or abundant food or drink",
+      "senseAnchor": "盛情款待",
       "roleInScript": "款待",
       "humorDevice": "story",
-      "zhGloss": "盛情款待",
+      "zhGloss": "款待",
       "speakLineEn": "GRE tip: regale ~ 盛情款待; keep the tone straight.",
       "speakLineZh": "GRE 提示：regale 約「盛情款待」——抓住語氣。",
       "related": {
@@ -355,10 +355,10 @@
     {
       "headword": "slash",
       "inVocab": true,
-      "senseAnchor": "a wound made by cutting; an open tract of land in a forest that is strewn with debris from logging (or fire or wind)",
+      "senseAnchor": "大量減少；大幅削減",
       "roleInScript": "削減",
       "humorDevice": "story",
-      "zhGloss": "大幅削減",
+      "zhGloss": "大量減少",
       "speakLineEn": "GRE tip: slash ~ 大幅削減; keep the tone straight.",
       "speakLineZh": "GRE 提示：slash 約「大幅削減」——抓住語氣。",
       "related": {
@@ -370,10 +370,10 @@
     {
       "headword": "decimate",
       "inVocab": true,
-      "senseAnchor": "to destroy a very large amount",
+      "senseAnchor": "大量毀壞；殺死",
       "roleInScript": "毀壞",
       "humorDevice": "story",
-      "zhGloss": "大量毀壞",
+      "zhGloss": "大量毀壞；殺死",
       "speakLineEn": "GRE tip: decimate ~ 大量毀壞; keep the tone straight.",
       "speakLineZh": "GRE 提示：decimate 約「大量毀壞」——抓住語氣。",
       "related": {
@@ -398,6 +398,9 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P3-batch01"
+    "stage": "P3-batch01",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave3",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

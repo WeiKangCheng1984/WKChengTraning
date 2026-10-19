@@ -40,10 +40,10 @@
     {
       "headword": "immerse",
       "inVocab": true,
-      "senseAnchor": "thrust or throw into; devote (oneself) fully to",
+      "senseAnchor": "沉浸；場面：泡進去",
       "roleInScript": "泡進去",
       "humorDevice": "morphology",
-      "zhGloss": "沉浸；浸泡",
+      "zhGloss": "沉浸",
       "speakLineEn": "Immerse students in real messy datasets.",
       "speakLineZh": "讓學生沉浸真實凌亂資料。",
       "related": {
@@ -70,7 +70,7 @@
     {
       "headword": "merger",
       "inVocab": true,
-      "senseAnchor": "合併",
+      "senseAnchor": "合併；場面：兩池併一",
       "roleInScript": "兩池併一",
       "humorDevice": "morphology",
       "zhGloss": "合併",
@@ -145,7 +145,7 @@
     {
       "headword": "demerge",
       "inVocab": true,
-      "senseAnchor": "分拆",
+      "senseAnchor": "分拆；場面：一池拆兩",
       "roleInScript": "一池拆兩",
       "humorDevice": "story",
       "zhGloss": "分拆",
@@ -160,7 +160,7 @@
     {
       "headword": "sink",
       "inVocab": true,
-      "senseAnchor": "下沉",
+      "senseAnchor": "下沉；場面：往下掉",
       "roleInScript": "往下掉",
       "humorDevice": "story",
       "zhGloss": "下沉",
@@ -175,7 +175,7 @@
     {
       "headword": "afloat",
       "inVocab": true,
-      "senseAnchor": "漂浮的",
+      "senseAnchor": "漂浮的；場面：還浮著",
       "roleInScript": "還浮著",
       "humorDevice": "story",
       "zhGloss": "漂浮的",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P2-batch01"
+    "stage": "P2-batch01",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

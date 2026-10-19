@@ -10,7 +10,7 @@
     {
       "headword": "value",
       "inVocab": false,
-      "senseAnchor": "價值",
+      "senseAnchor": "價值；場面：秤上讀數",
       "roleInScript": "秤上讀數",
       "humorDevice": "morphology",
       "zhGloss": "價值",
@@ -40,7 +40,7 @@
     {
       "headword": "evaluate",
       "inVocab": false,
-      "senseAnchor": "評估",
+      "senseAnchor": "評估；場面：上秤",
       "roleInScript": "上秤",
       "humorDevice": "morphology",
       "zhGloss": "評估",
@@ -55,7 +55,7 @@
     {
       "headword": "evaluation",
       "inVocab": false,
-      "senseAnchor": "評估",
+      "senseAnchor": "評估；場面：秤重報告",
       "roleInScript": "秤重報告",
       "humorDevice": "morphology",
       "zhGloss": "評估",
@@ -70,7 +70,7 @@
     {
       "headword": "valid",
       "inVocab": false,
-      "senseAnchor": "有效的",
+      "senseAnchor": "有效的；場面：認證通過",
       "roleInScript": "認證通過",
       "humorDevice": "morphology",
       "zhGloss": "有效的",
@@ -85,7 +85,7 @@
     {
       "headword": "validate",
       "inVocab": false,
-      "senseAnchor": "驗證",
+      "senseAnchor": "驗證；場面：蓋認證章",
       "roleInScript": "蓋認證章",
       "humorDevice": "morphology",
       "zhGloss": "驗證",
@@ -115,10 +115,10 @@
     {
       "headword": "valiant",
       "inVocab": true,
-      "senseAnchor": "having or showing valor",
+      "senseAnchor": "英勇的；場面：勇敢組",
       "roleInScript": "勇敢組",
       "humorDevice": "morphology",
-      "zhGloss": "勇敢的",
+      "zhGloss": "英勇的",
       "speakLineEn": "Valiant reporting includes limitations.",
       "speakLineZh": "勇敢報告包含限制。",
       "related": {
@@ -130,10 +130,10 @@
     {
       "headword": "valor",
       "inVocab": false,
-      "senseAnchor": "勇氣",
+      "senseAnchor": "勇氣；膽識",
       "roleInScript": "勇氣值",
       "humorDevice": "story",
-      "zhGloss": "勇氣",
+      "zhGloss": "勇氣；膽識",
       "speakLineEn": "Intellectual valor is correcting the record.",
       "speakLineZh": "智識勇氣是更正紀錄。",
       "related": {
@@ -145,7 +145,7 @@
     {
       "headword": "equivalent",
       "inVocab": false,
-      "senseAnchor": "相等的",
+      "senseAnchor": "相等的；場面：等值啞鈴",
       "roleInScript": "等值啞鈴",
       "humorDevice": "story",
       "zhGloss": "相等的",
@@ -175,7 +175,7 @@
     {
       "headword": "invalid",
       "inVocab": false,
-      "senseAnchor": "無效的",
+      "senseAnchor": "無效的；場面：認證失敗",
       "roleInScript": "認證失敗",
       "humorDevice": "story",
       "zhGloss": "無效的",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch04"
+    "stage": "P2-batch04",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

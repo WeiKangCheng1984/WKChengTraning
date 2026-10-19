@@ -10,7 +10,7 @@
     {
       "headword": "insomnia",
       "inVocab": false,
-      "senseAnchor": "失眠",
+      "senseAnchor": "失眠；場面：徹夜改圖",
       "roleInScript": "徹夜改圖",
       "humorDevice": "morphology",
       "zhGloss": "失眠",
@@ -25,10 +25,10 @@
     {
       "headword": "somnolent",
       "inVocab": true,
-      "senseAnchor": "making you want to sleep",
+      "senseAnchor": "無聊的；催眠的",
       "roleInScript": "會議睡著",
       "humorDevice": "morphology",
-      "zhGloss": "昏昏欲睡的",
+      "zhGloss": "無聊的；催眠的",
       "speakLineEn": "Somnolent review misses swaps.",
       "speakLineZh": "昏昏欲睡的審查錯過替換。",
       "related": {
@@ -40,7 +40,7 @@
     {
       "headword": "somnambulist",
       "inVocab": false,
-      "senseAnchor": "夢遊者",
+      "senseAnchor": "夢遊者；場面：夢遊提交",
       "roleInScript": "夢遊提交",
       "humorDevice": "morphology",
       "zhGloss": "夢遊者",
@@ -85,7 +85,7 @@
     {
       "headword": "asleep",
       "inVocab": false,
-      "senseAnchor": "睡著的",
+      "senseAnchor": "睡著的；場面：沒醒",
       "roleInScript": "沒醒",
       "humorDevice": "story",
       "zhGloss": "睡著的",
@@ -100,7 +100,7 @@
     {
       "headword": "drowsy",
       "inVocab": false,
-      "senseAnchor": "昏沉的",
+      "senseAnchor": "昏沉的；場面：想睡",
       "roleInScript": "想睡",
       "humorDevice": "story",
       "zhGloss": "昏沉的",
@@ -115,7 +115,7 @@
     {
       "headword": "nap",
       "inVocab": false,
-      "senseAnchor": "小睡",
+      "senseAnchor": "小睡；場面：短睡",
       "roleInScript": "短睡",
       "humorDevice": "story",
       "zhGloss": "小睡",
@@ -145,7 +145,7 @@
     {
       "headword": "awake",
       "inVocab": false,
-      "senseAnchor": "醒著的",
+      "senseAnchor": "醒著的；場面：清醒",
       "roleInScript": "清醒",
       "humorDevice": "story",
       "zhGloss": "醒著的",
@@ -175,7 +175,7 @@
     {
       "headword": "lullaby",
       "inVocab": false,
-      "senseAnchor": "搖籃曲",
+      "senseAnchor": "搖籃曲；場面：催睡曲",
       "roleInScript": "催睡曲",
       "humorDevice": "story",
       "zhGloss": "搖籃曲",
@@ -203,6 +203,8 @@
   "priority": "C",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch03"
+    "stage": "P2-batch03",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

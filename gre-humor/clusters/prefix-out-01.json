@@ -10,10 +10,10 @@
     {
       "headword": "outlandish",
       "inVocab": true,
-      "senseAnchor": "conspicuously or grossly unconventional or unusual",
+      "senseAnchor": "奇異的；場面：古怪燈",
       "roleInScript": "古怪燈",
       "humorDevice": "morphology",
-      "zhGloss": "古怪的；奇異的",
+      "zhGloss": "奇異的",
       "speakLineEn": "Outlandish effect sizes need skepticism.",
       "speakLineZh": "古怪效應量需要懷疑。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "outstrip",
       "inVocab": true,
-      "senseAnchor": "be or do something to a greater degree; go far ahead of",
+      "senseAnchor": "超過；場面：勝出箭",
       "roleInScript": "勝出箭",
       "humorDevice": "morphology",
-      "zhGloss": "超越；勝過",
+      "zhGloss": "超過",
       "speakLineEn": "Transparency can outstrip hype.",
       "speakLineZh": "透明能勝過炒作。",
       "related": {
@@ -145,7 +145,7 @@
     {
       "headword": "outer",
       "inVocab": true,
-      "senseAnchor": "外部的",
+      "senseAnchor": "外部的；場面：外圈",
       "roleInScript": "外圈",
       "humorDevice": "story",
       "zhGloss": "外部的",
@@ -175,7 +175,7 @@
     {
       "headword": "outlier-ward",
       "inVocab": true,
-      "senseAnchor": "朝離群",
+      "senseAnchor": "朝離群；場面：離群方向",
       "roleInScript": "離群方向",
       "humorDevice": "story",
       "zhGloss": "朝離群",
@@ -203,6 +203,8 @@
   "priority": "C",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch07"
+    "stage": "P2-batch07",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

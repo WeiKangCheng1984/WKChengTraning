@@ -10,7 +10,7 @@
     {
       "headword": "anonymous",
       "inVocab": false,
-      "senseAnchor": "匿名的",
+      "senseAnchor": "匿名的；場面：不掛名",
       "roleInScript": "不掛名",
       "humorDevice": "morphology",
       "zhGloss": "匿名的",
@@ -25,10 +25,10 @@
     {
       "headword": "pseudonym",
       "inVocab": true,
-      "senseAnchor": "a fake name",
+      "senseAnchor": "假名；筆名",
       "roleInScript": "掛假名",
       "humorDevice": "morphology",
-      "zhGloss": "筆名；假名",
+      "zhGloss": "假名",
       "speakLineEn": "She published under a pseudonym to avoid retaliation.",
       "speakLineZh": "她用筆名發表以免報復。",
       "related": {
@@ -40,7 +40,7 @@
     {
       "headword": "synonym",
       "inVocab": false,
-      "senseAnchor": "同義詞",
+      "senseAnchor": "同義詞；場面：同義名牌",
       "roleInScript": "同義名牌",
       "humorDevice": "morphology",
       "zhGloss": "同義詞",
@@ -55,7 +55,7 @@
     {
       "headword": "antonym",
       "inVocab": false,
-      "senseAnchor": "反義詞",
+      "senseAnchor": "反義詞；場面：反義名牌",
       "roleInScript": "反義名牌",
       "humorDevice": "morphology",
       "zhGloss": "反義詞",
@@ -70,10 +70,10 @@
     {
       "headword": "misnomer",
       "inVocab": true,
-      "senseAnchor": "a wrong use of a name",
+      "senseAnchor": "用詞不當；誤稱",
       "roleInScript": "叫錯名",
       "humorDevice": "morphology",
-      "zhGloss": "誤稱；用詞不當",
+      "zhGloss": "用詞不當；誤稱",
       "speakLineEn": "Calling it a 'pilot' was a misnomer for a full trial.",
       "speakLineZh": "稱為試點其實是完整試驗的誤稱。",
       "related": {
@@ -85,10 +85,10 @@
     {
       "headword": "ignominy",
       "inVocab": true,
-      "senseAnchor": "a state of dishonor",
+      "senseAnchor": "恥辱；場面：臭名掛牌",
       "roleInScript": "臭名掛牌",
       "humorDevice": "morphology",
-      "zhGloss": "恥辱；臭名",
+      "zhGloss": "恥辱",
       "speakLineEn": "Fraud brings lasting ignominy to a lab.",
       "speakLineZh": "造假給實驗室帶來長久恥辱。",
       "related": {
@@ -100,10 +100,10 @@
     {
       "headword": "nominal",
       "inVocab": true,
-      "senseAnchor": "a phrase that can function as the subject or object of a verb; relating to or constituting or bearing or giving a name",
+      "senseAnchor": "名義上的；不重要的",
       "roleInScript": "只掛名",
       "humorDevice": "morphology",
-      "zhGloss": "名義上的；微不足道的",
+      "zhGloss": "名義上的；不重要的",
       "speakLineEn": "Nominal authorship without contribution is unethical.",
       "speakLineZh": "無貢獻的掛名作者不倫理。",
       "related": {
@@ -115,10 +115,10 @@
     {
       "headword": "renown",
       "inVocab": true,
-      "senseAnchor": "the state or quality of being widely honored and acclaimed",
+      "senseAnchor": "有名的；場面：大名",
       "roleInScript": "大名",
       "humorDevice": "morphology",
-      "zhGloss": "名聲；名望",
+      "zhGloss": "有名的",
       "speakLineEn": "Renown should not exempt anyone from audit.",
       "speakLineZh": "名望不該豁免稽核。",
       "related": {
@@ -203,6 +203,8 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P1-batch01"
+    "stage": "P1-batch01",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

@@ -25,7 +25,7 @@
     {
       "headword": "monarchy",
       "inVocab": true,
-      "senseAnchor": "君主制",
+      "senseAnchor": "君主制；場面：單冠",
       "roleInScript": "單冠",
       "humorDevice": "morphology",
       "zhGloss": "君主制",
@@ -70,7 +70,7 @@
     {
       "headword": "matriarchy",
       "inVocab": true,
-      "senseAnchor": "母系制",
+      "senseAnchor": "母系制；場面：母系冠",
       "roleInScript": "母系冠",
       "humorDevice": "morphology",
       "zhGloss": "母系制",
@@ -85,7 +85,7 @@
     {
       "headword": "patriarchy",
       "inVocab": true,
-      "senseAnchor": "父系制",
+      "senseAnchor": "父系制；場面：父系冠",
       "roleInScript": "父系冠",
       "humorDevice": "morphology",
       "zhGloss": "父系制",
@@ -115,10 +115,10 @@
     {
       "headword": "autocracy",
       "inVocab": true,
-      "senseAnchor": "a political system governed by a single individual; a political theory favoring unlimited authority by a single individual",
+      "senseAnchor": "獨裁；場面：專制帽",
       "roleInScript": "專制帽",
       "humorDevice": "morphology",
-      "zhGloss": "專制",
+      "zhGloss": "獨裁",
       "speakLineEn": "Autocracy over code review breeds bugs.",
       "speakLineZh": "程式審查專制滋生錯誤。",
       "related": {
@@ -145,10 +145,10 @@
     {
       "headword": "aristocracy",
       "inVocab": true,
-      "senseAnchor": "people born in the highest social class",
+      "senseAnchor": "貴族統治",
       "roleInScript": "貴族帽",
       "humorDevice": "story",
-      "zhGloss": "貴族統治",
+      "zhGloss": "貴族",
       "speakLineEn": "Citation aristocracy is not validity.",
       "speakLineZh": "引用貴族不是效度。",
       "related": {
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch06"
+    "stage": "P2-batch06",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

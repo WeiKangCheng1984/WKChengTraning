@@ -10,7 +10,7 @@
     {
       "headword": "navy",
       "inVocab": true,
-      "senseAnchor": "海軍",
+      "senseAnchor": "海軍；場面：艦隊",
       "roleInScript": "艦隊",
       "humorDevice": "morphology",
       "zhGloss": "海軍",
@@ -85,7 +85,7 @@
     {
       "headword": "nautical",
       "inVocab": true,
-      "senseAnchor": "relating to or involving ships or shipping or navigation or seamen",
+      "senseAnchor": "航海的",
       "roleInScript": "航海尺",
       "humorDevice": "morphology",
       "zhGloss": "航海的",
@@ -115,7 +115,7 @@
     {
       "headword": "astronaut",
       "inVocab": true,
-      "senseAnchor": "太空人",
+      "senseAnchor": "太空人；場面：太空艙",
       "roleInScript": "太空艙",
       "humorDevice": "story",
       "zhGloss": "太空人",
@@ -130,10 +130,10 @@
     {
       "headword": "nausea",
       "inVocab": true,
-      "senseAnchor": "the state that precedes vomiting; disgust so strong it makes you feel sick",
+      "senseAnchor": "噁心；厭惡",
       "roleInScript": "暈船袋",
       "humorDevice": "story",
-      "zhGloss": "噁心",
+      "zhGloss": "噁心；厭惡",
       "speakLineEn": "P-hacking should induce methodological nausea.",
       "speakLineZh": "p 值黑客應引起方法噁心感。",
       "related": {
@@ -160,10 +160,10 @@
     {
       "headword": "rudder",
       "inVocab": true,
-      "senseAnchor": "a hinged vertical airfoil mounted at the tail of an aircraft and used to make horizontal course changes; (nautical) steering mechanism consisting of a hinged vertical plate mounted at the stern of a vessel",
+      "senseAnchor": "船舵",
       "roleInScript": "船舵",
       "humorDevice": "story",
-      "zhGloss": "舵",
+      "zhGloss": "船舵",
       "speakLineEn": "Preregistration is the rudder under windy hype.",
       "speakLineZh": "預註冊是炒作風中的舵。",
       "related": {
@@ -203,6 +203,8 @@
   "priority": "C",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch05"
+    "stage": "P2-batch05",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

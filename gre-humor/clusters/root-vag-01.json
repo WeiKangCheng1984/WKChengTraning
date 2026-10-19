@@ -40,7 +40,7 @@
     {
       "headword": "vagabond",
       "inVocab": true,
-      "senseAnchor": "流浪漢",
+      "senseAnchor": "流浪漢；場面：背包客",
       "roleInScript": "背包客",
       "humorDevice": "morphology",
       "zhGloss": "流浪漢",
@@ -70,10 +70,10 @@
     {
       "headword": "extravagance",
       "inVocab": true,
-      "senseAnchor": "the quality of exceeding the appropriate limits of decorum or probability or truth; the trait of spending extravagantly",
+      "senseAnchor": "奢侈；浪費",
       "roleInScript": "奢侈帳單",
       "humorDevice": "morphology",
-      "zhGloss": "奢侈；過度",
+      "zhGloss": "奢侈；浪費",
       "speakLineEn": "Cut extravagance in secondary endpoints.",
       "speakLineZh": "削減次要終點的奢侈。",
       "related": {
@@ -85,10 +85,10 @@
     {
       "headword": "divagate",
       "inVocab": true,
-      "senseAnchor": "lose clarity or turn aside especially from the main subject of attention or course of argument in writing, thinking, or speaking",
+      "senseAnchor": "離題；偏離",
       "roleInScript": "離題散步",
       "humorDevice": "morphology",
-      "zhGloss": "離題；遊走",
+      "zhGloss": "離題；偏離",
       "speakLineEn": "Label when you divagate into exploration.",
       "speakLineZh": "離題探索時請標註。",
       "related": {
@@ -100,10 +100,10 @@
     {
       "headword": "roam",
       "inVocab": true,
-      "senseAnchor": "move about aimlessly or without any destination, often in search of food or employment",
+      "senseAnchor": "漫步；場面：漫遊鍵",
       "roleInScript": "漫遊鍵",
       "humorDevice": "story",
-      "zhGloss": "漫遊",
+      "zhGloss": "漫步",
       "speakLineEn": "Roam the literature, then lock the question.",
       "speakLineZh": "先漫遊文獻，再鎖定問題。",
       "related": {
@@ -115,10 +115,10 @@
     {
       "headword": "ramble",
       "inVocab": true,
-      "senseAnchor": "an aimless amble on a winding course; continue talking or writing in a desultory manner",
+      "senseAnchor": "漫步；場面：漫談稿",
       "roleInScript": "漫談稿",
       "humorDevice": "story",
-      "zhGloss": "漫談；漫步",
+      "zhGloss": "漫步",
       "speakLineEn": "Do not ramble past the estimand.",
       "speakLineZh": "別漫談到目標量之外。",
       "related": {
@@ -130,10 +130,10 @@
     {
       "headword": "meander",
       "inVocab": true,
-      "senseAnchor": "to move aimlessly without fixed direction",
+      "senseAnchor": "閒逛；漫步",
       "roleInScript": "蜿蜒河",
       "humorDevice": "story",
-      "zhGloss": "蜿蜒；漫步",
+      "zhGloss": "閒逛；漫步",
       "speakLineEn": "Meander in brainstorming, not in the final code.",
       "speakLineZh": "腦力激盪可蜿蜒，最終程式不行。",
       "related": {
@@ -160,7 +160,7 @@
     {
       "headword": "drift",
       "inVocab": true,
-      "senseAnchor": "漂移",
+      "senseAnchor": "漂移；場面：漂流標",
       "roleInScript": "漂流標",
       "humorDevice": "story",
       "zhGloss": "漂移",
@@ -175,10 +175,10 @@
     {
       "headword": "wayward",
       "inVocab": true,
-      "senseAnchor": "following one’s own capricious inclinations",
+      "senseAnchor": "不聽話的；任性的",
       "roleInScript": "任性路",
       "humorDevice": "story",
-      "zhGloss": "任性迷路的",
+      "zhGloss": "不聽話的；任性的",
       "speakLineEn": "Wayward tweaks belong in a sandbox.",
       "speakLineZh": "任性微調屬於沙盒。",
       "related": {
@@ -203,6 +203,8 @@
   "priority": "C",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch05"
+    "stage": "P2-batch05",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

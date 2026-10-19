@@ -10,7 +10,7 @@
     {
       "headword": "testify",
       "inVocab": false,
-      "senseAnchor": "作證",
+      "senseAnchor": "作證；場面：出庭說",
       "roleInScript": "出庭說",
       "humorDevice": "morphology",
       "zhGloss": "作證",
@@ -25,7 +25,7 @@
     {
       "headword": "testimony",
       "inVocab": true,
-      "senseAnchor": "a solemn statement made under oath; an assertion offering firsthand authentication of a fact",
+      "senseAnchor": "證詞",
       "roleInScript": "證詞本",
       "humorDevice": "morphology",
       "zhGloss": "證詞",
@@ -85,7 +85,7 @@
     {
       "headword": "protest",
       "inVocab": false,
-      "senseAnchor": "抗議",
+      "senseAnchor": "抗議；場面：舉牌",
       "roleInScript": "舉牌",
       "humorDevice": "morphology",
       "zhGloss": "抗議",
@@ -100,10 +100,10 @@
     {
       "headword": "detest",
       "inVocab": true,
-      "senseAnchor": "dislike intensely; feel antipathy or aversion towards",
+      "senseAnchor": "譴責；場面：厭惡拒證",
       "roleInScript": "厭惡拒證",
       "humorDevice": "morphology",
-      "zhGloss": "憎恨；厭惡",
+      "zhGloss": "譴責",
       "speakLineEn": "Detest fraud, not honest nulls.",
       "speakLineZh": "厭惡造假，不是誠實虛無。",
       "related": {
@@ -130,7 +130,7 @@
     {
       "headword": "contestant",
       "inVocab": false,
-      "senseAnchor": "參賽者",
+      "senseAnchor": "參賽者；場面：比賽的人",
       "roleInScript": "比賽的人",
       "humorDevice": "story",
       "zhGloss": "參賽者",
@@ -145,7 +145,7 @@
     {
       "headword": "attestation",
       "inVocab": false,
-      "senseAnchor": "證明書",
+      "senseAnchor": "證明書；場面：見證文件",
       "roleInScript": "見證文件",
       "humorDevice": "story",
       "zhGloss": "證明書",
@@ -175,7 +175,7 @@
     {
       "headword": "witness",
       "inVocab": false,
-      "senseAnchor": "證人",
+      "senseAnchor": "證人；場面：在場的人",
       "roleInScript": "在場的人",
       "humorDevice": "story",
       "zhGloss": "證人",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P2-batch02"
+    "stage": "P2-batch02",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

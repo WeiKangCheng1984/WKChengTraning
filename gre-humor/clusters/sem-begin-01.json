@@ -10,10 +10,10 @@
     {
       "headword": "commence",
       "inVocab": true,
-      "senseAnchor": "take the first step or steps in carrying out an action; set in motion, cause to start",
+      "senseAnchor": "開始；着手",
       "roleInScript": "開跑",
       "humorDevice": "contrast",
-      "zhGloss": "開始",
+      "zhGloss": "開始；着手",
       "speakLineEn": "Commence analysis only after lock.",
       "speakLineZh": "鎖定後才開始分析。",
       "related": {
@@ -40,10 +40,10 @@
     {
       "headword": "incipient",
       "inVocab": true,
-      "senseAnchor": "only partly in existence; imperfectly formed",
+      "senseAnchor": "起始的；場面：萌芽",
       "roleInScript": "萌芽",
       "humorDevice": "contrast",
-      "zhGloss": "剛開始的",
+      "zhGloss": "起始的",
       "speakLineEn": "Catch incipient bias early.",
       "speakLineZh": "及早抓萌芽偏差。",
       "related": {
@@ -55,10 +55,10 @@
     {
       "headword": "nascent",
       "inVocab": true,
-      "senseAnchor": "coming or having recently come into existence",
+      "senseAnchor": "新生的；場面：剛冒出",
       "roleInScript": "剛冒出",
       "humorDevice": "contrast",
-      "zhGloss": "新生的；萌芽的",
+      "zhGloss": "新生的",
       "speakLineEn": "Nascent fields need stronger norms.",
       "speakLineZh": "萌芽領域需要更強規範。",
       "related": {
@@ -130,7 +130,7 @@
     {
       "headword": "terminate",
       "inVocab": false,
-      "senseAnchor": "終止",
+      "senseAnchor": "終止；場面：結束",
       "roleInScript": "結束",
       "humorDevice": "contrast",
       "zhGloss": "終止",
@@ -145,7 +145,7 @@
     {
       "headword": "cessation",
       "inVocab": true,
-      "senseAnchor": "停止",
+      "senseAnchor": "停止；場面：停下來",
       "roleInScript": "停下來",
       "humorDevice": "contrast",
       "zhGloss": "停止",
@@ -160,10 +160,10 @@
     {
       "headword": "culminate",
       "inVocab": true,
-      "senseAnchor": "end, especially to reach a final or climactic stage; bring to a head or to the highest point",
+      "senseAnchor": "高潮；場面：收在高峰",
       "roleInScript": "收在高峰",
       "humorDevice": "contrast",
-      "zhGloss": "達到頂點",
+      "zhGloss": "高潮",
       "speakLineEn": "The project culminated in a public correction.",
       "speakLineZh": "專案收在公開勘誤。",
       "related": {
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P1-batch02-topup"
+    "stage": "P1-batch02-topup",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

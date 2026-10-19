@@ -85,7 +85,7 @@
     {
       "headword": "nation",
       "inVocab": false,
-      "senseAnchor": "國家",
+      "senseAnchor": "國家；場面：國界",
       "roleInScript": "國界",
       "humorDevice": "morphology",
       "zhGloss": "國家",
@@ -100,7 +100,7 @@
     {
       "headword": "national",
       "inVocab": false,
-      "senseAnchor": "國家的",
+      "senseAnchor": "國家的；場面：國立標",
       "roleInScript": "國立標",
       "humorDevice": "morphology",
       "zhGloss": "國家的",
@@ -115,7 +115,7 @@
     {
       "headword": "international",
       "inVocab": false,
-      "senseAnchor": "國際的",
+      "senseAnchor": "國際的；場面：跨國標",
       "roleInScript": "跨國標",
       "humorDevice": "morphology",
       "zhGloss": "國際的",
@@ -145,7 +145,7 @@
     {
       "headword": "renaissance",
       "inVocab": false,
-      "senseAnchor": "復興",
+      "senseAnchor": "復興；場面：再誕生",
       "roleInScript": "再誕生",
       "humorDevice": "story",
       "zhGloss": "復興",
@@ -173,6 +173,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch04"
+    "stage": "P2-batch04",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

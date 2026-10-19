@@ -14,8 +14,8 @@
       "roleInScript": "浮力燈",
       "humorDevice": "morphology",
       "zhGloss": "浮力",
-      "speakLineEn": "Cue the 浮力燈: buoyancy walks on and the gag sticks.",
-      "speakLineZh": "請「浮力燈」出場：buoyancy 一上場梗就黏住——浮力。",
+      "speakLineEn": "On the exam, buoyancy most nearly means a sense of \"浮力\".",
+      "speakLineZh": "浮力。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -25,12 +25,12 @@
     {
       "headword": "deficiency",
       "inVocab": true,
-      "senseAnchor": "缺乏",
+      "senseAnchor": "缺乏；場面：缺字燈",
       "roleInScript": "缺字燈",
       "humorDevice": "morphology",
       "zhGloss": "缺乏",
-      "speakLineEn": "Cue the 缺字燈: deficiency walks on and the gag sticks.",
-      "speakLineZh": "請「缺字燈」出場：deficiency 一上場梗就黏住——缺乏。",
+      "speakLineEn": "On the exam, deficiency most nearly means a sense of \"缺乏\".",
+      "speakLineZh": "缺乏。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -40,12 +40,12 @@
     {
       "headword": "clemency",
       "inVocab": true,
-      "senseAnchor": "寬恕",
+      "senseAnchor": "寬恕；場面：赦免燈",
       "roleInScript": "赦免燈",
       "humorDevice": "morphology",
       "zhGloss": "寬恕",
-      "speakLineEn": "Cue the 赦免燈: clemency walks on and the gag sticks.",
-      "speakLineZh": "請「赦免燈」出場：clemency 一上場梗就黏住——寬恕。",
+      "speakLineEn": "On the exam, clemency most nearly means a sense of \"寬恕\".",
+      "speakLineZh": "寬恕。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -55,12 +55,12 @@
     {
       "headword": "transparency",
       "inVocab": true,
-      "senseAnchor": "透明",
+      "senseAnchor": "透明；場面：透視燈",
       "roleInScript": "透視燈",
       "humorDevice": "morphology",
       "zhGloss": "透明",
-      "speakLineEn": "Cue the 透視燈: transparency walks on and the gag sticks.",
-      "speakLineZh": "請「透視燈」出場：transparency 一上場梗就黏住——透明。",
+      "speakLineEn": "On the exam, transparency most nearly means a sense of \"透明\".",
+      "speakLineZh": "透明。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -70,12 +70,12 @@
     {
       "headword": "resiliency",
       "inVocab": true,
-      "senseAnchor": "韌性",
+      "senseAnchor": "韌性；場面：彈回燈",
       "roleInScript": "彈回燈",
       "humorDevice": "morphology",
       "zhGloss": "韌性",
-      "speakLineEn": "Cue the 彈回燈: resiliency walks on and the gag sticks.",
-      "speakLineZh": "請「彈回燈」出場：resiliency 一上場梗就黏住——韌性。",
+      "speakLineEn": "On the exam, resiliency most nearly means a sense of \"韌性\".",
+      "speakLineZh": "韌性。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -85,12 +85,12 @@
     {
       "headword": "insufficiency",
       "inVocab": true,
-      "senseAnchor": "不足",
+      "senseAnchor": "不足；場面：不夠燈",
       "roleInScript": "不夠燈",
       "humorDevice": "morphology",
       "zhGloss": "不足",
-      "speakLineEn": "Cue the 不夠燈: insufficiency walks on and the gag sticks.",
-      "speakLineZh": "請「不夠燈」出場：insufficiency 一上場梗就黏住——不足。",
+      "speakLineEn": "On the exam, insufficiency most nearly means a sense of \"不足\".",
+      "speakLineZh": "不足。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -100,12 +100,12 @@
     {
       "headword": "fluency",
       "inVocab": true,
-      "senseAnchor": "流利",
+      "senseAnchor": "流利；場面：流水燈",
       "roleInScript": "流水燈",
       "humorDevice": "morphology",
       "zhGloss": "流利",
-      "speakLineEn": "Cue the 流水燈: fluency walks on and the gag sticks.",
-      "speakLineZh": "請「流水燈」出場：fluency 一上場梗就黏住——流利。",
+      "speakLineEn": "On the exam, fluency most nearly means a sense of \"流利\".",
+      "speakLineZh": "流利。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -115,12 +115,12 @@
     {
       "headword": "consistency",
       "inVocab": true,
-      "senseAnchor": "一致性",
+      "senseAnchor": "一致性；場面：齊步燈",
       "roleInScript": "齊步燈",
       "humorDevice": "morphology",
       "zhGloss": "一致性",
-      "speakLineEn": "Cue the 齊步燈: consistency walks on and the gag sticks.",
-      "speakLineZh": "請「齊步燈」出場：consistency 一上場梗就黏住——一致性。",
+      "speakLineEn": "On the exam, consistency most nearly means a sense of \"一致性\".",
+      "speakLineZh": "一致性。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -130,12 +130,12 @@
     {
       "headword": "urgency",
       "inVocab": true,
-      "senseAnchor": "緊急",
+      "senseAnchor": "緊急；場面：閃紅燈",
       "roleInScript": "閃紅燈",
       "humorDevice": "morphology",
       "zhGloss": "緊急",
-      "speakLineEn": "Cue the 閃紅燈: urgency walks on and the gag sticks.",
-      "speakLineZh": "請「閃紅燈」出場：urgency 一上場梗就黏住——緊急。",
+      "speakLineEn": "On the exam, urgency most nearly means a sense of \"緊急\".",
+      "speakLineZh": "緊急。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -145,12 +145,12 @@
     {
       "headword": "frequency",
       "inVocab": true,
-      "senseAnchor": "頻率",
+      "senseAnchor": "頻率；場面：節拍燈",
       "roleInScript": "節拍燈",
       "humorDevice": "morphology",
       "zhGloss": "頻率",
-      "speakLineEn": "Cue the 節拍燈: frequency walks on and the gag sticks.",
-      "speakLineZh": "請「節拍燈」出場：frequency 一上場梗就黏住——頻率。",
+      "speakLineEn": "On the exam, frequency most nearly means a sense of \"頻率\".",
+      "speakLineZh": "頻率。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -161,11 +161,11 @@
       "headword": "lamp",
       "inVocab": false,
       "senseAnchor": "燈箱",
-      "roleInScript": "燈箱",
+      "roleInScript": "燈箱角色",
       "humorDevice": "story",
       "zhGloss": "燈箱",
-      "speakLineEn": "Cue the 燈箱: lamp walks on and the gag sticks.",
-      "speakLineZh": "請「燈箱」出場：lamp 一上場梗就黏住——燈箱。",
+      "speakLineEn": "Critics argued that the policy would lamp basic protections.",
+      "speakLineZh": "批評者主張該政策會燈箱基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -176,11 +176,11 @@
       "headword": "mayor",
       "inVocab": false,
       "senseAnchor": "里長",
-      "roleInScript": "里長",
+      "roleInScript": "里長角色",
       "humorDevice": "story",
       "zhGloss": "里長",
-      "speakLineEn": "Cue the 里長: mayor walks on and the gag sticks.",
-      "speakLineZh": "請「里長」出場：mayor 一上場梗就黏住——里長。",
+      "speakLineEn": "Critics argued that the policy would mayor basic protections.",
+      "speakLineZh": "批評者主張該政策會里長基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -202,6 +202,9 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P3-batch03"
+    "stage": "P3-batch03",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave2",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

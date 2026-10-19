@@ -10,7 +10,7 @@
     {
       "headword": "hypocrisy",
       "inVocab": false,
-      "senseAnchor": "偽善",
+      "senseAnchor": "偽善；場面：漏氣雙標",
       "roleInScript": "漏氣雙標",
       "humorDevice": "morphology",
       "zhGloss": "偽善",
@@ -40,7 +40,7 @@
     {
       "headword": "hypothermia",
       "inVocab": false,
-      "senseAnchor": "低體溫",
+      "senseAnchor": "低體溫；場面：低溫艙",
       "roleInScript": "低溫艙",
       "humorDevice": "story",
       "zhGloss": "低體溫",
@@ -70,10 +70,10 @@
     {
       "headword": "understate",
       "inVocab": true,
-      "senseAnchor": "represent as less significant or important",
+      "senseAnchor": "保守陳述；低估陳述",
       "roleInScript": "說太少",
       "humorDevice": "story",
-      "zhGloss": "低估陳述",
+      "zhGloss": "保守陳述",
       "speakLineEn": "Do not understate uncertainty.",
       "speakLineZh": "不要低估陳述不確定性。",
       "related": {
@@ -115,7 +115,7 @@
     {
       "headword": "deficit",
       "inVocab": false,
-      "senseAnchor": "不足",
+      "senseAnchor": "不足；場面：缺額",
       "roleInScript": "缺額",
       "humorDevice": "story",
       "zhGloss": "不足",
@@ -145,7 +145,7 @@
     {
       "headword": "basement",
       "inVocab": false,
-      "senseAnchor": "地下室",
+      "senseAnchor": "地下室；場面：在下空間",
       "roleInScript": "在下空間",
       "humorDevice": "story",
       "zhGloss": "地下室",
@@ -173,6 +173,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch03"
+    "stage": "P2-batch03",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

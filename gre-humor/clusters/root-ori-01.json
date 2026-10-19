@@ -10,7 +10,7 @@
     {
       "headword": "origin",
       "inVocab": false,
-      "senseAnchor": "起源",
+      "senseAnchor": "起源；場面：升起點",
       "roleInScript": "升起點",
       "humorDevice": "morphology",
       "zhGloss": "起源",
@@ -115,7 +115,7 @@
     {
       "headword": "originally",
       "inVocab": false,
-      "senseAnchor": "原先",
+      "senseAnchor": "原先；場面：一開始",
       "roleInScript": "一開始",
       "humorDevice": "story",
       "zhGloss": "原先",
@@ -130,7 +130,7 @@
     {
       "headword": "sunrise",
       "inVocab": false,
-      "senseAnchor": "日出",
+      "senseAnchor": "日出；場面：升起畫面",
       "roleInScript": "升起畫面",
       "humorDevice": "story",
       "zhGloss": "日出",
@@ -145,7 +145,7 @@
     {
       "headword": "source",
       "inVocab": false,
-      "senseAnchor": "來源",
+      "senseAnchor": "來源；場面：升起的河",
       "roleInScript": "升起的河",
       "humorDevice": "story",
       "zhGloss": "來源",
@@ -173,6 +173,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P2-batch02"
+    "stage": "P2-batch02",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

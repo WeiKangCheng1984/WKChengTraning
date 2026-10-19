@@ -10,12 +10,12 @@
     {
       "headword": "ravenous",
       "inVocab": true,
-      "senseAnchor": "extremely hungry; devouring or craving food in great quantities",
+      "senseAnchor": "貪喫的；場面：狼吞",
       "roleInScript": "狼吞",
       "humorDevice": "contrast",
-      "zhGloss": "極餓的",
-      "speakLineEn": "Cue the 狼吞: ravenous walks on and the gag sticks.",
-      "speakLineZh": "請「狼吞」出場：ravenous 一上場梗就黏住——極餓的。",
+      "zhGloss": "貪喫的",
+      "speakLineEn": "Ravenous as wolves.",
+      "speakLineZh": "貪喫的。",
       "related": {
         "synonyms": "famished, sharp-set, starved, esurient, edacious, rapacious",
         "antonyms": "be full, feed"
@@ -25,12 +25,12 @@
     {
       "headword": "pungent",
       "inVocab": true,
-      "senseAnchor": "strong and sharp; capable of wounding",
+      "senseAnchor": "犀利的；辛辣的",
       "roleInScript": "嗆鼻",
       "humorDevice": "contrast",
-      "zhGloss": "辛辣刺鼻的",
-      "speakLineEn": "Cue the 嗆鼻: pungent walks on and the gag sticks.",
-      "speakLineZh": "請「嗆鼻」出場：pungent 一上場梗就黏住——辛辣刺鼻的。",
+      "zhGloss": "犀利的；辛辣的",
+      "speakLineEn": "The pungent taste of radishes.",
+      "speakLineZh": "犀利的；辛辣的。",
       "related": {
         "synonyms": "acrid, barbed, biting, nipping, mordacious",
         "antonyms": ""
@@ -40,12 +40,12 @@
     {
       "headword": "bland",
       "inVocab": true,
-      "senseAnchor": "dull, not interesting",
+      "senseAnchor": "平淡的；無趣的",
       "roleInScript": "無鹽",
       "humorDevice": "contrast",
-      "zhGloss": "平淡的",
-      "speakLineEn": "Cue the 無鹽: bland walks on and the gag sticks.",
-      "speakLineZh": "請「無鹽」出場：bland 一上場梗就黏住——平淡的。",
+      "zhGloss": "平淡的；無趣的",
+      "speakLineEn": "A bland little drama.",
+      "speakLineZh": "平淡的，無趣的。",
       "related": {
         "synonyms": "banal, vapid, insipid, jejune",
         "antonyms": "original, fresh, lively, stimulating, flavorful, exciting"
@@ -59,8 +59,8 @@
       "roleInScript": "開胃燈",
       "humorDevice": "contrast",
       "zhGloss": "開胃的",
-      "speakLineEn": "Cue the 開胃燈: appetizing walks on and the gag sticks.",
-      "speakLineZh": "請「開胃燈」出場：appetizing 一上場梗就黏住——開胃的。",
+      "speakLineEn": "On the exam, appetizing most nearly means a sense of \"開胃的\".",
+      "speakLineZh": "開胃的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -71,11 +71,11 @@
       "headword": "drawer",
       "inVocab": false,
       "senseAnchor": "抽屜",
-      "roleInScript": "抽屜",
+      "roleInScript": "抽屜角色",
       "humorDevice": "story",
       "zhGloss": "抽屜",
-      "speakLineEn": "Cue the 抽屜: drawer walks on and the gag sticks.",
-      "speakLineZh": "請「抽屜」出場：drawer 一上場梗就黏住——抽屜。",
+      "speakLineEn": "A careful reader links drawer to 抽屜, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 drawer 連到「抽屜」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -87,11 +87,11 @@
       "headword": "cookie",
       "inVocab": false,
       "senseAnchor": "餅乾",
-      "roleInScript": "餅乾",
+      "roleInScript": "餅乾角色",
       "humorDevice": "story",
       "zhGloss": "餅乾",
-      "speakLineEn": "Cue the 餅乾: cookie walks on and the gag sticks.",
-      "speakLineZh": "請「餅乾」出場：cookie 一上場梗就黏住——餅乾。",
+      "speakLineEn": "Critics argued that the policy would cookie basic protections.",
+      "speakLineZh": "批評者主張該政策會餅乾基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -103,11 +103,11 @@
       "headword": "thermos",
       "inVocab": false,
       "senseAnchor": "水瓶",
-      "roleInScript": "水瓶",
+      "roleInScript": "水瓶角色",
       "humorDevice": "story",
       "zhGloss": "水瓶",
-      "speakLineEn": "Cue the 水瓶: thermos walks on and the gag sticks.",
-      "speakLineZh": "請「水瓶」出場：thermos 一上場梗就黏住——水瓶。",
+      "speakLineEn": "Critics argued that the policy would thermos basic protections.",
+      "speakLineZh": "批評者主張該政策會水瓶基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -119,11 +119,11 @@
       "headword": "tray",
       "inVocab": false,
       "senseAnchor": "托盤",
-      "roleInScript": "托盤",
+      "roleInScript": "托盤角色",
       "humorDevice": "story",
       "zhGloss": "托盤",
-      "speakLineEn": "Cue the 托盤: tray walks on and the gag sticks.",
-      "speakLineZh": "請「托盤」出場：tray 一上場梗就黏住——托盤。",
+      "speakLineEn": "Hold the meaning steady: tray means 托盤.",
+      "speakLineZh": "記住考意：tray＝托盤。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -135,11 +135,11 @@
       "headword": "napkin",
       "inVocab": false,
       "senseAnchor": "餐巾",
-      "roleInScript": "餐巾",
+      "roleInScript": "餐巾角色",
       "humorDevice": "story",
       "zhGloss": "餐巾",
-      "speakLineEn": "Cue the 餐巾: napkin walks on and the gag sticks.",
-      "speakLineZh": "請「餐巾」出場：napkin 一上場梗就黏住——餐巾。",
+      "speakLineEn": "In the passage, napkin signals a shift toward \"餐巾\".",
+      "speakLineZh": "文中 napkin 標示語氣轉向「餐巾」。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -162,6 +162,9 @@
   "priority": "C",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P4-batch02"
+    "stage": "P4-batch02",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave2",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

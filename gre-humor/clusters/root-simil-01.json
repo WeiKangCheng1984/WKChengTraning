@@ -10,7 +10,7 @@
     {
       "headword": "similar",
       "inVocab": false,
-      "senseAnchor": "相似的",
+      "senseAnchor": "相似的；場面：長得很像",
       "roleInScript": "長得很像",
       "humorDevice": "morphology",
       "zhGloss": "相似的",
@@ -25,7 +25,7 @@
     {
       "headword": "similarity",
       "inVocab": false,
-      "senseAnchor": "相似性",
+      "senseAnchor": "相似性；場面：像的程度",
       "roleInScript": "像的程度",
       "humorDevice": "morphology",
       "zhGloss": "相似性",
@@ -40,7 +40,7 @@
     {
       "headword": "simulate",
       "inVocab": false,
-      "senseAnchor": "模擬",
+      "senseAnchor": "模擬；場面：替身拍戲",
       "roleInScript": "替身拍戲",
       "humorDevice": "morphology",
       "zhGloss": "模擬",
@@ -70,7 +70,7 @@
     {
       "headword": "simultaneous",
       "inVocab": false,
-      "senseAnchor": "同時的",
+      "senseAnchor": "同時的；場面：多機同拍",
       "roleInScript": "多機同拍",
       "humorDevice": "morphology",
       "zhGloss": "同時的",
@@ -115,10 +115,10 @@
     {
       "headword": "dissimilar",
       "inVocab": true,
-      "senseAnchor": "not similar; not alike or similar",
+      "senseAnchor": "不同的；場面：根本不像",
       "roleInScript": "根本不像",
       "humorDevice": "morphology",
-      "zhGloss": "不相似的",
+      "zhGloss": "不同的",
       "speakLineEn": "Dissimilar cohorts need stratified claims.",
       "speakLineZh": "不相似世代需要分層主張。",
       "related": {
@@ -130,7 +130,7 @@
     {
       "headword": "simile",
       "inVocab": true,
-      "senseAnchor": "a figure of speech that expresses a resemblance between things of different kinds (usually formed with `like' or `as')",
+      "senseAnchor": "明喻；場面：像什麼的修辭",
       "roleInScript": "像什麼的修辭",
       "humorDevice": "story",
       "zhGloss": "明喻",
@@ -145,10 +145,10 @@
     {
       "headword": "semblance",
       "inVocab": false,
-      "senseAnchor": "外表；相似外表",
+      "senseAnchor": "相似外表",
       "roleInScript": "看起來像",
       "humorDevice": "story",
-      "zhGloss": "外表；相似外表",
+      "zhGloss": "相似外表",
       "speakLineEn": "A semblance of rigor is still fog.",
       "speakLineZh": "嚴謹的外表仍是霧。",
       "related": {
@@ -160,10 +160,10 @@
     {
       "headword": "verisimilitude",
       "inVocab": true,
-      "senseAnchor": "the quality of being true or real",
+      "senseAnchor": "寫實主義；真",
       "roleInScript": "超像真",
       "humorDevice": "story",
-      "zhGloss": "逼真；酷似真實",
+      "zhGloss": "寫實主義；真",
       "speakLineEn": "Verisimilitude in examples helps teaching.",
       "speakLineZh": "例子逼真有助教學。",
       "related": {
@@ -175,7 +175,7 @@
     {
       "headword": "simultaneously",
       "inVocab": false,
-      "senseAnchor": "同時地",
+      "senseAnchor": "同時地；場面：同拍副詞",
       "roleInScript": "同拍副詞",
       "humorDevice": "story",
       "zhGloss": "同時地",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch03"
+    "stage": "P2-batch03",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

@@ -10,10 +10,10 @@
     {
       "headword": "divert",
       "inVocab": true,
-      "senseAnchor": "turn aside; turn away from; send on a course or in a direction different from the planned or intended one",
+      "senseAnchor": "轉向；娛樂",
       "roleInScript": "把方向轉開",
       "humorDevice": "morphology",
-      "zhGloss": "使轉向；轉移注意力；娛樂",
+      "zhGloss": "轉向；娛樂",
       "speakLineEn": "The anecdote diverted attention from the weak premise.",
       "speakLineZh": "這則軼事把注意力從薄弱前提轉開。",
       "related": {
@@ -25,10 +25,10 @@
     {
       "headword": "avert",
       "inVocab": true,
-      "senseAnchor": "prevent the occurrence of; prevent from happening; turn away or aside",
+      "senseAnchor": "避免；防止",
       "roleInScript": "轉開危險",
       "humorDevice": "morphology",
-      "zhGloss": "避免；轉開（目光／災難）",
+      "zhGloss": "避免；防止",
       "speakLineEn": "Early warnings helped avert a larger crisis.",
       "speakLineZh": "早期預警協助避免了更大危機。",
       "related": {
@@ -40,10 +40,10 @@
     {
       "headword": "revert",
       "inVocab": true,
-      "senseAnchor": "go back to a previous state; undergo reversion, as in a mutation",
+      "senseAnchor": "恢復原狀；回復",
       "roleInScript": "轉回舊設定",
       "humorDevice": "morphology",
-      "zhGloss": "回復；恢復原狀",
+      "zhGloss": "恢復原狀",
       "speakLineEn": "Without oversight, practices may revert to old habits.",
       "speakLineZh": "缺少監督時，做法可能轉回舊習慣。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "perverse",
       "inVocab": true,
-      "senseAnchor": "marked by a disposition to oppose and contradict; resistant to guidance or discipline",
+      "senseAnchor": "倔強的；場面：反著轉的性格",
       "roleInScript": "反著轉的性格",
       "humorDevice": "morphology",
-      "zhGloss": "乖戾的；故意作對的",
+      "zhGloss": "倔強的",
       "speakLineEn": "A perverse reading ignores the plain sense of the text.",
       "speakLineZh": "乖戾的解讀會忽略文本的平白意思。",
       "related": {
@@ -145,7 +145,7 @@
     {
       "headword": "controversy",
       "inVocab": true,
-      "senseAnchor": "爭議",
+      "senseAnchor": "爭議；場面：意見轉來轉去打結",
       "roleInScript": "意見轉來轉去打結",
       "humorDevice": "morphology",
       "zhGloss": "爭議",
@@ -189,6 +189,8 @@
   "qualityGate": {
     "reviewedAt": "2026-10-18",
     "stage": "S2",
-    "note": "New A-level cluster with full lesson"
+    "note": "New A-level cluster with full lesson",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

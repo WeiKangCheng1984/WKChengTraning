@@ -25,10 +25,10 @@
     {
       "headword": "innate",
       "inVocab": true,
-      "senseAnchor": "not established by conditioning or learning; being talented through inherited qualities",
+      "senseAnchor": "天生的；場面：內建進入",
       "roleInScript": "內建進入",
       "humorDevice": "morphology",
-      "zhGloss": "天生的；固有的",
+      "zhGloss": "天生的",
       "speakLineEn": "Do not treat preference as innate destiny.",
       "speakLineZh": "不要把偏好當天生命運。",
       "related": {
@@ -40,10 +40,10 @@
     {
       "headword": "insipid",
       "inVocab": true,
-      "senseAnchor": "not interesting, exciting",
+      "senseAnchor": "平淡的；無聊的",
       "roleInScript": "否定味道",
       "humorDevice": "morphology",
-      "zhGloss": "無味的；無聊的",
+      "zhGloss": "平淡的；無聊的",
       "speakLineEn": "Insipid summaries omit effect sizes.",
       "speakLineZh": "無味摘要省略效應量。",
       "related": {
@@ -55,10 +55,10 @@
     {
       "headword": "insurgent",
       "inVocab": true,
-      "senseAnchor": "a person who takes part in an armed rebellion against the constituted authority (especially in the hope of improving conditions); a member of an irregular armed force that fights a stronger force by sabotage and harassment",
+      "senseAnchor": "叛亂的；場面：攻入體制",
       "roleInScript": "攻入體制",
       "humorDevice": "morphology",
-      "zhGloss": "叛亂者；起義的",
+      "zhGloss": "叛亂的",
       "speakLineEn": "Insurgent methods groups pushed open data.",
       "speakLineZh": "起義方法團體推動開放資料。",
       "related": {
@@ -100,7 +100,7 @@
     {
       "headword": "indigent",
       "inVocab": true,
-      "senseAnchor": "poor enough to need help from others",
+      "senseAnchor": "貧窮的；場面：否定財富",
       "roleInScript": "否定財富",
       "humorDevice": "morphology",
       "zhGloss": "貧窮的",
@@ -130,10 +130,10 @@
     {
       "headword": "infamy",
       "inVocab": true,
-      "senseAnchor": "a state of extreme dishonor; - F.D.Roosevelt; evil fame or public reputation",
+      "senseAnchor": "名聲狼藉；惡行",
       "roleInScript": "否定名聲",
       "humorDevice": "morphology",
-      "zhGloss": "惡名；醜聞",
+      "zhGloss": "名聲狼藉；惡行",
       "speakLineEn": "Fabrication brings lasting infamy.",
       "speakLineZh": "捏造帶來長久惡名。",
       "related": {
@@ -145,10 +145,10 @@
     {
       "headword": "inhibit",
       "inVocab": true,
-      "senseAnchor": "to put down by force or authority; limit the range or extent of",
+      "senseAnchor": "阻止；阻礙",
       "roleInScript": "壓住進入",
       "humorDevice": "morphology",
-      "zhGloss": "抑制；阻止",
+      "zhGloss": "阻止；阻礙",
       "speakLineEn": "Fear can inhibit error reporting.",
       "speakLineZh": "恐懼會抑制錯誤回報。",
       "related": {
@@ -160,7 +160,7 @@
     {
       "headword": "ingress",
       "inVocab": false,
-      "senseAnchor": "進入",
+      "senseAnchor": "進入；場面：入口",
       "roleInScript": "入口",
       "humorDevice": "story",
       "zhGloss": "進入",
@@ -175,7 +175,7 @@
     {
       "headword": "inclusive",
       "inVocab": false,
-      "senseAnchor": "包容的",
+      "senseAnchor": "包容的；場面：納入",
       "roleInScript": "納入",
       "humorDevice": "story",
       "zhGloss": "包容的",
@@ -203,6 +203,8 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P1-batch02"
+    "stage": "P1-batch02",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

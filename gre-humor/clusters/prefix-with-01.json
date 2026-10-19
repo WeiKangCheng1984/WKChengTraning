@@ -25,10 +25,10 @@
     {
       "headword": "withstand",
       "inVocab": true,
-      "senseAnchor": "resist or confront with resistance; stand up or offer resistance to somebody or something",
+      "senseAnchor": "經受；場面：抵擋盾",
       "roleInScript": "抵擋盾",
       "humorDevice": "morphology",
-      "zhGloss": "抵擋；承受",
+      "zhGloss": "經受",
       "speakLineEn": "Good design withstands outcome pressure.",
       "speakLineZh": "好設計抵擋結局壓力。",
       "related": {
@@ -158,6 +158,8 @@
   "priority": "C",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch07"
+    "stage": "P2-batch07",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

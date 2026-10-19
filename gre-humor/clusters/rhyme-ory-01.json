@@ -10,7 +10,7 @@
     {
       "headword": "laboratory",
       "inVocab": true,
-      "senseAnchor": "實驗室",
+      "senseAnchor": "實驗室；場面：實驗店",
       "roleInScript": "實驗店",
       "humorDevice": "morphology",
       "zhGloss": "實驗室",
@@ -25,7 +25,7 @@
     {
       "headword": "observatory",
       "inVocab": true,
-      "senseAnchor": "觀察所",
+      "senseAnchor": "觀察所；場面：觀察塔",
       "roleInScript": "觀察塔",
       "humorDevice": "morphology",
       "zhGloss": "觀察所",
@@ -55,10 +55,10 @@
     {
       "headword": "refractory",
       "inVocab": true,
-      "senseAnchor": "resisting control or authority",
+      "senseAnchor": "倔強的；不聽話的",
       "roleInScript": "難搞店",
       "humorDevice": "morphology",
-      "zhGloss": "難駕馭的",
+      "zhGloss": "倔強的；不聽話的",
       "speakLineEn": "Refractory bugs need pair debugging.",
       "speakLineZh": "難搞 bug 需要配對除錯。",
       "related": {
@@ -70,7 +70,7 @@
     {
       "headword": "transitory",
       "inVocab": true,
-      "senseAnchor": "短暫的",
+      "senseAnchor": "短暫的；場面：過客旅館",
       "roleInScript": "過客旅館",
       "humorDevice": "morphology",
       "zhGloss": "短暫的",
@@ -158,6 +158,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch07"
+    "stage": "P2-batch07",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

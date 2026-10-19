@@ -5,17 +5,17 @@
   "titleZh": "auspicious／ominous／propitious｜吉凶氣象台",
   "titleEn": "Auspicious Weather Desk",
   "hook": "auspicious／propitious 是晴空賀詞，ominous 是烏雲警報——氣象主播拿兩支麥克風：吉與凶。",
-  "script": "auspicious＝吉利的。propitious＝有利／適合的。ominous＝兇兆的。口令：晴空寫開工，烏雲寫快跑。",
+  "script": "auspicious＝吉利的。propitious＝有利／適合的。ominous＝兇兆的。口令：晴空寫開工，烏雲寫快跑。形近對決：先分清語意軸，再對號入座。登場：auspicious（晴空麥）、propitious（順風標）、ominous（烏雲警）、favorable（綠燈）、inauspicious（黑貓標）、sunshine（陽光）。",
   "members": [
     {
       "headword": "auspicious",
       "inVocab": true,
-      "senseAnchor": "auguring favorable circumstances and good luck",
+      "senseAnchor": "有利的；吉祥的",
       "roleInScript": "晴空麥",
       "humorDevice": "lookalike",
-      "zhGloss": "吉利的",
-      "speakLineEn": "Cue the 晴空麥: auspicious walks on and the gag sticks.",
-      "speakLineZh": "請「晴空麥」出場：auspicious 一上場梗就黏住——吉利的。",
+      "zhGloss": "有利的；吉祥的",
+      "speakLineEn": "An auspicious beginning for the campaign.",
+      "speakLineZh": "有利的；吉祥的。",
       "related": {
         "synonyms": "",
         "antonyms": "inauspicious"
@@ -25,12 +25,12 @@
     {
       "headword": "propitious",
       "inVocab": true,
-      "senseAnchor": "indicating a good chance of success",
+      "senseAnchor": "吉祥的；場面：順風標",
       "roleInScript": "順風標",
       "humorDevice": "lookalike",
-      "zhGloss": "有利的",
-      "speakLineEn": "Cue the 順風標: propitious walks on and the gag sticks.",
-      "speakLineZh": "請「順風標」出場：propitious 一上場梗就黏住——有利的。",
+      "zhGloss": "吉祥的",
+      "speakLineEn": "A propitious alignment of planets for space exploration.",
+      "speakLineZh": "吉祥的。",
       "related": {
         "synonyms": "auspicious au金 spi看見, favorable",
         "antonyms": "unpropitious, inauspicious, unfavorable"
@@ -40,12 +40,12 @@
     {
       "headword": "ominous",
       "inVocab": true,
-      "senseAnchor": "threatening or foreshadowing evil or tragic developments; presaging ill fortune; ; ; - P.B.Shelley",
+      "senseAnchor": "凶兆的；場面：烏雲警",
       "roleInScript": "烏雲警",
       "humorDevice": "lookalike",
-      "zhGloss": "兇兆的",
-      "speakLineEn": "Cue the 烏雲警: ominous walks on and the gag sticks.",
-      "speakLineZh": "請「烏雲警」出場：ominous 一上場梗就黏住——兇兆的。",
+      "zhGloss": "凶兆的",
+      "speakLineEn": "A dead and ominous silence prevailed.",
+      "speakLineZh": "凶兆的。",
       "related": {
         "synonyms": "baleful, forbidding, menacing, minacious, minatory, sinister",
         "antonyms": "allow, permit"
@@ -55,12 +55,12 @@
     {
       "headword": "favorable",
       "inVocab": true,
-      "senseAnchor": "有利的",
+      "senseAnchor": "有利的；場面：綠燈",
       "roleInScript": "綠燈",
       "humorDevice": "lookalike",
       "zhGloss": "有利的",
-      "speakLineEn": "Cue the 綠燈: favorable walks on and the gag sticks.",
-      "speakLineZh": "請「綠燈」出場：favorable 一上場梗就黏住——有利的。",
+      "speakLineEn": "On the exam, favorable most nearly means a sense of \"有利的\".",
+      "speakLineZh": "有利的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -74,8 +74,8 @@
       "roleInScript": "黑貓標",
       "humorDevice": "lookalike",
       "zhGloss": "不吉利的",
-      "speakLineEn": "Cue the 黑貓標: inauspicious walks on and the gag sticks.",
-      "speakLineZh": "請「黑貓標」出場：inauspicious 一上場梗就黏住——不吉利的。",
+      "speakLineEn": "On the exam, inauspicious most nearly means a sense of \"不吉利的\".",
+      "speakLineZh": "不吉利的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -86,11 +86,11 @@
       "headword": "sunshine",
       "inVocab": false,
       "senseAnchor": "陽光",
-      "roleInScript": "陽光",
+      "roleInScript": "陽光角色",
       "humorDevice": "story",
       "zhGloss": "陽光",
-      "speakLineEn": "Cue the 陽光: sunshine walks on and the gag sticks.",
-      "speakLineZh": "請「陽光」出場：sunshine 一上場梗就黏住——陽光。",
+      "speakLineEn": "In the passage, sunshine signals a shift toward \"陽光\".",
+      "speakLineZh": "文中 sunshine 標示語氣轉向「陽光」。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -101,11 +101,11 @@
       "headword": "mic",
       "inVocab": false,
       "senseAnchor": "麥克風",
-      "roleInScript": "麥克風",
+      "roleInScript": "麥克風角色",
       "humorDevice": "story",
       "zhGloss": "麥克風",
-      "speakLineEn": "Cue the 麥克風: mic walks on and the gag sticks.",
-      "speakLineZh": "請「麥克風」出場：mic 一上場梗就黏住——麥克風。",
+      "speakLineEn": "A careful reader links mic to 麥克風, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 mic 連到「麥克風」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -116,11 +116,11 @@
       "headword": "lucky",
       "inVocab": false,
       "senseAnchor": "幸運",
-      "roleInScript": "幸運",
+      "roleInScript": "幸運角色",
       "humorDevice": "story",
       "zhGloss": "幸運",
-      "speakLineEn": "Cue the 幸運: lucky walks on and the gag sticks.",
-      "speakLineZh": "請「幸運」出場：lucky 一上場梗就黏住——幸運。",
+      "speakLineEn": "Critics argued that the policy would lucky basic protections.",
+      "speakLineZh": "批評者主張該政策會幸運基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -131,11 +131,11 @@
       "headword": "desk",
       "inVocab": false,
       "senseAnchor": "櫃台",
-      "roleInScript": "櫃台",
+      "roleInScript": "櫃台角色",
       "humorDevice": "story",
       "zhGloss": "櫃台",
-      "speakLineEn": "Cue the 櫃台: desk walks on and the gag sticks.",
-      "speakLineZh": "請「櫃台」出場：desk 一上場梗就黏住——櫃台。",
+      "speakLineEn": "In the passage, desk signals a shift toward \"櫃台\".",
+      "speakLineZh": "文中 desk 標示語氣轉向「櫃台」。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -157,6 +157,9 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P3-batch03"
+    "stage": "P3-batch03",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave2",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

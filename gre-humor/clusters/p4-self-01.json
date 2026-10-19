@@ -10,12 +10,12 @@
     {
       "headword": "self-righteous",
       "inVocab": true,
-      "senseAnchor": "characterized by a certainty, especially an unfounded one,",
+      "senseAnchor": "自命不凡的；自以爲是的",
       "roleInScript": "正義鏡",
       "humorDevice": "morphology",
-      "zhGloss": "自以為是的",
-      "speakLineEn": "Cue the 正義鏡: self-righteous walks on and the gag sticks.",
-      "speakLineZh": "請「正義鏡」出場：self-righteous 一上場梗就黏住——自以為是的。",
+      "zhGloss": "自命不凡的；自以爲是的",
+      "speakLineEn": "Consider this case: self-righteous complacency.",
+      "speakLineZh": "自命不凡的，自以爲是的。",
       "related": {
         "synonyms": "holier-than-thou, pietistic, pietistical, pharisaic, pharisaical, sanctimonious",
         "antonyms": ""
@@ -25,12 +25,12 @@
     {
       "headword": "self-deprecating",
       "inVocab": true,
-      "senseAnchor": "conscious of your own shortcomings",
+      "senseAnchor": "自貶的；場面：貶低鏡",
       "roleInScript": "貶低鏡",
       "humorDevice": "morphology",
-      "zhGloss": "自我貶低的",
-      "speakLineEn": "Cue the 貶低鏡: self-deprecating walks on and the gag sticks.",
-      "speakLineZh": "請「貶低鏡」出場：self-deprecating 一上場梗就黏住——自我貶低的。",
+      "zhGloss": "自貶的",
+      "speakLineEn": "The critic noted her self-deprecating approach to the evidence.",
+      "speakLineZh": "自貶的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -40,12 +40,12 @@
     {
       "headword": "self-defeating",
       "inVocab": true,
-      "senseAnchor": "causing more problems than it solves",
+      "senseAnchor": "適得其反的；自我拆台的",
       "roleInScript": "拆台鏡",
       "humorDevice": "morphology",
-      "zhGloss": "自我拆台的",
-      "speakLineEn": "Cue the 拆台鏡: self-defeating walks on and the gag sticks.",
-      "speakLineZh": "請「拆台鏡」出場：self-defeating 一上場梗就黏住——自我拆台的。",
+      "zhGloss": "適得其反的",
+      "speakLineEn": "It is self-defeating...to ignore the progress of events.",
+      "speakLineZh": "適得其反的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -55,12 +55,12 @@
     {
       "headword": "self-abasement",
       "inVocab": true,
-      "senseAnchor": "voluntary self-punishment in order to atone for some wrongdoing",
+      "senseAnchor": "自謙的；場面：鞠躬鏡",
       "roleInScript": "鞠躬鏡",
       "humorDevice": "morphology",
-      "zhGloss": "自辱",
-      "speakLineEn": "Cue the 鞠躬鏡: self-abasement walks on and the gag sticks.",
-      "speakLineZh": "請「鞠躬鏡」出場：self-abasement 一上場梗就黏住——自辱。",
+      "zhGloss": "自謙的",
+      "speakLineEn": "A clear sense of self-abasement is crucial to understanding the argument.",
+      "speakLineZh": "自謙的。",
       "related": {
         "synonyms": "penance, self-mortification",
         "antonyms": ""
@@ -70,12 +70,12 @@
     {
       "headword": "self-assertion",
       "inVocab": true,
-      "senseAnchor": "the act of putting forth your own opinions in a boastful or inconsiderate manner that implies you feel superior to others; the act of asserting yourself in an aggressive manner",
+      "senseAnchor": "自作主張的；自我主張",
       "roleInScript": "舉手鏡",
       "humorDevice": "morphology",
-      "zhGloss": "自我主張",
-      "speakLineEn": "Cue the 舉手鏡: self-assertion walks on and the gag sticks.",
-      "speakLineZh": "請「舉手鏡」出場：self-assertion 一上場梗就黏住——自我主張。",
+      "zhGloss": "自作主張的",
+      "speakLineEn": "A clear sense of self-assertion is crucial to understanding the argument.",
+      "speakLineZh": "自作主張的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -85,12 +85,12 @@
     {
       "headword": "self-righteousness",
       "inVocab": true,
-      "senseAnchor": "a GRE-level vocabulary item meaning closely related to its core sense in academic English",
+      "senseAnchor": "自以爲是的；自以為義",
       "roleInScript": "光環過頭",
       "humorDevice": "morphology",
-      "zhGloss": "自以為義",
-      "speakLineEn": "Cue the 光環過頭: self-righteousness walks on and the gag sticks.",
-      "speakLineZh": "請「光環過頭」出場：self-righteousness 一上場梗就黏住——自以為義。",
+      "zhGloss": "自以爲是的",
+      "speakLineEn": "A clear sense of self-righteousness is crucial to understanding the argument.",
+      "speakLineZh": "自以爲是的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -104,8 +104,8 @@
       "roleInScript": "大我牌",
       "humorDevice": "morphology",
       "zhGloss": "自我中心",
-      "speakLineEn": "Cue the 大我牌: egotism walks on and the gag sticks.",
-      "speakLineZh": "請「大我牌」出場：egotism 一上場梗就黏住——自我中心。",
+      "speakLineEn": "On the exam, egotism most nearly means a sense of \"自我中心\".",
+      "speakLineZh": "自我中心。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -115,12 +115,12 @@
     {
       "headword": "modesty",
       "inVocab": true,
-      "senseAnchor": "謙遜",
+      "senseAnchor": "謙遜；場面：小我牌",
       "roleInScript": "小我牌",
       "humorDevice": "morphology",
       "zhGloss": "謙遜",
-      "speakLineEn": "Cue the 小我牌: modesty walks on and the gag sticks.",
-      "speakLineZh": "請「小我牌」出場：modesty 一上場梗就黏住——謙遜。",
+      "speakLineEn": "On the exam, modesty most nearly means a sense of \"謙遜\".",
+      "speakLineZh": "謙遜。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -130,12 +130,12 @@
     {
       "headword": "narcissism",
       "inVocab": true,
-      "senseAnchor": "an exceptional interest in and admiration for yourself",
+      "senseAnchor": "自戀；場面：自拍燈",
       "roleInScript": "自拍燈",
       "humorDevice": "morphology",
       "zhGloss": "自戀",
-      "speakLineEn": "Cue the 自拍燈: narcissism walks on and the gag sticks.",
-      "speakLineZh": "請「自拍燈」出場：narcissism 一上場梗就黏住——自戀。",
+      "speakLineEn": "A clear sense of narcissism is crucial to understanding the argument.",
+      "speakLineZh": "自戀。",
       "related": {
         "synonyms": "self-love, narcism",
         "antonyms": ""
@@ -157,6 +157,9 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P4-batch01"
+    "stage": "P4-batch01",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave2",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

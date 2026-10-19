@@ -10,10 +10,10 @@
     {
       "headword": "interrogate",
       "inVocab": true,
-      "senseAnchor": "transmit (a signal) for setting off an appropriate response, as in telecommunication; pose a series of questions to",
+      "senseAnchor": "質問；場面：問到水落石出",
       "roleInScript": "問到水落石出",
       "humorDevice": "morphology",
-      "zhGloss": "審問；質詢",
+      "zhGloss": "質問",
       "speakLineEn": "Interrogate the identification assumptions.",
       "speakLineZh": "質詢識別假設。",
       "related": {
@@ -40,10 +40,10 @@
     {
       "headword": "prerogative",
       "inVocab": true,
-      "senseAnchor": "an exclusive or special right, power, or privilege",
+      "senseAnchor": "特權；權力",
       "roleInScript": "特權提問權",
       "humorDevice": "morphology",
-      "zhGloss": "特權",
+      "zhGloss": "特權；權力",
       "speakLineEn": "Gatekeeping is not an editor's prerogative forever.",
       "speakLineZh": "把關不是編輯永久特權。",
       "related": {
@@ -55,10 +55,10 @@
     {
       "headword": "derogatory",
       "inVocab": true,
-      "senseAnchor": "expressive of low opinion",
+      "senseAnchor": "貶低的；不敬的",
       "roleInScript": "貶低式問話",
       "humorDevice": "morphology",
-      "zhGloss": "貶損的",
+      "zhGloss": "貶低的；不敬的",
       "speakLineEn": "Avoid derogatory labels for honest errors.",
       "speakLineZh": "對誠實錯誤避免貶損標籤。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "abrogate",
       "inVocab": true,
-      "senseAnchor": "revoke formally",
+      "senseAnchor": "官方廢除；廢止",
       "roleInScript": "廢條款",
       "humorDevice": "morphology",
-      "zhGloss": "廢止；取消",
+      "zhGloss": "官方廢除",
       "speakLineEn": "Abrogate incentives that punish sharing.",
       "speakLineZh": "廢止懲罰共享的誘因。",
       "related": {
@@ -100,7 +100,7 @@
     {
       "headword": "interrogation",
       "inVocab": true,
-      "senseAnchor": "a sentence of inquiry that asks for a reply; a transmission that will trigger an answering transmission from a transponder",
+      "senseAnchor": "審問；場面：質詢過程",
       "roleInScript": "質詢過程",
       "humorDevice": "story",
       "zhGloss": "審問",
@@ -115,10 +115,10 @@
     {
       "headword": "surrogate",
       "inVocab": true,
-      "senseAnchor": "someone who takes the place of another person; a person appointed to represent or act on behalf of others",
+      "senseAnchor": "替代品；代理人",
       "roleInScript": "代問的人",
       "humorDevice": "story",
-      "zhGloss": "代理人；替代",
+      "zhGloss": "替代品",
       "speakLineEn": "Use a surrogate endpoint only with justification.",
       "speakLineZh": "僅在有理由時用替代終點。",
       "related": {
@@ -130,7 +130,7 @@
     {
       "headword": "question",
       "inVocab": false,
-      "senseAnchor": "問題",
+      "senseAnchor": "問題；場面：櫃臺基本款",
       "roleInScript": "櫃臺基本款",
       "humorDevice": "story",
       "zhGloss": "問題",
@@ -145,10 +145,10 @@
     {
       "headword": "pry",
       "inVocab": true,
-      "senseAnchor": "a heavy iron lever with one end forged into a wedge; to move or force, especially in an effort to get something open; :",
+      "senseAnchor": "刺探；場面：硬問",
       "roleInScript": "硬問",
       "humorDevice": "story",
-      "zhGloss": "打探",
+      "zhGloss": "刺探",
       "speakLineEn": "Do not pry into identifiable free text casually.",
       "speakLineZh": "不要隨便打探可識別自由文本。",
       "related": {
@@ -160,7 +160,7 @@
     {
       "headword": "ask",
       "inVocab": false,
-      "senseAnchor": "問",
+      "senseAnchor": "問；場面：開口",
       "roleInScript": "開口",
       "humorDevice": "story",
       "zhGloss": "問",
@@ -188,6 +188,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P2-batch02"
+    "stage": "P2-batch02",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

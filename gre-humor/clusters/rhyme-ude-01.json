@@ -10,10 +10,10 @@
     {
       "headword": "latitude",
       "inVocab": true,
-      "senseAnchor": "the angular distance between an imaginary line around a heavenly body parallel to its equator and the equator itself; freedom from normal restraints in conduct",
+      "senseAnchor": "自由；場面：活動空間",
       "roleInScript": "活動空間",
       "humorDevice": "phonetic",
-      "zhGloss": "緯度；自由餘地",
+      "zhGloss": "自由",
       "speakLineEn": "Give analysts latitude within a prereg envelope.",
       "speakLineZh": "在預註冊信封內給分析者餘地。",
       "related": {
@@ -55,10 +55,10 @@
     {
       "headword": "solitude",
       "inVocab": true,
-      "senseAnchor": "a state of social isolation; the state or situation of being alone",
+      "senseAnchor": "獨處；場面：一個人",
       "roleInScript": "一個人",
       "humorDevice": "phonetic",
-      "zhGloss": "獨處；孤獨",
+      "zhGloss": "獨處",
       "speakLineEn": "Protect solitude for careful writing.",
       "speakLineZh": "保護獨處以仔細寫作。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "platitude",
       "inVocab": true,
-      "senseAnchor": "a banal remark or statement",
+      "senseAnchor": "陳詞濫調；陳腔濫調",
       "roleInScript": "空話質地",
       "humorDevice": "phonetic",
-      "zhGloss": "陳腔濫調",
+      "zhGloss": "陳詞濫調",
       "speakLineEn": "Replace platitudes with operational definitions.",
       "speakLineZh": "用操作型定義取代陳腔。",
       "related": {
@@ -85,10 +85,10 @@
     {
       "headword": "exactitude",
       "inVocab": true,
-      "senseAnchor": "the quality of being exact",
+      "senseAnchor": "嚴苛；場面：準到點",
       "roleInScript": "準到點",
       "humorDevice": "phonetic",
-      "zhGloss": "精確",
+      "zhGloss": "嚴苛",
       "speakLineEn": "Exactitude in timestamps prevents disputes.",
       "speakLineZh": "時間戳精確避免爭議。",
       "related": {
@@ -115,7 +115,7 @@
     {
       "headword": "gratitude",
       "inVocab": false,
-      "senseAnchor": "感激",
+      "senseAnchor": "感激；場面：感謝質地",
       "roleInScript": "感謝質地",
       "humorDevice": "phonetic",
       "zhGloss": "感激",
@@ -145,7 +145,7 @@
     {
       "headword": "attitude",
       "inVocab": false,
-      "senseAnchor": "態度",
+      "senseAnchor": "態度；場面：心態質地",
       "roleInScript": "心態質地",
       "humorDevice": "phonetic",
       "zhGloss": "態度",
@@ -160,10 +160,10 @@
     {
       "headword": "decrepitude",
       "inVocab": true,
-      "senseAnchor": "the state of being old",
+      "senseAnchor": "衰老；破舊",
       "roleInScript": "破舊質地",
       "humorDevice": "story",
-      "zhGloss": "衰老；老舊殘破",
+      "zhGloss": "衰老；破舊",
       "speakLineEn": "Software decrepitude is a security risk.",
       "speakLineZh": "軟體老舊殘破是資安風險。",
       "related": {
@@ -188,6 +188,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P1-batch02"
+    "stage": "P1-batch02",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

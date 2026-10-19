@@ -10,10 +10,10 @@
     {
       "headword": "intrepid",
       "inVocab": true,
-      "senseAnchor": "invulnerable to fear or intimidation",
+      "senseAnchor": "無畏的；勇敢的",
       "roleInScript": "無畏衝鋒",
       "humorDevice": "contrast",
-      "zhGloss": "無畏的",
+      "zhGloss": "無畏的；勇敢的",
       "speakLineEn": "Intrepid reporting includes ugly limitations.",
       "speakLineZh": "無畏報告包含難看的限制。",
       "related": {
@@ -40,10 +40,10 @@
     {
       "headword": "valorous",
       "inVocab": true,
-      "senseAnchor": "having or showing valor",
+      "senseAnchor": "勇敢的；場面：英勇章",
       "roleInScript": "英勇章",
       "humorDevice": "contrast",
-      "zhGloss": "英勇的",
+      "zhGloss": "勇敢的",
       "speakLineEn": "Valorous science corrects itself in public.",
       "speakLineZh": "英勇科學公開自我更正。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "audacious",
       "inVocab": true,
-      "senseAnchor": "fearless",
+      "senseAnchor": "大膽的；放肆的",
       "roleInScript": "大膽跳",
       "humorDevice": "contrast",
-      "zhGloss": "大膽的；放肆的",
+      "zhGloss": "大膽的",
       "speakLineEn": "Audacious claims need audacious evidence.",
       "speakLineZh": "大膽主張需要大膽證據。",
       "related": {
@@ -85,10 +85,10 @@
     {
       "headword": "craven",
       "inVocab": true,
-      "senseAnchor": "an abject coward; lacking even the rudiments of courage; abjectly fearful; ; ; - Spenser",
+      "senseAnchor": "懦弱的行爲",
       "roleInScript": "縮回去",
       "humorDevice": "contrast",
-      "zhGloss": "懦弱的",
+      "zhGloss": "懦弱的行爲",
       "speakLineEn": "Craven silence after an error is misconduct-adjacent.",
       "speakLineZh": "錯誤後懦弱沉默近似不端。",
       "related": {
@@ -100,10 +100,10 @@
     {
       "headword": "timorous",
       "inVocab": true,
-      "senseAnchor": "lacking in courage or self-confidence",
+      "senseAnchor": "膽小的；場面：發抖燈",
       "roleInScript": "發抖燈",
       "humorDevice": "contrast",
-      "zhGloss": "膽怯的",
+      "zhGloss": "膽小的",
       "speakLineEn": "Timorous teams hide deviations.",
       "speakLineZh": "膽怯團隊隱藏偏離。",
       "related": {
@@ -130,10 +130,10 @@
     {
       "headword": "trepidation",
       "inVocab": true,
-      "senseAnchor": "fear",
+      "senseAnchor": "恐懼；場面：惶恐錶",
       "roleInScript": "惶恐錶",
       "humorDevice": "contrast",
-      "zhGloss": "恐懼；惶恐",
+      "zhGloss": "恐懼",
       "speakLineEn": "Trepidation before opening the envelope is healthy.",
       "speakLineZh": "打開信封前的惶恐是健康的。",
       "related": {
@@ -145,10 +145,10 @@
     {
       "headword": "timid",
       "inVocab": true,
-      "senseAnchor": "people who are fearful and cautious; showing fear and lack of confidence",
+      "senseAnchor": "靦腆的；害羞的",
       "roleInScript": "膽小鍵",
       "humorDevice": "story",
-      "zhGloss": "膽小的",
+      "zhGloss": "靦腆的；害羞的",
       "speakLineEn": "Timid abstracts that hide uncertainty mislead.",
       "speakLineZh": "隱藏不確定的膽小摘要會誤導。",
       "related": {
@@ -160,7 +160,7 @@
     {
       "headword": "bold",
       "inVocab": true,
-      "senseAnchor": "大膽的",
+      "senseAnchor": "大膽的；場面：粗體膽",
       "roleInScript": "粗體膽",
       "humorDevice": "story",
       "zhGloss": "大膽的",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch05"
+    "stage": "P2-batch05",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

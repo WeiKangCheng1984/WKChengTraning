@@ -10,10 +10,10 @@
     {
       "headword": "congenital",
       "inVocab": true,
-      "senseAnchor": "present at birth but not necessarily hereditary; acquired during fetal development",
+      "senseAnchor": "天生的；場面：一生下來就帶",
       "roleInScript": "一生下來就帶",
       "humorDevice": "morphology",
-      "zhGloss": "先天的",
+      "zhGloss": "天生的",
       "speakLineEn": "Congenital defects need early screening.",
       "speakLineZh": "先天缺陷需要早期篩檢。",
       "related": {
@@ -25,10 +25,10 @@
     {
       "headword": "progeny",
       "inVocab": true,
-      "senseAnchor": "the immediate descendants of a person",
+      "senseAnchor": "後代；場面：產線上的子孫",
       "roleInScript": "產線上的子孫",
       "humorDevice": "morphology",
-      "zhGloss": "後代；子孫",
+      "zhGloss": "後代",
       "speakLineEn": "Ideas leave intellectual progeny in later papers.",
       "speakLineZh": "想法在後續論文留下思想後代。",
       "related": {
@@ -40,10 +40,10 @@
     {
       "headword": "ingenious",
       "inVocab": true,
-      "senseAnchor": "showing inventiveness and skill",
+      "senseAnchor": "聰明的；場面：生出妙招",
       "roleInScript": "生出妙招",
       "humorDevice": "morphology",
-      "zhGloss": "巧妙的；機智的",
+      "zhGloss": "聰明的",
       "speakLineEn": "An ingenious design saved sample size.",
       "speakLineZh": "巧妙設計省下樣本量。",
       "related": {
@@ -55,10 +55,10 @@
     {
       "headword": "ingenuous",
       "inVocab": true,
-      "senseAnchor": "characterized by an inability to mask your feelings; not devious; lacking in sophistication or worldliness",
+      "senseAnchor": "天真的；率直的",
       "roleInScript": "剛出生般天真",
       "humorDevice": "morphology",
-      "zhGloss": "天真的；率直的",
+      "zhGloss": "天真的",
       "speakLineEn": "Her ingenuous question exposed the hidden assumption.",
       "speakLineZh": "她率直的問題揭開隱藏假設。",
       "related": {
@@ -70,7 +70,7 @@
     {
       "headword": "homogeneous",
       "inVocab": false,
-      "senseAnchor": "同質的",
+      "senseAnchor": "同質的；場面：同種一窩",
       "roleInScript": "同種一窩",
       "humorDevice": "morphology",
       "zhGloss": "同質的",
@@ -85,7 +85,7 @@
     {
       "headword": "heterogeneous",
       "inVocab": false,
-      "senseAnchor": "異質的",
+      "senseAnchor": "異質的；場面：雜種混生",
       "roleInScript": "雜種混生",
       "humorDevice": "morphology",
       "zhGloss": "異質的",
@@ -115,10 +115,10 @@
     {
       "headword": "genesis",
       "inVocab": true,
-      "senseAnchor": "a coming into being; the first book of the Old Testament: tells of Creation; Adam and Eve; the Fall of Man; Cain and Abel; Noah and the flood; God's covenant with Abraham; Abraham and Isaac; Jacob and Esau; Joseph and his brothers",
+      "senseAnchor": "起源；創始",
       "roleInScript": "起源故事",
       "humorDevice": "morphology",
-      "zhGloss": "起源；創始",
+      "zhGloss": "起源",
       "speakLineEn": "The genesis of the theory was a failed replication.",
       "speakLineZh": "該理論起源於一次失敗複現。",
       "related": {
@@ -130,10 +130,10 @@
     {
       "headword": "genealogy",
       "inVocab": true,
-      "senseAnchor": "successive generations of kin; the study or investigation of ancestry and family history",
+      "senseAnchor": "宗譜；血統",
       "roleInScript": "追溯血緣",
       "humorDevice": "morphology",
-      "zhGloss": "家譜；系譜",
+      "zhGloss": "宗譜；血統",
       "speakLineEn": "A genealogy of methods shows forgotten branches.",
       "speakLineZh": "方法系譜顯示被遺忘的分支。",
       "related": {
@@ -175,10 +175,10 @@
     {
       "headword": "indigenous",
       "inVocab": true,
-      "senseAnchor": "originating where it is found",
+      "senseAnchor": "本地的；天生的",
       "roleInScript": "當地生出的",
       "humorDevice": "morphology",
-      "zhGloss": "本土的；土著的",
+      "zhGloss": "本地的；天生的",
       "speakLineEn": "Indigenous knowledge can correct outsider models.",
       "speakLineZh": "本土知識能校正外來模型。",
       "related": {
@@ -203,6 +203,8 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P1-batch01"
+    "stage": "P1-batch01",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

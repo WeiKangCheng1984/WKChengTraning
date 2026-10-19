@@ -10,10 +10,10 @@
     {
       "headword": "tenacious",
       "inVocab": true,
-      "senseAnchor": "very determined and do not give up easily",
+      "senseAnchor": "堅定的；執着的",
       "roleInScript": "抓很緊",
       "humorDevice": "morphology",
-      "zhGloss": "頑強的；緊抓的",
+      "zhGloss": "堅定的；執着的",
       "speakLineEn": "Tenacious anomalies deserve another look.",
       "speakLineZh": "頑強異常值得再看。",
       "related": {
@@ -25,10 +25,10 @@
     {
       "headword": "abstain",
       "inVocab": true,
-      "senseAnchor": "to refrain from something by one's own choice",
+      "senseAnchor": "自我剋制；戒絕",
       "roleInScript": "不伸手",
       "humorDevice": "morphology",
-      "zhGloss": "戒絕；棄權",
+      "zhGloss": "自我剋制",
       "speakLineEn": "Several members abstained from the vote.",
       "speakLineZh": "數名成員投票棄權。",
       "related": {
@@ -85,7 +85,7 @@
     {
       "headword": "obtain",
       "inVocab": true,
-      "senseAnchor": "獲得",
+      "senseAnchor": "獲得；場面：取得",
       "roleInScript": "取得",
       "humorDevice": "morphology",
       "zhGloss": "獲得",
@@ -115,10 +115,10 @@
     {
       "headword": "pertain",
       "inVocab": true,
-      "senseAnchor": "be relevant to; be a part or attribute of",
+      "senseAnchor": "從屬；歸屬",
       "roleInScript": "相關聯",
       "humorDevice": "morphology",
-      "zhGloss": "有關；隸屬",
+      "zhGloss": "從屬；歸屬",
       "speakLineEn": "Only variables that pertain to the hypothesis stay in.",
       "speakLineZh": "只留與假說相關的變項。",
       "related": {
@@ -130,7 +130,7 @@
     {
       "headword": "tenant",
       "inVocab": true,
-      "senseAnchor": "承租人",
+      "senseAnchor": "承租人；場面：抓住空間的人",
       "roleInScript": "抓住空間的人",
       "humorDevice": "story",
       "zhGloss": "承租人",
@@ -145,10 +145,10 @@
     {
       "headword": "tenure",
       "inVocab": true,
-      "senseAnchor": "the term during which some position is held; the right to hold property; part of an ancient hierarchical system of holding lands",
+      "senseAnchor": "終身職位；任期",
       "roleInScript": "抓住職位",
       "humorDevice": "morphology",
-      "zhGloss": "任期；終身職",
+      "zhGloss": "終身職位",
       "speakLineEn": "Tenure incentives can shape risk-taking in research.",
       "speakLineZh": "終身職誘因會形塑研究冒險。",
       "related": {
@@ -160,7 +160,7 @@
     {
       "headword": "tenable",
       "inVocab": true,
-      "senseAnchor": "based on sound reasoning or evidence",
+      "senseAnchor": "站得住腳的",
       "roleInScript": "守得住",
       "humorDevice": "morphology",
       "zhGloss": "站得住腳的",
@@ -175,7 +175,7 @@
     {
       "headword": "untenable",
       "inVocab": true,
-      "senseAnchor": "not able to be defended",
+      "senseAnchor": "站不住腳的",
       "roleInScript": "守不住",
       "humorDevice": "morphology",
       "zhGloss": "站不住腳的",
@@ -190,7 +190,7 @@
     {
       "headword": "attention",
       "inVocab": true,
-      "senseAnchor": "注意",
+      "senseAnchor": "注意；場面：把心抓住",
       "roleInScript": "把心抓住",
       "humorDevice": "story",
       "zhGloss": "注意",
@@ -248,6 +248,8 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "S3b"
+    "stage": "S3b",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

@@ -10,10 +10,10 @@
     {
       "headword": "neologism",
       "inVocab": true,
-      "senseAnchor": "a newly invented word or phrase; the act of inventing a word or phrase",
+      "senseAnchor": "新詞；新造詞",
       "roleInScript": "新詞瓶",
       "humorDevice": "morphology",
-      "zhGloss": "新造詞",
+      "zhGloss": "新詞",
       "speakLineEn": "Define every neologism in the codebook.",
       "speakLineZh": "編碼簿定義每個新造詞。",
       "related": {
@@ -25,10 +25,10 @@
     {
       "headword": "neophyte",
       "inVocab": true,
-      "senseAnchor": "a plant that is found in an area where it had not been recorded previously; any new participant in some activity",
+      "senseAnchor": "新手；新信徒",
       "roleInScript": "新手徽章",
       "humorDevice": "morphology",
-      "zhGloss": "新手；新信徒",
+      "zhGloss": "新手",
       "speakLineEn": "Protect neophyte analysts who raise flags.",
       "speakLineZh": "保護舉旗的新手分析師。",
       "related": {
@@ -40,10 +40,10 @@
     {
       "headword": "neonatal",
       "inVocab": true,
-      "senseAnchor": "新生的；新生兒的",
+      "senseAnchor": "新生兒的",
       "roleInScript": "新生燈",
       "humorDevice": "morphology",
-      "zhGloss": "新生的；新生兒的",
+      "zhGloss": "新生兒的",
       "speakLineEn": "Neonatal projects need checklists from day one.",
       "speakLineZh": "新生專案第一天就要清單。",
       "related": {
@@ -160,7 +160,7 @@
     {
       "headword": "prototype",
       "inVocab": true,
-      "senseAnchor": "an original model on which something is patterned",
+      "senseAnchor": "原型",
       "roleInScript": "原型桌",
       "humorDevice": "story",
       "zhGloss": "原型",
@@ -188,6 +188,8 @@
   "priority": "C",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch06"
+    "stage": "P2-batch06",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

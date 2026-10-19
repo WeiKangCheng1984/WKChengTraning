@@ -20,7 +20,7 @@
       "step": 2,
       "name": "串記劇本",
       "minutes": 2,
-      "content": "稀缺：exiguous／paltry／scant／puny；充裕：glut／surfeit／opulence／rife／scads。"
+      "content": "稀缺：exiguous／paltry／scant／puny；充裕：glut／surfeit／opulence／rife／scads。語義對打：兩邊語氣相反，考試選「褒貶／強弱」對的那側。登場：exiguous（稀少）、paltry（微不足道）、puny（弱小）、scant（不足）、scrimp（吝嗇）、skimp（吝給）。"
     },
     {
       "step": 3,
@@ -92,6 +92,8 @@
   "status": "reviewed",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P3-batch01"
+    "stage": "P3-batch01",
+    "polishStage": "Q-wave3",
+    "polishedAt": "2026-10-19"
   }
 }

@@ -10,10 +10,10 @@
     {
       "headword": "precept",
       "inVocab": true,
-      "senseAnchor": "rule of personal conduct; a doctrine that is taught",
+      "senseAnchor": "規則；格言",
       "roleInScript": "預先規矩",
       "humorDevice": "morphology",
-      "zhGloss": "戒律；準則",
+      "zhGloss": "規則；格言",
       "speakLineEn": "A core precept: never silent-swap outcomes.",
       "speakLineZh": "核心準則：永不沉默替換結局。",
       "related": {
@@ -25,10 +25,10 @@
     {
       "headword": "preamble",
       "inVocab": true,
-      "senseAnchor": "a preliminary introduction to a statute or constitution (usually explaining its purpose); make a preliminary introduction, usually to a formal document",
+      "senseAnchor": "序言；場面：開場前言",
       "roleInScript": "開場前言",
       "humorDevice": "morphology",
-      "zhGloss": "序言；前言",
+      "zhGloss": "序言",
       "speakLineEn": "The statute's preamble states the purpose.",
       "speakLineZh": "法條前言陳述目的。",
       "related": {
@@ -40,10 +40,10 @@
     {
       "headword": "prelude",
       "inVocab": true,
-      "senseAnchor": "something that serves as a preceding event or introduces what follows; music that precedes a fugue or introduces an act in an opera",
+      "senseAnchor": "前奏；場面：開場序曲",
       "roleInScript": "開場序曲",
       "humorDevice": "morphology",
-      "zhGloss": "序曲；前奏",
+      "zhGloss": "前奏",
       "speakLineEn": "The leaked memo was a prelude to retraction.",
       "speakLineZh": "外洩備忘錄是撤稿前奏。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "prognosis",
       "inVocab": true,
-      "senseAnchor": "a declaration that something will happen in the future",
+      "senseAnchor": "預兆；場面：預先判斷走向",
       "roleInScript": "預先判斷走向",
       "humorDevice": "morphology",
-      "zhGloss": "預後；展望",
+      "zhGloss": "預兆",
       "speakLineEn": "Give a sober prognosis, not a sales pitch.",
       "speakLineZh": "給清醒預後，不是銷售稿。",
       "related": {
@@ -85,10 +85,10 @@
     {
       "headword": "prognosticate",
       "inVocab": true,
-      "senseAnchor": "make a prediction about; tell in advance; indicate by signs",
+      "senseAnchor": "預言；場面：預先說結果",
       "roleInScript": "預先說結果",
       "humorDevice": "morphology",
-      "zhGloss": "預言；預測",
+      "zhGloss": "預言",
       "speakLineEn": "Do not prognosticate from underpowered pilots.",
       "speakLineZh": "不要用低檢定力試點預言。",
       "related": {
@@ -115,10 +115,10 @@
     {
       "headword": "preliminary",
       "inVocab": true,
-      "senseAnchor": "a minor match preceding the main event; something that serves as a preceding event or introduces what follows",
+      "senseAnchor": "初步的；開始的",
       "roleInScript": "預先第一輪",
       "humorDevice": "story",
-      "zhGloss": "初步的",
+      "zhGloss": "初步的；開始的",
       "speakLineEn": "Label preliminary findings clearly.",
       "speakLineZh": "初步發現要清楚標示。",
       "related": {
@@ -143,6 +143,8 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P1-batch01"
+    "stage": "P1-batch01",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

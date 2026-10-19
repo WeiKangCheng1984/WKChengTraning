@@ -25,10 +25,10 @@
     {
       "headword": "multiplicity",
       "inVocab": true,
-      "senseAnchor": "the property of being multiple; a large number",
+      "senseAnchor": "多樣性；場面：多重櫃",
       "roleInScript": "多重櫃",
       "humorDevice": "morphology",
-      "zhGloss": "多重性；多樣",
+      "zhGloss": "多樣性",
       "speakLineEn": "A multiplicity of peeks inflates error.",
       "speakLineZh": "多次偷看膨脹誤差。",
       "related": {
@@ -130,7 +130,7 @@
     {
       "headword": "variety",
       "inVocab": true,
-      "senseAnchor": "多樣性",
+      "senseAnchor": "多樣性；場面：多樣攤",
       "roleInScript": "多樣攤",
       "humorDevice": "story",
       "zhGloss": "多樣性",
@@ -173,6 +173,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch07"
+    "stage": "P2-batch07",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

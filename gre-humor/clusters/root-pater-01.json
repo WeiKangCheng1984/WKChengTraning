@@ -10,7 +10,7 @@
     {
       "headword": "paternal",
       "inVocab": true,
-      "senseAnchor": "父親的",
+      "senseAnchor": "父親的；場面：父系章",
       "roleInScript": "父系章",
       "humorDevice": "morphology",
       "zhGloss": "父親的",
@@ -55,7 +55,7 @@
     {
       "headword": "patriot",
       "inVocab": true,
-      "senseAnchor": "愛國者",
+      "senseAnchor": "愛國者；場面：啦啦隊",
       "roleInScript": "啦啦隊",
       "humorDevice": "morphology",
       "zhGloss": "愛國者",
@@ -100,10 +100,10 @@
     {
       "headword": "patronage",
       "inVocab": true,
-      "senseAnchor": "the act of providing approval and support; customers collectively",
+      "senseAnchor": "贊助；支柱",
       "roleInScript": "恩庇網",
       "humorDevice": "morphology",
-      "zhGloss": "贊助；恩庇",
+      "zhGloss": "贊助；支柱",
       "speakLineEn": "Disclose patronage that could bias design.",
       "speakLineZh": "揭露可能偏差設計的贊助。",
       "related": {
@@ -115,10 +115,10 @@
     {
       "headword": "patronize",
       "inVocab": true,
-      "senseAnchor": "assume sponsorship of; do one's shopping at; do business with; be a customer or client of",
+      "senseAnchor": "資助；屈尊",
       "roleInScript": "屈尊臉",
       "humorDevice": "morphology",
-      "zhGloss": "贊助；屈尊對待",
+      "zhGloss": "資助；屈尊",
       "speakLineEn": "Do not patronize readers with hand-waving.",
       "speakLineZh": "別用含糊其辭屈尊對待讀者。",
       "related": {
@@ -130,10 +130,10 @@
     {
       "headword": "expatriate",
       "inVocab": true,
-      "senseAnchor": "a person who is voluntarily absent from home or country; expel from a country",
+      "senseAnchor": "驅逐；流放",
       "roleInScript": "出走者",
       "humorDevice": "story",
-      "zhGloss": "移居國外者",
+      "zhGloss": "驅逐；流放",
       "speakLineEn": "Expatriate datasets need local ethics care.",
       "speakLineZh": "出境資料集需要在地倫理照護。",
       "related": {
@@ -160,7 +160,7 @@
     {
       "headword": "sponsor",
       "inVocab": true,
-      "senseAnchor": "贊助者",
+      "senseAnchor": "贊助者；場面：贊助條",
       "roleInScript": "贊助條",
       "humorDevice": "story",
       "zhGloss": "贊助者",
@@ -188,6 +188,8 @@
   "priority": "C",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch05"
+    "stage": "P2-batch05",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

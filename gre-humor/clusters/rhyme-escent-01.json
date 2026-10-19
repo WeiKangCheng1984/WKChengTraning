@@ -10,10 +10,10 @@
     {
       "headword": "iridescent",
       "inVocab": true,
-      "senseAnchor": "displaying a play of lustrous colors like those of the rainbow",
+      "senseAnchor": "五顏六色的；虹彩的",
       "roleInScript": "虹彩燈",
       "humorDevice": "morphology",
-      "zhGloss": "虹彩的",
+      "zhGloss": "五顏六色的",
       "speakLineEn": "Iridescent slides still need dull numbers.",
       "speakLineZh": "虹彩簡報仍需無聊數字。",
       "related": {
@@ -25,10 +25,10 @@
     {
       "headword": "quiescent",
       "inVocab": true,
-      "senseAnchor": "not active or activated; marked by a state of tranquil repose",
+      "senseAnchor": "靜止的；場面：安靜段",
       "roleInScript": "安靜段",
       "humorDevice": "morphology",
-      "zhGloss": "靜止的；休眠的",
+      "zhGloss": "靜止的",
       "speakLineEn": "Keep peeking quiescent until lock.",
       "speakLineZh": "鎖定前讓偷看保持休眠。",
       "related": {
@@ -40,10 +40,10 @@
     {
       "headword": "obsolescent",
       "inVocab": true,
-      "senseAnchor": "becoming obsolete",
+      "senseAnchor": "過時的；遺棄的",
       "roleInScript": "漸過時",
       "humorDevice": "morphology",
-      "zhGloss": "逐漸過時的",
+      "zhGloss": "過時的；遺棄的",
       "speakLineEn": "Replace obsolescent scripts monthly.",
       "speakLineZh": "每月淘汰逐漸過時腳本。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "convalescent",
       "inVocab": true,
-      "senseAnchor": "a person who is recovering from illness; returning to health after illness or debility",
+      "senseAnchor": "康復的；回覆的",
       "roleInScript": "康復床",
       "humorDevice": "morphology",
-      "zhGloss": "康復中的",
+      "zhGloss": "康復的；回覆的",
       "speakLineEn": "Convalescent projects need gentle audits.",
       "speakLineZh": "康復中專案需要溫和稽核。",
       "related": {
@@ -100,10 +100,10 @@
     {
       "headword": "incandescent",
       "inVocab": true,
-      "senseAnchor": "emitting light as a result of being heated; characterized by ardent emotion or intensity or brilliance",
+      "senseAnchor": "熾熱的；耀眼的",
       "roleInScript": "白熾絲",
       "humorDevice": "morphology",
-      "zhGloss": "白熾的；熾熱的",
+      "zhGloss": "熾熱的；耀眼的",
       "speakLineEn": "Incandescent debates still need data.",
       "speakLineZh": "熾熱辯論仍需要資料。",
       "related": {
@@ -115,10 +115,10 @@
     {
       "headword": "fluorescent",
       "inVocab": true,
-      "senseAnchor": "a lighting fixture that uses a fluorescent lamp; emitting light during exposure to radiation from an external source",
+      "senseAnchor": "熒光的；場面：螢光管",
       "roleInScript": "螢光管",
       "humorDevice": "morphology",
-      "zhGloss": "螢光的",
+      "zhGloss": "熒光的",
       "speakLineEn": "Fluorescent highlighting of limits helps.",
       "speakLineZh": "螢光標出限制有幫助。",
       "related": {
@@ -145,7 +145,7 @@
     {
       "headword": "fading",
       "inVocab": true,
-      "senseAnchor": "褪色中",
+      "senseAnchor": "褪色中；場面：褪色",
       "roleInScript": "褪色",
       "humorDevice": "story",
       "zhGloss": "褪色中",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch07"
+    "stage": "P2-batch07",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

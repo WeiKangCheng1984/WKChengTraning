@@ -11,11 +11,11 @@
       "headword": "android",
       "inVocab": false,
       "senseAnchor": "機器人",
-      "roleInScript": "機器人",
+      "roleInScript": "機器人角色",
       "humorDevice": "morphology",
       "zhGloss": "機器人",
-      "speakLineEn": "Cue the 機器人: android walks on and the gag sticks.",
-      "speakLineZh": "請「機器人」出場：android 一上場梗就黏住——機器人。",
+      "speakLineEn": "In the passage, android signals a shift toward \"機器人\".",
+      "speakLineZh": "文中 android 標示語氣轉向「機器人」。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -26,11 +26,11 @@
       "headword": "asteroid",
       "inVocab": false,
       "senseAnchor": "小行星",
-      "roleInScript": "小行星",
+      "roleInScript": "小行星角色",
       "humorDevice": "morphology",
       "zhGloss": "小行星",
-      "speakLineEn": "Cue the 小行星: asteroid walks on and the gag sticks.",
-      "speakLineZh": "請「小行星」出場：asteroid 一上場梗就黏住——小行星。",
+      "speakLineEn": "In the passage, asteroid signals a shift toward \"小行星\".",
+      "speakLineZh": "文中 asteroid 標示語氣轉向「小行星」。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -44,8 +44,8 @@
       "roleInScript": "類人",
       "humorDevice": "morphology",
       "zhGloss": "類人的",
-      "speakLineEn": "Cue the 類人: humanoid walks on and the gag sticks.",
-      "speakLineZh": "請「類人」出場：humanoid 一上場梗就黏住——類人的。",
+      "speakLineEn": "In the passage, humanoid signals a shift toward \"類人的\".",
+      "speakLineZh": "文中 humanoid 標示語氣轉向「類人的」。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -56,11 +56,11 @@
       "headword": "tabloid",
       "inVocab": false,
       "senseAnchor": "小報",
-      "roleInScript": "小報",
+      "roleInScript": "小報角色",
       "humorDevice": "morphology",
       "zhGloss": "小報",
-      "speakLineEn": "Cue the 小報: tabloid walks on and the gag sticks.",
-      "speakLineZh": "請「小報」出場：tabloid 一上場梗就黏住——小報。",
+      "speakLineEn": "In the passage, tabloid signals a shift toward \"小報\".",
+      "speakLineZh": "文中 tabloid 標示語氣轉向「小報」。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -74,8 +74,8 @@
       "roleInScript": "假事實",
       "humorDevice": "morphology",
       "zhGloss": "似是而非事實",
-      "speakLineEn": "Cue the 假事實: factoid walks on and the gag sticks.",
-      "speakLineZh": "請「假事實」出場：factoid 一上場梗就黏住——似是而非事實。",
+      "speakLineEn": "On the exam, factoid most nearly means a sense of \"似是而非事實\".",
+      "speakLineZh": "似是而非事實。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -85,12 +85,12 @@
     {
       "headword": "spheroid",
       "inVocab": true,
-      "senseAnchor": "球狀體",
+      "senseAnchor": "球狀體；場面：球狀",
       "roleInScript": "球狀",
       "humorDevice": "morphology",
       "zhGloss": "球狀體",
-      "speakLineEn": "Cue the 球狀: spheroid walks on and the gag sticks.",
-      "speakLineZh": "請「球狀」出場：spheroid 一上場梗就黏住——球狀體。",
+      "speakLineEn": "On the exam, spheroid most nearly means a sense of \"球狀體\".",
+      "speakLineZh": "球狀體。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -104,8 +104,8 @@
       "roleInScript": "卵形",
       "humorDevice": "morphology",
       "zhGloss": "卵形的",
-      "speakLineEn": "Cue the 卵形: ovoid walks on and the gag sticks.",
-      "speakLineZh": "請「卵形」出場：ovoid 一上場梗就黏住——卵形的。",
+      "speakLineEn": "On the exam, ovoid most nearly means a sense of \"卵形的\".",
+      "speakLineZh": "卵形的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -116,11 +116,11 @@
       "headword": "typhoid",
       "inVocab": true,
       "senseAnchor": "傷寒",
-      "roleInScript": "傷寒",
+      "roleInScript": "傷寒角色",
       "humorDevice": "morphology",
       "zhGloss": "傷寒",
-      "speakLineEn": "Cue the 傷寒: typhoid walks on and the gag sticks.",
-      "speakLineZh": "請「傷寒」出場：typhoid 一上場梗就黏住——傷寒。",
+      "speakLineEn": "On the exam, typhoid most nearly means a sense of \"傷寒\".",
+      "speakLineZh": "傷寒。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -134,8 +134,8 @@
       "roleInScript": "膠片",
       "humorDevice": "morphology",
       "zhGloss": "賽璐珞／電影膠",
-      "speakLineEn": "Cue the 膠片: celluloid walks on and the gag sticks.",
-      "speakLineZh": "請「膠片」出場：celluloid 一上場梗就黏住——賽璐珞／電影膠。",
+      "speakLineEn": "On the exam, celluloid most nearly means a sense of \"賽璐珞／電影膠\".",
+      "speakLineZh": "賽璐珞／電影膠。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -146,11 +146,11 @@
       "headword": "alkaloid",
       "inVocab": true,
       "senseAnchor": "生物鹼",
-      "roleInScript": "生物鹼",
+      "roleInScript": "生物鹼角色",
       "humorDevice": "morphology",
       "zhGloss": "生物鹼",
-      "speakLineEn": "Cue the 生物鹼: alkaloid walks on and the gag sticks.",
-      "speakLineZh": "請「生物鹼」出場：alkaloid 一上場梗就黏住——生物鹼。",
+      "speakLineEn": "On the exam, alkaloid most nearly means a sense of \"生物鹼\".",
+      "speakLineZh": "生物鹼。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -161,11 +161,11 @@
       "headword": "cabinet",
       "inVocab": false,
       "senseAnchor": "標本櫃",
-      "roleInScript": "標本櫃",
+      "roleInScript": "標本櫃角色",
       "humorDevice": "story",
       "zhGloss": "標本櫃",
-      "speakLineEn": "Cue the 標本櫃: cabinet walks on and the gag sticks.",
-      "speakLineZh": "請「標本櫃」出場：cabinet 一上場梗就黏住——標本櫃。",
+      "speakLineEn": "Critics argued that the policy would cabinet basic protections.",
+      "speakLineZh": "批評者主張該政策會標本櫃基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -176,11 +176,11 @@
       "headword": "labelgun",
       "inVocab": true,
       "senseAnchor": "標籤槍",
-      "roleInScript": "標籤槍",
+      "roleInScript": "標籤槍角色",
       "humorDevice": "story",
       "zhGloss": "標籤槍",
-      "speakLineEn": "Cue the 標籤槍: labelgun walks on and the gag sticks.",
-      "speakLineZh": "請「標籤槍」出場：labelgun 一上場梗就黏住——標籤槍。",
+      "speakLineEn": "On the exam, labelgun most nearly means a sense of \"標籤槍\".",
+      "speakLineZh": "標籤槍。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -191,11 +191,11 @@
       "headword": "meteor",
       "inVocab": true,
       "senseAnchor": "流星",
-      "roleInScript": "流星",
+      "roleInScript": "流星角色",
       "humorDevice": "story",
       "zhGloss": "流星",
-      "speakLineEn": "Cue the 流星: meteor walks on and the gag sticks.",
-      "speakLineZh": "請「流星」出場：meteor 一上場梗就黏住——流星。",
+      "speakLineEn": "On the exam, meteor most nearly means a sense of \"流星\".",
+      "speakLineZh": "流星。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,12 +205,12 @@
     {
       "headword": "headline",
       "inVocab": true,
-      "senseAnchor": "標題黨",
+      "senseAnchor": "標題黨；場面：標題",
       "roleInScript": "標題",
       "humorDevice": "story",
       "zhGloss": "標題黨",
-      "speakLineEn": "Cue the 標題: headline walks on and the gag sticks.",
-      "speakLineZh": "請「標題」出場：headline 一上場梗就黏住——標題黨。",
+      "speakLineEn": "On the exam, headline most nearly means a sense of \"標題黨\".",
+      "speakLineZh": "標題黨。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -221,11 +221,11 @@
       "headword": "egg",
       "inVocab": false,
       "senseAnchor": "蛋",
-      "roleInScript": "蛋",
+      "roleInScript": "蛋角色",
       "humorDevice": "story",
       "zhGloss": "蛋",
-      "speakLineEn": "Cue the 蛋: egg walks on and the gag sticks.",
-      "speakLineZh": "請「蛋」出場：egg 一上場梗就黏住——蛋。",
+      "speakLineEn": "In the passage, egg signals a shift toward \"蛋\".",
+      "speakLineZh": "文中 egg 標示語氣轉向「蛋」。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -239,8 +239,8 @@
       "roleInScript": "機器人",
       "humorDevice": "story",
       "zhGloss": "機器人2",
-      "speakLineEn": "Cue the 機器人: robot walks on and the gag sticks.",
-      "speakLineZh": "請「機器人」出場：robot 一上場梗就黏住——機器人2。",
+      "speakLineEn": "On the exam, robot most nearly means a sense of \"機器人2\".",
+      "speakLineZh": "機器人2。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -263,6 +263,9 @@
   "priority": "C",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P3-batch02"
+    "stage": "P3-batch02",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave1",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

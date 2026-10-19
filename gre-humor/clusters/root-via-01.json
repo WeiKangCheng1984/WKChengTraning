@@ -25,10 +25,10 @@
     {
       "headword": "deviate",
       "inVocab": true,
-      "senseAnchor": "a person whose behavior deviates from what is acceptable especially in sexual behavior; turn aside; turn away from",
+      "senseAnchor": "脫離；偏離",
       "roleInScript": "偏離道",
       "humorDevice": "morphology",
-      "zhGloss": "偏離",
+      "zhGloss": "脫離；偏離",
       "speakLineEn": "Do not deviate from the plan silently.",
       "speakLineZh": "不要沉默偏離計畫。",
       "related": {
@@ -40,10 +40,10 @@
     {
       "headword": "deviation",
       "inVocab": true,
-      "senseAnchor": "a variation that deviates from the standard or norm; the difference between an observed value and the expected value of a variable or function",
+      "senseAnchor": "偏離；偏差",
       "roleInScript": "偏離表",
       "humorDevice": "morphology",
-      "zhGloss": "偏離；偏差",
+      "zhGloss": "偏離",
       "speakLineEn": "Log every deviation with a timestamp.",
       "speakLineZh": "每筆偏離記錄時間戳。",
       "related": {
@@ -55,10 +55,10 @@
     {
       "headword": "deviant",
       "inVocab": true,
-      "senseAnchor": "a person whose behavior deviates from what is acceptable especially in sexual behavior; markedly different from an accepted norm",
+      "senseAnchor": "偏離的；變態的",
       "roleInScript": "非常規標",
       "humorDevice": "morphology",
-      "zhGloss": "偏離常規的",
+      "zhGloss": "偏離的；變態的",
       "speakLineEn": "Label deviant analyses as exploratory.",
       "speakLineZh": "把非常規分析標為探索。",
       "related": {
@@ -70,7 +70,7 @@
     {
       "headword": "previous",
       "inVocab": false,
-      "senseAnchor": "先前的",
+      "senseAnchor": "先前的；場面：前一路",
       "roleInScript": "前一路",
       "humorDevice": "morphology",
       "zhGloss": "先前的",
@@ -85,10 +85,10 @@
     {
       "headword": "trivial",
       "inVocab": true,
-      "senseAnchor": "unimportant and not serious",
+      "senseAnchor": "不重要的；瑣碎的",
       "roleInScript": "瑣碎牌",
       "humorDevice": "morphology",
-      "zhGloss": "瑣碎的；平凡的",
+      "zhGloss": "不重要的",
       "speakLineEn": "A trivial bug can still bias estimates.",
       "speakLineZh": "瑣碎 bug 仍可能偏差估計。",
       "related": {
@@ -115,10 +115,10 @@
     {
       "headword": "impervious",
       "inVocab": true,
-      "senseAnchor": "not allowing entrance or passage",
+      "senseAnchor": "不可滲透的；不可穿透的",
       "roleInScript": "穿不透盾",
       "humorDevice": "morphology",
-      "zhGloss": "不能滲透的；無動於衷的",
+      "zhGloss": "不可滲透的；不可穿透的",
       "speakLineEn": "Do not be impervious to critique.",
       "speakLineZh": "不要對批評無動於衷。",
       "related": {
@@ -130,7 +130,7 @@
     {
       "headword": "pervious",
       "inVocab": true,
-      "senseAnchor": "admitting of passage or entrance",
+      "senseAnchor": "可滲透的",
       "roleInScript": "可滲膜",
       "humorDevice": "story",
       "zhGloss": "可滲透的",
@@ -203,6 +203,8 @@
   "priority": "C",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch06"
+    "stage": "P2-batch06",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

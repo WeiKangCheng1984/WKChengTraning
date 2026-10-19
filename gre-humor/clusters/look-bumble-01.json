@@ -5,17 +5,17 @@
   "titleZh": "bumble／bungle／stumble｜搞砸走廊",
   "titleEn": "Bumble Corridor",
   "hook": "bumble／bungle 是搞砸專櫃，stumble 是絆倒——走廊溼記：手賤搞砸≠腳滑絆倒。",
-  "script": "bumble＝笨手笨腳搞砸。bungle＝把事情弄糟。stumble＝絆倒／說錯。保全廣播：先看手再看腳。",
+  "script": "bumble＝笨手笨腳搞砸。bungle＝把事情弄糟。stumble＝絆倒／說錯。保全廣播：先看手再看腳。形近對決：先分清語意軸，再對號入座。登場：bumble（手賤櫃）、bungle（弄糟章）、stumble（溼地滑）、fumble（漏接）、botch（縫歪）、flub（口誤）。",
   "members": [
     {
       "headword": "bumble",
       "inVocab": true,
-      "senseAnchor": "make a mess of, destroy or ruin; walk unsteadily",
+      "senseAnchor": "搞砸；場面：手賤櫃",
       "roleInScript": "手賤櫃",
       "humorDevice": "lookalike",
       "zhGloss": "搞砸",
-      "speakLineEn": "Cue the 手賤櫃: bumble walks on and the gag sticks.",
-      "speakLineZh": "請「手賤櫃」出場：bumble 一上場梗就黏住——搞砸。",
+      "speakLineEn": "In the end, they chose to bumble what they had once defended.",
+      "speakLineZh": "例句對齊：搞砸。",
       "related": {
         "synonyms": "botch, bodge, fumble, muff, blow, flub",
         "antonyms": "conserve"
@@ -25,12 +25,12 @@
     {
       "headword": "bungle",
       "inVocab": true,
-      "senseAnchor": "fail to do something because of stupid mistakes",
+      "senseAnchor": "搞砸；場面：弄糟章",
       "roleInScript": "弄糟章",
       "humorDevice": "lookalike",
-      "zhGloss": "弄糟",
-      "speakLineEn": "Cue the 弄糟章: bungle walks on and the gag sticks.",
-      "speakLineZh": "請「弄糟章」出場：bungle 一上場梗就黏住——弄糟。",
+      "zhGloss": "搞砸",
+      "speakLineEn": "A careful reader links bungle to 弄糟, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 bungle 連到「弄糟」，不連形近鄰居。",
       "related": {
         "synonyms": "bumble, mess up, screw up",
         "antonyms": "unscrew"
@@ -40,12 +40,12 @@
     {
       "headword": "stumble",
       "inVocab": true,
-      "senseAnchor": "an unsteady uneven gait; an unintentional but embarrassing blunder",
+      "senseAnchor": "掙扎；蹣跚",
       "roleInScript": "溼地滑",
       "humorDevice": "lookalike",
-      "zhGloss": "絆倒",
-      "speakLineEn": "Cue the 溼地滑: stumble walks on and the gag sticks.",
-      "speakLineZh": "請「溼地滑」出場：stumble 一上場梗就黏住——絆倒。",
+      "zhGloss": "掙扎；蹣跚",
+      "speakLineEn": "I stumbled across a long-lost cousin last night in a restaurant.",
+      "speakLineZh": "掙扎；蹣跚。",
       "related": {
         "synonyms": "lurch, stagger, trip, trip-up, misstep, falter",
         "antonyms": ""
@@ -55,12 +55,12 @@
     {
       "headword": "fumble",
       "inVocab": true,
-      "senseAnchor": "(sports) dropping the ball; feel about uncertainly or blindly",
+      "senseAnchor": "笨手笨腳的做；漏接弄丟",
       "roleInScript": "漏接",
       "humorDevice": "lookalike",
-      "zhGloss": "漏接弄丟",
-      "speakLineEn": "Cue the 漏接: fumble walks on and the gag sticks.",
-      "speakLineZh": "請「漏接」出場：fumble 一上場梗就黏住——漏接弄丟。",
+      "zhGloss": "笨手笨腳的做",
+      "speakLineEn": "He fumbled towards the door.",
+      "speakLineZh": "笨手笨腳的做。",
       "related": {
         "synonyms": "muff, grope, blunder, botch, bodge, bumble",
         "antonyms": ""
@@ -74,8 +74,8 @@
       "roleInScript": "縫歪",
       "humorDevice": "lookalike",
       "zhGloss": "拙劣完成",
-      "speakLineEn": "Cue the 縫歪: botch walks on and the gag sticks.",
-      "speakLineZh": "請「縫歪」出場：botch 一上場梗就黏住——拙劣完成。",
+      "speakLineEn": "On the exam, botch most nearly means a sense of \"拙劣完成\".",
+      "speakLineZh": "拙劣完成。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -85,12 +85,12 @@
     {
       "headword": "flub",
       "inVocab": true,
-      "senseAnchor": "搞砸",
+      "senseAnchor": "搞砸；場面：口誤",
       "roleInScript": "口誤",
       "humorDevice": "lookalike",
       "zhGloss": "搞砸",
-      "speakLineEn": "Cue the 口誤: flub walks on and the gag sticks.",
-      "speakLineZh": "請「口誤」出場：flub 一上場梗就黏住——搞砸。",
+      "speakLineEn": "On the exam, flub most nearly means a sense of \"搞砸\".",
+      "speakLineZh": "搞砸。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -101,11 +101,11 @@
       "headword": "trip",
       "inVocab": false,
       "senseAnchor": "絆到",
-      "roleInScript": "絆到",
+      "roleInScript": "絆到角色",
       "humorDevice": "story",
       "zhGloss": "絆到",
-      "speakLineEn": "Cue the 絆到: trip walks on and the gag sticks.",
-      "speakLineZh": "請「絆到」出場：trip 一上場梗就黏住——絆到。",
+      "speakLineEn": "In the passage, trip signals a shift toward \"絆到\".",
+      "speakLineZh": "文中 trip 標示語氣轉向「絆到」。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -116,11 +116,11 @@
       "headword": "floor",
       "inVocab": false,
       "senseAnchor": "地板",
-      "roleInScript": "地板",
+      "roleInScript": "地板角色",
       "humorDevice": "story",
       "zhGloss": "地板",
-      "speakLineEn": "Cue the 地板: floor walks on and the gag sticks.",
-      "speakLineZh": "請「地板」出場：floor 一上場梗就黏住——地板。",
+      "speakLineEn": "Critics argued that the policy would floor basic protections.",
+      "speakLineZh": "批評者主張該政策會地板基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -131,11 +131,11 @@
       "headword": "wetfloor",
       "inVocab": false,
       "senseAnchor": "溼地",
-      "roleInScript": "溼地",
+      "roleInScript": "溼地角色",
       "humorDevice": "story",
       "zhGloss": "溼地",
-      "speakLineEn": "Cue the 溼地: wetfloor walks on and the gag sticks.",
-      "speakLineZh": "請「溼地」出場：wetfloor 一上場梗就黏住——溼地。",
+      "speakLineEn": "Hold the meaning steady: wetfloor means 溼地.",
+      "speakLineZh": "記住考意：wetfloor＝溼地。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -146,11 +146,11 @@
       "headword": "hands",
       "inVocab": false,
       "senseAnchor": "手",
-      "roleInScript": "手",
+      "roleInScript": "手角色",
       "humorDevice": "story",
       "zhGloss": "手",
-      "speakLineEn": "Cue the 手: hands walks on and the gag sticks.",
-      "speakLineZh": "請「手」出場：hands 一上場梗就黏住——手。",
+      "speakLineEn": "Critics argued that the policy would hands basic protections.",
+      "speakLineZh": "批評者主張該政策會手基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -161,11 +161,11 @@
       "headword": "feet",
       "inVocab": false,
       "senseAnchor": "腳",
-      "roleInScript": "腳",
+      "roleInScript": "腳角色",
       "humorDevice": "story",
       "zhGloss": "腳",
-      "speakLineEn": "Cue the 腳: feet walks on and the gag sticks.",
-      "speakLineZh": "請「腳」出場：feet 一上場梗就黏住——腳。",
+      "speakLineEn": "Hold the meaning steady: feet means 腳.",
+      "speakLineZh": "記住考意：feet＝腳。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -176,11 +176,11 @@
       "headword": "mess",
       "inVocab": false,
       "senseAnchor": "一團糟",
-      "roleInScript": "一團糟",
+      "roleInScript": "一團糟角色",
       "humorDevice": "story",
       "zhGloss": "一團糟",
-      "speakLineEn": "Cue the 一團糟: mess walks on and the gag sticks.",
-      "speakLineZh": "請「一團糟」出場：mess 一上場梗就黏住——一團糟。",
+      "speakLineEn": "Critics argued that the policy would mess basic protections.",
+      "speakLineZh": "批評者主張該政策會一團糟基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -191,11 +191,11 @@
       "headword": "corridor",
       "inVocab": false,
       "senseAnchor": "走廊",
-      "roleInScript": "走廊",
+      "roleInScript": "走廊角色",
       "humorDevice": "story",
       "zhGloss": "走廊",
-      "speakLineEn": "Cue the 走廊: corridor walks on and the gag sticks.",
-      "speakLineZh": "請「走廊」出場：corridor 一上場梗就黏住——走廊。",
+      "speakLineEn": "Hold the meaning steady: corridor means 走廊.",
+      "speakLineZh": "記住考意：corridor＝走廊。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,12 +205,12 @@
     {
       "headword": "cone",
       "inVocab": true,
-      "senseAnchor": "any cone-shaped artifact; a shape whose base is a circle and whose sides taper up to a point",
-      "roleInScript": "三角錐",
+      "senseAnchor": "圓錐體；三角錐",
+      "roleInScript": "三角錐角色",
       "humorDevice": "story",
-      "zhGloss": "三角錐",
-      "speakLineEn": "Cue the 三角錐: cone walks on and the gag sticks.",
-      "speakLineZh": "請「三角錐」出場：cone 一上場梗就黏住——三角錐。",
+      "zhGloss": "圓錐體",
+      "speakLineEn": "A careful reader links cone to 三角錐, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 cone 連到「三角錐」，不連形近鄰居。",
       "related": {
         "synonyms": "conoid, strobilus, strobile",
         "antonyms": ""
@@ -232,6 +232,9 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P3-batch03"
+    "stage": "P3-batch03",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave1",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

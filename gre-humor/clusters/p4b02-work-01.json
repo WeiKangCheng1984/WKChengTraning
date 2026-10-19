@@ -10,12 +10,12 @@
     {
       "headword": "sedulous",
       "inVocab": true,
-      "senseAnchor": "marked by care and persistent effort",
+      "senseAnchor": "勤奮的；場面：持續檔",
       "roleInScript": "持續檔",
       "humorDevice": "contrast",
       "zhGloss": "勤奮的",
-      "speakLineEn": "Cue the 持續檔: sedulous walks on and the gag sticks.",
-      "speakLineZh": "請「持續檔」出場：sedulous 一上場梗就黏住——勤奮的。",
+      "speakLineEn": "Sedulous pursuit of legal and moral principles.",
+      "speakLineZh": "勤奮的。",
       "related": {
         "synonyms": "assiduous",
         "antonyms": "lazy, careless"
@@ -25,12 +25,12 @@
     {
       "headword": "industrious",
       "inVocab": true,
-      "senseAnchor": "characterized by hard work and perseverance; working hard to promote an enterprise",
+      "senseAnchor": "勤奮的；場面：工蜂",
       "roleInScript": "工蜂",
       "humorDevice": "contrast",
-      "zhGloss": "勤勞的",
-      "speakLineEn": "Cue the 工蜂: industrious walks on and the gag sticks.",
-      "speakLineZh": "請「工蜂」出場：industrious 一上場梗就黏住——勤勞的。",
+      "zhGloss": "勤奮的",
+      "speakLineEn": "The critic noted her industrious approach to the evidence.",
+      "speakLineZh": "勤奮的。",
       "related": {
         "synonyms": "hardworking, tireless, untiring, energetic, gumptious, up-and-coming",
         "antonyms": "lethargic"
@@ -40,12 +40,12 @@
     {
       "headword": "diligent",
       "inVocab": true,
-      "senseAnchor": "勤奮的",
+      "senseAnchor": "勤奮的；場面：勾選完",
       "roleInScript": "勾選完",
       "humorDevice": "contrast",
       "zhGloss": "勤奮的",
-      "speakLineEn": "Cue the 勾選完: diligent walks on and the gag sticks.",
-      "speakLineZh": "請「勾選完」出場：diligent 一上場梗就黏住——勤奮的。",
+      "speakLineEn": "On the exam, diligent most nearly means a sense of \"勤奮的\".",
+      "speakLineZh": "勤奮的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -59,8 +59,8 @@
       "roleInScript": "放大鏡",
       "humorDevice": "contrast",
       "zhGloss": "一絲不苟的",
-      "speakLineEn": "Cue the 放大鏡: painstaking walks on and the gag sticks.",
-      "speakLineZh": "請「放大鏡」出場：painstaking 一上場梗就黏住——一絲不苟的。",
+      "speakLineEn": "On the exam, painstaking most nearly means a sense of \"一絲不苟的\".",
+      "speakLineZh": "一絲不苟的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -70,12 +70,12 @@
     {
       "headword": "tireless",
       "inVocab": true,
-      "senseAnchor": "不倦的",
+      "senseAnchor": "不倦的；場面：電池滿",
       "roleInScript": "電池滿",
       "humorDevice": "contrast",
       "zhGloss": "不倦的",
-      "speakLineEn": "Cue the 電池滿: tireless walks on and the gag sticks.",
-      "speakLineZh": "請「電池滿」出場：tireless 一上場梗就黏住——不倦的。",
+      "speakLineEn": "On the exam, tireless most nearly means a sense of \"不倦的\".",
+      "speakLineZh": "不倦的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -85,12 +85,12 @@
     {
       "headword": "studious",
       "inVocab": true,
-      "senseAnchor": "好學的",
+      "senseAnchor": "好學的；場面：書架",
       "roleInScript": "書架",
       "humorDevice": "contrast",
       "zhGloss": "好學的",
-      "speakLineEn": "Cue the 書架: studious walks on and the gag sticks.",
-      "speakLineZh": "請「書架」出場：studious 一上場梗就黏住——好學的。",
+      "speakLineEn": "On the exam, studious most nearly means a sense of \"好學的\".",
+      "speakLineZh": "好學的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -100,12 +100,12 @@
     {
       "headword": "persevering",
       "inVocab": true,
-      "senseAnchor": "堅持的",
+      "senseAnchor": "堅持的；場面：攀岩繩",
       "roleInScript": "攀岩繩",
       "humorDevice": "contrast",
       "zhGloss": "堅持的",
-      "speakLineEn": "Cue the 攀岩繩: persevering walks on and the gag sticks.",
-      "speakLineZh": "請「攀岩繩」出場：persevering 一上場梗就黏住——堅持的。",
+      "speakLineEn": "On the exam, persevering most nearly means a sense of \"堅持的\".",
+      "speakLineZh": "堅持的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -115,12 +115,12 @@
     {
       "headword": "dogged",
       "inVocab": true,
-      "senseAnchor": "頑強的",
+      "senseAnchor": "頑強的；場面：咬住不放",
       "roleInScript": "咬住不放",
       "humorDevice": "contrast",
       "zhGloss": "頑強的",
-      "speakLineEn": "Cue the 咬住不放: dogged walks on and the gag sticks.",
-      "speakLineZh": "請「咬住不放」出場：dogged 一上場梗就黏住——頑強的。",
+      "speakLineEn": "On the exam, dogged most nearly means a sense of \"頑強的\".",
+      "speakLineZh": "頑強的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -134,8 +134,8 @@
       "roleInScript": "馬達",
       "humorDevice": "contrast",
       "zhGloss": "不疲倦的",
-      "speakLineEn": "Cue the 馬達: untiring walks on and the gag sticks.",
-      "speakLineZh": "請「馬達」出場：untiring 一上場梗就黏住——不疲倦的。",
+      "speakLineEn": "On the exam, untiring most nearly means a sense of \"不疲倦的\".",
+      "speakLineZh": "不疲倦的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -146,11 +146,11 @@
       "headword": "punchclock",
       "inVocab": false,
       "senseAnchor": "打卡機",
-      "roleInScript": "打卡機",
+      "roleInScript": "打卡機角色",
       "humorDevice": "story",
       "zhGloss": "打卡機",
-      "speakLineEn": "Cue the 打卡機: punchclock walks on and the gag sticks.",
-      "speakLineZh": "請「打卡機」出場：punchclock 一上場梗就黏住——打卡機。",
+      "speakLineEn": "Critics argued that the policy would punchclock basic protections.",
+      "speakLineZh": "批評者主張該政策會打卡機基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -162,11 +162,11 @@
       "headword": "coffee",
       "inVocab": false,
       "senseAnchor": "咖啡",
-      "roleInScript": "咖啡",
+      "roleInScript": "咖啡角色",
       "humorDevice": "story",
       "zhGloss": "咖啡",
-      "speakLineEn": "Cue the 咖啡: coffee walks on and the gag sticks.",
-      "speakLineZh": "請「咖啡」出場：coffee 一上場梗就黏住——咖啡。",
+      "speakLineEn": "Critics argued that the policy would coffee basic protections.",
+      "speakLineZh": "批評者主張該政策會咖啡基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -178,11 +178,11 @@
       "headword": "checklist",
       "inVocab": false,
       "senseAnchor": "清單",
-      "roleInScript": "清單",
+      "roleInScript": "清單角色",
       "humorDevice": "story",
       "zhGloss": "清單",
-      "speakLineEn": "Cue the 清單: checklist walks on and the gag sticks.",
-      "speakLineZh": "請「清單」出場：checklist 一上場梗就黏住——清單。",
+      "speakLineEn": "Hold the meaning steady: checklist means 清單.",
+      "speakLineZh": "記住考意：checklist＝清單。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,9 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P4-batch02"
+    "stage": "P4-batch02",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave2",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

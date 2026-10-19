@@ -40,10 +40,10 @@
     {
       "headword": "terrestrial",
       "inVocab": true,
-      "senseAnchor": "of or relating to or inhabiting the land as opposed to the sea or air; of or relating to or characteristic of the planet Earth or its inhabitants; - L.C.Eiseley",
+      "senseAnchor": "地球的；陸地的",
       "roleInScript": "陸生",
       "humorDevice": "morphology",
-      "zhGloss": "地球的；陸上的",
+      "zhGloss": "地球的；陸地的",
       "speakLineEn": "Terrestrial labs still need cloud backups.",
       "speakLineZh": "陸上實驗室仍需雲端備份。",
       "related": {
@@ -70,7 +70,7 @@
     {
       "headword": "terror",
       "inVocab": false,
-      "senseAnchor": "恐怖",
+      "senseAnchor": "恐怖；場面：恐懼線",
       "roleInScript": "恐懼線",
       "humorDevice": "morphology",
       "zhGloss": "恐怖",
@@ -100,7 +100,7 @@
     {
       "headword": "terrify",
       "inVocab": false,
-      "senseAnchor": "使恐懼",
+      "senseAnchor": "使恐懼；場面：嚇一跳",
       "roleInScript": "嚇一跳",
       "humorDevice": "morphology",
       "zhGloss": "使恐懼",
@@ -115,10 +115,10 @@
     {
       "headword": "deter",
       "inVocab": true,
-      "senseAnchor": "to prevent or discourage from acting, as by means of fear or doubt",
+      "senseAnchor": "恐嚇；阻止",
       "roleInScript": "別靠近牌",
       "humorDevice": "morphology",
-      "zhGloss": "嚇阻；制止",
+      "zhGloss": "恐嚇；阻止",
       "speakLineEn": "Sanctions can deter fabrication.",
       "speakLineZh": "制裁能嚇阻捏造。",
       "related": {
@@ -130,10 +130,10 @@
     {
       "headword": "terrorize",
       "inVocab": true,
-      "senseAnchor": "coerce by violence or with threats; fill with terror; frighten greatly",
+      "senseAnchor": "使恐懼；場面：用怕統治",
       "roleInScript": "用怕統治",
       "humorDevice": "story",
-      "zhGloss": "恐嚇統治",
+      "zhGloss": "使恐懼",
       "speakLineEn": "Do not terrorize teams into fake positives.",
       "speakLineZh": "不要恐嚇團隊做出假陽性。",
       "related": {
@@ -145,7 +145,7 @@
     {
       "headword": "extraterrestrial",
       "inVocab": false,
-      "senseAnchor": "外星的",
+      "senseAnchor": "外星的；場面：地外彩蛋",
       "roleInScript": "地外彩蛋",
       "humorDevice": "story",
       "zhGloss": "外星的",
@@ -160,10 +160,10 @@
     {
       "headword": "territorial",
       "inVocab": true,
-      "senseAnchor": "nonprofessional soldier member of a territorial military unit; a territorial military unit",
+      "senseAnchor": "領地的；場面：護地盤",
       "roleInScript": "護地盤",
       "humorDevice": "story",
-      "zhGloss": "地盤意識的",
+      "zhGloss": "領地的",
       "speakLineEn": "Territorial data hoarding slows science.",
       "speakLineZh": "地盤式囤資料拖慢科學。",
       "related": {
@@ -188,6 +188,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P2-batch02"
+    "stage": "P2-batch02",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

@@ -10,10 +10,10 @@
     {
       "headword": "apathy",
       "inVocab": true,
-      "senseAnchor": "an absence of emotion or enthusiasm; the trait of lacking enthusiasm for or interest in things generally",
+      "senseAnchor": "冷漠；場面：完全不想感",
       "roleInScript": "完全不想感",
       "humorDevice": "morphology",
-      "zhGloss": "冷漠；無興趣",
+      "zhGloss": "冷漠",
       "speakLineEn": "Voter apathy can mute even strong reforms.",
       "speakLineZh": "選民冷漠能使再強的改革也消音。",
       "related": {
@@ -25,10 +25,10 @@
     {
       "headword": "empathy",
       "inVocab": true,
-      "senseAnchor": "understanding and entering into another's feelings",
+      "senseAnchor": "移情；共鳴",
       "roleInScript": "把對方的感受接進來",
       "humorDevice": "morphology",
-      "zhGloss": "同理心；感同身受",
+      "zhGloss": "移情；共鳴",
       "speakLineEn": "Empathy aids interviewing but does not replace coding rules.",
       "speakLineZh": "同理心有助訪談，但不能取代編碼規則。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "pathetic",
       "inVocab": true,
-      "senseAnchor": "deserving or inciting pity; ; ; - Galsworthy; inspiring mixed contempt and pity",
+      "senseAnchor": "可憐的；悲哀的",
       "roleInScript": "感嘆其弱",
       "humorDevice": "morphology",
-      "zhGloss": "可憐的；無力的（常貶）",
+      "zhGloss": "可憐的；悲哀的",
       "speakLineEn": "A pathetic sample size cannot support the claim.",
       "speakLineZh": "可憐的樣本數支撐不起該主張。",
       "related": {
@@ -85,10 +85,10 @@
     {
       "headword": "antipathy",
       "inVocab": true,
-      "senseAnchor": "a feeling of intense dislike; the object of a feeling of intense aversion; something to be avoided",
+      "senseAnchor": "反感；厭惡",
       "roleInScript": "天生排斥感",
       "humorDevice": "morphology",
-      "zhGloss": "反感；憎惡",
+      "zhGloss": "反感；厭惡",
       "speakLineEn": "Mutual antipathy stalled coalition talks.",
       "speakLineZh": "相互反感讓聯盟談判停滯。",
       "related": {
@@ -100,7 +100,7 @@
     {
       "headword": "pathogen",
       "inVocab": true,
-      "senseAnchor": "病原體",
+      "senseAnchor": "病原體；場面：讓身體受苦的東西",
       "roleInScript": "讓身體受苦的東西",
       "humorDevice": "story",
       "zhGloss": "病原體",
@@ -115,10 +115,10 @@
     {
       "headword": "pathology",
       "inVocab": true,
-      "senseAnchor": "the branch of medical science that studies the causes and nature and effects of diseases; any deviation from a healthy or normal condition",
+      "senseAnchor": "病理學的；病態",
       "roleInScript": "研究苦難的學科",
       "humorDevice": "morphology",
-      "zhGloss": "病理；病態",
+      "zhGloss": "病理學的",
       "speakLineEn": "Organizational pathology showed up as chronic delay.",
       "speakLineZh": "組織病態表現為長期拖延。",
       "related": {
@@ -189,6 +189,8 @@
   "qualityGate": {
     "reviewedAt": "2026-10-18",
     "stage": "S2",
-    "note": "New A-level cluster with full lesson"
+    "note": "New A-level cluster with full lesson",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

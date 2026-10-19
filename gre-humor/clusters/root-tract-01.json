@@ -10,10 +10,10 @@
     {
       "headword": "attract",
       "inVocab": true,
-      "senseAnchor": "吸引",
+      "senseAnchor": "吸引；把注意力拉過來",
       "roleInScript": "把目光拉過來",
       "humorDevice": "morphology",
-      "zhGloss": "吸引",
+      "zhGloss": "吸引；把注意力拉過來",
       "speakLineEn": "Clear theses attract careful readers.",
       "speakLineZh": "清楚的論旨能吸引細心的讀者。",
       "related": {
@@ -55,10 +55,10 @@
     {
       "headword": "retract",
       "inVocab": true,
-      "senseAnchor": "formally reject or disavow a formerly held belief, usually under pressure; pull away from a source of disgust or fear",
+      "senseAnchor": "縮回；撤回",
       "roleInScript": "把話拉回來",
       "humorDevice": "morphology",
-      "zhGloss": "撤回；縮回",
+      "zhGloss": "縮回；撤回；正式收回前言",
       "speakLineEn": "The journal asked the authors to retract the paper.",
       "speakLineZh": "期刊要求作者撤回該論文。",
       "related": {
@@ -85,7 +85,7 @@
     {
       "headword": "tractable",
       "inVocab": true,
-      "senseAnchor": "易駕馭的；溫順的；易處理的",
+      "senseAnchor": "易駕馭的；溫順的",
       "roleInScript": "拉得動的繩／人",
       "humorDevice": "morphology",
       "zhGloss": "易駕馭的；溫順的；易處理的",
@@ -115,12 +115,12 @@
     {
       "headword": "traction",
       "inVocab": true,
-      "senseAnchor": "the friction between a body and the surface on which it moves (as between an automobile tire and the road); (orthopedics) the act of pulling on a bone or limb (as in a fracture) to relieve pressure or align parts in a special way during healing",
+      "senseAnchor": "牽引",
       "roleInScript": "牽引繩",
       "humorDevice": "morphology",
       "zhGloss": "牽引",
-      "speakLineEn": "Cue the 牽引繩: traction walks on and the gag sticks.",
-      "speakLineZh": "請「牽引繩」出場：traction 一上場梗就黏住——牽引。",
+      "speakLineEn": "His leg was in traction for several days.",
+      "speakLineZh": "牽引。",
       "related": {
         "synonyms": "grip",
         "antonyms": ""
@@ -130,12 +130,12 @@
     {
       "headword": "detraction",
       "inVocab": true,
-      "senseAnchor": "a petty disparagement; the act of discrediting or detracting from someone's reputation (especially by slander)",
+      "senseAnchor": "貶低；貶損",
       "roleInScript": "貶低章",
       "humorDevice": "morphology",
-      "zhGloss": "貶低",
-      "speakLineEn": "Cue the 貶低章: detraction walks on and the gag sticks.",
-      "speakLineZh": "請「貶低章」出場：detraction 一上場梗就黏住——貶低。",
+      "zhGloss": "貶低；貶損",
+      "speakLineEn": "Let it be no detraction from his merits to say he is plainspoken.",
+      "speakLineZh": "貶低；貶損。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -149,8 +149,8 @@
       "roleInScript": "提取鉗",
       "humorDevice": "morphology",
       "zhGloss": "提取",
-      "speakLineEn": "Cue the 提取鉗: extract walks on and the gag sticks.",
-      "speakLineZh": "請「提取鉗」出場：extract 一上場梗就黏住——提取。",
+      "speakLineEn": "A careful reader links extract to 提取, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 extract 連到「提取」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -164,8 +164,8 @@
       "roleInScript": "契約",
       "humorDevice": "morphology",
       "zhGloss": "契約收縮",
-      "speakLineEn": "Cue the 契約: contract walks on and the gag sticks.",
-      "speakLineZh": "請「契約」出場：contract 一上場梗就黏住——契約收縮。",
+      "speakLineEn": "Picture the 契約: the word contract means 契約收縮.",
+      "speakLineZh": "想像「契約」：contract＝契約收縮。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -175,12 +175,12 @@
     {
       "headword": "subtract",
       "inVocab": false,
-      "senseAnchor": "減去",
+      "senseAnchor": "減去；場面：減號",
       "roleInScript": "減號",
       "humorDevice": "morphology",
       "zhGloss": "減去",
-      "speakLineEn": "Cue the 減號: subtract walks on and the gag sticks.",
-      "speakLineZh": "請「減號」出場：subtract 一上場梗就黏住——減去。",
+      "speakLineEn": "Critics argued that the policy would subtract basic protections.",
+      "speakLineZh": "批評者主張該政策會減去基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -208,6 +208,9 @@
   "qualityGate": {
     "reviewedAt": "2026-10-18",
     "note": "Stage-1 promote: aligned with tract lesson template",
-    "thickenedAt": "P4-batch01"
+    "thickenedAt": "P4-batch01",
+    "polishStage": "Q-wave2",
+    "polishedAt": "2026-10-19",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

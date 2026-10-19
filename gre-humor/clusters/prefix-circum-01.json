@@ -10,10 +10,10 @@
     {
       "headword": "circumvent",
       "inVocab": true,
-      "senseAnchor": "to avoid",
+      "senseAnchor": "躲避；場面：繞規則",
       "roleInScript": "繞規則",
       "humorDevice": "morphology",
-      "zhGloss": "規避；繞過",
+      "zhGloss": "躲避",
       "speakLineEn": "Do not circumvent inclusion criteria.",
       "speakLineZh": "不要規避納入標準。",
       "related": {
@@ -55,7 +55,7 @@
     {
       "headword": "circuitous",
       "inVocab": false,
-      "senseAnchor": "迂回的",
+      "senseAnchor": "迂回的；場面：繞遠路",
       "roleInScript": "繞遠路",
       "humorDevice": "morphology",
       "zhGloss": "迂回的",
@@ -85,7 +85,7 @@
     {
       "headword": "around",
       "inVocab": false,
-      "senseAnchor": "周圍",
+      "senseAnchor": "周圍；場面：一圈",
       "roleInScript": "一圈",
       "humorDevice": "story",
       "zhGloss": "周圍",
@@ -158,6 +158,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch04"
+    "stage": "P2-batch04",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

@@ -10,12 +10,12 @@
     {
       "headword": "prevaricate",
       "inVocab": true,
-      "senseAnchor": "to avoid giving direct answers to hide the truth",
+      "senseAnchor": "撒謊；場面：繞彎",
       "roleInScript": "繞彎",
       "humorDevice": "contrast",
-      "zhGloss": "含糊其詞",
-      "speakLineEn": "Cue the 繞彎: prevaricate walks on and the gag sticks.",
-      "speakLineZh": "請「繞彎」出場：prevaricate 一上場梗就黏住——含糊其詞。",
+      "zhGloss": "撒謊",
+      "speakLineEn": "In that case, they had to prevaricate when asked some pointed questions.",
+      "speakLineZh": "撒謊。",
       "related": {
         "synonyms": "equivocate, fabricate",
         "antonyms": "speak frankly"
@@ -25,12 +25,12 @@
     {
       "headword": "equivocate",
       "inVocab": true,
-      "senseAnchor": "be deliberately ambiguous or unclear in order to mislead or withhold information",
+      "senseAnchor": "模棱兩可；模稜兩可",
       "roleInScript": "雙義嘴",
       "humorDevice": "contrast",
-      "zhGloss": "模稜兩可",
-      "speakLineEn": "Cue the 雙義嘴: equivocate walks on and the gag sticks.",
-      "speakLineZh": "請「雙義嘴」出場：equivocate 一上場梗就黏住——模稜兩可。",
+      "zhGloss": "模棱兩可",
+      "speakLineEn": "In the end, they chose to equivocate what they had once defended.",
+      "speakLineZh": "模棱兩可。",
       "related": {
         "synonyms": "tergiversate, prevaricate, palter",
         "antonyms": "speak frankly"
@@ -40,12 +40,12 @@
     {
       "headword": "canard",
       "inVocab": true,
-      "senseAnchor": "an unfounded or false, deliberately misleading story",
+      "senseAnchor": "謠傳；謠言",
       "roleInScript": "謠傳單",
       "humorDevice": "contrast",
-      "zhGloss": "謠言",
-      "speakLineEn": "Cue the 謠傳單: canard walks on and the gag sticks.",
-      "speakLineZh": "請「謠傳單」出場：canard 一上場梗就黏住——謠言。",
+      "zhGloss": "謠傳",
+      "speakLineEn": "The debate focused on a widespread canard.",
+      "speakLineZh": "謠傳。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -55,12 +55,12 @@
     {
       "headword": "specious",
       "inVocab": true,
-      "senseAnchor": "seeming actually false",
+      "senseAnchor": "似是而非的；華而不實的",
       "roleInScript": "假光澤",
       "humorDevice": "contrast",
-      "zhGloss": "似是而非的",
-      "speakLineEn": "Cue the 假光澤: specious walks on and the gag sticks.",
-      "speakLineZh": "請「假光澤」出場：specious 一上場梗就黏住——似是而非的。",
+      "zhGloss": "似是而非的；華而不實的",
+      "speakLineEn": "In the passage, specious signals a shift toward \"似是而非的\".",
+      "speakLineZh": "文中 specious 標示語氣轉向「似是而非的」。",
       "related": {
         "synonyms": "spurious, forged, artificial, bogus",
         "antonyms": "valid, genuine, authentic, natural"
@@ -70,12 +70,12 @@
     {
       "headword": "dupe",
       "inVocab": true,
-      "senseAnchor": "欺騙",
+      "senseAnchor": "欺騙；場面：好人卡",
       "roleInScript": "好人卡",
       "humorDevice": "contrast",
       "zhGloss": "欺騙",
-      "speakLineEn": "Cue the 好人卡: dupe walks on and the gag sticks.",
-      "speakLineZh": "請「好人卡」出場：dupe 一上場梗就黏住——欺騙。",
+      "speakLineEn": "On the exam, dupe most nearly means a sense of \"欺騙\".",
+      "speakLineZh": "欺騙。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -89,8 +89,8 @@
       "roleInScript": "好騙臉",
       "humorDevice": "contrast",
       "zhGloss": "易受騙的",
-      "speakLineEn": "Cue the 好騙臉: gullible walks on and the gag sticks.",
-      "speakLineZh": "請「好騙臉」出場：gullible 一上場梗就黏住——易受騙的。",
+      "speakLineEn": "On the exam, gullible most nearly means a sense of \"易受騙的\".",
+      "speakLineZh": "易受騙的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -101,11 +101,11 @@
       "headword": "polygraph",
       "inVocab": false,
       "senseAnchor": "測謊儀",
-      "roleInScript": "測謊儀",
+      "roleInScript": "測謊儀角色",
       "humorDevice": "story",
       "zhGloss": "測謊儀",
-      "speakLineEn": "Cue the 測謊儀: polygraph walks on and the gag sticks.",
-      "speakLineZh": "請「測謊儀」出場：polygraph 一上場梗就黏住——測謊儀。",
+      "speakLineEn": "Hold the meaning steady: polygraph means 測謊儀.",
+      "speakLineZh": "記住考意：polygraph＝測謊儀。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -117,11 +117,11 @@
       "headword": "lounge",
       "inVocab": false,
       "senseAnchor": "休息室",
-      "roleInScript": "休息室",
+      "roleInScript": "休息室角色",
       "humorDevice": "story",
       "zhGloss": "休息室",
-      "speakLineEn": "Cue the 休息室: lounge walks on and the gag sticks.",
-      "speakLineZh": "請「休息室」出場：lounge 一上場梗就黏住——休息室。",
+      "speakLineEn": "Hold the meaning steady: lounge means 休息室.",
+      "speakLineZh": "記住考意：lounge＝休息室。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -133,11 +133,11 @@
       "headword": "chair",
       "inVocab": false,
       "senseAnchor": "椅子",
-      "roleInScript": "椅子",
+      "roleInScript": "椅子角色",
       "humorDevice": "story",
       "zhGloss": "椅子",
-      "speakLineEn": "Cue the 椅子: chair walks on and the gag sticks.",
-      "speakLineZh": "請「椅子」出場：chair 一上場梗就黏住——椅子。",
+      "speakLineEn": "In the passage, chair signals a shift toward \"椅子\".",
+      "speakLineZh": "文中 chair 標示語氣轉向「椅子」。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -160,6 +160,9 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P4-batch02"
+    "stage": "P4-batch02",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave2",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

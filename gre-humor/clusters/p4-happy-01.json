@@ -10,12 +10,12 @@
     {
       "headword": "alacrity",
       "inVocab": true,
-      "senseAnchor": "willingness",
+      "senseAnchor": "欣然樂意；欣然迅速",
       "roleInScript": "開罐手",
       "humorDevice": "contrast",
-      "zhGloss": "欣然迅速",
-      "speakLineEn": "Cue the 開罐手: alacrity walks on and the gag sticks.",
-      "speakLineZh": "請「開罐手」出場：alacrity 一上場梗就黏住——欣然迅速。",
+      "zhGloss": "欣然樂意",
+      "speakLineEn": "He accepted with alacrity.",
+      "speakLineZh": "欣然樂意。",
       "related": {
         "synonyms": "briskness, smartness",
         "antonyms": ""
@@ -25,12 +25,12 @@
     {
       "headword": "euphoria",
       "inVocab": true,
-      "senseAnchor": "a feeling of great (usually exaggerated) elation",
+      "senseAnchor": "興奮；狂喜",
       "roleInScript": "泡沫頂",
       "humorDevice": "contrast",
-      "zhGloss": "極度愉快",
-      "speakLineEn": "Cue the 泡沫頂: euphoria walks on and the gag sticks.",
-      "speakLineZh": "請「泡沫頂」出場：euphoria 一上場梗就黏住——極度愉快。",
+      "zhGloss": "興奮；狂喜",
+      "speakLineEn": "A clear sense of euphoria is crucial to understanding the argument.",
+      "speakLineZh": "興奮；狂喜。",
       "related": {
         "synonyms": "euphory",
         "antonyms": "dysphoria"
@@ -40,12 +40,12 @@
     {
       "headword": "euphoric",
       "inVocab": true,
-      "senseAnchor": "exaggerated feeling of well-being or elation",
+      "senseAnchor": "愉悅的；場面：漂浮感",
       "roleInScript": "漂浮感",
       "humorDevice": "contrast",
-      "zhGloss": "狂喜的",
-      "speakLineEn": "Cue the 漂浮感: euphoric walks on and the gag sticks.",
-      "speakLineZh": "請「漂浮感」出場：euphoric 一上場梗就黏住——狂喜的。",
+      "zhGloss": "愉悅的",
+      "speakLineEn": "The critic noted her euphoric approach to the evidence.",
+      "speakLineZh": "愉悅的。",
       "related": {
         "synonyms": "",
         "antonyms": "dysphoric"
@@ -55,12 +55,12 @@
     {
       "headword": "ecstatic",
       "inVocab": true,
-      "senseAnchor": "feeling great rapture or delight",
+      "senseAnchor": "狂喜的；場面：尖叫燈",
       "roleInScript": "尖叫燈",
       "humorDevice": "contrast",
-      "zhGloss": "欣喜若狂的",
-      "speakLineEn": "Cue the 尖叫燈: ecstatic walks on and the gag sticks.",
-      "speakLineZh": "請「尖叫燈」出場：ecstatic 一上場梗就黏住——欣喜若狂的。",
+      "zhGloss": "狂喜的",
+      "speakLineEn": "The critic noted her ecstatic approach to the evidence.",
+      "speakLineZh": "狂喜的。",
       "related": {
         "synonyms": "enraptured, rapturous, rapt, rhapsodic",
         "antonyms": "disenchant"
@@ -70,12 +70,12 @@
     {
       "headword": "exultant",
       "inVocab": true,
-      "senseAnchor": "joyful and proud especially because of triumph or success",
+      "senseAnchor": "狂喜的；場面：高舉杯",
       "roleInScript": "高舉杯",
       "humorDevice": "contrast",
-      "zhGloss": "歡騰的",
-      "speakLineEn": "Cue the 高舉杯: exultant walks on and the gag sticks.",
-      "speakLineZh": "請「高舉杯」出場：exultant 一上場梗就黏住——歡騰的。",
+      "zhGloss": "狂喜的",
+      "speakLineEn": "The critic noted her exultant approach to the evidence.",
+      "speakLineZh": "狂喜的。",
       "related": {
         "synonyms": "exulting, jubilant, prideful, rejoicing, triumphal, triumphant",
         "antonyms": ""
@@ -85,12 +85,12 @@
     {
       "headword": "blithe",
       "inVocab": true,
-      "senseAnchor": "happy and having no worries",
+      "senseAnchor": "無憂無慮的",
       "roleInScript": "吹口哨",
       "humorDevice": "contrast",
-      "zhGloss": "無憂的",
-      "speakLineEn": "Cue the 吹口哨: blithe walks on and the gag sticks.",
-      "speakLineZh": "請「吹口哨」出場：blithe 一上場梗就黏住——無憂的。",
+      "zhGloss": "無憂無慮的",
+      "speakLineEn": "Spoke with blithe ignorance of the true situation.",
+      "speakLineZh": "無憂無慮的。",
       "related": {
         "synonyms": "jocular, jubilant, jovial, mirthful, buoyant",
         "antonyms": "morose, gloomy"
@@ -100,12 +100,12 @@
     {
       "headword": "gaiety",
       "inVocab": true,
-      "senseAnchor": "a gay feeling; a festive merry feeling",
+      "senseAnchor": "快樂；場面：彩帶雨",
       "roleInScript": "彩帶雨",
       "humorDevice": "contrast",
-      "zhGloss": "歡樂",
-      "speakLineEn": "Cue the 彩帶雨: gaiety walks on and the gag sticks.",
-      "speakLineZh": "請「彩帶雨」出場：gaiety 一上場梗就黏住——歡樂。",
+      "zhGloss": "快樂",
+      "speakLineEn": "A clear sense of gaiety is crucial to understanding the argument.",
+      "speakLineZh": "快樂。",
       "related": {
         "synonyms": "merriment, playfulness",
         "antonyms": ""
@@ -115,12 +115,12 @@
     {
       "headword": "delectation",
       "inVocab": true,
-      "senseAnchor": "a feeling of extreme pleasure or satisfaction; act of receiving pleasure from something",
+      "senseAnchor": "愉快；款待",
       "roleInScript": "甜點盤",
       "humorDevice": "contrast",
-      "zhGloss": "愉悅",
-      "speakLineEn": "Cue the 甜點盤: delectation walks on and the gag sticks.",
-      "speakLineZh": "請「甜點盤」出場：delectation 一上場梗就黏住——愉悅。",
+      "zhGloss": "愉快；款待",
+      "speakLineEn": "A clear sense of delectation is crucial to understanding the argument.",
+      "speakLineZh": "愉快；款待。",
       "related": {
         "synonyms": "delight, enjoyment",
         "antonyms": "disenchant, displease"
@@ -130,12 +130,12 @@
     {
       "headword": "jubilant",
       "inVocab": true,
-      "senseAnchor": "joyful and proud especially because of triumph or success; full of high-spirited delight",
+      "senseAnchor": "歡樂的；場面：跳起來",
       "roleInScript": "跳起來",
       "humorDevice": "contrast",
-      "zhGloss": "歡欣的",
-      "speakLineEn": "Cue the 跳起來: jubilant walks on and the gag sticks.",
-      "speakLineZh": "請「跳起來」出場：jubilant 一上場梗就黏住——歡欣的。",
+      "zhGloss": "歡樂的",
+      "speakLineEn": "The critic noted her jubilant approach to the evidence.",
+      "speakLineZh": "歡樂的。",
       "related": {
         "synonyms": "exultant, exulting, prideful, rejoicing, triumphal, triumphant",
         "antonyms": ""
@@ -149,8 +149,8 @@
       "roleInScript": "偷笑",
       "humorDevice": "contrast",
       "zhGloss": "得意洋洋的",
-      "speakLineEn": "Cue the 偷笑: gleeful walks on and the gag sticks.",
-      "speakLineZh": "請「偷笑」出場：gleeful 一上場梗就黏住——得意洋洋的。",
+      "speakLineEn": "On the exam, gleeful most nearly means a sense of \"得意洋洋的\".",
+      "speakLineZh": "得意洋洋的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -160,12 +160,12 @@
     {
       "headword": "mirth",
       "inVocab": true,
-      "senseAnchor": "great merriment",
+      "senseAnchor": "歡笑；場面：笑聲泡",
       "roleInScript": "笑聲泡",
       "humorDevice": "contrast",
       "zhGloss": "歡笑",
-      "speakLineEn": "Cue the 笑聲泡: mirth walks on and the gag sticks.",
-      "speakLineZh": "請「笑聲泡」出場：mirth 一上場梗就黏住——歡笑。",
+      "speakLineEn": "A clear sense of mirth is crucial to understanding the argument.",
+      "speakLineZh": "歡笑。",
       "related": {
         "synonyms": "hilarity, mirthfulness, glee, gleefulness",
         "antonyms": ""
@@ -176,11 +176,11 @@
       "headword": "soda",
       "inVocab": false,
       "senseAnchor": "汽水",
-      "roleInScript": "汽水",
+      "roleInScript": "汽水角色",
       "humorDevice": "story",
       "zhGloss": "汽水",
-      "speakLineEn": "Cue the 汽水: soda walks on and the gag sticks.",
-      "speakLineZh": "請「汽水」出場：soda 一上場梗就黏住——汽水。",
+      "speakLineEn": "In the passage, soda signals a shift toward \"汽水\".",
+      "speakLineZh": "文中 soda 標示語氣轉向「汽水」。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -192,11 +192,11 @@
       "headword": "foam",
       "inVocab": false,
       "senseAnchor": "泡沫",
-      "roleInScript": "泡沫",
+      "roleInScript": "泡沫角色",
       "humorDevice": "story",
       "zhGloss": "泡沫",
-      "speakLineEn": "Cue the 泡沫: foam walks on and the gag sticks.",
-      "speakLineZh": "請「泡沫」出場：foam 一上場梗就黏住——泡沫。",
+      "speakLineEn": "In the passage, foam signals a shift toward \"泡沫\".",
+      "speakLineZh": "文中 foam 標示語氣轉向「泡沫」。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -207,12 +207,12 @@
     {
       "headword": "balloon",
       "inVocab": true,
-      "senseAnchor": "to increase rapidly",
-      "roleInScript": "氣球",
+      "senseAnchor": "迅速增加；氣球",
+      "roleInScript": "氣球角色",
       "humorDevice": "story",
-      "zhGloss": "氣球",
-      "speakLineEn": "Cue the 氣球: balloon walks on and the gag sticks.",
-      "speakLineZh": "請「氣球」出場：balloon 一上場梗就黏住——氣球。",
+      "zhGloss": "迅速增加",
+      "speakLineEn": "He tried to balloon around the earth but storms forced him to land in China.",
+      "speakLineZh": "迅速增加。",
       "related": {
         "synonyms": "burgeon發芽, mushroom, snowball, wax",
         "antonyms": "toadstool, wane"
@@ -223,11 +223,11 @@
       "headword": "confetti",
       "inVocab": false,
       "senseAnchor": "彩紙",
-      "roleInScript": "彩紙",
+      "roleInScript": "彩紙角色",
       "humorDevice": "story",
       "zhGloss": "彩紙",
-      "speakLineEn": "Cue the 彩紙: confetti walks on and the gag sticks.",
-      "speakLineZh": "請「彩紙」出場：confetti 一上場梗就黏住——彩紙。",
+      "speakLineEn": "Critics argued that the policy would confetti basic protections.",
+      "speakLineZh": "批評者主張該政策會彩紙基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -250,6 +250,9 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P4-batch01"
+    "stage": "P4-batch01",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave2",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

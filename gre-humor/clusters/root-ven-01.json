@@ -10,7 +10,7 @@
     {
       "headword": "intervene",
       "inVocab": true,
-      "senseAnchor": "介入",
+      "senseAnchor": "介入；場面：插進來",
       "roleInScript": "插進來",
       "humorDevice": "morphology",
       "zhGloss": "介入",
@@ -25,10 +25,10 @@
     {
       "headword": "convene",
       "inVocab": true,
-      "senseAnchor": "meet formally; call together",
+      "senseAnchor": "集合；場面：叫來到齊",
       "roleInScript": "叫來到齊",
       "humorDevice": "morphology",
-      "zhGloss": "召集",
+      "zhGloss": "集合",
       "speakLineEn": "Convene the DSMB after unexpected deaths.",
       "speakLineZh": "非預期死亡後召集安全委員會。",
       "related": {
@@ -40,7 +40,7 @@
     {
       "headword": "invent",
       "inVocab": true,
-      "senseAnchor": "發明",
+      "senseAnchor": "發明；場面：做出未來之物到來",
       "roleInScript": "做出未來之物到來",
       "humorDevice": "morphology",
       "zhGloss": "發明",
@@ -55,7 +55,7 @@
     {
       "headword": "prevent",
       "inVocab": true,
-      "senseAnchor": "防止",
+      "senseAnchor": "防止；場面：擋住到來",
       "roleInScript": "擋住到來",
       "humorDevice": "morphology",
       "zhGloss": "防止",
@@ -70,7 +70,7 @@
     {
       "headword": "event",
       "inVocab": true,
-      "senseAnchor": "事件",
+      "senseAnchor": "事件；場面：到來發生的事",
       "roleInScript": "到來發生的事",
       "humorDevice": "story",
       "zhGloss": "事件",
@@ -85,7 +85,7 @@
     {
       "headword": "adventure",
       "inVocab": true,
-      "senseAnchor": "冒險",
+      "senseAnchor": "冒險；場面：大膽前來",
       "roleInScript": "大膽前來",
       "humorDevice": "story",
       "zhGloss": "冒險",
@@ -100,7 +100,7 @@
     {
       "headword": "revenue",
       "inVocab": true,
-      "senseAnchor": "the entire amount of income before any deductions are made; government income due to taxation",
+      "senseAnchor": "收入；場面：進來的錢",
       "roleInScript": "進來的錢",
       "humorDevice": "morphology",
       "zhGloss": "收入",
@@ -160,10 +160,10 @@
     {
       "headword": "vent",
       "inVocab": true,
-      "senseAnchor": "a hole for the escape of gas or air; external opening of urinary or genital system of a lower vertebrate",
+      "senseAnchor": "通風口；發泄",
       "roleInScript": "出氣",
       "humorDevice": "story",
-      "zhGloss": "出口；發洩",
+      "zhGloss": "通風口；發泄",
       "speakLineEn": "Use the discussion to vent limitations, not excuses.",
       "speakLineZh": "討論段發洩限制，不是藉口。",
       "related": {
@@ -205,7 +205,7 @@
     {
       "headword": "prevention",
       "inVocab": true,
-      "senseAnchor": "預防",
+      "senseAnchor": "預防；場面：防止體系",
       "roleInScript": "防止體系",
       "humorDevice": "morphology",
       "zhGloss": "預防",
@@ -248,6 +248,8 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "S3b"
+    "stage": "S3b",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

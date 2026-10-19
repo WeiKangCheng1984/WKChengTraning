@@ -25,7 +25,7 @@
     {
       "headword": "mediation",
       "inVocab": true,
-      "senseAnchor": "調解",
+      "senseAnchor": "調解；場面：喝茶過程",
       "roleInScript": "喝茶過程",
       "humorDevice": "morphology",
       "zhGloss": "調解",
@@ -40,7 +40,7 @@
     {
       "headword": "mediator",
       "inVocab": true,
-      "senseAnchor": "調解人",
+      "senseAnchor": "調解人；場面：倒茶的人",
       "roleInScript": "倒茶的人",
       "humorDevice": "morphology",
       "zhGloss": "調解人",
@@ -55,10 +55,10 @@
     {
       "headword": "mediocre",
       "inVocab": true,
-      "senseAnchor": "ordinary, common",
+      "senseAnchor": "普通的；平庸的",
       "roleInScript": "特調其實普通",
       "humorDevice": "morphology",
-      "zhGloss": "平庸的",
+      "zhGloss": "普通的",
       "speakLineEn": "Mediocre abstracts bury the contribution.",
       "speakLineZh": "平庸摘要埋掉貢獻。",
       "related": {
@@ -130,7 +130,7 @@
     {
       "headword": "remedial",
       "inVocab": true,
-      "senseAnchor": "補救的",
+      "senseAnchor": "補救的；場面：拉回中線重學",
       "roleInScript": "拉回中線重學",
       "humorDevice": "morphology",
       "zhGloss": "補救的",
@@ -145,7 +145,7 @@
     {
       "headword": "intermediary",
       "inVocab": true,
-      "senseAnchor": "中間人",
+      "senseAnchor": "中間人；場面：傳話茶僮",
       "roleInScript": "傳話茶僮",
       "humorDevice": "story",
       "zhGloss": "中間人",
@@ -160,7 +160,7 @@
     {
       "headword": "median",
       "inVocab": true,
-      "senseAnchor": "中位數",
+      "senseAnchor": "中位數；場面：正中間那杯",
       "roleInScript": "正中間那杯",
       "humorDevice": "story",
       "zhGloss": "中位數",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P2-batch01"
+    "stage": "P2-batch01",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

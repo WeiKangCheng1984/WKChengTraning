@@ -5,17 +5,17 @@
   "titleZh": "orphan G｜G滑梯口",
   "titleEn": "Orphan G",
   "hook": "差集 G 專場開在G滑梯口——名牌用中文，防止走失。",
-  "script": "gabble/gadfly/gaffe/gambol 先登台，其餘 orphan 接龍。清倉晚會續攤：同字母檢票，義核才是身份證。",
+  "script": "gabble/gadfly/gaffe/gambol 先登台，其餘 orphan 接龍。清倉晚會續攤：同字母檢票，義核才是身份證。串記：同一世界觀裡，每個詞都有固定動作位。登場：gabble（G席-快而不清）、gadfly（G席-n. 惹）、gaffe（G席-失態；過）、gambol（G席-雀躍）、gander（G席-呆子）、gangly（G席-收場的）。",
   "members": [
     {
       "headword": "gabble",
       "inVocab": true,
-      "senseAnchor": "rapid and indistinct speech; speak (about unimportant matters) rapidly and incessantly",
+      "senseAnchor": "快而不清楚的說",
       "roleInScript": "G席-快而不清",
       "humorDevice": "morphology",
       "zhGloss": "快而不清楚的說",
-      "speakLineEn": "Cue the G席-快而不清: gabble walks on and the gag sticks.",
-      "speakLineZh": "請「G席-快而不清」出場：gabble 一上場梗就黏住——快而不清楚的說。",
+      "speakLineEn": "A clear sense of gabble is crucial to understanding the argument.",
+      "speakLineZh": "快而不清楚的說。",
       "related": {
         "synonyms": "jabber, jabbering, chatter, piffle, palaver, prate",
         "antonyms": ""
@@ -25,12 +25,12 @@
     {
       "headword": "gadfly",
       "inVocab": true,
-      "senseAnchor": "an annoying person",
+      "senseAnchor": "惹人討厭的人",
       "roleInScript": "G席-n. 惹",
       "humorDevice": "morphology",
-      "zhGloss": "n. 惹人討厭的人",
-      "speakLineEn": "Cue the G席-n. 惹: gadfly walks on and the gag sticks.",
-      "speakLineZh": "請「G席-n. 惹」出場：gadfly 一上場梗就黏住——n. 惹人討厭的人。",
+      "zhGloss": "惹人討厭的人",
+      "speakLineEn": "The debate focused on a political gadfly.",
+      "speakLineZh": "惹人討厭的人。",
       "related": {
         "synonyms": "pest, blighter, cuss, pesterer",
         "antonyms": ""
@@ -40,12 +40,12 @@
     {
       "headword": "gaffe",
       "inVocab": true,
-      "senseAnchor": "a socially awkward or tactless act",
+      "senseAnchor": "失態；過失",
       "roleInScript": "G席-失態；過",
       "humorDevice": "morphology",
       "zhGloss": "失態；過失",
-      "speakLineEn": "Cue the G席-失態；過: gaffe walks on and the gag sticks.",
-      "speakLineZh": "請「G席-失態；過」出場：gaffe 一上場梗就黏住——失態；過失。",
+      "speakLineEn": "A clear sense of gaffe is crucial to understanding the argument.",
+      "speakLineZh": "失態；過失。",
       "related": {
         "synonyms": "solecism, slip, gaucherie",
         "antonyms": "urbanity"
@@ -55,12 +55,12 @@
     {
       "headword": "gambol",
       "inVocab": true,
-      "senseAnchor": "gay or light-hearted recreational activity for diversion or amusement; play boisterously",
+      "senseAnchor": "雀躍",
       "roleInScript": "G席-雀躍",
       "humorDevice": "morphology",
       "zhGloss": "雀躍",
-      "speakLineEn": "Cue the G席-雀躍: gambol walks on and the gag sticks.",
-      "speakLineZh": "請「G席-雀躍」出場：gambol 一上場梗就黏住——雀躍。",
+      "speakLineEn": "The gamboling lambs in the meadows.",
+      "speakLineZh": "雀躍。",
       "related": {
         "synonyms": "play, frolic, romp, caper, lark, rollick",
         "antonyms": "tightness"
@@ -70,12 +70,12 @@
     {
       "headword": "gander",
       "inVocab": true,
-      "senseAnchor": "mature male goose",
+      "senseAnchor": "呆子",
       "roleInScript": "G席-呆子",
       "humorDevice": "morphology",
       "zhGloss": "呆子",
-      "speakLineEn": "Cue the G席-呆子: gander walks on and the gag sticks.",
-      "speakLineZh": "請「G席-呆子」出場：gander 一上場梗就黏住——呆子。",
+      "speakLineEn": "A clear sense of gander is crucial to understanding the argument.",
+      "speakLineZh": "呆子。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -85,12 +85,12 @@
     {
       "headword": "gangly",
       "inVocab": true,
-      "senseAnchor": "tall and thin and having long slender limbs; tall and thin",
+      "senseAnchor": "收場的",
       "roleInScript": "G席-收場的",
       "humorDevice": "morphology",
       "zhGloss": "收場的",
-      "speakLineEn": "Cue the G席-收場的: gangly walks on and the gag sticks.",
-      "speakLineZh": "請「G席-收場的」出場：gangly 一上場梗就黏住——收場的。",
+      "speakLineEn": "The critic noted her gangly approach to the evidence.",
+      "speakLineZh": "收場的。",
       "related": {
         "synonyms": "gangling, lanky, rangy",
         "antonyms": ""
@@ -100,12 +100,12 @@
     {
       "headword": "garble",
       "inVocab": true,
-      "senseAnchor": "make false by mutilation or addition; as of a message or story",
+      "senseAnchor": "篡改",
       "roleInScript": "G席-篡改",
       "humorDevice": "morphology",
       "zhGloss": "篡改",
-      "speakLineEn": "Cue the G席-篡改: garble walks on and the gag sticks.",
-      "speakLineZh": "請「G席-篡改」出場：garble 一上場梗就黏住——篡改。",
+      "speakLineEn": "In the end, they chose to garble what they had once defended.",
+      "speakLineZh": "篡改。",
       "related": {
         "synonyms": "falsify, distort, warp",
         "antonyms": "correct, untwist"
@@ -115,12 +115,12 @@
     {
       "headword": "gargantuan",
       "inVocab": true,
-      "senseAnchor": "of great mass; huge and bulky",
+      "senseAnchor": "巨大的",
       "roleInScript": "G席-巨大的",
       "humorDevice": "morphology",
       "zhGloss": "巨大的",
-      "speakLineEn": "Cue the G席-巨大的: gargantuan walks on and the gag sticks.",
-      "speakLineZh": "請「G席-巨大的」出場：gargantuan 一上場梗就黏住——巨大的。",
+      "speakLineEn": "The critic noted her gargantuan approach to the evidence.",
+      "speakLineZh": "巨大的。",
       "related": {
         "synonyms": "elephantine, giant, jumbo",
         "antonyms": ""
@@ -130,12 +130,12 @@
     {
       "headword": "garish",
       "inVocab": true,
-      "senseAnchor": "tastelessly showy",
+      "senseAnchor": "豔俗的",
       "roleInScript": "G席-豔俗的",
       "humorDevice": "morphology",
       "zhGloss": "豔俗的",
-      "speakLineEn": "Cue the G席-豔俗的: garish walks on and the gag sticks.",
-      "speakLineZh": "請「G席-豔俗的」出場：garish 一上場梗就黏住——豔俗的。",
+      "speakLineEn": "Picture the G席-豔俗的: the word garish means 豔俗的.",
+      "speakLineZh": "想像「G席-豔俗的」：garish＝豔俗的。",
       "related": {
         "synonyms": "brassy, cheap, flash, flashy, gaudy, gimcrack",
         "antonyms": "expensive"
@@ -145,12 +145,12 @@
     {
       "headword": "garner",
       "inVocab": true,
-      "senseAnchor": "a storehouse for threshed grain or animal feed; acquire or deserve by one's efforts or actions",
+      "senseAnchor": "穀倉；獲得",
       "roleInScript": "G席-穀倉；獲",
       "humorDevice": "morphology",
       "zhGloss": "穀倉；獲得",
-      "speakLineEn": "Cue the G席-穀倉；獲: garner walks on and the gag sticks.",
-      "speakLineZh": "請「G席-穀倉；獲」出場：garner 一上場梗就黏住——穀倉；獲得。",
+      "speakLineEn": "A clear sense of garner is crucial to understanding the argument.",
+      "speakLineZh": "穀倉；獲得。",
       "related": {
         "synonyms": "granary, earn, gather, collect",
         "antonyms": "spread"
@@ -160,12 +160,12 @@
     {
       "headword": "garnish",
       "inVocab": true,
-      "senseAnchor": "something (such as parsley) added to a dish for flavor or decoration; any decoration added as a trimming or adornment",
+      "senseAnchor": "裝飾",
       "roleInScript": "G席-裝飾",
       "humorDevice": "morphology",
       "zhGloss": "裝飾",
-      "speakLineEn": "Cue the G席-裝飾: garnish walks on and the gag sticks.",
-      "speakLineZh": "請「G席-裝飾」出場：garnish 一上場梗就黏住——裝飾。",
+      "speakLineEn": "His employer garnished his wages in order to pay his debt.",
+      "speakLineZh": "裝飾。",
       "related": {
         "synonyms": "garnishee, trim, dress",
         "antonyms": "undress"
@@ -175,12 +175,12 @@
     {
       "headword": "garrulity",
       "inVocab": true,
-      "senseAnchor": "the quality of being wordy and talkative",
+      "senseAnchor": "饒舌",
       "roleInScript": "G席-饒舌",
       "humorDevice": "morphology",
       "zhGloss": "饒舌",
-      "speakLineEn": "Cue the G席-饒舌: garrulity walks on and the gag sticks.",
-      "speakLineZh": "請「G席-饒舌」出場：garrulity 一上場梗就黏住——饒舌。",
+      "speakLineEn": "A clear sense of garrulity is crucial to understanding the argument.",
+      "speakLineZh": "饒舌。",
       "related": {
         "synonyms": "garrulousness, loquaciousness, loquacity, talkativeness",
         "antonyms": ""
@@ -190,12 +190,12 @@
     {
       "headword": "gauche",
       "inVocab": true,
-      "senseAnchor": "lacking social polish",
+      "senseAnchor": "缺乏社交經驗的",
       "roleInScript": "G席-缺乏社交",
       "humorDevice": "morphology",
       "zhGloss": "缺乏社交經驗的",
-      "speakLineEn": "Cue the G席-缺乏社交: gauche walks on and the gag sticks.",
-      "speakLineZh": "請「G席-缺乏社交」出場：gauche 一上場梗就黏住——缺乏社交經驗的。",
+      "speakLineEn": "Too gauche to leave the room when the conversation became intimate.",
+      "speakLineZh": "缺乏社交經驗的。",
       "related": {
         "synonyms": "graceless, unpolished",
         "antonyms": "polished"
@@ -205,12 +205,12 @@
     {
       "headword": "gaudy",
       "inVocab": true,
-      "senseAnchor": "(Britain) a celebratory reunion feast or entertainment held a college; tastelessly showy",
+      "senseAnchor": "俗麗的",
       "roleInScript": "G席-俗麗的",
       "humorDevice": "morphology",
       "zhGloss": "俗麗的",
-      "speakLineEn": "Cue the G席-俗麗的: gaudy walks on and the gag sticks.",
-      "speakLineZh": "請「G席-俗麗的」出場：gaudy 一上場梗就黏住——俗麗的。",
+      "speakLineEn": "Critics argued that the policy would gaudy basic protections.",
+      "speakLineZh": "批評者主張該政策會俗麗的基本保障。",
       "related": {
         "synonyms": "brassy, cheap, flash, flashy, garish, gimcrack",
         "antonyms": "expensive"
@@ -232,6 +232,9 @@
   "priority": "C",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P4-batch02"
+    "stage": "P4-batch02",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave2",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

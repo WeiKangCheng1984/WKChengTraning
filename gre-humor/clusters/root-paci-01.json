@@ -10,10 +10,10 @@
     {
       "headword": "pacify",
       "inVocab": true,
-      "senseAnchor": "cause to be more favorably inclined; gain the good will of; fight violence and try to establish peace in (a location)",
+      "senseAnchor": "安慰；平息",
       "roleInScript": "按住怒火",
       "humorDevice": "morphology",
-      "zhGloss": "平息；安撫",
+      "zhGloss": "安慰；平息",
       "speakLineEn": "Pacify reviewer concerns with evidence.",
       "speakLineZh": "用證據平息審稿疑慮。",
       "related": {
@@ -70,7 +70,7 @@
     {
       "headword": "peace",
       "inVocab": true,
-      "senseAnchor": "和平",
+      "senseAnchor": "和平；場面：停戰旗",
       "roleInScript": "停戰旗",
       "humorDevice": "morphology",
       "zhGloss": "和平",
@@ -100,7 +100,7 @@
     {
       "headword": "truce",
       "inVocab": true,
-      "senseAnchor": "a state of peace agreed to between opponents so they can discuss peace terms",
+      "senseAnchor": "休戰",
       "roleInScript": "休戰協定",
       "humorDevice": "story",
       "zhGloss": "休戰",
@@ -130,10 +130,10 @@
     {
       "headword": "reconcile",
       "inVocab": true,
-      "senseAnchor": "make (one thing) compatible with (another); bring into consonance or accord",
+      "senseAnchor": "調解；調和",
       "roleInScript": "對帳和解",
       "humorDevice": "story",
-      "zhGloss": "和解；核對一致",
+      "zhGloss": "調解；調和",
       "speakLineEn": "Reconcile codebook and code before lock.",
       "speakLineZh": "鎖定前和解編碼簿與程式。",
       "related": {
@@ -173,6 +173,8 @@
   "priority": "C",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch05"
+    "stage": "P2-batch05",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

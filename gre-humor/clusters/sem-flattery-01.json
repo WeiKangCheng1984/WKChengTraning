@@ -10,10 +10,10 @@
     {
       "headword": "sycophant",
       "inVocab": true,
-      "senseAnchor": "a person who tries to please someone in order to gain a personal advantage",
+      "senseAnchor": "諂媚者；馬屁精",
       "roleInScript": "職業馬屁精",
       "humorDevice": "phonetic",
-      "zhGloss": "諂媚者",
+      "zhGloss": "諂媚者；馬屁精；奉承討好",
       "speakLineEn": "A sycophant praises power, not evidence.",
       "speakLineZh": "諂媚者歌頌的是權力，不是證據。",
       "related": {
@@ -25,10 +25,10 @@
     {
       "headword": "toady",
       "inVocab": true,
-      "senseAnchor": "a person who tries to please someone in order to gain a personal advantage; try to gain favor by cringing or flattering",
+      "senseAnchor": "拍馬屁；諂媚",
       "roleInScript": "馬屁精備位",
       "humorDevice": "contrast",
-      "zhGloss": "馬屁精；諂媚者",
+      "zhGloss": "拍馬屁；諂媚；奉承討好",
       "speakLineEn": "He dismissed the aide as a political toady.",
       "speakLineZh": "他把那名助理斥為政治馬屁精。",
       "related": {
@@ -55,7 +55,7 @@
     {
       "headword": "arrogant",
       "inVocab": true,
-      "senseAnchor": "傲慢的",
+      "senseAnchor": "傲慢的；場面：對面傲嬌",
       "roleInScript": "對面傲嬌",
       "humorDevice": "contrast",
       "zhGloss": "傲慢的",
@@ -70,10 +70,10 @@
     {
       "headword": "supercilious",
       "inVocab": true,
-      "senseAnchor": "feeling or showing haughty disdain",
+      "senseAnchor": "高傲的；傲慢的",
       "roleInScript": "睫毛在頭頂看人",
       "humorDevice": "morphology",
-      "zhGloss": "目空一切的；高傲的",
+      "zhGloss": "高傲的；傲慢的",
       "speakLineEn": "Her supercilious smile dismissed the objection.",
       "speakLineZh": "她目空一切的笑把異議掃掉。",
       "related": {
@@ -85,10 +85,10 @@
     {
       "headword": "imperious",
       "inVocab": true,
-      "senseAnchor": "having or showing arrogant superiority to and disdain of those one views as unworthy; ; ; ; ; ; ; - W.L.Shirer",
+      "senseAnchor": "傲慢的；場面：命令式傲嬌",
       "roleInScript": "命令式傲嬌",
       "humorDevice": "contrast",
-      "zhGloss": "專橫的；霸道的",
+      "zhGloss": "傲慢的",
       "speakLineEn": "An imperious email rarely invites collaboration.",
       "speakLineZh": "專橫的郵件很少帶來合作。",
       "related": {
@@ -100,12 +100,12 @@
     {
       "headword": "disdainful",
       "inVocab": false,
-      "senseAnchor": "輕蔑的",
+      "senseAnchor": "輕蔑的；場面：翻白眼",
       "roleInScript": "翻白眼",
       "humorDevice": "contrast",
       "zhGloss": "輕蔑的",
-      "speakLineEn": "Cue the 翻白眼: disdainful walks on and the gag sticks.",
-      "speakLineZh": "請「翻白眼」出場：disdainful 一上場梗就黏住——輕蔑的。",
+      "speakLineEn": "In the passage, disdainful signals a shift toward \"輕蔑的\".",
+      "speakLineZh": "文中 disdainful 標示語氣轉向「輕蔑的」。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -119,8 +119,8 @@
       "roleInScript": "叩頭",
       "humorDevice": "contrast",
       "zhGloss": "叩頭奉承",
-      "speakLineEn": "Cue the 叩頭: kowtow walks on and the gag sticks.",
-      "speakLineZh": "請「叩頭」出場：kowtow 一上場梗就黏住——叩頭奉承。",
+      "speakLineEn": "A careful reader links kowtow to 叩頭奉承, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 kowtow 連到「叩頭奉承」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -147,6 +147,9 @@
   "qualityGate": {
     "reviewedAt": "2026-10-18",
     "note": "Stage-1 promote: aligned with tract lesson template",
-    "thickenedAt": "P4-batch01"
+    "thickenedAt": "P4-batch01",
+    "polishStage": "Q-wave2",
+    "polishedAt": "2026-10-19",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

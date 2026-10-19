@@ -10,7 +10,7 @@
     {
       "headword": "evident",
       "inVocab": true,
-      "senseAnchor": "明顯的",
+      "senseAnchor": "明顯的；場面：看得見",
       "roleInScript": "看得見",
       "humorDevice": "morphology",
       "zhGloss": "明顯的",
@@ -25,7 +25,7 @@
     {
       "headword": "provide",
       "inVocab": true,
-      "senseAnchor": "提供",
+      "senseAnchor": "提供；場面：預先看顧而給",
       "roleInScript": "預先看顧而給",
       "humorDevice": "morphology",
       "zhGloss": "提供",
@@ -40,7 +40,7 @@
     {
       "headword": "provident",
       "inVocab": true,
-      "senseAnchor": "providing carefully for the future; careful in regard to your own interests",
+      "senseAnchor": "有遠見的；節儉的",
       "roleInScript": "看得遠",
       "humorDevice": "morphology",
       "zhGloss": "有遠見的；節儉的",
@@ -55,7 +55,7 @@
     {
       "headword": "revise",
       "inVocab": true,
-      "senseAnchor": "修訂",
+      "senseAnchor": "修訂；場面：再看改過",
       "roleInScript": "再看改過",
       "humorDevice": "morphology",
       "zhGloss": "修訂",
@@ -70,7 +70,7 @@
     {
       "headword": "supervise",
       "inVocab": true,
-      "senseAnchor": "監督",
+      "senseAnchor": "監督；場面：看管",
       "roleInScript": "看管",
       "humorDevice": "morphology",
       "zhGloss": "監督",
@@ -100,7 +100,7 @@
     {
       "headword": "visible",
       "inVocab": true,
-      "senseAnchor": "可見的",
+      "senseAnchor": "可見的；場面：能看見",
       "roleInScript": "能看見",
       "humorDevice": "morphology",
       "zhGloss": "可見的",
@@ -130,7 +130,7 @@
     {
       "headword": "visit",
       "inVocab": true,
-      "senseAnchor": "造訪",
+      "senseAnchor": "造訪；場面：走去看",
       "roleInScript": "走去看",
       "humorDevice": "story",
       "zhGloss": "造訪",
@@ -145,7 +145,7 @@
     {
       "headword": "visual",
       "inVocab": true,
-      "senseAnchor": "視覺的",
+      "senseAnchor": "視覺的；場面：用眼睛看的",
       "roleInScript": "用眼睛看的",
       "humorDevice": "morphology",
       "zhGloss": "視覺的",
@@ -160,7 +160,7 @@
     {
       "headword": "evidence",
       "inVocab": true,
-      "senseAnchor": "證據",
+      "senseAnchor": "證據；場面：看得見的憑據",
       "roleInScript": "看得見的憑據",
       "humorDevice": "morphology",
       "zhGloss": "證據",
@@ -175,10 +175,10 @@
     {
       "headword": "improvise",
       "inVocab": true,
-      "senseAnchor": "performed with little or no preparation",
+      "senseAnchor": "即興創作",
       "roleInScript": "臨時看著辦",
       "humorDevice": "morphology",
-      "zhGloss": "即興",
+      "zhGloss": "即興創作",
       "speakLineEn": "Do not improvise exclusion rules after peeking.",
       "speakLineZh": "偷看後不要即興訂排除規則。",
       "related": {
@@ -190,10 +190,10 @@
     {
       "headword": "invidious",
       "inVocab": true,
-      "senseAnchor": "containing or implying a slight or showing prejudice",
+      "senseAnchor": "誹謗的；招忌的",
       "roleInScript": "看起來惹人厭的比較",
       "humorDevice": "morphology",
-      "zhGloss": "招忌的；不公平比較的",
+      "zhGloss": "誹謗的",
       "speakLineEn": "Invidious rankings ignore uncertainty.",
       "speakLineZh": "招忌排名忽略不確定性。",
       "related": {
@@ -220,7 +220,7 @@
     {
       "headword": "visibility",
       "inVocab": true,
-      "senseAnchor": "可見度",
+      "senseAnchor": "可見度；場面：能見程度",
       "roleInScript": "能見程度",
       "humorDevice": "morphology",
       "zhGloss": "可見度",
@@ -248,6 +248,8 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "S3b"
+    "stage": "S3b",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

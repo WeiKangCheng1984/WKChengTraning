@@ -20,7 +20,7 @@
       "step": 2,
       "name": "串記劇本",
       "minutes": 2,
-      "content": "beget＝產生／導致。beset＝困擾／圍攻。保全：結果從左邊出門，麻煩從右邊堵門；別把「生出問題」寫成「被問題圍住」卻用錯動詞。"
+      "content": "beget＝產生／導致。beset＝困擾／圍攻。保全：結果從左邊出門，麻煩從右邊堵門；別把「生出問題」寫成「被問題圍住」卻用錯動詞。形近對決：先分清語意軸，再對號入座。登場：beget（因果門）、beset（包圍錐）、cause（原因）、arrow（箭頭）、problem（問題）、blockade（封鎖）。"
     },
     {
       "step": 3,
@@ -91,6 +91,8 @@
   "status": "reviewed",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P3-batch03"
+    "stage": "P3-batch03",
+    "polishStage": "Q-wave2",
+    "polishedAt": "2026-10-19"
   }
 }

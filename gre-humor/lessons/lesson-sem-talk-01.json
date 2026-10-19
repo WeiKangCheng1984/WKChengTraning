@@ -20,7 +20,7 @@
       "step": 2,
       "name": "串記劇本",
       "minutes": 2,
-      "content": "會議室左排 taciturn、reticent、laconic——能不說就不說；右排 loquacious、garrulous、verbose——停不下來。"
+      "content": "會議室左排 taciturn、reticent、laconic——能不說就不說；右排 loquacious、garrulous、verbose——停不下來。語義對打：兩邊語氣相反，考試選「褒貶／強弱」對的那側。登場：taciturn（倒吸涼氣派）、reticent（有話留半句）、laconic（短到像密碼）、loquacious（話匣子）、garrulous（嘎嚕嚕老母雞）、verbose（字數膨脹）。"
     },
     {
       "step": 3,
@@ -98,6 +98,8 @@
       "reviewHooks ≥2",
       "pitfalls ≥1",
       "quiz ×3 sense-accurate"
-    ]
+    ],
+    "polishStage": "Q-wave2",
+    "polishedAt": "2026-10-19"
   }
 }

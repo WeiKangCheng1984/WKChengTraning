@@ -40,7 +40,7 @@
     {
       "headword": "assist",
       "inVocab": false,
-      "senseAnchor": "協助",
+      "senseAnchor": "協助；場面：扶一把",
       "roleInScript": "扶一把",
       "humorDevice": "phonetic",
       "zhGloss": "協助",
@@ -55,7 +55,7 @@
     {
       "headword": "assistance",
       "inVocab": false,
-      "senseAnchor": "協助",
+      "senseAnchor": "協助；場面：扶助",
       "roleInScript": "扶助",
       "humorDevice": "phonetic",
       "zhGloss": "協助",
@@ -85,7 +85,7 @@
     {
       "headword": "consistent",
       "inVocab": false,
-      "senseAnchor": "一致的",
+      "senseAnchor": "一致的；場面：站成一貫",
       "roleInScript": "站成一貫",
       "humorDevice": "phonetic",
       "zhGloss": "一致的",
@@ -100,7 +100,7 @@
     {
       "headword": "exist",
       "inVocab": false,
-      "senseAnchor": "存在",
+      "senseAnchor": "存在；場面：站在世界上",
       "roleInScript": "站在世界上",
       "humorDevice": "phonetic",
       "zhGloss": "存在",
@@ -173,6 +173,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch03"
+    "stage": "P2-batch03",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

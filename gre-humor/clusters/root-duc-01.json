@@ -10,7 +10,7 @@
     {
       "headword": "conduct",
       "inVocab": true,
-      "senseAnchor": "引導；實施；行為",
+      "senseAnchor": "引導；實施",
       "roleInScript": "帶隊前進",
       "humorDevice": "morphology",
       "zhGloss": "引導；實施；行為",
@@ -25,7 +25,7 @@
     {
       "headword": "induce",
       "inVocab": true,
-      "senseAnchor": "引起；勸誘；歸納",
+      "senseAnchor": "引起；勸誘",
       "roleInScript": "把結論引出來",
       "humorDevice": "morphology",
       "zhGloss": "引起；勸誘；歸納",
@@ -70,7 +70,7 @@
     {
       "headword": "educate",
       "inVocab": false,
-      "senseAnchor": "教育",
+      "senseAnchor": "教育；場面：引出無知",
       "roleInScript": "引出無知",
       "humorDevice": "story",
       "zhGloss": "教育",
@@ -100,7 +100,7 @@
     {
       "headword": "viaduct",
       "inVocab": true,
-      "senseAnchor": "高架橋",
+      "senseAnchor": "高架橋；場面：引路跨過山谷",
       "roleInScript": "引路跨過山谷",
       "humorDevice": "story",
       "zhGloss": "高架橋",
@@ -160,7 +160,7 @@
     {
       "headword": "introduction",
       "inVocab": false,
-      "senseAnchor": "引言；介紹；導入",
+      "senseAnchor": "引言；介紹",
       "roleInScript": "把讀者引進來",
       "humorDevice": "story",
       "zhGloss": "引言；介紹；導入",
@@ -189,6 +189,8 @@
   "qualityGate": {
     "reviewedAt": "2026-10-18",
     "stage": "S2",
-    "note": "New A-level cluster with full lesson"
+    "note": "New A-level cluster with full lesson",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

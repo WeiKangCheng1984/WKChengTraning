@@ -10,12 +10,12 @@
     {
       "headword": "incredulity",
       "inVocab": true,
-      "senseAnchor": "不輕信",
+      "senseAnchor": "不輕信；場面：不信臉",
       "roleInScript": "不信臉",
       "humorDevice": "lookalike",
       "zhGloss": "不輕信",
-      "speakLineEn": "Cue the 不信臉: incredulity walks on and the gag sticks.",
-      "speakLineZh": "請「不信臉」出場：incredulity 一上場梗就黏住——不輕信。",
+      "speakLineEn": "On the exam, incredulity most nearly means a sense of \"不輕信\".",
+      "speakLineZh": "不輕信。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -29,8 +29,8 @@
       "roleInScript": "輕信坑",
       "humorDevice": "lookalike",
       "zhGloss": "輕信",
-      "speakLineEn": "Cue the 輕信坑: credulity walks on and the gag sticks.",
-      "speakLineZh": "請「輕信坑」出場：credulity 一上場梗就黏住——輕信。",
+      "speakLineEn": "On the exam, credulity most nearly means a sense of \"輕信\".",
+      "speakLineZh": "輕信。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -44,8 +44,8 @@
       "roleInScript": "懷疑雲",
       "humorDevice": "lookalike",
       "zhGloss": "懷疑",
-      "speakLineEn": "Cue the 懷疑雲: dubiety walks on and the gag sticks.",
-      "speakLineZh": "請「懷疑雲」出場：dubiety 一上場梗就黏住——懷疑。",
+      "speakLineEn": "On the exam, dubiety most nearly means a sense of \"懷疑\".",
+      "speakLineZh": "懷疑。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -56,11 +56,11 @@
       "headword": "amazement",
       "inVocab": false,
       "senseAnchor": "驚異",
-      "roleInScript": "驚異",
+      "roleInScript": "驚異角色",
       "humorDevice": "lookalike",
       "zhGloss": "驚異",
-      "speakLineEn": "Cue the 驚異: amazement walks on and the gag sticks.",
-      "speakLineZh": "請「驚異」出場：amazement 一上場梗就黏住——驚異。",
+      "speakLineEn": "Hold the meaning steady: amazement means 驚異.",
+      "speakLineZh": "記住考意：amazement＝驚異。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -71,11 +71,11 @@
       "headword": "astonishment",
       "inVocab": true,
       "senseAnchor": "驚訝",
-      "roleInScript": "驚訝",
+      "roleInScript": "驚訝角色",
       "humorDevice": "lookalike",
       "zhGloss": "驚訝",
-      "speakLineEn": "Cue the 驚訝: astonishment walks on and the gag sticks.",
-      "speakLineZh": "請「驚訝」出場：astonishment 一上場梗就黏住——驚訝。",
+      "speakLineEn": "On the exam, astonishment most nearly means a sense of \"驚訝\".",
+      "speakLineZh": "驚訝。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -86,11 +86,11 @@
       "headword": "stupefaction",
       "inVocab": true,
       "senseAnchor": "驚呆",
-      "roleInScript": "驚呆",
+      "roleInScript": "驚呆角色",
       "humorDevice": "lookalike",
       "zhGloss": "驚呆",
-      "speakLineEn": "Cue the 驚呆: stupefaction walks on and the gag sticks.",
-      "speakLineZh": "請「驚呆」出場：stupefaction 一上場梗就黏住——驚呆。",
+      "speakLineEn": "On the exam, stupefaction most nearly means a sense of \"驚呆\".",
+      "speakLineZh": "驚呆。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -101,11 +101,11 @@
       "headword": "wonderment",
       "inVocab": true,
       "senseAnchor": "驚奇",
-      "roleInScript": "驚奇",
+      "roleInScript": "驚奇角色",
       "humorDevice": "lookalike",
       "zhGloss": "驚奇",
-      "speakLineEn": "Cue the 驚奇: wonderment walks on and the gag sticks.",
-      "speakLineZh": "請「驚奇」出場：wonderment 一上場梗就黏住——驚奇。",
+      "speakLineEn": "On the exam, wonderment most nearly means a sense of \"驚奇\".",
+      "speakLineZh": "驚奇。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -116,11 +116,11 @@
       "headword": "stage",
       "inVocab": false,
       "senseAnchor": "舞台",
-      "roleInScript": "舞台",
+      "roleInScript": "舞台角色",
       "humorDevice": "story",
       "zhGloss": "舞台",
-      "speakLineEn": "Cue the 舞台: stage walks on and the gag sticks.",
-      "speakLineZh": "請「舞台」出場：stage 一上場梗就黏住——舞台。",
+      "speakLineEn": "Hold the meaning steady: stage means 舞台.",
+      "speakLineZh": "記住考意：stage＝舞台。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -131,11 +131,11 @@
       "headword": "audience",
       "inVocab": true,
       "senseAnchor": "觀眾",
-      "roleInScript": "觀眾",
+      "roleInScript": "觀眾角色",
       "humorDevice": "story",
       "zhGloss": "觀眾",
-      "speakLineEn": "Cue the 觀眾: audience walks on and the gag sticks.",
-      "speakLineZh": "請「觀眾」出場：audience 一上場梗就黏住——觀眾。",
+      "speakLineEn": "On the exam, audience most nearly means a sense of \"觀眾\".",
+      "speakLineZh": "觀眾。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -146,11 +146,11 @@
       "headword": "gasp",
       "inVocab": true,
       "senseAnchor": "倒抽氣",
-      "roleInScript": "倒抽氣",
+      "roleInScript": "倒抽氣角色",
       "humorDevice": "story",
       "zhGloss": "倒抽氣",
-      "speakLineEn": "Cue the 倒抽氣: gasp walks on and the gag sticks.",
-      "speakLineZh": "請「倒抽氣」出場：gasp 一上場梗就黏住——倒抽氣。",
+      "speakLineEn": "On the exam, gasp most nearly means a sense of \"倒抽氣\".",
+      "speakLineZh": "倒抽氣。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -161,11 +161,11 @@
       "headword": "eyebrow",
       "inVocab": true,
       "senseAnchor": "挑眉",
-      "roleInScript": "挑眉",
+      "roleInScript": "挑眉角色",
       "humorDevice": "story",
       "zhGloss": "挑眉",
-      "speakLineEn": "Cue the 挑眉: eyebrow walks on and the gag sticks.",
-      "speakLineZh": "請「挑眉」出場：eyebrow 一上場梗就黏住——挑眉。",
+      "speakLineEn": "On the exam, eyebrow most nearly means a sense of \"挑眉\".",
+      "speakLineZh": "挑眉。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -176,11 +176,11 @@
       "headword": "magic",
       "inVocab": true,
       "senseAnchor": "魔術",
-      "roleInScript": "魔術",
+      "roleInScript": "魔術角色",
       "humorDevice": "story",
       "zhGloss": "魔術",
-      "speakLineEn": "Cue the 魔術: magic walks on and the gag sticks.",
-      "speakLineZh": "請「魔術」出場：magic 一上場梗就黏住——魔術。",
+      "speakLineEn": "On the exam, magic most nearly means a sense of \"魔術\".",
+      "speakLineZh": "魔術。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -191,11 +191,11 @@
       "headword": "curtaincall",
       "inVocab": true,
       "senseAnchor": "謝幕",
-      "roleInScript": "謝幕",
+      "roleInScript": "謝幕角色",
       "humorDevice": "story",
       "zhGloss": "謝幕",
-      "speakLineEn": "Cue the 謝幕: curtaincall walks on and the gag sticks.",
-      "speakLineZh": "請「謝幕」出場：curtaincall 一上場梗就黏住——謝幕。",
+      "speakLineEn": "On the exam, curtaincall most nearly means a sense of \"謝幕\".",
+      "speakLineZh": "謝幕。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -206,11 +206,11 @@
       "headword": "doubtface",
       "inVocab": true,
       "senseAnchor": "懷疑臉",
-      "roleInScript": "懷疑臉",
+      "roleInScript": "懷疑臉角色",
       "humorDevice": "story",
       "zhGloss": "懷疑臉",
-      "speakLineEn": "Cue the 懷疑臉: doubtface walks on and the gag sticks.",
-      "speakLineZh": "請「懷疑臉」出場：doubtface 一上場梗就黏住——懷疑臉。",
+      "speakLineEn": "On the exam, doubtface most nearly means a sense of \"懷疑臉\".",
+      "speakLineZh": "懷疑臉。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -221,11 +221,11 @@
       "headword": "wow",
       "inVocab": false,
       "senseAnchor": "哇",
-      "roleInScript": "哇",
+      "roleInScript": "哇角色",
       "humorDevice": "story",
       "zhGloss": "哇",
-      "speakLineEn": "Cue the 哇: wow walks on and the gag sticks.",
-      "speakLineZh": "請「哇」出場：wow 一上場梗就黏住——哇。",
+      "speakLineEn": "A careful reader links wow to 哇, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 wow 連到「哇」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -247,6 +247,9 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P3-batch02"
+    "stage": "P3-batch02",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave1",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

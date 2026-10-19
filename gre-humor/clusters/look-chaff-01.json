@@ -5,17 +5,17 @@
   "titleZh": "chaff／chagrin／cherubic｜打趣更衣室",
   "titleEn": "Chaff Locker Room",
   "hook": "chaff 是打趣玩笑，chagrin 是懊惱，cherubic 是天使臉——更衣室三面鏡子：玩笑、懊惱、無辜。",
-  "script": "chaff＝打趣。chagrin＝懊惱失望。cherubic＝天使般天真。教練：開玩笑別笑得失控，懊惱別寫成天使臉，三個詞共用 ch- 開頭但情緒完全不同。",
+  "script": "chaff＝打趣。chagrin＝懊惱失望。cherubic＝天使般天真。教練：開玩笑別笑得失控，懊惱別寫成天使臉，三個詞共用 ch- 開頭但情緒完全不同。形近對決：先分清語意軸，再對號入座。登場：chaff（玩笑鏡）、chagrin（懊惱鏡）、cherubic（無辜鏡）、chary（小心帽）、tease（逗弄）、angel（天使）。",
   "members": [
     {
       "headword": "chaff",
       "inVocab": true,
-      "senseAnchor": "material consisting of seed coverings and small pieces of stem or leaves that have been separated from the seeds; foil in thin strips; ejected into the air as a radar countermeasure",
+      "senseAnchor": "開玩笑；場面：玩笑鏡",
       "roleInScript": "玩笑鏡",
       "humorDevice": "lookalike",
-      "zhGloss": "打趣",
-      "speakLineEn": "Cue the 玩笑鏡: chaff walks on and the gag sticks.",
-      "speakLineZh": "請「玩笑鏡」出場：chaff 一上場梗就黏住——打趣。",
+      "zhGloss": "開玩笑",
+      "speakLineEn": "A clear sense of chaff is crucial to understanding the argument.",
+      "speakLineZh": "開玩笑。",
       "related": {
         "synonyms": "husk, shuck, stalk, straw, stubble, kid",
         "antonyms": "parent"
@@ -25,12 +25,12 @@
     {
       "headword": "chagrin",
       "inVocab": true,
-      "senseAnchor": "anxiety",
+      "senseAnchor": "不安；懊惱",
       "roleInScript": "懊惱鏡",
       "humorDevice": "lookalike",
-      "zhGloss": "懊惱",
-      "speakLineEn": "Cue the 懊惱鏡: chagrin walks on and the gag sticks.",
-      "speakLineZh": "請「懊惱鏡」出場：chagrin 一上場梗就黏住——懊惱。",
+      "zhGloss": "不安；懊惱",
+      "speakLineEn": "In academic English, writers may refer to the to someone’s chagrin.",
+      "speakLineZh": "不安，懊惱。",
       "related": {
         "synonyms": "vexation, disquiet, unease",
         "antonyms": ""
@@ -40,12 +40,12 @@
     {
       "headword": "cherubic",
       "inVocab": true,
-      "senseAnchor": "having a sweet nature befitting an angel or cherub",
+      "senseAnchor": "嬰兒般的；天使般的",
       "roleInScript": "無辜鏡",
       "humorDevice": "lookalike",
-      "zhGloss": "天使般的",
-      "speakLineEn": "Cue the 無辜鏡: cherubic walks on and the gag sticks.",
-      "speakLineZh": "請「無辜鏡」出場：cherubic 一上場梗就黏住——天使般的。",
+      "zhGloss": "嬰兒般的",
+      "speakLineEn": "In the passage, cherubic signals a shift toward \"天使般的\".",
+      "speakLineZh": "文中 cherubic 標示語氣轉向「天使般的」。",
       "related": {
         "synonyms": "angelic, angelical, seraphic, sweet",
         "antonyms": "dry, salty, sour"
@@ -55,12 +55,12 @@
     {
       "headword": "chary",
       "inVocab": true,
-      "senseAnchor": "謹慎的",
+      "senseAnchor": "謹慎的；場面：小心帽",
       "roleInScript": "小心帽",
       "humorDevice": "lookalike",
       "zhGloss": "謹慎的",
-      "speakLineEn": "Cue the 小心帽: chary walks on and the gag sticks.",
-      "speakLineZh": "請「小心帽」出場：chary 一上場梗就黏住——謹慎的。",
+      "speakLineEn": "On the exam, chary most nearly means a sense of \"謹慎的\".",
+      "speakLineZh": "謹慎的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -70,12 +70,12 @@
     {
       "headword": "tease",
       "inVocab": true,
-      "senseAnchor": "someone given to teasing (as by mocking or stirring curiosity); a seductive woman who uses her sex appeal to exploit men",
-      "roleInScript": "逗弄",
+      "senseAnchor": "取笑；逗弄",
+      "roleInScript": "逗弄角色",
       "humorDevice": "story",
-      "zhGloss": "逗弄",
-      "speakLineEn": "Cue the 逗弄: tease walks on and the gag sticks.",
-      "speakLineZh": "請「逗弄」出場：tease 一上場梗就黏住——逗弄。",
+      "zhGloss": "取笑",
+      "speakLineEn": "Tease appears here: She has a way of teasing men with her flirtatious behavior.",
+      "speakLineZh": "取笑。",
       "related": {
         "synonyms": "teaser, annoyer, vexer, coquette, flirt, vamp",
         "antonyms": ""
@@ -86,11 +86,11 @@
       "headword": "angel",
       "inVocab": false,
       "senseAnchor": "天使",
-      "roleInScript": "天使",
+      "roleInScript": "天使角色",
       "humorDevice": "story",
       "zhGloss": "天使",
-      "speakLineEn": "Cue the 天使: angel walks on and the gag sticks.",
-      "speakLineZh": "請「天使」出場：angel 一上場梗就黏住——天使。",
+      "speakLineEn": "In the passage, angel signals a shift toward \"天使\".",
+      "speakLineZh": "文中 angel 標示語氣轉向「天使」。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -101,11 +101,11 @@
       "headword": "locker",
       "inVocab": false,
       "senseAnchor": "更衣室",
-      "roleInScript": "更衣室",
+      "roleInScript": "更衣室角色",
       "humorDevice": "story",
       "zhGloss": "更衣室",
-      "speakLineEn": "Cue the 更衣室: locker walks on and the gag sticks.",
-      "speakLineZh": "請「更衣室」出場：locker 一上場梗就黏住——更衣室。",
+      "speakLineEn": "Critics argued that the policy would locker basic protections.",
+      "speakLineZh": "批評者主張該政策會更衣室基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -116,11 +116,11 @@
       "headword": "joke",
       "inVocab": false,
       "senseAnchor": "玩笑",
-      "roleInScript": "玩笑",
+      "roleInScript": "玩笑角色",
       "humorDevice": "story",
       "zhGloss": "玩笑",
-      "speakLineEn": "Cue the 玩笑: joke walks on and the gag sticks.",
-      "speakLineZh": "請「玩笑」出場：joke 一上場梗就黏住——玩笑。",
+      "speakLineEn": "A careful reader links joke to 玩笑, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 joke 連到「玩笑」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -130,12 +130,12 @@
     {
       "headword": "frown",
       "inVocab": true,
-      "senseAnchor": "to show displeasure or disapproval especially by facial expression",
-      "roleInScript": "皺眉",
+      "senseAnchor": "皺眉；厭惡",
+      "roleInScript": "皺眉角色",
       "humorDevice": "story",
-      "zhGloss": "皺眉",
-      "speakLineEn": "Cue the 皺眉: frown walks on and the gag sticks.",
-      "speakLineZh": "請「皺眉」出場：frown 一上場梗就黏住——皺眉。",
+      "zhGloss": "皺眉；厭惡",
+      "speakLineEn": "In that case, they had to frown upon divorce.",
+      "speakLineZh": "皺眉，厭惡。",
       "related": {
         "synonyms": "scowl, glower, lour, lower",
         "antonyms": "high, raise"
@@ -146,11 +146,11 @@
       "headword": "coach",
       "inVocab": false,
       "senseAnchor": "教練",
-      "roleInScript": "教練",
+      "roleInScript": "教練角色",
       "humorDevice": "story",
       "zhGloss": "教練",
-      "speakLineEn": "Cue the 教練: coach walks on and the gag sticks.",
-      "speakLineZh": "請「教練」出場：coach 一上場梗就黏住——教練。",
+      "speakLineEn": "Hold the meaning steady: coach means 教練.",
+      "speakLineZh": "記住考意：coach＝教練。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -161,11 +161,11 @@
       "headword": "blush",
       "inVocab": false,
       "senseAnchor": "臉紅",
-      "roleInScript": "臉紅",
+      "roleInScript": "臉紅角色",
       "humorDevice": "story",
       "zhGloss": "臉紅",
-      "speakLineEn": "Cue the 臉紅: blush walks on and the gag sticks.",
-      "speakLineZh": "請「臉紅」出場：blush 一上場梗就黏住——臉紅。",
+      "speakLineEn": "Critics argued that the policy would blush basic protections.",
+      "speakLineZh": "批評者主張該政策會臉紅基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -176,11 +176,11 @@
       "headword": "wink",
       "inVocab": false,
       "senseAnchor": "眨眼",
-      "roleInScript": "眨眼",
+      "roleInScript": "眨眼角色",
       "humorDevice": "story",
       "zhGloss": "眨眼",
-      "speakLineEn": "Cue the 眨眼: wink walks on and the gag sticks.",
-      "speakLineZh": "請「眨眼」出場：wink 一上場梗就黏住——眨眼。",
+      "speakLineEn": "A careful reader links wink to 眨眼, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 wink 連到「眨眼」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -191,11 +191,11 @@
       "headword": "sigh",
       "inVocab": false,
       "senseAnchor": "嘆氣",
-      "roleInScript": "嘆氣",
+      "roleInScript": "嘆氣角色",
       "humorDevice": "story",
       "zhGloss": "嘆氣",
-      "speakLineEn": "Cue the 嘆氣: sigh walks on and the gag sticks.",
-      "speakLineZh": "請「嘆氣」出場：sigh 一上場梗就黏住——嘆氣。",
+      "speakLineEn": "A careful reader links sigh to 嘆氣, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 sigh 連到「嘆氣」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -206,11 +206,11 @@
       "headword": "halo",
       "inVocab": false,
       "senseAnchor": "光環",
-      "roleInScript": "光環",
+      "roleInScript": "光環角色",
       "humorDevice": "story",
       "zhGloss": "光環",
-      "speakLineEn": "Cue the 光環: halo walks on and the gag sticks.",
-      "speakLineZh": "請「光環」出場：halo 一上場梗就黏住——光環。",
+      "speakLineEn": "Critics argued that the policy would halo basic protections.",
+      "speakLineZh": "批評者主張該政策會光環基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -232,6 +232,9 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P3-batch03"
+    "stage": "P3-batch03",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave2",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

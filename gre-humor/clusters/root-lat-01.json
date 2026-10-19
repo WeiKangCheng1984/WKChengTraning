@@ -10,10 +10,10 @@
     {
       "headword": "lateral",
       "inVocab": true,
-      "senseAnchor": "a pass to a receiver upfield from the passer; situated at or extending to the side; ; - Tennyson",
+      "senseAnchor": "側面的；場面：側滑閃人",
       "roleInScript": "側滑閃人",
       "humorDevice": "morphology",
-      "zhGloss": "側面的；橫向的",
+      "zhGloss": "側面的",
       "speakLineEn": "Try a lateral check, not a louder claim.",
       "speakLineZh": "試橫向檢查，不是更大聲主張。",
       "related": {
@@ -40,7 +40,7 @@
     {
       "headword": "relation",
       "inVocab": true,
-      "senseAnchor": "關係",
+      "senseAnchor": "關係；場面：連線圖",
       "roleInScript": "連線圖",
       "humorDevice": "morphology",
       "zhGloss": "關係",
@@ -70,10 +70,10 @@
     {
       "headword": "dilate",
       "inVocab": true,
-      "senseAnchor": "become wider; add details, as to an account or idea; clarify the meaning of and discourse in a learned way, usually in writing",
+      "senseAnchor": "膨脹；變大",
       "roleInScript": "拉開瞳孔",
       "humorDevice": "morphology",
-      "zhGloss": "擴張；詳述",
+      "zhGloss": "膨脹；變大",
       "speakLineEn": "Do not dilate anecdotes into causal proof.",
       "speakLineZh": "別把軼事擴成因果證明。",
       "related": {
@@ -85,10 +85,10 @@
     {
       "headword": "elated",
       "inVocab": true,
-      "senseAnchor": "fill with high spirits; fill with optimism; exultantly proud and joyful; in high spirits",
+      "senseAnchor": "洋洋得意的；喜悅的",
       "roleInScript": "開心飄",
       "humorDevice": "morphology",
-      "zhGloss": "興高采烈的",
+      "zhGloss": "洋洋得意的；喜悅的",
       "speakLineEn": "Stay curious when elated by a significant p.",
       "speakLineZh": "被顯著 p 沖昏時仍保持好奇。",
       "related": {
@@ -100,10 +100,10 @@
     {
       "headword": "collate",
       "inVocab": true,
-      "senseAnchor": "compare critically; of texts; to assemble in proper sequence",
+      "senseAnchor": "對應；對照",
       "roleInScript": "對表員",
       "humorDevice": "morphology",
-      "zhGloss": "核對整理",
+      "zhGloss": "對應；對照",
       "speakLineEn": "Collate code, data, and codebook before submission.",
       "speakLineZh": "投稿前核對程式、資料與編碼簿。",
       "related": {
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch05"
+    "stage": "P2-batch05",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

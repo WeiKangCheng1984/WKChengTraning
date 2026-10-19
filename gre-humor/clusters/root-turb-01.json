@@ -40,10 +40,10 @@
     {
       "headword": "turbulent",
       "inVocab": true,
-      "senseAnchor": "marked by sudden or violent disturbance",
+      "senseAnchor": "動盪的；混亂的",
       "roleInScript": "氣流亂",
       "humorDevice": "morphology",
-      "zhGloss": "動盪的；湍流的",
+      "zhGloss": "動盪的；混亂的",
       "speakLineEn": "Turbulent incentives reward flashy claims.",
       "speakLineZh": "動盪誘因獎勵炫目主張。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "turbid",
       "inVocab": true,
-      "senseAnchor": "(of liquids) clouded as with sediment",
+      "senseAnchor": "渾濁的；場面：水混看不清",
       "roleInScript": "水混看不清",
       "humorDevice": "morphology",
-      "zhGloss": "混濁的",
+      "zhGloss": "渾濁的",
       "speakLineEn": "Turbid prose hides weak identification.",
       "speakLineZh": "混濁文風掩蓋弱識別。",
       "related": {
@@ -85,10 +85,10 @@
     {
       "headword": "imperturbable",
       "inVocab": true,
-      "senseAnchor": "not easily perturbed or excited or upset; marked by extreme calm and composure",
+      "senseAnchor": "鎮定的；冷靜的",
       "roleInScript": "穩到擾不動",
       "humorDevice": "morphology",
-      "zhGloss": "沉著的；不可擾的",
+      "zhGloss": "鎮定的；冷靜的",
       "speakLineEn": "Stay imperturbable when critique arrives.",
       "speakLineZh": "批評到來時保持沉著。",
       "related": {
@@ -115,7 +115,7 @@
     {
       "headword": "perturbation",
       "inVocab": false,
-      "senseAnchor": "微擾",
+      "senseAnchor": "微擾；場面：推一把",
       "roleInScript": "推一把",
       "humorDevice": "story",
       "zhGloss": "微擾",
@@ -145,10 +145,10 @@
     {
       "headword": "stir",
       "inVocab": true,
-      "senseAnchor": "a prominent or sensational but short-lived news event; emotional agitation and excitement",
+      "senseAnchor": "攪拌；場面：攪一下",
       "roleInScript": "攪一下",
       "humorDevice": "story",
-      "zhGloss": "攪動",
+      "zhGloss": "攪拌",
       "speakLineEn": "Stir debate without stirring personal attacks.",
       "speakLineZh": "攪動辯論但不攪動人身攻擊。",
       "related": {
@@ -175,7 +175,7 @@
     {
       "headword": "calm",
       "inVocab": false,
-      "senseAnchor": "平靜",
+      "senseAnchor": "平靜；場面：反擾流",
       "roleInScript": "反擾流",
       "humorDevice": "story",
       "zhGloss": "平靜",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P2-batch02"
+    "stage": "P2-batch02",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

@@ -10,10 +10,10 @@
     {
       "headword": "benevolent",
       "inVocab": true,
-      "senseAnchor": "intending or showing kindness; showing or motivated by sympathy and understanding and generosity",
+      "senseAnchor": "友善的；慈善的",
       "roleInScript": "好開關",
       "humorDevice": "morphology",
-      "zhGloss": "仁慈的",
+      "zhGloss": "友善的；慈善的",
       "speakLineEn": "A benevolent funder still demands transparency.",
       "speakLineZh": "仁慈金主仍要求透明。",
       "related": {
@@ -55,10 +55,10 @@
     {
       "headword": "malign",
       "inVocab": true,
-      "senseAnchor": "say unpleasant and untrue things",
+      "senseAnchor": "誹謗；場面：壞嘴／惡性",
       "roleInScript": "壞嘴／惡性",
       "humorDevice": "morphology",
-      "zhGloss": "誹謗；惡性的",
+      "zhGloss": "誹謗",
       "speakLineEn": "Do not malign critics to dodge critique.",
       "speakLineZh": "不要用誹謗評論者來躲避批評。",
       "related": {
@@ -70,7 +70,7 @@
     {
       "headword": "malicious",
       "inVocab": true,
-      "senseAnchor": "惡意的",
+      "senseAnchor": "惡意的；場面：壞心眼",
       "roleInScript": "壞心眼",
       "humorDevice": "morphology",
       "zhGloss": "惡意的",
@@ -85,10 +85,10 @@
     {
       "headword": "malady",
       "inVocab": true,
-      "senseAnchor": "a disease or illness",
+      "senseAnchor": "疾病；場面：壞病",
       "roleInScript": "壞病",
       "humorDevice": "morphology",
-      "zhGloss": "疾病；弊病",
+      "zhGloss": "疾病",
       "speakLineEn": "P-hacking is a systemic malady.",
       "speakLineZh": "p 操弄是系統性弊病。",
       "related": {
@@ -100,10 +100,10 @@
     {
       "headword": "malfeasance",
       "inVocab": true,
-      "senseAnchor": "improper or illegal behavior",
+      "senseAnchor": "非法行爲；瀆職",
       "roleInScript": "做壞事職權",
       "humorDevice": "morphology",
-      "zhGloss": "瀆職；不法行為",
+      "zhGloss": "非法行爲",
       "speakLineEn": "Research malfeasance triggers institutional review.",
       "speakLineZh": "研究瀆職觸發機構審查。",
       "related": {
@@ -173,6 +173,8 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P1-batch01"
+    "stage": "P1-batch01",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

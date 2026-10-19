@@ -25,10 +25,10 @@
     {
       "headword": "abnegate",
       "inVocab": true,
-      "senseAnchor": "deny oneself (something); restrain, especially from indulging in some pleasure; surrender (power or a position)",
+      "senseAnchor": "放棄；捨棄",
       "roleInScript": "關掉自己的欲求",
       "humorDevice": "morphology",
-      "zhGloss": "放棄；克己",
+      "zhGloss": "放棄；捨棄",
       "speakLineEn": "Leaders who abnegate credit build stronger teams.",
       "speakLineZh": "放棄邀功的領導者能建更強團隊。",
       "related": {
@@ -40,10 +40,10 @@
     {
       "headword": "renegade",
       "inVocab": true,
-      "senseAnchor": "one who rejects a religion, cause, allegiance, or group for another",
+      "senseAnchor": "叛徒；場面：否掉原陣營",
       "roleInScript": "否掉原陣營",
       "humorDevice": "morphology",
-      "zhGloss": "叛徒；變節者",
+      "zhGloss": "叛徒",
       "speakLineEn": "A renegade analyst published the null result.",
       "speakLineZh": "變節分析者發表了虛無結果。",
       "related": {
@@ -55,10 +55,10 @@
     {
       "headword": "negligent",
       "inVocab": true,
-      "senseAnchor": "failing to give proper attention or care",
+      "senseAnchor": "疏忽大意的",
       "roleInScript": "該管卻否掉注意",
       "humorDevice": "morphology",
-      "zhGloss": "疏忽的",
+      "zhGloss": "疏忽大意的",
       "speakLineEn": "Negligent storage of identifiers is a breach.",
       "speakLineZh": "識別資料疏忽儲存即違規。",
       "related": {
@@ -85,10 +85,10 @@
     {
       "headword": "renege",
       "inVocab": true,
-      "senseAnchor": "the mistake of not following suit when able to do so; fail to fulfill a promise or obligation",
+      "senseAnchor": "食言；場面：否掉承諾",
       "roleInScript": "否掉承諾",
       "humorDevice": "morphology",
-      "zhGloss": "食言；違約",
+      "zhGloss": "食言",
       "speakLineEn": "Do not renege on data-sharing pledges.",
       "speakLineZh": "不要對資料共享承諾食言。",
       "related": {
@@ -100,10 +100,10 @@
     {
       "headword": "denigrate",
       "inVocab": true,
-      "senseAnchor": "cause to seem less serious; play down; charge falsely or with malicious intent; attack the good name and reputation of someone",
+      "senseAnchor": "污衊；詆譭",
       "roleInScript": "抹黑否定價值",
       "humorDevice": "morphology",
-      "zhGloss": "詆毀；貶低",
+      "zhGloss": "污衊；詆譭",
       "speakLineEn": "Do not denigrate qualitative work as soft.",
       "speakLineZh": "不要把質性工作抹黑成「軟」。",
       "related": {
@@ -160,10 +160,10 @@
     {
       "headword": "negation",
       "inVocab": true,
-      "senseAnchor": "a negative statement; a statement that is a refusal or denial of some other statement; the speech act of negating",
+      "senseAnchor": "否定；場面：否命題本身",
       "roleInScript": "否命題本身",
       "humorDevice": "morphology",
-      "zhGloss": "否定；取消",
+      "zhGloss": "否定",
       "speakLineEn": "Logical negation flips the claim's truth value.",
       "speakLineZh": "邏輯否定翻轉命題真值。",
       "related": {
@@ -203,6 +203,8 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P1-batch01"
+    "stage": "P1-batch01",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

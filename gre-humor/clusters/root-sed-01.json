@@ -10,10 +10,10 @@
     {
       "headword": "sedentary",
       "inVocab": true,
-      "senseAnchor": "requiring sitting or little activity",
+      "senseAnchor": "久坐的；定居少動的",
       "roleInScript": "久坐不動",
       "humorDevice": "morphology",
-      "zhGloss": "久坐的；定居少動的",
+      "zhGloss": "久坐的",
       "speakLineEn": "Sedentary designs miss real-world motion noise.",
       "speakLineZh": "久坐式設計錯過真實移動噪音。",
       "related": {
@@ -25,7 +25,7 @@
     {
       "headword": "sediment",
       "inVocab": false,
-      "senseAnchor": "沉澱物",
+      "senseAnchor": "沉澱物；場面：沉下去",
       "roleInScript": "沉下去",
       "humorDevice": "morphology",
       "zhGloss": "沉澱物",
@@ -100,10 +100,10 @@
     {
       "headword": "assiduous",
       "inVocab": true,
-      "senseAnchor": "hard-working and careful",
+      "senseAnchor": "勤奮認真的；勤勉的",
       "roleInScript": "勤坐苦幹",
       "humorDevice": "morphology",
-      "zhGloss": "勤勉的",
+      "zhGloss": "勤奮認真的",
       "speakLineEn": "Assiduous documentation prevents silent edits.",
       "speakLineZh": "勤勉記錄防止沉默修改。",
       "related": {
@@ -115,10 +115,10 @@
     {
       "headword": "insidious",
       "inVocab": true,
-      "senseAnchor": "causing harm in a way that is gradual or not easily noticed",
+      "senseAnchor": "暗中有害的；陰險的",
       "roleInScript": "潛伏坐下害人",
       "humorDevice": "morphology",
-      "zhGloss": "陰險的；隱伏的",
+      "zhGloss": "暗中有害的",
       "speakLineEn": "Insidious selection bias grows with convenience samples.",
       "speakLineZh": "陰險選擇偏差隨便利樣本成長。",
       "related": {
@@ -130,10 +130,10 @@
     {
       "headword": "subsidiary",
       "inVocab": true,
-      "senseAnchor": "an assistant subject to the authority or control of another; a company that is completely controlled by another company",
+      "senseAnchor": "輔助的；次要的",
       "roleInScript": "附屬坐下",
       "humorDevice": "morphology",
-      "zhGloss": "附屬的；子公司",
+      "zhGloss": "輔助的；次要的",
       "speakLineEn": "Report subsidiary analyses as exploratory.",
       "speakLineZh": "附屬分析標為探索性。",
       "related": {
@@ -145,10 +145,10 @@
     {
       "headword": "dissident",
       "inVocab": true,
-      "senseAnchor": "a person who dissents from some established policy; characterized by departure from accepted beliefs or standards",
+      "senseAnchor": "異議分子；異議者",
       "roleInScript": "不肯同坐",
       "humorDevice": "morphology",
-      "zhGloss": "異議者",
+      "zhGloss": "異議分子",
       "speakLineEn": "Dissident findings deserve the same review rigor.",
       "speakLineZh": "異議發現值得同等審查嚴謹。",
       "related": {
@@ -160,7 +160,7 @@
     {
       "headword": "reside in",
       "inVocab": false,
-      "senseAnchor": "在於",
+      "senseAnchor": "在於；場面：坐落於",
       "roleInScript": "坐落於",
       "humorDevice": "story",
       "zhGloss": "在於",
@@ -175,7 +175,7 @@
     {
       "headword": "obsession",
       "inVocab": false,
-      "senseAnchor": "執念",
+      "senseAnchor": "執念；場面：坐著不放的狀態",
       "roleInScript": "坐著不放的狀態",
       "humorDevice": "morphology",
       "zhGloss": "執念",
@@ -203,6 +203,8 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P1-batch01"
+    "stage": "P1-batch01",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

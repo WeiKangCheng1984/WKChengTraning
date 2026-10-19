@@ -25,7 +25,7 @@
     {
       "headword": "umbra",
       "inVocab": false,
-      "senseAnchor": "本影",
+      "senseAnchor": "本影；場面：全暗影",
       "roleInScript": "全暗影",
       "humorDevice": "morphology",
       "zhGloss": "本影",
@@ -40,7 +40,7 @@
     {
       "headword": "penumbra",
       "inVocab": false,
-      "senseAnchor": "半影",
+      "senseAnchor": "半影；場面：灰影帶",
       "roleInScript": "灰影帶",
       "humorDevice": "morphology",
       "zhGloss": "半影",
@@ -70,10 +70,10 @@
     {
       "headword": "umbrage",
       "inVocab": true,
-      "senseAnchor": "anger",
+      "senseAnchor": "生氣；場面：踩影翻臉",
       "roleInScript": "踩影翻臉",
       "humorDevice": "morphology",
-      "zhGloss": "不快；生氣",
+      "zhGloss": "生氣",
       "speakLineEn": "Do not take umbrage at null results.",
       "speakLineZh": "不要對虛無結果見怪。",
       "related": {
@@ -85,7 +85,7 @@
     {
       "headword": "shadow",
       "inVocab": false,
-      "senseAnchor": "影子",
+      "senseAnchor": "影子；場面：影近親",
       "roleInScript": "影近親",
       "humorDevice": "story",
       "zhGloss": "影子",
@@ -115,7 +115,7 @@
     {
       "headword": "overshadow",
       "inVocab": false,
-      "senseAnchor": "使黯然",
+      "senseAnchor": "使黯然；場面：大影壓小",
       "roleInScript": "大影壓小",
       "humorDevice": "story",
       "zhGloss": "使黯然",
@@ -130,7 +130,7 @@
     {
       "headword": "silhouette",
       "inVocab": false,
-      "senseAnchor": "剪影",
+      "senseAnchor": "剪影；場面：輪廓影",
       "roleInScript": "輪廓影",
       "humorDevice": "story",
       "zhGloss": "剪影",
@@ -203,6 +203,8 @@
   "priority": "C",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch03"
+    "stage": "P2-batch03",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

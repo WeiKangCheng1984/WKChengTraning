@@ -10,12 +10,12 @@
     {
       "headword": "animus",
       "inVocab": true,
-      "senseAnchor": "a feeling of strong dislike",
+      "senseAnchor": "敵意；場面：紅旗",
       "roleInScript": "紅旗",
       "humorDevice": "contrast",
       "zhGloss": "敵意",
-      "speakLineEn": "Cue the 紅旗: animus walks on and the gag sticks.",
-      "speakLineZh": "請「紅旗」出場：animus 一上場梗就黏住——敵意。",
+      "speakLineEn": "In academic English, writers may refer to the harbor an animus toward someone.",
+      "speakLineZh": "敵意。",
       "related": {
         "synonyms": "hostility, rancor",
         "antonyms": "goodwill, amity"
@@ -25,12 +25,12 @@
     {
       "headword": "enmity",
       "inVocab": true,
-      "senseAnchor": "a state of deep-seated ill-will; the feeling of a hostile person",
+      "senseAnchor": "敵意；場面：對立線",
       "roleInScript": "對立線",
       "humorDevice": "contrast",
       "zhGloss": "敵意",
-      "speakLineEn": "Cue the 對立線: enmity walks on and the gag sticks.",
-      "speakLineZh": "請「對立線」出場：enmity 一上場梗就黏住——敵意。",
+      "speakLineEn": "No one wanted to be labeled a enmity in that debate.",
+      "speakLineZh": "敵意。",
       "related": {
         "synonyms": "hostility, antagonism",
         "antonyms": "friendship, amity"
@@ -40,12 +40,12 @@
     {
       "headword": "inimical",
       "inVocab": true,
-      "senseAnchor": "not friendly",
+      "senseAnchor": "敵意的；場面：有害標",
       "roleInScript": "有害標",
       "humorDevice": "contrast",
-      "zhGloss": "敵對的",
-      "speakLineEn": "Cue the 有害標: inimical walks on and the gag sticks.",
-      "speakLineZh": "請「有害標」出場：inimical 一上場梗就黏住——敵對的。",
+      "zhGloss": "敵意的",
+      "speakLineEn": "An inimical critic.",
+      "speakLineZh": "敵意的。",
       "related": {
         "synonyms": "unfriendly",
         "antonyms": "friendly"
@@ -55,12 +55,12 @@
     {
       "headword": "feint",
       "inVocab": true,
-      "senseAnchor": "any distracting or deceptive maneuver (as a mock attack); deceive by a mock action",
+      "senseAnchor": "佯攻；場面：假動作",
       "roleInScript": "假動作",
       "humorDevice": "contrast",
       "zhGloss": "佯攻",
-      "speakLineEn": "Cue the 假動作: feint walks on and the gag sticks.",
-      "speakLineZh": "請「假動作」出場：feint 一上場梗就黏住——佯攻。",
+      "speakLineEn": "The midfielder feinted to shoot.",
+      "speakLineZh": "佯攻。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -70,12 +70,12 @@
     {
       "headword": "martial",
       "inVocab": true,
-      "senseAnchor": "Roman poet noted for epigrams (first century BC); (of persons) befitting a warrior",
+      "senseAnchor": "軍事的；場面：迷彩",
       "roleInScript": "迷彩",
       "humorDevice": "contrast",
       "zhGloss": "軍事的",
-      "speakLineEn": "Cue the 迷彩: martial walks on and the gag sticks.",
-      "speakLineZh": "請「迷彩」出場：martial 一上場梗就黏住——軍事的。",
+      "speakLineEn": "Picture the 迷彩: the word martial means 軍事的.",
+      "speakLineZh": "想像「迷彩」：martial＝軍事的。",
       "related": {
         "synonyms": "soldierly, soldierlike, warriorlike, warlike",
         "antonyms": ""
@@ -85,12 +85,12 @@
     {
       "headword": "munition",
       "inVocab": true,
-      "senseAnchor": "weapons considered collectively; military supplies",
+      "senseAnchor": "軍火；場面：彈藥箱",
       "roleInScript": "彈藥箱",
       "humorDevice": "contrast",
       "zhGloss": "軍火",
-      "speakLineEn": "Cue the 彈藥箱: munition walks on and the gag sticks.",
-      "speakLineZh": "請「彈藥箱」出場：munition 一上場梗就黏住——軍火。",
+      "speakLineEn": "A clear sense of munition is crucial to understanding the argument.",
+      "speakLineZh": "軍火。",
       "related": {
         "synonyms": "weaponry, arms, ordnance, fortification",
         "antonyms": "disarm"
@@ -100,12 +100,12 @@
     {
       "headword": "conflagration",
       "inVocab": true,
-      "senseAnchor": "a state of armed violent struggle between states, nations, or groups",
+      "senseAnchor": "武裝衝突；戰爭",
       "roleInScript": "火線",
       "humorDevice": "contrast",
-      "zhGloss": "大火",
-      "speakLineEn": "Cue the 火線: conflagration walks on and the gag sticks.",
-      "speakLineZh": "請「火線」出場：conflagration 一上場梗就黏住——大火。",
+      "zhGloss": "武裝衝突；戰爭",
+      "speakLineEn": "In academic English, writers may refer to the erupt into a conflagration.",
+      "speakLineZh": "武裝衝突，戰爭。",
       "related": {
         "synonyms": "inferno",
         "antonyms": "drizzle, trickle"
@@ -115,12 +115,12 @@
     {
       "headword": "cadet",
       "inVocab": true,
-      "senseAnchor": "a military trainee (as at a military academy)",
+      "senseAnchor": "軍校生；場面：新生盔",
       "roleInScript": "新生盔",
       "humorDevice": "contrast",
       "zhGloss": "軍校生",
-      "speakLineEn": "Cue the 新生盔: cadet walks on and the gag sticks.",
-      "speakLineZh": "請「新生盔」出場：cadet 一上場梗就黏住——軍校生。",
+      "speakLineEn": "A clear sense of cadet is crucial to understanding the argument.",
+      "speakLineZh": "軍校生。",
       "related": {
         "synonyms": "plebe",
         "antonyms": ""
@@ -130,12 +130,12 @@
     {
       "headword": "skirmish",
       "inVocab": true,
-      "senseAnchor": "a minor short-term fight; engage in a skirmish",
+      "senseAnchor": "小衝突；爭論",
       "roleInScript": "擦槍火",
       "humorDevice": "contrast",
-      "zhGloss": "小衝突",
-      "speakLineEn": "Cue the 擦槍火: skirmish walks on and the gag sticks.",
-      "speakLineZh": "請「擦槍火」出場：skirmish 一上場梗就黏住——小衝突。",
+      "zhGloss": "小衝突；爭論",
+      "speakLineEn": "A clear sense of skirmish is crucial to understanding the argument.",
+      "speakLineZh": "小衝突；爭論。",
       "related": {
         "synonyms": "brush, clash, encounter",
         "antonyms": ""
@@ -145,12 +145,12 @@
     {
       "headword": "besiege",
       "inVocab": true,
-      "senseAnchor": "圍攻",
+      "senseAnchor": "圍攻；場面：包圍圈",
       "roleInScript": "包圍圈",
       "humorDevice": "contrast",
       "zhGloss": "圍攻",
-      "speakLineEn": "Cue the 包圍圈: besiege walks on and the gag sticks.",
-      "speakLineZh": "請「包圍圈」出場：besiege 一上場梗就黏住——圍攻。",
+      "speakLineEn": "On the exam, besiege most nearly means a sense of \"圍攻\".",
+      "speakLineZh": "圍攻。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -164,8 +164,8 @@
       "roleInScript": "集合哨",
       "humorDevice": "contrast",
       "zhGloss": "重整旗鼓",
-      "speakLineEn": "Cue the 集合哨: rally walks on and the gag sticks.",
-      "speakLineZh": "請「集合哨」出場：rally 一上場梗就黏住——重整旗鼓。",
+      "speakLineEn": "On the exam, rally most nearly means a sense of \"重整旗鼓\".",
+      "speakLineZh": "重整旗鼓。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -176,11 +176,11 @@
       "headword": "sandtable",
       "inVocab": false,
       "senseAnchor": "沙盤",
-      "roleInScript": "沙盤",
+      "roleInScript": "沙盤角色",
       "humorDevice": "story",
       "zhGloss": "沙盤",
-      "speakLineEn": "Cue the 沙盤: sandtable walks on and the gag sticks.",
-      "speakLineZh": "請「沙盤」出場：sandtable 一上場梗就黏住——沙盤。",
+      "speakLineEn": "Hold the meaning steady: sandtable means 沙盤.",
+      "speakLineZh": "記住考意：sandtable＝沙盤。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -203,6 +203,9 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P4-batch01"
+    "stage": "P4-batch01",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave2",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

@@ -5,7 +5,7 @@
   "titleZh": "venal ↔ venial｜貪腐／可恕法庭",
   "titleEn": "Venal vs Venial Court",
   "hook": "venal＝可收買，venial＝可恕小過——木槌別敲錯。",
-  "script": "venality 對 forgivable／excusable——法官：venal misconduct；venial typos。",
+  "script": "venality 對 forgivable／excusable——法官：venal misconduct；venial typos。形近對決：先分清語意軸，再對號入座。登場：venality（貪腐標）、bribery（賄賂）、forgivable（可恕）、excusable（可諒）、kickback（回扣）、graft（貪污）。",
   "members": [
     {
       "headword": "venality",
@@ -26,7 +26,7 @@
       "headword": "bribery",
       "inVocab": true,
       "senseAnchor": "賄賂",
-      "roleInScript": "賄賂",
+      "roleInScript": "賄賂角色",
       "humorDevice": "story",
       "zhGloss": "賄賂",
       "speakLineEn": "GRE tip: bribery ~ 賄賂; keep the tone straight.",
@@ -40,7 +40,7 @@
     {
       "headword": "forgivable",
       "inVocab": true,
-      "senseAnchor": "可原諒",
+      "senseAnchor": "可原諒；場面：可恕",
       "roleInScript": "可恕",
       "humorDevice": "story",
       "zhGloss": "可原諒",
@@ -55,7 +55,7 @@
     {
       "headword": "excusable",
       "inVocab": true,
-      "senseAnchor": "可諒解",
+      "senseAnchor": "可諒解；場面：可諒",
       "roleInScript": "可諒",
       "humorDevice": "story",
       "zhGloss": "可諒解",
@@ -71,7 +71,7 @@
       "headword": "kickback",
       "inVocab": true,
       "senseAnchor": "回扣",
-      "roleInScript": "回扣",
+      "roleInScript": "回扣角色",
       "humorDevice": "story",
       "zhGloss": "回扣",
       "speakLineEn": "GRE tip: kickback ~ 回扣; keep the tone straight.",
@@ -86,7 +86,7 @@
       "headword": "graft",
       "inVocab": true,
       "senseAnchor": "貪污",
-      "roleInScript": "貪污",
+      "roleInScript": "貪污角色",
       "humorDevice": "story",
       "zhGloss": "貪污",
       "speakLineEn": "GRE tip: graft ~ 貪污; keep the tone straight.",
@@ -100,7 +100,7 @@
     {
       "headword": "pardonable",
       "inVocab": true,
-      "senseAnchor": "可赦免",
+      "senseAnchor": "可赦免；場面：可赦",
       "roleInScript": "可赦",
       "humorDevice": "story",
       "zhGloss": "可赦免",
@@ -131,7 +131,7 @@
       "headword": "corruptibility",
       "inVocab": true,
       "senseAnchor": "可腐化",
-      "roleInScript": "可腐化",
+      "roleInScript": "可腐化角色",
       "humorDevice": "story",
       "zhGloss": "可腐化",
       "speakLineEn": "GRE tip: corruptibility ~ 可腐化; keep the tone straight.",
@@ -146,7 +146,7 @@
       "headword": "courtroom",
       "inVocab": true,
       "senseAnchor": "法庭",
-      "roleInScript": "法庭",
+      "roleInScript": "法庭角色",
       "humorDevice": "story",
       "zhGloss": "法庭",
       "speakLineEn": "GRE tip: courtroom ~ 法庭; keep the tone straight.",
@@ -160,10 +160,10 @@
     {
       "headword": "gavel",
       "inVocab": true,
-      "senseAnchor": "a small mallet used by a presiding officer or a judge",
-      "roleInScript": "木槌",
+      "senseAnchor": "小木槌",
+      "roleInScript": "木槌角色",
       "humorDevice": "story",
-      "zhGloss": "木槌",
+      "zhGloss": "小木槌",
       "speakLineEn": "GRE tip: gavel ~ 木槌; keep the tone straight.",
       "speakLineZh": "GRE 提示：gavel 約「木槌」——抓住語氣。",
       "related": {
@@ -176,7 +176,7 @@
       "headword": "ticket",
       "inVocab": true,
       "senseAnchor": "罰單",
-      "roleInScript": "罰單",
+      "roleInScript": "罰單角色",
       "humorDevice": "story",
       "zhGloss": "罰單",
       "speakLineEn": "GRE tip: ticket ~ 罰單; keep the tone straight.",
@@ -202,6 +202,9 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P3-batch01"
+    "stage": "P3-batch01",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave3",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

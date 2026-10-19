@@ -10,10 +10,10 @@
     {
       "headword": "exacerbate",
       "inVocab": true,
-      "senseAnchor": "to worsen",
+      "senseAnchor": "使惡化；場面：往外弄更糟",
       "roleInScript": "往外弄更糟",
       "humorDevice": "morphology",
-      "zhGloss": "加重；惡化",
+      "zhGloss": "使惡化",
       "speakLineEn": "Hype can exacerbate mistrust.",
       "speakLineZh": "炒作會加重不信任。",
       "related": {
@@ -25,10 +25,10 @@
     {
       "headword": "exonerate",
       "inVocab": true,
-      "senseAnchor": "pronounce not guilty of criminal charges",
+      "senseAnchor": "免除責任；免罪",
       "roleInScript": "洗清放出",
       "humorDevice": "morphology",
-      "zhGloss": "免罪；證明無罪",
+      "zhGloss": "免除責任",
       "speakLineEn": "New data can exonerate a dismissed hypothesis.",
       "speakLineZh": "新資料可為被棄假說免罪。",
       "related": {
@@ -40,10 +40,10 @@
     {
       "headword": "exculpate",
       "inVocab": true,
-      "senseAnchor": "to prove that someone is not guilty",
+      "senseAnchor": "使…無罪；開脫",
       "roleInScript": "卸責放出",
       "humorDevice": "morphology",
-      "zhGloss": "開脫；證明無罪",
+      "zhGloss": "使…無罪",
       "speakLineEn": "A checklist does not exculpate fraud.",
       "speakLineZh": "檢核表不開脫造假。",
       "related": {
@@ -55,10 +55,10 @@
     {
       "headword": "excerpt",
       "inVocab": true,
-      "senseAnchor": "a passage selected from a larger work; take out of a literary work in order to cite or copy",
+      "senseAnchor": "摘錄；節選",
       "roleInScript": "抽出一段",
       "humorDevice": "morphology",
-      "zhGloss": "摘錄",
+      "zhGloss": "摘錄；節選",
       "speakLineEn": "Quote the excerpt in context.",
       "speakLineZh": "摘錄要帶語境。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "exorbitant",
       "inVocab": true,
-      "senseAnchor": "the price is much higher than it should be",
+      "senseAnchor": "過度的；場面：軌道外",
       "roleInScript": "軌道外",
       "humorDevice": "morphology",
-      "zhGloss": "過分的；昂貴過頭",
+      "zhGloss": "過度的",
       "speakLineEn": "Exorbitant APC fees block equity.",
       "speakLineZh": "過分高的開放費阻礙公平。",
       "related": {
@@ -85,10 +85,10 @@
     {
       "headword": "extol",
       "inVocab": true,
-      "senseAnchor": "to praise highly",
+      "senseAnchor": "讚美；場面：向外歌頌",
       "roleInScript": "向外歌頌",
       "humorDevice": "morphology",
-      "zhGloss": "讚揚",
+      "zhGloss": "讚美",
       "speakLineEn": "Extol rigor more than brand names.",
       "speakLineZh": "讚揚嚴謹勝過品牌名。",
       "related": {
@@ -100,10 +100,10 @@
     {
       "headword": "exude",
       "inVocab": true,
-      "senseAnchor": "release (a liquid) in drops or small quantities; make apparent by one's mood or behavior",
+      "senseAnchor": "流出；滲出",
       "roleInScript": "往外滲",
       "humorDevice": "morphology",
-      "zhGloss": "滲出；散發",
+      "zhGloss": "流出；滲出",
       "speakLineEn": "Confidence should not exude from thin evidence.",
       "speakLineZh": "信心不該從薄弱證據滲出。",
       "related": {
@@ -115,10 +115,10 @@
     {
       "headword": "excise",
       "inVocab": true,
-      "senseAnchor": "a tax that is measured by the amount of business done (not on property or income from real estate); remove by erasing or crossing out or as if by drawing a line",
+      "senseAnchor": "切除；場面：割掉取出",
       "roleInScript": "割掉取出",
       "humorDevice": "morphology",
-      "zhGloss": "切除；刪除",
+      "zhGloss": "切除",
       "speakLineEn": "Excise speculative claims from the abstract.",
       "speakLineZh": "從摘要切除臆測主張。",
       "related": {
@@ -145,10 +145,10 @@
     {
       "headword": "expunge",
       "inVocab": true,
-      "senseAnchor": "remove by erasing or crossing out or as if by drawing a line",
+      "senseAnchor": "刪除；場面：擦掉放出",
       "roleInScript": "擦掉放出",
       "humorDevice": "story",
-      "zhGloss": "刪除；抹去",
+      "zhGloss": "刪除",
       "speakLineEn": "Expunge identifiers before sharing.",
       "speakLineZh": "共享前抹去識別資訊。",
       "related": {
@@ -160,7 +160,7 @@
     {
       "headword": "externalize",
       "inVocab": false,
-      "senseAnchor": "外化",
+      "senseAnchor": "外化；場面：推到外面",
       "roleInScript": "推到外面",
       "humorDevice": "story",
       "zhGloss": "外化",
@@ -188,6 +188,8 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P1-batch02"
+    "stage": "P1-batch02",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

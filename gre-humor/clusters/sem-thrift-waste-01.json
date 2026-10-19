@@ -10,12 +10,12 @@
     {
       "headword": "frugal",
       "inVocab": true,
-      "senseAnchor": "careful to buy only what is necessary",
+      "senseAnchor": "節儉的；場面：存錢筒",
       "roleInScript": "存錢筒",
       "humorDevice": "contrast",
       "zhGloss": "節儉的",
-      "speakLineEn": "Cue the 存錢筒: frugal walks on and the gag sticks.",
-      "speakLineZh": "請「存錢筒」出場：frugal 一上場梗就黏住——節儉的。",
+      "speakLineEn": "A careful reader links frugal to 節儉的, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 frugal 連到「節儉的」，不連形近鄰居。",
       "related": {
         "synonyms": "economical, provident, sparing, thrifty",
         "antonyms": "extravagant, wasteful, improvident"
@@ -25,12 +25,12 @@
     {
       "headword": "thrifty",
       "inVocab": true,
-      "senseAnchor": "節約的",
+      "senseAnchor": "節約的；場面：折扣標",
       "roleInScript": "折扣標",
       "humorDevice": "contrast",
       "zhGloss": "節約的",
-      "speakLineEn": "Cue the 折扣標: thrifty walks on and the gag sticks.",
-      "speakLineZh": "請「折扣標」出場：thrifty 一上場梗就黏住——節約的。",
+      "speakLineEn": "On the exam, thrifty most nearly means a sense of \"節約的\".",
+      "speakLineZh": "節約的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -40,12 +40,12 @@
     {
       "headword": "sparing",
       "inVocab": true,
-      "senseAnchor": "refrain from harming; save or relieve from an experience or action",
+      "senseAnchor": "節儉的；場面：點滴控",
       "roleInScript": "點滴控",
       "humorDevice": "contrast",
-      "zhGloss": "吝惜使用的",
-      "speakLineEn": "Cue the 點滴控: sparing walks on and the gag sticks.",
-      "speakLineZh": "請「點滴控」出場：sparing 一上場梗就黏住——吝惜使用的。",
+      "zhGloss": "節儉的",
+      "speakLineEn": "Sparing in their use of heat and light.",
+      "speakLineZh": "例句對齊：吝惜使用的。",
       "related": {
         "synonyms": "spare, save, spar",
         "antonyms": ""
@@ -55,12 +55,12 @@
     {
       "headword": "economical",
       "inVocab": true,
-      "senseAnchor": "節省的",
+      "senseAnchor": "節省的；場面：小帳本",
       "roleInScript": "小帳本",
       "humorDevice": "contrast",
       "zhGloss": "節省的",
-      "speakLineEn": "Cue the 小帳本: economical walks on and the gag sticks.",
-      "speakLineZh": "請「小帳本」出場：economical 一上場梗就黏住——節省的。",
+      "speakLineEn": "On the exam, economical most nearly means a sense of \"節省的\".",
+      "speakLineZh": "節省的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -70,12 +70,12 @@
     {
       "headword": "husband",
       "inVocab": true,
-      "senseAnchor": "to use sparingly or economically",
+      "senseAnchor": "勤儉持家；節約使用",
       "roleInScript": "勤儉勺",
       "humorDevice": "contrast",
-      "zhGloss": "節約使用",
-      "speakLineEn": "Cue the 勤儉勺: husband walks on and the gag sticks.",
-      "speakLineZh": "請「勤儉勺」出場：husband 一上場梗就黏住——節約使用。",
+      "zhGloss": "勤儉持家",
+      "speakLineEn": "In that case, they had to husband precious resources.",
+      "speakLineZh": "勤儉持家。",
       "related": {
         "synonyms": "budget, conserve, economize",
         "antonyms": "waste, wife"
@@ -85,12 +85,12 @@
     {
       "headword": "profligate",
       "inVocab": true,
-      "senseAnchor": "wasteful",
+      "senseAnchor": "揮霍的；場面：碎鈔機",
       "roleInScript": "碎鈔機",
       "humorDevice": "contrast",
       "zhGloss": "揮霍的",
-      "speakLineEn": "Cue the 碎鈔機: profligate walks on and the gag sticks.",
-      "speakLineZh": "請「碎鈔機」出場：profligate 一上場梗就黏住——揮霍的。",
+      "speakLineEn": "Consider this case: lead a profligate life.",
+      "speakLineZh": "例句對齊：揮霍的。",
       "related": {
         "synonyms": "extravagant, spendthrift, prodigal",
         "antonyms": "frugal, thrifty"
@@ -100,12 +100,12 @@
     {
       "headword": "lavish",
       "inVocab": true,
-      "senseAnchor": "奢華的",
+      "senseAnchor": "奢華的；場面：金色噴",
       "roleInScript": "金色噴",
       "humorDevice": "contrast",
       "zhGloss": "奢華的",
-      "speakLineEn": "Cue the 金色噴: lavish walks on and the gag sticks.",
-      "speakLineZh": "請「金色噴」出場：lavish 一上場梗就黏住——奢華的。",
+      "speakLineEn": "On the exam, lavish most nearly means a sense of \"奢華的\".",
+      "speakLineZh": "奢華的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -115,12 +115,12 @@
     {
       "headword": "spendthrift",
       "inVocab": true,
-      "senseAnchor": "someone who spends money prodigally; recklessly wasteful",
+      "senseAnchor": "揮霍無度的；敗家子",
       "roleInScript": "漏錢包",
       "humorDevice": "contrast",
-      "zhGloss": "敗家子",
-      "speakLineEn": "Cue the 漏錢包: spendthrift walks on and the gag sticks.",
-      "speakLineZh": "請「漏錢包」出場：spendthrift 一上場梗就黏住——敗家子。",
+      "zhGloss": "揮霍無度的",
+      "speakLineEn": "No one wanted to be labeled a spendthrift in that debate.",
+      "speakLineZh": "揮霍無度的。",
       "related": {
         "synonyms": "spend-all, spender, scattergood, extravagant, prodigal, profligate",
         "antonyms": "frugal, thrifty"
@@ -130,12 +130,12 @@
     {
       "headword": "wasteful",
       "inVocab": true,
-      "senseAnchor": "浪費的",
+      "senseAnchor": "浪費的；場面：開水龍頭",
       "roleInScript": "開水龍頭",
       "humorDevice": "contrast",
       "zhGloss": "浪費的",
-      "speakLineEn": "Cue the 開水龍頭: wasteful walks on and the gag sticks.",
-      "speakLineZh": "請「開水龍頭」出場：wasteful 一上場梗就黏住——浪費的。",
+      "speakLineEn": "On the exam, wasteful most nearly means a sense of \"浪費的\".",
+      "speakLineZh": "浪費的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -145,12 +145,12 @@
     {
       "headword": "improvident",
       "inVocab": true,
-      "senseAnchor": "not provident; not providing for the future; not given careful consideration",
+      "senseAnchor": "沒有遠見的；不節儉的",
       "roleInScript": "空冰箱",
       "humorDevice": "contrast",
-      "zhGloss": "無遠見的",
-      "speakLineEn": "Cue the 空冰箱: improvident walks on and the gag sticks.",
-      "speakLineZh": "請「空冰箱」出場：improvident 一上場梗就黏住——無遠見的。",
+      "zhGloss": "沒有遠見的；不節儉的",
+      "speakLineEn": "The critic noted her improvident approach to the evidence.",
+      "speakLineZh": "沒有遠見的；不節儉的。",
       "related": {
         "synonyms": "ill-considered, ill-judged, shortsighted",
         "antonyms": "provident"
@@ -160,12 +160,12 @@
     {
       "headword": "squander",
       "inVocab": true,
-      "senseAnchor": "to spend wastefully or extravagantly",
+      "senseAnchor": "浪費；場面：灑金幣",
       "roleInScript": "灑金幣",
       "humorDevice": "contrast",
-      "zhGloss": "揮霍",
-      "speakLineEn": "Cue the 灑金幣: squander walks on and the gag sticks.",
-      "speakLineZh": "請「灑金幣」出場：squander 一上場梗就黏住——揮霍。",
+      "zhGloss": "浪費",
+      "speakLineEn": "You squandered the opportunity to get and advanced degree.",
+      "speakLineZh": "例句對齊：揮霍。",
       "related": {
         "synonyms": "dissipate, lavish, profligate",
         "antonyms": "conserve, accumulate, gather, sparing, meager"
@@ -175,12 +175,12 @@
     {
       "headword": "dissipate",
       "inVocab": true,
-      "senseAnchor": "to cause to separate and go in different directions; move away from each other",
+      "senseAnchor": "浪費；驅散",
       "roleInScript": "煙霧錢",
       "humorDevice": "contrast",
-      "zhGloss": "耗散浪費",
-      "speakLineEn": "Cue the 煙霧錢: dissipate walks on and the gag sticks.",
-      "speakLineZh": "請「煙霧錢」出場：dissipate 一上場梗就黏住——耗散浪費。",
+      "zhGloss": "浪費；驅散",
+      "speakLineEn": "In the end, they chose to dissipate what they had once defended.",
+      "speakLineZh": "浪費；驅散。",
       "related": {
         "synonyms": "disperse, dispel, scatter, fritter, shoot, fool",
         "antonyms": "accumulate, gather"
@@ -191,11 +191,11 @@
       "headword": "piggybank",
       "inVocab": false,
       "senseAnchor": "存錢筒",
-      "roleInScript": "存錢筒",
+      "roleInScript": "存錢筒角色",
       "humorDevice": "story",
       "zhGloss": "存錢筒",
-      "speakLineEn": "Cue the 存錢筒: piggybank walks on and the gag sticks.",
-      "speakLineZh": "請「存錢筒」出場：piggybank 一上場梗就黏住——存錢筒。",
+      "speakLineEn": "Critics argued that the policy would piggybank basic protections.",
+      "speakLineZh": "批評者主張該政策會存錢筒基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -206,11 +206,11 @@
       "headword": "shredder",
       "inVocab": false,
       "senseAnchor": "碎紙機",
-      "roleInScript": "碎紙機",
+      "roleInScript": "碎紙機角色",
       "humorDevice": "story",
       "zhGloss": "碎紙機",
-      "speakLineEn": "Cue the 碎紙機: shredder walks on and the gag sticks.",
-      "speakLineZh": "請「碎紙機」出場：shredder 一上場梗就黏住——碎紙機。",
+      "speakLineEn": "A careful reader links shredder to 碎紙機, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 shredder 連到「碎紙機」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -221,11 +221,11 @@
       "headword": "ledger",
       "inVocab": false,
       "senseAnchor": "帳本",
-      "roleInScript": "帳本",
+      "roleInScript": "帳本角色",
       "humorDevice": "story",
       "zhGloss": "帳本",
-      "speakLineEn": "Cue the 帳本: ledger walks on and the gag sticks.",
-      "speakLineZh": "請「帳本」出場：ledger 一上場梗就黏住——帳本。",
+      "speakLineEn": "A careful reader links ledger to 帳本, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 ledger 連到「帳本」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -236,11 +236,11 @@
       "headword": "coupon",
       "inVocab": false,
       "senseAnchor": "折扣券",
-      "roleInScript": "折扣券",
+      "roleInScript": "折扣券角色",
       "humorDevice": "story",
       "zhGloss": "折扣券",
-      "speakLineEn": "Cue the 折扣券: coupon walks on and the gag sticks.",
-      "speakLineZh": "請「折扣券」出場：coupon 一上場梗就黏住——折扣券。",
+      "speakLineEn": "Hold the meaning steady: coupon means 折扣券.",
+      "speakLineZh": "記住考意：coupon＝折扣券。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -251,11 +251,11 @@
       "headword": "goldcoin",
       "inVocab": false,
       "senseAnchor": "金幣",
-      "roleInScript": "金幣",
+      "roleInScript": "金幣角色",
       "humorDevice": "story",
       "zhGloss": "金幣",
-      "speakLineEn": "Cue the 金幣: goldcoin walks on and the gag sticks.",
-      "speakLineZh": "請「金幣」出場：goldcoin 一上場梗就黏住——金幣。",
+      "speakLineEn": "In the passage, goldcoin signals a shift toward \"金幣\".",
+      "speakLineZh": "文中 goldcoin 標示語氣轉向「金幣」。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -265,12 +265,12 @@
     {
       "headword": "budget",
       "inVocab": true,
-      "senseAnchor": "a sum of money allocated for a particular purpose; a summary of intended expenditures along with proposals for how to meet them",
-      "roleInScript": "預算",
+      "senseAnchor": "預算",
+      "roleInScript": "預算角色",
       "humorDevice": "story",
       "zhGloss": "預算",
-      "speakLineEn": "Cue the 預算: budget walks on and the gag sticks.",
-      "speakLineZh": "請「預算」出場：budget 一上場梗就黏住——預算。",
+      "speakLineEn": "The president submitted the annual budget to Congress.",
+      "speakLineZh": "例句對齊：預算。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -281,11 +281,11 @@
       "headword": "splurge",
       "inVocab": false,
       "senseAnchor": "揮霍夜",
-      "roleInScript": "揮霍夜",
+      "roleInScript": "揮霍夜角色",
       "humorDevice": "story",
       "zhGloss": "揮霍夜",
-      "speakLineEn": "Cue the 揮霍夜: splurge walks on and the gag sticks.",
-      "speakLineZh": "請「揮霍夜」出場：splurge 一上場梗就黏住——揮霍夜。",
+      "speakLineEn": "Hold the meaning steady: splurge means 揮霍夜.",
+      "speakLineZh": "記住考意：splurge＝揮霍夜。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -296,11 +296,11 @@
       "headword": "savings",
       "inVocab": false,
       "senseAnchor": "存款",
-      "roleInScript": "存款",
+      "roleInScript": "存款角色",
       "humorDevice": "story",
       "zhGloss": "存款",
-      "speakLineEn": "Cue the 存款: savings walks on and the gag sticks.",
-      "speakLineZh": "請「存款」出場：savings 一上場梗就黏住——存款。",
+      "speakLineEn": "In the passage, savings signals a shift toward \"存款\".",
+      "speakLineZh": "文中 savings 標示語氣轉向「存款」。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -311,11 +311,11 @@
       "headword": "voidcheck",
       "inVocab": false,
       "senseAnchor": "廢支票",
-      "roleInScript": "廢支票",
+      "roleInScript": "廢支票角色",
       "humorDevice": "story",
       "zhGloss": "廢支票",
-      "speakLineEn": "Cue the 廢支票: voidcheck walks on and the gag sticks.",
-      "speakLineZh": "請「廢支票」出場：voidcheck 一上場梗就黏住——廢支票。",
+      "speakLineEn": "Critics argued that the policy would voidcheck basic protections.",
+      "speakLineZh": "批評者主張該政策會廢支票基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -337,6 +337,9 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P3-batch03"
+    "stage": "P3-batch03",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave1",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

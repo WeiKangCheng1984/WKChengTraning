@@ -10,12 +10,12 @@
     {
       "headword": "indolent",
       "inVocab": true,
-      "senseAnchor": "disinclined to work or exertion; (of tumors, e.g.) slow to heal or develop and usually painless",
+      "senseAnchor": "懶惰的；場面：沙發人",
       "roleInScript": "沙發人",
       "humorDevice": "contrast",
       "zhGloss": "懶惰的",
-      "speakLineEn": "Cue the 沙發人: indolent walks on and the gag sticks.",
-      "speakLineZh": "請「沙發人」出場：indolent 一上場梗就黏住——懶惰的。",
+      "speakLineEn": "Leprosy is an indolent infectious disease.",
+      "speakLineZh": "懶惰的。",
       "related": {
         "synonyms": "faineant, lazy, otiose, slothful, work-shy",
         "antonyms": "industrious, diligent"
@@ -25,12 +25,12 @@
     {
       "headword": "slothful",
       "inVocab": true,
-      "senseAnchor": "disinclined to work or exertion",
+      "senseAnchor": "懶惰的；場面：樹懶姿",
       "roleInScript": "樹懶姿",
       "humorDevice": "contrast",
-      "zhGloss": "怠惰的",
-      "speakLineEn": "Cue the 樹懶姿: slothful walks on and the gag sticks.",
-      "speakLineZh": "請「樹懶姿」出場：slothful 一上場梗就黏住——怠惰的。",
+      "zhGloss": "懶惰的",
+      "speakLineEn": "Slothful employees.",
+      "speakLineZh": "懶惰的。",
       "related": {
         "synonyms": "faineant, indolent, lazy, otiose, work-shy",
         "antonyms": "industrious, diligent"
@@ -44,8 +44,8 @@
       "roleInScript": "半開眼",
       "humorDevice": "contrast",
       "zhGloss": "無精打采的",
-      "speakLineEn": "Cue the 半開眼: lackadaisical walks on and the gag sticks.",
-      "speakLineZh": "請「半開眼」出場：lackadaisical 一上場梗就黏住——無精打采的。",
+      "speakLineEn": "On the exam, lackadaisical most nearly means a sense of \"無精打采的\".",
+      "speakLineZh": "無精打采的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -55,12 +55,12 @@
     {
       "headword": "shiftless",
       "inVocab": true,
-      "senseAnchor": "lacking or characterized by lack of ambition or initiative; lazy",
+      "senseAnchor": "懶惰的；場面：空工具",
       "roleInScript": "空工具",
       "humorDevice": "contrast",
-      "zhGloss": "懶散無能的",
-      "speakLineEn": "Cue the 空工具: shiftless walks on and the gag sticks.",
-      "speakLineZh": "請「空工具」出場：shiftless 一上場梗就黏住——懶散無能的。",
+      "zhGloss": "懶惰的",
+      "speakLineEn": "Studied in a shiftless way.",
+      "speakLineZh": "懶惰的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -70,12 +70,12 @@
     {
       "headword": "loaf",
       "inVocab": true,
-      "senseAnchor": "閒混",
+      "senseAnchor": "閒混；場面：麵包躺",
       "roleInScript": "麵包躺",
       "humorDevice": "contrast",
       "zhGloss": "閒混",
-      "speakLineEn": "Cue the 麵包躺: loaf walks on and the gag sticks.",
-      "speakLineZh": "請「麵包躺」出場：loaf 一上場梗就黏住——閒混。",
+      "speakLineEn": "On the exam, loaf most nearly means a sense of \"閒混\".",
+      "speakLineZh": "閒混。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -85,12 +85,12 @@
     {
       "headword": "idle",
       "inVocab": true,
-      "senseAnchor": "空閒的",
+      "senseAnchor": "空閒的；場面：空轉",
       "roleInScript": "空轉",
       "humorDevice": "contrast",
       "zhGloss": "空閒的",
-      "speakLineEn": "Cue the 空轉: idle walks on and the gag sticks.",
-      "speakLineZh": "請「空轉」出場：idle 一上場梗就黏住——空閒的。",
+      "speakLineEn": "On the exam, idle most nearly means a sense of \"空閒的\".",
+      "speakLineZh": "空閒的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -104,8 +104,8 @@
       "roleInScript": "無清單",
       "humorDevice": "contrast",
       "zhGloss": "無精打采的",
-      "speakLineEn": "Cue the 無清單: listless walks on and the gag sticks.",
-      "speakLineZh": "請「無清單」出場：listless 一上場梗就黏住——無精打采的。",
+      "speakLineEn": "On the exam, listless most nearly means a sense of \"無精打采的\".",
+      "speakLineZh": "無精打采的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -115,12 +115,12 @@
     {
       "headword": "torpid",
       "inVocab": true,
-      "senseAnchor": "slow and apathetic; in a condition of biological rest or suspended animation",
+      "senseAnchor": "遲鈍的；懶散的",
       "roleInScript": "冬眠",
       "humorDevice": "contrast",
-      "zhGloss": "遲鈍的",
-      "speakLineEn": "Cue the 冬眠: torpid walks on and the gag sticks.",
-      "speakLineZh": "請「冬眠」出場：torpid 一上場梗就黏住——遲鈍的。",
+      "zhGloss": "遲鈍的；懶散的；麻木的",
+      "speakLineEn": "A mind grown torpid in old age.",
+      "speakLineZh": "遲鈍的；懶散的；麻木的。",
       "related": {
         "synonyms": "inert, sluggish, soggy, dormant, hibernating",
         "antonyms": "active, dynamic, awakened, aestivate, estivate"
@@ -131,11 +131,11 @@
       "headword": "sofa",
       "inVocab": false,
       "senseAnchor": "沙發",
-      "roleInScript": "沙發",
+      "roleInScript": "沙發角色",
       "humorDevice": "story",
       "zhGloss": "沙發",
-      "speakLineEn": "Cue the 沙發: sofa walks on and the gag sticks.",
-      "speakLineZh": "請「沙發」出場：sofa 一上場梗就黏住——沙發。",
+      "speakLineEn": "A careful reader links sofa to 沙發, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 sofa 連到「沙發」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -147,11 +147,11 @@
       "headword": "snack",
       "inVocab": false,
       "senseAnchor": "零食",
-      "roleInScript": "零食",
+      "roleInScript": "零食角色",
       "humorDevice": "story",
       "zhGloss": "零食",
-      "speakLineEn": "Cue the 零食: snack walks on and the gag sticks.",
-      "speakLineZh": "請「零食」出場：snack 一上場梗就黏住——零食。",
+      "speakLineEn": "Hold the meaning steady: snack means 零食.",
+      "speakLineZh": "記住考意：snack＝零食。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -163,11 +163,11 @@
       "headword": "slipper",
       "inVocab": false,
       "senseAnchor": "拖鞋",
-      "roleInScript": "拖鞋",
+      "roleInScript": "拖鞋角色",
       "humorDevice": "story",
       "zhGloss": "拖鞋",
-      "speakLineEn": "Cue the 拖鞋: slipper walks on and the gag sticks.",
-      "speakLineZh": "請「拖鞋」出場：slipper 一上場梗就黏住——拖鞋。",
+      "speakLineEn": "A careful reader links slipper to 拖鞋, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 slipper 連到「拖鞋」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -190,6 +190,9 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P4-batch02"
+    "stage": "P4-batch02",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave2",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

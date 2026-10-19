@@ -25,10 +25,10 @@
     {
       "headword": "antithesis",
       "inVocab": true,
-      "senseAnchor": "exact opposite; the juxtaposition of contrasting words or ideas to give a feeling of balance",
+      "senseAnchor": "對立的；場面：反方對打",
       "roleInScript": "反方對打",
       "humorDevice": "morphology",
-      "zhGloss": "對立面；對照",
+      "zhGloss": "對立的",
       "speakLineEn": "Report the antithesis finding honestly.",
       "speakLineZh": "誠實報告對立發現。",
       "related": {
@@ -55,7 +55,7 @@
     {
       "headword": "hypothesis",
       "inVocab": false,
-      "senseAnchor": "假說",
+      "senseAnchor": "假說；場面：待驗命題",
       "roleInScript": "待驗命題",
       "humorDevice": "morphology",
       "zhGloss": "假說",
@@ -100,7 +100,7 @@
     {
       "headword": "hypothetical",
       "inVocab": false,
-      "senseAnchor": "假設的",
+      "senseAnchor": "假設的；場面：假如對打",
       "roleInScript": "假如對打",
       "humorDevice": "story",
       "zhGloss": "假設的",
@@ -160,7 +160,7 @@
     {
       "headword": "counterthesis",
       "inVocab": false,
-      "senseAnchor": "反論題",
+      "senseAnchor": "反論題；場面：對打卡",
       "roleInScript": "對打卡",
       "humorDevice": "story",
       "zhGloss": "反論題",
@@ -188,6 +188,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch03"
+    "stage": "P2-batch03",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

@@ -10,7 +10,7 @@
     {
       "headword": "philosophy",
       "inVocab": true,
-      "senseAnchor": "哲學",
+      "senseAnchor": "哲學；場面：愛智慧社長",
       "roleInScript": "愛智慧社長",
       "humorDevice": "morphology",
       "zhGloss": "哲學",
@@ -25,7 +25,7 @@
     {
       "headword": "philately",
       "inVocab": true,
-      "senseAnchor": "the collection and study of postage stamps",
+      "senseAnchor": "集郵；場面：郵票戀人粉",
       "roleInScript": "郵票戀人粉",
       "humorDevice": "morphology",
       "zhGloss": "集郵",
@@ -55,7 +55,7 @@
     {
       "headword": "cinephile",
       "inVocab": true,
-      "senseAnchor": "影迷",
+      "senseAnchor": "影迷；場面：抱片哭的粉",
       "roleInScript": "抱片哭的粉",
       "humorDevice": "morphology",
       "zhGloss": "影迷",
@@ -100,7 +100,7 @@
     {
       "headword": "philanthropist",
       "inVocab": true,
-      "senseAnchor": "慈善家",
+      "senseAnchor": "慈善家；場面：金援粉絲王",
       "roleInScript": "金援粉絲王",
       "humorDevice": "morphology",
       "zhGloss": "慈善家",
@@ -145,10 +145,10 @@
     {
       "headword": "philology",
       "inVocab": true,
-      "senseAnchor": "the humanistic study of language and literature",
+      "senseAnchor": "文獻學；場面：挖字根考古粉",
       "roleInScript": "挖字根考古粉",
       "humorDevice": "morphology",
-      "zhGloss": "語文學；文獻學",
+      "zhGloss": "文獻學",
       "speakLineEn": "Philology reminds us words drift in meaning.",
       "speakLineZh": "語文學提醒詞義會漂。",
       "related": {
@@ -160,7 +160,7 @@
     {
       "headword": "audiophile",
       "inVocab": true,
-      "senseAnchor": "音響迷",
+      "senseAnchor": "音響迷；場面：耳機信徒",
       "roleInScript": "耳機信徒",
       "humorDevice": "story",
       "zhGloss": "音響迷",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P2-batch01"
+    "stage": "P2-batch01",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

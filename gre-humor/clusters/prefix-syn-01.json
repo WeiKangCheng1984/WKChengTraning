@@ -11,7 +11,7 @@
     {
       "headword": "symbiosis",
       "inVocab": false,
-      "senseAnchor": "共生",
+      "senseAnchor": "共生；場面：互相養活",
       "roleInScript": "互相養活",
       "humorDevice": "morphology",
       "zhGloss": "共生",
@@ -26,7 +26,7 @@
     {
       "headword": "symposium",
       "inVocab": false,
-      "senseAnchor": "研討會",
+      "senseAnchor": "研討會；場面：一起討論會",
       "roleInScript": "一起討論會",
       "humorDevice": "morphology",
       "zhGloss": "研討會",
@@ -71,10 +71,10 @@
     {
       "headword": "synoptic",
       "inVocab": true,
-      "senseAnchor": "presenting a summary or general view of a whole; presenting or taking the same point of view; used especially with regard to the first three gospels of the New Testament",
+      "senseAnchor": "概括的；場面：總譜一頁",
       "roleInScript": "總譜一頁",
       "humorDevice": "morphology",
-      "zhGloss": "概覽的",
+      "zhGloss": "概括的",
       "speakLineEn": "Give a synoptic figure of the design.",
       "speakLineZh": "給設計的概覽圖。",
       "related": {
@@ -116,7 +116,7 @@
     {
       "headword": "syncopation",
       "inVocab": false,
-      "senseAnchor": "切分音",
+      "senseAnchor": "切分音；場面：節奏錯位",
       "roleInScript": "節奏錯位",
       "humorDevice": "story",
       "zhGloss": "切分音",
@@ -131,7 +131,7 @@
     {
       "headword": "syntax",
       "inVocab": false,
-      "senseAnchor": "句法",
+      "senseAnchor": "句法；場面：合在一起的規則",
       "roleInScript": "合在一起的規則",
       "humorDevice": "story",
       "zhGloss": "句法",
@@ -146,7 +146,7 @@
     {
       "headword": "synapse",
       "inVocab": false,
-      "senseAnchor": "突觸",
+      "senseAnchor": "突觸；場面：一起接上",
       "roleInScript": "一起接上",
       "humorDevice": "story",
       "zhGloss": "突觸",
@@ -203,6 +203,9 @@
   "status": "reviewed",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch03"
+    "stage": "P2-batch03",
+    "polishStage": "Q-gold",
+    "polishedAt": "2026-10-19",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

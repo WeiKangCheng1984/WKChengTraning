@@ -40,7 +40,7 @@
     {
       "headword": "subsequent",
       "inVocab": false,
-      "senseAnchor": "隨後的",
+      "senseAnchor": "隨後的；場面：跟在後面",
       "roleInScript": "跟在後面",
       "humorDevice": "morphology",
       "zhGloss": "隨後的",
@@ -55,7 +55,7 @@
     {
       "headword": "consecutive",
       "inVocab": false,
-      "senseAnchor": "連續的",
+      "senseAnchor": "連續的；場面：一個接一個",
       "roleInScript": "一個接一個",
       "humorDevice": "morphology",
       "zhGloss": "連續的",
@@ -70,10 +70,10 @@
     {
       "headword": "prosecute",
       "inVocab": true,
-      "senseAnchor": "conduct a prosecution in a court of law; bring a criminal action against (in a trial)",
+      "senseAnchor": "迫害；場面：依法追擊",
       "roleInScript": "依法追擊",
       "humorDevice": "morphology",
-      "zhGloss": "起訴；徹查執行",
+      "zhGloss": "迫害",
       "speakLineEn": "Agencies can prosecute data fraud.",
       "speakLineZh": "機關可起訴資料詐欺。",
       "related": {
@@ -85,7 +85,7 @@
     {
       "headword": "persecute",
       "inVocab": true,
-      "senseAnchor": "cause to suffer",
+      "senseAnchor": "迫害；場面：無理追打",
       "roleInScript": "無理追打",
       "humorDevice": "morphology",
       "zhGloss": "迫害",
@@ -100,10 +100,10 @@
     {
       "headword": "obsequious",
       "inVocab": true,
-      "senseAnchor": "attempting to win favor from influential people by flattery; attentive in an ingratiating or servile manner",
+      "senseAnchor": "諂媚的；奉承討好",
       "roleInScript": "跟太緊獻殷勤",
       "humorDevice": "morphology",
-      "zhGloss": "諂媚的",
+      "zhGloss": "諂媚的；奉承討好",
       "speakLineEn": "Obsequious citing of celebrities weakens peer review.",
       "speakLineZh": "諂媚引用名人削弱同儕審查。",
       "related": {
@@ -160,7 +160,7 @@
     {
       "headword": "sequential",
       "inVocab": false,
-      "senseAnchor": "依序的",
+      "senseAnchor": "依序的；場面：按序列跟",
       "roleInScript": "按序列跟",
       "humorDevice": "story",
       "zhGloss": "依序的",
@@ -203,6 +203,8 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P1-batch01"
+    "stage": "P1-batch01",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

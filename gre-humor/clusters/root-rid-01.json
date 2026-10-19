@@ -40,10 +40,10 @@
     {
       "headword": "risible",
       "inVocab": true,
-      "senseAnchor": "arousing or provoking laughter",
+      "senseAnchor": "可笑的；滑稽的",
       "roleInScript": "文雅笑點",
       "humorDevice": "morphology",
-      "zhGloss": "可笑的",
+      "zhGloss": "可笑的；滑稽的",
       "speakLineEn": "The excuse was risible under audit.",
       "speakLineZh": "稽核下那個藉口可笑。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "absurd",
       "inVocab": true,
-      "senseAnchor": "ridiculously unreasonable, unsound, or incongruous",
+      "senseAnchor": "不合理的；荒謬的",
       "roleInScript": "笑不出的荒誕",
       "humorDevice": "morphology",
-      "zhGloss": "荒謬的",
+      "zhGloss": "不合理的",
       "speakLineEn": "It is absurd to equate p<.05 with truth.",
       "speakLineZh": "把 p<.05 當真理很荒謬。",
       "related": {
@@ -100,7 +100,7 @@
     {
       "headword": "laughable",
       "inVocab": true,
-      "senseAnchor": "可笑的",
+      "senseAnchor": "可笑的；場面：笑得出來",
       "roleInScript": "笑得出來",
       "humorDevice": "story",
       "zhGloss": "可笑的",
@@ -130,7 +130,7 @@
     {
       "headword": "irony",
       "inVocab": true,
-      "senseAnchor": "諷刺",
+      "senseAnchor": "諷刺；場面：反差笑",
       "roleInScript": "反差笑",
       "humorDevice": "story",
       "zhGloss": "諷刺",
@@ -145,10 +145,10 @@
     {
       "headword": "satire",
       "inVocab": true,
-      "senseAnchor": "witty language used to convey insults or scorn; ; ; --Jonathan Swift",
+      "senseAnchor": "諷刺文學",
       "roleInScript": "諷刺專場",
       "humorDevice": "story",
-      "zhGloss": "諷刺文學",
+      "zhGloss": "諷刺",
       "speakLineEn": "Satire can teach norms; data still decide.",
       "speakLineZh": "諷刺能教規範；資料仍裁決。",
       "related": {
@@ -160,10 +160,10 @@
     {
       "headword": "jeer",
       "inVocab": true,
-      "senseAnchor": "showing your contempt by derision; laugh at with contempt and derision",
+      "senseAnchor": "嘲笑；場面：起哄笑",
       "roleInScript": "起哄笑",
       "humorDevice": "story",
-      "zhGloss": "嘲罵",
+      "zhGloss": "嘲笑",
       "speakLineEn": "Jeers at null results chill honesty.",
       "speakLineZh": "對虛無結果起哄寒蟬誠實。",
       "related": {
@@ -175,10 +175,10 @@
     {
       "headword": "scoff",
       "inVocab": true,
-      "senseAnchor": "showing your contempt by derision; laugh at with contempt and derision",
+      "senseAnchor": "嘲笑；場面：嗤之以鼻",
       "roleInScript": "嗤之以鼻",
       "humorDevice": "story",
-      "zhGloss": "嗤笑",
+      "zhGloss": "嘲笑",
       "speakLineEn": "Scoff less; specify more.",
       "speakLineZh": "少嗤笑；多具體。",
       "related": {
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P2-batch01"
+    "stage": "P2-batch01",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

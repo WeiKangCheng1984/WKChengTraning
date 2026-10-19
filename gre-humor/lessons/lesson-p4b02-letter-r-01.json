@@ -20,7 +20,7 @@
       "step": 2,
       "name": "串記劇本",
       "minutes": 2,
-      "content": "rabid/raillery/rakish/rambunctious 先登台，其餘 orphan 接龍。清倉晚會續攤：同字母檢票，義核才是身份證。"
+      "content": "rabid/raillery/rakish/rambunctious 先登台，其餘 orphan 接龍。清倉晚會續攤：同字母檢票，義核才是身份證。串記：同一世界觀裡，每個詞都有固定動作位。登場：rabid（R席-瘋狂的；）、raillery（R席-n. 玩）、rakish（R席-活潑的）、rambunctious（R席-喧鬧的；）、ramification（R席-n. 影）、ramify（R席-分支；分）。"
     },
     {
       "step": 3,
@@ -91,6 +91,8 @@
   "status": "reviewed",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P4-batch02"
+    "stage": "P4-batch02",
+    "polishStage": "Q-wave2",
+    "polishedAt": "2026-10-19"
   }
 }

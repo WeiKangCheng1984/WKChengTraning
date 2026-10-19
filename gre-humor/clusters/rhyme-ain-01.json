@@ -10,7 +10,7 @@
     {
       "headword": "complain",
       "inVocab": true,
-      "senseAnchor": "抱怨",
+      "senseAnchor": "抱怨；場面：營裡喊不平",
       "roleInScript": "營裡喊不平",
       "humorDevice": "story",
       "zhGloss": "抱怨",
@@ -25,7 +25,7 @@
     {
       "headword": "explain",
       "inVocab": true,
-      "senseAnchor": "解釋",
+      "senseAnchor": "解釋；場面：講清楚",
       "roleInScript": "講清楚",
       "humorDevice": "story",
       "zhGloss": "解釋",
@@ -70,7 +70,7 @@
     {
       "headword": "strain",
       "inVocab": true,
-      "senseAnchor": "拉緊；張力；菌株",
+      "senseAnchor": "拉緊；張力",
       "roleInScript": "緊繃",
       "humorDevice": "story",
       "zhGloss": "拉緊；張力；菌株",
@@ -85,7 +85,7 @@
     {
       "headword": "gain",
       "inVocab": true,
-      "senseAnchor": "獲得",
+      "senseAnchor": "獲得；場面：練到的進步",
       "roleInScript": "練到的進步",
       "humorDevice": "story",
       "zhGloss": "獲得",
@@ -100,7 +100,7 @@
     {
       "headword": "main",
       "inVocab": true,
-      "senseAnchor": "主要的",
+      "senseAnchor": "主要的；場面：主線",
       "roleInScript": "主線",
       "humorDevice": "story",
       "zhGloss": "主要的",
@@ -130,10 +130,10 @@
     {
       "headword": "stain",
       "inVocab": true,
-      "senseAnchor": "a soiled or discolored appearance; (microscopy) a dye or other coloring material that is used in microscopy to make structures visible",
+      "senseAnchor": "污點；場面：沾上的斑",
       "roleInScript": "沾上的斑",
       "humorDevice": "story",
-      "zhGloss": "污漬；染色",
+      "zhGloss": "污點",
       "speakLineEn": "A ethics stain spreads faster than a correction.",
       "speakLineZh": "倫理污點比更正傳更快。",
       "related": {
@@ -160,7 +160,7 @@
     {
       "headword": "brain",
       "inVocab": true,
-      "senseAnchor": "腦",
+      "senseAnchor": "腦；場面：營指揮部",
       "roleInScript": "營指揮部",
       "humorDevice": "story",
       "zhGloss": "腦",
@@ -175,7 +175,7 @@
     {
       "headword": "grain",
       "inVocab": true,
-      "senseAnchor": "穀粒；紋理；一點點",
+      "senseAnchor": "穀粒；紋理",
       "roleInScript": "一粒",
       "humorDevice": "story",
       "zhGloss": "穀粒；紋理；一點點",
@@ -233,6 +233,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "S3b"
+    "stage": "S3b",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

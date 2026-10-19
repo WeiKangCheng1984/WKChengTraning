@@ -10,7 +10,7 @@
     {
       "headword": "order",
       "inVocab": false,
-      "senseAnchor": "秩序；命令；訂單",
+      "senseAnchor": "秩序；命令",
       "roleInScript": "叫號",
       "humorDevice": "morphology",
       "zhGloss": "秩序；命令；訂單",
@@ -55,10 +55,10 @@
     {
       "headword": "subordinate",
       "inVocab": true,
-      "senseAnchor": "an assistant subject to the authority or control of another; a word that is more specific than a given word",
+      "senseAnchor": "受制配；服從",
       "roleInScript": "下屬櫃員",
       "humorDevice": "morphology",
-      "zhGloss": "下屬的；使從屬",
+      "zhGloss": "受制配；服從",
       "speakLineEn": "Do not subordinate ethics to speed.",
       "speakLineZh": "不要讓倫理從屬於速度。",
       "related": {
@@ -85,7 +85,7 @@
     {
       "headword": "ordinance",
       "inVocab": true,
-      "senseAnchor": "an authoritative rule; a statute enacted by a city government",
+      "senseAnchor": "條例；法令",
       "roleInScript": "告示牌",
       "humorDevice": "morphology",
       "zhGloss": "條例；法令",
@@ -145,7 +145,7 @@
     {
       "headword": "coordinator",
       "inVocab": false,
-      "senseAnchor": "協調者",
+      "senseAnchor": "協調者；場面：對齊的人",
       "roleInScript": "對齊的人",
       "humorDevice": "story",
       "zhGloss": "協調者",
@@ -160,7 +160,7 @@
     {
       "headword": "extraordinary",
       "inVocab": false,
-      "senseAnchor": "非凡的",
+      "senseAnchor": "非凡的；場面：超普通",
       "roleInScript": "超普通",
       "humorDevice": "story",
       "zhGloss": "非凡的",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P2-batch02"
+    "stage": "P2-batch02",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

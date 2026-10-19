@@ -70,10 +70,10 @@
     {
       "headword": "supersede",
       "inVocab": true,
-      "senseAnchor": "take the place or move into the position of",
+      "senseAnchor": "超越；場面：取代令",
       "roleInScript": "取代令",
       "humorDevice": "morphology",
-      "zhGloss": "取代；淘汰",
+      "zhGloss": "超越",
       "speakLineEn": "New protocols supersede folklore.",
       "speakLineZh": "新規程取代口頭傳說。",
       "related": {
@@ -100,10 +100,10 @@
     {
       "headword": "superlative",
       "inVocab": true,
-      "senseAnchor": "an exaggerated expression (usually of praise); the highest level or degree attainable; the highest stage of development",
+      "senseAnchor": "最高的；最好的",
       "roleInScript": "最高級",
       "humorDevice": "morphology",
-      "zhGloss": "最高級的；最好的",
+      "zhGloss": "最高的；最好的",
       "speakLineEn": "Avoid superlative claims from one study.",
       "speakLineZh": "避免用單一研究下最高級主張。",
       "related": {
@@ -175,10 +175,10 @@
     {
       "headword": "overrule",
       "inVocab": true,
-      "senseAnchor": "rule against",
+      "senseAnchor": "統治；否決",
       "roleInScript": "否決錘",
       "humorDevice": "story",
-      "zhGloss": "否決",
+      "zhGloss": "統治；否決",
       "speakLineEn": "Evidence can overrule hierarchy.",
       "speakLineZh": "證據可以否決層級。",
       "related": {
@@ -203,6 +203,8 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch06"
+    "stage": "P2-batch06",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

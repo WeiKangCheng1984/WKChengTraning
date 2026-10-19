@@ -25,10 +25,10 @@
     {
       "headword": "regress",
       "inVocab": true,
-      "senseAnchor": "the reasoning involved when you assume the conclusion is true and reason backward to the evidence; returning to a former state",
+      "senseAnchor": "退步；倒退",
       "roleInScript": "往回走",
       "humorDevice": "morphology",
-      "zhGloss": "退步；回歸",
+      "zhGloss": "退步；倒退",
       "speakLineEn": "Under stress, teams may regress to safer routines.",
       "speakLineZh": "壓力下團隊可能退回更安全的例行做法。",
       "related": {
@@ -55,7 +55,7 @@
     {
       "headword": "digress",
       "inVocab": true,
-      "senseAnchor": "lose clarity or turn aside especially from the main subject of attention or course of argument in writing, thinking, or speaking; wander from a direct or straight course",
+      "senseAnchor": "離題；場面：走到旁邊小路",
       "roleInScript": "走到旁邊小路",
       "humorDevice": "morphology",
       "zhGloss": "離題",
@@ -100,7 +100,7 @@
     {
       "headword": "grade",
       "inVocab": false,
-      "senseAnchor": "等級；坡度；評分",
+      "senseAnchor": "等級；坡度",
       "roleInScript": "一步一階",
       "humorDevice": "story",
       "zhGloss": "等級；坡度；評分",
@@ -115,7 +115,7 @@
     {
       "headword": "gradual",
       "inVocab": false,
-      "senseAnchor": "逐漸的",
+      "senseAnchor": "逐漸的；場面：一步一步",
       "roleInScript": "一步一步",
       "humorDevice": "morphology",
       "zhGloss": "逐漸的",
@@ -130,7 +130,7 @@
     {
       "headword": "degrade",
       "inVocab": true,
-      "senseAnchor": "降級；貶低；降解",
+      "senseAnchor": "降級；貶低",
       "roleInScript": "往下走階梯",
       "humorDevice": "morphology",
       "zhGloss": "降級；貶低；降解",
@@ -160,10 +160,10 @@
     {
       "headword": "transgress",
       "inVocab": true,
-      "senseAnchor": "to fail to keep the rule",
+      "senseAnchor": "違背；場面：跨過不該走的線",
       "roleInScript": "跨過不該走的線",
       "humorDevice": "morphology",
-      "zhGloss": "逾越；違反",
+      "zhGloss": "違背",
       "speakLineEn": "To transgress the protocol voids the trial.",
       "speakLineZh": "逾越協議會使試驗無效。",
       "related": {
@@ -189,6 +189,8 @@
   "qualityGate": {
     "reviewedAt": "2026-10-18",
     "stage": "S2",
-    "note": "New A-level cluster with full lesson"
+    "note": "New A-level cluster with full lesson",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

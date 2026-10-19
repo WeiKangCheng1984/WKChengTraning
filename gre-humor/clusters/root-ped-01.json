@@ -10,10 +10,10 @@
     {
       "headword": "pedestrian",
       "inVocab": true,
-      "senseAnchor": "causing weariness, restlessness, or lack of interest",
+      "senseAnchor": "平庸無奇的；行人",
       "roleInScript": "用腳走的平凡",
       "humorDevice": "morphology",
-      "zhGloss": "行人；平淡的",
+      "zhGloss": "平庸無奇的",
       "speakLineEn": "Pedestrian clarity beats ornate fog.",
       "speakLineZh": "平淡清晰勝過華麗迷霧。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "pedestal",
       "inVocab": true,
-      "senseAnchor": "a support or foundation; a position of great esteem (and supposed superiority)",
+      "senseAnchor": "基座的；場面：踮腳座",
       "roleInScript": "踮腳座",
       "humorDevice": "morphology",
-      "zhGloss": "基座；高台",
+      "zhGloss": "基座的",
       "speakLineEn": "Do not put celebrities on a methods pedestal.",
       "speakLineZh": "不要把名人放上方法基座。",
       "related": {
@@ -85,7 +85,7 @@
     {
       "headword": "centipede",
       "inVocab": false,
-      "senseAnchor": "蜈蚣",
+      "senseAnchor": "蜈蚣；場面：多腳怪彩蛋",
       "roleInScript": "多腳怪彩蛋",
       "humorDevice": "story",
       "zhGloss": "蜈蚣",
@@ -100,7 +100,7 @@
     {
       "headword": "tripod",
       "inVocab": false,
-      "senseAnchor": "三腳架",
+      "senseAnchor": "三腳架；場面：三隻腳",
       "roleInScript": "三隻腳",
       "humorDevice": "story",
       "zhGloss": "三腳架",
@@ -115,7 +115,7 @@
     {
       "headword": "pedal",
       "inVocab": false,
-      "senseAnchor": "踏板",
+      "senseAnchor": "踏板；場面：踩腳",
       "roleInScript": "踩腳",
       "humorDevice": "story",
       "zhGloss": "踏板",
@@ -130,7 +130,7 @@
     {
       "headword": "expedition",
       "inVocab": false,
-      "senseAnchor": "遠征",
+      "senseAnchor": "遠征；場面：長途腳程",
       "roleInScript": "長途腳程",
       "humorDevice": "story",
       "zhGloss": "遠征",
@@ -160,10 +160,10 @@
     {
       "headword": "podium",
       "inVocab": true,
-      "senseAnchor": "a platform raised above the surrounding level to give prominence to the person on it",
+      "senseAnchor": "指揮臺；場面：站腳處",
       "roleInScript": "站腳處",
       "humorDevice": "story",
-      "zhGloss": "頒獎台",
+      "zhGloss": "指揮臺",
       "speakLineEn": "The podium belongs to evidence, not vibes.",
       "speakLineZh": "頒獎台屬於證據不是感覺。",
       "related": {
@@ -175,7 +175,7 @@
     {
       "headword": "footprint",
       "inVocab": false,
-      "senseAnchor": "足跡",
+      "senseAnchor": "足跡；場面：腳印",
       "roleInScript": "腳印",
       "humorDevice": "story",
       "zhGloss": "足跡",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P2-batch02"
+    "stage": "P2-batch02",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

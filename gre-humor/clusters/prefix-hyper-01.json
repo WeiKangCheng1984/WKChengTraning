@@ -10,10 +10,10 @@
     {
       "headword": "hyperbole",
       "inVocab": true,
-      "senseAnchor": "exaggeration",
+      "senseAnchor": "誇張；場面：誇大噴射",
       "roleInScript": "誇大噴射",
       "humorDevice": "morphology",
-      "zhGloss": "誇張法",
+      "zhGloss": "誇張",
       "speakLineEn": "Drop hyperbole from abstracts.",
       "speakLineZh": "摘要刪掉誇張。",
       "related": {
@@ -55,7 +55,7 @@
     {
       "headword": "hyperlink",
       "inVocab": false,
-      "senseAnchor": "超連結",
+      "senseAnchor": "超連結；場面：跳轉門",
       "roleInScript": "跳轉門",
       "humorDevice": "morphology",
       "zhGloss": "超連結",
@@ -70,7 +70,7 @@
     {
       "headword": "hypertension",
       "inVocab": false,
-      "senseAnchor": "高血壓",
+      "senseAnchor": "高血壓；場面：壓力過高梗",
       "roleInScript": "壓力過高梗",
       "humorDevice": "story",
       "zhGloss": "高血壓",
@@ -130,7 +130,7 @@
     {
       "headword": "overdrive",
       "inVocab": false,
-      "senseAnchor": "超速檔",
+      "senseAnchor": "超速檔；場面：加速過猛",
       "roleInScript": "加速過猛",
       "humorDevice": "story",
       "zhGloss": "超速檔",
@@ -145,7 +145,7 @@
     {
       "headword": "too much",
       "inVocab": false,
-      "senseAnchor": "太多",
+      "senseAnchor": "太多；場面：過度口語",
       "roleInScript": "過度口語",
       "humorDevice": "story",
       "zhGloss": "太多",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch03"
+    "stage": "P2-batch03",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

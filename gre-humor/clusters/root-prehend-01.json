@@ -10,10 +10,10 @@
     {
       "headword": "apprehend",
       "inVocab": true,
-      "senseAnchor": "to understand",
+      "senseAnchor": "理解；場面：抓嫌犯",
       "roleInScript": "抓嫌犯",
       "humorDevice": "morphology",
-      "zhGloss": "逮捕；理解",
+      "zhGloss": "理解",
       "speakLineEn": "Apprehend the confound before you celebrate.",
       "speakLineZh": "慶祝前先抓住混淆因子。",
       "related": {
@@ -25,7 +25,7 @@
     {
       "headword": "comprehend",
       "inVocab": true,
-      "senseAnchor": "理解",
+      "senseAnchor": "理解；場面：抓住意思",
       "roleInScript": "抓住意思",
       "humorDevice": "morphology",
       "zhGloss": "理解",
@@ -40,7 +40,7 @@
     {
       "headword": "comprehensive",
       "inVocab": true,
-      "senseAnchor": "全面的",
+      "senseAnchor": "全面的；場面：全抓清單",
       "roleInScript": "全抓清單",
       "humorDevice": "morphology",
       "zhGloss": "全面的",
@@ -55,10 +55,10 @@
     {
       "headword": "reprehend",
       "inVocab": true,
-      "senseAnchor": "express strong disapproval of",
+      "senseAnchor": "斥責；場面：抓出來罵",
       "roleInScript": "抓出來罵",
       "humorDevice": "morphology",
-      "zhGloss": "譴責",
+      "zhGloss": "斥責",
       "speakLineEn": "Reprehend silent outcome switching.",
       "speakLineZh": "譴責沉默的結局替換。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "reprehensible",
       "inVocab": true,
-      "senseAnchor": "morally wrong and deserving criticism",
+      "senseAnchor": "不道德的；應受譴責的",
       "roleInScript": "該罵標籤",
       "humorDevice": "morphology",
-      "zhGloss": "應受譴責的",
+      "zhGloss": "不道德的；應受譴責的",
       "speakLineEn": "Fabrication is reprehensible, full stop.",
       "speakLineZh": "捏造應受譴責，句號。",
       "related": {
@@ -85,7 +85,7 @@
     {
       "headword": "apprehensive",
       "inVocab": true,
-      "senseAnchor": "憂慮的",
+      "senseAnchor": "憂慮的；場面：抓心慌",
       "roleInScript": "抓心慌",
       "humorDevice": "morphology",
       "zhGloss": "憂慮的",
@@ -130,7 +130,7 @@
     {
       "headword": "comprise",
       "inVocab": true,
-      "senseAnchor": "包含",
+      "senseAnchor": "包含；場面：整包抓住",
       "roleInScript": "整包抓住",
       "humorDevice": "story",
       "zhGloss": "包含",
@@ -160,7 +160,7 @@
     {
       "headword": "reprisal",
       "inVocab": true,
-      "senseAnchor": "報復",
+      "senseAnchor": "報復；場面：反抓一擊",
       "roleInScript": "反抓一擊",
       "humorDevice": "story",
       "zhGloss": "報復",
@@ -175,7 +175,7 @@
     {
       "headword": "prison",
       "inVocab": true,
-      "senseAnchor": "監獄",
+      "senseAnchor": "監獄；場面：關起來",
       "roleInScript": "關起來",
       "humorDevice": "story",
       "zhGloss": "監獄",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch05"
+    "stage": "P2-batch05",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

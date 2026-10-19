@@ -11,7 +11,7 @@
     {
       "headword": "proclaim",
       "inVocab": false,
-      "senseAnchor": "宣告",
+      "senseAnchor": "宣告；場面：向前喊",
       "roleInScript": "向前喊",
       "humorDevice": "morphology",
       "zhGloss": "宣告",
@@ -26,7 +26,7 @@
     {
       "headword": "procure",
       "inVocab": false,
-      "senseAnchor": "取得",
+      "senseAnchor": "取得；場面：向前弄到",
       "roleInScript": "向前弄到",
       "humorDevice": "morphology",
       "zhGloss": "取得",
@@ -41,7 +41,7 @@
     {
       "headword": "proponent",
       "inVocab": false,
-      "senseAnchor": "支持者",
+      "senseAnchor": "支持者；場面：向前贊成",
       "roleInScript": "向前贊成",
       "humorDevice": "morphology",
       "zhGloss": "支持者",
@@ -56,7 +56,7 @@
     {
       "headword": "proclivity",
       "inVocab": false,
-      "senseAnchor": "傾向",
+      "senseAnchor": "傾向；場面：往前偏",
       "roleInScript": "往前偏",
       "humorDevice": "morphology",
       "zhGloss": "傾向",
@@ -71,10 +71,10 @@
     {
       "headword": "prodigal",
       "inVocab": true,
-      "senseAnchor": "a recklessly extravagant consumer; recklessly wasteful",
+      "senseAnchor": "驚人的；龐大的",
       "roleInScript": "向前灑",
       "humorDevice": "morphology",
-      "zhGloss": "揮霍的",
+      "zhGloss": "驚人的；龐大的",
       "speakLineEn": "Be prodigal with openness, not with claims.",
       "speakLineZh": "對開放要大方，對主張別揮霍。",
       "related": {
@@ -86,10 +86,10 @@
     {
       "headword": "prosaic",
       "inVocab": true,
-      "senseAnchor": "common and dull",
+      "senseAnchor": "冗長的；單調乏味的",
       "roleInScript": "日常往前",
       "humorDevice": "morphology",
-      "zhGloss": "平凡的",
+      "zhGloss": "冗長的；單調乏味的",
       "speakLineEn": "Even prosaic checklists prevent disasters.",
       "speakLineZh": "即使乏味檢核表也能防災。",
       "related": {
@@ -101,10 +101,10 @@
     {
       "headword": "protagonist",
       "inVocab": true,
-      "senseAnchor": "a person who backs a politician or a team etc.; the principal character in a work of fiction",
+      "senseAnchor": "支持者；場面：前方人物",
       "roleInScript": "前方人物",
       "humorDevice": "morphology",
-      "zhGloss": "主角",
+      "zhGloss": "支持者",
       "speakLineEn": "Name the protagonist of the policy change.",
       "speakLineZh": "點名政策變更的主角。",
       "related": {
@@ -143,6 +143,8 @@
   "status": "reviewed",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P1-batch02-topup"
+    "stage": "P1-batch02-topup",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

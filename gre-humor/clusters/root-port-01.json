@@ -70,10 +70,10 @@
     {
       "headword": "transport",
       "inVocab": true,
-      "senseAnchor": "a state of overwhelming usually pleasurable emotion",
+      "senseAnchor": "狂喜；場面：整段運程",
       "roleInScript": "整段運程",
       "humorDevice": "morphology",
-      "zhGloss": "運輸",
+      "zhGloss": "狂喜",
       "speakLineEn": "How we transport samples affects degradation.",
       "speakLineZh": "樣本運輸方式影響降解。",
       "related": {
@@ -85,7 +85,7 @@
     {
       "headword": "important",
       "inVocab": true,
-      "senseAnchor": "重要的",
+      "senseAnchor": "重要的；場面：有重量的貨",
       "roleInScript": "有重量的貨",
       "humorDevice": "story",
       "zhGloss": "重要的",
@@ -100,10 +100,10 @@
     {
       "headword": "opportune",
       "inVocab": true,
-      "senseAnchor": "suitable or at a time that is suitable or advantageous especially for a particular purpose",
+      "senseAnchor": "合適的；場面：剛好靠岸",
       "roleInScript": "剛好靠岸",
       "humorDevice": "morphology",
-      "zhGloss": "合時宜的",
+      "zhGloss": "合適的",
       "speakLineEn": "An opportune pause let cooler evidence speak.",
       "speakLineZh": "合時停頓讓冷靜證據說話。",
       "related": {
@@ -115,7 +115,7 @@
     {
       "headword": "opportunity",
       "inVocab": true,
-      "senseAnchor": "機會",
+      "senseAnchor": "機會；場面：靠岸窗口",
       "roleInScript": "靠岸窗口",
       "humorDevice": "morphology",
       "zhGloss": "機會",
@@ -145,7 +145,7 @@
     {
       "headword": "report",
       "inVocab": true,
-      "senseAnchor": "報告",
+      "senseAnchor": "報告；場面：運回總部",
       "roleInScript": "運回總部",
       "humorDevice": "morphology",
       "zhGloss": "報告",
@@ -175,10 +175,10 @@
     {
       "headword": "purport",
       "inVocab": true,
-      "senseAnchor": "the intended meaning of a communication; the pervading meaning or tenor",
+      "senseAnchor": "主旨；場面：宣稱運載的意義",
       "roleInScript": "宣稱運載的意義",
       "humorDevice": "morphology",
-      "zhGloss": "聲稱；主旨",
+      "zhGloss": "主旨",
       "speakLineEn": "The statute purports to protect privacy broadly.",
       "speakLineZh": "法條聲稱要廣泛保護隱私。",
       "related": {
@@ -205,7 +205,7 @@
     {
       "headword": "porter",
       "inVocab": true,
-      "senseAnchor": "搬運工",
+      "senseAnchor": "搬運工；場面：碼頭搬運者",
       "roleInScript": "碼頭搬運者",
       "humorDevice": "story",
       "zhGloss": "搬運工",
@@ -220,10 +220,10 @@
     {
       "headword": "sport",
       "inVocab": true,
-      "senseAnchor": "an active diversion requiring physical exertion and competition; the occupation of athletes who compete for pay",
+      "senseAnchor": "炫耀；場面：把精力運去競技",
       "roleInScript": "把精力運去競技",
       "humorDevice": "story",
-      "zhGloss": "運動；炫耀（古義 disport 近）",
+      "zhGloss": "炫耀",
       "speakLineEn": "Do not sport with definitions mid-argument.",
       "speakLineZh": "論證中途不要拿定義嬉戲。",
       "related": {
@@ -248,6 +248,8 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "S3b"
+    "stage": "S3b",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

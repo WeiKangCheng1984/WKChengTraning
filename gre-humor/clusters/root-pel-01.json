@@ -10,7 +10,7 @@
     {
       "headword": "compel",
       "inVocab": true,
-      "senseAnchor": "強迫",
+      "senseAnchor": "強迫；場面：強推去做",
       "roleInScript": "強推去做",
       "humorDevice": "morphology",
       "zhGloss": "強迫",
@@ -40,10 +40,10 @@
     {
       "headword": "repel",
       "inVocab": true,
-      "senseAnchor": "cause to move back by force or influence; be repellent to; cause aversion in",
+      "senseAnchor": "抵制；擊退",
       "roleInScript": "推開",
       "humorDevice": "morphology",
-      "zhGloss": "擊退；使反感",
+      "zhGloss": "抵制；擊退",
       "speakLineEn": "Opaque methods repel collaborators.",
       "speakLineZh": "不透明方法讓合作者反感。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "propel",
       "inVocab": true,
-      "senseAnchor": "cause to move forward with force; give an incentive for action",
+      "senseAnchor": "驅使；激勵",
       "roleInScript": "向前推",
       "humorDevice": "morphology",
-      "zhGloss": "推進",
+      "zhGloss": "驅使；激勵",
       "speakLineEn": "Clear stakes propel careful reading.",
       "speakLineZh": "清楚利害推進細讀。",
       "related": {
@@ -85,7 +85,7 @@
     {
       "headword": "dispel",
       "inVocab": true,
-      "senseAnchor": "驅散",
+      "senseAnchor": "驅散；場面：推散迷霧",
       "roleInScript": "推散迷霧",
       "humorDevice": "morphology",
       "zhGloss": "驅散",
@@ -115,7 +115,7 @@
     {
       "headword": "compulsory",
       "inVocab": true,
-      "senseAnchor": "強制的",
+      "senseAnchor": "強制的；場面：非推不可",
       "roleInScript": "非推不可",
       "humorDevice": "morphology",
       "zhGloss": "強制的",
@@ -130,10 +130,10 @@
     {
       "headword": "expulsion",
       "inVocab": true,
-      "senseAnchor": "the act of forcing out someone or something; squeezing out by applying pressure",
+      "senseAnchor": "驅逐；場面：被推出的結果",
       "roleInScript": "被推出的結果",
       "humorDevice": "morphology",
-      "zhGloss": "開除；驅逐",
+      "zhGloss": "驅逐",
       "speakLineEn": "Expulsion from a consortium should follow due process.",
       "speakLineZh": "逐出聯盟應有正當程序。",
       "related": {
@@ -145,10 +145,10 @@
     {
       "headword": "repellent",
       "inVocab": true,
-      "senseAnchor": "causing aversion or disgust",
+      "senseAnchor": "令人討厭的；令人厭惡的",
       "roleInScript": "把人推開的",
       "humorDevice": "morphology",
-      "zhGloss": "令人反感的；驅蟲的",
+      "zhGloss": "令人討厭的；令人厭惡的；惹人反感的",
       "speakLineEn": "A repellent tone loses persuadable readers.",
       "speakLineZh": "反感語氣失去可說服讀者。",
       "related": {
@@ -160,10 +160,10 @@
     {
       "headword": "impel",
       "inVocab": true,
-      "senseAnchor": "urge or force (a person) to an action; constrain or motivate; cause to move forward with force",
+      "senseAnchor": "推動；驅使",
       "roleInScript": "往前驅",
       "humorDevice": "morphology",
-      "zhGloss": "驅使",
+      "zhGloss": "推動；驅使",
       "speakLineEn": "Curiosity should impel checks, not shortcuts.",
       "speakLineZh": "好奇應驅使核查，而非捷徑。",
       "related": {
@@ -175,7 +175,7 @@
     {
       "headword": "pulsate",
       "inVocab": true,
-      "senseAnchor": "搏動",
+      "senseAnchor": "搏動；場面：一下一下推",
       "roleInScript": "一下一下推",
       "humorDevice": "morphology",
       "zhGloss": "搏動",
@@ -190,7 +190,7 @@
     {
       "headword": "propulsion",
       "inVocab": true,
-      "senseAnchor": "a propelling force; the act of propelling",
+      "senseAnchor": "推進力；場面：推進系統",
       "roleInScript": "推進系統",
       "humorDevice": "story",
       "zhGloss": "推進力",
@@ -205,10 +205,10 @@
     {
       "headword": "repulsion",
       "inVocab": true,
-      "senseAnchor": "the force by which bodies repel one another; intense aversion",
+      "senseAnchor": "抗拒；排斥",
       "roleInScript": "推開的力",
       "humorDevice": "morphology",
-      "zhGloss": "排斥；反感",
+      "zhGloss": "抗拒；排斥",
       "speakLineEn": "Mutual repulsion between camps blocks synthesis.",
       "speakLineZh": "陣營互斥阻礙綜整。",
       "related": {
@@ -220,10 +220,10 @@
     {
       "headword": "compulsion",
       "inVocab": true,
-      "senseAnchor": "an urge to do or say something that might be better left undone or unsaid; an irrational motive for performing trivial or repetitive actions, even against your will",
+      "senseAnchor": "強迫；場面：不得不推",
       "roleInScript": "不得不推",
       "humorDevice": "morphology",
-      "zhGloss": "強迫；強迫觀念",
+      "zhGloss": "強迫",
       "speakLineEn": "Under compulsion, consent is compromised.",
       "speakLineZh": "強迫下同意已打折。",
       "related": {
@@ -248,6 +248,8 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "S3b"
+    "stage": "S3b",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

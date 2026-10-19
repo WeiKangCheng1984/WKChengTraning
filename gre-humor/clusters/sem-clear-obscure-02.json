@@ -10,12 +10,12 @@
     {
       "headword": "limpid",
       "inVocab": true,
-      "senseAnchor": "clear and bright; transmitting light; able to be seen through with clarity",
+      "senseAnchor": "清澈的",
       "roleInScript": "清澈窗",
       "humorDevice": "contrast",
-      "zhGloss": "清澈",
-      "speakLineEn": "Cue the 清澈窗: limpid walks on and the gag sticks.",
-      "speakLineZh": "請「清澈窗」出場：limpid 一上場梗就黏住——清澈。",
+      "zhGloss": "清澈的",
+      "speakLineEn": "Could see the sand on the bottom of the limpid pool.",
+      "speakLineZh": "例句對齊：清澈。",
       "related": {
         "synonyms": "liquid, crystalline, lucid, pellucid, transparent, luculent",
         "antonyms": "gaseous, solid, unmelted, noncrystalline, obscure, confused, opaque"
@@ -29,8 +29,8 @@
       "roleInScript": "水晶",
       "humorDevice": "contrast",
       "zhGloss": "晶瑩明晰",
-      "speakLineEn": "Cue the 水晶: crystalline walks on and the gag sticks.",
-      "speakLineZh": "請「水晶」出場：crystalline 一上場梗就黏住——晶瑩明晰。",
+      "speakLineEn": "On the exam, crystalline most nearly means a sense of \"晶瑩明晰\".",
+      "speakLineZh": "晶瑩明晰。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -40,12 +40,12 @@
     {
       "headword": "nebulous",
       "inVocab": true,
-      "senseAnchor": "not at all clear or exact",
+      "senseAnchor": "模糊的；不清楚的",
       "roleInScript": "星雲霧",
       "humorDevice": "contrast",
-      "zhGloss": "模糊朦朧",
-      "speakLineEn": "Cue the 星雲霧: nebulous walks on and the gag sticks.",
-      "speakLineZh": "請「星雲霧」出場：nebulous 一上場梗就黏住——模糊朦朧。",
+      "zhGloss": "模糊的；不清楚的",
+      "speakLineEn": "Nebulous distinction between pride and conceit.",
+      "speakLineZh": "模糊的，不清楚的。",
       "related": {
         "synonyms": "vague, ambiguous, murky, obscure",
         "antonyms": "clear, definite, defined, unambiguous, unequivocal"
@@ -55,12 +55,12 @@
     {
       "headword": "murky",
       "inVocab": true,
-      "senseAnchor": "lacking clarity or distinctness",
+      "senseAnchor": "模糊的；場面：混濁",
       "roleInScript": "混濁",
       "humorDevice": "contrast",
-      "zhGloss": "混濁晦暗",
-      "speakLineEn": "Cue the 混濁: murky walks on and the gag sticks.",
-      "speakLineZh": "請「混濁」出場：murky 一上場梗就黏住——混濁晦暗。",
+      "zhGloss": "模糊的",
+      "speakLineEn": "Murky rooms lit by smoke-blackened lamps.",
+      "speakLineZh": "例句對齊：混濁晦暗。",
       "related": {
         "synonyms": "vague, muddy, nebulous, obscure",
         "antonyms": "defined, clear, definite"
@@ -74,8 +74,8 @@
       "roleInScript": "雲濁",
       "humorDevice": "contrast",
       "zhGloss": "混濁不清",
-      "speakLineEn": "Cue the 雲濁: cloudy walks on and the gag sticks.",
-      "speakLineZh": "請「雲濁」出場：cloudy 一上場梗就黏住——混濁不清。",
+      "speakLineEn": "On the exam, cloudy most nearly means a sense of \"混濁不清\".",
+      "speakLineZh": "混濁不清。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -85,12 +85,12 @@
     {
       "headword": "cryptic",
       "inVocab": true,
-      "senseAnchor": "of an obscure nature; ; ; ; - Rachel Carson; having a secret or hidden meaning; ; ; - John Gunther",
+      "senseAnchor": "神祕的；場面：密碼",
       "roleInScript": "密碼",
       "humorDevice": "contrast",
-      "zhGloss": "隱晦難解",
-      "speakLineEn": "Cue the 密碼: cryptic walks on and the gag sticks.",
-      "speakLineZh": "請「密碼」出場：cryptic 一上場梗就黏住——隱晦難解。",
+      "zhGloss": "神祕的",
+      "speakLineEn": "The new insurance policy is written without cryptic or mysterious terms.",
+      "speakLineZh": "例句對齊：隱晦難解。",
       "related": {
         "synonyms": "cryptical, deep, inscrutable, mysterious, mystifying, cabalistic",
         "antonyms": "shallow, demystify"
@@ -100,12 +100,12 @@
     {
       "headword": "esoteric",
       "inVocab": true,
-      "senseAnchor": "difficult to understand",
+      "senseAnchor": "難懂的；場面：小眾門",
       "roleInScript": "小眾門",
       "humorDevice": "contrast",
-      "zhGloss": "艱深小眾",
-      "speakLineEn": "Cue the 小眾門: esoteric walks on and the gag sticks.",
-      "speakLineZh": "請「小眾門」出場：esoteric 一上場梗就黏住——艱深小眾。",
+      "zhGloss": "難懂的",
+      "speakLineEn": "A compilation of esoteric philosophical theories.",
+      "speakLineZh": "例句對齊：艱深小眾。",
       "related": {
         "synonyms": "abstruse, recondite, impenetrable, arcane, inscrutable, unfathomable",
         "antonyms": "accessible, commonplace, exoteric, simple, penetrable, fathomable"
@@ -116,11 +116,11 @@
       "headword": "windex",
       "inVocab": true,
       "senseAnchor": "玻璃水",
-      "roleInScript": "玻璃水",
+      "roleInScript": "玻璃水角色",
       "humorDevice": "story",
       "zhGloss": "玻璃水",
-      "speakLineEn": "Cue the 玻璃水: windex walks on and the gag sticks.",
-      "speakLineZh": "請「玻璃水」出場：windex 一上場梗就黏住——玻璃水。",
+      "speakLineEn": "On the exam, windex most nearly means a sense of \"玻璃水\".",
+      "speakLineZh": "玻璃水。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -134,8 +134,8 @@
       "roleInScript": "霧機",
       "humorDevice": "story",
       "zhGloss": "霧",
-      "speakLineEn": "Cue the 霧機: fog walks on and the gag sticks.",
-      "speakLineZh": "請「霧機」出場：fog 一上場梗就黏住——霧。",
+      "speakLineEn": "Picture the 霧機: the word fog means 霧.",
+      "speakLineZh": "想像「霧機」：fog＝霧。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -146,11 +146,11 @@
       "headword": "flashlight",
       "inVocab": true,
       "senseAnchor": "手電筒",
-      "roleInScript": "手電筒",
+      "roleInScript": "手電筒角色",
       "humorDevice": "story",
       "zhGloss": "手電筒",
-      "speakLineEn": "Cue the 手電筒: flashlight walks on and the gag sticks.",
-      "speakLineZh": "請「手電筒」出場：flashlight 一上場梗就黏住——手電筒。",
+      "speakLineEn": "On the exam, flashlight most nearly means a sense of \"手電筒\".",
+      "speakLineZh": "手電筒。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -160,12 +160,12 @@
     {
       "headword": "blur",
       "inVocab": true,
-      "senseAnchor": "to (cause sth. to) become vague or indistinct",
-      "roleInScript": "模糊",
+      "senseAnchor": "（使）模糊",
+      "roleInScript": "模糊角色",
       "humorDevice": "story",
-      "zhGloss": "模糊",
-      "speakLineEn": "Cue the 模糊: blur walks on and the gag sticks.",
-      "speakLineZh": "請「模糊」出場：blur 一上場梗就黏住——模糊。",
+      "zhGloss": "（使）模糊",
+      "speakLineEn": "It happened so fast it was just a blur.",
+      "speakLineZh": "例句對齊：模糊。",
       "related": {
         "synonyms": "obscure",
         "antonyms": "focus"
@@ -176,11 +176,11 @@
       "headword": "haze",
       "inVocab": true,
       "senseAnchor": "薄霧",
-      "roleInScript": "薄霧",
+      "roleInScript": "薄霧角色",
       "humorDevice": "story",
       "zhGloss": "薄霧",
-      "speakLineEn": "Cue the 薄霧: haze walks on and the gag sticks.",
-      "speakLineZh": "請「薄霧」出場：haze 一上場梗就黏住——薄霧。",
+      "speakLineEn": "On the exam, haze most nearly means a sense of \"薄霧\".",
+      "speakLineZh": "薄霧。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -191,11 +191,11 @@
       "headword": "decode",
       "inVocab": true,
       "senseAnchor": "解碼",
-      "roleInScript": "解碼",
+      "roleInScript": "解碼角色",
       "humorDevice": "story",
       "zhGloss": "解碼",
-      "speakLineEn": "Cue the 解碼: decode walks on and the gag sticks.",
-      "speakLineZh": "請「解碼」出場：decode 一上場梗就黏住——解碼。",
+      "speakLineEn": "On the exam, decode most nearly means a sense of \"解碼\".",
+      "speakLineZh": "解碼。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -206,11 +206,11 @@
       "headword": "opaque-glass",
       "inVocab": true,
       "senseAnchor": "霧玻璃",
-      "roleInScript": "霧玻璃",
+      "roleInScript": "霧玻璃角色",
       "humorDevice": "story",
       "zhGloss": "霧玻璃",
-      "speakLineEn": "Cue the 霧玻璃: opaque-glass walks on and the gag sticks.",
-      "speakLineZh": "請「霧玻璃」出場：opaque-glass 一上場梗就黏住——霧玻璃。",
+      "speakLineEn": "On the exam, opaque-glass most nearly means a sense of \"霧玻璃\".",
+      "speakLineZh": "霧玻璃。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -221,11 +221,11 @@
       "headword": "sparkle",
       "inVocab": true,
       "senseAnchor": "閃亮",
-      "roleInScript": "閃亮",
+      "roleInScript": "閃亮角色",
       "humorDevice": "story",
       "zhGloss": "閃亮",
-      "speakLineEn": "Cue the 閃亮: sparkle walks on and the gag sticks.",
-      "speakLineZh": "請「閃亮」出場：sparkle 一上場梗就黏住——閃亮。",
+      "speakLineEn": "On the exam, sparkle most nearly means a sense of \"閃亮\".",
+      "speakLineZh": "閃亮。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -235,12 +235,12 @@
     {
       "headword": "smudge",
       "inVocab": true,
-      "senseAnchor": "a smoky fire to drive away insects; a blemish made by dirt",
-      "roleInScript": "污跡",
+      "senseAnchor": "污點；污跡",
+      "roleInScript": "污跡角色",
       "humorDevice": "story",
-      "zhGloss": "污跡",
-      "speakLineEn": "Cue the 污跡: smudge walks on and the gag sticks.",
-      "speakLineZh": "請「污跡」出場：smudge 一上場梗就黏住——污跡。",
+      "zhGloss": "污點",
+      "speakLineEn": "He had a smudge on his cheek.",
+      "speakLineZh": "例句對齊：污跡。",
       "related": {
         "synonyms": "spot, blot, daub, smear, smirch, slur",
         "antonyms": "focus"
@@ -251,11 +251,11 @@
       "headword": "polish",
       "inVocab": true,
       "senseAnchor": "擦亮",
-      "roleInScript": "擦亮",
+      "roleInScript": "擦亮角色",
       "humorDevice": "story",
       "zhGloss": "擦亮",
-      "speakLineEn": "Cue the 擦亮: polish walks on and the gag sticks.",
-      "speakLineZh": "請「擦亮」出場：polish 一上場梗就黏住——擦亮。",
+      "speakLineEn": "On the exam, polish most nearly means a sense of \"擦亮\".",
+      "speakLineZh": "擦亮。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -265,12 +265,12 @@
     {
       "headword": "veil",
       "inVocab": true,
-      "senseAnchor": "to hide something",
-      "roleInScript": "面紗",
+      "senseAnchor": "掩蓋；面紗",
+      "roleInScript": "面紗角色",
       "humorDevice": "story",
-      "zhGloss": "面紗",
-      "speakLineEn": "Cue the 面紗: veil walks on and the gag sticks.",
-      "speakLineZh": "請「面紗」出場：veil 一上場梗就黏住——面紗。",
+      "zhGloss": "掩蓋",
+      "speakLineEn": "Women in Afghanistan veil their faces.",
+      "speakLineZh": "例句對齊：面紗。",
       "related": {
         "synonyms": "belie, mask, shroud, cloak",
         "antonyms": "unveil, confirm, corroborate, unmask"
@@ -281,11 +281,11 @@
       "headword": "lantern",
       "inVocab": true,
       "senseAnchor": "燈籠",
-      "roleInScript": "燈籠",
+      "roleInScript": "燈籠角色",
       "humorDevice": "story",
       "zhGloss": "燈籠",
-      "speakLineEn": "Cue the 燈籠: lantern walks on and the gag sticks.",
-      "speakLineZh": "請「燈籠」出場：lantern 一上場梗就黏住——燈籠。",
+      "speakLineEn": "On the exam, lantern most nearly means a sense of \"燈籠\".",
+      "speakLineZh": "燈籠。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -299,8 +299,8 @@
       "roleInScript": "mist",
       "humorDevice": "story",
       "zhGloss": "mist霧",
-      "speakLineEn": "Cue the mist: mist walks on and the gag sticks.",
-      "speakLineZh": "請「mist」出場：mist 一上場梗就黏住——mist霧。",
+      "speakLineEn": "On the exam, mist most nearly means a sense of \"mist霧\".",
+      "speakLineZh": "mist霧.",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -311,11 +311,11 @@
       "headword": "shine",
       "inVocab": true,
       "senseAnchor": "照亮",
-      "roleInScript": "照亮",
+      "roleInScript": "照亮角色",
       "humorDevice": "story",
       "zhGloss": "照亮",
-      "speakLineEn": "Cue the 照亮: shine walks on and the gag sticks.",
-      "speakLineZh": "請「照亮」出場：shine 一上場梗就黏住——照亮。",
+      "speakLineEn": "On the exam, shine most nearly means a sense of \"照亮\".",
+      "speakLineZh": "照亮。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -326,11 +326,11 @@
       "headword": "mud",
       "inVocab": false,
       "senseAnchor": "泥",
-      "roleInScript": "泥",
+      "roleInScript": "泥角色",
       "humorDevice": "story",
       "zhGloss": "泥",
-      "speakLineEn": "Cue the 泥: mud walks on and the gag sticks.",
-      "speakLineZh": "請「泥」出場：mud 一上場梗就黏住——泥。",
+      "speakLineEn": "Critics argued that the policy would mud basic protections.",
+      "speakLineZh": "批評者主張該政策會泥基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -341,11 +341,11 @@
       "headword": "windowpane",
       "inVocab": true,
       "senseAnchor": "窗玻璃",
-      "roleInScript": "窗玻璃",
+      "roleInScript": "窗玻璃角色",
       "humorDevice": "story",
       "zhGloss": "窗玻璃",
-      "speakLineEn": "Cue the 窗玻璃: windowpane walks on and the gag sticks.",
-      "speakLineZh": "請「窗玻璃」出場：windowpane 一上場梗就黏住——窗玻璃。",
+      "speakLineEn": "On the exam, windowpane most nearly means a sense of \"窗玻璃\".",
+      "speakLineZh": "窗玻璃。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -356,11 +356,11 @@
       "headword": "defog",
       "inVocab": true,
       "senseAnchor": "除霧",
-      "roleInScript": "除霧",
+      "roleInScript": "除霧角色",
       "humorDevice": "story",
       "zhGloss": "除霧",
-      "speakLineEn": "Cue the 除霧: defog walks on and the gag sticks.",
-      "speakLineZh": "請「除霧」出場：defog 一上場梗就黏住——除霧。",
+      "speakLineEn": "On the exam, defog most nearly means a sense of \"除霧\".",
+      "speakLineZh": "除霧。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -383,6 +383,9 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P3-batch02"
+    "stage": "P3-batch02",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave1",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

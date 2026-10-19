@@ -5,17 +5,17 @@
   "titleZh": "apropos／opprobrium｜得體辱罵櫃台",
   "titleEn": "Apropos Counter",
   "hook": "apropos 是得體相關，opprobrium 是公開譴責——櫃台一側送賀卡，一側丟番茄。",
-  "script": "apropos／apposite＝貼切。opprobrium／opprobrious＝辱罵恥辱。口令：賀卡寫「說得巧」，番茄寫「別亂砸」。",
+  "script": "apropos／apposite＝貼切。opprobrium／opprobrious＝辱罵恥辱。口令：賀卡寫「說得巧」，番茄寫「別亂砸」。形近對決：先分清語意軸，再對號入座。登場：apropos（賀卡）、apposite（剛好章）、opprobrium（番茄箱）、opprobrious（罵名牌）、tomato（番茄）、card（卡片）。",
   "members": [
     {
       "headword": "apropos",
       "inVocab": true,
-      "senseAnchor": "appropriate and relevant",
+      "senseAnchor": "相關的；合適的",
       "roleInScript": "賀卡",
       "humorDevice": "lookalike",
-      "zhGloss": "切題的",
-      "speakLineEn": "Cue the 賀卡: apropos walks on and the gag sticks.",
-      "speakLineZh": "請「賀卡」出場：apropos 一上場梗就黏住——切題的。",
+      "zhGloss": "相關的；合適的",
+      "speakLineEn": "Your letter arrived apropos.",
+      "speakLineZh": "相關的，合適的。",
       "related": {
         "synonyms": "germane",
         "antonyms": "malapropos, irrelevant, extraneous"
@@ -25,12 +25,12 @@
     {
       "headword": "apposite",
       "inVocab": true,
-      "senseAnchor": "貼切的",
+      "senseAnchor": "貼切的；場面：剛好章",
       "roleInScript": "剛好章",
       "humorDevice": "lookalike",
       "zhGloss": "貼切的",
-      "speakLineEn": "Cue the 剛好章: apposite walks on and the gag sticks.",
-      "speakLineZh": "請「剛好章」出場：apposite 一上場梗就黏住——貼切的。",
+      "speakLineEn": "On the exam, apposite most nearly means a sense of \"貼切的\".",
+      "speakLineZh": "貼切的。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -40,12 +40,12 @@
     {
       "headword": "opprobrium",
       "inVocab": true,
-      "senseAnchor": "state of disgrace resulting from public abuse; a state of extreme dishonor; - F.D.Roosevelt",
+      "senseAnchor": "責備；場面：番茄箱",
       "roleInScript": "番茄箱",
       "humorDevice": "lookalike",
-      "zhGloss": "譴責恥辱",
-      "speakLineEn": "Cue the 番茄箱: opprobrium walks on and the gag sticks.",
-      "speakLineZh": "請「番茄箱」出場：opprobrium 一上場梗就黏住——譴責恥辱。",
+      "zhGloss": "責備",
+      "speakLineEn": "The name was a by-word of scorn and opprobrium throughout the city.",
+      "speakLineZh": "責備。",
       "related": {
         "synonyms": "obloquy, infamy",
         "antonyms": "praise, acclaim, fame"
@@ -55,12 +55,12 @@
     {
       "headword": "opprobrious",
       "inVocab": true,
-      "senseAnchor": "expressing offensive reproach; (used of conduct or character) deserving or bringing disgrace or shame; - Rachel Carson",
+      "senseAnchor": "辱罵的；場面：罵名牌",
       "roleInScript": "罵名牌",
       "humorDevice": "lookalike",
       "zhGloss": "辱罵的",
-      "speakLineEn": "Cue the 罵名牌: opprobrious walks on and the gag sticks.",
-      "speakLineZh": "請「罵名牌」出場：opprobrious 一上場梗就黏住——辱罵的。",
+      "speakLineEn": "An opprobrious monument to human greed.",
+      "speakLineZh": "辱罵的。",
       "related": {
         "synonyms": "abusive, scurrilous, black, disgraceful, ignominious, inglorious",
         "antonyms": "white, whiten, glorious"
@@ -71,11 +71,11 @@
       "headword": "tomato",
       "inVocab": false,
       "senseAnchor": "番茄",
-      "roleInScript": "番茄",
+      "roleInScript": "番茄角色",
       "humorDevice": "story",
       "zhGloss": "番茄",
-      "speakLineEn": "Cue the 番茄: tomato walks on and the gag sticks.",
-      "speakLineZh": "請「番茄」出場：tomato 一上場梗就黏住——番茄。",
+      "speakLineEn": "Hold the meaning steady: tomato means 番茄.",
+      "speakLineZh": "記住考意：tomato＝番茄。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -87,11 +87,11 @@
       "headword": "card",
       "inVocab": false,
       "senseAnchor": "卡片",
-      "roleInScript": "卡片",
+      "roleInScript": "卡片角色",
       "humorDevice": "story",
       "zhGloss": "卡片",
-      "speakLineEn": "Cue the 卡片: card walks on and the gag sticks.",
-      "speakLineZh": "請「卡片」出場：card 一上場梗就黏住——卡片。",
+      "speakLineEn": "Critics argued that the policy would card basic protections.",
+      "speakLineZh": "批評者主張該政策會卡片基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -103,11 +103,11 @@
       "headword": "praise",
       "inVocab": false,
       "senseAnchor": "稱讚",
-      "roleInScript": "稱讚",
+      "roleInScript": "稱讚角色",
       "humorDevice": "story",
       "zhGloss": "稱讚",
-      "speakLineEn": "Cue the 稱讚: praise walks on and the gag sticks.",
-      "speakLineZh": "請「稱讚」出場：praise 一上場梗就黏住——稱讚。",
+      "speakLineEn": "Critics argued that the policy would praise basic protections.",
+      "speakLineZh": "批評者主張該政策會稱讚基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -119,11 +119,11 @@
       "headword": "shame",
       "inVocab": false,
       "senseAnchor": "恥辱",
-      "roleInScript": "恥辱",
+      "roleInScript": "恥辱角色",
       "humorDevice": "story",
       "zhGloss": "恥辱",
-      "speakLineEn": "Cue the 恥辱: shame walks on and the gag sticks.",
-      "speakLineZh": "請「恥辱」出場：shame 一上場梗就黏住——恥辱。",
+      "speakLineEn": "Critics argued that the policy would shame basic protections.",
+      "speakLineZh": "批評者主張該政策會恥辱基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -135,11 +135,11 @@
       "headword": "fit",
       "inVocab": false,
       "senseAnchor": "合適",
-      "roleInScript": "合適",
+      "roleInScript": "合適角色",
       "humorDevice": "story",
       "zhGloss": "合適",
-      "speakLineEn": "Cue the 合適: fit walks on and the gag sticks.",
-      "speakLineZh": "請「合適」出場：fit 一上場梗就黏住——合適。",
+      "speakLineEn": "In the passage, fit signals a shift toward \"合適\".",
+      "speakLineZh": "文中 fit 標示語氣轉向「合適」。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -151,11 +151,11 @@
       "headword": "banner",
       "inVocab": false,
       "senseAnchor": "橫幅",
-      "roleInScript": "橫幅",
+      "roleInScript": "橫幅角色",
       "humorDevice": "story",
       "zhGloss": "橫幅",
-      "speakLineEn": "Cue the 橫幅: banner walks on and the gag sticks.",
-      "speakLineZh": "請「橫幅」出場：banner 一上場梗就黏住——橫幅。",
+      "speakLineEn": "Critics argued that the policy would banner basic protections.",
+      "speakLineZh": "批評者主張該政策會橫幅基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -167,11 +167,11 @@
       "headword": "booing",
       "inVocab": false,
       "senseAnchor": "噓聲",
-      "roleInScript": "噓聲",
+      "roleInScript": "噓聲角色",
       "humorDevice": "story",
       "zhGloss": "噓聲",
-      "speakLineEn": "Cue the 噓聲: booing walks on and the gag sticks.",
-      "speakLineZh": "請「噓聲」出場：booing 一上場梗就黏住——噓聲。",
+      "speakLineEn": "Critics argued that the policy would booing basic protections.",
+      "speakLineZh": "批評者主張該政策會噓聲基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -194,6 +194,9 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P4-batch01"
+    "stage": "P4-batch01",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave2",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

@@ -10,10 +10,10 @@
     {
       "headword": "salient",
       "inVocab": true,
-      "senseAnchor": "(military) the part of the line of battle that projects closest to the enemy; having a quality that thrusts itself into attention",
+      "senseAnchor": "卓越的；顯著的",
       "roleInScript": "刺點跳出",
       "humorDevice": "morphology",
-      "zhGloss": "顯著的；突出的",
+      "zhGloss": "卓越的；顯著的",
       "speakLineEn": "Report the salient threat to validity first.",
       "speakLineZh": "先報告最突出的效度威脅。",
       "related": {
@@ -40,7 +40,7 @@
     {
       "headword": "insult",
       "inVocab": true,
-      "senseAnchor": "侮辱",
+      "senseAnchor": "侮辱；場面：跳過來罵",
       "roleInScript": "跳過來罵",
       "humorDevice": "morphology",
       "zhGloss": "侮辱",
@@ -70,7 +70,7 @@
     {
       "headword": "assault",
       "inVocab": true,
-      "senseAnchor": "攻擊",
+      "senseAnchor": "攻擊；場面：猛攻",
       "roleInScript": "猛攻",
       "humorDevice": "morphology",
       "zhGloss": "攻擊",
@@ -100,7 +100,7 @@
     {
       "headword": "consult",
       "inVocab": true,
-      "senseAnchor": "諮詢",
+      "senseAnchor": "諮詢；場面：跳去問",
       "roleInScript": "跳去問",
       "humorDevice": "morphology",
       "zhGloss": "諮詢",
@@ -130,10 +130,10 @@
     {
       "headword": "resilient",
       "inVocab": true,
-      "senseAnchor": "recovering readily from adversity, depression, or the like; elastic; rebounds readily",
+      "senseAnchor": "有彈性的；有韌性的",
       "roleInScript": "彈回來",
       "humorDevice": "story",
-      "zhGloss": "有韌性的",
+      "zhGloss": "有彈性的",
       "speakLineEn": "Build resilient pipelines with tests.",
       "speakLineZh": "用測試打造有韌性的管線。",
       "related": {
@@ -145,10 +145,10 @@
     {
       "headword": "resilience",
       "inVocab": true,
-      "senseAnchor": "the physical property of a material that can return to its original shape or position after deformation that does not exceed its elastic limit; an occurrence of rebounding or springing back",
+      "senseAnchor": "有彈性的；韌性",
       "roleInScript": "彈力值",
       "humorDevice": "story",
-      "zhGloss": "韌性",
+      "zhGloss": "有彈性的",
       "speakLineEn": "Resilience includes recovering from nulls.",
       "speakLineZh": "韌性包含從虛無中恢復。",
       "related": {
@@ -160,10 +160,10 @@
     {
       "headword": "desultory",
       "inVocab": true,
-      "senseAnchor": "lacking a definite plan, purpose, or pattern",
+      "senseAnchor": "無計劃；目標的",
       "roleInScript": "跳來跳去",
       "humorDevice": "story",
-      "zhGloss": "雜亂無章的",
+      "zhGloss": "無計劃；目標的",
       "speakLineEn": "Desultory analyses look like fishing.",
       "speakLineZh": "雜亂分析看起來像淘篩。",
       "related": {
@@ -175,10 +175,10 @@
     {
       "headword": "exult",
       "inVocab": true,
-      "senseAnchor": "feel extreme happiness or elation; to express great joy",
+      "senseAnchor": "崇高的；場面：跳著慶祝",
       "roleInScript": "跳著慶祝",
       "humorDevice": "story",
-      "zhGloss": "歡躍",
+      "zhGloss": "崇高的",
       "speakLineEn": "Exult after replication, not after one peek.",
       "speakLineZh": "複現後再歡躍，不是偷看後。",
       "related": {
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch05"
+    "stage": "P2-batch05",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

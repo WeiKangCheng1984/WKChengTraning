@@ -10,10 +10,10 @@
     {
       "headword": "probe",
       "inVocab": true,
-      "senseAnchor": "n. 深入調查 a penetrating or critical investigation",
+      "senseAnchor": "探查；探針",
       "roleInScript": "探針進場",
       "humorDevice": "morphology",
-      "zhGloss": "探查；探針",
+      "zhGloss": "/",
       "speakLineEn": "Probe the missingness mechanism.",
       "speakLineZh": "探查缺失機制。",
       "related": {
@@ -25,10 +25,10 @@
     {
       "headword": "probity",
       "inVocab": true,
-      "senseAnchor": "complete and confirmed integrity; having strong moral principles",
+      "senseAnchor": "正直；廉潔",
       "roleInScript": "正直法官",
       "humorDevice": "morphology",
-      "zhGloss": "正直；廉潔",
+      "zhGloss": "正直",
       "speakLineEn": "Hire for probity, not only h-index.",
       "speakLineZh": "聘人看正直，不只 h 指數。",
       "related": {
@@ -40,10 +40,10 @@
     {
       "headword": "approbation",
       "inVocab": true,
-      "senseAnchor": "official approval; official recognition or approval",
+      "senseAnchor": "同意；場面：核准掌聲",
       "roleInScript": "核准掌聲",
       "humorDevice": "morphology",
-      "zhGloss": "讚許；核准",
+      "zhGloss": "同意",
       "speakLineEn": "Seek approbation via registered reports.",
       "speakLineZh": "用註冊報告尋求核准。",
       "related": {
@@ -55,10 +55,10 @@
     {
       "headword": "reprobate",
       "inVocab": true,
-      "senseAnchor": "a person without moral scruples; reject (documents) as invalid",
+      "senseAnchor": "斥責；非難",
       "roleInScript": "敗類被告",
       "humorDevice": "morphology",
-      "zhGloss": "敗類；譴責",
+      "zhGloss": "斥責；非難",
       "speakLineEn": "Reprobate fraud without theatrical cruelty.",
       "speakLineZh": "譴責造假但不作秀殘忍。",
       "related": {
@@ -130,7 +130,7 @@
     {
       "headword": "approval",
       "inVocab": true,
-      "senseAnchor": "批准",
+      "senseAnchor": "批准；場面：核准近親",
       "roleInScript": "核准近親",
       "humorDevice": "story",
       "zhGloss": "批准",
@@ -145,7 +145,7 @@
     {
       "headword": "disapprove",
       "inVocab": true,
-      "senseAnchor": "不贊成",
+      "senseAnchor": "不贊成；場面：反對票",
       "roleInScript": "反對票",
       "humorDevice": "story",
       "zhGloss": "不贊成",
@@ -160,7 +160,7 @@
     {
       "headword": "test",
       "inVocab": true,
-      "senseAnchor": "試驗",
+      "senseAnchor": "試驗；場面：試探動作",
       "roleInScript": "試探動作",
       "humorDevice": "story",
       "zhGloss": "試驗",
@@ -175,7 +175,7 @@
     {
       "headword": "trial period",
       "inVocab": false,
-      "senseAnchor": "試用期",
+      "senseAnchor": "試用期；場面：觀察鄰居",
       "roleInScript": "觀察鄰居",
       "humorDevice": "story",
       "zhGloss": "試用期",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P2-batch01"
+    "stage": "P2-batch01",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

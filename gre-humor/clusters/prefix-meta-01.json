@@ -40,7 +40,7 @@
     {
       "headword": "metaphysics",
       "inVocab": false,
-      "senseAnchor": "形上學",
+      "senseAnchor": "形上學；場面：形上閣",
       "roleInScript": "形上閣",
       "humorDevice": "morphology",
       "zhGloss": "形上學",
@@ -115,7 +115,7 @@
     {
       "headword": "aboutness",
       "inVocab": false,
-      "senseAnchor": "關於性",
+      "senseAnchor": "關於性；場面：關於標",
       "roleInScript": "關於標",
       "humorDevice": "story",
       "zhGloss": "關於性",
@@ -188,6 +188,8 @@
   "priority": "C",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch07"
+    "stage": "P2-batch07",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

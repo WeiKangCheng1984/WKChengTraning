@@ -10,12 +10,12 @@
     {
       "headword": "cede",
       "inVocab": true,
-      "senseAnchor": "to surrender possession of",
+      "senseAnchor": "（根據條約）放棄；割讓",
       "roleInScript": "讓地麥",
       "humorDevice": "lookalike",
-      "zhGloss": "割讓",
-      "speakLineEn": "Cue the 讓地麥: cede walks on and the gag sticks.",
-      "speakLineZh": "請「讓地麥」出場：cede 一上場梗就黏住——割讓。",
+      "zhGloss": "（根據條約）放棄；割讓",
+      "speakLineEn": "In that case, they had to cede the island to America.",
+      "speakLineZh": "（根據條約。",
       "related": {
         "synonyms": "relinquish, renounce",
         "antonyms": "hold, embrace, claim"
@@ -29,8 +29,8 @@
       "roleInScript": "就職",
       "humorDevice": "lookalike",
       "zhGloss": "就職加入",
-      "speakLineEn": "Cue the 就職: accession walks on and the gag sticks.",
-      "speakLineZh": "請「就職」出場：accession 一上場梗就黏住——就職加入。",
+      "speakLineEn": "On the exam, accession most nearly means a sense of \"就職加入\".",
+      "speakLineZh": "就職加入。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -41,11 +41,11 @@
       "headword": "successor",
       "inVocab": false,
       "senseAnchor": "繼任",
-      "roleInScript": "繼任",
+      "roleInScript": "繼任角色",
       "humorDevice": "story",
       "zhGloss": "繼任",
-      "speakLineEn": "Cue the 繼任: successor walks on and the gag sticks.",
-      "speakLineZh": "請「繼任」出場：successor 一上場梗就黏住——繼任。",
+      "speakLineEn": "Hold the meaning steady: successor means 繼任.",
+      "speakLineZh": "記住考意：successor＝繼任。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -57,11 +57,11 @@
       "headword": "diplomat",
       "inVocab": false,
       "senseAnchor": "外交官",
-      "roleInScript": "外交官",
+      "roleInScript": "外交官角色",
       "humorDevice": "story",
       "zhGloss": "外交官",
-      "speakLineEn": "Cue the 外交官: diplomat walks on and the gag sticks.",
-      "speakLineZh": "請「外交官」出場：diplomat 一上場梗就黏住——外交官。",
+      "speakLineEn": "Hold the meaning steady: diplomat means 外交官.",
+      "speakLineZh": "記住考意：diplomat＝外交官。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -73,11 +73,11 @@
       "headword": "border",
       "inVocab": false,
       "senseAnchor": "邊界",
-      "roleInScript": "邊界",
+      "roleInScript": "邊界角色",
       "humorDevice": "story",
       "zhGloss": "邊界",
-      "speakLineEn": "Cue the 邊界: border walks on and the gag sticks.",
-      "speakLineZh": "請「邊界」出場：border 一上場梗就黏住——邊界。",
+      "speakLineEn": "Critics argued that the policy would border basic protections.",
+      "speakLineZh": "批評者主張該政策會邊界基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -89,11 +89,11 @@
       "headword": "compromise",
       "inVocab": false,
       "senseAnchor": "妥協",
-      "roleInScript": "妥協",
+      "roleInScript": "妥協角色",
       "humorDevice": "story",
       "zhGloss": "妥協",
-      "speakLineEn": "Cue the 妥協: compromise walks on and the gag sticks.",
-      "speakLineZh": "請「妥協」出場：compromise 一上場梗就黏住——妥協。",
+      "speakLineEn": "Hold the meaning steady: compromise means 妥協.",
+      "speakLineZh": "記住考意：compromise＝妥協。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -105,11 +105,11 @@
       "headword": "agreement",
       "inVocab": false,
       "senseAnchor": "協議",
-      "roleInScript": "協議",
+      "roleInScript": "協議角色",
       "humorDevice": "story",
       "zhGloss": "協議",
-      "speakLineEn": "Cue the 協議: agreement walks on and the gag sticks.",
-      "speakLineZh": "請「協議」出場：agreement 一上場梗就黏住——協議。",
+      "speakLineEn": "Hold the meaning steady: agreement means 協議.",
+      "speakLineZh": "記住考意：agreement＝協議。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -121,11 +121,11 @@
       "headword": "withdrawal",
       "inVocab": false,
       "senseAnchor": "撤回",
-      "roleInScript": "撤回",
+      "roleInScript": "撤回角色",
       "humorDevice": "story",
       "zhGloss": "撤回",
-      "speakLineEn": "Cue the 撤回: withdrawal walks on and the gag sticks.",
-      "speakLineZh": "請「撤回」出場：withdrawal 一上場梗就黏住——撤回。",
+      "speakLineEn": "A careful reader links withdrawal to 撤回, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 withdrawal 連到「撤回」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -137,11 +137,11 @@
       "headword": "protocol",
       "inVocab": false,
       "senseAnchor": "議定書",
-      "roleInScript": "議定書",
+      "roleInScript": "議定書角色",
       "humorDevice": "story",
       "zhGloss": "議定書",
-      "speakLineEn": "Cue the 議定書: protocol walks on and the gag sticks.",
-      "speakLineZh": "請「議定書」出場：protocol 一上場梗就黏住——議定書。",
+      "speakLineEn": "Critics argued that the policy would protocol basic protections.",
+      "speakLineZh": "批評者主張該政策會議定書基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -153,11 +153,11 @@
       "headword": "embassy",
       "inVocab": false,
       "senseAnchor": "大使館",
-      "roleInScript": "大使館",
+      "roleInScript": "大使館角色",
       "humorDevice": "story",
       "zhGloss": "大使館",
-      "speakLineEn": "Cue the 大使館: embassy walks on and the gag sticks.",
-      "speakLineZh": "請「大使館」出場：embassy 一上場梗就黏住——大使館。",
+      "speakLineEn": "Hold the meaning steady: embassy means 大使館.",
+      "speakLineZh": "記住考意：embassy＝大使館。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -169,11 +169,11 @@
       "headword": "negotiator",
       "inVocab": false,
       "senseAnchor": "談判者",
-      "roleInScript": "談判者",
+      "roleInScript": "談判者角色",
       "humorDevice": "story",
       "zhGloss": "談判者",
-      "speakLineEn": "Cue the 談判者: negotiator walks on and the gag sticks.",
-      "speakLineZh": "請「談判者」出場：negotiator 一上場梗就黏住——談判者。",
+      "speakLineEn": "Hold the meaning steady: negotiator means 談判者.",
+      "speakLineZh": "記住考意：negotiator＝談判者。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -196,6 +196,9 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P4-batch01"
+    "stage": "P4-batch01",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave2",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

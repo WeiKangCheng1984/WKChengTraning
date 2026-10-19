@@ -10,10 +10,10 @@
     {
       "headword": "placid",
       "inVocab": true,
-      "senseAnchor": "(of a body of water) free from disturbance by heavy waves; not easily irritated",
+      "senseAnchor": "平靜的；溫和的",
       "roleInScript": "平水面",
       "humorDevice": "morphology",
-      "zhGloss": "平靜的",
+      "zhGloss": "平靜的；溫和的；揮舞",
       "speakLineEn": "Keep a placid tone in rebuttals.",
       "speakLineZh": "反駁保持平靜語氣。",
       "related": {
@@ -25,10 +25,10 @@
     {
       "headword": "placate",
       "inVocab": true,
-      "senseAnchor": "cause to be more favorably inclined; gain the good will of",
+      "senseAnchor": "緩和；安慰",
       "roleInScript": "安撫怒",
       "humorDevice": "morphology",
-      "zhGloss": "安撫",
+      "zhGloss": "緩和；安慰",
       "speakLineEn": "Placate concerns with data, not adjectives.",
       "speakLineZh": "用資料安撫疑慮，不是形容詞。",
       "related": {
@@ -40,7 +40,7 @@
     {
       "headword": "placebo",
       "inVocab": true,
-      "senseAnchor": "an innocuous or inert medication; given as a pacifier or to the control group in experiments on the efficacy of a drug; (Roman Catholic Church) vespers of the office for the dead",
+      "senseAnchor": "安慰劑；場面：安慰糖",
       "roleInScript": "安慰糖",
       "humorDevice": "morphology",
       "zhGloss": "安慰劑",
@@ -70,7 +70,7 @@
     {
       "headword": "complacency",
       "inVocab": false,
-      "senseAnchor": "自滿",
+      "senseAnchor": "自滿；場面：沙發病",
       "roleInScript": "沙發病",
       "humorDevice": "morphology",
       "zhGloss": "自滿",
@@ -85,10 +85,10 @@
     {
       "headword": "implacable",
       "inVocab": true,
-      "senseAnchor": "incapable of being placated",
+      "senseAnchor": "不可緩解的；無法平息的",
       "roleInScript": "安撫不了",
       "humorDevice": "morphology",
-      "zhGloss": "無法平息的",
+      "zhGloss": "不可緩解的",
       "speakLineEn": "Implacable skepticism is fine; bad faith is not.",
       "speakLineZh": "無法平息的懷疑沒問題；惡意不行。",
       "related": {
@@ -100,7 +100,7 @@
     {
       "headword": "plea",
       "inVocab": false,
-      "senseAnchor": "懇求",
+      "senseAnchor": "懇求；場面：求情",
       "roleInScript": "求情",
       "humorDevice": "story",
       "zhGloss": "懇求",
@@ -130,7 +130,7 @@
     {
       "headword": "pleasant",
       "inVocab": false,
-      "senseAnchor": "愉快的",
+      "senseAnchor": "愉快的；場面：好氣氛",
       "roleInScript": "好氣氛",
       "humorDevice": "story",
       "zhGloss": "愉快的",
@@ -145,10 +145,10 @@
     {
       "headword": "appease",
       "inVocab": true,
-      "senseAnchor": "cause to be more favorably inclined; gain the good will of; overcome or allay",
+      "senseAnchor": "平息；滿足",
       "roleInScript": "綏靖",
       "humorDevice": "story",
-      "zhGloss": "綏靖；安撫",
+      "zhGloss": "平息；滿足",
       "speakLineEn": "Appease funders with milestones, not fake p.",
       "speakLineZh": "用里程碑安撫資助者，不是假 p。",
       "related": {
@@ -160,7 +160,7 @@
     {
       "headword": "soothe",
       "inVocab": false,
-      "senseAnchor": "撫慰",
+      "senseAnchor": "撫慰；場面：撫平",
       "roleInScript": "撫平",
       "humorDevice": "story",
       "zhGloss": "撫慰",
@@ -188,6 +188,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch04"
+    "stage": "P2-batch04",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

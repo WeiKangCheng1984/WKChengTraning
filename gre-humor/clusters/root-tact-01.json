@@ -10,10 +10,10 @@
     {
       "headword": "tact",
       "inVocab": true,
-      "senseAnchor": "consideration in dealing with others and avoiding giving offense",
+      "senseAnchor": "精明的；場面：交際觸感",
       "roleInScript": "交際觸感",
       "humorDevice": "morphology",
-      "zhGloss": "圓通；機智",
+      "zhGloss": "精明的",
       "speakLineEn": "Use tact when requesting raw data.",
       "speakLineZh": "索取原始資料要用圓通。",
       "related": {
@@ -25,7 +25,7 @@
     {
       "headword": "tactful",
       "inVocab": false,
-      "senseAnchor": "圓通的",
+      "senseAnchor": "圓通的；場面：有觸感",
       "roleInScript": "有觸感",
       "humorDevice": "morphology",
       "zhGloss": "圓通的",
@@ -40,10 +40,10 @@
     {
       "headword": "tactless",
       "inVocab": true,
-      "senseAnchor": "likely to offend or upset people",
+      "senseAnchor": "不機智的；沒情商的",
       "roleInScript": "沒觸感",
       "humorDevice": "morphology",
-      "zhGloss": "不得體的",
+      "zhGloss": "不機智的；沒情商的",
       "speakLineEn": "Tactless sarcasm sinks valid points.",
       "speakLineZh": "不得體諷刺毁掉有效論點。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "intact",
       "inVocab": true,
-      "senseAnchor": "constituting the undiminished entirety; lacking nothing essential especially not damaged; - Bacon; (of a woman) having the hymen unbroken",
+      "senseAnchor": "完好無損的；貶低",
       "roleInScript": "沒碰壞",
       "humorDevice": "morphology",
-      "zhGloss": "完整未損的",
+      "zhGloss": "完好無損的",
       "speakLineEn": "Keep blinding intact until lock.",
       "speakLineZh": "鎖定前保持盲法完整。",
       "related": {
@@ -85,10 +85,10 @@
     {
       "headword": "tangible",
       "inVocab": true,
-      "senseAnchor": "capable of being perceived",
+      "senseAnchor": "可感知的；可觸摸的",
       "roleInScript": "摸得到",
       "humorDevice": "morphology",
-      "zhGloss": "可觸摸的；具體的",
+      "zhGloss": "可感知的",
       "speakLineEn": "Give tangible deliverables: code and codebook.",
       "speakLineZh": "給具體交付：程式碼與編碼簿。",
       "related": {
@@ -100,7 +100,7 @@
     {
       "headword": "intangible",
       "inVocab": false,
-      "senseAnchor": "無形的",
+      "senseAnchor": "無形的；場面：摸不到",
       "roleInScript": "摸不到",
       "humorDevice": "morphology",
       "zhGloss": "無形的",
@@ -130,10 +130,10 @@
     {
       "headword": "contingent",
       "inVocab": true,
-      "senseAnchor": "depending on something else",
+      "senseAnchor": "取決於；場面：觸發條件",
       "roleInScript": "觸發條件",
       "humorDevice": "morphology",
-      "zhGloss": "依條件的；代表團",
+      "zhGloss": "取決於",
       "speakLineEn": "Secondary analyses are contingent on the primary.",
       "speakLineZh": "次要分析依主要結果而定。",
       "related": {
@@ -145,7 +145,7 @@
     {
       "headword": "tactile",
       "inVocab": false,
-      "senseAnchor": "觸覺的",
+      "senseAnchor": "觸覺的；場面：用手摸",
       "roleInScript": "用手摸",
       "humorDevice": "story",
       "zhGloss": "觸覺的",
@@ -160,10 +160,10 @@
     {
       "headword": "contiguous",
       "inVocab": true,
-      "senseAnchor": "very close or connected in space or time; connecting without a break; within a common boundary",
+      "senseAnchor": "毗鄰的；場面：貼著的",
       "roleInScript": "貼著的",
       "humorDevice": "story",
-      "zhGloss": "毗連的",
+      "zhGloss": "毗鄰的",
       "speakLineEn": "Keep contiguous logs without gaps.",
       "speakLineZh": "保持毗連日誌無缺口。",
       "related": {
@@ -175,7 +175,7 @@
     {
       "headword": "attain",
       "inVocab": false,
-      "senseAnchor": "達成",
+      "senseAnchor": "達成；場面：碰到目標",
       "roleInScript": "碰到目標",
       "humorDevice": "story",
       "zhGloss": "達成",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch04"
+    "stage": "P2-batch04",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

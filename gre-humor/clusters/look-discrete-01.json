@@ -55,10 +55,10 @@
     {
       "headword": "discretion",
       "inVocab": true,
-      "senseAnchor": "freedom to act or judge on one's own; knowing how to avoid embarrassment or distress",
+      "senseAnchor": "謹慎；自行決定權",
       "roleInScript": "裁量匣",
       "humorDevice": "lookalike",
-      "zhGloss": "謹慎；裁量",
+      "zhGloss": "謹慎；自行決定權",
       "speakLineEn": "Use statistical discretion with pre-rules.",
       "speakLineZh": "在預先規則下使用統計裁量。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "discretionary",
       "inVocab": true,
-      "senseAnchor": "left to individual choice",
+      "senseAnchor": "自主決定的；酌情的",
       "roleInScript": "酌情鈕",
       "humorDevice": "lookalike",
-      "zhGloss": "酌情的；任意的",
+      "zhGloss": "自主決定的",
       "speakLineEn": "Minimize discretionary outcome swaps.",
       "speakLineZh": "最小化酌情結局替換。",
       "related": {
@@ -115,10 +115,10 @@
     {
       "headword": "compartmentalize",
       "inVocab": true,
-      "senseAnchor": "to divide something into separate sections",
+      "senseAnchor": "劃分；場面：分隔櫃",
       "roleInScript": "分隔櫃",
       "humorDevice": "story",
-      "zhGloss": "分隔管理",
+      "zhGloss": "劃分",
       "speakLineEn": "Compartmentalize exploratory and confirmatory.",
       "speakLineZh": "分隔探索與驗證。",
       "related": {
@@ -188,6 +188,8 @@
   "priority": "A",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch06"
+    "stage": "P2-batch06",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

@@ -10,12 +10,12 @@
     {
       "headword": "council",
       "inVocab": true,
-      "senseAnchor": "理事會",
+      "senseAnchor": "理事會；場面：開會門",
       "roleInScript": "開會門",
       "humorDevice": "lookalike",
       "zhGloss": "理事會",
-      "speakLineEn": "Cue the 開會門: council walks on and the gag sticks.",
-      "speakLineZh": "請「開會門」出場：council 一上場梗就黏住——理事會。",
+      "speakLineEn": "On the exam, council most nearly means a sense of \"理事會\".",
+      "speakLineZh": "理事會。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -29,8 +29,8 @@
       "roleInScript": "建議門",
       "humorDevice": "lookalike",
       "zhGloss": "勸告律師",
-      "speakLineEn": "Cue the 建議門: counsel walks on and the gag sticks.",
-      "speakLineZh": "請「建議門」出場：counsel 一上場梗就黏住——勸告律師。",
+      "speakLineEn": "On the exam, counsel most nearly means a sense of \"勸告律師\".",
+      "speakLineZh": "勸告律師。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -40,12 +40,12 @@
     {
       "headword": "consul",
       "inVocab": true,
-      "senseAnchor": "a diplomat appointed by a government to protect its commercial interests and help its citizens in a foreign country",
+      "senseAnchor": "領事；場面：護照門",
       "roleInScript": "護照門",
       "humorDevice": "lookalike",
       "zhGloss": "領事",
-      "speakLineEn": "Cue the 護照門: consul walks on and the gag sticks.",
-      "speakLineZh": "請「護照門」出場：consul 一上場梗就黏住——領事。",
+      "speakLineEn": "A clear sense of consul is crucial to understanding the argument.",
+      "speakLineZh": "領事。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -59,8 +59,8 @@
       "roleInScript": "顧問椅",
       "humorDevice": "lookalike",
       "zhGloss": "顧問",
-      "speakLineEn": "Cue the 顧問椅: counselor walks on and the gag sticks.",
-      "speakLineZh": "請「顧問椅」出場：counselor 一上場梗就黏住——顧問。",
+      "speakLineEn": "On the exam, counselor most nearly means a sense of \"顧問\".",
+      "speakLineZh": "顧問。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -70,12 +70,12 @@
     {
       "headword": "consultancy",
       "inVocab": true,
-      "senseAnchor": "顧問業",
+      "senseAnchor": "顧問業；場面：顧問牌",
       "roleInScript": "顧問牌",
       "humorDevice": "lookalike",
       "zhGloss": "顧問業",
-      "speakLineEn": "Cue the 顧問牌: consultancy walks on and the gag sticks.",
-      "speakLineZh": "請「顧問牌」出場：consultancy 一上場梗就黏住——顧問業。",
+      "speakLineEn": "On the exam, consultancy most nearly means a sense of \"顧問業\".",
+      "speakLineZh": "顧問業。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -86,11 +86,11 @@
       "headword": "consulate",
       "inVocab": true,
       "senseAnchor": "領事館",
-      "roleInScript": "領事館",
+      "roleInScript": "領事館角色",
       "humorDevice": "lookalike",
       "zhGloss": "領事館",
-      "speakLineEn": "Cue the 領事館: consulate walks on and the gag sticks.",
-      "speakLineZh": "請「領事館」出場：consulate 一上場梗就黏住——領事館。",
+      "speakLineEn": "On the exam, consulate most nearly means a sense of \"領事館\".",
+      "speakLineZh": "領事館。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -101,11 +101,11 @@
       "headword": "passport",
       "inVocab": false,
       "senseAnchor": "護照",
-      "roleInScript": "護照",
+      "roleInScript": "護照角色",
       "humorDevice": "story",
       "zhGloss": "護照",
-      "speakLineEn": "Cue the 護照: passport walks on and the gag sticks.",
-      "speakLineZh": "請「護照」出場：passport 一上場梗就黏住——護照。",
+      "speakLineEn": "Hold the meaning steady: passport means 護照.",
+      "speakLineZh": "記住考意：passport＝護照。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -117,11 +117,11 @@
       "headword": "nameplate",
       "inVocab": false,
       "senseAnchor": "名牌",
-      "roleInScript": "名牌",
+      "roleInScript": "名牌角色",
       "humorDevice": "story",
       "zhGloss": "名牌",
-      "speakLineEn": "Cue the 名牌: nameplate walks on and the gag sticks.",
-      "speakLineZh": "請「名牌」出場：nameplate 一上場梗就黏住——名牌。",
+      "speakLineEn": "A careful reader links nameplate to 名牌, not a lookalike neighbor.",
+      "speakLineZh": "細心讀者把 nameplate 連到「名牌」，不連形近鄰居。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -133,11 +133,11 @@
       "headword": "lawyer",
       "inVocab": false,
       "senseAnchor": "律師",
-      "roleInScript": "律師",
+      "roleInScript": "律師角色",
       "humorDevice": "story",
       "zhGloss": "律師",
-      "speakLineEn": "Cue the 律師: lawyer walks on and the gag sticks.",
-      "speakLineZh": "請「律師」出場：lawyer 一上場梗就黏住——律師。",
+      "speakLineEn": "Critics argued that the policy would lawyer basic protections.",
+      "speakLineZh": "批評者主張該政策會律師基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -149,11 +149,11 @@
       "headword": "agenda",
       "inVocab": false,
       "senseAnchor": "議程",
-      "roleInScript": "議程",
+      "roleInScript": "議程角色",
       "humorDevice": "story",
       "zhGloss": "議程",
-      "speakLineEn": "Cue the 議程: agenda walks on and the gag sticks.",
-      "speakLineZh": "請「議程」出場：agenda 一上場梗就黏住——議程。",
+      "speakLineEn": "Critics argued that the policy would agenda basic protections.",
+      "speakLineZh": "批評者主張該政策會議程基本保障。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -176,6 +176,9 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P4-batch02"
+    "stage": "P4-batch02",
+    "polishedAt": "2026-10-19",
+    "polishStage": "Q-wave2",
+    "zhEnrichedAt": "2026-10-19"
   }
 }

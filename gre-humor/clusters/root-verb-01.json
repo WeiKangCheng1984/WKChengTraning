@@ -25,7 +25,7 @@
     {
       "headword": "verbatim",
       "inVocab": true,
-      "senseAnchor": "in precisely the same words used by a writer or speaker; using exactly the same words",
+      "senseAnchor": "逐字的；場面：照念原文",
       "roleInScript": "照念原文",
       "humorDevice": "morphology",
       "zhGloss": "逐字的",
@@ -40,7 +40,7 @@
     {
       "headword": "proverb",
       "inVocab": false,
-      "senseAnchor": "諺語",
+      "senseAnchor": "諺語；場面：老話",
       "roleInScript": "老話",
       "humorDevice": "morphology",
       "zhGloss": "諺語",
@@ -85,10 +85,10 @@
     {
       "headword": "verbiage",
       "inVocab": true,
-      "senseAnchor": "overabundance of words; the manner in which something is expressed in words; - G.S.Patton",
+      "senseAnchor": "廢話；冗詞",
       "roleInScript": "字海",
       "humorDevice": "morphology",
-      "zhGloss": "冗詞；措辭",
+      "zhGloss": "廢話；冗詞",
       "speakLineEn": "Drop marketing verbiage from claims.",
       "speakLineZh": "主張刪掉行銷冗詞。",
       "related": {
@@ -100,7 +100,7 @@
     {
       "headword": "adverb",
       "inVocab": false,
-      "senseAnchor": "副詞",
+      "senseAnchor": "副詞；場面：修飾詞彩蛋",
       "roleInScript": "修飾詞彩蛋",
       "humorDevice": "story",
       "zhGloss": "副詞",
@@ -115,10 +115,10 @@
     {
       "headword": "proverbially",
       "inVocab": true,
-      "senseAnchor": "in the manner of something that has become a byword",
+      "senseAnchor": "衆人皆知的；如諺語所說",
       "roleInScript": "老話說",
       "humorDevice": "story",
-      "zhGloss": "如諺語所說",
+      "zhGloss": "衆人皆知的",
       "speakLineEn": "Proverbially hard problems still need n.",
       "speakLineZh": "如諺語難的問題仍需要樣本。",
       "related": {
@@ -145,7 +145,7 @@
     {
       "headword": "silence",
       "inVocab": false,
-      "senseAnchor": "沉默",
+      "senseAnchor": "沉默；場面：不說話",
       "roleInScript": "不說話",
       "humorDevice": "story",
       "zhGloss": "沉默",
@@ -173,6 +173,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch03"
+    "stage": "P2-batch03",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

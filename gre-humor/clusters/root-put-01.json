@@ -10,7 +10,7 @@
     {
       "headword": "compute",
       "inVocab": false,
-      "senseAnchor": "計算",
+      "senseAnchor": "計算；場面：先算",
       "roleInScript": "先算",
       "humorDevice": "morphology",
       "zhGloss": "計算",
@@ -55,10 +55,10 @@
     {
       "headword": "impute",
       "inVocab": true,
-      "senseAnchor": "attribute or credit to; attribute (responsibility or fault) to a cause or source",
+      "senseAnchor": "歸罪於；場面：算到頭上／填上",
       "roleInScript": "算到頭上／填上",
       "humorDevice": "morphology",
-      "zhGloss": "歸咎；填補",
+      "zhGloss": "歸罪於",
       "speakLineEn": "Impute missingness cautiously and report it.",
       "speakLineZh": "謹慎填補缺失並報告。",
       "related": {
@@ -70,10 +70,10 @@
     {
       "headword": "putative",
       "inVocab": true,
-      "senseAnchor": "purported; commonly put forth or accepted as true on inconclusive grounds",
+      "senseAnchor": "推定的；場面：據稱候選人",
       "roleInScript": "據稱候選人",
       "humorDevice": "morphology",
-      "zhGloss": "推定的；據稱的",
+      "zhGloss": "推定的",
       "speakLineEn": "A putative mechanism needs a test.",
       "speakLineZh": "據稱機制需要檢驗。",
       "related": {
@@ -85,10 +85,10 @@
     {
       "headword": "deputy",
       "inVocab": true,
-      "senseAnchor": "someone authorized to exercise the powers of sheriff in emergencies; an assistant with power to act when his superior is absent",
+      "senseAnchor": "代理人；場面：代理計算員",
       "roleInScript": "代理計算員",
       "humorDevice": "morphology",
-      "zhGloss": "副手；代理",
+      "zhGloss": "代理人",
       "speakLineEn": "Name a deputy data steward.",
       "speakLineZh": "具名代理資料管家。",
       "related": {
@@ -100,7 +100,7 @@
     {
       "headword": "computer",
       "inVocab": false,
-      "senseAnchor": "電腦",
+      "senseAnchor": "電腦；場面：機器算盤",
       "roleInScript": "機器算盤",
       "humorDevice": "story",
       "zhGloss": "電腦",
@@ -145,10 +145,10 @@
     {
       "headword": "repute",
       "inVocab": true,
-      "senseAnchor": "the state of being held in high esteem and honor; look on as or consider",
+      "senseAnchor": "名聲；場面：傳聞聲譽",
       "roleInScript": "傳聞聲譽",
       "humorDevice": "story",
-      "zhGloss": "名氣",
+      "zhGloss": "名聲",
       "speakLineEn": "Repute is not a p-value.",
       "speakLineZh": "名氣不是 p 值。",
       "related": {
@@ -160,7 +160,7 @@
     {
       "headword": "count",
       "inVocab": false,
-      "senseAnchor": "計數",
+      "senseAnchor": "計數；場面：算數",
       "roleInScript": "算數",
       "humorDevice": "story",
       "zhGloss": "計數",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P2-batch02"
+    "stage": "P2-batch02",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

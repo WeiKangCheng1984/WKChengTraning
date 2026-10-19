@@ -10,7 +10,7 @@
     {
       "headword": "phobia",
       "inVocab": true,
-      "senseAnchor": "恐懼症",
+      "senseAnchor": "恐懼症；場面：總招牌",
       "roleInScript": "總招牌",
       "humorDevice": "morphology",
       "zhGloss": "恐懼症",
@@ -40,7 +40,7 @@
     {
       "headword": "acrophobia",
       "inVocab": true,
-      "senseAnchor": "懼高症",
+      "senseAnchor": "懼高症；場面：怕高空杯",
       "roleInScript": "怕高空杯",
       "humorDevice": "morphology",
       "zhGloss": "懼高症",
@@ -100,10 +100,10 @@
     {
       "headword": "phobic",
       "inVocab": true,
-      "senseAnchor": "恐懼的；恐懼症的",
+      "senseAnchor": "恐懼症的",
       "roleInScript": "整個人在抖",
       "humorDevice": "morphology",
-      "zhGloss": "恐懼的；恐懼症的",
+      "zhGloss": "恐懼症的",
       "speakLineEn": "Phobic reactions to critique block learning.",
       "speakLineZh": "對批評的恐懼反應阻擋學習。",
       "related": {
@@ -145,7 +145,7 @@
     {
       "headword": "photophobia",
       "inVocab": true,
-      "senseAnchor": "畏光",
+      "senseAnchor": "畏光；場面：怕光門",
       "roleInScript": "怕光門",
       "humorDevice": "story",
       "zhGloss": "畏光",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P2-batch01"
+    "stage": "P2-batch01",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

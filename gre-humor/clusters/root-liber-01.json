@@ -25,7 +25,7 @@
     {
       "headword": "liberty",
       "inVocab": true,
-      "senseAnchor": "自由",
+      "senseAnchor": "自由；場面：通行證",
       "roleInScript": "通行證",
       "humorDevice": "morphology",
       "zhGloss": "自由",
@@ -40,10 +40,10 @@
     {
       "headword": "liberal",
       "inVocab": true,
-      "senseAnchor": "a person who favors a political philosophy of progress and reform and the protection of civil liberties; a person who favors an economic theory of laissez-faire and self-regulating markets",
+      "senseAnchor": "自由的；慷慨的",
       "roleInScript": "寬鬆放行",
       "humorDevice": "morphology",
-      "zhGloss": "開明的；慷慨的；自由派的",
+      "zhGloss": "自由的；慷慨的",
       "speakLineEn": "A liberal interpretation still cites the text.",
       "speakLineZh": "寬鬆解讀仍要引用文本。",
       "related": {
@@ -55,10 +55,10 @@
     {
       "headword": "illiberal",
       "inVocab": true,
-      "senseAnchor": "narrow-minded about cherished opinions",
+      "senseAnchor": "吝嗇的；偏執的",
       "roleInScript": "關更緊",
       "humorDevice": "morphology",
-      "zhGloss": "狹隘的；反自由的",
+      "zhGloss": "吝嗇的；偏執的",
       "speakLineEn": "Illiberal gatekeeping blocks critique.",
       "speakLineZh": "狹隘把關阻擋批評。",
       "related": {
@@ -70,7 +70,7 @@
     {
       "headword": "libertine",
       "inVocab": true,
-      "senseAnchor": "放蕩者",
+      "senseAnchor": "放蕩者；場面：浪子通行證",
       "roleInScript": "浪子通行證",
       "humorDevice": "morphology",
       "zhGloss": "放蕩者",
@@ -130,7 +130,7 @@
     {
       "headword": "liberation",
       "inVocab": true,
-      "senseAnchor": "解放",
+      "senseAnchor": "解放；場面：出關運動",
       "roleInScript": "出關運動",
       "humorDevice": "story",
       "zhGloss": "解放",
@@ -145,7 +145,7 @@
     {
       "headword": "freely",
       "inVocab": true,
-      "senseAnchor": "自由地",
+      "senseAnchor": "自由地；場面：暢行",
       "roleInScript": "暢行",
       "humorDevice": "story",
       "zhGloss": "自由地",
@@ -203,6 +203,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "stage": "P2-batch01"
+    "stage": "P2-batch01",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }

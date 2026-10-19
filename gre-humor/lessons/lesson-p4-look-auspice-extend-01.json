@@ -20,7 +20,7 @@
       "step": 2,
       "name": "串記劇本",
       "minutes": 2,
-      "content": "apropos／apposite＝貼切。opprobrium／opprobrious＝辱罵恥辱。口令：賀卡寫「說得巧」，番茄寫「別亂砸」。"
+      "content": "apropos／apposite＝貼切。opprobrium／opprobrious＝辱罵恥辱。口令：賀卡寫「說得巧」，番茄寫「別亂砸」。形近對決：先分清語意軸，再對號入座。登場：apropos（賀卡）、apposite（剛好章）、opprobrium（番茄箱）、opprobrious（罵名牌）、tomato（番茄）、card（卡片）。"
     },
     {
       "step": 3,
@@ -91,6 +91,8 @@
   "status": "reviewed",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P4-batch01"
+    "stage": "P4-batch01",
+    "polishStage": "Q-wave2",
+    "polishedAt": "2026-10-19"
   }
 }

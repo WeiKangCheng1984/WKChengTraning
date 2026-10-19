@@ -10,10 +10,10 @@
     {
       "headword": "antecedent",
       "inVocab": true,
-      "senseAnchor": "先行的；前事；先行詞",
+      "senseAnchor": "先行的；前事",
       "roleInScript": "前事牌",
       "humorDevice": "morphology",
-      "zhGloss": "先行的；前事；先行詞",
+      "zhGloss": "先行的；前事",
       "speakLineEn": "List causal antecedents, not just correlates.",
       "speakLineZh": "列出因果前事，不只相關。",
       "related": {
@@ -85,10 +85,10 @@
     {
       "headword": "antediluvian",
       "inVocab": true,
-      "senseAnchor": "extremely old",
+      "senseAnchor": "過時的；場面：洪水前",
       "roleInScript": "洪水前",
       "humorDevice": "morphology",
-      "zhGloss": "遠古的；老掉牙的",
+      "zhGloss": "過時的",
       "speakLineEn": "Retire antediluvian Excel-only workflows.",
       "speakLineZh": "淘汰洪水前的純 Excel 流程。",
       "related": {
@@ -188,6 +188,8 @@
   "priority": "B",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch06"
+    "stage": "P2-batch06",
+    "zhEnrichedAt": "2026-10-19",
+    "polishStage": "Q-zh"
   }
 }
