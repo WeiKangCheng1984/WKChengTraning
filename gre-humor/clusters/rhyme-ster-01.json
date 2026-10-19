@@ -1,0 +1,207 @@
+{
+  "id": "rhyme-ster-01",
+  "type": "rhyme",
+  "elementLemma": "-ster",
+  "titleZh": "-ster｜角色面具舖",
+  "titleEn": "Ster Mask Shop",
+  "hook": "字尾 -ster＝一類人——面具舖出租搗蛋鬼、年輕人、押韻匠。",
+  "script": "trickster／prankster／punster／rhymester 搗蛋與梗人。youngster／gangster／teamster 年輕人、幫派、司機——老闆：checklist youngster；拒 data gangster。",
+  "members": [
+    {
+      "headword": "trickster",
+      "inVocab": false,
+      "senseAnchor": "搗蛋騙子",
+      "roleInScript": "搗蛋面具",
+      "humorDevice": "morphology",
+      "zhGloss": "搗蛋騙子",
+      "speakLineEn": "Do not be a trickster with endpoints.",
+      "speakLineZh": "別在終點上當搗蛋者。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "prankster",
+      "inVocab": false,
+      "senseAnchor": "惡作劇者",
+      "roleInScript": "惡作劇面具",
+      "humorDevice": "morphology",
+      "zhGloss": "惡作劇者",
+      "speakLineEn": "A prankster culture kills error reporting.",
+      "speakLineZh": "惡作劇文化殺死錯誤回報。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "youngster",
+      "inVocab": false,
+      "senseAnchor": "年輕人",
+      "roleInScript": "新手面具",
+      "humorDevice": "morphology",
+      "zhGloss": "年輕人",
+      "speakLineEn": "Protect youngsters who raise flags.",
+      "speakLineZh": "保護舉旗的年輕人。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "gangster",
+      "inVocab": false,
+      "senseAnchor": "幫派成員",
+      "roleInScript": "幫派面具",
+      "humorDevice": "morphology",
+      "zhGloss": "幫派成員",
+      "speakLineEn": "No analysis gangster runs unlogged peeks.",
+      "speakLineZh": "分析幫派不准跑無日誌偷看。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "punster",
+      "inVocab": false,
+      "senseAnchor": "雙關愛好者",
+      "roleInScript": "雙關面具",
+      "humorDevice": "morphology",
+      "zhGloss": "雙關愛好者",
+      "speakLineEn": "A punster can teach roots—then show numbers.",
+      "speakLineZh": "雙關可教字根——然後給數字。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "rhymester",
+      "inVocab": false,
+      "senseAnchor": "押韻匠",
+      "roleInScript": "押韻面具",
+      "humorDevice": "morphology",
+      "zhGloss": "押韻匠",
+      "speakLineEn": "Rhymesters welcome; vibes without tests not.",
+      "speakLineZh": "歡迎押韻匠；無測試感覺滾。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "teamster",
+      "inVocab": false,
+      "senseAnchor": "司機；隊員",
+      "roleInScript": "司機面具",
+      "humorDevice": "story",
+      "zhGloss": "司機；隊員",
+      "speakLineEn": "Be a teamster of the pipeline: deliver logs.",
+      "speakLineZh": "當管線司機：送達日誌。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "mask",
+      "inVocab": false,
+      "senseAnchor": "面具",
+      "roleInScript": "面具架",
+      "humorDevice": "story",
+      "zhGloss": "面具",
+      "speakLineEn": "Drop the mask: share limitations.",
+      "speakLineZh": "摘下面具：分享限制。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "role",
+      "inVocab": false,
+      "senseAnchor": "角色",
+      "roleInScript": "角色牌",
+      "humorDevice": "story",
+      "zhGloss": "角色",
+      "speakLineEn": "Assign the role of reproducibility lead.",
+      "speakLineZh": "指定可複現負責人角色。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "persona",
+      "inVocab": false,
+      "senseAnchor": "人設",
+      "roleInScript": "人設卡",
+      "humorDevice": "story",
+      "zhGloss": "人設",
+      "speakLineEn": "Lab persona: curious, not theatrical.",
+      "speakLineZh": "實驗室人設：好奇，不表演。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "cast",
+      "inVocab": false,
+      "senseAnchor": "陣容",
+      "roleInScript": "陣容",
+      "humorDevice": "story",
+      "zhGloss": "陣容",
+      "speakLineEn": "Cast juniors as co-owners of the codebook.",
+      "speakLineZh": "讓資淺者成為編碼簿共同擁有者。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "costume",
+      "inVocab": false,
+      "senseAnchor": "戲服",
+      "roleInScript": "戲服",
+      "humorDevice": "story",
+      "zhGloss": "戲服",
+      "speakLineEn": "Costume drama is not methods.",
+      "speakLineZh": "戲服劇不是方法。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "-ster：trickster/prankster/youngster/punster/rhymester",
+    "trickster＝搗蛋"
+  ],
+  "pitfalls": [
+    "gangster＝幫派；punster＝雙關愛好者"
+  ],
+  "lessonRefs": [
+    "lesson-rhyme-ster-01"
+  ],
+  "status": "reviewed",
+  "priority": "C",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch07"
+  }
+}

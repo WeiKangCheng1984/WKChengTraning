@@ -1,0 +1,97 @@
+{
+  "id": "lesson-prefix-with-01",
+  "slug": "prefix-with-01",
+  "season": 4,
+  "seasonTitleZh": "字首調味",
+  "seasonTitleEn": "Prefix Seasoning",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "prefix-with-01",
+  "titleZh": "with-｜撤回抵抗門",
+  "titleEn": "With Withdraw Gate",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字首 with-＝反對／撤回——抵抗門專管扣住、撤回、抵擋與枯萎。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "withhold 扣住不給。withstand 抵擋衝擊。withdrawn 撤回／內向；wither／without 枯萎與沒有——門衛：withhold secrets from public dumps；withstand pressure to peek。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "with-＝撤回／抵抗：withhold/withstand/withdrawn/wither",
+        "withhold＝扣留"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Keep back; refuse to give:",
+      "promptZh": "扣留不給：",
+      "choices": [
+        "withhold",
+        "forecast",
+        "multiply",
+        "seed"
+      ],
+      "answer": "withhold"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Resist; endure successfully:",
+      "promptZh": "抵擋承受：",
+      "choices": [
+        "withstand",
+        "abscond",
+        "clamor",
+        "neon"
+      ],
+      "answer": "withstand"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Fade; lose vitality:",
+      "promptZh": "枯萎：",
+      "choices": [
+        "wither",
+        "outstrip",
+        "metadata",
+        "opus"
+      ],
+      "answer": "wither"
+    }
+  ],
+  "pitfalls": [
+    "withhold＝扣留不給",
+    "withstand＝抵擋"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch07"
+  }
+}

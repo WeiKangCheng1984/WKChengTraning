@@ -1,0 +1,402 @@
+{
+  "id": "sem-humble-vain-01",
+  "type": "semantic",
+  "elementLemma": "humble-vs-vain",
+  "titleZh": "謙遜 ↔ 自負｜帽子對打擂台",
+  "titleEn": "Humble vs Vain Hat Arena",
+  "hook": "左邊謙遜小帽，右邊自負高帽——GRE 語氣一秒分邊。",
+  "script": "謙遜隊 humility／meek／demure／unassuming／modest；自負隊 haughty／hubris／pompous／pretentious／ostentatious——裁判：hubris 常考；modest claim 加分。",
+  "members": [
+    {
+      "headword": "humility",
+      "inVocab": true,
+      "senseAnchor": "a disposition to be humble; a lack of false pride; a humble feeling",
+      "roleInScript": "謙遜帽",
+      "humorDevice": "contrast",
+      "zhGloss": "謙遜",
+      "speakLineEn": "GRE tip: humility ~ 謙遜; keep the tone straight.",
+      "speakLineZh": "GRE 提示：humility 約「謙遜」——抓住語氣。",
+      "related": {
+        "synonyms": "humbleness",
+        "antonyms": "conceit, pride"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "meek",
+      "inVocab": true,
+      "senseAnchor": "humble in spirit or manner; suggesting retiring mildness or even cowed submissiveness; very docile; ; - Langston Hughes",
+      "roleInScript": "溫順帽",
+      "humorDevice": "contrast",
+      "zhGloss": "溫順謙和",
+      "speakLineEn": "GRE tip: meek ~ 溫順謙和; keep the tone straight.",
+      "speakLineZh": "GRE 提示：meek 約「溫順謙和」——抓住語氣。",
+      "related": {
+        "synonyms": "mild, modest, tame, spiritless",
+        "antonyms": "intense, immodest, wild, spirited"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "demure",
+      "inVocab": true,
+      "senseAnchor": "affectedly modest or shy especially in a playful or provocative way",
+      "roleInScript": "矜持帽",
+      "humorDevice": "contrast",
+      "zhGloss": "端莊矜持",
+      "speakLineEn": "GRE tip: demure ~ 端莊矜持; keep the tone straight.",
+      "speakLineZh": "GRE 提示：demure 約「端莊矜持」——抓住語氣。",
+      "related": {
+        "synonyms": "coy, overmodest",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "unassuming",
+      "inVocab": true,
+      "senseAnchor": "modest",
+      "roleInScript": "不裝腔",
+      "humorDevice": "contrast",
+      "zhGloss": "不裝腔",
+      "speakLineEn": "GRE tip: unassuming ~ 不裝腔; keep the tone straight.",
+      "speakLineZh": "GRE 提示：unassuming 約「不裝腔」——抓住語氣。",
+      "related": {
+        "synonyms": "unpretentious, humble",
+        "antonyms": "ostentatious, pretentious, proud"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "unpretentious",
+      "inVocab": true,
+      "senseAnchor": "lacking pretension or affectation; not ostentatious",
+      "roleInScript": "不做作",
+      "humorDevice": "contrast",
+      "zhGloss": "不做作",
+      "speakLineEn": "GRE tip: unpretentious ~ 不做作; keep the tone straight.",
+      "speakLineZh": "GRE 提示：unpretentious 約「不做作」——抓住語氣。",
+      "related": {
+        "synonyms": "unostentatious, unpretending, understated",
+        "antonyms": "ostentatious, pretentious"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "modest",
+      "inVocab": true,
+      "senseAnchor": "marked by simplicity; having a humble opinion of yourself; not large but sufficient in size or amount",
+      "roleInScript": "謙虛燈",
+      "humorDevice": "contrast",
+      "zhGloss": "謙虛",
+      "speakLineEn": "GRE tip: modest ~ 謙虛; keep the tone straight.",
+      "speakLineZh": "GRE 提示：modest 約「謙虛」——抓住語氣。",
+      "related": {
+        "synonyms": "small, humble, low, lowly, meek, mild",
+        "antonyms": "immodest"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "understated",
+      "inVocab": true,
+      "senseAnchor": "represent as less significant or important; exhibiting restrained good taste",
+      "roleInScript": "低調燈",
+      "humorDevice": "contrast",
+      "zhGloss": "低調",
+      "speakLineEn": "GRE tip: understated ~ 低調; keep the tone straight.",
+      "speakLineZh": "GRE 提示：understated 約「低調」——抓住語氣。",
+      "related": {
+        "synonyms": "understate, minimize, minimise, downplay, unostentatious, unpretentious",
+        "antonyms": "overstate"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "coy",
+      "inVocab": true,
+      "senseAnchor": "tending to avoid people and social situations",
+      "roleInScript": "羞怯",
+      "humorDevice": "contrast",
+      "zhGloss": "羞怯／扭捏",
+      "speakLineEn": "GRE tip: coy ~ 羞怯／扭捏; keep the tone straight.",
+      "speakLineZh": "GRE 提示：coy 約「羞怯／扭捏」——抓住語氣。",
+      "related": {
+        "synonyms": "diffident, introverted, recessive",
+        "antonyms": "confident, bold, extrospective, dominant"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "haughty",
+      "inVocab": true,
+      "senseAnchor": "having or showing arrogant superiority to and disdain of those one views as unworthy; ; ; ; ; ; ; - W.L.Shirer",
+      "roleInScript": "傲慢鼻",
+      "humorDevice": "contrast",
+      "zhGloss": "傲慢",
+      "speakLineEn": "GRE tip: haughty ~ 傲慢; keep the tone straight.",
+      "speakLineZh": "GRE 提示：haughty 約「傲慢」——抓住語氣。",
+      "related": {
+        "synonyms": "disdainful, imperious, lordly, overbearing, prideful, sniffy",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "hubris",
+      "inVocab": true,
+      "senseAnchor": "overbearing pride or presumption",
+      "roleInScript": "自負塔",
+      "humorDevice": "contrast",
+      "zhGloss": "傲慢自負",
+      "speakLineEn": "GRE tip: hubris ~ 傲慢自負; keep the tone straight.",
+      "speakLineZh": "GRE 提示：hubris 約「傲慢自負」——抓住語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "pompous",
+      "inVocab": true,
+      "senseAnchor": "puffed up with vanity; ; ; ; - Newsweek; characterized by pomp and ceremony and stately display",
+      "roleInScript": "浮誇袍",
+      "humorDevice": "contrast",
+      "zhGloss": "浮誇",
+      "speakLineEn": "GRE tip: pompous ~ 浮誇; keep the tone straight.",
+      "speakLineZh": "GRE 提示：pompous 約「浮誇」——抓住語氣。",
+      "related": {
+        "synonyms": "grandiloquent, overblown, pontifical, portentous, ceremonious",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "pretentious",
+      "inVocab": true,
+      "senseAnchor": "making claim to or creating an appearance of (often undeserved) importance or distinction; intended to attract notice and impress others",
+      "roleInScript": "矯飾燈",
+      "humorDevice": "contrast",
+      "zhGloss": "矯飾",
+      "speakLineEn": "GRE tip: pretentious ~ 矯飾; keep the tone straight.",
+      "speakLineZh": "GRE 提示：pretentious 約「矯飾」——抓住語氣。",
+      "related": {
+        "synonyms": "ostentatious",
+        "antonyms": "unostentatious, unpretentious"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "ostentatious",
+      "inVocab": true,
+      "senseAnchor": "intended to attract notice and impress others; (of a display) tawdry or vulgar",
+      "roleInScript": "炫耀燈",
+      "humorDevice": "contrast",
+      "zhGloss": "炫耀",
+      "speakLineEn": "GRE tip: ostentatious ~ 炫耀; keep the tone straight.",
+      "speakLineZh": "GRE 提示：ostentatious 約「炫耀」——抓住語氣。",
+      "related": {
+        "synonyms": "pretentious",
+        "antonyms": "modest, understated, unostentatious"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "overbearing",
+      "inVocab": true,
+      "senseAnchor": "overcome; bear too much",
+      "roleInScript": "專橫錘",
+      "humorDevice": "contrast",
+      "zhGloss": "專橫",
+      "speakLineEn": "GRE tip: overbearing ~ 專橫; keep the tone straight.",
+      "speakLineZh": "GRE 提示：overbearing 約「專橫」——抓住語氣。",
+      "related": {
+        "synonyms": "overbear, authoritarian, dictatorial, disdainful, haughty, imperious",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "grandiose",
+      "inVocab": true,
+      "senseAnchor": "seeming very impressive but not practical",
+      "roleInScript": "誇大殿",
+      "humorDevice": "contrast",
+      "zhGloss": "誇大",
+      "speakLineEn": "GRE tip: grandiose ~ 誇大; keep the tone straight.",
+      "speakLineZh": "GRE 提示：grandiose 約「誇大」——抓住語氣。",
+      "related": {
+        "synonyms": "ostentatious, pretentious, pompous",
+        "antonyms": "modest, understated, unostentatious, unpretentious"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "bombast",
+      "inVocab": true,
+      "senseAnchor": "pompous or pretentious talk or writing",
+      "roleInScript": "空話筒",
+      "humorDevice": "contrast",
+      "zhGloss": "高調空話",
+      "speakLineEn": "GRE tip: bombast ~ 高調空話; keep the tone straight.",
+      "speakLineZh": "GRE 提示：bombast 約「高調空話」——抓住語氣。",
+      "related": {
+        "synonyms": "fustian, rant, claptrap, blah",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "effrontery",
+      "inVocab": true,
+      "senseAnchor": "audacious (even arrogant) behavior that you have no right to",
+      "roleInScript": "厚顏盾",
+      "humorDevice": "contrast",
+      "zhGloss": "厚顏",
+      "speakLineEn": "GRE tip: effrontery ~ 厚顏; keep the tone straight.",
+      "speakLineZh": "GRE 提示：effrontery 約「厚顏」——抓住語氣。",
+      "related": {
+        "synonyms": "presumption, presumptuousness, assumption",
+        "antonyms": "modesty, deference"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "showy",
+      "inVocab": true,
+      "senseAnchor": "marked by ostentation but often tasteless; displaying brilliance and virtuosity",
+      "roleInScript": "炫目牌",
+      "humorDevice": "contrast",
+      "zhGloss": "炫目",
+      "speakLineEn": "GRE tip: showy ~ 炫目; keep the tone straight.",
+      "speakLineZh": "GRE 提示：showy 約「炫目」——抓住語氣。",
+      "related": {
+        "synonyms": "flamboyant, splashy, flashy, gaudy, jazzy, sporty",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "bluster",
+      "inVocab": true,
+      "senseAnchor": "to speak in a loudly arrogant or bullying manner",
+      "roleInScript": "唬人風",
+      "humorDevice": "contrast",
+      "zhGloss": "咆哮唬人",
+      "speakLineEn": "GRE tip: bluster ~ 咆哮唬人; keep the tone straight.",
+      "speakLineZh": "GRE 提示：bluster 約「咆哮唬人」——抓住語氣。",
+      "related": {
+        "synonyms": "bravado, braggadocio, rodomontade, rhodomontade, boast, tout",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "prig",
+      "inVocab": true,
+      "senseAnchor": "a person regarded as arrogant and annoying",
+      "roleInScript": "偽君子",
+      "humorDevice": "contrast",
+      "zhGloss": "偽君子",
+      "speakLineEn": "GRE tip: prig ~ 偽君子; keep the tone straight.",
+      "speakLineZh": "GRE 提示：prig 約「偽君子」——抓住語氣。",
+      "related": {
+        "synonyms": "snob, snot, snoot",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "overweening",
+      "inVocab": true,
+      "senseAnchor": "showing too much confidence or pride",
+      "roleInScript": "過度自負",
+      "humorDevice": "contrast",
+      "zhGloss": "過度自負",
+      "speakLineEn": "GRE tip: overweening ~ 過度自負; keep the tone straight.",
+      "speakLineZh": "GRE 提示：overweening 約「過度自負」——抓住語氣。",
+      "related": {
+        "synonyms": "arrogant, presumptuous, self-asserting, supercilious",
+        "antonyms": "unassertive"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "sententious",
+      "inVocab": true,
+      "senseAnchor": "abounding in or given to pompous or aphoristic moralizing; - Kathleen Barnes; concise and full of meaning; ; - Hervey Allen",
+      "roleInScript": "說教腔",
+      "humorDevice": "contrast",
+      "zhGloss": "好說教",
+      "speakLineEn": "GRE tip: sententious ~ 好說教; keep the tone straight.",
+      "speakLineZh": "GRE 提示：sententious 約「好說教」——抓住語氣。",
+      "related": {
+        "synonyms": "pithy",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "orotund",
+      "inVocab": true,
+      "senseAnchor": "ostentatiously lofty in style; (of sounds) full and rich",
+      "roleInScript": "做作腔",
+      "humorDevice": "story",
+      "zhGloss": "做作洪亮",
+      "speakLineEn": "GRE tip: orotund ~ 做作洪亮; keep the tone straight.",
+      "speakLineZh": "GRE 提示：orotund 約「做作洪亮」——抓住語氣。",
+      "related": {
+        "synonyms": "bombastic, declamatory, large, tumid, turgid, rotund",
+        "antonyms": "understated, modest, little, small"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "abase",
+      "inVocab": true,
+      "senseAnchor": "cause to feel shame; hurt the pride of",
+      "roleInScript": "貶低階",
+      "humorDevice": "story",
+      "zhGloss": "貶低",
+      "speakLineEn": "GRE tip: abase ~ 貶低; keep the tone straight.",
+      "speakLineZh": "GRE 提示：abase 約「貶低」——抓住語氣。",
+      "related": {
+        "synonyms": "humiliate, mortify, chagrin, humble",
+        "antonyms": "proud"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "supplicate",
+      "inVocab": true,
+      "senseAnchor": "ask humbly (for something); make a humble, earnest petition",
+      "roleInScript": "懇求膝",
+      "humorDevice": "story",
+      "zhGloss": "懇求",
+      "speakLineEn": "GRE tip: supplicate ~ 懇求; keep the tone straight.",
+      "speakLineZh": "GRE 提示：supplicate 約「懇求」——抓住語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    }
+  ],
+  "reviewHooks": [
+    "謙遜：humility/meek/modest/unassuming",
+    "自負：hubris/haughty/pompous/pretentious"
+  ],
+  "pitfalls": [
+    "hubris＝過度自負"
+  ],
+  "lessonRefs": [
+    "lesson-sem-humble-vain-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch01"
+  }
+}

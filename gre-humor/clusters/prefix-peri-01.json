@@ -1,0 +1,178 @@
+{
+  "id": "prefix-peri-01",
+  "type": "prefix",
+  "elementLemma": "peri-",
+  "titleZh": "peri-｜外圍繞行站",
+  "titleEn": "Peri Loop Station",
+  "hook": "字首 peri-＝周圍——繞行站專管外圍、週期、繞圈走路的哲學家。",
+  "script": "peripheral／periphery 外圍帶。period／periodic 週期鐘。peripatetic 邊走邊聊；perihelion／perinatal／periphrasis 近日點、圍產、繞圈說話——站長：peripheral outcomes 次要；拒 periphrasis 代替定義。",
+  "members": [
+    {
+      "headword": "peripheral",
+      "inVocab": true,
+      "senseAnchor": "not important",
+      "roleInScript": "外圍帶",
+      "humorDevice": "morphology",
+      "zhGloss": "外圍的；次要的",
+      "speakLineEn": "Keep peripheral endpoints labeled secondary.",
+      "speakLineZh": "外圍終點標為次要。",
+      "related": {
+        "synonyms": "accessory, extraneous, impertinent, irrelevant",
+        "antonyms": "central, essential, relevant"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "periphery",
+      "inVocab": false,
+      "senseAnchor": "外圍；邊緣",
+      "roleInScript": "邊緣圈",
+      "humorDevice": "morphology",
+      "zhGloss": "外圍；邊緣",
+      "speakLineEn": "Do not hide exclusions on the periphery.",
+      "speakLineZh": "別把排除藏在邊緣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "period",
+      "inVocab": false,
+      "senseAnchor": "時期；句點",
+      "roleInScript": "週期鐘",
+      "humorDevice": "morphology",
+      "zhGloss": "時期；句點",
+      "speakLineEn": "Report the observation period exactly.",
+      "speakLineZh": "精確報告觀察期。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "periodic",
+      "inVocab": false,
+      "senseAnchor": "週期性的",
+      "roleInScript": "週期燈",
+      "humorDevice": "morphology",
+      "zhGloss": "週期性的",
+      "speakLineEn": "Schedule periodic audit reviews.",
+      "speakLineZh": "安排週期性稽核。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "peripatetic",
+      "inVocab": true,
+      "senseAnchor": "walking about",
+      "roleInScript": "邊走邊聊",
+      "humorDevice": "morphology",
+      "zhGloss": "巡遊的；走著討論的",
+      "speakLineEn": "Peripatetic collaborators still need a repo.",
+      "speakLineZh": "巡遊合作者仍需要 repo。",
+      "related": {
+        "synonyms": "nomadic, itinerant",
+        "antonyms": "settled, stationary"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "perihelion",
+      "inVocab": false,
+      "senseAnchor": "近日點",
+      "roleInScript": "近日點",
+      "humorDevice": "story",
+      "zhGloss": "近日點",
+      "speakLineEn": "Publish at the perihelion of data lock, not hype.",
+      "speakLineZh": "在資料鎖定近日點發表，不是炒作點。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "perinatal",
+      "inVocab": false,
+      "senseAnchor": "圍產期的",
+      "roleInScript": "圍產窗",
+      "humorDevice": "story",
+      "zhGloss": "圍產期的",
+      "speakLineEn": "Perinatal projects need early checklists.",
+      "speakLineZh": "圍產期專案需要早期清單。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "periphrasis",
+      "inVocab": false,
+      "senseAnchor": "迂迴說法",
+      "roleInScript": "繞圈話",
+      "humorDevice": "morphology",
+      "zhGloss": "迂迴說法",
+      "speakLineEn": "Replace periphrasis with an estimand.",
+      "speakLineZh": "用目標量取代迂迴說法。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "rim",
+      "inVocab": false,
+      "senseAnchor": "邊緣",
+      "roleInScript": "邊緣線",
+      "humorDevice": "story",
+      "zhGloss": "邊緣",
+      "speakLineEn": "Guard the rim of the inclusion criteria.",
+      "speakLineZh": "守住納入標準邊緣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "loop",
+      "inVocab": false,
+      "senseAnchor": "迴圈",
+      "roleInScript": "迴圈道",
+      "humorDevice": "story",
+      "zhGloss": "迴圈",
+      "speakLineEn": "Break infinite tweak loops with a freeze.",
+      "speakLineZh": "用凍結打斷無限微調迴圈。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "peri-＝周圍：peripheral/periphery/periodic/peripatetic/periphrasis",
+    "peripheral＝外圍的"
+  ],
+  "pitfalls": [
+    "peripheral＝外圍／次要；peripatetic＝巡遊的",
+    "periphrasis＝迂迴說法"
+  ],
+  "lessonRefs": [
+    "lesson-prefix-peri-01"
+  ],
+  "status": "reviewed",
+  "priority": "C",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch07"
+  }
+}

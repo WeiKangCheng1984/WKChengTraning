@@ -1,0 +1,208 @@
+{
+  "id": "look-averse-01",
+  "type": "lookalike",
+  "elementLemma": "averse-adverse",
+  "titleZh": "averse ↔ adverse｜厭惡／不利診所",
+  "titleEn": "Averse vs Adverse Clinic",
+  "hook": "averse＝厭惡（心裡不想），adverse＝不利（外在有害）——診所標籤別貼反。",
+  "script": "aversion 厭惡感。adversity／adversary／adversely 逆境、對手、不利地——醫師：be averse to peeking；report adverse effects of bias。",
+  "members": [
+    {
+      "headword": "aversion",
+      "inVocab": true,
+      "senseAnchor": "a feeling of intense dislike; the act of turning yourself (or your gaze) away",
+      "roleInScript": "厭惡感",
+      "humorDevice": "lookalike",
+      "zhGloss": "厭惡",
+      "speakLineEn": "Keep an aversion to silent outcome swaps.",
+      "speakLineZh": "對沉默結局替換保持厭惡。",
+      "related": {
+        "synonyms": "antipathy, distaste, averting",
+        "antonyms": "affinity, liking"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "adversity",
+      "inVocab": false,
+      "senseAnchor": "逆境",
+      "roleInScript": "逆境床",
+      "humorDevice": "lookalike",
+      "zhGloss": "逆境",
+      "speakLineEn": "Adversity in funding is no excuse for fraud.",
+      "speakLineZh": "補助逆境不是造假藉口。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "adversary",
+      "inVocab": false,
+      "senseAnchor": "對手",
+      "roleInScript": "對手椅",
+      "humorDevice": "lookalike",
+      "zhGloss": "對手",
+      "speakLineEn": "Treat bias as the adversary, not reviewers.",
+      "speakLineZh": "把偏差當對手，不是審稿人。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "adversely",
+      "inVocab": false,
+      "senseAnchor": "不利地",
+      "roleInScript": "不利針",
+      "humorDevice": "lookalike",
+      "zhGloss": "不利地",
+      "speakLineEn": "Missingness can adversely affect estimates.",
+      "speakLineZh": "缺失可能不利影響估計。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "dislike",
+      "inVocab": false,
+      "senseAnchor": "不喜歡",
+      "roleInScript": "不喜歡鈴",
+      "humorDevice": "story",
+      "zhGloss": "不喜歡",
+      "speakLineEn": "Dislike convenience samples for causal claims.",
+      "speakLineZh": "不喜歡用方便樣本做因果。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "harmful",
+      "inVocab": false,
+      "senseAnchor": "有害的",
+      "roleInScript": "有害標",
+      "humorDevice": "story",
+      "zhGloss": "有害的",
+      "speakLineEn": "Harmful incentives distort reporting.",
+      "speakLineZh": "有害誘因扭曲報告。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "unfavorable",
+      "inVocab": false,
+      "senseAnchor": "不利的",
+      "roleInScript": "不利牌",
+      "humorDevice": "story",
+      "zhGloss": "不利的",
+      "speakLineEn": "Unfavorable nulls still get published.",
+      "speakLineZh": "不利虛無仍要發表。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "opponent",
+      "inVocab": false,
+      "senseAnchor": "對手",
+      "roleInScript": "對手牌",
+      "humorDevice": "story",
+      "zhGloss": "對手",
+      "speakLineEn": "Your toughest opponent is your own flexibility.",
+      "speakLineZh": "最強對手是自己的彈性。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "allergy",
+      "inVocab": false,
+      "senseAnchor": "過敏",
+      "roleInScript": "過敏貼",
+      "humorDevice": "story",
+      "zhGloss": "過敏",
+      "speakLineEn": "Develop an allergy to fabricated rows.",
+      "speakLineZh": "對捏造列產生過敏。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "setback",
+      "inVocab": false,
+      "senseAnchor": "挫敗",
+      "roleInScript": "挫敗燈",
+      "humorDevice": "story",
+      "zhGloss": "挫敗",
+      "speakLineEn": "A setback is data, not shame.",
+      "speakLineZh": "挫敗是資料，不是恥辱。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "clinic",
+      "inVocab": false,
+      "senseAnchor": "診所",
+      "roleInScript": "診所",
+      "humorDevice": "story",
+      "zhGloss": "診所",
+      "speakLineEn": "Hang clinic tags: averse vs adverse.",
+      "speakLineZh": "掛診所標籤：厭惡 vs 不利。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "ward",
+      "inVocab": false,
+      "senseAnchor": "病房",
+      "roleInScript": "病房",
+      "humorDevice": "story",
+      "zhGloss": "病房",
+      "speakLineEn": "In this ward, labels must be exact.",
+      "speakLineZh": "這間病房標籤必須精確。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "averse→aversion",
+    "adverse→adversity/adversary/adversely"
+  ],
+  "pitfalls": [
+    "averse≠adverse",
+    "adversary＝對手"
+  ],
+  "lessonRefs": [
+    "lesson-look-averse-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch07"
+  }
+}

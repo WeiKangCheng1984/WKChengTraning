@@ -1,0 +1,97 @@
+{
+  "id": "lesson-prefix-multi-01",
+  "slug": "prefix-multi-01",
+  "season": 4,
+  "seasonTitleZh": "字首調味",
+  "seasonTitleEn": "Prefix Seasoning",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "prefix-multi-01",
+  "titleZh": "multi-｜多重馬戲團",
+  "titleEn": "Multi Circus Tent",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字首 multi-＝多——馬戲團同時開很多帳篷：多面向、多語、多重性。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "multifaceted／multiplicity／multipartite 多面鏡子。multiply／multiplex 倍增與多工。multicultural／multilingual 多文化多語廣播——團長：multifaceted checks；multiply endpoints 要校正。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "multi-＝多：multifaceted/multiplicity/multiply/multilingual/multiplex",
+        "multiplicity＝多重性"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Having many aspects:",
+      "promptZh": "多面向：",
+      "choices": [
+        "multifaceted",
+        "peripheral",
+        "sole",
+        "neon"
+      ],
+      "answer": "multifaceted"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "The state of being multiple:",
+      "promptZh": "多重性：",
+      "choices": [
+        "multiplicity",
+        "metaphor",
+        "surge",
+        "tide"
+      ],
+      "answer": "multiplicity"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Increase in number:",
+      "promptZh": "倍增：",
+      "choices": [
+        "multiply",
+        "withhold",
+        "diagnose",
+        "seed"
+      ],
+      "answer": "multiply"
+    }
+  ],
+  "pitfalls": [
+    "multifaceted＝多面向",
+    "multiplex＝多元複合"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch07"
+  }
+}

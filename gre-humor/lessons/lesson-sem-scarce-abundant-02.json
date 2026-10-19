@@ -1,0 +1,97 @@
+{
+  "id": "lesson-sem-scarce-abundant-02",
+  "slug": "sem-scarce-abundant-02",
+  "season": 3,
+  "seasonTitleZh": "語氣對打",
+  "seasonTitleEn": "Tone Duels",
+  "type": "duel",
+  "minutes": "12-15",
+  "clusterId": "sem-scarce-abundant-02",
+  "titleZh": "稀缺 ↔ 充裕｜空貨架超市續集",
+  "titleEn": "Scarce vs Abundant Mart 2",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "空貨架對爆倉堆——GRE 量感語氣續集。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "稀缺：exiguous／paltry／scant／puny；充裕：glut／surfeit／opulence／rife／scads。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "稀缺：exiguous/paltry/scant",
+        "充裕：glut/surfeit/opulence"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Very scanty:",
+      "promptZh": "稀少：",
+      "choices": [
+        "exiguous",
+        "opulence",
+        "repository",
+        "neon"
+      ],
+      "answer": "exiguous"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Oversupply:",
+      "promptZh": "過剩過量：",
+      "choices": [
+        "surfeit",
+        "famine",
+        "forecast",
+        "sole"
+      ],
+      "answer": "surfeit"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Luxury wealth:",
+      "promptZh": "富裕豪華：",
+      "choices": [
+        "opulence",
+        "paltry",
+        "omnibus",
+        "scanty"
+      ],
+      "answer": "opulence"
+    }
+  ],
+  "pitfalls": [
+    "exiguous＝稀少",
+    "surfeit＝過量"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch01"
+  }
+}

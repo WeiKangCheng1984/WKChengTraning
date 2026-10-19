@@ -1,0 +1,96 @@
+{
+  "id": "lesson-rhyme-logy-01",
+  "slug": "rhyme-logy-01",
+  "season": 1,
+  "seasonTitleZh": "押韻派對",
+  "seasonTitleEn": "Rhyme Party",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "rhyme-logy-01",
+  "titleZh": "-logy／-logue｜學科對話館",
+  "titleEn": "Logy Dialogue Museum",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字尾 -logy/-logue＝學／對話——對話館用一排「學」字門牌串記。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "apology 道歉櫃。mythology／theology／psychology／ecology／geology 學科走廊。trilogy 三部曲——館長：apology for errors 公開；mythology of genius 退場。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "-logy：apology/mythology/theology/psychology/ecology/trilogy",
+        "apology＝道歉"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Statement of regret:",
+      "promptZh": "道歉：",
+      "choices": [
+        "apology",
+        "trilogy",
+        "surge",
+        "neon"
+      ],
+      "answer": "apology"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "False belief system / myths:",
+      "promptZh": "迷思神話：",
+      "choices": [
+        "mythology",
+        "repository",
+        "forecast",
+        "sole"
+      ],
+      "answer": "mythology"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Three related works:",
+      "promptZh": "三部曲：",
+      "choices": [
+        "trilogy",
+        "omnibus",
+        "quiescent",
+        "scanty"
+      ],
+      "answer": "trilogy"
+    }
+  ],
+  "pitfalls": [
+    "apology＝道歉；trilogy＝三部曲"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch07"
+  }
+}

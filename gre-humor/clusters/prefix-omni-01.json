@@ -1,0 +1,163 @@
+{
+  "id": "prefix-omni-01",
+  "type": "prefix",
+  "elementLemma": "omni-",
+  "titleZh": "omni-｜全能廣播塔",
+  "titleEn": "Omni Broadcast Tower",
+  "hook": "字首 omni-＝全——廣播塔宣稱無所不在，但稽核員會拆穿假全能。",
+  "script": "omnipresent 到處都在的標籤。omnibus 一網打盡法案。omnidirectional／omnifarious／omnirange 全向、各式、全距——塔長：omnipresent logging；拒假 omniscience（已在他族）。",
+  "members": [
+    {
+      "headword": "omnipresent",
+      "inVocab": true,
+      "senseAnchor": "being present everywhere at once",
+      "roleInScript": "到處標",
+      "humorDevice": "morphology",
+      "zhGloss": "無所不在的",
+      "speakLineEn": "Make audit trails omnipresent.",
+      "speakLineZh": "讓稽核軌跡無所不在。",
+      "related": {
+        "synonyms": "ubiquitous",
+        "antonyms": "rare, scarce"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "omnibus",
+      "inVocab": false,
+      "senseAnchor": "綜合的；一攬子",
+      "roleInScript": "一網打盡",
+      "humorDevice": "morphology",
+      "zhGloss": "綜合的；一攬子",
+      "speakLineEn": "Avoid omnibus endpoints that mix constructs.",
+      "speakLineZh": "避免混構念的一攬子終點。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "omnidirectional",
+      "inVocab": false,
+      "senseAnchor": "全向的",
+      "roleInScript": "全向麥",
+      "humorDevice": "morphology",
+      "zhGloss": "全向的",
+      "speakLineEn": "Omnidirectional scrutiny beats selective praise.",
+      "speakLineZh": "全向審視勝過選擇性稱讚。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "omnifarious",
+      "inVocab": false,
+      "senseAnchor": "各式各樣的",
+      "roleInScript": "各式櫃",
+      "humorDevice": "story",
+      "zhGloss": "各式各樣的",
+      "speakLineEn": "Omnifarious tweaks without a plan look like fishing.",
+      "speakLineZh": "各式無計畫微調像淘篩。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "omnirange",
+      "inVocab": false,
+      "senseAnchor": "全距導航",
+      "roleInScript": "全距儀",
+      "humorDevice": "story",
+      "zhGloss": "全距導航",
+      "speakLineEn": "State the omnirange of generalizability.",
+      "speakLineZh": "說清可推廣的全距。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "all-seeing",
+      "inVocab": false,
+      "senseAnchor": "全視的",
+      "roleInScript": "全視眼",
+      "humorDevice": "story",
+      "zhGloss": "全視的",
+      "speakLineEn": "No all-seeing PI replaces preregistration.",
+      "speakLineZh": "全視 PI 取代不了預註冊。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "universal",
+      "inVocab": false,
+      "senseAnchor": "普遍的",
+      "roleInScript": "普遍旗",
+      "humorDevice": "story",
+      "zhGloss": "普遍的",
+      "speakLineEn": "Universal claims need universal checks.",
+      "speakLineZh": "普遍主張需要普遍檢查。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "total",
+      "inVocab": false,
+      "senseAnchor": "總體的",
+      "roleInScript": "總體匣",
+      "humorDevice": "story",
+      "zhGloss": "總體的",
+      "speakLineEn": "Total effects still need assumptions.",
+      "speakLineZh": "總效應仍需要假設。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "panoptic",
+      "inVocab": false,
+      "senseAnchor": "全景監視的",
+      "roleInScript": "全景塔",
+      "humorDevice": "story",
+      "zhGloss": "全景監視的",
+      "speakLineEn": "Panoptic dashboards still need ethics.",
+      "speakLineZh": "全景儀表板仍需要倫理。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "omni-＝全：omnipresent/omnibus/omnidirectional/omnifarious",
+    "omnipresent＝無所不在"
+  ],
+  "pitfalls": [
+    "omnipresent＝無處不在",
+    "omnibus＝綜合／一攬子"
+  ],
+  "lessonRefs": [
+    "lesson-prefix-omni-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch07"
+  }
+}

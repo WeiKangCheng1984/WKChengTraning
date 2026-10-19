@@ -1,0 +1,163 @@
+{
+  "id": "rhyme-ory-01",
+  "type": "rhyme",
+  "elementLemma": "-ory/-ary",
+  "titleZh": "-ory／-ary｜場所傾向街",
+  "titleEn": "Ory Place Street",
+  "hook": "字尾 -ory/-ary＝場所／傾向——街上每間店都是一種「地方」或「脾氣」。",
+  "script": "laboratory／observatory／dormitory／repository 場所排。refractory 難搞店。transitory 過客旅館；predatory 掠食招牌——里長：repository of logs；refractory egos 禁入。",
+  "members": [
+    {
+      "headword": "laboratory",
+      "inVocab": false,
+      "senseAnchor": "實驗室",
+      "roleInScript": "實驗店",
+      "humorDevice": "morphology",
+      "zhGloss": "實驗室",
+      "speakLineEn": "Treat the lab like a public laboratory of methods.",
+      "speakLineZh": "把實驗室當公開方法實驗店。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "observatory",
+      "inVocab": false,
+      "senseAnchor": "觀察所",
+      "roleInScript": "觀察塔",
+      "humorDevice": "morphology",
+      "zhGloss": "觀察所",
+      "speakLineEn": "Build an observatory for protocol drift.",
+      "speakLineZh": "為規程漂移建觀察塔。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "dormitory",
+      "inVocab": false,
+      "senseAnchor": "宿舍",
+      "roleInScript": "宿舍樓",
+      "humorDevice": "morphology",
+      "zhGloss": "宿舍",
+      "speakLineEn": "Shared dormitory of code needs freezes.",
+      "speakLineZh": "共用程式宿舍需要凍結時段。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "refractory",
+      "inVocab": true,
+      "senseAnchor": "resisting control or authority",
+      "roleInScript": "難搞店",
+      "humorDevice": "morphology",
+      "zhGloss": "難駕馭的",
+      "speakLineEn": "Refractory bugs need pair debugging.",
+      "speakLineZh": "難搞 bug 需要配對除錯。",
+      "related": {
+        "synonyms": "balky, obstreperous, rebellious, unruly",
+        "antonyms": "manageable, obedient"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "transitory",
+      "inVocab": false,
+      "senseAnchor": "短暫的",
+      "roleInScript": "過客旅館",
+      "humorDevice": "morphology",
+      "zhGloss": "短暫的",
+      "speakLineEn": "Transitory significance needs replication.",
+      "speakLineZh": "短暫顯著需要複現。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "predatory",
+      "inVocab": false,
+      "senseAnchor": "掠食的",
+      "roleInScript": "掠食招牌",
+      "humorDevice": "morphology",
+      "zhGloss": "掠食的",
+      "speakLineEn": "Predatory journals love unreplicated glow.",
+      "speakLineZh": "掠食期刊愛未複現光芒。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "place",
+      "inVocab": false,
+      "senseAnchor": "場所",
+      "roleInScript": "場所釘",
+      "humorDevice": "story",
+      "zhGloss": "場所",
+      "speakLineEn": "Every analysis needs a place in the hierarchy.",
+      "speakLineZh": "每個分析在層級裡要有位置。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "archive",
+      "inVocab": false,
+      "senseAnchor": "檔案庫",
+      "roleInScript": "檔案庫",
+      "humorDevice": "story",
+      "zhGloss": "檔案庫",
+      "speakLineEn": "Archive decisions, not only datasets.",
+      "speakLineZh": "封存決策，不只資料集。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "street",
+      "inVocab": false,
+      "senseAnchor": "街道",
+      "roleInScript": "街道",
+      "humorDevice": "story",
+      "zhGloss": "街道",
+      "speakLineEn": "Walk the street of assumptions openly.",
+      "speakLineZh": "公開走完假設街道。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "-ory/-ary：laboratory/observatory/repository/refractory/transitory/predatory",
+    "refractory＝難控制的"
+  ],
+  "pitfalls": [
+    "refractory＝難治／倔強",
+    "transitory＝短暫的"
+  ],
+  "lessonRefs": [
+    "lesson-rhyme-ory-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch07"
+  }
+}

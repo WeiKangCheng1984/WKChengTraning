@@ -1,0 +1,403 @@
+{
+  "id": "sem-support-undermine-01",
+  "type": "semantic",
+  "elementLemma": "support-vs-undermine",
+  "titleZh": "支持 ↔ 削弱｜加固隊 vs 挖牆腳",
+  "titleEn": "Support vs Undermine Crews",
+  "hook": "加固柱對挖牆腳鏟——論證語氣對打。",
+  "script": "支持：bolster／corroborate／endorse／uphold；削弱：undermine／sabotage／enervate／attenuate／tamper。",
+  "members": [
+    {
+      "headword": "bolster",
+      "inVocab": true,
+      "senseAnchor": "a structural part designed to provide support or bearing",
+      "roleInScript": "加固柱",
+      "humorDevice": "contrast",
+      "zhGloss": "加固支持",
+      "speakLineEn": "GRE tip: bolster ~ 加固支持; keep the tone straight.",
+      "speakLineZh": "GRE 提示：bolster 約「加固支持」——抓住語氣。",
+      "related": {
+        "synonyms": "brace, buttress, undergird, uphold",
+        "antonyms": "undermine, weaken, de-energise, de-energize, sedate, discontinue"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "corroborate",
+      "inVocab": true,
+      "senseAnchor": "provide evidence to support something",
+      "roleInScript": "證實章",
+      "humorDevice": "contrast",
+      "zhGloss": "證實",
+      "speakLineEn": "GRE tip: corroborate ~ 證實; keep the tone straight.",
+      "speakLineZh": "GRE 提示：corroborate 約「證實」——抓住語氣。",
+      "related": {
+        "synonyms": "substantiate, buttress",
+        "antonyms": "contradict, refute, negate, disprove"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "endorse",
+      "inVocab": true,
+      "senseAnchor": "be behind; approve of; give support or one's approval to",
+      "roleInScript": "背書章",
+      "humorDevice": "contrast",
+      "zhGloss": "背書",
+      "speakLineEn": "GRE tip: endorse ~ 背書; keep the tone straight.",
+      "speakLineZh": "GRE 提示：endorse 約「背書」——抓住語氣。",
+      "related": {
+        "synonyms": "back, indorse, support, second, certify",
+        "antonyms": "advance, ahead, forward, front, veer, negate, first, decertify"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "uphold",
+      "inVocab": true,
+      "senseAnchor": "keep or maintain in unaltered condition; cause to remain or last; stand up for; stick up for; of causes, principles, or ideals",
+      "roleInScript": "維護盾",
+      "humorDevice": "contrast",
+      "zhGloss": "維護",
+      "speakLineEn": "GRE tip: uphold ~ 維護; keep the tone straight.",
+      "speakLineZh": "GRE 提示：uphold 約「維護」——抓住語氣。",
+      "related": {
+        "synonyms": "continue, preserve, maintain",
+        "antonyms": "discontinue"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "champion",
+      "inVocab": true,
+      "senseAnchor": "to support",
+      "roleInScript": "擁護旗",
+      "humorDevice": "contrast",
+      "zhGloss": "擁護",
+      "speakLineEn": "GRE tip: champion ~ 擁護; keep the tone straight.",
+      "speakLineZh": "GRE 提示：champion 約「擁護」——抓住語氣。",
+      "related": {
+        "synonyms": "advocate, endorse, patronize",
+        "antonyms": "oppose, criticize, boycott"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "vindicate",
+      "inVocab": true,
+      "senseAnchor": "show to be right by providing justification or proof; maintain, uphold, or defend",
+      "roleInScript": "洗白鈴",
+      "humorDevice": "contrast",
+      "zhGloss": "洗清／證明",
+      "speakLineEn": "GRE tip: vindicate ~ 洗清／證明; keep the tone straight.",
+      "speakLineZh": "GRE 提示：vindicate 約「洗清／證明」——抓住語氣。",
+      "related": {
+        "synonyms": "justify",
+        "antonyms": "blame, convict"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "auspices",
+      "inVocab": true,
+      "senseAnchor": "kindly endorsement and guidance; (ancient Rome) a religious official who interpreted omens to guide public policy",
+      "roleInScript": "庇護傘",
+      "humorDevice": "contrast",
+      "zhGloss": "庇護贊助",
+      "speakLineEn": "GRE tip: auspices ~ 庇護贊助; keep the tone straight.",
+      "speakLineZh": "GRE 提示：auspices 約「庇護贊助」——抓住語氣。",
+      "related": {
+        "synonyms": "protection, aegis, augur, auspex, auspice",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "espouse",
+      "inVocab": true,
+      "senseAnchor": "to take up and support as a cause",
+      "roleInScript": "信奉燈",
+      "humorDevice": "contrast",
+      "zhGloss": "信奉支持",
+      "speakLineEn": "GRE tip: espouse ~ 信奉支持; keep the tone straight.",
+      "speakLineZh": "GRE 提示：espouse 約「信奉支持」——抓住語氣。",
+      "related": {
+        "synonyms": "embrace, champion",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "undermine",
+      "inVocab": false,
+      "senseAnchor": "暗中破壞",
+      "roleInScript": "挖牆腳",
+      "humorDevice": "contrast",
+      "zhGloss": "暗中破壞",
+      "speakLineEn": "GRE tip: undermine ~ 暗中破壞; keep the tone straight.",
+      "speakLineZh": "GRE 提示：undermine 約「暗中破壞」——抓住語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "sabotage",
+      "inVocab": true,
+      "senseAnchor": "to damage or destroy deliberately",
+      "roleInScript": "破壞鉗",
+      "humorDevice": "contrast",
+      "zhGloss": "蓄意破壞",
+      "speakLineEn": "GRE tip: sabotage ~ 蓄意破壞; keep the tone straight.",
+      "speakLineZh": "GRE 提示：sabotage 約「蓄意破壞」——抓住語氣。",
+      "related": {
+        "synonyms": "disrupt, undermine, thwart",
+        "antonyms": "support, bolster"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "subversive",
+      "inVocab": true,
+      "senseAnchor": "a radical supporter of political or social revolution; in opposition to a civil authority or government",
+      "roleInScript": "顛覆釘",
+      "humorDevice": "contrast",
+      "zhGloss": "顛覆的",
+      "speakLineEn": "GRE tip: subversive ~ 顛覆的; keep the tone straight.",
+      "speakLineZh": "GRE 提示：subversive 約「顛覆的」——抓住語氣。",
+      "related": {
+        "synonyms": "revolutionist, revolutionary, subverter, insurgent, seditious",
+        "antonyms": "loyal, supportive"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "enervate",
+      "inVocab": true,
+      "senseAnchor": "weaken mentally or morally; disturb the composure of",
+      "roleInScript": "抽力管",
+      "humorDevice": "contrast",
+      "zhGloss": "使衰弱",
+      "speakLineEn": "GRE tip: enervate ~ 使衰弱; keep the tone straight.",
+      "speakLineZh": "GRE 提示：enervate 約「使衰弱」——抓住語氣。",
+      "related": {
+        "synonyms": "faze, unnerve, unsettle",
+        "antonyms": "invigorate, strengthen"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "attenuate",
+      "inVocab": true,
+      "senseAnchor": "to lessen",
+      "roleInScript": "減弱桿",
+      "humorDevice": "contrast",
+      "zhGloss": "減弱",
+      "speakLineEn": "GRE tip: attenuate ~ 減弱; keep the tone straight.",
+      "speakLineZh": "GRE 提示：attenuate 約「減弱」——抓住語氣。",
+      "related": {
+        "synonyms": "weaken, devalue",
+        "antonyms": "strengthen, intensify, escalate, appreciate"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "hamstring",
+      "inVocab": true,
+      "senseAnchor": "to make ineffective",
+      "roleInScript": "割腱剪",
+      "humorDevice": "contrast",
+      "zhGloss": "使癱瘓",
+      "speakLineEn": "GRE tip: hamstring ~ 使癱瘓; keep the tone straight.",
+      "speakLineZh": "GRE 提示：hamstring 約「使癱瘓」——抓住語氣。",
+      "related": {
+        "synonyms": "impede, impair",
+        "antonyms": "facilitate, assist, free, improve, enhance"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "sap",
+      "inVocab": true,
+      "senseAnchor": "active strength of body or mind",
+      "roleInScript": "挖汁",
+      "humorDevice": "contrast",
+      "zhGloss": "削弱",
+      "speakLineEn": "GRE tip: sap ~ 削弱; keep the tone straight.",
+      "speakLineZh": "GRE 提示：sap 約「削弱」——抓住語氣。",
+      "related": {
+        "synonyms": "debilitate, enervate, enfeeble",
+        "antonyms": "strengthen, fortify, invigorate"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "blight",
+      "inVocab": true,
+      "senseAnchor": "to impair the quality or effect of",
+      "roleInScript": "枯病",
+      "humorDevice": "contrast",
+      "zhGloss": "摧殘",
+      "speakLineEn": "GRE tip: blight ~ 摧殘; keep the tone straight.",
+      "speakLineZh": "GRE 提示：blight 約「摧殘」——抓住語氣。",
+      "related": {
+        "synonyms": "deteriorate, impair, mar, compromise",
+        "antonyms": "recuperate, improve, enhance"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "taint",
+      "inVocab": true,
+      "senseAnchor": "to damage or spoil the quality of",
+      "roleInScript": "污點",
+      "humorDevice": "contrast",
+      "zhGloss": "玷污",
+      "speakLineEn": "GRE tip: taint ~ 玷污; keep the tone straight.",
+      "speakLineZh": "GRE 提示：taint 約「玷污」——抓住語氣。",
+      "related": {
+        "synonyms": "mar, blemish, tarnish",
+        "antonyms": "disinfect"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "tamper",
+      "inVocab": true,
+      "senseAnchor": "a tool for tamping (e.g., for tamping tobacco into a pipe bowl or a charge into a drill hole etc.); play around with or alter or falsify, usually secretively or dishonestly",
+      "roleInScript": "篡改手",
+      "humorDevice": "contrast",
+      "zhGloss": "篡改",
+      "speakLineEn": "GRE tip: tamper ~ 篡改; keep the tone straight.",
+      "speakLineZh": "GRE 提示：tamper 約「篡改」——抓住語氣。",
+      "related": {
+        "synonyms": "tamp, fiddle, monkey, meddle",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "detriment",
+      "inVocab": true,
+      "senseAnchor": "a damage or loss",
+      "roleInScript": "損害牌",
+      "humorDevice": "contrast",
+      "zhGloss": "損害",
+      "speakLineEn": "GRE tip: detriment ~ 損害; keep the tone straight.",
+      "speakLineZh": "GRE 提示：detriment 約「損害」——抓住語氣。",
+      "related": {
+        "synonyms": "hurt",
+        "antonyms": "be well"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "overthrow",
+      "inVocab": true,
+      "senseAnchor": "the termination of a ruler or institution (especially by force); the act of disturbing the mind or body",
+      "roleInScript": "推翻錘",
+      "humorDevice": "contrast",
+      "zhGloss": "推翻",
+      "speakLineEn": "GRE tip: overthrow ~ 推翻; keep the tone straight.",
+      "speakLineZh": "GRE 提示：overthrow 約「推翻」——抓住語氣。",
+      "related": {
+        "synonyms": "upset, derangement, subvert, overturn, overrule, override",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "mar",
+      "inVocab": true,
+      "senseAnchor": "the month following February and preceding April; a mark or flaw that spoils the appearance of something (especially on a person's body)",
+      "roleInScript": "損傷刮",
+      "humorDevice": "contrast",
+      "zhGloss": "損傷",
+      "speakLineEn": "GRE tip: mar ~ 損傷; keep the tone straight.",
+      "speakLineZh": "GRE 提示：mar 約「損傷」——抓住語氣。",
+      "related": {
+        "synonyms": "March, blemish, defect, impair, spoil, deflower",
+        "antonyms": "improve, enhance"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "iconoclastic",
+      "inVocab": true,
+      "senseAnchor": "characterized by attack on established beliefs or institutions; destructive of images used in religious worship; said of religions, such as Islam, in which the representation of living things is prohibited",
+      "roleInScript": "破偶像",
+      "humorDevice": "story",
+      "zhGloss": "破除偶像",
+      "speakLineEn": "GRE tip: iconoclastic ~ 破除偶像; keep the tone straight.",
+      "speakLineZh": "GRE 提示：iconoclastic 約「破除偶像」——抓住語氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "subvention",
+      "inVocab": true,
+      "senseAnchor": "grant of financial aid as from a government to an educational institution; the act or process of providing aid or help of any sort",
+      "roleInScript": "補助金",
+      "humorDevice": "story",
+      "zhGloss": "補助金",
+      "speakLineEn": "GRE tip: subvention ~ 補助金; keep the tone straight.",
+      "speakLineZh": "GRE 提示：subvention 約「補助金」——抓住語氣。",
+      "related": {
+        "synonyms": "underwrite, subvent",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "budge",
+      "inVocab": true,
+      "senseAnchor": "United States tennis player who in 1938 was the first to win the Australian and French and English and United States singles championship in the same year (1915-2000); move very slightly",
+      "roleInScript": "推動",
+      "humorDevice": "story",
+      "zhGloss": "推動／讓步",
+      "speakLineEn": "GRE tip: budge ~ 推動／讓步; keep the tone straight.",
+      "speakLineZh": "GRE 提示：budge 約「推動／讓步」——抓住語氣。",
+      "related": {
+        "synonyms": "stir, shift, agitate",
+        "antonyms": "calm"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "embody",
+      "inVocab": true,
+      "senseAnchor": "represent in bodily form; represent, as of a character on stage",
+      "roleInScript": "體現",
+      "humorDevice": "story",
+      "zhGloss": "體現",
+      "speakLineEn": "GRE tip: embody ~ 體現; keep the tone straight.",
+      "speakLineZh": "GRE 提示：embody 約「體現」——抓住語氣。",
+      "related": {
+        "synonyms": "incarnate, substantiate, be, personify",
+        "antonyms": "disincarnate, disprove, refute, negate, differ"
+      },
+      "vocabStatus": "in-vocab"
+    }
+  ],
+  "reviewHooks": [
+    "支持：bolster/corroborate/endorse",
+    "削弱：undermine/sabotage/enervate"
+  ],
+  "pitfalls": [
+    "corroborate＝證實",
+    "enervate＝使無力"
+  ],
+  "lessonRefs": [
+    "lesson-sem-support-undermine-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P3-batch01"
+  }
+}

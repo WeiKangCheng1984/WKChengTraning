@@ -1,0 +1,208 @@
+{
+  "id": "rhyme-escent-01",
+  "type": "rhyme",
+  "elementLemma": "-escent",
+  "titleZh": "-escent｜漸變霓虹巷",
+  "titleEn": "Escent Glow Alley",
+  "hook": "字尾 -escent＝漸變——霓虹巷裡東西正在變成：發光、安靜、過時、冒泡。",
+  "script": "iridescent／luminescent／incandescent／fluorescent 發光巷。quiescent 安靜段。obsolescent 漸過時；effervescent／convalescent 冒泡與康復——店長：obsolescent pipelines 退役；quiescent skepticism 保留。",
+  "members": [
+    {
+      "headword": "iridescent",
+      "inVocab": true,
+      "senseAnchor": "displaying a play of lustrous colors like those of the rainbow",
+      "roleInScript": "虹彩燈",
+      "humorDevice": "morphology",
+      "zhGloss": "虹彩的",
+      "speakLineEn": "Iridescent slides still need dull numbers.",
+      "speakLineZh": "虹彩簡報仍需無聊數字。",
+      "related": {
+        "synonyms": "changeable, chatoyant, shot, nacreous, opalescent, opaline",
+        "antonyms": "immutable, unchangeable"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "quiescent",
+      "inVocab": true,
+      "senseAnchor": "not active or activated; marked by a state of tranquil repose",
+      "roleInScript": "安靜段",
+      "humorDevice": "morphology",
+      "zhGloss": "靜止的；休眠的",
+      "speakLineEn": "Keep peeking quiescent until lock.",
+      "speakLineZh": "鎖定前讓偷看保持休眠。",
+      "related": {
+        "synonyms": "",
+        "antonyms": "active, turbulent"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "obsolescent",
+      "inVocab": true,
+      "senseAnchor": "becoming obsolete",
+      "roleInScript": "漸過時",
+      "humorDevice": "morphology",
+      "zhGloss": "逐漸過時的",
+      "speakLineEn": "Replace obsolescent scripts monthly.",
+      "speakLineZh": "每月淘汰逐漸過時腳本。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "effervescent",
+      "inVocab": false,
+      "senseAnchor": "冒泡的；活潑的",
+      "roleInScript": "冒泡杯",
+      "humorDevice": "morphology",
+      "zhGloss": "冒泡的；活潑的",
+      "speakLineEn": "Effervescent storytelling ≠ identification.",
+      "speakLineZh": "活潑敘事≠識別策略。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "convalescent",
+      "inVocab": true,
+      "senseAnchor": "a person who is recovering from illness; returning to health after illness or debility",
+      "roleInScript": "康復床",
+      "humorDevice": "morphology",
+      "zhGloss": "康復中的",
+      "speakLineEn": "Convalescent projects need gentle audits.",
+      "speakLineZh": "康復中專案需要溫和稽核。",
+      "related": {
+        "synonyms": "recovering",
+        "antonyms": "deteriorate"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "luminescent",
+      "inVocab": false,
+      "senseAnchor": "發光的",
+      "roleInScript": "發光壁",
+      "humorDevice": "morphology",
+      "zhGloss": "發光的",
+      "speakLineEn": "Luminescent claims need dark-room checks.",
+      "speakLineZh": "發光主張需要暗室檢查。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "incandescent",
+      "inVocab": true,
+      "senseAnchor": "emitting light as a result of being heated; characterized by ardent emotion or intensity or brilliance",
+      "roleInScript": "白熾絲",
+      "humorDevice": "morphology",
+      "zhGloss": "白熾的；熾熱的",
+      "speakLineEn": "Incandescent debates still need data.",
+      "speakLineZh": "熾熱辯論仍需要資料。",
+      "related": {
+        "synonyms": "candent",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "fluorescent",
+      "inVocab": true,
+      "senseAnchor": "a lighting fixture that uses a fluorescent lamp; emitting light during exposure to radiation from an external source",
+      "roleInScript": "螢光管",
+      "humorDevice": "morphology",
+      "zhGloss": "螢光的",
+      "speakLineEn": "Fluorescent highlighting of limits helps.",
+      "speakLineZh": "螢光標出限制有幫助。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "glow",
+      "inVocab": false,
+      "senseAnchor": "發光",
+      "roleInScript": "發光點",
+      "humorDevice": "story",
+      "zhGloss": "發光",
+      "speakLineEn": "A glow of significance can be noise.",
+      "speakLineZh": "顯著的發光可能是噪音。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "fading",
+      "inVocab": false,
+      "senseAnchor": "褪色中",
+      "roleInScript": "褪色",
+      "humorDevice": "story",
+      "zhGloss": "褪色中",
+      "speakLineEn": "Fading effects deserve honest plots.",
+      "speakLineZh": "褪色效應值得誠實圖表。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "becoming",
+      "inVocab": false,
+      "senseAnchor": "逐漸變成",
+      "roleInScript": "漸變箭",
+      "humorDevice": "story",
+      "zhGloss": "逐漸變成",
+      "speakLineEn": "Label becoming-exploratory analyses.",
+      "speakLineZh": "標註逐漸變成探索的分析。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "twilight",
+      "inVocab": false,
+      "senseAnchor": "暮光",
+      "roleInScript": "暮光帶",
+      "humorDevice": "story",
+      "zhGloss": "暮光",
+      "speakLineEn": "Twilight of a pipeline: migrate with tests.",
+      "speakLineZh": "管線暮光：帶測試遷移。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    }
+  ],
+  "reviewHooks": [
+    "-escent 漸變：iridescent/quiescent/obsolescent/effervescent/convalescent",
+    "obsolescent＝逐漸過時"
+  ],
+  "pitfalls": [
+    "quiescent＝靜止的",
+    "effervescent＝冒泡／活潑"
+  ],
+  "lessonRefs": [
+    "lesson-rhyme-escent-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch07"
+  }
+}

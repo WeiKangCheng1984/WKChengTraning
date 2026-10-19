@@ -1,0 +1,97 @@
+{
+  "id": "lesson-prefix-non-01",
+  "slug": "prefix-non-01",
+  "season": 4,
+  "seasonTitleZh": "字首調味",
+  "seasonTitleEn": "Prefix Seasoning",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "prefix-non-01",
+  "titleZh": "non-｜非如此櫃臺",
+  "titleEn": "Non Not-So Desk",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字首 non-＝非——櫃臺專管「不是那樣」：冷靜、無特色、不表態。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "nonchalant 酷到不在乎。nondescript 沒特徵。nonentity 小人物。nonplus／nonplussed 愣住；noncommittal／nonpartisan／nonsectarian 不表態、不站隊——櫃員：noncommittal abstracts 不及格；nonpartisan audit 加分。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "non-＝非：nonchalant/nondescript/noncommittal/nonpartisan/nonplussed",
+        "nonchalant＝漠不關心"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Casually unconcerned:",
+      "promptZh": "漠不關心：",
+      "choices": [
+        "nonchalant",
+        "omnipresent",
+        "seminal",
+        "salient"
+      ],
+      "answer": "nonchalant"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Unwilling to commit to a position:",
+      "promptZh": "不表態含糊：",
+      "choices": [
+        "noncommittal",
+        "forecast",
+        "peripheral",
+        "opus"
+      ],
+      "answer": "noncommittal"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Confused; perplexed:",
+      "promptZh": "困惑不知所措：",
+      "choices": [
+        "nonplussed",
+        "multifaceted",
+        "sole",
+        "neon"
+      ],
+      "answer": "nonplussed"
+    }
+  ],
+  "pitfalls": [
+    "nonplussed＝困惑驚呆",
+    "noncommittal＝含糊不表態"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch07"
+  }
+}

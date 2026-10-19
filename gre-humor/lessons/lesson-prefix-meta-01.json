@@ -1,0 +1,97 @@
+{
+  "id": "lesson-prefix-meta-01",
+  "slug": "prefix-meta-01",
+  "season": 4,
+  "seasonTitleZh": "字首調味",
+  "seasonTitleEn": "Prefix Seasoning",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "prefix-meta-01",
+  "titleZh": "meta-｜後設鏡像館",
+  "titleEn": "Meta Mirror Hall",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字首 meta-＝之後／超越——鏡像館專管「關於自己的自己」：隱喻、形上、後設資料。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "metaphor／metaphorical 隱喻走廊。metaphysics 形上閣樓。metadata／metalanguage／metacognition 後設標籤與後設語言；metastasis 擴散警示——館長：metadata 要齊；metaphor 不能取代 ident。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "meta-＝後設：metaphor/metaphysics/metadata/metacognition",
+        "metaphor＝隱喻"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Metaphorical comparison:",
+      "promptZh": "隱喻：",
+      "choices": [
+        "metaphor",
+        "metadata",
+        "surge",
+        "neophyte"
+      ],
+      "answer": "metaphor"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Data about data:",
+      "promptZh": "後設資料：",
+      "choices": [
+        "metadata",
+        "metaphor",
+        "opera",
+        "tide"
+      ],
+      "answer": "metadata"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Thinking about thinking:",
+      "promptZh": "後設認知：",
+      "choices": [
+        "metacognition",
+        "metastasis",
+        "populace",
+        "clamor"
+      ],
+      "answer": "metacognition"
+    }
+  ],
+  "pitfalls": [
+    "metaphor＝隱喻；metastasis＝轉移擴散",
+    "metadata＝後設資料"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch07"
+  }
+}

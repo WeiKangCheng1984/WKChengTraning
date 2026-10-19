@@ -1,0 +1,97 @@
+{
+  "id": "lesson-prefix-fore-01",
+  "slug": "prefix-fore-01",
+  "season": 4,
+  "seasonTitleZh": "字首調味",
+  "seasonTitleEn": "Prefix Seasoning",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "prefix-fore-01",
+  "titleZh": "fore-｜預報瞭望台",
+  "titleEn": "Fore Lookout Tower",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "字首 fore-＝先前——瞭望台專管預報、預見、不祥預感與預示。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "forecast／foresee／foretell／foreshadow 預報鏈。forewarn／foreboding 預警與不祥雲；forefather／foremost 先祖與最前方——台長：forecast uncertainty；foreboding without a plan 無用。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "fore-＝前：forecast/foresee/foreshadow/forewarn/foreboding",
+        "foreshadow＝預示"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Predict the weather or future values:",
+      "promptZh": "預報：",
+      "choices": [
+        "forecast",
+        "withhold",
+        "clamor",
+        "neon"
+      ],
+      "answer": "forecast"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Warn in advance:",
+      "promptZh": "預先警告：",
+      "choices": [
+        "forewarn",
+        "abscond",
+        "surge",
+        "seed"
+      ],
+      "answer": "forewarn"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Suggest beforehand:",
+      "promptZh": "預示：",
+      "choices": [
+        "foreshadow",
+        "multiply",
+        "opera",
+        "tide"
+      ],
+      "answer": "foreshadow"
+    }
+  ],
+  "pitfalls": [
+    "foreboding＝不祥預感",
+    "foremost＝最重要的"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P2-batch07"
+  }
+}
