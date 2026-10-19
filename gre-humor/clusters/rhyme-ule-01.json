@@ -14,8 +14,8 @@
       "roleInScript": "分子攤",
       "humorDevice": "morphology",
       "zhGloss": "分子",
-      "speakLineEn": "Picture the 分子攤: the word molecule means 分子.",
-      "speakLineZh": "想像「分子攤」：molecule＝分子。",
+      "speakLineEn": "Each water molecule contains two hydrogen atoms.",
+      "speakLineZh": "每個水分子含有兩個氫原子。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -29,8 +29,8 @@
       "roleInScript": "小球角色",
       "humorDevice": "morphology",
       "zhGloss": "小球",
-      "speakLineEn": "On the exam, globule most nearly means a sense of \"小球\".",
-      "speakLineZh": "小球。",
+      "speakLineEn": "Oil formed tiny globules on the surface of the soup.",
+      "speakLineZh": "湯面浮起細小油珠。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -44,8 +44,8 @@
       "roleInScript": "膠囊角色",
       "humorDevice": "morphology",
       "zhGloss": "簡短的",
-      "speakLineEn": "It was a capsule review.",
-      "speakLineZh": "例句對齊：膠囊。",
+      "speakLineEn": "The medicine is sold in easy-to-swallow capsules.",
+      "speakLineZh": "藥品做成易吞服的膠囊。",
       "related": {
         "synonyms": "pithy, concise, terse, succinct, laconic",
         "antonyms": "verbose, prolix, wordy"
@@ -59,8 +59,8 @@
       "roleInScript": "模組角色",
       "humorDevice": "morphology",
       "zhGloss": "模組",
-      "speakLineEn": "Critics argued that the policy would module basic protections.",
-      "speakLineZh": "批評者主張該政策會模組基本保障。",
+      "speakLineEn": "Complete the ethics module before fieldwork begins.",
+      "speakLineZh": "田野開始前先完成倫理模組。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -74,8 +74,8 @@
       "roleInScript": "顆粒角色",
       "humorDevice": "morphology",
       "zhGloss": "顆粒",
-      "speakLineEn": "A clear sense of granule is crucial to understanding the argument.",
-      "speakLineZh": "例句對齊：顆粒。",
+      "speakLineEn": "Sugar granules stuck to the damp spoon.",
+      "speakLineZh": "糖粒黏在潮濕的湯匙上。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -89,8 +89,8 @@
       "roleInScript": "結節角色",
       "humorDevice": "morphology",
       "zhGloss": "結節",
-      "speakLineEn": "On the exam, nodule most nearly means a sense of \"結節\".",
-      "speakLineZh": "結節。",
+      "speakLineEn": "The scan showed a small nodule that required follow-up.",
+      "speakLineZh": "掃描顯示一個需追蹤的小結節。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -104,8 +104,8 @@
       "roleInScript": "極小",
       "humorDevice": "morphology",
       "zhGloss": "極小的",
-      "speakLineEn": "E.e.cummings's poetry is written all in minuscule letters.",
-      "speakLineZh": "例句對齊：極小的。",
+      "speakLineEn": "Only a minuscule fraction of the samples failed the test.",
+      "speakLineZh": "只有極小比例的樣本未通過測試。",
       "related": {
         "synonyms": "diminutive",
         "antonyms": "majuscule, uppercase"
@@ -119,8 +119,8 @@
       "roleInScript": "大寫",
       "humorDevice": "morphology",
       "zhGloss": "大寫字母",
-      "speakLineEn": "On the exam, majuscule most nearly means a sense of \"大寫字母\".",
-      "speakLineZh": "大寫字母。",
+      "speakLineEn": "Medieval manuscripts often begin chapters with a decorated majuscule.",
+      "speakLineZh": "中世紀手稿常用華麗大寫字母開啟章節。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -134,8 +134,8 @@
       "roleInScript": "微生物角色",
       "humorDevice": "morphology",
       "zhGloss": "微生物",
-      "speakLineEn": "On the exam, animalcule most nearly means a sense of \"微生物\".",
-      "speakLineZh": "微生物。",
+      "speakLineEn": "Early microscopists called tiny organisms animalcules.",
+      "speakLineZh": "早期顯微鏡學者稱微小生物為微動物。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -149,8 +149,8 @@
       "roleInScript": "前廳角色",
       "humorDevice": "morphology",
       "zhGloss": "前廳",
-      "speakLineEn": "On the exam, vestibule most nearly means a sense of \"前廳\".",
-      "speakLineZh": "前廳。",
+      "speakLineEn": "Guests waited in the vestibule before entering the hall.",
+      "speakLineZh": "賓客在進入大廳前於前廳等候。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -179,8 +179,8 @@
       "roleInScript": "小店角色",
       "humorDevice": "story",
       "zhGloss": "小店",
-      "speakLineEn": "On the exam, tinyshop most nearly means a sense of \"小店\".",
-      "speakLineZh": "小店。",
+      "speakLineEn": "A tiny shop on the corner sells used paperbacks.",
+      "speakLineZh": "轉角小店賣二手平裝書。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -194,8 +194,8 @@
       "roleInScript": "放大鏡角色",
       "humorDevice": "story",
       "zhGloss": "放大鏡",
-      "speakLineEn": "On the exam, magnifier most nearly means a sense of \"放大鏡\".",
-      "speakLineZh": "放大鏡。",
+      "speakLineEn": "She examined the watermark with a pocket magnifier.",
+      "speakLineZh": "她用袖珍放大鏡檢查浮水印。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -209,8 +209,8 @@
       "roleInScript": "藥丸角色",
       "humorDevice": "story",
       "zhGloss": "藥丸",
-      "speakLineEn": "On the exam, pill most nearly means a sense of \"藥丸\".",
-      "speakLineZh": "藥丸。",
+      "speakLineEn": "The doctor prescribed one pill each morning.",
+      "speakLineZh": "醫生開立每天早上一顆藥丸。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -224,8 +224,8 @@
       "roleInScript": "積木",
       "humorDevice": "story",
       "zhGloss": "字母積木",
-      "speakLineEn": "On the exam, letterblock most nearly means a sense of \"字母積木\".",
-      "speakLineZh": "字母積木。",
+      "speakLineEn": "Children arranged wooden letter blocks to spell their names.",
+      "speakLineZh": "孩子用木製字母積木拼自己的名字。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -239,8 +239,8 @@
       "roleInScript": "攤位角色",
       "humorDevice": "story",
       "zhGloss": "攤位",
-      "speakLineEn": "On the exam, stall most nearly means a sense of \"攤位\".",
-      "speakLineZh": "攤位。",
+      "speakLineEn": "The market stall sold herbs and dried fruit.",
+      "speakLineZh": "市集攤位賣香草與乾果。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -265,6 +265,8 @@
     "stage": "P3-batch02",
     "polishedAt": "2026-10-19",
     "polishStage": "Q-wave1",
-    "zhEnrichedAt": "2026-10-19"
+    "zhEnrichedAt": "2026-10-19",
+    "rhymeExamplesStage": "rhyme-fix-2",
+    "rhymeExamplesFixedAt": "2026-10-19"
   }
 }

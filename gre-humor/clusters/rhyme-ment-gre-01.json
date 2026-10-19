@@ -194,8 +194,8 @@
       "roleInScript": "薪水角色",
       "humorDevice": "story",
       "zhGloss": "薪水",
-      "speakLineEn": "Hold the meaning steady: salary means 薪水.",
-      "speakLineZh": "記住考意：salary＝薪水。",
+      "speakLineEn": "Starting salary depends on experience and location.",
+      "speakLineZh": "起薪取決於經驗與地點。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -220,6 +220,8 @@
     "stage": "P3-batch03",
     "polishedAt": "2026-10-19",
     "polishStage": "Q-wave2",
-    "zhEnrichedAt": "2026-10-19"
+    "zhEnrichedAt": "2026-10-19",
+    "rhymeExamplesStage": "rhyme-fix-2",
+    "rhymeExamplesFixedAt": "2026-10-19"
   }
 }

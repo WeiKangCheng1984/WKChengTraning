@@ -89,8 +89,8 @@
       "roleInScript": "麵粉袋",
       "humorDevice": "morphology",
       "zhGloss": "麵粉",
-      "speakLineEn": "Picture the 麵粉袋: the word flour means 麵粉.",
-      "speakLineZh": "想像「麵粉袋」：flour＝麵粉。",
+      "speakLineEn": "The baker sifted the flour before mixing the dough.",
+      "speakLineZh": "麵包師在和麵前先篩過麵粉。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -104,8 +104,8 @@
       "roleInScript": "輪廓線",
       "humorDevice": "morphology",
       "zhGloss": "輪廓",
-      "speakLineEn": "Picture the 輪廓線: the word contour means 輪廓.",
-      "speakLineZh": "想像「輪廓線」：contour＝輪廓。",
+      "speakLineEn": "The map’s contour lines mark changes in elevation.",
+      "speakLineZh": "地圖上的等高線標示海拔變化。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -119,8 +119,8 @@
       "roleInScript": "蒸汽角色",
       "humorDevice": "morphology",
       "zhGloss": "蒸汽",
-      "speakLineEn": "In the passage, vapour signals a shift toward \"蒸汽\".",
-      "speakLineZh": "文中 vapour 標示語氣轉向「蒸汽」。",
+      "speakLineEn": "Water vapour rose from the hot springs into the cold air.",
+      "speakLineZh": "水蒸氣從溫泉升入冷空氣中。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -134,8 +134,8 @@
       "roleInScript": "港口角色",
       "humorDevice": "morphology",
       "zhGloss": "港口",
-      "speakLineEn": "A careful reader links harbour to 港口, not a lookalike neighbor.",
-      "speakLineZh": "細心讀者把 harbour 連到「港口」，不連形近鄰居。",
+      "speakLineEn": "Ships waited in the harbour until the storm passed.",
+      "speakLineZh": "船隻在港口等候，直到暴風雨過去。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -165,6 +165,8 @@
     "thickenedAt": "P4-batch01",
     "polishStage": "Q-wave2",
     "polishedAt": "2026-10-19",
-    "zhEnrichedAt": "2026-10-19"
+    "zhEnrichedAt": "2026-10-19",
+    "rhymeExamplesStage": "rhyme-fix-1",
+    "rhymeExamplesFixedAt": "2026-10-19"
   }
 }

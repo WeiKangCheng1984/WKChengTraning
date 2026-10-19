@@ -205,6 +205,8 @@
     "reviewedAt": "2026-10-18",
     "stage": "P1-batch02",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rhymeExamplesStage": "rhyme-fix-2",
+    "rhymeExamplesFixedAt": "2026-10-19"
   }
 }

@@ -14,8 +14,8 @@
       "roleInScript": "謬誤舞",
       "humorDevice": "morphology",
       "zhGloss": "謬誤的",
-      "speakLineEn": "On the exam, fallacious most nearly means a sense of \"謬誤的\".",
-      "speakLineZh": "謬誤的。",
+      "speakLineEn": "The fallacious leap from correlation to causation weakened the essay.",
+      "speakLineZh": "從相關跳到因果的謬誤削弱了這篇文章。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -104,8 +104,8 @@
       "roleInScript": "胸牌角色",
       "humorDevice": "story",
       "zhGloss": "胸牌",
-      "speakLineEn": "On the exam, namebadge most nearly means a sense of \"胸牌\".",
-      "speakLineZh": "胸牌。",
+      "speakLineEn": "Please wear your name badge during the conference.",
+      "speakLineZh": "會議期間請佩戴胸牌。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -119,8 +119,8 @@
       "roleInScript": "舞池角色",
       "humorDevice": "story",
       "zhGloss": "舞池",
-      "speakLineEn": "On the exam, dancefloor most nearly means a sense of \"舞池\".",
-      "speakLineZh": "舞池。",
+      "speakLineEn": "Couples filled the dance floor as soon as the band began.",
+      "speakLineZh": "樂隊一開場，舞伴就佔滿舞池。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -134,8 +134,8 @@
       "roleInScript": "音箱角色",
       "humorDevice": "story",
       "zhGloss": "音箱",
-      "speakLineEn": "On the exam, speaker most nearly means a sense of \"音箱\".",
-      "speakLineZh": "音箱。",
+      "speakLineEn": "Please adjust the speaker volume before the lecture starts.",
+      "speakLineZh": "講座開始前請先調整音箱音量。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -149,8 +149,8 @@
       "roleInScript": "吐實",
       "humorDevice": "story",
       "zhGloss": "吐實2",
-      "speakLineEn": "On the exam, truthserum2 most nearly means a sense of \"吐實2\".",
-      "speakLineZh": "吐實2。",
+      "speakLineEn": "The comic imagined a truth serum that made every character confess.",
+      "speakLineZh": "這部喜劇想像一種吐實藥，讓每個角色都坦白。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -164,8 +164,8 @@
       "roleInScript": "騙子帽角色",
       "humorDevice": "story",
       "zhGloss": "騙子帽",
-      "speakLineEn": "On the exam, liarhat most nearly means a sense of \"騙子帽\".",
-      "speakLineZh": "騙子帽。",
+      "speakLineEn": "In the skit, the liar’s hat lit up whenever he exaggerated.",
+      "speakLineZh": "短劇裡，騙子一誇大帽子就會亮起。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -179,8 +179,8 @@
       "roleInScript": "貓頭鷹",
       "humorDevice": "story",
       "zhGloss": "智慧貓頭鷹",
-      "speakLineEn": "On the exam, wiseowl most nearly means a sense of \"智慧貓頭鷹\".",
-      "speakLineZh": "智慧貓頭鷹。",
+      "speakLineEn": "Children called the librarian their wise owl for hard questions.",
+      "speakLineZh": "孩子們把圖書館員叫作解難題的智慧貓頭鷹。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -194,8 +194,8 @@
       "roleInScript": "口袋",
       "humorDevice": "story",
       "zhGloss": "大口袋",
-      "speakLineEn": "On the exam, bigpocket most nearly means a sense of \"大口袋\".",
-      "speakLineZh": "大口袋。",
+      "speakLineEn": "The coat’s big pocket held an entire field notebook.",
+      "speakLineZh": "外套的大口袋裝得下一整本田野筆記。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -209,8 +209,8 @@
       "roleInScript": "銳眼角色",
       "humorDevice": "story",
       "zhGloss": "銳眼",
-      "speakLineEn": "On the exam, sharpeye most nearly means a sense of \"銳眼\".",
-      "speakLineZh": "銳眼。",
+      "speakLineEn": "A sharp eye for detail caught the mismatched footnote.",
+      "speakLineZh": "對細節的銳眼抓到了對不上的腳註。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -224,8 +224,8 @@
       "roleInScript": "派對帽角色",
       "humorDevice": "story",
       "zhGloss": "派對帽",
-      "speakLineEn": "On the exam, partyhat most nearly means a sense of \"派對帽\".",
-      "speakLineZh": "派對帽。",
+      "speakLineEn": "Each guest received a paper party hat at the door.",
+      "speakLineZh": "每位賓客進門都拿到一頂紙派對帽。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -239,8 +239,8 @@
       "roleInScript": "歌單角色",
       "humorDevice": "story",
       "zhGloss": "歌單",
-      "speakLineEn": "On the exam, playlist most nearly means a sense of \"歌單\".",
-      "speakLineZh": "歌單。",
+      "speakLineEn": "She shared a playlist of quiet study songs.",
+      "speakLineZh": "她分享了一份安靜念書用的歌單。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -266,6 +266,8 @@
     "stage": "P3-batch02",
     "polishedAt": "2026-10-19",
     "polishStage": "Q-wave1",
-    "zhEnrichedAt": "2026-10-19"
+    "zhEnrichedAt": "2026-10-19",
+    "rhymeExamplesStage": "rhyme-fix-2",
+    "rhymeExamplesFixedAt": "2026-10-19"
   }
 }

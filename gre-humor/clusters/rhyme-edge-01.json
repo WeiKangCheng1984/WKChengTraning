@@ -89,8 +89,8 @@
       "roleInScript": "楔子角色",
       "humorDevice": "morphology",
       "zhGloss": "楔子",
-      "speakLineEn": "Critics argued that the policy would wedge basic protections.",
-      "speakLineZh": "批評者主張該政策會楔子基本保障。",
+      "speakLineEn": "She used a wooden wedge to keep the door open.",
+      "speakLineZh": "她用木楔把門撐開。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -104,8 +104,8 @@
       "roleInScript": "疏浚鏟",
       "humorDevice": "morphology",
       "zhGloss": "疏浚",
-      "speakLineEn": "In the passage, dredge signals a shift toward \"疏浚\".",
-      "speakLineZh": "文中 dredge 標示語氣轉向「疏浚」。",
+      "speakLineEn": "Workers dredged the canal to keep it navigable.",
+      "speakLineZh": "工人疏浚運河以維持通航。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -119,8 +119,8 @@
       "roleInScript": "承認章",
       "humorDevice": "morphology",
       "zhGloss": "承認",
-      "speakLineEn": "Critics argued that the policy would acknowledge basic protections.",
-      "speakLineZh": "批評者主張該政策會承認基本保障。",
+      "speakLineEn": "The author acknowledged several helpful reviewers in the preface.",
+      "speakLineZh": "作者在序言中感謝多位有幫助的審稿人。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -134,8 +134,8 @@
       "roleInScript": "知識盒",
       "humorDevice": "morphology",
       "zhGloss": "知識",
-      "speakLineEn": "Picture the 知識盒: the word knowledge means 知識.",
-      "speakLineZh": "想像「知識盒」：knowledge＝知識。",
+      "speakLineEn": "Background knowledge of the period helps explain the satire.",
+      "speakLineZh": "對該時代的背景知識有助理解這則諷刺。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -165,6 +165,8 @@
     "thickenedAt": "P4-batch01",
     "polishStage": "Q-wave2",
     "polishedAt": "2026-10-19",
-    "zhEnrichedAt": "2026-10-19"
+    "zhEnrichedAt": "2026-10-19",
+    "rhymeExamplesStage": "rhyme-fix-1",
+    "rhymeExamplesFixedAt": "2026-10-19"
   }
 }

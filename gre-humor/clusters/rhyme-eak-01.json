@@ -104,8 +104,8 @@
       "roleInScript": "地板叫",
       "humorDevice": "morphology",
       "zhGloss": "嘎吱響",
-      "speakLineEn": "Critics argued that the policy would creak basic protections.",
-      "speakLineZh": "批評者主張該政策會嘎吱響基本保障。",
+      "speakLineEn": "The old stairs creaked under every careful step.",
+      "speakLineZh": "舊樓梯在每一步小心踩踏下嘎吱作響。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -119,8 +119,8 @@
       "roleInScript": "發言",
       "humorDevice": "morphology",
       "zhGloss": "說",
-      "speakLineEn": "Picture the 發言: the word speak means 說.",
-      "speakLineZh": "想像「發言」：speak＝說。",
+      "speakLineEn": "Few witnesses were willing to speak openly about the incident.",
+      "speakLineZh": "很少證人願意公開談論這起事件。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -134,8 +134,8 @@
       "roleInScript": "微調鈕",
       "humorDevice": "morphology",
       "zhGloss": "微調",
-      "speakLineEn": "Critics argued that the policy would tweak basic protections.",
-      "speakLineZh": "批評者主張該政策會微調基本保障。",
+      "speakLineEn": "The editor asked her to tweak the opening paragraph for clarity.",
+      "speakLineZh": "編輯請她微調開頭段落以更清楚。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -149,8 +149,8 @@
       "roleInScript": "訂製牌",
       "humorDevice": "morphology",
       "zhGloss": "訂製的",
-      "speakLineEn": "A careful reader links bespoke to 訂製的, not a lookalike neighbor.",
-      "speakLineZh": "細心讀者把 bespoke 連到「訂製的」，不連形近鄰居。",
+      "speakLineEn": "He wore a bespoke suit tailored for the ceremony.",
+      "speakLineZh": "他穿著為典禮訂製的西裝。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -164,8 +164,8 @@
       "roleInScript": "醒來角色",
       "humorDevice": "morphology",
       "zhGloss": "醒來",
-      "speakLineEn": "A careful reader links awoke to 醒來, not a lookalike neighbor.",
-      "speakLineZh": "細心讀者把 awoke 連到「醒來」，不連形近鄰居。",
+      "speakLineEn": "She awoke before dawn and reviewed her notes.",
+      "speakLineZh": "她黎明前醒來，複習筆記。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -179,8 +179,8 @@
       "roleInScript": "煙角色",
       "humorDevice": "morphology",
       "zhGloss": "煙",
-      "speakLineEn": "A careful reader links smoke to 煙, not a lookalike neighbor.",
-      "speakLineZh": "細心讀者把 smoke 連到「煙」，不連形近鄰居。",
+      "speakLineEn": "Smoke drifted across the valley after the controlled burn.",
+      "speakLineZh": "計畫燒除後，煙霧飄過山谷。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -210,6 +210,8 @@
     "thickenedAt": "P4-batch01",
     "polishedAt": "2026-10-19",
     "polishStage": "Q-wave2",
-    "zhEnrichedAt": "2026-10-19"
+    "zhEnrichedAt": "2026-10-19",
+    "rhymeExamplesStage": "rhyme-fix-1",
+    "rhymeExamplesFixedAt": "2026-10-19"
   }
 }

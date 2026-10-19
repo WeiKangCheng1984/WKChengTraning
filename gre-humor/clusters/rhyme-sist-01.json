@@ -14,8 +14,8 @@
       "roleInScript": "站著不讓",
       "humorDevice": "phonetic",
       "zhGloss": "堅持；堅決要求",
-      "speakLineEn": "Insist on open materials.",
-      "speakLineZh": "堅持要求開放材料。",
+      "speakLineEn": "The editors insist on transparent methodology sections.",
+      "speakLineZh": "編輯堅持方法段必須透明。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -29,8 +29,8 @@
       "roleInScript": "站功",
       "humorDevice": "phonetic",
       "zhGloss": "持續；毅力",
-      "speakLineEn": "Persistence without methods is stubbornness.",
-      "speakLineZh": "沒有方法的持續是固執。",
+      "speakLineEn": "Her persistence finally produced a complete codebook.",
+      "speakLineZh": "她的堅持終於產出完整編碼簿。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -44,8 +44,8 @@
       "roleInScript": "扶一把",
       "humorDevice": "phonetic",
       "zhGloss": "協助",
-      "speakLineEn": "Assist juniors without rewriting their errors away.",
-      "speakLineZh": "協助資淺者，但不要改掉他們的錯誤紀錄。",
+      "speakLineEn": "Volunteers assist visitors in finding the archives.",
+      "speakLineZh": "志工協助訪客尋找檔案。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -59,8 +59,8 @@
       "roleInScript": "扶助",
       "humorDevice": "phonetic",
       "zhGloss": "協助",
-      "speakLineEn": "Statistical assistance should be credited.",
-      "speakLineZh": "統計協助應署名。",
+      "speakLineEn": "Financial assistance made the field season possible.",
+      "speakLineZh": "財務協助使田野季得以進行。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -74,8 +74,8 @@
       "roleInScript": "站成整體",
       "humorDevice": "phonetic",
       "zhGloss": "由……組成；在於",
-      "speakLineEn": "Good papers consist of claims plus checks.",
-      "speakLineZh": "好論文由主張加檢查組成。",
+      "speakLineEn": "A strong essay should consist of claims backed by evidence.",
+      "speakLineZh": "好文章應由有證據支撐的主張組成。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -89,8 +89,8 @@
       "roleInScript": "站成一貫",
       "humorDevice": "phonetic",
       "zhGloss": "一致的",
-      "speakLineEn": "Keep coding rules consistent.",
-      "speakLineZh": "保持編碼規則一致。",
+      "speakLineEn": "Keep the notation consistent throughout the paper.",
+      "speakLineZh": "全文符號用法保持一致。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -104,8 +104,8 @@
       "roleInScript": "站在世界上",
       "humorDevice": "phonetic",
       "zhGloss": "存在",
-      "speakLineEn": "Null effects exist; publish them.",
-      "speakLineZh": "虛無效應存在；請發表。",
+      "speakLineEn": "Null results exist and deserve publication.",
+      "speakLineZh": "虛無結果存在，也值得發表。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -119,8 +119,8 @@
       "roleInScript": "存在狀態",
       "humorDevice": "phonetic",
       "zhGloss": "存在",
-      "speakLineEn": "Question the existence of the effect, not the critic.",
-      "speakLineZh": "質疑效應存在，不是批評者。",
+      "speakLineEn": "Scholars still debate the existence of that lost manuscript.",
+      "speakLineZh": "學者仍在辯論那份失落手稿是否存在。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -134,8 +134,8 @@
       "roleInScript": "反抗力",
       "humorDevice": "phonetic",
       "zhGloss": "抵抗；阻力",
-      "speakLineEn": "Resistance to sharing needs policy.",
-      "speakLineZh": "對共享的阻力需要政策。",
+      "speakLineEn": "There was strong resistance to changing the curriculum.",
+      "speakLineZh": "更改課綱遭遇強烈阻力。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -149,8 +149,8 @@
       "roleInScript": "站著活命",
       "humorDevice": "story",
       "zhGloss": "維持生存；靠……過活",
-      "speakLineEn": "Labs cannot subsist on slogans alone.",
-      "speakLineZh": "實驗室不能只靠口號過活。",
+      "speakLineEn": "The family could barely subsist on seasonal wages alone.",
+      "speakLineZh": "這家人幾乎無法僅靠季節性工資維生。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -175,6 +175,8 @@
     "reviewedAt": "2026-10-19",
     "stage": "P2-batch03",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rhymeExamplesStage": "rhyme-fix-1",
+    "rhymeExamplesFixedAt": "2026-10-19"
   }
 }

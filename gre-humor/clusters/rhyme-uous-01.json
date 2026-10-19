@@ -104,8 +104,8 @@
       "roleInScript": "落葉樹",
       "humorDevice": "morphology",
       "zhGloss": "落葉的",
-      "speakLineEn": "In the passage, deciduous signals a shift toward \"落葉的\".",
-      "speakLineZh": "文中 deciduous 標示語氣轉向「落葉的」。",
+      "speakLineEn": "Deciduous trees lose their leaves each autumn.",
+      "speakLineZh": "落葉樹每年秋天落葉。",
       "related": {
         "synonyms": "",
         "antonyms": "evergreen"
@@ -119,8 +119,8 @@
       "roleInScript": "苦行坡",
       "humorDevice": "morphology",
       "zhGloss": "艱巨的",
-      "speakLineEn": "On the exam, arduous most nearly means a sense of \"艱巨的\".",
-      "speakLineZh": "艱巨的。",
+      "speakLineEn": "Climbing the ridge in deep snow was an arduous task.",
+      "speakLineZh": "在深雪中攀登山脊是艱巨任務。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -134,8 +134,8 @@
       "roleInScript": "DJ台角色",
       "humorDevice": "story",
       "zhGloss": "DJ台",
-      "speakLineEn": "Critics argued that the policy would djbooth basic protections.",
-      "speakLineZh": "批評者主張該政策會DJ台基本保障。",
+      "speakLineEn": "The DJ booth overlooked the crowded dance floor.",
+      "speakLineZh": "DJ 台俯瞰擁擠的舞池。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -149,8 +149,8 @@
       "roleInScript": "尾巴角色",
       "humorDevice": "story",
       "zhGloss": "尾巴",
-      "speakLineEn": "Critics argued that the policy would tail basic protections.",
-      "speakLineZh": "批評者主張該政策會尾巴基本保障。",
+      "speakLineEn": "The dog wagged its tail when the door opened.",
+      "speakLineZh": "門一開，狗就搖尾巴。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -164,8 +164,8 @@
       "roleInScript": "派對角色",
       "humorDevice": "story",
       "zhGloss": "派對",
-      "speakLineEn": "Hold the meaning steady: party means 派對.",
-      "speakLineZh": "記住考意：party＝派對。",
+      "speakLineEn": "They hosted a quiet reading party instead of a loud celebration.",
+      "speakLineZh": "他們辦安靜的讀書派對，而不是喧鬧慶祝。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -179,8 +179,8 @@
       "roleInScript": "油角色",
       "humorDevice": "story",
       "zhGloss": "油",
-      "speakLineEn": "Hold the meaning steady: oil means 油.",
-      "speakLineZh": "記住考意：oil＝油。",
+      "speakLineEn": "A thin film of oil covered the surface of the puddle.",
+      "speakLineZh": "水坑表面覆著一層薄油。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -205,6 +205,8 @@
     "stage": "P3-batch03",
     "polishedAt": "2026-10-19",
     "polishStage": "Q-wave2",
-    "zhEnrichedAt": "2026-10-19"
+    "zhEnrichedAt": "2026-10-19",
+    "rhymeExamplesStage": "rhyme-fix-2",
+    "rhymeExamplesFixedAt": "2026-10-19"
   }
 }

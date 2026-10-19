@@ -14,8 +14,8 @@
       "roleInScript": "給遠見",
       "humorDevice": "phonetic",
       "zhGloss": "勸告；建議",
-      "speakLineEn": "Advise preregistration early.",
-      "speakLineZh": "及早建議預註冊。",
+      "speakLineEn": "Counselors advise students to read the prompt carefully.",
+      "speakLineZh": "輔導老師建議學生仔細閱讀題幹。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -29,8 +29,8 @@
       "roleInScript": "建議書",
       "humorDevice": "phonetic",
       "zhGloss": "建議",
-      "speakLineEn": "Take advice from auditors seriously.",
-      "speakLineZh": "認真採納稽核建議。",
+      "speakLineEn": "She ignored the advice and submitted an incomplete draft.",
+      "speakLineZh": "她忽略建議，交了不完整的草稿。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -44,8 +44,8 @@
       "roleInScript": "遠見人",
       "humorDevice": "phonetic",
       "zhGloss": "顧問",
-      "speakLineEn": "Name a methods advisor on the team.",
-      "speakLineZh": "團隊具名方法顧問。",
+      "speakLineEn": "His thesis advisor insisted on clearer definitions.",
+      "speakLineZh": "他的論文指導教授堅持要更清楚的定義。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -59,8 +59,8 @@
       "roleInScript": "再看版本",
       "humorDevice": "phonetic",
       "zhGloss": "修訂版",
-      "speakLineEn": "Log every revision of the protocol.",
-      "speakLineZh": "記錄規程每次修訂。",
+      "speakLineEn": "The second revision fixed several factual errors.",
+      "speakLineZh": "第二版修訂改正了數處事實錯誤。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -74,8 +74,8 @@
       "roleInScript": "監看的人",
       "humorDevice": "phonetic",
       "zhGloss": "主管；督導",
-      "speakLineEn": "A supervisor should model corrections.",
-      "speakLineZh": "督導應示範勘誤。",
+      "speakLineEn": "The lab supervisor reviewed the safety checklist twice.",
+      "speakLineZh": "實驗室督導把安全清單檢查了兩次。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -89,8 +89,8 @@
       "roleInScript": "惡習門",
       "humorDevice": "phonetic",
       "zhGloss": "惡習；副職",
-      "speakLineEn": "P-hacking is a methodological vice.",
-      "speakLineZh": "p 操弄是方法惡習。",
+      "speakLineEn": "Procrastination became a vice that delayed every deadline.",
+      "speakLineZh": "拖延成了惡習，每一個期限都被延誤。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -104,8 +104,8 @@
       "roleInScript": "惡性循環",
       "humorDevice": "phonetic",
       "zhGloss": "惡毒的",
-      "speakLineEn": "Vicious cycles of secrecy block science.",
-      "speakLineZh": "保密惡性循環阻擋科學。",
+      "speakLineEn": "A vicious rumor spread faster than the official statement.",
+      "speakLineZh": "惡毒謠言傳得比官方聲明還快。",
       "related": {
         "synonyms": "barbarous, brutal, cruel, fell, roughshod, savage",
         "antonyms": "ascend, increase, rise"
@@ -119,8 +119,8 @@
       "roleInScript": "左右對調",
       "humorDevice": "story",
       "zhGloss": "反之亦然",
-      "speakLineEn": "If A implies B, check vice versa carefully.",
-      "speakLineZh": "若 A 蘊含 B，小心檢查反之亦然。",
+      "speakLineEn": "If A implies B, it does not follow that B implies A, and vice versa must be checked.",
+      "speakLineZh": "若 A 蘊含 B，並不表示 B 蘊含 A，反之亦然仍須檢查。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -134,8 +134,8 @@
       "roleInScript": "看見未來",
       "humorDevice": "story",
       "zhGloss": "設想",
-      "speakLineEn": "Envision failure modes before launch.",
-      "speakLineZh": "上線前設想失敗模式。",
+      "speakLineEn": "Planners envision a quieter downtown with fewer cars.",
+      "speakLineZh": "規劃者設想一個車輛更少、更安靜的市中心。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -161,6 +161,8 @@
     "stage": "P2-batch03",
     "polishStage": "Q-gold",
     "polishedAt": "2026-10-19",
-    "zhEnrichedAt": "2026-10-19"
+    "zhEnrichedAt": "2026-10-19",
+    "rhymeExamplesStage": "rhyme-fix-1",
+    "rhymeExamplesFixedAt": "2026-10-19"
   }
 }

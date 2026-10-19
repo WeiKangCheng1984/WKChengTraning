@@ -91,6 +91,7 @@
   "status": "reviewed",
   "qualityGate": {
     "reviewedAt": "2026-10-19",
-    "stage": "P2-batch07"
+    "stage": "P2-batch07",
+    "rhymeExamplesFixedAt": "2026-10-19"
   }
 }

@@ -104,8 +104,8 @@
       "roleInScript": "木紋板",
       "humorDevice": "morphology",
       "zhGloss": "木製的",
-      "speakLineEn": "Critics argued that the policy would ligneous basic protections.",
-      "speakLineZh": "批評者主張該政策會木質的基本保障。",
+      "speakLineEn": "The fossil preserved ligneous structures from an ancient tree.",
+      "speakLineZh": "化石保存了古樹的木質結構。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -119,8 +119,8 @@
       "roleInScript": "白骨標",
       "humorDevice": "morphology",
       "zhGloss": "骨質的",
-      "speakLineEn": "In the passage, osseous signals a shift toward \"骨的\".",
-      "speakLineZh": "文中 osseous 標示語氣轉向「骨的」。",
+      "speakLineEn": "Osseous tissue appeared clearly on the X-ray.",
+      "speakLineZh": "X 光上清楚可見骨組織。",
       "related": {
         "synonyms": "osteal, bony",
         "antonyms": "boneless"
@@ -134,8 +134,8 @@
       "roleInScript": "正義秤",
       "humorDevice": "morphology",
       "zhGloss": "正直的",
-      "speakLineEn": "On the exam, righteous most nearly means a sense of \"正直的\".",
-      "speakLineZh": "正直的。",
+      "speakLineEn": "His righteous tone made compromise difficult.",
+      "speakLineZh": "他那自以為正義的語氣讓妥協很難。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -149,8 +149,8 @@
       "roleInScript": "展廳角色",
       "humorDevice": "story",
       "zhGloss": "展廳",
-      "speakLineEn": "In the passage, hall signals a shift toward \"展廳\".",
-      "speakLineZh": "文中 hall 標示語氣轉向「展廳」。",
+      "speakLineEn": "Exhibits filled the main hall of the museum.",
+      "speakLineZh": "展品擺滿博物館主展廳。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -164,8 +164,8 @@
       "roleInScript": "石頭角色",
       "humorDevice": "story",
       "zhGloss": "石頭",
-      "speakLineEn": "In the passage, rock signals a shift toward \"石頭\".",
-      "speakLineZh": "文中 rock 標示語氣轉向「石頭」。",
+      "speakLineEn": "Geologists classified the rock by mineral content.",
+      "speakLineZh": "地質學家依礦物含量為岩石分類。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -179,8 +179,8 @@
       "roleInScript": "木頭角色",
       "humorDevice": "story",
       "zhGloss": "木頭",
-      "speakLineEn": "In the passage, wood signals a shift toward \"木頭\".",
-      "speakLineZh": "文中 wood 標示語氣轉向「木頭」。",
+      "speakLineEn": "The bench was carved from a single piece of wood.",
+      "speakLineZh": "長椅由整塊木頭雕成。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -194,8 +194,8 @@
       "roleInScript": "骨頭角色",
       "humorDevice": "story",
       "zhGloss": "骨頭",
-      "speakLineEn": "Critics argued that the policy would bone basic protections.",
-      "speakLineZh": "批評者主張該政策會骨頭基本保障。",
+      "speakLineEn": "The fossilized bone was carefully cleaned in the lab.",
+      "speakLineZh": "化石骨頭在實驗室被仔細清理。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -209,8 +209,8 @@
       "roleInScript": "帽子角色",
       "humorDevice": "story",
       "zhGloss": "帽子",
-      "speakLineEn": "A careful reader links hat to 帽子, not a lookalike neighbor.",
-      "speakLineZh": "細心讀者把 hat 連到「帽子」，不連形近鄰居。",
+      "speakLineEn": "He tipped his hat as a polite greeting.",
+      "speakLineZh": "他輕觸帽沿以示禮貌問候。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -224,8 +224,8 @@
       "roleInScript": "導覽角色",
       "humorDevice": "story",
       "zhGloss": "導覽",
-      "speakLineEn": "Critics argued that the policy would guide basic protections.",
-      "speakLineZh": "批評者主張該政策會導覽基本保障。",
+      "speakLineEn": "A local guide explained the history of each mural.",
+      "speakLineZh": "當地導覽解說每幅壁畫的歷史。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -250,6 +250,8 @@
     "stage": "P3-batch03",
     "polishedAt": "2026-10-19",
     "polishStage": "Q-wave2",
-    "zhEnrichedAt": "2026-10-19"
+    "zhEnrichedAt": "2026-10-19",
+    "rhymeExamplesStage": "rhyme-fix-2",
+    "rhymeExamplesFixedAt": "2026-10-19"
   }
 }

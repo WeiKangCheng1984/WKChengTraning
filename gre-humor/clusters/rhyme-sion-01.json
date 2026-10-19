@@ -179,8 +179,8 @@
       "roleInScript": "遊行角色",
       "humorDevice": "story",
       "zhGloss": "遊行",
-      "speakLineEn": "A careful reader links parade to 遊行, not a lookalike neighbor.",
-      "speakLineZh": "細心讀者把 parade 連到「遊行」，不連形近鄰居。",
+      "speakLineEn": "Crowds lined the street for the holiday parade.",
+      "speakLineZh": "人群沿街等候假日遊行。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -194,8 +194,8 @@
       "roleInScript": "鈴角色",
       "humorDevice": "story",
       "zhGloss": "鈴",
-      "speakLineEn": "A careful reader links bell to 鈴, not a lookalike neighbor.",
-      "speakLineZh": "細心讀者把 bell 連到「鈴」，不連形近鄰居。",
+      "speakLineEn": "The school bell rang at exactly three o’clock.",
+      "speakLineZh": "學校鈴聲在三點整響起。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -209,8 +209,8 @@
       "roleInScript": "門角色",
       "humorDevice": "story",
       "zhGloss": "門",
-      "speakLineEn": "Hold the meaning steady: door means 門.",
-      "speakLineZh": "記住考意：door＝門。",
+      "speakLineEn": "Please keep the door closed during the recording.",
+      "speakLineZh": "錄音期間請把門關上。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -235,6 +235,8 @@
     "stage": "P3-batch03",
     "polishedAt": "2026-10-19",
     "polishStage": "Q-wave2",
-    "zhEnrichedAt": "2026-10-19"
+    "zhEnrichedAt": "2026-10-19",
+    "rhymeExamplesStage": "rhyme-fix-2",
+    "rhymeExamplesFixedAt": "2026-10-19"
   }
 }

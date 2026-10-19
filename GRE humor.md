@@ -33,6 +33,7 @@
 | **P4-pending** | **適度分流（b01／b02）** | ✅ | P4 新生 pending |
 | **Q** | **描述細膩化（不改詞／系列）** | ✅ Gold＋Wave1～3＋中文釋義 | 模板跟讀 **0**；zhGloss enrichment |
 | **Q-zh** | **詞卡中文解釋 enrichment** | ✅ | `Q-ZH-ENRICH-REPORT.md` |
+| **Q-rhyme** | **押韻派對例句去胡謅** | ✅ Stage1＋2 | `RHYME-EXAMPLES-STAGE1/2-REPORT.md` |
 
 **目前數字**：家族／課 **321**；獨特幽默詞 **4,025**；主詞庫 JSON **5,138**；幽默→主庫命中 **2,718**；pending／差集約 **1,307**；**P2 ✅**；**P3 ✅**；**P4／4,000 ✅**；**Q ✅**（模板句歸零＋中文釋義加厚）。  
 **網站**：`/english/gre/humor` · Q：`Q-STYLE-GUIDE.md`／`Q-ZH-ENRICH-REPORT.md`
@@ -47,7 +48,7 @@
 | **P4** | → **3,800～4,000** | 主庫差集 → 單點／三人組／來源專場 | 不湊錯詞 |
 
 **執行節奏**：批產 → `coverage` →（必要時 pending 分流）→ `build-gre-humor.js` → 看板更新。  
-**本輪**：**Q-zh ✅**（全庫 `zhGloss`／中文義錨 enrichment；單字後方解釋加厚為「主義；場合／對象」）。腳本：`gre-humor-q-enrich-zh.js`。
+**本輪**：**Q-rhyme ✅**（押韻派對跟讀例句分兩階段去胡謅：種子／重災區 → 其餘族）。腳本：`gre-humor-fix-rhyme-examples.js`。
 
 ---
 

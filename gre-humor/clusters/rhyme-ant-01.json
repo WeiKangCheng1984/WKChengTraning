@@ -104,8 +104,8 @@
       "roleInScript": "浮力蟻",
       "humorDevice": "morphology",
       "zhGloss": "輕快的",
-      "speakLineEn": "Picture the 浮力蟻: the word buoyant means 輕快的.",
-      "speakLineZh": "想像「浮力蟻」：buoyant＝輕快的。",
+      "speakLineEn": "Despite setbacks, the team remained buoyant about the project.",
+      "speakLineZh": "儘管受挫，團隊對專案仍保持樂觀輕快。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -119,8 +119,8 @@
       "roleInScript": "恆定蟻",
       "humorDevice": "morphology",
       "zhGloss": "不變的",
-      "speakLineEn": "Critics argued that the policy would constant basic protections.",
-      "speakLineZh": "批評者主張該政策會不變的基本保障。",
+      "speakLineEn": "The only constant in the data was the high missing rate.",
+      "speakLineZh": "資料裡唯一不變的是高缺失率。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -134,8 +134,8 @@
       "roleInScript": "震動蟻",
       "humorDevice": "morphology",
       "zhGloss": "活力的",
-      "speakLineEn": "Critics argued that the policy would vibrant basic protections.",
-      "speakLineZh": "批評者主張該政策會活力的基本保障。",
+      "speakLineEn": "The city has a vibrant arts scene that draws young writers.",
+      "speakLineZh": "這座城市有充滿活力的藝術圈，吸引年輕寫作者。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -165,6 +165,8 @@
     "thickenedAt": "P4-batch01",
     "polishedAt": "2026-10-19",
     "polishStage": "Q-wave2",
-    "zhEnrichedAt": "2026-10-19"
+    "zhEnrichedAt": "2026-10-19",
+    "rhymeExamplesStage": "rhyme-fix-1",
+    "rhymeExamplesFixedAt": "2026-10-19"
   }
 }

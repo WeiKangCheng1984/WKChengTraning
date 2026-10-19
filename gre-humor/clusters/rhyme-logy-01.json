@@ -134,8 +134,8 @@
       "roleInScript": "學派旗",
       "humorDevice": "story",
       "zhGloss": "學派",
-      "speakLineEn": "No school is above audit.",
-      "speakLineZh": "沒有學派高於稽核。",
+      "speakLineEn": "The school closed early because of the storm.",
+      "speakLineZh": "因暴風雨學校提早放學。",
       "related": {
         "synonyms": "",
         "antonyms": ""
@@ -189,6 +189,8 @@
     "reviewedAt": "2026-10-19",
     "stage": "P2-batch07",
     "zhEnrichedAt": "2026-10-19",
-    "polishStage": "Q-zh"
+    "polishStage": "Q-zh",
+    "rhymeExamplesStage": "rhyme-fix-2",
+    "rhymeExamplesFixedAt": "2026-10-19"
   }
 }
