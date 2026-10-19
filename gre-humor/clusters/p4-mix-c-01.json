@@ -1,0 +1,267 @@
+{
+  "id": "p4-mix-c-01",
+  "type": "root",
+  "elementLemma": "orphan-mix",
+  "titleZh": "orphan 混裝｜C區清倉籃",
+  "titleEn": "p4-mix-c-01",
+  "hook": "orphan 混裝｜C區清倉籃：把還在主庫晃蕩的 orphan 裝進籃子，標籤要用中文義核。",
+  "script": "aftermath/aggrandize/aggravate/agonize 先入籃。清倉廣播：這不是亂打折，是差集點名；每個詞報到時大聲念釋義，防止魚目混珠。",
+  "members": [
+    {
+      "headword": "aftermath",
+      "inVocab": true,
+      "senseAnchor": "the consequences of an event (especially a catastrophic event); the outcome of an event especially as relative to an individual",
+      "roleInScript": "席-餘波",
+      "humorDevice": "morphology",
+      "zhGloss": "餘波",
+      "speakLineEn": "Cue the 席-餘波: aftermath walks on and the gag sticks.",
+      "speakLineZh": "請「席-餘波」出場：aftermath 一上場梗就黏住——餘波。",
+      "related": {
+        "synonyms": "wake, backwash, consequence",
+        "antonyms": "cause to sleep, fall asleep, sleep, inconsequence"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "aggrandize",
+      "inVocab": true,
+      "senseAnchor": "add details to",
+      "roleInScript": "席-增加，提",
+      "humorDevice": "morphology",
+      "zhGloss": "增加，提升",
+      "speakLineEn": "Cue the 席-增加，提: aggrandize walks on and the gag sticks.",
+      "speakLineZh": "請「席-增加，提」出場：aggrandize 一上場梗就黏住——增加，提升。",
+      "related": {
+        "synonyms": "embroider, pad, lard, embellish, aggrandise, dramatize",
+        "antonyms": "uglify"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "aggravate",
+      "inVocab": true,
+      "senseAnchor": "make worse; exasperate or irritate",
+      "roleInScript": "席-惡化",
+      "humorDevice": "morphology",
+      "zhGloss": "惡化",
+      "speakLineEn": "Cue the 席-惡化: aggravate walks on and the gag sticks.",
+      "speakLineZh": "請「席-惡化」出場：aggravate 一上場梗就黏住——惡化。",
+      "related": {
+        "synonyms": "worsen, exacerbate, exasperate",
+        "antonyms": "alleviate, mitigate, better"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "agonize",
+      "inVocab": true,
+      "senseAnchor": "to feel deep sadness or mental pain",
+      "roleInScript": "席-v. （",
+      "humorDevice": "morphology",
+      "zhGloss": "v. （使）非常痛苦",
+      "speakLineEn": "Cue the 席-v. （: agonize walks on and the gag sticks.",
+      "speakLineZh": "請「席-v. （」出場：agonize 一上場梗就黏住——v. （使）非常痛苦。",
+      "related": {
+        "synonyms": "suffer",
+        "antonyms": "be well, enjoy"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "agrarian",
+      "inVocab": true,
+      "senseAnchor": "relating to rural matters",
+      "roleInScript": "席-土地的；",
+      "humorDevice": "morphology",
+      "zhGloss": "土地的；耕地的",
+      "speakLineEn": "Cue the 席-土地的；: agrarian walks on and the gag sticks.",
+      "speakLineZh": "請「席-土地的；」出場：agrarian 一上場梗就黏住——土地的；耕地的。",
+      "related": {
+        "synonyms": "agricultural, farming",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "albeit",
+      "inVocab": true,
+      "senseAnchor": "although",
+      "roleInScript": "席-conj",
+      "humorDevice": "morphology",
+      "zhGloss": "conj. 儘管",
+      "speakLineEn": "Cue the 席-conj: albeit walks on and the gag sticks.",
+      "speakLineZh": "請「席-conj」出場：albeit 一上場梗就黏住——conj. 儘管。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "aleatory",
+      "inVocab": true,
+      "senseAnchor": "dependent on chance",
+      "roleInScript": "席-偶然的",
+      "humorDevice": "morphology",
+      "zhGloss": "偶然的",
+      "speakLineEn": "Cue the 席-偶然的: aleatory walks on and the gag sticks.",
+      "speakLineZh": "請「席-偶然的」出場：aleatory 一上場梗就黏住——偶然的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "alleged",
+      "inVocab": true,
+      "senseAnchor": "report or maintain; declared but not proved; - Wall Street Journal",
+      "roleInScript": "席-所謂的；",
+      "humorDevice": "morphology",
+      "zhGloss": "所謂的；聲稱的",
+      "speakLineEn": "Cue the 席-所謂的；: alleged walks on and the gag sticks.",
+      "speakLineZh": "請「席-所謂的；」出場：alleged 一上場梗就黏住——所謂的；聲稱的。",
+      "related": {
+        "synonyms": "allege, aver, say, so-called, supposed",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "altruism",
+      "inVocab": true,
+      "senseAnchor": "unselfish regard for others",
+      "roleInScript": "席-n. 雷",
+      "humorDevice": "morphology",
+      "zhGloss": "n. 雷鋒精神，無私",
+      "speakLineEn": "Cue the 席-n. 雷: altruism walks on and the gag sticks.",
+      "speakLineZh": "請「席-n. 雷」出場：altruism 一上場梗就黏住——n. 雷鋒精神，無私。",
+      "related": {
+        "synonyms": "selflessness, beneficence",
+        "antonyms": "egoism, maleficence"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "amalgamate",
+      "inVocab": true,
+      "senseAnchor": "to bring or combine together or with something else; joined together into a whole",
+      "roleInScript": "席-混雜",
+      "humorDevice": "morphology",
+      "zhGloss": "混雜",
+      "speakLineEn": "Cue the 席-混雜: amalgamate walks on and the gag sticks.",
+      "speakLineZh": "請「席-混雜」出場：amalgamate 一上場梗就黏住——混雜。",
+      "related": {
+        "synonyms": "mix, mingle, commix, unify, amalgamated, coalesced",
+        "antonyms": "segregate, disunify, divide"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "ambush",
+      "inVocab": true,
+      "senseAnchor": "the act of concealing yourself and lying in wait to attack by surprise; wait in hiding to attack",
+      "roleInScript": "席-埋伏",
+      "humorDevice": "morphology",
+      "zhGloss": "埋伏",
+      "speakLineEn": "Cue the 席-埋伏: ambush walks on and the gag sticks.",
+      "speakLineZh": "請「席-埋伏」出場：ambush 一上場梗就黏住——埋伏。",
+      "related": {
+        "synonyms": "ambuscade, trap, scupper, bushwhack, waylay, lurk",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "ameliorate",
+      "inVocab": true,
+      "senseAnchor": "make it better or easier",
+      "roleInScript": "席-v. 改",
+      "humorDevice": "morphology",
+      "zhGloss": "v. 改善",
+      "speakLineEn": "Cue the 席-v. 改: ameliorate walks on and the gag sticks.",
+      "speakLineZh": "請「席-v. 改」出場：ameliorate 一上場梗就黏住——v. 改善。",
+      "related": {
+        "synonyms": "refine, improve",
+        "antonyms": "worsen, exacerbate"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "amenity",
+      "inVocab": true,
+      "senseAnchor": "pleasantness resulting from agreeable conditions",
+      "roleInScript": "席-舒適",
+      "humorDevice": "morphology",
+      "zhGloss": "舒適",
+      "speakLineEn": "Cue the 席-舒適: amenity walks on and the gag sticks.",
+      "speakLineZh": "請「席-舒適」出場：amenity 一上場梗就黏住——舒適。",
+      "related": {
+        "synonyms": "agreeableness",
+        "antonyms": "disagreeableness"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "amnesty",
+      "inVocab": true,
+      "senseAnchor": "a period during which offenders are exempt from punishment; a warrant granting release from punishment for an offense",
+      "roleInScript": "席-特赦",
+      "humorDevice": "morphology",
+      "zhGloss": "特赦",
+      "speakLineEn": "Cue the 席-特赦: amnesty walks on and the gag sticks.",
+      "speakLineZh": "請「席-特赦」出場：amnesty 一上場梗就黏住——特赦。",
+      "related": {
+        "synonyms": "pardon",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "anaerobic",
+      "inVocab": true,
+      "senseAnchor": "living or active in the absence of free oxygen; not aerobic",
+      "roleInScript": "席-厭氧的",
+      "humorDevice": "morphology",
+      "zhGloss": "厭氧的",
+      "speakLineEn": "Cue the 席-厭氧的: anaerobic walks on and the gag sticks.",
+      "speakLineZh": "請「席-厭氧的」出場：anaerobic 一上場梗就黏住——厭氧的。",
+      "related": {
+        "synonyms": "anaerobiotic",
+        "antonyms": "aerobic"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "analgesia",
+      "inVocab": true,
+      "senseAnchor": "absence of the sense of pain without loss of consciousness",
+      "roleInScript": "席-陣痛的；",
+      "humorDevice": "morphology",
+      "zhGloss": "陣痛的；麻木的",
+      "speakLineEn": "Cue the 席-陣痛的；: analgesia walks on and the gag sticks.",
+      "speakLineZh": "請「席-陣痛的；」出場：analgesia 一上場梗就黏住——陣痛的；麻木的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    }
+  ],
+  "reviewHooks": [
+    "orphan:aftermath/aggrandize/aggravate/agonize",
+    "P4差集"
+  ],
+  "pitfalls": [
+    "場景名牌分義，勿因同籃硬串字根"
+  ],
+  "lessonRefs": [
+    "lesson-p4-mix-c-01"
+  ],
+  "status": "reviewed",
+  "priority": "C",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P4-batch01"
+  }
+}

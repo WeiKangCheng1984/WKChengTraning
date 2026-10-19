@@ -111,6 +111,81 @@
         "antonyms": ""
       },
       "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "traction",
+      "inVocab": true,
+      "senseAnchor": "the friction between a body and the surface on which it moves (as between an automobile tire and the road); (orthopedics) the act of pulling on a bone or limb (as in a fracture) to relieve pressure or align parts in a special way during healing",
+      "roleInScript": "牽引繩",
+      "humorDevice": "morphology",
+      "zhGloss": "牽引",
+      "speakLineEn": "Cue the 牽引繩: traction walks on and the gag sticks.",
+      "speakLineZh": "請「牽引繩」出場：traction 一上場梗就黏住——牽引。",
+      "related": {
+        "synonyms": "grip",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "detraction",
+      "inVocab": true,
+      "senseAnchor": "a petty disparagement; the act of discrediting or detracting from someone's reputation (especially by slander)",
+      "roleInScript": "貶低章",
+      "humorDevice": "morphology",
+      "zhGloss": "貶低",
+      "speakLineEn": "Cue the 貶低章: detraction walks on and the gag sticks.",
+      "speakLineZh": "請「貶低章」出場：detraction 一上場梗就黏住——貶低。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "extract",
+      "inVocab": false,
+      "senseAnchor": "提取",
+      "roleInScript": "提取鉗",
+      "humorDevice": "morphology",
+      "zhGloss": "提取",
+      "speakLineEn": "Cue the 提取鉗: extract walks on and the gag sticks.",
+      "speakLineZh": "請「提取鉗」出場：extract 一上場梗就黏住——提取。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "contract",
+      "inVocab": false,
+      "senseAnchor": "契約收縮",
+      "roleInScript": "契約",
+      "humorDevice": "morphology",
+      "zhGloss": "契約收縮",
+      "speakLineEn": "Cue the 契約: contract walks on and the gag sticks.",
+      "speakLineZh": "請「契約」出場：contract 一上場梗就黏住——契約收縮。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "subtract",
+      "inVocab": false,
+      "senseAnchor": "減去",
+      "roleInScript": "減號",
+      "humorDevice": "morphology",
+      "zhGloss": "減去",
+      "speakLineEn": "Cue the 減號: subtract walks on and the gag sticks.",
+      "speakLineZh": "請「減號」出場：subtract 一上場梗就黏住——減去。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
     }
   ],
   "reviewHooks": [
@@ -132,6 +207,7 @@
   ],
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "note": "Stage-1 promote: aligned with tract lesson template"
+    "note": "Stage-1 promote: aligned with tract lesson template",
+    "thickenedAt": "P4-batch01"
   }
 }

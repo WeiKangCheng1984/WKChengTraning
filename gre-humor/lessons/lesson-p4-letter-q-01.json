@@ -1,0 +1,96 @@
+{
+  "id": "lesson-p4-letter-q-01",
+  "slug": "p4-letter-q-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "p4-letter-q-01",
+  "titleZh": "orphan Q｜佇列診所",
+  "titleEn": "Orphan Q 佇列診所",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "主庫差集 Q 專場：佇列診所——把還沒進幽默庫的詞請上台對號入座。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "quack／quaff／quail／quaint／qualify／qualm 先登台。其餘同字母 orphan 接龍站位。導播：這不是字典朗讀，是差集清剿晚會；每個詞帶一個角色名牌以免走失。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "q-orphan：quack/quaff/quail/quaint",
+        "P4：差集優先、不硬凑錯義"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Orphan starter (quack):",
+      "promptZh": "差集起手：",
+      "choices": [
+        "quack",
+        "quaff",
+        "repository",
+        "sole"
+      ],
+      "answer": "quack"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Also in the Q lineup:",
+      "promptZh": "同場 Q 詞：",
+      "choices": [
+        "quaff",
+        "forecast",
+        "omnibus",
+        "scanty"
+      ],
+      "answer": "quaff"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "P4 method reminder:",
+      "promptZh": "P4 方法：",
+      "choices": [
+        "quack",
+        "quaff",
+        "quail",
+        "quaint"
+      ],
+      "answer": "quack"
+    }
+  ],
+  "pitfalls": [
+    "同字母≠同字根，靠場景名牌分家"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P4-batch01"
+  }
+}

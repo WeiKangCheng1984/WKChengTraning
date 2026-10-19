@@ -1,0 +1,237 @@
+{
+  "id": "p4-letter-v-01",
+  "type": "root",
+  "elementLemma": "orphan-v",
+  "titleZh": "orphan V｜V勝利台",
+  "titleEn": "Orphan V Scene",
+  "hook": "差集 V 專場開在V勝利台——沒進幽默庫的詞排隊檢票。",
+  "script": "vaciliate／vacillate／vacillation／vagary／vaguary／vainglorious 先檢票。其餘 orphan 接龍。檢票員：同字母只是入口，不是同義證；名牌上的中文才是身份證。",
+  "members": [
+    {
+      "headword": "vaciliate",
+      "inVocab": true,
+      "senseAnchor": "a GRE-level vocabulary item meaning closely related to its core sense in academic English",
+      "roleInScript": "V席",
+      "humorDevice": "morphology",
+      "zhGloss": "猶豫；躊躇",
+      "speakLineEn": "Cue the V席: vaciliate walks on and the gag sticks.",
+      "speakLineZh": "請「V席」出場：vaciliate 一上場梗就黏住——猶豫；躊躇。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "vacillate",
+      "inVocab": true,
+      "senseAnchor": "be undecided about something; waver between conflicting positions or courses of action; move or sway in a rising and falling or wavelike pattern",
+      "roleInScript": "V席",
+      "humorDevice": "morphology",
+      "zhGloss": "猶豫",
+      "speakLineEn": "Cue the V席: vacillate walks on and the gag sticks.",
+      "speakLineZh": "請「V席」出場：vacillate 一上場梗就黏住——猶豫。",
+      "related": {
+        "synonyms": "hover, vibrate, oscillate, fluctuate, waver",
+        "antonyms": "decide, resolve"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "vacillation",
+      "inVocab": true,
+      "senseAnchor": "indecision in speech or action; changing location by moving back and forth",
+      "roleInScript": "V席",
+      "humorDevice": "morphology",
+      "zhGloss": "猶豫不決",
+      "speakLineEn": "Cue the V席: vacillation walks on and the gag sticks.",
+      "speakLineZh": "請「V席」出場：vacillation 一上場梗就黏住——猶豫不決。",
+      "related": {
+        "synonyms": "hesitation, wavering, swing, swinging",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "vagary",
+      "inVocab": true,
+      "senseAnchor": "an unexpected and inexplicable change in behavior",
+      "roleInScript": "V席",
+      "humorDevice": "morphology",
+      "zhGloss": "不可預測的思想或行爲",
+      "speakLineEn": "Cue the V席: vagary walks on and the gag sticks.",
+      "speakLineZh": "請「V席」出場：vagary 一上場梗就黏住——不可預測的思想或行爲。",
+      "related": {
+        "synonyms": "caprice, whim, whimsy",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "vaguary",
+      "inVocab": true,
+      "senseAnchor": "a GRE-level vocabulary item meaning closely related to its core sense in academic English",
+      "roleInScript": "V席",
+      "humorDevice": "morphology",
+      "zhGloss": "空想",
+      "speakLineEn": "Cue the V席: vaguary walks on and the gag sticks.",
+      "speakLineZh": "請「V席」出場：vaguary 一上場梗就黏住——空想。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "vainglorious",
+      "inVocab": true,
+      "senseAnchor": "feeling self-importance",
+      "roleInScript": "V席",
+      "humorDevice": "morphology",
+      "zhGloss": "自負的；自傲的",
+      "speakLineEn": "Cue the V席: vainglorious walks on and the gag sticks.",
+      "speakLineZh": "請「V席」出場：vainglorious 一上場梗就黏住——自負的；自傲的。",
+      "related": {
+        "synonyms": "big, swelled",
+        "antonyms": "little, small"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "valediction",
+      "inVocab": true,
+      "senseAnchor": "a farewell oration (especially one delivered during graduation exercises by an outstanding member of a graduating class); the act of saying farewell",
+      "roleInScript": "V席",
+      "humorDevice": "morphology",
+      "zhGloss": "告別",
+      "speakLineEn": "Cue the V席: valediction walks on and the gag sticks.",
+      "speakLineZh": "請「V席」出場：valediction 一上場梗就黏住——告別。",
+      "related": {
+        "synonyms": "valedictory",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "valorize",
+      "inVocab": true,
+      "senseAnchor": "to praise",
+      "roleInScript": "V席",
+      "humorDevice": "morphology",
+      "zhGloss": "v. 表揚",
+      "speakLineEn": "Cue the V席: valorize walks on and the gag sticks.",
+      "speakLineZh": "請「V席」出場：valorize 一上場梗就黏住——v. 表揚。",
+      "related": {
+        "synonyms": "exalt",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "valve",
+      "inVocab": true,
+      "senseAnchor": "a structure in a hollow organ (like the heart) with a flap to insure one-way flow of fluid through it; device in a brass wind instrument for varying the length of the air column to alter the pitch of a tone",
+      "roleInScript": "V席",
+      "humorDevice": "morphology",
+      "zhGloss": "閥",
+      "speakLineEn": "Cue the V席: valve walks on and the gag sticks.",
+      "speakLineZh": "請「V席」出場：valve 一上場梗就黏住——閥。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "vandalize",
+      "inVocab": true,
+      "senseAnchor": "destroy wantonly, as through acts of vandalism",
+      "roleInScript": "V席",
+      "humorDevice": "morphology",
+      "zhGloss": "破壞；肆意摧毀",
+      "speakLineEn": "Cue the V席: vandalize walks on and the gag sticks.",
+      "speakLineZh": "請「V席」出場：vandalize 一上場梗就黏住——破壞；肆意摧毀。",
+      "related": {
+        "synonyms": "vandalise",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "vanguard",
+      "inVocab": true,
+      "senseAnchor": "the leaders of a movement",
+      "roleInScript": "V席",
+      "humorDevice": "morphology",
+      "zhGloss": "n. 先鋒",
+      "speakLineEn": "Cue the V席: vanguard walks on and the gag sticks.",
+      "speakLineZh": "請「V席」出場：vanguard 一上場梗就黏住——n. 先鋒。",
+      "related": {
+        "synonyms": "avant-garde, forerunner, pioneer",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "vanilla",
+      "inVocab": true,
+      "senseAnchor": "any of numerous climbing plants of the genus Vanilla having fleshy leaves and clusters of large waxy highly fragrant white or green or topaz flowers; a flavoring prepared from vanilla beans macerated in alcohol (or imitating vanilla beans)",
+      "roleInScript": "V席",
+      "humorDevice": "morphology",
+      "zhGloss": "香草",
+      "speakLineEn": "Cue the V席: vanilla walks on and the gag sticks.",
+      "speakLineZh": "請「V席」出場：vanilla 一上場梗就黏住——香草。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "vanity",
+      "inVocab": true,
+      "senseAnchor": "feelings of excessive pride; the quality of being valueless or futile",
+      "roleInScript": "V席",
+      "humorDevice": "morphology",
+      "zhGloss": "虛榮",
+      "speakLineEn": "Cue the V席: vanity walks on and the gag sticks.",
+      "speakLineZh": "請「V席」出場：vanity 一上場梗就黏住——虛榮。",
+      "related": {
+        "synonyms": "conceit, self-love, emptiness, conceitedness, dresser",
+        "antonyms": "humility"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "vapid",
+      "inVocab": true,
+      "senseAnchor": "dull and uninteresting",
+      "roleInScript": "V席",
+      "humorDevice": "morphology",
+      "zhGloss": "adj. 無聊的",
+      "speakLineEn": "Cue the V席: vapid walks on and the gag sticks.",
+      "speakLineZh": "請「V席」出場：vapid 一上場梗就黏住——adj. 無聊的。",
+      "related": {
+        "synonyms": "insipid, jejune, banal, bland",
+        "antonyms": "lively, stimulating, flavorful, exciting, original, fresh"
+      },
+      "vocabStatus": "in-vocab"
+    }
+  ],
+  "reviewHooks": [
+    "v-orphan：vaciliate/vacillate/vacillation/vagary",
+    "P4 差集清剿"
+  ],
+  "pitfalls": [
+    "勿因同字母硬串錯誤字根故事"
+  ],
+  "lessonRefs": [
+    "lesson-p4-letter-v-01"
+  ],
+  "status": "reviewed",
+  "priority": "C",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P4-batch01"
+  }
+}

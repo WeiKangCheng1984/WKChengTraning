@@ -81,6 +81,66 @@
         "antonyms": ""
       },
       "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "wedge",
+      "inVocab": false,
+      "senseAnchor": "楔子",
+      "roleInScript": "楔子",
+      "humorDevice": "morphology",
+      "zhGloss": "楔子",
+      "speakLineEn": "Cue the 楔子: wedge walks on and the gag sticks.",
+      "speakLineZh": "請「楔子」出場：wedge 一上場梗就黏住——楔子。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "dredge",
+      "inVocab": false,
+      "senseAnchor": "疏浚",
+      "roleInScript": "疏浚鏟",
+      "humorDevice": "morphology",
+      "zhGloss": "疏浚",
+      "speakLineEn": "Cue the 疏浚鏟: dredge walks on and the gag sticks.",
+      "speakLineZh": "請「疏浚鏟」出場：dredge 一上場梗就黏住——疏浚。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "acknowledge",
+      "inVocab": false,
+      "senseAnchor": "承認",
+      "roleInScript": "承認章",
+      "humorDevice": "morphology",
+      "zhGloss": "承認",
+      "speakLineEn": "Cue the 承認章: acknowledge walks on and the gag sticks.",
+      "speakLineZh": "請「承認章」出場：acknowledge 一上場梗就黏住——承認。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "knowledge",
+      "inVocab": false,
+      "senseAnchor": "知識",
+      "roleInScript": "知識盒",
+      "humorDevice": "morphology",
+      "zhGloss": "知識",
+      "speakLineEn": "Cue the 知識盒: knowledge walks on and the gag sticks.",
+      "speakLineZh": "請「知識盒」出場：knowledge 一上場梗就黏住——知識。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
     }
   ],
   "reviewHooks": [
@@ -101,6 +161,7 @@
   ],
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "note": "Stage-1 promote: aligned with tract lesson template"
+    "note": "Stage-1 promote: aligned with tract lesson template",
+    "thickenedAt": "P4-batch01"
   }
 }

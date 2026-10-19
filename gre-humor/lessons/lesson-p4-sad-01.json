@@ -1,0 +1,96 @@
+{
+  "id": "lesson-p4-sad-01",
+  "slug": "p4-sad-01",
+  "season": 3,
+  "seasonTitleZh": "語氣對打",
+  "seasonTitleEn": "Tone Duels",
+  "type": "duel",
+  "minutes": "12-15",
+  "clusterId": "p4-sad-01",
+  "titleZh": "悲傷 orphan｜雨傘失物處",
+  "titleEn": "Grief Orphan Lost & Found",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "orphan 悲傷團來領雨傘：bemoan／deplore／aggrieve／condole——失物處廣播「請帶手帕」。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "bemoan／deplore 哀嘆。aggrieve 使悲痛。condole 慰問。careworn 憔悴。calumny 誹謗也讓人傷心。口令：雨傘寫「撐住」，慰問寫「我在」。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "悲：bemoan/deplore/aggrieve/condole",
+        "condole＝慰問"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Express grief over:",
+      "promptZh": "哀嘆：",
+      "choices": [
+        "bemoan",
+        "alacrity",
+        "repository",
+        "neon"
+      ],
+      "answer": "bemoan"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Offer sympathy:",
+      "promptZh": "慰問：",
+      "choices": [
+        "condole",
+        "calumny",
+        "forecast",
+        "sole"
+      ],
+      "answer": "condole"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Worn by worry:",
+      "promptZh": "憔悴的：",
+      "choices": [
+        "careworn",
+        "blithe",
+        "omnibus",
+        "scanty"
+      ],
+      "answer": "careworn"
+    }
+  ],
+  "pitfalls": [
+    "condole≠console 完全同義使用時仍要看搭配"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P4-batch01"
+  }
+}

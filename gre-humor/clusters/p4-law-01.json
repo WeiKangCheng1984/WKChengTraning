@@ -1,0 +1,179 @@
+{
+  "id": "p4-law-01",
+  "type": "semantic",
+  "elementLemma": "law-orphan",
+  "titleZh": "法律 orphan｜法庭道具車",
+  "titleEn": "Law Orphan Prop Cart",
+  "hook": "orphan 法律團推道具車：acquit／atone／chasten／arson——法官問「今天演宣判還是縱火紀錄片？」",
+  "script": "acquit 無罪。atone 贖罪。chasten 懲戒。arson 縱火。abjudicate 判決。assoil 赦免。canvass 遊說拉票也常進政治法庭。口令：木槌寫「定罪或釋放」，火柴寫「別亂點」。",
+  "members": [
+    {
+      "headword": "acquit",
+      "inVocab": true,
+      "senseAnchor": "pronounce not guilty of criminal charges; behave in a certain manner",
+      "roleInScript": "釋放章",
+      "humorDevice": "contrast",
+      "zhGloss": "宣判無罪",
+      "speakLineEn": "Cue the 釋放章: acquit walks on and the gag sticks.",
+      "speakLineZh": "請「釋放章」出場：acquit 一上場梗就黏住——宣判無罪。",
+      "related": {
+        "synonyms": "assoil, clear, discharge, exonerate, exculpate, behave",
+        "antonyms": "convict"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "atone",
+      "inVocab": true,
+      "senseAnchor": "make amends for; turn away from sin or do penitence",
+      "roleInScript": "贖罪箱",
+      "humorDevice": "contrast",
+      "zhGloss": "贖罪",
+      "speakLineEn": "Cue the 贖罪箱: atone walks on and the gag sticks.",
+      "speakLineZh": "請「贖罪箱」出場：atone 一上場梗就黏住——贖罪。",
+      "related": {
+        "synonyms": "expiate, aby, abye, repent",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "chasten",
+      "inVocab": true,
+      "senseAnchor": "censure severely; restrain",
+      "roleInScript": "戒尺",
+      "humorDevice": "contrast",
+      "zhGloss": "懲戒磨煉",
+      "speakLineEn": "Cue the 戒尺: chasten walks on and the gag sticks.",
+      "speakLineZh": "請「戒尺」出場：chasten 一上場梗就黏住——懲戒磨煉。",
+      "related": {
+        "synonyms": "chastise, castigate, objurgate, correct, moderate, temper",
+        "antonyms": "falsify, incorrect, wrong, immoderate"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "arson",
+      "inVocab": true,
+      "senseAnchor": "malicious burning to destroy property",
+      "roleInScript": "火柴盒",
+      "humorDevice": "contrast",
+      "zhGloss": "縱火",
+      "speakLineEn": "Cue the 火柴盒: arson walks on and the gag sticks.",
+      "speakLineZh": "請「火柴盒」出場：arson 一上場梗就黏住——縱火。",
+      "related": {
+        "synonyms": "incendiarism, fire-raising",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "assoil",
+      "inVocab": true,
+      "senseAnchor": "pronounce not guilty of criminal charges",
+      "roleInScript": "赦免紙",
+      "humorDevice": "contrast",
+      "zhGloss": "赦免",
+      "speakLineEn": "Cue the 赦免紙: assoil walks on and the gag sticks.",
+      "speakLineZh": "請「赦免紙」出場：assoil 一上場梗就黏住——赦免。",
+      "related": {
+        "synonyms": "acquit, clear, discharge, exonerate, exculpate",
+        "antonyms": "convict"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "canvass",
+      "inVocab": true,
+      "senseAnchor": "the setting for a narrative or fictional or dramatic account; an inquiry into public opinion conducted by interviewing a random sample of people",
+      "roleInScript": "傳單車",
+      "humorDevice": "contrast",
+      "zhGloss": "遊說拉票",
+      "speakLineEn": "Cue the 傳單車: canvass walks on and the gag sticks.",
+      "speakLineZh": "請「傳單車」出場：canvass 一上場梗就黏住——遊說拉票。",
+      "related": {
+        "synonyms": "canvas, poll, sail, sheet",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "pardon",
+      "inVocab": true,
+      "senseAnchor": "赦免",
+      "roleInScript": "特赦令",
+      "humorDevice": "contrast",
+      "zhGloss": "赦免",
+      "speakLineEn": "Cue the 特赦令: pardon walks on and the gag sticks.",
+      "speakLineZh": "請「特赦令」出場：pardon 一上場梗就黏住——赦免。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b01"
+    },
+    {
+      "headword": "litigate",
+      "inVocab": true,
+      "senseAnchor": "訴訟",
+      "roleInScript": "官司櫃",
+      "humorDevice": "contrast",
+      "zhGloss": "訴訟",
+      "speakLineEn": "Cue the 官司櫃: litigate walks on and the gag sticks.",
+      "speakLineZh": "請「官司櫃」出場：litigate 一上場梗就黏住——訴訟。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b01"
+    },
+    {
+      "headword": "match",
+      "inVocab": false,
+      "senseAnchor": "火柴",
+      "roleInScript": "火柴",
+      "humorDevice": "story",
+      "zhGloss": "火柴",
+      "speakLineEn": "Cue the 火柴: match walks on and the gag sticks.",
+      "speakLineZh": "請「火柴」出場：match 一上場梗就黏住——火柴。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "robe",
+      "inVocab": false,
+      "senseAnchor": "法袍",
+      "roleInScript": "法袍",
+      "humorDevice": "story",
+      "zhGloss": "法袍",
+      "speakLineEn": "Cue the 法袍: robe walks on and the gag sticks.",
+      "speakLineZh": "請「法袍」出場：robe 一上場梗就黏住——法袍。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "法：acquit/atone/chasten/arson",
+    "acquit＝宣判無罪"
+  ],
+  "pitfalls": [
+    "arson＝縱火罪，不是藝術"
+  ],
+  "lessonRefs": [
+    "lesson-p4-law-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P4-batch01"
+  }
+}

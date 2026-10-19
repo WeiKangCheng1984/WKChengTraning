@@ -1,0 +1,208 @@
+{
+  "id": "p4-sad-01",
+  "type": "semantic",
+  "elementLemma": "grief-orphan",
+  "titleZh": "悲傷 orphan｜雨傘失物處",
+  "titleEn": "Grief Orphan Lost & Found",
+  "hook": "orphan 悲傷團來領雨傘：bemoan／deplore／aggrieve／condole——失物處廣播「請帶手帕」。",
+  "script": "bemoan／deplore 哀嘆。aggrieve 使悲痛。condole 慰問。careworn 憔悴。calumny 誹謗也讓人傷心。口令：雨傘寫「撐住」，慰問寫「我在」。",
+  "members": [
+    {
+      "headword": "bemoan",
+      "inVocab": true,
+      "senseAnchor": "to feel sorry or dissatisfied about",
+      "roleInScript": "長嘆",
+      "humorDevice": "contrast",
+      "zhGloss": "哀嘆",
+      "speakLineEn": "Cue the 長嘆: bemoan walks on and the gag sticks.",
+      "speakLineZh": "請「長嘆」出場：bemoan 一上場梗就黏住——哀嘆。",
+      "related": {
+        "synonyms": "lament, deplore",
+        "antonyms": "celebrate, rejoice"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "deplore",
+      "inVocab": true,
+      "senseAnchor": "express strong disapproval of; regret strongly",
+      "roleInScript": "搖頭嘆",
+      "humorDevice": "contrast",
+      "zhGloss": "悲嘆譴責",
+      "speakLineEn": "Cue the 搖頭嘆: deplore walks on and the gag sticks.",
+      "speakLineZh": "請「搖頭嘆」出場：deplore 一上場梗就黏住——悲嘆譴責。",
+      "related": {
+        "synonyms": "lament, bewail, bemoan",
+        "antonyms": "celebrate, rejoice"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "aggrieve",
+      "inVocab": true,
+      "senseAnchor": "infringe on the rights of; cause to feel sorrow",
+      "roleInScript": "傷心事",
+      "humorDevice": "contrast",
+      "zhGloss": "使悲痛",
+      "speakLineEn": "Cue the 傷心事: aggrieve walks on and the gag sticks.",
+      "speakLineZh": "請「傷心事」出場：aggrieve 一上場梗就黏住——使悲痛。",
+      "related": {
+        "synonyms": "grieve",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "condole",
+      "inVocab": true,
+      "senseAnchor": "express one's sympathetic grief, on the occasion of someone's death",
+      "roleInScript": "拍肩",
+      "humorDevice": "contrast",
+      "zhGloss": "慰問",
+      "speakLineEn": "Cue the 拍肩: condole walks on and the gag sticks.",
+      "speakLineZh": "請「拍肩」出場：condole 一上場梗就黏住——慰問。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "careworn",
+      "inVocab": true,
+      "senseAnchor": "showing the wearing effects of overwork or care or suffering; ; ; ; - Charles Dickens",
+      "roleInScript": "疲憊臉",
+      "humorDevice": "contrast",
+      "zhGloss": "憔悴的",
+      "speakLineEn": "Cue the 疲憊臉: careworn walks on and the gag sticks.",
+      "speakLineZh": "請「疲憊臉」出場：careworn 一上場梗就黏住——憔悴的。",
+      "related": {
+        "synonyms": "drawn, haggard, raddled, worn",
+        "antonyms": "deposit, push, repel, new, refresh"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "calumny",
+      "inVocab": true,
+      "senseAnchor": "a false accusation of an offense or a malicious misrepresentation of someone's words or actions; an abusive attack on a person's character or good name",
+      "roleInScript": "髒話紙",
+      "humorDevice": "contrast",
+      "zhGloss": "誹謗",
+      "speakLineEn": "Cue the 髒話紙: calumny walks on and the gag sticks.",
+      "speakLineZh": "請「髒話紙」出場：calumny 一上場梗就黏住——誹謗。",
+      "related": {
+        "synonyms": "defamation, calumniation, obloquy, traducement, aspersion, slander",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "calumniate",
+      "inVocab": true,
+      "senseAnchor": "charge falsely or with malicious intent; attack the good name and reputation of someone",
+      "roleInScript": "造謠筆",
+      "humorDevice": "contrast",
+      "zhGloss": "誹謗",
+      "speakLineEn": "Cue the 造謠筆: calumniate walks on and the gag sticks.",
+      "speakLineZh": "請「造謠筆」出場：calumniate 一上場梗就黏住——誹謗。",
+      "related": {
+        "synonyms": "defame, slander, smirch, asperse, denigrate, smear",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "lament",
+      "inVocab": true,
+      "senseAnchor": "to express sadness or regret",
+      "roleInScript": "輓歌",
+      "humorDevice": "contrast",
+      "zhGloss": "哀悼",
+      "speakLineEn": "Cue the 輓歌: lament walks on and the gag sticks.",
+      "speakLineZh": "請「輓歌」出場：lament 一上場梗就黏住——哀悼。",
+      "related": {
+        "synonyms": "bemoan",
+        "antonyms": "celebrate, rejoice"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "wistful",
+      "inVocab": true,
+      "senseAnchor": "showing pensive sadness",
+      "roleInScript": "望窗",
+      "humorDevice": "contrast",
+      "zhGloss": "惆悵的",
+      "speakLineEn": "Cue the 望窗: wistful walks on and the gag sticks.",
+      "speakLineZh": "請「望窗」出場：wistful 一上場梗就黏住——惆悵的。",
+      "related": {
+        "synonyms": "pensive",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "forlorn",
+      "inVocab": true,
+      "senseAnchor": "marked by or showing hopelessness",
+      "roleInScript": "空站台",
+      "humorDevice": "contrast",
+      "zhGloss": "孤苦的",
+      "speakLineEn": "Cue the 空站台: forlorn walks on and the gag sticks.",
+      "speakLineZh": "請「空站台」出場：forlorn 一上場梗就黏住——孤苦的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "melancholy",
+      "inVocab": true,
+      "senseAnchor": "a feeling of thoughtful sadness; a constitutional tendency to be gloomy and depressed",
+      "roleInScript": "藍調",
+      "humorDevice": "contrast",
+      "zhGloss": "憂鬱",
+      "speakLineEn": "Cue the 藍調: melancholy walks on and the gag sticks.",
+      "speakLineZh": "請「藍調」出場：melancholy 一上場梗就黏住——憂鬱。",
+      "related": {
+        "synonyms": "melancholic, somber, sombre",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "handkerchief",
+      "inVocab": false,
+      "senseAnchor": "手帕",
+      "roleInScript": "手帕",
+      "humorDevice": "story",
+      "zhGloss": "手帕",
+      "speakLineEn": "Cue the 手帕: handkerchief walks on and the gag sticks.",
+      "speakLineZh": "請「手帕」出場：handkerchief 一上場梗就黏住——手帕。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "悲：bemoan/deplore/aggrieve/condole",
+    "condole＝慰問"
+  ],
+  "pitfalls": [
+    "condole≠console 完全同義使用時仍要看搭配"
+  ],
+  "lessonRefs": [
+    "lesson-p4-sad-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P4-batch01"
+  }
+}

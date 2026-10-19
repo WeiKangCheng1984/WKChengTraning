@@ -1,0 +1,96 @@
+{
+  "id": "lesson-p4-neg-01",
+  "slug": "p4-neg-01",
+  "season": 4,
+  "seasonTitleZh": "字首調味",
+  "seasonTitleEn": "Prefix Seasoning",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "p4-neg-01",
+  "titleZh": "否定 orphan｜橡皮擦櫃台",
+  "titleEn": "Negation Orphan Desk",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "orphan 否定團來櫃台蓋章：unexceptionable／irreproachable／irreconcilable／indiscriminate——橡皮擦比印章還大。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "unexceptionable／irreproachable 無可指摘。irreconcilable 不可調和。indiscriminate 不加分別。incommensurate 不成比例。口令：橡皮寫「不是全刪」，印章寫「精準否定」。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "否定：unexceptionable/irreproachable/irreconcilable",
+        "indiscriminate＝不分青紅皂白"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Beyond criticism:",
+      "promptZh": "無可指摘：",
+      "choices": [
+        "unexceptionable",
+        "indiscriminate",
+        "repository",
+        "neon"
+      ],
+      "answer": "unexceptionable"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Impossible to reconcile:",
+      "promptZh": "不可調和：",
+      "choices": [
+        "irreconcilable",
+        "modesty",
+        "forecast",
+        "sole"
+      ],
+      "answer": "irreconcilable"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Without careful choice:",
+      "promptZh": "不加分別：",
+      "choices": [
+        "indiscriminate",
+        "irreproachable",
+        "omnibus",
+        "scanty"
+      ],
+      "answer": "indiscriminate"
+    }
+  ],
+  "pitfalls": [
+    "unexceptionable≈無可挑剔，不是「沒例外」字面"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P4-batch01"
+  }
+}

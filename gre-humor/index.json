@@ -1,7 +1,7 @@
 {
-  "version": "v0.9-p3-batch03",
-  "status": "p3-batch03",
-  "uniqueWords": 3404,
+  "version": "v0.9-p4-batch01",
+  "status": "p4-batch01",
+  "uniqueWords": 3819,
   "clusters": [
     {
       "id": "look-a-01",
@@ -191,6 +191,209 @@
       "titleZh": "venal ↔ venial｜貪腐／可恕法庭",
       "status": "reviewed",
       "memberCount": 12
+    },
+    {
+      "id": "p4-anger-01",
+      "type": "semantic",
+      "titleZh": "怒氣 orphan｜抱怨服務台",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
+      "id": "p4-body-01",
+      "type": "semantic",
+      "titleZh": "身體 orphan｜體檢漫畫室",
+      "status": "reviewed",
+      "memberCount": 13
+    },
+    {
+      "id": "p4-fear-01",
+      "type": "semantic",
+      "titleZh": "恐懼 orphan｜嚇到縮角落專場",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
+      "id": "p4-happy-01",
+      "type": "semantic",
+      "titleZh": "喜悅 orphan｜汽水道具間",
+      "status": "reviewed",
+      "memberCount": 15
+    },
+    {
+      "id": "p4-law-01",
+      "type": "semantic",
+      "titleZh": "法律 orphan｜法庭道具車",
+      "status": "reviewed",
+      "memberCount": 10
+    },
+    {
+      "id": "p4-letter-j-01",
+      "type": "root",
+      "titleZh": "orphan J｜J彈跳床",
+      "status": "reviewed",
+      "memberCount": 14
+    },
+    {
+      "id": "p4-letter-q-01",
+      "type": "root",
+      "titleZh": "orphan Q｜佇列診所",
+      "status": "reviewed",
+      "memberCount": 14
+    },
+    {
+      "id": "p4-letter-u-01",
+      "type": "root",
+      "titleZh": "orphan U｜U型彎道",
+      "status": "reviewed",
+      "memberCount": 14
+    },
+    {
+      "id": "p4-letter-v-01",
+      "type": "root",
+      "titleZh": "orphan V｜V勝利台",
+      "status": "reviewed",
+      "memberCount": 14
+    },
+    {
+      "id": "p4-letter-w-01",
+      "type": "root",
+      "titleZh": "orphan W｜W波浪池",
+      "status": "reviewed",
+      "memberCount": 14
+    },
+    {
+      "id": "p4-long-01",
+      "type": "root",
+      "titleZh": "長詞 orphan｜伸縮行李轉盤",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
+      "id": "p4-look-apocryphal-01",
+      "type": "lookalike",
+      "titleZh": "apocryphal／apoplectic｜假新聞暴血管",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
+      "id": "p4-look-auspice-extend-01",
+      "type": "lookalike",
+      "titleZh": "apropos／opprobrium｜得體辱罵櫃台",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
+      "id": "p4-look-bulge-01",
+      "type": "lookalike",
+      "titleZh": "bulge／delude 續攤｜鼓起工作室",
+      "status": "reviewed",
+      "memberCount": 9
+    },
+    {
+      "id": "p4-look-cede-01",
+      "type": "lookalike",
+      "titleZh": "cede／accede／concede｜割讓會議室",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
+      "id": "p4-mind-01",
+      "type": "semantic",
+      "titleZh": "思索 orphan｜靈感實驗室",
+      "status": "reviewed",
+      "memberCount": 15
+    },
+    {
+      "id": "p4-mix-a-01",
+      "type": "root",
+      "titleZh": "orphan 混裝｜A區清倉籃",
+      "status": "reviewed",
+      "memberCount": 16
+    },
+    {
+      "id": "p4-mix-b-01",
+      "type": "root",
+      "titleZh": "orphan 混裝｜B區清倉籃",
+      "status": "reviewed",
+      "memberCount": 16
+    },
+    {
+      "id": "p4-mix-c-01",
+      "type": "root",
+      "titleZh": "orphan 混裝｜C區清倉籃",
+      "status": "reviewed",
+      "memberCount": 16
+    },
+    {
+      "id": "p4-money-01",
+      "type": "semantic",
+      "titleZh": "金錢 orphan｜空錢包診所",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
+      "id": "p4-move-01",
+      "type": "semantic",
+      "titleZh": "移動 orphan｜轉運站闹劇",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
+      "id": "p4-nature-01",
+      "type": "semantic",
+      "titleZh": "自然 orphan｜樹冠觀景台",
+      "status": "reviewed",
+      "memberCount": 15
+    },
+    {
+      "id": "p4-neg-01",
+      "type": "prefix",
+      "titleZh": "否定 orphan｜橡皮擦櫃台",
+      "status": "reviewed",
+      "memberCount": 13
+    },
+    {
+      "id": "p4-sad-01",
+      "type": "semantic",
+      "titleZh": "悲傷 orphan｜雨傘失物處",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
+      "id": "p4-self-01",
+      "type": "prefix",
+      "titleZh": "self- orphan｜鏡子自白亭",
+      "status": "reviewed",
+      "memberCount": 9
+    },
+    {
+      "id": "p4-speech-01",
+      "type": "semantic",
+      "titleZh": "言語 orphan｜繞圈廣播室",
+      "status": "reviewed",
+      "memberCount": 9
+    },
+    {
+      "id": "p4-time-01",
+      "type": "semantic",
+      "titleZh": "時間 orphan｜拖延候車室",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
+      "id": "p4-war-01",
+      "type": "semantic",
+      "titleZh": "戰意 orphan｜沙盤推演室",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
+      "id": "p4-weather-01",
+      "type": "semantic",
+      "titleZh": "天氣 orphan｜氣象道具棚",
+      "status": "reviewed",
+      "memberCount": 14
     },
     {
       "id": "prefix-ab-01",
@@ -470,7 +673,7 @@
       "type": "rhyme",
       "titleZh": "-ant / -ent｜螞蟻動態人物系列",
       "status": "reviewed",
-      "memberCount": 5
+      "memberCount": 9
     },
     {
       "id": "rhyme-archy-01",
@@ -498,14 +701,14 @@
       "type": "rhyme",
       "titleZh": "-eak / -oke｜毀滅與洩漏系列",
       "status": "reviewed",
-      "memberCount": 6
+      "memberCount": 12
     },
     {
       "id": "rhyme-edge-01",
       "type": "rhyme",
       "titleZh": "-edge / -adge｜邊緣承諾系列",
       "status": "reviewed",
-      "memberCount": 5
+      "memberCount": 9
     },
     {
       "id": "rhyme-eous-01",
@@ -568,7 +771,7 @@
       "type": "rhyme",
       "titleZh": "-our / -ore｜豪門恩怨系列",
       "status": "reviewed",
-      "memberCount": 5
+      "memberCount": 9
     },
     {
       "id": "rhyme-sion-01",
@@ -652,7 +855,7 @@
       "type": "root",
       "titleZh": "clud｜獄卒日常",
       "status": "reviewed",
-      "memberCount": 6
+      "memberCount": 11
     },
     {
       "id": "root-cred-01",
@@ -1282,7 +1485,7 @@
       "type": "root",
       "titleZh": "scend｜階層攀爬遊戲",
       "status": "reviewed",
-      "memberCount": 5
+      "memberCount": 11
     },
     {
       "id": "root-sci-01",
@@ -1527,14 +1730,14 @@
       "type": "root",
       "titleZh": "tort｜麻花捲人格",
       "status": "reviewed",
-      "memberCount": 6
+      "memberCount": 11
     },
     {
       "id": "root-tract-01",
       "type": "root",
       "titleZh": "tract｜拔河狂人劇場",
       "status": "reviewed",
-      "memberCount": 7
+      "memberCount": 12
     },
     {
       "id": "root-trib-01",
@@ -1751,7 +1954,7 @@
       "type": "semantic",
       "titleZh": "馬屁精 ↔ 傲嬌怪",
       "status": "reviewed",
-      "memberCount": 6
+      "memberCount": 8
     },
     {
       "id": "sem-give-take-01",
@@ -1905,7 +2108,7 @@
       "type": "semantic",
       "titleZh": "沉默寡言 ↔ 長舌婦",
       "status": "reviewed",
-      "memberCount": 6
+      "memberCount": 8
     },
     {
       "id": "sem-temp-perm-01",
@@ -1919,7 +2122,7 @@
       "type": "semantic",
       "titleZh": "脾氣暴躁 ↔ 和藹可親",
       "status": "reviewed",
-      "memberCount": 6
+      "memberCount": 12
     },
     {
       "id": "sem-thrift-waste-01",
@@ -1972,7 +2175,7 @@
       "clusterId": "rhyme-ant-01",
       "type": "family",
       "status": "reviewed",
-      "memberCount": 5
+      "memberCount": 9
     },
     {
       "id": "lesson-rhyme-archy-01",
@@ -2016,7 +2219,7 @@
       "clusterId": "rhyme-eak-01",
       "type": "family",
       "status": "reviewed",
-      "memberCount": 6
+      "memberCount": 12
     },
     {
       "id": "lesson-rhyme-edge-01",
@@ -2027,7 +2230,7 @@
       "clusterId": "rhyme-edge-01",
       "type": "family",
       "status": "reviewed",
-      "memberCount": 5
+      "memberCount": 9
     },
     {
       "id": "lesson-rhyme-eous-01",
@@ -2126,7 +2329,7 @@
       "clusterId": "rhyme-our-01",
       "type": "family",
       "status": "reviewed",
-      "memberCount": 5
+      "memberCount": 9
     },
     {
       "id": "lesson-rhyme-sion-01",
@@ -2217,6 +2420,105 @@
       "memberCount": 9
     },
     {
+      "id": "lesson-p4-letter-j-01",
+      "slug": "p4-letter-j-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "orphan J｜J彈跳床",
+      "clusterId": "p4-letter-j-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 14
+    },
+    {
+      "id": "lesson-p4-letter-q-01",
+      "slug": "p4-letter-q-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "orphan Q｜佇列診所",
+      "clusterId": "p4-letter-q-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 14
+    },
+    {
+      "id": "lesson-p4-letter-u-01",
+      "slug": "p4-letter-u-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "orphan U｜U型彎道",
+      "clusterId": "p4-letter-u-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 14
+    },
+    {
+      "id": "lesson-p4-letter-v-01",
+      "slug": "p4-letter-v-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "orphan V｜V勝利台",
+      "clusterId": "p4-letter-v-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 14
+    },
+    {
+      "id": "lesson-p4-letter-w-01",
+      "slug": "p4-letter-w-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "orphan W｜W波浪池",
+      "clusterId": "p4-letter-w-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 14
+    },
+    {
+      "id": "lesson-p4-long-01",
+      "slug": "p4-long-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "長詞 orphan｜伸縮行李轉盤",
+      "clusterId": "p4-long-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
+      "id": "lesson-p4-mix-a-01",
+      "slug": "p4-mix-a-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "orphan 混裝｜A區清倉籃",
+      "clusterId": "p4-mix-a-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 16
+    },
+    {
+      "id": "lesson-p4-mix-b-01",
+      "slug": "p4-mix-b-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "orphan 混裝｜B區清倉籃",
+      "clusterId": "p4-mix-b-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 16
+    },
+    {
+      "id": "lesson-p4-mix-c-01",
+      "slug": "p4-mix-c-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "orphan 混裝｜C區清倉籃",
+      "clusterId": "p4-mix-c-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 16
+    },
+    {
       "id": "lesson-root-cap-01",
       "slug": "root-cap-01",
       "season": 2,
@@ -2258,7 +2560,7 @@
       "clusterId": "root-clud-01",
       "type": "family",
       "status": "reviewed",
-      "memberCount": 6
+      "memberCount": 11
     },
     {
       "id": "lesson-root-cred-01",
@@ -3248,7 +3550,7 @@
       "clusterId": "root-scend-01",
       "type": "family",
       "status": "reviewed",
-      "memberCount": 5
+      "memberCount": 11
     },
     {
       "id": "lesson-root-sci-01",
@@ -3633,7 +3935,7 @@
       "clusterId": "root-tort-01",
       "type": "family",
       "status": "reviewed",
-      "memberCount": 6
+      "memberCount": 11
     },
     {
       "id": "lesson-root-tract-01",
@@ -3644,7 +3946,7 @@
       "clusterId": "root-tract-01",
       "type": "family",
       "status": "reviewed",
-      "memberCount": 7
+      "memberCount": 12
     },
     {
       "id": "lesson-root-trib-01",
@@ -4153,6 +4455,204 @@
       "memberCount": 12
     },
     {
+      "id": "lesson-p4-anger-01",
+      "slug": "p4-anger-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "怒氣 orphan｜抱怨服務台",
+      "clusterId": "p4-anger-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
+      "id": "lesson-p4-body-01",
+      "slug": "p4-body-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "身體 orphan｜體檢漫畫室",
+      "clusterId": "p4-body-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 13
+    },
+    {
+      "id": "lesson-p4-fear-01",
+      "slug": "p4-fear-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "恐懼 orphan｜嚇到縮角落專場",
+      "clusterId": "p4-fear-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
+      "id": "lesson-p4-happy-01",
+      "slug": "p4-happy-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "喜悅 orphan｜汽水道具間",
+      "clusterId": "p4-happy-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 15
+    },
+    {
+      "id": "lesson-p4-law-01",
+      "slug": "p4-law-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "法律 orphan｜法庭道具車",
+      "clusterId": "p4-law-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 10
+    },
+    {
+      "id": "lesson-p4-look-apocryphal-01",
+      "slug": "p4-look-apocryphal-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "apocryphal／apoplectic｜假新聞暴血管",
+      "clusterId": "p4-look-apocryphal-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
+      "id": "lesson-p4-look-auspice-extend-01",
+      "slug": "p4-look-auspice-extend-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "apropos／opprobrium｜得體辱罵櫃台",
+      "clusterId": "p4-look-auspice-extend-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
+      "id": "lesson-p4-look-bulge-01",
+      "slug": "p4-look-bulge-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "bulge／delude 續攤｜鼓起工作室",
+      "clusterId": "p4-look-bulge-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 9
+    },
+    {
+      "id": "lesson-p4-look-cede-01",
+      "slug": "p4-look-cede-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "cede／accede／concede｜割讓會議室",
+      "clusterId": "p4-look-cede-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
+      "id": "lesson-p4-mind-01",
+      "slug": "p4-mind-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "思索 orphan｜靈感實驗室",
+      "clusterId": "p4-mind-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 15
+    },
+    {
+      "id": "lesson-p4-money-01",
+      "slug": "p4-money-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "金錢 orphan｜空錢包診所",
+      "clusterId": "p4-money-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
+      "id": "lesson-p4-move-01",
+      "slug": "p4-move-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "移動 orphan｜轉運站闹劇",
+      "clusterId": "p4-move-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
+      "id": "lesson-p4-nature-01",
+      "slug": "p4-nature-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "自然 orphan｜樹冠觀景台",
+      "clusterId": "p4-nature-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 15
+    },
+    {
+      "id": "lesson-p4-sad-01",
+      "slug": "p4-sad-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "悲傷 orphan｜雨傘失物處",
+      "clusterId": "p4-sad-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
+      "id": "lesson-p4-speech-01",
+      "slug": "p4-speech-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "言語 orphan｜繞圈廣播室",
+      "clusterId": "p4-speech-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 9
+    },
+    {
+      "id": "lesson-p4-time-01",
+      "slug": "p4-time-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "時間 orphan｜拖延候車室",
+      "clusterId": "p4-time-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
+      "id": "lesson-p4-war-01",
+      "slug": "p4-war-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "戰意 orphan｜沙盤推演室",
+      "clusterId": "p4-war-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 12
+    },
+    {
+      "id": "lesson-p4-weather-01",
+      "slug": "p4-weather-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "天氣 orphan｜氣象道具棚",
+      "clusterId": "p4-weather-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 14
+    },
+    {
       "id": "lesson-sem-allure-repel-01",
       "slug": "sem-allure-repel-01",
       "season": 3,
@@ -4282,7 +4782,7 @@
       "clusterId": "sem-flattery-01",
       "type": "duel",
       "status": "reviewed",
-      "memberCount": 6
+      "memberCount": 8
     },
     {
       "id": "lesson-sem-give-take-01",
@@ -4524,7 +5024,7 @@
       "clusterId": "sem-talk-01",
       "type": "duel",
       "status": "reviewed",
-      "memberCount": 6
+      "memberCount": 8
     },
     {
       "id": "lesson-sem-temp-perm-01",
@@ -4546,7 +5046,7 @@
       "clusterId": "sem-temper-01",
       "type": "duel",
       "status": "reviewed",
-      "memberCount": 6
+      "memberCount": 12
     },
     {
       "id": "lesson-sem-thrift-waste-01",
@@ -4558,6 +5058,28 @@
       "type": "duel",
       "status": "reviewed",
       "memberCount": 21
+    },
+    {
+      "id": "lesson-p4-neg-01",
+      "slug": "p4-neg-01",
+      "season": 4,
+      "seasonTitleZh": "字首調味",
+      "titleZh": "否定 orphan｜橡皮擦櫃台",
+      "clusterId": "p4-neg-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 13
+    },
+    {
+      "id": "lesson-p4-self-01",
+      "slug": "p4-self-01",
+      "season": 4,
+      "seasonTitleZh": "字首調味",
+      "titleZh": "self- orphan｜鏡子自白亭",
+      "clusterId": "p4-self-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 9
     },
     {
       "id": "lesson-prefix-ab-01",

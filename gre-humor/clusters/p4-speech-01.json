@@ -1,0 +1,163 @@
+{
+  "id": "p4-speech-01",
+  "type": "semantic",
+  "elementLemma": "speech-orphan",
+  "titleZh": "言語 orphan｜繞圈廣播室",
+  "titleEn": "Speech Orphan Studio",
+  "hook": "orphan 言語團進廣播室：circumlocution／blunt／cagey／discourse——主持人說「請直接回答」，嘉賓開始繞地球一圈。",
+  "script": "circumlocution 繞彎。blunt 直言。cagey 守口如瓶。discourse 論述。drone 嗡嗡說。口令：麥克風寫「說清楚」，繞圈寫「地圖太貴」。",
+  "members": [
+    {
+      "headword": "circumlocution",
+      "inVocab": true,
+      "senseAnchor": "the use of unnecessarily wordy and indirect language",
+      "roleInScript": "繞圈麥",
+      "humorDevice": "contrast",
+      "zhGloss": "迂迴說法",
+      "speakLineEn": "Cue the 繞圈麥: circumlocution walks on and the gag sticks.",
+      "speakLineZh": "請「繞圈麥」出場：circumlocution 一上場梗就黏住——迂迴說法。",
+      "related": {
+        "synonyms": "periphrasis, ambage",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "blunt",
+      "inVocab": true,
+      "senseAnchor": "make less intense; make numb or insensitive",
+      "roleInScript": "直球麥",
+      "humorDevice": "contrast",
+      "zhGloss": "直言不諱的",
+      "speakLineEn": "Cue the 直球麥: blunt walks on and the gag sticks.",
+      "speakLineZh": "請「直球麥」出場：blunt 一上場梗就黏住——直言不諱的。",
+      "related": {
+        "synonyms": "numb, benumb, dull, deaden, candid, forthright",
+        "antonyms": "enliven, sharpen"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "cagey",
+      "inVocab": true,
+      "senseAnchor": "not wanting to give information",
+      "roleInScript": "保密鍵",
+      "humorDevice": "contrast",
+      "zhGloss": "守口如瓶的",
+      "speakLineEn": "Cue the 保密鍵: cagey walks on and the gag sticks.",
+      "speakLineZh": "請「保密鍵」出場：cagey 一上場梗就黏住——守口如瓶的。",
+      "related": {
+        "synonyms": "cagy, canny, clever, chary",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "discourse",
+      "inVocab": true,
+      "senseAnchor": "extended verbal expression in speech or writing; an address of a religious nature (usually delivered during a church service)",
+      "roleInScript": "長講稿",
+      "humorDevice": "contrast",
+      "zhGloss": "論述談話",
+      "speakLineEn": "Cue the 長講稿: discourse walks on and the gag sticks.",
+      "speakLineZh": "請「長講稿」出場：discourse 一上場梗就黏住——論述談話。",
+      "related": {
+        "synonyms": "sermon, preaching, discussion, treatment, discuss, converse",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "drone",
+      "inVocab": true,
+      "senseAnchor": "stingless male bee in a colony of social bees (especially honeybees) whose sole function is to mate with the queen; an unchanging intonation",
+      "roleInScript": "嗡嗡聲",
+      "humorDevice": "contrast",
+      "zhGloss": "低沉嘮叨",
+      "speakLineEn": "Cue the 嗡嗡聲: drone walks on and the gag sticks.",
+      "speakLineZh": "請「嗡嗡聲」出場：drone 一上場梗就黏住——低沉嘮叨。",
+      "related": {
+        "synonyms": "monotone, droning, dawdler, laggard, lagger, trailer",
+        "antonyms": "nonmonotonic"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "articulate",
+      "inVocab": true,
+      "senseAnchor": "express ideas or feelings clearly in words",
+      "roleInScript": "咬字清",
+      "humorDevice": "contrast",
+      "zhGloss": "表達清晰的",
+      "speakLineEn": "Cue the 咬字清: articulate walks on and the gag sticks.",
+      "speakLineZh": "請「咬字清」出場：articulate 一上場梗就黏住——表達清晰的。",
+      "related": {
+        "synonyms": "enunciate",
+        "antonyms": "inarticulate, mute, unarticulated"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "mumble",
+      "inVocab": true,
+      "senseAnchor": "a soft indistinct utterance; talk indistinctly; usually in a low voice",
+      "roleInScript": "口罩音",
+      "humorDevice": "contrast",
+      "zhGloss": "含糊說",
+      "speakLineEn": "Cue the 口罩音: mumble walks on and the gag sticks.",
+      "speakLineZh": "請「口罩音」出場：mumble 一上場梗就黏住——含糊說。",
+      "related": {
+        "synonyms": "mutter, maunder, mussitate, gum",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "banter",
+      "inVocab": true,
+      "senseAnchor": "light teasing repartee; be silly or tease one another",
+      "roleInScript": "玩笑球",
+      "humorDevice": "contrast",
+      "zhGloss": "打趣",
+      "speakLineEn": "Cue the 玩笑球: banter walks on and the gag sticks.",
+      "speakLineZh": "請「玩笑球」出場：banter 一上場梗就黏住——打趣。",
+      "related": {
+        "synonyms": "raillery, give-and-take, backchat, kid, chaff, jolly",
+        "antonyms": "parent, immoderately, unreasonably"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "globe",
+      "inVocab": false,
+      "senseAnchor": "地球儀",
+      "roleInScript": "地球儀",
+      "humorDevice": "story",
+      "zhGloss": "地球儀",
+      "speakLineEn": "Cue the 地球儀: globe walks on and the gag sticks.",
+      "speakLineZh": "請「地球儀」出場：globe 一上場梗就黏住——地球儀。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "言：circumlocution/blunt/cagey/discourse",
+    "circumlocution＝迂迴說法"
+  ],
+  "pitfalls": [
+    "blunt＝直言／鈍，看語境"
+  ],
+  "lessonRefs": [
+    "lesson-p4-speech-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P4-batch01"
+  }
+}

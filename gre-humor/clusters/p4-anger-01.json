@@ -1,0 +1,192 @@
+{
+  "id": "p4-anger-01",
+  "type": "semantic",
+  "elementLemma": "anger-orphan",
+  "titleZh": "怒氣 orphan｜抱怨服務台",
+  "titleEn": "Anger Orphan Desk",
+  "hook": "orphan 怒氣團擠在服務台：disgruntled／exasperate／fractious／glower——號碼牌寫「先消氣再辦理」。",
+  "script": "disgruntled 不滿。exasperate 激怒。fractious 躁。glower 怒視。furor 狂怒。gripe 抱怨。crabbed 乖戾。口令：服務台寫「消氣」，怒視寫「先排隊」。",
+  "members": [
+    {
+      "headword": "disgruntled",
+      "inVocab": true,
+      "senseAnchor": "put into a bad mood or into bad humour; in a state of sulky dissatisfaction",
+      "roleInScript": "抱怨單",
+      "humorDevice": "contrast",
+      "zhGloss": "不滿的",
+      "speakLineEn": "Cue the 抱怨單: disgruntled walks on and the gag sticks.",
+      "speakLineZh": "請「抱怨單」出場：disgruntled 一上場梗就黏住——不滿的。",
+      "related": {
+        "synonyms": "disgruntle, dissatisfied",
+        "antonyms": "satisfy"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "exasperate",
+      "inVocab": true,
+      "senseAnchor": "to excite anger",
+      "roleInScript": "火上油",
+      "humorDevice": "contrast",
+      "zhGloss": "激怒",
+      "speakLineEn": "Cue the 火上油: exasperate walks on and the gag sticks.",
+      "speakLineZh": "請「火上油」出場：exasperate 一上場梗就黏住——激怒。",
+      "related": {
+        "synonyms": "vex, nettle, incense",
+        "antonyms": "better, reassure"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "fractious",
+      "inVocab": true,
+      "senseAnchor": "stubbornly resistant to authority or control; easily irritated or annoyed",
+      "roleInScript": "躁動椅",
+      "humorDevice": "contrast",
+      "zhGloss": "易怒的",
+      "speakLineEn": "Cue the 躁動椅: fractious walks on and the gag sticks.",
+      "speakLineZh": "請「躁動椅」出場：fractious 一上場梗就黏住——易怒的。",
+      "related": {
+        "synonyms": "refractory, recalcitrant, cranky, irritable, nettlesome, peevish",
+        "antonyms": "agreeable, docile"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "glower",
+      "inVocab": true,
+      "senseAnchor": "an angry stare; look at with a fixed gaze",
+      "roleInScript": "怒視線",
+      "humorDevice": "contrast",
+      "zhGloss": "怒視",
+      "speakLineEn": "Cue the 怒視線: glower walks on and the gag sticks.",
+      "speakLineZh": "請「怒視線」出場：glower 一上場梗就黏住——怒視。",
+      "related": {
+        "synonyms": "glare, frown, lour, lower",
+        "antonyms": "high, raise"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "furor",
+      "inVocab": true,
+      "senseAnchor": "an interest followed with exaggerated zeal; a sudden outburst (as of protest)",
+      "roleInScript": "暴走潮",
+      "humorDevice": "contrast",
+      "zhGloss": "狂熱憤怒",
+      "speakLineEn": "Cue the 暴走潮: furor walks on and the gag sticks.",
+      "speakLineZh": "請「暴走潮」出場：furor 一上場梗就黏住——狂熱憤怒。",
+      "related": {
+        "synonyms": "fad, craze, furore, cult, rage",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "gripe",
+      "inVocab": true,
+      "senseAnchor": "informal terms for objecting; complain",
+      "roleInScript": "碎念麥",
+      "humorDevice": "contrast",
+      "zhGloss": "抱怨",
+      "speakLineEn": "Cue the 碎念麥: gripe walks on and the gag sticks.",
+      "speakLineZh": "請「碎念麥」出場：gripe 一上場梗就黏住——抱怨。",
+      "related": {
+        "synonyms": "kick, beef, bitch, squawk, grouse, crab",
+        "antonyms": "cheer"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "crabbed",
+      "inVocab": true,
+      "senseAnchor": "direct (an aircraft) into a crosswind; scurry sideways like a crab",
+      "roleInScript": "酸臉",
+      "humorDevice": "contrast",
+      "zhGloss": "乖戾的",
+      "speakLineEn": "Cue the 酸臉: crabbed walks on and the gag sticks.",
+      "speakLineZh": "請「酸臉」出場：crabbed 一上場梗就黏住——乖戾的。",
+      "related": {
+        "synonyms": "crab, gripe, bitch, grouse, beef, squawk",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "irate",
+      "inVocab": true,
+      "senseAnchor": "憤怒的",
+      "roleInScript": "紅耳",
+      "humorDevice": "contrast",
+      "zhGloss": "憤怒的",
+      "speakLineEn": "Cue the 紅耳: irate walks on and the gag sticks.",
+      "speakLineZh": "請「紅耳」出場：irate 一上場梗就黏住——憤怒的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b01"
+    },
+    {
+      "headword": "indignant",
+      "inVocab": true,
+      "senseAnchor": "angry because you feel unfairly treated",
+      "roleInScript": "正氣怒",
+      "humorDevice": "contrast",
+      "zhGloss": "憤慨的",
+      "speakLineEn": "Cue the 正氣怒: indignant walks on and the gag sticks.",
+      "speakLineZh": "請「正氣怒」出場：indignant 一上場梗就黏住——憤慨的。",
+      "related": {
+        "synonyms": "enraged, incensed, infuriated",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "seethe",
+      "inVocab": true,
+      "senseAnchor": "be noisy with activity; be in an agitated emotional state",
+      "roleInScript": "沸騰壺",
+      "humorDevice": "contrast",
+      "zhGloss": "怒火中燒",
+      "speakLineEn": "Cue the 沸騰壺: seethe walks on and the gag sticks.",
+      "speakLineZh": "請「沸騰壺」出場：seethe 一上場梗就黏住——怒火中燒。",
+      "related": {
+        "synonyms": "hum, buzz, boil, roll",
+        "antonyms": "freeze, unwind"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "tantrum",
+      "inVocab": true,
+      "senseAnchor": "發脾氣",
+      "roleInScript": "地板滾",
+      "humorDevice": "contrast",
+      "zhGloss": "發脾氣",
+      "speakLineEn": "Cue the 地板滾: tantrum walks on and the gag sticks.",
+      "speakLineZh": "請「地板滾」出場：tantrum 一上場梗就黏住——發脾氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b01"
+    }
+  ],
+  "reviewHooks": [
+    "怒：disgruntled/exasperate/fractious/glower/furor",
+    "fractious＝易怒難管"
+  ],
+  "pitfalls": [
+    "exasperate≠exacerbate（加重病情／情況）"
+  ],
+  "lessonRefs": [
+    "lesson-p4-anger-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P4-batch01"
+  }
+}

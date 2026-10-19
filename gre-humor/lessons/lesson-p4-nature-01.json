@@ -1,0 +1,96 @@
+{
+  "id": "lesson-p4-nature-01",
+  "slug": "p4-nature-01",
+  "season": 3,
+  "seasonTitleZh": "語氣對打",
+  "seasonTitleEn": "Tone Duels",
+  "type": "duel",
+  "minutes": "12-15",
+  "clusterId": "p4-nature-01",
+  "titleZh": "自然 orphan｜樹冠觀景台",
+  "titleEn": "Nature Orphan Lookout",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "orphan 自然團爬觀景台：arboreal／bough／desiccate／cyclone——解說員說「先看樹，再看風，最後別被吹走」。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "arboreal 樹棲。bough 大枝。desiccate 乾透。cyclone 氣旋。bristling 豎起。dampen 弄濕／抑制。口令：樹冠寫「站穩」，氣旋寫「抓欄杆」。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "自然：arboreal/bough/desiccate/cyclone",
+        "desiccate＝使乾燥"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Living in trees:",
+      "promptZh": "樹棲的：",
+      "choices": [
+        "arboreal",
+        "cyclone",
+        "repository",
+        "neon"
+      ],
+      "answer": "arboreal"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Dry out completely:",
+      "promptZh": "使乾燥：",
+      "choices": [
+        "desiccate",
+        "bough",
+        "forecast",
+        "sole"
+      ],
+      "answer": "desiccate"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "A violent wind system:",
+      "promptZh": "氣旋：",
+      "choices": [
+        "cyclone",
+        "foliage",
+        "omnibus",
+        "scanty"
+      ],
+      "answer": "cyclone"
+    }
+  ],
+  "pitfalls": [
+    "dampen 可=弄濕或打擊興致"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P4-batch01"
+  }
+}

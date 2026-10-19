@@ -1,0 +1,224 @@
+{
+  "id": "p4-neg-01",
+  "type": "prefix",
+  "elementLemma": "neg-orphan",
+  "titleZh": "否定 orphan｜橡皮擦櫃台",
+  "titleEn": "Negation Orphan Desk",
+  "hook": "orphan 否定團來櫃台蓋章：unexceptionable／irreproachable／irreconcilable／indiscriminate——橡皮擦比印章還大。",
+  "script": "unexceptionable／irreproachable 無可指摘。irreconcilable 不可調和。indiscriminate 不加分別。incommensurate 不成比例。口令：橡皮寫「不是全刪」，印章寫「精準否定」。",
+  "members": [
+    {
+      "headword": "unexceptionable",
+      "inVocab": true,
+      "senseAnchor": "completely acceptable; not open to exception or reproach",
+      "roleInScript": "完美章",
+      "humorDevice": "morphology",
+      "zhGloss": "無可指摘的",
+      "speakLineEn": "Cue the 完美章: unexceptionable walks on and the gag sticks.",
+      "speakLineZh": "請「完美章」出場：unexceptionable 一上場梗就黏住——無可指摘的。",
+      "related": {
+        "synonyms": "unimpeachable",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "irreproachable",
+      "inVocab": true,
+      "senseAnchor": "free of guilt; not subject to blame",
+      "roleInScript": "無瑕章",
+      "humorDevice": "morphology",
+      "zhGloss": "無可指責的",
+      "speakLineEn": "Cue the 無瑕章: irreproachable walks on and the gag sticks.",
+      "speakLineZh": "請「無瑕章」出場：irreproachable 一上場梗就黏住——無可指責的。",
+      "related": {
+        "synonyms": "blameless, inculpable, unimpeachable",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "irreconcilable",
+      "inVocab": true,
+      "senseAnchor": "impossible to reconcile",
+      "roleInScript": "裂痕章",
+      "humorDevice": "morphology",
+      "zhGloss": "不可調和的",
+      "speakLineEn": "Cue the 裂痕章: irreconcilable walks on and the gag sticks.",
+      "speakLineZh": "請「裂痕章」出場：irreconcilable 一上場梗就黏住——不可調和的。",
+      "related": {
+        "synonyms": "unreconcilable",
+        "antonyms": "reconcilable"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "indiscriminate",
+      "inVocab": true,
+      "senseAnchor": "failing to make or recognize distinctions; not marked by fine distinctions",
+      "roleInScript": "亂灑章",
+      "humorDevice": "morphology",
+      "zhGloss": "不加分別的",
+      "speakLineEn": "Cue the 亂灑章: indiscriminate walks on and the gag sticks.",
+      "speakLineZh": "請「亂灑章」出場：indiscriminate 一上場梗就黏住——不加分別的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": "discriminate"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "incommensurate",
+      "inVocab": true,
+      "senseAnchor": "not corresponding in size or degree or extent",
+      "roleInScript": "比例歪",
+      "humorDevice": "morphology",
+      "zhGloss": "不成比例的",
+      "speakLineEn": "Cue the 比例歪: incommensurate walks on and the gag sticks.",
+      "speakLineZh": "請「比例歪」出場：incommensurate 一上場梗就黏住——不成比例的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": "commensurate"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "undiscriminating",
+      "inVocab": true,
+      "senseAnchor": "lacking of careful choice",
+      "roleInScript": "無濾鏡",
+      "humorDevice": "morphology",
+      "zhGloss": "無辨別的",
+      "speakLineEn": "Cue the 無濾鏡: undiscriminating walks on and the gag sticks.",
+      "speakLineZh": "請「無濾鏡」出場：undiscriminating 一上場梗就黏住——無辨別的。",
+      "related": {
+        "synonyms": "indiscriminate",
+        "antonyms": "discriminating, discriminate"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "unpremeditated",
+      "inVocab": true,
+      "senseAnchor": "not prepared or planned in advance; not premeditated",
+      "roleInScript": "臨時章",
+      "humorDevice": "morphology",
+      "zhGloss": "非預謀的",
+      "speakLineEn": "Cue the 臨時章: unpremeditated walks on and the gag sticks.",
+      "speakLineZh": "請「臨時章」出場：unpremeditated 一上場梗就黏住——非預謀的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": "premeditated"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "unidimensional",
+      "inVocab": true,
+      "senseAnchor": "simple and uninteresting",
+      "roleInScript": "單線",
+      "humorDevice": "morphology",
+      "zhGloss": "單向度的",
+      "speakLineEn": "Cue the 單線: unidimensional walks on and the gag sticks.",
+      "speakLineZh": "請「單線」出場：unidimensional 一上場梗就黏住——單向度的。",
+      "related": {
+        "synonyms": "superficial, shallow",
+        "antonyms": "multidimensional, profound, deep"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "notwithstanding",
+      "inVocab": true,
+      "senseAnchor": "despite anything to the contrary (usually following a concession)",
+      "roleInScript": "轉折橋",
+      "humorDevice": "morphology",
+      "zhGloss": "儘管",
+      "speakLineEn": "Cue the 轉折橋: notwithstanding walks on and the gag sticks.",
+      "speakLineZh": "請「轉折橋」出場：notwithstanding 一上場梗就黏住——儘管。",
+      "related": {
+        "synonyms": "however, nevertheless, withal, still, yet, nonetheless",
+        "antonyms": "agitate, louden, moving, no longer, sparkling"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "counterintuitive",
+      "inVocab": true,
+      "senseAnchor": "contrary to what common sense would suggest",
+      "roleInScript": "反常識",
+      "humorDevice": "morphology",
+      "zhGloss": "反直覺的",
+      "speakLineEn": "Cue the 反常識: counterintuitive walks on and the gag sticks.",
+      "speakLineZh": "請「反常識」出場：counterintuitive 一上場梗就黏住——反直覺的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "disproportionate",
+      "inVocab": true,
+      "senseAnchor": "too large or too small when compared with something else",
+      "roleInScript": "失衡秤",
+      "humorDevice": "morphology",
+      "zhGloss": "不成比例的",
+      "speakLineEn": "Cue the 失衡秤: disproportionate walks on and the gag sticks.",
+      "speakLineZh": "請「失衡秤」出場：disproportionate 一上場梗就黏住——不成比例的。",
+      "related": {
+        "synonyms": "incommensurate",
+        "antonyms": "proportionate, commensurate"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "eraser",
+      "inVocab": false,
+      "senseAnchor": "橡皮擦",
+      "roleInScript": "橡皮擦",
+      "humorDevice": "story",
+      "zhGloss": "橡皮擦",
+      "speakLineEn": "Cue the 橡皮擦: eraser walks on and the gag sticks.",
+      "speakLineZh": "請「橡皮擦」出場：eraser 一上場梗就黏住——橡皮擦。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "filter",
+      "inVocab": false,
+      "senseAnchor": "濾鏡",
+      "roleInScript": "濾鏡",
+      "humorDevice": "story",
+      "zhGloss": "濾鏡",
+      "speakLineEn": "Cue the 濾鏡: filter walks on and the gag sticks.",
+      "speakLineZh": "請「濾鏡」出場：filter 一上場梗就黏住——濾鏡。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "否定：unexceptionable/irreproachable/irreconcilable",
+    "indiscriminate＝不分青紅皂白"
+  ],
+  "pitfalls": [
+    "unexceptionable≈無可挑剔，不是「沒例外」字面"
+  ],
+  "lessonRefs": [
+    "lesson-p4-neg-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P4-batch01"
+  }
+}

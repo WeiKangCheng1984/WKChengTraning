@@ -1,0 +1,96 @@
+{
+  "id": "lesson-p4-money-01",
+  "slug": "p4-money-01",
+  "season": 3,
+  "seasonTitleZh": "語氣對打",
+  "seasonTitleEn": "Tone Duels",
+  "type": "duel",
+  "minutes": "12-15",
+  "clusterId": "p4-money-01",
+  "titleZh": "金錢 orphan｜空錢包診所",
+  "titleEn": "Money Orphan Clinic",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "orphan 金錢團來診所：impecunious／indigence／destitution／impoverish——櫃台問「健保還是自費」，大家掏出空錢包。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "impecunious／indigence／destitution 窮。impoverish 使貧窮。fiscal 財政。default 違約。monetary 貨幣的。口令：空錢包寫「先記帳」，財政寫「別只看零用金」。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "貧：impecunious/indigence/destitution/impoverish",
+        "impecunious＝沒錢的"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Having little money:",
+      "promptZh": "貧窮的：",
+      "choices": [
+        "impecunious",
+        "munificent",
+        "repository",
+        "neon"
+      ],
+      "answer": "impecunious"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Extreme poverty:",
+      "promptZh": "赤貧：",
+      "choices": [
+        "destitution",
+        "fiscal",
+        "forecast",
+        "sole"
+      ],
+      "answer": "destitution"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Related to public finance:",
+      "promptZh": "財政的：",
+      "choices": [
+        "fiscal",
+        "indigence",
+        "omnibus",
+        "scanty"
+      ],
+      "answer": "fiscal"
+    }
+  ],
+  "pitfalls": [
+    "fiscal 偏公共財政；monetary 偏貨幣"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P4-batch01"
+  }
+}

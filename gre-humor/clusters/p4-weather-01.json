@@ -1,0 +1,241 @@
+{
+  "id": "p4-weather-01",
+  "type": "semantic",
+  "elementLemma": "weather-orphan",
+  "titleZh": "天氣 orphan｜氣象道具棚",
+  "titleEn": "Weather Orphan Shed",
+  "hook": "orphan 天氣團借道具：drizzle／sleet／gust／swelter——預報員被自己的道具淋成落湯雞。",
+  "script": "drizzle 毛毛雨。sleet 雨夹雪。gust 陣風。swelter 悶熱。humid 濕。balmy 和煦。inclement 已在他處，這場補 soft weather 差集。口令：雨棚寫「先躲」，悶熱寫「開風扇」。",
+  "members": [
+    {
+      "headword": "drizzle",
+      "inVocab": true,
+      "senseAnchor": "毛毛雨",
+      "roleInScript": "毛毛雨",
+      "humorDevice": "contrast",
+      "zhGloss": "毛毛雨",
+      "speakLineEn": "Cue the 毛毛雨: drizzle walks on and the gag sticks.",
+      "speakLineZh": "請「毛毛雨」出場：drizzle 一上場梗就黏住——毛毛雨。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b01"
+    },
+    {
+      "headword": "sleet",
+      "inVocab": true,
+      "senseAnchor": "雨夾雪",
+      "roleInScript": "冰粒",
+      "humorDevice": "contrast",
+      "zhGloss": "雨夾雪",
+      "speakLineEn": "Cue the 冰粒: sleet walks on and the gag sticks.",
+      "speakLineZh": "請「冰粒」出場：sleet 一上場梗就黏住——雨夾雪。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b01"
+    },
+    {
+      "headword": "gust",
+      "inVocab": true,
+      "senseAnchor": "陣風",
+      "roleInScript": "一陣風",
+      "humorDevice": "contrast",
+      "zhGloss": "陣風",
+      "speakLineEn": "Cue the 一陣風: gust walks on and the gag sticks.",
+      "speakLineZh": "請「一陣風」出場：gust 一上場梗就黏住——陣風。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b01"
+    },
+    {
+      "headword": "swelter",
+      "inVocab": true,
+      "senseAnchor": "悶熱",
+      "roleInScript": "悶熱棚",
+      "humorDevice": "contrast",
+      "zhGloss": "悶熱",
+      "speakLineEn": "Cue the 悶熱棚: swelter walks on and the gag sticks.",
+      "speakLineZh": "請「悶熱棚」出場：swelter 一上場梗就黏住——悶熱。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b01"
+    },
+    {
+      "headword": "humid",
+      "inVocab": true,
+      "senseAnchor": "潮濕的",
+      "roleInScript": "濕氣",
+      "humorDevice": "contrast",
+      "zhGloss": "潮濕的",
+      "speakLineEn": "Cue the 濕氣: humid walks on and the gag sticks.",
+      "speakLineZh": "請「濕氣」出場：humid 一上場梗就黏住——潮濕的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b01"
+    },
+    {
+      "headword": "balmy",
+      "inVocab": true,
+      "senseAnchor": "和煦的",
+      "roleInScript": "溫柔風",
+      "humorDevice": "contrast",
+      "zhGloss": "和煦的",
+      "speakLineEn": "Cue the 溫柔風: balmy walks on and the gag sticks.",
+      "speakLineZh": "請「溫柔風」出場：balmy 一上場梗就黏住——和煦的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b01"
+    },
+    {
+      "headword": "overcast",
+      "inVocab": true,
+      "senseAnchor": "the state of the sky when it is covered by clouds; gloomy semidarkness caused by cloud cover",
+      "roleInScript": "陰天幕",
+      "humorDevice": "contrast",
+      "zhGloss": "陰的",
+      "speakLineEn": "Cue the 陰天幕: overcast walks on and the gag sticks.",
+      "speakLineZh": "請「陰天幕」出場：overcast 一上場梗就黏住——陰的。",
+      "related": {
+        "synonyms": "cloudiness, overcasting, cloud, cloud-covered, clouded, sunless",
+        "antonyms": "clear up"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "parched",
+      "inVocab": true,
+      "senseAnchor": "乾透的",
+      "roleInScript": "乾裂",
+      "humorDevice": "contrast",
+      "zhGloss": "乾透的",
+      "speakLineEn": "Cue the 乾裂: parched walks on and the gag sticks.",
+      "speakLineZh": "請「乾裂」出場：parched 一上場梗就黏住——乾透的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b01"
+    },
+    {
+      "headword": "muggy",
+      "inVocab": true,
+      "senseAnchor": "hot or warm and humid",
+      "roleInScript": "黏空氣",
+      "humorDevice": "contrast",
+      "zhGloss": "悶濕的",
+      "speakLineEn": "Cue the 黏空氣: muggy walks on and the gag sticks.",
+      "speakLineZh": "請「黏空氣」出場：muggy 一上場梗就黏住——悶濕的。",
+      "related": {
+        "synonyms": "steamy, sticky",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "brisk",
+      "inVocab": true,
+      "senseAnchor": "become brisk; quick and energetic",
+      "roleInScript": "涼風",
+      "humorDevice": "contrast",
+      "zhGloss": "清爽的",
+      "speakLineEn": "Cue the 涼風: brisk walks on and the gag sticks.",
+      "speakLineZh": "請「涼風」出場：brisk 一上場梗就黏住——清爽的。",
+      "related": {
+        "synonyms": "brisken, alert, lively, merry, rattling, snappy",
+        "antonyms": "unalert, dull"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "shed",
+      "inVocab": false,
+      "senseAnchor": "道具棚",
+      "roleInScript": "道具棚",
+      "humorDevice": "story",
+      "zhGloss": "道具棚",
+      "speakLineEn": "Cue the 道具棚: shed walks on and the gag sticks.",
+      "speakLineZh": "請「道具棚」出場：shed 一上場梗就黏住——道具棚。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "fan",
+      "inVocab": false,
+      "senseAnchor": "風扇",
+      "roleInScript": "風扇",
+      "humorDevice": "story",
+      "zhGloss": "風扇",
+      "speakLineEn": "Cue the 風扇: fan walks on and the gag sticks.",
+      "speakLineZh": "請「風扇」出場：fan 一上場梗就黏住——風扇。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "boot",
+      "inVocab": false,
+      "senseAnchor": "雨靴",
+      "roleInScript": "雨靴",
+      "humorDevice": "story",
+      "zhGloss": "雨靴",
+      "speakLineEn": "Cue the 雨靴: boot walks on and the gag sticks.",
+      "speakLineZh": "請「雨靴」出場：boot 一上場梗就黏住——雨靴。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "towel",
+      "inVocab": false,
+      "senseAnchor": "毛巾",
+      "roleInScript": "毛巾",
+      "humorDevice": "story",
+      "zhGloss": "毛巾",
+      "speakLineEn": "Cue the 毛巾: towel walks on and the gag sticks.",
+      "speakLineZh": "請「毛巾」出場：towel 一上場梗就黏住——毛巾。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "天氣：drizzle/sleet/gust/swelter/balmy",
+    "swelter＝悶熱難耐"
+  ],
+  "pitfalls": [
+    "sleet≠sleet 拼寫確認"
+  ],
+  "lessonRefs": [
+    "lesson-p4-weather-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P4-batch01"
+  }
+}

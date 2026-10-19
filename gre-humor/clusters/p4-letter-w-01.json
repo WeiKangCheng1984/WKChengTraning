@@ -1,0 +1,237 @@
+{
+  "id": "p4-letter-w-01",
+  "type": "root",
+  "elementLemma": "orphan-w",
+  "titleZh": "orphan W｜W波浪池",
+  "titleEn": "Orphan W Scene",
+  "hook": "差集 W 專場開在W波浪池——沒進幽默庫的詞排隊檢票。",
+  "script": "wacky／waddle／waggish／waive／walrus／wanting 先檢票。其餘 orphan 接龍。檢票員：同字母只是入口，不是同義證；名牌上的中文才是身份證。",
+  "members": [
+    {
+      "headword": "wacky",
+      "inVocab": true,
+      "senseAnchor": "ludicrous, foolish; informal or slang terms for mentally irregular",
+      "roleInScript": "W席",
+      "humorDevice": "morphology",
+      "zhGloss": "古怪的",
+      "speakLineEn": "Cue the W席: wacky walks on and the gag sticks.",
+      "speakLineZh": "請「W席」出場：wacky 一上場梗就黏住——古怪的。",
+      "related": {
+        "synonyms": "cockamamie, cockamamy, goofy, sappy, silly, whacky",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "waddle",
+      "inVocab": true,
+      "senseAnchor": "walking with short steps and the weight tilting from one foot to the other; walk unsteadily",
+      "roleInScript": "W席",
+      "humorDevice": "morphology",
+      "zhGloss": "蹣跚",
+      "speakLineEn": "Cue the W席: waddle walks on and the gag sticks.",
+      "speakLineZh": "請「W席」出場：waddle 一上場梗就黏住——蹣跚。",
+      "related": {
+        "synonyms": "toddle, coggle, totter, dodder, paddle",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "waggish",
+      "inVocab": true,
+      "senseAnchor": "witty or joking; - James Fenimore Cooper",
+      "roleInScript": "W席",
+      "humorDevice": "morphology",
+      "zhGloss": "滑稽的",
+      "speakLineEn": "Cue the W席: waggish walks on and the gag sticks.",
+      "speakLineZh": "請「W席」出場：waggish 一上場梗就黏住——滑稽的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "waive",
+      "inVocab": true,
+      "senseAnchor": "do without or cease to hold or adhere to; lose (s.th.) or lose the right to (s.th.) by some error, offense, or crime",
+      "roleInScript": "W席",
+      "humorDevice": "morphology",
+      "zhGloss": "放棄",
+      "speakLineEn": "Cue the W席: waive walks on and the gag sticks.",
+      "speakLineZh": "請「W席」出場：waive 一上場梗就黏住——放棄。",
+      "related": {
+        "synonyms": "relinquish, forgo, forego, foreswear, forfeit",
+        "antonyms": "claim"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "walrus",
+      "inVocab": true,
+      "senseAnchor": "either of two large northern marine mammals having ivory tusks and tough hide over thick blubber",
+      "roleInScript": "W席",
+      "humorDevice": "morphology",
+      "zhGloss": "海象",
+      "speakLineEn": "Cue the W席: walrus walks on and the gag sticks.",
+      "speakLineZh": "請「W席」出場：walrus 一上場梗就黏住——海象。",
+      "related": {
+        "synonyms": "seahorse",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "wanting",
+      "inVocab": true,
+      "senseAnchor": "feel or have a desire for; want strongly; have need of",
+      "roleInScript": "W席",
+      "humorDevice": "morphology",
+      "zhGloss": "缺少",
+      "speakLineEn": "Cue the W席: wanting walks on and the gag sticks.",
+      "speakLineZh": "請「W席」出場：wanting 一上場梗就黏住——缺少。",
+      "related": {
+        "synonyms": "desire, want, need, require, lacking, absent",
+        "antonyms": "obviate, have, present"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "wanton",
+      "inVocab": true,
+      "senseAnchor": "lewd or lascivious woman; waste time; spend one's time idly or inefficiently",
+      "roleInScript": "W席",
+      "humorDevice": "morphology",
+      "zhGloss": "嬉戲的",
+      "speakLineEn": "Cue the W席: wanton walks on and the gag sticks.",
+      "speakLineZh": "請「W席」出場：wanton 一上場梗就黏住——嬉戲的。",
+      "related": {
+        "synonyms": "piddle, trifle, luxuriate, motiveless, unprovoked",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "warble",
+      "inVocab": true,
+      "senseAnchor": "to sing with trills, runs, or other melodic embellishments",
+      "roleInScript": "W席",
+      "humorDevice": "morphology",
+      "zhGloss": "v. 柔和地唱歌",
+      "speakLineEn": "Cue the W席: warble walks on and the gag sticks.",
+      "speakLineZh": "請「W席」出場：warble 一上場梗就黏住——v. 柔和地唱歌。",
+      "related": {
+        "synonyms": "croon",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "waspish",
+      "inVocab": true,
+      "senseAnchor": "very irritable",
+      "roleInScript": "W席",
+      "humorDevice": "morphology",
+      "zhGloss": "尖刻的",
+      "speakLineEn": "Cue the W席: waspish walks on and the gag sticks.",
+      "speakLineZh": "請「W席」出場：waspish 一上場梗就黏住——尖刻的。",
+      "related": {
+        "synonyms": "bristly, prickly, splenetic",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "wastrel",
+      "inVocab": true,
+      "senseAnchor": "a person who wastes time or money",
+      "roleInScript": "W席",
+      "humorDevice": "morphology",
+      "zhGloss": "n. 敗家子",
+      "speakLineEn": "Cue the W席: wastrel walks on and the gag sticks.",
+      "speakLineZh": "請「W席」出場：wastrel 一上場梗就黏住——n. 敗家子。",
+      "related": {
+        "synonyms": "profligate, spendthrift, squanderer",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "waylay",
+      "inVocab": true,
+      "senseAnchor": "wait in hiding to attack",
+      "roleInScript": "W席",
+      "humorDevice": "morphology",
+      "zhGloss": "埋伏",
+      "speakLineEn": "Cue the W席: waylay walks on and the gag sticks.",
+      "speakLineZh": "請「W席」出場：waylay 一上場梗就黏住——埋伏。",
+      "related": {
+        "synonyms": "ambush, scupper, bushwhack, lurk, ambuscade",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "wearisome",
+      "inVocab": true,
+      "senseAnchor": "so lacking in interest as to cause mental weariness; ; ; ; ; ; - Edmund Burke; ; - Mark Twain",
+      "roleInScript": "W席",
+      "humorDevice": "morphology",
+      "zhGloss": "累人的；使疲倦的",
+      "speakLineEn": "Cue the W席: wearisome walks on and the gag sticks.",
+      "speakLineZh": "請「W席」出場：wearisome 一上場梗就黏住——累人的；使疲倦的。",
+      "related": {
+        "synonyms": "boring, deadening, dull, ho-hum, irksome, slow",
+        "antonyms": "interest, enliven, bright, lively, sharp, sharpen, accelerate, fast"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "weary",
+      "inVocab": true,
+      "senseAnchor": "exhaust or get tired through overuse or great strain or stress; lose interest or become bored with something or somebody",
+      "roleInScript": "W席",
+      "humorDevice": "morphology",
+      "zhGloss": "疲倦的",
+      "speakLineEn": "Cue the W席: weary walks on and the gag sticks.",
+      "speakLineZh": "請「W席」出場：weary 一上場梗就黏住——疲倦的。",
+      "related": {
+        "synonyms": "tire, wear, jade, outwear, fag, fatigue",
+        "antonyms": "refresh"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "weather",
+      "inVocab": true,
+      "senseAnchor": "the atmospheric conditions that comprise the state of the atmosphere in terms of temperature and wind and clouds and precipitation; face and withstand with courage",
+      "roleInScript": "W席",
+      "humorDevice": "morphology",
+      "zhGloss": "v. 安全渡過（危機等）",
+      "speakLineEn": "Cue the W席: weather walks on and the gag sticks.",
+      "speakLineZh": "請「W席」出場：weather 一上場梗就黏住——v. 安全渡過（危機等）。",
+      "related": {
+        "synonyms": "conditions, endure, brave, upwind",
+        "antonyms": "enjoy, cowardly, timid, downwind, windward"
+      },
+      "vocabStatus": "in-vocab"
+    }
+  ],
+  "reviewHooks": [
+    "w-orphan：wacky/waddle/waggish/waive",
+    "P4 差集清剿"
+  ],
+  "pitfalls": [
+    "勿因同字母硬串錯誤字根故事"
+  ],
+  "lessonRefs": [
+    "lesson-p4-letter-w-01"
+  ],
+  "status": "reviewed",
+  "priority": "C",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P4-batch01"
+  }
+}

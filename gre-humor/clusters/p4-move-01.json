@@ -1,0 +1,194 @@
+{
+  "id": "p4-move-01",
+  "type": "semantic",
+  "elementLemma": "move-orphan",
+  "titleZh": "移動 orphan｜轉運站闹劇",
+  "titleEn": "Move Orphan Station",
+  "hook": "orphan 移動團擠轉運站：traipse／meander／scamper／lumber——廣播「別用爬的速度趕車」。",
+  "script": "traipse 疲憊走。meander 曲折繞。scamper 蹦跳。lumber 笨重走。saunter 溜達。trudge 跋涉。口令：轉運站寫「選對步態」，趕車寫「別 meander」。",
+  "members": [
+    {
+      "headword": "traipse",
+      "inVocab": true,
+      "senseAnchor": "walk or tramp about",
+      "roleInScript": "拖步",
+      "humorDevice": "contrast",
+      "zhGloss": "疲憊行走",
+      "speakLineEn": "Cue the 拖步: traipse walks on and the gag sticks.",
+      "speakLineZh": "請「拖步」出場：traipse 一上場梗就黏住——疲憊行走。",
+      "related": {
+        "synonyms": "shlep",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "scamper",
+      "inVocab": true,
+      "senseAnchor": "蹦跳跑",
+      "roleInScript": "小跑",
+      "humorDevice": "contrast",
+      "zhGloss": "蹦跳跑",
+      "speakLineEn": "Cue the 小跑: scamper walks on and the gag sticks.",
+      "speakLineZh": "請「小跑」出場：scamper 一上場梗就黏住——蹦跳跑。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b01"
+    },
+    {
+      "headword": "lumber",
+      "inVocab": true,
+      "senseAnchor": "the wood of trees cut and prepared for use as building material; an implement used in baseball by the batter",
+      "roleInScript": "笨重步",
+      "humorDevice": "contrast",
+      "zhGloss": "笨重走",
+      "speakLineEn": "Cue the 笨重步: lumber walks on and the gag sticks.",
+      "speakLineZh": "請「笨重步」出場：lumber 一上場梗就黏住——笨重走。",
+      "related": {
+        "synonyms": "timber, pound, log",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "saunter",
+      "inVocab": true,
+      "senseAnchor": "a careless leisurely gait; a leisurely walk (usually in some public place)",
+      "roleInScript": "溜達",
+      "humorDevice": "contrast",
+      "zhGloss": "閒逛",
+      "speakLineEn": "Cue the 溜達: saunter walks on and the gag sticks.",
+      "speakLineZh": "請「溜達」出場：saunter 一上場梗就黏住——閒逛。",
+      "related": {
+        "synonyms": "amble, promenade, stroll, perambulation",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "trudge",
+      "inVocab": true,
+      "senseAnchor": "跋涉",
+      "roleInScript": "沉重步",
+      "humorDevice": "contrast",
+      "zhGloss": "跋涉",
+      "speakLineEn": "Cue the 沉重步: trudge walks on and the gag sticks.",
+      "speakLineZh": "請「沉重步」出場：trudge 一上場梗就黏住——跋涉。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b01"
+    },
+    {
+      "headword": "amble",
+      "inVocab": true,
+      "senseAnchor": "緩行",
+      "roleInScript": "慢步",
+      "humorDevice": "contrast",
+      "zhGloss": "緩行",
+      "speakLineEn": "Cue the 慢步: amble walks on and the gag sticks.",
+      "speakLineZh": "請「慢步」出場：amble 一上場梗就黏住——緩行。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b01"
+    },
+    {
+      "headword": "stride",
+      "inVocab": true,
+      "senseAnchor": "大步走",
+      "roleInScript": "大步",
+      "humorDevice": "contrast",
+      "zhGloss": "大步走",
+      "speakLineEn": "Cue the 大步: stride walks on and the gag sticks.",
+      "speakLineZh": "請「大步」出場：stride 一上場梗就黏住——大步走。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b01"
+    },
+    {
+      "headword": "skulk",
+      "inVocab": true,
+      "senseAnchor": "潛行",
+      "roleInScript": "鬼祟走",
+      "humorDevice": "contrast",
+      "zhGloss": "潛行",
+      "speakLineEn": "Cue the 鬼祟走: skulk walks on and the gag sticks.",
+      "speakLineZh": "請「鬼祟走」出場：skulk 一上場梗就黏住——潛行。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b01"
+    },
+    {
+      "headword": "prowl",
+      "inVocab": true,
+      "senseAnchor": "the act of prowling (walking about in a stealthy manner); move about in or as if in a predatory manner",
+      "roleInScript": "巡游",
+      "humorDevice": "contrast",
+      "zhGloss": "徘徊覓食",
+      "speakLineEn": "Cue the 巡游: prowl walks on and the gag sticks.",
+      "speakLineZh": "請「巡游」出場：prowl 一上場梗就黏住——徘徊覓食。",
+      "related": {
+        "synonyms": "lurch",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "station",
+      "inVocab": false,
+      "senseAnchor": "轉運站",
+      "roleInScript": "轉運站",
+      "humorDevice": "story",
+      "zhGloss": "轉運站",
+      "speakLineEn": "Cue the 轉運站: station walks on and the gag sticks.",
+      "speakLineZh": "請「轉運站」出場：station 一上場梗就黏住——轉運站。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "bench",
+      "inVocab": false,
+      "senseAnchor": "長椅",
+      "roleInScript": "長椅",
+      "humorDevice": "story",
+      "zhGloss": "長椅",
+      "speakLineEn": "Cue the 長椅: bench walks on and the gag sticks.",
+      "speakLineZh": "請「長椅」出場：bench 一上場梗就黏住——長椅。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "走：traipse/meander/scamper/lumber/trudge",
+    "meander＝曲折前進"
+  ],
+  "pitfalls": [
+    "lumber 可作木材／笨重走"
+  ],
+  "lessonRefs": [
+    "lesson-p4-move-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P4-batch01"
+  }
+}

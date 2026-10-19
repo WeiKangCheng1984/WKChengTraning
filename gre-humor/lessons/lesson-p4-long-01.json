@@ -1,0 +1,96 @@
+{
+  "id": "lesson-p4-long-01",
+  "slug": "p4-long-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "p4-long-01",
+  "titleZh": "長詞 orphan｜伸縮行李轉盤",
+  "titleEn": "Long-Word Orphan Carousel",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "orphan 長詞團在行李轉盤：quintessential／circumstantial／conscientious／consequential——行李條寫不下，改貼漫畫。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "quintessential 典型精髓。circumstantial 間接情況的。conscientious 盡責。consequential 重要／自大。consternation 驚愕。口令：轉盤寫「別被長度嚇到」，義核寫「先抓詞根口氣」。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "長詞：quintessential/circumstantial/conscientious",
+        "quintessential＝典型精髓"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Most typical example:",
+      "promptZh": "典型精髓：",
+      "choices": [
+        "quintessential",
+        "luggage",
+        "repository",
+        "neon"
+      ],
+      "answer": "quintessential"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Guided by conscience / care:",
+      "promptZh": "盡責的：",
+      "choices": [
+        "conscientious",
+        "comic",
+        "forecast",
+        "sole"
+      ],
+      "answer": "conscientious"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Dismay / shocked confusion:",
+      "promptZh": "驚愕：",
+      "choices": [
+        "consternation",
+        "tag",
+        "omnibus",
+        "scanty"
+      ],
+      "answer": "consternation"
+    }
+  ],
+  "pitfalls": [
+    "consequential 有「重要」與「自大」兩義"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P4-batch01"
+  }
+}

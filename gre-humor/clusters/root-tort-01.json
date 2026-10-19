@@ -96,6 +96,81 @@
         "antonyms": ""
       },
       "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "torture",
+      "inVocab": false,
+      "senseAnchor": "折磨",
+      "roleInScript": "折磨輪",
+      "humorDevice": "morphology",
+      "zhGloss": "折磨",
+      "speakLineEn": "Cue the 折磨輪: torture walks on and the gag sticks.",
+      "speakLineZh": "請「折磨輪」出場：torture 一上場梗就黏住——折磨。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "torsion",
+      "inVocab": false,
+      "senseAnchor": "扭轉",
+      "roleInScript": "扭力",
+      "humorDevice": "morphology",
+      "zhGloss": "扭轉",
+      "speakLineEn": "Cue the 扭力: torsion walks on and the gag sticks.",
+      "speakLineZh": "請「扭力」出場：torsion 一上場梗就黏住——扭轉。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "extortion",
+      "inVocab": false,
+      "senseAnchor": "勒索",
+      "roleInScript": "勒索單",
+      "humorDevice": "morphology",
+      "zhGloss": "勒索",
+      "speakLineEn": "Cue the 勒索單: extortion walks on and the gag sticks.",
+      "speakLineZh": "請「勒索單」出場：extortion 一上場梗就黏住——勒索。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "nasturtium",
+      "inVocab": false,
+      "senseAnchor": "旱金蓮",
+      "roleInScript": "扭花",
+      "humorDevice": "morphology",
+      "zhGloss": "旱金蓮",
+      "speakLineEn": "Cue the 扭花: nasturtium walks on and the gag sticks.",
+      "speakLineZh": "請「扭花」出場：nasturtium 一上場梗就黏住——旱金蓮。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "torch",
+      "inVocab": false,
+      "senseAnchor": "火炬",
+      "roleInScript": "火炬",
+      "humorDevice": "morphology",
+      "zhGloss": "火炬",
+      "speakLineEn": "Cue the 火炬: torch walks on and the gag sticks.",
+      "speakLineZh": "請「火炬」出場：torch 一上場梗就黏住——火炬。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
     }
   ],
   "reviewHooks": [
@@ -116,6 +191,7 @@
   ],
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "note": "Stage-1 promote: aligned with tract lesson template"
+    "note": "Stage-1 promote: aligned with tract lesson template",
+    "thickenedAt": "P4-batch01"
   }
 }

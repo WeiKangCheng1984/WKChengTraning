@@ -96,6 +96,96 @@
         "antonyms": "validate, fall, lower, forward, obverse"
       },
       "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "creak",
+      "inVocab": false,
+      "senseAnchor": "嘎吱響",
+      "roleInScript": "地板叫",
+      "humorDevice": "morphology",
+      "zhGloss": "嘎吱響",
+      "speakLineEn": "Cue the 地板叫: creak walks on and the gag sticks.",
+      "speakLineZh": "請「地板叫」出場：creak 一上場梗就黏住——嘎吱響。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "speak",
+      "inVocab": false,
+      "senseAnchor": "說",
+      "roleInScript": "發言",
+      "humorDevice": "morphology",
+      "zhGloss": "說",
+      "speakLineEn": "Cue the 發言: speak walks on and the gag sticks.",
+      "speakLineZh": "請「發言」出場：speak 一上場梗就黏住——說。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "tweak",
+      "inVocab": false,
+      "senseAnchor": "微調",
+      "roleInScript": "微調鈕",
+      "humorDevice": "morphology",
+      "zhGloss": "微調",
+      "speakLineEn": "Cue the 微調鈕: tweak walks on and the gag sticks.",
+      "speakLineZh": "請「微調鈕」出場：tweak 一上場梗就黏住——微調。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "bespoke",
+      "inVocab": false,
+      "senseAnchor": "訂製的",
+      "roleInScript": "訂製牌",
+      "humorDevice": "morphology",
+      "zhGloss": "訂製的",
+      "speakLineEn": "Cue the 訂製牌: bespoke walks on and the gag sticks.",
+      "speakLineZh": "請「訂製牌」出場：bespoke 一上場梗就黏住——訂製的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "awoke",
+      "inVocab": false,
+      "senseAnchor": "醒來",
+      "roleInScript": "醒來",
+      "humorDevice": "morphology",
+      "zhGloss": "醒來",
+      "speakLineEn": "Cue the 醒來: awoke walks on and the gag sticks.",
+      "speakLineZh": "請「醒來」出場：awoke 一上場梗就黏住——醒來。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "smoke",
+      "inVocab": false,
+      "senseAnchor": "煙",
+      "roleInScript": "煙",
+      "humorDevice": "morphology",
+      "zhGloss": "煙",
+      "speakLineEn": "Cue the 煙: smoke walks on and the gag sticks.",
+      "speakLineZh": "請「煙」出場：smoke 一上場梗就黏住——煙。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
     }
   ],
   "reviewHooks": [
@@ -116,6 +206,7 @@
   ],
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "note": "Stage-1 promote: aligned with tract lesson template"
+    "note": "Stage-1 promote: aligned with tract lesson template",
+    "thickenedAt": "P4-batch01"
   }
 }

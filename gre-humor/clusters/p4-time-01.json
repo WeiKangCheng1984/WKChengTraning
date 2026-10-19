@@ -1,0 +1,211 @@
+{
+  "id": "p4-time-01",
+  "type": "semantic",
+  "elementLemma": "time-orphan",
+  "titleZh": "時間 orphan｜拖延候車室",
+  "titleEn": "Time Orphan Waiting Room",
+  "hook": "orphan 時間團在候車室：dally／dillydally／procrastination／anachronistic——鐘停了，大家還在說「再五分鐘」。",
+  "script": "dally／dillydally 磨蹭。procrastination 拖延。anachronistic 時空錯置。doodle 塗鴉混時間。faddish 短暫流行。口令：鐘寫「發車了」，塗鴉寫「別再畫火車」。",
+  "members": [
+    {
+      "headword": "dally",
+      "inVocab": true,
+      "senseAnchor": "behave carelessly or indifferently; waste time",
+      "roleInScript": "再五分",
+      "humorDevice": "contrast",
+      "zhGloss": "磨蹭",
+      "speakLineEn": "Cue the 再五分: dally walks on and the gag sticks.",
+      "speakLineZh": "請「再五分」出場：dally 一上場梗就黏住——磨蹭。",
+      "related": {
+        "synonyms": "toy, play, flirt, dawdle, butterfly, coquet",
+        "antonyms": "tightness, rush"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "dillydally",
+      "inVocab": true,
+      "senseAnchor": "postpone doing what one should be doing",
+      "roleInScript": "雙重拖",
+      "humorDevice": "contrast",
+      "zhGloss": "磨磨蹭蹭",
+      "speakLineEn": "Cue the 雙重拖: dillydally walks on and the gag sticks.",
+      "speakLineZh": "請「雙重拖」出場：dillydally 一上場梗就黏住——磨磨蹭蹭。",
+      "related": {
+        "synonyms": "procrastinate, stall, shillyshally, dilly-dally",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "procrastination",
+      "inVocab": true,
+      "senseAnchor": "the act of procrastinating; putting off or delaying or defering an action to a later time; slowness as a consequence of not getting around to it",
+      "roleInScript": "待辦山",
+      "humorDevice": "contrast",
+      "zhGloss": "拖延",
+      "speakLineEn": "Cue the 待辦山: procrastination walks on and the gag sticks.",
+      "speakLineZh": "請「待辦山」出場：procrastination 一上場梗就黏住——拖延。",
+      "related": {
+        "synonyms": "cunctation, shillyshally, dilatoriness",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "anachronistic",
+      "inVocab": true,
+      "senseAnchor": "placed in a wrong time",
+      "roleInScript": "錯季帽",
+      "humorDevice": "contrast",
+      "zhGloss": "時代錯置的",
+      "speakLineEn": "Cue the 錯季帽: anachronistic walks on and the gag sticks.",
+      "speakLineZh": "請「錯季帽」出場：anachronistic 一上場梗就黏住——時代錯置的。",
+      "related": {
+        "synonyms": "ahistorical",
+        "antonyms": "contemporary, timely, historical"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "doodle",
+      "inVocab": true,
+      "senseAnchor": "an aimless drawing; make a doodle; draw aimlessly",
+      "roleInScript": "塗鴉本",
+      "humorDevice": "contrast",
+      "zhGloss": "塗鴉",
+      "speakLineEn": "Cue the 塗鴉本: doodle walks on and the gag sticks.",
+      "speakLineZh": "請「塗鴉本」出場：doodle 一上場梗就黏住——塗鴉。",
+      "related": {
+        "synonyms": "scribble, scrabble",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "faddish",
+      "inVocab": true,
+      "senseAnchor": "intensely fashionable for a short time",
+      "roleInScript": "快閃潮",
+      "humorDevice": "contrast",
+      "zhGloss": "流行短暫的",
+      "speakLineEn": "Cue the 快閃潮: faddish walks on and the gag sticks.",
+      "speakLineZh": "請「快閃潮」出場：faddish 一上場梗就黏住——流行短暫的。",
+      "related": {
+        "synonyms": "faddy",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "footle",
+      "inVocab": true,
+      "senseAnchor": "be about; act foolishly, as by talking nonsense",
+      "roleInScript": "發呆椅",
+      "humorDevice": "contrast",
+      "zhGloss": "閒混",
+      "speakLineEn": "Cue the 發呆椅: footle walks on and the gag sticks.",
+      "speakLineZh": "請「發呆椅」出場：footle 一上場梗就黏住——閒混。",
+      "related": {
+        "synonyms": "loiter, lounge, lollygag, loaf, lallygag, tarry",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "overdue",
+      "inVocab": true,
+      "senseAnchor": "逾期的",
+      "roleInScript": "紅印",
+      "humorDevice": "contrast",
+      "zhGloss": "逾期的",
+      "speakLineEn": "Cue the 紅印: overdue walks on and the gag sticks.",
+      "speakLineZh": "請「紅印」出場：overdue 一上場梗就黏住——逾期的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b01"
+    },
+    {
+      "headword": "clock",
+      "inVocab": false,
+      "senseAnchor": "鐘",
+      "roleInScript": "鐘",
+      "humorDevice": "story",
+      "zhGloss": "鐘",
+      "speakLineEn": "Cue the 鐘: clock walks on and the gag sticks.",
+      "speakLineZh": "請「鐘」出場：clock 一上場梗就黏住——鐘。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "waitingroom",
+      "inVocab": false,
+      "senseAnchor": "候車室",
+      "roleInScript": "候車室",
+      "humorDevice": "story",
+      "zhGloss": "候車室",
+      "speakLineEn": "Cue the 候車室: waitingroom walks on and the gag sticks.",
+      "speakLineZh": "請「候車室」出場：waitingroom 一上場梗就黏住——候車室。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "timetable",
+      "inVocab": false,
+      "senseAnchor": "時刻表",
+      "roleInScript": "時刻表",
+      "humorDevice": "story",
+      "zhGloss": "時刻表",
+      "speakLineEn": "Cue the 時刻表: timetable walks on and the gag sticks.",
+      "speakLineZh": "請「時刻表」出場：timetable 一上場梗就黏住——時刻表。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "sketchbook",
+      "inVocab": false,
+      "senseAnchor": "素描本",
+      "roleInScript": "素描本",
+      "humorDevice": "story",
+      "zhGloss": "素描本",
+      "speakLineEn": "Cue the 素描本: sketchbook walks on and the gag sticks.",
+      "speakLineZh": "請「素描本」出場：sketchbook 一上場梗就黏住——素描本。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "時：dally/dillydally/procrastination/anachronistic",
+    "anachronistic＝時代錯置的"
+  ],
+  "pitfalls": [
+    "dally 也可指嬉戲／調情，語境先分"
+  ],
+  "lessonRefs": [
+    "lesson-p4-time-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P4-batch01"
+  }
+}

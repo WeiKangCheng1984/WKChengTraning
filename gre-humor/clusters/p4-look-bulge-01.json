@@ -1,0 +1,166 @@
+{
+  "id": "p4-look-bulge-01",
+  "type": "lookalike",
+  "elementLemma": "bulge-deluge-divulge-lite",
+  "titleZh": "bulge／delude 續攤｜鼓起工作室",
+  "titleEn": "Bulge Studio",
+  "hook": "P4 續攤：bulge 鼓起，旁边還有 tumble／stumble 家族殘黨——工作室地板貼「小心鼓包與跌倒」。",
+  "script": "bulge＝鼓起。tumble＝跌倒混亂。grumble＝抱怨。boggle＝猶豫吃驚。口令：鼓包寫「別踩」，抱怨寫「去服務台」。",
+  "members": [
+    {
+      "headword": "bulge",
+      "inVocab": true,
+      "senseAnchor": "something that bulges out or is protuberant or projects from its surroundings; swell or protrude outwards",
+      "roleInScript": "鼓包",
+      "humorDevice": "lookalike",
+      "zhGloss": "鼓起",
+      "speakLineEn": "Cue the 鼓包: bulge walks on and the gag sticks.",
+      "speakLineZh": "請「鼓包」出場：bulge 一上場梗就黏住——鼓起。",
+      "related": {
+        "synonyms": "bump, hump, swelling, gibbosity, gibbousness, jut",
+        "antonyms": "promote"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "tumble",
+      "inVocab": true,
+      "senseAnchor": "跌倒混亂",
+      "roleInScript": "翻滾",
+      "humorDevice": "lookalike",
+      "zhGloss": "跌倒混亂",
+      "speakLineEn": "Cue the 翻滾: tumble walks on and the gag sticks.",
+      "speakLineZh": "請「翻滾」出場：tumble 一上場梗就黏住——跌倒混亂。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b01"
+    },
+    {
+      "headword": "grumble",
+      "inVocab": true,
+      "senseAnchor": "抱怨",
+      "roleInScript": "咕噥",
+      "humorDevice": "lookalike",
+      "zhGloss": "抱怨",
+      "speakLineEn": "Cue the 咕噥: grumble walks on and the gag sticks.",
+      "speakLineZh": "請「咕噥」出場：grumble 一上場梗就黏住——抱怨。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b01"
+    },
+    {
+      "headword": "protuberance",
+      "inVocab": true,
+      "senseAnchor": "隆起",
+      "roleInScript": "凸起",
+      "humorDevice": "lookalike",
+      "zhGloss": "隆起",
+      "speakLineEn": "Cue the 凸起: protuberance walks on and the gag sticks.",
+      "speakLineZh": "請「凸起」出場：protuberance 一上場梗就黏住——隆起。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b01"
+    },
+    {
+      "headword": "bump",
+      "inVocab": false,
+      "senseAnchor": "凸塊",
+      "roleInScript": "凸塊",
+      "humorDevice": "story",
+      "zhGloss": "凸塊",
+      "speakLineEn": "Cue the 凸塊: bump walks on and the gag sticks.",
+      "speakLineZh": "請「凸塊」出場：bump 一上場梗就黏住——凸塊。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "complaint",
+      "inVocab": true,
+      "senseAnchor": "illness",
+      "roleInScript": "投訴",
+      "humorDevice": "story",
+      "zhGloss": "投訴",
+      "speakLineEn": "Cue the 投訴: complaint walks on and the gag sticks.",
+      "speakLineZh": "請「投訴」出場：complaint 一上場梗就黏住——投訴。",
+      "related": {
+        "synonyms": "ailment, malady, condition",
+        "antonyms": "wellness"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "tape",
+      "inVocab": false,
+      "senseAnchor": "膠帶",
+      "roleInScript": "膠帶",
+      "humorDevice": "story",
+      "zhGloss": "膠帶",
+      "speakLineEn": "Cue the 膠帶: tape walks on and the gag sticks.",
+      "speakLineZh": "請「膠帶」出場：tape 一上場梗就黏住——膠帶。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "knee",
+      "inVocab": false,
+      "senseAnchor": "膝蓋",
+      "roleInScript": "膝蓋",
+      "humorDevice": "story",
+      "zhGloss": "膝蓋",
+      "speakLineEn": "Cue the 膝蓋: knee walks on and the gag sticks.",
+      "speakLineZh": "請「膝蓋」出場：knee 一上場梗就黏住——膝蓋。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "caution",
+      "inVocab": false,
+      "senseAnchor": "小心",
+      "roleInScript": "小心",
+      "humorDevice": "story",
+      "zhGloss": "小心",
+      "speakLineEn": "Cue the 小心: caution walks on and the gag sticks.",
+      "speakLineZh": "請「小心」出場：caution 一上場梗就黏住——小心。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "bulge＝鼓起；tumble＝跌倒",
+    "與 delude/deluge 診所分流"
+  ],
+  "pitfalls": [
+    "場景道具勿當義核"
+  ],
+  "lessonRefs": [
+    "lesson-p4-look-bulge-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P4-batch01"
+  }
+}

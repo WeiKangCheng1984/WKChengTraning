@@ -1,0 +1,96 @@
+{
+  "id": "lesson-p4-look-cede-01",
+  "slug": "p4-look-cede-01",
+  "season": 3,
+  "seasonTitleZh": "語氣對打",
+  "seasonTitleEn": "Tone Duels",
+  "type": "duel",
+  "minutes": "12-15",
+  "clusterId": "p4-look-cede-01",
+  "titleZh": "cede／accede／concede｜割讓會議室",
+  "titleEn": "Cede Room",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "cede 割讓，accede 同意加入，concede 勉强承認——會議室三支麥克風：讓、加入、認輸。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "cede＝割讓放棄。accede＝同意／加入。concede＝承認讓步。secede＝退出。口令：讓地寫 cede，點頭寫 accede，舉手投降寫 concede；退場走 secede 那扇門。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "cede＝割讓；accede＝同意；concede＝承認",
+        "secede＝退出"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Give up territory:",
+      "promptZh": "割讓：",
+      "choices": [
+        "cede",
+        "accede",
+        "repository",
+        "neon"
+      ],
+      "answer": "cede"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Agree / join:",
+      "promptZh": "同意加入：",
+      "choices": [
+        "accede",
+        "secede",
+        "forecast",
+        "sole"
+      ],
+      "answer": "accede"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Admit / yield:",
+      "promptZh": "承认讓步：",
+      "choices": [
+        "concede",
+        "cede",
+        "omnibus",
+        "scanty"
+      ],
+      "answer": "concede"
+    }
+  ],
+  "pitfalls": [
+    "三詞都有讓，對象不同"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P4-batch01"
+  }
+}

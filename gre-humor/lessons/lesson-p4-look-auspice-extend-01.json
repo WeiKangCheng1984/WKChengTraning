@@ -1,0 +1,96 @@
+{
+  "id": "lesson-p4-look-auspice-extend-01",
+  "slug": "p4-look-auspice-extend-01",
+  "season": 3,
+  "seasonTitleZh": "語氣對打",
+  "seasonTitleEn": "Tone Duels",
+  "type": "duel",
+  "minutes": "12-15",
+  "clusterId": "p4-look-auspice-extend-01",
+  "titleZh": "apropos／opprobrium｜得體辱罵櫃台",
+  "titleEn": "Apropos Counter",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "apropos 是得體相關，opprobrium 是公開譴責——櫃台一側送賀卡，一側丟番茄。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "apropos／apposite＝貼切。opprobrium／opprobrious＝辱罵恥辱。口令：賀卡寫「說得巧」，番茄寫「別亂砸」。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "apropos＝貼切；opprobrium＝譴責恥辱",
+        "形近但語氣相反"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Fitting / to the point:",
+      "promptZh": "貼切：",
+      "choices": [
+        "apropos",
+        "opprobrium",
+        "repository",
+        "neon"
+      ],
+      "answer": "apropos"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Public disgrace:",
+      "promptZh": "公開恥辱：",
+      "choices": [
+        "opprobrium",
+        "apposite",
+        "forecast",
+        "sole"
+      ],
+      "answer": "opprobrium"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Abusive in tone:",
+      "promptZh": "辱罵的：",
+      "choices": [
+        "opprobrious",
+        "relevant",
+        "omnibus",
+        "scanty"
+      ],
+      "answer": "opprobrious"
+    }
+  ],
+  "pitfalls": [
+    "apposite≈apropos"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P4-batch01"
+  }
+}

@@ -96,6 +96,36 @@
         "antonyms": ""
       },
       "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "disdainful",
+      "inVocab": false,
+      "senseAnchor": "輕蔑的",
+      "roleInScript": "翻白眼",
+      "humorDevice": "contrast",
+      "zhGloss": "輕蔑的",
+      "speakLineEn": "Cue the 翻白眼: disdainful walks on and the gag sticks.",
+      "speakLineZh": "請「翻白眼」出場：disdainful 一上場梗就黏住——輕蔑的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "kowtow",
+      "inVocab": false,
+      "senseAnchor": "叩頭奉承",
+      "roleInScript": "叩頭",
+      "humorDevice": "contrast",
+      "zhGloss": "叩頭奉承",
+      "speakLineEn": "Cue the 叩頭: kowtow walks on and the gag sticks.",
+      "speakLineZh": "請「叩頭」出場：kowtow 一上場梗就黏住——叩頭奉承。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
     }
   ],
   "reviewHooks": [
@@ -116,6 +146,7 @@
   ],
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "note": "Stage-1 promote: aligned with tract lesson template"
+    "note": "Stage-1 promote: aligned with tract lesson template",
+    "thickenedAt": "P4-batch01"
   }
 }

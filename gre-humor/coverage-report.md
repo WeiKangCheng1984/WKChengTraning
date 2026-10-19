@@ -1,19 +1,19 @@
 # GRE Humor 覆蓋率報告
 
-> 產生時間：2026-10-19T06:27:50.184Z
+> 產生時間：2026-10-19T06:37:39.530Z
 
 ## 總覽
 
 | 指標 | 數值 |
 |------|------|
-| 詞庫 headword | 5064 |
-| 幽默庫獨特詞 | 3404 |
-| 已在詞庫內的覆蓋 | 2228 |
-| 幽默庫有、詞庫無（pending-add） | 1176 |
-| 家族數 | 275 |
+| 詞庫 headword | 5100 |
+| 幽默庫獨特詞 | 3819 |
+| 已在詞庫內的覆蓋 | 2544 |
+| 幽默庫有、詞庫無（pending-add） | 1275 |
+| 家族數 | 304 |
 | 核心元素 | 331（A=87） |
-| 覆蓋率（對詞庫） | 44.00% |
-| 距離 4,000 獨特詞 | 596 |
+| 覆蓋率（對詞庫） | 49.88% |
+| 距離 4,000 獨特詞 | 181 |
 
 ## 各家族
 
@@ -46,6 +46,35 @@
 | look-respect-01 | reviewed | 16 | 16 | 0 |
 | look-sensual-01 | reviewed | 16 | 16 | 0 |
 | look-venal-01 | reviewed | 12 | 12 | 0 |
+| p4-anger-01 | reviewed | 11 | 11 | 0 |
+| p4-body-01 | reviewed | 13 | 12 | 1 |
+| p4-fear-01 | reviewed | 11 | 9 | 2 |
+| p4-happy-01 | reviewed | 15 | 12 | 3 |
+| p4-law-01 | reviewed | 10 | 8 | 2 |
+| p4-letter-j-01 | reviewed | 14 | 14 | 0 |
+| p4-letter-q-01 | reviewed | 14 | 14 | 0 |
+| p4-letter-u-01 | reviewed | 14 | 14 | 0 |
+| p4-letter-v-01 | reviewed | 14 | 14 | 0 |
+| p4-letter-w-01 | reviewed | 14 | 14 | 0 |
+| p4-long-01 | reviewed | 12 | 9 | 3 |
+| p4-look-apocryphal-01 | reviewed | 12 | 6 | 6 |
+| p4-look-auspice-extend-01 | reviewed | 11 | 4 | 7 |
+| p4-look-bulge-01 | reviewed | 9 | 5 | 4 |
+| p4-look-cede-01 | reviewed | 11 | 2 | 9 |
+| p4-mind-01 | reviewed | 15 | 11 | 4 |
+| p4-mix-a-01 | reviewed | 16 | 16 | 0 |
+| p4-mix-b-01 | reviewed | 16 | 16 | 0 |
+| p4-mix-c-01 | reviewed | 16 | 16 | 0 |
+| p4-money-01 | reviewed | 11 | 10 | 1 |
+| p4-move-01 | reviewed | 11 | 9 | 2 |
+| p4-nature-01 | reviewed | 15 | 11 | 4 |
+| p4-neg-01 | reviewed | 13 | 11 | 2 |
+| p4-sad-01 | reviewed | 12 | 11 | 1 |
+| p4-self-01 | reviewed | 9 | 9 | 0 |
+| p4-speech-01 | reviewed | 9 | 8 | 1 |
+| p4-time-01 | reviewed | 12 | 8 | 4 |
+| p4-war-01 | reviewed | 12 | 11 | 1 |
+| p4-weather-01 | reviewed | 14 | 10 | 4 |
 | prefix-ab-01 | reviewed | 12 | 7 | 5 |
 | prefix-ambi-01 | reviewed | 12 | 5 | 7 |
 | prefix-ante-01 | reviewed | 11 | 7 | 4 |
@@ -85,12 +114,12 @@
 | rhyme-acious-01 | reviewed | 16 | 16 | 0 |
 | rhyme-ain-01 | reviewed | 14 | 14 | 0 |
 | rhyme-ancy-01 | reviewed | 12 | 10 | 2 |
-| rhyme-ant-01 | reviewed | 5 | 5 | 0 |
+| rhyme-ant-01 | reviewed | 9 | 6 | 3 |
 | rhyme-archy-01 | reviewed | 12 | 11 | 1 |
 | rhyme-ceive-01 | reviewed | 9 | 9 | 0 |
 | rhyme-claim-01 | reviewed | 11 | 6 | 5 |
-| rhyme-eak-01 | reviewed | 6 | 5 | 1 |
-| rhyme-edge-01 | reviewed | 5 | 5 | 0 |
+| rhyme-eak-01 | reviewed | 12 | 5 | 7 |
+| rhyme-edge-01 | reviewed | 9 | 5 | 4 |
 | rhyme-eous-01 | reviewed | 15 | 9 | 6 |
 | rhyme-escent-01 | reviewed | 12 | 12 | 0 |
 | rhyme-ire-01 | reviewed | 15 | 3 | 12 |
@@ -99,7 +128,7 @@
 | rhyme-oid-01 | reviewed | 16 | 10 | 6 |
 | rhyme-ory-01 | reviewed | 9 | 9 | 0 |
 | rhyme-ound-01 | reviewed | 12 | 8 | 4 |
-| rhyme-our-01 | reviewed | 5 | 3 | 2 |
+| rhyme-our-01 | reviewed | 9 | 3 | 6 |
 | rhyme-sion-01 | reviewed | 14 | 11 | 3 |
 | rhyme-sist-01 | reviewed | 10 | 0 | 10 |
 | rhyme-spir-01 | reviewed | 12 | 3 | 9 |
@@ -111,7 +140,7 @@
 | root-cap-01 | reviewed | 15 | 15 | 0 |
 | root-ced-01 | reviewed | 11 | 7 | 4 |
 | root-chron-01 | reviewed | 12 | 2 | 10 |
-| root-clud-01 | reviewed | 6 | 6 | 0 |
+| root-clud-01 | reviewed | 11 | 9 | 2 |
 | root-cred-01 | reviewed | 11 | 10 | 1 |
 | root-dict-01 | reviewed | 15 | 15 | 0 |
 | root-duc-01 | reviewed | 11 | 9 | 2 |
@@ -201,7 +230,7 @@
 | root-sacr-01 | reviewed | 12 | 12 | 0 |
 | root-sal-01 | reviewed | 12 | 12 | 0 |
 | root-sat-01 | reviewed | 11 | 3 | 8 |
-| root-scend-01 | reviewed | 5 | 5 | 0 |
+| root-scend-01 | reviewed | 11 | 7 | 4 |
 | root-sci-01 | reviewed | 12 | 5 | 7 |
 | root-scop-01 | reviewed | 12 | 0 | 12 |
 | root-scrib-01 | reviewed | 15 | 15 | 0 |
@@ -236,8 +265,8 @@
 | root-test-01 | reviewed | 12 | 3 | 9 |
 | root-thesis-01 | reviewed | 11 | 1 | 10 |
 | root-tom-01 | reviewed | 12 | 3 | 9 |
-| root-tort-01 | reviewed | 6 | 6 | 0 |
-| root-tract-01 | reviewed | 7 | 7 | 0 |
+| root-tort-01 | reviewed | 11 | 6 | 5 |
+| root-tract-01 | reviewed | 12 | 9 | 3 |
 | root-trib-01 | reviewed | 12 | 3 | 9 |
 | root-trud-01 | reviewed | 10 | 4 | 6 |
 | root-turb-01 | reviewed | 12 | 5 | 7 |
@@ -268,7 +297,7 @@
 | sem-clear-01 | reviewed | 15 | 15 | 0 |
 | sem-clear-obscure-02 | reviewed | 24 | 22 | 2 |
 | sem-courage-01 | reviewed | 12 | 12 | 0 |
-| sem-flattery-01 | reviewed | 6 | 6 | 0 |
+| sem-flattery-01 | reviewed | 8 | 6 | 2 |
 | sem-give-take-01 | reviewed | 18 | 12 | 6 |
 | sem-honest-01 | reviewed | 12 | 12 | 0 |
 | sem-honest-deceit-02 | reviewed | 23 | 19 | 4 |
@@ -290,9 +319,9 @@
 | sem-scarce-abundant-02 | reviewed | 25 | 25 | 0 |
 | sem-support-undermine-01 | reviewed | 25 | 25 | 0 |
 | sem-swift-slow-01 | reviewed | 21 | 15 | 6 |
-| sem-talk-01 | reviewed | 6 | 6 | 0 |
+| sem-talk-01 | reviewed | 8 | 6 | 2 |
 | sem-temp-perm-01 | reviewed | 25 | 23 | 2 |
-| sem-temper-01 | reviewed | 6 | 6 | 0 |
+| sem-temper-01 | reviewed | 12 | 9 | 3 |
 | sem-thrift-waste-01 | reviewed | 21 | 13 | 8 |
 
 ## pending-add（幽默庫有、詞庫無）
@@ -411,6 +440,67 @@
 - `sophisticated` ← look-ingenious-01
 - `map` ← look-perspective-01
 - `anglemark` ← look-perspective-01
+- `chart` ← p4-body-01
+- `corner` ← p4-fear-01
+- `elevator` ← p4-fear-01
+- `soda` ← p4-happy-01
+- `foam` ← p4-happy-01
+- `confetti` ← p4-happy-01
+- `match` ← p4-law-01
+- `robe` ← p4-law-01
+- `carousel` ← p4-long-01
+- `luggage` ← p4-long-01
+- `tag` ← p4-long-01
+- `editor` ← p4-look-apocryphal-01
+- `bloodpressure` ← p4-look-apocryphal-01
+- `water` ← p4-look-apocryphal-01
+- `factcheck` ← p4-look-apocryphal-01
+- `alert` ← p4-look-apocryphal-01
+- `myth` ← p4-look-apocryphal-01
+- `tomato` ← p4-look-auspice-extend-01
+- `card` ← p4-look-auspice-extend-01
+- `praise` ← p4-look-auspice-extend-01
+- `shame` ← p4-look-auspice-extend-01
+- `fit` ← p4-look-auspice-extend-01
+- `banner` ← p4-look-auspice-extend-01
+- `booing` ← p4-look-auspice-extend-01
+- `bump` ← p4-look-bulge-01
+- `tape` ← p4-look-bulge-01
+- `knee` ← p4-look-bulge-01
+- `caution` ← p4-look-bulge-01
+- `successor` ← p4-look-cede-01
+- `diplomat` ← p4-look-cede-01
+- `border` ← p4-look-cede-01
+- `compromise` ← p4-look-cede-01
+- `agreement` ← p4-look-cede-01
+- `withdrawal` ← p4-look-cede-01
+- `protocol` ← p4-look-cede-01
+- `embassy` ← p4-look-cede-01
+- `negotiator` ← p4-look-cede-01
+- `whiteboard` ← p4-mind-01
+- `lab` ← p4-mind-01
+- `monster` ← p4-mind-01
+- `bulb` ← p4-mind-01
+- `wallet` ← p4-money-01
+- `station` ← p4-move-01
+- `bench` ← p4-move-01
+- `lookout` ← p4-nature-01
+- `railing` ← p4-nature-01
+- `leaf` ← p4-nature-01
+- `wind` ← p4-nature-01
+- `eraser` ← p4-neg-01
+- `filter` ← p4-neg-01
+- `handkerchief` ← p4-sad-01
+- `globe` ← p4-speech-01
+- `clock` ← p4-time-01
+- `waitingroom` ← p4-time-01
+- `timetable` ← p4-time-01
+- `sketchbook` ← p4-time-01
+- `sandtable` ← p4-war-01
+- `shed` ← p4-weather-01
+- `fan` ← p4-weather-01
+- `boot` ← p4-weather-01
+- `towel` ← p4-weather-01
 - `abnormal` ← prefix-ab-01
 - `abort` ← prefix-ab-01
 - `abstract` ← prefix-ab-01
@@ -566,6 +656,9 @@
 - `against` ← prefix-with-01
 - `lamp` ← rhyme-ancy-01
 - `mayor` ← rhyme-ancy-01
+- `buoyant` ← rhyme-ant-01
+- `constant` ← rhyme-ant-01
+- `vibrant` ← rhyme-ant-01
 - `crown` ← rhyme-archy-01
 - `shout` ← rhyme-claim-01
 - `bulletin` ← rhyme-claim-01
@@ -573,6 +666,16 @@
 - `announcement` ← rhyme-claim-01
 - `outcry` ← rhyme-claim-01
 - `sneak` ← rhyme-eak-01
+- `creak` ← rhyme-eak-01
+- `speak` ← rhyme-eak-01
+- `tweak` ← rhyme-eak-01
+- `bespoke` ← rhyme-eak-01
+- `awoke` ← rhyme-eak-01
+- `smoke` ← rhyme-eak-01
+- `wedge` ← rhyme-edge-01
+- `dredge` ← rhyme-edge-01
+- `acknowledge` ← rhyme-edge-01
+- `knowledge` ← rhyme-edge-01
 - `hall` ← rhyme-eous-01
 - `rock` ← rhyme-eous-01
 - `wood` ← rhyme-eous-01
@@ -605,6 +708,10 @@
 - `ground` ← rhyme-ound-01
 - `pour` ← rhyme-our-01
 - `sour` ← rhyme-our-01
+- `flour` ← rhyme-our-01
+- `contour` ← rhyme-our-01
+- `vapour` ← rhyme-our-01
+- `harbour` ← rhyme-our-01
 - `parade` ← rhyme-sion-01
 - `bell` ← rhyme-sion-01
 - `door` ← rhyme-sion-01
@@ -673,6 +780,8 @@
 - `chronological` ← root-chron-01
 - `chronicle-worthy` ← root-chron-01
 - `out-of-sync` ← root-chron-01
+- `closure` ← root-clud-01
+- `enclosure` ← root-clud-01
 - `credit` ← root-cred-01
 - `educate` ← root-duc-01
 - `introduction` ← root-duc-01
@@ -1055,6 +1164,10 @@
 - `saturated` ← root-sat-01
 - `asset` ← root-sat-01
 - `enough` ← root-sat-01
+- `ascent` ← root-scend-01
+- `descent` ← root-scend-01
+- `descendant` ← root-scend-01
+- `ascension` ← root-scend-01
 - `science` ← root-sci-01
 - `conscious` ← root-sci-01
 - `nescience` ← root-sci-01
@@ -1260,6 +1373,14 @@
 - `slice` ← root-tom-01
 - `section` ← root-tom-01
 - `binary` ← root-tom-01
+- `torture` ← root-tort-01
+- `torsion` ← root-tort-01
+- `extortion` ← root-tort-01
+- `nasturtium` ← root-tort-01
+- `torch` ← root-tort-01
+- `extract` ← root-tract-01
+- `contract` ← root-tract-01
+- `subtract` ← root-tract-01
 - `contribute` ← root-trib-01
 - `contribution` ← root-trib-01
 - `contributor` ← root-trib-01
@@ -1394,6 +1515,8 @@
 - `waver` ← sem-certain-doubt-01
 - `fog` ← sem-clear-obscure-02
 - `mud` ← sem-clear-obscure-02
+- `disdainful` ← sem-flattery-01
+- `kowtow` ← sem-flattery-01
 - `gift` ← sem-give-take-01
 - `basket` ← sem-give-take-01
 - `will` ← sem-give-take-01
@@ -1463,8 +1586,13 @@
 - `meeting` ← sem-swift-slow-01
 - `turbo` ← sem-swift-slow-01
 - `brake` ← sem-swift-slow-01
+- `chatty` ← sem-talk-01
+- `prattle` ← sem-talk-01
 - `fleeting` ← sem-temp-perm-01
 - `durable` ← sem-temp-perm-01
+- `agreeable` ← sem-temper-01
+- `good-natured` ← sem-temper-01
+- `cordial` ← sem-temper-01
 - `piggybank` ← sem-thrift-waste-01
 - `shredder` ← sem-thrift-waste-01
 - `ledger` ← sem-thrift-waste-01
@@ -1476,7 +1604,7 @@
 
 ## 詞庫孤兒抽樣（尚未掛家族，前 40）
 
-`abandon` · `abash` · `abjudicate` · `absolute` · `abstemious` · `abstention` · `abstentious` · `abstinent` · `acarpous` · `accent` · `accentuate` · `accessory` · `accomplished` · `accost` · `accountability` · `accrete` · `accrue` · `accure` · `acerbity` · `acquisitive` · `acquit` · `acrid` · `acrobat` · `ad` · `adduce` · `adherent` · `adjourn` · `adulterate` · `adventitious` · `advert` · `aerate` · `aerial` · `affected` · `affective` · `affiliation` · `affix` · `affliction` · `affront` · `aftermath` · `aggrandize`
+`abash` · `acrid` · `ad` · `affix` · `agile` · `agog` · `agony` · `ague` · `ail` · `allay` · `amass` · `amity` · `analgesic` · `analogous` · `anatomize` · `anciliary` · `ancillary` · `anemia` · `anesthetic` · `anguish` · `animadvert` · `anneal` · `annihilate` · `annul` · `anomalous` · `antagonistic` · `antheism` · `anthem` · `anthropogenic` · `antic` · `anticlimactic` · `antithetical` · `aotocracy` · `apocalyptic` · `apostasy` · `apostate` · `apparition` · `apron` · `aquiline` · `arbitrate`
 
 ## 下一步建議（自動）
 

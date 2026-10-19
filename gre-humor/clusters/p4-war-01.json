@@ -1,0 +1,208 @@
+{
+  "id": "p4-war-01",
+  "type": "semantic",
+  "elementLemma": "war-orphan",
+  "titleZh": "戰意 orphan｜沙盤推演室",
+  "titleEn": "War Orphan Sand Table",
+  "hook": "orphan 戰意團推沙盤：animus／enmity／inimical／feint——教官說「這是演練」，有人已經把紅旗插滿。",
+  "script": "animus／enmity 敵意。inimical 敵對有害。feint 佯攻。martial 軍事的。munition 軍火。conflagration 大火（戰火意象）。口令：沙盤寫「演練」，紅旗寫「別真打」。",
+  "members": [
+    {
+      "headword": "animus",
+      "inVocab": true,
+      "senseAnchor": "a feeling of strong dislike",
+      "roleInScript": "紅旗",
+      "humorDevice": "contrast",
+      "zhGloss": "敵意",
+      "speakLineEn": "Cue the 紅旗: animus walks on and the gag sticks.",
+      "speakLineZh": "請「紅旗」出場：animus 一上場梗就黏住——敵意。",
+      "related": {
+        "synonyms": "hostility, rancor",
+        "antonyms": "goodwill, amity"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "enmity",
+      "inVocab": true,
+      "senseAnchor": "a state of deep-seated ill-will; the feeling of a hostile person",
+      "roleInScript": "對立線",
+      "humorDevice": "contrast",
+      "zhGloss": "敵意",
+      "speakLineEn": "Cue the 對立線: enmity walks on and the gag sticks.",
+      "speakLineZh": "請「對立線」出場：enmity 一上場梗就黏住——敵意。",
+      "related": {
+        "synonyms": "hostility, antagonism",
+        "antonyms": "friendship, amity"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "inimical",
+      "inVocab": true,
+      "senseAnchor": "not friendly",
+      "roleInScript": "有害標",
+      "humorDevice": "contrast",
+      "zhGloss": "敵對的",
+      "speakLineEn": "Cue the 有害標: inimical walks on and the gag sticks.",
+      "speakLineZh": "請「有害標」出場：inimical 一上場梗就黏住——敵對的。",
+      "related": {
+        "synonyms": "unfriendly",
+        "antonyms": "friendly"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "feint",
+      "inVocab": true,
+      "senseAnchor": "any distracting or deceptive maneuver (as a mock attack); deceive by a mock action",
+      "roleInScript": "假動作",
+      "humorDevice": "contrast",
+      "zhGloss": "佯攻",
+      "speakLineEn": "Cue the 假動作: feint walks on and the gag sticks.",
+      "speakLineZh": "請「假動作」出場：feint 一上場梗就黏住——佯攻。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "martial",
+      "inVocab": true,
+      "senseAnchor": "Roman poet noted for epigrams (first century BC); (of persons) befitting a warrior",
+      "roleInScript": "迷彩",
+      "humorDevice": "contrast",
+      "zhGloss": "軍事的",
+      "speakLineEn": "Cue the 迷彩: martial walks on and the gag sticks.",
+      "speakLineZh": "請「迷彩」出場：martial 一上場梗就黏住——軍事的。",
+      "related": {
+        "synonyms": "soldierly, soldierlike, warriorlike, warlike",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "munition",
+      "inVocab": true,
+      "senseAnchor": "weapons considered collectively; military supplies",
+      "roleInScript": "彈藥箱",
+      "humorDevice": "contrast",
+      "zhGloss": "軍火",
+      "speakLineEn": "Cue the 彈藥箱: munition walks on and the gag sticks.",
+      "speakLineZh": "請「彈藥箱」出場：munition 一上場梗就黏住——軍火。",
+      "related": {
+        "synonyms": "weaponry, arms, ordnance, fortification",
+        "antonyms": "disarm"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "conflagration",
+      "inVocab": true,
+      "senseAnchor": "a state of armed violent struggle between states, nations, or groups",
+      "roleInScript": "火線",
+      "humorDevice": "contrast",
+      "zhGloss": "大火",
+      "speakLineEn": "Cue the 火線: conflagration walks on and the gag sticks.",
+      "speakLineZh": "請「火線」出場：conflagration 一上場梗就黏住——大火。",
+      "related": {
+        "synonyms": "inferno",
+        "antonyms": "drizzle, trickle"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "cadet",
+      "inVocab": true,
+      "senseAnchor": "a military trainee (as at a military academy)",
+      "roleInScript": "新生盔",
+      "humorDevice": "contrast",
+      "zhGloss": "軍校生",
+      "speakLineEn": "Cue the 新生盔: cadet walks on and the gag sticks.",
+      "speakLineZh": "請「新生盔」出場：cadet 一上場梗就黏住——軍校生。",
+      "related": {
+        "synonyms": "plebe",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "skirmish",
+      "inVocab": true,
+      "senseAnchor": "a minor short-term fight; engage in a skirmish",
+      "roleInScript": "擦槍火",
+      "humorDevice": "contrast",
+      "zhGloss": "小衝突",
+      "speakLineEn": "Cue the 擦槍火: skirmish walks on and the gag sticks.",
+      "speakLineZh": "請「擦槍火」出場：skirmish 一上場梗就黏住——小衝突。",
+      "related": {
+        "synonyms": "brush, clash, encounter",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "besiege",
+      "inVocab": true,
+      "senseAnchor": "圍攻",
+      "roleInScript": "包圍圈",
+      "humorDevice": "contrast",
+      "zhGloss": "圍攻",
+      "speakLineEn": "Cue the 包圍圈: besiege walks on and the gag sticks.",
+      "speakLineZh": "請「包圍圈」出場：besiege 一上場梗就黏住——圍攻。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b01"
+    },
+    {
+      "headword": "rally",
+      "inVocab": true,
+      "senseAnchor": "重整旗鼓",
+      "roleInScript": "集合哨",
+      "humorDevice": "contrast",
+      "zhGloss": "重整旗鼓",
+      "speakLineEn": "Cue the 集合哨: rally walks on and the gag sticks.",
+      "speakLineZh": "請「集合哨」出場：rally 一上場梗就黏住——重整旗鼓。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b01"
+    },
+    {
+      "headword": "sandtable",
+      "inVocab": false,
+      "senseAnchor": "沙盤",
+      "roleInScript": "沙盤",
+      "humorDevice": "story",
+      "zhGloss": "沙盤",
+      "speakLineEn": "Cue the 沙盤: sandtable walks on and the gag sticks.",
+      "speakLineZh": "請「沙盤」出場：sandtable 一上場梗就黏住——沙盤。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "戰：animus/enmity/inimical/feint/martial",
+    "feint＝佯攻"
+  ],
+  "pitfalls": [
+    "animus＝敵意；animous 不是標配詞"
+  ],
+  "lessonRefs": [
+    "lesson-p4-war-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P4-batch01"
+  }
+}

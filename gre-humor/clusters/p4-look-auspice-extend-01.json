@@ -1,0 +1,199 @@
+{
+  "id": "p4-look-auspice-extend-01",
+  "type": "lookalike",
+  "elementLemma": "apropos-opprobrium",
+  "titleZh": "apropos／opprobrium｜得體辱罵櫃台",
+  "titleEn": "Apropos Counter",
+  "hook": "apropos 是得體相關，opprobrium 是公開譴責——櫃台一側送賀卡，一側丟番茄。",
+  "script": "apropos／apposite＝貼切。opprobrium／opprobrious＝辱罵恥辱。口令：賀卡寫「說得巧」，番茄寫「別亂砸」。",
+  "members": [
+    {
+      "headword": "apropos",
+      "inVocab": true,
+      "senseAnchor": "appropriate and relevant",
+      "roleInScript": "賀卡",
+      "humorDevice": "lookalike",
+      "zhGloss": "切題的",
+      "speakLineEn": "Cue the 賀卡: apropos walks on and the gag sticks.",
+      "speakLineZh": "請「賀卡」出場：apropos 一上場梗就黏住——切題的。",
+      "related": {
+        "synonyms": "germane",
+        "antonyms": "malapropos, irrelevant, extraneous"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "apposite",
+      "inVocab": true,
+      "senseAnchor": "貼切的",
+      "roleInScript": "剛好章",
+      "humorDevice": "lookalike",
+      "zhGloss": "貼切的",
+      "speakLineEn": "Cue the 剛好章: apposite walks on and the gag sticks.",
+      "speakLineZh": "請「剛好章」出場：apposite 一上場梗就黏住——貼切的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b01"
+    },
+    {
+      "headword": "opprobrium",
+      "inVocab": true,
+      "senseAnchor": "state of disgrace resulting from public abuse; a state of extreme dishonor; - F.D.Roosevelt",
+      "roleInScript": "番茄箱",
+      "humorDevice": "lookalike",
+      "zhGloss": "譴責恥辱",
+      "speakLineEn": "Cue the 番茄箱: opprobrium walks on and the gag sticks.",
+      "speakLineZh": "請「番茄箱」出場：opprobrium 一上場梗就黏住——譴責恥辱。",
+      "related": {
+        "synonyms": "obloquy, infamy",
+        "antonyms": "praise, acclaim, fame"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "opprobrious",
+      "inVocab": true,
+      "senseAnchor": "expressing offensive reproach; (used of conduct or character) deserving or bringing disgrace or shame; - Rachel Carson",
+      "roleInScript": "罵名牌",
+      "humorDevice": "lookalike",
+      "zhGloss": "辱罵的",
+      "speakLineEn": "Cue the 罵名牌: opprobrious walks on and the gag sticks.",
+      "speakLineZh": "請「罵名牌」出場：opprobrious 一上場梗就黏住——辱罵的。",
+      "related": {
+        "synonyms": "abusive, scurrilous, black, disgraceful, ignominious, inglorious",
+        "antonyms": "white, whiten, glorious"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "tomato",
+      "inVocab": false,
+      "senseAnchor": "番茄",
+      "roleInScript": "番茄",
+      "humorDevice": "story",
+      "zhGloss": "番茄",
+      "speakLineEn": "Cue the 番茄: tomato walks on and the gag sticks.",
+      "speakLineZh": "請「番茄」出場：tomato 一上場梗就黏住——番茄。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "card",
+      "inVocab": false,
+      "senseAnchor": "卡片",
+      "roleInScript": "卡片",
+      "humorDevice": "story",
+      "zhGloss": "卡片",
+      "speakLineEn": "Cue the 卡片: card walks on and the gag sticks.",
+      "speakLineZh": "請「卡片」出場：card 一上場梗就黏住——卡片。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "praise",
+      "inVocab": false,
+      "senseAnchor": "稱讚",
+      "roleInScript": "稱讚",
+      "humorDevice": "story",
+      "zhGloss": "稱讚",
+      "speakLineEn": "Cue the 稱讚: praise walks on and the gag sticks.",
+      "speakLineZh": "請「稱讚」出場：praise 一上場梗就黏住——稱讚。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "shame",
+      "inVocab": false,
+      "senseAnchor": "恥辱",
+      "roleInScript": "恥辱",
+      "humorDevice": "story",
+      "zhGloss": "恥辱",
+      "speakLineEn": "Cue the 恥辱: shame walks on and the gag sticks.",
+      "speakLineZh": "請「恥辱」出場：shame 一上場梗就黏住——恥辱。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "fit",
+      "inVocab": false,
+      "senseAnchor": "合適",
+      "roleInScript": "合適",
+      "humorDevice": "story",
+      "zhGloss": "合適",
+      "speakLineEn": "Cue the 合適: fit walks on and the gag sticks.",
+      "speakLineZh": "請「合適」出場：fit 一上場梗就黏住——合適。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "banner",
+      "inVocab": false,
+      "senseAnchor": "橫幅",
+      "roleInScript": "橫幅",
+      "humorDevice": "story",
+      "zhGloss": "橫幅",
+      "speakLineEn": "Cue the 橫幅: banner walks on and the gag sticks.",
+      "speakLineZh": "請「橫幅」出場：banner 一上場梗就黏住——橫幅。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "booing",
+      "inVocab": false,
+      "senseAnchor": "噓聲",
+      "roleInScript": "噓聲",
+      "humorDevice": "story",
+      "zhGloss": "噓聲",
+      "speakLineEn": "Cue the 噓聲: booing walks on and the gag sticks.",
+      "speakLineZh": "請「噓聲」出場：booing 一上場梗就黏住——噓聲。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "apropos＝貼切；opprobrium＝譴責恥辱",
+    "形近但語氣相反"
+  ],
+  "pitfalls": [
+    "apposite≈apropos"
+  ],
+  "lessonRefs": [
+    "lesson-p4-look-auspice-extend-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P4-batch01"
+  }
+}

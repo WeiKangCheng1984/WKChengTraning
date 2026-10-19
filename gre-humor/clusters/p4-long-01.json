@@ -1,0 +1,210 @@
+{
+  "id": "p4-long-01",
+  "type": "root",
+  "elementLemma": "long-orphan",
+  "titleZh": "長詞 orphan｜伸縮行李轉盤",
+  "titleEn": "Long-Word Orphan Carousel",
+  "hook": "orphan 長詞團在行李轉盤：quintessential／circumstantial／conscientious／consequential——行李條寫不下，改貼漫畫。",
+  "script": "quintessential 典型精髓。circumstantial 間接情況的。conscientious 盡責。consequential 重要／自大。consternation 驚愕。口令：轉盤寫「別被長度嚇到」，義核寫「先抓詞根口氣」。",
+  "members": [
+    {
+      "headword": "circumstantial",
+      "inVocab": true,
+      "senseAnchor": "fully detailed and specific about particulars",
+      "roleInScript": "旁證袋",
+      "humorDevice": "morphology",
+      "zhGloss": "間接情況的",
+      "speakLineEn": "Cue the 旁證袋: circumstantial walks on and the gag sticks.",
+      "speakLineZh": "請「旁證袋」出場：circumstantial 一上場梗就黏住——間接情況的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "conscientious",
+      "inVocab": true,
+      "senseAnchor": "characterized by extreme care and great effort; guided by or in accordance with conscience or sense of right and wrong",
+      "roleInScript": "勾選單",
+      "humorDevice": "morphology",
+      "zhGloss": "盡責的",
+      "speakLineEn": "Cue the 勾選單: conscientious walks on and the gag sticks.",
+      "speakLineZh": "請「勾選單」出場：conscientious 一上場梗就黏住——盡責的。",
+      "related": {
+        "synonyms": "painstaking, scrupulous",
+        "antonyms": "careless, negligent, unconscientious"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "consequential",
+      "inVocab": true,
+      "senseAnchor": "having important issues or results",
+      "roleInScript": "重量牌",
+      "humorDevice": "morphology",
+      "zhGloss": "重要的",
+      "speakLineEn": "Cue the 重量牌: consequential walks on and the gag sticks.",
+      "speakLineZh": "請「重量牌」出場：consequential 一上場梗就黏住——重要的。",
+      "related": {
+        "synonyms": "eventful",
+        "antonyms": "uneventful"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "consternation",
+      "inVocab": true,
+      "senseAnchor": "fear resulting from the awareness of danger",
+      "roleInScript": "呆住臉",
+      "humorDevice": "morphology",
+      "zhGloss": "驚愕",
+      "speakLineEn": "Cue the 呆住臉: consternation walks on and the gag sticks.",
+      "speakLineZh": "請「呆住臉」出場：consternation 一上場梗就黏住——驚愕。",
+      "related": {
+        "synonyms": "alarm, dismay",
+        "antonyms": "elate"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "confrontation",
+      "inVocab": true,
+      "senseAnchor": "a bold challenge; discord resulting from a clash of ideas or opinions",
+      "roleInScript": "對峙線",
+      "humorDevice": "morphology",
+      "zhGloss": "對峙",
+      "speakLineEn": "Cue the 對峙線: confrontation walks on and the gag sticks.",
+      "speakLineZh": "請「對峙線」出場：confrontation 一上場梗就黏住——對峙。",
+      "related": {
+        "synonyms": "encounter, showdown, face-off, opposition",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "deterioration",
+      "inVocab": true,
+      "senseAnchor": "a symptom of reduced quality or strength; process of changing to an inferior state",
+      "roleInScript": "下滑梯",
+      "humorDevice": "morphology",
+      "zhGloss": "惡化",
+      "speakLineEn": "Cue the 下滑梯: deterioration walks on and the gag sticks.",
+      "speakLineZh": "請「下滑梯」出場：deterioration 一上場梗就黏住——惡化。",
+      "related": {
+        "synonyms": "impairment, declension, worsening",
+        "antonyms": "ascent, better, bettering"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "susceptibility",
+      "inVocab": true,
+      "senseAnchor": "the state of being susceptible; easily affected",
+      "roleInScript": "易感標",
+      "humorDevice": "morphology",
+      "zhGloss": "易感性",
+      "speakLineEn": "Cue the 易感標: susceptibility walks on and the gag sticks.",
+      "speakLineZh": "請「易感標」出場：susceptibility 一上場梗就黏住——易感性。",
+      "related": {
+        "synonyms": "susceptibleness",
+        "antonyms": "unsusceptibility"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "accountability",
+      "inVocab": true,
+      "senseAnchor": "responsibility to someone or for some activity",
+      "roleInScript": "責任牌",
+      "humorDevice": "morphology",
+      "zhGloss": "課責",
+      "speakLineEn": "Cue the 責任牌: accountability walks on and the gag sticks.",
+      "speakLineZh": "請「責任牌」出場：accountability 一上場梗就黏住——課責。",
+      "related": {
+        "synonyms": "answerability, answerableness",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "presupposition",
+      "inVocab": true,
+      "senseAnchor": "the act of presupposing; a supposition made prior to having knowledge (as for the purpose of argument)",
+      "roleInScript": "前提貼",
+      "humorDevice": "morphology",
+      "zhGloss": "預設",
+      "speakLineEn": "Cue the 前提貼: presupposition walks on and the gag sticks.",
+      "speakLineZh": "請「前提貼」出場：presupposition 一上場梗就黏住——預設。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "carousel",
+      "inVocab": false,
+      "senseAnchor": "轉盤",
+      "roleInScript": "轉盤",
+      "humorDevice": "story",
+      "zhGloss": "轉盤",
+      "speakLineEn": "Cue the 轉盤: carousel walks on and the gag sticks.",
+      "speakLineZh": "請「轉盤」出場：carousel 一上場梗就黏住——轉盤。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "luggage",
+      "inVocab": false,
+      "senseAnchor": "行李",
+      "roleInScript": "行李",
+      "humorDevice": "story",
+      "zhGloss": "行李",
+      "speakLineEn": "Cue the 行李: luggage walks on and the gag sticks.",
+      "speakLineZh": "請「行李」出場：luggage 一上場梗就黏住——行李。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "tag",
+      "inVocab": false,
+      "senseAnchor": "行李條",
+      "roleInScript": "行李條",
+      "humorDevice": "story",
+      "zhGloss": "行李條",
+      "speakLineEn": "Cue the 行李條: tag walks on and the gag sticks.",
+      "speakLineZh": "請「行李條」出場：tag 一上場梗就黏住——行李條。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "長詞：quintessential/circumstantial/conscientious",
+    "quintessential＝典型精髓"
+  ],
+  "pitfalls": [
+    "consequential 有「重要」與「自大」兩義"
+  ],
+  "lessonRefs": [
+    "lesson-p4-long-01"
+  ],
+  "status": "reviewed",
+  "priority": "C",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P4-batch01"
+  }
+}

@@ -96,6 +96,36 @@
         "antonyms": "concise, succinct"
       },
       "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "chatty",
+      "inVocab": false,
+      "senseAnchor": "愛聊天的",
+      "roleInScript": "話匣",
+      "humorDevice": "contrast",
+      "zhGloss": "愛聊天的",
+      "speakLineEn": "Cue the 話匣: chatty walks on and the gag sticks.",
+      "speakLineZh": "請「話匣」出場：chatty 一上場梗就黏住——愛聊天的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "prattle",
+      "inVocab": false,
+      "senseAnchor": "閒聊",
+      "roleInScript": "碎嘴",
+      "humorDevice": "contrast",
+      "zhGloss": "閒聊",
+      "speakLineEn": "Cue the 碎嘴: prattle walks on and the gag sticks.",
+      "speakLineZh": "請「碎嘴」出場：prattle 一上場梗就黏住——閒聊。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
     }
   ],
   "reviewHooks": [
@@ -116,6 +146,7 @@
   ],
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "note": "Stage-1 promote: aligned with tract lesson template"
+    "note": "Stage-1 promote: aligned with tract lesson template",
+    "thickenedAt": "P4-batch01"
   }
 }

@@ -1,0 +1,556 @@
+{
+  "stage": "P4-pending-b01",
+  "at": "2026-10-19T06:37:39.322Z",
+  "pendingBefore": 97,
+  "addedToGreJson": [
+    {
+      "en": "accession",
+      "clusterId": "p4-look-cede-01",
+      "zh": "就職加入"
+    },
+    {
+      "en": "amble",
+      "clusterId": "p4-move-01",
+      "zh": "緩行"
+    },
+    {
+      "en": "apoplectic",
+      "clusterId": "p4-look-apocryphal-01",
+      "zh": "大怒的"
+    },
+    {
+      "en": "apposite",
+      "clusterId": "p4-look-auspice-extend-01",
+      "zh": "貼切的"
+    },
+    {
+      "en": "arid",
+      "clusterId": "p4-nature-01",
+      "zh": "乾旱的"
+    },
+    {
+      "en": "balmy",
+      "clusterId": "p4-weather-01",
+      "zh": "和煦的"
+    },
+    {
+      "en": "besiege",
+      "clusterId": "p4-war-01",
+      "zh": "圍攻"
+    },
+    {
+      "en": "drizzle",
+      "clusterId": "p4-weather-01",
+      "zh": "毛毛雨"
+    },
+    {
+      "en": "drought",
+      "clusterId": "p4-nature-01",
+      "zh": "乾旱"
+    },
+    {
+      "en": "egotism",
+      "clusterId": "p4-self-01",
+      "zh": "自我中心"
+    },
+    {
+      "en": "furious",
+      "clusterId": "p4-look-apocryphal-01",
+      "zh": "狂怒的"
+    },
+    {
+      "en": "gale",
+      "clusterId": "p4-nature-01",
+      "zh": "大風"
+    },
+    {
+      "en": "gleeful",
+      "clusterId": "p4-happy-01",
+      "zh": "得意洋洋的"
+    },
+    {
+      "en": "grumble",
+      "clusterId": "p4-look-bulge-01",
+      "zh": "抱怨"
+    },
+    {
+      "en": "gust",
+      "clusterId": "p4-weather-01",
+      "zh": "陣風"
+    },
+    {
+      "en": "humid",
+      "clusterId": "p4-weather-01",
+      "zh": "潮濕的"
+    },
+    {
+      "en": "insolvent",
+      "clusterId": "p4-money-01",
+      "zh": "無力償債的"
+    },
+    {
+      "en": "irate",
+      "clusterId": "p4-anger-01",
+      "zh": "憤怒的"
+    },
+    {
+      "en": "litigate",
+      "clusterId": "p4-law-01",
+      "zh": "訴訟"
+    },
+    {
+      "en": "modesty",
+      "clusterId": "p4-self-01",
+      "zh": "謙遜"
+    },
+    {
+      "en": "overdue",
+      "clusterId": "p4-time-01",
+      "zh": "逾期的"
+    },
+    {
+      "en": "parched",
+      "clusterId": "p4-weather-01",
+      "zh": "乾透的"
+    },
+    {
+      "en": "pardon",
+      "clusterId": "p4-law-01",
+      "zh": "赦免"
+    },
+    {
+      "en": "protuberance",
+      "clusterId": "p4-look-bulge-01",
+      "zh": "隆起"
+    },
+    {
+      "en": "rally",
+      "clusterId": "p4-war-01",
+      "zh": "重整旗鼓"
+    },
+    {
+      "en": "robust",
+      "clusterId": "p4-body-01",
+      "zh": "強健的"
+    },
+    {
+      "en": "rumination",
+      "clusterId": "p4-mind-01",
+      "zh": "反芻思考"
+    },
+    {
+      "en": "sallow",
+      "clusterId": "p4-body-01",
+      "zh": "病黃色的"
+    },
+    {
+      "en": "scamper",
+      "clusterId": "p4-move-01",
+      "zh": "蹦跳跑"
+    },
+    {
+      "en": "skulk",
+      "clusterId": "p4-move-01",
+      "zh": "潛行"
+    },
+    {
+      "en": "sleet",
+      "clusterId": "p4-weather-01",
+      "zh": "雨夾雪"
+    },
+    {
+      "en": "stride",
+      "clusterId": "p4-move-01",
+      "zh": "大步走"
+    },
+    {
+      "en": "swelter",
+      "clusterId": "p4-weather-01",
+      "zh": "悶熱"
+    },
+    {
+      "en": "tantrum",
+      "clusterId": "p4-anger-01",
+      "zh": "發脾氣"
+    },
+    {
+      "en": "trudge",
+      "clusterId": "p4-move-01",
+      "zh": "跋涉"
+    },
+    {
+      "en": "tumble",
+      "clusterId": "p4-look-bulge-01",
+      "zh": "跌倒混亂"
+    }
+  ],
+  "deferred": [
+    {
+      "en": "agreement",
+      "clusterId": "p4-look-cede-01",
+      "zh": "協議",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "alert",
+      "clusterId": "p4-look-apocryphal-01",
+      "zh": "警報",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "banner",
+      "clusterId": "p4-look-auspice-extend-01",
+      "zh": "橫幅",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "bench",
+      "clusterId": "p4-move-01",
+      "zh": "長椅",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "bloodpressure",
+      "clusterId": "p4-look-apocryphal-01",
+      "zh": "血壓",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "booing",
+      "clusterId": "p4-look-auspice-extend-01",
+      "zh": "噓聲",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "boot",
+      "clusterId": "p4-weather-01",
+      "zh": "雨靴",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "border",
+      "clusterId": "p4-look-cede-01",
+      "zh": "邊界",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "bulb",
+      "clusterId": "p4-mind-01",
+      "zh": "燈泡",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "bump",
+      "clusterId": "p4-look-bulge-01",
+      "zh": "凸塊",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "card",
+      "clusterId": "p4-look-auspice-extend-01",
+      "zh": "卡片",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "carousel",
+      "clusterId": "p4-long-01",
+      "zh": "轉盤",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "caution",
+      "clusterId": "p4-look-bulge-01",
+      "zh": "小心",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "chart",
+      "clusterId": "p4-body-01",
+      "zh": "圖表",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "clock",
+      "clusterId": "p4-time-01",
+      "zh": "鐘",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "compromise",
+      "clusterId": "p4-look-cede-01",
+      "zh": "妥協",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "confetti",
+      "clusterId": "p4-happy-01",
+      "zh": "彩紙",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "corner",
+      "clusterId": "p4-fear-01",
+      "zh": "角落",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "diplomat",
+      "clusterId": "p4-look-cede-01",
+      "zh": "外交官",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "editor",
+      "clusterId": "p4-look-apocryphal-01",
+      "zh": "編輯",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "elevator",
+      "clusterId": "p4-fear-01",
+      "zh": "電梯",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "embassy",
+      "clusterId": "p4-look-cede-01",
+      "zh": "大使館",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "eraser",
+      "clusterId": "p4-neg-01",
+      "zh": "橡皮擦",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "factcheck",
+      "clusterId": "p4-look-apocryphal-01",
+      "zh": "查核",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "fan",
+      "clusterId": "p4-weather-01",
+      "zh": "風扇",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "filter",
+      "clusterId": "p4-neg-01",
+      "zh": "濾鏡",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "fit",
+      "clusterId": "p4-look-auspice-extend-01",
+      "zh": "合適",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "foam",
+      "clusterId": "p4-happy-01",
+      "zh": "泡沫",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "globe",
+      "clusterId": "p4-speech-01",
+      "zh": "地球儀",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "handkerchief",
+      "clusterId": "p4-sad-01",
+      "zh": "手帕",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "knee",
+      "clusterId": "p4-look-bulge-01",
+      "zh": "膝蓋",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "lab",
+      "clusterId": "p4-mind-01",
+      "zh": "實驗室",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "leaf",
+      "clusterId": "p4-nature-01",
+      "zh": "葉子",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "lookout",
+      "clusterId": "p4-nature-01",
+      "zh": "觀景台",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "luggage",
+      "clusterId": "p4-long-01",
+      "zh": "行李",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "match",
+      "clusterId": "p4-law-01",
+      "zh": "火柴",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "monster",
+      "clusterId": "p4-mind-01",
+      "zh": "怪獸",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "myth",
+      "clusterId": "p4-look-apocryphal-01",
+      "zh": "迷思",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "negotiator",
+      "clusterId": "p4-look-cede-01",
+      "zh": "談判者",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "praise",
+      "clusterId": "p4-look-auspice-extend-01",
+      "zh": "稱讚",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "protocol",
+      "clusterId": "p4-look-cede-01",
+      "zh": "議定書",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "railing",
+      "clusterId": "p4-nature-01",
+      "zh": "欄杆",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "robe",
+      "clusterId": "p4-law-01",
+      "zh": "法袍",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "sandtable",
+      "clusterId": "p4-war-01",
+      "zh": "沙盤",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "shame",
+      "clusterId": "p4-look-auspice-extend-01",
+      "zh": "恥辱",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "shed",
+      "clusterId": "p4-weather-01",
+      "zh": "道具棚",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "sketchbook",
+      "clusterId": "p4-time-01",
+      "zh": "素描本",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "soda",
+      "clusterId": "p4-happy-01",
+      "zh": "汽水",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "station",
+      "clusterId": "p4-move-01",
+      "zh": "轉運站",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "successor",
+      "clusterId": "p4-look-cede-01",
+      "zh": "繼任",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "tag",
+      "clusterId": "p4-long-01",
+      "zh": "行李條",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "tape",
+      "clusterId": "p4-look-bulge-01",
+      "zh": "膠帶",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "timetable",
+      "clusterId": "p4-time-01",
+      "zh": "時刻表",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "tomato",
+      "clusterId": "p4-look-auspice-extend-01",
+      "zh": "番茄",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "towel",
+      "clusterId": "p4-weather-01",
+      "zh": "毛巾",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "waitingroom",
+      "clusterId": "p4-time-01",
+      "zh": "候車室",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "wallet",
+      "clusterId": "p4-money-01",
+      "zh": "錢包",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "water",
+      "clusterId": "p4-look-apocryphal-01",
+      "zh": "水",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "whiteboard",
+      "clusterId": "p4-mind-01",
+      "zh": "白板",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "wind",
+      "clusterId": "p4-nature-01",
+      "zh": "風",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "withdrawal",
+      "clusterId": "p4-look-cede-01",
+      "zh": "撤回",
+      "reason": "basic-multiword-or-specialty"
+    }
+  ],
+  "greTotalAfter": 5100
+}

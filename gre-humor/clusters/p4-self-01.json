@@ -1,0 +1,162 @@
+{
+  "id": "p4-self-01",
+  "type": "prefix",
+  "elementLemma": "self-orphan",
+  "titleZh": "self- orphan｜鏡子自白亭",
+  "titleEn": "Self- Orphan Booth",
+  "hook": "orphan self- 族進自白亭：self-righteous／self-deprecating／self-defeating——鏡子回嘴「你確定要這樣介紹自己？」",
+  "script": "self-righteous 自以為義。self-deprecating 自我貶低。self-defeating 自我拆台。self-abasement 自辱。self-assertion 自作主張。口令：鏡子寫「有自知之明」，別只剩自我攻防。",
+  "members": [
+    {
+      "headword": "self-righteous",
+      "inVocab": true,
+      "senseAnchor": "characterized by a certainty, especially an unfounded one,",
+      "roleInScript": "正義鏡",
+      "humorDevice": "morphology",
+      "zhGloss": "自以為是的",
+      "speakLineEn": "Cue the 正義鏡: self-righteous walks on and the gag sticks.",
+      "speakLineZh": "請「正義鏡」出場：self-righteous 一上場梗就黏住——自以為是的。",
+      "related": {
+        "synonyms": "holier-than-thou, pietistic, pietistical, pharisaic, pharisaical, sanctimonious",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "self-deprecating",
+      "inVocab": true,
+      "senseAnchor": "conscious of your own shortcomings",
+      "roleInScript": "貶低鏡",
+      "humorDevice": "morphology",
+      "zhGloss": "自我貶低的",
+      "speakLineEn": "Cue the 貶低鏡: self-deprecating walks on and the gag sticks.",
+      "speakLineZh": "請「貶低鏡」出場：self-deprecating 一上場梗就黏住——自我貶低的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "self-defeating",
+      "inVocab": true,
+      "senseAnchor": "causing more problems than it solves",
+      "roleInScript": "拆台鏡",
+      "humorDevice": "morphology",
+      "zhGloss": "自我拆台的",
+      "speakLineEn": "Cue the 拆台鏡: self-defeating walks on and the gag sticks.",
+      "speakLineZh": "請「拆台鏡」出場：self-defeating 一上場梗就黏住——自我拆台的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "self-abasement",
+      "inVocab": true,
+      "senseAnchor": "voluntary self-punishment in order to atone for some wrongdoing",
+      "roleInScript": "鞠躬鏡",
+      "humorDevice": "morphology",
+      "zhGloss": "自辱",
+      "speakLineEn": "Cue the 鞠躬鏡: self-abasement walks on and the gag sticks.",
+      "speakLineZh": "請「鞠躬鏡」出場：self-abasement 一上場梗就黏住——自辱。",
+      "related": {
+        "synonyms": "penance, self-mortification",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "self-assertion",
+      "inVocab": true,
+      "senseAnchor": "the act of putting forth your own opinions in a boastful or inconsiderate manner that implies you feel superior to others; the act of asserting yourself in an aggressive manner",
+      "roleInScript": "舉手鏡",
+      "humorDevice": "morphology",
+      "zhGloss": "自我主張",
+      "speakLineEn": "Cue the 舉手鏡: self-assertion walks on and the gag sticks.",
+      "speakLineZh": "請「舉手鏡」出場：self-assertion 一上場梗就黏住——自我主張。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "self-righteousness",
+      "inVocab": true,
+      "senseAnchor": "a GRE-level vocabulary item meaning closely related to its core sense in academic English",
+      "roleInScript": "光環過頭",
+      "humorDevice": "morphology",
+      "zhGloss": "自以為義",
+      "speakLineEn": "Cue the 光環過頭: self-righteousness walks on and the gag sticks.",
+      "speakLineZh": "請「光環過頭」出場：self-righteousness 一上場梗就黏住——自以為義。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "egotism",
+      "inVocab": true,
+      "senseAnchor": "自我中心",
+      "roleInScript": "大我牌",
+      "humorDevice": "morphology",
+      "zhGloss": "自我中心",
+      "speakLineEn": "Cue the 大我牌: egotism walks on and the gag sticks.",
+      "speakLineZh": "請「大我牌」出場：egotism 一上場梗就黏住——自我中心。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b01"
+    },
+    {
+      "headword": "modesty",
+      "inVocab": true,
+      "senseAnchor": "謙遜",
+      "roleInScript": "小我牌",
+      "humorDevice": "morphology",
+      "zhGloss": "謙遜",
+      "speakLineEn": "Cue the 小我牌: modesty walks on and the gag sticks.",
+      "speakLineZh": "請「小我牌」出場：modesty 一上場梗就黏住——謙遜。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b01"
+    },
+    {
+      "headword": "narcissism",
+      "inVocab": true,
+      "senseAnchor": "an exceptional interest in and admiration for yourself",
+      "roleInScript": "自拍燈",
+      "humorDevice": "morphology",
+      "zhGloss": "自戀",
+      "speakLineEn": "Cue the 自拍燈: narcissism walks on and the gag sticks.",
+      "speakLineZh": "請「自拍燈」出場：narcissism 一上場梗就黏住——自戀。",
+      "related": {
+        "synonyms": "self-love, narcism",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    }
+  ],
+  "reviewHooks": [
+    "self-：righteous/deprecating/defeating/abasement",
+    "self-defeating＝弄巧成拙"
+  ],
+  "pitfalls": [
+    "self-righteous≠righteous 單純正直"
+  ],
+  "lessonRefs": [
+    "lesson-p4-self-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P4-batch01"
+  }
+}

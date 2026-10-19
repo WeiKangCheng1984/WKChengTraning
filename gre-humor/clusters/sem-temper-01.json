@@ -96,6 +96,96 @@
         "antonyms": ""
       },
       "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "cantankerous",
+      "inVocab": true,
+      "senseAnchor": "stubbornly obstructive and unwilling to cooperate; - Spectator; having a difficult and contrary disposition; - Dorothy Sayers",
+      "roleInScript": "刺蝟翁",
+      "humorDevice": "contrast",
+      "zhGloss": "難相處的",
+      "speakLineEn": "Cue the 刺蝟翁: cantankerous walks on and the gag sticks.",
+      "speakLineZh": "請「刺蝟翁」出場：cantankerous 一上場梗就黏住——難相處的。",
+      "related": {
+        "synonyms": "bloody-minded, crotchety, ornery",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "testy",
+      "inVocab": true,
+      "senseAnchor": "easily annoyed",
+      "roleInScript": "點火就着",
+      "humorDevice": "contrast",
+      "zhGloss": "易怒的",
+      "speakLineEn": "Cue the 點火就着: testy walks on and the gag sticks.",
+      "speakLineZh": "請「點火就着」出場：testy 一上場梗就黏住——易怒的。",
+      "related": {
+        "synonyms": "choleric, irascible, irritable",
+        "antonyms": "calm, placid"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "agreeable",
+      "inVocab": false,
+      "senseAnchor": "討人喜歡的",
+      "roleInScript": "春風臉",
+      "humorDevice": "contrast",
+      "zhGloss": "討人喜歡的",
+      "speakLineEn": "Cue the 春風臉: agreeable walks on and the gag sticks.",
+      "speakLineZh": "請「春風臉」出場：agreeable 一上場梗就黏住——討人喜歡的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "good-natured",
+      "inVocab": false,
+      "senseAnchor": "脾氣好的",
+      "roleInScript": "好脾氣",
+      "humorDevice": "contrast",
+      "zhGloss": "脾氣好的",
+      "speakLineEn": "Cue the 好脾氣: good-natured walks on and the gag sticks.",
+      "speakLineZh": "請「好脾氣」出場：good-natured 一上場梗就黏住——脾氣好的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "cranky",
+      "inVocab": true,
+      "senseAnchor": "(used of boats) inclined to heel over easily under sail; easily irritated or annoyed",
+      "roleInScript": "曲柄怒",
+      "humorDevice": "contrast",
+      "zhGloss": "暴躁的",
+      "speakLineEn": "Cue the 曲柄怒: cranky walks on and the gag sticks.",
+      "speakLineZh": "請「曲柄怒」出場：cranky 一上場梗就黏住——暴躁的。",
+      "related": {
+        "synonyms": "crank, tender, tippy, fractious, irritable, nettlesome",
+        "antonyms": "tough, agreeable, docile"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "cordial",
+      "inVocab": false,
+      "senseAnchor": "熱誠的",
+      "roleInScript": "熱茶",
+      "humorDevice": "contrast",
+      "zhGloss": "熱誠的",
+      "speakLineEn": "Cue the 熱茶: cordial walks on and the gag sticks.",
+      "speakLineZh": "請「熱茶」出場：cordial 一上場梗就黏住——熱誠的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
     }
   ],
   "reviewHooks": [
@@ -115,6 +205,7 @@
   ],
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "note": "Stage-1 promote: aligned with tract lesson template"
+    "note": "Stage-1 promote: aligned with tract lesson template",
+    "thickenedAt": "P4-batch01"
   }
 }

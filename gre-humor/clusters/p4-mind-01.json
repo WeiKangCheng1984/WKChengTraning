@@ -1,0 +1,256 @@
+{
+  "id": "p4-mind-01",
+  "type": "semantic",
+  "elementLemma": "mind-orphan",
+  "titleZh": "思索 orphan｜靈感實驗室",
+  "titleEn": "Mind Orphan Lab",
+  "hook": "orphan 思索團進實驗室：cogitate／envisage／chimera／conjure——白板上畫了三個問號和一隻想像怪獸。",
+  "script": "cogitate／excogitate 沉思。envisage 設想。chimera 幻想。conjure 想起／變出。deliberate 深思熟慮。口令：白板寫「想清楚」，怪獸寫「別當真」。",
+  "members": [
+    {
+      "headword": "cogitate",
+      "inVocab": true,
+      "senseAnchor": "consider carefully and deeply; reflect upon; turn over in one's mind; use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments",
+      "roleInScript": "托腮",
+      "humorDevice": "contrast",
+      "zhGloss": "沉思",
+      "speakLineEn": "Cue the 托腮: cogitate walks on and the gag sticks.",
+      "speakLineZh": "請「托腮」出場：cogitate 一上場梗就黏住——沉思。",
+      "related": {
+        "synonyms": "think, cerebrate",
+        "antonyms": "forget"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "excogitate",
+      "inVocab": true,
+      "senseAnchor": "come up with (an idea, plan, explanation, theory, or principle) after a mental effort; reflect deeply on a subject",
+      "roleInScript": "靈感燈泡",
+      "humorDevice": "contrast",
+      "zhGloss": "想出",
+      "speakLineEn": "Cue the 靈感燈泡: excogitate walks on and the gag sticks.",
+      "speakLineZh": "請「靈感燈泡」出場：excogitate 一上場梗就黏住——想出。",
+      "related": {
+        "synonyms": "invent, contrive, devise, formulate, forge, meditate",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "envisage",
+      "inVocab": true,
+      "senseAnchor": "form a mental image of something that is not present or that is not the case",
+      "roleInScript": "藍圖脑",
+      "humorDevice": "contrast",
+      "zhGloss": "設想",
+      "speakLineEn": "Cue the 藍圖脑: envisage walks on and the gag sticks.",
+      "speakLineZh": "請「藍圖脑」出場：envisage 一上場梗就黏住——設想。",
+      "related": {
+        "synonyms": "imagine, ideate",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "chimera",
+      "inVocab": true,
+      "senseAnchor": "an impossible idea or hope",
+      "roleInScript": "想像獸",
+      "humorDevice": "contrast",
+      "zhGloss": "幻想",
+      "speakLineEn": "Cue the 想像獸: chimera walks on and the gag sticks.",
+      "speakLineZh": "請「想像獸」出場：chimera 一上場梗就黏住——幻想。",
+      "related": {
+        "synonyms": "fantasy, delusion, hallucination, illusion",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "conjure",
+      "inVocab": true,
+      "senseAnchor": "to form a mental picture of",
+      "roleInScript": "魔術手",
+      "humorDevice": "contrast",
+      "zhGloss": "想起變出",
+      "speakLineEn": "Cue the 魔術手: conjure walks on and the gag sticks.",
+      "speakLineZh": "請「魔術手」出場：conjure 一上場梗就黏住——想起變出。",
+      "related": {
+        "synonyms": "image, envisage",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "deliberate",
+      "inVocab": true,
+      "senseAnchor": "decide on as a result of careful thought",
+      "roleInScript": "慢思考",
+      "humorDevice": "contrast",
+      "zhGloss": "深思熟慮的",
+      "speakLineEn": "Cue the 慢思考: deliberate walks on and the gag sticks.",
+      "speakLineZh": "請「慢思考」出場：deliberate 一上場梗就黏住——深思熟慮的。",
+      "related": {
+        "synonyms": "ponderable, measured, thoughtful",
+        "antonyms": "imponderable, heedless, thoughtless"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "cogitant",
+      "inVocab": true,
+      "senseAnchor": "a GRE-level vocabulary item meaning closely related to its core sense in academic English",
+      "roleInScript": "沉思帽",
+      "humorDevice": "contrast",
+      "zhGloss": "沉思的",
+      "speakLineEn": "Cue the 沉思帽: cogitant walks on and the gag sticks.",
+      "speakLineZh": "請「沉思帽」出場：cogitant 一上場梗就黏住——沉思的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "rumination",
+      "inVocab": true,
+      "senseAnchor": "反芻思考",
+      "roleInScript": "反芻杯",
+      "humorDevice": "contrast",
+      "zhGloss": "反芻思考",
+      "speakLineEn": "Cue the 反芻杯: rumination walks on and the gag sticks.",
+      "speakLineZh": "請「反芻杯」出場：rumination 一上場梗就黏住——反芻思考。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b01"
+    },
+    {
+      "headword": "muse",
+      "inVocab": true,
+      "senseAnchor": "in ancient Greek mythology any of 9 daughters of Zeus and Mnemosyne; protector of an art or science; the source of an artist's inspiration",
+      "roleInScript": "望窗想",
+      "humorDevice": "contrast",
+      "zhGloss": "冥想",
+      "speakLineEn": "Cue the 望窗想: muse walks on and the gag sticks.",
+      "speakLineZh": "請「望窗想」出場：muse 一上場梗就黏住——冥想。",
+      "related": {
+        "synonyms": "meditate, ponder, excogitate, contemplate, reflect, mull",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "speculate",
+      "inVocab": true,
+      "senseAnchor": "make guesses about something",
+      "roleInScript": "假設牌",
+      "humorDevice": "contrast",
+      "zhGloss": "推測",
+      "speakLineEn": "Cue the 假設牌: speculate walks on and the gag sticks.",
+      "speakLineZh": "請「假設牌」出場：speculate 一上場梗就黏住——推測。",
+      "related": {
+        "synonyms": "conjecture",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "introspection",
+      "inVocab": true,
+      "senseAnchor": "the process of examining your own thoughts or feelings",
+      "roleInScript": "鏡子想",
+      "humorDevice": "contrast",
+      "zhGloss": "內省",
+      "speakLineEn": "Cue the 鏡子想: introspection walks on and the gag sticks.",
+      "speakLineZh": "請「鏡子想」出場：introspection 一上場梗就黏住——內省。",
+      "related": {
+        "synonyms": "self-contemplation, self-examination",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "whiteboard",
+      "inVocab": false,
+      "senseAnchor": "白板",
+      "roleInScript": "白板",
+      "humorDevice": "story",
+      "zhGloss": "白板",
+      "speakLineEn": "Cue the 白板: whiteboard walks on and the gag sticks.",
+      "speakLineZh": "請「白板」出場：whiteboard 一上場梗就黏住——白板。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "lab",
+      "inVocab": false,
+      "senseAnchor": "實驗室",
+      "roleInScript": "實驗室",
+      "humorDevice": "story",
+      "zhGloss": "實驗室",
+      "speakLineEn": "Cue the 實驗室: lab walks on and the gag sticks.",
+      "speakLineZh": "請「實驗室」出場：lab 一上場梗就黏住——實驗室。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "monster",
+      "inVocab": false,
+      "senseAnchor": "怪獸",
+      "roleInScript": "怪獸",
+      "humorDevice": "story",
+      "zhGloss": "怪獸",
+      "speakLineEn": "Cue the 怪獸: monster walks on and the gag sticks.",
+      "speakLineZh": "請「怪獸」出場：monster 一上場梗就黏住——怪獸。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "bulb",
+      "inVocab": false,
+      "senseAnchor": "燈泡",
+      "roleInScript": "燈泡",
+      "humorDevice": "story",
+      "zhGloss": "燈泡",
+      "speakLineEn": "Cue the 燈泡: bulb walks on and the gag sticks.",
+      "speakLineZh": "請「燈泡」出場：bulb 一上場梗就黏住——燈泡。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "思：cogitate/envisage/chimera/conjure",
+    "chimera＝空想／嵌合體"
+  ],
+  "pitfalls": [
+    "deliberate 可作形／動：深思的／仔細考慮"
+  ],
+  "lessonRefs": [
+    "lesson-p4-mind-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P4-batch01"
+  }
+}

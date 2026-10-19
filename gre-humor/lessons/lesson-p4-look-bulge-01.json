@@ -1,0 +1,96 @@
+{
+  "id": "lesson-p4-look-bulge-01",
+  "slug": "p4-look-bulge-01",
+  "season": 3,
+  "seasonTitleZh": "語氣對打",
+  "seasonTitleEn": "Tone Duels",
+  "type": "duel",
+  "minutes": "12-15",
+  "clusterId": "p4-look-bulge-01",
+  "titleZh": "bulge／delude 續攤｜鼓起工作室",
+  "titleEn": "Bulge Studio",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "P4 續攤：bulge 鼓起，旁边還有 tumble／stumble 家族殘黨——工作室地板貼「小心鼓包與跌倒」。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "bulge＝鼓起。tumble＝跌倒混亂。grumble＝抱怨。boggle＝猶豫吃驚。口令：鼓包寫「別踩」，抱怨寫「去服務台」。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "bulge＝鼓起；tumble＝跌倒",
+        "與 delude/deluge 診所分流"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Swell outward:",
+      "promptZh": "鼓起：",
+      "choices": [
+        "bulge",
+        "grumble",
+        "repository",
+        "neon"
+      ],
+      "answer": "bulge"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Fall suddenly:",
+      "promptZh": "跌倒：",
+      "choices": [
+        "tumble",
+        "bulge",
+        "forecast",
+        "sole"
+      ],
+      "answer": "tumble"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Complain muttering:",
+      "promptZh": "抱怨咕噥：",
+      "choices": [
+        "grumble",
+        "boggle",
+        "omnibus",
+        "scanty"
+      ],
+      "answer": "grumble"
+    }
+  ],
+  "pitfalls": [
+    "場景道具勿當義核"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P4-batch01"
+  }
+}

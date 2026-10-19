@@ -1,0 +1,223 @@
+{
+  "id": "p4-body-01",
+  "type": "semantic",
+  "elementLemma": "body-orphan",
+  "titleZh": "身體 orphan｜體檢漫畫室",
+  "titleEn": "Body Orphan Clinic Comic",
+  "hook": "orphan 身體團來體檢：corporeal／marrow／morbid／malinger——醫生畫漫畫圖解，病人還在裝病。",
+  "script": "corporeal 肉體的。marrow 精華／骨髓。morbid 病態。malinger 裝病。bedraggled 邋遢。carrion 腐肉。口令：體檢寫「誠實」，裝病寫「攝影機開着」。",
+  "members": [
+    {
+      "headword": "corporeal",
+      "inVocab": true,
+      "senseAnchor": "having material or physical form or substance;  - Benjamin Jowett; affecting or characteristic of the body as opposed to the mind or spirit",
+      "roleInScript": "肉體標",
+      "humorDevice": "contrast",
+      "zhGloss": "肉體的",
+      "speakLineEn": "Cue the 肉體標: corporeal walks on and the gag sticks.",
+      "speakLineZh": "請「肉體標」出場：corporeal 一上場梗就黏住——肉體的。",
+      "related": {
+        "synonyms": "material, bodily, corporal, somatic",
+        "antonyms": "incorporeal"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "marrow",
+      "inVocab": true,
+      "senseAnchor": "the fatty network of connective tissue that fills the cavities of bones; any of various squash plants grown for their elongated fruit with smooth dark green skin and whitish flesh",
+      "roleInScript": "骨髓杯",
+      "humorDevice": "contrast",
+      "zhGloss": "精華骨髓",
+      "speakLineEn": "Cue the 骨髓杯: marrow walks on and the gag sticks.",
+      "speakLineZh": "請「骨髓杯」出場：marrow 一上場梗就黏住——精華骨髓。",
+      "related": {
+        "synonyms": "kernel, substance, core, center, centre, essence",
+        "antonyms": "left, right"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "morbid",
+      "inVocab": true,
+      "senseAnchor": "suggesting an unhealthy mental state; suggesting the horror of death and decay",
+      "roleInScript": "黑趣味",
+      "humorDevice": "contrast",
+      "zhGloss": "病態的",
+      "speakLineEn": "Cue the 黑趣味: morbid walks on and the gag sticks.",
+      "speakLineZh": "請「黑趣味」出場：morbid 一上場梗就黏住——病態的。",
+      "related": {
+        "synonyms": "ghoulish, diseased, pathologic, pathological",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "malinger",
+      "inVocab": true,
+      "senseAnchor": "avoid responsibilities and duties, e.g., by pretending to be ill",
+      "roleInScript": "假病假",
+      "humorDevice": "contrast",
+      "zhGloss": "裝病",
+      "speakLineEn": "Cue the 假病假: malinger walks on and the gag sticks.",
+      "speakLineZh": "請「假病假」出場：malinger 一上場梗就黏住——裝病。",
+      "related": {
+        "synonyms": "skulk",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "bedraggled",
+      "inVocab": true,
+      "senseAnchor": "make wet and dirty, as from rain; limp and soiled as if dragged in the mud",
+      "roleInScript": "落湯雞",
+      "humorDevice": "contrast",
+      "zhGloss": "邋遢濕髒的",
+      "speakLineEn": "Cue the 落湯雞: bedraggled walks on and the gag sticks.",
+      "speakLineZh": "請「落湯雞」出場：bedraggled 一上場梗就黏住——邋遢濕髒的。",
+      "related": {
+        "synonyms": "bedraggle, draggle, draggled, broken-down, derelict, dilapidated",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "carrion",
+      "inVocab": true,
+      "senseAnchor": "the dead and rotting body of an animal; unfit for human food",
+      "roleInScript": "腐肉標",
+      "humorDevice": "contrast",
+      "zhGloss": "腐肉",
+      "speakLineEn": "Cue the 腐肉標: carrion walks on and the gag sticks.",
+      "speakLineZh": "請「腐肉標」出場：carrion 一上場梗就黏住——腐肉。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "demean",
+      "inVocab": true,
+      "senseAnchor": "reduce in worth or character, usually verbally",
+      "roleInScript": "貶低章",
+      "humorDevice": "contrast",
+      "zhGloss": "貶低",
+      "speakLineEn": "Cue the 貶低章: demean walks on and the gag sticks.",
+      "speakLineZh": "請「貶低章」出場：demean 一上場梗就黏住——貶低。",
+      "related": {
+        "synonyms": "degrade, disgrace",
+        "antonyms": "aggrade, honor"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "gaunt",
+      "inVocab": true,
+      "senseAnchor": "very thin especially from disease or hunger or cold",
+      "roleInScript": "瘦削",
+      "humorDevice": "contrast",
+      "zhGloss": "憔悴的",
+      "speakLineEn": "Cue the 瘦削: gaunt walks on and the gag sticks.",
+      "speakLineZh": "請「瘦削」出場：gaunt 一上場梗就黏住——憔悴的。",
+      "related": {
+        "synonyms": "bony, cadaverous, emaciated, haggard, pinched, skeletal",
+        "antonyms": "boneless"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "hale",
+      "inVocab": true,
+      "senseAnchor": "a soldier of the American Revolution who was hanged as a spy by the British; his last words were supposed to have been `I only regret that I have but one life to give for my country' (1755-1776); United States astronomer who discovered that sunspots are associated with strong magnetic fields (1868-1938)",
+      "roleInScript": "紅光臉",
+      "humorDevice": "contrast",
+      "zhGloss": "健壯的",
+      "speakLineEn": "Cue the 紅光臉: hale walks on and the gag sticks.",
+      "speakLineZh": "請「紅光臉」出場：hale 一上場梗就黏住——健壯的。",
+      "related": {
+        "synonyms": "coerce, squeeze, pressure, force, haul, cart",
+        "antonyms": "persuade, coax, pull, push"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "sallow",
+      "inVocab": true,
+      "senseAnchor": "病黃色的",
+      "roleInScript": "蠟黃",
+      "humorDevice": "contrast",
+      "zhGloss": "病黃色的",
+      "speakLineEn": "Cue the 蠟黃: sallow walks on and the gag sticks.",
+      "speakLineZh": "請「蠟黃」出場：sallow 一上場梗就黏住——病黃色的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b01"
+    },
+    {
+      "headword": "pallid",
+      "inVocab": true,
+      "senseAnchor": "abnormally deficient in color as suggesting physical or emotional distress; (of light) lacking in intensity or brightness; dim or feeble",
+      "roleInScript": "白紙臉",
+      "humorDevice": "contrast",
+      "zhGloss": "蒼白的",
+      "speakLineEn": "Cue the 白紙臉: pallid walks on and the gag sticks.",
+      "speakLineZh": "請「白紙臉」出場：pallid 一上場梗就黏住——蒼白的。",
+      "related": {
+        "synonyms": "pale, wan, sick",
+        "antonyms": "keep down, well"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "robust",
+      "inVocab": true,
+      "senseAnchor": "強健的",
+      "roleInScript": "杠鈴",
+      "humorDevice": "contrast",
+      "zhGloss": "強健的",
+      "speakLineEn": "Cue the 杠鈴: robust walks on and the gag sticks.",
+      "speakLineZh": "請「杠鈴」出場：robust 一上場梗就黏住——強健的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b01"
+    },
+    {
+      "headword": "chart",
+      "inVocab": false,
+      "senseAnchor": "圖表",
+      "roleInScript": "圖表",
+      "humorDevice": "story",
+      "zhGloss": "圖表",
+      "speakLineEn": "Cue the 圖表: chart walks on and the gag sticks.",
+      "speakLineZh": "請「圖表」出場：chart 一上場梗就黏住——圖表。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "身：corporeal/marrow/morbid/malinger",
+    "malinger＝裝病逃避"
+  ],
+  "pitfalls": [
+    "morbid 可指病態興趣，不只生病"
+  ],
+  "lessonRefs": [
+    "lesson-p4-body-01"
+  ],
+  "status": "reviewed",
+  "priority": "C",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P4-batch01"
+  }
+}

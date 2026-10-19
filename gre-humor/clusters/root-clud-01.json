@@ -96,6 +96,81 @@
         "antonyms": ""
       },
       "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "closure",
+      "inVocab": false,
+      "senseAnchor": "關閉",
+      "roleInScript": "關閉門",
+      "humorDevice": "morphology",
+      "zhGloss": "關閉",
+      "speakLineEn": "Cue the 關閉門: closure walks on and the gag sticks.",
+      "speakLineZh": "請「關閉門」出場：closure 一上場梗就黏住——關閉。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "enclosure",
+      "inVocab": false,
+      "senseAnchor": "圍場",
+      "roleInScript": "圍場",
+      "humorDevice": "morphology",
+      "zhGloss": "圍場",
+      "speakLineEn": "Cue the 圍場: enclosure walks on and the gag sticks.",
+      "speakLineZh": "請「圍場」出場：enclosure 一上場梗就黏住——圍場。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "foreclose",
+      "inVocab": true,
+      "senseAnchor": "keep from happening or arising; make impossible; subject to foreclosing procedures; take away the right of mortgagors to redeem their mortgage",
+      "roleInScript": "止贖章",
+      "humorDevice": "morphology",
+      "zhGloss": "止贖關閉",
+      "speakLineEn": "Cue the 止贖章: foreclose walks on and the gag sticks.",
+      "speakLineZh": "請「止贖章」出場：foreclose 一上場梗就黏住——止贖關閉。",
+      "related": {
+        "synonyms": "prevent, forestall, preclude, forbid",
+        "antonyms": "let, allow, permit"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "reclusive",
+      "inVocab": true,
+      "senseAnchor": "withdrawn from society; seeking solitude; providing privacy or seclusion",
+      "roleInScript": "隱居鎖",
+      "humorDevice": "morphology",
+      "zhGloss": "隱居的",
+      "speakLineEn": "Cue the 隱居鎖: reclusive walks on and the gag sticks.",
+      "speakLineZh": "請「隱居鎖」出場：reclusive 一上場梗就黏住——隱居的。",
+      "related": {
+        "synonyms": "recluse, withdrawn, cloistered, secluded, sequestered",
+        "antonyms": "socialite, extrovert, advance, deposit, engage"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "seclusion",
+      "inVocab": true,
+      "senseAnchor": "the quality of being secluded from the presence or view of others; the act of secluding yourself from others",
+      "roleInScript": "隱居屋",
+      "humorDevice": "morphology",
+      "zhGloss": "隱居",
+      "speakLineEn": "Cue the 隱居屋: seclusion walks on and the gag sticks.",
+      "speakLineZh": "請「隱居屋」出場：seclusion 一上場梗就黏住——隱居。",
+      "related": {
+        "synonyms": "privacy, privateness",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
     }
   ],
   "reviewHooks": [
@@ -116,6 +191,7 @@
   ],
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "note": "Stage-1 promote: aligned with tract lesson template"
+    "note": "Stage-1 promote: aligned with tract lesson template",
+    "thickenedAt": "P4-batch01"
   }
 }

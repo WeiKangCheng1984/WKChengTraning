@@ -81,6 +81,66 @@
         "antonyms": ""
       },
       "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "defiant",
+      "inVocab": true,
+      "senseAnchor": "boldly resisting authority or an opposing force",
+      "roleInScript": "反抗蟻",
+      "humorDevice": "morphology",
+      "zhGloss": "反抗的",
+      "speakLineEn": "Cue the 反抗蟻: defiant walks on and the gag sticks.",
+      "speakLineZh": "請「反抗蟻」出場：defiant 一上場梗就黏住——反抗的。",
+      "related": {
+        "synonyms": "noncompliant",
+        "antonyms": "compliant"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "buoyant",
+      "inVocab": false,
+      "senseAnchor": "輕快的",
+      "roleInScript": "浮力蟻",
+      "humorDevice": "morphology",
+      "zhGloss": "輕快的",
+      "speakLineEn": "Cue the 浮力蟻: buoyant walks on and the gag sticks.",
+      "speakLineZh": "請「浮力蟻」出場：buoyant 一上場梗就黏住——輕快的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "constant",
+      "inVocab": false,
+      "senseAnchor": "不變的",
+      "roleInScript": "恆定蟻",
+      "humorDevice": "morphology",
+      "zhGloss": "不變的",
+      "speakLineEn": "Cue the 恆定蟻: constant walks on and the gag sticks.",
+      "speakLineZh": "請「恆定蟻」出場：constant 一上場梗就黏住——不變的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
+    },
+    {
+      "headword": "vibrant",
+      "inVocab": false,
+      "senseAnchor": "活力的",
+      "roleInScript": "震動蟻",
+      "humorDevice": "morphology",
+      "zhGloss": "活力的",
+      "speakLineEn": "Cue the 震動蟻: vibrant walks on and the gag sticks.",
+      "speakLineZh": "請「震動蟻」出場：vibrant 一上場梗就黏住——活力的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "pending-add"
     }
   ],
   "reviewHooks": [
@@ -101,6 +161,7 @@
   ],
   "qualityGate": {
     "reviewedAt": "2026-10-18",
-    "note": "Stage-1 promote: aligned with tract lesson template"
+    "note": "Stage-1 promote: aligned with tract lesson template",
+    "thickenedAt": "P4-batch01"
   }
 }
