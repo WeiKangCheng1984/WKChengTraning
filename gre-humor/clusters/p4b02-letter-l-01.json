@@ -1,0 +1,237 @@
+{
+  "id": "p4b02-letter-l-01",
+  "type": "root",
+  "elementLemma": "orphan-l",
+  "titleZh": "orphan L｜L轉盤",
+  "titleEn": "Orphan L",
+  "hook": "差集 L 專場開在L轉盤——名牌用中文，防止走失。",
+  "script": "labile/labortious/lacerate/lachrymose 先登台，其餘 orphan 接龍。清倉晚會續攤：同字母檢票，義核才是身份證。",
+  "members": [
+    {
+      "headword": "labile",
+      "inVocab": true,
+      "senseAnchor": "(chemistry, physics, biology) readily undergoing change or breakdown; liable to change",
+      "roleInScript": "L席-不穩定的",
+      "humorDevice": "morphology",
+      "zhGloss": "不穩定的；易變的",
+      "speakLineEn": "Cue the L席-不穩定的: labile walks on and the gag sticks.",
+      "speakLineZh": "請「L席-不穩定的」出場：labile 一上場梗就黏住——不穩定的；易變的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "labortious",
+      "inVocab": true,
+      "senseAnchor": "a GRE-level vocabulary item meaning closely related to its core sense in academic English",
+      "roleInScript": "L席-勤勉的",
+      "humorDevice": "morphology",
+      "zhGloss": "勤勉的",
+      "speakLineEn": "Cue the L席-勤勉的: labortious walks on and the gag sticks.",
+      "speakLineZh": "請「L席-勤勉的」出場：labortious 一上場梗就黏住——勤勉的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "lacerate",
+      "inVocab": true,
+      "senseAnchor": "cut or tear irregularly; deeply hurt the feelings of; distress",
+      "roleInScript": "L席-傷害；撕",
+      "humorDevice": "morphology",
+      "zhGloss": "傷害；撕裂",
+      "speakLineEn": "Cue the L席-傷害；撕: lacerate walks on and the gag sticks.",
+      "speakLineZh": "請「L席-傷害；撕」出場：lacerate 一上場梗就黏住——傷害；撕裂。",
+      "related": {
+        "synonyms": "lacerated, mangled, torn",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "lachrymose",
+      "inVocab": true,
+      "senseAnchor": "showing sorrow",
+      "roleInScript": "L席-悲哀的；",
+      "humorDevice": "morphology",
+      "zhGloss": "悲哀的；愛哭的",
+      "speakLineEn": "Cue the L席-悲哀的；: lachrymose walks on and the gag sticks.",
+      "speakLineZh": "請「L席-悲哀的；」出場：lachrymose 一上場梗就黏住——悲哀的；愛哭的。",
+      "related": {
+        "synonyms": "dolorous, dolourous, tearful, weeping",
+        "antonyms": "tearless, laugh"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "lachymose",
+      "inVocab": true,
+      "senseAnchor": "a GRE-level vocabulary item meaning closely related to its core sense in academic English",
+      "roleInScript": "L席-愛哭的；",
+      "humorDevice": "morphology",
+      "zhGloss": "愛哭的；悲哀的",
+      "speakLineEn": "Cue the L席-愛哭的；: lachymose walks on and the gag sticks.",
+      "speakLineZh": "請「L席-愛哭的；」出場：lachymose 一上場梗就黏住——愛哭的；悲哀的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "lactic",
+      "inVocab": true,
+      "senseAnchor": "of or relating to or obtained from milk (especially sour milk or whey)",
+      "roleInScript": "L席-乳的",
+      "humorDevice": "morphology",
+      "zhGloss": "乳的",
+      "speakLineEn": "Cue the L席-乳的: lactic walks on and the gag sticks.",
+      "speakLineZh": "請「L席-乳的」出場：lactic 一上場梗就黏住——乳的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "lamentable",
+      "inVocab": true,
+      "senseAnchor": "bad; unfortunate",
+      "roleInScript": "L席-可悲的；",
+      "humorDevice": "morphology",
+      "zhGloss": "可悲的；悲痛的",
+      "speakLineEn": "Cue the L席-可悲的；: lamentable walks on and the gag sticks.",
+      "speakLineZh": "請「L席-可悲的；」出場：lamentable 一上場梗就黏住——可悲的；悲痛的。",
+      "related": {
+        "synonyms": "deplorable, distressing, pitiful, sad, sorry",
+        "antonyms": "glad, unregretful"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "lampoon",
+      "inVocab": true,
+      "senseAnchor": "a composition that imitates or misrepresents somebody's style, usually in a humorous way; ridicule with satire",
+      "roleInScript": "L席-公開諷刺",
+      "humorDevice": "morphology",
+      "zhGloss": "公開諷刺",
+      "speakLineEn": "Cue the L席-公開諷刺: lampoon walks on and the gag sticks.",
+      "speakLineZh": "請「L席-公開諷刺」出場：lampoon 一上場梗就黏住——公開諷刺。",
+      "related": {
+        "synonyms": "parody, spoof, sendup, mockery, takeoff, burlesque",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "languid",
+      "inVocab": true,
+      "senseAnchor": "lacking spirit or liveliness",
+      "roleInScript": "L席-憔悴的；",
+      "humorDevice": "morphology",
+      "zhGloss": "憔悴的；衰弱的",
+      "speakLineEn": "Cue the L席-憔悴的；: languid walks on and the gag sticks.",
+      "speakLineZh": "請「L席-憔悴的；」出場：languid 一上場梗就黏住——憔悴的；衰弱的。",
+      "related": {
+        "synonyms": "dreamy, lackadaisical, languorous",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "languish",
+      "inVocab": true,
+      "senseAnchor": "to become weak or unsuccessful",
+      "roleInScript": "L席-v. 變",
+      "humorDevice": "morphology",
+      "zhGloss": "v. 變得衰弱",
+      "speakLineEn": "Cue the L席-v. 變: languish walks on and the gag sticks.",
+      "speakLineZh": "請「L席-v. 變」出場：languish 一上場梗就黏住——v. 變得衰弱。",
+      "related": {
+        "synonyms": "fade, flag, wither",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "languor",
+      "inVocab": true,
+      "senseAnchor": "a relaxed comfortable feeling; a feeling of lack of interest or energy",
+      "roleInScript": "L席-衰弱；懶",
+      "humorDevice": "morphology",
+      "zhGloss": "衰弱；懶惰",
+      "speakLineEn": "Cue the L席-衰弱；懶: languor walks on and the gag sticks.",
+      "speakLineZh": "請「L席-衰弱；懶」出場：languor 一上場梗就黏住——衰弱；懶惰。",
+      "related": {
+        "synonyms": "dreaminess, lassitude, listlessness, lethargy, sluggishness, phlegm",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "lapse",
+      "inVocab": true,
+      "senseAnchor": "an unintentional departure from truth or accuracy",
+      "roleInScript": "L席-n. 失",
+      "humorDevice": "morphology",
+      "zhGloss": "n. 失誤",
+      "speakLineEn": "Cue the L席-n. 失: lapse walks on and the gag sticks.",
+      "speakLineZh": "請「L席-n. 失」出場：lapse 一上場梗就黏住——n. 失誤。",
+      "related": {
+        "synonyms": "blunder, gaffe, oversight, slip",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "largess",
+      "inVocab": true,
+      "senseAnchor": "a gift or money given (as for service or out of benevolence); usually given ostentatiously; liberality in bestowing gifts; extremely liberal and generous of spirit",
+      "roleInScript": "L席-贈送；饋",
+      "humorDevice": "morphology",
+      "zhGloss": "贈送；饋贈",
+      "speakLineEn": "Cue the L席-贈送；饋: largess walks on and the gag sticks.",
+      "speakLineZh": "請「L席-贈送；饋」出場：largess 一上場梗就黏住——贈送；饋贈。",
+      "related": {
+        "synonyms": "largesse, munificence, magnanimity, openhandedness",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "lassitude",
+      "inVocab": true,
+      "senseAnchor": "a state of comatose torpor (as found in sleeping sickness); a feeling of lack of interest or energy",
+      "roleInScript": "L席-無精打採",
+      "humorDevice": "morphology",
+      "zhGloss": "無精打採；疲乏",
+      "speakLineEn": "Cue the L席-無精打採: lassitude walks on and the gag sticks.",
+      "speakLineZh": "請「L席-無精打採」出場：lassitude 一上場梗就黏住——無精打採；疲乏。",
+      "related": {
+        "synonyms": "lethargy, sluggishness, languor, listlessness, inanition, slackness",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    }
+  ],
+  "reviewHooks": [
+    "l:labile/labortious/lacerate/lachrymose",
+    "P4-batch02 差集"
+  ],
+  "pitfalls": [
+    "勿因同字母硬串錯誤字根"
+  ],
+  "lessonRefs": [
+    "lesson-p4b02-letter-l-01"
+  ],
+  "status": "reviewed",
+  "priority": "C",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P4-batch02"
+  }
+}

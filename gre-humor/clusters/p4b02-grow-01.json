@@ -1,0 +1,196 @@
+{
+  "id": "p4b02-grow-01",
+  "type": "semantic",
+  "elementLemma": "growth-orphan",
+  "titleZh": "增長 orphan｜溫室計數器",
+  "titleEn": "Growth Orphan Greenhouse",
+  "hook": "orphan 增長團看計數器：burgeon／proliferate／augment／accrete——園丁說「長太快也要修剪」。",
+  "script": "burgeon／proliferate 激增。augment 增加。accrete 漸增。wax 增強。mushroom 迅速發展。口令：溫室寫「可控生長」，野草寫「別 proliferate 到走廊」。",
+  "members": [
+    {
+      "headword": "burgeon",
+      "inVocab": true,
+      "senseAnchor": "迅速成長",
+      "roleInScript": "嫩芽爆",
+      "humorDevice": "contrast",
+      "zhGloss": "迅速成長",
+      "speakLineEn": "Cue the 嫩芽爆: burgeon walks on and the gag sticks.",
+      "speakLineZh": "請「嫩芽爆」出場：burgeon 一上場梗就黏住——迅速成長。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b02"
+    },
+    {
+      "headword": "augment",
+      "inVocab": true,
+      "senseAnchor": "增加",
+      "roleInScript": "加厚",
+      "humorDevice": "contrast",
+      "zhGloss": "增加",
+      "speakLineEn": "Cue the 加厚: augment walks on and the gag sticks.",
+      "speakLineZh": "請「加厚」出場：augment 一上場梗就黏住——增加。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b02"
+    },
+    {
+      "headword": "wax",
+      "inVocab": false,
+      "senseAnchor": "增強",
+      "roleInScript": "月盈",
+      "humorDevice": "contrast",
+      "zhGloss": "增強",
+      "speakLineEn": "Cue the 月盈: wax walks on and the gag sticks.",
+      "speakLineZh": "請「月盈」出場：wax 一上場梗就黏住——增強。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "mushroom",
+      "inVocab": true,
+      "senseAnchor": "迅速發展",
+      "roleInScript": "傘菌長",
+      "humorDevice": "contrast",
+      "zhGloss": "迅速發展",
+      "speakLineEn": "Cue the 傘菌長: mushroom walks on and the gag sticks.",
+      "speakLineZh": "請「傘菌長」出場：mushroom 一上場梗就黏住——迅速發展。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b02"
+    },
+    {
+      "headword": "amplify",
+      "inVocab": true,
+      "senseAnchor": "放大",
+      "roleInScript": "擴音",
+      "humorDevice": "contrast",
+      "zhGloss": "放大",
+      "speakLineEn": "Cue the 擴音: amplify walks on and the gag sticks.",
+      "speakLineZh": "請「擴音」出場：amplify 一上場梗就黏住——放大。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b02"
+    },
+    {
+      "headword": "expand",
+      "inVocab": true,
+      "senseAnchor": "擴張",
+      "roleInScript": "膨脹",
+      "humorDevice": "contrast",
+      "zhGloss": "擴張",
+      "speakLineEn": "Cue the 膨脹: expand walks on and the gag sticks.",
+      "speakLineZh": "請「膨脹」出場：expand 一上場梗就黏住——擴張。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b02"
+    },
+    {
+      "headword": "greenhouse",
+      "inVocab": false,
+      "senseAnchor": "溫室",
+      "roleInScript": "溫室",
+      "humorDevice": "story",
+      "zhGloss": "溫室",
+      "speakLineEn": "Cue the 溫室: greenhouse walks on and the gag sticks.",
+      "speakLineZh": "請「溫室」出場：greenhouse 一上場梗就黏住——溫室。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "shears",
+      "inVocab": false,
+      "senseAnchor": "剪刀",
+      "roleInScript": "剪刀",
+      "humorDevice": "story",
+      "zhGloss": "剪刀",
+      "speakLineEn": "Cue the 剪刀: shears walks on and the gag sticks.",
+      "speakLineZh": "請「剪刀」出場：shears 一上場梗就黏住——剪刀。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "sprout",
+      "inVocab": true,
+      "senseAnchor": "any new growth of a plant such as a new branch or a bud; a newly grown bud (especially from a germinating seed)",
+      "roleInScript": "芽",
+      "humorDevice": "story",
+      "zhGloss": "芽",
+      "speakLineEn": "Cue the 芽: sprout walks on and the gag sticks.",
+      "speakLineZh": "請「芽」出場：sprout 一上場梗就黏住——芽。",
+      "related": {
+        "synonyms": "shoot, spud, germinate, pullulate, bourgeon, stock",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "soil",
+      "inVocab": true,
+      "senseAnchor": "the state of being covered with unclean things; the part of the earth's surface consisting of humus and disintegrated rock",
+      "roleInScript": "土壤",
+      "humorDevice": "story",
+      "zhGloss": "土壤",
+      "speakLineEn": "Cue the 土壤: soil walks on and the gag sticks.",
+      "speakLineZh": "請「土壤」出場：soil 一上場梗就黏住——土壤。",
+      "related": {
+        "synonyms": "dirt, filth, grime, stain, grease, grunge",
+        "antonyms": "clean"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "hose",
+      "inVocab": false,
+      "senseAnchor": "水管",
+      "roleInScript": "水管",
+      "humorDevice": "story",
+      "zhGloss": "水管",
+      "speakLineEn": "Cue the 水管: hose walks on and the gag sticks.",
+      "speakLineZh": "請「水管」出場：hose 一上場梗就黏住——水管。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "增：burgeon/proliferate/augment/accrete",
+    "burgeon＝迅速成長"
+  ],
+  "pitfalls": [
+    "accrete≠excrete"
+  ],
+  "lessonRefs": [
+    "lesson-p4b02-grow-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P4-batch02"
+  }
+}

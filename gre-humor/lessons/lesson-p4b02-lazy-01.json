@@ -1,0 +1,96 @@
+{
+  "id": "lesson-p4b02-lazy-01",
+  "slug": "p4b02-lazy-01",
+  "season": 3,
+  "seasonTitleZh": "語氣對打",
+  "seasonTitleEn": "Tone Duels",
+  "type": "duel",
+  "minutes": "12-15",
+  "clusterId": "p4b02-lazy-01",
+  "titleZh": "怠惰 orphan｜沙發停機坪",
+  "titleEn": "Lazy Orphan Sofa Pad",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "orphan 怠惰團佔領沙發：indolent／slothful／lackadaisical／shiftless——遙控器比人先累。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "indolent／slothful 懶。lackadaisical 無精打采。shiftless 無能懶散。laggard 落後者。loaf 閒混。口令：沙發寫「起來動」，遙控器寫「不是工作」。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "懶：indolent/slothful/lackadaisical/shiftless",
+        "lackadaisical＝懶洋洋"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Habitually lazy:",
+      "promptZh": "懶惰的：",
+      "choices": [
+        "indolent",
+        "assiduous",
+        "repository",
+        "neon"
+      ],
+      "answer": "indolent"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Lacking energy / spirit:",
+      "promptZh": "無精打采：",
+      "choices": [
+        "lackadaisical",
+        "industrious",
+        "forecast",
+        "sole"
+      ],
+      "answer": "lackadaisical"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Lazy and incompetent:",
+      "promptZh": "懶散無能：",
+      "choices": [
+        "shiftless",
+        "diligent",
+        "omnibus",
+        "scanty"
+      ],
+      "answer": "shiftless"
+    }
+  ],
+  "pitfalls": [
+    "indolent≠insolent"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P4-batch02"
+  }
+}

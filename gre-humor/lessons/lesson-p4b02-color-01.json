@@ -1,0 +1,96 @@
+{
+  "id": "lesson-p4b02-color-01",
+  "slug": "p4b02-color-01",
+  "season": 3,
+  "seasonTitleZh": "語氣對打",
+  "seasonTitleEn": "Tone Duels",
+  "type": "duel",
+  "minutes": "12-15",
+  "clusterId": "p4b02-color-01",
+  "titleZh": "色彩 orphan｜調色稽核室",
+  "titleEn": "Color Orphan Studio",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "orphan 色彩團稽核：lurid／pallid／sallow／florid——稽核員說「臉色也是考點」。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "lurid 豔俗刺眼。pallid／sallow 蒼白病黃。florid 紅潤華麗。wan 蒼白。livid 青紫／怒。口令：調色盤寫「語氣顏色」，別只形容牆壁。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "色：lurid/pallid/sallow/florid",
+        "lurid＝刺眼駭人"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Shockingly vivid / sensational:",
+      "promptZh": "豔俗駭人：",
+      "choices": [
+        "lurid",
+        "pallid",
+        "repository",
+        "neon"
+      ],
+      "answer": "lurid"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Pale / unhealthy yellow:",
+      "promptZh": "病黃蒼白：",
+      "choices": [
+        "sallow",
+        "florid",
+        "forecast",
+        "sole"
+      ],
+      "answer": "sallow"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Flushed / ornate:",
+      "promptZh": "紅潤華麗：",
+      "choices": [
+        "florid",
+        "wan",
+        "omnibus",
+        "scanty"
+      ],
+      "answer": "florid"
+    }
+  ],
+  "pitfalls": [
+    "florid 可指文體華麗"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P4-batch02"
+  }
+}

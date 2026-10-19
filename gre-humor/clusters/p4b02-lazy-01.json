@@ -1,0 +1,195 @@
+{
+  "id": "p4b02-lazy-01",
+  "type": "semantic",
+  "elementLemma": "lazy-orphan",
+  "titleZh": "怠惰 orphan｜沙發停機坪",
+  "titleEn": "Lazy Orphan Sofa Pad",
+  "hook": "orphan 怠惰團佔領沙發：indolent／slothful／lackadaisical／shiftless——遙控器比人先累。",
+  "script": "indolent／slothful 懶。lackadaisical 無精打采。shiftless 無能懶散。laggard 落後者。loaf 閒混。口令：沙發寫「起來動」，遙控器寫「不是工作」。",
+  "members": [
+    {
+      "headword": "indolent",
+      "inVocab": true,
+      "senseAnchor": "disinclined to work or exertion; (of tumors, e.g.) slow to heal or develop and usually painless",
+      "roleInScript": "沙發人",
+      "humorDevice": "contrast",
+      "zhGloss": "懶惰的",
+      "speakLineEn": "Cue the 沙發人: indolent walks on and the gag sticks.",
+      "speakLineZh": "請「沙發人」出場：indolent 一上場梗就黏住——懶惰的。",
+      "related": {
+        "synonyms": "faineant, lazy, otiose, slothful, work-shy",
+        "antonyms": "industrious, diligent"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "slothful",
+      "inVocab": true,
+      "senseAnchor": "disinclined to work or exertion",
+      "roleInScript": "樹懶姿",
+      "humorDevice": "contrast",
+      "zhGloss": "怠惰的",
+      "speakLineEn": "Cue the 樹懶姿: slothful walks on and the gag sticks.",
+      "speakLineZh": "請「樹懶姿」出場：slothful 一上場梗就黏住——怠惰的。",
+      "related": {
+        "synonyms": "faineant, indolent, lazy, otiose, work-shy",
+        "antonyms": "industrious, diligent"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "lackadaisical",
+      "inVocab": true,
+      "senseAnchor": "無精打采的",
+      "roleInScript": "半開眼",
+      "humorDevice": "contrast",
+      "zhGloss": "無精打采的",
+      "speakLineEn": "Cue the 半開眼: lackadaisical walks on and the gag sticks.",
+      "speakLineZh": "請「半開眼」出場：lackadaisical 一上場梗就黏住——無精打采的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b02"
+    },
+    {
+      "headword": "shiftless",
+      "inVocab": true,
+      "senseAnchor": "lacking or characterized by lack of ambition or initiative; lazy",
+      "roleInScript": "空工具",
+      "humorDevice": "contrast",
+      "zhGloss": "懶散無能的",
+      "speakLineEn": "Cue the 空工具: shiftless walks on and the gag sticks.",
+      "speakLineZh": "請「空工具」出場：shiftless 一上場梗就黏住——懶散無能的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "loaf",
+      "inVocab": true,
+      "senseAnchor": "閒混",
+      "roleInScript": "麵包躺",
+      "humorDevice": "contrast",
+      "zhGloss": "閒混",
+      "speakLineEn": "Cue the 麵包躺: loaf walks on and the gag sticks.",
+      "speakLineZh": "請「麵包躺」出場：loaf 一上場梗就黏住——閒混。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b02"
+    },
+    {
+      "headword": "idle",
+      "inVocab": true,
+      "senseAnchor": "空閒的",
+      "roleInScript": "空轉",
+      "humorDevice": "contrast",
+      "zhGloss": "空閒的",
+      "speakLineEn": "Cue the 空轉: idle walks on and the gag sticks.",
+      "speakLineZh": "請「空轉」出場：idle 一上場梗就黏住——空閒的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b02"
+    },
+    {
+      "headword": "listless",
+      "inVocab": true,
+      "senseAnchor": "無精打采的",
+      "roleInScript": "無清單",
+      "humorDevice": "contrast",
+      "zhGloss": "無精打采的",
+      "speakLineEn": "Cue the 無清單: listless walks on and the gag sticks.",
+      "speakLineZh": "請「無清單」出場：listless 一上場梗就黏住——無精打采的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b02"
+    },
+    {
+      "headword": "torpid",
+      "inVocab": true,
+      "senseAnchor": "slow and apathetic; in a condition of biological rest or suspended animation",
+      "roleInScript": "冬眠",
+      "humorDevice": "contrast",
+      "zhGloss": "遲鈍的",
+      "speakLineEn": "Cue the 冬眠: torpid walks on and the gag sticks.",
+      "speakLineZh": "請「冬眠」出場：torpid 一上場梗就黏住——遲鈍的。",
+      "related": {
+        "synonyms": "inert, sluggish, soggy, dormant, hibernating",
+        "antonyms": "active, dynamic, awakened, aestivate, estivate"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "sofa",
+      "inVocab": false,
+      "senseAnchor": "沙發",
+      "roleInScript": "沙發",
+      "humorDevice": "story",
+      "zhGloss": "沙發",
+      "speakLineEn": "Cue the 沙發: sofa walks on and the gag sticks.",
+      "speakLineZh": "請「沙發」出場：sofa 一上場梗就黏住——沙發。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "snack",
+      "inVocab": false,
+      "senseAnchor": "零食",
+      "roleInScript": "零食",
+      "humorDevice": "story",
+      "zhGloss": "零食",
+      "speakLineEn": "Cue the 零食: snack walks on and the gag sticks.",
+      "speakLineZh": "請「零食」出場：snack 一上場梗就黏住——零食。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "slipper",
+      "inVocab": false,
+      "senseAnchor": "拖鞋",
+      "roleInScript": "拖鞋",
+      "humorDevice": "story",
+      "zhGloss": "拖鞋",
+      "speakLineEn": "Cue the 拖鞋: slipper walks on and the gag sticks.",
+      "speakLineZh": "請「拖鞋」出場：slipper 一上場梗就黏住——拖鞋。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "懶：indolent/slothful/lackadaisical/shiftless",
+    "lackadaisical＝懶洋洋"
+  ],
+  "pitfalls": [
+    "indolent≠insolent"
+  ],
+  "lessonRefs": [
+    "lesson-p4b02-lazy-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P4-batch02"
+  }
+}

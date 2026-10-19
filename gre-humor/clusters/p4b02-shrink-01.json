@@ -1,0 +1,226 @@
+{
+  "id": "p4b02-shrink-01",
+  "type": "semantic",
+  "elementLemma": "shrink-orphan",
+  "titleZh": "縮減 orphan｜壓縮行李間",
+  "titleEn": "Shrink Orphan Pack Room",
+  "hook": "orphan 縮減團壓行李：wane／dwindle／atrophy／abridge——海關問「這是減重還是偷渡空氣？」",
+  "script": "wane／dwindle 縮小。atrophy 萎縮。abridge 刪節。curtail 縮減。taper 逐漸變細。口令：行李寫「精簡」，別把意義也壓扁。",
+  "members": [
+    {
+      "headword": "wane",
+      "inVocab": true,
+      "senseAnchor": "to decrease in size, extent or degree",
+      "roleInScript": "月虧",
+      "humorDevice": "contrast",
+      "zhGloss": "減退",
+      "speakLineEn": "Cue the 月虧: wane walks on and the gag sticks.",
+      "speakLineZh": "請「月虧」出場：wane 一上場梗就黏住——減退。",
+      "related": {
+        "synonyms": "decline, abate, ebb",
+        "antonyms": "wax, accept, ascent, better, improvement, intensify, increase, amplify"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "dwindle",
+      "inVocab": true,
+      "senseAnchor": "逐漸變少",
+      "roleInScript": "漏沙",
+      "humorDevice": "contrast",
+      "zhGloss": "逐漸變少",
+      "speakLineEn": "Cue the 漏沙: dwindle walks on and the gag sticks.",
+      "speakLineZh": "請「漏沙」出場：dwindle 一上場梗就黏住——逐漸變少。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b02"
+    },
+    {
+      "headword": "atrophy",
+      "inVocab": true,
+      "senseAnchor": "萎縮",
+      "roleInScript": "萎縮標",
+      "humorDevice": "contrast",
+      "zhGloss": "萎縮",
+      "speakLineEn": "Cue the 萎縮標: atrophy walks on and the gag sticks.",
+      "speakLineZh": "請「萎縮標」出場：atrophy 一上場梗就黏住——萎縮。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b02"
+    },
+    {
+      "headword": "abridge",
+      "inVocab": true,
+      "senseAnchor": "刪節縮短",
+      "roleInScript": "縮寫剪",
+      "humorDevice": "contrast",
+      "zhGloss": "刪節縮短",
+      "speakLineEn": "Cue the 縮寫剪: abridge walks on and the gag sticks.",
+      "speakLineZh": "請「縮寫剪」出場：abridge 一上場梗就黏住——刪節縮短。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b02"
+    },
+    {
+      "headword": "curtail",
+      "inVocab": true,
+      "senseAnchor": "to make less in extent or duration",
+      "roleInScript": "剪票",
+      "humorDevice": "contrast",
+      "zhGloss": "縮減",
+      "speakLineEn": "Cue the 剪票: curtail walks on and the gag sticks.",
+      "speakLineZh": "請「剪票」出場：curtail 一上場梗就黏住——縮減。",
+      "related": {
+        "synonyms": "abbreviate, abridge, truncate",
+        "antonyms": "expand, extend"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "taper",
+      "inVocab": true,
+      "senseAnchor": "逐漸變細",
+      "roleInScript": "錐形",
+      "humorDevice": "contrast",
+      "zhGloss": "逐漸變細",
+      "speakLineEn": "Cue the 錐形: taper walks on and the gag sticks.",
+      "speakLineZh": "請「錐形」出場：taper 一上場梗就黏住——逐漸變細。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b02"
+    },
+    {
+      "headword": "diminish",
+      "inVocab": true,
+      "senseAnchor": "減少",
+      "roleInScript": "減號",
+      "humorDevice": "contrast",
+      "zhGloss": "減少",
+      "speakLineEn": "Cue the 減號: diminish walks on and the gag sticks.",
+      "speakLineZh": "請「減號」出場：diminish 一上場梗就黏住——減少。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b02"
+    },
+    {
+      "headword": "minify",
+      "inVocab": true,
+      "senseAnchor": "縮小",
+      "roleInScript": "縮小鏡",
+      "humorDevice": "contrast",
+      "zhGloss": "縮小",
+      "speakLineEn": "Cue the 縮小鏡: minify walks on and the gag sticks.",
+      "speakLineZh": "請「縮小鏡」出場：minify 一上場梗就黏住——縮小。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b02"
+    },
+    {
+      "headword": "truncate",
+      "inVocab": true,
+      "senseAnchor": "replace a corner by a plane; approximate by ignoring all terms beyond a chosen one",
+      "roleInScript": "截斷",
+      "humorDevice": "contrast",
+      "zhGloss": "截短",
+      "speakLineEn": "Cue the 截斷: truncate walks on and the gag sticks.",
+      "speakLineZh": "請「截斷」出場：truncate 一上場梗就黏住——截短。",
+      "related": {
+        "synonyms": "truncated",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "suitcase",
+      "inVocab": false,
+      "senseAnchor": "行李箱",
+      "roleInScript": "行李箱",
+      "humorDevice": "story",
+      "zhGloss": "行李箱",
+      "speakLineEn": "Cue the 行李箱: suitcase walks on and the gag sticks.",
+      "speakLineZh": "請「行李箱」出場：suitcase 一上場梗就黏住——行李箱。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "customs",
+      "inVocab": false,
+      "senseAnchor": "海關",
+      "roleInScript": "海關",
+      "humorDevice": "story",
+      "zhGloss": "海關",
+      "speakLineEn": "Cue the 海關: customs walks on and the gag sticks.",
+      "speakLineZh": "請「海關」出場：customs 一上場梗就黏住——海關。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "air",
+      "inVocab": false,
+      "senseAnchor": "空氣",
+      "roleInScript": "空氣",
+      "humorDevice": "story",
+      "zhGloss": "空氣",
+      "speakLineEn": "Cue the 空氣: air walks on and the gag sticks.",
+      "speakLineZh": "請「空氣」出場：air 一上場梗就黏住——空氣。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "zipper",
+      "inVocab": false,
+      "senseAnchor": "拉鍊",
+      "roleInScript": "拉鍊",
+      "humorDevice": "story",
+      "zhGloss": "拉鍊",
+      "speakLineEn": "Cue the 拉鍊: zipper walks on and the gag sticks.",
+      "speakLineZh": "請「拉鍊」出場：zipper 一上場梗就黏住——拉鍊。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "縮：wane/dwindle/atrophy/abridge/curtail",
+    "atrophy＝萎縮"
+  ],
+  "pitfalls": [
+    "abridge＝縮寫刪節文本"
+  ],
+  "lessonRefs": [
+    "lesson-p4b02-shrink-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P4-batch02"
+  }
+}

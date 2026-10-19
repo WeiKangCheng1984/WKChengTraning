@@ -1,0 +1,392 @@
+{
+  "stage": "P4-pending-b02",
+  "at": "2026-10-19T06:51:18.979Z",
+  "pendingBefore": 70,
+  "addedToGreJson": [
+    {
+      "en": "abridge",
+      "clusterId": "p4b02-shrink-01",
+      "zh": "刪節縮短"
+    },
+    {
+      "en": "affection",
+      "clusterId": "p4b02-look-affect-01",
+      "zh": "情感"
+    },
+    {
+      "en": "amplify",
+      "clusterId": "p4b02-grow-01",
+      "zh": "放大"
+    },
+    {
+      "en": "appetizing",
+      "clusterId": "p4b02-food-01",
+      "zh": "開胃的"
+    },
+    {
+      "en": "ashen",
+      "clusterId": "p4b02-color-01",
+      "zh": "灰白的"
+    },
+    {
+      "en": "atrophy",
+      "clusterId": "p4b02-shrink-01",
+      "zh": "萎縮"
+    },
+    {
+      "en": "augment",
+      "clusterId": "p4b02-grow-01",
+      "zh": "增加"
+    },
+    {
+      "en": "burgeon",
+      "clusterId": "p4b02-grow-01",
+      "zh": "迅速成長"
+    },
+    {
+      "en": "consulate",
+      "clusterId": "p4b02-look-council-01",
+      "zh": "領事館"
+    },
+    {
+      "en": "consultancy",
+      "clusterId": "p4b02-look-council-01",
+      "zh": "顧問業"
+    },
+    {
+      "en": "council",
+      "clusterId": "p4b02-look-council-01",
+      "zh": "理事會"
+    },
+    {
+      "en": "counsel",
+      "clusterId": "p4b02-look-council-01",
+      "zh": "勸告律師"
+    },
+    {
+      "en": "counselor",
+      "clusterId": "p4b02-look-council-01",
+      "zh": "顧問"
+    },
+    {
+      "en": "diligent",
+      "clusterId": "p4b02-work-01",
+      "zh": "勤奮的"
+    },
+    {
+      "en": "diminish",
+      "clusterId": "p4b02-shrink-01",
+      "zh": "減少"
+    },
+    {
+      "en": "dogged",
+      "clusterId": "p4b02-work-01",
+      "zh": "頑強的"
+    },
+    {
+      "en": "dupe",
+      "clusterId": "p4b02-lie-01",
+      "zh": "欺騙"
+    },
+    {
+      "en": "dwindle",
+      "clusterId": "p4b02-shrink-01",
+      "zh": "逐漸變少"
+    },
+    {
+      "en": "effective",
+      "clusterId": "p4b02-look-affect-01",
+      "zh": "有效的"
+    },
+    {
+      "en": "effectuate",
+      "clusterId": "p4b02-look-affect-01",
+      "zh": "使實現"
+    },
+    {
+      "en": "expand",
+      "clusterId": "p4b02-grow-01",
+      "zh": "擴張"
+    },
+    {
+      "en": "gullible",
+      "clusterId": "p4b02-lie-01",
+      "zh": "易受騙的"
+    },
+    {
+      "en": "idle",
+      "clusterId": "p4b02-lazy-01",
+      "zh": "空閒的"
+    },
+    {
+      "en": "infect",
+      "clusterId": "p4b02-look-affect-01",
+      "zh": "感染"
+    },
+    {
+      "en": "infectious",
+      "clusterId": "p4b02-look-affect-01",
+      "zh": "傳染的"
+    },
+    {
+      "en": "lackadaisical",
+      "clusterId": "p4b02-lazy-01",
+      "zh": "無精打采的"
+    },
+    {
+      "en": "listless",
+      "clusterId": "p4b02-lazy-01",
+      "zh": "無精打采的"
+    },
+    {
+      "en": "livid",
+      "clusterId": "p4b02-color-01",
+      "zh": "青紫怒的"
+    },
+    {
+      "en": "loaf",
+      "clusterId": "p4b02-lazy-01",
+      "zh": "閒混"
+    },
+    {
+      "en": "lurid",
+      "clusterId": "p4b02-color-01",
+      "zh": "豔俗駭人的"
+    },
+    {
+      "en": "minify",
+      "clusterId": "p4b02-shrink-01",
+      "zh": "縮小"
+    },
+    {
+      "en": "mushroom",
+      "clusterId": "p4b02-grow-01",
+      "zh": "迅速發展"
+    },
+    {
+      "en": "painstaking",
+      "clusterId": "p4b02-work-01",
+      "zh": "一絲不苟的"
+    },
+    {
+      "en": "persevering",
+      "clusterId": "p4b02-work-01",
+      "zh": "堅持的"
+    },
+    {
+      "en": "studious",
+      "clusterId": "p4b02-work-01",
+      "zh": "好學的"
+    },
+    {
+      "en": "taper",
+      "clusterId": "p4b02-shrink-01",
+      "zh": "逐漸變細"
+    },
+    {
+      "en": "tireless",
+      "clusterId": "p4b02-work-01",
+      "zh": "不倦的"
+    },
+    {
+      "en": "untiring",
+      "clusterId": "p4b02-work-01",
+      "zh": "不疲倦的"
+    }
+  ],
+  "deferred": [
+    {
+      "en": "agenda",
+      "clusterId": "p4b02-look-council-01",
+      "zh": "議程",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "air",
+      "clusterId": "p4b02-shrink-01",
+      "zh": "空氣",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "audit",
+      "clusterId": "p4b02-color-01",
+      "zh": "稽核",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "chair",
+      "clusterId": "p4b02-lie-01",
+      "zh": "椅子",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "checklist",
+      "clusterId": "p4b02-work-01",
+      "zh": "清單",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "coffee",
+      "clusterId": "p4b02-work-01",
+      "zh": "咖啡",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "cookie",
+      "clusterId": "p4b02-food-01",
+      "zh": "餅乾",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "customs",
+      "clusterId": "p4b02-shrink-01",
+      "zh": "海關",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "drawer",
+      "clusterId": "p4b02-food-01",
+      "zh": "抽屜",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "greenhouse",
+      "clusterId": "p4b02-grow-01",
+      "zh": "溫室",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "hose",
+      "clusterId": "p4b02-grow-01",
+      "zh": "水管",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "lawyer",
+      "clusterId": "p4b02-look-council-01",
+      "zh": "律師",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "lounge",
+      "clusterId": "p4b02-lie-01",
+      "zh": "休息室",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "mood",
+      "clusterId": "p4b02-look-affect-01",
+      "zh": "情緒",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "nameplate",
+      "clusterId": "p4b02-look-council-01",
+      "zh": "名牌",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "napkin",
+      "clusterId": "p4b02-food-01",
+      "zh": "餐巾",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "palette",
+      "clusterId": "p4b02-color-01",
+      "zh": "調色盤",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "passport",
+      "clusterId": "p4b02-look-council-01",
+      "zh": "護照",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "polygraph",
+      "clusterId": "p4b02-lie-01",
+      "zh": "測謊儀",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "punchclock",
+      "clusterId": "p4b02-work-01",
+      "zh": "打卡機",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "sanitizer",
+      "clusterId": "p4b02-look-affect-01",
+      "zh": "消毒液",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "shears",
+      "clusterId": "p4b02-grow-01",
+      "zh": "剪刀",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "slipper",
+      "clusterId": "p4b02-lazy-01",
+      "zh": "拖鞋",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "snack",
+      "clusterId": "p4b02-lazy-01",
+      "zh": "零食",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "sofa",
+      "clusterId": "p4b02-lazy-01",
+      "zh": "沙發",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "suitcase",
+      "clusterId": "p4b02-shrink-01",
+      "zh": "行李箱",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "swatch",
+      "clusterId": "p4b02-color-01",
+      "zh": "色卡",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "thermos",
+      "clusterId": "p4b02-food-01",
+      "zh": "水瓶",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "tray",
+      "clusterId": "p4b02-food-01",
+      "zh": "托盤",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "virus",
+      "clusterId": "p4b02-look-affect-01",
+      "zh": "病毒",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "wax",
+      "clusterId": "p4b02-grow-01",
+      "zh": "增強",
+      "reason": "basic-multiword-or-specialty"
+    },
+    {
+      "en": "zipper",
+      "clusterId": "p4b02-shrink-01",
+      "zh": "拉鍊",
+      "reason": "basic-multiword-or-specialty"
+    }
+  ],
+  "greTotalAfter": 5138
+}

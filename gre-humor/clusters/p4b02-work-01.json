@@ -1,0 +1,210 @@
+{
+  "id": "p4b02-work-01",
+  "type": "semantic",
+  "elementLemma": "diligence-orphan",
+  "titleZh": "勤奮 orphan｜加班打卡機",
+  "titleEn": "Work Orphan Punch Clock",
+  "hook": "orphan 勤奮團猛打卡：assiduous／sedulous／industrious／diligent——打卡機過熱，保全說「請輪流」。",
+  "script": "assiduous／sedulous／industrious 勤奮。diligent 勤勉。painstaking 一絲不苟。tireless 不知疲倦。口令：打卡寫「持續」，別只表演忙碌。",
+  "members": [
+    {
+      "headword": "sedulous",
+      "inVocab": true,
+      "senseAnchor": "marked by care and persistent effort",
+      "roleInScript": "持續檔",
+      "humorDevice": "contrast",
+      "zhGloss": "勤奮的",
+      "speakLineEn": "Cue the 持續檔: sedulous walks on and the gag sticks.",
+      "speakLineZh": "請「持續檔」出場：sedulous 一上場梗就黏住——勤奮的。",
+      "related": {
+        "synonyms": "assiduous",
+        "antonyms": "lazy, careless"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "industrious",
+      "inVocab": true,
+      "senseAnchor": "characterized by hard work and perseverance; working hard to promote an enterprise",
+      "roleInScript": "工蜂",
+      "humorDevice": "contrast",
+      "zhGloss": "勤勞的",
+      "speakLineEn": "Cue the 工蜂: industrious walks on and the gag sticks.",
+      "speakLineZh": "請「工蜂」出場：industrious 一上場梗就黏住——勤勞的。",
+      "related": {
+        "synonyms": "hardworking, tireless, untiring, energetic, gumptious, up-and-coming",
+        "antonyms": "lethargic"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "diligent",
+      "inVocab": true,
+      "senseAnchor": "勤奮的",
+      "roleInScript": "勾選完",
+      "humorDevice": "contrast",
+      "zhGloss": "勤奮的",
+      "speakLineEn": "Cue the 勾選完: diligent walks on and the gag sticks.",
+      "speakLineZh": "請「勾選完」出場：diligent 一上場梗就黏住——勤奮的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b02"
+    },
+    {
+      "headword": "painstaking",
+      "inVocab": true,
+      "senseAnchor": "一絲不苟的",
+      "roleInScript": "放大鏡",
+      "humorDevice": "contrast",
+      "zhGloss": "一絲不苟的",
+      "speakLineEn": "Cue the 放大鏡: painstaking walks on and the gag sticks.",
+      "speakLineZh": "請「放大鏡」出場：painstaking 一上場梗就黏住——一絲不苟的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b02"
+    },
+    {
+      "headword": "tireless",
+      "inVocab": true,
+      "senseAnchor": "不倦的",
+      "roleInScript": "電池滿",
+      "humorDevice": "contrast",
+      "zhGloss": "不倦的",
+      "speakLineEn": "Cue the 電池滿: tireless walks on and the gag sticks.",
+      "speakLineZh": "請「電池滿」出場：tireless 一上場梗就黏住——不倦的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b02"
+    },
+    {
+      "headword": "studious",
+      "inVocab": true,
+      "senseAnchor": "好學的",
+      "roleInScript": "書架",
+      "humorDevice": "contrast",
+      "zhGloss": "好學的",
+      "speakLineEn": "Cue the 書架: studious walks on and the gag sticks.",
+      "speakLineZh": "請「書架」出場：studious 一上場梗就黏住——好學的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b02"
+    },
+    {
+      "headword": "persevering",
+      "inVocab": true,
+      "senseAnchor": "堅持的",
+      "roleInScript": "攀岩繩",
+      "humorDevice": "contrast",
+      "zhGloss": "堅持的",
+      "speakLineEn": "Cue the 攀岩繩: persevering walks on and the gag sticks.",
+      "speakLineZh": "請「攀岩繩」出場：persevering 一上場梗就黏住——堅持的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b02"
+    },
+    {
+      "headword": "dogged",
+      "inVocab": true,
+      "senseAnchor": "頑強的",
+      "roleInScript": "咬住不放",
+      "humorDevice": "contrast",
+      "zhGloss": "頑強的",
+      "speakLineEn": "Cue the 咬住不放: dogged walks on and the gag sticks.",
+      "speakLineZh": "請「咬住不放」出場：dogged 一上場梗就黏住——頑強的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b02"
+    },
+    {
+      "headword": "untiring",
+      "inVocab": true,
+      "senseAnchor": "不疲倦的",
+      "roleInScript": "馬達",
+      "humorDevice": "contrast",
+      "zhGloss": "不疲倦的",
+      "speakLineEn": "Cue the 馬達: untiring walks on and the gag sticks.",
+      "speakLineZh": "請「馬達」出場：untiring 一上場梗就黏住——不疲倦的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b02"
+    },
+    {
+      "headword": "punchclock",
+      "inVocab": false,
+      "senseAnchor": "打卡機",
+      "roleInScript": "打卡機",
+      "humorDevice": "story",
+      "zhGloss": "打卡機",
+      "speakLineEn": "Cue the 打卡機: punchclock walks on and the gag sticks.",
+      "speakLineZh": "請「打卡機」出場：punchclock 一上場梗就黏住——打卡機。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "coffee",
+      "inVocab": false,
+      "senseAnchor": "咖啡",
+      "roleInScript": "咖啡",
+      "humorDevice": "story",
+      "zhGloss": "咖啡",
+      "speakLineEn": "Cue the 咖啡: coffee walks on and the gag sticks.",
+      "speakLineZh": "請「咖啡」出場：coffee 一上場梗就黏住——咖啡。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "checklist",
+      "inVocab": false,
+      "senseAnchor": "清單",
+      "roleInScript": "清單",
+      "humorDevice": "story",
+      "zhGloss": "清單",
+      "speakLineEn": "Cue the 清單: checklist walks on and the gag sticks.",
+      "speakLineZh": "請「清單」出場：checklist 一上場梗就黏住——清單。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "勤：assiduous/sedulous/industrious/diligent",
+    "sedulous＝勤勉不懈"
+  ],
+  "pitfalls": [
+    "assiduous≠aciduous"
+  ],
+  "lessonRefs": [
+    "lesson-p4b02-work-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P4-batch02"
+  }
+}

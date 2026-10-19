@@ -1,9 +1,9 @@
 {
   "source": "gre-humor/",
   "version": "s3c-site-v1",
-  "generatedAt": "2026-10-19T06:37:39.440Z",
-  "totalClusters": 304,
-  "uniqueWords": 3819,
+  "generatedAt": "2026-10-19T06:51:19.100Z",
+  "totalClusters": 321,
+  "uniqueWords": 4025,
   "seasons": [
     {
       "id": 1,
@@ -52,6 +52,14 @@
         "p4-mix-a-01",
         "p4-mix-b-01",
         "p4-mix-c-01",
+        "p4b02-letter-f-01",
+        "p4b02-letter-g-01",
+        "p4b02-letter-h-01",
+        "p4b02-letter-i-01",
+        "p4b02-letter-l-01",
+        "p4b02-letter-n-01",
+        "p4b02-letter-r-01",
+        "p4b02-letter-t-01",
         "root-cap-01",
         "root-ced-01",
         "root-chron-01",
@@ -253,6 +261,15 @@
         "p4-time-01",
         "p4-war-01",
         "p4-weather-01",
+        "p4b02-color-01",
+        "p4b02-food-01",
+        "p4b02-grow-01",
+        "p4b02-lazy-01",
+        "p4b02-lie-01",
+        "p4b02-look-affect-01",
+        "p4b02-look-council-01",
+        "p4b02-shrink-01",
+        "p4b02-work-01",
         "sem-allure-repel-01",
         "sem-begin-01",
         "sem-begin-end-02",
@@ -13576,6 +13593,3989 @@
           "content": [
             "天氣：drizzle/sleet/gust/swelter/balmy",
             "swelter＝悶熱難耐"
+          ]
+        }
+      ],
+      "minutes": "12-15"
+    },
+    {
+      "id": "p4b02-color-01",
+      "slug": "p4b02-color-01",
+      "type": "semantic",
+      "typeZh": "語氣對打",
+      "typeEn": "Semantic",
+      "season": 3,
+      "priority": "C",
+      "status": "reviewed",
+      "titleZh": "色彩 orphan｜調色稽核室",
+      "titleEn": "Color Orphan Studio",
+      "hook": "orphan 色彩團稽核：lurid／pallid／sallow／florid——稽核員說「臉色也是考點」。",
+      "script": "lurid 豔俗刺眼。pallid／sallow 蒼白病黃。florid 紅潤華麗。wan 蒼白。livid 青紫／怒。口令：調色盤寫「語氣顏色」，別只形容牆壁。",
+      "reviewHooks": [
+        "色：lurid/pallid/sallow/florid",
+        "lurid＝刺眼駭人"
+      ],
+      "pitfalls": [
+        "florid 可指文體華麗"
+      ],
+      "members": [
+        {
+          "headword": "lurid",
+          "zhGloss": "豔俗駭人的",
+          "senseAnchor": "豔俗駭人的",
+          "roleInScript": "螢光嚇",
+          "humorDevice": "contrast",
+          "speakLineEn": "Cue the 螢光嚇: lurid walks on and the gag sticks.",
+          "speakLineZh": "請「螢光嚇」出場：lurid 一上場梗就黏住——豔俗駭人的。",
+          "inVocab": true,
+          "vocabStatus": "synced-p4-pending-b02"
+        },
+        {
+          "headword": "florid",
+          "zhGloss": "紅潤華麗的",
+          "senseAnchor": "elaborately or excessively ornamented; inclined to a healthy reddish color often associated with outdoor life",
+          "roleInScript": "紅潤筆",
+          "humorDevice": "contrast",
+          "speakLineEn": "Cue the 紅潤筆: florid walks on and the gag sticks.",
+          "speakLineZh": "請「紅潤筆」出場：florid 一上場梗就黏住——紅潤華麗的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "wan",
+          "zhGloss": "蒼白的",
+          "senseAnchor": "a computer network that spans a wider area than does a local area network; become pale and sickly",
+          "roleInScript": "乏力白",
+          "humorDevice": "contrast",
+          "speakLineEn": "Cue the 乏力白: wan walks on and the gag sticks.",
+          "speakLineZh": "請「乏力白」出場：wan 一上場梗就黏住——蒼白的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "livid",
+          "zhGloss": "青紫怒的",
+          "senseAnchor": "青紫怒的",
+          "roleInScript": "青筋",
+          "humorDevice": "contrast",
+          "speakLineEn": "Cue the 青筋: livid walks on and the gag sticks.",
+          "speakLineZh": "請「青筋」出場：livid 一上場梗就黏住——青紫怒的。",
+          "inVocab": true,
+          "vocabStatus": "synced-p4-pending-b02"
+        },
+        {
+          "headword": "ruddy",
+          "zhGloss": "紅潤的",
+          "senseAnchor": "inclined to a healthy reddish color often associated with outdoor life; of a color at the end of the color spectrum (next to orange); resembling the color of blood or cherries or tomatoes or rubies",
+          "roleInScript": "蘋果臉",
+          "humorDevice": "contrast",
+          "speakLineEn": "Cue the 蘋果臉: ruddy walks on and the gag sticks.",
+          "speakLineZh": "請「蘋果臉」出場：ruddy 一上場梗就黏住——紅潤的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "ashen",
+          "zhGloss": "灰白的",
+          "senseAnchor": "灰白的",
+          "roleInScript": "灰燼臉",
+          "humorDevice": "contrast",
+          "speakLineEn": "Cue the 灰燼臉: ashen walks on and the gag sticks.",
+          "speakLineZh": "請「灰燼臉」出場：ashen 一上場梗就黏住——灰白的。",
+          "inVocab": true,
+          "vocabStatus": "synced-p4-pending-b02"
+        },
+        {
+          "headword": "drab",
+          "zhGloss": "單調的",
+          "senseAnchor": "a dull greyish to yellowish or light olive brown; lacking in liveliness or charm or surprise",
+          "roleInScript": "灰布",
+          "humorDevice": "contrast",
+          "speakLineEn": "Cue the 灰布: drab walks on and the gag sticks.",
+          "speakLineZh": "請「灰布」出場：drab 一上場梗就黏住——單調的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "palette",
+          "zhGloss": "調色盤",
+          "senseAnchor": "調色盤",
+          "roleInScript": "調色盤",
+          "humorDevice": "story",
+          "speakLineEn": "Cue the 調色盤: palette walks on and the gag sticks.",
+          "speakLineZh": "請「調色盤」出場：palette 一上場梗就黏住——調色盤。",
+          "inVocab": false,
+          "vocabStatus": "deferred-basic-or-specialty"
+        },
+        {
+          "headword": "audit",
+          "zhGloss": "稽核",
+          "senseAnchor": "稽核",
+          "roleInScript": "稽核",
+          "humorDevice": "story",
+          "speakLineEn": "Cue the 稽核: audit walks on and the gag sticks.",
+          "speakLineZh": "請「稽核」出場：audit 一上場梗就黏住——稽核。",
+          "inVocab": false,
+          "vocabStatus": "deferred-basic-or-specialty"
+        },
+        {
+          "headword": "swatch",
+          "zhGloss": "色卡",
+          "senseAnchor": "色卡",
+          "roleInScript": "色卡",
+          "humorDevice": "story",
+          "speakLineEn": "Cue the 色卡: swatch walks on and the gag sticks.",
+          "speakLineZh": "請「色卡」出場：swatch 一上場梗就黏住——色卡。",
+          "inVocab": false,
+          "vocabStatus": "deferred-basic-or-specialty"
+        }
+      ],
+      "memberCount": 10,
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "sense",
+          "promptEn": "Shockingly vivid / sensational:",
+          "promptZh": "豔俗駭人：",
+          "choices": [
+            "lurid",
+            "pallid",
+            "repository",
+            "neon"
+          ],
+          "answer": "lurid"
+        },
+        {
+          "id": "q2",
+          "type": "sense",
+          "promptEn": "Pale / unhealthy yellow:",
+          "promptZh": "病黃蒼白：",
+          "choices": [
+            "sallow",
+            "florid",
+            "forecast",
+            "sole"
+          ],
+          "answer": "sallow"
+        },
+        {
+          "id": "q3",
+          "type": "sense",
+          "promptEn": "Flushed / ornate:",
+          "promptZh": "紅潤華麗：",
+          "choices": [
+            "florid",
+            "wan",
+            "omnibus",
+            "scanty"
+          ],
+          "answer": "florid"
+        }
+      ],
+      "flow": [
+        {
+          "step": 1,
+          "name": "鉤子",
+          "minutes": 0.5,
+          "content": "orphan 色彩團稽核：lurid／pallid／sallow／florid——稽核員說「臉色也是考點」。"
+        },
+        {
+          "step": 2,
+          "name": "串記劇本",
+          "minutes": 2,
+          "content": "lurid 豔俗刺眼。pallid／sallow 蒼白病黃。florid 紅潤華麗。wan 蒼白。livid 青紫／怒。口令：調色盤寫「語氣顏色」，別只形容牆壁。"
+        },
+        {
+          "step": 3,
+          "name": "詞卡 round",
+          "minutes": 7,
+          "content": "義錨 → 角色 → 跟讀英／中"
+        },
+        {
+          "step": 4,
+          "name": "快測",
+          "minutes": 2,
+          "content": "quiz ×3"
+        },
+        {
+          "step": 5,
+          "name": "口令帶走",
+          "minutes": 0.5,
+          "content": [
+            "色：lurid/pallid/sallow/florid",
+            "lurid＝刺眼駭人"
+          ]
+        }
+      ],
+      "minutes": "12-15"
+    },
+    {
+      "id": "p4b02-food-01",
+      "slug": "p4b02-food-01",
+      "type": "semantic",
+      "typeZh": "語氣對打",
+      "typeEn": "Semantic",
+      "season": 3,
+      "priority": "C",
+      "status": "reviewed",
+      "titleZh": "飲食 orphan｜考場補給站",
+      "titleEn": "Food Orphan Station",
+      "hook": "orphan 飲食團來補給：ravenous／voracious／satiated／parsimonious——有人狂吃，有人把餅乾鎖抽屜。",
+      "script": "ravenous／voracious 極餓貪吃。satiated 飽足。parsimonious 吝嗇。glutton 貪食者。口令：補給站寫「適量」，鎖抽屜寫「考試別分心」。",
+      "reviewHooks": [
+        "食：ravenous/voracious/satiated",
+        "voracious 也可指求知若渴"
+      ],
+      "pitfalls": [
+        "parsimonious 本義吝嗇"
+      ],
+      "members": [
+        {
+          "headword": "ravenous",
+          "zhGloss": "極餓的",
+          "senseAnchor": "extremely hungry; devouring or craving food in great quantities",
+          "roleInScript": "狼吞",
+          "humorDevice": "contrast",
+          "speakLineEn": "Cue the 狼吞: ravenous walks on and the gag sticks.",
+          "speakLineZh": "請「狼吞」出場：ravenous 一上場梗就黏住——極餓的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "pungent",
+          "zhGloss": "辛辣刺鼻的",
+          "senseAnchor": "strong and sharp; capable of wounding",
+          "roleInScript": "嗆鼻",
+          "humorDevice": "contrast",
+          "speakLineEn": "Cue the 嗆鼻: pungent walks on and the gag sticks.",
+          "speakLineZh": "請「嗆鼻」出場：pungent 一上場梗就黏住——辛辣刺鼻的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "bland",
+          "zhGloss": "平淡的",
+          "senseAnchor": "dull, not interesting",
+          "roleInScript": "無鹽",
+          "humorDevice": "contrast",
+          "speakLineEn": "Cue the 無鹽: bland walks on and the gag sticks.",
+          "speakLineZh": "請「無鹽」出場：bland 一上場梗就黏住——平淡的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "appetizing",
+          "zhGloss": "開胃的",
+          "senseAnchor": "開胃的",
+          "roleInScript": "開胃燈",
+          "humorDevice": "contrast",
+          "speakLineEn": "Cue the 開胃燈: appetizing walks on and the gag sticks.",
+          "speakLineZh": "請「開胃燈」出場：appetizing 一上場梗就黏住——開胃的。",
+          "inVocab": true,
+          "vocabStatus": "synced-p4-pending-b02"
+        },
+        {
+          "headword": "drawer",
+          "zhGloss": "抽屜",
+          "senseAnchor": "抽屜",
+          "roleInScript": "抽屜",
+          "humorDevice": "story",
+          "speakLineEn": "Cue the 抽屜: drawer walks on and the gag sticks.",
+          "speakLineZh": "請「抽屜」出場：drawer 一上場梗就黏住——抽屜。",
+          "inVocab": false,
+          "vocabStatus": "deferred-basic-or-specialty"
+        },
+        {
+          "headword": "cookie",
+          "zhGloss": "餅乾",
+          "senseAnchor": "餅乾",
+          "roleInScript": "餅乾",
+          "humorDevice": "story",
+          "speakLineEn": "Cue the 餅乾: cookie walks on and the gag sticks.",
+          "speakLineZh": "請「餅乾」出場：cookie 一上場梗就黏住——餅乾。",
+          "inVocab": false,
+          "vocabStatus": "deferred-basic-or-specialty"
+        },
+        {
+          "headword": "thermos",
+          "zhGloss": "水瓶",
+          "senseAnchor": "水瓶",
+          "roleInScript": "水瓶",
+          "humorDevice": "story",
+          "speakLineEn": "Cue the 水瓶: thermos walks on and the gag sticks.",
+          "speakLineZh": "請「水瓶」出場：thermos 一上場梗就黏住——水瓶。",
+          "inVocab": false,
+          "vocabStatus": "deferred-basic-or-specialty"
+        },
+        {
+          "headword": "tray",
+          "zhGloss": "托盤",
+          "senseAnchor": "托盤",
+          "roleInScript": "托盤",
+          "humorDevice": "story",
+          "speakLineEn": "Cue the 托盤: tray walks on and the gag sticks.",
+          "speakLineZh": "請「托盤」出場：tray 一上場梗就黏住——托盤。",
+          "inVocab": false,
+          "vocabStatus": "deferred-basic-or-specialty"
+        },
+        {
+          "headword": "napkin",
+          "zhGloss": "餐巾",
+          "senseAnchor": "餐巾",
+          "roleInScript": "餐巾",
+          "humorDevice": "story",
+          "speakLineEn": "Cue the 餐巾: napkin walks on and the gag sticks.",
+          "speakLineZh": "請「餐巾」出場：napkin 一上場梗就黏住——餐巾。",
+          "inVocab": false,
+          "vocabStatus": "deferred-basic-or-specialty"
+        }
+      ],
+      "memberCount": 9,
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "sense",
+          "promptEn": "Extremely hungry:",
+          "promptZh": "極餓：",
+          "choices": [
+            "ravenous",
+            "satiated",
+            "repository",
+            "neon"
+          ],
+          "answer": "ravenous"
+        },
+        {
+          "id": "q2",
+          "type": "sense",
+          "promptEn": "Having eaten enough:",
+          "promptZh": "飽足：",
+          "choices": [
+            "satiated",
+            "voracious",
+            "forecast",
+            "sole"
+          ],
+          "answer": "satiated"
+        },
+        {
+          "id": "q3",
+          "type": "sense",
+          "promptEn": "Stingy:",
+          "promptZh": "吝嗇：",
+          "choices": [
+            "parsimonious",
+            "glutton",
+            "omnibus",
+            "scanty"
+          ],
+          "answer": "parsimonious"
+        }
+      ],
+      "flow": [
+        {
+          "step": 1,
+          "name": "鉤子",
+          "minutes": 0.5,
+          "content": "orphan 飲食團來補給：ravenous／voracious／satiated／parsimonious——有人狂吃，有人把餅乾鎖抽屜。"
+        },
+        {
+          "step": 2,
+          "name": "串記劇本",
+          "minutes": 2,
+          "content": "ravenous／voracious 極餓貪吃。satiated 飽足。parsimonious 吝嗇。glutton 貪食者。口令：補給站寫「適量」，鎖抽屜寫「考試別分心」。"
+        },
+        {
+          "step": 3,
+          "name": "詞卡 round",
+          "minutes": 7,
+          "content": "義錨 → 角色 → 跟讀英／中"
+        },
+        {
+          "step": 4,
+          "name": "快測",
+          "minutes": 2,
+          "content": "quiz ×3"
+        },
+        {
+          "step": 5,
+          "name": "口令帶走",
+          "minutes": 0.5,
+          "content": [
+            "食：ravenous/voracious/satiated",
+            "voracious 也可指求知若渴"
+          ]
+        }
+      ],
+      "minutes": "12-15"
+    },
+    {
+      "id": "p4b02-grow-01",
+      "slug": "p4b02-grow-01",
+      "type": "semantic",
+      "typeZh": "語氣對打",
+      "typeEn": "Semantic",
+      "season": 3,
+      "priority": "B",
+      "status": "reviewed",
+      "titleZh": "增長 orphan｜溫室計數器",
+      "titleEn": "Growth Orphan Greenhouse",
+      "hook": "orphan 增長團看計數器：burgeon／proliferate／augment／accrete——園丁說「長太快也要修剪」。",
+      "script": "burgeon／proliferate 激增。augment 增加。accrete 漸增。wax 增強。mushroom 迅速發展。口令：溫室寫「可控生長」，野草寫「別 proliferate 到走廊」。",
+      "reviewHooks": [
+        "增：burgeon/proliferate/augment/accrete",
+        "burgeon＝迅速成長"
+      ],
+      "pitfalls": [
+        "accrete≠excrete"
+      ],
+      "members": [
+        {
+          "headword": "burgeon",
+          "zhGloss": "迅速成長",
+          "senseAnchor": "迅速成長",
+          "roleInScript": "嫩芽爆",
+          "humorDevice": "contrast",
+          "speakLineEn": "Cue the 嫩芽爆: burgeon walks on and the gag sticks.",
+          "speakLineZh": "請「嫩芽爆」出場：burgeon 一上場梗就黏住——迅速成長。",
+          "inVocab": true,
+          "vocabStatus": "synced-p4-pending-b02"
+        },
+        {
+          "headword": "augment",
+          "zhGloss": "增加",
+          "senseAnchor": "增加",
+          "roleInScript": "加厚",
+          "humorDevice": "contrast",
+          "speakLineEn": "Cue the 加厚: augment walks on and the gag sticks.",
+          "speakLineZh": "請「加厚」出場：augment 一上場梗就黏住——增加。",
+          "inVocab": true,
+          "vocabStatus": "synced-p4-pending-b02"
+        },
+        {
+          "headword": "wax",
+          "zhGloss": "增強",
+          "senseAnchor": "增強",
+          "roleInScript": "月盈",
+          "humorDevice": "contrast",
+          "speakLineEn": "Cue the 月盈: wax walks on and the gag sticks.",
+          "speakLineZh": "請「月盈」出場：wax 一上場梗就黏住——增強。",
+          "inVocab": false,
+          "vocabStatus": "deferred-basic-or-specialty"
+        },
+        {
+          "headword": "mushroom",
+          "zhGloss": "迅速發展",
+          "senseAnchor": "迅速發展",
+          "roleInScript": "傘菌長",
+          "humorDevice": "contrast",
+          "speakLineEn": "Cue the 傘菌長: mushroom walks on and the gag sticks.",
+          "speakLineZh": "請「傘菌長」出場：mushroom 一上場梗就黏住——迅速發展。",
+          "inVocab": true,
+          "vocabStatus": "synced-p4-pending-b02"
+        },
+        {
+          "headword": "amplify",
+          "zhGloss": "放大",
+          "senseAnchor": "放大",
+          "roleInScript": "擴音",
+          "humorDevice": "contrast",
+          "speakLineEn": "Cue the 擴音: amplify walks on and the gag sticks.",
+          "speakLineZh": "請「擴音」出場：amplify 一上場梗就黏住——放大。",
+          "inVocab": true,
+          "vocabStatus": "synced-p4-pending-b02"
+        },
+        {
+          "headword": "expand",
+          "zhGloss": "擴張",
+          "senseAnchor": "擴張",
+          "roleInScript": "膨脹",
+          "humorDevice": "contrast",
+          "speakLineEn": "Cue the 膨脹: expand walks on and the gag sticks.",
+          "speakLineZh": "請「膨脹」出場：expand 一上場梗就黏住——擴張。",
+          "inVocab": true,
+          "vocabStatus": "synced-p4-pending-b02"
+        },
+        {
+          "headword": "greenhouse",
+          "zhGloss": "溫室",
+          "senseAnchor": "溫室",
+          "roleInScript": "溫室",
+          "humorDevice": "story",
+          "speakLineEn": "Cue the 溫室: greenhouse walks on and the gag sticks.",
+          "speakLineZh": "請「溫室」出場：greenhouse 一上場梗就黏住——溫室。",
+          "inVocab": false,
+          "vocabStatus": "deferred-basic-or-specialty"
+        },
+        {
+          "headword": "shears",
+          "zhGloss": "剪刀",
+          "senseAnchor": "剪刀",
+          "roleInScript": "剪刀",
+          "humorDevice": "story",
+          "speakLineEn": "Cue the 剪刀: shears walks on and the gag sticks.",
+          "speakLineZh": "請「剪刀」出場：shears 一上場梗就黏住——剪刀。",
+          "inVocab": false,
+          "vocabStatus": "deferred-basic-or-specialty"
+        },
+        {
+          "headword": "sprout",
+          "zhGloss": "芽",
+          "senseAnchor": "any new growth of a plant such as a new branch or a bud; a newly grown bud (especially from a germinating seed)",
+          "roleInScript": "芽",
+          "humorDevice": "story",
+          "speakLineEn": "Cue the 芽: sprout walks on and the gag sticks.",
+          "speakLineZh": "請「芽」出場：sprout 一上場梗就黏住——芽。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "soil",
+          "zhGloss": "土壤",
+          "senseAnchor": "the state of being covered with unclean things; the part of the earth's surface consisting of humus and disintegrated rock",
+          "roleInScript": "土壤",
+          "humorDevice": "story",
+          "speakLineEn": "Cue the 土壤: soil walks on and the gag sticks.",
+          "speakLineZh": "請「土壤」出場：soil 一上場梗就黏住——土壤。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "hose",
+          "zhGloss": "水管",
+          "senseAnchor": "水管",
+          "roleInScript": "水管",
+          "humorDevice": "story",
+          "speakLineEn": "Cue the 水管: hose walks on and the gag sticks.",
+          "speakLineZh": "請「水管」出場：hose 一上場梗就黏住——水管。",
+          "inVocab": false,
+          "vocabStatus": "deferred-basic-or-specialty"
+        }
+      ],
+      "memberCount": 11,
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "sense",
+          "promptEn": "Grow / flourish rapidly:",
+          "promptZh": "迅速成長：",
+          "choices": [
+            "burgeon",
+            "indolent",
+            "repository",
+            "neon"
+          ],
+          "answer": "burgeon"
+        },
+        {
+          "id": "q2",
+          "type": "sense",
+          "promptEn": "Increase in number quickly:",
+          "promptZh": "激增：",
+          "choices": [
+            "proliferate",
+            "slothful",
+            "forecast",
+            "sole"
+          ],
+          "answer": "proliferate"
+        },
+        {
+          "id": "q3",
+          "type": "sense",
+          "promptEn": "Make larger:",
+          "promptZh": "增加：",
+          "choices": [
+            "augment",
+            "loaf",
+            "omnibus",
+            "scanty"
+          ],
+          "answer": "augment"
+        }
+      ],
+      "flow": [
+        {
+          "step": 1,
+          "name": "鉤子",
+          "minutes": 0.5,
+          "content": "orphan 增長團看計數器：burgeon／proliferate／augment／accrete——園丁說「長太快也要修剪」。"
+        },
+        {
+          "step": 2,
+          "name": "串記劇本",
+          "minutes": 2,
+          "content": "burgeon／proliferate 激增。augment 增加。accrete 漸增。wax 增強。mushroom 迅速發展。口令：溫室寫「可控生長」，野草寫「別 proliferate 到走廊」。"
+        },
+        {
+          "step": 3,
+          "name": "詞卡 round",
+          "minutes": 7,
+          "content": "義錨 → 角色 → 跟讀英／中"
+        },
+        {
+          "step": 4,
+          "name": "快測",
+          "minutes": 2,
+          "content": "quiz ×3"
+        },
+        {
+          "step": 5,
+          "name": "口令帶走",
+          "minutes": 0.5,
+          "content": [
+            "增：burgeon/proliferate/augment/accrete",
+            "burgeon＝迅速成長"
+          ]
+        }
+      ],
+      "minutes": "12-15"
+    },
+    {
+      "id": "p4b02-lazy-01",
+      "slug": "p4b02-lazy-01",
+      "type": "semantic",
+      "typeZh": "語氣對打",
+      "typeEn": "Semantic",
+      "season": 3,
+      "priority": "B",
+      "status": "reviewed",
+      "titleZh": "怠惰 orphan｜沙發停機坪",
+      "titleEn": "Lazy Orphan Sofa Pad",
+      "hook": "orphan 怠惰團佔領沙發：indolent／slothful／lackadaisical／shiftless——遙控器比人先累。",
+      "script": "indolent／slothful 懶。lackadaisical 無精打采。shiftless 無能懶散。laggard 落後者。loaf 閒混。口令：沙發寫「起來動」，遙控器寫「不是工作」。",
+      "reviewHooks": [
+        "懶：indolent/slothful/lackadaisical/shiftless",
+        "lackadaisical＝懶洋洋"
+      ],
+      "pitfalls": [
+        "indolent≠insolent"
+      ],
+      "members": [
+        {
+          "headword": "indolent",
+          "zhGloss": "懶惰的",
+          "senseAnchor": "disinclined to work or exertion; (of tumors, e.g.) slow to heal or develop and usually painless",
+          "roleInScript": "沙發人",
+          "humorDevice": "contrast",
+          "speakLineEn": "Cue the 沙發人: indolent walks on and the gag sticks.",
+          "speakLineZh": "請「沙發人」出場：indolent 一上場梗就黏住——懶惰的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "slothful",
+          "zhGloss": "怠惰的",
+          "senseAnchor": "disinclined to work or exertion",
+          "roleInScript": "樹懶姿",
+          "humorDevice": "contrast",
+          "speakLineEn": "Cue the 樹懶姿: slothful walks on and the gag sticks.",
+          "speakLineZh": "請「樹懶姿」出場：slothful 一上場梗就黏住——怠惰的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "lackadaisical",
+          "zhGloss": "無精打采的",
+          "senseAnchor": "無精打采的",
+          "roleInScript": "半開眼",
+          "humorDevice": "contrast",
+          "speakLineEn": "Cue the 半開眼: lackadaisical walks on and the gag sticks.",
+          "speakLineZh": "請「半開眼」出場：lackadaisical 一上場梗就黏住——無精打采的。",
+          "inVocab": true,
+          "vocabStatus": "synced-p4-pending-b02"
+        },
+        {
+          "headword": "shiftless",
+          "zhGloss": "懶散無能的",
+          "senseAnchor": "lacking or characterized by lack of ambition or initiative; lazy",
+          "roleInScript": "空工具",
+          "humorDevice": "contrast",
+          "speakLineEn": "Cue the 空工具: shiftless walks on and the gag sticks.",
+          "speakLineZh": "請「空工具」出場：shiftless 一上場梗就黏住——懶散無能的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "loaf",
+          "zhGloss": "閒混",
+          "senseAnchor": "閒混",
+          "roleInScript": "麵包躺",
+          "humorDevice": "contrast",
+          "speakLineEn": "Cue the 麵包躺: loaf walks on and the gag sticks.",
+          "speakLineZh": "請「麵包躺」出場：loaf 一上場梗就黏住——閒混。",
+          "inVocab": true,
+          "vocabStatus": "synced-p4-pending-b02"
+        },
+        {
+          "headword": "idle",
+          "zhGloss": "空閒的",
+          "senseAnchor": "空閒的",
+          "roleInScript": "空轉",
+          "humorDevice": "contrast",
+          "speakLineEn": "Cue the 空轉: idle walks on and the gag sticks.",
+          "speakLineZh": "請「空轉」出場：idle 一上場梗就黏住——空閒的。",
+          "inVocab": true,
+          "vocabStatus": "synced-p4-pending-b02"
+        },
+        {
+          "headword": "listless",
+          "zhGloss": "無精打采的",
+          "senseAnchor": "無精打采的",
+          "roleInScript": "無清單",
+          "humorDevice": "contrast",
+          "speakLineEn": "Cue the 無清單: listless walks on and the gag sticks.",
+          "speakLineZh": "請「無清單」出場：listless 一上場梗就黏住——無精打采的。",
+          "inVocab": true,
+          "vocabStatus": "synced-p4-pending-b02"
+        },
+        {
+          "headword": "torpid",
+          "zhGloss": "遲鈍的",
+          "senseAnchor": "slow and apathetic; in a condition of biological rest or suspended animation",
+          "roleInScript": "冬眠",
+          "humorDevice": "contrast",
+          "speakLineEn": "Cue the 冬眠: torpid walks on and the gag sticks.",
+          "speakLineZh": "請「冬眠」出場：torpid 一上場梗就黏住——遲鈍的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "sofa",
+          "zhGloss": "沙發",
+          "senseAnchor": "沙發",
+          "roleInScript": "沙發",
+          "humorDevice": "story",
+          "speakLineEn": "Cue the 沙發: sofa walks on and the gag sticks.",
+          "speakLineZh": "請「沙發」出場：sofa 一上場梗就黏住——沙發。",
+          "inVocab": false,
+          "vocabStatus": "deferred-basic-or-specialty"
+        },
+        {
+          "headword": "snack",
+          "zhGloss": "零食",
+          "senseAnchor": "零食",
+          "roleInScript": "零食",
+          "humorDevice": "story",
+          "speakLineEn": "Cue the 零食: snack walks on and the gag sticks.",
+          "speakLineZh": "請「零食」出場：snack 一上場梗就黏住——零食。",
+          "inVocab": false,
+          "vocabStatus": "deferred-basic-or-specialty"
+        },
+        {
+          "headword": "slipper",
+          "zhGloss": "拖鞋",
+          "senseAnchor": "拖鞋",
+          "roleInScript": "拖鞋",
+          "humorDevice": "story",
+          "speakLineEn": "Cue the 拖鞋: slipper walks on and the gag sticks.",
+          "speakLineZh": "請「拖鞋」出場：slipper 一上場梗就黏住——拖鞋。",
+          "inVocab": false,
+          "vocabStatus": "deferred-basic-or-specialty"
+        }
+      ],
+      "memberCount": 11,
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "sense",
+          "promptEn": "Habitually lazy:",
+          "promptZh": "懶惰的：",
+          "choices": [
+            "indolent",
+            "assiduous",
+            "repository",
+            "neon"
+          ],
+          "answer": "indolent"
+        },
+        {
+          "id": "q2",
+          "type": "sense",
+          "promptEn": "Lacking energy / spirit:",
+          "promptZh": "無精打采：",
+          "choices": [
+            "lackadaisical",
+            "industrious",
+            "forecast",
+            "sole"
+          ],
+          "answer": "lackadaisical"
+        },
+        {
+          "id": "q3",
+          "type": "sense",
+          "promptEn": "Lazy and incompetent:",
+          "promptZh": "懶散無能：",
+          "choices": [
+            "shiftless",
+            "diligent",
+            "omnibus",
+            "scanty"
+          ],
+          "answer": "shiftless"
+        }
+      ],
+      "flow": [
+        {
+          "step": 1,
+          "name": "鉤子",
+          "minutes": 0.5,
+          "content": "orphan 怠惰團佔領沙發：indolent／slothful／lackadaisical／shiftless——遙控器比人先累。"
+        },
+        {
+          "step": 2,
+          "name": "串記劇本",
+          "minutes": 2,
+          "content": "indolent／slothful 懶。lackadaisical 無精打采。shiftless 無能懶散。laggard 落後者。loaf 閒混。口令：沙發寫「起來動」，遙控器寫「不是工作」。"
+        },
+        {
+          "step": 3,
+          "name": "詞卡 round",
+          "minutes": 7,
+          "content": "義錨 → 角色 → 跟讀英／中"
+        },
+        {
+          "step": 4,
+          "name": "快測",
+          "minutes": 2,
+          "content": "quiz ×3"
+        },
+        {
+          "step": 5,
+          "name": "口令帶走",
+          "minutes": 0.5,
+          "content": [
+            "懶：indolent/slothful/lackadaisical/shiftless",
+            "lackadaisical＝懶洋洋"
+          ]
+        }
+      ],
+      "minutes": "12-15"
+    },
+    {
+      "id": "p4b02-letter-f-01",
+      "slug": "p4b02-letter-f-01",
+      "type": "root",
+      "typeZh": "字根劇場",
+      "typeEn": "Root",
+      "season": 2,
+      "priority": "C",
+      "status": "reviewed",
+      "titleZh": "orphan F｜F道具箱",
+      "titleEn": "Orphan F",
+      "hook": "差集 F 專場開在F道具箱——名牌用中文，防止走失。",
+      "script": "fabric/facetious/factiousness/faint 先登台，其餘 orphan 接龍。清倉晚會續攤：同字母檢票，義核才是身份證。",
+      "reviewHooks": [
+        "f:fabric/facetious/factiousness/faint",
+        "P4-batch02 差集"
+      ],
+      "pitfalls": [
+        "勿因同字母硬串錯誤字根"
+      ],
+      "members": [
+        {
+          "headword": "fabric",
+          "zhGloss": "組織",
+          "senseAnchor": "artifact made by weaving or felting or knitting or crocheting natural or synthetic fibers; the underlying structure",
+          "roleInScript": "F席-組織",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the F席-組織: fabric walks on and the gag sticks.",
+          "speakLineZh": "請「F席-組織」出場：fabric 一上場梗就黏住——組織。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "facetious",
+          "zhGloss": "膚淺的",
+          "senseAnchor": "cleverly amusing in tone",
+          "roleInScript": "F席-膚淺的",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the F席-膚淺的: facetious walks on and the gag sticks.",
+          "speakLineZh": "請「F席-膚淺的」出場：facetious 一上場梗就黏住——膚淺的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "factiousness",
+          "zhGloss": "派系的；黨派的",
+          "senseAnchor": "a GRE-level vocabulary item meaning closely related to its core sense in academic English",
+          "roleInScript": "F席-派系的；",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the F席-派系的；: factiousness walks on and the gag sticks.",
+          "speakLineZh": "請「F席-派系的；」出場：factiousness 一上場梗就黏住——派系的；黨派的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "faint",
+          "zhGloss": "昏迷",
+          "senseAnchor": "a spontaneous loss of consciousness caused by insufficient blood to the brain; pass out from weakness, physical or emotional distress due to a loss of blood supply to the brain",
+          "roleInScript": "F席-昏迷",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the F席-昏迷: faint walks on and the gag sticks.",
+          "speakLineZh": "請「F席-昏迷」出場：faint 一上場梗就黏住——昏迷。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "fallibility",
+          "zhGloss": "不可靠性；出錯性",
+          "senseAnchor": "the likelihood of making errors",
+          "roleInScript": "F席-不可靠性",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the F席-不可靠性: fallibility walks on and the gag sticks.",
+          "speakLineZh": "請「F席-不可靠性」出場：fallibility 一上場梗就黏住——不可靠性；出錯性。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "fallow",
+          "zhGloss": "adj. 閒置的",
+          "senseAnchor": "not being in a state of use, activity, or employment",
+          "roleInScript": "F席-adj.",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the F席-adj.: fallow walks on and the gag sticks.",
+          "speakLineZh": "請「F席-adj.」出場：fallow 一上場梗就黏住——adj. 閒置的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "faminie",
+          "zhGloss": "女性的",
+          "senseAnchor": "a GRE-level vocabulary item meaning closely related to its core sense in academic English",
+          "roleInScript": "F席-女性的",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the F席-女性的: faminie walks on and the gag sticks.",
+          "speakLineZh": "請「F席-女性的」出場：faminie 一上場梗就黏住——女性的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "famish",
+          "zhGloss": "捱餓",
+          "senseAnchor": "be hungry; go without food; deprive of food",
+          "roleInScript": "F席-捱餓",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the F席-捱餓: famish walks on and the gag sticks.",
+          "speakLineZh": "請「F席-捱餓」出場：famish 一上場梗就黏住——捱餓。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "fastidious",
+          "zhGloss": "adj. 挑剔的，極仔細的",
+          "senseAnchor": "possessing or displaying careful, meticulous attention to detail",
+          "roleInScript": "F席-adj.",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the F席-adj.: fastidious walks on and the gag sticks.",
+          "speakLineZh": "請「F席-adj.」出場：fastidious 一上場梗就黏住——adj. 挑剔的，極仔細的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "fathom",
+          "zhGloss": "理解",
+          "senseAnchor": "a linear unit of measurement (equal to 6 feet) for water depth; (mining) a unit of volume (equal to 6 cubic feet) used in measuring bodies of ore",
+          "roleInScript": "F席-理解",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the F席-理解: fathom walks on and the gag sticks.",
+          "speakLineZh": "請「F席-理解」出場：fathom 一上場梗就黏住——理解。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "fatidic",
+          "zhGloss": "預言的",
+          "senseAnchor": "a GRE-level vocabulary item meaning closely related to its core sense in academic English",
+          "roleInScript": "F席-預言的",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the F席-預言的: fatidic walks on and the gag sticks.",
+          "speakLineZh": "請「F席-預言的」出場：fatidic 一上場梗就黏住——預言的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "fatigue",
+          "zhGloss": "n. 疲憊",
+          "senseAnchor": "a feeling of being extremely tired",
+          "roleInScript": "F席-n. 疲",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the F席-n. 疲: fatigue walks on and the gag sticks.",
+          "speakLineZh": "請「F席-n. 疲」出場：fatigue 一上場梗就黏住——n. 疲憊。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "fatuity",
+          "zhGloss": "昏庸",
+          "senseAnchor": "a ludicrous folly",
+          "roleInScript": "F席-昏庸",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the F席-昏庸: fatuity walks on and the gag sticks.",
+          "speakLineZh": "請「F席-昏庸」出場：fatuity 一上場梗就黏住——昏庸。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "fealty",
+          "zhGloss": "n. 忠誠",
+          "senseAnchor": "loyalty",
+          "roleInScript": "F席-n. 忠",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the F席-n. 忠: fealty walks on and the gag sticks.",
+          "speakLineZh": "請「F席-n. 忠」出場：fealty 一上場梗就黏住——n. 忠誠。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        }
+      ],
+      "memberCount": 14,
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "sense",
+          "promptEn": "Lead orphan:",
+          "promptZh": "領頭：",
+          "choices": [
+            "fabric",
+            "facetious",
+            "repository",
+            "neon"
+          ],
+          "answer": "fabric"
+        },
+        {
+          "id": "q2",
+          "type": "sense",
+          "promptEn": "Also on stage:",
+          "promptZh": "同場：",
+          "choices": [
+            "facetious",
+            "factiousness",
+            "forecast",
+            "sole"
+          ],
+          "answer": "facetious"
+        },
+        {
+          "id": "q3",
+          "type": "sense",
+          "promptEn": "Another:",
+          "promptZh": "另一個：",
+          "choices": [
+            "factiousness",
+            "fabric",
+            "omnibus",
+            "scanty"
+          ],
+          "answer": "factiousness"
+        }
+      ],
+      "flow": [
+        {
+          "step": 1,
+          "name": "鉤子",
+          "minutes": 0.5,
+          "content": "差集 F 專場開在F道具箱——名牌用中文，防止走失。"
+        },
+        {
+          "step": 2,
+          "name": "串記劇本",
+          "minutes": 2,
+          "content": "fabric/facetious/factiousness/faint 先登台，其餘 orphan 接龍。清倉晚會續攤：同字母檢票，義核才是身份證。"
+        },
+        {
+          "step": 3,
+          "name": "詞卡 round",
+          "minutes": 7,
+          "content": "義錨 → 角色 → 跟讀英／中"
+        },
+        {
+          "step": 4,
+          "name": "快測",
+          "minutes": 2,
+          "content": "quiz ×3"
+        },
+        {
+          "step": 5,
+          "name": "口令帶走",
+          "minutes": 0.5,
+          "content": [
+            "f:fabric/facetious/factiousness/faint",
+            "P4-batch02 差集"
+          ]
+        }
+      ],
+      "minutes": "12-15"
+    },
+    {
+      "id": "p4b02-letter-g-01",
+      "slug": "p4b02-letter-g-01",
+      "type": "root",
+      "typeZh": "字根劇場",
+      "typeEn": "Root",
+      "season": 2,
+      "priority": "C",
+      "status": "reviewed",
+      "titleZh": "orphan G｜G滑梯口",
+      "titleEn": "Orphan G",
+      "hook": "差集 G 專場開在G滑梯口——名牌用中文，防止走失。",
+      "script": "gabble/gadfly/gaffe/gambol 先登台，其餘 orphan 接龍。清倉晚會續攤：同字母檢票，義核才是身份證。",
+      "reviewHooks": [
+        "g:gabble/gadfly/gaffe/gambol",
+        "P4-batch02 差集"
+      ],
+      "pitfalls": [
+        "勿因同字母硬串錯誤字根"
+      ],
+      "members": [
+        {
+          "headword": "gabble",
+          "zhGloss": "快而不清楚的說",
+          "senseAnchor": "rapid and indistinct speech; speak (about unimportant matters) rapidly and incessantly",
+          "roleInScript": "G席-快而不清",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the G席-快而不清: gabble walks on and the gag sticks.",
+          "speakLineZh": "請「G席-快而不清」出場：gabble 一上場梗就黏住——快而不清楚的說。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "gadfly",
+          "zhGloss": "n. 惹人討厭的人",
+          "senseAnchor": "an annoying person",
+          "roleInScript": "G席-n. 惹",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the G席-n. 惹: gadfly walks on and the gag sticks.",
+          "speakLineZh": "請「G席-n. 惹」出場：gadfly 一上場梗就黏住——n. 惹人討厭的人。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "gaffe",
+          "zhGloss": "失態；過失",
+          "senseAnchor": "a socially awkward or tactless act",
+          "roleInScript": "G席-失態；過",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the G席-失態；過: gaffe walks on and the gag sticks.",
+          "speakLineZh": "請「G席-失態；過」出場：gaffe 一上場梗就黏住——失態；過失。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "gambol",
+          "zhGloss": "雀躍",
+          "senseAnchor": "gay or light-hearted recreational activity for diversion or amusement; play boisterously",
+          "roleInScript": "G席-雀躍",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the G席-雀躍: gambol walks on and the gag sticks.",
+          "speakLineZh": "請「G席-雀躍」出場：gambol 一上場梗就黏住——雀躍。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "gander",
+          "zhGloss": "呆子",
+          "senseAnchor": "mature male goose",
+          "roleInScript": "G席-呆子",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the G席-呆子: gander walks on and the gag sticks.",
+          "speakLineZh": "請「G席-呆子」出場：gander 一上場梗就黏住——呆子。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "gangly",
+          "zhGloss": "收場的",
+          "senseAnchor": "tall and thin and having long slender limbs; tall and thin",
+          "roleInScript": "G席-收場的",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the G席-收場的: gangly walks on and the gag sticks.",
+          "speakLineZh": "請「G席-收場的」出場：gangly 一上場梗就黏住——收場的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "garble",
+          "zhGloss": "篡改",
+          "senseAnchor": "make false by mutilation or addition; as of a message or story",
+          "roleInScript": "G席-篡改",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the G席-篡改: garble walks on and the gag sticks.",
+          "speakLineZh": "請「G席-篡改」出場：garble 一上場梗就黏住——篡改。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "gargantuan",
+          "zhGloss": "巨大的",
+          "senseAnchor": "of great mass; huge and bulky",
+          "roleInScript": "G席-巨大的",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the G席-巨大的: gargantuan walks on and the gag sticks.",
+          "speakLineZh": "請「G席-巨大的」出場：gargantuan 一上場梗就黏住——巨大的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "garish",
+          "zhGloss": "豔俗的",
+          "senseAnchor": "tastelessly showy",
+          "roleInScript": "G席-豔俗的",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the G席-豔俗的: garish walks on and the gag sticks.",
+          "speakLineZh": "請「G席-豔俗的」出場：garish 一上場梗就黏住——豔俗的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "garner",
+          "zhGloss": "穀倉；獲得",
+          "senseAnchor": "a storehouse for threshed grain or animal feed; acquire or deserve by one's efforts or actions",
+          "roleInScript": "G席-穀倉；獲",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the G席-穀倉；獲: garner walks on and the gag sticks.",
+          "speakLineZh": "請「G席-穀倉；獲」出場：garner 一上場梗就黏住——穀倉；獲得。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "garnish",
+          "zhGloss": "裝飾",
+          "senseAnchor": "something (such as parsley) added to a dish for flavor or decoration; any decoration added as a trimming or adornment",
+          "roleInScript": "G席-裝飾",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the G席-裝飾: garnish walks on and the gag sticks.",
+          "speakLineZh": "請「G席-裝飾」出場：garnish 一上場梗就黏住——裝飾。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "garrulity",
+          "zhGloss": "饒舌",
+          "senseAnchor": "the quality of being wordy and talkative",
+          "roleInScript": "G席-饒舌",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the G席-饒舌: garrulity walks on and the gag sticks.",
+          "speakLineZh": "請「G席-饒舌」出場：garrulity 一上場梗就黏住——饒舌。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "gauche",
+          "zhGloss": "缺乏社交經驗的",
+          "senseAnchor": "lacking social polish",
+          "roleInScript": "G席-缺乏社交",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the G席-缺乏社交: gauche walks on and the gag sticks.",
+          "speakLineZh": "請「G席-缺乏社交」出場：gauche 一上場梗就黏住——缺乏社交經驗的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "gaudy",
+          "zhGloss": "俗麗的",
+          "senseAnchor": "(Britain) a celebratory reunion feast or entertainment held a college; tastelessly showy",
+          "roleInScript": "G席-俗麗的",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the G席-俗麗的: gaudy walks on and the gag sticks.",
+          "speakLineZh": "請「G席-俗麗的」出場：gaudy 一上場梗就黏住——俗麗的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        }
+      ],
+      "memberCount": 14,
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "sense",
+          "promptEn": "Lead orphan:",
+          "promptZh": "領頭：",
+          "choices": [
+            "gabble",
+            "gadfly",
+            "repository",
+            "neon"
+          ],
+          "answer": "gabble"
+        },
+        {
+          "id": "q2",
+          "type": "sense",
+          "promptEn": "Also on stage:",
+          "promptZh": "同場：",
+          "choices": [
+            "gadfly",
+            "gaffe",
+            "forecast",
+            "sole"
+          ],
+          "answer": "gadfly"
+        },
+        {
+          "id": "q3",
+          "type": "sense",
+          "promptEn": "Another:",
+          "promptZh": "另一個：",
+          "choices": [
+            "gaffe",
+            "gabble",
+            "omnibus",
+            "scanty"
+          ],
+          "answer": "gaffe"
+        }
+      ],
+      "flow": [
+        {
+          "step": 1,
+          "name": "鉤子",
+          "minutes": 0.5,
+          "content": "差集 G 專場開在G滑梯口——名牌用中文，防止走失。"
+        },
+        {
+          "step": 2,
+          "name": "串記劇本",
+          "minutes": 2,
+          "content": "gabble/gadfly/gaffe/gambol 先登台，其餘 orphan 接龍。清倉晚會續攤：同字母檢票，義核才是身份證。"
+        },
+        {
+          "step": 3,
+          "name": "詞卡 round",
+          "minutes": 7,
+          "content": "義錨 → 角色 → 跟讀英／中"
+        },
+        {
+          "step": 4,
+          "name": "快測",
+          "minutes": 2,
+          "content": "quiz ×3"
+        },
+        {
+          "step": 5,
+          "name": "口令帶走",
+          "minutes": 0.5,
+          "content": [
+            "g:gabble/gadfly/gaffe/gambol",
+            "P4-batch02 差集"
+          ]
+        }
+      ],
+      "minutes": "12-15"
+    },
+    {
+      "id": "p4b02-letter-h-01",
+      "slug": "p4b02-letter-h-01",
+      "type": "root",
+      "typeZh": "字根劇場",
+      "typeEn": "Root",
+      "season": 2,
+      "priority": "C",
+      "status": "reviewed",
+      "titleZh": "orphan H｜H候車亭",
+      "titleEn": "Orphan H",
+      "hook": "差集 H 專場開在H候車亭——名牌用中文，防止走失。",
+      "script": "hackneyed/haggard/haggle/hagiographic 先登台，其餘 orphan 接龍。清倉晚會續攤：同字母檢票，義核才是身份證。",
+      "reviewHooks": [
+        "h:hackneyed/haggard/haggle/hagiographic",
+        "P4-batch02 差集"
+      ],
+      "pitfalls": [
+        "勿因同字母硬串錯誤字根"
+      ],
+      "members": [
+        {
+          "headword": "hackneyed",
+          "zhGloss": "陳腐的",
+          "senseAnchor": "repeated too often; overfamiliar through overuse",
+          "roleInScript": "H席-陳腐的",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the H席-陳腐的: hackneyed walks on and the gag sticks.",
+          "speakLineZh": "請「H席-陳腐的」出場：hackneyed 一上場梗就黏住——陳腐的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "haggard",
+          "zhGloss": "憔悴的",
+          "senseAnchor": "British writer noted for romantic adventure novels (1856-1925); showing the wearing effects of overwork or care or suffering; ; ; ; - Charles Dickens",
+          "roleInScript": "H席-憔悴的",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the H席-憔悴的: haggard walks on and the gag sticks.",
+          "speakLineZh": "請「H席-憔悴的」出場：haggard 一上場梗就黏住——憔悴的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "haggle",
+          "zhGloss": "討價還價",
+          "senseAnchor": "an instance of intense argument (as in bargaining); wrangle (over a price, terms of an agreement, etc.)",
+          "roleInScript": "H席-討價還價",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the H席-討價還價: haggle walks on and the gag sticks.",
+          "speakLineZh": "請「H席-討價還價」出場：haggle 一上場梗就黏住——討價還價。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "hagiographic",
+          "zhGloss": "adj. 過分諂媚的",
+          "senseAnchor": "overly or insincerely flattering",
+          "roleInScript": "H席-adj.",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the H席-adj.: hagiographic walks on and the gag sticks.",
+          "speakLineZh": "請「H席-adj.」出場：hagiographic 一上場梗就黏住——adj. 過分諂媚的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "hallow",
+          "zhGloss": "v. 尊敬",
+          "senseAnchor": "to respect or honor greatly",
+          "roleInScript": "H席-v. 尊",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the H席-v. 尊: hallow walks on and the gag sticks.",
+          "speakLineZh": "請「H席-v. 尊」出場：hallow 一上場梗就黏住——v. 尊敬。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "hallowed",
+          "zhGloss": "神聖的",
+          "senseAnchor": "render holy by means of religious rites; worthy of religious veneration",
+          "roleInScript": "H席-神聖的",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the H席-神聖的: hallowed walks on and the gag sticks.",
+          "speakLineZh": "請「H席-神聖的」出場：hallowed 一上場梗就黏住——神聖的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "hallucination",
+          "zhGloss": "幻覺",
+          "senseAnchor": "illusory perception; a common symptom of severe mental disorder; a mistaken or unfounded opinion or idea",
+          "roleInScript": "H席-幻覺",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the H席-幻覺: hallucination walks on and the gag sticks.",
+          "speakLineZh": "請「H席-幻覺」出場：hallucination 一上場梗就黏住——幻覺。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "hammer",
+          "zhGloss": "反覆重申",
+          "senseAnchor": "the part of a gunlock that strikes the percussion cap when the trigger is pulled; a hand tool with a heavy rigid head and a handle; used to deliver an impulsive force by striking",
+          "roleInScript": "H席-反覆重申",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the H席-反覆重申: hammer walks on and the gag sticks.",
+          "speakLineZh": "請「H席-反覆重申」出場：hammer 一上場梗就黏住——反覆重申。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "hangdog",
+          "zhGloss": "可憐的；悲哀的",
+          "senseAnchor": "showing a sense of guilt; ; - Eric Linklater; frightened into submission or compliance",
+          "roleInScript": "H席-可憐的；",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the H席-可憐的；: hangdog walks on and the gag sticks.",
+          "speakLineZh": "請「H席-可憐的；」出場：hangdog 一上場梗就黏住——可憐的；悲哀的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "hanker",
+          "zhGloss": "渴望",
+          "senseAnchor": "desire strongly or persistently",
+          "roleInScript": "H席-渴望",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the H席-渴望: hanker walks on and the gag sticks.",
+          "speakLineZh": "請「H席-渴望」出場：hanker 一上場梗就黏住——渴望。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "haphazard",
+          "zhGloss": "偶然的",
+          "senseAnchor": "dependent upon or characterized by chance; marked by great carelessness",
+          "roleInScript": "H席-偶然的",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the H席-偶然的: haphazard walks on and the gag sticks.",
+          "speakLineZh": "請「H席-偶然的」出場：haphazard 一上場梗就黏住——偶然的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "harangue",
+          "zhGloss": "長篇演講",
+          "senseAnchor": "a loud bombastic declamation expressed with strong emotion; deliver a harangue to; address forcefully",
+          "roleInScript": "H席-長篇演講",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the H席-長篇演講: harangue walks on and the gag sticks.",
+          "speakLineZh": "請「H席-長篇演講」出場：harangue 一上場梗就黏住——長篇演講。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "harass",
+          "zhGloss": "煩擾",
+          "senseAnchor": "annoy continually or chronically; exhaust by attacking repeatedly",
+          "roleInScript": "H席-煩擾",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the H席-煩擾: harass walks on and the gag sticks.",
+          "speakLineZh": "請「H席-煩擾」出場：harass 一上場梗就黏住——煩擾。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "harbinger",
+          "zhGloss": "先驅；先兆",
+          "senseAnchor": "something that precedes and indicates the approach of something or someone; foreshadow or presage",
+          "roleInScript": "H席-先驅；先",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the H席-先驅；先: harbinger walks on and the gag sticks.",
+          "speakLineZh": "請「H席-先驅；先」出場：harbinger 一上場梗就黏住——先驅；先兆。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        }
+      ],
+      "memberCount": 14,
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "sense",
+          "promptEn": "Lead orphan:",
+          "promptZh": "領頭：",
+          "choices": [
+            "hackneyed",
+            "haggard",
+            "repository",
+            "neon"
+          ],
+          "answer": "hackneyed"
+        },
+        {
+          "id": "q2",
+          "type": "sense",
+          "promptEn": "Also on stage:",
+          "promptZh": "同場：",
+          "choices": [
+            "haggard",
+            "haggle",
+            "forecast",
+            "sole"
+          ],
+          "answer": "haggard"
+        },
+        {
+          "id": "q3",
+          "type": "sense",
+          "promptEn": "Another:",
+          "promptZh": "另一個：",
+          "choices": [
+            "haggle",
+            "hackneyed",
+            "omnibus",
+            "scanty"
+          ],
+          "answer": "haggle"
+        }
+      ],
+      "flow": [
+        {
+          "step": 1,
+          "name": "鉤子",
+          "minutes": 0.5,
+          "content": "差集 H 專場開在H候車亭——名牌用中文，防止走失。"
+        },
+        {
+          "step": 2,
+          "name": "串記劇本",
+          "minutes": 2,
+          "content": "hackneyed/haggard/haggle/hagiographic 先登台，其餘 orphan 接龍。清倉晚會續攤：同字母檢票，義核才是身份證。"
+        },
+        {
+          "step": 3,
+          "name": "詞卡 round",
+          "minutes": 7,
+          "content": "義錨 → 角色 → 跟讀英／中"
+        },
+        {
+          "step": 4,
+          "name": "快測",
+          "minutes": 2,
+          "content": "quiz ×3"
+        },
+        {
+          "step": 5,
+          "name": "口令帶走",
+          "minutes": 0.5,
+          "content": [
+            "h:hackneyed/haggard/haggle/hagiographic",
+            "P4-batch02 差集"
+          ]
+        }
+      ],
+      "minutes": "12-15"
+    },
+    {
+      "id": "p4b02-letter-i-01",
+      "slug": "p4b02-letter-i-01",
+      "type": "root",
+      "typeZh": "字根劇場",
+      "typeEn": "Root",
+      "season": 2,
+      "priority": "C",
+      "status": "reviewed",
+      "titleZh": "orphan I｜I資訊台",
+      "titleEn": "Orphan I",
+      "hook": "差集 I 專場開在I資訊台——名牌用中文，防止走失。",
+      "script": "icicle/idiomatic/idiosyncracy/idiosyncratic 先登台，其餘 orphan 接龍。清倉晚會續攤：同字母檢票，義核才是身份證。",
+      "reviewHooks": [
+        "i:icicle/idiomatic/idiosyncracy/idiosyncratic",
+        "P4-batch02 差集"
+      ],
+      "pitfalls": [
+        "勿因同字母硬串錯誤字根"
+      ],
+      "members": [
+        {
+          "headword": "icicle",
+          "zhGloss": "冰柱",
+          "senseAnchor": "ice resembling a pendent spear, formed by the freezing of dripping water",
+          "roleInScript": "I席-冰柱",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the I席-冰柱: icicle walks on and the gag sticks.",
+          "speakLineZh": "請「I席-冰柱」出場：icicle 一上場梗就黏住——冰柱。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "idiomatic",
+          "zhGloss": "通俗的；慣用的",
+          "senseAnchor": "of or relating to or conforming to idiom",
+          "roleInScript": "I席-通俗的；",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the I席-通俗的；: idiomatic walks on and the gag sticks.",
+          "speakLineZh": "請「I席-通俗的；」出場：idiomatic 一上場梗就黏住——通俗的；慣用的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "idiosyncracy",
+          "zhGloss": "特質",
+          "senseAnchor": "a GRE-level vocabulary item meaning closely related to its core sense in academic English",
+          "roleInScript": "I席-特質",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the I席-特質: idiosyncracy walks on and the gag sticks.",
+          "speakLineZh": "請「I席-特質」出場：idiosyncracy 一上場梗就黏住——特質。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "idiosyncratic",
+          "zhGloss": "n. 獨特的",
+          "senseAnchor": "odd or peculiar",
+          "roleInScript": "I席-n. 獨",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the I席-n. 獨: idiosyncratic walks on and the gag sticks.",
+          "speakLineZh": "請「I席-n. 獨」出場：idiosyncratic 一上場梗就黏住——n. 獨特的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "idyllic",
+          "zhGloss": "田園詩的",
+          "senseAnchor": "excellent and delightful in all respects; suggestive of an idyll; charmingly simple and serene",
+          "roleInScript": "I席-田園詩的",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the I席-田園詩的: idyllic walks on and the gag sticks.",
+          "speakLineZh": "請「I席-田園詩的」出場：idyllic 一上場梗就黏住——田園詩的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "ignoble",
+          "zhGloss": "可鄙的；卑鄙的",
+          "senseAnchor": "completely lacking nobility in character or quality or purpose; ; - Oliver Wendell Holmes, Jr.; not of the nobility",
+          "roleInScript": "I席-可鄙的；",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the I席-可鄙的；: ignoble walks on and the gag sticks.",
+          "speakLineZh": "請「I席-可鄙的；」出場：ignoble 一上場梗就黏住——可鄙的；卑鄙的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "ignominious",
+          "zhGloss": "可鄙的；可恥的",
+          "senseAnchor": "(used of conduct or character) deserving or bringing disgrace or shame; - Rachel Carson",
+          "roleInScript": "I席-可鄙的；",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the I席-可鄙的；: ignominious walks on and the gag sticks.",
+          "speakLineZh": "請「I席-可鄙的；」出場：ignominious 一上場梗就黏住——可鄙的；可恥的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "illicit",
+          "zhGloss": "違法",
+          "senseAnchor": "contrary to accepted morality (especially sexual morality) or convention; contrary to or forbidden by law",
+          "roleInScript": "I席-違法",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the I席-違法: illicit walks on and the gag sticks.",
+          "speakLineZh": "請「I席-違法」出場：illicit 一上場梗就黏住——違法。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "illuminati",
+          "zhGloss": "智者",
+          "senseAnchor": "a GRE-level vocabulary item meaning closely related to its core sense in academic English",
+          "roleInScript": "I席-智者",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the I席-智者: illuminati walks on and the gag sticks.",
+          "speakLineZh": "請「I席-智者」出場：illuminati 一上場梗就黏住——智者。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "illusive",
+          "zhGloss": "錯覺的",
+          "senseAnchor": "based on or having the nature of an illusion",
+          "roleInScript": "I席-錯覺的",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the I席-錯覺的: illusive walks on and the gag sticks.",
+          "speakLineZh": "請「I席-錯覺的」出場：illusive 一上場梗就黏住——錯覺的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "imbecile",
+          "zhGloss": "愚蠢的人",
+          "senseAnchor": "a person of subnormal intelligence; having a mental age of three to seven years",
+          "roleInScript": "I席-愚蠢的人",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the I席-愚蠢的人: imbecile walks on and the gag sticks.",
+          "speakLineZh": "請「I席-愚蠢的人」出場：imbecile 一上場梗就黏住——愚蠢的人。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "imbibe",
+          "zhGloss": "v. 喝水，攝取水分",
+          "senseAnchor": "to take in (something liquid) through small openings",
+          "roleInScript": "I席-v. 喝",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the I席-v. 喝: imbibe walks on and the gag sticks.",
+          "speakLineZh": "請「I席-v. 喝」出場：imbibe 一上場梗就黏住——v. 喝水，攝取水分。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "imbroglio",
+          "zhGloss": "紛亂",
+          "senseAnchor": "an intricate and confusing interpersonal or political situation; a very embarrassing misunderstanding",
+          "roleInScript": "I席-紛亂",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the I席-紛亂: imbroglio walks on and the gag sticks.",
+          "speakLineZh": "請「I席-紛亂」出場：imbroglio 一上場梗就黏住——紛亂。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "imbue",
+          "zhGloss": "染色",
+          "senseAnchor": "spread or diffuse through; fill, soak, or imbue totally",
+          "roleInScript": "I席-染色",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the I席-染色: imbue walks on and the gag sticks.",
+          "speakLineZh": "請「I席-染色」出場：imbue 一上場梗就黏住——染色。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        }
+      ],
+      "memberCount": 14,
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "sense",
+          "promptEn": "Lead orphan:",
+          "promptZh": "領頭：",
+          "choices": [
+            "icicle",
+            "idiomatic",
+            "repository",
+            "neon"
+          ],
+          "answer": "icicle"
+        },
+        {
+          "id": "q2",
+          "type": "sense",
+          "promptEn": "Also on stage:",
+          "promptZh": "同場：",
+          "choices": [
+            "idiomatic",
+            "idiosyncracy",
+            "forecast",
+            "sole"
+          ],
+          "answer": "idiomatic"
+        },
+        {
+          "id": "q3",
+          "type": "sense",
+          "promptEn": "Another:",
+          "promptZh": "另一個：",
+          "choices": [
+            "idiosyncracy",
+            "icicle",
+            "omnibus",
+            "scanty"
+          ],
+          "answer": "idiosyncracy"
+        }
+      ],
+      "flow": [
+        {
+          "step": 1,
+          "name": "鉤子",
+          "minutes": 0.5,
+          "content": "差集 I 專場開在I資訊台——名牌用中文，防止走失。"
+        },
+        {
+          "step": 2,
+          "name": "串記劇本",
+          "minutes": 2,
+          "content": "icicle/idiomatic/idiosyncracy/idiosyncratic 先登台，其餘 orphan 接龍。清倉晚會續攤：同字母檢票，義核才是身份證。"
+        },
+        {
+          "step": 3,
+          "name": "詞卡 round",
+          "minutes": 7,
+          "content": "義錨 → 角色 → 跟讀英／中"
+        },
+        {
+          "step": 4,
+          "name": "快測",
+          "minutes": 2,
+          "content": "quiz ×3"
+        },
+        {
+          "step": 5,
+          "name": "口令帶走",
+          "minutes": 0.5,
+          "content": [
+            "i:icicle/idiomatic/idiosyncracy/idiosyncratic",
+            "P4-batch02 差集"
+          ]
+        }
+      ],
+      "minutes": "12-15"
+    },
+    {
+      "id": "p4b02-letter-l-01",
+      "slug": "p4b02-letter-l-01",
+      "type": "root",
+      "typeZh": "字根劇場",
+      "typeEn": "Root",
+      "season": 2,
+      "priority": "C",
+      "status": "reviewed",
+      "titleZh": "orphan L｜L轉盤",
+      "titleEn": "Orphan L",
+      "hook": "差集 L 專場開在L轉盤——名牌用中文，防止走失。",
+      "script": "labile/labortious/lacerate/lachrymose 先登台，其餘 orphan 接龍。清倉晚會續攤：同字母檢票，義核才是身份證。",
+      "reviewHooks": [
+        "l:labile/labortious/lacerate/lachrymose",
+        "P4-batch02 差集"
+      ],
+      "pitfalls": [
+        "勿因同字母硬串錯誤字根"
+      ],
+      "members": [
+        {
+          "headword": "labile",
+          "zhGloss": "不穩定的；易變的",
+          "senseAnchor": "(chemistry, physics, biology) readily undergoing change or breakdown; liable to change",
+          "roleInScript": "L席-不穩定的",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the L席-不穩定的: labile walks on and the gag sticks.",
+          "speakLineZh": "請「L席-不穩定的」出場：labile 一上場梗就黏住——不穩定的；易變的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "labortious",
+          "zhGloss": "勤勉的",
+          "senseAnchor": "a GRE-level vocabulary item meaning closely related to its core sense in academic English",
+          "roleInScript": "L席-勤勉的",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the L席-勤勉的: labortious walks on and the gag sticks.",
+          "speakLineZh": "請「L席-勤勉的」出場：labortious 一上場梗就黏住——勤勉的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "lacerate",
+          "zhGloss": "傷害；撕裂",
+          "senseAnchor": "cut or tear irregularly; deeply hurt the feelings of; distress",
+          "roleInScript": "L席-傷害；撕",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the L席-傷害；撕: lacerate walks on and the gag sticks.",
+          "speakLineZh": "請「L席-傷害；撕」出場：lacerate 一上場梗就黏住——傷害；撕裂。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "lachrymose",
+          "zhGloss": "悲哀的；愛哭的",
+          "senseAnchor": "showing sorrow",
+          "roleInScript": "L席-悲哀的；",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the L席-悲哀的；: lachrymose walks on and the gag sticks.",
+          "speakLineZh": "請「L席-悲哀的；」出場：lachrymose 一上場梗就黏住——悲哀的；愛哭的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "lachymose",
+          "zhGloss": "愛哭的；悲哀的",
+          "senseAnchor": "a GRE-level vocabulary item meaning closely related to its core sense in academic English",
+          "roleInScript": "L席-愛哭的；",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the L席-愛哭的；: lachymose walks on and the gag sticks.",
+          "speakLineZh": "請「L席-愛哭的；」出場：lachymose 一上場梗就黏住——愛哭的；悲哀的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "lactic",
+          "zhGloss": "乳的",
+          "senseAnchor": "of or relating to or obtained from milk (especially sour milk or whey)",
+          "roleInScript": "L席-乳的",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the L席-乳的: lactic walks on and the gag sticks.",
+          "speakLineZh": "請「L席-乳的」出場：lactic 一上場梗就黏住——乳的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "lamentable",
+          "zhGloss": "可悲的；悲痛的",
+          "senseAnchor": "bad; unfortunate",
+          "roleInScript": "L席-可悲的；",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the L席-可悲的；: lamentable walks on and the gag sticks.",
+          "speakLineZh": "請「L席-可悲的；」出場：lamentable 一上場梗就黏住——可悲的；悲痛的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "lampoon",
+          "zhGloss": "公開諷刺",
+          "senseAnchor": "a composition that imitates or misrepresents somebody's style, usually in a humorous way; ridicule with satire",
+          "roleInScript": "L席-公開諷刺",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the L席-公開諷刺: lampoon walks on and the gag sticks.",
+          "speakLineZh": "請「L席-公開諷刺」出場：lampoon 一上場梗就黏住——公開諷刺。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "languid",
+          "zhGloss": "憔悴的；衰弱的",
+          "senseAnchor": "lacking spirit or liveliness",
+          "roleInScript": "L席-憔悴的；",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the L席-憔悴的；: languid walks on and the gag sticks.",
+          "speakLineZh": "請「L席-憔悴的；」出場：languid 一上場梗就黏住——憔悴的；衰弱的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "languish",
+          "zhGloss": "v. 變得衰弱",
+          "senseAnchor": "to become weak or unsuccessful",
+          "roleInScript": "L席-v. 變",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the L席-v. 變: languish walks on and the gag sticks.",
+          "speakLineZh": "請「L席-v. 變」出場：languish 一上場梗就黏住——v. 變得衰弱。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "languor",
+          "zhGloss": "衰弱；懶惰",
+          "senseAnchor": "a relaxed comfortable feeling; a feeling of lack of interest or energy",
+          "roleInScript": "L席-衰弱；懶",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the L席-衰弱；懶: languor walks on and the gag sticks.",
+          "speakLineZh": "請「L席-衰弱；懶」出場：languor 一上場梗就黏住——衰弱；懶惰。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "lapse",
+          "zhGloss": "n. 失誤",
+          "senseAnchor": "an unintentional departure from truth or accuracy",
+          "roleInScript": "L席-n. 失",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the L席-n. 失: lapse walks on and the gag sticks.",
+          "speakLineZh": "請「L席-n. 失」出場：lapse 一上場梗就黏住——n. 失誤。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "largess",
+          "zhGloss": "贈送；饋贈",
+          "senseAnchor": "a gift or money given (as for service or out of benevolence); usually given ostentatiously; liberality in bestowing gifts; extremely liberal and generous of spirit",
+          "roleInScript": "L席-贈送；饋",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the L席-贈送；饋: largess walks on and the gag sticks.",
+          "speakLineZh": "請「L席-贈送；饋」出場：largess 一上場梗就黏住——贈送；饋贈。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "lassitude",
+          "zhGloss": "無精打採；疲乏",
+          "senseAnchor": "a state of comatose torpor (as found in sleeping sickness); a feeling of lack of interest or energy",
+          "roleInScript": "L席-無精打採",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the L席-無精打採: lassitude walks on and the gag sticks.",
+          "speakLineZh": "請「L席-無精打採」出場：lassitude 一上場梗就黏住——無精打採；疲乏。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        }
+      ],
+      "memberCount": 14,
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "sense",
+          "promptEn": "Lead orphan:",
+          "promptZh": "領頭：",
+          "choices": [
+            "labile",
+            "labortious",
+            "repository",
+            "neon"
+          ],
+          "answer": "labile"
+        },
+        {
+          "id": "q2",
+          "type": "sense",
+          "promptEn": "Also on stage:",
+          "promptZh": "同場：",
+          "choices": [
+            "labortious",
+            "lacerate",
+            "forecast",
+            "sole"
+          ],
+          "answer": "labortious"
+        },
+        {
+          "id": "q3",
+          "type": "sense",
+          "promptEn": "Another:",
+          "promptZh": "另一個：",
+          "choices": [
+            "lacerate",
+            "labile",
+            "omnibus",
+            "scanty"
+          ],
+          "answer": "lacerate"
+        }
+      ],
+      "flow": [
+        {
+          "step": 1,
+          "name": "鉤子",
+          "minutes": 0.5,
+          "content": "差集 L 專場開在L轉盤——名牌用中文，防止走失。"
+        },
+        {
+          "step": 2,
+          "name": "串記劇本",
+          "minutes": 2,
+          "content": "labile/labortious/lacerate/lachrymose 先登台，其餘 orphan 接龍。清倉晚會續攤：同字母檢票，義核才是身份證。"
+        },
+        {
+          "step": 3,
+          "name": "詞卡 round",
+          "minutes": 7,
+          "content": "義錨 → 角色 → 跟讀英／中"
+        },
+        {
+          "step": 4,
+          "name": "快測",
+          "minutes": 2,
+          "content": "quiz ×3"
+        },
+        {
+          "step": 5,
+          "name": "口令帶走",
+          "minutes": 0.5,
+          "content": [
+            "l:labile/labortious/lacerate/lachrymose",
+            "P4-batch02 差集"
+          ]
+        }
+      ],
+      "minutes": "12-15"
+    },
+    {
+      "id": "p4b02-letter-n-01",
+      "slug": "p4b02-letter-n-01",
+      "type": "root",
+      "typeZh": "字根劇場",
+      "typeEn": "Root",
+      "season": 2,
+      "priority": "C",
+      "status": "reviewed",
+      "titleZh": "orphan N｜N號碼機",
+      "titleEn": "Orphan N",
+      "hook": "差集 N 專場開在N號碼機——名牌用中文，防止走失。",
+      "script": "nadir/narcotic/nasal/natal 先登台，其餘 orphan 接龍。清倉晚會續攤：同字母檢票，義核才是身份證。",
+      "reviewHooks": [
+        "n:nadir/narcotic/nasal/natal",
+        "P4-batch02 差集"
+      ],
+      "pitfalls": [
+        "勿因同字母硬串錯誤字根"
+      ],
+      "members": [
+        {
+          "headword": "nadir",
+          "zhGloss": "最低點",
+          "senseAnchor": "an extreme state of adversity; the lowest point of anything; the point below the observer that is directly opposite the zenith on the imaginary sphere against which celestial bodies appear to be projected",
+          "roleInScript": "N席-最低點",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the N席-最低點: nadir walks on and the gag sticks.",
+          "speakLineZh": "請「N席-最低點」出場：nadir 一上場梗就黏住——最低點。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "narcotic",
+          "zhGloss": "麻醉的；致幻的",
+          "senseAnchor": "a drug that produces numbness or stupor; often taken for pleasure or to reduce pain; extensive use can lead to addiction; of or relating to or designating narcotics",
+          "roleInScript": "N席-麻醉的；",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the N席-麻醉的；: narcotic walks on and the gag sticks.",
+          "speakLineZh": "請「N席-麻醉的；」出場：narcotic 一上場梗就黏住——麻醉的；致幻的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "nasal",
+          "zhGloss": "鼻子的",
+          "senseAnchor": "a consonant produced through the nose with the mouth closed; an elongated rectangular bone that forms the bridge of the nose",
+          "roleInScript": "N席-鼻子的",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the N席-鼻子的: nasal walks on and the gag sticks.",
+          "speakLineZh": "請「N席-鼻子的」出場：nasal 一上場梗就黏住——鼻子的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "natal",
+          "zhGloss": "出生的；誕生的",
+          "senseAnchor": "a region of eastern South Africa on the Indian Ocean; a port city in northeastern Brazil",
+          "roleInScript": "N席-出生的；",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the N席-出生的；: natal walks on and the gag sticks.",
+          "speakLineZh": "請「N席-出生的；」出場：natal 一上場梗就黏住——出生的；誕生的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "natty",
+          "zhGloss": "整潔的",
+          "senseAnchor": "marked by up-to-dateness in dress and manners",
+          "roleInScript": "N席-整潔的",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the N席-整潔的: natty walks on and the gag sticks.",
+          "speakLineZh": "請「N席-整潔的」出場：natty 一上場梗就黏住——整潔的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "naunce",
+          "zhGloss": "細微差別",
+          "senseAnchor": "a GRE-level vocabulary item meaning closely related to its core sense in academic English",
+          "roleInScript": "N席-細微差別",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the N席-細微差別: naunce walks on and the gag sticks.",
+          "speakLineZh": "請「N席-細微差別」出場：naunce 一上場梗就黏住——細微差別。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "nauseate",
+          "zhGloss": "令人厭惡的",
+          "senseAnchor": "upset and make nauseated; cause aversion in; offend the moral sense of",
+          "roleInScript": "N席-令人厭惡",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the N席-令人厭惡: nauseate walks on and the gag sticks.",
+          "speakLineZh": "請「N席-令人厭惡」出場：nauseate 一上場梗就黏住——令人厭惡的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "naysay",
+          "zhGloss": "否定",
+          "senseAnchor": "a GRE-level vocabulary item meaning closely related to its core sense in academic English",
+          "roleInScript": "N席-否定",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the N席-否定: naysay walks on and the gag sticks.",
+          "speakLineZh": "請「N席-否定」出場：naysay 一上場梗就黏住——否定。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "naysayer",
+          "zhGloss": "n. 唱反調的人",
+          "senseAnchor": "a person who habitually expresses negative views",
+          "roleInScript": "N席-n. 唱",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the N席-n. 唱: naysayer walks on and the gag sticks.",
+          "speakLineZh": "請「N席-n. 唱」出場：naysayer 一上場梗就黏住——n. 唱反調的人。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "necessitous",
+          "zhGloss": "緊迫的；貧窮的",
+          "senseAnchor": "poor enough to need help from others",
+          "roleInScript": "N席-緊迫的；",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the N席-緊迫的；: necessitous walks on and the gag sticks.",
+          "speakLineZh": "請「N席-緊迫的；」出場：necessitous 一上場梗就黏住——緊迫的；貧窮的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "nefarious",
+          "zhGloss": "adj. 罪惡的",
+          "senseAnchor": "evil or criminal",
+          "roleInScript": "N席-adj.",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the N席-adj.: nefarious walks on and the gag sticks.",
+          "speakLineZh": "請「N席-adj.」出場：nefarious 一上場梗就黏住——adj. 罪惡的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "nemesis",
+          "zhGloss": "報應",
+          "senseAnchor": "(Greek mythology) the goddess of divine retribution and vengeance; something causing misery or death",
+          "roleInScript": "N席-報應",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the N席-報應: nemesis walks on and the gag sticks.",
+          "speakLineZh": "請「N席-報應」出場：nemesis 一上場梗就黏住——報應。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "neonate",
+          "zhGloss": "嬰兒",
+          "senseAnchor": "a baby from birth to four weeks",
+          "roleInScript": "N席-嬰兒",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the N席-嬰兒: neonate walks on and the gag sticks.",
+          "speakLineZh": "請「N席-嬰兒」出場：neonate 一上場梗就黏住——嬰兒。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "nepotism",
+          "zhGloss": "任人唯親的",
+          "senseAnchor": "favoritism shown to relatives or close friends by those in power (as by giving them jobs)",
+          "roleInScript": "N席-任人唯親",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the N席-任人唯親: nepotism walks on and the gag sticks.",
+          "speakLineZh": "請「N席-任人唯親」出場：nepotism 一上場梗就黏住——任人唯親的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        }
+      ],
+      "memberCount": 14,
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "sense",
+          "promptEn": "Lead orphan:",
+          "promptZh": "領頭：",
+          "choices": [
+            "nadir",
+            "narcotic",
+            "repository",
+            "neon"
+          ],
+          "answer": "nadir"
+        },
+        {
+          "id": "q2",
+          "type": "sense",
+          "promptEn": "Also on stage:",
+          "promptZh": "同場：",
+          "choices": [
+            "narcotic",
+            "nasal",
+            "forecast",
+            "sole"
+          ],
+          "answer": "narcotic"
+        },
+        {
+          "id": "q3",
+          "type": "sense",
+          "promptEn": "Another:",
+          "promptZh": "另一個：",
+          "choices": [
+            "nasal",
+            "nadir",
+            "omnibus",
+            "scanty"
+          ],
+          "answer": "nasal"
+        }
+      ],
+      "flow": [
+        {
+          "step": 1,
+          "name": "鉤子",
+          "minutes": 0.5,
+          "content": "差集 N 專場開在N號碼機——名牌用中文，防止走失。"
+        },
+        {
+          "step": 2,
+          "name": "串記劇本",
+          "minutes": 2,
+          "content": "nadir/narcotic/nasal/natal 先登台，其餘 orphan 接龍。清倉晚會續攤：同字母檢票，義核才是身份證。"
+        },
+        {
+          "step": 3,
+          "name": "詞卡 round",
+          "minutes": 7,
+          "content": "義錨 → 角色 → 跟讀英／中"
+        },
+        {
+          "step": 4,
+          "name": "快測",
+          "minutes": 2,
+          "content": "quiz ×3"
+        },
+        {
+          "step": 5,
+          "name": "口令帶走",
+          "minutes": 0.5,
+          "content": [
+            "n:nadir/narcotic/nasal/natal",
+            "P4-batch02 差集"
+          ]
+        }
+      ],
+      "minutes": "12-15"
+    },
+    {
+      "id": "p4b02-letter-r-01",
+      "slug": "p4b02-letter-r-01",
+      "type": "root",
+      "typeZh": "字根劇場",
+      "typeEn": "Root",
+      "season": 2,
+      "priority": "C",
+      "status": "reviewed",
+      "titleZh": "orphan R｜R紅毯後門",
+      "titleEn": "Orphan R",
+      "hook": "差集 R 專場開在R紅毯後門——名牌用中文，防止走失。",
+      "script": "rabid/raillery/rakish/rambunctious 先登台，其餘 orphan 接龍。清倉晚會續攤：同字母檢票，義核才是身份證。",
+      "reviewHooks": [
+        "r:rabid/raillery/rakish/rambunctious",
+        "P4-batch02 差集"
+      ],
+      "pitfalls": [
+        "勿因同字母硬串錯誤字根"
+      ],
+      "members": [
+        {
+          "headword": "rabid",
+          "zhGloss": "瘋狂的；激烈的",
+          "senseAnchor": "of or infected by rabies; marked by excessive enthusiasm for and intense devotion to a cause or idea",
+          "roleInScript": "R席-瘋狂的；",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the R席-瘋狂的；: rabid walks on and the gag sticks.",
+          "speakLineZh": "請「R席-瘋狂的；」出場：rabid 一上場梗就黏住——瘋狂的；激烈的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "raillery",
+          "zhGloss": "n. 玩笑",
+          "senseAnchor": "friendly joking",
+          "roleInScript": "R席-n. 玩",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the R席-n. 玩: raillery walks on and the gag sticks.",
+          "speakLineZh": "請「R席-n. 玩」出場：raillery 一上場梗就黏住——n. 玩笑。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "rakish",
+          "zhGloss": "活潑的",
+          "senseAnchor": "marked by up-to-dateness in dress and manners; marked by a carefree unconventionality or disreputableness; - Crary Moore",
+          "roleInScript": "R席-活潑的",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the R席-活潑的: rakish walks on and the gag sticks.",
+          "speakLineZh": "請「R席-活潑的」出場：rakish 一上場梗就黏住——活潑的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "rambunctious",
+          "zhGloss": "喧鬧的；粗暴的",
+          "senseAnchor": "noisy and lacking in restraint or discipline",
+          "roleInScript": "R席-喧鬧的；",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the R席-喧鬧的；: rambunctious walks on and the gag sticks.",
+          "speakLineZh": "請「R席-喧鬧的；」出場：rambunctious 一上場梗就黏住——喧鬧的；粗暴的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "ramification",
+          "zhGloss": "n. 影響",
+          "senseAnchor": "result, implication",
+          "roleInScript": "R席-n. 影",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the R席-n. 影: ramification walks on and the gag sticks.",
+          "speakLineZh": "請「R席-n. 影」出場：ramification 一上場梗就黏住——n. 影響。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "ramify",
+          "zhGloss": "分支；分叉",
+          "senseAnchor": "have or develop complicating consequences; grow and send out branches or branch-like structures",
+          "roleInScript": "R席-分支；分",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the R席-分支；分: ramify walks on and the gag sticks.",
+          "speakLineZh": "請「R席-分支；分」出場：ramify 一上場梗就黏住——分支；分叉。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "rampant",
+          "zhGloss": "滋生的",
+          "senseAnchor": "unrestrained and violent; rearing on left hind leg with forelegs elevated and head usually in profile",
+          "roleInScript": "R席-滋生的",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the R席-滋生的: rampant walks on and the gag sticks.",
+          "speakLineZh": "請「R席-滋生的」出場：rampant 一上場梗就黏住——滋生的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "ramshackle",
+          "zhGloss": "adj. 破爛的，搖搖欲墜的",
+          "senseAnchor": "appearing ready to collapse",
+          "roleInScript": "R席-adj.",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the R席-adj.: ramshackle walks on and the gag sticks.",
+          "speakLineZh": "請「R席-adj.」出場：ramshackle 一上場梗就黏住——adj. 破爛的，搖搖欲墜的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "rancid",
+          "zhGloss": "腐壞的；腐臭的",
+          "senseAnchor": "(used of decomposing oils or fats) having a rank smell or taste usually due to a chemical change or decomposition; smelling of fermentation or staleness",
+          "roleInScript": "R席-腐壞的；",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the R席-腐壞的；: rancid walks on and the gag sticks.",
+          "speakLineZh": "請「R席-腐壞的；」出場：rancid 一上場梗就黏住——腐壞的；腐臭的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "rancor",
+          "zhGloss": "仇恨；怨恨",
+          "senseAnchor": "a feeling of deep and bitter anger and ill-will",
+          "roleInScript": "R席-仇恨；怨",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the R席-仇恨；怨: rancor walks on and the gag sticks.",
+          "speakLineZh": "請「R席-仇恨；怨」出場：rancor 一上場梗就黏住——仇恨；怨恨。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "rankle",
+          "zhGloss": "使怨恨；使痛苦",
+          "senseAnchor": "gnaw into; make resentful or angry",
+          "roleInScript": "R席-使怨恨；",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the R席-使怨恨；: rankle walks on and the gag sticks.",
+          "speakLineZh": "請「R席-使怨恨；」出場：rankle 一上場梗就黏住——使怨恨；使痛苦。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "rapport",
+          "zhGloss": "和睦；和善",
+          "senseAnchor": "a relationship of mutual understanding or trust and agreement between people",
+          "roleInScript": "R席-和睦；和",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the R席-和睦；和: rapport walks on and the gag sticks.",
+          "speakLineZh": "請「R席-和睦；和」出場：rapport 一上場梗就黏住——和睦；和善。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "rapprochemnet",
+          "zhGloss": "友善",
+          "senseAnchor": "a GRE-level vocabulary item meaning closely related to its core sense in academic English",
+          "roleInScript": "R席-友善",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the R席-友善: rapprochemnet walks on and the gag sticks.",
+          "speakLineZh": "請「R席-友善」出場：rapprochemnet 一上場梗就黏住——友善。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "ratifaction",
+          "zhGloss": "批准",
+          "senseAnchor": "a GRE-level vocabulary item meaning closely related to its core sense in academic English",
+          "roleInScript": "R席-批准",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the R席-批准: ratifaction walks on and the gag sticks.",
+          "speakLineZh": "請「R席-批准」出場：ratifaction 一上場梗就黏住——批准。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        }
+      ],
+      "memberCount": 14,
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "sense",
+          "promptEn": "Lead orphan:",
+          "promptZh": "領頭：",
+          "choices": [
+            "rabid",
+            "raillery",
+            "repository",
+            "neon"
+          ],
+          "answer": "rabid"
+        },
+        {
+          "id": "q2",
+          "type": "sense",
+          "promptEn": "Also on stage:",
+          "promptZh": "同場：",
+          "choices": [
+            "raillery",
+            "rakish",
+            "forecast",
+            "sole"
+          ],
+          "answer": "raillery"
+        },
+        {
+          "id": "q3",
+          "type": "sense",
+          "promptEn": "Another:",
+          "promptZh": "另一個：",
+          "choices": [
+            "rakish",
+            "rabid",
+            "omnibus",
+            "scanty"
+          ],
+          "answer": "rakish"
+        }
+      ],
+      "flow": [
+        {
+          "step": 1,
+          "name": "鉤子",
+          "minutes": 0.5,
+          "content": "差集 R 專場開在R紅毯後門——名牌用中文，防止走失。"
+        },
+        {
+          "step": 2,
+          "name": "串記劇本",
+          "minutes": 2,
+          "content": "rabid/raillery/rakish/rambunctious 先登台，其餘 orphan 接龍。清倉晚會續攤：同字母檢票，義核才是身份證。"
+        },
+        {
+          "step": 3,
+          "name": "詞卡 round",
+          "minutes": 7,
+          "content": "義錨 → 角色 → 跟讀英／中"
+        },
+        {
+          "step": 4,
+          "name": "快測",
+          "minutes": 2,
+          "content": "quiz ×3"
+        },
+        {
+          "step": 5,
+          "name": "口令帶走",
+          "minutes": 0.5,
+          "content": [
+            "r:rabid/raillery/rakish/rambunctious",
+            "P4-batch02 差集"
+          ]
+        }
+      ],
+      "minutes": "12-15"
+    },
+    {
+      "id": "p4b02-letter-t-01",
+      "slug": "p4b02-letter-t-01",
+      "type": "root",
+      "typeZh": "字根劇場",
+      "typeEn": "Root",
+      "season": 2,
+      "priority": "C",
+      "status": "reviewed",
+      "titleZh": "orphan T｜T月台",
+      "titleEn": "Orphan T",
+      "hook": "差集 T 專場開在T月台——名牌用中文，防止走失。",
+      "script": "table/tacit/tacitum/tackle 先登台，其餘 orphan 接龍。清倉晚會續攤：同字母檢票，義核才是身份證。",
+      "reviewHooks": [
+        "t:table/tacit/tacitum/tackle",
+        "P4-batch02 差集"
+      ],
+      "pitfalls": [
+        "勿因同字母硬串錯誤字根"
+      ],
+      "members": [
+        {
+          "headword": "table",
+          "zhGloss": "擱置",
+          "senseAnchor": "a set of data arranged in rows and columns; a piece of furniture having a smooth flat top that is usually supported by one or more vertical legs",
+          "roleInScript": "T席-擱置",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the T席-擱置: table walks on and the gag sticks.",
+          "speakLineZh": "請「T席-擱置」出場：table 一上場梗就黏住——擱置。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "tacit",
+          "zhGloss": "心照不宣的",
+          "senseAnchor": "implied by or inferred from actions or statements",
+          "roleInScript": "T席-心照不宣",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the T席-心照不宣: tacit walks on and the gag sticks.",
+          "speakLineZh": "請「T席-心照不宣」出場：tacit 一上場梗就黏住——心照不宣的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "tacitum",
+          "zhGloss": "沉默的",
+          "senseAnchor": "a GRE-level vocabulary item meaning closely related to its core sense in academic English",
+          "roleInScript": "T席-沉默的",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the T席-沉默的: tacitum walks on and the gag sticks.",
+          "speakLineZh": "請「T席-沉默的」出場：tacitum 一上場梗就黏住——沉默的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "tackle",
+          "zhGloss": "處理",
+          "senseAnchor": "the person who plays that position on a football team; gear consisting of ropes etc. supporting a ship's masts and sails",
+          "roleInScript": "T席-處理",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the T席-處理: tackle walks on and the gag sticks.",
+          "speakLineZh": "請「T席-處理」出場：tackle 一上場梗就黏住——處理。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "tactic",
+          "zhGloss": "手段；策略",
+          "senseAnchor": "a plan for attaining a particular goal",
+          "roleInScript": "T席-手段；策",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the T席-手段；策: tactic walks on and the gag sticks.",
+          "speakLineZh": "請「T席-手段；策」出場：tactic 一上場梗就黏住——手段；策略。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "tailored",
+          "zhGloss": "量身定製的",
+          "senseAnchor": "adjust to a specific need or market; style and tailor in a certain fashion",
+          "roleInScript": "T席-量身定製",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the T席-量身定製: tailored walks on and the gag sticks.",
+          "speakLineZh": "請「T席-量身定製」出場：tailored 一上場梗就黏住——量身定製的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "taking",
+          "zhGloss": "迷人的",
+          "senseAnchor": "the act of someone who picks up or takes something; carry out",
+          "roleInScript": "T席-迷人的",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the T席-迷人的: taking walks on and the gag sticks.",
+          "speakLineZh": "請「T席-迷人的」出場：taking 一上場梗就黏住——迷人的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "tangential",
+          "zhGloss": "相切的；離題的",
+          "senseAnchor": "of superficial relevance if any; of or relating to or acting along or in the direction of a tangent",
+          "roleInScript": "T席-相切的；",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the T席-相切的；: tangential walks on and the gag sticks.",
+          "speakLineZh": "請「T席-相切的；」出場：tangential 一上場梗就黏住——相切的；離題的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "tangy",
+          "zhGloss": "刺激性氣味的",
+          "senseAnchor": "tasting sour like a lemon",
+          "roleInScript": "T席-刺激性氣",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the T席-刺激性氣: tangy walks on and the gag sticks.",
+          "speakLineZh": "請「T席-刺激性氣」出場：tangy 一上場梗就黏住——刺激性氣味的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "tantalizing",
+          "zhGloss": "adj. 挑逗性的，撩撥人的",
+          "senseAnchor": "making you feel a desire to have or do something",
+          "roleInScript": "T席-adj.",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the T席-adj.: tantalizing walks on and the gag sticks.",
+          "speakLineZh": "請「T席-adj.」出場：tantalizing 一上場梗就黏住——adj. 挑逗性的，撩撥人的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "tantamount",
+          "zhGloss": "adj. 等價的",
+          "senseAnchor": "equivalent in value, significance, or effect",
+          "roleInScript": "T席-adj.",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the T席-adj.: tantamount walks on and the gag sticks.",
+          "speakLineZh": "請「T席-adj.」出場：tantamount 一上場梗就黏住——adj. 等價的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "tardy",
+          "zhGloss": "拖延的；遲緩的",
+          "senseAnchor": "after the expected or usual time; delayed",
+          "roleInScript": "T席-拖延的；",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the T席-拖延的；: tardy walks on and the gag sticks.",
+          "speakLineZh": "請「T席-拖延的；」出場：tardy 一上場梗就黏住——拖延的；遲緩的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "tatter",
+          "zhGloss": "破布；碎紙",
+          "senseAnchor": "a small piece of cloth or paper",
+          "roleInScript": "T席-破布；碎",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the T席-破布；碎: tatter walks on and the gag sticks.",
+          "speakLineZh": "請「T席-破布；碎」出場：tatter 一上場梗就黏住——破布；碎紙。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "tattle",
+          "zhGloss": "泄密",
+          "senseAnchor": "disclosing information or giving evidence about another; speak (about unimportant matters) rapidly and incessantly",
+          "roleInScript": "T席-泄密",
+          "humorDevice": "morphology",
+          "speakLineEn": "Cue the T席-泄密: tattle walks on and the gag sticks.",
+          "speakLineZh": "請「T席-泄密」出場：tattle 一上場梗就黏住——泄密。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        }
+      ],
+      "memberCount": 14,
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "sense",
+          "promptEn": "Lead orphan:",
+          "promptZh": "領頭：",
+          "choices": [
+            "table",
+            "tacit",
+            "repository",
+            "neon"
+          ],
+          "answer": "table"
+        },
+        {
+          "id": "q2",
+          "type": "sense",
+          "promptEn": "Also on stage:",
+          "promptZh": "同場：",
+          "choices": [
+            "tacit",
+            "tacitum",
+            "forecast",
+            "sole"
+          ],
+          "answer": "tacit"
+        },
+        {
+          "id": "q3",
+          "type": "sense",
+          "promptEn": "Another:",
+          "promptZh": "另一個：",
+          "choices": [
+            "tacitum",
+            "table",
+            "omnibus",
+            "scanty"
+          ],
+          "answer": "tacitum"
+        }
+      ],
+      "flow": [
+        {
+          "step": 1,
+          "name": "鉤子",
+          "minutes": 0.5,
+          "content": "差集 T 專場開在T月台——名牌用中文，防止走失。"
+        },
+        {
+          "step": 2,
+          "name": "串記劇本",
+          "minutes": 2,
+          "content": "table/tacit/tacitum/tackle 先登台，其餘 orphan 接龍。清倉晚會續攤：同字母檢票，義核才是身份證。"
+        },
+        {
+          "step": 3,
+          "name": "詞卡 round",
+          "minutes": 7,
+          "content": "義錨 → 角色 → 跟讀英／中"
+        },
+        {
+          "step": 4,
+          "name": "快測",
+          "minutes": 2,
+          "content": "quiz ×3"
+        },
+        {
+          "step": 5,
+          "name": "口令帶走",
+          "minutes": 0.5,
+          "content": [
+            "t:table/tacit/tacitum/tackle",
+            "P4-batch02 差集"
+          ]
+        }
+      ],
+      "minutes": "12-15"
+    },
+    {
+      "id": "p4b02-lie-01",
+      "slug": "p4b02-lie-01",
+      "type": "semantic",
+      "typeZh": "語氣對打",
+      "typeEn": "Semantic",
+      "season": 3,
+      "priority": "B",
+      "status": "reviewed",
+      "titleZh": "謊言 orphan｜測謊休息室",
+      "titleEn": "Lie Orphan Lounge",
+      "hook": "orphan 謊言團排測謊：fabricate／prevaricate／equivocate／dissemble——休息室標語「請先喝水再說」。",
+      "script": "fabricate 捏造。prevaricate／equivocate 含糊回避。dissemble 掩飾。mendacious 說謊的。canard 謠傳。口令：測謊儀寫「直說」，含糊寫「別繞」。",
+      "reviewHooks": [
+        "謊：fabricate/prevaricate/equivocate/dissemble",
+        "canard＝謠言"
+      ],
+      "pitfalls": [
+        "equivocate≠equivalent"
+      ],
+      "members": [
+        {
+          "headword": "prevaricate",
+          "zhGloss": "含糊其詞",
+          "senseAnchor": "to avoid giving direct answers to hide the truth",
+          "roleInScript": "繞彎",
+          "humorDevice": "contrast",
+          "speakLineEn": "Cue the 繞彎: prevaricate walks on and the gag sticks.",
+          "speakLineZh": "請「繞彎」出場：prevaricate 一上場梗就黏住——含糊其詞。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "equivocate",
+          "zhGloss": "模稜兩可",
+          "senseAnchor": "be deliberately ambiguous or unclear in order to mislead or withhold information",
+          "roleInScript": "雙義嘴",
+          "humorDevice": "contrast",
+          "speakLineEn": "Cue the 雙義嘴: equivocate walks on and the gag sticks.",
+          "speakLineZh": "請「雙義嘴」出場：equivocate 一上場梗就黏住——模稜兩可。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "canard",
+          "zhGloss": "謠言",
+          "senseAnchor": "an unfounded or false, deliberately misleading story",
+          "roleInScript": "謠傳單",
+          "humorDevice": "contrast",
+          "speakLineEn": "Cue the 謠傳單: canard walks on and the gag sticks.",
+          "speakLineZh": "請「謠傳單」出場：canard 一上場梗就黏住——謠言。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "specious",
+          "zhGloss": "似是而非的",
+          "senseAnchor": "seeming actually false",
+          "roleInScript": "假光澤",
+          "humorDevice": "contrast",
+          "speakLineEn": "Cue the 假光澤: specious walks on and the gag sticks.",
+          "speakLineZh": "請「假光澤」出場：specious 一上場梗就黏住——似是而非的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "dupe",
+          "zhGloss": "欺騙",
+          "senseAnchor": "欺騙",
+          "roleInScript": "好人卡",
+          "humorDevice": "contrast",
+          "speakLineEn": "Cue the 好人卡: dupe walks on and the gag sticks.",
+          "speakLineZh": "請「好人卡」出場：dupe 一上場梗就黏住——欺騙。",
+          "inVocab": true,
+          "vocabStatus": "synced-p4-pending-b02"
+        },
+        {
+          "headword": "gullible",
+          "zhGloss": "易受騙的",
+          "senseAnchor": "易受騙的",
+          "roleInScript": "好騙臉",
+          "humorDevice": "contrast",
+          "speakLineEn": "Cue the 好騙臉: gullible walks on and the gag sticks.",
+          "speakLineZh": "請「好騙臉」出場：gullible 一上場梗就黏住——易受騙的。",
+          "inVocab": true,
+          "vocabStatus": "synced-p4-pending-b02"
+        },
+        {
+          "headword": "polygraph",
+          "zhGloss": "測謊儀",
+          "senseAnchor": "測謊儀",
+          "roleInScript": "測謊儀",
+          "humorDevice": "story",
+          "speakLineEn": "Cue the 測謊儀: polygraph walks on and the gag sticks.",
+          "speakLineZh": "請「測謊儀」出場：polygraph 一上場梗就黏住——測謊儀。",
+          "inVocab": false,
+          "vocabStatus": "deferred-basic-or-specialty"
+        },
+        {
+          "headword": "lounge",
+          "zhGloss": "休息室",
+          "senseAnchor": "休息室",
+          "roleInScript": "休息室",
+          "humorDevice": "story",
+          "speakLineEn": "Cue the 休息室: lounge walks on and the gag sticks.",
+          "speakLineZh": "請「休息室」出場：lounge 一上場梗就黏住——休息室。",
+          "inVocab": false,
+          "vocabStatus": "deferred-basic-or-specialty"
+        },
+        {
+          "headword": "chair",
+          "zhGloss": "椅子",
+          "senseAnchor": "椅子",
+          "roleInScript": "椅子",
+          "humorDevice": "story",
+          "speakLineEn": "Cue the 椅子: chair walks on and the gag sticks.",
+          "speakLineZh": "請「椅子」出場：chair 一上場梗就黏住——椅子。",
+          "inVocab": false,
+          "vocabStatus": "deferred-basic-or-specialty"
+        }
+      ],
+      "memberCount": 9,
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "sense",
+          "promptEn": "Speak evasively:",
+          "promptZh": "含糊其詞：",
+          "choices": [
+            "prevaricate",
+            "laud",
+            "repository",
+            "neon"
+          ],
+          "answer": "prevaricate"
+        },
+        {
+          "id": "q2",
+          "type": "sense",
+          "promptEn": "A false rumor:",
+          "promptZh": "謠言：",
+          "choices": [
+            "canard",
+            "trophy",
+            "forecast",
+            "sole"
+          ],
+          "answer": "canard"
+        },
+        {
+          "id": "q3",
+          "type": "sense",
+          "promptEn": "Invent falsely:",
+          "promptZh": "捏造：",
+          "choices": [
+            "fabricate",
+            "acclaim",
+            "omnibus",
+            "scanty"
+          ],
+          "answer": "fabricate"
+        }
+      ],
+      "flow": [
+        {
+          "step": 1,
+          "name": "鉤子",
+          "minutes": 0.5,
+          "content": "orphan 謊言團排測謊：fabricate／prevaricate／equivocate／dissemble——休息室標語「請先喝水再說」。"
+        },
+        {
+          "step": 2,
+          "name": "串記劇本",
+          "minutes": 2,
+          "content": "fabricate 捏造。prevaricate／equivocate 含糊回避。dissemble 掩飾。mendacious 說謊的。canard 謠傳。口令：測謊儀寫「直說」，含糊寫「別繞」。"
+        },
+        {
+          "step": 3,
+          "name": "詞卡 round",
+          "minutes": 7,
+          "content": "義錨 → 角色 → 跟讀英／中"
+        },
+        {
+          "step": 4,
+          "name": "快測",
+          "minutes": 2,
+          "content": "quiz ×3"
+        },
+        {
+          "step": 5,
+          "name": "口令帶走",
+          "minutes": 0.5,
+          "content": [
+            "謊：fabricate/prevaricate/equivocate/dissemble",
+            "canard＝謠言"
+          ]
+        }
+      ],
+      "minutes": "12-15"
+    },
+    {
+      "id": "p4b02-look-affect-01",
+      "slug": "p4b02-look-affect-01",
+      "type": "lookalike",
+      "typeZh": "形近對決",
+      "typeEn": "Look-alike",
+      "season": 3,
+      "priority": "A",
+      "status": "reviewed",
+      "titleZh": "affect／effect／infect｜影響診所",
+      "titleEn": "Affect Clinic",
+      "hook": "affect 影響／假裝，effect 結果／使發生，infect 感染——診所三個按鈕，按錯會變成「我被結果傳染了情緒」。",
+      "script": "affect＝影響或假裝。effect＝結果或促成。infect＝感染。affection 情感。effective 有效。口令：情緒寫 affect，結果寫 effect，病毒寫 infect。",
+      "reviewHooks": [
+        "affect＝影響／裝；effect＝結果；infect＝感染",
+        "名動詞性先分"
+      ],
+      "pitfalls": [
+        "三詞場景不同：情緒／結果／病毒"
+      ],
+      "members": [
+        {
+          "headword": "infect",
+          "zhGloss": "感染",
+          "senseAnchor": "感染",
+          "roleInScript": "病毒鈕",
+          "humorDevice": "lookalike",
+          "speakLineEn": "Cue the 病毒鈕: infect walks on and the gag sticks.",
+          "speakLineZh": "請「病毒鈕」出場：infect 一上場梗就黏住——感染。",
+          "inVocab": true,
+          "vocabStatus": "synced-p4-pending-b02"
+        },
+        {
+          "headword": "affection",
+          "zhGloss": "情感",
+          "senseAnchor": "情感",
+          "roleInScript": "情感貼",
+          "humorDevice": "lookalike",
+          "speakLineEn": "Cue the 情感貼: affection walks on and the gag sticks.",
+          "speakLineZh": "請「情感貼」出場：affection 一上場梗就黏住——情感。",
+          "inVocab": true,
+          "vocabStatus": "synced-p4-pending-b02"
+        },
+        {
+          "headword": "effective",
+          "zhGloss": "有效的",
+          "senseAnchor": "有效的",
+          "roleInScript": "有效章",
+          "humorDevice": "lookalike",
+          "speakLineEn": "Cue the 有效章: effective walks on and the gag sticks.",
+          "speakLineZh": "請「有效章」出場：effective 一上場梗就黏住——有效的。",
+          "inVocab": true,
+          "vocabStatus": "synced-p4-pending-b02"
+        },
+        {
+          "headword": "infectious",
+          "zhGloss": "傳染的",
+          "senseAnchor": "傳染的",
+          "roleInScript": "傳染標",
+          "humorDevice": "lookalike",
+          "speakLineEn": "Cue the 傳染標: infectious walks on and the gag sticks.",
+          "speakLineZh": "請「傳染標」出場：infectious 一上場梗就黏住——傳染的。",
+          "inVocab": true,
+          "vocabStatus": "synced-p4-pending-b02"
+        },
+        {
+          "headword": "disaffect",
+          "zhGloss": "使疏離",
+          "senseAnchor": "arouse hostility or indifference in where there had formerly been love, affection, or friendliness",
+          "roleInScript": "疏離",
+          "humorDevice": "lookalike",
+          "speakLineEn": "Cue the 疏離: disaffect walks on and the gag sticks.",
+          "speakLineZh": "請「疏離」出場：disaffect 一上場梗就黏住——使疏離。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "effectuate",
+          "zhGloss": "使實現",
+          "senseAnchor": "使實現",
+          "roleInScript": "落地",
+          "humorDevice": "lookalike",
+          "speakLineEn": "Cue the 落地: effectuate walks on and the gag sticks.",
+          "speakLineZh": "請「落地」出場：effectuate 一上場梗就黏住——使實現。",
+          "inVocab": true,
+          "vocabStatus": "synced-p4-pending-b02"
+        },
+        {
+          "headword": "virus",
+          "zhGloss": "病毒",
+          "senseAnchor": "病毒",
+          "roleInScript": "病毒",
+          "humorDevice": "story",
+          "speakLineEn": "Cue the 病毒: virus walks on and the gag sticks.",
+          "speakLineZh": "請「病毒」出場：virus 一上場梗就黏住——病毒。",
+          "inVocab": false,
+          "vocabStatus": "deferred-basic-or-specialty"
+        },
+        {
+          "headword": "mood",
+          "zhGloss": "情緒",
+          "senseAnchor": "情緒",
+          "roleInScript": "情緒",
+          "humorDevice": "story",
+          "speakLineEn": "Cue the 情緒: mood walks on and the gag sticks.",
+          "speakLineZh": "請「情緒」出場：mood 一上場梗就黏住——情緒。",
+          "inVocab": false,
+          "vocabStatus": "deferred-basic-or-specialty"
+        },
+        {
+          "headword": "sanitizer",
+          "zhGloss": "消毒液",
+          "senseAnchor": "消毒液",
+          "roleInScript": "消毒液",
+          "humorDevice": "story",
+          "speakLineEn": "Cue the 消毒液: sanitizer walks on and the gag sticks.",
+          "speakLineZh": "請「消毒液」出場：sanitizer 一上場梗就黏住——消毒液。",
+          "inVocab": false,
+          "vocabStatus": "deferred-basic-or-specialty"
+        }
+      ],
+      "memberCount": 9,
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "sense",
+          "promptEn": "To influence feelings:",
+          "promptZh": "影響情緒：",
+          "choices": [
+            "affect",
+            "effect",
+            "repository",
+            "neon"
+          ],
+          "answer": "affect"
+        },
+        {
+          "id": "q2",
+          "type": "sense",
+          "promptEn": "A result / to bring about:",
+          "promptZh": "結果／促成：",
+          "choices": [
+            "effect",
+            "infect",
+            "forecast",
+            "sole"
+          ],
+          "answer": "effect"
+        },
+        {
+          "id": "q3",
+          "type": "sense",
+          "promptEn": "Transmit disease:",
+          "promptZh": "感染：",
+          "choices": [
+            "infect",
+            "affection",
+            "omnibus",
+            "scanty"
+          ],
+          "answer": "infect"
+        }
+      ],
+      "flow": [
+        {
+          "step": 1,
+          "name": "鉤子",
+          "minutes": 0.5,
+          "content": "affect 影響／假裝，effect 結果／使發生，infect 感染——診所三個按鈕，按錯會變成「我被結果傳染了情緒」。"
+        },
+        {
+          "step": 2,
+          "name": "串記劇本",
+          "minutes": 2,
+          "content": "affect＝影響或假裝。effect＝結果或促成。infect＝感染。affection 情感。effective 有效。口令：情緒寫 affect，結果寫 effect，病毒寫 infect。"
+        },
+        {
+          "step": 3,
+          "name": "詞卡 round",
+          "minutes": 7,
+          "content": "義錨 → 角色 → 跟讀英／中"
+        },
+        {
+          "step": 4,
+          "name": "快測",
+          "minutes": 2,
+          "content": "quiz ×3"
+        },
+        {
+          "step": 5,
+          "name": "口令帶走",
+          "minutes": 0.5,
+          "content": [
+            "affect＝影響／裝；effect＝結果；infect＝感染",
+            "名動詞性先分"
+          ]
+        }
+      ],
+      "minutes": "12-15"
+    },
+    {
+      "id": "p4b02-look-council-01",
+      "slug": "p4b02-look-council-01",
+      "type": "lookalike",
+      "typeZh": "形近對決",
+      "typeEn": "Look-alike",
+      "season": 3,
+      "priority": "B",
+      "status": "reviewed",
+      "titleZh": "council／counsel／consul｜顧問會議室",
+      "titleEn": "Council Room",
+      "hook": "council 會議，counsel 勸告／律師，consul 領事——會議室名牌印錯，三位客人走錯門。",
+      "script": "council＝理事會。counsel＝建議或律師。consul＝領事。counselor 顧問。口令：開會寫 council，給建議寫 counsel，護照寫 consul。",
+      "reviewHooks": [
+        "council＝會議；counsel＝勸告；consul＝領事",
+        "拼寫差一個字母"
+      ],
+      "pitfalls": [
+        "三詞場景：開會／建議／護照"
+      ],
+      "members": [
+        {
+          "headword": "council",
+          "zhGloss": "理事會",
+          "senseAnchor": "理事會",
+          "roleInScript": "開會門",
+          "humorDevice": "lookalike",
+          "speakLineEn": "Cue the 開會門: council walks on and the gag sticks.",
+          "speakLineZh": "請「開會門」出場：council 一上場梗就黏住——理事會。",
+          "inVocab": true,
+          "vocabStatus": "synced-p4-pending-b02"
+        },
+        {
+          "headword": "counsel",
+          "zhGloss": "勸告律師",
+          "senseAnchor": "勸告律師",
+          "roleInScript": "建議門",
+          "humorDevice": "lookalike",
+          "speakLineEn": "Cue the 建議門: counsel walks on and the gag sticks.",
+          "speakLineZh": "請「建議門」出場：counsel 一上場梗就黏住——勸告律師。",
+          "inVocab": true,
+          "vocabStatus": "synced-p4-pending-b02"
+        },
+        {
+          "headword": "consul",
+          "zhGloss": "領事",
+          "senseAnchor": "a diplomat appointed by a government to protect its commercial interests and help its citizens in a foreign country",
+          "roleInScript": "護照門",
+          "humorDevice": "lookalike",
+          "speakLineEn": "Cue the 護照門: consul walks on and the gag sticks.",
+          "speakLineZh": "請「護照門」出場：consul 一上場梗就黏住——領事。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "counselor",
+          "zhGloss": "顧問",
+          "senseAnchor": "顧問",
+          "roleInScript": "顧問椅",
+          "humorDevice": "lookalike",
+          "speakLineEn": "Cue the 顧問椅: counselor walks on and the gag sticks.",
+          "speakLineZh": "請「顧問椅」出場：counselor 一上場梗就黏住——顧問。",
+          "inVocab": true,
+          "vocabStatus": "synced-p4-pending-b02"
+        },
+        {
+          "headword": "consultancy",
+          "zhGloss": "顧問業",
+          "senseAnchor": "顧問業",
+          "roleInScript": "顧問牌",
+          "humorDevice": "lookalike",
+          "speakLineEn": "Cue the 顧問牌: consultancy walks on and the gag sticks.",
+          "speakLineZh": "請「顧問牌」出場：consultancy 一上場梗就黏住——顧問業。",
+          "inVocab": true,
+          "vocabStatus": "synced-p4-pending-b02"
+        },
+        {
+          "headword": "consulate",
+          "zhGloss": "領事館",
+          "senseAnchor": "領事館",
+          "roleInScript": "領事館",
+          "humorDevice": "lookalike",
+          "speakLineEn": "Cue the 領事館: consulate walks on and the gag sticks.",
+          "speakLineZh": "請「領事館」出場：consulate 一上場梗就黏住——領事館。",
+          "inVocab": true,
+          "vocabStatus": "synced-p4-pending-b02"
+        },
+        {
+          "headword": "passport",
+          "zhGloss": "護照",
+          "senseAnchor": "護照",
+          "roleInScript": "護照",
+          "humorDevice": "story",
+          "speakLineEn": "Cue the 護照: passport walks on and the gag sticks.",
+          "speakLineZh": "請「護照」出場：passport 一上場梗就黏住——護照。",
+          "inVocab": false,
+          "vocabStatus": "deferred-basic-or-specialty"
+        },
+        {
+          "headword": "nameplate",
+          "zhGloss": "名牌",
+          "senseAnchor": "名牌",
+          "roleInScript": "名牌",
+          "humorDevice": "story",
+          "speakLineEn": "Cue the 名牌: nameplate walks on and the gag sticks.",
+          "speakLineZh": "請「名牌」出場：nameplate 一上場梗就黏住——名牌。",
+          "inVocab": false,
+          "vocabStatus": "deferred-basic-or-specialty"
+        },
+        {
+          "headword": "lawyer",
+          "zhGloss": "律師",
+          "senseAnchor": "律師",
+          "roleInScript": "律師",
+          "humorDevice": "story",
+          "speakLineEn": "Cue the 律師: lawyer walks on and the gag sticks.",
+          "speakLineZh": "請「律師」出場：lawyer 一上場梗就黏住——律師。",
+          "inVocab": false,
+          "vocabStatus": "deferred-basic-or-specialty"
+        },
+        {
+          "headword": "agenda",
+          "zhGloss": "議程",
+          "senseAnchor": "議程",
+          "roleInScript": "議程",
+          "humorDevice": "story",
+          "speakLineEn": "Cue the 議程: agenda walks on and the gag sticks.",
+          "speakLineZh": "請「議程」出場：agenda 一上場梗就黏住——議程。",
+          "inVocab": false,
+          "vocabStatus": "deferred-basic-or-specialty"
+        }
+      ],
+      "memberCount": 10,
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "sense",
+          "promptEn": "An assembly / board:",
+          "promptZh": "理事會：",
+          "choices": [
+            "council",
+            "counsel",
+            "repository",
+            "neon"
+          ],
+          "answer": "council"
+        },
+        {
+          "id": "q2",
+          "type": "sense",
+          "promptEn": "Advice / a lawyer:",
+          "promptZh": "勸告／律師：",
+          "choices": [
+            "counsel",
+            "consul",
+            "forecast",
+            "sole"
+          ],
+          "answer": "counsel"
+        },
+        {
+          "id": "q3",
+          "type": "sense",
+          "promptEn": "A diplomatic official:",
+          "promptZh": "領事：",
+          "choices": [
+            "consul",
+            "counselor",
+            "omnibus",
+            "scanty"
+          ],
+          "answer": "consul"
+        }
+      ],
+      "flow": [
+        {
+          "step": 1,
+          "name": "鉤子",
+          "minutes": 0.5,
+          "content": "council 會議，counsel 勸告／律師，consul 領事——會議室名牌印錯，三位客人走錯門。"
+        },
+        {
+          "step": 2,
+          "name": "串記劇本",
+          "minutes": 2,
+          "content": "council＝理事會。counsel＝建議或律師。consul＝領事。counselor 顧問。口令：開會寫 council，給建議寫 counsel，護照寫 consul。"
+        },
+        {
+          "step": 3,
+          "name": "詞卡 round",
+          "minutes": 7,
+          "content": "義錨 → 角色 → 跟讀英／中"
+        },
+        {
+          "step": 4,
+          "name": "快測",
+          "minutes": 2,
+          "content": "quiz ×3"
+        },
+        {
+          "step": 5,
+          "name": "口令帶走",
+          "minutes": 0.5,
+          "content": [
+            "council＝會議；counsel＝勸告；consul＝領事",
+            "拼寫差一個字母"
+          ]
+        }
+      ],
+      "minutes": "12-15"
+    },
+    {
+      "id": "p4b02-shrink-01",
+      "slug": "p4b02-shrink-01",
+      "type": "semantic",
+      "typeZh": "語氣對打",
+      "typeEn": "Semantic",
+      "season": 3,
+      "priority": "B",
+      "status": "reviewed",
+      "titleZh": "縮減 orphan｜壓縮行李間",
+      "titleEn": "Shrink Orphan Pack Room",
+      "hook": "orphan 縮減團壓行李：wane／dwindle／atrophy／abridge——海關問「這是減重還是偷渡空氣？」",
+      "script": "wane／dwindle 縮小。atrophy 萎縮。abridge 刪節。curtail 縮減。taper 逐漸變細。口令：行李寫「精簡」，別把意義也壓扁。",
+      "reviewHooks": [
+        "縮：wane/dwindle/atrophy/abridge/curtail",
+        "atrophy＝萎縮"
+      ],
+      "pitfalls": [
+        "abridge＝縮寫刪節文本"
+      ],
+      "members": [
+        {
+          "headword": "wane",
+          "zhGloss": "減退",
+          "senseAnchor": "to decrease in size, extent or degree",
+          "roleInScript": "月虧",
+          "humorDevice": "contrast",
+          "speakLineEn": "Cue the 月虧: wane walks on and the gag sticks.",
+          "speakLineZh": "請「月虧」出場：wane 一上場梗就黏住——減退。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "dwindle",
+          "zhGloss": "逐漸變少",
+          "senseAnchor": "逐漸變少",
+          "roleInScript": "漏沙",
+          "humorDevice": "contrast",
+          "speakLineEn": "Cue the 漏沙: dwindle walks on and the gag sticks.",
+          "speakLineZh": "請「漏沙」出場：dwindle 一上場梗就黏住——逐漸變少。",
+          "inVocab": true,
+          "vocabStatus": "synced-p4-pending-b02"
+        },
+        {
+          "headword": "atrophy",
+          "zhGloss": "萎縮",
+          "senseAnchor": "萎縮",
+          "roleInScript": "萎縮標",
+          "humorDevice": "contrast",
+          "speakLineEn": "Cue the 萎縮標: atrophy walks on and the gag sticks.",
+          "speakLineZh": "請「萎縮標」出場：atrophy 一上場梗就黏住——萎縮。",
+          "inVocab": true,
+          "vocabStatus": "synced-p4-pending-b02"
+        },
+        {
+          "headword": "abridge",
+          "zhGloss": "刪節縮短",
+          "senseAnchor": "刪節縮短",
+          "roleInScript": "縮寫剪",
+          "humorDevice": "contrast",
+          "speakLineEn": "Cue the 縮寫剪: abridge walks on and the gag sticks.",
+          "speakLineZh": "請「縮寫剪」出場：abridge 一上場梗就黏住——刪節縮短。",
+          "inVocab": true,
+          "vocabStatus": "synced-p4-pending-b02"
+        },
+        {
+          "headword": "curtail",
+          "zhGloss": "縮減",
+          "senseAnchor": "to make less in extent or duration",
+          "roleInScript": "剪票",
+          "humorDevice": "contrast",
+          "speakLineEn": "Cue the 剪票: curtail walks on and the gag sticks.",
+          "speakLineZh": "請「剪票」出場：curtail 一上場梗就黏住——縮減。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "taper",
+          "zhGloss": "逐漸變細",
+          "senseAnchor": "逐漸變細",
+          "roleInScript": "錐形",
+          "humorDevice": "contrast",
+          "speakLineEn": "Cue the 錐形: taper walks on and the gag sticks.",
+          "speakLineZh": "請「錐形」出場：taper 一上場梗就黏住——逐漸變細。",
+          "inVocab": true,
+          "vocabStatus": "synced-p4-pending-b02"
+        },
+        {
+          "headword": "diminish",
+          "zhGloss": "減少",
+          "senseAnchor": "減少",
+          "roleInScript": "減號",
+          "humorDevice": "contrast",
+          "speakLineEn": "Cue the 減號: diminish walks on and the gag sticks.",
+          "speakLineZh": "請「減號」出場：diminish 一上場梗就黏住——減少。",
+          "inVocab": true,
+          "vocabStatus": "synced-p4-pending-b02"
+        },
+        {
+          "headword": "minify",
+          "zhGloss": "縮小",
+          "senseAnchor": "縮小",
+          "roleInScript": "縮小鏡",
+          "humorDevice": "contrast",
+          "speakLineEn": "Cue the 縮小鏡: minify walks on and the gag sticks.",
+          "speakLineZh": "請「縮小鏡」出場：minify 一上場梗就黏住——縮小。",
+          "inVocab": true,
+          "vocabStatus": "synced-p4-pending-b02"
+        },
+        {
+          "headword": "truncate",
+          "zhGloss": "截短",
+          "senseAnchor": "replace a corner by a plane; approximate by ignoring all terms beyond a chosen one",
+          "roleInScript": "截斷",
+          "humorDevice": "contrast",
+          "speakLineEn": "Cue the 截斷: truncate walks on and the gag sticks.",
+          "speakLineZh": "請「截斷」出場：truncate 一上場梗就黏住——截短。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "suitcase",
+          "zhGloss": "行李箱",
+          "senseAnchor": "行李箱",
+          "roleInScript": "行李箱",
+          "humorDevice": "story",
+          "speakLineEn": "Cue the 行李箱: suitcase walks on and the gag sticks.",
+          "speakLineZh": "請「行李箱」出場：suitcase 一上場梗就黏住——行李箱。",
+          "inVocab": false,
+          "vocabStatus": "deferred-basic-or-specialty"
+        },
+        {
+          "headword": "customs",
+          "zhGloss": "海關",
+          "senseAnchor": "海關",
+          "roleInScript": "海關",
+          "humorDevice": "story",
+          "speakLineEn": "Cue the 海關: customs walks on and the gag sticks.",
+          "speakLineZh": "請「海關」出場：customs 一上場梗就黏住——海關。",
+          "inVocab": false,
+          "vocabStatus": "deferred-basic-or-specialty"
+        },
+        {
+          "headword": "air",
+          "zhGloss": "空氣",
+          "senseAnchor": "空氣",
+          "roleInScript": "空氣",
+          "humorDevice": "story",
+          "speakLineEn": "Cue the 空氣: air walks on and the gag sticks.",
+          "speakLineZh": "請「空氣」出場：air 一上場梗就黏住——空氣。",
+          "inVocab": false,
+          "vocabStatus": "deferred-basic-or-specialty"
+        },
+        {
+          "headword": "zipper",
+          "zhGloss": "拉鍊",
+          "senseAnchor": "拉鍊",
+          "roleInScript": "拉鍊",
+          "humorDevice": "story",
+          "speakLineEn": "Cue the 拉鍊: zipper walks on and the gag sticks.",
+          "speakLineZh": "請「拉鍊」出場：zipper 一上場梗就黏住——拉鍊。",
+          "inVocab": false,
+          "vocabStatus": "deferred-basic-or-specialty"
+        }
+      ],
+      "memberCount": 13,
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "sense",
+          "promptEn": "Gradually decrease:",
+          "promptZh": "逐漸變少：",
+          "choices": [
+            "dwindle",
+            "burgeon",
+            "repository",
+            "neon"
+          ],
+          "answer": "dwindle"
+        },
+        {
+          "id": "q2",
+          "type": "sense",
+          "promptEn": "Waste away / shrink:",
+          "promptZh": "萎縮：",
+          "choices": [
+            "atrophy",
+            "augment",
+            "forecast",
+            "sole"
+          ],
+          "answer": "atrophy"
+        },
+        {
+          "id": "q3",
+          "type": "sense",
+          "promptEn": "Shorten a text:",
+          "promptZh": "刪節：",
+          "choices": [
+            "abridge",
+            "proliferate",
+            "omnibus",
+            "scanty"
+          ],
+          "answer": "abridge"
+        }
+      ],
+      "flow": [
+        {
+          "step": 1,
+          "name": "鉤子",
+          "minutes": 0.5,
+          "content": "orphan 縮減團壓行李：wane／dwindle／atrophy／abridge——海關問「這是減重還是偷渡空氣？」"
+        },
+        {
+          "step": 2,
+          "name": "串記劇本",
+          "minutes": 2,
+          "content": "wane／dwindle 縮小。atrophy 萎縮。abridge 刪節。curtail 縮減。taper 逐漸變細。口令：行李寫「精簡」，別把意義也壓扁。"
+        },
+        {
+          "step": 3,
+          "name": "詞卡 round",
+          "minutes": 7,
+          "content": "義錨 → 角色 → 跟讀英／中"
+        },
+        {
+          "step": 4,
+          "name": "快測",
+          "minutes": 2,
+          "content": "quiz ×3"
+        },
+        {
+          "step": 5,
+          "name": "口令帶走",
+          "minutes": 0.5,
+          "content": [
+            "縮：wane/dwindle/atrophy/abridge/curtail",
+            "atrophy＝萎縮"
+          ]
+        }
+      ],
+      "minutes": "12-15"
+    },
+    {
+      "id": "p4b02-work-01",
+      "slug": "p4b02-work-01",
+      "type": "semantic",
+      "typeZh": "語氣對打",
+      "typeEn": "Semantic",
+      "season": 3,
+      "priority": "B",
+      "status": "reviewed",
+      "titleZh": "勤奮 orphan｜加班打卡機",
+      "titleEn": "Work Orphan Punch Clock",
+      "hook": "orphan 勤奮團猛打卡：assiduous／sedulous／industrious／diligent——打卡機過熱，保全說「請輪流」。",
+      "script": "assiduous／sedulous／industrious 勤奮。diligent 勤勉。painstaking 一絲不苟。tireless 不知疲倦。口令：打卡寫「持續」，別只表演忙碌。",
+      "reviewHooks": [
+        "勤：assiduous/sedulous/industrious/diligent",
+        "sedulous＝勤勉不懈"
+      ],
+      "pitfalls": [
+        "assiduous≠aciduous"
+      ],
+      "members": [
+        {
+          "headword": "sedulous",
+          "zhGloss": "勤奮的",
+          "senseAnchor": "marked by care and persistent effort",
+          "roleInScript": "持續檔",
+          "humorDevice": "contrast",
+          "speakLineEn": "Cue the 持續檔: sedulous walks on and the gag sticks.",
+          "speakLineZh": "請「持續檔」出場：sedulous 一上場梗就黏住——勤奮的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "industrious",
+          "zhGloss": "勤勞的",
+          "senseAnchor": "characterized by hard work and perseverance; working hard to promote an enterprise",
+          "roleInScript": "工蜂",
+          "humorDevice": "contrast",
+          "speakLineEn": "Cue the 工蜂: industrious walks on and the gag sticks.",
+          "speakLineZh": "請「工蜂」出場：industrious 一上場梗就黏住——勤勞的。",
+          "inVocab": true,
+          "vocabStatus": "in-vocab"
+        },
+        {
+          "headword": "diligent",
+          "zhGloss": "勤奮的",
+          "senseAnchor": "勤奮的",
+          "roleInScript": "勾選完",
+          "humorDevice": "contrast",
+          "speakLineEn": "Cue the 勾選完: diligent walks on and the gag sticks.",
+          "speakLineZh": "請「勾選完」出場：diligent 一上場梗就黏住——勤奮的。",
+          "inVocab": true,
+          "vocabStatus": "synced-p4-pending-b02"
+        },
+        {
+          "headword": "painstaking",
+          "zhGloss": "一絲不苟的",
+          "senseAnchor": "一絲不苟的",
+          "roleInScript": "放大鏡",
+          "humorDevice": "contrast",
+          "speakLineEn": "Cue the 放大鏡: painstaking walks on and the gag sticks.",
+          "speakLineZh": "請「放大鏡」出場：painstaking 一上場梗就黏住——一絲不苟的。",
+          "inVocab": true,
+          "vocabStatus": "synced-p4-pending-b02"
+        },
+        {
+          "headword": "tireless",
+          "zhGloss": "不倦的",
+          "senseAnchor": "不倦的",
+          "roleInScript": "電池滿",
+          "humorDevice": "contrast",
+          "speakLineEn": "Cue the 電池滿: tireless walks on and the gag sticks.",
+          "speakLineZh": "請「電池滿」出場：tireless 一上場梗就黏住——不倦的。",
+          "inVocab": true,
+          "vocabStatus": "synced-p4-pending-b02"
+        },
+        {
+          "headword": "studious",
+          "zhGloss": "好學的",
+          "senseAnchor": "好學的",
+          "roleInScript": "書架",
+          "humorDevice": "contrast",
+          "speakLineEn": "Cue the 書架: studious walks on and the gag sticks.",
+          "speakLineZh": "請「書架」出場：studious 一上場梗就黏住——好學的。",
+          "inVocab": true,
+          "vocabStatus": "synced-p4-pending-b02"
+        },
+        {
+          "headword": "persevering",
+          "zhGloss": "堅持的",
+          "senseAnchor": "堅持的",
+          "roleInScript": "攀岩繩",
+          "humorDevice": "contrast",
+          "speakLineEn": "Cue the 攀岩繩: persevering walks on and the gag sticks.",
+          "speakLineZh": "請「攀岩繩」出場：persevering 一上場梗就黏住——堅持的。",
+          "inVocab": true,
+          "vocabStatus": "synced-p4-pending-b02"
+        },
+        {
+          "headword": "dogged",
+          "zhGloss": "頑強的",
+          "senseAnchor": "頑強的",
+          "roleInScript": "咬住不放",
+          "humorDevice": "contrast",
+          "speakLineEn": "Cue the 咬住不放: dogged walks on and the gag sticks.",
+          "speakLineZh": "請「咬住不放」出場：dogged 一上場梗就黏住——頑強的。",
+          "inVocab": true,
+          "vocabStatus": "synced-p4-pending-b02"
+        },
+        {
+          "headword": "untiring",
+          "zhGloss": "不疲倦的",
+          "senseAnchor": "不疲倦的",
+          "roleInScript": "馬達",
+          "humorDevice": "contrast",
+          "speakLineEn": "Cue the 馬達: untiring walks on and the gag sticks.",
+          "speakLineZh": "請「馬達」出場：untiring 一上場梗就黏住——不疲倦的。",
+          "inVocab": true,
+          "vocabStatus": "synced-p4-pending-b02"
+        },
+        {
+          "headword": "punchclock",
+          "zhGloss": "打卡機",
+          "senseAnchor": "打卡機",
+          "roleInScript": "打卡機",
+          "humorDevice": "story",
+          "speakLineEn": "Cue the 打卡機: punchclock walks on and the gag sticks.",
+          "speakLineZh": "請「打卡機」出場：punchclock 一上場梗就黏住——打卡機。",
+          "inVocab": false,
+          "vocabStatus": "deferred-basic-or-specialty"
+        },
+        {
+          "headword": "coffee",
+          "zhGloss": "咖啡",
+          "senseAnchor": "咖啡",
+          "roleInScript": "咖啡",
+          "humorDevice": "story",
+          "speakLineEn": "Cue the 咖啡: coffee walks on and the gag sticks.",
+          "speakLineZh": "請「咖啡」出場：coffee 一上場梗就黏住——咖啡。",
+          "inVocab": false,
+          "vocabStatus": "deferred-basic-or-specialty"
+        },
+        {
+          "headword": "checklist",
+          "zhGloss": "清單",
+          "senseAnchor": "清單",
+          "roleInScript": "清單",
+          "humorDevice": "story",
+          "speakLineEn": "Cue the 清單: checklist walks on and the gag sticks.",
+          "speakLineZh": "請「清單」出場：checklist 一上場梗就黏住——清單。",
+          "inVocab": false,
+          "vocabStatus": "deferred-basic-or-specialty"
+        }
+      ],
+      "memberCount": 12,
+      "quiz": [
+        {
+          "id": "q1",
+          "type": "sense",
+          "promptEn": "Showing persistent care:",
+          "promptZh": "勤勉的：",
+          "choices": [
+            "assiduous",
+            "candid",
+            "repository",
+            "neon"
+          ],
+          "answer": "assiduous"
+        },
+        {
+          "id": "q2",
+          "type": "sense",
+          "promptEn": "Hardworking:",
+          "promptZh": "勤勞的：",
+          "choices": [
+            "industrious",
+            "canard",
+            "forecast",
+            "sole"
+          ],
+          "answer": "industrious"
+        },
+        {
+          "id": "q3",
+          "type": "sense",
+          "promptEn": "Extremely careful:",
+          "promptZh": "一絲不苟：",
+          "choices": [
+            "painstaking",
+            "specious",
+            "omnibus",
+            "scanty"
+          ],
+          "answer": "painstaking"
+        }
+      ],
+      "flow": [
+        {
+          "step": 1,
+          "name": "鉤子",
+          "minutes": 0.5,
+          "content": "orphan 勤奮團猛打卡：assiduous／sedulous／industrious／diligent——打卡機過熱，保全說「請輪流」。"
+        },
+        {
+          "step": 2,
+          "name": "串記劇本",
+          "minutes": 2,
+          "content": "assiduous／sedulous／industrious 勤奮。diligent 勤勉。painstaking 一絲不苟。tireless 不知疲倦。口令：打卡寫「持續」，別只表演忙碌。"
+        },
+        {
+          "step": 3,
+          "name": "詞卡 round",
+          "minutes": 7,
+          "content": "義錨 → 角色 → 跟讀英／中"
+        },
+        {
+          "step": 4,
+          "name": "快測",
+          "minutes": 2,
+          "content": "quiz ×3"
+        },
+        {
+          "step": 5,
+          "name": "口令帶走",
+          "minutes": 0.5,
+          "content": [
+            "勤：assiduous/sedulous/industrious/diligent",
+            "sedulous＝勤勉不懈"
           ]
         }
       ],

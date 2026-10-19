@@ -1,0 +1,181 @@
+{
+  "id": "p4b02-look-council-01",
+  "type": "lookalike",
+  "elementLemma": "council-counsel-consul",
+  "titleZh": "council／counsel／consul｜顧問會議室",
+  "titleEn": "Council Room",
+  "hook": "council 會議，counsel 勸告／律師，consul 領事——會議室名牌印錯，三位客人走錯門。",
+  "script": "council＝理事會。counsel＝建議或律師。consul＝領事。counselor 顧問。口令：開會寫 council，給建議寫 counsel，護照寫 consul。",
+  "members": [
+    {
+      "headword": "council",
+      "inVocab": true,
+      "senseAnchor": "理事會",
+      "roleInScript": "開會門",
+      "humorDevice": "lookalike",
+      "zhGloss": "理事會",
+      "speakLineEn": "Cue the 開會門: council walks on and the gag sticks.",
+      "speakLineZh": "請「開會門」出場：council 一上場梗就黏住——理事會。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b02"
+    },
+    {
+      "headword": "counsel",
+      "inVocab": true,
+      "senseAnchor": "勸告律師",
+      "roleInScript": "建議門",
+      "humorDevice": "lookalike",
+      "zhGloss": "勸告律師",
+      "speakLineEn": "Cue the 建議門: counsel walks on and the gag sticks.",
+      "speakLineZh": "請「建議門」出場：counsel 一上場梗就黏住——勸告律師。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b02"
+    },
+    {
+      "headword": "consul",
+      "inVocab": true,
+      "senseAnchor": "a diplomat appointed by a government to protect its commercial interests and help its citizens in a foreign country",
+      "roleInScript": "護照門",
+      "humorDevice": "lookalike",
+      "zhGloss": "領事",
+      "speakLineEn": "Cue the 護照門: consul walks on and the gag sticks.",
+      "speakLineZh": "請「護照門」出場：consul 一上場梗就黏住——領事。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "counselor",
+      "inVocab": true,
+      "senseAnchor": "顧問",
+      "roleInScript": "顧問椅",
+      "humorDevice": "lookalike",
+      "zhGloss": "顧問",
+      "speakLineEn": "Cue the 顧問椅: counselor walks on and the gag sticks.",
+      "speakLineZh": "請「顧問椅」出場：counselor 一上場梗就黏住——顧問。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b02"
+    },
+    {
+      "headword": "consultancy",
+      "inVocab": true,
+      "senseAnchor": "顧問業",
+      "roleInScript": "顧問牌",
+      "humorDevice": "lookalike",
+      "zhGloss": "顧問業",
+      "speakLineEn": "Cue the 顧問牌: consultancy walks on and the gag sticks.",
+      "speakLineZh": "請「顧問牌」出場：consultancy 一上場梗就黏住——顧問業。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b02"
+    },
+    {
+      "headword": "consulate",
+      "inVocab": true,
+      "senseAnchor": "領事館",
+      "roleInScript": "領事館",
+      "humorDevice": "lookalike",
+      "zhGloss": "領事館",
+      "speakLineEn": "Cue the 領事館: consulate walks on and the gag sticks.",
+      "speakLineZh": "請「領事館」出場：consulate 一上場梗就黏住——領事館。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b02"
+    },
+    {
+      "headword": "passport",
+      "inVocab": false,
+      "senseAnchor": "護照",
+      "roleInScript": "護照",
+      "humorDevice": "story",
+      "zhGloss": "護照",
+      "speakLineEn": "Cue the 護照: passport walks on and the gag sticks.",
+      "speakLineZh": "請「護照」出場：passport 一上場梗就黏住——護照。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "nameplate",
+      "inVocab": false,
+      "senseAnchor": "名牌",
+      "roleInScript": "名牌",
+      "humorDevice": "story",
+      "zhGloss": "名牌",
+      "speakLineEn": "Cue the 名牌: nameplate walks on and the gag sticks.",
+      "speakLineZh": "請「名牌」出場：nameplate 一上場梗就黏住——名牌。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "lawyer",
+      "inVocab": false,
+      "senseAnchor": "律師",
+      "roleInScript": "律師",
+      "humorDevice": "story",
+      "zhGloss": "律師",
+      "speakLineEn": "Cue the 律師: lawyer walks on and the gag sticks.",
+      "speakLineZh": "請「律師」出場：lawyer 一上場梗就黏住——律師。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "agenda",
+      "inVocab": false,
+      "senseAnchor": "議程",
+      "roleInScript": "議程",
+      "humorDevice": "story",
+      "zhGloss": "議程",
+      "speakLineEn": "Cue the 議程: agenda walks on and the gag sticks.",
+      "speakLineZh": "請「議程」出場：agenda 一上場梗就黏住——議程。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "council＝會議；counsel＝勸告；consul＝領事",
+    "拼寫差一個字母"
+  ],
+  "pitfalls": [
+    "三詞場景：開會／建議／護照"
+  ],
+  "lessonRefs": [
+    "lesson-p4b02-look-council-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P4-batch02"
+  }
+}

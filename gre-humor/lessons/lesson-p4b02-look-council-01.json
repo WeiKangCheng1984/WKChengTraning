@@ -1,0 +1,96 @@
+{
+  "id": "lesson-p4b02-look-council-01",
+  "slug": "p4b02-look-council-01",
+  "season": 3,
+  "seasonTitleZh": "語氣對打",
+  "seasonTitleEn": "Tone Duels",
+  "type": "duel",
+  "minutes": "12-15",
+  "clusterId": "p4b02-look-council-01",
+  "titleZh": "council／counsel／consul｜顧問會議室",
+  "titleEn": "Council Room",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "council 會議，counsel 勸告／律師，consul 領事——會議室名牌印錯，三位客人走錯門。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "council＝理事會。counsel＝建議或律師。consul＝領事。counselor 顧問。口令：開會寫 council，給建議寫 counsel，護照寫 consul。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "council＝會議；counsel＝勸告；consul＝領事",
+        "拼寫差一個字母"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "An assembly / board:",
+      "promptZh": "理事會：",
+      "choices": [
+        "council",
+        "counsel",
+        "repository",
+        "neon"
+      ],
+      "answer": "council"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Advice / a lawyer:",
+      "promptZh": "勸告／律師：",
+      "choices": [
+        "counsel",
+        "consul",
+        "forecast",
+        "sole"
+      ],
+      "answer": "counsel"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "A diplomatic official:",
+      "promptZh": "領事：",
+      "choices": [
+        "consul",
+        "counselor",
+        "omnibus",
+        "scanty"
+      ],
+      "answer": "consul"
+    }
+  ],
+  "pitfalls": [
+    "三詞場景：開會／建議／護照"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P4-batch02"
+  }
+}

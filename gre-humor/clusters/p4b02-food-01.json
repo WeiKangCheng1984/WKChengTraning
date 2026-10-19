@@ -1,0 +1,167 @@
+{
+  "id": "p4b02-food-01",
+  "type": "semantic",
+  "elementLemma": "food-orphan",
+  "titleZh": "飲食 orphan｜考場補給站",
+  "titleEn": "Food Orphan Station",
+  "hook": "orphan 飲食團來補給：ravenous／voracious／satiated／parsimonious——有人狂吃，有人把餅乾鎖抽屜。",
+  "script": "ravenous／voracious 極餓貪吃。satiated 飽足。parsimonious 吝嗇。glutton 貪食者。口令：補給站寫「適量」，鎖抽屜寫「考試別分心」。",
+  "members": [
+    {
+      "headword": "ravenous",
+      "inVocab": true,
+      "senseAnchor": "extremely hungry; devouring or craving food in great quantities",
+      "roleInScript": "狼吞",
+      "humorDevice": "contrast",
+      "zhGloss": "極餓的",
+      "speakLineEn": "Cue the 狼吞: ravenous walks on and the gag sticks.",
+      "speakLineZh": "請「狼吞」出場：ravenous 一上場梗就黏住——極餓的。",
+      "related": {
+        "synonyms": "famished, sharp-set, starved, esurient, edacious, rapacious",
+        "antonyms": "be full, feed"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "pungent",
+      "inVocab": true,
+      "senseAnchor": "strong and sharp; capable of wounding",
+      "roleInScript": "嗆鼻",
+      "humorDevice": "contrast",
+      "zhGloss": "辛辣刺鼻的",
+      "speakLineEn": "Cue the 嗆鼻: pungent walks on and the gag sticks.",
+      "speakLineZh": "請「嗆鼻」出場：pungent 一上場梗就黏住——辛辣刺鼻的。",
+      "related": {
+        "synonyms": "acrid, barbed, biting, nipping, mordacious",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "bland",
+      "inVocab": true,
+      "senseAnchor": "dull, not interesting",
+      "roleInScript": "無鹽",
+      "humorDevice": "contrast",
+      "zhGloss": "平淡的",
+      "speakLineEn": "Cue the 無鹽: bland walks on and the gag sticks.",
+      "speakLineZh": "請「無鹽」出場：bland 一上場梗就黏住——平淡的。",
+      "related": {
+        "synonyms": "banal, vapid, insipid, jejune",
+        "antonyms": "original, fresh, lively, stimulating, flavorful, exciting"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "appetizing",
+      "inVocab": true,
+      "senseAnchor": "開胃的",
+      "roleInScript": "開胃燈",
+      "humorDevice": "contrast",
+      "zhGloss": "開胃的",
+      "speakLineEn": "Cue the 開胃燈: appetizing walks on and the gag sticks.",
+      "speakLineZh": "請「開胃燈」出場：appetizing 一上場梗就黏住——開胃的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b02"
+    },
+    {
+      "headword": "drawer",
+      "inVocab": false,
+      "senseAnchor": "抽屜",
+      "roleInScript": "抽屜",
+      "humorDevice": "story",
+      "zhGloss": "抽屜",
+      "speakLineEn": "Cue the 抽屜: drawer walks on and the gag sticks.",
+      "speakLineZh": "請「抽屜」出場：drawer 一上場梗就黏住——抽屜。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "cookie",
+      "inVocab": false,
+      "senseAnchor": "餅乾",
+      "roleInScript": "餅乾",
+      "humorDevice": "story",
+      "zhGloss": "餅乾",
+      "speakLineEn": "Cue the 餅乾: cookie walks on and the gag sticks.",
+      "speakLineZh": "請「餅乾」出場：cookie 一上場梗就黏住——餅乾。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "thermos",
+      "inVocab": false,
+      "senseAnchor": "水瓶",
+      "roleInScript": "水瓶",
+      "humorDevice": "story",
+      "zhGloss": "水瓶",
+      "speakLineEn": "Cue the 水瓶: thermos walks on and the gag sticks.",
+      "speakLineZh": "請「水瓶」出場：thermos 一上場梗就黏住——水瓶。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "tray",
+      "inVocab": false,
+      "senseAnchor": "托盤",
+      "roleInScript": "托盤",
+      "humorDevice": "story",
+      "zhGloss": "托盤",
+      "speakLineEn": "Cue the 托盤: tray walks on and the gag sticks.",
+      "speakLineZh": "請「托盤」出場：tray 一上場梗就黏住——托盤。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "napkin",
+      "inVocab": false,
+      "senseAnchor": "餐巾",
+      "roleInScript": "餐巾",
+      "humorDevice": "story",
+      "zhGloss": "餐巾",
+      "speakLineEn": "Cue the 餐巾: napkin walks on and the gag sticks.",
+      "speakLineZh": "請「餐巾」出場：napkin 一上場梗就黏住——餐巾。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "食：ravenous/voracious/satiated",
+    "voracious 也可指求知若渴"
+  ],
+  "pitfalls": [
+    "parsimonious 本義吝嗇"
+  ],
+  "lessonRefs": [
+    "lesson-p4b02-food-01"
+  ],
+  "status": "reviewed",
+  "priority": "C",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P4-batch02"
+  }
+}

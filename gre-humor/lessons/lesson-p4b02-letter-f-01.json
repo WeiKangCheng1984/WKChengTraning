@@ -1,0 +1,96 @@
+{
+  "id": "lesson-p4b02-letter-f-01",
+  "slug": "p4b02-letter-f-01",
+  "season": 2,
+  "seasonTitleZh": "字根劇場",
+  "seasonTitleEn": "Root Theater",
+  "type": "family",
+  "minutes": "12-15",
+  "clusterId": "p4b02-letter-f-01",
+  "titleZh": "orphan F｜F道具箱",
+  "titleEn": "Orphan F",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "差集 F 專場開在F道具箱——名牌用中文，防止走失。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "fabric/facetious/factiousness/faint 先登台，其餘 orphan 接龍。清倉晚會續攤：同字母檢票，義核才是身份證。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "f:fabric/facetious/factiousness/faint",
+        "P4-batch02 差集"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Lead orphan:",
+      "promptZh": "領頭：",
+      "choices": [
+        "fabric",
+        "facetious",
+        "repository",
+        "neon"
+      ],
+      "answer": "fabric"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "Also on stage:",
+      "promptZh": "同場：",
+      "choices": [
+        "facetious",
+        "factiousness",
+        "forecast",
+        "sole"
+      ],
+      "answer": "facetious"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Another:",
+      "promptZh": "另一個：",
+      "choices": [
+        "factiousness",
+        "fabric",
+        "omnibus",
+        "scanty"
+      ],
+      "answer": "factiousness"
+    }
+  ],
+  "pitfalls": [
+    "勿因同字母硬串錯誤字根"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P4-batch02"
+  }
+}

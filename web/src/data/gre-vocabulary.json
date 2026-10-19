@@ -1,6 +1,6 @@
 {
   "source": "GRE vocabulary.md",
-  "total": 5100,
+  "total": 5138,
   "detailed": 3844,
   "withAntonyms": 1945,
   "withSpeakableExamples": 3844,
@@ -10,7 +10,7 @@
     {
       "letter": "A",
       "slug": "a",
-      "wordCount": 329,
+      "wordCount": 336,
       "words": [
         {
           "id": "gre-abandon",
@@ -379,6 +379,22 @@
           "lookalikes": "",
           "sources": "救命800",
           "detailed": true
+        },
+        {
+          "id": "gre-abridge",
+          "en": "abridge",
+          "zh": "刪節縮短",
+          "endef": "刪節縮短",
+          "exampleEn": "Cue the 縮寫剪: abridge walks on and the gag sticks.",
+          "example": "Cue the 縮寫剪: abridge walks on and the gag sticks. （刪節縮短）",
+          "exampleUsage": "請「縮寫剪」出場：abridge 一上場梗就黏住——刪節縮短。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 P4-pending-b02 補錄",
+          "detailed": true,
+          "fromHumorCluster": "p4b02-shrink-01"
         },
         {
           "id": "gre-abrogate",
@@ -1471,6 +1487,22 @@
           "detailed": true
         },
         {
+          "id": "gre-affection",
+          "en": "affection",
+          "zh": "情感",
+          "endef": "情感",
+          "exampleEn": "Cue the 情感貼: affection walks on and the gag sticks.",
+          "example": "Cue the 情感貼: affection walks on and the gag sticks. （情感）",
+          "exampleUsage": "請「情感貼」出場：affection 一上場梗就黏住——情感。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 P4-pending-b02 補錄",
+          "detailed": true,
+          "fromHumorCluster": "p4b02-look-affect-01"
+        },
+        {
           "id": "gre-affective",
           "en": "affective",
           "zh": "感情的｜教學補註：characterized by emotion",
@@ -2311,6 +2343,22 @@
           "lookalikes": "",
           "sources": "救命800",
           "detailed": true
+        },
+        {
+          "id": "gre-amplify",
+          "en": "amplify",
+          "zh": "放大",
+          "endef": "放大",
+          "exampleEn": "Cue the 擴音: amplify walks on and the gag sticks.",
+          "example": "Cue the 擴音: amplify walks on and the gag sticks. （放大）",
+          "exampleUsage": "請「擴音」出場：amplify 一上場梗就黏住——放大。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 P4-pending-b02 補錄",
+          "detailed": true,
+          "fromHumorCluster": "p4b02-grow-01"
         },
         {
           "id": "gre-anachronism",
@@ -3278,6 +3326,22 @@
           "fromHumorCluster": "root-pend-01"
         },
         {
+          "id": "gre-appetizing",
+          "en": "appetizing",
+          "zh": "開胃的",
+          "endef": "開胃的",
+          "exampleEn": "Cue the 開胃燈: appetizing walks on and the gag sticks.",
+          "example": "Cue the 開胃燈: appetizing walks on and the gag sticks. （開胃的）",
+          "exampleUsage": "請「開胃燈」出場：appetizing 一上場梗就黏住——開胃的。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 P4-pending-b02 補錄",
+          "detailed": true,
+          "fromHumorCluster": "p4b02-food-01"
+        },
+        {
           "id": "gre-applaud",
           "en": "applaud",
           "zh": "鼓掌讚許",
@@ -4084,6 +4148,22 @@
           "detailed": true
         },
         {
+          "id": "gre-ashen",
+          "en": "ashen",
+          "zh": "灰白的",
+          "endef": "灰白的",
+          "exampleEn": "Cue the 灰燼臉: ashen walks on and the gag sticks.",
+          "example": "Cue the 灰燼臉: ashen walks on and the gag sticks. （灰白的）",
+          "exampleUsage": "請「灰燼臉」出場：ashen 一上場梗就黏住——灰白的。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 P4-pending-b02 補錄",
+          "detailed": true,
+          "fromHumorCluster": "p4b02-color-01"
+        },
+        {
           "id": "gre-asinine",
           "en": "asinine",
           "zh": "愚蠢的；驢的",
@@ -4526,6 +4606,22 @@
           "detailed": true
         },
         {
+          "id": "gre-atrophy",
+          "en": "atrophy",
+          "zh": "萎縮",
+          "endef": "萎縮",
+          "exampleEn": "Cue the 萎縮標: atrophy walks on and the gag sticks.",
+          "example": "Cue the 萎縮標: atrophy walks on and the gag sticks. （萎縮）",
+          "exampleUsage": "請「萎縮標」出場：atrophy 一上場梗就黏住——萎縮。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 P4-pending-b02 補錄",
+          "detailed": true,
+          "fromHumorCluster": "p4b02-shrink-01"
+        },
+        {
           "id": "gre-attention",
           "en": "attention",
           "zh": "注意",
@@ -4679,6 +4775,22 @@
           "sources": "幽默聯想庫 P2-pending 補錄",
           "detailed": true,
           "fromHumorCluster": "root-phil-01"
+        },
+        {
+          "id": "gre-augment",
+          "en": "augment",
+          "zh": "增加",
+          "endef": "增加",
+          "exampleEn": "Cue the 加厚: augment walks on and the gag sticks.",
+          "example": "Cue the 加厚: augment walks on and the gag sticks. （增加）",
+          "exampleUsage": "請「加厚」出場：augment 一上場梗就黏住——增加。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 P4-pending-b02 補錄",
+          "detailed": true,
+          "fromHumorCluster": "p4b02-grow-01"
         },
         {
           "id": "gre-auguary",
@@ -5067,7 +5179,7 @@
     {
       "letter": "B",
       "slug": "b",
-      "wordCount": 192,
+      "wordCount": 193,
       "words": [
         {
           "id": "gre-backbone",
@@ -7870,6 +7982,22 @@
           "detailed": true
         },
         {
+          "id": "gre-burgeon",
+          "en": "burgeon",
+          "zh": "迅速成長",
+          "endef": "迅速成長",
+          "exampleEn": "Cue the 嫩芽爆: burgeon walks on and the gag sticks.",
+          "example": "Cue the 嫩芽爆: burgeon walks on and the gag sticks. （迅速成長）",
+          "exampleUsage": "請「嫩芽爆」出場：burgeon 一上場梗就黏住——迅速成長。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 P4-pending-b02 補錄",
+          "detailed": true,
+          "fromHumorCluster": "p4b02-grow-01"
+        },
+        {
           "id": "gre-burlesque",
           "en": "burlesque",
           "zh": "n./v. 惡搞｜教學補註：to copy or exaggerate someone in order to make fun of",
@@ -7995,7 +8123,7 @@
     {
       "letter": "C",
       "slug": "c",
-      "wordCount": 437,
+      "wordCount": 442,
       "words": [
         {
           "id": "gre-cachet",
@@ -12577,6 +12705,22 @@
           "detailed": true
         },
         {
+          "id": "gre-consulate",
+          "en": "consulate",
+          "zh": "領事館",
+          "endef": "領事館",
+          "exampleEn": "Cue the 領事館: consulate walks on and the gag sticks.",
+          "example": "Cue the 領事館: consulate walks on and the gag sticks. （領事館）",
+          "exampleUsage": "請「領事館」出場：consulate 一上場梗就黏住——領事館。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 P4-pending-b02 補錄",
+          "detailed": true,
+          "fromHumorCluster": "p4b02-look-council-01"
+        },
+        {
           "id": "gre-consult",
           "en": "consult",
           "zh": "諮詢",
@@ -12591,6 +12735,22 @@
           "sources": "幽默聯想庫 P2-pending 補錄",
           "detailed": true,
           "fromHumorCluster": "root-sal-01"
+        },
+        {
+          "id": "gre-consultancy",
+          "en": "consultancy",
+          "zh": "顧問業",
+          "endef": "顧問業",
+          "exampleEn": "Cue the 顧問牌: consultancy walks on and the gag sticks.",
+          "example": "Cue the 顧問牌: consultancy walks on and the gag sticks. （顧問業）",
+          "exampleUsage": "請「顧問牌」出場：consultancy 一上場梗就黏住——顧問業。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 P4-pending-b02 補錄",
+          "detailed": true,
+          "fromHumorCluster": "p4b02-look-council-01"
         },
         {
           "id": "gre-consultant",
@@ -13431,6 +13591,54 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-council",
+          "en": "council",
+          "zh": "理事會",
+          "endef": "理事會",
+          "exampleEn": "Cue the 開會門: council walks on and the gag sticks.",
+          "example": "Cue the 開會門: council walks on and the gag sticks. （理事會）",
+          "exampleUsage": "請「開會門」出場：council 一上場梗就黏住——理事會。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 P4-pending-b02 補錄",
+          "detailed": true,
+          "fromHumorCluster": "p4b02-look-council-01"
+        },
+        {
+          "id": "gre-counsel",
+          "en": "counsel",
+          "zh": "勸告律師",
+          "endef": "勸告律師",
+          "exampleEn": "Cue the 建議門: counsel walks on and the gag sticks.",
+          "example": "Cue the 建議門: counsel walks on and the gag sticks. （勸告律師）",
+          "exampleUsage": "請「建議門」出場：counsel 一上場梗就黏住——勸告律師。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 P4-pending-b02 補錄",
+          "detailed": true,
+          "fromHumorCluster": "p4b02-look-council-01"
+        },
+        {
+          "id": "gre-counselor",
+          "en": "counselor",
+          "zh": "顧問",
+          "endef": "顧問",
+          "exampleEn": "Cue the 顧問椅: counselor walks on and the gag sticks.",
+          "example": "Cue the 顧問椅: counselor walks on and the gag sticks. （顧問）",
+          "exampleUsage": "請「顧問椅」出場：counselor 一上場梗就黏住——顧問。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 P4-pending-b02 補錄",
+          "detailed": true,
+          "fromHumorCluster": "p4b02-look-council-01"
         },
         {
           "id": "gre-countenance",
@@ -14665,7 +14873,7 @@
     {
       "letter": "D",
       "slug": "d",
-      "wordCount": 368,
+      "wordCount": 373,
       "words": [
         {
           "id": "gre-dabble",
@@ -17947,6 +18155,22 @@
           "detailed": true
         },
         {
+          "id": "gre-diligent",
+          "en": "diligent",
+          "zh": "勤奮的",
+          "endef": "勤奮的",
+          "exampleEn": "Cue the 勾選完: diligent walks on and the gag sticks.",
+          "example": "Cue the 勾選完: diligent walks on and the gag sticks. （勤奮的）",
+          "exampleUsage": "請「勾選完」出場：diligent 一上場梗就黏住——勤奮的。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 P4-pending-b02 補錄",
+          "detailed": true,
+          "fromHumorCluster": "p4b02-work-01"
+        },
+        {
           "id": "gre-dillydally",
           "en": "dillydally",
           "zh": "虛度時光｜教學補註：postpone doing what one should be doing",
@@ -17975,6 +18199,22 @@
           "lookalikes": "",
           "sources": "複習詞、紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-diminish",
+          "en": "diminish",
+          "zh": "減少",
+          "endef": "減少",
+          "exampleEn": "Cue the 減號: diminish walks on and the gag sticks.",
+          "example": "Cue the 減號: diminish walks on and the gag sticks. （減少）",
+          "exampleUsage": "請「減號」出場：diminish 一上場梗就黏住——減少。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 P4-pending-b02 補錄",
+          "detailed": true,
+          "fromHumorCluster": "p4b02-shrink-01"
         },
         {
           "id": "gre-dimple",
@@ -19501,6 +19741,22 @@
           "detailed": true
         },
         {
+          "id": "gre-dogged",
+          "en": "dogged",
+          "zh": "頑強的",
+          "endef": "頑強的",
+          "exampleEn": "Cue the 咬住不放: dogged walks on and the gag sticks.",
+          "example": "Cue the 咬住不放: dogged walks on and the gag sticks. （頑強的）",
+          "exampleUsage": "請「咬住不放」出場：dogged 一上場梗就黏住——頑強的。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 P4-pending-b02 補錄",
+          "detailed": true,
+          "fromHumorCluster": "p4b02-work-01"
+        },
+        {
           "id": "gre-dogmastic",
           "en": "dogmastic",
           "zh": "固執的；教條的",
@@ -20189,6 +20445,22 @@
           "detailed": true
         },
         {
+          "id": "gre-dupe",
+          "en": "dupe",
+          "zh": "欺騙",
+          "endef": "欺騙",
+          "exampleEn": "Cue the 好人卡: dupe walks on and the gag sticks.",
+          "example": "Cue the 好人卡: dupe walks on and the gag sticks. （欺騙）",
+          "exampleUsage": "請「好人卡」出場：dupe 一上場梗就黏住——欺騙。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 P4-pending-b02 補錄",
+          "detailed": true,
+          "fromHumorCluster": "p4b02-lie-01"
+        },
+        {
           "id": "gre-duplicitous",
           "en": "duplicitous",
           "zh": "欺騙的；兩面派的",
@@ -20267,6 +20539,22 @@
           "fromHumorCluster": "look-historic-01"
         },
         {
+          "id": "gre-dwindle",
+          "en": "dwindle",
+          "zh": "逐漸變少",
+          "endef": "逐漸變少",
+          "exampleEn": "Cue the 漏沙: dwindle walks on and the gag sticks.",
+          "example": "Cue the 漏沙: dwindle walks on and the gag sticks. （逐漸變少）",
+          "exampleUsage": "請「漏沙」出場：dwindle 一上場梗就黏住——逐漸變少。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 P4-pending-b02 補錄",
+          "detailed": true,
+          "fromHumorCluster": "p4b02-shrink-01"
+        },
+        {
           "id": "gre-dyspeptic",
           "en": "dyspeptic",
           "zh": "消化不良的",
@@ -20286,7 +20574,7 @@
     {
       "letter": "E",
       "slug": "e",
-      "wordCount": 282,
+      "wordCount": 285,
       "words": [
         {
           "id": "gre-early-warning",
@@ -20578,6 +20866,38 @@
           "sources": "幽默聯想庫 S3a 補錄",
           "detailed": true,
           "fromHumorCluster": "root-fac-01"
+        },
+        {
+          "id": "gre-effective",
+          "en": "effective",
+          "zh": "有效的",
+          "endef": "有效的",
+          "exampleEn": "Cue the 有效章: effective walks on and the gag sticks.",
+          "example": "Cue the 有效章: effective walks on and the gag sticks. （有效的）",
+          "exampleUsage": "請「有效章」出場：effective 一上場梗就黏住——有效的。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 P4-pending-b02 補錄",
+          "detailed": true,
+          "fromHumorCluster": "p4b02-look-affect-01"
+        },
+        {
+          "id": "gre-effectuate",
+          "en": "effectuate",
+          "zh": "使實現",
+          "endef": "使實現",
+          "exampleEn": "Cue the 落地: effectuate walks on and the gag sticks.",
+          "example": "Cue the 落地: effectuate walks on and the gag sticks. （使實現）",
+          "exampleUsage": "請「落地」出場：effectuate 一上場梗就黏住——使實現。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 P4-pending-b02 補錄",
+          "detailed": true,
+          "fromHumorCluster": "p4b02-look-affect-01"
         },
         {
           "id": "gre-effeminate",
@@ -23849,6 +24169,22 @@
           "lookalikes": "",
           "sources": "複習詞",
           "detailed": true
+        },
+        {
+          "id": "gre-expand",
+          "en": "expand",
+          "zh": "擴張",
+          "endef": "擴張",
+          "exampleEn": "Cue the 膨脹: expand walks on and the gag sticks.",
+          "example": "Cue the 膨脹: expand walks on and the gag sticks. （擴張）",
+          "exampleUsage": "請「膨脹」出場：expand 一上場梗就黏住——擴張。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 P4-pending-b02 補錄",
+          "detailed": true,
+          "fromHumorCluster": "p4b02-grow-01"
         },
         {
           "id": "gre-expatiate",
@@ -27653,7 +27989,7 @@
     {
       "letter": "G",
       "slug": "g",
-      "wordCount": 138,
+      "wordCount": 139,
       "words": [
         {
           "id": "gre-gabble",
@@ -29607,6 +29943,22 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-gullible",
+          "en": "gullible",
+          "zh": "易受騙的",
+          "endef": "易受騙的",
+          "exampleEn": "Cue the 好騙臉: gullible walks on and the gag sticks.",
+          "example": "Cue the 好騙臉: gullible walks on and the gag sticks. （易受騙的）",
+          "exampleUsage": "請「好騙臉」出場：gullible 一上場梗就黏住——易受騙的。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 P4-pending-b02 補錄",
+          "detailed": true,
+          "fromHumorCluster": "p4b02-lie-01"
         },
         {
           "id": "gre-gulp",
@@ -31711,7 +32063,7 @@
     {
       "letter": "I",
       "slug": "i",
-      "wordCount": 313,
+      "wordCount": 316,
       "words": [
         {
           "id": "gre-icicle",
@@ -31803,6 +32155,22 @@
           "lookalikes": "",
           "sources": "救命800",
           "detailed": true
+        },
+        {
+          "id": "gre-idle",
+          "en": "idle",
+          "zh": "空閒的",
+          "endef": "空閒的",
+          "exampleEn": "Cue the 空轉: idle walks on and the gag sticks.",
+          "example": "Cue the 空轉: idle walks on and the gag sticks. （空閒的）",
+          "exampleUsage": "請「空轉」出場：idle 一上場梗就黏住——空閒的。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 P4-pending-b02 補錄",
+          "detailed": true,
+          "fromHumorCluster": "p4b02-lazy-01"
         },
         {
           "id": "gre-idyllic",
@@ -34265,6 +34633,38 @@
           "lookalikes": "",
           "sources": "紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-infect",
+          "en": "infect",
+          "zh": "感染",
+          "endef": "感染",
+          "exampleEn": "Cue the 病毒鈕: infect walks on and the gag sticks.",
+          "example": "Cue the 病毒鈕: infect walks on and the gag sticks. （感染）",
+          "exampleUsage": "請「病毒鈕」出場：infect 一上場梗就黏住——感染。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 P4-pending-b02 補錄",
+          "detailed": true,
+          "fromHumorCluster": "p4b02-look-affect-01"
+        },
+        {
+          "id": "gre-infectious",
+          "en": "infectious",
+          "zh": "傳染的",
+          "endef": "傳染的",
+          "exampleEn": "Cue the 傳染標: infectious walks on and the gag sticks.",
+          "example": "Cue the 傳染標: infectious walks on and the gag sticks. （傳染的）",
+          "exampleUsage": "請「傳染標」出場：infectious 一上場梗就黏住——傳染的。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 P4-pending-b02 補錄",
+          "detailed": true,
+          "fromHumorCluster": "p4b02-look-affect-01"
         },
         {
           "id": "gre-infelicitous",
@@ -37191,7 +37591,7 @@
     {
       "letter": "L",
       "slug": "l",
-      "wordCount": 127,
+      "wordCount": 132,
       "words": [
         {
           "id": "gre-labelgun",
@@ -37299,6 +37699,22 @@
           "lookalikes": "",
           "sources": "複習詞",
           "detailed": true
+        },
+        {
+          "id": "gre-lackadaisical",
+          "en": "lackadaisical",
+          "zh": "無精打采的",
+          "endef": "無精打采的",
+          "exampleEn": "Cue the 半開眼: lackadaisical walks on and the gag sticks.",
+          "example": "Cue the 半開眼: lackadaisical walks on and the gag sticks. （無精打采的）",
+          "exampleUsage": "請「半開眼」出場：lackadaisical 一上場梗就黏住——無精打采的。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 P4-pending-b02 補錄",
+          "detailed": true,
+          "fromHumorCluster": "p4b02-lazy-01"
         },
         {
           "id": "gre-laconic",
@@ -38445,6 +38861,22 @@
           "detailed": true
         },
         {
+          "id": "gre-listless",
+          "en": "listless",
+          "zh": "無精打采的",
+          "endef": "無精打采的",
+          "exampleEn": "Cue the 無清單: listless walks on and the gag sticks.",
+          "example": "Cue the 無清單: listless walks on and the gag sticks. （無精打采的）",
+          "exampleUsage": "請「無清單」出場：listless 一上場梗就黏住——無精打采的。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 P4-pending-b02 補錄",
+          "detailed": true,
+          "fromHumorCluster": "p4b02-lazy-01"
+        },
+        {
           "id": "gre-lithe",
           "en": "lithe",
           "zh": "輕盈的｜教學補註：moving and bending with ease",
@@ -38489,6 +38921,38 @@
           "lookalikes": "",
           "sources": "重要詞",
           "detailed": true
+        },
+        {
+          "id": "gre-livid",
+          "en": "livid",
+          "zh": "青紫怒的",
+          "endef": "青紫怒的",
+          "exampleEn": "Cue the 青筋: livid walks on and the gag sticks.",
+          "example": "Cue the 青筋: livid walks on and the gag sticks. （青紫怒的）",
+          "exampleUsage": "請「青筋」出場：livid 一上場梗就黏住——青紫怒的。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 P4-pending-b02 補錄",
+          "detailed": true,
+          "fromHumorCluster": "p4b02-color-01"
+        },
+        {
+          "id": "gre-loaf",
+          "en": "loaf",
+          "zh": "閒混",
+          "endef": "閒混",
+          "exampleEn": "Cue the 麵包躺: loaf walks on and the gag sticks.",
+          "example": "Cue the 麵包躺: loaf walks on and the gag sticks. （閒混）",
+          "exampleUsage": "請「麵包躺」出場：loaf 一上場梗就黏住——閒混。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 P4-pending-b02 補錄",
+          "detailed": true,
+          "fromHumorCluster": "p4b02-lazy-01"
         },
         {
           "id": "gre-loath",
@@ -39025,6 +39489,22 @@
           "detailed": true
         },
         {
+          "id": "gre-lurid",
+          "en": "lurid",
+          "zh": "豔俗駭人的",
+          "endef": "豔俗駭人的",
+          "exampleEn": "Cue the 螢光嚇: lurid walks on and the gag sticks.",
+          "example": "Cue the 螢光嚇: lurid walks on and the gag sticks. （豔俗駭人的）",
+          "exampleUsage": "請「螢光嚇」出場：lurid 一上場梗就黏住——豔俗駭人的。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 P4-pending-b02 補錄",
+          "detailed": true,
+          "fromHumorCluster": "p4b02-color-01"
+        },
+        {
           "id": "gre-lurk",
           "en": "lurk",
           "zh": "v. 潛伏｜教學補註：to lie in wait in a place of concealment especially for an evil purpose",
@@ -39134,7 +39614,7 @@
     {
       "letter": "M",
       "slug": "m",
-      "wordCount": 268,
+      "wordCount": 270,
       "words": [
         {
           "id": "gre-macabre",
@@ -41219,6 +41699,22 @@
           "detailed": true
         },
         {
+          "id": "gre-minify",
+          "en": "minify",
+          "zh": "縮小",
+          "endef": "縮小",
+          "exampleEn": "Cue the 縮小鏡: minify walks on and the gag sticks.",
+          "example": "Cue the 縮小鏡: minify walks on and the gag sticks. （縮小）",
+          "exampleUsage": "請「縮小鏡」出場：minify 一上場梗就黏住——縮小。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 P4-pending-b02 補錄",
+          "detailed": true,
+          "fromHumorCluster": "p4b02-shrink-01"
+        },
+        {
           "id": "gre-ministration",
           "en": "ministration",
           "zh": "救援；服侍",
@@ -42991,6 +43487,22 @@
           "sources": "幽默聯想庫 P3-pending-b02 補錄",
           "detailed": true,
           "fromHumorCluster": "look-historic-01"
+        },
+        {
+          "id": "gre-mushroom",
+          "en": "mushroom",
+          "zh": "迅速發展",
+          "endef": "迅速發展",
+          "exampleEn": "Cue the 傘菌長: mushroom walks on and the gag sticks.",
+          "example": "Cue the 傘菌長: mushroom walks on and the gag sticks. （迅速發展）",
+          "exampleUsage": "請「傘菌長」出場：mushroom 一上場梗就黏住——迅速發展。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 P4-pending-b02 補錄",
+          "detailed": true,
+          "fromHumorCluster": "p4b02-grow-01"
         },
         {
           "id": "gre-mushy",
@@ -46843,7 +47355,7 @@
     {
       "letter": "P",
       "slug": "p",
-      "wordCount": 525,
+      "wordCount": 527,
       "words": [
         {
           "id": "gre-pacific",
@@ -46922,6 +47434,22 @@
           "lookalikes": "",
           "sources": "複習詞、紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-painstaking",
+          "en": "painstaking",
+          "zh": "一絲不苟的",
+          "endef": "一絲不苟的",
+          "exampleEn": "Cue the 放大鏡: painstaking walks on and the gag sticks.",
+          "example": "Cue the 放大鏡: painstaking walks on and the gag sticks. （一絲不苟的）",
+          "exampleUsage": "請「放大鏡」出場：painstaking 一上場梗就黏住——一絲不苟的。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 P4-pending-b02 補錄",
+          "detailed": true,
+          "fromHumorCluster": "p4b02-work-01"
         },
         {
           "id": "gre-painstakingly",
@@ -49503,6 +50031,22 @@
           "lookalikes": "protract 延長拖延 ｜ detract 貶低 ｜ prosecute 控告 ｜ persecute 迫害 煩擾",
           "sources": "複習詞、紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-persevering",
+          "en": "persevering",
+          "zh": "堅持的",
+          "endef": "堅持的",
+          "exampleEn": "Cue the 攀岩繩: persevering walks on and the gag sticks.",
+          "example": "Cue the 攀岩繩: persevering walks on and the gag sticks. （堅持的）",
+          "exampleUsage": "請「攀岩繩」出場：persevering 一上場梗就黏住——堅持的。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 P4-pending-b02 補錄",
+          "detailed": true,
+          "fromHumorCluster": "p4b02-work-01"
         },
         {
           "id": "gre-persiflage",
@@ -60105,7 +60649,7 @@
     {
       "letter": "S",
       "slug": "s",
-      "wordCount": 606,
+      "wordCount": 607,
       "words": [
         {
           "id": "gre-sabotage",
@@ -67260,6 +67804,22 @@
           "detailed": true
         },
         {
+          "id": "gre-studious",
+          "en": "studious",
+          "zh": "好學的",
+          "endef": "好學的",
+          "exampleEn": "Cue the 書架: studious walks on and the gag sticks.",
+          "example": "Cue the 書架: studious walks on and the gag sticks. （好學的）",
+          "exampleUsage": "請「書架」出場：studious 一上場梗就黏住——好學的。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 P4-pending-b02 補錄",
+          "detailed": true,
+          "fromHumorCluster": "p4b02-work-01"
+        },
+        {
           "id": "gre-stuffy",
           "en": "stuffy",
           "zh": "悶熱的｜教學補註：lacking fresh air",
@@ -69324,7 +69884,7 @@
     {
       "letter": "T",
       "slug": "t",
-      "wordCount": 217,
+      "wordCount": 219,
       "words": [
         {
           "id": "gre-table",
@@ -69641,6 +70201,22 @@
           "sources": "幽默聯想庫 P4-pending-b01 補錄",
           "detailed": true,
           "fromHumorCluster": "p4-anger-01"
+        },
+        {
+          "id": "gre-taper",
+          "en": "taper",
+          "zh": "逐漸變細",
+          "endef": "逐漸變細",
+          "exampleEn": "Cue the 錐形: taper walks on and the gag sticks.",
+          "example": "Cue the 錐形: taper walks on and the gag sticks. （逐漸變細）",
+          "exampleUsage": "請「錐形」出場：taper 一上場梗就黏住——逐漸變細。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 P4-pending-b02 補錄",
+          "detailed": true,
+          "fromHumorCluster": "p4b02-shrink-01"
         },
         {
           "id": "gre-tardy",
@@ -70887,6 +71463,22 @@
           "lookalikes": "",
           "sources": "複習詞、紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-tireless",
+          "en": "tireless",
+          "zh": "不倦的",
+          "endef": "不倦的",
+          "exampleEn": "Cue the 電池滿: tireless walks on and the gag sticks.",
+          "example": "Cue the 電池滿: tireless walks on and the gag sticks. （不倦的）",
+          "exampleUsage": "請「電池滿」出場：tireless 一上場梗就黏住——不倦的。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 P4-pending-b02 補錄",
+          "detailed": true,
+          "fromHumorCluster": "p4b02-work-01"
         },
         {
           "id": "gre-title",
@@ -72630,7 +73222,7 @@
     {
       "letter": "U",
       "slug": "u",
-      "wordCount": 120,
+      "wordCount": 121,
       "words": [
         {
           "id": "gre-ubiquitous",
@@ -74017,6 +74609,22 @@
           "lookalikes": "",
           "sources": "救命800、紅寶書",
           "detailed": true
+        },
+        {
+          "id": "gre-untiring",
+          "en": "untiring",
+          "zh": "不疲倦的",
+          "endef": "不疲倦的",
+          "exampleEn": "Cue the 馬達: untiring walks on and the gag sticks.",
+          "example": "Cue the 馬達: untiring walks on and the gag sticks. （不疲倦的）",
+          "exampleUsage": "請「馬達」出場：untiring 一上場梗就黏住——不疲倦的。",
+          "synonyms": "",
+          "antonyms": "",
+          "derivatives": "",
+          "lookalikes": "",
+          "sources": "幽默聯想庫 P4-pending-b02 補錄",
+          "detailed": true,
+          "fromHumorCluster": "p4b02-work-01"
         },
         {
           "id": "gre-untold",
@@ -77947,9 +78555,9 @@
     }
   ],
   "humorSync": {
-    "stage": "P4-pending-b01",
-    "syncedAt": "2026-10-19T06:37:39.246Z",
-    "addedFromHumor": 36,
-    "deferred": 61
+    "stage": "P4-pending-b02",
+    "syncedAt": "2026-10-19T06:51:18.915Z",
+    "addedFromHumor": 38,
+    "deferred": 32
   }
 }

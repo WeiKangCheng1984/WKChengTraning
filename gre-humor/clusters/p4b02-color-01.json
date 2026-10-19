@@ -1,0 +1,180 @@
+{
+  "id": "p4b02-color-01",
+  "type": "semantic",
+  "elementLemma": "color-orphan",
+  "titleZh": "色彩 orphan｜調色稽核室",
+  "titleEn": "Color Orphan Studio",
+  "hook": "orphan 色彩團稽核：lurid／pallid／sallow／florid——稽核員說「臉色也是考點」。",
+  "script": "lurid 豔俗刺眼。pallid／sallow 蒼白病黃。florid 紅潤華麗。wan 蒼白。livid 青紫／怒。口令：調色盤寫「語氣顏色」，別只形容牆壁。",
+  "members": [
+    {
+      "headword": "lurid",
+      "inVocab": true,
+      "senseAnchor": "豔俗駭人的",
+      "roleInScript": "螢光嚇",
+      "humorDevice": "contrast",
+      "zhGloss": "豔俗駭人的",
+      "speakLineEn": "Cue the 螢光嚇: lurid walks on and the gag sticks.",
+      "speakLineZh": "請「螢光嚇」出場：lurid 一上場梗就黏住——豔俗駭人的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b02"
+    },
+    {
+      "headword": "florid",
+      "inVocab": true,
+      "senseAnchor": "elaborately or excessively ornamented; inclined to a healthy reddish color often associated with outdoor life",
+      "roleInScript": "紅潤筆",
+      "humorDevice": "contrast",
+      "zhGloss": "紅潤華麗的",
+      "speakLineEn": "Cue the 紅潤筆: florid walks on and the gag sticks.",
+      "speakLineZh": "請「紅潤筆」出場：florid 一上場梗就黏住——紅潤華麗的。",
+      "related": {
+        "synonyms": "aureate, flamboyant, rubicund, ruddy, sanguine",
+        "antonyms": "plain, austere"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "wan",
+      "inVocab": true,
+      "senseAnchor": "a computer network that spans a wider area than does a local area network; become pale and sickly",
+      "roleInScript": "乏力白",
+      "humorDevice": "contrast",
+      "zhGloss": "蒼白的",
+      "speakLineEn": "Cue the 乏力白: wan walks on and the gag sticks.",
+      "speakLineZh": "請「乏力白」出場：wan 一上場梗就黏住——蒼白的。",
+      "related": {
+        "synonyms": "pale, pallid, sick",
+        "antonyms": "keep down, well"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "livid",
+      "inVocab": true,
+      "senseAnchor": "青紫怒的",
+      "roleInScript": "青筋",
+      "humorDevice": "contrast",
+      "zhGloss": "青紫怒的",
+      "speakLineEn": "Cue the 青筋: livid walks on and the gag sticks.",
+      "speakLineZh": "請「青筋」出場：livid 一上場梗就黏住——青紫怒的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b02"
+    },
+    {
+      "headword": "ruddy",
+      "inVocab": true,
+      "senseAnchor": "inclined to a healthy reddish color often associated with outdoor life; of a color at the end of the color spectrum (next to orange); resembling the color of blood or cherries or tomatoes or rubies",
+      "roleInScript": "蘋果臉",
+      "humorDevice": "contrast",
+      "zhGloss": "紅潤的",
+      "speakLineEn": "Cue the 蘋果臉: ruddy walks on and the gag sticks.",
+      "speakLineZh": "請「蘋果臉」出場：ruddy 一上場梗就黏住——紅潤的。",
+      "related": {
+        "synonyms": "rubicund, florid, sanguine, red, reddish, blood-red",
+        "antonyms": "plain, austere, gain"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "ashen",
+      "inVocab": true,
+      "senseAnchor": "灰白的",
+      "roleInScript": "灰燼臉",
+      "humorDevice": "contrast",
+      "zhGloss": "灰白的",
+      "speakLineEn": "Cue the 灰燼臉: ashen walks on and the gag sticks.",
+      "speakLineZh": "請「灰燼臉」出場：ashen 一上場梗就黏住——灰白的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b02"
+    },
+    {
+      "headword": "drab",
+      "inVocab": true,
+      "senseAnchor": "a dull greyish to yellowish or light olive brown; lacking in liveliness or charm or surprise",
+      "roleInScript": "灰布",
+      "humorDevice": "contrast",
+      "zhGloss": "單調的",
+      "speakLineEn": "Cue the 灰布: drab walks on and the gag sticks.",
+      "speakLineZh": "請「灰布」出場：drab 一上場梗就黏住——單調的。",
+      "related": {
+        "synonyms": "dreary, sober, somber, sombre, olive-drab, blue",
+        "antonyms": "intoxicated, playful"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "palette",
+      "inVocab": false,
+      "senseAnchor": "調色盤",
+      "roleInScript": "調色盤",
+      "humorDevice": "story",
+      "zhGloss": "調色盤",
+      "speakLineEn": "Cue the 調色盤: palette walks on and the gag sticks.",
+      "speakLineZh": "請「調色盤」出場：palette 一上場梗就黏住——調色盤。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "audit",
+      "inVocab": false,
+      "senseAnchor": "稽核",
+      "roleInScript": "稽核",
+      "humorDevice": "story",
+      "zhGloss": "稽核",
+      "speakLineEn": "Cue the 稽核: audit walks on and the gag sticks.",
+      "speakLineZh": "請「稽核」出場：audit 一上場梗就黏住——稽核。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "swatch",
+      "inVocab": false,
+      "senseAnchor": "色卡",
+      "roleInScript": "色卡",
+      "humorDevice": "story",
+      "zhGloss": "色卡",
+      "speakLineEn": "Cue the 色卡: swatch walks on and the gag sticks.",
+      "speakLineZh": "請「色卡」出場：swatch 一上場梗就黏住——色卡。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "色：lurid/pallid/sallow/florid",
+    "lurid＝刺眼駭人"
+  ],
+  "pitfalls": [
+    "florid 可指文體華麗"
+  ],
+  "lessonRefs": [
+    "lesson-p4b02-color-01"
+  ],
+  "status": "reviewed",
+  "priority": "C",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P4-batch02"
+  }
+}

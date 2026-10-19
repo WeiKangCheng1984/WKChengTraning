@@ -1,0 +1,96 @@
+{
+  "id": "lesson-p4b02-look-affect-01",
+  "slug": "p4b02-look-affect-01",
+  "season": 3,
+  "seasonTitleZh": "語氣對打",
+  "seasonTitleEn": "Tone Duels",
+  "type": "duel",
+  "minutes": "12-15",
+  "clusterId": "p4b02-look-affect-01",
+  "titleZh": "affect／effect／infect｜影響診所",
+  "titleEn": "Affect Clinic",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "affect 影響／假裝，effect 結果／使發生，infect 感染——診所三個按鈕，按錯會變成「我被結果傳染了情緒」。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "affect＝影響或假裝。effect＝結果或促成。infect＝感染。affection 情感。effective 有效。口令：情緒寫 affect，結果寫 effect，病毒寫 infect。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "affect＝影響／裝；effect＝結果；infect＝感染",
+        "名動詞性先分"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "To influence feelings:",
+      "promptZh": "影響情緒：",
+      "choices": [
+        "affect",
+        "effect",
+        "repository",
+        "neon"
+      ],
+      "answer": "affect"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "A result / to bring about:",
+      "promptZh": "結果／促成：",
+      "choices": [
+        "effect",
+        "infect",
+        "forecast",
+        "sole"
+      ],
+      "answer": "effect"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Transmit disease:",
+      "promptZh": "感染：",
+      "choices": [
+        "infect",
+        "affection",
+        "omnibus",
+        "scanty"
+      ],
+      "answer": "infect"
+    }
+  ],
+  "pitfalls": [
+    "三詞場景不同：情緒／結果／病毒"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P4-batch02"
+  }
+}

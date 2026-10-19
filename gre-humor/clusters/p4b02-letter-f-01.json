@@ -1,0 +1,237 @@
+{
+  "id": "p4b02-letter-f-01",
+  "type": "root",
+  "elementLemma": "orphan-f",
+  "titleZh": "orphan F｜F道具箱",
+  "titleEn": "Orphan F",
+  "hook": "差集 F 專場開在F道具箱——名牌用中文，防止走失。",
+  "script": "fabric/facetious/factiousness/faint 先登台，其餘 orphan 接龍。清倉晚會續攤：同字母檢票，義核才是身份證。",
+  "members": [
+    {
+      "headword": "fabric",
+      "inVocab": true,
+      "senseAnchor": "artifact made by weaving or felting or knitting or crocheting natural or synthetic fibers; the underlying structure",
+      "roleInScript": "F席-組織",
+      "humorDevice": "morphology",
+      "zhGloss": "組織",
+      "speakLineEn": "Cue the F席-組織: fabric walks on and the gag sticks.",
+      "speakLineZh": "請「F席-組織」出場：fabric 一上場梗就黏住——組織。",
+      "related": {
+        "synonyms": "cloth, material, textile, framework",
+        "antonyms": "immaterial, incorporeal, insubstantial"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "facetious",
+      "inVocab": true,
+      "senseAnchor": "cleverly amusing in tone",
+      "roleInScript": "F席-膚淺的",
+      "humorDevice": "morphology",
+      "zhGloss": "膚淺的",
+      "speakLineEn": "Cue the F席-膚淺的: facetious walks on and the gag sticks.",
+      "speakLineZh": "請「F席-膚淺的」出場：facetious 一上場梗就黏住——膚淺的。",
+      "related": {
+        "synonyms": "bantering, tongue-in-cheek",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "factiousness",
+      "inVocab": true,
+      "senseAnchor": "a GRE-level vocabulary item meaning closely related to its core sense in academic English",
+      "roleInScript": "F席-派系的；",
+      "humorDevice": "morphology",
+      "zhGloss": "派系的；黨派的",
+      "speakLineEn": "Cue the F席-派系的；: factiousness walks on and the gag sticks.",
+      "speakLineZh": "請「F席-派系的；」出場：factiousness 一上場梗就黏住——派系的；黨派的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "faint",
+      "inVocab": true,
+      "senseAnchor": "a spontaneous loss of consciousness caused by insufficient blood to the brain; pass out from weakness, physical or emotional distress due to a loss of blood supply to the brain",
+      "roleInScript": "F席-昏迷",
+      "humorDevice": "morphology",
+      "zhGloss": "昏迷",
+      "speakLineEn": "Cue the F席-昏迷: faint walks on and the gag sticks.",
+      "speakLineZh": "請「F席-昏迷」出場：faint 一上場梗就黏住——昏迷。",
+      "related": {
+        "synonyms": "swoon, syncope, deliquium, conk, weak, dim",
+        "antonyms": "be born, strong, focus, undimmed"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "fallibility",
+      "inVocab": true,
+      "senseAnchor": "the likelihood of making errors",
+      "roleInScript": "F席-不可靠性",
+      "humorDevice": "morphology",
+      "zhGloss": "不可靠性；出錯性",
+      "speakLineEn": "Cue the F席-不可靠性: fallibility walks on and the gag sticks.",
+      "speakLineZh": "請「F席-不可靠性」出場：fallibility 一上場梗就黏住——不可靠性；出錯性。",
+      "related": {
+        "synonyms": "",
+        "antonyms": "infallibility"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "fallow",
+      "inVocab": true,
+      "senseAnchor": "not being in a state of use, activity, or employment",
+      "roleInScript": "F席-adj.",
+      "humorDevice": "morphology",
+      "zhGloss": "adj. 閒置的",
+      "speakLineEn": "Cue the F席-adj.: fallow walks on and the gag sticks.",
+      "speakLineZh": "請「F席-adj.」出場：fallow 一上場梗就黏住——adj. 閒置的。",
+      "related": {
+        "synonyms": "dormant, vacant, idle",
+        "antonyms": "active, awakened, busy, run, work"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "faminie",
+      "inVocab": true,
+      "senseAnchor": "a GRE-level vocabulary item meaning closely related to its core sense in academic English",
+      "roleInScript": "F席-女性的",
+      "humorDevice": "morphology",
+      "zhGloss": "女性的",
+      "speakLineEn": "Cue the F席-女性的: faminie walks on and the gag sticks.",
+      "speakLineZh": "請「F席-女性的」出場：faminie 一上場梗就黏住——女性的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "famish",
+      "inVocab": true,
+      "senseAnchor": "be hungry; go without food; deprive of food",
+      "roleInScript": "F席-捱餓",
+      "humorDevice": "morphology",
+      "zhGloss": "捱餓",
+      "speakLineEn": "Cue the F席-捱餓: famish walks on and the gag sticks.",
+      "speakLineZh": "請「F席-捱餓」出場：famish 一上場梗就黏住——捱餓。",
+      "related": {
+        "synonyms": "starve, hunger",
+        "antonyms": "be full, feed"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "fastidious",
+      "inVocab": true,
+      "senseAnchor": "possessing or displaying careful, meticulous attention to detail",
+      "roleInScript": "F席-adj.",
+      "humorDevice": "morphology",
+      "zhGloss": "adj. 挑剔的，極仔細的",
+      "speakLineEn": "Cue the F席-adj.: fastidious walks on and the gag sticks.",
+      "speakLineZh": "請「F席-adj.」出場：fastidious 一上場梗就黏住——adj. 挑剔的，極仔細的。",
+      "related": {
+        "synonyms": "demanding, exacting",
+        "antonyms": "careless, sloppy, unfastidious, obviate, undemanding"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "fathom",
+      "inVocab": true,
+      "senseAnchor": "a linear unit of measurement (equal to 6 feet) for water depth; (mining) a unit of volume (equal to 6 cubic feet) used in measuring bodies of ore",
+      "roleInScript": "F席-理解",
+      "humorDevice": "morphology",
+      "zhGloss": "理解",
+      "speakLineEn": "Cue the F席-理解: fathom walks on and the gag sticks.",
+      "speakLineZh": "請「F席-理解」出場：fathom 一上場梗就黏住——理解。",
+      "related": {
+        "synonyms": "fthm, penetrate, bottom, sound",
+        "antonyms": "side, top, devoice, silence, unsound"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "fatidic",
+      "inVocab": true,
+      "senseAnchor": "a GRE-level vocabulary item meaning closely related to its core sense in academic English",
+      "roleInScript": "F席-預言的",
+      "humorDevice": "morphology",
+      "zhGloss": "預言的",
+      "speakLineEn": "Cue the F席-預言的: fatidic walks on and the gag sticks.",
+      "speakLineZh": "請「F席-預言的」出場：fatidic 一上場梗就黏住——預言的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "fatigue",
+      "inVocab": true,
+      "senseAnchor": "a feeling of being extremely tired",
+      "roleInScript": "F席-n. 疲",
+      "humorDevice": "morphology",
+      "zhGloss": "n. 疲憊",
+      "speakLineEn": "Cue the F席-n. 疲: fatigue walks on and the gag sticks.",
+      "speakLineZh": "請「F席-n. 疲」出場：fatigue 一上場梗就黏住——n. 疲憊。",
+      "related": {
+        "synonyms": "exhaustion, weariness",
+        "antonyms": "refresh"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "fatuity",
+      "inVocab": true,
+      "senseAnchor": "a ludicrous folly",
+      "roleInScript": "F席-昏庸",
+      "humorDevice": "morphology",
+      "zhGloss": "昏庸",
+      "speakLineEn": "Cue the F席-昏庸: fatuity walks on and the gag sticks.",
+      "speakLineZh": "請「F席-昏庸」出場：fatuity 一上場梗就黏住——昏庸。",
+      "related": {
+        "synonyms": "absurdity, fatuousness, silliness",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "fealty",
+      "inVocab": true,
+      "senseAnchor": "loyalty",
+      "roleInScript": "F席-n. 忠",
+      "humorDevice": "morphology",
+      "zhGloss": "n. 忠誠",
+      "speakLineEn": "Cue the F席-n. 忠: fealty walks on and the gag sticks.",
+      "speakLineZh": "請「F席-n. 忠」出場：fealty 一上場梗就黏住——n. 忠誠。",
+      "related": {
+        "synonyms": "adhesion, allegiance, fidelity",
+        "antonyms": "infidelity, unfaithfulness"
+      },
+      "vocabStatus": "in-vocab"
+    }
+  ],
+  "reviewHooks": [
+    "f:fabric/facetious/factiousness/faint",
+    "P4-batch02 差集"
+  ],
+  "pitfalls": [
+    "勿因同字母硬串錯誤字根"
+  ],
+  "lessonRefs": [
+    "lesson-p4b02-letter-f-01"
+  ],
+  "status": "reviewed",
+  "priority": "C",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P4-batch02"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "lesson-p4b02-lie-01",
+  "slug": "p4b02-lie-01",
+  "season": 3,
+  "seasonTitleZh": "語氣對打",
+  "seasonTitleEn": "Tone Duels",
+  "type": "duel",
+  "minutes": "12-15",
+  "clusterId": "p4b02-lie-01",
+  "titleZh": "謊言 orphan｜測謊休息室",
+  "titleEn": "Lie Orphan Lounge",
+  "flow": [
+    {
+      "step": 1,
+      "name": "鉤子",
+      "minutes": 0.5,
+      "content": "orphan 謊言團排測謊：fabricate／prevaricate／equivocate／dissemble——休息室標語「請先喝水再說」。"
+    },
+    {
+      "step": 2,
+      "name": "串記劇本",
+      "minutes": 2,
+      "content": "fabricate 捏造。prevaricate／equivocate 含糊回避。dissemble 掩飾。mendacious 說謊的。canard 謠傳。口令：測謊儀寫「直說」，含糊寫「別繞」。"
+    },
+    {
+      "step": 3,
+      "name": "詞卡 round",
+      "minutes": 7,
+      "content": "義錨 → 角色 → 跟讀英／中"
+    },
+    {
+      "step": 4,
+      "name": "快測",
+      "minutes": 2,
+      "content": "quiz ×3"
+    },
+    {
+      "step": 5,
+      "name": "口令帶走",
+      "minutes": 0.5,
+      "content": [
+        "謊：fabricate/prevaricate/equivocate/dissemble",
+        "canard＝謠言"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "sense",
+      "promptEn": "Speak evasively:",
+      "promptZh": "含糊其詞：",
+      "choices": [
+        "prevaricate",
+        "laud",
+        "repository",
+        "neon"
+      ],
+      "answer": "prevaricate"
+    },
+    {
+      "id": "q2",
+      "type": "sense",
+      "promptEn": "A false rumor:",
+      "promptZh": "謠言：",
+      "choices": [
+        "canard",
+        "trophy",
+        "forecast",
+        "sole"
+      ],
+      "answer": "canard"
+    },
+    {
+      "id": "q3",
+      "type": "sense",
+      "promptEn": "Invent falsely:",
+      "promptZh": "捏造：",
+      "choices": [
+        "fabricate",
+        "acclaim",
+        "omnibus",
+        "scanty"
+      ],
+      "answer": "fabricate"
+    }
+  ],
+  "pitfalls": [
+    "equivocate≠equivalent"
+  ],
+  "status": "reviewed",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P4-batch02"
+  }
+}

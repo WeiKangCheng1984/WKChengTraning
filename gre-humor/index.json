@@ -1,7 +1,7 @@
 {
-  "version": "v0.9-p4-batch01",
-  "status": "p4-batch01",
-  "uniqueWords": 3819,
+  "version": "v0.9-p4-batch02",
+  "status": "p4-batch02",
+  "uniqueWords": 4025,
   "clusters": [
     {
       "id": "look-a-01",
@@ -394,6 +394,125 @@
       "titleZh": "天氣 orphan｜氣象道具棚",
       "status": "reviewed",
       "memberCount": 14
+    },
+    {
+      "id": "p4b02-color-01",
+      "type": "semantic",
+      "titleZh": "色彩 orphan｜調色稽核室",
+      "status": "reviewed",
+      "memberCount": 10
+    },
+    {
+      "id": "p4b02-food-01",
+      "type": "semantic",
+      "titleZh": "飲食 orphan｜考場補給站",
+      "status": "reviewed",
+      "memberCount": 9
+    },
+    {
+      "id": "p4b02-grow-01",
+      "type": "semantic",
+      "titleZh": "增長 orphan｜溫室計數器",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
+      "id": "p4b02-lazy-01",
+      "type": "semantic",
+      "titleZh": "怠惰 orphan｜沙發停機坪",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
+      "id": "p4b02-letter-f-01",
+      "type": "root",
+      "titleZh": "orphan F｜F道具箱",
+      "status": "reviewed",
+      "memberCount": 14
+    },
+    {
+      "id": "p4b02-letter-g-01",
+      "type": "root",
+      "titleZh": "orphan G｜G滑梯口",
+      "status": "reviewed",
+      "memberCount": 14
+    },
+    {
+      "id": "p4b02-letter-h-01",
+      "type": "root",
+      "titleZh": "orphan H｜H候車亭",
+      "status": "reviewed",
+      "memberCount": 14
+    },
+    {
+      "id": "p4b02-letter-i-01",
+      "type": "root",
+      "titleZh": "orphan I｜I資訊台",
+      "status": "reviewed",
+      "memberCount": 14
+    },
+    {
+      "id": "p4b02-letter-l-01",
+      "type": "root",
+      "titleZh": "orphan L｜L轉盤",
+      "status": "reviewed",
+      "memberCount": 14
+    },
+    {
+      "id": "p4b02-letter-n-01",
+      "type": "root",
+      "titleZh": "orphan N｜N號碼機",
+      "status": "reviewed",
+      "memberCount": 14
+    },
+    {
+      "id": "p4b02-letter-r-01",
+      "type": "root",
+      "titleZh": "orphan R｜R紅毯後門",
+      "status": "reviewed",
+      "memberCount": 14
+    },
+    {
+      "id": "p4b02-letter-t-01",
+      "type": "root",
+      "titleZh": "orphan T｜T月台",
+      "status": "reviewed",
+      "memberCount": 14
+    },
+    {
+      "id": "p4b02-lie-01",
+      "type": "semantic",
+      "titleZh": "謊言 orphan｜測謊休息室",
+      "status": "reviewed",
+      "memberCount": 9
+    },
+    {
+      "id": "p4b02-look-affect-01",
+      "type": "lookalike",
+      "titleZh": "affect／effect／infect｜影響診所",
+      "status": "reviewed",
+      "memberCount": 9
+    },
+    {
+      "id": "p4b02-look-council-01",
+      "type": "lookalike",
+      "titleZh": "council／counsel／consul｜顧問會議室",
+      "status": "reviewed",
+      "memberCount": 10
+    },
+    {
+      "id": "p4b02-shrink-01",
+      "type": "semantic",
+      "titleZh": "縮減 orphan｜壓縮行李間",
+      "status": "reviewed",
+      "memberCount": 13
+    },
+    {
+      "id": "p4b02-work-01",
+      "type": "semantic",
+      "titleZh": "勤奮 orphan｜加班打卡機",
+      "status": "reviewed",
+      "memberCount": 12
     },
     {
       "id": "prefix-ab-01",
@@ -2517,6 +2636,94 @@
       "type": "family",
       "status": "reviewed",
       "memberCount": 16
+    },
+    {
+      "id": "lesson-p4b02-letter-f-01",
+      "slug": "p4b02-letter-f-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "orphan F｜F道具箱",
+      "clusterId": "p4b02-letter-f-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 14
+    },
+    {
+      "id": "lesson-p4b02-letter-g-01",
+      "slug": "p4b02-letter-g-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "orphan G｜G滑梯口",
+      "clusterId": "p4b02-letter-g-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 14
+    },
+    {
+      "id": "lesson-p4b02-letter-h-01",
+      "slug": "p4b02-letter-h-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "orphan H｜H候車亭",
+      "clusterId": "p4b02-letter-h-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 14
+    },
+    {
+      "id": "lesson-p4b02-letter-i-01",
+      "slug": "p4b02-letter-i-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "orphan I｜I資訊台",
+      "clusterId": "p4b02-letter-i-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 14
+    },
+    {
+      "id": "lesson-p4b02-letter-l-01",
+      "slug": "p4b02-letter-l-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "orphan L｜L轉盤",
+      "clusterId": "p4b02-letter-l-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 14
+    },
+    {
+      "id": "lesson-p4b02-letter-n-01",
+      "slug": "p4b02-letter-n-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "orphan N｜N號碼機",
+      "clusterId": "p4b02-letter-n-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 14
+    },
+    {
+      "id": "lesson-p4b02-letter-r-01",
+      "slug": "p4b02-letter-r-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "orphan R｜R紅毯後門",
+      "clusterId": "p4b02-letter-r-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 14
+    },
+    {
+      "id": "lesson-p4b02-letter-t-01",
+      "slug": "p4b02-letter-t-01",
+      "season": 2,
+      "seasonTitleZh": "字根劇場",
+      "titleZh": "orphan T｜T月台",
+      "clusterId": "p4b02-letter-t-01",
+      "type": "family",
+      "status": "reviewed",
+      "memberCount": 14
     },
     {
       "id": "lesson-root-cap-01",
@@ -4651,6 +4858,105 @@
       "type": "duel",
       "status": "reviewed",
       "memberCount": 14
+    },
+    {
+      "id": "lesson-p4b02-color-01",
+      "slug": "p4b02-color-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "色彩 orphan｜調色稽核室",
+      "clusterId": "p4b02-color-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 10
+    },
+    {
+      "id": "lesson-p4b02-food-01",
+      "slug": "p4b02-food-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "飲食 orphan｜考場補給站",
+      "clusterId": "p4b02-food-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 9
+    },
+    {
+      "id": "lesson-p4b02-grow-01",
+      "slug": "p4b02-grow-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "增長 orphan｜溫室計數器",
+      "clusterId": "p4b02-grow-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
+      "id": "lesson-p4b02-lazy-01",
+      "slug": "p4b02-lazy-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "怠惰 orphan｜沙發停機坪",
+      "clusterId": "p4b02-lazy-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 11
+    },
+    {
+      "id": "lesson-p4b02-lie-01",
+      "slug": "p4b02-lie-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "謊言 orphan｜測謊休息室",
+      "clusterId": "p4b02-lie-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 9
+    },
+    {
+      "id": "lesson-p4b02-look-affect-01",
+      "slug": "p4b02-look-affect-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "affect／effect／infect｜影響診所",
+      "clusterId": "p4b02-look-affect-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 9
+    },
+    {
+      "id": "lesson-p4b02-look-council-01",
+      "slug": "p4b02-look-council-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "council／counsel／consul｜顧問會議室",
+      "clusterId": "p4b02-look-council-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 10
+    },
+    {
+      "id": "lesson-p4b02-shrink-01",
+      "slug": "p4b02-shrink-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "縮減 orphan｜壓縮行李間",
+      "clusterId": "p4b02-shrink-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 13
+    },
+    {
+      "id": "lesson-p4b02-work-01",
+      "slug": "p4b02-work-01",
+      "season": 3,
+      "seasonTitleZh": "語氣對打",
+      "titleZh": "勤奮 orphan｜加班打卡機",
+      "clusterId": "p4b02-work-01",
+      "type": "duel",
+      "status": "reviewed",
+      "memberCount": 12
     },
     {
       "id": "lesson-sem-allure-repel-01",

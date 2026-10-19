@@ -1,0 +1,165 @@
+{
+  "id": "p4b02-look-affect-01",
+  "type": "lookalike",
+  "elementLemma": "affect-effect-infect",
+  "titleZh": "affect／effect／infect｜影響診所",
+  "titleEn": "Affect Clinic",
+  "hook": "affect 影響／假裝，effect 結果／使發生，infect 感染——診所三個按鈕，按錯會變成「我被結果傳染了情緒」。",
+  "script": "affect＝影響或假裝。effect＝結果或促成。infect＝感染。affection 情感。effective 有效。口令：情緒寫 affect，結果寫 effect，病毒寫 infect。",
+  "members": [
+    {
+      "headword": "infect",
+      "inVocab": true,
+      "senseAnchor": "感染",
+      "roleInScript": "病毒鈕",
+      "humorDevice": "lookalike",
+      "zhGloss": "感染",
+      "speakLineEn": "Cue the 病毒鈕: infect walks on and the gag sticks.",
+      "speakLineZh": "請「病毒鈕」出場：infect 一上場梗就黏住——感染。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b02"
+    },
+    {
+      "headword": "affection",
+      "inVocab": true,
+      "senseAnchor": "情感",
+      "roleInScript": "情感貼",
+      "humorDevice": "lookalike",
+      "zhGloss": "情感",
+      "speakLineEn": "Cue the 情感貼: affection walks on and the gag sticks.",
+      "speakLineZh": "請「情感貼」出場：affection 一上場梗就黏住——情感。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b02"
+    },
+    {
+      "headword": "effective",
+      "inVocab": true,
+      "senseAnchor": "有效的",
+      "roleInScript": "有效章",
+      "humorDevice": "lookalike",
+      "zhGloss": "有效的",
+      "speakLineEn": "Cue the 有效章: effective walks on and the gag sticks.",
+      "speakLineZh": "請「有效章」出場：effective 一上場梗就黏住——有效的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b02"
+    },
+    {
+      "headword": "infectious",
+      "inVocab": true,
+      "senseAnchor": "傳染的",
+      "roleInScript": "傳染標",
+      "humorDevice": "lookalike",
+      "zhGloss": "傳染的",
+      "speakLineEn": "Cue the 傳染標: infectious walks on and the gag sticks.",
+      "speakLineZh": "請「傳染標」出場：infectious 一上場梗就黏住——傳染的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b02"
+    },
+    {
+      "headword": "disaffect",
+      "inVocab": true,
+      "senseAnchor": "arouse hostility or indifference in where there had formerly been love, affection, or friendliness",
+      "roleInScript": "疏離",
+      "humorDevice": "lookalike",
+      "zhGloss": "使疏離",
+      "speakLineEn": "Cue the 疏離: disaffect walks on and the gag sticks.",
+      "speakLineZh": "請「疏離」出場：disaffect 一上場梗就黏住——使疏離。",
+      "related": {
+        "synonyms": "estrange, alienate, alien",
+        "antonyms": "acquaintance, citizen"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "effectuate",
+      "inVocab": true,
+      "senseAnchor": "使實現",
+      "roleInScript": "落地",
+      "humorDevice": "lookalike",
+      "zhGloss": "使實現",
+      "speakLineEn": "Cue the 落地: effectuate walks on and the gag sticks.",
+      "speakLineZh": "請「落地」出場：effectuate 一上場梗就黏住——使實現。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b02"
+    },
+    {
+      "headword": "virus",
+      "inVocab": false,
+      "senseAnchor": "病毒",
+      "roleInScript": "病毒",
+      "humorDevice": "story",
+      "zhGloss": "病毒",
+      "speakLineEn": "Cue the 病毒: virus walks on and the gag sticks.",
+      "speakLineZh": "請「病毒」出場：virus 一上場梗就黏住——病毒。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "mood",
+      "inVocab": false,
+      "senseAnchor": "情緒",
+      "roleInScript": "情緒",
+      "humorDevice": "story",
+      "zhGloss": "情緒",
+      "speakLineEn": "Cue the 情緒: mood walks on and the gag sticks.",
+      "speakLineZh": "請「情緒」出場：mood 一上場梗就黏住——情緒。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "sanitizer",
+      "inVocab": false,
+      "senseAnchor": "消毒液",
+      "roleInScript": "消毒液",
+      "humorDevice": "story",
+      "zhGloss": "消毒液",
+      "speakLineEn": "Cue the 消毒液: sanitizer walks on and the gag sticks.",
+      "speakLineZh": "請「消毒液」出場：sanitizer 一上場梗就黏住——消毒液。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "affect＝影響／裝；effect＝結果；infect＝感染",
+    "名動詞性先分"
+  ],
+  "pitfalls": [
+    "三詞場景不同：情緒／結果／病毒"
+  ],
+  "lessonRefs": [
+    "lesson-p4b02-look-affect-01"
+  ],
+  "status": "reviewed",
+  "priority": "A",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P4-batch02"
+  }
+}

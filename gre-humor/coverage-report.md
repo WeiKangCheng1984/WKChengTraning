@@ -1,19 +1,19 @@
 # GRE Humor 覆蓋率報告
 
-> 產生時間：2026-10-19T06:37:39.530Z
+> 產生時間：2026-10-19T06:51:19.188Z
 
 ## 總覽
 
 | 指標 | 數值 |
 |------|------|
-| 詞庫 headword | 5100 |
-| 幽默庫獨特詞 | 3819 |
-| 已在詞庫內的覆蓋 | 2544 |
-| 幽默庫有、詞庫無（pending-add） | 1275 |
-| 家族數 | 304 |
+| 詞庫 headword | 5138 |
+| 幽默庫獨特詞 | 4025 |
+| 已在詞庫內的覆蓋 | 2718 |
+| 幽默庫有、詞庫無（pending-add） | 1307 |
+| 家族數 | 321 |
 | 核心元素 | 331（A=87） |
-| 覆蓋率（對詞庫） | 49.88% |
-| 距離 4,000 獨特詞 | 181 |
+| 覆蓋率（對詞庫） | 52.90% |
+| 距離 4,000 獨特詞 | 0 |
 
 ## 各家族
 
@@ -75,6 +75,23 @@
 | p4-time-01 | reviewed | 12 | 8 | 4 |
 | p4-war-01 | reviewed | 12 | 11 | 1 |
 | p4-weather-01 | reviewed | 14 | 10 | 4 |
+| p4b02-color-01 | reviewed | 10 | 7 | 3 |
+| p4b02-food-01 | reviewed | 9 | 4 | 5 |
+| p4b02-grow-01 | reviewed | 11 | 7 | 4 |
+| p4b02-lazy-01 | reviewed | 11 | 8 | 3 |
+| p4b02-letter-f-01 | reviewed | 14 | 14 | 0 |
+| p4b02-letter-g-01 | reviewed | 14 | 14 | 0 |
+| p4b02-letter-h-01 | reviewed | 14 | 14 | 0 |
+| p4b02-letter-i-01 | reviewed | 14 | 14 | 0 |
+| p4b02-letter-l-01 | reviewed | 14 | 14 | 0 |
+| p4b02-letter-n-01 | reviewed | 14 | 14 | 0 |
+| p4b02-letter-r-01 | reviewed | 14 | 14 | 0 |
+| p4b02-letter-t-01 | reviewed | 14 | 14 | 0 |
+| p4b02-lie-01 | reviewed | 9 | 6 | 3 |
+| p4b02-look-affect-01 | reviewed | 9 | 6 | 3 |
+| p4b02-look-council-01 | reviewed | 10 | 6 | 4 |
+| p4b02-shrink-01 | reviewed | 13 | 9 | 4 |
+| p4b02-work-01 | reviewed | 12 | 9 | 3 |
 | prefix-ab-01 | reviewed | 12 | 7 | 5 |
 | prefix-ambi-01 | reviewed | 12 | 5 | 7 |
 | prefix-ante-01 | reviewed | 11 | 7 | 4 |
@@ -501,6 +518,38 @@
 - `fan` ← p4-weather-01
 - `boot` ← p4-weather-01
 - `towel` ← p4-weather-01
+- `palette` ← p4b02-color-01
+- `audit` ← p4b02-color-01
+- `swatch` ← p4b02-color-01
+- `drawer` ← p4b02-food-01
+- `cookie` ← p4b02-food-01
+- `thermos` ← p4b02-food-01
+- `tray` ← p4b02-food-01
+- `napkin` ← p4b02-food-01
+- `wax` ← p4b02-grow-01
+- `greenhouse` ← p4b02-grow-01
+- `shears` ← p4b02-grow-01
+- `hose` ← p4b02-grow-01
+- `sofa` ← p4b02-lazy-01
+- `snack` ← p4b02-lazy-01
+- `slipper` ← p4b02-lazy-01
+- `polygraph` ← p4b02-lie-01
+- `lounge` ← p4b02-lie-01
+- `chair` ← p4b02-lie-01
+- `virus` ← p4b02-look-affect-01
+- `mood` ← p4b02-look-affect-01
+- `sanitizer` ← p4b02-look-affect-01
+- `passport` ← p4b02-look-council-01
+- `nameplate` ← p4b02-look-council-01
+- `lawyer` ← p4b02-look-council-01
+- `agenda` ← p4b02-look-council-01
+- `suitcase` ← p4b02-shrink-01
+- `customs` ← p4b02-shrink-01
+- `air` ← p4b02-shrink-01
+- `zipper` ← p4b02-shrink-01
+- `punchclock` ← p4b02-work-01
+- `coffee` ← p4b02-work-01
+- `checklist` ← p4b02-work-01
 - `abnormal` ← prefix-ab-01
 - `abort` ← prefix-ab-01
 - `abstract` ← prefix-ab-01

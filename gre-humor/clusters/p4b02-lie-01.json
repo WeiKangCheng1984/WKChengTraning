@@ -1,0 +1,165 @@
+{
+  "id": "p4b02-lie-01",
+  "type": "semantic",
+  "elementLemma": "deceit-orphan",
+  "titleZh": "謊言 orphan｜測謊休息室",
+  "titleEn": "Lie Orphan Lounge",
+  "hook": "orphan 謊言團排測謊：fabricate／prevaricate／equivocate／dissemble——休息室標語「請先喝水再說」。",
+  "script": "fabricate 捏造。prevaricate／equivocate 含糊回避。dissemble 掩飾。mendacious 說謊的。canard 謠傳。口令：測謊儀寫「直說」，含糊寫「別繞」。",
+  "members": [
+    {
+      "headword": "prevaricate",
+      "inVocab": true,
+      "senseAnchor": "to avoid giving direct answers to hide the truth",
+      "roleInScript": "繞彎",
+      "humorDevice": "contrast",
+      "zhGloss": "含糊其詞",
+      "speakLineEn": "Cue the 繞彎: prevaricate walks on and the gag sticks.",
+      "speakLineZh": "請「繞彎」出場：prevaricate 一上場梗就黏住——含糊其詞。",
+      "related": {
+        "synonyms": "equivocate, fabricate",
+        "antonyms": "speak frankly"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "equivocate",
+      "inVocab": true,
+      "senseAnchor": "be deliberately ambiguous or unclear in order to mislead or withhold information",
+      "roleInScript": "雙義嘴",
+      "humorDevice": "contrast",
+      "zhGloss": "模稜兩可",
+      "speakLineEn": "Cue the 雙義嘴: equivocate walks on and the gag sticks.",
+      "speakLineZh": "請「雙義嘴」出場：equivocate 一上場梗就黏住——模稜兩可。",
+      "related": {
+        "synonyms": "tergiversate, prevaricate, palter",
+        "antonyms": "speak frankly"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "canard",
+      "inVocab": true,
+      "senseAnchor": "an unfounded or false, deliberately misleading story",
+      "roleInScript": "謠傳單",
+      "humorDevice": "contrast",
+      "zhGloss": "謠言",
+      "speakLineEn": "Cue the 謠傳單: canard walks on and the gag sticks.",
+      "speakLineZh": "請「謠傳單」出場：canard 一上場梗就黏住——謠言。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "specious",
+      "inVocab": true,
+      "senseAnchor": "seeming actually false",
+      "roleInScript": "假光澤",
+      "humorDevice": "contrast",
+      "zhGloss": "似是而非的",
+      "speakLineEn": "Cue the 假光澤: specious walks on and the gag sticks.",
+      "speakLineZh": "請「假光澤」出場：specious 一上場梗就黏住——似是而非的。",
+      "related": {
+        "synonyms": "spurious, forged, artificial, bogus",
+        "antonyms": "valid, genuine, authentic, natural"
+      },
+      "vocabStatus": "in-vocab"
+    },
+    {
+      "headword": "dupe",
+      "inVocab": true,
+      "senseAnchor": "欺騙",
+      "roleInScript": "好人卡",
+      "humorDevice": "contrast",
+      "zhGloss": "欺騙",
+      "speakLineEn": "Cue the 好人卡: dupe walks on and the gag sticks.",
+      "speakLineZh": "請「好人卡」出場：dupe 一上場梗就黏住——欺騙。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b02"
+    },
+    {
+      "headword": "gullible",
+      "inVocab": true,
+      "senseAnchor": "易受騙的",
+      "roleInScript": "好騙臉",
+      "humorDevice": "contrast",
+      "zhGloss": "易受騙的",
+      "speakLineEn": "Cue the 好騙臉: gullible walks on and the gag sticks.",
+      "speakLineZh": "請「好騙臉」出場：gullible 一上場梗就黏住——易受騙的。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "synced-p4-pending-b02"
+    },
+    {
+      "headword": "polygraph",
+      "inVocab": false,
+      "senseAnchor": "測謊儀",
+      "roleInScript": "測謊儀",
+      "humorDevice": "story",
+      "zhGloss": "測謊儀",
+      "speakLineEn": "Cue the 測謊儀: polygraph walks on and the gag sticks.",
+      "speakLineZh": "請「測謊儀」出場：polygraph 一上場梗就黏住——測謊儀。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "lounge",
+      "inVocab": false,
+      "senseAnchor": "休息室",
+      "roleInScript": "休息室",
+      "humorDevice": "story",
+      "zhGloss": "休息室",
+      "speakLineEn": "Cue the 休息室: lounge walks on and the gag sticks.",
+      "speakLineZh": "請「休息室」出場：lounge 一上場梗就黏住——休息室。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    },
+    {
+      "headword": "chair",
+      "inVocab": false,
+      "senseAnchor": "椅子",
+      "roleInScript": "椅子",
+      "humorDevice": "story",
+      "zhGloss": "椅子",
+      "speakLineEn": "Cue the 椅子: chair walks on and the gag sticks.",
+      "speakLineZh": "請「椅子」出場：chair 一上場梗就黏住——椅子。",
+      "related": {
+        "synonyms": "",
+        "antonyms": ""
+      },
+      "vocabStatus": "deferred-basic-or-specialty",
+      "vocabNote": "留在幽默庫作構詞／劇本用；暫不列入 GRE 難詞主庫，避免稀釋考點密度。"
+    }
+  ],
+  "reviewHooks": [
+    "謊：fabricate/prevaricate/equivocate/dissemble",
+    "canard＝謠言"
+  ],
+  "pitfalls": [
+    "equivocate≠equivalent"
+  ],
+  "lessonRefs": [
+    "lesson-p4b02-lie-01"
+  ],
+  "status": "reviewed",
+  "priority": "B",
+  "qualityGate": {
+    "reviewedAt": "2026-10-19",
+    "stage": "P4-batch02"
+  }
+}
