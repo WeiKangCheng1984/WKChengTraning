@@ -166,6 +166,7 @@ export default function HomePage() {
           <QuickLink href="/quiz" label="題庫" meta="cloze" icon="pencil" />
           <QuickLink href="/oral" label="口語" meta="說" icon="mic" />
           <QuickLink href="/speak" label="跟讀" meta="聽" icon="ear" />
+          <QuickLink href="/english/patterns" label="覆讀" meta="句型" icon="ear" />
           <QuickLink href="/rewards" label="打卡" meta="streak" icon="fire" />
           <QuickLink href="/search" label="搜尋" meta="找" icon="spark" />
           <QuickLink href="/dictionary" label="字典" meta="詞" icon="book" />

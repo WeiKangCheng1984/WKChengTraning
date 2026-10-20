@@ -85,6 +85,17 @@ export default function EnglishIndexPage() {
           </div>
           <span className="mt-4 text-sm text-[var(--ink)]">開始 →</span>
         </Link>
+        <Link href="/english/patterns" className="card-tap block">
+          <p className="text-xs uppercase tracking-[0.18em] text-[var(--accent)]">
+            Loop
+          </p>
+          <h2 className="mt-2 font-[family-name:var(--font-display)] text-xl text-[var(--ink)]">
+            句型覆讀
+          </h2>
+          <p className="mt-2 text-sm text-[var(--muted)]">
+            一個模板輪流念變形句 · 可調語速與跟讀停頓
+          </p>
+        </Link>
         <Link href="/word-bag" className="card-tap block">
           <p className="text-xs uppercase tracking-[0.18em] text-[var(--accent)]">
             Word bag

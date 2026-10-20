@@ -69,6 +69,12 @@ const links: Array<{
     icon: "vault",
   },
   {
+    href: "/english/patterns",
+    title: "句型覆讀",
+    body: "一個模板輪流念變形句 · 語速與停頓。",
+    icon: "ear",
+  },
+  {
     href: "/english/grammar",
     title: "文法與慣用語",
     body: "36 課 · TTS 跟讀。",
