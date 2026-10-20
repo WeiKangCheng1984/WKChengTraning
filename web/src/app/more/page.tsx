@@ -69,6 +69,12 @@ const links: Array<{
     icon: "vault",
   },
   {
+    href: "/english/listen",
+    title: "聽力練習",
+    body: "30 篇 · 電腦語音 · 兩軌真人 MP3。",
+    icon: "ear",
+  },
+  {
     href: "/english/patterns",
     title: "句型覆讀",
     body: "一個模板輪流念變形句 · 語速與停頓。",

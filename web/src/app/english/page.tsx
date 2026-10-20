@@ -85,6 +85,17 @@ export default function EnglishIndexPage() {
           </div>
           <span className="mt-4 text-sm text-[var(--ink)]">開始 →</span>
         </Link>
+        <Link href="/english/listen" className="card-tap block">
+          <p className="text-xs uppercase tracking-[0.18em] text-[var(--accent)]">
+            Listening
+          </p>
+          <h2 className="mt-2 font-[family-name:var(--font-display)] text-xl text-[var(--ink)]">
+            聽力練習
+          </h2>
+          <p className="mt-2 text-sm text-[var(--muted)]">
+            30 篇 · 電腦語音 · 兩軌真人 MP3
+          </p>
+        </Link>
         <Link href="/english/patterns" className="card-tap block">
           <p className="text-xs uppercase tracking-[0.18em] text-[var(--accent)]">
             Loop

@@ -12,6 +12,7 @@ import vocabulary from "@/data/vocabulary.json";
 import greVocabulary from "@/data/gre-vocabulary.json";
 import re from "@/data/real-estate.json";
 import speak from "@/data/speak.json";
+import listening from "@/data/listening.json";
 import type {
   CfaData,
   ConversationFourData,
@@ -23,6 +24,7 @@ import type {
   StylePhrasesData,
   VocabularyData,
 } from "@/lib/types";
+import type { ListeningData } from "@/lib/listening";
 
 const cfaData = cfa as CfaData;
 const enData = english as EnglishData;
@@ -33,6 +35,7 @@ const vocabData = vocabulary as VocabularyData;
 const greData = greVocabulary as GreVocabularyData;
 const reData = re as RealEstateData;
 const speakData = speak as SpeakData;
+const listenData = listening as ListeningData;
 
 type Hit = {
   kind:
@@ -44,7 +47,8 @@ type Hit = {
     | "conv"
     | "style"
     | "vocab"
-    | "gre";
+    | "gre"
+    | "listen";
   id: string;
   title: string;
   subtitle: string;
@@ -59,6 +63,25 @@ export default function SearchPage() {
     const query = q.trim().toLowerCase();
     if (query.length < 2) return [] as Hit[];
     const out: Hit[] = [];
+
+    let listenHits = 0;
+    for (const a of listenData.articles) {
+      const blob =
+        `${a.titleEn} ${a.titleZh} ${a.brief} ${a.theme} ${a.focus} ${a.blocks
+          .map((b) => `${b.en} ${b.zh}`)
+          .join(" ")}`.toLowerCase();
+      if (!blob.includes(query)) continue;
+      out.push({
+        kind: "listen",
+        id: `listen-${a.id}`,
+        title: a.titleZh,
+        subtitle: `${a.id} · ${a.levelZh} · ${a.titleEn}`,
+        href: `/english/listen/${a.id}`,
+        speak: a.blocks[0]?.en ?? a.titleEn,
+      });
+      listenHits += 1;
+      if (listenHits >= 8) break;
+    }
 
     for (const s of cfaData.subjects) {
       for (const t of s.terms) {
@@ -256,7 +279,7 @@ export default function SearchPage() {
           搜尋
         </h1>
         <p className="mt-2 text-sm text-[var(--muted)]">
-          可搜 CFA、文法、句型、進階詞彙、GRE、會話、風格、房地產與跟讀。
+          可搜 CFA、文法、句型、聽力、進階詞彙、GRE、會話、風格、房地產與跟讀。
         </p>
       </div>
       <input
@@ -282,6 +305,8 @@ export default function SearchPage() {
                   ? "CFA"
                   : h.kind === "speak"
                     ? "跟讀"
+                    : h.kind === "listen"
+                      ? "聽力"
                     : h.kind === "grammar"
                       ? "文法"
                       : h.kind === "re"
