@@ -6,9 +6,11 @@ import style from "@/data/style-phrases.json";
 import vocabulary from "@/data/vocabulary.json";
 import greVocabulary from "@/data/gre-vocabulary.json";
 import speak from "@/data/speak.json";
+import essayWriting from "@/data/essay-writing.json";
 import type {
   ConversationFourData,
   EnglishData,
+  EssayWritingData,
   GrammarData,
   GreVocabularyData,
   SpeakData,
@@ -23,6 +25,7 @@ const styleData = style as StylePhrasesData;
 const vocabData = vocabulary as VocabularyData;
 const greData = greVocabulary as GreVocabularyData;
 const speakData = speak as SpeakData;
+const essayData = essayWriting as EssayWritingData;
 const f1Count = speakData.articles.filter((a) => a.series === "f1").length;
 
 export default function EnglishIndexPage() {
@@ -138,6 +141,18 @@ export default function EnglishIndexPage() {
           </h2>
           <p className="mt-1 text-sm text-[var(--muted)]">
             {styleData.total} 句 · 發語詞／連接器／慣用句／緩衝
+          </p>
+        </Link>
+        <Link href="/english/writing" className="card-tap block">
+          <p className="text-xs uppercase tracking-[0.18em] text-[var(--accent)]">
+            Writing · Essay Lab
+          </p>
+          <h2 className="mt-2 font-[family-name:var(--font-display)] text-xl text-[var(--ink)]">
+            議論文寫作實驗室
+          </h2>
+          <p className="mt-1 text-sm text-[var(--muted)]">
+            {essayData.themeCount} 主題 · {essayData.scenarioCount} 實景 ·{" "}
+            {essayData.templateCount} 套 350–400 字模板
           </p>
         </Link>
         <Link href="/english/vocab" className="card-tap block">
