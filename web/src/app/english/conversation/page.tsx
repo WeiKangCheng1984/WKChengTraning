@@ -26,6 +26,21 @@ export default function ConversationIndexPage() {
         </p>
       </div>
 
+      <Link
+        href="/english/patterns/reflex"
+        className="block rounded-sm border border-[var(--accent)] bg-[var(--accent-soft)] px-4 py-4"
+      >
+        <p className="text-xs uppercase tracking-[0.16em] text-[var(--accent)]">
+          Pattern reflex
+        </p>
+        <p className="mt-1 font-[family-name:var(--font-display)] text-lg text-[var(--ink)]">
+          句型問答反射
+        </p>
+        <p className="mt-1 text-sm text-[var(--muted)]">
+          讀完公式後，用 L0–L6 模板練「聽問句 → 句型答」選擇題。
+        </p>
+      </Link>
+
       <div className="grid gap-3 sm:grid-cols-2">
         {data.types.map((t) => (
           <Link

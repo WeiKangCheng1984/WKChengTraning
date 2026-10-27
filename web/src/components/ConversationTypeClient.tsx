@@ -4,6 +4,7 @@ import Link from "next/link";
 import { useMemo, useState } from "react";
 import { SpeakButton } from "@/components/SpeakButton";
 import { FavoriteButton } from "@/components/FavoriteButton";
+import { packIdsForConversation } from "@/lib/patternReflex";
 import type { ConversationFourType } from "@/lib/types";
 
 type Props = {
@@ -48,6 +49,14 @@ export function ConversationTypeClient({ type }: Props) {
         <p className="mt-2 max-w-2xl text-sm leading-relaxed text-[var(--muted)]">
           {type.summaryZh}
         </p>
+        {packIdsForConversation(type.slug).length ? (
+          <Link
+            href={`/english/patterns/reflex?pick=${packIdsForConversation(type.slug).join(",")}`}
+            className="mt-4 inline-flex rounded-sm border border-[var(--accent)] bg-[var(--accent-soft)] px-4 py-2 text-sm text-[var(--ink)]"
+          >
+            句型問答反射（{packIdsForConversation(type.slug).length} 包）
+          </Link>
+        ) : null}
       </div>
 
       <input

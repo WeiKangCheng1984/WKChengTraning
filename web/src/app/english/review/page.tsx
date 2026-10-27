@@ -8,6 +8,7 @@ import english from "@/data/english.json";
 import grammar from "@/data/grammar.json";
 import speak from "@/data/speak.json";
 import { listEnglishDue } from "@/lib/englishToday";
+import { getReflexPack } from "@/lib/patternReflex";
 import { onStorageChange } from "@/lib/persist";
 import { gradeCard, type SrsScope } from "@/lib/srs";
 import type { EnglishData, GrammarData, SpeakData } from "@/lib/types";
@@ -76,6 +77,17 @@ export default function EnglishReviewPage() {
           });
           break;
         }
+      } else if (d.scope === "pattern") {
+        const pack = getReflexPack(String(d.id));
+        if (!pack) continue;
+        out.push({
+          scope: "pattern",
+          id: String(d.id),
+          title: pack.titleZh,
+          subtitle: `問答反射 · ${pack.itemId} · ${pack.prompts.length} 題`,
+          href: `/english/patterns/reflex?pick=${pack.id}&autoplay=1`,
+          speak: pack.prompts[0]?.questionEn ?? pack.titleZh,
+        });
       }
     }
     return out.slice(0, 30);
@@ -128,7 +140,7 @@ export default function EnglishReviewPage() {
           英語到期複習
         </h1>
         <p className="mt-2 text-sm text-[var(--muted)]">
-          含文法課、跟讀篇、句型。上一張僅回看本場已評過的卡，不會回滾間隔複習分數。
+          含文法、跟讀、句型組句、問答反射包。上一張僅回看本場已評過的卡，不會回滾間隔複習分數。
         </p>
       </div>
 
@@ -172,7 +184,9 @@ export default function EnglishReviewPage() {
                 ? "文法"
                 : current.scope === "speak"
                   ? "跟讀"
-                  : "句型"}
+                  : current.scope === "pattern"
+                    ? "句型反射"
+                    : "句型"}
             </p>
             <div className="mt-3 flex items-start gap-3">
               <SpeakButton text={current.speak} label={current.title} />

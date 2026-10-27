@@ -1,0 +1,188 @@
+{
+  "packs": [
+    {
+      "id": "want-basic",
+      "titleZh": "想要什麼 · I want …",
+      "itemId": "L0-05",
+      "conversationHint": "點餐、要東西",
+      "prompts": [
+        {
+          "questionEn": "What do you want to drink?",
+          "questionZh": "你想喝什麼？",
+          "answerRowIndex": 0,
+          "distractorRowIndices": [1, 2, 4]
+        },
+        {
+          "questionEn": "Do you need a break?",
+          "questionZh": "你需要休息一下嗎？（用 I want 回答）",
+          "answerRowIndex": 1,
+          "distractorRowIndices": [0, 2, 3]
+        },
+        {
+          "questionEn": "Why are you packing your bag?",
+          "questionZh": "你為什麼在收書包？",
+          "answerRowIndex": 2,
+          "distractorRowIndices": [0, 1, 5]
+        }
+      ]
+    },
+    {
+      "id": "would-like",
+      "titleZh": "禮貌想要 · I'd like …",
+      "itemId": "L0-91",
+      "conversationHint": "服務場合",
+      "expansionRowIndices": [0, 1, 2],
+      "prompts": [
+        {
+          "questionEn": "What would you like to drink?",
+          "questionZh": "您想喝點什麼？",
+          "answerRowIndex": 0,
+          "distractorRowIndices": [1, 2, 3]
+        },
+        {
+          "questionEn": "Which one do you prefer?",
+          "questionZh": "你偏好哪一個？",
+          "answerRowIndex": 1,
+          "distractorRowIndices": [0, 2, 4]
+        },
+        {
+          "questionEn": "Are you ready to order?",
+          "questionZh": "準備好點餐了嗎？（想試試看）",
+          "answerRowIndex": 2,
+          "distractorRowIndices": [0, 1, 3]
+        }
+      ]
+    },
+    {
+      "id": "im-feeling",
+      "titleZh": "現在狀態 · I'm …",
+      "itemId": "L0-01",
+      "conversationHint": "打招呼、關心",
+      "prompts": [
+        {
+          "questionEn": "You look pale. How do you feel?",
+          "questionZh": "你看起來臉色不好，還好嗎？",
+          "answerRowIndex": 0,
+          "distractorRowIndices": [1, 2, 4]
+        },
+        {
+          "questionEn": "You yawned. Are you okay?",
+          "questionZh": "你打哈欠了，還好嗎？",
+          "answerRowIndex": 1,
+          "distractorRowIndices": [0, 2, 3]
+        },
+        {
+          "questionEn": "Good news! How do you feel now?",
+          "questionZh": "好消息！你現在感覺如何？",
+          "answerRowIndex": 2,
+          "distractorRowIndices": [0, 1, 5]
+        }
+      ]
+    },
+    {
+      "id": "planning",
+      "titleZh": "打算 · I'm planning to …",
+      "itemId": "L1-01",
+      "conversationHint": "聊計畫",
+      "prompts": [
+        {
+          "questionEn": "What will you do after dinner?",
+          "questionZh": "晚餐後你要做什麼？",
+          "answerRowIndex": 0,
+          "distractorRowIndices": [1, 2, 3]
+        },
+        {
+          "questionEn": "Any plans for the weekend?",
+          "questionZh": "週末有計畫嗎？",
+          "answerRowIndex": 1,
+          "distractorRowIndices": [0, 2, 4]
+        },
+        {
+          "questionEn": "When will the report be done?",
+          "questionZh": "報告什麼時候會好？（說你的計畫）",
+          "answerRowIndex": 2,
+          "distractorRowIndices": [0, 1, 5]
+        }
+      ]
+    },
+    {
+      "id": "need-basic",
+      "titleZh": "需要 · I need …",
+      "itemId": "L0-13",
+      "conversationHint": "請求協助",
+      "prompts": [
+        {
+          "questionEn": "You look stuck. What do you need?",
+          "questionZh": "你看起來卡住了，需要什麼？",
+          "answerRowIndex": 0,
+          "distractorRowIndices": [1, 2, 3]
+        },
+        {
+          "questionEn": "The test is starting. Do you have everything?",
+          "questionZh": "要考試了，東西都齊嗎？",
+          "answerRowIndex": 1,
+          "distractorRowIndices": [0, 2, 4]
+        },
+        {
+          "questionEn": "Can you stay longer?",
+          "questionZh": "你能多留一下嗎？（說你需要離開）",
+          "answerRowIndex": 2,
+          "distractorRowIndices": [0, 1, 3]
+        }
+      ]
+    },
+    {
+      "id": "like-basic",
+      "titleZh": "喜歡 · I like …",
+      "itemId": "L0-03",
+      "conversationHint": "閒聊喜好",
+      "prompts": [
+        {
+          "questionEn": "What's your favorite subject?",
+          "questionZh": "你最喜歡什麼科目？",
+          "answerRowIndex": 0,
+          "distractorRowIndices": [1, 2, 3]
+        },
+        {
+          "questionEn": "Do you enjoy sports?",
+          "questionZh": "你喜歡運動嗎？",
+          "answerRowIndex": 1,
+          "distractorRowIndices": [0, 2, 4]
+        },
+        {
+          "questionEn": "What music do you listen to?",
+          "questionZh": "你都聽什麼音樂？",
+          "answerRowIndex": 2,
+          "distractorRowIndices": [0, 1, 5]
+        }
+      ]
+    },
+    {
+      "id": "about-to",
+      "titleZh": "馬上要 · I'm about to …",
+      "itemId": "L1-03",
+      "conversationHint": "當下動作",
+      "expansionRowIndices": [0, 1, 2],
+      "prompts": [
+        {
+          "questionEn": "Can you talk now?",
+          "questionZh": "現在方便講話嗎？",
+          "answerRowIndex": 0,
+          "distractorRowIndices": [1, 2, 3]
+        },
+        {
+          "questionEn": "Should we wait for you?",
+          "questionZh": "我們要等你嗎？",
+          "answerRowIndex": 1,
+          "distractorRowIndices": [0, 2, 4]
+        },
+        {
+          "questionEn": "Did you send the file yet?",
+          "questionZh": "檔案寄出去了嗎？",
+          "answerRowIndex": 2,
+          "distractorRowIndices": [0, 1, 5]
+        }
+      ]
+    }
+  ]
+}

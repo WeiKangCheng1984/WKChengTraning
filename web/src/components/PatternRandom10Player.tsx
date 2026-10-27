@@ -21,6 +21,7 @@ import {
   type Random10FlatRow,
   type Random10LoopScope,
 } from "@/lib/patternRandom10";
+import { PatternRandom10TrainingLinks } from "@/components/PatternRandom10TrainingLinks";
 import { speakEnglish, stopSpeaking, type SpeakSpeed } from "@/lib/speech";
 
 const SPEED_OPTIONS: { id: SpeakSpeed; label: string }[] = [
@@ -467,6 +468,8 @@ export function PatternRandom10Player({ data }: { data: PatternTemplates }) {
           );
         })}
       </ol>
+
+      <PatternRandom10TrainingLinks data={data} variant="compact" />
 
       <Link
         href="/english/patterns/random"

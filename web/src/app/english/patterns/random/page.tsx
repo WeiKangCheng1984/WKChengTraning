@@ -12,7 +12,7 @@ export default function PatternRandom10Page() {
         href="/english/patterns"
         className="text-sm text-[var(--muted)] hover:text-[var(--ink)]"
       >
-        ← 返回句型覆讀
+        ← 句型訓練中心
       </Link>
       <div>
         <p className="text-xs uppercase tracking-[0.22em] text-[var(--accent)]">

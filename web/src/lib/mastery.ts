@@ -26,7 +26,8 @@ export type MasteryScope =
   | "grammar"
   | "re"
   | "vocab"
-  | "gre";
+  | "gre"
+  | "pattern";
 
 export function masteryKey(scope: MasteryScope, id: string | number) {
   return `${scope}:${id}`;

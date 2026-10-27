@@ -1,6 +1,7 @@
 import { getMastery } from "./mastery";
 import { getSession } from "./session";
 import { countScheduledDue, listScheduledDue } from "./srs";
+import { patternReviewKeys } from "./patternReview";
 import { pickDailyVocab } from "./vocabToday";
 import type {
   EnglishData,
@@ -86,6 +87,7 @@ export function buildEnglishPack(
     ...english.categories.flatMap((c) =>
       c.items.map((it) => ({ scope: "en" as const, id: it.id })),
     ),
+    ...patternReviewKeys(),
   ];
 
   const vocab = vocabulary
@@ -126,6 +128,7 @@ export function englishReviewKeys(
     ...english.categories.flatMap((c) =>
       c.items.map((it) => ({ scope: "en" as const, id: it.id })),
     ),
+    ...patternReviewKeys(),
   ];
 }
 

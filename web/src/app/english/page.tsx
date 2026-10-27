@@ -98,13 +98,13 @@ export default function EnglishIndexPage() {
         </Link>
         <Link href="/english/patterns" className="card-tap block">
           <p className="text-xs uppercase tracking-[0.18em] text-[var(--accent)]">
-            Loop
+            Patterns
           </p>
           <h2 className="mt-2 font-[family-name:var(--font-display)] text-xl text-[var(--ink)]">
-            句型覆讀
+            句型訓練
           </h2>
           <p className="mt-2 text-sm text-[var(--muted)]">
-            一個模板輪流念變形句 · 可調語速與跟讀停頓
+            覆讀 · 十句型 · 抽換快打 · 問答反射
           </p>
         </Link>
         <Link href="/word-bag" className="card-tap block">

@@ -16,6 +16,10 @@ import type {
   RevealStep,
 } from "@/lib/dailyUnit/types";
 import { mulberry32, pickN, shuffleInPlace } from "@/lib/dailyUnit/rng";
+import {
+  makePatternReflexChoice,
+  makePatternSubstituteChoice,
+} from "@/lib/patternDailySteps";
 import type {
   ConversationFourData,
   ConversationFormula,
@@ -487,6 +491,9 @@ const MAKERS: Record<string, Maker> = {
   grammar: (rng, id, avoid) => makeGrammarContrast(rng, id, avoid),
   listen: (rng, id, avoid) => makeListenChoice(rng, id, avoid),
   speak: (rng, id, avoid) => makeSpeakCheck(rng, id, avoid),
+  pattern_reflex: (rng, id) => makePatternReflexChoice(rng, id, "daily"),
+  pattern_substitute: (rng, id) =>
+    makePatternSubstituteChoice(rng, id, "daily"),
 };
 
 /** 12-step recipes per accent — more variety, less same-type clustering */
@@ -578,7 +585,7 @@ const RECIPES: Record<string, (keyof typeof MAKERS)[]> = {
   mix: [
     "vocab_choice",
     "quiz_cloze",
-    "pattern",
+    "pattern_reflex",
     "listen",
     "gre_choice",
     "grammar",
@@ -593,17 +600,17 @@ const RECIPES: Record<string, (keyof typeof MAKERS)[]> = {
 
 // Fix pattern recipe typo — use quiz_cloze instead of invalid key
 RECIPES.pattern = [
-  "pattern",
+  "pattern_substitute",
   "conv",
-  "style",
+  "pattern_reflex",
   "quiz_cloze",
   "listen",
   "pattern",
   "grammar",
-  "vocab_choice",
+  "pattern_substitute",
   "speak",
   "conv",
-  "quiz_cloze",
+  "pattern_reflex",
   "pattern",
 ];
 

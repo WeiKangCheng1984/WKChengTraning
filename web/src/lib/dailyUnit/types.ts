@@ -5,11 +5,19 @@ export type DailyStepKind =
   | "pattern_reveal"
   | "grammar_contrast"
   | "listen_choice"
+  | "pattern_reflex_choice"
+  | "pattern_substitute_choice"
   | "speak_check";
 
 export type ChoiceStep = {
   id: string;
-  kind: "vocab_choice" | "gre_choice" | "cloze" | "listen_choice";
+  kind:
+    | "vocab_choice"
+    | "gre_choice"
+    | "cloze"
+    | "listen_choice"
+    | "pattern_reflex_choice"
+    | "pattern_substitute_choice";
   prompt: string;
   promptHint?: string;
   answer: string;

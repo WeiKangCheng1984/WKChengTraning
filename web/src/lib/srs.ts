@@ -11,7 +11,8 @@ export type SrsScope =
   | "grammar"
   | "re"
   | "vocab"
-  | "gre";
+  | "gre"
+  | "pattern";
 
 type SrsStore = Record<string, { due: string; interval: number }>;
 

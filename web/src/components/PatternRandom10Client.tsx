@@ -12,6 +12,7 @@ import {
   type Random10Mode,
   type Random10Session,
 } from "@/lib/patternRandom10";
+import { PatternRandom10TrainingLinks } from "@/components/PatternRandom10TrainingLinks";
 
 export function PatternRandom10Client({ data }: { data: PatternTemplates }) {
   const [session, setSession] = useState<Random10Session | null>(null);
@@ -140,18 +141,14 @@ export function PatternRandom10Client({ data }: { data: PatternTemplates }) {
         ))}
       </ol>
 
+      <PatternRandom10TrainingLinks data={data} variant="list" />
+
       <div className="flex flex-wrap gap-3">
-        <Link
-          href="/english/patterns/random/play"
-          className="inline-flex min-h-12 items-center rounded-sm bg-[var(--ink)] px-6 text-sm text-[var(--paper)]"
-        >
-          開始覆讀（120 句）
-        </Link>
         <Link
           href="/english/patterns"
           className="inline-flex min-h-12 items-center rounded-sm border border-[var(--line)] px-5 text-sm"
         >
-          返回單模板覆讀
+          返回訓練中心
         </Link>
       </div>
     </div>

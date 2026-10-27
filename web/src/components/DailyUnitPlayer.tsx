@@ -164,6 +164,10 @@ function kindLabel(kind: DailyStep["kind"]) {
       return "Grammar · 對比";
     case "listen_choice":
       return "Listen · 聽選";
+    case "pattern_reflex_choice":
+      return "Pattern · 問答反射";
+    case "pattern_substitute_choice":
+      return "Pattern · 抽換";
     case "speak_check":
       return "Speak · 跟讀";
     default:
@@ -196,13 +200,19 @@ function StepBody({
     step.kind === "vocab_choice" ||
     step.kind === "gre_choice" ||
     step.kind === "cloze" ||
-    step.kind === "listen_choice"
+    step.kind === "listen_choice" ||
+    step.kind === "pattern_reflex_choice" ||
+    step.kind === "pattern_substitute_choice"
   ) {
+    const speakPrompt =
+      (step.kind === "listen_choice" ||
+        step.kind === "pattern_reflex_choice") &&
+      step.speakText;
     return (
       <div className="mt-3 space-y-4">
-        {step.kind === "listen_choice" && step.speakText ? (
+        {speakPrompt ? (
           <div className="flex items-center gap-3">
-            <SpeakButton text={step.speakText} label="播放" />
+            <SpeakButton text={step.speakText ?? step.prompt} label="播放" />
             <p className="text-sm text-[var(--muted)]">{step.prompt}</p>
           </div>
         ) : (
