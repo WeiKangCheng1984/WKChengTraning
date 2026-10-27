@@ -4,8 +4,11 @@ import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { useEffect, useMemo, useRef, useState } from "react";
 import {
+  PATTERN_LINE_REPEAT_OPTIONS,
+  parsePatternLineRepeats,
   pauseMs,
   type PatternGap,
+  type PatternLineRepeats,
   type PatternTemplates,
 } from "@/lib/patternLoop";
 import {
@@ -57,6 +60,8 @@ export function PatternRandom10Player({ data }: { data: PatternTemplates }) {
   const [speed, setSpeed] = useState<SpeakSpeed>("normal");
   const [gap, setGap] = useState<PatternGap>("normal");
   const [loopScope, setLoopScope] = useState<Random10LoopScope>("full");
+  const [lineRepeats, setLineRepeats] = useState<PatternLineRepeats>(1);
+  const [repeatPass, setRepeatPass] = useState(1);
   const [ready, setReady] = useState(false);
 
   const playingRef = useRef(false);
@@ -66,6 +71,7 @@ export function PatternRandom10Player({ data }: { data: PatternTemplates }) {
   const speedRef = useRef(speed);
   const gapRef = useRef(gap);
   const loopScopeRef = useRef(loopScope);
+  const lineRepeatsRef = useRef(lineRepeats);
   const flatRef = useRef(flat);
   const rowRefs = useRef<(HTMLButtonElement | null)[]>([]);
 
@@ -73,6 +79,7 @@ export function PatternRandom10Player({ data }: { data: PatternTemplates }) {
   speedRef.current = speed;
   gapRef.current = gap;
   loopScopeRef.current = loopScope;
+  lineRepeatsRef.current = lineRepeats;
   indexRef.current = index;
 
   const current = flat[index];
@@ -111,14 +118,18 @@ export function PatternRandom10Player({ data }: { data: PatternTemplates }) {
     return start + (((local % len) + len) % len);
   }
 
-  function speakAt(i: number) {
+  function speakAt(i: number, pass = 1) {
     const list = flatRef.current;
     if (!list.length) return;
-    const next = normalizeIndex(i, loopScopeRef.current);
+    const next =
+      pass === 1 ? normalizeIndex(i, loopScopeRef.current) : indexRef.current;
     const token = ++tokenRef.current;
     clearTimer();
-    indexRef.current = next;
-    setIndex(next);
+    if (pass === 1) {
+      indexRef.current = next;
+      setIndex(next);
+    }
+    setRepeatPass(pass);
     setPhase("speaking");
     stopSpeaking();
     timerRef.current = window.setTimeout(() => {
@@ -133,7 +144,9 @@ export function PatternRandom10Player({ data }: { data: PatternTemplates }) {
           const wait = pauseMs(row.en, gapRef.current);
           timerRef.current = window.setTimeout(() => {
             if (token !== tokenRef.current || !playingRef.current) return;
-            speakAt(next + 1);
+            const total = lineRepeatsRef.current;
+            if (pass < total) speakAt(next, pass + 1);
+            else speakAt(next + 1, 1);
           }, wait);
         },
       });
@@ -220,6 +233,9 @@ export function PatternRandom10Player({ data }: { data: PatternTemplates }) {
       setLoopScope(saved.loopScope);
       loopScopeRef.current = saved.loopScope;
     }
+    const repeats = parsePatternLineRepeats(saved?.lineRepeats);
+    setLineRepeats(repeats);
+    lineRepeatsRef.current = repeats;
     setMounted(true);
     setReady(true);
     return () => {
@@ -233,8 +249,8 @@ export function PatternRandom10Player({ data }: { data: PatternTemplates }) {
 
   useEffect(() => {
     if (!ready) return;
-    writePlaySaved({ index, speed, gap, loopScope });
-  }, [ready, index, speed, gap, loopScope]);
+    writePlaySaved({ index, speed, gap, loopScope, lineRepeats });
+  }, [ready, index, speed, gap, loopScope, lineRepeats]);
 
   useEffect(() => {
     rowRefs.current[index]?.scrollIntoView({
@@ -319,6 +335,9 @@ export function PatternRandom10Player({ data }: { data: PatternTemplates }) {
           <p className="text-sm text-[var(--muted)]">
             第 {index + 1} / {flat.length} 句 · 第 {blockNum} 個句型 · 該型{" "}
             {lineInBlock} / {ROWS_PER_TEMPLATE} · {phaseLabel}
+            {lineRepeats > 1 && playing
+              ? ` · 第 ${repeatPass}/${lineRepeats} 遍`
+              : ""}
             {phase === "pausing"
               ? ` · ${(pauseForCurrent / 1000).toFixed(1)} 秒`
               : ""}
@@ -326,6 +345,27 @@ export function PatternRandom10Player({ data }: { data: PatternTemplates }) {
         </div>
 
         <div className="flex flex-wrap gap-4">
+          <div className="flex flex-wrap items-center gap-1.5">
+            <span className="text-xs text-[var(--muted)]">每句</span>
+            {PATTERN_LINE_REPEAT_OPTIONS.map((opt) => (
+              <button
+                key={opt.id}
+                type="button"
+                aria-pressed={lineRepeats === opt.id}
+                onClick={() => {
+                  lineRepeatsRef.current = opt.id;
+                  setLineRepeats(opt.id);
+                }}
+                className={`rounded-full px-2.5 py-1 text-xs sm:text-sm ${
+                  lineRepeats === opt.id
+                    ? "bg-[var(--accent)] text-white"
+                    : "bg-[var(--surface)] text-[var(--ink)]"
+                }`}
+              >
+                {opt.label}
+              </button>
+            ))}
+          </div>
           <div className="flex flex-wrap items-center gap-1.5">
             <span className="text-xs text-[var(--muted)]">循環</span>
             {LOOP_OPTIONS.map((opt) => (
@@ -382,7 +422,8 @@ export function PatternRandom10Player({ data }: { data: PatternTemplates }) {
           </div>
         </div>
         <p className="text-xs text-[var(--muted)]">
-          只念英文。可整輪 120 句循環，或只重複目前句型的 12 句變形。
+          只念英文。「每句 N 次」會把同一句連續念 N 遍再跳下一句。可整輪 120
+          句循環，或只重複目前句型的 12 句變形。
         </p>
       </div>
 

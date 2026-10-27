@@ -1,4 +1,9 @@
-import type { PatternItem, PatternRow, PatternTemplates } from "@/lib/patternLoop";
+import type {
+  PatternItem,
+  PatternLineRepeats,
+  PatternRow,
+  PatternTemplates,
+} from "@/lib/patternLoop";
 
 export type Random10Mode = "daily" | "shuffle";
 
@@ -184,6 +189,7 @@ export type SavedPlay = {
   speed: "slow" | "normal" | "fast";
   gap: "short" | "normal" | "long";
   loopScope: Random10LoopScope;
+  lineRepeats?: PatternLineRepeats;
 };
 
 export function readPlaySaved(): Partial<SavedPlay> | null {

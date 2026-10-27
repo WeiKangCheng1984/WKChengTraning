@@ -2,8 +2,11 @@
 
 import { useEffect, useMemo, useRef, useState } from "react";
 import {
+  PATTERN_LINE_REPEAT_OPTIONS,
+  parsePatternLineRepeats,
   pauseMs,
   type PatternGap,
+  type PatternLineRepeats,
   type PatternTemplates,
 } from "@/lib/patternLoop";
 import { speakEnglish, stopSpeaking, type SpeakSpeed } from "@/lib/speech";
@@ -30,6 +33,7 @@ type Saved = {
   speed: SpeakSpeed;
   gap: PatternGap;
   index: number;
+  lineRepeats?: PatternLineRepeats;
 };
 
 function readSaved(): Partial<Saved> | null {
@@ -51,6 +55,8 @@ export function PatternLoopPlayer({ data }: { data: PatternTemplates }) {
   const [phase, setPhase] = useState<Phase>("idle");
   const [speed, setSpeed] = useState<SpeakSpeed>("normal");
   const [gap, setGap] = useState<PatternGap>("normal");
+  const [lineRepeats, setLineRepeats] = useState<PatternLineRepeats>(1);
+  const [repeatPass, setRepeatPass] = useState(1);
   const [ready, setReady] = useState(false);
 
   const playingRef = useRef(false);
@@ -59,6 +65,7 @@ export function PatternLoopPlayer({ data }: { data: PatternTemplates }) {
   const timerRef = useRef<number | null>(null);
   const speedRef = useRef(speed);
   const gapRef = useRef(gap);
+  const lineRepeatsRef = useRef(lineRepeats);
   const rowRefs = useRef<(HTMLButtonElement | null)[]>([]);
 
   const level = data.levels.find((lv) => lv.id === levelId) ?? first;
@@ -69,6 +76,7 @@ export function PatternLoopPlayer({ data }: { data: PatternTemplates }) {
   rowsRef.current = rows;
   speedRef.current = speed;
   gapRef.current = gap;
+  lineRepeatsRef.current = lineRepeats;
   indexRef.current = index;
 
   const pauseForCurrent = useMemo(
@@ -92,14 +100,20 @@ export function PatternLoopPlayer({ data }: { data: PatternTemplates }) {
     setPhase("idle");
   }
 
-  function speakAt(i: number) {
+  function speakAt(i: number, pass = 1) {
     const list = rowsRef.current;
     if (!list.length) return;
-    const next = ((i % list.length) + list.length) % list.length;
+    const next =
+      pass === 1
+        ? ((i % list.length) + list.length) % list.length
+        : indexRef.current;
     const token = ++tokenRef.current;
     clearTimer();
-    indexRef.current = next;
-    setIndex(next);
+    if (pass === 1) {
+      indexRef.current = next;
+      setIndex(next);
+    }
+    setRepeatPass(pass);
     setPhase("speaking");
     stopSpeaking();
     timerRef.current = window.setTimeout(() => {
@@ -114,7 +128,9 @@ export function PatternLoopPlayer({ data }: { data: PatternTemplates }) {
           const wait = pauseMs(row.en, gapRef.current);
           timerRef.current = window.setTimeout(() => {
             if (token !== tokenRef.current || !playingRef.current) return;
-            speakAt(next + 1);
+            const total = lineRepeatsRef.current;
+            if (pass < total) speakAt(next, pass + 1);
+            else speakAt(next + 1, 1);
           }, wait);
         },
       });
@@ -183,6 +199,9 @@ export function PatternLoopPlayer({ data }: { data: PatternTemplates }) {
       ) {
         setGap(saved.gap);
       }
+      const repeats = parsePatternLineRepeats(saved.lineRepeats);
+      setLineRepeats(repeats);
+      lineRepeatsRef.current = repeats;
     }
     setReady(true);
     return () => {
@@ -197,9 +216,16 @@ export function PatternLoopPlayer({ data }: { data: PatternTemplates }) {
 
   useEffect(() => {
     if (!ready) return;
-    const payload: Saved = { levelId, itemId, speed, gap, index };
+    const payload: Saved = {
+      levelId,
+      itemId,
+      speed,
+      gap,
+      index,
+      lineRepeats,
+    };
     localStorage.setItem(STORAGE_KEY, JSON.stringify(payload));
-  }, [ready, levelId, itemId, speed, gap, index]);
+  }, [ready, levelId, itemId, speed, gap, index, lineRepeats]);
 
   useEffect(() => {
     rowRefs.current[index]?.scrollIntoView({
@@ -298,11 +324,35 @@ export function PatternLoopPlayer({ data }: { data: PatternTemplates }) {
           </button>
           <p className="text-sm text-[var(--muted)]">
             第 {index + 1} / {rows.length} 句 · {phaseLabel}
+            {lineRepeats > 1 && playing
+              ? ` · 第 ${repeatPass}/${lineRepeats} 遍`
+              : ""}
             {phase === "pausing" ? ` · ${(pauseForCurrent / 1000).toFixed(1)} 秒` : ""}
           </p>
         </div>
 
         <div className="flex flex-wrap gap-4">
+          <div className="flex flex-wrap items-center gap-1.5">
+            <span className="text-xs text-[var(--muted)]">每句</span>
+            {PATTERN_LINE_REPEAT_OPTIONS.map((opt) => (
+              <button
+                key={opt.id}
+                type="button"
+                aria-pressed={lineRepeats === opt.id}
+                onClick={() => {
+                  lineRepeatsRef.current = opt.id;
+                  setLineRepeats(opt.id);
+                }}
+                className={`rounded-full px-2.5 py-1 text-xs sm:text-sm ${
+                  lineRepeats === opt.id
+                    ? "bg-[var(--accent)] text-white"
+                    : "bg-[var(--surface)] text-[var(--ink)]"
+                }`}
+              >
+                {opt.label}
+              </button>
+            ))}
+          </div>
           <div className="flex items-center gap-1.5">
             <span className="text-xs text-[var(--muted)]">語速</span>
             {SPEED_OPTIONS.map((opt) => (
@@ -341,7 +391,7 @@ export function PatternLoopPlayer({ data }: { data: PatternTemplates }) {
           </div>
         </div>
         <p className="text-xs text-[var(--muted)]">
-          只念英文。句子愈長，念完後停愈久，方便跟讀。念完會回到第一句。
+          只念英文。「每句 N 次」會把同一句連續念 N 遍再跳下一句。句子愈長，每遍念完後停愈久。念完會回到第一句。
         </p>
       </div>
 
