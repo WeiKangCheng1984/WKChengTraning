@@ -136,6 +136,37 @@ export function SpeakArticleClient({ article }: Props) {
         )}
       </section>
 
+      {article.lesson ? (
+        <section className="rounded-sm border border-[var(--line)] bg-[var(--paper)] p-5 sm:p-6">
+          <h2 className="font-[family-name:var(--font-display)] text-xl text-[var(--ink)]">
+            教學結構
+          </h2>
+          <p className="mt-2 text-sm leading-relaxed text-[var(--muted)]">
+            {article.lesson.introZh}
+          </p>
+          <div className="mt-5 space-y-5">
+            {article.lesson.blocks.map((block) => (
+              <div key={block.titleZh}>
+                <h3 className="text-sm font-medium text-[var(--ink)]">
+                  Part 1 · {block.titleZh} — 實用片語
+                </h3>
+                <ul className="mt-2 grid gap-2 sm:grid-cols-3">
+                  {block.phrases.map((p) => (
+                    <li
+                      key={p.en}
+                      className="rounded-sm border border-[var(--line)] bg-[var(--surface)] px-3 py-2 text-sm"
+                    >
+                      <p className="font-medium text-[var(--ink)]">{p.en}</p>
+                      <p className="mt-0.5 text-[var(--muted)]">{p.zh}</p>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ))}
+          </div>
+        </section>
+      ) : null}
+
       <section className="space-y-3">
         <div className="flex flex-wrap items-center justify-between gap-3">
           <h2 className="font-[family-name:var(--font-display)] text-2xl text-[var(--ink)]">
@@ -146,8 +177,15 @@ export function SpeakArticleClient({ article }: Props) {
         <ul className="space-y-2">
           {article.segments.map((seg, idx) => {
             const active = activeId === seg.id;
+            const prevGroup = article.segments[idx - 1]?.group;
+            const showGroup = seg.group && seg.group !== prevGroup;
             return (
               <li key={seg.id}>
+                {showGroup ? (
+                  <p className="mb-2 mt-4 first:mt-0 text-xs font-medium uppercase tracking-[0.12em] text-[var(--accent)]">
+                    {seg.group}
+                  </p>
+                ) : null}
                 <button
                   type="button"
                   onClick={() => setActiveId(seg.id)}
@@ -174,6 +212,11 @@ export function SpeakArticleClient({ article }: Props) {
                     <p className="mt-1.5 text-base leading-relaxed text-[var(--muted)]">
                       {seg.zh}
                     </p>
+                    {seg.contextZh ? (
+                      <p className="mt-1.5 text-xs text-[var(--accent)]">
+                        情境：{seg.contextZh}
+                      </p>
+                    ) : null}
                   </div>
                 </button>
               </li>

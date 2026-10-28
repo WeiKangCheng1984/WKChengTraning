@@ -54,10 +54,29 @@ export type EnglishData = {
   categories: EnglishCategory[];
 };
 
+export type SpeakPhrase = {
+  en: string;
+  zh: string;
+};
+
+export type SpeakLessonBlock = {
+  titleZh: string;
+  phrases: SpeakPhrase[];
+};
+
+export type SpeakLesson = {
+  introZh: string;
+  blocks: SpeakLessonBlock[];
+};
+
 export type SpeakSegment = {
   id: string;
   en: string;
   zh: string;
+  /** Part 1 / 2 / 3 section label for themed oral lessons */
+  group?: string;
+  /** Part 2: when to use this line */
+  contextZh?: string;
 };
 
 export type SpeakArticle = {
@@ -75,6 +94,7 @@ export type SpeakArticle = {
   status: "draft" | "ready";
   segmentCount: number;
   segments: SpeakSegment[];
+  lesson?: SpeakLesson;
 };
 
 export type SpeakSeries = {
