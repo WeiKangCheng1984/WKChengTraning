@@ -1,3 +1,5 @@
+import { getActiveEnglishVoice } from "./speechVoice";
+
 export type SpeakSpeed = "fast" | "slow" | "normal";
 
 const RATES: Record<SpeakSpeed, number> = {
@@ -29,11 +31,11 @@ export function speakEnglish(
   utter.lang = "en-US";
   utter.rate = RATES[opts.speed || "normal"];
 
-  const voices = synth.getVoices();
-  const preferred =
-    voices.find((v) => v.lang.startsWith("en") && /US|United/i.test(v.lang)) ??
-    voices.find((v) => v.lang.startsWith("en"));
-  if (preferred) utter.voice = preferred;
+  const preferred = getActiveEnglishVoice();
+  if (preferred) {
+    utter.voice = preferred;
+    utter.lang = preferred.lang || "en-US";
+  }
 
   if (opts.onEnd) {
     utter.onend = () => opts.onEnd?.();
