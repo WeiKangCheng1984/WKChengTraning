@@ -72,7 +72,7 @@ function compileTopic(spec) {
     segments,
     lesson: {
       introZh:
-        "三部分：五段心得口說、十二句參訪回應、十二組「附和＋完整補充」。先讀 Part 1 片語，再逐句跟讀。",
+        "四部分：五段心得口說、十二句參訪回應、十二組「附和＋完整補充」、十五句抽換模板。先讀 Part 1 片語，再逐句跟讀；Part 4 練句型精粹抽換。",
       blocks: spec.part1.map((b) => ({
         titleZh: b.titleZh,
         phrases: b.phrases,

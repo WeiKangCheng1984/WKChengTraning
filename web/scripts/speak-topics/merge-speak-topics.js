@@ -20,7 +20,7 @@ const commonSeries = data.series.find((s) => s.id === "common");
 if (commonSeries) {
   commonSeries.titleZh = "常用口語 24 篇";
   commonSeries.description =
-    "生活、職場與 18 個主題口說練習（第 7 篇起含三部分教學：心得、簡短回應、附和補充）。放入 MP3 後可整段跟讀；單句可用 TTS。";
+    "生活、職場與 18 個主題口說練習（第 7 篇起含四部分教學：心得、簡短回應、附和補充、句型抽換）。可連續 TTS 跟讀英文；放入 MP3 後可整段播放。";
 }
 
 data.articles = [...keep, ...compiled];
