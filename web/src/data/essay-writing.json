@@ -1,0 +1,565 @@
+{
+  "version": 1,
+  "titleZh": "議論文寫作實驗室",
+  "titleEn": "Essay Writing Lab",
+  "subtitleZh": "8 大核心主題 · 24 常考實景 · 8 套高分模板",
+  "introZh": "以 350–400 字高分議論文架構為骨架：破題現象 → 深入批判 → 願景行動。先選主題與實景，再抽換槽位寫出完整作文。",
+  "wordTarget": {
+    "min": 350,
+    "max": 400
+  },
+  "themeCount": 8,
+  "scenarioCount": 24,
+  "templateCount": 8,
+  "howTo": [
+    {
+      "step": 1,
+      "titleZh": "選主題",
+      "bodyZh": "八大核心主題對應常考議論文方向。先鎖定一個主題，再進入該主題的三個實景。"
+    },
+    {
+      "step": 2,
+      "titleZh": "選實景",
+      "bodyZh": "每個主題含 A／B／C 三個常考實景。點選後，範文中的槽位會自動抽換成該實景用語。"
+    },
+    {
+      "step": 3,
+      "titleZh": "讀架構",
+      "bodyZh": "四段式：破題定調 → 現象批判 → 深層代價／願景 → 雙軌解方。維持約 350–400 字。"
+    },
+    {
+      "step": 4,
+      "titleZh": "抽換改寫",
+      "bodyZh": "對照槽位指南（如 PHENOMENON／CORE_COST），複製範文後替換成自己的例子與論據。"
+    }
+  ],
+  "bridgeSentences": [
+    {
+      "id": "hook",
+      "roleZh": "破題引導現象",
+      "en": "Nowhere is this modern paradox more starkly manifested than in the controversy surrounding..."
+    },
+    {
+      "id": "critique",
+      "roleZh": "第二段深入批判",
+      "en": "The primary hazard of this dynamic stems from an unexamined assumption that quantifiable efficiency supersedes intrinsic human value."
+    },
+    {
+      "id": "action",
+      "roleZh": "第三段提出願景與行動",
+      "en": "To avert this systemic dilemma, stakeholders must establish a balanced consensus integrating institutional accountability with individual agency."
+    }
+  ],
+  "structureGuideZh": [
+    "第 1 段：現象破題＋核心代價＋立場句",
+    "第 2 段：具體情境批判（日常觀察／機制分析）",
+    "第 3 段：深層代價或文化迷思",
+    "第 4 段：制度＋個人雙軌解方，收束價值"
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "slug": "technology-human-connection",
+      "titleZh": "科技進步與人際疏離",
+      "titleEn": "Technology & Human Connection",
+      "guideZh": "寫作重心：科技便利 vs. 情感／認知代價。破題用「悖論」，第二段寫人際互動變淺，第三段寫演算法與心智，第四段給數位界線策略。",
+      "slots": [
+        {
+          "key": "PHENOMENON",
+          "labelZh": "主題現象",
+          "labelEn": "Phenomenon",
+          "hintZh": "抽換為具體科技現象，例如低頭族、生成式 AI、社群滑動。"
+        },
+        {
+          "key": "CORE_COST",
+          "labelZh": "核心代價",
+          "labelEn": "Core cost",
+          "hintZh": "點出被侵蝕的人性價值：溫情、獨立思考、自尊。"
+        },
+        {
+          "key": "ACTION_STEP",
+          "labelZh": "平衡策略",
+          "labelEn": "Action step",
+          "hintZh": "具體可執行的界線：無螢幕晚餐、提示素養課、數位排毒。"
+        }
+      ],
+      "scenarios": [
+        {
+          "id": "A",
+          "titleZh": "智慧型手機與低頭族",
+          "titleEn": "Phubbing & Digital Addiction",
+          "fills": {
+            "PHENOMENON": "the omnipresence of smartphones and the rise of phubbing",
+            "CORE_COST": "authentic interpersonal warmth and undivided presence",
+            "ACTION_STEP": "designated screen-free dinner hours and phone-free communal spaces"
+          }
+        },
+        {
+          "id": "B",
+          "titleZh": "生成式 AI 與學術／創作自主",
+          "titleEn": "Generative AI in Education",
+          "fills": {
+            "PHENOMENON": "the sudden boom of generative AI tools in classrooms and creative studios",
+            "CORE_COST": "independent cognitive reasoning and original authorship",
+            "ACTION_STEP": "prompt literacy curricula and transparent AI-use disclosure norms"
+          }
+        },
+        {
+          "id": "C",
+          "titleZh": "社群媒體與青少年焦慮",
+          "titleEn": "Social Media Comparison & Mental Health",
+          "fills": {
+            "PHENOMENON": "endless scrolling on social media feeds curated for comparison",
+            "CORE_COST": "genuine self-esteem and emotional well-being",
+            "ACTION_STEP": "disciplined digital detoxes and algorithm-aware media literacy workshops"
+          }
+        }
+      ],
+      "template": {
+        "wordCountApprox": 379,
+        "body": "The rapid acceleration of technological innovation has fundamentally transformed contemporary living, yet this convenience often arrives with an unforeseen social toll. Nowhere is this paradox more evident than in the phenomenon of [PHENOMENON]. While modern digital tools are engineered to bridge physical divides, an overreliance on them inadvertently diminishes [CORE_COST]. Therefore, while we should embrace technological efficiency, society must cultivate deliberate boundaries to safeguard human connection.\n\nTo begin with, the pervasive integration of digital platforms alters everyday human interactions by replacing deep presence with superficial engagement. When individuals prioritize virtual connectivity over direct conversation, communication loses its nonverbal richness, such as subtle eye contact, micro-expressions, and empathetic silence. In many environments, family dinners and social gatherings are increasingly overshadowed by glowing screens, where participants are physically adjacent yet mentally isolated. Consequently, excessive screen reliance does not merely distract attention; it fosters emotional estrangement among peers and families, substituting transactional exchanges for genuine vulnerability. Over time, this habitual distraction normalizes emotional distance as an acceptable cost of staying perpetually online.\n\nFurthermore, unchecked digital consumption impairs critical introspection and mental resilience. The algorithms governing modern platforms are intentionally designed to capture and monetize cognitive bandwidth. Users find themselves trapped in perpetual cycles of dopamine hits, whether through constant notifications, curated peer achievements, or automated answers that bypass rigorous reflection. This continuous external stimulation leaves little room for contemplative solitude, ultimately cultivating unprecedented levels of anxiety, intellectual complacency, and diminished attention spans among younger demographics who have grown up entirely immersed in the digital sphere. Reclaiming quiet intervals for reflection therefore becomes a prerequisite for restoring both empathy and independent judgment.\n\nIn response to this escalating predicament, proactive measures must be instituted at both systemic and personal levels. Schools and community institutions ought to champion digital literacy programs that educate students on the physiological mechanisms of algorithmic dependency. Simultaneously, individuals must reclaim agency over their time by establishing [ACTION_STEP]. Technology should function as a supportive instrument rather than an unyielding master. Only when we mindfully calibrate our screen time can modern society reap the benefits of high-speed innovation without eroding the foundational bedrock of empathy, intellectual depth, and mutual human understanding."
+      }
+    },
+    {
+      "id": 2,
+      "slug": "environmental-sustainability",
+      "titleZh": "環境永續與氣候行動",
+      "titleEn": "Environmental Sustainability & Climate Action",
+      "guideZh": "寫作重心：生態危機 → 系統慣性 → 個人無力感迷思 → 制度＋消費雙軌解方。槽位對應危機事件、破壞面向、永續解方。",
+      "slots": [
+        {
+          "key": "CRISIS",
+          "labelZh": "生態危機",
+          "labelEn": "Crisis",
+          "hintZh": "點名具體危機：一次性塑膠、極端暴雨、紡織廢棄物。"
+        },
+        {
+          "key": "DAMAGE",
+          "labelZh": "破壞面向",
+          "labelEn": "Damage",
+          "hintZh": "寫清楚受害對象：海洋生態、城市基礎設施、水資源碳足跡。"
+        },
+        {
+          "key": "MITIGATION",
+          "labelZh": "永續解方",
+          "labelEn": "Mitigation",
+          "hintZh": "制度與生活解方：循環包裝、海綿城市、衣物租賃回收。"
+        }
+      ],
+      "scenarios": [
+        {
+          "id": "A",
+          "titleZh": "一次性塑膠禁用與減塑",
+          "titleEn": "Single-Use Plastics Ban",
+          "fills": {
+            "CRISIS": "the exponential proliferation of single-use plastics across global markets",
+            "DAMAGE": "marine biodiversity and terrestrial ecosystems alike",
+            "MITIGATION": "circular packaging incentives, strict plastic bans, and accessible recycling infrastructure"
+          }
+        },
+        {
+          "id": "B",
+          "titleZh": "極端氣候與城市韌性",
+          "titleEn": "Extreme Weather & Resilient Infrastructure",
+          "fills": {
+            "CRISIS": "catastrophic urban flash floods intensified by climate extremes",
+            "DAMAGE": "fragile municipal infrastructure and vulnerable coastal communities",
+            "MITIGATION": "sponge-city architectural redesigns and climate-adaptive zoning"
+          }
+        },
+        {
+          "id": "C",
+          "titleZh": "快時尚與永續消費",
+          "titleEn": "Fast Fashion & Conscious Consumerism",
+          "fills": {
+            "CRISIS": "mountains of discarded textile waste driven by fast-fashion cycles",
+            "DAMAGE": "carbon-intensive freshwater systems and exploited garment labor",
+            "MITIGATION": "circular garment leasing, repair culture, and verified recycling chains"
+          }
+        }
+      ],
+      "template": {
+        "wordCountApprox": 367,
+        "body": "As ecological degradation reaches unprecedented thresholds, humanity finds itself at a critical crossroads regarding environmental stewardship. Among the most pressing manifestations of this ongoing ecological crisis is [CRISIS]. This short-sighted reliance on disposable convenience inflicts profound, irreversible harm upon [DAMAGE]. To avert impending ecological breakdown, collective resolve combining institutional governance and individualized responsibility is indispensable.\n\nThe primary driver of environmental vulnerability stems from systemic inertia in current production and consumption models. For decades, global supply chains have incentivized non-biodegradable, high-entropy products designed for immediate disposal rather than durability. When these discarded synthetics enter natural biomes, they disintegrate into micro-particles that infiltrate aquatic food webs, bioaccumulate within marine organisms, and eventually compromise human food security. The economic logic of convenience externalizes environmental costs onto vulnerable habitats, demonstrating that unchecked consumer demand inevitably exhausts the regenerative capacity of our biosphere. Local watersheds, coastal fisheries, and agricultural soils absorb these externalities long before policymakers acknowledge the accumulating debt. What begins as a convenience for metropolitan consumers ends as a structural burden for ecosystems that cannot negotiate for compensation.\n\nMoreover, addressing ecological fallout requires overcoming widespread apathy rooted in the misconception that individual choices are insignificant against global degradation. Citizens frequently surrender to eco-paralysis, assuming corporate and political entities bear exclusive culpability. However, consumer demand directly dictates corporate behavior. Without a substantial consumer transition toward sustainable alternatives, legislative mandates frequently stall due to commercial pushback. Meaningful ecological restoration cannot rely solely on top-down decrees; it necessitates an enlightened populace willing to embrace ethical trade-offs, pay marginal premiums for eco-friendly goods, and scrutinize supply chain transparency. Educational campaigns that translate remote ecological harm into tangible household consequences can interrupt this cycle of denial and restore agency to ordinary buyers.\n\nTackling this existential challenge demands a cohesive dual strategy. Governments must enforce rigorous extended producer responsibility frameworks alongside implementing [MITIGATION]. Concurrently, civil society must internalize that everyday purchasing habits constitute votes for the future biosphere. By decoupling human prosperity from disposable convenience and fostering eco-conscious norms, modern civilization can preserve ecological equilibrium for succeeding generations before planetary tipping points are irreversibly breached."
+      }
+    },
+    {
+      "id": 3,
+      "slug": "education-future-talent",
+      "titleZh": "教育體系與未來人才",
+      "titleEn": "Education Paradigms & Future Talent",
+      "guideZh": "寫作重心：舊工業時代教學過時 → 批判填鴨／窄化選系 → 未來素養 → 教學法轉型。槽位對應爭議點、關鍵素養、改革路徑。",
+      "slots": [
+        {
+          "key": "EDUCATIONAL_CHALLENGE",
+          "labelZh": "教育爭議點",
+          "labelEn": "Educational challenge",
+          "hintZh": "點出舊模式問題：應試記憶、STEM 就業至上、缺乏自主學習。"
+        },
+        {
+          "key": "CORE_COMPETENCE",
+          "labelZh": "關鍵素養",
+          "labelEn": "Core competence",
+          "hintZh": "未來需要的能力：批判解題、倫理同理、元學習敏捷。"
+        },
+        {
+          "key": "PEDAGOGICAL_SHIFT",
+          "labelZh": "改革路徑",
+          "labelEn": "Pedagogical shift",
+          "hintZh": "具體改革：專題探究、跨領域博雅、微學程自主探索。"
+        }
+      ],
+      "scenarios": [
+        {
+          "id": "A",
+          "titleZh": "應試填鴨 vs. 素養專題",
+          "titleEn": "Standardized Testing vs. Project-Based Learning",
+          "fills": {
+            "EDUCATIONAL_CHALLENGE": "rigid test-oriented memorization",
+            "CORE_COMPETENCE": "critical problem-solving and adaptable creativity",
+            "PEDAGOGICAL_SHIFT": "inquiry-driven interdisciplinary projects and collaborative design-thinking workshops"
+          }
+        },
+        {
+          "id": "B",
+          "titleZh": "實用就業 vs. 人文探索",
+          "titleEn": "STEM Careerism vs. Humanities Inquiry",
+          "fills": {
+            "EDUCATIONAL_CHALLENGE": "disproportionate focus on STEM careerism over the humanities",
+            "CORE_COMPETENCE": "ethical discernment and philosophical empathy",
+            "PEDAGOGICAL_SHIFT": "cross-disciplinary liberal arts curricula bridging science and humanistic inquiry"
+          }
+        },
+        {
+          "id": "C",
+          "titleZh": "自主學習與終身學習",
+          "titleEn": "Lifelong Self-Directed Learning",
+          "fills": {
+            "EDUCATIONAL_CHALLENGE": "the struggle to build durable self-directed learning habits",
+            "CORE_COMPETENCE": "adaptive meta-learning agility",
+            "PEDAGOGICAL_SHIFT": "student-led exploratory micro-credentials and reflective learning portfolios"
+          }
+        }
+      ],
+      "template": {
+        "wordCountApprox": 367,
+        "body": "Contemporary education stands at an inflection point as rapid automation and socioeconomic volatility disrupt traditional career trajectories. In this evolving landscape, conventional pedagogical models centered around [EDUCATIONAL_CHALLENGE] are proving increasingly obsolete. If schools intend to prepare graduates for an unpredictable tomorrow, they must prioritize [CORE_COMPETENCE] above rote metrics. Transforming education from passive content delivery into active intellectual exploration is a non-negotiable imperative.\n\nTraditional educational frameworks were largely designed during the Industrial Era, emphasizing conformity, standardization, and linear task execution. Students are routinely conditioned to replicate predetermined answers to secure competitive test percentiles, a dynamic that suppresses intellectual curiosity and divergent reasoning. In an era where algorithmic processing delivers instant factual data, the ability to regurgitate textbook passages holds negligible economic or humanistic value. Educational institutions that remain fixation-driven regarding uniform testing risk graduating individuals who excel at standardized compliance but falter when confronting ambiguous, multidimensional dilemmas in the workplace. Employers increasingly report that graduates struggle to frame open-ended problems, collaborate across specialties, or revise strategies when initial plans fail under real constraints. This skills gap reveals how narrowly optimized schooling can undermine long-term employability despite impressive transcript metrics.\n\nConversely, future-ready competencies demand cognitive adaptability, collaborative synthesis, and ethical judgment. Complex real-world challenges—ranging from public health crises to technological governance—cannot be solved within isolated subject silos. Learners must develop the intellectual confidence to evaluate competing viewpoints, synthesize disparate disciplines, and iterate through trial and error. An educational culture that stigmatizes failure robs students of the resilience required to navigate non-linear problem-solving. True academic rigor lies not in memorizing static facts, but in formulating incisive inquiries that challenge conventional wisdom. Assessment should therefore capture process evidence—draft iterations, peer critique, and reflective journals—rather than privileging a single high-stakes score as the sole measure of readiness.\n\nTo modernize education effectively, pedagogical authorities must restructure curricula around [PEDAGOGICAL_SHIFT]. Teachers must transition from authoritative lecturers into facilitators of intellectual curiosity. Furthermore, evaluation mechanisms should reward critical thinking and innovative synthesis alongside objective knowledge. By realigning scholastic priorities toward cultivating independent, self-motivated minds, educational systems can empower future generations to flourish amid uncertainty rather than languish in standardized obsolescence."
+      }
+    },
+    {
+      "id": 4,
+      "slug": "mental-health-stress",
+      "titleZh": "心理健康與壓力調適",
+      "titleEn": "Mental Health & Stress Management",
+      "guideZh": "寫作重心：壓力源 → 心理衝擊 → 文化迷思（內卷／ hustle）→ 調適方針。語調同理但避免過度情緒化。",
+      "slots": [
+        {
+          "key": "STRESSOR",
+          "labelZh": "壓力源泉",
+          "labelEn": "Stressor",
+          "hintZh": "具體壓力：升學內卷、高風險表演、完美同儕幻象。"
+        },
+        {
+          "key": "PSYCHOLOGICAL_EFFECT",
+          "labelZh": "心理衝擊",
+          "labelEn": "Psychological effect",
+          "hintZh": "寫出可觀測後果：焦慮、崩潰脆弱、倦怠與自我懷疑。"
+        },
+        {
+          "key": "COPING_MECHANISM",
+          "labelZh": "調適方針",
+          "labelEn": "Coping mechanism",
+          "hintZh": "可執行策略：認知重構、正念休息、諮商與家庭對話。"
+        }
+      ],
+      "scenarios": [
+        {
+          "id": "A",
+          "titleZh": "升學考試與同儕內卷",
+          "titleEn": "Academic Pressures & Perfectionism",
+          "fills": {
+            "STRESSOR": "hyper-competitive entrance exam benchmarking and academic perfectionism",
+            "PSYCHOLOGICAL_EFFECT": "chronic performance anxiety, emotional exhaustion, and pervasive impostor syndrome",
+            "COPING_MECHANISM": "metacognitive reframing workshops, mindfulness practices, and accessible counseling resources"
+          }
+        },
+        {
+          "id": "B",
+          "titleZh": "競賽／舞台挫折復原力",
+          "titleEn": "Resilience in High-Stakes Performance",
+          "fills": {
+            "STRESSOR": "performance paralysis before high-stakes athletic or stage trials",
+            "PSYCHOLOGICAL_EFFECT": "vulnerability to catastrophic defeat and identity collapse after setbacks",
+            "COPING_MECHANISM": "deliberate mindfulness, non-judgmental rest, and structured coach-supported recovery routines"
+          }
+        },
+        {
+          "id": "C",
+          "titleZh": "獨處自省 vs. 孤立社交",
+          "titleEn": "Solitude vs. Loneliness in Modern Youth",
+          "fills": {
+            "STRESSOR": "the isolating trap of perceived peer perfection and constant social comparison",
+            "PSYCHOLOGICAL_EFFECT": "emotional burnout, chronic self-doubt, and confusing solitude with loneliness",
+            "COPING_MECHANISM": "structured psychological counseling, open family dialogues, and intentional restorative solitude"
+          }
+        }
+      ],
+      "template": {
+        "wordCountApprox": 355,
+        "body": "In an intensely performance-driven society, psychological equilibrium has become as vital as academic achievement. Young adults frequently experience unprecedented strain driven by [STRESSOR]. This persistent psychological friction triggers debilitating consequences, notably [PSYCHOLOGICAL_EFFECT]. Recognizing mental wellness as a foundational pillar of human flourishment rather than an afterthought is essential for long-term fulfillment.\n\nThe escalation of psychological distress often stems from external environments that equate personal worth solely with quantifiable performance metrics. In school halls and social spheres alike, individuals absorb the harmful narrative that any outcome short of flawless excellence represents definitive failure. This perfectionist conditioning traps individuals in heightened states of autonomic hyperarousal, where vulnerability is concealed for fear of judgment. Over time, internalizing continuous pressure suppresses natural emotional processing, transforming transient stress into entrenched depression and somatic malaise that paralyze productivity and joy. Sleep disruption, appetite changes, and social withdrawal frequently accompany this internal alarm state, yet they are often misread as laziness instead of distress signals that deserve timely care.\n\nMoreover, mainstream culture frequently romanticizes toxic hustle culture, misconstruing unceasing work and sleep deprivation as badges of honor. When young people collapse under internal demands, they are often dismissed as fragile or undisciplined, which compounds feelings of isolation. However, psychological science consistently demonstrates that cognitive acuity, emotional regulation, and neuroplasticity require balanced intervals of restorative downtime. Without structured spaces for recuperation and candid emotional expression, individuals lose the psychological flexibility needed to rebound from unexpected setbacks. Peer mentoring circles and teacher check-ins can further interrupt isolation by making help-seeking a visible, respected practice rather than a private admission of weakness.\n\nAlleviating this silent mental epidemic demands structural reform and personal realignment. Academic institutions must replace punitive cultures of comparison with collaborative, wellness-affirming environments that incorporate [COPING_MECHANISM]. Simultaneously, students must learn to detach their core human dignity from volatile external grades. By cultivating emotional resilience, normalizing psychological support, and redefining success through personal growth, we can nurture a generation capable of striving for excellence without sacrificing their peace of mind."
+      }
+    },
+    {
+      "id": 5,
+      "slug": "diversity-global-citizenship",
+      "titleZh": "多元包容與全球公民",
+      "titleEn": "Diversity, Equity & Global Citizenship",
+      "guideZh": "寫作重心：跨界互動 → 偏見／部落主義 → 表面多元不足 → 包容行動。避免空喊口號，強調結構與日常實踐。",
+      "slots": [
+        {
+          "key": "DIVERSITY_ARENA",
+          "labelZh": "多元議題情境",
+          "labelEn": "Diversity arena",
+          "hintZh": "場景：外籍生融合、性別刻板、鄉土認同與全球化。"
+        },
+        {
+          "key": "BARRIER",
+          "labelZh": "阻礙與偏見",
+          "labelEn": "Barrier",
+          "hintZh": "點名障礙：語言孤立、玻璃天花板、文化同質化。"
+        },
+        {
+          "key": "INCLUSIVE_ACTION",
+          "labelZh": "包容促進措施",
+          "labelEn": "Inclusive action",
+          "hintZh": "解方：同儕導師圈、盲徵與薪資透明、口述歷史計畫。"
+        }
+      ],
+      "scenarios": [
+        {
+          "id": "A",
+          "titleZh": "校園外籍生與文化融合",
+          "titleEn": "Cultural Integration of International Students",
+          "fills": {
+            "DIVERSITY_ARENA": "the persistent cultural integration barriers faced by international students on local campuses",
+            "BARRIER": "linguistic isolation, implicit bias, and covert microaggressions",
+            "INCLUSIVE_ACTION": "comprehensive peer-mentorship exchange circles, cross-cultural literacy seminars, and transparent institutional feedback channels"
+          }
+        },
+        {
+          "id": "B",
+          "titleZh": "性別刻板與職場平等",
+          "titleEn": "Breaking Gender Stereotypes in Traditional Fields",
+          "fills": {
+            "DIVERSITY_ARENA": "pervasive gender stereotypes in male-dominated STEM and traditional career tracks",
+            "BARRIER": "entrenched glass ceilings and unconscious bias in hiring and promotion",
+            "INCLUSIVE_ACTION": "blind hiring protocols, equal pay transparency, and sponsorship programs for underrepresented talent"
+          }
+        },
+        {
+          "id": "C",
+          "titleZh": "在地鄉土認同與全球化",
+          "titleEn": "Preserving Local Heritage amid Globalization",
+          "fills": {
+            "DIVERSITY_ARENA": "the erosion of indigenous heritage under accelerating Western globalization",
+            "BARRIER": "cultural homogenization and linguistic extinction of local dialects",
+            "INCLUSIVE_ACTION": "community-curated oral history programs and bilingual heritage media initiatives"
+          }
+        }
+      ],
+      "template": {
+        "wordCountApprox": 355,
+        "body": "Global interconnectedness has accelerated interpersonal encounters across varied cultural, ethnic, and socio-demographic boundaries. However, achieving genuine social harmony remains a challenge, as illustrated by [DIVERSITY_ARENA]. When diverse communities interact without deliberate empathy, superficial interactions often devolve into [BARRIER]. Fostering true global citizenship requires proactive engagement that transforms coexistence from awkward tolerance into dynamic mutual enrichment.\n\nThe root of social exclusion lies in humanity's ingrained tribalism, which unconsciously seeks comfort in familiarity and regards difference with apprehension. When foreign customs, distinct languages, or unconventional career choices clash with traditional expectations, dominant groups often retreat into defensive ethnocentrism or passive alienation. Rather than viewing divergent perspectives as valuable assets, majorities often demand uncritical assimilation, forcing minorities to suppress their distinctive identities. This dynamic not only marginalizes newcomers, but also deprives host communities of the intellectual vitality that flourishes within heterogeneous, pluralistic discourse. Everyday spaces—dining halls, study groups, and project teams—become the true laboratories where inclusion either deepens trust or quietly reinforces hierarchy.\n\nFurthermore, superficial diversity initiatives that rely solely on symbolic gestures accomplish little substantive progress. True equity demands dismantling the institutional hurdles and subtle biases that prevent marginalized voices from contributing equally. When classrooms or workplaces settle for cosmetic quotas without cultivating an atmosphere of psychological safety, resentment and tokenism frequently result. Genuine inclusion requires structural frameworks that actively encourage non-conforming viewpoints, challenge implicit prejudices, and ensure that every community member feels recognized, valued, and empowered to engage without fear of social penalty. Measuring progress through belonging surveys and retention of underrepresented members keeps institutions accountable beyond ceremonial statements of welcome and seasonal diversity events.\n\nTo build an empathetic, pluralistic society, educational and civic leaders must implement structural bridges such as [INCLUSIVE_ACTION]. Simultaneously, individuals must practice intellectual curiosity, listening with the intention to understand rather than to defend predetermined biases. By dismantling cultural stereotypes and actively defending the dignity of marginalized perspectives, communities can evolve into inclusive spaces where diversity serves as a catalyst for innovation and shared progress."
+      }
+    },
+    {
+      "id": 6,
+      "slug": "social-responsibility-civic",
+      "titleZh": "社會責任與公民參與",
+      "titleEn": "Social Responsibility & Civic Engagement",
+      "guideZh": "寫作重心：青年公民行動價值 → 表演式參與陷阱 → 持續謙遜的真實投入 → 制度化長期影響。批判「鍵盤公民」但不否定數位動員。",
+      "slots": [
+        {
+          "key": "CIVIC_CONTEXT",
+          "labelZh": "公民行動場景",
+          "labelEn": "Civic context",
+          "hintZh": "場景：偏鄉志工、網路倡議、校園永續議會。"
+        },
+        {
+          "key": "ENGAGEMENT_DEFICIT",
+          "labelZh": "參與瓶頸",
+          "labelEn": "Engagement deficit",
+          "hintZh": "瓶頸：短期志工旅遊、標籤式懶人行動、行政惰性。"
+        },
+        {
+          "key": "SUSTAINED_IMPACT",
+          "labelZh": "落實解方",
+          "labelEn": "Sustained impact",
+          "hintZh": "長期解方：學期制夥伴關係、線上憤怒轉實地動員、數據導向试点。"
+        }
+      ],
+      "scenarios": [
+        {
+          "id": "A",
+          "titleZh": "偏鄉弱勢志工服務",
+          "titleEn": "Rural Educational Volunteerism",
+          "fills": {
+            "CIVIC_CONTEXT": "student-led educational volunteer tutoring initiatives targeting under-resourced rural schools",
+            "ENGAGEMENT_DEFICIT": "transient volunteer efforts that lack sustained structural consistency and deep local commitment",
+            "SUSTAINED_IMPACT": "institutionalized semester-long mentorship partnerships, data-driven community needs assessments, and direct field coordination"
+          }
+        },
+        {
+          "id": "B",
+          "titleZh": "青年網路倡議與鍵盤公民",
+          "titleEn": "Online Youth Activism vs. Slacktivism",
+          "fills": {
+            "CIVIC_CONTEXT": "viral digital campaigns advocating for economic equity and social reform",
+            "ENGAGEMENT_DEFICIT": "performative slacktivism confined to sharing hashtags without offline mobilization",
+            "SUSTAINED_IMPACT": "converting digital outrage into organized field canvassing and local voter engagement"
+          }
+        },
+        {
+          "id": "C",
+          "titleZh": "校園資源回收與永續議會",
+          "titleEn": "Student Council Leading Green Initiatives",
+          "fills": {
+            "CIVIC_CONTEXT": "campus-wide student councils organizing food-waste reduction and recycling drives",
+            "ENGAGEMENT_DEFICIT": "administrative inertia and bureaucratic apathy that stall student proposals",
+            "SUSTAINED_IMPACT": "data-driven sustainability pilots backed by school budgets and measurable reduction targets"
+          }
+        }
+      ],
+      "template": {
+        "wordCountApprox": 359,
+        "body": "The vitality of any democratic society depends on the active civic participation of its youth. When young citizens step forward to address societal inequities, significant reform becomes possible, as demonstrated by [CIVIC_CONTEXT]. However, such engagement frequently risks faltering due to [ENGAGEMENT_DEFICIT]. For civic participation to yield lasting benefits, communities must transition from sporadic goodwill to structured, sustainable social advocacy.\n\nA common pitfall undermining youth civic action is performative volunteerism, in which initiatives prioritize the emotional gratification of participants over the concrete needs of marginalized communities. When young people engage in service purely to embellish academic resumes or garner approval on social feeds, their interventions remain superficial. Rural students receive brief educational novelties only to be abandoned when academic semesters resume, while digital activists celebrate viral hashtags without ever mobilizing local voters. Without disciplined long-term accountability, well-intentioned volunteerism risks perpetuating dependency and cynicism rather than delivering structural empowerment. Documentation of outcomes, shared with the communities served, is essential if volunteers hope to earn credibility instead of extracting feel-good narratives for personal portfolios.\n\nConversely, when civic responsibility is rooted in sustained humility and systemic understanding, it becomes a powerful catalyst for community transformation. Authentic engagement requires young activists to listen directly to those living through hardship, analyzing root causes rather than treating superficial symptoms. Whether lobbying for municipal infrastructure, reforming campus sustainability protocols, or tutoring disadvantaged children, effective advocates understand that meaningful reform demands administrative persistence, logistical discipline, and mutual trust. These collaborative efforts cultivate empathetic, civically mature leaders capable of managing real-world institutional complexity. Mentorship from experienced organizers can accelerate this learning curve by teaching negotiation, budgeting, and coalition-building skills rarely covered in classrooms.\n\nTo cultivate meaningful public service, educational institutions must foster civic literacy that rewards [SUSTAINED_IMPACT]. Students must look beyond transient feel-good gestures and commit to consistent, long-term advocacy. When young individuals recognize their capacity to challenge societal inertia and dedicate their talents to the common good, democracy deepens, moving our communities closer to genuine equity and shared civic responsibility."
+      }
+    },
+    {
+      "id": 7,
+      "slug": "cultural-heritage-arts",
+      "titleZh": "文化傳承與藝術價值",
+      "titleEn": "Cultural Heritage & The Arts",
+      "guideZh": "寫作重心：現代化與遺產張力 → 短視功利 → 文化精神功能 → 活化而非博物館式凍結。AI 藝術題強調「意圖與脆弱性」。",
+      "slots": [
+        {
+          "key": "CULTURAL_DILEMMA",
+          "labelZh": "文化抉擇爭議",
+          "labelEn": "Cultural dilemma",
+          "hintZh": "爭議：老街拆除、母語流失、AI 創作取代手繪。"
+        },
+        {
+          "key": "SPIRITUAL_LOSS",
+          "labelZh": "文化／精神流失",
+          "labelEn": "Spiritual loss",
+          "hintZh": "流失物：建築記憶、代際敘事、真實藝術意圖。"
+        },
+        {
+          "key": "REVITALIZATION",
+          "labelZh": "活化傳承模式",
+          "labelEn": "Revitalization",
+          "hintZh": "活化：老屋再生分區、方言媒體、匠人與數位並存。"
+        }
+      ],
+      "scenarios": [
+        {
+          "id": "A",
+          "titleZh": "老店／街區都市更新存廢",
+          "titleEn": "Preserving Historic Neighborhoods vs. Urban Renewal",
+          "fills": {
+            "CULTURAL_DILEMMA": "the widespread demolition of historic heritage neighborhoods to make way for high-rise developments",
+            "SPIRITUAL_LOSS": "irreplaceable architectural memory and the rooted historical identity of local communities",
+            "REVITALIZATION": "adaptive-reuse conservation zoning, living-museum funding, and digital archive democratization"
+          }
+        },
+        {
+          "id": "B",
+          "titleZh": "流行文化衝擊下的母語流失",
+          "titleEn": "Endangered Mother Tongues vs. Dominant Pop Culture",
+          "fills": {
+            "CULTURAL_DILEMMA": "the rapid decline of regional mother tongues among urban youth under dominant pop culture",
+            "SPIRITUAL_LOSS": "intergenerational storytelling and nuanced cultural idioms",
+            "REVITALIZATION": "immersion-based local dialect media creation and school heritage language pathways"
+          }
+        },
+        {
+          "id": "C",
+          "titleZh": "AI 創作是否具備靈魂",
+          "titleEn": "AI-Generated Art vs. Human Emotional Authenticity",
+          "fills": {
+            "CULTURAL_DILEMMA": "the proliferation of AI-generated illustrations displacing human brushwork",
+            "SPIRITUAL_LOSS": "raw emotional vulnerability and genuine human artistic intent",
+            "REVITALIZATION": "celebrating human artisan craftsmanship alongside ethical digital innovation"
+          }
+        }
+      ],
+      "template": {
+        "wordCountApprox": 355,
+        "body": "In the relentless pursuit of modernization and commercial efficiency, human societies often compromise their cultural heritage. This tension is starkly apparent in [CULTURAL_DILEMMA]. When commercial expansion steamrolls historical artifacts, it erodes [SPIRITUAL_LOSS]. Modern society must realize that cultural legacy is not an inconvenient obstacle to progress, but the essential spiritual anchor of civilization.\n\nThe loss of traditional culture frequently stems from an obsession with short-term utility. Modern real estate developers and efficiency-focused algorithms prioritize standardization and rapid profitability over subtle cultural continuity. When historical structures are flattened, dialect expressions are abandoned for standardized languages, and authentic artisans are undercut by automated replication, communities lose their distinctive local character. Cities become interchangeable concrete landscapes, detached from the communal struggles and artisanal lineages that shaped them. A society that severs connections with its cultural roots trades its historical voice for superficial homogeneity. Tourists may briefly photograph what remains, yet residents lose the daily textures—market rhythms, workshop sounds, festival calendars—that once organized communal time and transmitted unspoken know-how.\n\nCrucially, art and heritage fulfill profound psychological and social functions that utilitarian progress cannot replicate. Traditional crafts, ancestral dialects, and historic architecture embody centuries of accumulated wisdom, spiritual philosophy, and communal belonging. When citizens encounter ancestral artifacts or hear folk narratives, they experience an intergenerational continuity that grounds them against the disorientation of contemporary life. Neglecting this living heritage starves public imagination, weakening cultural resilience and depriving future artists of the foundational traditions required to spark innovative breakthroughs. Apprenticeship stipends and school partnerships can keep endangered crafts economically viable for younger practitioners who would otherwise migrate toward standardized industries.\n\nPreserving cultural legacy requires dynamic revitalization rather than passive nostalgia. Municipal planners and cultural authorities must embrace [REVITALIZATION]. Heritage sites should be converted into active community centers rather than static, dormant monuments. By integrating historic cultural treasures into modern daily life, society can honor its ancestral past while navigating future growth, ensuring that modernity enriches rather than erases the enduring wisdom of our cultural heritage."
+      }
+    },
+    {
+      "id": 8,
+      "slug": "ethics-public-interest",
+      "titleZh": "道德倫理與公共利益",
+      "titleEn": "Ethics, Law & Public Interest",
+      "guideZh": "寫作重心：便利／安全 vs. 基本權利 → 權力不對稱 → 漸進侵蝕 → 倫理防護欄。立場要清楚但不能絕對化忽略公共利益。",
+      "slots": [
+        {
+          "key": "ETHICAL_CONFLICT",
+          "labelZh": "倫理衝突核心",
+          "labelEn": "Ethical conflict",
+          "hintZh": "衝突：監控維安、基因編輯、吹哨者封口。"
+        },
+        {
+          "key": "FUNDAMENTAL_RIGHT",
+          "labelZh": "受威脅的普世權利",
+          "labelEn": "Fundamental right",
+          "hintZh": "權利：隱私自主、生物平等、透明與安全。"
+        },
+        {
+          "key": "ETHICAL_GUARDRAIL",
+          "labelZh": "倫理防護欄",
+          "labelEn": "Ethical guardrail",
+          "hintZh": "防護：司法監督、生醫禁令、吹哨者保护法。"
+        }
+      ],
+      "scenarios": [
+        {
+          "id": "A",
+          "titleZh": "個人隱私 vs. 國家安全監控",
+          "titleEn": "Personal Privacy vs. Public Surveillance",
+          "fills": {
+            "ETHICAL_CONFLICT": "the rapid deployment of facial-recognition surveillance technologies under the banner of public security",
+            "FUNDAMENTAL_RIGHT": "fundamental civil liberties, personal autonomy, and legal protections against overreach",
+            "ETHICAL_GUARDRAIL": "independent judicial warrant mandates and strict oversight of automated algorithmic surveillance"
+          }
+        },
+        {
+          "id": "B",
+          "titleZh": "基因編輯與訂製嬰兒",
+          "titleEn": "Gene Editing & Designer Babies",
+          "fills": {
+            "ETHICAL_CONFLICT": "CRISPR gene editing for human cosmetic enhancement and designer offspring",
+            "FUNDAMENTAL_RIGHT": "biological equity and the prevention of genetic caste systems",
+            "ETHICAL_GUARDRAIL": "strict bioethical moratoria restricting non-therapeutic human genetic enhancements"
+          }
+        },
+        {
+          "id": "C",
+          "titleZh": "校園名譽通報 vs. 吹哨者保護",
+          "titleEn": "Campus Whistleblowing vs. Institutional Reputation",
+          "fills": {
+            "ETHICAL_CONFLICT": "silencing campus misconduct whistleblowers to preserve school rankings and institutional reputation",
+            "FUNDAMENTAL_RIGHT": "transparency, public safety, and integrity in educational communities",
+            "ETHICAL_GUARDRAIL": "legally binding whistleblower protections with confidential reporting lines"
+          }
+        }
+      ],
+      "template": {
+        "wordCountApprox": 352,
+        "body": "As scientific capabilities expand, human civilization faces complex ethical dilemmas where practical convenience collides directly with fundamental human rights. This friction is evident in [ETHICAL_CONFLICT]. While regulatory authorities justify intrusive measures in the name of collective order, unconstrained surveillance directly compromises [FUNDAMENTAL_RIGHT]. Navigating these frontiers requires establishing rigorous ethical safeguards before irreversible legal precedents take hold.\n\nThe primary hazard of unchecked utilitarian governance is the normalization of invasive authority. State and corporate entities frequently exploit public anxiety regarding safety or efficiency to consolidate power and expand invasive data operations. When biometric surveillance monitors public streets, genetic editing enters reproductive markets, or institutions silence whistleblowers to protect rankings, foundational human rights are treated as negotiable commodities. Without explicit boundaries, the pursuit of collective security or commercial optimization easily devolves into systemic coercion, where individual autonomy is subordinated to institutional convenience. Public debate must therefore demand clear sunset clauses, audit trails, and citizen review boards whenever extraordinary powers are justified by emergencies or efficiency pledges.\n\nFurthermore, technological and institutional power creates pronounced asymmetries between governing bodies and ordinary citizens. When complex algorithmic surveillance tracks populations, individuals rarely have access to legal transparency, appeal processes, or consent frameworks. The erosion of civil liberty is rarely instantaneous; it advances incrementally through subtle concessions that normalize surveillance in the name of order. Once personal sovereignty is compromised, reclaiming it through judicial or democratic avenues proves exceptionally difficult. Society must recognize that human dignity and procedural justice cannot be sacrificed for institutional efficiency. Civic education that unpacks these trade-offs equips voters to resist fear-driven shortcuts that permanently redraw the boundary between the state and the self.\n\nTo protect public integrity, democratic governance must enact [ETHICAL_GUARDRAIL]. Technological developments must be held accountable to ethical oversight bodies composed of ethicists, jurists, and ordinary citizens. By insisting that ethical imperatives lead commercial and political agendas, society can harness technical innovation to serve public welfare without eroding the core democratic liberties that make civilization worth sustaining."
+      }
+    }
+  ]
+}

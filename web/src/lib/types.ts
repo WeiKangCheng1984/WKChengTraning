@@ -400,3 +400,59 @@ export type OralPracticeData = {
   units: OralUnit[];
 };
 
+export type EssaySlot = {
+  key: string;
+  labelZh: string;
+  labelEn: string;
+  hintZh: string;
+};
+
+export type EssayScenario = {
+  id: string;
+  titleZh: string;
+  titleEn: string;
+  fills: Record<string, string>;
+};
+
+export type EssayTheme = {
+  id: number;
+  slug: string;
+  titleZh: string;
+  titleEn: string;
+  guideZh: string;
+  slots: EssaySlot[];
+  scenarios: EssayScenario[];
+  template: {
+    wordCountApprox: number;
+    body: string;
+  };
+};
+
+export type EssayBridgeSentence = {
+  id: string;
+  roleZh: string;
+  en: string;
+};
+
+export type EssayHowToStep = {
+  step: number;
+  titleZh: string;
+  bodyZh: string;
+};
+
+export type EssayWritingData = {
+  version: number;
+  titleZh: string;
+  titleEn: string;
+  subtitleZh: string;
+  introZh: string;
+  wordTarget: { min: number; max: number };
+  themeCount: number;
+  scenarioCount: number;
+  templateCount: number;
+  howTo: EssayHowToStep[];
+  bridgeSentences: EssayBridgeSentence[];
+  structureGuideZh: string[];
+  themes: EssayTheme[];
+};
+
