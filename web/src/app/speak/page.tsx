@@ -15,7 +15,8 @@ export default function SpeakIndexPage() {
           跟讀
         </h1>
         <p className="mt-2 max-w-2xl text-base leading-relaxed text-[var(--muted)]">
-          逐句 TTS 跟讀，標熟練度後可進英語複習佇列。有 MP3 時可整段播放。
+          逐句 TTS 或一鍵連續朗讀英文；主題篇含 Part 4 句型抽換（每篇 15
+          句）。標熟練度後可進英語複習佇列。有 MP3 時可整段播放。
         </p>
       </div>
 

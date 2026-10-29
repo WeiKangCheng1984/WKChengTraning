@@ -79,6 +79,28 @@ export type SpeakSegment = {
   contextZh?: string;
 };
 
+export type SpeakPart4Option = {
+  en: string;
+  zh: string;
+};
+
+/** Part 4: distilled swappable sentence template (15 per article). */
+export type SpeakPart4Item = {
+  id: string;
+  pattern: string;
+  zhName: string;
+  noteZh?: string;
+  slotLabelZh: string;
+  baseEn: string;
+  baseZh: string;
+  options: SpeakPart4Option[];
+};
+
+export type SpeakPart4 = {
+  introZh: string;
+  items: SpeakPart4Item[];
+};
+
 export type SpeakArticle = {
   id: string;
   slug: string;
@@ -95,6 +117,7 @@ export type SpeakArticle = {
   segmentCount: number;
   segments: SpeakSegment[];
   lesson?: SpeakLesson;
+  part4?: SpeakPart4;
 };
 
 export type SpeakSeries = {
